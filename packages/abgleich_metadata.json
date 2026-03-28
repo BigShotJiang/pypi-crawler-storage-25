@@ -1,11 +1,11 @@
 {
   "name": "abgleich",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "zfs sync tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "abgleich-0.1.0.tar.gz",
-  "download_time": "2026-03-28T09:53:35.740663",
+  "download_filename": "abgleich-0.1.1.tar.gz",
+  "download_time": "2026-03-28T11:04:20.304258",
   "package_url": "https://pypi.org/project/abgleich/"
 }

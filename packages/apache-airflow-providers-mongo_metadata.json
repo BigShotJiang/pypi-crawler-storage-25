@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-mongo",
+  "version": "5.3.4",
+  "summary": "Provider package apache-airflow-providers-mongo for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_mongo-5.3.4.tar.gz",
+  "download_time": "2026-03-28T11:04:44.935081",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-mongo/"
+}

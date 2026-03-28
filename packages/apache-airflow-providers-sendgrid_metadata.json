@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-sendgrid",
+  "version": "4.2.2",
+  "summary": "Provider package apache-airflow-providers-sendgrid for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_sendgrid-4.2.2.tar.gz",
+  "download_time": "2026-03-28T11:04:33.658411",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-sendgrid/"
+}

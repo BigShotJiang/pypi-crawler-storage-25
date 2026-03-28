@@ -1,0 +1,11 @@
+{
+  "name": "redash-mcp",
+  "version": "0.2.3",
+  "summary": "Model Context Protocol (MCP) server for Redash - manage queries, dashboards, and visualizations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "redash_mcp-0.2.3.tar.gz",
+  "download_time": "2026-03-28T11:04:29.036410",
+  "package_url": "https://pypi.org/project/redash-mcp/"
+}

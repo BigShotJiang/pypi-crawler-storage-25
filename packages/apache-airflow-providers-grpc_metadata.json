@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-grpc",
+  "version": "3.9.3",
+  "summary": "Provider package apache-airflow-providers-grpc for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_grpc-3.9.3.tar.gz",
+  "download_time": "2026-03-28T11:04:51.600534",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-grpc/"
+}

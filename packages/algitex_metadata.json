@@ -1,11 +1,11 @@
 {
   "name": "algitex",
-  "version": "0.1.14",
+  "version": "0.1.22",
   "summary": "Progressive algorithmization toolchain — from LLM to deterministic code, from proxy to tickets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "algitex-0.1.14.tar.gz",
-  "download_time": "2026-03-28T10:31:27.269652",
+  "download_filename": "algitex-0.1.22.tar.gz",
+  "download_time": "2026-03-28T11:04:09.986935",
   "package_url": "https://pypi.org/project/algitex/"
 }
