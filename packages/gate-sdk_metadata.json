@@ -1,0 +1,11 @@
+{
+  "name": "gate-sdk",
+  "version": "0.4.8",
+  "summary": "Production-grade Python SDK for BlockIntel Gate Hot Path API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gate_sdk-0.4.8.tar.gz",
+  "download_time": "2026-03-28T21:59:52.989603",
+  "package_url": "https://pypi.org/project/gate-sdk/"
+}

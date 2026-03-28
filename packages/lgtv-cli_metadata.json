@@ -1,11 +1,11 @@
 {
   "name": "lgtv-cli",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Command-line tool for controlling LG WebOS Smart TVs",
   "author": "LG TV CLI Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lgtv_cli-0.2.0.tar.gz",
-  "download_time": "2026-03-28T21:37:04.204677",
+  "download_filename": "lgtv_cli-0.2.1.tar.gz",
+  "download_time": "2026-03-28T22:00:04.023991",
   "package_url": "https://pypi.org/project/lgtv-cli/"
 }

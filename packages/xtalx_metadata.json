@@ -1,0 +1,11 @@
+{
+  "name": "xtalx",
+  "version": "1.4.6",
+  "summary": "Drivers and tools for the XtalX sensor family.",
+  "author": "Phase Advanced Sensor Systems Corp.",
+  "license": "MIT",
+  "home_page": "https://github.com/phasesensors/xtalx_python",
+  "download_filename": "xtalx-1.4.6.tar.gz",
+  "download_time": "2026-03-28T21:59:48.801734",
+  "package_url": "https://pypi.org/project/xtalx/"
+}

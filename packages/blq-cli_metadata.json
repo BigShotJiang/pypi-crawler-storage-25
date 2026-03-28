@@ -1,0 +1,11 @@
+{
+  "name": "blq-cli",
+  "version": "0.9.20",
+  "summary": "Buidl Log Query - capture and query build/test logs with DuckDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blq_cli-0.9.20.tar.gz",
+  "download_time": "2026-03-28T22:00:13.615068",
+  "package_url": "https://pypi.org/project/blq-cli/"
+}

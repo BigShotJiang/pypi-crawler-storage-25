@@ -1,0 +1,11 @@
+{
+  "name": "trusty-cage",
+  "version": "0.6.0",
+  "summary": "Isolated Docker-based development environments for AI coding agents",
+  "author": "Adam Reese",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trusty_cage-0.6.0.tar.gz",
+  "download_time": "2026-03-28T22:00:05.084102",
+  "package_url": "https://pypi.org/project/trusty-cage/"
+}

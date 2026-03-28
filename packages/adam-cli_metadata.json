@@ -1,11 +1,11 @@
 {
   "name": "adam-cli",
-  "version": "0.4.3",
+  "version": "0.5.0",
   "summary": "Orchestrated long-form software engineering system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "adam_cli-0.4.3.tar.gz",
-  "download_time": "2026-03-28T18:39:46.311048",
+  "download_filename": "adam_cli-0.5.0.tar.gz",
+  "download_time": "2026-03-28T21:59:55.101884",
   "package_url": "https://pypi.org/project/adam-cli/"
 }

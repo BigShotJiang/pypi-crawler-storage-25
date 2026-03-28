@@ -1,0 +1,11 @@
+{
+  "name": "dtangle",
+  "version": "0.1.0",
+  "summary": "Python implementation of dtangle (Deconvolution of microarray and bulk RNASeq data)",
+  "author": "harryhaller001",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dtangle-0.1.0.tar.gz",
+  "download_time": "2026-03-28T22:00:10.408227",
+  "package_url": "https://pypi.org/project/dtangle/"
+}
