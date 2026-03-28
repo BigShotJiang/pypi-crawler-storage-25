@@ -1,11 +1,11 @@
 {
   "name": "pyprocessors-afp_keywords",
-  "version": "0.6.20",
+  "version": "0.6.22",
   "summary": "Processor based on AFP keywords extraction",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyprocessors_afp_keywords-0.6.20-py3-none-any.whl",
-  "download_time": "2026-03-28T06:40:42.170351",
+  "download_filename": "pyprocessors_afp_keywords-0.6.22.tar.gz",
+  "download_time": "2026-03-28T19:19:30.665271",
   "package_url": "https://pypi.org/project/pyprocessors-afp_keywords/"
 }

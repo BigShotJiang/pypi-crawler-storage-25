@@ -1,11 +1,11 @@
 {
   "name": "gotta",
-  "version": "0.42.0",
+  "version": "0.43.0",
   "summary": "Session-rooted CLI for remote discovery, evidence acquisition, durable operator memory, and actor-coordinated workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gotta-0.42.0.tar.gz",
-  "download_time": "2026-03-28T04:32:32.199246",
+  "download_filename": "gotta-0.43.0.tar.gz",
+  "download_time": "2026-03-28T19:19:18.948629",
   "package_url": "https://pypi.org/project/gotta/"
 }

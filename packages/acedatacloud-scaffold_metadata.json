@@ -1,11 +1,11 @@
 {
   "name": "acedatacloud-scaffold",
-  "version": "0.9.0",
+  "version": "2026.3.28.0",
   "summary": "A scaffold to help you build Ace Data Cloud api easily.",
   "author": "Ace Data Cloud",
   "license": "MIT",
   "home_page": "https://github.com/AceDataCloud/ScaffoldPython",
-  "download_filename": "acedatacloud_scaffold-0.9.0.tar.gz",
-  "download_time": "2026-03-28T15:04:31.994704",
+  "download_filename": "acedatacloud_scaffold-2026.3.28.0.tar.gz",
+  "download_time": "2026-03-28T19:19:17.368642",
   "package_url": "https://pypi.org/project/acedatacloud-scaffold/"
 }

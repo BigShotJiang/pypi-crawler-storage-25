@@ -1,0 +1,11 @@
+{
+  "name": "lastpass-vault-py",
+  "version": "0.3.0",
+  "summary": "An unofficial Python wrapper for the LastPass CLI (lpass).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lastpass_vault_py-0.3.0.tar.gz",
+  "download_time": "2026-03-28T19:19:14.577590",
+  "package_url": "https://pypi.org/project/lastpass-vault-py/"
+}

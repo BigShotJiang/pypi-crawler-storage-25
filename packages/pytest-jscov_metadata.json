@@ -1,11 +1,11 @@
 {
   "name": "pytest-jscov",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "summary": "Pytest plugin for JavaScript coverage via Playwright CDP",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytest_jscov-0.3.0.tar.gz",
-  "download_time": "2026-03-28T16:33:45.606669",
+  "download_filename": "pytest_jscov-0.4.1.tar.gz",
+  "download_time": "2026-03-28T19:18:56.045568",
   "package_url": "https://pypi.org/project/pytest-jscov/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ecoobs",
+  "version": "0.1.4",
+  "summary": "A library for Species Occurence data retrieval from GBIF, iNaturalist, and SpeciesLink APIs.",
+  "author": "Ane Simões",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ecoobs-0.1.4.tar.gz",
+  "download_time": "2026-03-28T19:19:19.501162",
+  "package_url": "https://pypi.org/project/ecoobs/"
+}

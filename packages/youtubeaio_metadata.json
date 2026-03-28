@@ -1,0 +1,11 @@
+{
+  "name": "youtubeaio",
+  "version": "2.1.2",
+  "summary": "Asynchronous Python client for YouTube V3 API.",
+  "author": "Joost Lekkerkerker",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "youtubeaio-2.1.2.tar.gz",
+  "download_time": "2026-03-28T19:19:21.073741",
+  "package_url": "https://pypi.org/project/youtubeaio/"
+}

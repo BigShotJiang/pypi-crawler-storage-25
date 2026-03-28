@@ -1,11 +1,11 @@
 {
   "name": "baihe-autogui",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "summary": "A Windows GUI automation wrapper around pyautogui with a simple Auto -> Element -> Target flow",
   "author": "jiangbaihe",
   "license": null,
   "home_page": null,
-  "download_filename": "baihe_autogui-0.1.15.tar.gz",
-  "download_time": "2026-03-28T17:46:47.869457",
+  "download_filename": "baihe_autogui-0.1.16.tar.gz",
+  "download_time": "2026-03-28T19:19:09.696470",
   "package_url": "https://pypi.org/project/baihe-autogui/"
 }

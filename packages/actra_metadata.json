@@ -1,0 +1,11 @@
+{
+  "name": "actra",
+  "version": "0.7.7",
+  "summary": "Actra - Deterministic admission control engine for automated system actions.",
+  "author": "Amit Saxena",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "actra-0.7.7.tar.gz",
+  "download_time": "2026-03-28T19:19:31.730961",
+  "package_url": "https://pypi.org/project/actra/"
+}
