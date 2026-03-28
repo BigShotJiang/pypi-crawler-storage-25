@@ -1,11 +1,11 @@
 {
   "name": "littledl",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A high-performance download library with IDM-style multi-threaded chunked downloading, smart scheduling, and resume support",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "littledl-0.4.0.tar.gz",
-  "download_time": "2026-03-28T16:33:27.495592",
+  "download_filename": "littledl-0.4.1.tar.gz",
+  "download_time": "2026-03-28T18:39:48.351309",
   "package_url": "https://pypi.org/project/littledl/"
 }

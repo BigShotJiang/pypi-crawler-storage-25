@@ -1,11 +1,11 @@
 {
   "name": "ansible-agent-callback",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Token-optimized Ansible output for AI coding agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ansible_agent_callback-0.3.0.tar.gz",
-  "download_time": "2026-03-28T17:05:32.609109",
+  "download_filename": "ansible_agent_callback-0.3.1.tar.gz",
+  "download_time": "2026-03-28T18:39:21.371034",
   "package_url": "https://pypi.org/project/ansible-agent-callback/"
 }

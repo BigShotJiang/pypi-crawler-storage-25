@@ -1,11 +1,11 @@
 {
   "name": "mnemory",
-  "version": "1.9.1",
+  "version": "1.10.0",
   "summary": "A self-hosted, two-tier memory system for AI agents and assistants",
   "author": "Filip Pytloun",
   "license": null,
   "home_page": null,
-  "download_filename": "mnemory-1.9.1.tar.gz",
-  "download_time": "2026-03-28T16:33:15.593461",
+  "download_filename": "mnemory-1.10.0.tar.gz",
+  "download_time": "2026-03-28T18:39:37.158793",
   "package_url": "https://pypi.org/project/mnemory/"
 }
