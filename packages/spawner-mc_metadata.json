@@ -1,0 +1,11 @@
+{
+  "name": "spawner-mc",
+  "version": "0.1.0",
+  "summary": "CLI + TUI game server manager for Minecraft",
+  "author": "spawner contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spawner_mc-0.1.0.tar.gz",
+  "download_time": "2026-03-28T16:33:34.259305",
+  "package_url": "https://pypi.org/project/spawner-mc/"
+}

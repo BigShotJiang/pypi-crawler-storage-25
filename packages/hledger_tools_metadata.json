@@ -1,0 +1,11 @@
+{
+  "name": "hledger_tools",
+  "version": "0.1.4",
+  "summary": "hledger add for creating loan entries and more",
+  "author": "David Bruce",
+  "license": null,
+  "home_page": "https://gitlab.com/dbruce.ae05/hledger-tools#",
+  "download_filename": "hledger_tools-0.1.4.tar.gz",
+  "download_time": "2026-03-28T16:33:22.889885",
+  "package_url": "https://pypi.org/project/hledger_tools/"
+}

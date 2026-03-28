@@ -1,0 +1,11 @@
+{
+  "name": "word2md",
+  "version": "1.0.3",
+  "summary": "A Python tool for converting Microsoft Word documents (.docx/.doc) to Markdown format",
+  "author": "hnrobert",
+  "license": null,
+  "home_page": "https://github.com/hnrobert/word2md",
+  "download_filename": "word2md-1.0.3.tar.gz",
+  "download_time": "2026-03-28T16:33:30.580400",
+  "package_url": "https://pypi.org/project/word2md/"
+}

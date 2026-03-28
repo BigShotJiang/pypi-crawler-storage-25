@@ -1,11 +1,11 @@
 {
   "name": "djhudpicam",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "summary": "DJ HUD headless/Pi camera source node for the DJ HUD collective",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "djhudpicam-0.1.3.tar.gz",
-  "download_time": "2026-03-28T07:34:22.575896",
+  "download_filename": "djhudpicam-0.1.6.tar.gz",
+  "download_time": "2026-03-28T16:33:43.540915",
   "package_url": "https://pypi.org/project/djhudpicam/"
 }

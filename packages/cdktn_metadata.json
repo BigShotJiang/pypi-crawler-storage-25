@@ -1,0 +1,11 @@
+{
+  "name": "cdktn",
+  "version": "0.22.1",
+  "summary": "Cloud Development Kit for Terraform",
+  "author": "OpenConstructs",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/open-constructs/cdk-terrain",
+  "download_filename": "cdktn-0.22.1.tar.gz",
+  "download_time": "2026-03-28T16:33:46.779832",
+  "package_url": "https://pypi.org/project/cdktn/"
+}

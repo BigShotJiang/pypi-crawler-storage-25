@@ -1,0 +1,11 @@
+{
+  "name": "tts-utilities",
+  "version": "0.3.2",
+  "summary": "A starter repo to help users quickly set up a Teamtools Studio project with common structure, configs, and package scaffolding.",
+  "author": "shanemb",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tts_utilities-0.3.2.tar.gz",
+  "download_time": "2026-03-28T16:33:37.337359",
+  "package_url": "https://pypi.org/project/tts-utilities/"
+}
