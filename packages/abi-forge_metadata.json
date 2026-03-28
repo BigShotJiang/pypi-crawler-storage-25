@@ -1,11 +1,11 @@
 {
   "name": "abi-forge",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "summary": "ABI governance and polyglot binding generator for C shared libraries",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "abi_forge-1.0.0.tar.gz",
-  "download_time": "2026-03-28T10:31:19.054852",
+  "download_filename": "abi_forge-1.0.4.tar.gz",
+  "download_time": "2026-03-28T11:41:57.949117",
   "package_url": "https://pypi.org/project/abi-forge/"
 }

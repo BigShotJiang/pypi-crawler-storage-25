@@ -1,0 +1,11 @@
+{
+  "name": "Products.mcdutils",
+  "version": "5.1",
+  "summary": "A Zope product with memcached-backed ZCache and Zope session implementations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "products_mcdutils-5.1.tar.gz",
+  "download_time": "2026-03-28T11:42:37.798581",
+  "package_url": "https://pypi.org/project/Products.mcdutils/"
+}

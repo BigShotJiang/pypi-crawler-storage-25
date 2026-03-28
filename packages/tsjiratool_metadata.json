@@ -1,0 +1,11 @@
+{
+  "name": "tsjiratool",
+  "version": "1.0.0",
+  "summary": "JIRA 变更监控与报告导出工具 — 支持飞书/微信/桌面通知，多实例管理，日报/周报导出",
+  "author": "hemin0721",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsjiratool-1.0.0.tar.gz",
+  "download_time": "2026-03-28T11:42:06.701682",
+  "package_url": "https://pypi.org/project/tsjiratool/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "repolect",
-  "version": "0.1.1",
-  "summary": "Vectorless code intelligence — reasoning-based retrieval over any codebase",
+  "version": "0.1.2",
+  "summary": "Reasoning-based code intelligence for any codebase",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "repolect-0.1.1.tar.gz",
-  "download_time": "2026-03-28T09:53:08.212914",
+  "download_filename": "repolect-0.1.2.tar.gz",
+  "download_time": "2026-03-28T11:42:11.835282",
   "package_url": "https://pypi.org/project/repolect/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pki-kit",
+  "version": "0.0.2",
+  "summary": "Unified Python toolkit for X.509 and Nebula PKI — issue, revoke, and export certificates for mTLS and overlay networks",
+  "author": "Dmitry Tatarkin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pki_kit-0.0.2.tar.gz",
+  "download_time": "2026-03-28T11:42:14.946642",
+  "package_url": "https://pypi.org/project/pki-kit/"
+}

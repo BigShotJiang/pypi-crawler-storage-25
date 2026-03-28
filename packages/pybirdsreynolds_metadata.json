@@ -1,0 +1,11 @@
+{
+  "name": "pybirdsreynolds",
+  "version": "3.0.4",
+  "summary": "this project is an interactive simulation of the Reynolds Boids model, implemented in Python with Tkinter. It allows you to visualize and experiment with the collective behavior of a flock of virtual birds by adjusting parameters such as cohesion, alignment, separation, speed, and neighborhood radius in real time. The interface also provides several controls (pause, reset, new generation, FPS display, etc.) to easily explore the dynamics of the system.",
+  "author": "thib1984",
+  "license": "MIT",
+  "home_page": "https://github.com/thib1984/pybirdsreynolds",
+  "download_filename": "pybirdsreynolds-3.0.4.tar.gz",
+  "download_time": "2026-03-28T11:42:33.604073",
+  "package_url": "https://pypi.org/project/pybirdsreynolds/"
+}
