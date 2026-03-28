@@ -1,0 +1,11 @@
+{
+  "name": "velocirag",
+  "version": "0.6.2",
+  "summary": "Lightning-fast RAG for AI agents. ONNX-powered, 4-layer fusion, MCP server. No PyTorch.",
+  "author": "Haseeb Khalid",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "velocirag-0.6.2.tar.gz",
+  "download_time": "2026-03-28T06:40:27.589624",
+  "package_url": "https://pypi.org/project/velocirag/"
+}

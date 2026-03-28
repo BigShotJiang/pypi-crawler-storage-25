@@ -1,0 +1,11 @@
+{
+  "name": "fb_scraper_request",
+  "version": "0.2.1",
+  "summary": "Facebook GraphQL Scraper - No login required, simple API to scrape public Facebook posts",
+  "author": "FaustRen",
+  "license": "MIT",
+  "home_page": "https://github.com/FaustRen/FB_graphql_scraper",
+  "download_filename": "fb_scraper_request-0.2.1.tar.gz",
+  "download_time": "2026-03-28T06:40:54.542490",
+  "package_url": "https://pypi.org/project/fb_scraper_request/"
+}
