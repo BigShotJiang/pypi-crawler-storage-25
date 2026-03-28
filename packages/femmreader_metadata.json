@@ -1,0 +1,11 @@
+{
+  "name": "femmreader",
+  "version": "1.0.0",
+  "summary": "FEMM file reader for Python",
+  "author": "Martin Baun",
+  "license": null,
+  "home_page": "https://gitlab.com/martinbaun/femmreader",
+  "download_filename": "femmreader-1.0.0.tar.gz",
+  "download_time": "2026-03-28T17:47:14.479258",
+  "package_url": "https://pypi.org/project/femmreader/"
+}

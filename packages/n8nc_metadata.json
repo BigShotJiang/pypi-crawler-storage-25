@@ -1,11 +1,11 @@
 {
   "name": "n8nc",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "CLI for n8n workflow automation",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/rvben/n8nc",
-  "download_filename": "n8nc-0.1.0.tar.gz",
-  "download_time": "2026-03-28T11:42:11.321515",
+  "download_filename": "n8nc-0.2.1.tar.gz",
+  "download_time": "2026-03-28T17:47:17.554108",
   "package_url": "https://pypi.org/project/n8nc/"
 }

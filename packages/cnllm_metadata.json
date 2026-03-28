@@ -1,0 +1,11 @@
+{
+  "name": "cnllm",
+  "version": "0.3.0",
+  "summary": "统一的中文大模型适配库，将主流中国大模型 API 输出封装为 OpenAI 格式，无缝协作openai、langchain等大多数openai结构适配的python库",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cnllm-0.3.0.tar.gz",
+  "download_time": "2026-03-28T17:46:55.670762",
+  "package_url": "https://pypi.org/project/cnllm/"
+}

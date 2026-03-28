@@ -1,11 +1,11 @@
 {
   "name": "zephyr-jira-linker",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "A command-line tool for linking test cases in Zephyr Scale to Jira issues",
   "author": "Pandiyaraj Karuppasamy",
   "license": null,
   "home_page": "https://github.com/pandiyarajk/zephyr-jira-linker",
-  "download_filename": "zephyr_jira_linker-0.1.17.tar.gz",
-  "download_time": "2026-03-28T16:33:18.215317",
+  "download_filename": "zephyr_jira_linker-0.1.18.tar.gz",
+  "download_time": "2026-03-28T17:46:43.761045",
   "package_url": "https://pypi.org/project/zephyr-jira-linker/"
 }

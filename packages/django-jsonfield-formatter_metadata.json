@@ -1,0 +1,11 @@
+{
+  "name": "django-jsonfield-formatter",
+  "version": "0.1.1",
+  "summary": "JSONEditor-based widget for Django admin JSONField with tree/code/view modes.",
+  "author": "django-jsonfield-formatter contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_jsonfield_formatter-0.1.1.tar.gz",
+  "download_time": "2026-03-28T17:46:30.488004",
+  "package_url": "https://pypi.org/project/django-jsonfield-formatter/"
+}

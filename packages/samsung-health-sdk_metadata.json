@@ -1,11 +1,11 @@
 {
   "name": "samsung-health-sdk",
-  "version": "0.2.0",
+  "version": "0.2.4",
   "summary": "Parse and analyse Samsung Health export data as pandas DataFrames",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "samsung_health_sdk-0.2.0.tar.gz",
-  "download_time": "2026-03-28T07:34:18.907983",
+  "download_filename": "samsung_health_sdk-0.2.4.tar.gz",
+  "download_time": "2026-03-28T17:47:15.507265",
   "package_url": "https://pypi.org/project/samsung-health-sdk/"
 }

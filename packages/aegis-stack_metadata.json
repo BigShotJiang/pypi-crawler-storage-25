@@ -1,0 +1,11 @@
+{
+  "name": "aegis-stack",
+  "version": "0.6.7",
+  "summary": "A production-ready FastAPI platform with modular components and a built-in control plane. Try: uvx aegis-stack init my-project",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aegis_stack-0.6.7.tar.gz",
+  "download_time": "2026-03-28T17:47:04.153642",
+  "package_url": "https://pypi.org/project/aegis-stack/"
+}

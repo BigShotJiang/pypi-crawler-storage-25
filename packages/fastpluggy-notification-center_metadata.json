@@ -1,0 +1,11 @@
+{
+  "name": "fastpluggy-notification-center",
+  "version": "0.2.0",
+  "summary": "Persistent notification center with topbar bell, event bus integration, and optional Web Push",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastpluggy_notification_center-0.2.0.tar.gz",
+  "download_time": "2026-03-28T17:46:51.069063",
+  "package_url": "https://pypi.org/project/fastpluggy-notification-center/"
+}
