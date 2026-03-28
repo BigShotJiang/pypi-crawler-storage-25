@@ -1,0 +1,11 @@
+{
+  "name": "open-agent-observatory",
+  "version": "0.1.1",
+  "summary": "The OpenTelemetry for AI agents — structured traces, semantic diffs, and failure pattern mining",
+  "author": "Agent Observatory Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "open_agent_observatory-0.1.1.tar.gz",
+  "download_time": "2026-03-28T07:34:47.163123",
+  "package_url": "https://pypi.org/project/open-agent-observatory/"
+}

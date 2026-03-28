@@ -1,0 +1,11 @@
+{
+  "name": "pochi-verifier",
+  "version": "0.1.5",
+  "summary": "A library that runs the Pochi CLI for verification tasks.",
+  "author": "Zhiming Ma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pochi_verifier-0.1.5.tar.gz",
+  "download_time": "2026-03-28T07:34:23.095970",
+  "package_url": "https://pypi.org/project/pochi-verifier/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "insardev",
+  "version": "2026.3.21.post2",
+  "summary": "InSAR.dev (Python InSAR): Satellite Interferometry Framework",
+  "author": "Alexey Pechnikov",
+  "license": "InSAR.dev Personal License",
+  "home_page": "https://github.com/AlexeyPechnikov/pygmtsar",
+  "download_filename": "insardev-2026.3.21.post2.tar.gz",
+  "download_time": "2026-03-28T07:34:29.864494",
+  "package_url": "https://pypi.org/project/insardev/"
+}

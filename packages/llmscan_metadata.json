@@ -1,0 +1,11 @@
+{
+  "name": "llmscan",
+  "version": "0.1.0",
+  "summary": "A fast, modern CLI that shows which local LLMs fit on your machine",
+  "author": "LLM-Check Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmscan-0.1.0.tar.gz",
+  "download_time": "2026-03-28T07:34:43.519188",
+  "package_url": "https://pypi.org/project/llmscan/"
+}

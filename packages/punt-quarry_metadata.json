@@ -1,0 +1,11 @@
+{
+  "name": "punt-quarry",
+  "version": "1.8.0",
+  "summary": "Extract searchable knowledge from any document. Expose it to LLMs via MCP.",
+  "author": "Punt Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "punt_quarry-1.8.0.tar.gz",
+  "download_time": "2026-03-28T07:34:27.779567",
+  "package_url": "https://pypi.org/project/punt-quarry/"
+}

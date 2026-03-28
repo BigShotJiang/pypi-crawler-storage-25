@@ -1,0 +1,11 @@
+{
+  "name": "hip-cargo",
+  "version": "0.1.7",
+  "summary": "Tools for generating Stimela cab definitions from Python functions",
+  "author": "landmanbester",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hip_cargo-0.1.7.tar.gz",
+  "download_time": "2026-03-28T07:34:26.741520",
+  "package_url": "https://pypi.org/project/hip-cargo/"
+}

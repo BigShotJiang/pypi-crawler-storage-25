@@ -1,0 +1,11 @@
+{
+  "name": "pyrlmlite",
+  "version": "0.1.1",
+  "summary": "A simple SDK for building recursive language models with OpenAI",
+  "author": "Damodhar Meshram",
+  "license": null,
+  "home_page": "https://github.com/dsmeshram/Recursive-Language-Models",
+  "download_filename": "pyrlmlite-0.1.1.tar.gz",
+  "download_time": "2026-03-28T07:34:28.298412",
+  "package_url": "https://pypi.org/project/pyrlmlite/"
+}

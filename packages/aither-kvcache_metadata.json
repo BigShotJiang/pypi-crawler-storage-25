@@ -1,0 +1,11 @@
+{
+  "name": "aither-kvcache",
+  "version": "0.4.0",
+  "summary": "Near-optimal KV cache quantization for LLM inference (arXiv:2504.19874)",
+  "author": "Aitherium",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aither_kvcache-0.4.0.tar.gz",
+  "download_time": "2026-03-28T07:34:45.599598",
+  "package_url": "https://pypi.org/project/aither-kvcache/"
+}
