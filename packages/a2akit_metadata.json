@@ -1,11 +1,11 @@
 {
   "name": "a2akit",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "summary": "A2A agent framework in one import.",
   "author": "Markus Lang",
   "license": null,
   "home_page": null,
-  "download_filename": "a2akit-0.0.19.tar.gz",
-  "download_time": "2026-03-28T05:45:23.328748",
+  "download_filename": "a2akit-0.0.20.tar.gz",
+  "download_time": "2026-03-28T08:22:23.175820",
   "package_url": "https://pypi.org/project/a2akit/"
 }

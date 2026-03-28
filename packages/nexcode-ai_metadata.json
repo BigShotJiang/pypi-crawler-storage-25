@@ -1,0 +1,11 @@
+{
+  "name": "nexcode-ai",
+  "version": "0.3.0",
+  "summary": "CLI for the Nexcode AI - configure providers and run workspace agents from your terminal",
+  "author": "Suriya",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nexcode_ai-0.3.0.tar.gz",
+  "download_time": "2026-03-28T08:22:16.512958",
+  "package_url": "https://pypi.org/project/nexcode-ai/"
+}

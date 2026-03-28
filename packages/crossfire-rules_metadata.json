@@ -1,0 +1,11 @@
+{
+  "name": "crossfire-rules",
+  "version": "0.2.0",
+  "summary": "Regex rule overlap analyzer for DLP, secret scanning, SAST, and IDS tools",
+  "author": "Crossfire Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crossfire_rules-0.2.0.tar.gz",
+  "download_time": "2026-03-28T08:22:35.052948",
+  "package_url": "https://pypi.org/project/crossfire-rules/"
+}

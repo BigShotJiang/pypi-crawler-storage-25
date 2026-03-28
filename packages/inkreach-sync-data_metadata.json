@@ -1,11 +1,11 @@
 {
   "name": "inkreach-sync-data",
-  "version": "0.1.1",
+  "version": "0.1.22",
   "summary": "sync data to database for inkreach",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "inkreach_sync_data-0.1.1.tar.gz",
-  "download_time": "2026-03-28T07:34:25.188119",
+  "download_filename": "inkreach_sync_data-0.1.22.tar.gz",
+  "download_time": "2026-03-28T08:22:38.192017",
   "package_url": "https://pypi.org/project/inkreach-sync-data/"
 }

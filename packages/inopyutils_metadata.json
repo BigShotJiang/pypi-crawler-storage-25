@@ -1,0 +1,11 @@
+{
+  "name": "inopyutils",
+  "version": "1.7.17",
+  "summary": "Async Python utility library for S3 storage, HTTP client, media/audio processing, JSON/CSV, MongoDB, file management, logging, and configuration",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "inopyutils-1.7.17.tar.gz",
+  "download_time": "2026-03-28T08:22:24.710798",
+  "package_url": "https://pypi.org/project/inopyutils/"
+}
