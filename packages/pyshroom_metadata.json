@@ -1,0 +1,11 @@
+{
+  "name": "pyshroom",
+  "version": "0.1.0",
+  "summary": "Spherical Harmonics Room (shroom): a Python library for room acoustics simulation, Ambisonics processing, and spherical microphone array modelling.",
+  "author": "Yhonatan Gayer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyshroom-0.1.0.tar.gz",
+  "download_time": "2026-03-28T13:59:27.398303",
+  "package_url": "https://pypi.org/project/pyshroom/"
+}

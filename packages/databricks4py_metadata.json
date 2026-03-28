@@ -1,0 +1,11 @@
+{
+  "name": "databricks4py",
+  "version": "0.2.0",
+  "summary": "Spark, Delta Lake, and Databricks utility library for Python",
+  "author": "kirankbs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "databricks4py-0.2.0.tar.gz",
+  "download_time": "2026-03-28T13:59:22.175794",
+  "package_url": "https://pypi.org/project/databricks4py/"
+}

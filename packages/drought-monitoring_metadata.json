@@ -1,0 +1,11 @@
+{
+  "name": "drought-monitoring",
+  "version": "0.1.2",
+  "summary": "Composite Drought Index via GEE + COG output + climate-science plots",
+  "author": "geoges",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "drought_monitoring-0.1.2.tar.gz",
+  "download_time": "2026-03-28T13:59:21.126319",
+  "package_url": "https://pypi.org/project/drought-monitoring/"
+}

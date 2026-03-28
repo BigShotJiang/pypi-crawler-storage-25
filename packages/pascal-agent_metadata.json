@@ -1,11 +1,11 @@
 {
   "name": "pascal-agent",
-  "version": "0.3.8",
+  "version": "0.3.10",
   "summary": "Pascal — autonomous AI employee runtime",
   "author": "laum0621",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pascal_agent-0.3.8.tar.gz",
-  "download_time": "2026-03-28T13:15:11.541049",
+  "download_filename": "pascal_agent-0.3.10.tar.gz",
+  "download_time": "2026-03-28T13:58:50.593727",
   "package_url": "https://pypi.org/project/pascal-agent/"
 }

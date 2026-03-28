@@ -1,0 +1,11 @@
+{
+  "name": "fitsms",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for FitSMS.lk Gateway",
+  "author": "Danuja Dilanka",
+  "license": null,
+  "home_page": "https://github.com/Global-Cloud-Media-Pvt-Ltd/fitsms-python-sdk",
+  "download_filename": "fitsms-1.0.0.tar.gz",
+  "download_time": "2026-03-28T13:58:48.455963",
+  "package_url": "https://pypi.org/project/fitsms/"
+}

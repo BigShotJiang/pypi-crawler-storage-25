@@ -1,0 +1,11 @@
+{
+  "name": "atomicguard",
+  "version": "2.18.0",
+  "summary": "A Dual-State Agent Framework for reliable LLM code generation with guard-validated loops",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "atomicguard-2.18.0.tar.gz",
+  "download_time": "2026-03-28T13:59:07.631695",
+  "package_url": "https://pypi.org/project/atomicguard/"
+}

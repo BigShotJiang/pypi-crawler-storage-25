@@ -1,0 +1,11 @@
+{
+  "name": "morphoformer",
+  "version": "2.3.1",
+  "summary": "MorphFormer: multilingual morphological reinflection via character-level Transformer",
+  "author": "voluntasprogressus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "morphoformer-2.3.1.tar.gz",
+  "download_time": "2026-03-28T13:59:25.804061",
+  "package_url": "https://pypi.org/project/morphoformer/"
+}
