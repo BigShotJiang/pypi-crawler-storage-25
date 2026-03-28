@@ -1,0 +1,11 @@
+{
+  "name": "django-mcp-discovery",
+  "version": "0.4.2",
+  "summary": "Exposes /.well-known/mcp-server on Django projects for MCP agent discovery. Implements draft-serra-mcp-discovery-uri.",
+  "author": null,
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "django_mcp_discovery-0.4.2.tar.gz",
+  "download_time": "2026-03-28T09:53:28.470342",
+  "package_url": "https://pypi.org/project/django-mcp-discovery/"
+}

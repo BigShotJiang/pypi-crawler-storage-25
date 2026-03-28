@@ -1,11 +1,11 @@
 {
   "name": "bitpolar",
-  "version": "0.3.0",
+  "version": "0.3.3",
   "summary": "Near-optimal vector quantization — compress embeddings to 3-8 bits with provably unbiased inner products. No training needed. 58 integrations.",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "bitpolar-0.3.0.tar.gz",
-  "download_time": "2026-03-28T09:04:41.400863",
+  "download_filename": "bitpolar-0.3.3.tar.gz",
+  "download_time": "2026-03-28T09:53:28.996040",
   "package_url": "https://pypi.org/project/bitpolar/"
 }

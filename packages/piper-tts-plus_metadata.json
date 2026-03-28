@@ -1,0 +1,11 @@
+{
+  "name": "piper-tts-plus",
+  "version": "1.9.0",
+  "summary": "A fast, high-quality neural text-to-speech system supporting 6 languages (ja/en/zh/es/fr/pt) with VITS architecture.",
+  "author": "yousan",
+  "license": "MIT",
+  "home_page": "https://github.com/ayutaz/piper-plus",
+  "download_filename": "piper_tts_plus-1.9.0-py3-none-any.whl",
+  "download_time": "2026-03-28T09:53:06.138726",
+  "package_url": "https://pypi.org/project/piper-tts-plus/"
+}

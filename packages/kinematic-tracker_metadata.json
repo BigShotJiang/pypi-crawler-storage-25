@@ -1,0 +1,11 @@
+{
+  "name": "kinematic-tracker",
+  "version": "20.5.0",
+  "summary": "Tracker using kinematic Kalman filters.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kinematic_tracker-20.5.0.tar.gz",
+  "download_time": "2026-03-28T09:52:56.725498",
+  "package_url": "https://pypi.org/project/kinematic-tracker/"
+}

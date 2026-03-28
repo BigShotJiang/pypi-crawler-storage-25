@@ -1,0 +1,11 @@
+{
+  "name": "codeclone",
+  "version": "1.4.4",
+  "summary": "AST and CFG-based code clone detector for Python focused on architectural duplication",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codeclone-1.4.4.tar.gz",
+  "download_time": "2026-03-28T09:53:07.694342",
+  "package_url": "https://pypi.org/project/codeclone/"
+}

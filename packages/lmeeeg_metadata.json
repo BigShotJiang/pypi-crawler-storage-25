@@ -1,0 +1,11 @@
+{
+  "name": "lmeeeg",
+  "version": "0.3.3",
+  "summary": "Minimal Python implementation of lmeEEG for random-intercept mass-univariate M/EEG analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lmeeeg-0.3.3.tar.gz",
+  "download_time": "2026-03-28T09:53:08.730205",
+  "package_url": "https://pypi.org/project/lmeeeg/"
+}
