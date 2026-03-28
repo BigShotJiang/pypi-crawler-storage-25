@@ -1,11 +1,11 @@
 {
   "name": "mcp-vuln-scanner",
-  "version": "1.0.0",
-  "summary": "Security vulnerability scanner for MCP (Model Context Protocol) servers",
+  "version": "1.1.0",
+  "summary": "AI-powered security vulnerability scanner for MCP (Model Context Protocol) servers with automatic fixes",
   "author": "DataDruide",
   "license": null,
   "home_page": "https://github.com/DataDruide/mcp-vuln-scanner",
-  "download_filename": "mcp_vuln_scanner-1.0.0.tar.gz",
-  "download_time": "2026-03-28T09:04:03.139533",
+  "download_filename": "mcp_vuln_scanner-1.1.0.tar.gz",
+  "download_time": "2026-03-28T10:31:26.236099",
   "package_url": "https://pypi.org/project/mcp-vuln-scanner/"
 }

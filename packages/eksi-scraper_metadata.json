@@ -1,0 +1,11 @@
+{
+  "name": "eksi-scraper",
+  "version": "0.2.2",
+  "summary": "asynchronously scrapes eksisozluk threads and exports to csv or json",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eksi_scraper-0.2.2.tar.gz",
+  "download_time": "2026-03-28T10:31:30.880579",
+  "package_url": "https://pypi.org/project/eksi-scraper/"
+}

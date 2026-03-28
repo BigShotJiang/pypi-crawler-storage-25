@@ -1,0 +1,11 @@
+{
+  "name": "jsleekr-portmap",
+  "version": "0.4.0",
+  "summary": "Terminal port monitor with TUI dashboard. See open ports, processes, conflicts -- with real-time refresh and safe kill.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsleekr_portmap-0.4.0.tar.gz",
+  "download_time": "2026-03-28T10:31:12.357526",
+  "package_url": "https://pypi.org/project/jsleekr-portmap/"
+}

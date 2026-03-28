@@ -1,11 +1,11 @@
 {
   "name": "mcp-md-docx",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "MCP server for bidirectional Markdown ↔ Word (.docx) conversion",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "mcp_md_docx-0.1.0.tar.gz",
-  "download_time": "2026-03-28T09:53:05.620565",
+  "download_filename": "mcp_md_docx-0.1.2.tar.gz",
+  "download_time": "2026-03-28T10:31:38.559885",
   "package_url": "https://pypi.org/project/mcp-md-docx/"
 }

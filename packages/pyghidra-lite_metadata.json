@@ -1,0 +1,11 @@
+{
+  "name": "pyghidra-lite",
+  "version": "0.6.0",
+  "summary": "Lightweight MCP server for Ghidra-based reverse engineering with iOS, Linux, and game file support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyghidra_lite-0.6.0.tar.gz",
+  "download_time": "2026-03-28T10:31:43.186798",
+  "package_url": "https://pypi.org/project/pyghidra-lite/"
+}

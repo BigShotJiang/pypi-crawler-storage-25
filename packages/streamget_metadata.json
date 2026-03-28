@@ -1,0 +1,11 @@
+{
+  "name": "streamget",
+  "version": "4.0.9",
+  "summary": "A Multi-Platform Live Stream Parser Library.",
+  "author": "Hmily",
+  "license": "MIT",
+  "home_page": "https://github.com/ihmily/streamget",
+  "download_filename": "streamget-4.0.9.tar.gz",
+  "download_time": "2026-03-28T10:31:48.818828",
+  "package_url": "https://pypi.org/project/streamget/"
+}
