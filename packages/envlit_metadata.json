@@ -1,0 +1,11 @@
+{
+  "name": "envlit",
+  "version": "0.0.5",
+  "summary": "A minimal CLI tool to organize, load, and switch between your project's environment contexts.",
+  "author": "Chaofan Luo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "envlit-0.0.5.tar.gz",
+  "download_time": "2026-03-28T09:04:40.347965",
+  "package_url": "https://pypi.org/project/envlit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ui-tars",
+  "version": "0.5.0",
+  "summary": "Parsing LLM-generated GUI action instructions, automatically generating pyautogui scripts, and supporting coordinate conversion and smart image resizing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ui_tars-0.5.0.tar.gz",
+  "download_time": "2026-03-28T09:04:07.307275",
+  "package_url": "https://pypi.org/project/ui-tars/"
+}

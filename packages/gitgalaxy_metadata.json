@@ -1,0 +1,11 @@
+{
+  "name": "gitgalaxy",
+  "version": "1.1.3",
+  "summary": "A high-speed static analysis engine that sequences source code like DNA to map architectural risk and security threats.",
+  "author": "Joe Esquibel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitgalaxy-1.1.3.tar.gz",
+  "download_time": "2026-03-28T09:04:01.588664",
+  "package_url": "https://pypi.org/project/gitgalaxy/"
+}

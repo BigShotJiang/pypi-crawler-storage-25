@@ -1,0 +1,11 @@
+{
+  "name": "git-bayesect",
+  "version": "1.2",
+  "summary": "Git bisection with Bayesian statistics",
+  "author": "Shantanu Jain",
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_bayesect-1.2.tar.gz",
+  "download_time": "2026-03-28T09:04:36.169212",
+  "package_url": "https://pypi.org/project/git-bayesect/"
+}

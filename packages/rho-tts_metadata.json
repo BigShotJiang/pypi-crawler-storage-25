@@ -1,0 +1,11 @@
+{
+  "name": "rho-tts",
+  "version": "1.1.4",
+  "summary": "Multi-provider text-to-speech library with voice cloning, accent drift detection, and STT validation",
+  "author": "Ryan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rho_tts-1.1.4.tar.gz",
+  "download_time": "2026-03-28T09:04:45.558185",
+  "package_url": "https://pypi.org/project/rho-tts/"
+}

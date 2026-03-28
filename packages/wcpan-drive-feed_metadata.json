@@ -1,0 +1,11 @@
+{
+  "name": "wcpan-drive-feed",
+  "version": "1.4.0",
+  "summary": "HTTP server exposing local filesystem as a wcpan.drive feed API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wcpan_drive_feed-1.4.0.tar.gz",
+  "download_time": "2026-03-28T09:03:58.991051",
+  "package_url": "https://pypi.org/project/wcpan-drive-feed/"
+}

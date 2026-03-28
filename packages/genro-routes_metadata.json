@@ -1,0 +1,11 @@
+{
+  "name": "genro-routes",
+  "version": "0.16.0",
+  "summary": "Instance-scoped routing engine for Python with hierarchical handlers and composable plugins",
+  "author": "Genropy Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "genro_routes-0.16.0.tar.gz",
+  "download_time": "2026-03-28T09:04:40.876655",
+  "package_url": "https://pypi.org/project/genro-routes/"
+}

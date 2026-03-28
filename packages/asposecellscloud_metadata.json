@@ -1,0 +1,11 @@
+{
+  "name": "asposecellscloud",
+  "version": "26.3.1",
+  "summary": "Python Cloud SDK wraps Aspose.Cells REST API so you could seamlessly integrate Microsoft Excel® spreadsheet generation, manipulation, conversion & inspection features into your own Python applications.",
+  "author": "Aspose Cloud",
+  "license": null,
+  "home_page": "https://github.com/aspose-cells-cloud/aspose-cells-cloud-python",
+  "download_filename": "asposecellscloud-26.3.1.tar.gz",
+  "download_time": "2026-03-28T09:04:15.794896",
+  "package_url": "https://pypi.org/project/asposecellscloud/"
+}

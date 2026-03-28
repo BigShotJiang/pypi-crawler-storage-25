@@ -1,11 +1,11 @@
 {
   "name": "shopscout",
-  "version": "0.1.0",
-  "summary": "Scrape any Shopify store — products, collections, pages & metadata from the public JSON API. SDK + CLI + REST API.",
+  "version": "0.1.2",
+  "summary": "Scrape any Shopify store - products, collections, pages & metadata from the public JSON API. SDK + CLI + REST API.",
   "author": "Muhammad Zaid",
   "license": null,
   "home_page": null,
-  "download_filename": "shopscout-0.1.0.tar.gz",
-  "download_time": "2026-03-28T07:34:39.870512",
+  "download_filename": "shopscout-0.1.2.tar.gz",
+  "download_time": "2026-03-28T09:04:37.752956",
   "package_url": "https://pypi.org/project/shopscout/"
 }
