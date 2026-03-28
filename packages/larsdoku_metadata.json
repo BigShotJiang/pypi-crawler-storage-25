@@ -1,0 +1,11 @@
+{
+  "name": "larsdoku",
+  "version": "1.9.1",
+  "summary": "Pure logic Sudoku solver — 35 techniques, zero backtracking, 100% on Top1465",
+  "author": "Sir Lars",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "larsdoku-1.9.1.tar.gz",
+  "download_time": "2026-03-28T11:59:15.638463",
+  "package_url": "https://pypi.org/project/larsdoku/"
+}

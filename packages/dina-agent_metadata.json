@@ -1,0 +1,11 @@
+{
+  "name": "dina-agent",
+  "version": "0.8.0",
+  "summary": "CLI client for Dina Home Node — encrypted memory, PII scrubbing, action gating",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dina_agent-0.8.0.tar.gz",
+  "download_time": "2026-03-28T11:59:14.988224",
+  "package_url": "https://pypi.org/project/dina-agent/"
+}

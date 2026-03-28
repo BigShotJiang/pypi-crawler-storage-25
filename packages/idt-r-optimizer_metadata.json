@@ -1,0 +1,11 @@
+{
+  "name": "idt-r-optimizer",
+  "version": "0.1.2",
+  "summary": "Advanced hyperparameter optimization using Iterative Decision Tree - Random (IDT-R) algorithm",
+  "author": "IDT-R Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourname/idt_r_optimizer",
+  "download_filename": "idt_r_optimizer-0.1.2.tar.gz",
+  "download_time": "2026-03-28T11:59:38.510169",
+  "package_url": "https://pypi.org/project/idt-r-optimizer/"
+}

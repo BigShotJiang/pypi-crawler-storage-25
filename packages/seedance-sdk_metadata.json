@@ -1,0 +1,11 @@
+{
+  "name": "seedance-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for Seedance AI Video Generation API",
+  "author": "Seedance Team",
+  "license": "MIT",
+  "home_page": "https://github.com/tc1989tc/seedance-api",
+  "download_filename": "seedance_sdk-1.0.0.tar.gz",
+  "download_time": "2026-03-28T11:59:21.870394",
+  "package_url": "https://pypi.org/project/seedance-sdk/"
+}
