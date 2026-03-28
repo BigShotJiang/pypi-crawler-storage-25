@@ -1,11 +1,11 @@
 {
   "name": "inav-toolkit",
-  "version": "2.18.0",
+  "version": "2.19.0",
   "summary": "Blackbox analyzer, parameter checker, and tuning wizard for INAV flight controllers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "inav_toolkit-2.18.0.tar.gz",
-  "download_time": "2026-03-28T22:00:03.505885",
+  "download_filename": "inav_toolkit-2.19.0.tar.gz",
+  "download_time": "2026-03-28T23:46:22.653703",
   "package_url": "https://pypi.org/project/inav-toolkit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "winlenium",
+  "version": "0.1.0",
+  "summary": "Winlenium is a CLI tool for automated testing of Windows programs via the MS UI Automation framework.",
+  "author": "Andrey Meshkov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "winlenium-0.1.0.tar.gz",
+  "download_time": "2026-03-28T23:46:17.282715",
+  "package_url": "https://pypi.org/project/winlenium/"
+}

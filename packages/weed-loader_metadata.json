@@ -1,0 +1,11 @@
+{
+  "name": "weed-loader",
+  "version": "0.5.1",
+  "summary": "Weed (Loader) - Minimalist AI/ML inference and backprogation",
+  "author": "Daniel Strano",
+  "license": "MIT",
+  "home_page": "https://github.com/vm6502q/weed",
+  "download_filename": "weed_loader-0.5.1.tar.gz",
+  "download_time": "2026-03-28T23:46:24.310507",
+  "package_url": "https://pypi.org/project/weed-loader/"
+}

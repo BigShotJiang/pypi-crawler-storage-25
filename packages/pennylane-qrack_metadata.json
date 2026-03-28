@@ -1,0 +1,11 @@
+{
+  "name": "pennylane-qrack",
+  "version": "0.28.5",
+  "summary": "PennyLane plugin for Qrack.",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": "http://github.com/vm6502q",
+  "download_filename": "pennylane_qrack-0.28.5.tar.gz",
+  "download_time": "2026-03-28T23:46:36.624397",
+  "package_url": "https://pypi.org/project/pennylane-qrack/"
+}

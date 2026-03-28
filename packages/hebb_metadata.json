@@ -1,0 +1,11 @@
+{
+  "name": "hebb",
+  "version": "0.8.2",
+  "summary": "Halo Extreme Block Bootstrap package to estimate the N largest halo masses given the field of view and redshift depth of a survey",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hebb-0.8.2.tar.gz",
+  "download_time": "2026-03-28T23:46:46.315528",
+  "package_url": "https://pypi.org/project/hebb/"
+}

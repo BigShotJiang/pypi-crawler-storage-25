@@ -1,0 +1,11 @@
+{
+  "name": "PyTermint",
+  "version": "0.0.4",
+  "summary": "A simple, light weight (under 27k), and 'No Dependencies' (except in linux but has auto fallbacks) terminal interface that abstracts complex ansi codes into a tilemap with 3 bit rgb support for charecter fore/background.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytermint-0.0.4.tar.gz",
+  "download_time": "2026-03-28T23:46:58.065624",
+  "package_url": "https://pypi.org/project/PyTermint/"
+}

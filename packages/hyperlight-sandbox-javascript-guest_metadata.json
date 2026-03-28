@@ -1,0 +1,11 @@
+{
+  "name": "hyperlight-sandbox-javascript-guest",
+  "version": "0.0.1",
+  "summary": "Packaged Hyperlight Wasm JavaScript guest exposed as javascript_guest.path",
+  "author": "Hyperlight Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hyperlight_sandbox_javascript_guest-0.0.1.tar.gz",
+  "download_time": "2026-03-28T23:46:45.784525",
+  "package_url": "https://pypi.org/project/hyperlight-sandbox-javascript-guest/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "locivault-client",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Python client for LocIVault — encrypted, agent-owned memory with micropayments",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "locivault_client-0.1.4.tar.gz",
-  "download_time": "2026-03-28T19:52:51.115091",
+  "download_filename": "locivault_client-0.1.6.tar.gz",
+  "download_time": "2026-03-28T23:46:32.304043",
   "package_url": "https://pypi.org/project/locivault-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nemo-retriever",
+  "version": "26.3.0",
+  "summary": "A modern RAG ingestion pipeline from Nvidia",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nemo_retriever-26.3.0.tar.gz",
+  "download_time": "2026-03-28T23:46:10.274624",
+  "package_url": "https://pypi.org/project/nemo-retriever/"
+}
