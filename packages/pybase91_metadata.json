@@ -1,11 +1,11 @@
 {
   "name": "pybase91",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "basE91 binary-to-text encoding — Python extension (Rust/PyO3)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pybase91-0.2.0.tar.gz",
-  "download_time": "2026-03-28T20:29:01.580099",
+  "download_filename": "pybase91-0.2.1.tar.gz",
+  "download_time": "2026-03-28T20:58:54.407039",
   "package_url": "https://pypi.org/project/pybase91/"
 }

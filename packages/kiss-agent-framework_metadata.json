@@ -1,11 +1,11 @@
 {
   "name": "kiss-agent-framework",
-  "version": "0.2.62",
+  "version": "0.2.64",
   "summary": "KISS Agent Framework - A simple and portable agent framework for building and evolving AI agents",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "kiss_agent_framework-0.2.62.tar.gz",
-  "download_time": "2026-03-28T17:46:58.292317",
+  "download_filename": "kiss_agent_framework-0.2.64.tar.gz",
+  "download_time": "2026-03-28T20:59:10.987202",
   "package_url": "https://pypi.org/project/kiss-agent-framework/"
 }

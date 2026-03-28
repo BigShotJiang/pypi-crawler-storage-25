@@ -1,0 +1,11 @@
+{
+  "name": "pico-server-auth",
+  "version": "0.1.1",
+  "summary": "Embeddable auth server module for the pico ecosystem — JWT issuance, wallet login, JWKS endpoint",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pico_server_auth-0.1.1.tar.gz",
+  "download_time": "2026-03-28T20:58:36.251294",
+  "package_url": "https://pypi.org/project/pico-server-auth/"
+}

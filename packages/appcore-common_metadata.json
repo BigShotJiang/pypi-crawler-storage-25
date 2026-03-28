@@ -1,0 +1,11 @@
+{
+  "name": "appcore-common",
+  "version": "0.1.0",
+  "summary": "Shared exception types for appcore libraries.",
+  "author": "OpenAI Codex",
+  "license": null,
+  "home_page": null,
+  "download_filename": "appcore_common-0.1.0.tar.gz",
+  "download_time": "2026-03-28T20:59:11.498975",
+  "package_url": "https://pypi.org/project/appcore-common/"
+}

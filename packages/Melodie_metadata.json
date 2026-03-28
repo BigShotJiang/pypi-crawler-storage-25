@@ -1,0 +1,11 @@
+{
+  "name": "Melodie",
+  "version": "1.1.1",
+  "summary": "A general framework that can be used to establish agent-based models for specific uses.",
+  "author": "Songmin Yu, Zhanyi Hou",
+  "license": "MIT",
+  "home_page": "https://github.com/ABM4ALL/Melodie",
+  "download_filename": "melodie-1.1.1.tar.gz",
+  "download_time": "2026-03-28T20:58:33.627838",
+  "package_url": "https://pypi.org/project/Melodie/"
+}

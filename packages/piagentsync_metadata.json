@@ -1,0 +1,11 @@
+{
+  "name": "piagentsync",
+  "version": "0.3.0",
+  "summary": "Sync OpenCode agents and skills from an Obsidian vault to workspace directories",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "piagentsync-0.3.0.tar.gz",
+  "download_time": "2026-03-28T20:58:53.376296",
+  "package_url": "https://pypi.org/project/piagentsync/"
+}

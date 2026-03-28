@@ -1,0 +1,11 @@
+{
+  "name": "log-analyzer-sattarab",
+  "version": "0.6.0",
+  "summary": "Command-line tool to analyze log files and summarize counts by level.",
+  "author": "Abdul Sattar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "log_analyzer_sattarab-0.6.0.tar.gz",
+  "download_time": "2026-03-28T20:58:35.223266",
+  "package_url": "https://pypi.org/project/log-analyzer-sattarab/"
+}

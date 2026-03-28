@@ -1,0 +1,11 @@
+{
+  "name": "realtimetts",
+  "version": "0.6.0",
+  "summary": "Stream text into audio with an easy-to-use, highly configurable library delivering voice output with minimal latency.",
+  "author": "Kolja Beigel",
+  "license": null,
+  "home_page": "https://github.com/KoljaB/realtimetts",
+  "download_filename": "realtimetts-0.6.0.tar.gz",
+  "download_time": "2026-03-28T20:58:58.531919",
+  "package_url": "https://pypi.org/project/realtimetts/"
+}

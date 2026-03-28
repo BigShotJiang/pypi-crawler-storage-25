@@ -1,0 +1,11 @@
+{
+  "name": "euroleague-api",
+  "version": "0.1.0",
+  "summary": "A Python wrapper of the Euroleague API",
+  "author": "Georgios Giasemidis",
+  "license": "GPLv3 (with Commercial License option)",
+  "home_page": "https://github.com/giasemidis/euroleague_api",
+  "download_filename": "euroleague_api-0.1.0.tar.gz",
+  "download_time": "2026-03-28T20:59:12.010565",
+  "package_url": "https://pypi.org/project/euroleague-api/"
+}

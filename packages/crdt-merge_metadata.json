@@ -1,11 +1,11 @@
 {
   "name": "crdt-merge",
-  "version": "0.6.0",
+  "version": "0.7.1",
   "summary": "The Merge Algebra Toolkit — composable, streaming, verified CRDT merge for datasets",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "crdt_merge-0.6.0.tar.gz",
-  "download_time": "2026-03-28T16:33:16.615434",
+  "download_filename": "crdt_merge-0.7.1.tar.gz",
+  "download_time": "2026-03-28T20:58:47.188798",
   "package_url": "https://pypi.org/project/crdt-merge/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lucent-voice-bridge",
+  "version": "0.1.0",
+  "summary": "Remote voice bridge — connect a phone browser to Claude Code via WebSocket",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lucent_voice_bridge-0.1.0.tar.gz",
+  "download_time": "2026-03-28T20:58:30.012553",
+  "package_url": "https://pypi.org/project/lucent-voice-bridge/"
+}

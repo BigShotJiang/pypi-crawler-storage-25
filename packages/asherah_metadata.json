@@ -1,11 +1,11 @@
 {
   "name": "asherah",
-  "version": "0.5.26",
+  "version": "0.5.27",
   "summary": "Python bindings for Asherah envelope encryption",
   "author": "Asherah Maintainers",
   "license": "Apache-2.0",
   "home_page": "https://github.com/godaddy/asherah-ffi",
-  "download_filename": "asherah-0.5.26.tar.gz",
-  "download_time": "2026-03-28T15:47:41.524201",
+  "download_filename": "asherah-0.5.27.tar.gz",
+  "download_time": "2026-03-28T20:59:08.363866",
   "package_url": "https://pypi.org/project/asherah/"
 }
