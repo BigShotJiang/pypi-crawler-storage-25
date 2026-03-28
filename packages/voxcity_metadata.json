@@ -1,0 +1,11 @@
+{
+  "name": "voxcity",
+  "version": "1.0.31",
+  "summary": "voxcity is an easy and one-stop tool to output 3d city models for microclimate simulation by integrating multiple geospatial open-data",
+  "author": "Kunihiko Fujiwara",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voxcity-1.0.31.tar.gz",
+  "download_time": "2026-03-28T14:39:41.674746",
+  "package_url": "https://pypi.org/project/voxcity/"
+}

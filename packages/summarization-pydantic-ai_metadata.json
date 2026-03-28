@@ -1,11 +1,11 @@
 {
   "name": "summarization-pydantic-ai",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Automatic Conversation Summarization and History Management for Pydantic AI",
   "author": "VStorm",
   "license": null,
   "home_page": null,
-  "download_filename": "summarization_pydantic_ai-0.1.0.tar.gz",
-  "download_time": "2026-03-28T04:32:23.951858",
+  "download_filename": "summarization_pydantic_ai-0.1.1.tar.gz",
+  "download_time": "2026-03-28T14:39:54.886188",
   "package_url": "https://pypi.org/project/summarization-pydantic-ai/"
 }

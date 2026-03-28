@@ -1,0 +1,11 @@
+{
+  "name": "mcp-docker",
+  "version": "1.2.8",
+  "summary": "Model Context Protocol server for Docker management with AI assistants",
+  "author": "James Williams",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_docker-1.2.8.tar.gz",
+  "download_time": "2026-03-28T14:39:31.419070",
+  "package_url": "https://pypi.org/project/mcp-docker/"
+}

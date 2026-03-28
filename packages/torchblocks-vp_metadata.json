@@ -1,0 +1,11 @@
+{
+  "name": "torchblocks-vp",
+  "version": "1.0.0",
+  "summary": "Reusable Transformer building blocks: attention, feedforward, normalization, positional encoding",
+  "author": "F000NK, Voluntas Progressus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "torchblocks_vp-1.0.0.tar.gz",
+  "download_time": "2026-03-28T14:39:45.643880",
+  "package_url": "https://pypi.org/project/torchblocks-vp/"
+}

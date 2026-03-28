@@ -1,0 +1,11 @@
+{
+  "name": "dashclaw",
+  "version": "2.7.0",
+  "summary": "Python SDK for the DashClaw AI agent decision infrastructure platform",
+  "author": "Wes Sander",
+  "license": null,
+  "home_page": "https://github.com/ucsandman/DashClaw",
+  "download_filename": "dashclaw-2.7.0.tar.gz",
+  "download_time": "2026-03-28T14:40:02.598252",
+  "package_url": "https://pypi.org/project/dashclaw/"
+}

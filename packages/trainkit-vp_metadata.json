@@ -1,0 +1,11 @@
+{
+  "name": "trainkit-vp",
+  "version": "1.0.0",
+  "summary": "Training utilities: LR scheduling, VRAM profiling, automatic batch planning",
+  "author": "F000NK, Voluntas Progressus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trainkit_vp-1.0.0.tar.gz",
+  "download_time": "2026-03-28T14:39:58.985343",
+  "package_url": "https://pypi.org/project/trainkit-vp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "property-shared",
+  "version": "1.4.0",
+  "summary": "Pure-Python core library + FastAPI service for UK property data (PPD, EPC, Rightmove, Planning).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "property_shared-1.4.0.tar.gz",
+  "download_time": "2026-03-28T14:39:38.088978",
+  "package_url": "https://pypi.org/project/property-shared/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bridgic-browser",
+  "version": "0.0.2",
+  "summary": "LLM-driven browser automation library built on Playwright with built-in stealth mode",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bridgic_browser-0.0.2.tar.gz",
+  "download_time": "2026-03-28T14:39:36.034538",
+  "package_url": "https://pypi.org/project/bridgic-browser/"
+}

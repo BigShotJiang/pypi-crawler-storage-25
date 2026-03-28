@@ -1,0 +1,11 @@
+{
+  "name": "netbox-dwg",
+  "version": "0.1.4",
+  "summary": "NetBox plugin for site diagrams with DWG/SVG support, floor levels, rack/device placement, and location geometry",
+  "author": "ITW Welding AB",
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbox_dwg-0.1.4.tar.gz",
+  "download_time": "2026-03-28T14:40:07.229101",
+  "package_url": "https://pypi.org/project/netbox-dwg/"
+}

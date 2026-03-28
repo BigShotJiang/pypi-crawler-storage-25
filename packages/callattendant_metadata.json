@@ -1,0 +1,11 @@
+{
+  "name": "callattendant",
+  "version": "2.3.2",
+  "summary": "An automated call attendant and call blocker using a USR5637 or CX930xx modem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "callattendant-2.3.2.tar.gz",
+  "download_time": "2026-03-28T14:39:40.645551",
+  "package_url": "https://pypi.org/project/callattendant/"
+}
