@@ -1,0 +1,11 @@
+{
+  "name": "prsm-python-sdk",
+  "version": "0.2.0",
+  "summary": "Official Python SDK for PRSM (Protocol for Recursive Scientific Modeling)",
+  "author": "PRSM Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/PRSM-AI/PRSM",
+  "download_filename": "prsm_python_sdk-0.2.0.tar.gz",
+  "download_time": "2026-03-28T20:29:20.315759",
+  "package_url": "https://pypi.org/project/prsm-python-sdk/"
+}

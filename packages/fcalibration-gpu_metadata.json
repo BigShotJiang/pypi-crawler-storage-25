@@ -1,0 +1,11 @@
+{
+  "name": "fcalibration-gpu",
+  "version": "0.0.1",
+  "summary": "fcalibration_gpu: fuzzy probability calibration, GPU version",
+  "author": "famulan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fcalibration_gpu-0.0.1.tar.gz",
+  "download_time": "2026-03-28T20:29:31.697498",
+  "package_url": "https://pypi.org/project/fcalibration-gpu/"
+}

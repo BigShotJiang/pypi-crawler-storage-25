@@ -1,0 +1,11 @@
+{
+  "name": "pants-backend-clojure",
+  "version": "0.2.1",
+  "summary": "A Clojure backend for the Pants build system",
+  "author": "Stephen Hopper",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/enragedginger/pants_backend_clojure",
+  "download_filename": "pants_backend_clojure-0.2.1.tar.gz",
+  "download_time": "2026-03-28T20:29:25.493046",
+  "package_url": "https://pypi.org/project/pants-backend-clojure/"
+}

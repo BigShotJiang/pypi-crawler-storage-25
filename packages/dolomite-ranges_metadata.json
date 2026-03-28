@@ -1,0 +1,11 @@
+{
+  "name": "dolomite-ranges",
+  "version": "0.4.0",
+  "summary": "Stage and load genomic ranges from disk.",
+  "author": "LTLA",
+  "license": "MIT",
+  "home_page": "https://github.com/ArtifactDB/dolomite-ranges",
+  "download_filename": "dolomite_ranges-0.4.0.tar.gz",
+  "download_time": "2026-03-28T20:29:21.352009",
+  "package_url": "https://pypi.org/project/dolomite-ranges/"
+}

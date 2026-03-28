@@ -1,0 +1,11 @@
+{
+  "name": "cursor-acp",
+  "version": "0.1.1",
+  "summary": "Python client for the Cursor CLI Agent Client Protocol (ACP) / agent acp",
+  "author": "Dream contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cursor_acp-0.1.1.tar.gz",
+  "download_time": "2026-03-28T20:29:27.035535",
+  "package_url": "https://pypi.org/project/cursor-acp/"
+}

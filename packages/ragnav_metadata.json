@@ -1,0 +1,11 @@
+{
+  "name": "ragnav",
+  "version": "0.3.0",
+  "summary": "Hybrid structure-aware retrieval — BM25 + embeddings + document graph expansion. Runs fully offline, no API key required.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ragnav-0.3.0.tar.gz",
+  "download_time": "2026-03-28T20:29:35.314113",
+  "package_url": "https://pypi.org/project/ragnav/"
+}

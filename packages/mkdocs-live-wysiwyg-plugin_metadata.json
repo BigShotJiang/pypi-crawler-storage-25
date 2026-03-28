@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-live-wysiwyg-plugin",
+  "version": "0.3.16",
+  "summary": "WYSIWYG editor for mkdocs-live-edit-plugin based on @celsowm/markdown-wysiwyg",
+  "author": "Sam Gleske",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_live_wysiwyg_plugin-0.3.16.tar.gz",
+  "download_time": "2026-03-28T20:29:00.034211",
+  "package_url": "https://pypi.org/project/mkdocs-live-wysiwyg-plugin/"
+}

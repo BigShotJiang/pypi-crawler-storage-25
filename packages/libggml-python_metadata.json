@@ -1,0 +1,11 @@
+{
+  "name": "libggml-python",
+  "version": "0.9.8",
+  "summary": "Prebuilt ggml libraries",
+  "author": "benniekiss",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libggml_python-0.9.8.tar.gz",
+  "download_time": "2026-03-28T20:29:16.699956",
+  "package_url": "https://pypi.org/project/libggml-python/"
+}

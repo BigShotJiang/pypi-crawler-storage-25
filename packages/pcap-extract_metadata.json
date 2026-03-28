@@ -1,0 +1,11 @@
+{
+  "name": "pcap-extract",
+  "version": "0.1.0",
+  "summary": "Parse pcap files and extract flow-related information",
+  "author": "NYU mLab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pcap_extract-0.1.0.tar.gz",
+  "download_time": "2026-03-28T20:28:55.866754",
+  "package_url": "https://pypi.org/project/pcap-extract/"
+}
