@@ -1,0 +1,11 @@
+{
+  "name": "mograder",
+  "version": "0.3.0",
+  "summary": "Semi-automated grading for Marimo notebooks",
+  "author": "James Kermode",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mograder-0.3.0.tar.gz",
+  "download_time": "2026-03-28T21:37:39.596157",
+  "package_url": "https://pypi.org/project/mograder/"
+}

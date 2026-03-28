@@ -1,0 +1,11 @@
+{
+  "name": "crunch64",
+  "version": "0.6.2",
+  "summary": "A library for handling common compression formats for N64 games",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crunch64-0.6.2.tar.gz",
+  "download_time": "2026-03-28T21:37:33.354450",
+  "package_url": "https://pypi.org/project/crunch64/"
+}

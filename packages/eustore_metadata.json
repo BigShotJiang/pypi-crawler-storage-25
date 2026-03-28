@@ -1,11 +1,11 @@
 {
   "name": "eustore",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "European AI Storage — S3-compatible object storage for AI agents. GDPR-compliant, EU-hosted.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eustore-0.2.0.tar.gz",
-  "download_time": "2026-03-28T20:58:35.734907",
+  "download_filename": "eustore-0.2.2.tar.gz",
+  "download_time": "2026-03-28T21:37:13.587979",
   "package_url": "https://pypi.org/project/eustore/"
 }

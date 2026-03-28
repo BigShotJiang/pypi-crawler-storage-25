@@ -1,11 +1,11 @@
 {
   "name": "beamlab",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "summary": "A production-grade CLI AI coding agent",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "beamlab-0.1.1.tar.gz",
-  "download_time": "2026-03-28T20:58:56.468292",
+  "download_filename": "beamlab-1.0.0.tar.gz",
+  "download_time": "2026-03-28T21:37:23.490965",
   "package_url": "https://pypi.org/project/beamlab/"
 }

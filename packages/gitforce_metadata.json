@@ -1,0 +1,11 @@
+{
+  "name": "gitforce",
+  "version": "0.3.0",
+  "summary": "Gitforce CLI wrapper package for terminal installation via pip.",
+  "author": "Gitforce Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitforce-0.3.0.tar.gz",
+  "download_time": "2026-03-28T21:37:15.162953",
+  "package_url": "https://pypi.org/project/gitforce/"
+}

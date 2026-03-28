@@ -1,0 +1,11 @@
+{
+  "name": "agentwall",
+  "version": "0.1.0",
+  "summary": "A dotfile-driven firewall that protects the OS from destructive LLM agent tool calls",
+  "author": "Wissam El-Labban, prad",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentwall-0.1.0.tar.gz",
+  "download_time": "2026-03-28T21:37:32.324079",
+  "package_url": "https://pypi.org/project/agentwall/"
+}

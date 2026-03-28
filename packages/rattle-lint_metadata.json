@@ -1,11 +1,11 @@
 {
   "name": "rattle-lint",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "A framework for custom Python linters with auto-fixes and hierarchical configuration",
   "author": "zigai",
   "license": null,
   "home_page": null,
-  "download_filename": "rattle_lint-1.0.2.tar.gz",
-  "download_time": "2026-03-28T09:04:24.705540",
+  "download_filename": "rattle_lint-1.0.4.tar.gz",
+  "download_time": "2026-03-28T21:37:36.963556",
   "package_url": "https://pypi.org/project/rattle-lint/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "crawlnest-mcp",
+  "version": "0.7.0",
+  "summary": "CrawlNest MCP server for web scraping, Twitter, Reddit, GitHub, Hacker News, YC directory, Google Play Store, Apple App Store, video download, image download, and transcription. Use with Claude Code, Claude Desktop, Cursor, and other MCP clients.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crawlnest_mcp-0.7.0.tar.gz",
+  "download_time": "2026-03-28T21:37:35.937368",
+  "package_url": "https://pypi.org/project/crawlnest-mcp/"
+}

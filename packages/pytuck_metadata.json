@@ -1,0 +1,11 @@
+{
+  "name": "pytuck",
+  "version": "1.0.0",
+  "summary": "Lightweight Python document database - No SQL, multi-engine, pluggable persistence",
+  "author": "go9sky",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytuck-1.0.0-py3-none-any.whl",
+  "download_time": "2026-03-28T21:37:07.850915",
+  "package_url": "https://pypi.org/project/pytuck/"
+}

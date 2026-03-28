@@ -1,11 +1,11 @@
 {
   "name": "hyper-sentinel",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "summary": "Python SDK for Sentinel — 80+ crypto trading, AI, and market intelligence tools. Free access, usage-based fees.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyper_sentinel-2.3.0.tar.gz",
-  "download_time": "2026-03-28T20:58:33.114370",
+  "download_filename": "hyper_sentinel-2.3.1.tar.gz",
+  "download_time": "2026-03-28T21:37:03.177707",
   "package_url": "https://pypi.org/project/hyper-sentinel/"
 }

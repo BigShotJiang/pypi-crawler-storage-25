@@ -1,0 +1,11 @@
+{
+  "name": "dbt-depp",
+  "version": "0.4.6",
+  "summary": "DBT Enexis Python Postgres adapter - Run python scripts from any dbt project.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbt_depp-0.4.6.tar.gz",
+  "download_time": "2026-03-28T21:37:02.143710",
+  "package_url": "https://pypi.org/project/dbt-depp/"
+}

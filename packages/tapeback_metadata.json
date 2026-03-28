@@ -1,11 +1,11 @@
 {
   "name": "tapeback",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "summary": "Local meeting recorder with transcription and speaker diarization for Obsidian",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "tapeback-0.8.1.tar.gz",
-  "download_time": "2026-03-28T20:29:19.290116",
+  "download_filename": "tapeback-0.8.2.tar.gz",
+  "download_time": "2026-03-28T21:36:55.972880",
   "package_url": "https://pypi.org/project/tapeback/"
 }
