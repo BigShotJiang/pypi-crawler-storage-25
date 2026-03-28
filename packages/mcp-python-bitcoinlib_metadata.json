@@ -1,0 +1,11 @@
+{
+  "name": "mcp-python-bitcoinlib",
+  "version": "0.1.0",
+  "summary": "An MCP server that exposes the python-bitcoinlib API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_python_bitcoinlib-0.1.0.tar.gz",
+  "download_time": "2026-03-28T05:45:03.366113",
+  "package_url": "https://pypi.org/project/mcp-python-bitcoinlib/"
+}

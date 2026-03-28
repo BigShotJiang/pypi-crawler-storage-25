@@ -1,0 +1,11 @@
+{
+  "name": "codex2claude",
+  "version": "0.1.2",
+  "summary": "Local Codex-to-Claude bridge CLI",
+  "author": "OpenAI Codex",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codex2claude-0.1.2.tar.gz",
+  "download_time": "2026-03-28T05:44:55.958977",
+  "package_url": "https://pypi.org/project/codex2claude/"
+}

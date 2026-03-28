@@ -1,0 +1,11 @@
+{
+  "name": "scpn-quantum-control",
+  "version": "0.9.3",
+  "summary": "NISQ quantum simulation of coupled Kuramoto oscillator networks via XY Hamiltonian mapping",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scpn_quantum_control-0.9.3.tar.gz",
+  "download_time": "2026-03-28T05:45:32.286176",
+  "package_url": "https://pypi.org/project/scpn-quantum-control/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "d2spike",
+  "version": "0.0.3",
+  "summary": "A Python package for de-spiking velocity data.",
+  "author": "William Edge",
+  "license": "BSD 3-clause",
+  "home_page": "https://github.com/williamedge/d2spike",
+  "download_filename": "d2spike-0.0.3.tar.gz",
+  "download_time": "2026-03-28T05:44:57.365321",
+  "package_url": "https://pypi.org/project/d2spike/"
+}

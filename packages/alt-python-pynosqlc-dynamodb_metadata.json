@@ -1,0 +1,11 @@
+{
+  "name": "alt-python-pynosqlc-dynamodb",
+  "version": "1.0.4",
+  "summary": "DynamoDB driver for pynosqlc",
+  "author": "Craig Parravicini, Claude (Anthropic)",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alt_python_pynosqlc_dynamodb-1.0.4.tar.gz",
+  "download_time": "2026-03-28T05:45:43.339909",
+  "package_url": "https://pypi.org/project/alt-python-pynosqlc-dynamodb/"
+}

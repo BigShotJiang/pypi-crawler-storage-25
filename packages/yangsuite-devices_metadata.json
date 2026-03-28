@@ -1,0 +1,11 @@
+{
+  "name": "yangsuite-devices",
+  "version": "2.9.16",
+  "summary": "Device profile definition and management for YANG Suite",
+  "author": "YANG Suite development team",
+  "license": "Cisco General Terms",
+  "home_page": "https://developer.cisco.com/yangsuite",
+  "download_filename": "yangsuite_devices-2.9.16-py3-none-any.whl",
+  "download_time": "2026-03-28T05:45:37.541666",
+  "package_url": "https://pypi.org/project/yangsuite-devices/"
+}
