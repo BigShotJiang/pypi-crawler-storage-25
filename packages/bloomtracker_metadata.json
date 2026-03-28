@@ -1,0 +1,11 @@
+{
+  "name": "bloomtracker",
+  "version": "0.4.2",
+  "summary": "API client for the 'Deutscher Wetterdienst' to get the current pollen load in Germany",
+  "author": "Sascha Triller",
+  "license": "GNU General Public License v3 or later (GPLv3+)",
+  "home_page": "https://github.com/striller/BloomTracker",
+  "download_filename": "bloomtracker-0.4.2.tar.gz",
+  "download_time": "2026-03-28T15:03:53.698578",
+  "package_url": "https://pypi.org/project/bloomtracker/"
+}

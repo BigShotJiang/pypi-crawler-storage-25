@@ -1,11 +1,11 @@
 {
   "name": "breathing-memory",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Local Codex memory manager with an official Python SDK-based MCP server.",
   "author": "OpenAI Codex",
   "license": null,
   "home_page": null,
-  "download_filename": "breathing_memory-0.2.0.tar.gz",
-  "download_time": "2026-03-28T09:04:22.042065",
+  "download_filename": "breathing_memory-0.3.0.tar.gz",
+  "download_time": "2026-03-28T15:03:50.816761",
   "package_url": "https://pypi.org/project/breathing-memory/"
 }

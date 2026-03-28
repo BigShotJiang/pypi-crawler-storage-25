@@ -1,0 +1,11 @@
+{
+  "name": "borsapy",
+  "version": "0.8.4",
+  "summary": "Turkish financial markets data library - yfinance-like API for BIST stocks, forex, crypto, and more",
+  "author": "Said Surucu",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "borsapy-0.8.4.tar.gz",
+  "download_time": "2026-03-28T15:03:48.422510",
+  "package_url": "https://pypi.org/project/borsapy/"
+}

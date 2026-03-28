@@ -1,11 +1,11 @@
 {
   "name": "pyconverters-pubmedfetcher",
-  "version": "0.6.19",
+  "version": "0.6.23",
   "summary": "Fetch and convert Pubmed articles",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyconverters_pubmedfetcher-0.6.19.tar.gz",
-  "download_time": "2026-03-28T06:40:56.705533",
+  "download_filename": "pyconverters_pubmedfetcher-0.6.23.tar.gz",
+  "download_time": "2026-03-28T15:04:03.877397",
   "package_url": "https://pypi.org/project/pyconverters-pubmedfetcher/"
 }

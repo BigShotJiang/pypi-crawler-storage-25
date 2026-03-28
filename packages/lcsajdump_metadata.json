@@ -1,0 +1,11 @@
+{
+  "name": "lcsajdump",
+  "version": "1.2.3.1",
+  "summary": "A Graph-Based ROP Gadget Finder for every architecture",
+  "author": "Chris1sFlaggin",
+  "license": null,
+  "home_page": "https://chris1sflaggin.it/LCSAJdump/",
+  "download_filename": "lcsajdump-1.2.3.1.tar.gz",
+  "download_time": "2026-03-28T15:04:13.224701",
+  "package_url": "https://pypi.org/project/lcsajdump/"
+}

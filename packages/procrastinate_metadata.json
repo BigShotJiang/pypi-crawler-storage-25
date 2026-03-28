@@ -1,0 +1,11 @@
+{
+  "name": "procrastinate",
+  "version": "3.7.3",
+  "summary": "Postgres-based distributed task processing library",
+  "author": "Eric Lemoine, Kai Schlamp",
+  "license": null,
+  "home_page": null,
+  "download_filename": "procrastinate-3.7.3.tar.gz",
+  "download_time": "2026-03-28T15:04:21.602188",
+  "package_url": "https://pypi.org/project/procrastinate/"
+}

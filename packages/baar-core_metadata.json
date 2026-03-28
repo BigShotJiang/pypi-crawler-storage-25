@@ -1,11 +1,11 @@
 {
   "name": "baar-core",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Budget-Aware Agentic Routing — route LLM calls intelligently between cheap and powerful models with a hard budget cap.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "baar_core-0.1.4.tar.gz",
-  "download_time": "2026-03-28T14:39:38.603604",
+  "download_filename": "baar_core-0.1.5.tar.gz",
+  "download_time": "2026-03-28T15:04:19.964208",
   "package_url": "https://pypi.org/project/baar-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nixscan",
+  "version": "0.1.0",
+  "summary": "An AI-powered automated security code scanner powered by nixagent",
+  "author": "nix",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nixscan-0.1.0.tar.gz",
+  "download_time": "2026-03-28T15:04:24.864169",
+  "package_url": "https://pypi.org/project/nixscan/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "replay-agent",
+  "version": "0.4.0",
+  "summary": "Record and replay LLM agent traces for deterministic regression testing — framework-agnostic, pytest-native",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "replay_agent-0.4.0.tar.gz",
+  "download_time": "2026-03-28T15:04:23.236217",
+  "package_url": "https://pypi.org/project/replay-agent/"
+}
