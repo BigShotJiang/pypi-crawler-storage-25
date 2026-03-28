@@ -1,11 +1,11 @@
 {
   "name": "dais-shell",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "The shell tool for Dais.",
   "author": "BHznJNs",
   "license": null,
   "home_page": null,
-  "download_filename": "dais_shell-0.1.7.tar.gz",
-  "download_time": "2026-03-28T09:04:18.924011",
+  "download_filename": "dais_shell-0.1.8.tar.gz",
+  "download_time": "2026-03-28T13:14:50.172712",
   "package_url": "https://pypi.org/project/dais-shell/"
 }

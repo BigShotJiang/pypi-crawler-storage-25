@@ -1,11 +1,11 @@
 {
   "name": "prefgraph",
-  "version": "0.5.5",
+  "version": "0.5.11",
   "summary": "Revealed preference analysis at scale — rationality scores, efficiency indices, and utility recovery. Rust engine, Python interface.",
   "author": "PrefGraph Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prefgraph-0.5.5-cp311-cp311-macosx_11_0_universal2.whl",
-  "download_time": "2026-03-28T05:45:48.688777",
+  "download_filename": "prefgraph-0.5.11.tar.gz",
+  "download_time": "2026-03-28T13:14:23.494189",
   "package_url": "https://pypi.org/project/prefgraph/"
 }
