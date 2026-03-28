@@ -1,0 +1,11 @@
+{
+  "name": "Stoner",
+  "version": "0.11.0",
+  "summary": "Library to help write data analysis tools for experimental condensed matter physics.",
+  "author": "Gavin Burnell",
+  "license": "GPLv3",
+  "home_page": "http://github.com/~gb119/Stoner-PythonCode",
+  "download_filename": "stoner-0.11.0-py2.py3-none-any.whl",
+  "download_time": "2026-03-28T19:52:29.430622",
+  "package_url": "https://pypi.org/project/Stoner/"
+}

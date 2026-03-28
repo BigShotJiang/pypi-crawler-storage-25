@@ -1,0 +1,11 @@
+{
+  "name": "nnlogging2",
+  "version": "0.1.1",
+  "summary": "`nnlogging2` is a non-invasive extension of the standard Python logging library. `nnlogging2` is designed to track numerical metrics by time and execution context.",
+  "author": "amas127",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nnlogging2-0.1.1-py3-none-any.whl",
+  "download_time": "2026-03-28T19:52:47.014672",
+  "package_url": "https://pypi.org/project/nnlogging2/"
+}

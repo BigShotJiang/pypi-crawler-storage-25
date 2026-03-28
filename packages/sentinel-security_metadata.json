@@ -1,0 +1,11 @@
+{
+  "name": "sentinel-security",
+  "version": "0.9.0",
+  "summary": "Detect and neutralise prompt injection attacks in text and HTML content",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "sentinel_security-0.9.0.tar.gz",
+  "download_time": "2026-03-28T19:52:28.787679",
+  "package_url": "https://pypi.org/project/sentinel-security/"
+}

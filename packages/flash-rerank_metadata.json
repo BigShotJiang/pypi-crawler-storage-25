@@ -1,0 +1,11 @@
+{
+  "name": "flash-rerank",
+  "version": "0.1.1",
+  "summary": "Blazing-fast neural reranking — cross-encoder and ColBERT inference",
+  "author": "The Sauce Suite",
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "flash_rerank-0.1.1-cp39-abi3-win_amd64.whl",
+  "download_time": "2026-03-28T19:52:34.323947",
+  "package_url": "https://pypi.org/project/flash-rerank/"
+}

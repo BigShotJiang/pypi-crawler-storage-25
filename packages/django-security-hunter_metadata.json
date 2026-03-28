@@ -1,0 +1,11 @@
+{
+  "name": "django-security-hunter",
+  "version": "0.1.1",
+  "summary": "Django + DRF security, reliability and performance inspector",
+  "author": "django-security-hunter contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_security_hunter-0.1.1.tar.gz",
+  "download_time": "2026-03-28T19:52:38.184956",
+  "package_url": "https://pypi.org/project/django-security-hunter/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "panproto",
-  "version": "0.18.1",
+  "version": "0.20.0",
   "summary": "Schematic version control with panproto (Python SDK)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "panproto-0.18.1.tar.gz",
-  "download_time": "2026-03-28T09:04:12.571943",
+  "download_filename": "panproto-0.20.0.tar.gz",
+  "download_time": "2026-03-28T19:53:06.289090",
   "package_url": "https://pypi.org/project/panproto/"
 }

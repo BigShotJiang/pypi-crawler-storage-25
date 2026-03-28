@@ -1,11 +1,11 @@
 {
   "name": "agent-xray",
-  "version": "1.2.5",
+  "version": "1.7.2",
   "summary": "Local-first debugging, grading, and replay tooling for AI agent traces.",
   "author": "agent-xray contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "agent_xray-1.2.5.tar.gz",
-  "download_time": "2026-03-28T13:59:09.171927",
+  "download_filename": "agent_xray-1.7.2.tar.gz",
+  "download_time": "2026-03-28T19:52:31.364487",
   "package_url": "https://pypi.org/project/agent-xray/"
 }

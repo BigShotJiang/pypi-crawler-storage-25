@@ -1,0 +1,11 @@
+{
+  "name": "fast-ods",
+  "version": "0.3.1",
+  "summary": "Fast, streaming parser for OpenDocument Spreadsheet (.ods) files",
+  "author": "Daniel Teixeira Duarte",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fast_ods-0.3.1.tar.gz",
+  "download_time": "2026-03-28T19:52:24.383009",
+  "package_url": "https://pypi.org/project/fast-ods/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "oc-ocdm",
+  "version": "10.0.0",
+  "summary": "Object mapping library for manipulating RDF graphs that are compliant with the OpenCitations datamodel.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oc_ocdm-10.0.0.tar.gz",
+  "download_time": "2026-03-28T19:52:32.009823",
+  "package_url": "https://pypi.org/project/oc-ocdm/"
+}
