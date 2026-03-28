@@ -1,11 +1,11 @@
 {
   "name": "tfcommander",
-  "version": "0.1.29",
+  "version": "0.1.30",
   "summary": "A simple TraeFik CLI tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tfcommander-0.1.29.tar.gz",
-  "download_time": "2026-03-28T11:42:34.116318",
+  "download_filename": "tfcommander-0.1.30.tar.gz",
+  "download_time": "2026-03-28T17:05:38.972537",
   "package_url": "https://pypi.org/project/tfcommander/"
 }

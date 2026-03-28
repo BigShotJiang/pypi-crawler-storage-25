@@ -1,0 +1,11 @@
+{
+  "name": "pylumbergh",
+  "version": "0.10.1",
+  "summary": "A self-hosted web dashboard for supervising multiple Claude Code AI sessions running in tmux",
+  "author": "James Vogel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylumbergh-0.10.1.tar.gz",
+  "download_time": "2026-03-28T17:05:26.348352",
+  "package_url": "https://pypi.org/project/pylumbergh/"
+}

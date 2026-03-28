@@ -1,0 +1,11 @@
+{
+  "name": "pintrs",
+  "version": "0.3.0",
+  "summary": "Fast Rust-based Python extension for physical unit manipulation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pintrs-0.3.0.tar.gz",
+  "download_time": "2026-03-28T17:05:22.997055",
+  "package_url": "https://pypi.org/project/pintrs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pybasemkit",
+  "version": "0.2.3",
+  "summary": "Python base module kit: YAML/JSON I/O, structured logging, CLI tooling, shell execution, and pydevd remote debug support.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pybasemkit-0.2.3.tar.gz",
+  "download_time": "2026-03-28T17:05:43.187285",
+  "package_url": "https://pypi.org/project/pybasemkit/"
+}

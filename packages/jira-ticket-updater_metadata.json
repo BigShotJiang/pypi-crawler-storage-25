@@ -1,0 +1,11 @@
+{
+  "name": "jira-ticket-updater",
+  "version": "1.1.1",
+  "summary": "A command-line tool for updating Jira ticket status",
+  "author": "Pandiyaraj Karuppasamy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jira_ticket_updater-1.1.1.tar.gz",
+  "download_time": "2026-03-28T17:05:22.360355",
+  "package_url": "https://pypi.org/project/jira-ticket-updater/"
+}

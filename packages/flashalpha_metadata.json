@@ -1,0 +1,11 @@
+{
+  "name": "flashalpha",
+  "version": "0.2.1",
+  "summary": "Python SDK for the FlashAlpha options analytics API — gamma exposure (GEX), delta, vanna, charm, greeks, 0DTE analytics, volatility surfaces, and more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flashalpha-0.2.1.tar.gz",
+  "download_time": "2026-03-28T17:05:13.085134",
+  "package_url": "https://pypi.org/project/flashalpha/"
+}
