@@ -1,0 +1,11 @@
+{
+  "name": "gce-ipx800",
+  "version": "0.8.0",
+  "summary": "Library to interact with the GCE Electronics IPX800 device",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gce_ipx800-0.8.0.tar.gz",
+  "download_time": "2026-03-28T22:40:06.375267",
+  "package_url": "https://pypi.org/project/gce-ipx800/"
+}

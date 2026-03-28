@@ -1,0 +1,11 @@
+{
+  "name": "miniworlds-physics",
+  "version": "3.5.0.2",
+  "summary": "Physics engine for miniworlds",
+  "author": "Andreas Siebel",
+  "license": "OSI Approved :: MIT License",
+  "home_page": "https://github.com/asbl/miniworlds",
+  "download_filename": "miniworlds_physics-3.5.0.2.tar.gz",
+  "download_time": "2026-03-28T22:40:09.283313",
+  "package_url": "https://pypi.org/project/miniworlds-physics/"
+}

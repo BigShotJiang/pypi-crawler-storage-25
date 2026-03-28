@@ -1,0 +1,11 @@
+{
+  "name": "navig",
+  "version": "2.4.16",
+  "summary": "Terminal-first infrastructure CLI with multi-host SSH management, encrypted vault, AI operator layer, and memory",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "navig-2.4.16.tar.gz",
+  "download_time": "2026-03-28T22:39:59.747572",
+  "package_url": "https://pypi.org/project/navig/"
+}

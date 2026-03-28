@@ -1,11 +1,11 @@
 {
   "name": "run-git",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "Git automation CLI — one command to add, commit, pull & push with smart commit messages, TUI, and GitHub repo creation",
   "author": "Himanshu Kumar",
   "license": "MIT",
   "home_page": "https://github.com/himanshu231204/gitpush",
-  "download_filename": "run_git-1.1.0.tar.gz",
-  "download_time": "2026-03-28T21:37:22.979337",
+  "download_filename": "run_git-1.1.2.tar.gz",
+  "download_time": "2026-03-28T22:40:08.121677",
   "package_url": "https://pypi.org/project/run-git/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "omv",
+  "version": "0.3.2",
+  "summary": "Self-hosted control plane and CLI for monitoring hosts and launching native remote-access clients.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omv-0.3.2.tar.gz",
+  "download_time": "2026-03-28T22:40:06.954174",
+  "package_url": "https://pypi.org/project/omv/"
+}

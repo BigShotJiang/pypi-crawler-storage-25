@@ -1,0 +1,11 @@
+{
+  "name": "deezer-python-gql",
+  "version": "0.4.0",
+  "summary": "Async typed Python client for Deezer's Pipe GraphQL API.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "deezer_python_gql-0.4.0.tar.gz",
+  "download_time": "2026-03-28T22:40:13.108083",
+  "package_url": "https://pypi.org/project/deezer-python-gql/"
+}

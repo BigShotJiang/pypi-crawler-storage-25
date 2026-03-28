@@ -1,0 +1,11 @@
+{
+  "name": "simple-ddl-parser",
+  "version": "1.13.0",
+  "summary": "Simple DDL Parser to parse SQL & dialects like HQL, TSQL (MSSQL), Oracle, AWS Redshift, Snowflake, MySQL, PostgreSQL, etc ddl files to json/python dict with full information about columns: types, defaults, primary keys, etc.; sequences, alters, custom types & other entities from ddl.",
+  "author": "Iuliia Volkova",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simple_ddl_parser-1.13.0.tar.gz",
+  "download_time": "2026-03-28T22:40:24.207251",
+  "package_url": "https://pypi.org/project/simple-ddl-parser/"
+}

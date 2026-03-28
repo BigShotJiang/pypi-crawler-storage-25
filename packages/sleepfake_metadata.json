@@ -1,0 +1,11 @@
+{
+  "name": "sleepfake",
+  "version": "1.2.0",
+  "summary": "Fake the time.sleep/asyncio.sleep function during tests.",
+  "author": "Guillaume Pouyat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sleepfake-1.2.0.tar.gz",
+  "download_time": "2026-03-28T22:40:20.285544",
+  "package_url": "https://pypi.org/project/sleepfake/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "countdown-cli",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Terminal program to display countdown timer",
   "author": "Trey Hunner",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "countdown_cli-2.2.0.tar.gz",
-  "download_time": "2026-03-28T15:47:38.959712",
+  "download_filename": "countdown_cli-2.2.1.tar.gz",
+  "download_time": "2026-03-28T22:40:11.467673",
   "package_url": "https://pypi.org/project/countdown-cli/"
 }
