@@ -1,0 +1,11 @@
+{
+  "name": "instantapi-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for InstantAPI",
+  "author": "InstantAPI",
+  "license": "MIT",
+  "home_page": "https://instantapis.net",
+  "download_filename": "instantapi_sdk-1.0.0.tar.gz",
+  "download_time": "2026-03-28T23:03:44.362225",
+  "package_url": "https://pypi.org/project/instantapi-sdk/"
+}

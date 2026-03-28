@@ -1,14 +1,8 @@
 {
-  "download_time": "2026-03-28T22:40:41.820782",
-  "total_packages_downloaded": 93,
-  "total_size_mb": 48.01,
+  "download_time": "2026-03-28T23:03:44.863083",
+  "total_packages_downloaded": 94,
+  "total_size_mb": 11.09,
   "packages": [
-    "gridx-connector",
-    "tina4-python",
-    "msf2csv",
-    "foil-serve",
-    "tollbooth-dpyc",
-    "finquotes",
     "eu-ai-act-compliance-kit",
     "pdfimgextract",
     "contextpulse",
@@ -28,6 +22,7 @@
     "coppermind-cmo",
     "mdbp",
     "otpme",
+    "tollbooth-dpyc",
     "bh-fastapi-audit",
     "tilde-sdk",
     "bh-audit-logger",
@@ -95,6 +90,12 @@
     "chainaudit",
     "graperoot",
     "cartograph-cli",
-    "piighost"
+    "piighost",
+    "mograder",
+    "fraisier",
+    "open-radar-data",
+    "tina4-python",
+    "pyield",
+    "instantapi-sdk"
   ]
 }

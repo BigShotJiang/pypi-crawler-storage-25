@@ -1,11 +1,11 @@
 {
   "name": "joint-schema",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Multi-domain military operations schema: MIM operational concepts, DISARM influence operation TTPs, and STIX cyber threat intelligence",
   "author": null,
   "license": "TBD",
   "home_page": null,
-  "download_filename": "joint_schema-0.1.0.tar.gz",
-  "download_time": "2026-03-28T22:40:17.001555",
+  "download_filename": "joint_schema-0.1.1.tar.gz",
+  "download_time": "2026-03-28T23:03:16.004847",
   "package_url": "https://pypi.org/project/joint-schema/"
 }

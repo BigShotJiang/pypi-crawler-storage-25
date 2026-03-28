@@ -1,11 +1,11 @@
 {
   "name": "telescope-ui",
-  "version": "0.1.31",
+  "version": "0.1.34",
   "summary": "Real-time visualization dashboard for LLM training runs",
   "author": "Eduardo Slonski",
   "license": null,
   "home_page": null,
-  "download_filename": "telescope_ui-0.1.31.tar.gz",
-  "download_time": "2026-03-28T22:40:14.251494",
+  "download_filename": "telescope_ui-0.1.34.tar.gz",
+  "download_time": "2026-03-28T23:03:13.010387",
   "package_url": "https://pypi.org/project/telescope-ui/"
 }
