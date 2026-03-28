@@ -1,0 +1,11 @@
+{
+  "name": "agsec",
+  "version": "0.1.5",
+  "summary": "AI Agent Action Firewall core SDK",
+  "author": "Riyandhiman",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/riyandhiman14/Agent-Sec",
+  "download_filename": "agsec-0.1.5.tar.gz",
+  "download_time": "2026-03-28T04:32:37.349040",
+  "package_url": "https://pypi.org/project/agsec/"
+}

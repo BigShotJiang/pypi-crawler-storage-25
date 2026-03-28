@@ -1,0 +1,11 @@
+{
+  "name": "tir-pukiwiki",
+  "version": "0.1.0",
+  "summary": "PukiWiki <-> TIR converter backend for tirenvi",
+  "author": "OGAWA Keiji",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tir_pukiwiki-0.1.0.tar.gz",
+  "download_time": "2026-03-28T04:32:15.768884",
+  "package_url": "https://pypi.org/project/tir-pukiwiki/"
+}

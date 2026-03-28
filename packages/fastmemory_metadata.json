@@ -1,0 +1,11 @@
+{
+  "name": "fastmemory",
+  "version": "0.2.2",
+  "summary": "FastBuilder.AI text memory graph cluster tool using Louvain",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://fastbuilder.ai",
+  "download_filename": "fastmemory-0.2.2.tar.gz",
+  "download_time": "2026-03-28T04:32:23.439040",
+  "package_url": "https://pypi.org/project/fastmemory/"
+}

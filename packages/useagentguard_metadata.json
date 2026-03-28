@@ -1,0 +1,11 @@
+{
+  "name": "useagentguard",
+  "version": "0.2.0",
+  "summary": "The Security & Cost Control Layer for AI Agents — Guard, Shield, and Sentinel tiers: budget control, per-agent credential isolation, OAuth scope enforcement, MCP policy enforcement, and compliance reporting.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "useagentguard-0.2.0.tar.gz",
+  "download_time": "2026-03-28T04:32:36.319620",
+  "package_url": "https://pypi.org/project/useagentguard/"
+}
