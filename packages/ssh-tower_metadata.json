@@ -1,11 +1,11 @@
 {
   "name": "ssh-tower",
-  "version": "1.0.1",
+  "version": "1.2.8",
   "summary": "An advanced SSH connection manager with AirDrop-style UDP pairing and network scanning.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ssh_tower-1.0.1.tar.gz",
-  "download_time": "2026-03-28T06:40:19.508157",
+  "download_filename": "ssh_tower-1.2.8.tar.gz",
+  "download_time": "2026-03-28T15:46:59.475334",
   "package_url": "https://pypi.org/project/ssh-tower/"
 }

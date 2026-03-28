@@ -1,11 +1,11 @@
 {
   "name": "sc2-replay-analyzer",
-  "version": "0.15.0",
+  "version": "0.17.3",
   "summary": "Analyze your StarCraft II replays with filtering, stats, and beautiful terminal output",
   "author": "Yair Shachar",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sc2_replay_analyzer-0.15.0.tar.gz",
-  "download_time": "2026-03-28T11:59:37.870197",
+  "download_filename": "sc2_replay_analyzer-0.17.3.tar.gz",
+  "download_time": "2026-03-28T15:47:17.824040",
   "package_url": "https://pypi.org/project/sc2-replay-analyzer/"
 }

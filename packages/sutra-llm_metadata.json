@@ -1,0 +1,11 @@
+{
+  "name": "sutra-llm",
+  "version": "0.1.1",
+  "summary": "Chain small language models to outperform large ones — runs locally on 8GB RAM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sutra_llm-0.1.1.tar.gz",
+  "download_time": "2026-03-28T15:47:20.922437",
+  "package_url": "https://pypi.org/project/sutra-llm/"
+}

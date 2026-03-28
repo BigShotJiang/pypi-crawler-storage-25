@@ -1,0 +1,11 @@
+{
+  "name": "slpy-log",
+  "version": "0.3.0",
+  "summary": "The Declarative Observability Framework for Python",
+  "author": "Syntropysoft",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Syntropysoft/slpy",
+  "download_filename": "slpy_log-0.3.0.tar.gz",
+  "download_time": "2026-03-28T15:47:12.164244",
+  "package_url": "https://pypi.org/project/slpy-log/"
+}

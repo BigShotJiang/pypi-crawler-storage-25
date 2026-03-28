@@ -1,11 +1,11 @@
 {
   "name": "mypantry",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Runtime capability registry for optional Python dependencies",
   "author": "Genropy Team",
   "license": null,
   "home_page": null,
-  "download_filename": "mypantry-0.1.0.tar.gz",
-  "download_time": "2026-03-28T11:04:23.370104",
+  "download_filename": "mypantry-0.3.0.tar.gz",
+  "download_time": "2026-03-28T15:47:37.933316",
   "package_url": "https://pypi.org/project/mypantry/"
 }

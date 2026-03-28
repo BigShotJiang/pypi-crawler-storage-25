@@ -1,11 +1,11 @@
 {
   "name": "certmesh",
-  "version": "3.0.35",
+  "version": "3.0.36",
   "summary": "Multi-provider TLS certificate lifecycle management — DigiCert, Venafi TPP, Vault PKI, ACM, Let's Encrypt",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "certmesh-3.0.35.tar.gz",
-  "download_time": "2026-03-28T08:22:16.000311",
+  "download_filename": "certmesh-3.0.36.tar.gz",
+  "download_time": "2026-03-28T15:47:10.628512",
   "package_url": "https://pypi.org/project/certmesh/"
 }

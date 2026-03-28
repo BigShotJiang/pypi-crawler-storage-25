@@ -1,0 +1,11 @@
+{
+  "name": "danmubridge",
+  "version": "0.1.0",
+  "summary": "Download Bilibili danmaku, convert to ASS, and attach to Jellyfin as external subtitles.",
+  "author": "Elliott Zheng",
+  "license": null,
+  "home_page": null,
+  "download_filename": "danmubridge-0.1.0.tar.gz",
+  "download_time": "2026-03-28T15:47:34.847055",
+  "package_url": "https://pypi.org/project/danmubridge/"
+}

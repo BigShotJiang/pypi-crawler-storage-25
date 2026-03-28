@@ -1,0 +1,11 @@
+{
+  "name": "openmeter",
+  "version": "1.0.0b227",
+  "summary": "Client for OpenMeter: Real-Time and Scalable Usage Metering",
+  "author": "Andras Toth",
+  "license": "Apache-2.0",
+  "home_page": "https://openmeter.io",
+  "download_filename": "openmeter-1.0.0b227.tar.gz",
+  "download_time": "2026-03-28T15:47:42.551887",
+  "package_url": "https://pypi.org/project/openmeter/"
+}

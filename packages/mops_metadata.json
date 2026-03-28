@@ -1,0 +1,11 @@
+{
+  "name": "mops",
+  "version": "3.4.2",
+  "summary": "Wrapper of Selenium, Appium and Playwright with single API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mops-3.4.2.tar.gz",
+  "download_time": "2026-03-28T15:47:15.766966",
+  "package_url": "https://pypi.org/project/mops/"
+}

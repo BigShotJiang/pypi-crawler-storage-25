@@ -1,11 +1,11 @@
 {
   "name": "helmgate",
-  "version": "0.1.1",
-  "summary": "Helm chart linter and policy enforcement CLI",
+  "version": "0.2.0",
+  "summary": "Helm chart security scanner — detects misconfigurations and policy violations in rendered manifests and values files",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "helmgate-0.1.1.tar.gz",
-  "download_time": "2026-03-28T15:04:31.451667",
+  "download_filename": "helmgate-0.2.0.tar.gz",
+  "download_time": "2026-03-28T15:47:25.541397",
   "package_url": "https://pypi.org/project/helmgate/"
 }

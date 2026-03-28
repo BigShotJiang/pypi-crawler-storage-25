@@ -1,0 +1,11 @@
+{
+  "name": "local-ai-agent-orchestrator",
+  "version": "3.0.11",
+  "summary": "LAO — interactive Pilot Mode (local agentic chat + tools) plus planner→coder→reviewer orchestration over LM Studio / OpenAI-compatible APIs, with SQLite state, project registry, and optional per-plan Git.",
+  "author": "Local AI Agent Orchestrator contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "local_ai_agent_orchestrator-3.0.11.tar.gz",
+  "download_time": "2026-03-28T15:47:04.296155",
+  "package_url": "https://pypi.org/project/local-ai-agent-orchestrator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "proxctl",
+  "version": "0.2.1",
+  "summary": "CLI for Proxmox VE",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/rvben/proxctl",
+  "download_filename": "proxctl-0.2.1.tar.gz",
+  "download_time": "2026-03-28T15:47:21.946707",
+  "package_url": "https://pypi.org/project/proxctl/"
+}
