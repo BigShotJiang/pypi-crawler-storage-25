@@ -1,0 +1,11 @@
+{
+  "name": "onlymetrix",
+  "version": "0.2.0",
+  "summary": "Governed data access for AI agents. Connect to Snowflake, Postgres, or any warehouse with curated metrics, PII masking, and audit trails.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "onlymetrix-0.2.0.tar.gz",
+  "download_time": "2026-03-29T19:22:05.937934",
+  "package_url": "https://pypi.org/project/onlymetrix/"
+}

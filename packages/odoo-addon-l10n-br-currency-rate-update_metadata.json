@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-br-currency-rate-update",
+  "version": "18.0.1.0.2",
+  "summary": "Update exchange rates using OCA modules for Brazil",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo_addon_l10n_br_currency_rate_update-18.0.1.0.2-py3-none-any.whl",
+  "download_time": "2026-03-29T19:22:00.683183",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-br-currency-rate-update/"
+}

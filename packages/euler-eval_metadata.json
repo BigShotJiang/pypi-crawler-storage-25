@@ -1,11 +1,11 @@
 {
   "name": "euler-eval",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "Depth map evaluation toolkit with comprehensive metrics",
   "author": "Depth Eval Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "euler_eval-1.5.0.tar.gz",
-  "download_time": "2026-03-29T17:49:11.240659",
+  "download_filename": "euler_eval-1.6.0.tar.gz",
+  "download_time": "2026-03-29T19:22:34.841771",
   "package_url": "https://pypi.org/project/euler-eval/"
 }

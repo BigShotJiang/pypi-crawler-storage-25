@@ -1,0 +1,11 @@
+{
+  "name": "xian-tech-zk",
+  "version": "0.1.1",
+  "summary": "Native Groth16 BN254 verification primitives for the Xian stack",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/xian-technology/xian-contracting",
+  "download_filename": "xian_tech_zk-0.1.1.tar.gz",
+  "download_time": "2026-03-29T19:22:36.932479",
+  "package_url": "https://pypi.org/project/xian-tech-zk/"
+}

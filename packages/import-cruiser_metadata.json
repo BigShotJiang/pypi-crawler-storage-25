@@ -1,11 +1,11 @@
 {
   "name": "import-cruiser",
-  "version": "0.2.26",
+  "version": "0.2.28",
   "summary": "Analyze, validate, and visualize Python import dependencies — like dependency-cruiser for Python.",
   "author": "kevin91nl",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "import_cruiser-0.2.26.tar.gz",
-  "download_time": "2026-03-29T14:54:02.117151",
+  "download_filename": "import_cruiser-0.2.28.tar.gz",
+  "download_time": "2026-03-29T19:22:28.576531",
   "package_url": "https://pypi.org/project/import-cruiser/"
 }

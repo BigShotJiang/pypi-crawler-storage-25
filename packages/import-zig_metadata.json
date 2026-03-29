@@ -1,0 +1,11 @@
+{
+  "name": "import-zig",
+  "version": "0.15.3",
+  "summary": "Compile and import Zig functions at runtime without building a package",
+  "author": "Felix Graßl",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "import_zig-0.15.3.tar.gz",
+  "download_time": "2026-03-29T19:22:18.452916",
+  "package_url": "https://pypi.org/project/import-zig/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "planguard",
+  "version": "0.7",
+  "summary": "Make AI-assisted development safer, auditable, and release-ready without breaking normal CLI and git workflows",
+  "author": "Arkimetrix Analytics Ltd.",
+  "license": "MIT",
+  "home_page": "https://github.com/DBArkimetrix/planguard",
+  "download_filename": "planguard-0.7.tar.gz",
+  "download_time": "2026-03-29T19:22:18.972203",
+  "package_url": "https://pypi.org/project/planguard/"
+}

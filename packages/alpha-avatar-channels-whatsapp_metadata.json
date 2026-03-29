@@ -1,0 +1,11 @@
+{
+  "name": "alpha-avatar-channels-whatsapp",
+  "version": "0.5.2",
+  "summary": "WhatsApp channel bridge for AlphaAvatar. Connects WhatsApp (Baileys / Cloud API) to LiveKit-based AlphaAvatar agents via realtime data channels.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alpha_avatar_channels_whatsapp-0.5.2.tar.gz",
+  "download_time": "2026-03-29T19:22:11.133493",
+  "package_url": "https://pypi.org/project/alpha-avatar-channels-whatsapp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "RedSocket",
+  "version": "3.0.0",
+  "summary": "A tool that automates Nmap scans and saves results to a file.",
+  "author": "Phantom",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/phantomsecuritydev-ctrl/RedSocket",
+  "download_filename": "redsocket-3.0.0.tar.gz",
+  "download_time": "2026-03-29T19:22:44.760223",
+  "package_url": "https://pypi.org/project/RedSocket/"
+}

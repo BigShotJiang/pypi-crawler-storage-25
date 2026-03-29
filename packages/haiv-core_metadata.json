@@ -1,11 +1,11 @@
 {
   "name": "haiv-core",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Core commands for haiv",
   "author": "Casey Marquis",
   "license": null,
   "home_page": null,
-  "download_filename": "haiv_core-0.3.0.tar.gz",
-  "download_time": "2026-03-29T17:49:27.415483",
+  "download_filename": "haiv_core-0.3.1.tar.gz",
+  "download_time": "2026-03-29T19:22:42.675678",
   "package_url": "https://pypi.org/project/haiv-core/"
 }
