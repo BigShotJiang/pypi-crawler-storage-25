@@ -1,0 +1,11 @@
+{
+  "name": "tcpyVPI",
+  "version": "1.0.0",
+  "summary": "Calculate the tropical cyclone ventilated Potential Intensity (vPI) and the Genesis Potential Index using vPI (GPIv) from gridded datafiles. Supports both monthly mean and hourly ERA5 data. See Chavas Camargo Tippett (2025, J. Clim.) for details.",
+  "author": "Dan Chavas, Jose Ocegueda Sanchez",
+  "license": "MIT",
+  "home_page": "https://github.com/drchavas/tcpyVPI",
+  "download_filename": "tcpyvpi-1.0.0.tar.gz",
+  "download_time": "2026-03-29T04:46:23.484587",
+  "package_url": "https://pypi.org/project/tcpyVPI/"
+}

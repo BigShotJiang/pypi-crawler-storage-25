@@ -1,0 +1,11 @@
+{
+  "name": "codexray-analyser",
+  "version": "0.1.1",
+  "summary": "Offline-first static analyser for Python files and notebooks.",
+  "author": "Mohammad Hamad",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codexray_analyser-0.1.1.tar.gz",
+  "download_time": "2026-03-29T04:46:45.852136",
+  "package_url": "https://pypi.org/project/codexray-analyser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dr-llm",
+  "version": "1.0.0",
+  "summary": "Provider-agnostic single-query LLM client with PostgreSQL recording and catalog storage.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dr_llm-1.0.0.tar.gz",
+  "download_time": "2026-03-29T04:46:36.555387",
+  "package_url": "https://pypi.org/project/dr-llm/"
+}

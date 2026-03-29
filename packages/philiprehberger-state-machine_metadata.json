@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-state-machine",
+  "version": "0.3.0",
+  "summary": "Lightweight finite state machine with guards and callbacks.",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_state_machine-0.3.0.tar.gz",
+  "download_time": "2026-03-29T04:47:00.834495",
+  "package_url": "https://pypi.org/project/philiprehberger-state-machine/"
+}

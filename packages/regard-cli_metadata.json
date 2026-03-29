@@ -1,11 +1,11 @@
 {
   "name": "regard-cli",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "summary": "AI trading partner for the unified speculator — Hyperliquid + Polymarket",
   "author": "tab55",
   "license": null,
   "home_page": null,
-  "download_filename": "regard_cli-0.7.5.tar.gz",
-  "download_time": "2026-03-29T02:14:36.500427",
+  "download_filename": "regard_cli-0.7.6.tar.gz",
+  "download_time": "2026-03-29T04:46:52.513944",
   "package_url": "https://pypi.org/project/regard-cli/"
 }
