@@ -1,0 +1,11 @@
+{
+  "name": "triviumdb",
+  "version": "0.4.4",
+  "summary": "AI-native embedded database: Vector + Graph + Relational in one file",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "triviumdb-0.4.4.tar.gz",
+  "download_time": "2026-03-29T14:06:04.835804",
+  "package_url": "https://pypi.org/project/triviumdb/"
+}

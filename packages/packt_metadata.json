@@ -1,11 +1,11 @@
 {
   "name": "packt",
-  "version": "1.9.1",
-  "summary": "Script for grabbing daily Packt Free Learning ebooks",
-  "author": "Łukasz Uszko",
-  "license": "MIT",
-  "home_page": "https://gitlab.com/packt-cli/packt-cli",
-  "download_filename": "packt-1.9.1.tar.gz",
-  "download_time": "2026-03-29T13:21:44.942756",
+  "version": "1.10.0",
+  "summary": "Script for grabbing daily Packt Free Learning e-books",
+  "author": "Łukasz Uszko, stormyowl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "packt-1.10.0.tar.gz",
+  "download_time": "2026-03-29T14:05:35.131957",
   "package_url": "https://pypi.org/project/packt/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cross-ai",
+  "version": "0.16.0",
+  "summary": "Agent monitoring proxy and session manager — PTY wrapping, network interception, Slack relay, and gating",
+  "author": "Cross Attention Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cross_ai-0.16.0.tar.gz",
+  "download_time": "2026-03-29T14:05:55.482412",
+  "package_url": "https://pypi.org/project/cross-ai/"
+}

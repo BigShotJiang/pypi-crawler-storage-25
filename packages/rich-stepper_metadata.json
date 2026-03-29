@@ -1,0 +1,11 @@
+{
+  "name": "rich-stepper",
+  "version": "0.1.0",
+  "summary": "Beautiful multi-step terminal progress widget for Rich. Connected indicators, per-step logging, elapsed timers, and optional progress bars.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rich_stepper-0.1.0.tar.gz",
+  "download_time": "2026-03-29T14:06:01.546869",
+  "package_url": "https://pypi.org/project/rich-stepper/"
+}

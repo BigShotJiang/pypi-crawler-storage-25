@@ -1,11 +1,11 @@
 {
   "name": "blockintql",
-  "version": "1.1.5",
+  "version": "1.2.0",
   "summary": "BlockINTQL — Sovereign Blockchain Intelligence CLI",
   "author": "Block6IQ",
   "license": null,
   "home_page": "https://blockintql.com",
-  "download_filename": "blockintql-1.1.5.tar.gz",
-  "download_time": "2026-03-29T02:14:35.918124",
+  "download_filename": "blockintql-1.2.0.tar.gz",
+  "download_time": "2026-03-29T14:05:47.123826",
   "package_url": "https://pypi.org/project/blockintql/"
 }

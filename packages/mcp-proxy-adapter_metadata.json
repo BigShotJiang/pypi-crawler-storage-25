@@ -1,11 +1,11 @@
 {
   "name": "mcp-proxy-adapter",
-  "version": "6.9.124",
+  "version": "6.10.0",
   "summary": "Powerful JSON-RPC microservices framework with built-in security, authentication, proxy registration, queue-backed command execution for long-running operations, and configurable HTTP timeouts for mTLS connections",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_proxy_adapter-6.9.124.tar.gz",
-  "download_time": "2026-03-29T11:44:46.768378",
+  "download_filename": "mcp_proxy_adapter-6.10.0.tar.gz",
+  "download_time": "2026-03-29T14:05:51.026756",
   "package_url": "https://pypi.org/project/mcp-proxy-adapter/"
 }
