@@ -1,11 +1,11 @@
 {
   "name": "test-ssd",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "UGREEN NAS NVMe SSD screening CLI",
   "author": "Codex",
   "license": null,
   "home_page": null,
-  "download_filename": "test_ssd-0.1.4.tar.gz",
-  "download_time": "2026-03-29T18:41:46.561930",
+  "download_filename": "test_ssd-0.1.5.tar.gz",
+  "download_time": "2026-03-29T19:55:33.763642",
   "package_url": "https://pypi.org/project/test-ssd/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mcparmory-atlassian-confluence",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "summary": "MCP server for The Confluence Cloud REST API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcparmory_atlassian_confluence-1.0.2-py3-none-any.whl",
-  "download_time": "2026-03-29T17:07:19.706235",
+  "download_filename": "mcparmory_atlassian_confluence-1.0.5-py3-none-any.whl",
+  "download_time": "2026-03-29T19:55:26.550375",
   "package_url": "https://pypi.org/project/mcparmory-atlassian-confluence/"
 }

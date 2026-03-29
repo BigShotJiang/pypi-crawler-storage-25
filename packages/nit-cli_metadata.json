@@ -1,11 +1,11 @@
 {
   "name": "nit-cli",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Terminal diff viewer with inline review comments",
   "author": "Joshua Zink-Duda",
   "license": null,
   "home_page": null,
-  "download_filename": "nit_cli-0.3.0.tar.gz",
-  "download_time": "2026-03-29T15:31:34.479446",
+  "download_filename": "nit_cli-0.4.0.tar.gz",
+  "download_time": "2026-03-29T19:55:42.000663",
   "package_url": "https://pypi.org/project/nit-cli/"
 }

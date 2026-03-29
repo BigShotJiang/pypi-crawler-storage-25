@@ -1,0 +1,11 @@
+{
+  "name": "prodmcp",
+  "version": "0.2.0",
+  "summary": "FastAPI-like production layer on top of FastMCP with schema-driven development, validation, security, middleware, and OpenMCP spec generation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prodmcp-0.2.0.tar.gz",
+  "download_time": "2026-03-29T19:55:32.224976",
+  "package_url": "https://pypi.org/project/prodmcp/"
+}

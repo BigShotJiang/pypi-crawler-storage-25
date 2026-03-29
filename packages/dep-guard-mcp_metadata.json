@@ -1,0 +1,11 @@
+{
+  "name": "dep-guard-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server that scans dependency manifests and reports known vulnerabilities",
+  "author": "Dep Guard Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dep_guard_mcp-0.1.0.tar.gz",
+  "download_time": "2026-03-29T19:55:37.865628",
+  "package_url": "https://pypi.org/project/dep-guard-mcp/"
+}

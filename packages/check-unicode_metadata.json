@@ -1,0 +1,11 @@
+{
+  "name": "check-unicode",
+  "version": "0.6.0",
+  "summary": "Pre-commit hook to detect and fix non-ASCII Unicode characters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "check_unicode-0.6.0.tar.gz",
+  "download_time": "2026-03-29T19:55:41.488412",
+  "package_url": "https://pypi.org/project/check-unicode/"
+}

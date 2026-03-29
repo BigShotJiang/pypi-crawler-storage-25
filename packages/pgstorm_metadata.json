@@ -1,0 +1,11 @@
+{
+  "name": "pgstorm",
+  "version": "0.1.5",
+  "summary": "A lightweight PostgreSQL query builder and mini-ORM for Python",
+  "author": "pgstorm contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pgstorm-0.1.5.tar.gz",
+  "download_time": "2026-03-29T19:55:38.892828",
+  "package_url": "https://pypi.org/project/pgstorm/"
+}
