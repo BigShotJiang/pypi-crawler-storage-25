@@ -1,0 +1,11 @@
+{
+  "name": "spyder-image-viewer",
+  "version": "0.1.2",
+  "summary": "A lightweight NumPy array image viewer for Spyder",
+  "author": "sk-ys",
+  "license": "MIT",
+  "home_page": "https://github.com/sk-ys/spyder_image_viewer",
+  "download_filename": "spyder_image_viewer-0.1.2.tar.gz",
+  "download_time": "2026-03-29T08:59:33.312467",
+  "package_url": "https://pypi.org/project/spyder-image-viewer/"
+}

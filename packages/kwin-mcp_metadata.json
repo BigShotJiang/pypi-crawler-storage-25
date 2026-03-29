@@ -1,0 +1,11 @@
+{
+  "name": "kwin-mcp",
+  "version": "0.7.0",
+  "summary": "MCP server for Linux desktop GUI automation on KDE Plasma 6 Wayland — virtual testing and live desktop automation",
+  "author": "Byeonghoon Yoo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kwin_mcp-0.7.0.tar.gz",
+  "download_time": "2026-03-29T08:59:45.147202",
+  "package_url": "https://pypi.org/project/kwin-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vibepr",
+  "version": "1.0.0",
+  "summary": "AI-powered PR review agent that reviews pull requests with the depth of a senior engineer",
+  "author": "VibePR Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vibepr-1.0.0.tar.gz",
+  "download_time": "2026-03-29T08:59:32.800444",
+  "package_url": "https://pypi.org/project/vibepr/"
+}

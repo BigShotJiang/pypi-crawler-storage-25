@@ -1,0 +1,11 @@
+{
+  "name": "vmware-pilot",
+  "version": "1.4.2",
+  "summary": "VMware workflow orchestration — multi-step state machine with approval gates",
+  "author": "Wei Zhou / 周崴",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vmware_pilot-1.4.2.tar.gz",
+  "download_time": "2026-03-29T09:00:02.706392",
+  "package_url": "https://pypi.org/project/vmware-pilot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "shieldpipe",
+  "version": "0.1.0",
+  "summary": "Privacy middleware for LLM & AI pipelines — PII detection, pseudonymization, and rehydration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shieldpipe-0.1.0.tar.gz",
+  "download_time": "2026-03-29T08:59:37.933640",
+  "package_url": "https://pypi.org/project/shieldpipe/"
+}

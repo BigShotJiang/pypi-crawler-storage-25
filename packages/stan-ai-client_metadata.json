@@ -1,0 +1,11 @@
+{
+  "name": "stan-ai-client",
+  "version": "0.1.1",
+  "summary": "Thin Python client for running Claude Code via the local claude executable.",
+  "author": "Stanislav Kozlovski",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stan_ai_client-0.1.1.tar.gz",
+  "download_time": "2026-03-29T08:59:20.941467",
+  "package_url": "https://pypi.org/project/stan-ai-client/"
+}

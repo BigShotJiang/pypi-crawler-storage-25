@@ -1,0 +1,11 @@
+{
+  "name": "pyvitemadose",
+  "version": "2.0.0",
+  "summary": "pyvitemadose displays available chronodoses of covid vaccine for your departement in France",
+  "author": "thib1984",
+  "license": "MIT",
+  "home_page": "https://github.com/thib1984/pyvitemadose",
+  "download_filename": "pyvitemadose-2.0.0.tar.gz",
+  "download_time": "2026-03-29T09:00:04.245025",
+  "package_url": "https://pypi.org/project/pyvitemadose/"
+}
