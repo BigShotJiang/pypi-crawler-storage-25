@@ -1,11 +1,11 @@
 {
   "name": "tfgaurd-engine",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Secure, local-first Terraform security scanner with Cloud reporting.",
   "author": "TFGaurd Team",
   "license": null,
   "home_page": "https://tfgaurd.com",
-  "download_filename": "tfgaurd_engine-1.0.2.tar.gz",
-  "download_time": "2026-03-28T15:03:59.855095",
+  "download_filename": "tfgaurd_engine-1.0.4.tar.gz",
+  "download_time": "2026-03-29T10:32:37.433569",
   "package_url": "https://pypi.org/project/tfgaurd-engine/"
 }

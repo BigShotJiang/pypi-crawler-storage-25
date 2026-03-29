@@ -1,11 +1,11 @@
 {
   "name": "automission",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "Multi-agent autonomous mission execution — give it a goal, an agent team collaborates to deliver results",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "automission-0.2.2.tar.gz",
-  "download_time": "2026-03-29T06:12:00.451636",
+  "download_filename": "automission-0.2.5.tar.gz",
+  "download_time": "2026-03-29T10:33:03.086067",
   "package_url": "https://pypi.org/project/automission/"
 }

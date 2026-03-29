@@ -1,0 +1,11 @@
+{
+  "name": "karokit",
+  "version": "0.1.1",
+  "summary": "Karotter scraper/API wrapper for python with no official API key required.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://karotter.com/",
+  "download_filename": "karokit-0.1.1.tar.gz",
+  "download_time": "2026-03-29T10:32:56.014064",
+  "package_url": "https://pypi.org/project/karokit/"
+}

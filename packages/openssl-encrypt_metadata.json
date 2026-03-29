@@ -1,0 +1,11 @@
+{
+  "name": "openssl-encrypt",
+  "version": "1.4.2",
+  "summary": "A package for secure file encryption and decryption based on modern ciphers using heavy-compute-load chaining of hashing and KDF to generate strong encryption password based on users provided password to ensure secure encryption of files",
+  "author": "Tobi",
+  "license": "Hippocratic-3.0",
+  "home_page": "https://github.com/jahlives/openssl_encrypt",
+  "download_filename": "openssl_encrypt-1.4.2.tar.gz",
+  "download_time": "2026-03-29T10:32:32.215558",
+  "package_url": "https://pypi.org/project/openssl-encrypt/"
+}

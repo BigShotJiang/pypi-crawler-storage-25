@@ -1,11 +1,11 @@
 {
   "name": "soaphound",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Bloodhound python Ingestor using ADWS",
   "author": "@belettet1m0ree, @Sant0rryu, @s1rius",
   "license": null,
   "home_page": null,
-  "download_filename": "soaphound-0.1.1.tar.gz",
-  "download_time": "2026-03-29T08:59:38.960395",
+  "download_filename": "soaphound-0.1.2.tar.gz",
+  "download_time": "2026-03-29T10:33:01.999203",
   "package_url": "https://pypi.org/project/soaphound/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lysn",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "TUI music player",
   "author": "Wattox00",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lysn-0.1.7.tar.gz",
-  "download_time": "2026-03-28T09:04:39.830729",
+  "download_filename": "lysn-0.1.8.tar.gz",
+  "download_time": "2026-03-29T10:32:46.172317",
   "package_url": "https://pypi.org/project/lysn/"
 }

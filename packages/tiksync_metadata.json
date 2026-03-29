@@ -1,0 +1,11 @@
+{
+  "name": "tiksync",
+  "version": "1.0.6",
+  "summary": "TikSync — TikTok Live SDK for Python. Real-time chat, gifts, likes & viewer events.",
+  "author": "0xwolfsync",
+  "license": "MIT",
+  "home_page": "https://tik-sync.com",
+  "download_filename": "tiksync-1.0.6.tar.gz",
+  "download_time": "2026-03-29T10:32:41.806510",
+  "package_url": "https://pypi.org/project/tiksync/"
+}

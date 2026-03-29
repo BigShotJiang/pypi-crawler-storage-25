@@ -1,0 +1,11 @@
+{
+  "name": "aegis-ledger-sdk",
+  "version": "0.2.9",
+  "summary": "Tamper-evident execution ledger for AI agents. Log every tool call, decision, and error to a cryptographically verifiable audit trail.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aegis_ledger_sdk-0.2.9.tar.gz",
+  "download_time": "2026-03-29T10:32:29.923101",
+  "package_url": "https://pypi.org/project/aegis-ledger-sdk/"
+}

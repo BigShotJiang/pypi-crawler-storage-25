@@ -1,0 +1,11 @@
+{
+  "name": "mau_tex_visitor",
+  "version": "3.0.0",
+  "summary": "A visitor for Mau that converts the AST into TeX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mau_tex_visitor-3.0.0.tar.gz",
+  "download_time": "2026-03-29T10:32:22.910768",
+  "package_url": "https://pypi.org/project/mau_tex_visitor/"
+}

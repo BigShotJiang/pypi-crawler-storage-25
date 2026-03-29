@@ -1,0 +1,11 @@
+{
+  "name": "kegganog",
+  "version": "1.5.1.1",
+  "summary": "A tool for generating KEGG heatmaps from eggNOG-mapper outputs.",
+  "author": "Ilia Popov",
+  "license": null,
+  "home_page": "https://github.com/iliapopov17/KEGGaNOG",
+  "download_filename": "kegganog-1.5.1.1.tar.gz",
+  "download_time": "2026-03-29T10:32:47.802137",
+  "package_url": "https://pypi.org/project/kegganog/"
+}

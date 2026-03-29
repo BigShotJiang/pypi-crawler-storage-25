@@ -1,11 +1,11 @@
 {
   "name": "polars-expr-transformer",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Transform string-based expressions into Polars DataFrame operations",
   "author": "Edward van Eehoud",
   "license": null,
   "home_page": null,
-  "download_filename": "polars_expr_transformer-0.5.2.tar.gz",
-  "download_time": "2026-03-29T09:00:05.787249",
+  "download_filename": "polars_expr_transformer-0.5.3.tar.gz",
+  "download_time": "2026-03-29T10:32:30.500478",
   "package_url": "https://pypi.org/project/polars-expr-transformer/"
 }

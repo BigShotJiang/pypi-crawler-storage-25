@@ -1,0 +1,11 @@
+{
+  "name": "pabulib-checker",
+  "version": "0.3.9",
+  "summary": "A Python library for validating files in the PB (Pabulib) format, ensuring compliance with the standards described at pabulib.org/format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pabulib_checker-0.3.9.tar.gz",
+  "download_time": "2026-03-29T10:32:43.980081",
+  "package_url": "https://pypi.org/project/pabulib-checker/"
+}
