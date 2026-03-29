@@ -1,0 +1,11 @@
+{
+  "name": "rs-fusion-datasets",
+  "version": "0.18.4",
+  "summary": "Remote Sensing Data-Fetcher and Data-Loader for Joint Classification of Hyperspectral and LiDAR Data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rs_fusion_datasets-0.18.4.tar.gz",
+  "download_time": "2026-03-29T11:44:23.950147",
+  "package_url": "https://pypi.org/project/rs-fusion-datasets/"
+}

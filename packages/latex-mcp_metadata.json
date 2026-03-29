@@ -1,0 +1,11 @@
+{
+  "name": "latex-mcp",
+  "version": "0.2.0",
+  "summary": "Enable AI agents to compile TeX files with LaTeX inside a Docker container.",
+  "author": "SongTan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "latex_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-29T11:44:51.482014",
+  "package_url": "https://pypi.org/project/latex-mcp/"
+}

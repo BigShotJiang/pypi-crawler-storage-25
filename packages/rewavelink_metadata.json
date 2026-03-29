@@ -1,0 +1,11 @@
+{
+  "name": "rewavelink",
+  "version": "1.0.0",
+  "summary": "A maintained fork of WaveLink, a robust and powerful, fully asynchronous Lavalink wrapper built for discord.py in Python.",
+  "author": "vmphase, Soheab, DA-344 (aka Developer Anonymous)",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rewavelink-1.0.0.tar.gz",
+  "download_time": "2026-03-29T11:44:29.704027",
+  "package_url": "https://pypi.org/project/rewavelink/"
+}

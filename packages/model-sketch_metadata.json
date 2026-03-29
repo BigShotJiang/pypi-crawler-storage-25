@@ -1,11 +1,11 @@
 {
   "name": "model-sketch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Publication-quality visualization of PyTorch model architectures",
   "author": "Michal Szczygiel",
   "license": null,
   "home_page": null,
-  "download_filename": "model_sketch-0.0.2.tar.gz",
-  "download_time": "2026-03-28T17:47:17.040979",
+  "download_filename": "model_sketch-0.0.3.tar.gz",
+  "download_time": "2026-03-29T11:44:47.277247",
   "package_url": "https://pypi.org/project/model-sketch/"
 }

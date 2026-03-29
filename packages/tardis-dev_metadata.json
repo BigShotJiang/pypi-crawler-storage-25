@@ -1,0 +1,11 @@
+{
+  "name": "tardis-dev",
+  "version": "3.2.0",
+  "summary": "Python client for tardis.dev - historical tick-level cryptocurrency market data replay API.",
+  "author": "Thad",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/tardis-dev/tardis-python",
+  "download_filename": "tardis_dev-3.2.0.tar.gz",
+  "download_time": "2026-03-29T11:44:30.787567",
+  "package_url": "https://pypi.org/project/tardis-dev/"
+}
