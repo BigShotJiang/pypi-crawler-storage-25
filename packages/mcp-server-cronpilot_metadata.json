@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-cronpilot",
+  "version": "1.0.0",
+  "summary": "Managed cron-job-as-a-service with monitoring, retries, and alerting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_cronpilot-1.0.0.tar.gz",
+  "download_time": "2026-03-29T23:02:16.647916",
+  "package_url": "https://pypi.org/project/mcp-server-cronpilot/"
+}

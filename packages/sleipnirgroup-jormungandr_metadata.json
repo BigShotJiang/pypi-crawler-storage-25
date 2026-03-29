@@ -1,11 +1,11 @@
 {
   "name": "sleipnirgroup-jormungandr",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Reverse mode autodiff library and NLP solver DSL",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sleipnirgroup_jormungandr-0.4.0.tar.gz",
-  "download_time": "2026-03-29T06:12:02.596880",
+  "download_filename": "sleipnirgroup_jormungandr-0.5.0.tar.gz",
+  "download_time": "2026-03-29T23:02:33.564210",
   "package_url": "https://pypi.org/project/sleipnirgroup-jormungandr/"
 }

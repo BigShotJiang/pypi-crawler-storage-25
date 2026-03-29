@@ -1,0 +1,11 @@
+{
+  "name": "spokest-langchain",
+  "version": "1.0.0",
+  "summary": "LangChain integration for Spokest Brain memory",
+  "author": "Spokest",
+  "license": null,
+  "home_page": "https://github.com/spokest/spokest-langchain",
+  "download_filename": "spokest_langchain-1.0.0.tar.gz",
+  "download_time": "2026-03-29T23:02:13.509923",
+  "package_url": "https://pypi.org/project/spokest-langchain/"
+}

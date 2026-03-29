@@ -1,0 +1,11 @@
+{
+  "name": "mp2hudcolor",
+  "version": "1.0.14",
+  "summary": "Modifies an existing NTWK file for Metroid Prime 2: Echoes and changing the color of the HUD",
+  "author": "toasterparty",
+  "license": "MIT",
+  "home_page": "https://github.com/toasterparty/mp2hudcolor",
+  "download_filename": "mp2hudcolor-1.0.14.tar.gz",
+  "download_time": "2026-03-29T23:01:56.543657",
+  "package_url": "https://pypi.org/project/mp2hudcolor/"
+}

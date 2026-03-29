@@ -1,0 +1,11 @@
+{
+  "name": "codex-django",
+  "version": "0.2.5",
+  "summary": "Django runtime utilities, mixins, adapters, and reusable modules for Codex projects",
+  "author": "CodexDLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "codex_django-0.2.5.tar.gz",
+  "download_time": "2026-03-29T23:02:25.139707",
+  "package_url": "https://pypi.org/project/codex-django/"
+}

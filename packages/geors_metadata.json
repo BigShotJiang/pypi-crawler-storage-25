@@ -1,11 +1,11 @@
 {
   "name": "geors",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Rust-powered drop-in replacement for geopy — geodesic, great-circle, polygon area, and more",
   "author": "Fahrenheit Research",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "geors-0.1.0.tar.gz",
-  "download_time": "2026-03-29T22:30:11.077677",
+  "download_filename": "geors-0.1.1.tar.gz",
+  "download_time": "2026-03-29T23:02:24.608958",
   "package_url": "https://pypi.org/project/geors/"
 }
