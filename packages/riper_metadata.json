@@ -1,11 +1,11 @@
 {
   "name": "riper",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "ASE Calculator for TURBOMOLE's RIPER module",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "riper-0.2.3.tar.gz",
-  "download_time": "2026-03-29T08:59:25.611906",
+  "download_filename": "riper-0.2.5.tar.gz",
+  "download_time": "2026-03-29T09:49:49.670080",
   "package_url": "https://pypi.org/project/riper/"
 }

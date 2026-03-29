@@ -1,11 +1,11 @@
 {
   "name": "ferropdf",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "summary": "Fast HTML to PDF — Rust-powered, 10x faster than WeasyPrint",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ferropdf-0.2.5.tar.gz",
-  "download_time": "2026-03-28T22:00:17.269049",
+  "download_filename": "ferropdf-0.2.7.tar.gz",
+  "download_time": "2026-03-29T09:50:06.687306",
   "package_url": "https://pypi.org/project/ferropdf/"
 }

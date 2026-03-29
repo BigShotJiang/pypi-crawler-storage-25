@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-scraper-mcp",
+  "version": "4.7.2",
+  "summary": "MCP server for LinkedIn profile, company, and job scraping with Claude AI integration. Supports direct profile/company/job URL scraping with secure credential storage.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linkedin_scraper_mcp-4.7.2.tar.gz",
+  "download_time": "2026-03-29T09:49:39.886144",
+  "package_url": "https://pypi.org/project/linkedin-scraper-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "srx-lib-llm",
+  "version": "1.17.0",
+  "summary": "LLM helpers for SRX services: ChatOpenAI wrapper, tool base, Tavily tool, OpenAI Batch API, and infrastructure-agnostic batch state management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "srx_lib_llm-1.17.0.tar.gz",
+  "download_time": "2026-03-29T09:49:54.768762",
+  "package_url": "https://pypi.org/project/srx-lib-llm/"
+}

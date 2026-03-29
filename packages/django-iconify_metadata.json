@@ -1,0 +1,11 @@
+{
+  "name": "django-iconify",
+  "version": "0.5.0",
+  "summary": "Iconify API implementation and tools for Django projects",
+  "author": "Dominik George",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "django_iconify-0.5.0.tar.gz",
+  "download_time": "2026-03-29T09:49:48.653640",
+  "package_url": "https://pypi.org/project/django-iconify/"
+}
