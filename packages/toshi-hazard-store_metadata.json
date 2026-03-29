@@ -1,0 +1,11 @@
+{
+  "name": "toshi-hazard-store",
+  "version": "1.4.3",
+  "summary": "Library for saving and retrieving NZHSM openquake hazard results with convenience (uses pyarrow with parquet format).",
+  "author": "Chris B Chamberlain",
+  "license": null,
+  "home_page": null,
+  "download_filename": "toshi_hazard_store-1.4.3.tar.gz",
+  "download_time": "2026-03-29T23:49:02.813326",
+  "package_url": "https://pypi.org/project/toshi-hazard-store/"
+}

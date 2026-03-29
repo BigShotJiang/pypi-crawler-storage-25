@@ -1,11 +1,11 @@
 {
   "name": "genLhs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A package for generating Latin Hypercube Samples.",
   "author": "SpaceDragon Labs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "genlhs-0.1.0.tar.gz",
-  "download_time": "2026-03-29T23:02:00.210244",
+  "download_filename": "genlhs-0.1.1.tar.gz",
+  "download_time": "2026-03-29T23:49:34.722659",
   "package_url": "https://pypi.org/project/genLhs/"
 }

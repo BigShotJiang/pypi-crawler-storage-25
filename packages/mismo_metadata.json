@@ -1,0 +1,11 @@
+{
+  "name": "mismo",
+  "version": "0.3.0",
+  "summary": "The SQL/Ibis powered sklearn of record linkage.",
+  "author": "Nick Crews",
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "mismo-0.3.0.tar.gz",
+  "download_time": "2026-03-29T23:49:10.222899",
+  "package_url": "https://pypi.org/project/mismo/"
+}

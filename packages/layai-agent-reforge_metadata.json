@@ -1,0 +1,11 @@
+{
+  "name": "layai-agent-reforge",
+  "version": "0.2.1",
+  "summary": "Layerd AI Agent Reforge — outer-loop agent improvement (HyperAgents-inspired); complements LangGraph.",
+  "author": "Layerd AI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "layai_agent_reforge-0.2.1.tar.gz",
+  "download_time": "2026-03-29T23:48:58.457442",
+  "package_url": "https://pypi.org/project/layai-agent-reforge/"
+}
