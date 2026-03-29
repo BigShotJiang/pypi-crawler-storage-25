@@ -1,11 +1,11 @@
 {
   "name": "glyphh-code",
-  "version": "0.8.1",
+  "version": "0.9.0",
   "summary": "Codebase intelligence for Claude Code — HDC-powered file search",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "glyphh_code-0.8.1.tar.gz",
-  "download_time": "2026-03-29T19:22:12.177881",
+  "download_filename": "glyphh_code-0.9.0.tar.gz",
+  "download_time": "2026-03-29T21:05:06.955202",
   "package_url": "https://pypi.org/project/glyphh-code/"
 }

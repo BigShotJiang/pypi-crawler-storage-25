@@ -1,0 +1,11 @@
+{
+  "name": "petro-mcp",
+  "version": "0.8.1",
+  "summary": "MCP server exposing petroleum engineering data and tools to LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "petro_mcp-0.8.1.tar.gz",
+  "download_time": "2026-03-29T21:05:10.730142",
+  "package_url": "https://pypi.org/project/petro-mcp/"
+}

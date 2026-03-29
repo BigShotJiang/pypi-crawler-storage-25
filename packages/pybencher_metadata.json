@@ -1,0 +1,11 @@
+{
+  "name": "pybencher",
+  "version": "2.1.0",
+  "summary": "PyBencher is a Python benchmarking module for benchmarking several python functions at once. PyBencher supports tuneable benchmarking parameters as well as args and kwargs for function calls.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybencher-2.1.0.tar.gz",
+  "download_time": "2026-03-29T21:05:00.461343",
+  "package_url": "https://pypi.org/project/pybencher/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "donkeycar",
+  "version": "5.3.0",
+  "summary": "Self driving library for python.",
+  "author": "Will Roscoe, Adam Conway, Tawn Kramer",
+  "license": "MIT",
+  "home_page": "https://github.com/autorope/donkeycar",
+  "download_filename": "donkeycar-5.3.0.tar.gz",
+  "download_time": "2026-03-29T21:05:22.113372",
+  "package_url": "https://pypi.org/project/donkeycar/"
+}

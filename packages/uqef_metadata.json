@@ -1,0 +1,11 @@
+{
+  "name": "uqef",
+  "version": "0.5.1",
+  "summary": "Framework for Efficient Uncertainty Quantification",
+  "author": "Florian Künzner",
+  "license": "MIT",
+  "home_page": "https://gitlab.lrz.de/tum-i05/software/UQEF",
+  "download_filename": "uqef-0.5.1.tar.gz",
+  "download_time": "2026-03-29T21:04:45.608480",
+  "package_url": "https://pypi.org/project/uqef/"
+}
