@@ -1,0 +1,11 @@
+{
+  "name": "unforget-embed",
+  "version": "0.2.0",
+  "summary": "Zero-config embedded Unforget server — PostgreSQL 17 + pgvector 0.8 + memory API, no setup required",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "unforget_embed-0.2.0.tar.gz",
+  "download_time": "2026-03-29T18:41:37.283878",
+  "package_url": "https://pypi.org/project/unforget-embed/"
+}

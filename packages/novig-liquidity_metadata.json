@@ -1,0 +1,11 @@
+{
+  "name": "novig-liquidity",
+  "version": "1.0.14",
+  "summary": "A Python wrapper for the Novig API with built-in filtering and liquidity validation.",
+  "author": "Devon H",
+  "license": "MIT",
+  "home_page": "https://github.com/Hurteau101/Novig_Liquidity_Template",
+  "download_filename": "novig_liquidity-1.0.14.tar.gz",
+  "download_time": "2026-03-29T18:41:43.989747",
+  "package_url": "https://pypi.org/project/novig-liquidity/"
+}
