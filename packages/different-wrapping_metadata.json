@@ -1,11 +1,11 @@
 {
   "name": "different-wrapping",
-  "version": "1.1.2",
+  "version": "1.2.1",
   "summary": "Simple k8s yaml generator for CTF challenges",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "different_wrapping-1.1.2.tar.gz",
-  "download_time": "2026-03-28T14:39:59.497761",
+  "download_filename": "different_wrapping-1.2.1.tar.gz",
+  "download_time": "2026-03-29T06:12:07.512079",
   "package_url": "https://pypi.org/project/different-wrapping/"
 }

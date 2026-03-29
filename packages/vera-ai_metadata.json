@@ -1,11 +1,11 @@
 {
   "name": "vera-ai",
-  "version": "0.9.21",
+  "version": "0.10.2",
   "summary": "Bootstrap installer and wrapper for the Vera CLI",
   "author": "lemon07r",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vera_ai-0.9.21.tar.gz",
-  "download_time": "2026-03-28T15:03:44.204245",
+  "download_filename": "vera_ai-0.10.2.tar.gz",
+  "download_time": "2026-03-29T06:11:46.701628",
   "package_url": "https://pypi.org/project/vera-ai/"
 }

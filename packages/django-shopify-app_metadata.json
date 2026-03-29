@@ -1,0 +1,11 @@
+{
+  "name": "django-shopify-app",
+  "version": "2.2.1",
+  "summary": "A django app with all the tools required to make a Shopify app",
+  "author": "Santiago Fernandez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_shopify_app-2.2.1.tar.gz",
+  "download_time": "2026-03-29T06:12:06.415745",
+  "package_url": "https://pypi.org/project/django-shopify-app/"
+}
