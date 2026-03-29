@@ -1,11 +1,11 @@
 {
   "name": "lex-app",
-  "version": "2.0.0rc97",
+  "version": "2.0.0rc98",
   "summary": "A Python / Django library to create business applications easily with complex logic",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lex_app-2.0.0rc97.tar.gz",
-  "download_time": "2026-03-28T20:59:00.606082",
+  "download_filename": "lex_app-2.0.0rc98.tar.gz",
+  "download_time": "2026-03-29T02:15:04.846706",
   "package_url": "https://pypi.org/project/lex-app/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pygitgo",
+  "version": "1.3.0",
+  "summary": "GitGo CLI - Your Fast Git Companion. Simplifies git push, link, stash, and user management.",
+  "author": "Huerte",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pygitgo-1.3.0.tar.gz",
+  "download_time": "2026-03-29T02:15:02.047244",
+  "package_url": "https://pypi.org/project/pygitgo/"
+}

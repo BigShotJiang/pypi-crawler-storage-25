@@ -1,0 +1,11 @@
+{
+  "name": "sphinxext-remoteliteralinclude",
+  "version": "0.6.1",
+  "summary": "Extending literalinclude to include remote URLs",
+  "author": "Eli Barnett, Dalton Smith",
+  "license": null,
+  "home_page": "https://github.com/wpilibsuite/sphinxext-remoteliteralinclude",
+  "download_filename": "sphinxext_remoteliteralinclude-0.6.1.tar.gz",
+  "download_time": "2026-03-29T02:14:37.076386",
+  "package_url": "https://pypi.org/project/sphinxext-remoteliteralinclude/"
+}

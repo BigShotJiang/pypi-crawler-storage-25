@@ -1,0 +1,11 @@
+{
+  "name": "daro",
+  "version": "0.1.0",
+  "summary": "A CLI tool for managing personal board data with IM sync - Python bindings for daro Rust CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "daro-0.1.0-cp38-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-29T02:14:18.810510",
+  "package_url": "https://pypi.org/project/daro/"
+}

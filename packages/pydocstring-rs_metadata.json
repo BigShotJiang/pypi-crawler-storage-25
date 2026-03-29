@@ -1,0 +1,11 @@
+{
+  "name": "pydocstring-rs",
+  "version": "0.1.6",
+  "summary": "Python bindings for pydocstring — a zero-dependency Rust parser for Python docstrings (Google and NumPy styles) with a unified syntax tree and byte-precise source locations",
+  "author": "Ryuma Asai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pydocstring_rs-0.1.6.tar.gz",
+  "download_time": "2026-03-29T02:14:51.548310",
+  "package_url": "https://pypi.org/project/pydocstring-rs/"
+}

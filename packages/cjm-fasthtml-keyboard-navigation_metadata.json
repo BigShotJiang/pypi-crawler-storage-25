@@ -1,0 +1,11 @@
+{
+  "name": "cjm-fasthtml-keyboard-navigation",
+  "version": "0.0.15",
+  "summary": "A declarative keyboard navigation framework for FastHTML applications with multi-zone focus management, mode switching, and HTMX integration.",
+  "author": "Christian J. Mills",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cj-mills/cjm-fasthtml-keyboard-navigation",
+  "download_filename": "cjm_fasthtml_keyboard_navigation-0.0.15.tar.gz",
+  "download_time": "2026-03-29T02:14:19.971382",
+  "package_url": "https://pypi.org/project/cjm-fasthtml-keyboard-navigation/"
+}

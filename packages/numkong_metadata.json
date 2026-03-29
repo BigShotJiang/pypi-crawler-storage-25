@@ -1,11 +1,11 @@
 {
   "name": "numkong",
-  "version": "7.2.2",
+  "version": "7.2.4",
   "summary": "Portable mixed-precision BLAS-like vector math library for x86 and ARM",
   "author": "Ash Vardanian",
   "license": "Apache-2.0",
   "home_page": "https://github.com/ashvardanian/NumKong",
-  "download_filename": "numkong-7.2.2.tar.gz",
-  "download_time": "2026-03-28T17:47:01.001404",
+  "download_filename": "numkong-7.2.4.tar.gz",
+  "download_time": "2026-03-29T02:14:53.366806",
   "package_url": "https://pypi.org/project/numkong/"
 }

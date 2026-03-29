@@ -1,0 +1,11 @@
+{
+  "name": "dbgeomparser",
+  "version": "0.1.10",
+  "summary": "A package to handle conversion of shapely geometries to Oracle database compatible geometry objects",
+  "author": "Nino Shaw",
+  "license": null,
+  "home_page": "https://github.com/massivebean22/dbgeomparser",
+  "download_filename": "dbgeomparser-0.1.10.tar.gz",
+  "download_time": "2026-03-29T02:14:48.478546",
+  "package_url": "https://pypi.org/project/dbgeomparser/"
+}

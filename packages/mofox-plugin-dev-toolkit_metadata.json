@@ -1,0 +1,11 @@
+{
+  "name": "mofox-plugin-dev-toolkit",
+  "version": "0.4.10",
+  "summary": "开发工具集，用于快速创建、开发和测试 MoFox-Bot 插件",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "mofox_plugin_dev_toolkit-0.4.10.tar.gz",
+  "download_time": "2026-03-29T02:15:01.503814",
+  "package_url": "https://pypi.org/project/mofox-plugin-dev-toolkit/"
+}
