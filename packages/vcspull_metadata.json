@@ -1,0 +1,11 @@
+{
+  "name": "vcspull",
+  "version": "1.58.1",
+  "summary": "Manage and sync multiple git, mercurial, and svn repos",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vcspull-1.58.1.tar.gz",
+  "download_time": "2026-03-29T15:31:28.811706",
+  "package_url": "https://pypi.org/project/vcspull/"
+}

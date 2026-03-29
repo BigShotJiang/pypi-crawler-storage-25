@@ -1,11 +1,11 @@
 {
   "name": "cml-mcp",
-  "version": "0.25.0",
+  "version": "0.25.1",
   "summary": "Cisco Modeling Labs (CML) MCP Server",
   "author": "Joe Clarke",
   "license": null,
   "home_page": null,
-  "download_filename": "cml_mcp-0.25.0.tar.gz",
-  "download_time": "2026-03-29T14:06:11.419290",
+  "download_filename": "cml_mcp-0.25.1.tar.gz",
+  "download_time": "2026-03-29T15:31:18.533755",
   "package_url": "https://pypi.org/project/cml-mcp/"
 }

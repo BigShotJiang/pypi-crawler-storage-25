@@ -1,0 +1,11 @@
+{
+  "name": "geomtiles",
+  "version": "0.1.2",
+  "summary": "Librería geo_tiles y library para tiles y utilidades GIS / Geo tiles and GIS utilities library",
+  "author": "Santiago Lozada",
+  "license": "MIT",
+  "home_page": "https://github.com/santloz/geomtiles",
+  "download_filename": "geomtiles-0.1.2.tar.gz",
+  "download_time": "2026-03-29T15:31:06.959681",
+  "package_url": "https://pypi.org/project/geomtiles/"
+}

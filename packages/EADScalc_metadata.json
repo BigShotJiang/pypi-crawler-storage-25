@@ -1,0 +1,11 @@
+{
+  "name": "EADScalc",
+  "version": "1.2.2",
+  "summary": "Scripts for calculating the DS of modified cellulose from elemental analysis results",
+  "author": "Samuel Eyley",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eadscalc-1.2.2.tar.gz",
+  "download_time": "2026-03-29T15:31:24.170217",
+  "package_url": "https://pypi.org/project/EADScalc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cad-spec-gen",
+  "version": "2.0.0",
+  "summary": "CAD pipeline skill: design doc → structured spec → code generation → 3D renders → photorealistic images",
+  "author": "proecheng",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cad_spec_gen-2.0.0.tar.gz",
+  "download_time": "2026-03-29T15:31:07.469777",
+  "package_url": "https://pypi.org/project/cad-spec-gen/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyreversi",
+  "version": "2.1.1",
+  "summary": "pyreversi is a reversi game in your terminal with IA available.",
+  "author": "thib1984",
+  "license": "MIT",
+  "home_page": "https://github.com/thib1984/pyreversi",
+  "download_filename": "pyreversi-2.1.1.tar.gz",
+  "download_time": "2026-03-29T15:31:37.609604",
+  "package_url": "https://pypi.org/project/pyreversi/"
+}

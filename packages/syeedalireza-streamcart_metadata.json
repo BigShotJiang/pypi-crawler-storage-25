@@ -1,11 +1,11 @@
 {
   "name": "syeedalireza-streamcart",
-  "version": "0.1.0",
-  "summary": "StreamCart package",
+  "version": "1.0.1",
+  "summary": "Real-time Clickstream Data Lakehouse",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "syeedalireza_streamcart-0.1.0.tar.gz",
-  "download_time": "2026-03-29T13:21:18.190481",
+  "download_filename": "syeedalireza_streamcart-1.0.1.tar.gz",
+  "download_time": "2026-03-29T15:31:16.878161",
   "package_url": "https://pypi.org/project/syeedalireza-streamcart/"
 }
