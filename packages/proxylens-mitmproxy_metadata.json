@@ -1,11 +1,11 @@
 {
   "name": "proxylens-mitmproxy",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "mitmproxy addon client for ProxyLens Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "proxylens_mitmproxy-0.4.2.tar.gz",
-  "download_time": "2026-03-29T06:11:42.357223",
+  "download_filename": "proxylens_mitmproxy-0.4.3.tar.gz",
+  "download_time": "2026-03-29T22:30:35.471020",
   "package_url": "https://pypi.org/project/proxylens-mitmproxy/"
 }

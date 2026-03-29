@@ -1,0 +1,11 @@
+{
+  "name": "safedep",
+  "version": "0.1.2",
+  "summary": "Protect your dependencies from supply chain attacks.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "safedep-0.1.2.tar.gz",
+  "download_time": "2026-03-29T22:30:38.068012",
+  "package_url": "https://pypi.org/project/safedep/"
+}

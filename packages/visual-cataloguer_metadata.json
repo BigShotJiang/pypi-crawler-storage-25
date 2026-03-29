@@ -1,11 +1,11 @@
 {
   "name": "visual-cataloguer",
-  "version": "0.9.9",
+  "version": "0.10.1",
   "summary": "Batch catalogue physical collections using visual dividers (QR codes) and automated image processing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "visual_cataloguer-0.9.9-py3-none-any.whl",
-  "download_time": "2026-03-29T21:47:33.853173",
+  "download_filename": "visual_cataloguer-0.10.1-py3-none-any.whl",
+  "download_time": "2026-03-29T22:30:03.286227",
   "package_url": "https://pypi.org/project/visual-cataloguer/"
 }

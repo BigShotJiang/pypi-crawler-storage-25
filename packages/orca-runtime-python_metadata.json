@@ -1,11 +1,11 @@
 {
   "name": "orca-runtime-python",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Python async runtime for Orca state machines",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "orca_runtime_python-0.1.11-py3-none-any.whl",
-  "download_time": "2026-03-29T19:22:00.159828",
+  "download_filename": "orca_runtime_python-0.1.12.tar.gz",
+  "download_time": "2026-03-29T22:30:07.465336",
   "package_url": "https://pypi.org/project/orca-runtime-python/"
 }

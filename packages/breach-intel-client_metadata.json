@@ -1,0 +1,11 @@
+{
+  "name": "breach-intel-client",
+  "version": "0.3.1",
+  "summary": "Python SDK for the Breach Intel Policy Agent — attach any AI agent to breach logging in one import",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "breach_intel_client-0.3.1.tar.gz",
+  "download_time": "2026-03-29T22:30:29.778684",
+  "package_url": "https://pypi.org/project/breach-intel-client/"
+}

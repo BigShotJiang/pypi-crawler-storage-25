@@ -1,11 +1,11 @@
 {
   "name": "validkit",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "summary": "Async Python SDK for ValidKit Email Verification API - Built for AI Agents",
   "author": "ValidKit",
   "license": "MIT",
   "home_page": "https://github.com/ValidKit/validkit-python-sdk",
-  "download_filename": "validkit-1.1.1.tar.gz",
-  "download_time": "2026-03-29T21:47:23.091681",
+  "download_filename": "validkit-1.1.3.tar.gz",
+  "download_time": "2026-03-29T22:29:59.592429",
   "package_url": "https://pypi.org/project/validkit/"
 }

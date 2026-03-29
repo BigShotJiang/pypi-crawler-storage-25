@@ -1,11 +1,11 @@
 {
   "name": "fuelrod-backup",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "Interactive backup and restore CLI for PostgreSQL, MariaDB, and MSSQL.",
   "author": "masgeek",
   "license": null,
   "home_page": null,
-  "download_filename": "fuelrod_backup-2.0.0.tar.gz",
-  "download_time": "2026-03-29T20:32:17.126706",
+  "download_filename": "fuelrod_backup-2.1.0.tar.gz",
+  "download_time": "2026-03-29T22:30:14.742641",
   "package_url": "https://pypi.org/project/fuelrod-backup/"
 }

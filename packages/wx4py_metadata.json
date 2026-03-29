@@ -1,11 +1,11 @@
 {
   "name": "wx4py",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "wx4py - Python 微信自动化工具",
   "author": "claw-codes",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "wx4py-0.1.1.tar.gz",
-  "download_time": "2026-03-29T20:32:28.490240",
+  "download_filename": "wx4py-0.1.2.tar.gz",
+  "download_time": "2026-03-29T22:30:27.146547",
   "package_url": "https://pypi.org/project/wx4py/"
 }
