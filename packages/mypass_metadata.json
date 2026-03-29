@@ -1,0 +1,11 @@
+{
+  "name": "mypass",
+  "version": "2.2",
+  "summary": "A secure password manager with command line interface",
+  "author": "Sebastian Noack",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/snoack/mypass",
+  "download_filename": "mypass-2.2.tar.gz",
+  "download_time": "2026-03-29T17:07:15.564374",
+  "package_url": "https://pypi.org/project/mypass/"
+}

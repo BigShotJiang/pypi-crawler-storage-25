@@ -1,11 +1,11 @@
 {
   "name": "trainkit-vp",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "Typed PyTorch training utilities for checkpoints, scheduling, freezing, memory planning, and structured losses.",
   "author": "F000NK, Voluntas Progressus",
   "license": null,
   "home_page": null,
-  "download_filename": "trainkit_vp-2.0.0.tar.gz",
-  "download_time": "2026-03-29T16:42:19.848248",
+  "download_filename": "trainkit_vp-2.1.0.tar.gz",
+  "download_time": "2026-03-29T17:06:53.920964",
   "package_url": "https://pypi.org/project/trainkit-vp/"
 }
