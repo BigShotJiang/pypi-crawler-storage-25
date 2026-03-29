@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-chromadb",
+  "version": "0.54.0",
+  "summary": "OpenTelemetry Chroma DB instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_chromadb-0.54.0.tar.gz",
+  "download_time": "2026-03-29T13:21:36.044435",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-chromadb/"
+}

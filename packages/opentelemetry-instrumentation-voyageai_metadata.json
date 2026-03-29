@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-voyageai",
+  "version": "0.54.0",
+  "summary": "OpenTelemetry Voyage AI instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_voyageai-0.54.0.tar.gz",
+  "download_time": "2026-03-29T13:21:22.951854",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-voyageai/"
+}

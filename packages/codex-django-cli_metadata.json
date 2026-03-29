@@ -1,0 +1,11 @@
+{
+  "name": "codex-django-cli",
+  "version": "0.2.0",
+  "summary": "Standalone CLI and blueprint scaffolding package for codex-django",
+  "author": "CodexDLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "codex_django_cli-0.2.0.tar.gz",
+  "download_time": "2026-03-29T13:21:49.135053",
+  "package_url": "https://pypi.org/project/codex-django-cli/"
+}
