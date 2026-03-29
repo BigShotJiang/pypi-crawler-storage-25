@@ -1,0 +1,11 @@
+{
+  "name": "quickbase-api",
+  "version": "0.3.0",
+  "summary": "A simple Python wrapper for the Quickbase API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quickbase_api-0.3.0.tar.gz",
+  "download_time": "2026-03-29T20:32:46.141054",
+  "package_url": "https://pypi.org/project/quickbase-api/"
+}

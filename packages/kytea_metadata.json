@@ -1,0 +1,11 @@
+{
+  "name": "kytea",
+  "version": "0.1.11",
+  "summary": "A text analysis toolkit KyTea binding",
+  "author": "Aki Ariga",
+  "license": "MIT license",
+  "home_page": "https://github.com/chezou/Mykytea-python",
+  "download_filename": "kytea-0.1.11-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-03-29T20:32:42.519259",
+  "package_url": "https://pypi.org/project/kytea/"
+}

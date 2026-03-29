@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-mcp",
-  "version": "0.54.0",
+  "version": "0.55.0",
   "summary": "OpenTelemetry mcp instrumentation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_mcp-0.54.0.tar.gz",
-  "download_time": "2026-03-29T13:21:30.297791",
+  "download_filename": "opentelemetry_instrumentation_mcp-0.55.0.tar.gz",
+  "download_time": "2026-03-29T20:32:58.048320",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-mcp/"
 }
