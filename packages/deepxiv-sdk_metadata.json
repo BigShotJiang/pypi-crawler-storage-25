@@ -1,0 +1,11 @@
+{
+  "name": "deepxiv-sdk",
+  "version": "0.2.0",
+  "summary": "A Python package for arXiv paper access with CLI and MCP server support",
+  "author": "Hongjin Qian",
+  "license": "MIT",
+  "home_page": "https://github.com/qhjqhj00/deepxiv-sdk",
+  "download_filename": "deepxiv_sdk-0.2.0.tar.gz",
+  "download_time": "2026-03-29T07:20:33.384038",
+  "package_url": "https://pypi.org/project/deepxiv-sdk/"
+}

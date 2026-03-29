@@ -1,0 +1,11 @@
+{
+  "name": "errortools",
+  "version": "1.0.0",
+  "summary": "A toolset for working with Python exceptions and warnings",
+  "author": "Evan Yang",
+  "license": "MIT",
+  "home_page": "https://github.com/more-abc/errortools",
+  "download_filename": "errortools-1.0.0.tar.gz",
+  "download_time": "2026-03-29T07:19:57.758891",
+  "package_url": "https://pypi.org/project/errortools/"
+}

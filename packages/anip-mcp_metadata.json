@@ -1,0 +1,11 @@
+{
+  "name": "anip-mcp",
+  "version": "0.11.1",
+  "summary": "ANIP MCP bindings — expose ANIPService capabilities as MCP tools",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "anip_mcp-0.11.1.tar.gz",
+  "download_time": "2026-03-29T07:20:24.134760",
+  "package_url": "https://pypi.org/project/anip-mcp/"
+}

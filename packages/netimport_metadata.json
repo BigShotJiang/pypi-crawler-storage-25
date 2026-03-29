@@ -1,0 +1,11 @@
+{
+  "name": "netimport",
+  "version": "0.1.0",
+  "summary": "Static analysis CLI for Python import graphs and dependency summaries",
+  "author": "Beilak Aliev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "netimport-0.1.0.tar.gz",
+  "download_time": "2026-03-29T07:19:59.808258",
+  "package_url": "https://pypi.org/project/netimport/"
+}

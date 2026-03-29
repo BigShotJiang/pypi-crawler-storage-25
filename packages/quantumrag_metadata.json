@@ -1,11 +1,11 @@
 {
   "name": "quantumrag",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "summary": "Index-Heavy, Query-Light RAG Engine — Put in docs, ask questions, it just works.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quantumrag-0.2.1.tar.gz",
-  "download_time": "2026-03-28T23:46:33.939649",
+  "download_filename": "quantumrag-0.3.1.tar.gz",
+  "download_time": "2026-03-29T07:20:14.322750",
   "package_url": "https://pypi.org/project/quantumrag/"
 }

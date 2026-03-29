@@ -1,0 +1,11 @@
+{
+  "name": "anip-server",
+  "version": "0.11.1",
+  "summary": "ANIP server primitives — delegation, audit, checkpoints, Merkle trees",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "anip_server-0.11.1.tar.gz",
+  "download_time": "2026-03-29T07:20:26.712210",
+  "package_url": "https://pypi.org/project/anip-server/"
+}
