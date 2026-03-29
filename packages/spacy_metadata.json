@@ -1,0 +1,11 @@
+{
+  "name": "spacy",
+  "version": "3.8.14",
+  "summary": "Industrial-strength Natural Language Processing (NLP) in Python",
+  "author": "Explosion",
+  "license": "MIT",
+  "home_page": "https://spacy.io",
+  "download_filename": "spacy-3.8.14-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-03-29T11:06:08.798673",
+  "package_url": "https://pypi.org/project/spacy/"
+}

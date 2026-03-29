@@ -1,0 +1,11 @@
+{
+  "name": "pinrag",
+  "version": "0.9.26",
+  "summary": "A powerful RAG (Retrieval-Augmented Generation) system built with LangChain, designed as an MCP server for Cursor, VS Code, and other AI assistants",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pinrag-0.9.26.tar.gz",
+  "download_time": "2026-03-29T11:05:57.521410",
+  "package_url": "https://pypi.org/project/pinrag/"
+}

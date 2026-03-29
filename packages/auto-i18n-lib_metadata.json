@@ -1,0 +1,11 @@
+{
+  "name": "auto-i18n-lib",
+  "version": "0.4.0",
+  "summary": "Post-render HTML and frontend UI dictionary translation for Python projects with OpenAI-backed caching",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auto_i18n_lib-0.4.0.tar.gz",
+  "download_time": "2026-03-29T11:05:40.949989",
+  "package_url": "https://pypi.org/project/auto-i18n-lib/"
+}

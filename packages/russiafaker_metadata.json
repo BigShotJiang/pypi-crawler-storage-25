@@ -1,11 +1,11 @@
 {
   "name": "russiafaker",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "FakerRussia - генератор российских персональных данных",
   "author": "WARATECS",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "russiafaker-1.0.0.tar.gz",
-  "download_time": "2026-03-29T04:47:08.028359",
+  "download_filename": "russiafaker-2.0.0.tar.gz",
+  "download_time": "2026-03-29T11:05:52.601840",
   "package_url": "https://pypi.org/project/russiafaker/"
 }

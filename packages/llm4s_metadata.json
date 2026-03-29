@@ -1,11 +1,11 @@
 {
   "name": "llm4s",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "K9s-inspired observability control tower for LLM & MCP Servers",
   "author": "yunho",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm4s-0.1.9.tar.gz",
-  "download_time": "2026-03-29T10:32:56.586213",
+  "download_filename": "llm4s-0.1.11.tar.gz",
+  "download_time": "2026-03-29T11:05:44.995667",
   "package_url": "https://pypi.org/project/llm4s/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "inferwall",
-  "version": "0.1.0",
-  "summary": "Signature-based AI application firewall",
+  "version": "0.1.3",
+  "summary": "Signature-based AI application firewall — protects LLM apps against prompt injection, jailbreaks, and data leakage",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "inferwall-0.1.0-py3-none-any.whl",
-  "download_time": "2026-03-29T10:32:48.374982",
+  "download_filename": "inferwall-0.1.3-py3-none-any.whl",
+  "download_time": "2026-03-29T11:06:06.535803",
   "package_url": "https://pypi.org/project/inferwall/"
 }

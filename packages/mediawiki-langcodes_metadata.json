@@ -1,0 +1,11 @@
+{
+  "name": "mediawiki-langcodes",
+  "version": "0.2.19",
+  "summary": "Convert MediaWiki language names and codes",
+  "author": "xxyzz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mediawiki_langcodes-0.2.19.tar.gz",
+  "download_time": "2026-03-29T11:06:04.263446",
+  "package_url": "https://pypi.org/project/mediawiki-langcodes/"
+}

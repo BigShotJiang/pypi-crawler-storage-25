@@ -1,0 +1,11 @@
+{
+  "name": "pyserpent",
+  "version": "1.2.0",
+  "summary": "Pure Python implementation of the Serpent block cipher with CBC mode and PKCS#7 padding",
+  "author": "svvqt",
+  "license": null,
+  "home_page": "https://github.com/svvqt/pyserpent",
+  "download_filename": "pyserpent-1.2.0.tar.gz",
+  "download_time": "2026-03-29T11:06:04.837836",
+  "package_url": "https://pypi.org/project/pyserpent/"
+}

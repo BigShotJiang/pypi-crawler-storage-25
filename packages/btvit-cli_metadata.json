@@ -1,0 +1,11 @@
+{
+  "name": "btvit-cli",
+  "version": "0.1.2.post4",
+  "summary": "Typer CLI package for the Vit medical multi-axis Vision Transformer project.",
+  "author": "SuShuHeng",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "btvit_cli-0.1.2.post4.tar.gz",
+  "download_time": "2026-03-29T11:05:52.058110",
+  "package_url": "https://pypi.org/project/btvit-cli/"
+}
