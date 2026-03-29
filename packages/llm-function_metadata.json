@@ -1,0 +1,11 @@
+{
+  "name": "llm-function",
+  "version": "0.0.1",
+  "summary": "Llm function is a decorator that uses llm to assemble reusable workflows from available tools to match input and output models.",
+  "author": "Kyrylo Mordan",
+  "license": "apache-2.0",
+  "home_page": "https://kiril-mordan.github.io/adaptive-reusables/llm-function/",
+  "download_filename": "llm_function-0.0.1.tar.gz",
+  "download_time": "2026-03-29T15:58:04.722370",
+  "package_url": "https://pypi.org/project/llm-function/"
+}

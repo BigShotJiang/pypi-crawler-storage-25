@@ -1,0 +1,11 @@
+{
+  "name": "pref_voting",
+  "version": "1.17.13",
+  "summary": "pref_voting is a Python package that contains tools to reason about elections and margin graphs, and implementations of voting methods.",
+  "author": "Eric Pacuit",
+  "license": "MIT",
+  "home_page": "https://github.com/voting-tools/pref_voting",
+  "download_filename": "pref_voting-1.17.13.tar.gz",
+  "download_time": "2026-03-29T15:58:37.662585",
+  "package_url": "https://pypi.org/project/pref_voting/"
+}

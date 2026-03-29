@@ -1,0 +1,11 @@
+{
+  "name": "pylsqpack",
+  "version": "0.3.24",
+  "summary": "Python wrapper for the ls-qpack QPACK library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylsqpack-0.3.24.tar.gz",
+  "download_time": "2026-03-29T15:58:46.622471",
+  "package_url": "https://pypi.org/project/pylsqpack/"
+}

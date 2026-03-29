@@ -1,0 +1,11 @@
+{
+  "name": "polymarket-arb-detector",
+  "version": "0.1.1",
+  "summary": "Arbitrage gap detector for Polymarket. Finds YES+NO mispricings. Part of the polymarket-trading-mcp toolkit.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polymarket_arb_detector-0.1.1.tar.gz",
+  "download_time": "2026-03-29T15:58:31.928963",
+  "package_url": "https://pypi.org/project/polymarket-arb-detector/"
+}

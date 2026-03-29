@@ -1,0 +1,11 @@
+{
+  "name": "polymarket-timer",
+  "version": "0.1.1",
+  "summary": "Contract expiry timer for Polymarket markets. BTC 5-min/15-min slug parsing. Part of the polymarket-trading-mcp toolkit.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polymarket_timer-0.1.1.tar.gz",
+  "download_time": "2026-03-29T15:58:29.343635",
+  "package_url": "https://pypi.org/project/polymarket-timer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "goldenflow",
+  "version": "1.0.0",
+  "summary": "Data transformation toolkit — standardize, reshape, and normalize messy data before it hits your pipeline.",
+  "author": "Ben Severn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "goldenflow-1.0.0.tar.gz",
+  "download_time": "2026-03-29T15:58:19.944394",
+  "package_url": "https://pypi.org/project/goldenflow/"
+}

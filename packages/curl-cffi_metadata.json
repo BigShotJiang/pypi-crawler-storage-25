@@ -1,0 +1,11 @@
+{
+  "name": "curl-cffi",
+  "version": "0.14.0",
+  "summary": "libcurl ffi bindings for Python, with impersonation support.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "curl_cffi-0.14.0.tar.gz",
+  "download_time": "2026-03-29T15:58:07.372980",
+  "package_url": "https://pypi.org/project/curl-cffi/"
+}
