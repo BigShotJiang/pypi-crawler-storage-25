@@ -1,0 +1,11 @@
+{
+  "name": "pyqvd",
+  "version": "2.3.2",
+  "summary": "Utility library for reading/writing Qlik View Data (QVD) files in Python.",
+  "author": "Constantin Müller",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyqvd-2.3.2.tar.gz",
+  "download_time": "2026-03-29T14:53:49.326812",
+  "package_url": "https://pypi.org/project/pyqvd/"
+}

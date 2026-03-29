@@ -1,0 +1,11 @@
+{
+  "name": "hsort",
+  "version": "3.0.0",
+  "summary": "A high-performance sorting and merging engine optimized for processing large-scale data files, with stable multi-key sorting support for fixed-length, variable-length, and CSV formats.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "hsort-3.0.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-03-29T14:53:35.483443",
+  "package_url": "https://pypi.org/project/hsort/"
+}

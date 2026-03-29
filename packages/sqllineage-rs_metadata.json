@@ -1,0 +1,11 @@
+{
+  "name": "sqllineage-rs",
+  "version": "0.1.0",
+  "summary": "Extract table and column-level lineage from SQL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqllineage_rs-0.1.0.tar.gz",
+  "download_time": "2026-03-29T14:53:40.425626",
+  "package_url": "https://pypi.org/project/sqllineage-rs/"
+}
