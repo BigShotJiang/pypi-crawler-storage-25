@@ -1,0 +1,11 @@
+{
+  "name": "vcti-dataspace-nastran-h5",
+  "version": "1.0.0",
+  "summary": "Nastran HDF5 data space — solution file navigation, modal data extraction, and result access for MSC.Nastran H5 output files",
+  "author": "Visual Collaboration Technologies Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vcti_dataspace_nastran_h5-1.0.0.tar.gz",
+  "download_time": "2026-03-29T16:41:38.053666",
+  "package_url": "https://pypi.org/project/vcti-dataspace-nastran-h5/"
+}

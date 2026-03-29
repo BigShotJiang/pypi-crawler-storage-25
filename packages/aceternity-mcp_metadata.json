@@ -1,11 +1,11 @@
 {
   "name": "aceternity-mcp",
-  "version": "1.0",
-  "summary": "An MCP server that exposes a structured registry of Aceternity UI components with rich descriptions, search, recommendations, and installation workflows.",
+  "version": "1.5",
+  "summary": "A pipx application for Aceternity UI components - MCP server with CLI for discovery, recommendations, and installation.",
   "author": "Aceternity MCP Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aceternity_mcp-1.0.tar.gz",
-  "download_time": "2026-03-29T15:31:25.709765",
+  "download_filename": "aceternity_mcp-1.5.tar.gz",
+  "download_time": "2026-03-29T16:42:12.150340",
   "package_url": "https://pypi.org/project/aceternity-mcp/"
 }

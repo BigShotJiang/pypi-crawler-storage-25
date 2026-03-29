@@ -1,11 +1,11 @@
 {
   "name": "trainkit-vp",
-  "version": "1.0.0",
-  "summary": "Training utilities: LR scheduling, VRAM profiling, automatic batch planning",
+  "version": "2.0.0",
+  "summary": "Typed PyTorch training utilities for checkpoints, scheduling, freezing, memory planning, and structured losses.",
   "author": "F000NK, Voluntas Progressus",
   "license": null,
   "home_page": null,
-  "download_filename": "trainkit_vp-1.0.0.tar.gz",
-  "download_time": "2026-03-28T14:39:58.985343",
+  "download_filename": "trainkit_vp-2.0.0.tar.gz",
+  "download_time": "2026-03-29T16:42:19.848248",
   "package_url": "https://pypi.org/project/trainkit-vp/"
 }
