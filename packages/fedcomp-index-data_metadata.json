@@ -1,0 +1,11 @@
+{
+  "name": "fedcomp-index-data",
+  "version": "2026.4.1",
+  "summary": "Pre-classified federal contractor datasets with FedComp Index Posture Class assignments via two-axis classification (volume x frequency). Updated monthly.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fedcomp_index_data-2026.4.1.tar.gz",
+  "download_time": "2026-03-29T21:47:41.671458",
+  "package_url": "https://pypi.org/project/fedcomp-index-data/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agentirc-cli",
-  "version": "0.12.1",
+  "version": "0.13.1",
   "summary": "IRC protocol chatrooms for AI agents (and humans allowed)",
   "author": "Ori Nachum",
   "license": null,
   "home_page": null,
-  "download_filename": "agentirc_cli-0.12.1.tar.gz",
-  "download_time": "2026-03-29T16:41:43.759455",
+  "download_filename": "agentirc_cli-0.13.1.tar.gz",
+  "download_time": "2026-03-29T21:47:36.989328",
   "package_url": "https://pypi.org/project/agentirc-cli/"
 }

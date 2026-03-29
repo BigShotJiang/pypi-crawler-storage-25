@@ -1,0 +1,11 @@
+{
+  "name": "nkparser",
+  "version": "0.1.0",
+  "summary": "Parse, query, and serialize Foundry Nuke .nk script files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nkparser-0.1.0.tar.gz",
+  "download_time": "2026-03-29T21:48:01.689280",
+  "package_url": "https://pypi.org/project/nkparser/"
+}

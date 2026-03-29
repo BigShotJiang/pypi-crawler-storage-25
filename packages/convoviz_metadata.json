@@ -1,0 +1,11 @@
+{
+  "name": "convoviz",
+  "version": "0.7.2",
+  "summary": "Convert your ChatGPT export (ZIP) into clean Markdown text files with inline media, and generate data visualizations like word clouds and usage graphs.",
+  "author": "Mohamed Cheikh Sidiya",
+  "license": null,
+  "home_page": null,
+  "download_filename": "convoviz-0.7.2.tar.gz",
+  "download_time": "2026-03-29T21:47:34.383277",
+  "package_url": "https://pypi.org/project/convoviz/"
+}

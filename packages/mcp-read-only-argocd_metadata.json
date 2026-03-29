@@ -1,0 +1,11 @@
+{
+  "name": "mcp-read-only-argocd",
+  "version": "0.1.1",
+  "summary": "MCP server for read-only access to Argo CD instances using browser session cookies",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_read_only_argocd-0.1.1.tar.gz",
+  "download_time": "2026-03-29T21:47:32.807161",
+  "package_url": "https://pypi.org/project/mcp-read-only-argocd/"
+}
