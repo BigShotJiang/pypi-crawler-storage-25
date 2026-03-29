@@ -1,16 +1,8 @@
 {
-  "download_time": "2026-03-29T07:20:38.026404",
-  "total_packages_downloaded": 84,
-  "total_size_mb": 45.48,
+  "download_time": "2026-03-29T08:03:41.259390",
+  "total_packages_downloaded": 85,
+  "total_size_mb": 9.49,
   "packages": [
-    "luckee-cli",
-    "solarenergy",
-    "pysegmenters-rules_segmenter",
-    "pysegmenters-syntok",
-    "raystack-proton",
-    "pascal-agent",
-    "dbt-cube-sync",
-    "errortools",
     "astraapi",
     "yreflow",
     "snakesee",
@@ -20,6 +12,8 @@
     "quancoms",
     "snakemake-logger-plugin-snakesee",
     "pytest-assay",
+    "pysegmenters-rules_segmenter",
+    "pysegmenters-syntok",
     "python-project-doctor-cli",
     "echo-guard",
     "TopDownHockey-Scraper",
@@ -29,6 +23,7 @@
     "pysegmenters-blingfire",
     "inkpress",
     "piagentsync",
+    "pascal-agent",
     "datacleaner-vb",
     "sphinx-oceanid",
     "kotonebot",
@@ -86,6 +81,12 @@
     "lintro",
     "defeatbeta-api",
     "visual-cataloguer",
-    "camera-ui-sdk"
+    "camera-ui-sdk",
+    "geneva-forecast",
+    "chalkpy",
+    "headroom-ai",
+    "openwebgoggles",
+    "pyprocessors-openai_completion",
+    "pyprocessors-nameparser"
   ]
 }

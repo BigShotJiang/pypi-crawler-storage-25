@@ -1,11 +1,11 @@
 {
   "name": "autopr-core",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "AI-powered Pull Request Generator & Reviewer - Automate PR titles, descriptions, and code reviews",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "autopr_core-0.5.0.tar.gz",
-  "download_time": "2026-03-29T07:20:05.054225",
+  "download_filename": "autopr_core-0.5.1.tar.gz",
+  "download_time": "2026-03-29T08:03:01.644217",
   "package_url": "https://pypi.org/project/autopr-core/"
 }
