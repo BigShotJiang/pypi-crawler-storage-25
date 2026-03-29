@@ -1,11 +1,11 @@
 {
   "name": "costs",
-  "version": "0.1.38",
+  "version": "0.1.39",
   "summary": "Zero-config AI cost calculator per commit/model with liteLLM",
   "author": "Tom Sapletta",
   "license": null,
   "home_page": null,
-  "download_filename": "costs-0.1.38.tar.gz",
-  "download_time": "2026-03-29T11:44:15.229583",
+  "download_filename": "costs-0.1.39.tar.gz",
+  "download_time": "2026-03-29T12:02:12.285852",
   "package_url": "https://pypi.org/project/costs/"
 }

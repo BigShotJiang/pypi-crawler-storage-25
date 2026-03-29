@@ -1,0 +1,11 @@
+{
+  "name": "mcp-memory-service",
+  "version": "10.29.0",
+  "summary": "Open-source persistent memory for AI agent pipelines and Claude. REST API + semantic search + knowledge graph + autonomous consolidation. Self-host, zero cloud cost.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mcp_memory_service-10.29.0.tar.gz",
+  "download_time": "2026-03-29T12:02:11.223213",
+  "package_url": "https://pypi.org/project/mcp-memory-service/"
+}

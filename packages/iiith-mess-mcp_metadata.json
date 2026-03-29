@@ -1,11 +1,11 @@
 {
   "name": "iiith-mess-mcp",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "summary": "MCP server for the IIIT Hyderabad Mess System",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "iiith_mess_mcp-0.1.1.tar.gz",
-  "download_time": "2026-03-29T11:44:53.030335",
+  "download_filename": "iiith_mess_mcp-1.0.0.tar.gz",
+  "download_time": "2026-03-29T12:01:50.880497",
   "package_url": "https://pypi.org/project/iiith-mess-mcp/"
 }

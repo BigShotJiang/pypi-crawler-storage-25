@@ -1,11 +1,11 @@
 {
   "name": "mcp-pii-guard-au",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "MCP server for Australian PII detection and sanitisation — TFN, Medicare, ABN, ACN, BSB, bank account, drivers licence, passport, Centrelink CRN, and address recognisers with checksum validation, compliance audit logging, built on Presidio",
   "author": "Matt Wagstaff",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_pii_guard_au-0.1.0.tar.gz",
-  "download_time": "2026-03-29T06:12:08.923848",
+  "download_filename": "mcp_pii_guard_au-0.2.0.tar.gz",
+  "download_time": "2026-03-29T12:02:07.963255",
   "package_url": "https://pypi.org/project/mcp-pii-guard-au/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "omnivad",
+  "version": "0.2.2",
+  "summary": "OmniVAD — Cross-platform Voice Activity Detection and Audio Event Detection (based on FireRedVAD)",
+  "author": "FeiTeng Li",
+  "license": null,
+  "home_page": null,
+  "download_filename": "omnivad-0.2.2.tar.gz",
+  "download_time": "2026-03-29T12:02:10.133176",
+  "package_url": "https://pypi.org/project/omnivad/"
+}

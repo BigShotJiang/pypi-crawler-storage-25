@@ -1,0 +1,11 @@
+{
+  "name": "selector-complexity",
+  "version": "0.6.0",
+  "summary": "Selector Complexity Framework: classifying tautologies by selector cost in IPS (Ideal Proof Systems). Proves SC(0) ⊊ SC(1) ⊊ SC(2) ⊊ SC(3).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "selector_complexity-0.6.0.tar.gz",
+  "download_time": "2026-03-29T12:02:14.970485",
+  "package_url": "https://pypi.org/project/selector-complexity/"
+}

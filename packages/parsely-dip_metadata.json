@@ -1,11 +1,11 @@
 {
   "name": "parsely-dip",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "PARSELY-DIP: Deterministic Intent Parser — RegEx and NLP pipeline for intent recognition",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "parsely_dip-0.0.2.tar.gz",
-  "download_time": "2026-03-29T09:00:01.681953",
+  "download_filename": "parsely_dip-0.0.4.tar.gz",
+  "download_time": "2026-03-29T12:02:16.032595",
   "package_url": "https://pypi.org/project/parsely-dip/"
 }

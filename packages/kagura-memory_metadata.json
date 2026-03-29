@@ -1,11 +1,11 @@
 {
   "name": "kagura-memory",
-  "version": "0.2.3",
+  "version": "0.4.2",
   "summary": "Python SDK for Kagura Memory Cloud — AI-driven memory management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kagura_memory-0.2.3.tar.gz",
-  "download_time": "2026-03-28T14:39:34.495618",
+  "download_filename": "kagura_memory-0.4.2.tar.gz",
+  "download_time": "2026-03-29T12:01:45.339824",
   "package_url": "https://pypi.org/project/kagura-memory/"
 }

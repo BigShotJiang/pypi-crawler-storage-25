@@ -1,0 +1,11 @@
+{
+  "name": "vcti-multi-valued-array",
+  "version": "1.5.0",
+  "summary": "Variable-length array for multivalued mappings — CSR-like storage with domain-codomain operations, reverse, cascade, and filtering",
+  "author": "Visual Collaboration Technologies Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vcti_multi_valued_array-1.5.0.tar.gz",
+  "download_time": "2026-03-29T12:01:46.942961",
+  "package_url": "https://pypi.org/project/vcti-multi-valued-array/"
+}

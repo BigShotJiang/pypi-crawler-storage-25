@@ -1,11 +1,11 @@
 {
   "name": "pfix",
-  "version": "0.1.59",
+  "version": "0.1.62",
   "summary": "Self-healing Python — catches runtime errors, fixes code & dependencies via LLM + MCP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pfix-0.1.59.tar.gz",
-  "download_time": "2026-03-29T11:44:13.647262",
+  "download_filename": "pfix-0.1.62.tar.gz",
+  "download_time": "2026-03-29T12:01:42.504865",
   "package_url": "https://pypi.org/project/pfix/"
 }

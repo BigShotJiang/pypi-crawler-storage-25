@@ -1,0 +1,11 @@
+{
+  "name": "aa-miningtaxes",
+  "version": "1.4.36",
+  "summary": "An Alliance Auth app that tracks and applies taxes for mining",
+  "author": "Arc Tiru",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/arctiru/aa-miningtaxes",
+  "download_filename": "aa_miningtaxes-1.4.36.tar.gz",
+  "download_time": "2026-03-29T12:02:08.498777",
+  "package_url": "https://pypi.org/project/aa-miningtaxes/"
+}

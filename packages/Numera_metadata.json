@@ -1,11 +1,11 @@
 {
   "name": "Numera",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A fast scientific math library powered by Cython",
   "author": "Elix8",
   "license": "MIT",
   "home_page": "https://github.com/tonpseudo/Numera",
-  "download_filename": "numera-0.1.7.tar.gz",
-  "download_time": "2026-03-28T19:52:15.733566",
+  "download_filename": "numera-0.1.8.tar.gz",
+  "download_time": "2026-03-29T12:02:06.356827",
   "package_url": "https://pypi.org/project/Numera/"
 }
