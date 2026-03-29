@@ -1,0 +1,11 @@
+{
+  "name": "switchboard-hw",
+  "version": "0.3.2",
+  "summary": "A low-latency communication library for RTL simulation and emulation.",
+  "author": "Zero ASIC",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/zeroasiccorp/switchboard",
+  "download_filename": "switchboard_hw-0.3.2-cp310-cp310-macosx_10_13_x86_64.whl",
+  "download_time": "2026-03-29T17:49:19.040759",
+  "package_url": "https://pypi.org/project/switchboard-hw/"
+}

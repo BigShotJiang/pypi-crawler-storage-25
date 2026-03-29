@@ -1,0 +1,11 @@
+{
+  "name": "goodwe",
+  "version": "0.4.10",
+  "summary": "Read data from GoodWe inverter via local network",
+  "author": "Martin Letenay, Marcel Blijleven",
+  "license": "MIT",
+  "home_page": "https://github.com/marcelblijleven/goodwe",
+  "download_filename": "goodwe-0.4.10.tar.gz",
+  "download_time": "2026-03-29T17:49:44.636394",
+  "package_url": "https://pypi.org/project/goodwe/"
+}

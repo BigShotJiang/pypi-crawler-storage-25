@@ -1,11 +1,11 @@
 {
   "name": "orchcore",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Reusable orchestration core for AI coding agent CLI pipelines",
   "author": "Abdelaziz Abdelrasol",
   "license": null,
   "home_page": null,
-  "download_filename": "orchcore-0.1.0.tar.gz",
-  "download_time": "2026-03-28T23:46:52.689837",
+  "download_filename": "orchcore-0.2.1.tar.gz",
+  "download_time": "2026-03-29T17:49:22.309400",
   "package_url": "https://pypi.org/project/orchcore/"
 }

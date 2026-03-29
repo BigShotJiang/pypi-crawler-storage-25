@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-school-admission-lead",
+  "version": "14.0.1.0.1.dev1",
+  "summary": "School Admission Lead",
+  "author": "PT. Simetri Sinergi Indonesia, OpenSynergy Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_school_admission_lead-14.0.1.0.1.dev1-py3-none-any.whl",
+  "download_time": "2026-03-29T17:49:19.693576",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-school-admission-lead/"
+}

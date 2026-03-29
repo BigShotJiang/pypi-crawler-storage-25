@@ -1,11 +1,11 @@
 {
   "name": "mt5-remote-reader-mcp",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Read-only MCP server to monitor MetaTrader 5 accounts on remote Windows VPS via SSH",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mt5_remote_reader_mcp-0.3.0.tar.gz",
-  "download_time": "2026-03-28T13:58:46.853134",
+  "download_filename": "mt5_remote_reader_mcp-0.4.0.tar.gz",
+  "download_time": "2026-03-29T17:49:06.890875",
   "package_url": "https://pypi.org/project/mt5-remote-reader-mcp/"
 }
