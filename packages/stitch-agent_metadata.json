@@ -1,11 +1,11 @@
 {
   "name": "stitch-agent",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "summary": "The AI that stitches your CI back together",
   "author": "stitch contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stitch_agent-0.4.1.tar.gz",
-  "download_time": "2026-03-28T07:34:46.643823",
+  "download_filename": "stitch_agent-0.4.3.tar.gz",
+  "download_time": "2026-03-30T21:58:31.533715",
   "package_url": "https://pypi.org/project/stitch-agent/"
 }

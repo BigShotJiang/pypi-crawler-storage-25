@@ -1,11 +1,11 @@
 {
   "name": "crdt-merge",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "summary": "Mathematically proven conflict-free merge for AI model weights, datasets, and agent memory. Zero dependencies. Patent pending.",
   "author": null,
   "license": "BUSL-1.1",
   "home_page": null,
-  "download_filename": "crdt_merge-0.9.1.tar.gz",
-  "download_time": "2026-03-30T20:27:57.569427",
+  "download_filename": "crdt_merge-0.9.2.tar.gz",
+  "download_time": "2026-03-30T21:58:29.470395",
   "package_url": "https://pypi.org/project/crdt-merge/"
 }

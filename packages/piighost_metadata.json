@@ -1,11 +1,11 @@
 {
   "name": "piighost",
-  "version": "0.2.0",
-  "summary": "PII anonymization middleware for AI agent conversations GLiNER2 NER + LangChain integration.",
+  "version": "0.4.2",
+  "summary": "PII anonymization middleware for AI agent conversations using LangChain integration.",
   "author": "Athroniaeth",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "piighost-0.2.0.tar.gz",
-  "download_time": "2026-03-28T22:40:41.319881",
+  "download_filename": "piighost-0.4.2.tar.gz",
+  "download_time": "2026-03-30T21:58:44.931281",
   "package_url": "https://pypi.org/project/piighost/"
 }

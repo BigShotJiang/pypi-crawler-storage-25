@@ -1,11 +1,11 @@
 {
   "name": "letsfg",
-  "version": "1.5.11",
+  "version": "1.5.16",
   "summary": "Agent-native flight search & booking. 400+ airlines, 195 direct airline connectors run locally. Built for autonomous AI agents.",
   "author": "LetsFG",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "letsfg-1.5.11.tar.gz",
-  "download_time": "2026-03-30T21:10:43.831517",
+  "download_filename": "letsfg-1.5.16.tar.gz",
+  "download_time": "2026-03-30T21:58:16.214198",
   "package_url": "https://pypi.org/project/letsfg/"
 }

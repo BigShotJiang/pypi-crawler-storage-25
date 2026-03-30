@@ -1,11 +1,11 @@
 {
   "name": "dvt-ce",
-  "version": "0.1.28",
+  "version": "0.1.30",
   "summary": "DVT — cross-engine data transformation tool with DuckDB federation.",
   "author": "Hesham Badawi",
   "license": null,
   "home_page": "https://github.com/heshamh96/dvt-ce",
-  "download_filename": "dvt_ce-0.1.28.tar.gz",
-  "download_time": "2026-03-30T21:11:08.100436",
+  "download_filename": "dvt_ce-0.1.30.tar.gz",
+  "download_time": "2026-03-30T21:58:21.134564",
   "package_url": "https://pypi.org/project/dvt-ce/"
 }

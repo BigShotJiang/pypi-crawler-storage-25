@@ -1,0 +1,11 @@
+{
+  "name": "dax-query-mcp",
+  "version": "0.2.0",
+  "summary": "Windows-first DAX and MCP toolkit for Power BI semantic models",
+  "author": "Wes Stone",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dax_query_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-30T21:58:21.648798",
+  "package_url": "https://pypi.org/project/dax-query-mcp/"
+}
