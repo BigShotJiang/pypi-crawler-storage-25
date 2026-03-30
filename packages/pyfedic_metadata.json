@@ -1,0 +1,11 @@
+{
+  "name": "pyfedic",
+  "version": "26.2.3",
+  "summary": "Digital Image (2D/3D) Correlation Software",
+  "author": "Joël Lachambre",
+  "license": "CECILL-2.1",
+  "home_page": "https://sourcesup.renater.fr/www/pyfedic/",
+  "download_filename": "pyfedic-26.2.3.tar.gz",
+  "download_time": "2026-03-30T11:34:24.675394",
+  "package_url": "https://pypi.org/project/pyfedic/"
+}

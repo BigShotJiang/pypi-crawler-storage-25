@@ -1,0 +1,11 @@
+{
+  "name": "criminaldetector-ucf",
+  "version": "0.1.3",
+  "summary": "Real-time suspicious-activity detection using a UCF-Crime Keras model with live banner overlay",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "criminaldetector_ucf-0.1.3.tar.gz",
+  "download_time": "2026-03-30T11:34:07.943775",
+  "package_url": "https://pypi.org/project/criminaldetector-ucf/"
+}

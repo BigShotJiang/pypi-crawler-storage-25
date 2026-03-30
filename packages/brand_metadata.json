@@ -1,0 +1,11 @@
+{
+  "name": "brand",
+  "version": "0.1.1",
+  "summary": "A composable pipeline for brand name generation, evaluation, and availability checking",
+  "author": "Thor Whalen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "brand-0.1.1.tar.gz",
+  "download_time": "2026-03-30T11:34:16.354068",
+  "package_url": "https://pypi.org/project/brand/"
+}

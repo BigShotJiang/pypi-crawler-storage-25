@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-move-quantity-product-uom",
+  "version": "19.0.1.0.0.2",
+  "summary": "computes stock.move's quantity in the uom of the product.",
+  "author": "ForgeFlow S.L., Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-warehouse",
+  "download_filename": "odoo_addon_stock_move_quantity_product_uom-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-30T11:34:01.420611",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-move-quantity-product-uom/"
+}

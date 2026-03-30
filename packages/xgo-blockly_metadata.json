@@ -1,0 +1,11 @@
+{
+  "name": "xgo-blockly",
+  "version": "1.0.2.5",
+  "summary": "XGO Blockly - 图形化和 AI 编程 Web 服务器",
+  "author": "陆吾科技",
+  "license": "MIT",
+  "home_page": "https://github.com/xgo-robotics/xgo-blockly",
+  "download_filename": "xgo_blockly-1.0.2.5.tar.gz",
+  "download_time": "2026-03-30T11:34:40.644877",
+  "package_url": "https://pypi.org/project/xgo-blockly/"
+}
