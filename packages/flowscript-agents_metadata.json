@@ -1,11 +1,11 @@
 {
   "name": "flowscript-agents",
-  "version": "0.2.8",
+  "version": "0.4.1",
   "summary": "Complete agent memory: reasoning queries + vector search + auto-extraction. Decision intelligence for LangGraph, CrewAI, Google ADK, OpenAI Agents SDK, Pydantic AI, smolagents, LlamaIndex, Haystack, and CAMEL-AI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flowscript_agents-0.2.8.tar.gz",
-  "download_time": "2026-03-28T17:46:35.934257",
+  "download_filename": "flowscript_agents-0.4.1.tar.gz",
+  "download_time": "2026-03-30T19:42:30.727155",
   "package_url": "https://pypi.org/project/flowscript-agents/"
 }

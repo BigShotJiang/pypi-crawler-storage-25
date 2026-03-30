@@ -1,0 +1,11 @@
+{
+  "name": "readmanager",
+  "version": "1.2.3",
+  "summary": "Read, write and convert OpenBCI signal recordings (.raw/.xml/.tag)",
+  "author": "Faculty of Physics, University of Warsaw",
+  "license": null,
+  "home_page": null,
+  "download_filename": "readmanager-1.2.3.tar.gz",
+  "download_time": "2026-03-30T19:42:50.580017",
+  "package_url": "https://pypi.org/project/readmanager/"
+}

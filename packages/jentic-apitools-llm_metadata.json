@@ -1,0 +1,11 @@
+{
+  "name": "jentic-apitools-llm",
+  "version": "1.0.0a3",
+  "summary": "Jentic Apitools LLM - Unified LLM utilities and provider abstraction for consistent LLM usage across packages",
+  "author": "Jentic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jentic_apitools_llm-1.0.0a3.tar.gz",
+  "download_time": "2026-03-30T19:43:03.768458",
+  "package_url": "https://pypi.org/project/jentic-apitools-llm/"
+}

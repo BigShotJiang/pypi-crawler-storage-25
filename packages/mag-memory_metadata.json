@@ -1,0 +1,11 @@
+{
+  "name": "mag-memory",
+  "version": "0.1.4",
+  "summary": "PyPI wrapper for the mag MCP memory server (Rust binary)",
+  "author": "George-RD",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mag_memory-0.1.4.tar.gz",
+  "download_time": "2026-03-30T19:42:22.861113",
+  "package_url": "https://pypi.org/project/mag-memory/"
+}

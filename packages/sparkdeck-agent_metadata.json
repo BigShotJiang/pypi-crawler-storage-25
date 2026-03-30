@@ -1,0 +1,11 @@
+{
+  "name": "sparkdeck-agent",
+  "version": "0.1.0",
+  "summary": "Remote AI Command Center agent for NVIDIA DGX Spark",
+  "author": "SparkDeck",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sparkdeck_agent-0.1.0.tar.gz",
+  "download_time": "2026-03-30T19:42:46.397576",
+  "package_url": "https://pypi.org/project/sparkdeck-agent/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "beekeeper-observability-watsonx",
-  "version": "2.0.0b3",
+  "version": "2.0.0b7",
   "summary": "beekeeper observability watsonx integration",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "beekeeper_observability_watsonx-2.0.0b3.tar.gz",
-  "download_time": "2026-03-28T13:59:03.971327",
+  "download_filename": "beekeeper_observability_watsonx-2.0.0b7.tar.gz",
+  "download_time": "2026-03-30T19:42:35.911197",
   "package_url": "https://pypi.org/project/beekeeper-observability-watsonx/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "geih-analisis",
+  "version": "0.1.0",
+  "summary": "Análisis de microdatos GEIH del DANE — Colombia. 70+ clases: TD, TGP, TO, Gini, Mincer, ICE, ICI, brecha de género, 32 ciudades y más.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geih_analisis-0.1.0.tar.gz",
+  "download_time": "2026-03-30T19:42:47.956422",
+  "package_url": "https://pypi.org/project/geih-analisis/"
+}

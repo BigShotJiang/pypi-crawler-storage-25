@@ -1,0 +1,11 @@
+{
+  "name": "swan-ssh",
+  "version": "1.0.1",
+  "summary": "A CLI tool to manage and sync SSH connections via Git",
+  "author": "Shohrat Aghazada",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swan_ssh-1.0.1.tar.gz",
+  "download_time": "2026-03-30T19:42:52.695493",
+  "package_url": "https://pypi.org/project/swan-ssh/"
+}

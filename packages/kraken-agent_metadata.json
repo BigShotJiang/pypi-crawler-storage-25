@@ -1,0 +1,11 @@
+{
+  "name": "kraken-agent",
+  "version": "0.2.0",
+  "summary": "Python SDK for the Kraken Agent API",
+  "author": "Kraken Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kraken_agent-0.2.0.tar.gz",
+  "download_time": "2026-03-30T19:42:27.595291",
+  "package_url": "https://pypi.org/project/kraken-agent/"
+}

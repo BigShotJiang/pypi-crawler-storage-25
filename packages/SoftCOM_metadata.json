@@ -1,0 +1,11 @@
+{
+  "name": "SoftCOM",
+  "version": "1.2.1",
+  "summary": "SoftCOM is a free software for accessing the serial port.",
+  "author": "Matthew Mesropian",
+  "license": null,
+  "home_page": "https://github.com/mathieeo/SoftCOM",
+  "download_filename": "softcom-1.2.1.tar.gz",
+  "download_time": "2026-03-30T19:42:28.625046",
+  "package_url": "https://pypi.org/project/SoftCOM/"
+}

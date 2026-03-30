@@ -1,0 +1,11 @@
+{
+  "name": "hallx",
+  "version": "1.0.1",
+  "summary": "Lightweight hallucination risk scoring for LLM outputs",
+  "author": "Dhanush Kandhan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hallx-1.0.1.tar.gz",
+  "download_time": "2026-03-30T19:42:14.907898",
+  "package_url": "https://pypi.org/project/hallx/"
+}

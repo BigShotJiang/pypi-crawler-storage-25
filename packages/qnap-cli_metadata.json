@@ -1,11 +1,11 @@
 {
   "name": "qnap-cli",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "CLI for QNAP NAS management",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/rvben/qnap-cli",
-  "download_filename": "qnap_cli-0.1.4.tar.gz",
-  "download_time": "2026-03-30T18:40:38.731887",
+  "download_filename": "qnap_cli-0.1.6.tar.gz",
+  "download_time": "2026-03-30T19:42:29.145113",
   "package_url": "https://pypi.org/project/qnap-cli/"
 }

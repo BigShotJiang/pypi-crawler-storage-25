@@ -1,0 +1,11 @@
+{
+  "name": "farsounder",
+  "version": "0.1.2",
+  "summary": "Python client to communicate with FarSounder's ARGOS sensors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "farsounder-0.1.2.tar.gz",
+  "download_time": "2026-03-30T19:42:42.212979",
+  "package_url": "https://pypi.org/project/farsounder/"
+}

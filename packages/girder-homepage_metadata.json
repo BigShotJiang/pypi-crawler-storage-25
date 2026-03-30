@@ -1,11 +1,11 @@
 {
   "name": "girder-homepage",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "summary": "Customize the homepage using Markdown.",
   "author": "Kitware, Inc.",
   "license": "Apache 2.0",
   "home_page": "http://girder.readthedocs.io/en/latest/plugins.html#homepage",
-  "download_filename": "girder_homepage-5.0.0.tar.gz",
-  "download_time": "2026-03-30T18:40:54.942747",
+  "download_filename": "girder_homepage-5.0.1.tar.gz",
+  "download_time": "2026-03-30T19:42:58.467721",
   "package_url": "https://pypi.org/project/girder-homepage/"
 }

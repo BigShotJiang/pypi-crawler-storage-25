@@ -1,11 +1,11 @@
 {
   "name": "girder-user-quota",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "summary": "Limits total file size stored for individual users and collections and can direct all files to a specific assetstore",
   "author": "Kitware, Inc.",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "girder_user_quota-5.0.0.tar.gz",
-  "download_time": "2026-03-30T18:40:44.838625",
+  "download_filename": "girder_user_quota-5.0.1.tar.gz",
+  "download_time": "2026-03-30T19:42:48.498572",
   "package_url": "https://pypi.org/project/girder-user-quota/"
 }

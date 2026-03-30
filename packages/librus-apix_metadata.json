@@ -1,11 +1,11 @@
 {
   "name": "librus-apix",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "Web Scraper for Librus Synergia",
   "author": "Pascal Jodłowski",
   "license": "MIT",
   "home_page": "https://github.com/poroknights/librus-apix",
-  "download_filename": "librus_apix-1.5.0.tar.gz",
-  "download_time": "2026-03-29T22:30:11.592622",
+  "download_filename": "librus_apix-1.5.1.tar.gz",
+  "download_time": "2026-03-30T19:42:29.666425",
   "package_url": "https://pypi.org/project/librus-apix/"
 }
