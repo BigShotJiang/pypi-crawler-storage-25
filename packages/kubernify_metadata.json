@@ -1,0 +1,11 @@
+{
+  "name": "kubernify",
+  "version": "1.0.5",
+  "summary": "Verify Kubernetes deployments match a version manifest with deep stability auditing. Checks convergence, revision consistency, and pod health.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kubernify-1.0.5.tar.gz",
+  "download_time": "2026-03-30T07:03:18.363060",
+  "package_url": "https://pypi.org/project/kubernify/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "webquiz",
+  "version": "1.13.1",
+  "summary": "A modern web-based quiz and testing system built with Python and aiohttp",
+  "author": "Oleksandr Liabakh",
+  "license": "MIT",
+  "home_page": "https://github.com/oduvan/webquiz",
+  "download_filename": "webquiz-1.13.1.tar.gz",
+  "download_time": "2026-03-30T07:03:13.118944",
+  "package_url": "https://pypi.org/project/webquiz/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcore-bridge",
+  "version": "1.0.0",
+  "summary": "MCore-Bridge: Making Megatron training as simple as Transformers",
+  "author": "ModelScope teams",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/modelscope/mcore-bridge",
+  "download_filename": "mcore_bridge-1.0.0.tar.gz",
+  "download_time": "2026-03-30T07:03:23.083480",
+  "package_url": "https://pypi.org/project/mcore-bridge/"
+}

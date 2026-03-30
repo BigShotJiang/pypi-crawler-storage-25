@@ -1,0 +1,11 @@
+{
+  "name": "redis-func-cache",
+  "version": "0.7.0",
+  "summary": "A Python library that provides decorators for caching function results in Redis, supporting multiple serialization formats and caching strategies, as well as asynchronous operations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "redis_func_cache-0.7.0.tar.gz",
+  "download_time": "2026-03-30T07:03:01.583414",
+  "package_url": "https://pypi.org/project/redis-func-cache/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "accsyn-python-api",
+  "version": "3.2.0",
+  "summary": "A Python API for accsyn programmable fast and secure data delivery software",
+  "author": "Henrik Norin",
+  "license": "Apache-2.0",
+  "home_page": "https://accsyn.com",
+  "download_filename": "accsyn_python_api-3.2.0.tar.gz",
+  "download_time": "2026-03-30T07:02:44.820452",
+  "package_url": "https://pypi.org/project/accsyn-python-api/"
+}

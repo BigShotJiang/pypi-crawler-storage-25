@@ -1,0 +1,11 @@
+{
+  "name": "dbt-fabric",
+  "version": "1.9.9",
+  "summary": "A Microsoft Fabric Synapse Data Warehouse adapter plugin for dbt",
+  "author": "Pradeep Srikakolapu",
+  "license": "MIT",
+  "home_page": "https://github.com/microsoft/dbt-fabric",
+  "download_filename": "dbt_fabric-1.9.9.tar.gz",
+  "download_time": "2026-03-30T07:02:45.339212",
+  "package_url": "https://pypi.org/project/dbt-fabric/"
+}

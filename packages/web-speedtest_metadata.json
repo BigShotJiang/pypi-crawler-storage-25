@@ -1,0 +1,11 @@
+{
+  "name": "web-speedtest",
+  "version": "1.0.0b10",
+  "summary": "Network speed test — server with web UI and CLI client",
+  "author": "WaterJuice",
+  "license": "Unlicense",
+  "home_page": "https://gitlab.com/waterjuice/web-speedtest",
+  "download_filename": "web_speedtest-1.0.0b10-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-03-30T07:03:03.714559",
+  "package_url": "https://pypi.org/project/web-speedtest/"
+}

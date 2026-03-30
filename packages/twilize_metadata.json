@@ -1,11 +1,11 @@
 {
   "name": "twilize",
-  "version": "0.13.1",
+  "version": "0.15.0",
   "summary": "Tableau Workbook (.twb) generation toolkit and MCP server",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "twilize-0.13.1-py3-none-any.whl",
-  "download_time": "2026-03-29T13:21:48.616054",
+  "download_filename": "twilize-0.15.0-py3-none-any.whl",
+  "download_time": "2026-03-30T07:03:07.887305",
   "package_url": "https://pypi.org/project/twilize/"
 }
