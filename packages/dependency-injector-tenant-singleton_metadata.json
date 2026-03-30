@@ -1,0 +1,11 @@
+{
+  "name": "dependency-injector-tenant-singleton",
+  "version": "1.0.0",
+  "summary": "Tenant-scoped singleton provider for dependency-injector framework",
+  "author": "Roman Tolkachyov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dependency_injector_tenant_singleton-1.0.0.tar.gz",
+  "download_time": "2026-03-30T14:14:33.180118",
+  "package_url": "https://pypi.org/project/dependency-injector-tenant-singleton/"
+}

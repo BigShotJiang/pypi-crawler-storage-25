@@ -1,0 +1,11 @@
+{
+  "name": "wayy-db",
+  "version": "0.1.0",
+  "summary": "High-performance columnar time-series database with kdb+-like functionality",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wayy_db-0.1.0.tar.gz",
+  "download_time": "2026-03-30T14:14:52.995511",
+  "package_url": "https://pypi.org/project/wayy-db/"
+}

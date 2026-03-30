@@ -1,0 +1,11 @@
+{
+  "name": "pv_app",
+  "version": "0.0.8",
+  "summary": "De app voor het runnen van de proevenverzamelingtool voor het bepalen van geotechnische parameters.",
+  "author": "Tjalda Deenekamp",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/PVorganization/pv-tool-app.git",
+  "download_filename": "pv_app-0.0.8.tar.gz",
+  "download_time": "2026-03-30T14:14:35.797530",
+  "package_url": "https://pypi.org/project/pv_app/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "up42-py",
+  "version": "3.4.0",
+  "summary": "Python SDK for UP42, the geospatial marketplace and developer platform.",
+  "author": "UP42 GmbH",
+  "license": "https://github.com/up42/up42-py/blob/master/LICENSE",
+  "home_page": null,
+  "download_filename": "up42_py-3.4.0.tar.gz",
+  "download_time": "2026-03-30T14:14:59.757949",
+  "package_url": "https://pypi.org/project/up42-py/"
+}

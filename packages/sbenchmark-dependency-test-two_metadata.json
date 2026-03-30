@@ -1,0 +1,11 @@
+{
+  "name": "sbenchmark-dependency-test-two",
+  "version": "1.0.4",
+  "summary": "Python test library to be used with sbenchmark suite to provide testable version numbers.",
+  "author": "Felix Reichmann",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sbenchmark_dependency_test_two-1.0.4.tar.gz",
+  "download_time": "2026-03-30T14:14:50.360740",
+  "package_url": "https://pypi.org/project/sbenchmark-dependency-test-two/"
+}

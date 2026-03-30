@@ -1,0 +1,11 @@
+{
+  "name": "netboxlabs-device-discovery",
+  "version": "1.16.0",
+  "summary": "NetBox Labs, Device Discovery backend for Orb Agent, part of NetBox Discovery",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "netboxlabs_device_discovery-1.16.0.tar.gz",
+  "download_time": "2026-03-30T14:14:32.668959",
+  "package_url": "https://pypi.org/project/netboxlabs-device-discovery/"
+}
