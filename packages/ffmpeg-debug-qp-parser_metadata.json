@@ -1,0 +1,11 @@
+{
+  "name": "ffmpeg-debug-qp-parser",
+  "version": "0.3.1",
+  "summary": "Extract QP values of input video",
+  "author": "Werner Robitza",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ffmpeg_debug_qp_parser-0.3.1.tar.gz",
+  "download_time": "2026-03-30T15:43:31.386993",
+  "package_url": "https://pypi.org/project/ffmpeg-debug-qp-parser/"
+}

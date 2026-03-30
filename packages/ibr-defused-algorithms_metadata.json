@@ -1,0 +1,11 @@
+{
+  "name": "ibr-defused-algorithms",
+  "version": "0.3.1",
+  "summary": "TensorFlow IBR5, IBR6, and fused IBR algorithms with MobileNetV2 variants",
+  "author": "Abhishek Pandey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ibr_defused_algorithms-0.3.1.tar.gz",
+  "download_time": "2026-03-30T15:43:45.642959",
+  "package_url": "https://pypi.org/project/ibr-defused-algorithms/"
+}

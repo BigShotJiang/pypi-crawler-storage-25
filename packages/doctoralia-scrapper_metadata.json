@@ -1,0 +1,11 @@
+{
+  "name": "doctoralia-scrapper",
+  "version": "1.2.0",
+  "summary": "Sistema profissional de monitoramento e resposta a avaliações médicas. Inclui web scraping resiliente, API REST, análise de sentimento, geração inteligente de respostas e integração com n8n/Telegram.",
+  "author": "Bernardo Gomes",
+  "license": "MIT",
+  "home_page": "https://github.com/bernardopg/doctoralia-scrapper",
+  "download_filename": "doctoralia_scrapper-1.2.0.tar.gz",
+  "download_time": "2026-03-30T15:43:59.211023",
+  "package_url": "https://pypi.org/project/doctoralia-scrapper/"
+}

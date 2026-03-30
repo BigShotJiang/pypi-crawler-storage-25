@@ -1,0 +1,11 @@
+{
+  "name": "bioio-nd2",
+  "version": "1.7.0",
+  "summary": "A BioIO reader plugin for reading ND2 images.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "bioio_nd2-1.7.0.tar.gz",
+  "download_time": "2026-03-30T15:43:23.808929",
+  "package_url": "https://pypi.org/project/bioio-nd2/"
+}

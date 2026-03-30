@@ -1,0 +1,11 @@
+{
+  "name": "bufferer",
+  "version": "0.24.2",
+  "summary": "Insert fake buffering events into video files.",
+  "author": "Werner Robitza",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bufferer-0.24.2.tar.gz",
+  "download_time": "2026-03-30T15:43:36.320805",
+  "package_url": "https://pypi.org/project/bufferer/"
+}

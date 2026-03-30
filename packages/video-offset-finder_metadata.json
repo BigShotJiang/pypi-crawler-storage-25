@@ -1,0 +1,11 @@
+{
+  "name": "video-offset-finder",
+  "version": "0.3.2",
+  "summary": "Find the temporal offset between two videos using perceptual hashing",
+  "author": "Werner Robitza",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "video_offset_finder-0.3.2.tar.gz",
+  "download_time": "2026-03-30T15:43:24.352114",
+  "package_url": "https://pypi.org/project/video-offset-finder/"
+}

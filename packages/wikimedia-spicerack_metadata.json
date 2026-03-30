@@ -1,0 +1,11 @@
+{
+  "name": "wikimedia-spicerack",
+  "version": "12.3.0",
+  "summary": "Automation framework for the WMF production infrastructure",
+  "author": "Riccardo Coccioli",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/wikimedia/operations-software-spicerack",
+  "download_filename": "wikimedia_spicerack-12.3.0.tar.gz",
+  "download_time": "2026-03-30T15:43:12.301411",
+  "package_url": "https://pypi.org/project/wikimedia-spicerack/"
+}

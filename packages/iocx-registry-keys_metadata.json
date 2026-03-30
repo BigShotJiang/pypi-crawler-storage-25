@@ -1,0 +1,11 @@
+{
+  "name": "iocx-registry-keys",
+  "version": "1.1.0",
+  "summary": "High-performance iocx plugin for detecting Windows Registry keys, values, and persistence locations.",
+  "author": "MalX Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iocx_registry_keys-1.1.0.tar.gz",
+  "download_time": "2026-03-30T15:43:53.784813",
+  "package_url": "https://pypi.org/project/iocx-registry-keys/"
+}
