@@ -1,11 +1,11 @@
 {
   "name": "pipedog",
-  "version": "0.2.1",
-  "summary": "CLI tool for data quality checks and schema drift detection on CSV, Parquet, and JSON files",
+  "version": "0.3.1",
+  "summary": "Data quality and schema drift detection for analysts — CSV, Excel, Parquet, and JSON files",
   "author": "Jishn",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pipedog-0.2.1.tar.gz",
-  "download_time": "2026-03-29T11:44:20.910032",
+  "download_filename": "pipedog-0.3.1.tar.gz",
+  "download_time": "2026-03-30T08:49:47.025366",
   "package_url": "https://pypi.org/project/pipedog/"
 }

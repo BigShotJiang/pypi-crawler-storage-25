@@ -1,0 +1,11 @@
+{
+  "name": "rayd",
+  "version": "0.1.6",
+  "summary": "RayD: minimalist differentiable ray tracing package wrapping Dr.Jit and OptiX.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "rayd-0.1.6.tar.gz",
+  "download_time": "2026-03-30T08:49:50.097638",
+  "package_url": "https://pypi.org/project/rayd/"
+}

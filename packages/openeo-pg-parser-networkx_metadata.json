@@ -1,0 +1,11 @@
+{
+  "name": "openeo-pg-parser-networkx",
+  "version": "2026.3.3",
+  "summary": "Parse OpenEO process graphs from JSON to traversible Python objects.",
+  "author": "Lukas Weidenholzer",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/Open-EO/openeo-pg-parser-networkx",
+  "download_filename": "openeo_pg_parser_networkx-2026.3.3.tar.gz",
+  "download_time": "2026-03-30T08:49:35.547721",
+  "package_url": "https://pypi.org/project/openeo-pg-parser-networkx/"
+}

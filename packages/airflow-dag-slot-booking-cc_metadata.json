@@ -1,0 +1,11 @@
+{
+  "name": "airflow-dag-slot-booking-cc",
+  "version": "0.4",
+  "summary": "Airflow plugin for DAG schedule slot booking — supports Airflow 2.x (Flask) and 3.x (FastAPI)",
+  "author": "Jeevini Manohar",
+  "license": null,
+  "home_page": "https://github.com/jeevini/airflow-dag-slot-booking-cc",
+  "download_filename": "airflow_dag_slot_booking_cc-0.4-py3-none-any.whl",
+  "download_time": "2026-03-30T08:49:26.425655",
+  "package_url": "https://pypi.org/project/airflow-dag-slot-booking-cc/"
+}

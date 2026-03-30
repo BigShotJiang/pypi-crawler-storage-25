@@ -1,0 +1,11 @@
+{
+  "name": "docker-tidy",
+  "version": "4.1.6",
+  "summary": "Keep docker hosts tidy.",
+  "author": "Robert Kaussow",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "docker_tidy-4.1.6.tar.gz",
+  "download_time": "2026-03-30T08:49:48.554420",
+  "package_url": "https://pypi.org/project/docker-tidy/"
+}

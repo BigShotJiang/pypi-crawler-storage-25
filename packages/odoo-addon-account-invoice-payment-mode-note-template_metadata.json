@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-invoice-payment-mode-note-template",
+  "version": "18.0.1.0.0.2",
+  "summary": "This addon allow user to customize the payment mode note using jinja2 templates",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-invoice-reporting",
+  "download_filename": "odoo_addon_account_invoice_payment_mode_note_template-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-30T08:50:13.480045",
+  "package_url": "https://pypi.org/project/odoo-addon-account-invoice-payment-mode-note-template/"
+}
