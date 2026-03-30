@@ -1,0 +1,11 @@
+{
+  "name": "squish-qatouch",
+  "version": "1.0.0",
+  "summary": "QA Touch reporter for Squish (Froglogic/Qt) - auto-creates modules, test cases and test runs from Squish native XML or JUnit XML result files.",
+  "author": "UjjwalaMeena",
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "squish_qatouch-1.0.0.tar.gz",
+  "download_time": "2026-03-30T10:16:43.329470",
+  "package_url": "https://pypi.org/project/squish-qatouch/"
+}

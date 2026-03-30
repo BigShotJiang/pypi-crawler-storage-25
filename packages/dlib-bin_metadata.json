@@ -1,0 +1,11 @@
+{
+  "name": "dlib-bin",
+  "version": "20.0.1",
+  "summary": "A toolkit for making real world machine learning and data analysis applications",
+  "author": "Davis King",
+  "license": "Boost Software License",
+  "home_page": "https://github.com/alesanfra/dlib-wheels",
+  "download_filename": "dlib_bin-20.0.1-cp310-cp310-macosx_14_0_arm64.whl",
+  "download_time": "2026-03-30T10:16:39.151418",
+  "package_url": "https://pypi.org/project/dlib-bin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xsoar-client",
+  "version": "2.2.1",
+  "summary": "DEPRECATED - This package has been merged into xsoar-cli. See https://github.com/tlium/xsoar-cli",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xsoar_client-2.2.1.tar.gz",
+  "download_time": "2026-03-30T10:17:22.028153",
+  "package_url": "https://pypi.org/project/xsoar-client/"
+}

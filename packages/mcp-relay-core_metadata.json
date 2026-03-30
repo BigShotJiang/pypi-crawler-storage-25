@@ -1,0 +1,11 @@
+{
+  "name": "mcp-relay-core",
+  "version": "1.1.0",
+  "summary": "Zero-env-config credential relay for MCP servers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_relay_core-1.1.0.tar.gz",
+  "download_time": "2026-03-30T10:16:39.670206",
+  "package_url": "https://pypi.org/project/mcp-relay-core/"
+}

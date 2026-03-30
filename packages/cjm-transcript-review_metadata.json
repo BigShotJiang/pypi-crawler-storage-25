@@ -1,0 +1,11 @@
+{
+  "name": "cjm-transcript-review",
+  "version": "0.0.9",
+  "summary": "FastHTML Reader View component for verifying transcript segmentation with audio playback and context graph commit.",
+  "author": "Christian J. Mills",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cj-mills/cjm-transcript-review",
+  "download_filename": "cjm_transcript_review-0.0.9.tar.gz",
+  "download_time": "2026-03-30T10:16:51.721344",
+  "package_url": "https://pypi.org/project/cjm-transcript-review/"
+}

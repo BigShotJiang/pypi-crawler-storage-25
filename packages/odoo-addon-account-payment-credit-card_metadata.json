@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-payment-credit-card",
+  "version": "18.0.1.0.0.2",
+  "summary": "Add support for credit card payments",
+  "author": "Open Source Integrators, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-payment",
+  "download_filename": "odoo_addon_account_payment_credit_card-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-03-30T10:16:51.189825",
+  "package_url": "https://pypi.org/project/odoo-addon-account-payment-credit-card/"
+}

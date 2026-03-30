@@ -1,0 +1,11 @@
+{
+  "name": "football-datakit",
+  "version": "1.0.0",
+  "summary": "Football data aggregation toolkit - multi-provider datasource layer for match, odds, standings and team data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "football_datakit-1.0.0.tar.gz",
+  "download_time": "2026-03-30T10:17:15.265312",
+  "package_url": "https://pypi.org/project/football-datakit/"
+}

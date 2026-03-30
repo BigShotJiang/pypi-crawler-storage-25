@@ -1,0 +1,11 @@
+{
+  "name": "fractrade-hl-simple",
+  "version": "0.3.3",
+  "summary": "A simple API wrapper for automated trading on Hyperliquid DEX with Python",
+  "author": "crjameson",
+  "license": "MIT",
+  "home_page": "https://fractrade.xyz",
+  "download_filename": "fractrade_hl_simple-0.3.3.tar.gz",
+  "download_time": "2026-03-30T10:17:24.632151",
+  "package_url": "https://pypi.org/project/fractrade-hl-simple/"
+}
