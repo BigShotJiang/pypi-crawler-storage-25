@@ -1,0 +1,11 @@
+{
+  "name": "xwjson",
+  "version": "0.9.0.8",
+  "summary": "Convenience wrapper for exonware-xwjson - provides 'import xwjson' alias",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xwjson-0.9.0.8.tar.gz",
+  "download_time": "2026-03-30T20:28:25.974406",
+  "package_url": "https://pypi.org/project/xwjson/"
+}

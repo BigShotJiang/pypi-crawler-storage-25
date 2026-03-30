@@ -1,0 +1,11 @@
+{
+  "name": "xwschema",
+  "version": "0.4.0.4",
+  "summary": "Convenience wrapper for exonware-xwschema - provides 'import xwschema' alias",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xwschema-0.4.0.4.tar.gz",
+  "download_time": "2026-03-30T20:28:24.951380",
+  "package_url": "https://pypi.org/project/xwschema/"
+}

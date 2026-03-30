@@ -1,0 +1,11 @@
+{
+  "name": "rg-search",
+  "version": "1.1.0",
+  "summary": "PyO3 wrapper around ripgrep crates for fast project search",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rg_search-1.1.0-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-30T20:28:16.132732",
+  "package_url": "https://pypi.org/project/rg-search/"
+}

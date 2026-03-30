@@ -1,0 +1,11 @@
+{
+  "name": "mlperf-logging",
+  "version": "4.1.43",
+  "summary": "MLPerf compliance tools.",
+  "author": "MLPerf.org",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/mlperf/logging",
+  "download_filename": "mlperf_logging-4.1.43-py3-none-any.whl",
+  "download_time": "2026-03-30T20:28:10.273112",
+  "package_url": "https://pypi.org/project/mlperf-logging/"
+}

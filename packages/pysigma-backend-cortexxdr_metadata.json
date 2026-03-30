@@ -1,0 +1,11 @@
+{
+  "name": "pysigma-backend-cortexxdr",
+  "version": "0.1.5",
+  "summary": "pySigma CortexXDR backend",
+  "author": "Cori Smith",
+  "license": "MIT",
+  "home_page": "https://github.com/7RedViolin/pySigma-backend-cortexxdr",
+  "download_filename": "pysigma_backend_cortexxdr-0.1.5.tar.gz",
+  "download_time": "2026-03-30T20:28:17.157814",
+  "package_url": "https://pypi.org/project/pysigma-backend-cortexxdr/"
+}

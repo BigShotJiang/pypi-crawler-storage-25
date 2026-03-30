@@ -1,0 +1,11 @@
+{
+  "name": "handtruck",
+  "version": "0.3.0",
+  "summary": "Async S3 client using httpx & anyio",
+  "author": "Vladimir Morugin",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "handtruck-0.3.0.tar.gz",
+  "download_time": "2026-03-30T20:28:00.212263",
+  "package_url": "https://pypi.org/project/handtruck/"
+}

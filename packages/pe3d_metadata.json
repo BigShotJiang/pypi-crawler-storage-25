@@ -1,0 +1,11 @@
+{
+  "name": "pe3d",
+  "version": "0.1.0",
+  "summary": "Python CLI for 3D pebble granulometry from point clouds",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pe3d-0.1.0.tar.gz",
+  "download_time": "2026-03-30T20:28:17.670756",
+  "package_url": "https://pypi.org/project/pe3d/"
+}
