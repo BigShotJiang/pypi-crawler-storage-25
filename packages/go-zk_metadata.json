@@ -1,0 +1,11 @@
+{
+  "name": "go-zk",
+  "version": "1.0.0",
+  "summary": "A fork of pyzk with ping check removed for restricted network environments",
+  "author": "Golive Solutions",
+  "license": "LICENSE.txt",
+  "home_page": "https://github.com/Golive-Solution/go-zk",
+  "download_filename": "go_zk-1.0.0.tar.gz",
+  "download_time": "2026-03-30T12:41:59.752037",
+  "package_url": "https://pypi.org/project/go-zk/"
+}

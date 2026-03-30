@@ -1,0 +1,11 @@
+{
+  "name": "home-connect-async",
+  "version": "0.8.5",
+  "summary": "Async SDK for BSH Home Connect API",
+  "author": "Eran Kutner",
+  "license": "MIT",
+  "home_page": "https://github.com/ekutner/home-connect-async",
+  "download_filename": "home_connect_async-0.8.5.tar.gz",
+  "download_time": "2026-03-30T12:41:48.708251",
+  "package_url": "https://pypi.org/project/home-connect-async/"
+}

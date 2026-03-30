@@ -1,0 +1,11 @@
+{
+  "name": "imapcrawler",
+  "version": "0.1.2",
+  "summary": "A Python tool to crawl an IMAP inbox and extract emails as structured records",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imapcrawler-0.1.2.tar.gz",
+  "download_time": "2026-03-30T12:41:37.716901",
+  "package_url": "https://pypi.org/project/imapcrawler/"
+}

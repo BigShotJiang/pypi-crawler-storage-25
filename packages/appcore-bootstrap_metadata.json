@@ -1,11 +1,11 @@
 {
   "name": "appcore-bootstrap",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "Application bootstrap and context management for appcore.",
   "author": "ZSU",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "appcore_bootstrap-0.1.1.tar.gz",
-  "download_time": "2026-03-29T02:14:43.858227",
+  "download_filename": "appcore_bootstrap-0.1.6.tar.gz",
+  "download_time": "2026-03-30T12:42:07.124178",
   "package_url": "https://pypi.org/project/appcore-bootstrap/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hindsight-llamaindex",
+  "version": "0.1.2",
+  "summary": "LlamaIndex integration for Hindsight - persistent memory for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hindsight_llamaindex-0.1.2.tar.gz",
+  "download_time": "2026-03-30T12:41:36.678902",
+  "package_url": "https://pypi.org/project/hindsight-llamaindex/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "geo-polygonize-py",
+  "version": "0.33.0",
+  "summary": "Python bindings for geo-polygonize-core, a native Rust port of the JTS/GEOS polygonization algorithm.",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "geo_polygonize_py-0.33.0-cp37-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-30T12:42:17.043631",
+  "package_url": "https://pypi.org/project/geo-polygonize-py/"
+}

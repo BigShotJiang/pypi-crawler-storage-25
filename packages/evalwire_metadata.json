@@ -1,0 +1,11 @@
+{
+  "name": "evalwire",
+  "version": "0.2.2",
+  "summary": "Systematic evaluation of LangGraph nodes using Arize Phoenix experiments.",
+  "author": "evalwire contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "evalwire-0.2.2.tar.gz",
+  "download_time": "2026-03-30T12:41:34.606352",
+  "package_url": "https://pypi.org/project/evalwire/"
+}
