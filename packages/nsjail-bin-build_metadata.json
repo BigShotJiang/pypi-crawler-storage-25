@@ -1,0 +1,11 @@
+{
+  "name": "nsjail-bin-build",
+  "version": "0.2.0",
+  "summary": "Build nsjail from source for nsjail-python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nsjail_bin_build-0.2.0.tar.gz",
+  "download_time": "2026-03-30T23:21:34.224710",
+  "package_url": "https://pypi.org/project/nsjail-bin-build/"
+}

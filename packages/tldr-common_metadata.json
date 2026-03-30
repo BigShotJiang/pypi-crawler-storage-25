@@ -1,0 +1,11 @@
+{
+  "name": "tldr-common",
+  "version": "2.0.12",
+  "summary": "Shared utilities and models for TL;DR.tv platform",
+  "author": "TL;DR.tv Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tldr_common-2.0.12.tar.gz",
+  "download_time": "2026-03-30T23:22:05.359800",
+  "package_url": "https://pypi.org/project/tldr-common/"
+}

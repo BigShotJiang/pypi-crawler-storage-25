@@ -1,11 +1,11 @@
 {
   "name": "raystack-proton",
-  "version": "2026.3.29.195345",
+  "version": "2026.3.30.225945",
   "summary": "Python client library for Raystack services",
   "author": "Raystack",
   "license": null,
   "home_page": null,
-  "download_filename": "raystack_proton-2026.3.29.195345-py3-none-any.whl",
-  "download_time": "2026-03-29T19:55:14.657218",
+  "download_filename": "raystack_proton-2026.3.30.225945-py3-none-any.whl",
+  "download_time": "2026-03-30T23:22:21.541462",
   "package_url": "https://pypi.org/project/raystack-proton/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "exonware-xwentity",
-  "version": "0.6.0.4",
+  "version": "0.6.0.5",
   "summary": "Unified entity model with schema, actions, data, metadata, caching, and performance features",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "exonware_xwentity-0.6.0.4.tar.gz",
-  "download_time": "2026-03-30T22:43:03.745405",
+  "download_filename": "exonware_xwentity-0.6.0.5.tar.gz",
+  "download_time": "2026-03-30T23:21:36.381742",
   "package_url": "https://pypi.org/project/exonware-xwentity/"
 }

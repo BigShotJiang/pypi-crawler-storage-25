@@ -1,0 +1,11 @@
+{
+  "name": "ai-ctrl-plane",
+  "version": "0.6.1",
+  "summary": "AI Control Plane — a local web UI for browsing AI agent session logs and tool configurations (GitHub Copilot, Claude Code, VS Code Chat).",
+  "author": "Luís Teles",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_ctrl_plane-0.6.1.tar.gz",
+  "download_time": "2026-03-30T23:22:18.383238",
+  "package_url": "https://pypi.org/project/ai-ctrl-plane/"
+}
