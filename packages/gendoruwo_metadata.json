@@ -1,0 +1,11 @@
+{
+  "name": "gendoruwo",
+  "version": "0.0.2",
+  "summary": "Generate Document Running Workflow (GENDORUWO): a document extraction framework",
+  "author": "Singgih",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/alkode.id/gendoruwo",
+  "download_filename": "gendoruwo-0.0.2.tar.gz",
+  "download_time": "2026-03-30T05:12:28.620842",
+  "package_url": "https://pypi.org/project/gendoruwo/"
+}

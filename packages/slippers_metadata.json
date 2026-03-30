@@ -1,0 +1,11 @@
+{
+  "name": "slippers",
+  "version": "0.6.3",
+  "summary": "Build reusable components in Django without writing a single line of Python.",
+  "author": "Mitchel Cabuloy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "slippers-0.6.3.tar.gz",
+  "download_time": "2026-03-30T05:12:22.201694",
+  "package_url": "https://pypi.org/project/slippers/"
+}

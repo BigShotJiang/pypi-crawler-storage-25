@@ -1,11 +1,11 @@
 {
   "name": "cjm-fasthtml-virtual-scrollbar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "FastHTML virtual scrollbar component with drag-to-scrub, click-to-jump, and position indication for discrete-navigation containers.",
   "author": "Christian J. Mills",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cj-mills/cjm-fasthtml-virtual-scrollbar",
-  "download_filename": "cjm_fasthtml_virtual_scrollbar-0.0.2.tar.gz",
-  "download_time": "2026-03-30T02:25:11.718679",
+  "download_filename": "cjm_fasthtml_virtual_scrollbar-0.0.3.tar.gz",
+  "download_time": "2026-03-30T05:12:39.775178",
   "package_url": "https://pypi.org/project/cjm-fasthtml-virtual-scrollbar/"
 }

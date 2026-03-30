@@ -1,0 +1,11 @@
+{
+  "name": "pytest-shard-cloudc",
+  "version": "1.2.2",
+  "summary": "Shard tests to support parallelism across multiple machines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_shard_cloudc-1.2.2.tar.gz",
+  "download_time": "2026-03-30T05:12:19.062953",
+  "package_url": "https://pypi.org/project/pytest-shard-cloudc/"
+}

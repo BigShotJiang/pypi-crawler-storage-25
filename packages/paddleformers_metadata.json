@@ -1,0 +1,11 @@
+{
+  "name": "paddleformers",
+  "version": "1.1.1",
+  "summary": "Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.",
+  "author": "PaddleFormers Team",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/PaddlePaddle/PaddleFormers",
+  "download_filename": "paddleformers-1.1.1-py3-none-any.whl",
+  "download_time": "2026-03-30T05:12:09.261662",
+  "package_url": "https://pypi.org/project/paddleformers/"
+}

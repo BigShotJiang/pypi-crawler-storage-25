@@ -1,0 +1,11 @@
+{
+  "name": "manode",
+  "version": "0.0.5",
+  "summary": "Extension to manim community package for circuit design.",
+  "author": "Alex Summers",
+  "license": null,
+  "home_page": "https://github.com/ajsummers/manode",
+  "download_filename": "manode-0.0.5.tar.gz",
+  "download_time": "2026-03-30T05:12:24.255742",
+  "package_url": "https://pypi.org/project/manode/"
+}

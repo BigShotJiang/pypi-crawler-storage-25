@@ -1,11 +1,11 @@
 {
   "name": "tls-switch",
-  "version": "1.0.0b2",
+  "version": "1.0.0b11",
   "summary": "SNI-based TLS reverse proxy with termination and passthrough modes",
   "author": "WaterJuice",
-  "license": null,
-  "home_page": null,
-  "download_filename": "tls_switch-1.0.0b2-py3-none-win_arm64.whl",
-  "download_time": "2026-03-28T07:34:27.259670",
+  "license": "Unlicense",
+  "home_page": "https://gitlab.com/waterjuice/tls-switch",
+  "download_filename": "tls_switch-1.0.0b11-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-03-30T05:12:27.598311",
   "package_url": "https://pypi.org/project/tls-switch/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-pyatv",
+  "version": "0.2.0",
+  "summary": "MCP server for controlling Apple TV, HomePod, and AirPlay devices via pyatv",
+  "author": "crlian",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_pyatv-0.2.0.tar.gz",
+  "download_time": "2026-03-30T05:12:43.379160",
+  "package_url": "https://pypi.org/project/mcp-pyatv/"
+}
