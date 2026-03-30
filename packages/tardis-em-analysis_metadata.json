@@ -1,0 +1,11 @@
+{
+  "name": "tardis-em-analysis",
+  "version": "0.3.24",
+  "summary": "Collection of analysis libraries used by TARDIS-EM and napari-tardis-em.",
+  "author": "Robert Kiewisz, Tristan Bepler",
+  "license": "MIT",
+  "home_page": "https://github.com/SMLC-NYSBC/tardis_em_analysis",
+  "download_filename": "tardis_em_analysis-0.3.24.tar.gz",
+  "download_time": "2026-03-30T18:40:48.691134",
+  "package_url": "https://pypi.org/project/tardis-em-analysis/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyterp",
+  "version": "1.0.0",
+  "summary": "A package for performing optimized k-NN IDW interpolation using C++.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyterp-1.0.0.tar.gz",
+  "download_time": "2026-03-30T18:40:17.941613",
+  "package_url": "https://pypi.org/project/pyterp/"
+}

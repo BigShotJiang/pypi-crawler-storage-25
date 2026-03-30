@@ -1,0 +1,11 @@
+{
+  "name": "girder-sentry",
+  "version": "5.0.0",
+  "summary": "Allow the automatic tracking of issues using Sentry.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "girder_sentry-5.0.0.tar.gz",
+  "download_time": "2026-03-30T18:40:48.178638",
+  "package_url": "https://pypi.org/project/girder-sentry/"
+}

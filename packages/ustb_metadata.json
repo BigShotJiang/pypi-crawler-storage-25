@@ -1,0 +1,11 @@
+{
+  "name": "ustb",
+  "version": "0.0.2",
+  "summary": "Python reimplementation of the UltraSound ToolBox (USTB) for beamforming, processing, and visualization of ultrasonic signals.",
+  "author": "USTB Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ustb-0.0.2.tar.gz",
+  "download_time": "2026-03-30T18:40:32.516438",
+  "package_url": "https://pypi.org/project/ustb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "api-agent-ratatoskr",
+  "version": "2.0.0",
+  "summary": "Universal MCP server for querying GraphQL, REST, and gRPC APIs using natural language",
+  "author": "API Agent Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "api_agent_ratatoskr-2.0.0.tar.gz",
+  "download_time": "2026-03-30T18:40:23.830830",
+  "package_url": "https://pypi.org/project/api-agent-ratatoskr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tardis-em",
+  "version": "0.3.24",
+  "summary": "PyTorch segmentation of 2D/3D images such as electron tomography (ET),Cryo-EM or fluorescent microscopy data into 3D segmented point cloud.",
+  "author": "Robert Kiewisz, Tristan Bepler",
+  "license": "MIT",
+  "home_page": "https://github.com/SMLC-NYSBC/TARDIS",
+  "download_filename": "tardis_em-0.3.24.tar.gz",
+  "download_time": "2026-03-30T18:40:45.350454",
+  "package_url": "https://pypi.org/project/tardis-em/"
+}

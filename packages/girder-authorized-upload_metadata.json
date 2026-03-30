@@ -1,0 +1,11 @@
+{
+  "name": "girder-authorized-upload",
+  "version": "5.0.0",
+  "summary": "Allows registered users to authorize file uploads on their behalf via a secure one-use URL.",
+  "author": "Kitware, Inc.",
+  "license": "Apache 2.0",
+  "home_page": "http://girder.readthedocs.io/en/latest/plugins.html#authorized-uploads",
+  "download_filename": "girder_authorized_upload-5.0.0.tar.gz",
+  "download_time": "2026-03-30T18:41:03.572548",
+  "package_url": "https://pypi.org/project/girder-authorized-upload/"
+}

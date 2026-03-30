@@ -1,0 +1,11 @@
+{
+  "name": "girder-slicer-cli-web",
+  "version": "5.0.0",
+  "summary": "A girder plugin for exposing slicer CLIs over the web",
+  "author": "Kitware, Inc.",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/girder/slicer_cli_web",
+  "download_filename": "girder_slicer_cli_web-5.0.0.tar.gz",
+  "download_time": "2026-03-30T18:40:47.597482",
+  "package_url": "https://pypi.org/project/girder-slicer-cli-web/"
+}

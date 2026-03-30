@@ -1,0 +1,11 @@
+{
+  "name": "ocviapy",
+  "version": "1.6.0",
+  "summary": "Wraps OpenShift shell utility (oc)",
+  "author": "Brandon Squizzato",
+  "license": "MIT",
+  "home_page": "https://www.github.com/bsquizz/ocviapy",
+  "download_filename": "ocviapy-1.6.0.tar.gz",
+  "download_time": "2026-03-30T18:40:40.331614",
+  "package_url": "https://pypi.org/project/ocviapy/"
+}
