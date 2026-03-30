@@ -1,11 +1,11 @@
 {
   "name": "exonware-xwsyntax",
-  "version": "0.6.0.17",
+  "version": "0.6.0.19",
   "summary": "Universal grammar engine: bidirectional parsing and generation for 100+ syntax formats (328+ grammar files)",
   "author": "eXonware Backend Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "exonware_xwsyntax-0.6.0.17.tar.gz",
-  "download_time": "2026-03-30T20:28:40.028733",
+  "download_filename": "exonware_xwsyntax-0.6.0.19.tar.gz",
+  "download_time": "2026-03-30T22:43:12.050434",
   "package_url": "https://pypi.org/project/exonware-xwsyntax/"
 }

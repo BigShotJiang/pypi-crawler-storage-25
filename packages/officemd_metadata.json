@@ -1,11 +1,11 @@
 {
   "name": "officemd",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Native Python bindings for OfficeMD document extraction",
   "author": "Thomas Aubry",
   "license": "MIT",
   "home_page": "https://github.com/ThomAub/officemd",
-  "download_filename": "officemd-0.1.5.tar.gz",
-  "download_time": "2026-03-29T20:32:25.404655",
+  "download_filename": "officemd-0.1.6.tar.gz",
+  "download_time": "2026-03-30T22:42:51.313994",
   "package_url": "https://pypi.org/project/officemd/"
 }

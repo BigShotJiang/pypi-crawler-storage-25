@@ -1,0 +1,11 @@
+{
+  "name": "gtrack",
+  "version": "0.3.4",
+  "summary": "GPlates-based Tracking of Lithosphere and Kinematics",
+  "author": "S. Ghelichkhani",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gtrack-0.3.4.tar.gz",
+  "download_time": "2026-03-30T22:42:51.826033",
+  "package_url": "https://pypi.org/project/gtrack/"
+}

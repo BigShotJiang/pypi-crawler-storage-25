@@ -1,0 +1,11 @@
+{
+  "name": "jmbg-labs",
+  "version": "1.0.0",
+  "summary": "A Python library for validating and parsing Serbian unique master citizen numbers (JMBG)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jmbg_labs-1.0.0.tar.gz",
+  "download_time": "2026-03-30T22:42:29.516170",
+  "package_url": "https://pypi.org/project/jmbg-labs/"
+}

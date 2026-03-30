@@ -1,11 +1,11 @@
 {
   "name": "exonware-xwschema",
-  "version": "0.4.0.5",
+  "version": "0.4.0.7",
   "summary": "Schema validation and data structure definition library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "exonware_xwschema-0.4.0.5.tar.gz",
-  "download_time": "2026-03-30T21:10:53.277446",
+  "download_filename": "exonware_xwschema-0.4.0.7.tar.gz",
+  "download_time": "2026-03-30T22:43:09.988509",
   "package_url": "https://pypi.org/project/exonware-xwschema/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "xwquery",
-  "version": "0.9.0.8",
+  "version": "0.9.0.10",
   "summary": "Convenience wrapper for exonware-xwquery - provides 'import xwquery' alias",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xwquery-0.9.0.8.tar.gz",
-  "download_time": "2026-03-30T20:28:43.649830",
+  "download_filename": "xwquery-0.9.0.10.tar.gz",
+  "download_time": "2026-03-30T22:43:13.084694",
   "package_url": "https://pypi.org/project/xwquery/"
 }

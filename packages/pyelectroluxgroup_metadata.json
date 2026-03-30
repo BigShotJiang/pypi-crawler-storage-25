@@ -1,11 +1,11 @@
 {
   "name": "pyelectroluxgroup",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "This is a Python client for the Electrolux Group API. It is a simple wrapper around the API.",
   "author": "Johan Nenzén",
   "license": null,
   "home_page": null,
-  "download_filename": "pyelectroluxgroup-0.2.6.tar.gz",
-  "download_time": "2026-03-28T22:40:05.796954",
+  "download_filename": "pyelectroluxgroup-0.2.7.tar.gz",
+  "download_time": "2026-03-30T22:42:38.828231",
   "package_url": "https://pypi.org/project/pyelectroluxgroup/"
 }

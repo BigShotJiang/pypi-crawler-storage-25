@@ -1,11 +1,11 @@
 {
   "name": "exonware-xwjson",
-  "version": "0.9.0.8",
+  "version": "0.9.0.11",
   "summary": "Extended binary JSON format - single version of truth for all format conversions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "exonware_xwjson-0.9.0.8.tar.gz",
-  "download_time": "2026-03-30T20:28:26.487593",
+  "download_filename": "exonware_xwjson-0.9.0.11.tar.gz",
+  "download_time": "2026-03-30T22:43:07.416992",
   "package_url": "https://pypi.org/project/exonware-xwjson/"
 }

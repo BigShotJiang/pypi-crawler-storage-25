@@ -1,11 +1,11 @@
 {
   "name": "margin",
-  "version": "0.9.9",
+  "version": "0.9.11",
   "summary": "Typed health classification, uncertainty algebra, and correction auditing for any system that measures things and needs to explain what happened.",
   "author": "Cope Labs LLC",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "margin-0.9.9.tar.gz",
-  "download_time": "2026-03-30T21:58:32.049505",
+  "download_filename": "margin-0.9.11.tar.gz",
+  "download_time": "2026-03-30T22:42:37.801795",
   "package_url": "https://pypi.org/project/margin/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mkpipe-extractor-clickhouse",
+  "version": "0.6.2",
+  "summary": "Clickhouse extractor for mkpipe.",
+  "author": "Metin Karakus",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "mkpipe_extractor_clickhouse-0.6.2.tar.gz",
+  "download_time": "2026-03-30T22:43:00.132921",
+  "package_url": "https://pypi.org/project/mkpipe-extractor-clickhouse/"
+}
