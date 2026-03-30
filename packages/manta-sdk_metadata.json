@@ -1,11 +1,11 @@
 {
   "name": "manta-sdk",
-  "version": "0.3.2",
+  "version": "0.3.6",
   "summary": "Manta Test SDK — extensible test runner framework for the Manta platform",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "manta_sdk-0.3.2.tar.gz",
-  "download_time": "2026-03-29T21:47:37.508720",
+  "download_filename": "manta_sdk-0.3.6-py3-none-any.whl",
+  "download_time": "2026-03-30T16:42:30.531336",
   "package_url": "https://pypi.org/project/manta-sdk/"
 }

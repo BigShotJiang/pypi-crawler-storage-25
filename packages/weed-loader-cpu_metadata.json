@@ -1,11 +1,11 @@
 {
   "name": "weed-loader-cpu",
-  "version": "0.5.1",
+  "version": "0.5.4",
   "summary": "Weed (Loader) - Minimalist AI/ML inference and backprogation",
   "author": "Daniel Strano",
   "license": "MIT",
   "home_page": "https://github.com/vm6502q/weed",
-  "download_filename": "weed_loader_cpu-0.5.1.tar.gz",
-  "download_time": "2026-03-28T23:46:23.778483",
+  "download_filename": "weed_loader_cpu-0.5.4.tar.gz",
+  "download_time": "2026-03-30T16:42:40.445513",
   "package_url": "https://pypi.org/project/weed-loader-cpu/"
 }

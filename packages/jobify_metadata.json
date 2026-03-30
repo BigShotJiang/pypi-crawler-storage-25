@@ -1,0 +1,11 @@
+{
+  "name": "jobify",
+  "version": "0.10.0",
+  "summary": "A modern, lightweight and robust task manager with a user-friendly interface and a wide range of features, using the low-level asyncio API and more.",
+  "author": "Sergey Yavorsky",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jobify-0.10.0.tar.gz",
+  "download_time": "2026-03-30T16:42:07.450368",
+  "package_url": "https://pypi.org/project/jobify/"
+}

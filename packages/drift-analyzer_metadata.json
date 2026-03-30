@@ -1,11 +1,11 @@
 {
   "name": "drift-analyzer",
-  "version": "0.10.9",
+  "version": "1.1.10",
   "summary": "Deterministic architectural drift detection for AI-accelerated Python repositories through cross-file coherence analysis",
   "author": "sauremilk",
   "license": null,
   "home_page": null,
-  "download_filename": "drift_analyzer-0.10.9.tar.gz",
-  "download_time": "2026-03-30T05:12:15.474708",
+  "download_filename": "drift_analyzer-1.1.10.tar.gz",
+  "download_time": "2026-03-30T16:41:56.362157",
   "package_url": "https://pypi.org/project/drift-analyzer/"
 }
