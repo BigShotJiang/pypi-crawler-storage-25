@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-random",
+  "version": "4.19.2",
+  "summary": "A Pulumi package to safely use randomness in Pulumi programs.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_random-4.19.2.tar.gz",
+  "download_time": "2026-03-30T17:38:14.193646",
+  "package_url": "https://pypi.org/project/pulumi-random/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "traceweave",
+  "version": "0.1.2",
+  "summary": "Distributed tracing and observability for AI agents. Datadog for AI Agents.",
+  "author": "traceweave contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "traceweave-0.1.2.tar.gz",
+  "download_time": "2026-03-30T17:38:31.696301",
+  "package_url": "https://pypi.org/project/traceweave/"
+}

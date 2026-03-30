@@ -1,0 +1,11 @@
+{
+  "name": "embed-client",
+  "version": "3.1.9.1",
+  "summary": "Async client for the Embedding Service API. Canonical class: EmbeddingClient (JSON-RPC via mcp-proxy-adapter).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "embed_client-3.1.9.1.tar.gz",
+  "download_time": "2026-03-30T17:38:32.773952",
+  "package_url": "https://pypi.org/project/embed-client/"
+}

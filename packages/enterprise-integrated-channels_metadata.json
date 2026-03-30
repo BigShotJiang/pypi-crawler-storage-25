@@ -1,11 +1,11 @@
 {
   "name": "enterprise-integrated-channels",
-  "version": "0.1.55",
+  "version": "0.1.56",
   "summary": "An integrated channel is an abstraction meant to represent a third-party system                 which provides an API that can be used to transmit EdX data to the third-party system.",
   "author": "Open edX Project",
   "license": "AGPL 3.0",
   "home_page": "https://github.com/openedx/enterprise-integrated-channels",
-  "download_filename": "enterprise_integrated_channels-0.1.55.tar.gz",
-  "download_time": "2026-03-30T14:14:35.265511",
+  "download_filename": "enterprise_integrated_channels-0.1.56.tar.gz",
+  "download_time": "2026-03-30T17:38:32.237982",
   "package_url": "https://pypi.org/project/enterprise-integrated-channels/"
 }

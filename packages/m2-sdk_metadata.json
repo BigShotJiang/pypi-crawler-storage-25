@@ -1,11 +1,11 @@
 {
   "name": "m2-sdk",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "Magento 2 REST API SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "m2_sdk-0.1.5-py3-none-any.whl",
-  "download_time": "2026-03-28T22:40:23.005486",
+  "download_filename": "m2_sdk-0.1.8.tar.gz",
+  "download_time": "2026-03-30T17:38:08.745333",
   "package_url": "https://pypi.org/project/m2-sdk/"
 }

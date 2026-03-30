@@ -1,0 +1,11 @@
+{
+  "name": "waldur-site-agent-cscs-dwdi",
+  "version": "1.0.0",
+  "summary": "CSCS-DWDI reporting plugin for Waldur Site Agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "waldur_site_agent_cscs_dwdi-1.0.0.tar.gz",
+  "download_time": "2026-03-30T17:38:44.916414",
+  "package_url": "https://pypi.org/project/waldur-site-agent-cscs-dwdi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rossum-agent",
+  "version": "1.8.2",
+  "summary": "AI agent toolkit for Rossum: document workflows conversationally, debug pipelines automatically, and enable agentic configuration of intelligent document processing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rossum_agent-1.8.2.tar.gz",
+  "download_time": "2026-03-30T17:38:53.962955",
+  "package_url": "https://pypi.org/project/rossum-agent/"
+}

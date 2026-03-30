@@ -1,0 +1,11 @@
+{
+  "name": "waldur-site-agent-k8s-ut-namespace",
+  "version": "1.0.0",
+  "summary": "Kubernetes UT ManagedNamespace plugin for Waldur Site Agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "waldur_site_agent_k8s_ut_namespace-1.0.0.tar.gz",
+  "download_time": "2026-03-30T17:38:45.988154",
+  "package_url": "https://pypi.org/project/waldur-site-agent-k8s-ut-namespace/"
+}
