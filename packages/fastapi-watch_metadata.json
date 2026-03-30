@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-watch",
+  "version": "1.5.6",
+  "summary": "Structured health and readiness check system for FastAPI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_watch-1.5.6.tar.gz",
+  "download_time": "2026-03-30T21:10:42.245225",
+  "package_url": "https://pypi.org/project/fastapi-watch/"
+}

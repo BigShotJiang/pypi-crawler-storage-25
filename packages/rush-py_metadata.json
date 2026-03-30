@@ -1,0 +1,11 @@
+{
+  "name": "rush-py",
+  "version": "7.0.0",
+  "summary": "Python client for QDX's Rush platform",
+  "author": "Sean Laguna",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rush_py-7.0.0.tar.gz",
+  "download_time": "2026-03-30T21:10:30.185230",
+  "package_url": "https://pypi.org/project/rush-py/"
+}

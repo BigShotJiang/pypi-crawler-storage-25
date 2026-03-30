@@ -1,0 +1,11 @@
+{
+  "name": "panelbox",
+  "version": "1.0.1",
+  "summary": "Panel data econometrics in Python: Fixed Effects, Random Effects, GMM (Arellano-Bond, Blundell-Bond), Experiment Pattern with Result Containers (Validation, Comparison, Residual), Test Runners & Master Reports, Interactive Visualizations (35 Charts), Professional HTML Reports, Robust Standard Errors (HC, Clustered, Driscoll-Kraay, Newey-West), Comprehensive Diagnostics",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "panelbox-1.0.1-py3-none-any.whl",
+  "download_time": "2026-03-30T21:10:50.143101",
+  "package_url": "https://pypi.org/project/panelbox/"
+}

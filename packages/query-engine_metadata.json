@@ -1,0 +1,11 @@
+{
+  "name": "query-engine",
+  "version": "0.1.0",
+  "summary": "Natural language to SQL query engine powered by LangChain and DuckDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "query_engine-0.1.0.tar.gz",
+  "download_time": "2026-03-30T21:10:56.471831",
+  "package_url": "https://pypi.org/project/query-engine/"
+}

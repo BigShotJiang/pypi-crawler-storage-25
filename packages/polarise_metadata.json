@@ -1,0 +1,11 @@
+{
+  "name": "polarise",
+  "version": "1.0.0",
+  "summary": "A Polars-native DataFrame styling tool for HTML visualization",
+  "author": "Eric Gayer",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "polarise-1.0.0.tar.gz",
+  "download_time": "2026-03-30T21:10:21.194942",
+  "package_url": "https://pypi.org/project/polarise/"
+}

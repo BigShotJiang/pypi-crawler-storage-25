@@ -1,0 +1,11 @@
+{
+  "name": "mcp-homelab",
+  "version": "1.4.0",
+  "summary": "MCP server that exposes homelab infrastructure tools to AI assistants",
+  "author": "Austin Varnon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_homelab-1.4.0.tar.gz",
+  "download_time": "2026-03-30T21:11:03.296137",
+  "package_url": "https://pypi.org/project/mcp-homelab/"
+}

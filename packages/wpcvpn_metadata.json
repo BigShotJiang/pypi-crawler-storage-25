@@ -1,0 +1,11 @@
+{
+  "name": "wpcvpn",
+  "version": "6.0.0",
+  "summary": "Full-device Cloudflare WARP tunnel for macOS",
+  "author": "hlehman27",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wpcvpn-6.0.0.tar.gz",
+  "download_time": "2026-03-30T21:11:10.253003",
+  "package_url": "https://pypi.org/project/wpcvpn/"
+}

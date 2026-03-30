@@ -1,11 +1,11 @@
 {
   "name": "pydefend",
-  "version": "0.1.24",
-  "summary": "AI security guardrails for LLM applications.",
+  "version": "0.2.2",
+  "summary": "AI security guardrails for LLM applications — scan inputs and check outputs with Claude, OpenAI, Azure, or Ollama.",
   "author": "Defend maintainers",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pydefend-0.1.24.tar.gz",
-  "download_time": "2026-03-29T11:44:25.485904",
+  "download_filename": "pydefend-0.2.2.tar.gz",
+  "download_time": "2026-03-30T21:10:32.814435",
   "package_url": "https://pypi.org/project/pydefend/"
 }

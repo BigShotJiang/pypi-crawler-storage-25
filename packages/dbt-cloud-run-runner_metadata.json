@@ -1,0 +1,11 @@
+{
+  "name": "dbt-cloud-run-runner",
+  "version": "0.6.0",
+  "summary": "A client library for running dbt projects on Google Cloud Run",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "dbt_cloud_run_runner-0.6.0.tar.gz",
+  "download_time": "2026-03-30T21:10:28.559863",
+  "package_url": "https://pypi.org/project/dbt-cloud-run-runner/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "meteoschweiz",
+  "version": "0.1.4",
+  "summary": "Python package for accessing and processing weather data from MeteoSwiss (Source: MeteoSwiss, CC BY 4.0)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meteoschweiz-0.1.4.tar.gz",
+  "download_time": "2026-03-30T21:11:03.814513",
+  "package_url": "https://pypi.org/project/meteoschweiz/"
+}
