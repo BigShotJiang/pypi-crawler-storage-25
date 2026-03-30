@@ -1,0 +1,11 @@
+{
+  "name": "symbolfyi",
+  "version": "0.2.3",
+  "summary": "Pure Python symbol encoder -- 11 encoding formats, Unicode properties, HTML entities, CLI, MCP server, and API client.",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "symbolfyi-0.2.3.tar.gz",
+  "download_time": "2026-03-30T02:25:07.301116",
+  "package_url": "https://pypi.org/project/symbolfyi/"
+}

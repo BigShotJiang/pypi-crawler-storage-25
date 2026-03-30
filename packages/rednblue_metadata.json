@@ -1,0 +1,11 @@
+{
+  "name": "rednblue",
+  "version": "2.4.3",
+  "summary": "Adversarial security testing CLI for AI models",
+  "author": "Dr. Mahdi Deramgozin, Dr. Saeid Samizade",
+  "license": null,
+  "home_page": "https://github.com/mahdidrm/RednBlue_CLI",
+  "download_filename": "rednblue-2.4.3.tar.gz",
+  "download_time": "2026-03-30T02:25:11.184750",
+  "package_url": "https://pypi.org/project/rednblue/"
+}

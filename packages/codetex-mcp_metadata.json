@@ -1,0 +1,11 @@
+{
+  "name": "codetex-mcp",
+  "version": "0.2.1",
+  "summary": "Commit-aware code context manager for LLMs - MCP server and CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codetex_mcp-0.2.1.tar.gz",
+  "download_time": "2026-03-30T02:25:35.354966",
+  "package_url": "https://pypi.org/project/codetex-mcp/"
+}

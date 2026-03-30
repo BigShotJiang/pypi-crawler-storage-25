@@ -1,0 +1,11 @@
+{
+  "name": "gpumanager",
+  "version": "0.2.4",
+  "summary": "Lightweight NVIDIA GPU utilization sampler, Slack reporter, and systemd timer helper",
+  "author": "OpenAI Codex",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gpumanager-0.2.4.tar.gz",
+  "download_time": "2026-03-30T02:25:24.029219",
+  "package_url": "https://pypi.org/project/gpumanager/"
+}

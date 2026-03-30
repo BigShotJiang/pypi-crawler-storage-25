@@ -1,0 +1,11 @@
+{
+  "name": "fontfyi",
+  "version": "0.2.3",
+  "summary": "Pure Python Google Fonts toolkit -- 50 fonts metadata, CSS generation, font stacks, pairings, and design systems. Zero dependencies.",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fontfyi-0.2.3.tar.gz",
+  "download_time": "2026-03-30T02:25:05.703803",
+  "package_url": "https://pypi.org/project/fontfyi/"
+}

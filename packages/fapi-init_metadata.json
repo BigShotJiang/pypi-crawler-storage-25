@@ -1,0 +1,11 @@
+{
+  "name": "fapi-init",
+  "version": "0.1.1",
+  "summary": "Scaffold a production-ready FastAPI project in seconds",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fapi_init-0.1.1.tar.gz",
+  "download_time": "2026-03-30T02:25:34.816030",
+  "package_url": "https://pypi.org/project/fapi-init/"
+}

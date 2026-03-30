@@ -1,0 +1,11 @@
+{
+  "name": "gwmcp",
+  "version": "1.16.2",
+  "summary": "Google Workspace MCP Server with guided setup and seamless auth. 114 tools for Gmail, Drive, Docs, Sheets, Calendar & more.",
+  "author": "Bryan Jacinto",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gwmcp-1.16.2.tar.gz",
+  "download_time": "2026-03-30T02:25:20.776318",
+  "package_url": "https://pypi.org/project/gwmcp/"
+}

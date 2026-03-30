@@ -1,0 +1,11 @@
+{
+  "name": "surge-py",
+  "version": "0.1.0",
+  "summary": "AC/DC power flow solver for large-scale transmission networks",
+  "author": null,
+  "license": "PolyForm Noncommercial 1.0.0",
+  "home_page": "https://amptimal.com/surge",
+  "download_filename": "surge_py-0.1.0-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-30T02:25:44.527410",
+  "package_url": "https://pypi.org/project/surge-py/"
+}

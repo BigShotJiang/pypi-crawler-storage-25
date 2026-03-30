@@ -1,0 +1,11 @@
+{
+  "name": "namefyi",
+  "version": "0.1.3",
+  "summary": "Pure Python naming engine — Korean romanization, Five Elements compatibility, CJK stroke count. Zero dependencies.",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "namefyi-0.1.3.tar.gz",
+  "download_time": "2026-03-30T02:25:01.745024",
+  "package_url": "https://pypi.org/project/namefyi/"
+}

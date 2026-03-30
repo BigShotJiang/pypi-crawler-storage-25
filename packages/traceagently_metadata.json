@@ -1,0 +1,11 @@
+{
+  "name": "traceagently",
+  "version": "0.1.0",
+  "summary": "Real-time observability for AI agents. See every thought, tool call, and error — live.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "traceagently-0.1.0.tar.gz",
+  "download_time": "2026-03-30T02:25:17.112176",
+  "package_url": "https://pypi.org/project/traceagently/"
+}

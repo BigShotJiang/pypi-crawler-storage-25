@@ -1,0 +1,11 @@
+{
+  "name": "distancefyi",
+  "version": "0.1.3",
+  "summary": "Pure Python distance engine — Haversine great-circle distance, bearing, midpoint, travel time estimates, and unit conversions. Zero dependencies.",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "distancefyi-0.1.3.tar.gz",
+  "download_time": "2026-03-30T02:25:01.200784",
+  "package_url": "https://pypi.org/project/distancefyi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "napari-nd2-spectral-ome-zarr",
+  "version": "1.2.0",
+  "summary": "A napari plugin for Nikon ND2 spectral imaging workflows, including ND2-to-OME-Zarr conversion, OME-Zarr reading, spectral visualization, and ROI-based analysis across 400-740 nm.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "napari_nd2_spectral_ome_zarr-1.2.0.tar.gz",
+  "download_time": "2026-03-30T02:25:08.427282",
+  "package_url": "https://pypi.org/project/napari-nd2-spectral-ome-zarr/"
+}

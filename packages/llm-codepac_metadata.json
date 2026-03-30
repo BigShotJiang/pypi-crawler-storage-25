@@ -1,0 +1,11 @@
+{
+  "name": "llm-codepac",
+  "version": "0.1.6",
+  "summary": "Generate structured Context Packs for AI coding tools by analyzing your codebase.",
+  "author": "ContextCraft",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_codepac-0.1.6.tar.gz",
+  "download_time": "2026-03-30T02:25:22.313762",
+  "package_url": "https://pypi.org/project/llm-codepac/"
+}

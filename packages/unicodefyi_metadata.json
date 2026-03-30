@@ -1,0 +1,11 @@
+{
+  "name": "unicodefyi",
+  "version": "0.2.3",
+  "summary": "Pure Python Unicode character toolkit -- 17 encoding formats, full Unicode properties, 92 HTML entities, character search, CLI, MCP server, and REST API client.",
+  "author": "FYIPedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "unicodefyi-0.2.3.tar.gz",
+  "download_time": "2026-03-30T02:25:06.248354",
+  "package_url": "https://pypi.org/project/unicodefyi/"
+}
