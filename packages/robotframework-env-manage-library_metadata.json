@@ -1,11 +1,11 @@
 {
   "name": "robotframework-env-manage-library",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Robot Framework library to override test variables from .env files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "robotframework_env_manage_library-0.1.0.tar.gz",
-  "download_time": "2026-03-28T15:04:27.582932",
+  "download_filename": "robotframework_env_manage_library-0.1.2.tar.gz",
+  "download_time": "2026-03-31T06:49:41.252513",
   "package_url": "https://pypi.org/project/robotframework-env-manage-library/"
 }

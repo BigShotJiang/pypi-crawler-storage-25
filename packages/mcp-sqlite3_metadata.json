@@ -1,11 +1,11 @@
 {
   "name": "mcp-sqlite3",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "MCP server exposing sqlite3 library functionality",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_sqlite3-0.1.0.tar.gz",
-  "download_time": "2026-03-31T05:25:07.987618",
+  "download_filename": "mcp_sqlite3-0.1.3.tar.gz",
+  "download_time": "2026-03-31T06:50:24.596970",
   "package_url": "https://pypi.org/project/mcp-sqlite3/"
 }

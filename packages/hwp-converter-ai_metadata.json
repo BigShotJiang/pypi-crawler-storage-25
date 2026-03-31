@@ -1,0 +1,11 @@
+{
+  "name": "hwp-converter-ai",
+  "version": "0.1.0",
+  "summary": "Python으로 HWP/HWPX 파일 생성·파싱·변환. 한컴오피스 문서를 Markdown으로, Markdown을 HWP/HWPX로.",
+  "author": "HWP Converter AI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hwp_converter_ai-0.1.0.tar.gz",
+  "download_time": "2026-03-31T06:49:52.597949",
+  "package_url": "https://pypi.org/project/hwp-converter-ai/"
+}

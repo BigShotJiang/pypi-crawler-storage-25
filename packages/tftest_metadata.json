@@ -1,0 +1,11 @@
+{
+  "name": "tftest",
+  "version": "1.8.6",
+  "summary": "Simple Terraform test helper",
+  "author": "Ludovico Magnocavallo",
+  "license": null,
+  "home_page": "https://github.com/GoogleCloudPlatform/terraform-python-testing-helper",
+  "download_filename": "tftest-1.8.6.tar.gz",
+  "download_time": "2026-03-31T06:50:23.433821",
+  "package_url": "https://pypi.org/project/tftest/"
+}

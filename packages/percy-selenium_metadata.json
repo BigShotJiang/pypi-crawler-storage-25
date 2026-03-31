@@ -1,0 +1,11 @@
+{
+  "name": "percy-selenium",
+  "version": "2.1.4",
+  "summary": "Python client for visual testing with Percy",
+  "author": "Perceptual Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/percy/percy-selenium-python",
+  "download_filename": "percy_selenium-2.1.4.tar.gz",
+  "download_time": "2026-03-31T06:50:17.941894",
+  "package_url": "https://pypi.org/project/percy-selenium/"
+}

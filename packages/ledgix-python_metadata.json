@@ -1,0 +1,11 @@
+{
+  "name": "ledgix-python",
+  "version": "0.1.8",
+  "summary": "Agent-agnostic compliance shim for SOX 404 policy enforcement via the ALCV Vault",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ledgix_python-0.1.8.tar.gz",
+  "download_time": "2026-03-31T06:50:28.840905",
+  "package_url": "https://pypi.org/project/ledgix-python/"
+}

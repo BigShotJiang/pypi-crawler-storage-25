@@ -1,0 +1,11 @@
+{
+  "name": "django-firm-info",
+  "version": "1.0.0",
+  "summary": "A Django application package for storage firm info",
+  "author": "Philippe Lafaye",
+  "license": "MIT",
+  "home_page": "https://github.com/emencia/django-firm-info",
+  "download_filename": "django_firm_info-1.0.0.tar.gz",
+  "download_time": "2026-03-31T06:50:26.217979",
+  "package_url": "https://pypi.org/project/django-firm-info/"
+}
