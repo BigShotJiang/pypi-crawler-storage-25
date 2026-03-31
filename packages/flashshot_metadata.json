@@ -1,0 +1,11 @@
+{
+  "name": "flashshot",
+  "version": "1.0.1",
+  "summary": "Screenshot API SDK — capture any website URL and get a hosted image with AI analysis. Supports ad blocking, stealth mode, device emulation, and caching.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flashshot-1.0.1.tar.gz",
+  "download_time": "2026-03-31T11:35:55.280537",
+  "package_url": "https://pypi.org/project/flashshot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xlsx2semantic",
+  "version": "0.1.2",
+  "summary": "Transform XLSX files into LLM-friendly semantic XML",
+  "author": "kangminju",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xlsx2semantic-0.1.2.tar.gz",
+  "download_time": "2026-03-31T11:36:23.181965",
+  "package_url": "https://pypi.org/project/xlsx2semantic/"
+}

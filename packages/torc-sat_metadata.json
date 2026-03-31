@@ -1,0 +1,11 @@
+{
+  "name": "torc-sat",
+  "version": "0.1.0",
+  "summary": "Topological SAT preprocessor — detects UNSAT via cohomological obstructions",
+  "author": null,
+  "license": "All Rights Reserved",
+  "home_page": null,
+  "download_filename": "torc_sat-0.1.0.tar.gz",
+  "download_time": "2026-03-31T11:35:54.255339",
+  "package_url": "https://pypi.org/project/torc-sat/"
+}

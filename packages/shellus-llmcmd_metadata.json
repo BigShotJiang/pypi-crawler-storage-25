@@ -1,11 +1,11 @@
 {
   "name": "shellus-llmcmd",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "Unified LLM CLI for text, image, audio, and batch tasks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shellus_llmcmd-1.2.2.tar.gz",
-  "download_time": "2026-03-28T05:45:36.675261",
+  "download_filename": "shellus_llmcmd-1.2.3.tar.gz",
+  "download_time": "2026-03-31T11:36:04.622226",
   "package_url": "https://pypi.org/project/shellus-llmcmd/"
 }

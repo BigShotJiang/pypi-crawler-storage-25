@@ -1,0 +1,11 @@
+{
+  "name": "lectura-p2g",
+  "version": "1.0.0",
+  "summary": "Conversion phonème-graphème du français (IPA → orthographe) — P2G + POS + Morpho (BiLSTM multi-tâche)",
+  "author": "Max Carriere",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "lectura_p2g-1.0.0.tar.gz",
+  "download_time": "2026-03-31T11:36:16.489143",
+  "package_url": "https://pypi.org/project/lectura-p2g/"
+}

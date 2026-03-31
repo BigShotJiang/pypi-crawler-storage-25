@@ -1,11 +1,11 @@
 {
   "name": "bqlog",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "summary": "BqLog - High Performance Cross-Platform Logging Library",
   "author": "Tencent",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "bqlog-2.2.3-cp37-abi3-macosx_15_0_universal2.whl",
-  "download_time": "2026-03-31T08:09:12.678169",
+  "download_filename": "bqlog-2.2.4-cp37-abi3-macosx_15_0_universal2.whl",
+  "download_time": "2026-03-31T11:35:56.843679",
   "package_url": "https://pypi.org/project/bqlog/"
 }

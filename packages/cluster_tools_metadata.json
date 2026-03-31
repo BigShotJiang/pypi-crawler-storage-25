@@ -1,0 +1,11 @@
+{
+  "name": "cluster_tools",
+  "version": "3.3.0",
+  "summary": "Utility library for easily distributing code execution on clusters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cluster_tools-3.3.0.tar.gz",
+  "download_time": "2026-03-31T11:36:39.328270",
+  "package_url": "https://pypi.org/project/cluster_tools/"
+}

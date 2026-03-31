@@ -1,0 +1,11 @@
+{
+  "name": "MaldiAMRKit",
+  "version": "0.10.0",
+  "summary": "A comprehensive toolkit for MALDI-TOF mass spectrometry data preprocessing for antimicrobial resistance (AMR) prediction purposes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "maldiamrkit-0.10.0.tar.gz",
+  "download_time": "2026-03-31T11:36:09.236517",
+  "package_url": "https://pypi.org/project/MaldiAMRKit/"
+}

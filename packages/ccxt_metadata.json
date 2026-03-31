@@ -1,0 +1,11 @@
+{
+  "name": "ccxt",
+  "version": "4.5.46",
+  "summary": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go",
+  "author": "Igor Kroitor",
+  "license": "MIT",
+  "home_page": "https://ccxt.com",
+  "download_filename": "ccxt-4.5.46.tar.gz",
+  "download_time": "2026-03-31T11:36:01.018289",
+  "package_url": "https://pypi.org/project/ccxt/"
+}

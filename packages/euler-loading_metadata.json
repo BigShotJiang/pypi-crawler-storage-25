@@ -1,11 +1,11 @@
 {
   "name": "euler-loading",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "summary": "Multi-modal PyTorch dataloader using ds-crawler indices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "euler_loading-1.3.0.tar.gz",
-  "download_time": "2026-03-28T15:04:04.456447",
+  "download_filename": "euler_loading-2.0.0.tar.gz",
+  "download_time": "2026-03-31T11:36:32.936179",
   "package_url": "https://pypi.org/project/euler-loading/"
 }

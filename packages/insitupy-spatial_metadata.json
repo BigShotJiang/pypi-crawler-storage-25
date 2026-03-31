@@ -1,0 +1,11 @@
+{
+  "name": "insitupy-spatial",
+  "version": "0.11.2",
+  "summary": "Package introducing the InSituPy framework to analyze single-cell spatial transcriptomics data.",
+  "author": "Johannes Wirth",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "insitupy_spatial-0.11.2.tar.gz",
+  "download_time": "2026-03-31T11:36:17.520159",
+  "package_url": "https://pypi.org/project/insitupy-spatial/"
+}

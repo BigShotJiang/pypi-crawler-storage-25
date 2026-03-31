@@ -1,11 +1,11 @@
 {
   "name": "django-ai-translator",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "summary": "AI-powered automatic translation for Django .po files — one command, zero manual effort",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_ai_translator-2.0.3.tar.gz",
-  "download_time": "2026-03-31T10:35:37.733966",
+  "download_filename": "django_ai_translator-2.0.4.tar.gz",
+  "download_time": "2026-03-31T11:36:08.213283",
   "package_url": "https://pypi.org/project/django-ai-translator/"
 }

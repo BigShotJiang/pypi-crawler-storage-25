@@ -1,0 +1,11 @@
+{
+  "name": "yuuagents",
+  "version": "0.1.2",
+  "summary": "Agent runtime with SDK imports, bundled CLI, optional daemon bootstrap, and built-in tools",
+  "author": "Tomorrowdawn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yuuagents-0.1.2.tar.gz",
+  "download_time": "2026-03-31T11:36:31.912580",
+  "package_url": "https://pypi.org/project/yuuagents/"
+}
