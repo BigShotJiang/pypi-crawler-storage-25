@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-website-whatsapp",
+  "version": "18.0.1.0.1.2",
+  "summary": "Whatsapp integration",
+  "author": "Studio73, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/website",
+  "download_filename": "odoo_addon_website_whatsapp-18.0.1.0.1.2-py3-none-any.whl",
+  "download_time": "2026-03-31T05:25:38.927909",
+  "package_url": "https://pypi.org/project/odoo-addon-website-whatsapp/"
+}

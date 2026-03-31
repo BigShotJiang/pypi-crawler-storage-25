@@ -1,0 +1,11 @@
+{
+  "name": "amrl-transport",
+  "version": "0.2.0",
+  "summary": "Hardware abstraction and task queue for autonomous atom manipulation with STM/AFM. Drop-in LabVIEW replacement for DeepSPM.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amrl_transport-0.2.0.tar.gz",
+  "download_time": "2026-03-31T05:25:19.851142",
+  "package_url": "https://pypi.org/project/amrl-transport/"
+}

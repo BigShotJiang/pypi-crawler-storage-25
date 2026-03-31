@@ -1,11 +1,11 @@
 {
   "name": "pypida",
-  "version": "0.1.6",
-  "summary": "PIDA Protocol - Private Inbox Data API for Python",
+  "version": "0.1.7",
+  "summary": "PIDA: Serverless E2EE Messaging & File Sharing over Cloudflare and Backblaze",
   "author": null,
   "license": "LGPL-3.0-only",
   "home_page": null,
-  "download_filename": "pypida-0.1.6.tar.gz",
-  "download_time": "2026-03-30T11:34:10.882341",
+  "download_filename": "pypida-0.1.7.tar.gz",
+  "download_time": "2026-03-31T05:25:32.229299",
   "package_url": "https://pypi.org/project/pypida/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ATSIModel",
+  "version": "2.0.5",
+  "summary": "Python package for computing ATSI (Assessment of Trophic Status Index) and trophic classification using CHL and SAL data.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "atsimodel-2.0.5.tar.gz",
+  "download_time": "2026-03-31T05:25:46.121837",
+  "package_url": "https://pypi.org/project/ATSIModel/"
+}

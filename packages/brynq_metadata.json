@@ -1,11 +1,11 @@
 {
   "name": "brynq",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "summary": "Python SDK for Intelligent Multi-Model Orchestration. Auto-routing, chain strategies, and local-first execution.",
   "author": "Brynq Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "brynq-1.3.0.tar.gz",
-  "download_time": "2026-03-30T05:12:07.706143",
+  "download_filename": "brynq-1.4.0.tar.gz",
+  "download_time": "2026-03-31T05:25:43.543463",
   "package_url": "https://pypi.org/project/brynq/"
 }

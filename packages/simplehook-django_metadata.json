@@ -1,0 +1,11 @@
+{
+  "name": "simplehook-django",
+  "version": "0.3.1",
+  "summary": "Stable webhook URLs for localhost. One line of code. Django adapter.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simplehook_django-0.3.1.tar.gz",
+  "download_time": "2026-03-31T05:25:20.875077",
+  "package_url": "https://pypi.org/project/simplehook-django/"
+}

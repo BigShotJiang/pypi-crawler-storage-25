@@ -1,0 +1,11 @@
+{
+  "name": "turbo-agent-store",
+  "version": "0.1.6",
+  "summary": "存储模块的技术实现层，提供 Memory/YAML/Git 三种技术路线的实现",
+  "author": "Turbo-Agent",
+  "license": null,
+  "home_page": null,
+  "download_filename": "turbo_agent_store-0.1.6.tar.gz",
+  "download_time": "2026-03-31T05:25:16.781075",
+  "package_url": "https://pypi.org/project/turbo-agent-store/"
+}
