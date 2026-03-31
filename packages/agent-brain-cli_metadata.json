@@ -1,0 +1,11 @@
+{
+  "name": "agent-brain-cli",
+  "version": "9.5.0",
+  "summary": "Agent Brain CLI - Command-line interface for managing AI agent memory and knowledge retrieval",
+  "author": "Spillwave Solutions",
+  "license": "MIT",
+  "home_page": "https://github.com/SpillwaveSolutions/agent-brain",
+  "download_filename": "agent_brain_cli-9.5.0.tar.gz",
+  "download_time": "2026-03-31T16:42:33.104592",
+  "package_url": "https://pypi.org/project/agent-brain-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lightning-core",
-  "version": "0.1.6",
+  "version": "0.1.10",
   "summary": "Lightning Core: macOS-first CUDA-style runtime with Metal backend",
   "author": "JunHyeon Beak (Kwangwoon University)",
   "license": "Kwangwoon University License 1.0 (KWU-1.0)",
   "home_page": null,
-  "download_filename": "lightning_core-0.1.6.tar.gz",
-  "download_time": "2026-03-30T05:12:22.720529",
+  "download_filename": "lightning_core-0.1.10.tar.gz",
+  "download_time": "2026-03-31T16:42:24.305162",
   "package_url": "https://pypi.org/project/lightning-core/"
 }

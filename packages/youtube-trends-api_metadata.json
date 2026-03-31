@@ -1,0 +1,11 @@
+{
+  "name": "youtube-trends-api",
+  "version": "1.0.0",
+  "summary": "YouTube has no public trends API. This package gives you YouTube search interest data over time via a single call. Weekly series, growth percentages, and live trending searches. No scraping. Powered by trendsmcp.ai",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "youtube_trends_api-1.0.0.tar.gz",
+  "download_time": "2026-03-31T16:42:12.113631",
+  "package_url": "https://pypi.org/project/youtube-trends-api/"
+}

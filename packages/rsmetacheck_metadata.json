@@ -1,0 +1,11 @@
+{
+  "name": "rsmetacheck",
+  "version": "0.2.1",
+  "summary": "Detect metadata pitfalls in software repositories",
+  "author": "Anas El Hounsri",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rsmetacheck-0.2.1.tar.gz",
+  "download_time": "2026-03-31T16:42:27.451914",
+  "package_url": "https://pypi.org/project/rsmetacheck/"
+}

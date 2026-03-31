@@ -1,0 +1,11 @@
+{
+  "name": "hca-anndata-tools",
+  "version": "0.2.0",
+  "summary": "Library for inspection, summarization, and statistics of AnnData h5ad files",
+  "author": "Clever Canary",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hca_anndata_tools-0.2.0.tar.gz",
+  "download_time": "2026-03-31T16:42:39.992235",
+  "package_url": "https://pypi.org/project/hca-anndata-tools/"
+}

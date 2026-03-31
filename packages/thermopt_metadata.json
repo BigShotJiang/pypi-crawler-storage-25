@@ -1,0 +1,11 @@
+{
+  "name": "thermopt",
+  "version": "0.2.4",
+  "summary": "A Python tool for the analysis and optimization of thermodynamic cycles.",
+  "author": "Roberto Agromayor",
+  "license": "MIT",
+  "home_page": "https://github.com/turbo-sim/thermopt",
+  "download_filename": "thermopt-0.2.4.tar.gz",
+  "download_time": "2026-03-31T16:42:30.542896",
+  "package_url": "https://pypi.org/project/thermopt/"
+}

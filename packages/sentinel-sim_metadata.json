@@ -1,0 +1,11 @@
+{
+  "name": "sentinel-sim",
+  "version": "0.2.1",
+  "summary": "Python SDK for Sentinel SIM — AI agent governance, tool routing, and observability",
+  "author": "Sentinel SIM",
+  "license": null,
+  "home_page": "https://github.com/fbk2111/sentinel-backend-1774545718",
+  "download_filename": "sentinel_sim-0.2.1.tar.gz",
+  "download_time": "2026-03-31T16:42:32.591562",
+  "package_url": "https://pypi.org/project/sentinel-sim/"
+}

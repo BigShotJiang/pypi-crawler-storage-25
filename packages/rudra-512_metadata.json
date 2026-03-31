@@ -1,0 +1,11 @@
+{
+  "name": "rudra-512",
+  "version": "0.1.2",
+  "summary": "High-performance 512-bit cryptographic hash function with configurable rounds",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rudra_512-0.1.2.tar.gz",
+  "download_time": "2026-03-31T16:42:29.008334",
+  "package_url": "https://pypi.org/project/rudra-512/"
+}

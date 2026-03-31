@@ -1,0 +1,11 @@
+{
+  "name": "hca-anndata-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server for interactive exploration of AnnData h5ad files",
+  "author": "Clever Canary",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hca_anndata_mcp-0.2.0.tar.gz",
+  "download_time": "2026-03-31T16:42:07.101252",
+  "package_url": "https://pypi.org/project/hca-anndata-mcp/"
+}

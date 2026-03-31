@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-doubao-draw",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "豆包AI绘图插件，支持文生图和以图生图",
-  "author": "nwasvsad",
-  "license": "MIT",
+  "author": null,
+  "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_doubao_draw-0.1.4.tar.gz",
-  "download_time": "2026-03-31T12:43:08.362247",
+  "download_filename": "nonebot_plugin_doubao_draw-0.1.5.tar.gz",
+  "download_time": "2026-03-31T16:42:11.534098",
   "package_url": "https://pypi.org/project/nonebot-plugin-doubao-draw/"
 }

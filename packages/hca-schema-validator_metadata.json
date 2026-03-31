@@ -1,0 +1,11 @@
+{
+  "name": "hca-schema-validator",
+  "version": "0.9.1",
+  "summary": "HCA schema validation for single-cell datasets",
+  "author": "Clever Canary",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hca_schema_validator-0.9.1.tar.gz",
+  "download_time": "2026-03-31T16:42:40.538230",
+  "package_url": "https://pypi.org/project/hca-schema-validator/"
+}

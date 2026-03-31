@@ -1,0 +1,11 @@
+{
+  "name": "libusb",
+  "version": "1.0.29.post7",
+  "summary": "Python binding for the libusb C library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libusb-1.0.29.post7.tar.gz",
+  "download_time": "2026-03-31T16:42:11.023940",
+  "package_url": "https://pypi.org/project/libusb/"
+}
