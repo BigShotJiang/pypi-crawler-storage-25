@@ -1,0 +1,11 @@
+{
+  "name": "catsoop",
+  "version": "19.0.8",
+  "summary": "CAT-SOOP is a tool for automatic collection and assessment of online exercises.",
+  "author": "CAT-SOOP Contributors",
+  "license": "AGPLv3+",
+  "home_page": "https://catsoop.org",
+  "download_filename": "catsoop-19.0.8.tar.gz",
+  "download_time": "2026-03-31T19:42:50.738129",
+  "package_url": "https://pypi.org/project/catsoop/"
+}

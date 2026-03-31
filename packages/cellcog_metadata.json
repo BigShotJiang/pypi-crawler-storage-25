@@ -1,0 +1,11 @@
+{
+  "name": "cellcog",
+  "version": "1.13.0",
+  "summary": "Python SDK for CellCog - Any-to-Any AI for agents. Fire-and-forget pattern with WebSocket notifications.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cellcog-1.13.0.tar.gz",
+  "download_time": "2026-03-31T19:43:33.799878",
+  "package_url": "https://pypi.org/project/cellcog/"
+}

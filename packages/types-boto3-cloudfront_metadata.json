@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-cloudfront",
+  "version": "1.42.80",
+  "summary": "Type annotations for boto3 CloudFront 1.42.80 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_boto3_cloudfront-1.42.80.tar.gz",
+  "download_time": "2026-03-31T19:43:20.758752",
+  "package_url": "https://pypi.org/project/types-boto3-cloudfront/"
+}

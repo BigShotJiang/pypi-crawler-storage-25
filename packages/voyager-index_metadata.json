@@ -1,0 +1,11 @@
+{
+  "name": "voyager-index",
+  "version": "0.1.2",
+  "summary": "Local-first multivector and hybrid retrieval with MaxSim, durable CRUD, Docker deployment, and Tabu Search optimization.",
+  "author": "Latence AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "voyager_index-0.1.2.tar.gz",
+  "download_time": "2026-03-31T19:43:33.286862",
+  "package_url": "https://pypi.org/project/voyager-index/"
+}

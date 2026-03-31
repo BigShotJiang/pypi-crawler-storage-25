@@ -1,11 +1,11 @@
 {
   "name": "maxllm-gate",
-  "version": "0.6.0",
+  "version": "0.8.0",
   "summary": "maxllm_gate - Intelligent LLM client with built-in rate limiting. Maximizes throughput and prevents 429 errors.",
   "author": "Cannonbold2412",
   "license": null,
   "home_page": null,
-  "download_filename": "maxllm_gate-0.6.0.tar.gz",
-  "download_time": "2026-03-31T18:41:04.810753",
+  "download_filename": "maxllm_gate-0.8.0.tar.gz",
+  "download_time": "2026-03-31T19:43:32.774148",
   "package_url": "https://pypi.org/project/maxllm-gate/"
 }
