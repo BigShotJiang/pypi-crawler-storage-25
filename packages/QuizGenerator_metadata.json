@@ -1,0 +1,11 @@
+{
+  "name": "QuizGenerator",
+  "version": "0.24.5",
+  "summary": "Generate randomized quiz questions for Canvas LMS and PDF exams",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "quizgenerator-0.24.5.tar.gz",
+  "download_time": "2026-03-31T22:35:30.100561",
+  "package_url": "https://pypi.org/project/QuizGenerator/"
+}

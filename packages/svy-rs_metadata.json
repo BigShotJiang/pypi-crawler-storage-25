@@ -1,0 +1,11 @@
+{
+  "name": "svy-rs",
+  "version": "0.6.0",
+  "summary": "Internal Rust extension for the svy package. Do not depend on this directly.",
+  "author": null,
+  "license": null,
+  "home_page": "https://gitlab.com/samplics/svy",
+  "download_filename": "svy_rs-0.6.0.tar.gz",
+  "download_time": "2026-03-31T22:34:55.226378",
+  "package_url": "https://pypi.org/project/svy-rs/"
+}

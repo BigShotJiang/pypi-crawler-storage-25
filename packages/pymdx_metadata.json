@@ -1,11 +1,11 @@
 {
   "name": "pymdx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Generate modern documentation sites for Python projects.",
   "author": "pymdx contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pymdx-0.1.0-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2026-03-30T22:42:46.633933",
+  "download_filename": "pymdx-0.1.1-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-03-31T22:35:40.887402",
   "package_url": "https://pypi.org/project/pymdx/"
 }

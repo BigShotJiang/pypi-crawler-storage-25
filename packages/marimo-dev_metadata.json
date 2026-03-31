@@ -1,0 +1,11 @@
+{
+  "name": "marimo-dev",
+  "version": "0.4.1",
+  "summary": "Build and publish python packages from marimo notebooks",
+  "author": "Deufel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "marimo_dev-0.4.1.tar.gz",
+  "download_time": "2026-03-31T22:34:52.001138",
+  "package_url": "https://pypi.org/project/marimo-dev/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "visu-hlo",
+  "version": "1.1",
+  "summary": "Displays the HLO representation of (un-)jitted JAX functions as SVG",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "visu_hlo-1.1.tar.gz",
+  "download_time": "2026-03-31T22:34:53.296509",
+  "package_url": "https://pypi.org/project/visu-hlo/"
+}

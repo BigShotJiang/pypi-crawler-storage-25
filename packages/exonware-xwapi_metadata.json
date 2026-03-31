@@ -1,0 +1,11 @@
+{
+  "name": "exonware-xwapi",
+  "version": "0.9.0.3",
+  "summary": "Entity-to-Web-API conversion library: Python framework that turns internal configuration, service functions, and entities into production-ready APIs using FastAPI, with minimal boilerplate",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "exonware_xwapi-0.9.0.3.tar.gz",
+  "download_time": "2026-03-31T22:34:48.784086",
+  "package_url": "https://pypi.org/project/exonware-xwapi/"
+}
