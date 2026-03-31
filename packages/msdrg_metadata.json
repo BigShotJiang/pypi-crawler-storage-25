@@ -1,11 +1,11 @@
 {
   "name": "msdrg",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "High-performance MS-DRG (Medicare Severity Diagnosis Related Groups) grouper",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/Bedrock-Billing/mz-drg",
-  "download_filename": "msdrg-0.1.6.tar.gz",
-  "download_time": "2026-03-31T00:00:40.743137",
+  "download_filename": "msdrg-0.1.7.tar.gz",
+  "download_time": "2026-03-31T23:50:33.353735",
   "package_url": "https://pypi.org/project/msdrg/"
 }

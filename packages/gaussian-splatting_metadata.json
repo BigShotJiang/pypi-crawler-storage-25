@@ -1,0 +1,11 @@
+{
+  "name": "gaussian-splatting",
+  "version": "2.3.6.1",
+  "summary": "Refactored python training and inference code for 3D Gaussian Splatting",
+  "author": "yindaheng98",
+  "license": null,
+  "home_page": "https://github.com/yindaheng98/gaussian-splatting",
+  "download_filename": "gaussian_splatting-2.3.6.1.tar.gz",
+  "download_time": "2026-03-31T23:50:37.268777",
+  "package_url": "https://pypi.org/project/gaussian-splatting/"
+}

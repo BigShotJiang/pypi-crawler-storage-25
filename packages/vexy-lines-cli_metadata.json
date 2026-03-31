@@ -1,11 +1,11 @@
 {
   "name": "vexy-lines-cli",
-  "version": "1.0.12",
+  "version": "1.0.19",
   "summary": "CLI tool and MCP passthrough server for Vexy Lines",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vexy_lines_cli-1.0.12.tar.gz",
-  "download_time": "2026-03-30T18:40:23.308375",
+  "download_filename": "vexy_lines_cli-1.0.19.tar.gz",
+  "download_time": "2026-03-31T23:50:55.510645",
   "package_url": "https://pypi.org/project/vexy-lines-cli/"
 }

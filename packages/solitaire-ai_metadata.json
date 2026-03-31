@@ -1,0 +1,11 @@
+{
+  "name": "solitaire-ai",
+  "version": "1.5.0",
+  "summary": "Persistent memory and evolving identity for AI agents. Cross-session recall, behavioral continuity, self-correcting retrieval. Local-first, model-agnostic.",
+  "author": "Dicta Technologies",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "solitaire_ai-1.5.0.tar.gz",
+  "download_time": "2026-03-31T23:50:16.216284",
+  "package_url": "https://pypi.org/project/solitaire-ai/"
+}

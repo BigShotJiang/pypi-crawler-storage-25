@@ -1,11 +1,11 @@
 {
   "name": "fast-mcp-telegram",
-  "version": "0.14.2",
+  "version": "0.16.0",
   "summary": "MCP server with Telegram search and messaging capabilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fast_mcp_telegram-0.14.2.tar.gz",
-  "download_time": "2026-03-29T22:30:33.912823",
+  "download_filename": "fast_mcp_telegram-0.16.0.tar.gz",
+  "download_time": "2026-03-31T23:50:48.920032",
   "package_url": "https://pypi.org/project/fast-mcp-telegram/"
 }

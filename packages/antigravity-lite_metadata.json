@@ -1,0 +1,11 @@
+{
+  "name": "antigravity-lite",
+  "version": "0.1.1",
+  "summary": "Herramienta open-source para auditar despilfarros financieros en clústeres PySpark (AWS Glue) y manipular S3.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "antigravity_lite-0.1.1.tar.gz",
+  "download_time": "2026-03-31T23:50:56.593697",
+  "package_url": "https://pypi.org/project/antigravity-lite/"
+}

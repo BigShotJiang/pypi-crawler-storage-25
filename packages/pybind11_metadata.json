@@ -1,0 +1,11 @@
+{
+  "name": "pybind11",
+  "version": "3.0.3",
+  "summary": "Seamless operability between C++11 and Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybind11-3.0.3.tar.gz",
+  "download_time": "2026-03-31T23:50:27.195423",
+  "package_url": "https://pypi.org/project/pybind11/"
+}
