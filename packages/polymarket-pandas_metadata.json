@@ -1,11 +1,11 @@
 {
   "name": "polymarket-pandas",
-  "version": "0.6.6",
+  "version": "0.6.11",
   "summary": "Pandas API client to Polymarket",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polymarket_pandas-0.6.6.tar.gz",
-  "download_time": "2026-03-30T12:41:51.307341",
+  "download_filename": "polymarket_pandas-0.6.11.tar.gz",
+  "download_time": "2026-03-31T12:43:11.044613",
   "package_url": "https://pypi.org/project/polymarket-pandas/"
 }

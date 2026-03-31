@@ -1,11 +1,11 @@
 {
   "name": "irsol-data-pipeline-cli",
-  "version": "0.1.29",
+  "version": "0.1.30",
   "summary": "Solar observation data processing pipeline for IRSOL",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "irsol_data_pipeline_cli-0.1.29.tar.gz",
-  "download_time": "2026-03-31T10:35:06.165242",
+  "download_filename": "irsol_data_pipeline_cli-0.1.30.tar.gz",
+  "download_time": "2026-03-31T12:43:12.121842",
   "package_url": "https://pypi.org/project/irsol-data-pipeline-cli/"
 }

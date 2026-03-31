@@ -1,0 +1,11 @@
+{
+  "name": "pycleora",
+  "version": "3.2.0",
+  "summary": "Fast CPU-only graph embedding library with Rust core. Supports Cleora, DeepWalk, Node2Vec, ProNE, MLP, and more.",
+  "author": null,
+  "license": null,
+  "home_page": "https://cleora.ai",
+  "download_filename": "pycleora-3.2.0.tar.gz",
+  "download_time": "2026-03-31T12:43:19.621158",
+  "package_url": "https://pypi.org/project/pycleora/"
+}

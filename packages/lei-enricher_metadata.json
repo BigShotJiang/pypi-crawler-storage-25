@@ -1,0 +1,11 @@
+{
+  "name": "lei-enricher",
+  "version": "0.1.0",
+  "summary": "Batch-validate and enrich LEI codes via GLEIF API — usable as a library, CLI, or web-app backend",
+  "author": "Thanasis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lei_enricher-0.1.0.tar.gz",
+  "download_time": "2026-03-31T12:43:13.733681",
+  "package_url": "https://pypi.org/project/lei-enricher/"
+}

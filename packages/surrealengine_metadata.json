@@ -1,11 +1,11 @@
 {
   "name": "surrealengine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A powerful, asynchronous Object-Graph Mapper (OGM) and utility library for SurrealDB.",
   "author": "Iristech Systems",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "surrealengine-1.0.0.tar.gz",
-  "download_time": "2026-03-29T23:02:04.539667",
+  "download_filename": "surrealengine-1.0.1.tar.gz",
+  "download_time": "2026-03-31T12:43:01.245588",
   "package_url": "https://pypi.org/project/surrealengine/"
 }
