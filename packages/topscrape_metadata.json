@@ -1,0 +1,11 @@
+{
+  "name": "topscrape",
+  "version": "0.1.0",
+  "summary": "Declarative, resilient, and typed web scraping with Pydantic and selector fallback chains.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "topscrape-0.1.0.tar.gz",
+  "download_time": "2026-03-31T10:35:23.136047",
+  "package_url": "https://pypi.org/project/topscrape/"
+}

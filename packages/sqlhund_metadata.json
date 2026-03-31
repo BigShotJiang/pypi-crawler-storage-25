@@ -1,0 +1,11 @@
+{
+  "name": "sqlhund",
+  "version": "0.0.5",
+  "summary": "A Rust library with Python bindings for detecting SQL injection patterns in input strings. Built for speed and designed especially for AI agents that process or generate SQL queries.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/kanishknavale/sqlhund",
+  "download_filename": "sqlhund-0.0.5-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-03-31T10:35:18.421120",
+  "package_url": "https://pypi.org/project/sqlhund/"
+}

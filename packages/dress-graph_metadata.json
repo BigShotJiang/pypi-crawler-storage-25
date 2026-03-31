@@ -1,0 +1,11 @@
+{
+  "name": "dress-graph",
+  "version": "0.7.0",
+  "summary": "DRESS: A deterministic, parameter-free framework for canonical graph fingerprinting via continuous structural edge refinement.",
+  "author": "Eduar Castrillo Velilla",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dress_graph-0.7.0.tar.gz",
+  "download_time": "2026-03-31T10:35:02.853668",
+  "package_url": "https://pypi.org/project/dress-graph/"
+}

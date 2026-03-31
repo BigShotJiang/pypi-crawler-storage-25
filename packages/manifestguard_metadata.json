@@ -1,0 +1,11 @@
+{
+  "name": "manifestguard",
+  "version": "1.6.26.post1",
+  "summary": "Public bootstrap installer for the protected ManifestGuard release payload",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "manifestguard-1.6.26.post1.tar.gz",
+  "download_time": "2026-03-31T10:35:46.064072",
+  "package_url": "https://pypi.org/project/manifestguard/"
+}

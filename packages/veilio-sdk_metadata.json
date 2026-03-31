@@ -1,0 +1,11 @@
+{
+  "name": "veilio-sdk",
+  "version": "1.1.0",
+  "summary": "Official Veilio SDK for Python - Data tokenization and cyber-resilience API client",
+  "author": "Veilio",
+  "license": null,
+  "home_page": "https://github.com/veilio/veilio-sdk-python",
+  "download_filename": "veilio_sdk-1.1.0.tar.gz",
+  "download_time": "2026-03-31T10:35:17.381444",
+  "package_url": "https://pypi.org/project/veilio-sdk/"
+}

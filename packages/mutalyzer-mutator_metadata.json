@@ -1,0 +1,11 @@
+{
+  "name": "mutalyzer-mutator",
+  "version": "0.2.1",
+  "summary": "Mutalyzer sequence mutator.",
+  "author": "Mihai Lefter",
+  "license": "MIT",
+  "home_page": "http://github.com/mutalyzer/mutator",
+  "download_filename": "mutalyzer_mutator-0.2.1.tar.gz",
+  "download_time": "2026-03-31T10:35:31.490840",
+  "package_url": "https://pypi.org/project/mutalyzer-mutator/"
+}

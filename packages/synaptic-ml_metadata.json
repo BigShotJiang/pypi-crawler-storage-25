@@ -1,0 +1,11 @@
+{
+  "name": "synaptic-ml",
+  "version": "0.1.3",
+  "summary": "The TensorFlow for neuromorphic computing — high-level SNN framework",
+  "author": "Hrishikesh Rajulu",
+  "license": null,
+  "home_page": "https://github.com/HrishikeshRajulu/synaptic-ml",
+  "download_filename": "synaptic_ml-0.1.3.tar.gz",
+  "download_time": "2026-03-31T10:35:36.691952",
+  "package_url": "https://pypi.org/project/synaptic-ml/"
+}

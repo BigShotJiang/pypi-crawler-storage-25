@@ -1,0 +1,11 @@
+{
+  "name": "beequa-memory",
+  "version": "0.5.1",
+  "summary": "Agent memory with reinforcement, decay, session recovery, and Markdown vault",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "beequa_memory-0.5.1.tar.gz",
+  "download_time": "2026-03-31T10:35:42.932755",
+  "package_url": "https://pypi.org/project/beequa-memory/"
+}

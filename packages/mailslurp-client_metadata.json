@@ -1,0 +1,11 @@
+{
+  "name": "mailslurp-client",
+  "version": "17.4.0",
+  "summary": "Official MailSlurp Python SDK Email API",
+  "author": "MailSlurp",
+  "license": null,
+  "home_page": "https://www.mailslurp.com/python",
+  "download_filename": "mailslurp_client-17.4.0.tar.gz",
+  "download_time": "2026-03-31T10:35:39.298358",
+  "package_url": "https://pypi.org/project/mailslurp-client/"
+}

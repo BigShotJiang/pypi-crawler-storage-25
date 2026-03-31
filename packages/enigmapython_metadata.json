@@ -1,0 +1,11 @@
+{
+  "name": "enigmapython",
+  "version": "3.1.0",
+  "summary": "A simple yet faithful library to emulate different Enigma machines models using Python",
+  "author": "Denis Maggiorotto",
+  "license": "MIT",
+  "home_page": "https://github.com/denismaggior8/enigma-python",
+  "download_filename": "enigmapython-3.1.0.tar.gz",
+  "download_time": "2026-03-31T10:35:28.862049",
+  "package_url": "https://pypi.org/project/enigmapython/"
+}

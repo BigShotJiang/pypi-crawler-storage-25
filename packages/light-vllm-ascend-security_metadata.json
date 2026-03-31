@@ -1,0 +1,11 @@
+{
+  "name": "light-vllm-ascend-security",
+  "version": "1.0.1.2",
+  "summary": "Model encryption and authorization extension for vLLM 0.17.0+ on Ascend NPU",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "light_vllm_ascend_security-1.0.1.2.tar.gz",
+  "download_time": "2026-03-31T10:35:17.900484",
+  "package_url": "https://pypi.org/project/light-vllm-ascend-security/"
+}
