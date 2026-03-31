@@ -1,0 +1,11 @@
+{
+  "name": "sap-mcp-config",
+  "version": "0.0.3",
+  "summary": "Shared configuration models for MCP servers that connect to SAP systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sap_mcp_config-0.0.3.tar.gz",
+  "download_time": "2026-03-31T21:56:25.653565",
+  "package_url": "https://pypi.org/project/sap-mcp-config/"
+}

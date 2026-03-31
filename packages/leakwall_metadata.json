@@ -1,0 +1,11 @@
+{
+  "name": "leakwall",
+  "version": "0.1.0",
+  "summary": "Pre-publish security scanner for npm/pip packages — catch sourcemaps, credentials, and supply chain risks before they ship",
+  "author": "Javis Wan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "leakwall-0.1.0.tar.gz",
+  "download_time": "2026-03-31T21:56:26.810292",
+  "package_url": "https://pypi.org/project/leakwall/"
+}

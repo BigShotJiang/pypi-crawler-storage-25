@@ -1,0 +1,11 @@
+{
+  "name": "pytest-nbgrader",
+  "version": "0.3.0",
+  "summary": "Pytest plugin for using with nbgrader and generating test cases.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_nbgrader-0.3.0.tar.gz",
+  "download_time": "2026-03-31T21:56:44.326635",
+  "package_url": "https://pypi.org/project/pytest-nbgrader/"
+}

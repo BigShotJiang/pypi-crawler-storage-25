@@ -1,0 +1,11 @@
+{
+  "name": "slack-objects",
+  "version": "0.1.2",
+  "summary": "Opinionated, testable Python wrappers for Slack’s Web, Admin, and SCIM APIs, organized by object domain (users, conversations, messages, files, workspaces, and IdP groups). Designed for automation and administration workflows.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slack_objects-0.1.2.tar.gz",
+  "download_time": "2026-03-31T21:56:18.880357",
+  "package_url": "https://pypi.org/project/slack-objects/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nteract",
-  "version": "2.0.4",
+  "version": "2.0.7",
   "summary": "Bring AI to Jupyter notebooks. MCP server for Claude, ChatGPT, Gemini, OpenCode and any agent.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nteract-2.0.4.tar.gz",
-  "download_time": "2026-03-28T19:19:41.404741",
+  "download_filename": "nteract-2.0.7.tar.gz",
+  "download_time": "2026-03-31T21:56:22.790437",
   "package_url": "https://pypi.org/project/nteract/"
 }

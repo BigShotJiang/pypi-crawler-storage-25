@@ -1,11 +1,11 @@
 {
   "name": "alto-dictation",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "System-wide push-to-talk speech-to-text service for Linux",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alto_dictation-1.0.4.tar.gz",
-  "download_time": "2026-03-31T17:41:49.450711",
+  "download_filename": "alto_dictation-1.0.5.tar.gz",
+  "download_time": "2026-03-31T21:56:15.992938",
   "package_url": "https://pypi.org/project/alto-dictation/"
 }
