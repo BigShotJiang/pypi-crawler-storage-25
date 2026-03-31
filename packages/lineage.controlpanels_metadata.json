@@ -1,0 +1,11 @@
+{
+  "name": "lineage.controlpanels",
+  "version": "1.1",
+  "summary": "Plone controlpanels for Lineage sites",
+  "author": "Johannes Raggam",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.python.org/pypi/lineage.controlpanels",
+  "download_filename": "lineage_controlpanels-1.1.tar.gz",
+  "download_time": "2026-03-31T00:00:17.008862",
+  "package_url": "https://pypi.org/project/lineage.controlpanels/"
+}

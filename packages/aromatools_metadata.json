@@ -1,11 +1,11 @@
 {
   "name": "aromatools",
-  "version": "0.2.18",
+  "version": "0.2.21",
   "summary": "Tools for aromaticity evaluation",
   "author": "Fernando Martínez-Villarino, Mesías Orozco-Ic, Gabriel Merino",
   "license": null,
   "home_page": null,
-  "download_filename": "aromatools-0.2.18.tar.gz",
-  "download_time": "2026-03-30T23:22:10.053635",
+  "download_filename": "aromatools-0.2.21.tar.gz",
+  "download_time": "2026-03-31T00:00:20.602939",
   "package_url": "https://pypi.org/project/aromatools/"
 }

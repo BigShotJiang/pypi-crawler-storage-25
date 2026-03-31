@@ -1,0 +1,11 @@
+{
+  "name": "outlook365-cli",
+  "version": "0.1.5",
+  "summary": "Outlook 365 CLI — read, send, and manage emails from the terminal",
+  "author": "Yusuf Altunbicak",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "outlook365_cli-0.1.5.tar.gz",
+  "download_time": "2026-03-31T00:00:28.876991",
+  "package_url": "https://pypi.org/project/outlook365-cli/"
+}

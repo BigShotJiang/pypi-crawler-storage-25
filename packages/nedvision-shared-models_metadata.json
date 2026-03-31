@@ -1,0 +1,11 @@
+{
+  "name": "nedvision-shared-models",
+  "version": "0.2.4",
+  "summary": "Nedvision shared SQLAlchemy models and alembic migrations entrypoint",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nedvision_shared_models-0.2.4.tar.gz",
+  "download_time": "2026-03-31T00:00:15.470956",
+  "package_url": "https://pypi.org/project/nedvision-shared-models/"
+}
