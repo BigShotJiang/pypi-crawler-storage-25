@@ -1,11 +1,11 @@
 {
   "name": "humanos-sdk",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Official Humanos API SDK for Python with automatic request signing and webhook verification",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "humanos_sdk-1.0.8.tar.gz",
-  "download_time": "2026-03-30T22:42:54.912285",
+  "download_filename": "humanos_sdk-1.0.9.tar.gz",
+  "download_time": "2026-03-31T09:19:12.111566",
   "package_url": "https://pypi.org/project/humanos-sdk/"
 }

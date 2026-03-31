@@ -1,35 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-03-31T08:09:29.133624
-- **Total Packages**: 94
-- **Total Size**: 49.01 MB
+- **Download Time**: 2026-03-31T09:19:15.853944
+- **Total Packages**: 92
+- **Total Size**: 29.13 MB
 
 ## Packages List
-- aya-ai-assist
-- isometric-calculation-library
-- texfury
-- databao-context-engine
-- mindee
-- qrclaw
-- promptlock-py
-- riot-na
-- runtimepy
-- pytrackio
-- pystator
-- kingsoftcloud-sdk-python
-- aiohomematic-test-support
-- dxpipe-sdk
-- aiohomematic
-- codexed
-- fasr-asr-qwen3
-- yolo-inspection-kit
-- pygubernator
-- mcp-video
-- nys-schemas
-- nys-client
-- pytest-llm-assert
-- mcp-tools-py
 - mbake
 - smime-email
 - akasha-terminal
@@ -39,6 +15,7 @@
 - sqlite-vec
 - async-hyperliquid
 - kharness
+- texfury
 - mutagent
 - mutbot
 - project-hub
@@ -100,3 +77,24 @@
 - guance-opentelemetry-distro
 - image-to-design-mcp
 - mas-devops
+- modulitiz-micro
+- epics-bridge
+- easynet-run-axon
+- x-ipe
+- dnse
+- vk-scripts
+- basic-interactive-menu
+- webqa-agent
+- ragworkbench
+- authfort
+- authfort-service
+- millrace-ai
+- alpaca-ALPs
+- solarlog-cli
+- PyFT8
+- humanos-sdk
+- fraiseql-confiture
+- agenttracer-ai
+- pybvh
+- aiomealie
+- blog-pro-max
