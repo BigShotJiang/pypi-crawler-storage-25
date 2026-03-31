@@ -1,0 +1,11 @@
+{
+  "name": "vllm-tuner",
+  "version": "0.1.6",
+  "summary": "A Python package for tuning vLLM hyperparameters.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vllm_tuner-0.1.6.tar.gz",
+  "download_time": "2026-03-31T17:42:03.419441",
+  "package_url": "https://pypi.org/project/vllm-tuner/"
+}

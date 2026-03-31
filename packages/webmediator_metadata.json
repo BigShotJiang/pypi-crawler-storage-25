@@ -1,0 +1,11 @@
+{
+  "name": "webmediator",
+  "version": "1.0.1",
+  "summary": "Python sync/async client for the WebMediator API",
+  "author": "Leonid Salavatov",
+  "license": null,
+  "home_page": "https://github.com/mustaddon/webmediator.git",
+  "download_filename": "webmediator-1.0.1.tar.gz",
+  "download_time": "2026-03-31T17:42:17.609954",
+  "package_url": "https://pypi.org/project/webmediator/"
+}

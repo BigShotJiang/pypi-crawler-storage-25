@@ -1,0 +1,11 @@
+{
+  "name": "dm-tree",
+  "version": "0.1.10",
+  "summary": "Tree is a library for working with nested data structures.",
+  "author": "DeepMind",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/deepmind/tree",
+  "download_filename": "dm_tree-0.1.10.tar.gz",
+  "download_time": "2026-03-31T17:42:09.732333",
+  "package_url": "https://pypi.org/project/dm-tree/"
+}

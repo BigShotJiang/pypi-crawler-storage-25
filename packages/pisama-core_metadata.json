@@ -1,0 +1,11 @@
+{
+  "name": "pisama-core",
+  "version": "1.2.0",
+  "summary": "Core detection, scoring, and healing engine for Pisama agent forensics",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pisama_core-1.2.0.tar.gz",
+  "download_time": "2026-03-31T17:42:19.692205",
+  "package_url": "https://pypi.org/project/pisama-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "exposureguard-mcp",
+  "version": "1.0.2",
+  "summary": "MCP server for ExposureGuard domain security scanning API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "exposureguard_mcp-1.0.2.tar.gz",
+  "download_time": "2026-03-31T17:42:10.780023",
+  "package_url": "https://pypi.org/project/exposureguard-mcp/"
+}

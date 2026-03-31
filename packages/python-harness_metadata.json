@@ -1,11 +1,11 @@
 {
   "name": "python-harness",
-  "version": "0.0.2",
+  "version": "0.0.10",
   "summary": "An agentic codebase evaluation and evolution tool for Python projects.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "python_harness-0.0.2.tar.gz",
-  "download_time": "2026-03-31T14:17:01.194396",
+  "download_filename": "python_harness-0.0.10.tar.gz",
+  "download_time": "2026-03-31T17:41:54.925500",
   "package_url": "https://pypi.org/project/python-harness/"
 }
