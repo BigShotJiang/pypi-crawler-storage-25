@@ -1,0 +1,11 @@
+{
+  "name": "privacyguard-platform",
+  "version": "0.0.2",
+  "summary": "PrivacyGuard platform for Privacy Attacks and Analysis. Perform privacy analyses of ML models using Inference Attacks and Extraction Attacks.",
+  "author": "Meta Platforms, Inc.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "privacyguard_platform-0.0.2.tar.gz",
+  "download_time": "2026-03-31T14:17:00.674362",
+  "package_url": "https://pypi.org/project/privacyguard-platform/"
+}

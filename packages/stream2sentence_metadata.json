@@ -1,0 +1,11 @@
+{
+  "name": "stream2sentence",
+  "version": "0.3.2",
+  "summary": "Real-time processing and delivery of sentences from a continuous stream of characters or text chunks.",
+  "author": "Kolja Beigel",
+  "license": null,
+  "home_page": "https://github.com/KoljaB/stream2sentence",
+  "download_filename": "stream2sentence-0.3.2.tar.gz",
+  "download_time": "2026-03-31T14:16:28.018458",
+  "package_url": "https://pypi.org/project/stream2sentence/"
+}

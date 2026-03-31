@@ -1,0 +1,11 @@
+{
+  "name": "planner-auto",
+  "version": "0.6.0",
+  "summary": "Interactive planning session manager with SQLite persistence and artifact export",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "planner_auto-0.6.0.tar.gz",
+  "download_time": "2026-03-31T14:16:42.276197",
+  "package_url": "https://pypi.org/project/planner-auto/"
+}

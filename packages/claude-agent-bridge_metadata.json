@@ -1,0 +1,11 @@
+{
+  "name": "claude-agent-bridge",
+  "version": "0.1.4",
+  "summary": "Multi-session Claude Code dispatch from Telegram",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_agent_bridge-0.1.4.tar.gz",
+  "download_time": "2026-03-31T14:16:33.295455",
+  "package_url": "https://pypi.org/project/claude-agent-bridge/"
+}

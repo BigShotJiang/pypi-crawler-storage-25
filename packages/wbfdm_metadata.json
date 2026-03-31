@@ -1,0 +1,11 @@
+{
+  "name": "wbfdm",
+  "version": "1.63.4",
+  "summary": "The workbench module ensures rapid access to diverse financial data (market, fundamental, forecasts, ESG), with features for storing instruments, classifying them, and conducting financial analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wbfdm-1.63.4.tar.gz",
+  "download_time": "2026-03-31T14:16:24.874691",
+  "package_url": "https://pypi.org/project/wbfdm/"
+}

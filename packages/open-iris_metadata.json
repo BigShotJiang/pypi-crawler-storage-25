@@ -1,0 +1,11 @@
+{
+  "name": "open-iris",
+  "version": "1.11.1",
+  "summary": "IRIS: Iris Recognition Inference System of the Worldcoin project.",
+  "author": "Worldcoin AI",
+  "license": "MIT",
+  "home_page": "https://github.com/worldcoin/open-iris",
+  "download_filename": "open_iris-1.11.1.tar.gz",
+  "download_time": "2026-03-31T14:16:52.223650",
+  "package_url": "https://pypi.org/project/open-iris/"
+}

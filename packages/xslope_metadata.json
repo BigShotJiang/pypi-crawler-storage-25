@@ -1,11 +1,11 @@
 {
   "name": "xslope",
-  "version": "0.1.40",
+  "version": "0.1.41",
   "summary": "Slope stability analysis (limit equilibrium and FEM) in Python.",
   "author": "Norman L. Jones",
   "license": null,
   "home_page": null,
-  "download_filename": "xslope-0.1.40.tar.gz",
-  "download_time": "2026-03-30T22:42:36.775808",
+  "download_filename": "xslope-0.1.41.tar.gz",
+  "download_time": "2026-03-31T14:16:45.971694",
   "package_url": "https://pypi.org/project/xslope/"
 }

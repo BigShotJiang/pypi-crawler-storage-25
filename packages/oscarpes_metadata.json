@@ -1,0 +1,11 @@
+{
+  "name": "oscarpes",
+  "version": "3.1.1",
+  "summary": "OSCARpes — One-Step Computed Angle-Resolved PhotoEmission Spectroscopy database. Theoretical photoemission spectra from relativistic multiple-scattering theory (SPR-KKR one-step model).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oscarpes-3.1.1.tar.gz",
+  "download_time": "2026-03-31T14:16:22.767421",
+  "package_url": "https://pypi.org/project/oscarpes/"
+}

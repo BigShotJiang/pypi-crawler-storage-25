@@ -1,0 +1,11 @@
+{
+  "name": "scFates",
+  "version": "1.2.4",
+  "summary": "scanpy compatible python suite for fast tree inference and advanced pseudotime downstream analysis",
+  "author": "Louis Faure",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scfates-1.2.4.tar.gz",
+  "download_time": "2026-03-31T14:16:11.697823",
+  "package_url": "https://pypi.org/project/scFates/"
+}

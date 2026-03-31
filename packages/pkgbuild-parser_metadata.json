@@ -1,0 +1,11 @@
+{
+  "name": "pkgbuild-parser",
+  "version": "1.2.1",
+  "summary": "Simple Python module to extract basic information directly from PKGBUILD files (not .SRCINFO)",
+  "author": "KevinCrrl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pkgbuild_parser-1.2.1.tar.gz",
+  "download_time": "2026-03-31T14:16:35.935067",
+  "package_url": "https://pypi.org/project/pkgbuild-parser/"
+}

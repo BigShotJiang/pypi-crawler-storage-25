@@ -1,11 +1,11 @@
 {
   "name": "keshro",
-  "version": "0.1.7",
-  "summary": "The intelligent execution layer for AI agents — CLI interface",
+  "version": "0.1.13",
+  "summary": "High-stakes engineering project execution for AI coding agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "keshro-0.1.7.tar.gz",
-  "download_time": "2026-03-30T21:58:12.358637",
+  "download_filename": "keshro-0.1.13.tar.gz",
+  "download_time": "2026-03-31T14:16:47.531482",
   "package_url": "https://pypi.org/project/keshro/"
 }
