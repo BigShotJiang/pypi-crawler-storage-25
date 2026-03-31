@@ -1,0 +1,11 @@
+{
+  "name": "paude",
+  "version": "0.14.2",
+  "summary": "Container wrapper for running AI coding agents in isolated, secure containers",
+  "author": "Ben Browning",
+  "license": null,
+  "home_page": null,
+  "download_filename": "paude-0.14.2.tar.gz",
+  "download_time": "2026-03-31T20:28:09.268739",
+  "package_url": "https://pypi.org/project/paude/"
+}

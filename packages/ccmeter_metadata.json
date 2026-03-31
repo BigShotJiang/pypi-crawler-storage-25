@@ -1,11 +1,11 @@
 {
   "name": "ccmeter",
-  "version": "0.1.0",
-  "summary": "Reverse-engineer Anthropic's opaque Claude subscription limits into hard numbers",
+  "version": "0.1.7",
+  "summary": "Measure your actual Claude Code usage limits instead of guessing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ccmeter-0.1.0.tar.gz",
-  "download_time": "2026-03-30T05:12:07.183955",
+  "download_filename": "ccmeter-0.1.7.tar.gz",
+  "download_time": "2026-03-31T20:28:20.305729",
   "package_url": "https://pypi.org/project/ccmeter/"
 }

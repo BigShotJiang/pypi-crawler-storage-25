@@ -1,0 +1,11 @@
+{
+  "name": "dagzoo",
+  "version": "0.15.2",
+  "summary": "Synthetic tabular data generator for causal modeling",
+  "author": "Benson Lee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagzoo-0.15.2.tar.gz",
+  "download_time": "2026-03-31T20:27:48.257921",
+  "package_url": "https://pypi.org/project/dagzoo/"
+}

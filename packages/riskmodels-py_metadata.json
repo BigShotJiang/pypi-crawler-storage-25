@@ -1,0 +1,11 @@
+{
+  "name": "riskmodels-py",
+  "version": "0.2.4",
+  "summary": "Python SDK for the RiskModels API (ERM3 factors, hedge ratios, explained risk)",
+  "author": "RiskModels",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "riskmodels_py-0.2.4.tar.gz",
+  "download_time": "2026-03-31T20:28:22.400062",
+  "package_url": "https://pypi.org/project/riskmodels-py/"
+}

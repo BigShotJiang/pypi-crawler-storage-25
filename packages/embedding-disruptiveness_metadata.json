@@ -1,0 +1,11 @@
+{
+  "name": "embedding-disruptiveness",
+  "version": "2.0.0",
+  "summary": "A Python package to calculate the disruption index and embedding disruptiveness measure using a citation network.",
+  "author": "Munjung Kim, Skojaku",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/embedding-disruptiveness",
+  "download_filename": "embedding_disruptiveness-2.0.0.tar.gz",
+  "download_time": "2026-03-31T20:28:25.472289",
+  "package_url": "https://pypi.org/project/embedding-disruptiveness/"
+}
