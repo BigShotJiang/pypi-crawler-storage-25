@@ -1,0 +1,11 @@
+{
+  "name": "opal-server",
+  "version": "0.9.0",
+  "summary": "OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and data and pushing live updates to your agents. The opal-server creates a pub/sub channel clients can subscribe to (i.e: acts as coordinator). The server also tracks a git repository (via webhook) for updates to policy (or static data) and accepts continuous data update notifications via REST api, which are then pushed to clients.",
+  "author": "Or Weis, Asaf Cohen",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/permitio/opal",
+  "download_filename": "opal-server-0.9.0.tar.gz",
+  "download_time": "2026-03-31T08:09:23.494610",
+  "package_url": "https://pypi.org/project/opal-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spa-sqladmin",
+  "version": "0.3.0",
+  "summary": "React SPA admin for SQLAlchemy with FastAPI and Starlette",
+  "author": "SenZmaKi, Amin Alaee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spa_sqladmin-0.3.0.tar.gz",
+  "download_time": "2026-03-31T08:09:22.468695",
+  "package_url": "https://pypi.org/project/spa-sqladmin/"
+}

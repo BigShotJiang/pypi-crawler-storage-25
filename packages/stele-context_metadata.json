@@ -1,0 +1,11 @@
+{
+  "name": "stele-context",
+  "version": "1.0.8",
+  "summary": "Local context cache for LLM agents with semantic chunking and vector search",
+  "author": "Stele Context Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stele_context-1.0.8.tar.gz",
+  "download_time": "2026-03-31T08:09:09.536683",
+  "package_url": "https://pypi.org/project/stele-context/"
+}

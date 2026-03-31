@@ -1,11 +1,11 @@
 {
   "name": "guance-opentelemetry-distro",
-  "version": "0.63b0",
+  "version": "0.63b2",
   "summary": "Guance OpenTelemetry Python distro",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "guance_opentelemetry_distro-0.63b0.tar.gz",
-  "download_time": "2026-03-29T08:59:23.555588",
+  "download_filename": "guance_opentelemetry_distro-0.63b2.tar.gz",
+  "download_time": "2026-03-31T08:09:27.606987",
   "package_url": "https://pypi.org/project/guance-opentelemetry-distro/"
 }

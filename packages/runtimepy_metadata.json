@@ -1,11 +1,11 @@
 {
   "name": "runtimepy",
-  "version": "5.17.7",
+  "version": "5.17.8",
   "summary": "A framework for implementing Python services.",
   "author": "Libre Embedded",
   "license": null,
   "home_page": "https://github.com/libre-embedded/runtimepy",
-  "download_filename": "runtimepy-5.17.7.tar.gz",
-  "download_time": "2026-03-31T05:25:14.204957",
+  "download_filename": "runtimepy-5.17.8.tar.gz",
+  "download_time": "2026-03-31T08:08:43.752943",
   "package_url": "https://pypi.org/project/runtimepy/"
 }

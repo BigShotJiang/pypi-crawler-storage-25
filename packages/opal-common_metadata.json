@@ -1,0 +1,11 @@
+{
+  "name": "opal-common",
+  "version": "0.9.3",
+  "summary": "OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and data and pushing live updates to your agents. opal-common contains common code used by both opal-client and opal-server.",
+  "author": "Or Weis, Asaf Cohen",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/permitio/opal",
+  "download_filename": "opal_common-0.9.3-py3-none-any.whl",
+  "download_time": "2026-03-31T08:09:25.554683",
+  "package_url": "https://pypi.org/project/opal-common/"
+}

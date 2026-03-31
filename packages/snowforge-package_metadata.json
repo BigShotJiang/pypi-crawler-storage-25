@@ -1,0 +1,11 @@
+{
+  "name": "snowforge-package",
+  "version": "0.3.42",
+  "summary": "A Python package for supporting dataplatform-migration from on-prem to cloud",
+  "author": "Andreas Heggelund, Christophe Lebegue",
+  "license": null,
+  "home_page": "https://github.com/yourusername/Snowforge",
+  "download_filename": "snowforge_package-0.3.42.tar.gz",
+  "download_time": "2026-03-31T08:08:59.739080",
+  "package_url": "https://pypi.org/project/snowforge-package/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "datasette-sqlite-vec",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": null,
   "author": "TODO",
   "license": "MIT License, Apache License, Version 2.0",
   "home_page": "https://TODO.com",
-  "download_filename": "datasette_sqlite_vec-0.1.8-py3-none-any.whl",
-  "download_time": "2026-03-30T02:25:32.165078",
+  "download_filename": "datasette_sqlite_vec-0.1.9-py3-none-any.whl",
+  "download_time": "2026-03-31T08:08:54.590225",
   "package_url": "https://pypi.org/project/datasette-sqlite-vec/"
 }

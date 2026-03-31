@@ -1,0 +1,11 @@
+{
+  "name": "mbake",
+  "version": "1.4.6",
+  "summary": "A Python-based Makefile formatter and linter",
+  "author": "mbake Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mbake-1.4.6.tar.gz",
+  "download_time": "2026-03-31T08:08:52.532952",
+  "package_url": "https://pypi.org/project/mbake/"
+}
