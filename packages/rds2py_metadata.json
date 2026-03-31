@@ -1,0 +1,11 @@
+{
+  "name": "rds2py",
+  "version": "0.9.0",
+  "summary": "Parse and construct Python representations for datasets stored in RDS files",
+  "author": "jkanche",
+  "license": "MIT",
+  "home_page": "https://github.com/biocpy/rds2py",
+  "download_filename": "rds2py-0.9.0.tar.gz",
+  "download_time": "2026-03-31T03:24:31.619158",
+  "package_url": "https://pypi.org/project/rds2py/"
+}

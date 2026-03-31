@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-intrastat-base",
+  "version": "19.0.1.0.1.1",
+  "summary": "Base module for Intrastat reporting",
+  "author": "ACSONE SA/NV,Akretion,Noviat,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/intrastat-extrastat",
+  "download_filename": "odoo_addon_intrastat_base-19.0.1.0.1.1-py3-none-any.whl",
+  "download_time": "2026-03-31T03:23:54.614585",
+  "package_url": "https://pypi.org/project/odoo-addon-intrastat-base/"
+}

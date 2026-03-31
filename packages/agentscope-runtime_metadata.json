@@ -1,0 +1,11 @@
+{
+  "name": "agentscope-runtime",
+  "version": "1.1.3",
+  "summary": "A production-ready runtime framework for agent applications, providing secure sandboxed execution environments and scalable deployment solutions with multi-framework support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentscope_runtime-1.1.3.tar.gz",
+  "download_time": "2026-03-31T03:24:01.961663",
+  "package_url": "https://pypi.org/project/agentscope-runtime/"
+}

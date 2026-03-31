@@ -1,0 +1,11 @@
+{
+  "name": "context-saver",
+  "version": "1.0.0",
+  "summary": "Three-tier context preservation system for AI agents | 面向 AI Agent 的三层上下文保存系统",
+  "author": "Mr Lee",
+  "license": null,
+  "home_page": "https://github.com/lcq225/context-saver",
+  "download_filename": "context_saver-1.0.0-py3-none-any.whl",
+  "download_time": "2026-03-31T03:23:50.948726",
+  "package_url": "https://pypi.org/project/context-saver/"
+}

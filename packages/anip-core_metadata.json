@@ -1,11 +1,11 @@
 {
   "name": "anip-core",
-  "version": "0.11.1",
+  "version": "0.11.3",
   "summary": "ANIP protocol types, models, and constants",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "anip_core-0.11.1.tar.gz",
-  "download_time": "2026-03-29T07:20:28.259074",
+  "download_filename": "anip_core-0.11.3.tar.gz",
+  "download_time": "2026-03-31T03:24:16.001559",
   "package_url": "https://pypi.org/project/anip-core/"
 }

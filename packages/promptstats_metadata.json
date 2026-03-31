@@ -1,0 +1,11 @@
+{
+  "name": "promptstats",
+  "version": "0.1.7",
+  "summary": "Statistically sane analysis methods for comparing prompt and LLM performance.",
+  "author": "Ian Arawjo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "promptstats-0.1.7.tar.gz",
+  "download_time": "2026-03-31T03:24:26.315533",
+  "package_url": "https://pypi.org/project/promptstats/"
+}
