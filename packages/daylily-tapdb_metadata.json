@@ -1,11 +1,11 @@
 {
   "name": "daylily-tapdb",
-  "version": "3.0.11",
+  "version": "3.0.12",
   "summary": "Templated Abstract Polymorphic Database - A flexible object model library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "daylily_tapdb-3.0.11.tar.gz",
-  "download_time": "2026-03-30T12:42:09.724657",
+  "download_filename": "daylily_tapdb-3.0.12.tar.gz",
+  "download_time": "2026-03-31T18:40:43.073680",
   "package_url": "https://pypi.org/project/daylily-tapdb/"
 }

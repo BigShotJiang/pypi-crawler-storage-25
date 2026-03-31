@@ -1,0 +1,11 @@
+{
+  "name": "modict",
+  "version": "0.4.9",
+  "summary": "A dict subclass with optional typed fields, validators, computed values, and deep nested ops",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "modict-0.4.9.tar.gz",
+  "download_time": "2026-03-31T18:40:30.450738",
+  "package_url": "https://pypi.org/project/modict/"
+}

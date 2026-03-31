@@ -1,0 +1,11 @@
+{
+  "name": "scios-cli",
+  "version": "0.1.7",
+  "summary": "Scios Local Agent Workspace Sync CLI — bridge your terminal to the Scios Cloud backend",
+  "author": "Scios Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "scios_cli-0.1.7.tar.gz",
+  "download_time": "2026-03-31T18:40:48.299297",
+  "package_url": "https://pypi.org/project/scios-cli/"
+}

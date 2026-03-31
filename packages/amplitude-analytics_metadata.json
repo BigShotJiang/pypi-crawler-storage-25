@@ -1,0 +1,11 @@
+{
+  "name": "amplitude-analytics",
+  "version": "1.2.3",
+  "summary": "The official Amplitude backend Python SDK for server-side instrumentation.",
+  "author": "Amplitude Inc.",
+  "license": "MIT License",
+  "home_page": "https://github.com/amplitude/Amplitude-Python",
+  "download_filename": "amplitude_analytics-1.2.3.tar.gz",
+  "download_time": "2026-03-31T18:40:33.316726",
+  "package_url": "https://pypi.org/project/amplitude-analytics/"
+}

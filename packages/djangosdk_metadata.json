@@ -1,11 +1,11 @@
 {
   "name": "djangosdk",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Django-native AI SDK with agent-centric design, multi-provider support, and DRF integration",
   "author": "Yusuf Ziya Cıvan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "djangosdk-0.1.1.tar.gz",
-  "download_time": "2026-03-30T15:43:59.754622",
+  "download_filename": "djangosdk-0.1.4.tar.gz",
+  "download_time": "2026-03-31T18:40:22.261260",
   "package_url": "https://pypi.org/project/djangosdk/"
 }

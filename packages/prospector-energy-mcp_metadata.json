@@ -1,11 +1,11 @@
 {
   "name": "prospector-energy-mcp",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "MCP server for Prospector Labs Energy Data API — interconnection queues, tax credits, developer intelligence, and deal sourcing",
   "author": "Prospector Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "prospector_energy_mcp-0.3.0.tar.gz",
-  "download_time": "2026-03-31T17:41:58.180073",
+  "download_filename": "prospector_energy_mcp-0.3.1.tar.gz",
+  "download_time": "2026-03-31T18:41:06.486939",
   "package_url": "https://pypi.org/project/prospector-energy-mcp/"
 }

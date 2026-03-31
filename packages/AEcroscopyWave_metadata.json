@@ -1,0 +1,11 @@
+{
+  "name": "AEcroscopyWave",
+  "version": "0.1.4",
+  "summary": "AEcroscopyWave is a cross-platform, modular Python package within the ecosystem of AEcroscopy (Automated Experiments in Microscopy). It provides an API to generate and prepare experiment waveforms to enable reliable microscopy automation workflows.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aecroscopywave-0.1.4.tar.gz",
+  "download_time": "2026-03-31T18:40:41.977701",
+  "package_url": "https://pypi.org/project/AEcroscopyWave/"
+}

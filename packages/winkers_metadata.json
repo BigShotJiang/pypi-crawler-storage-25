@@ -1,0 +1,11 @@
+{
+  "name": "winkers",
+  "version": "0.7.5",
+  "summary": "Architectural context layer for AI coding agents — function-level dependency graph via MCP",
+  "author": "n1cke1",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "winkers-0.7.5.tar.gz",
+  "download_time": "2026-03-31T18:41:04.299849",
+  "package_url": "https://pypi.org/project/winkers/"
+}
