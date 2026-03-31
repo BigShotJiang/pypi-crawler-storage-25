@@ -1,0 +1,11 @@
+{
+  "name": "senderstats-core",
+  "version": "3.0.1",
+  "summary": "Core processing library to process csv and smart search data from Proofpoint",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "senderstats_core-3.0.1.tar.gz",
+  "download_time": "2026-03-31T21:05:31.864667",
+  "package_url": "https://pypi.org/project/senderstats-core/"
+}

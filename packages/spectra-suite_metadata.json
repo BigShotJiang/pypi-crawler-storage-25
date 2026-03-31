@@ -1,0 +1,11 @@
+{
+  "name": "spectra-suite",
+  "version": "2.0.6",
+  "summary": "Spectra - Web Security Suite - Uma ferramenta de hacking ético para análise de segurança web",
+  "author": "Spectra Team",
+  "license": null,
+  "home_page": "https://github.com/spectra-team/spectra",
+  "download_filename": "spectra_suite-2.0.6.tar.gz",
+  "download_time": "2026-03-31T21:04:44.083827",
+  "package_url": "https://pypi.org/project/spectra-suite/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "locusts",
+  "version": "0.0.95",
+  "summary": "Distributes many short tasks on multicore and hpc systems",
+  "author": "Edoardo Sarti",
+  "license": null,
+  "home_page": "https://github.com/pypa/sampleproject",
+  "download_filename": "locusts-0.0.95.tar.gz",
+  "download_time": "2026-03-31T21:04:57.027595",
+  "package_url": "https://pypi.org/project/locusts/"
+}

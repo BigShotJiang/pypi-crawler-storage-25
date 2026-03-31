@@ -1,11 +1,11 @@
 {
   "name": "sc-router",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "AI routing based on Selector Complexity theory",
   "author": null,
-  "license": null,
+  "license": "All Rights Reserved",
   "home_page": null,
-  "download_filename": "sc_router-0.4.0.tar.gz",
-  "download_time": "2026-03-29T11:44:37.499901",
+  "download_filename": "sc_router-0.4.1.tar.gz",
+  "download_time": "2026-03-31T21:05:20.543739",
   "package_url": "https://pypi.org/project/sc-router/"
 }

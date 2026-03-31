@@ -1,11 +1,11 @@
 {
   "name": "canvas-engineering",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "Prompt engineering, but for latent space. A type system for multimodal latent dynamics in video diffusion transformers.",
   "author": "Jacob",
   "license": null,
   "home_page": null,
-  "download_filename": "canvas_engineering-0.4.0.tar.gz",
-  "download_time": "2026-03-31T18:40:29.870552",
+  "download_filename": "canvas_engineering-0.4.2.tar.gz",
+  "download_time": "2026-03-31T21:04:57.543601",
   "package_url": "https://pypi.org/project/canvas-engineering/"
 }

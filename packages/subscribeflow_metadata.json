@@ -1,11 +1,11 @@
 {
   "name": "subscribeflow",
-  "version": "1.0.21",
+  "version": "1.0.25",
   "summary": "Python SDK for SubscribeFlow API - Email subscription management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "subscribeflow-1.0.21.tar.gz",
-  "download_time": "2026-03-29T21:48:03.256874",
+  "download_filename": "subscribeflow-1.0.25.tar.gz",
+  "download_time": "2026-03-31T21:05:12.815503",
   "package_url": "https://pypi.org/project/subscribeflow/"
 }

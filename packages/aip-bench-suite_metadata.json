@@ -1,0 +1,11 @@
+{
+  "name": "aip-bench-suite",
+  "version": "0.1.1",
+  "summary": "Benchmarking suite for LLM hallucination detection, inference efficiency, and QA compression evaluation",
+  "author": "Carmen Esteban",
+  "license": "All Rights Reserved",
+  "home_page": null,
+  "download_filename": "aip_bench_suite-0.1.1.tar.gz",
+  "download_time": "2026-03-31T21:05:11.272473",
+  "package_url": "https://pypi.org/project/aip-bench-suite/"
+}

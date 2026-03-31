@@ -1,0 +1,11 @@
+{
+  "name": "net2cog",
+  "version": "1.2.0",
+  "summary": "NetCDF to COG Conversion Service",
+  "author": "podaac",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/podaac/net2cog",
+  "download_filename": "net2cog-1.2.0.tar.gz",
+  "download_time": "2026-03-31T21:05:18.489190",
+  "package_url": "https://pypi.org/project/net2cog/"
+}

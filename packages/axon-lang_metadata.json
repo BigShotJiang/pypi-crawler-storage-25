@@ -1,11 +1,11 @@
 {
   "name": "axon-lang",
-  "version": "0.25.5",
+  "version": "0.30.5",
   "summary": "A domain-specific language for defining AI agent behaviors with deterministic control",
   "author": "RicardoVelit",
   "license": null,
   "home_page": null,
-  "download_filename": "axon_lang-0.25.5.tar.gz",
-  "download_time": "2026-03-28T19:19:35.581500",
+  "download_filename": "axon_lang-0.30.5.tar.gz",
+  "download_time": "2026-03-31T21:05:10.218875",
   "package_url": "https://pypi.org/project/axon-lang/"
 }

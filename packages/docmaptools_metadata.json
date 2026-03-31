@@ -1,11 +1,11 @@
 {
   "name": "docmaptools",
-  "version": "0.31.0",
+  "version": "0.32.0",
   "summary": "Use DocMap content, generate JATS XML from it, and other utility functions.",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/elifesciences/docmap-tools",
-  "download_filename": "docmaptools-0.31.0.tar.gz",
-  "download_time": "2026-03-30T21:10:45.394738",
+  "download_filename": "docmaptools-0.32.0.tar.gz",
+  "download_time": "2026-03-31T21:04:48.253950",
   "package_url": "https://pypi.org/project/docmaptools/"
 }
