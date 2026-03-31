@@ -1,0 +1,11 @@
+{
+  "name": "snowflake-snowpark-python",
+  "version": "1.48.1",
+  "summary": "Snowflake Snowpark for Python",
+  "author": "Snowflake, Inc",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://www.snowflake.com/",
+  "download_filename": "snowflake_snowpark_python-1.48.1.tar.gz",
+  "download_time": "2026-03-31T23:07:38.939267",
+  "package_url": "https://pypi.org/project/snowflake-snowpark-python/"
+}

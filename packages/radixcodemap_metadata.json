@@ -1,11 +1,11 @@
 {
   "name": "radixcodemap",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "Summarize code repositories quickly and (soon) with multiple verbosity levels",
   "author": "KJ",
   "license": null,
   "home_page": "https://github.com/jdotpy/radix-map",
-  "download_filename": "radixcodemap-0.4.0.tar.gz",
-  "download_time": "2026-03-28T06:40:42.704891",
+  "download_filename": "radixcodemap-0.4.2.tar.gz",
+  "download_time": "2026-03-31T23:07:39.482163",
   "package_url": "https://pypi.org/project/radixcodemap/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "abr-brush-importer",
+  "version": "1.0.1",
+  "summary": "Import Adobe Photoshop .abr brush files into Krita with full dynamics and 17 paint medium modes",
+  "author": "Kenneth York",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "abr_brush_importer-1.0.1.tar.gz",
+  "download_time": "2026-03-31T23:07:10.933047",
+  "package_url": "https://pypi.org/project/abr-brush-importer/"
+}

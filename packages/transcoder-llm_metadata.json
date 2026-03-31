@@ -1,0 +1,11 @@
+{
+  "name": "transcoder-llm",
+  "version": "1.0.0",
+  "summary": "Multilingual Parallel Translation Platform with Reflection-based Improvement using Local LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "transcoder_llm-1.0.0.tar.gz",
+  "download_time": "2026-03-31T23:07:24.032173",
+  "package_url": "https://pypi.org/project/transcoder-llm/"
+}

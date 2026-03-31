@@ -1,11 +1,11 @@
 {
   "name": "kwasm",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Standalone web-based layout viewer using KLayout",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kwasm-0.2.3-py3-none-any.whl",
-  "download_time": "2026-03-31T20:27:57.996796",
+  "download_filename": "kwasm-0.2.4-py3-none-any.whl",
+  "download_time": "2026-03-31T23:07:29.558426",
   "package_url": "https://pypi.org/project/kwasm/"
 }

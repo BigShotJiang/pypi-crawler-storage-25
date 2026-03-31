@@ -1,0 +1,11 @@
+{
+  "name": "SimpleLLMFunc",
+  "version": "0.7.5",
+  "summary": "A lightweight yet complete LLM/Agent application development framework. Provides decorators that use function docstrings as prompts, requiring no function body implementation while allowing you to benefit from function definitions and type annotations for higher development efficiency. Seamlessly integrate LLM capabilities into any Python project with minimal code.",
+  "author": "Ni Jingzhe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simplellmfunc-0.7.5.tar.gz",
+  "download_time": "2026-03-31T23:07:01.493740",
+  "package_url": "https://pypi.org/project/SimpleLLMFunc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "midtools",
+  "version": "1.2.1",
+  "summary": "Command line scripts and Python classes for detecting multiple infections from NGS reads.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "midtools-1.2.1.tar.gz",
+  "download_time": "2026-03-31T23:07:36.752102",
+  "package_url": "https://pypi.org/project/midtools/"
+}

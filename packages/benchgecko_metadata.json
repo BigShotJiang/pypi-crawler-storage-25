@@ -1,0 +1,11 @@
+{
+  "name": "benchgecko",
+  "version": "0.1.1",
+  "summary": "Python client for BenchGecko, the AI model data platform. Compare LLM benchmarks, estimate inference costs, and explore pricing across 55+ providers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "benchgecko-0.1.1.tar.gz",
+  "download_time": "2026-03-31T23:07:00.913441",
+  "package_url": "https://pypi.org/project/benchgecko/"
+}

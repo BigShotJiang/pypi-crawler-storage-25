@@ -1,11 +1,11 @@
 {
   "name": "synapsekit",
-  "version": "1.4.2",
+  "version": "1.4.6",
   "summary": "Async-native Python framework for building production-grade LLM applications. Streaming-first, 2 dependencies, fully transparent.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "synapsekit-1.4.2.tar.gz",
-  "download_time": "2026-03-28T14:39:33.470721",
+  "download_filename": "synapsekit-1.4.6.tar.gz",
+  "download_time": "2026-03-31T23:07:34.491990",
   "package_url": "https://pypi.org/project/synapsekit/"
 }

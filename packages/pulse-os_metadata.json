@@ -1,11 +1,11 @@
 {
   "name": "pulse-os",
-  "version": "10.58.0",
+  "version": "10.59.0",
   "summary": "PULSE: A Neural Operating System for AI Swarms.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "pulse_os-10.58.0.tar.gz",
-  "download_time": "2026-03-31T22:35:32.100533",
+  "download_filename": "pulse_os-10.59.0.tar.gz",
+  "download_time": "2026-03-31T23:06:56.847502",
   "package_url": "https://pypi.org/project/pulse-os/"
 }

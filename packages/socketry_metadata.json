@@ -1,0 +1,11 @@
+{
+  "name": "socketry",
+  "version": "0.2.4",
+  "summary": "Python API and CLI for controlling Jackery portable power stations",
+  "author": "Jesus Lopez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "socketry-0.2.4.tar.gz",
+  "download_time": "2026-03-31T23:07:13.387417",
+  "package_url": "https://pypi.org/project/socketry/"
+}

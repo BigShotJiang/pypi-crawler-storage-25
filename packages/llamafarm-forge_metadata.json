@@ -1,11 +1,11 @@
 {
   "name": "llamafarm-forge",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Self-improving SLM training platform — autonomous fine-tuning with Claude-powered experiment planning",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "llamafarm_forge-0.3.0-py3-none-any.whl",
-  "download_time": "2026-03-31T21:04:48.767620",
+  "download_filename": "llamafarm_forge-0.3.1.tar.gz",
+  "download_time": "2026-03-31T23:07:36.207287",
   "package_url": "https://pypi.org/project/llamafarm-forge/"
 }
