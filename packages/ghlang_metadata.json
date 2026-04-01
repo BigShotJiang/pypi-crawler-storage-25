@@ -1,0 +1,11 @@
+{
+  "name": "ghlang",
+  "version": "2.4.5",
+  "summary": "Generate pretty charts showing language statistics from GitHub repos or local code using Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ghlang-2.4.5.tar.gz",
+  "download_time": "2026-04-01T19:02:28.194975",
+  "package_url": "https://pypi.org/project/ghlang/"
+}

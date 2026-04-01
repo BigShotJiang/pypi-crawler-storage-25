@@ -1,0 +1,11 @@
+{
+  "name": "validedi",
+  "version": "0.2.1",
+  "summary": "A modern, configuration-driven X12 EDI parser and validator for healthcare transactions with optional LLM-powered explanations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "validedi-0.2.1.tar.gz",
+  "download_time": "2026-04-01T19:03:00.643872",
+  "package_url": "https://pypi.org/project/validedi/"
+}

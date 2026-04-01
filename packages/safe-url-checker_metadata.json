@@ -1,0 +1,11 @@
+{
+  "name": "safe-url-checker",
+  "version": "1.0.1",
+  "summary": "A library for checking links for security using several different integrations.",
+  "author": "Aleksei Kovalenko",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "safe_url_checker-1.0.1.tar.gz",
+  "download_time": "2026-04-01T19:02:26.604809",
+  "package_url": "https://pypi.org/project/safe-url-checker/"
+}

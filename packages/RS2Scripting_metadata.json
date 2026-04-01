@@ -1,0 +1,11 @@
+{
+  "name": "RS2Scripting",
+  "version": "11.28.0",
+  "summary": "Client library for interacting with RS2 through python",
+  "author": "Rocscience",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rs2scripting-11.28.0.tar.gz",
+  "download_time": "2026-04-01T19:02:42.078757",
+  "package_url": "https://pypi.org/project/RS2Scripting/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "desec-dns",
+  "version": "1.4.0",
+  "summary": "A simple deSEC.io API client",
+  "author": "Sebastian Hamann",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "desec_dns-1.4.0.tar.gz",
+  "download_time": "2026-04-01T19:03:13.156705",
+  "package_url": "https://pypi.org/project/desec-dns/"
+}

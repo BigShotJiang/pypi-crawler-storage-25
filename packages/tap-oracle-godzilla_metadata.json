@@ -1,0 +1,11 @@
+{
+  "name": "tap-oracle-godzilla",
+  "version": "0.1.0",
+  "summary": "Singer tap for tap-oracle, built with the Meltano Singer SDK.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tap_oracle_godzilla-0.1.0.tar.gz",
+  "download_time": "2026-04-01T19:02:34.032977",
+  "package_url": "https://pypi.org/project/tap-oracle-godzilla/"
+}

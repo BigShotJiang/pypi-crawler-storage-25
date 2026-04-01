@@ -1,0 +1,11 @@
+{
+  "name": "flashauth",
+  "version": "0.2.0",
+  "summary": "Secure, minimal authentication for FastAPI and Python 3.13+",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flashauth-0.2.0.tar.gz",
+  "download_time": "2026-04-01T19:03:07.937201",
+  "package_url": "https://pypi.org/project/flashauth/"
+}

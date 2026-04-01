@@ -1,0 +1,11 @@
+{
+  "name": "pyvider-hcl",
+  "version": "0.3.22",
+  "summary": "Pyvider HCL: A wrapper for python-hcl2 integrating with Pyvider's Cty type system.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyvider_hcl-0.3.22.tar.gz",
+  "download_time": "2026-04-01T19:03:06.380379",
+  "package_url": "https://pypi.org/project/pyvider-hcl/"
+}
