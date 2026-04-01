@@ -1,0 +1,11 @@
+{
+  "name": "ormir-mids",
+  "version": "0.1.7",
+  "summary": "Library for standardized data input/output for musculoskeletal imaging, based on BIDS",
+  "author": "ORMIR Contributors, Francesco Santini (maintainer)",
+  "license": null,
+  "home_page": "https://github.com/ormir-mids/ormir-mids",
+  "download_filename": "ormir_mids-0.1.7.tar.gz",
+  "download_time": "2026-04-01T12:44:08.710435",
+  "package_url": "https://pypi.org/project/ormir-mids/"
+}

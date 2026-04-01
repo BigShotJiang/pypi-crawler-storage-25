@@ -1,0 +1,11 @@
+{
+  "name": "pescheck-makemessages",
+  "version": "0.2.0",
+  "summary": "Custom Django makemessages command that clears fuzzy entries, preserves date headers, and defaults to --add-location=file.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pescheck_makemessages-0.2.0.tar.gz",
+  "download_time": "2026-04-01T12:44:39.667809",
+  "package_url": "https://pypi.org/project/pescheck-makemessages/"
+}

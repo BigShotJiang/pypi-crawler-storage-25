@@ -1,0 +1,11 @@
+{
+  "name": "sinergym",
+  "version": "3.12.0",
+  "summary": "Sinergym provides a Gymnasium-based interface to interact with building simulations. This allows control in simulation time through custom controllers, including reinforcement learning agents",
+  "author": "Alejandro Campoy Nieves",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinergym-3.12.0.tar.gz",
+  "download_time": "2026-04-01T12:44:30.661378",
+  "package_url": "https://pypi.org/project/sinergym/"
+}

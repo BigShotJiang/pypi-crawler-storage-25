@@ -1,0 +1,11 @@
+{
+  "name": "agentpayment-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for AgentPayment Network — autonomous AI agent payments",
+  "author": "Surya Raut",
+  "license": null,
+  "home_page": "https://agentpayment.network",
+  "download_filename": "agentpayment_mcp-0.1.0-py3-none-any.whl",
+  "download_time": "2026-04-01T12:44:26.457589",
+  "package_url": "https://pypi.org/project/agentpayment-mcp/"
+}

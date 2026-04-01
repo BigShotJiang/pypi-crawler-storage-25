@@ -1,0 +1,11 @@
+{
+  "name": "webgraph-swh",
+  "version": "0.1.0",
+  "summary": "Python bindings for Software Heritage graph access (built on webgraph)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "webgraph_swh-0.1.0-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-01T12:44:05.069849",
+  "package_url": "https://pypi.org/project/webgraph-swh/"
+}

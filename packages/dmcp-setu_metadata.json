@@ -1,0 +1,11 @@
+{
+  "name": "dmcp-setu",
+  "version": "0.1.1",
+  "summary": "A Python CLI package that provides an interactive interface to Dview’s DMCP server. Users can submit queries directly from the command line, which are processed on the server using MCP tools, with results returned seamlessly to the user.",
+  "author": "Sathvik B Rao",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dmcp_setu-0.1.1.tar.gz",
+  "download_time": "2026-04-01T12:43:59.864532",
+  "package_url": "https://pypi.org/project/dmcp-setu/"
+}

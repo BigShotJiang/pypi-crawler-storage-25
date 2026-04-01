@@ -1,0 +1,11 @@
+{
+  "name": "osearch-cli",
+  "version": "0.1.1",
+  "summary": "CLI to inspect OpenSearch without the dashboard",
+  "author": "EnzoDeg40",
+  "license": null,
+  "home_page": null,
+  "download_filename": "osearch_cli-0.1.1.tar.gz",
+  "download_time": "2026-04-01T12:44:27.506298",
+  "package_url": "https://pypi.org/project/osearch-cli/"
+}

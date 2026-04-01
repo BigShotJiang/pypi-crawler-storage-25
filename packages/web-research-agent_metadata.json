@@ -1,11 +1,11 @@
 {
   "name": "web-research-agent",
-  "version": "2.4.12",
+  "version": "2.4.18",
   "summary": "ReAct agent that searches, scrapes, and reasons across the web — Gemini-powered with model fallback chain",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "web_research_agent-2.4.12.tar.gz",
-  "download_time": "2026-03-30T08:49:27.478847",
+  "download_filename": "web_research_agent-2.4.18.tar.gz",
+  "download_time": "2026-04-01T12:44:13.413360",
   "package_url": "https://pypi.org/project/web-research-agent/"
 }
