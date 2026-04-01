@@ -1,0 +1,11 @@
+{
+  "name": "emencia-django-staticpages",
+  "version": "0.7.0",
+  "summary": "A simple Django app to publish pages directly from templates",
+  "author": "David Thenon",
+  "license": "MIT",
+  "home_page": "https://github.com/emencia/emencia-django-staticpages",
+  "download_filename": "emencia_django_staticpages-0.7.0.tar.gz",
+  "download_time": "2026-04-01T21:04:15.094776",
+  "package_url": "https://pypi.org/project/emencia-django-staticpages/"
+}

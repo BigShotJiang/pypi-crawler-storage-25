@@ -1,0 +1,11 @@
+{
+  "name": "cast-value-rs",
+  "version": "0.4.0",
+  "summary": "Python bindings for the Zarr cast_value codec",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "cast_value_rs-0.4.0.tar.gz",
+  "download_time": "2026-04-01T21:03:47.488172",
+  "package_url": "https://pypi.org/project/cast-value-rs/"
+}

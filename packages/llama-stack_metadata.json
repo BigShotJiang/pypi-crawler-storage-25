@@ -1,0 +1,11 @@
+{
+  "name": "llama-stack",
+  "version": "0.7.0",
+  "summary": "Open-source, OpenAI-compatible API server with pluggable providers for any model and any infrastructure",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llama_stack-0.7.0-py3-none-any.whl",
+  "download_time": "2026-04-01T21:03:53.284290",
+  "package_url": "https://pypi.org/project/llama-stack/"
+}

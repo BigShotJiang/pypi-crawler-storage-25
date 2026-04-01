@@ -1,0 +1,11 @@
+{
+  "name": "pynentry",
+  "version": "0.1.9",
+  "summary": "A pythonic wrapper around pinentry for secure password input",
+  "author": "laharah",
+  "license": "MIT",
+  "home_page": "https://github.com/Laharah/pynentry",
+  "download_filename": "pynentry-0.1.9-py3-none-any.whl",
+  "download_time": "2026-04-01T21:03:39.924457",
+  "package_url": "https://pypi.org/project/pynentry/"
+}

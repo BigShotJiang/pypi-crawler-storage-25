@@ -1,11 +1,11 @@
 {
   "name": "cxtree",
-  "version": "0.1.0",
+  "version": "1.0.2",
   "summary": "Generate focused, token-efficient LLM context files from your project.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cxtree-0.1.0.tar.gz",
-  "download_time": "2026-03-28T23:46:29.097694",
+  "download_filename": "cxtree-1.0.2.tar.gz",
+  "download_time": "2026-04-01T21:03:54.784215",
   "package_url": "https://pypi.org/project/cxtree/"
 }

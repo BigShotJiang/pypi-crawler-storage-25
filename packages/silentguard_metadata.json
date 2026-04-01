@@ -1,0 +1,11 @@
+{
+  "name": "silentguard",
+  "version": "0.1.0",
+  "summary": "Detect silent failures and unexpected runtime side effects during development and CI.",
+  "author": "SilentGuard Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "silentguard-0.1.0.tar.gz",
+  "download_time": "2026-04-01T21:04:21.986960",
+  "package_url": "https://pypi.org/project/silentguard/"
+}
