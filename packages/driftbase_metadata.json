@@ -1,11 +1,11 @@
 {
   "name": "driftbase",
-  "version": "0.6.1",
+  "version": "0.8.0",
   "summary": "Behavioral drift monitoring for AI agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "driftbase-0.6.1.tar.gz",
-  "download_time": "2026-03-30T16:42:06.812175",
+  "download_filename": "driftbase-0.8.0.tar.gz",
+  "download_time": "2026-04-01T22:47:36.994409",
   "package_url": "https://pypi.org/project/driftbase/"
 }

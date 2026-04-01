@@ -1,11 +1,11 @@
 {
   "name": "cli-anything-n8n",
-  "version": "1.2.0",
+  "version": "2.1.8",
   "summary": "CLI harness for n8n workflow automation — CLI-Anything pattern (n8n API v1.1.1)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cli_anything_n8n-1.2.0.tar.gz",
-  "download_time": "2026-03-31T22:35:26.656364",
+  "download_filename": "cli_anything_n8n-2.1.8.tar.gz",
+  "download_time": "2026-04-01T22:46:56.931286",
   "package_url": "https://pypi.org/project/cli-anything-n8n/"
 }

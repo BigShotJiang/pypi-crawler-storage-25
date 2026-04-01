@@ -1,11 +1,11 @@
 {
   "name": "html-tags",
-  "version": "0.1.4",
+  "version": "0.1.9",
   "summary": "HTML/SVG generation for Python. Zero dependencies.",
   "author": "Deufel",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "html_tags-0.1.4.tar.gz",
-  "download_time": "2026-04-01T21:03:46.950440",
+  "download_filename": "html_tags-0.1.9.tar.gz",
+  "download_time": "2026-04-01T22:47:31.480075",
   "package_url": "https://pypi.org/project/html-tags/"
 }

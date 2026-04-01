@@ -1,11 +1,11 @@
 {
   "name": "opentraces",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Crowdsource agent traces to HuggingFace Hub",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opentraces-0.2.0-py3-none-any.whl",
-  "download_time": "2026-04-01T21:59:35.282759",
+  "download_filename": "opentraces-0.2.1-py3-none-any.whl",
+  "download_time": "2026-04-01T22:47:11.491058",
   "package_url": "https://pypi.org/project/opentraces/"
 }

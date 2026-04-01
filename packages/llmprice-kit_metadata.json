@@ -1,0 +1,11 @@
+{
+  "name": "llmprice-kit",
+  "version": "2026.4.2",
+  "summary": "Fast, offline-first LLM pricing lookup with auto-sync from LiteLLM data. Get token costs, context windows, and capabilities for 2500+ models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmprice_kit-2026.4.2.tar.gz",
+  "download_time": "2026-04-01T22:47:30.413089",
+  "package_url": "https://pypi.org/project/llmprice-kit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jsonschema-pluggable-validator",
+  "version": "1.0.0",
+  "summary": "Pluggable JSON Schema validation facade with a unified error model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsonschema_pluggable_validator-1.0.0.tar.gz",
+  "download_time": "2026-04-01T22:47:09.354455",
+  "package_url": "https://pypi.org/project/jsonschema-pluggable-validator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "penguin-dal",
+  "version": "0.2.1",
+  "summary": "SQLAlchemy runtime wrapper with PyDAL ergonomics for Penguin Tech applications",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "penguin_dal-0.2.1.tar.gz",
+  "download_time": "2026-04-01T22:47:44.809536",
+  "package_url": "https://pypi.org/project/penguin-dal/"
+}
