@@ -1,11 +1,11 @@
 {
   "name": "mantle-ai",
-  "version": "0.7.13",
+  "version": "0.7.17",
   "summary": "AI workflow engine with persistent context.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mantle_ai-0.7.13.tar.gz",
-  "download_time": "2026-03-31T21:04:46.204689",
+  "download_filename": "mantle_ai-0.7.17.tar.gz",
+  "download_time": "2026-04-01T21:59:21.743338",
   "package_url": "https://pypi.org/project/mantle-ai/"
 }

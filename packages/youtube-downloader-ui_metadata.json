@@ -1,0 +1,11 @@
+{
+  "name": "youtube-downloader-ui",
+  "version": "0.1.1",
+  "summary": "Local web UI for downloading YouTube videos via yt-dlp",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "youtube_downloader_ui-0.1.1.tar.gz",
+  "download_time": "2026-04-01T21:59:34.770469",
+  "package_url": "https://pypi.org/project/youtube-downloader-ui/"
+}

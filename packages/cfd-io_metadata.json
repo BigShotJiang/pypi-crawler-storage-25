@@ -1,0 +1,11 @@
+{
+  "name": "cfd-io",
+  "version": "0.2.4",
+  "summary": "Read, write, and convert structured CFD data between formats (Fortran binary, HDF5, Plot3D, Tecplot)",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "cfd_io-0.2.4.tar.gz",
+  "download_time": "2026-04-01T21:59:34.257205",
+  "package_url": "https://pypi.org/project/cfd-io/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wikifunctions",
+  "version": "0.2.1",
+  "summary": "A Python wrapper for the Wikifunctions function call API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "wikifunctions-0.2.1.tar.gz",
+  "download_time": "2026-04-01T21:59:46.759518",
+  "package_url": "https://pypi.org/project/wikifunctions/"
+}

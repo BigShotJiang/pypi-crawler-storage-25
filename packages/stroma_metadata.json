@@ -1,11 +1,11 @@
 {
   "name": "stroma",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Framework-agnostic agent reliability primitives for enforcing contracts, checkpointing, tracing, and execution.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stroma-0.1.1.tar.gz",
-  "download_time": "2026-04-01T19:02:53.827878",
+  "download_filename": "stroma-0.2.1.tar.gz",
+  "download_time": "2026-04-01T21:59:29.603926",
   "package_url": "https://pypi.org/project/stroma/"
 }

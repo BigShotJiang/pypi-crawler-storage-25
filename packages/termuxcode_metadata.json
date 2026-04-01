@@ -1,0 +1,11 @@
+{
+  "name": "termuxcode",
+  "version": "1.1.0",
+  "summary": "Claude Code client for Android/Termux with WebSocket server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "termuxcode-1.1.0.tar.gz",
+  "download_time": "2026-04-01T21:59:22.781602",
+  "package_url": "https://pypi.org/project/termuxcode/"
+}

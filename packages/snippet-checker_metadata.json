@@ -1,0 +1,11 @@
+{
+  "name": "snippet-checker",
+  "version": "0.1.1",
+  "summary": "Check code snippets in anki or files via docker.",
+  "author": "Cosmo Grant",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snippet_checker-0.1.1.tar.gz",
+  "download_time": "2026-04-01T21:59:16.066561",
+  "package_url": "https://pypi.org/project/snippet-checker/"
+}

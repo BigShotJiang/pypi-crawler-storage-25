@@ -1,11 +1,11 @@
 {
   "name": "opentraces-schema",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Schema models for the opentraces.ai agent trace JSONL format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opentraces_schema-0.1.1.tar.gz",
-  "download_time": "2026-03-29T23:02:15.603082",
+  "download_filename": "opentraces_schema-0.2.0.tar.gz",
+  "download_time": "2026-04-01T21:59:44.705690",
   "package_url": "https://pypi.org/project/opentraces-schema/"
 }

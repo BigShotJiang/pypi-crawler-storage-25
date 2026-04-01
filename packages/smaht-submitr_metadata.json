@@ -1,0 +1,11 @@
+{
+  "name": "smaht-submitr",
+  "version": "1.14.2",
+  "summary": "Support for uploading file submissions to SMAHT.",
+  "author": "SMaHT DAC",
+  "license": "MIT",
+  "home_page": "https://github.com/smaht-dac/submitr",
+  "download_filename": "smaht_submitr-1.14.2.tar.gz",
+  "download_time": "2026-04-01T21:59:18.648386",
+  "package_url": "https://pypi.org/project/smaht-submitr/"
+}
