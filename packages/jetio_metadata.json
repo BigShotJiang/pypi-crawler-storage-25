@@ -1,0 +1,11 @@
+{
+  "name": "jetio",
+  "version": "1.2.2",
+  "summary": "A modern, high-performance Python web framework designed to transform your SQLAlchemy models directly into fully-featured, production-ready REST APIs with minimal code. Built with asyncio, SQLAlchemy, and Pydantic.",
+  "author": "Stephen Tete",
+  "license": null,
+  "home_page": "https://github.com/cehstephen/jetio",
+  "download_filename": "jetio-1.2.2.tar.gz",
+  "download_time": "2026-04-01T05:14:14.339262",
+  "package_url": "https://pypi.org/project/jetio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llm-runtime-metrics",
+  "version": "0.0.7",
+  "summary": "Rust-backed performance metrics and request tracing",
+  "author": "Baseten",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/basetenlabs/performance-metrics",
+  "download_filename": "llm_runtime_metrics-0.0.7.tar.gz",
+  "download_time": "2026-04-01T05:13:52.304225",
+  "package_url": "https://pypi.org/project/llm-runtime-metrics/"
+}

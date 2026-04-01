@@ -1,0 +1,11 @@
+{
+  "name": "oidc-proxy-python-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for kafka-admin-agent OIDC proxy service",
+  "author": "Sergey Petrov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oidc_proxy_python_sdk-0.1.0.tar.gz",
+  "download_time": "2026-04-01T05:14:29.524029",
+  "package_url": "https://pypi.org/project/oidc-proxy-python-sdk/"
+}

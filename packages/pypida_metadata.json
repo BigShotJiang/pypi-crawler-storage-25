@@ -1,11 +1,11 @@
 {
   "name": "pypida",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "PIDA: Serverless E2EE Messaging & File Sharing over Cloudflare and Backblaze",
   "author": null,
   "license": "LGPL-3.0-only",
   "home_page": null,
-  "download_filename": "pypida-0.1.7.tar.gz",
-  "download_time": "2026-03-31T05:25:32.229299",
+  "download_filename": "pypida-0.1.9.tar.gz",
+  "download_time": "2026-04-01T05:13:45.793120",
   "package_url": "https://pypi.org/project/pypida/"
 }
