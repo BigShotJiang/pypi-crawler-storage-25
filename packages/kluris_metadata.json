@@ -1,11 +1,11 @@
 {
   "name": "kluris",
-  "version": "0.3.3",
+  "version": "0.3.7",
   "summary": "Create and manage git-backed AI brains for multi-project, multi-agent teams",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kluris-0.3.3.tar.gz",
-  "download_time": "2026-04-01T22:47:23.745970",
+  "download_filename": "kluris-0.3.7.tar.gz",
+  "download_time": "2026-04-01T23:36:12.691078",
   "package_url": "https://pypi.org/project/kluris/"
 }
