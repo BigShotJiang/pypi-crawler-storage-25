@@ -1,11 +1,11 @@
 {
   "name": "ccmeter",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Measure your actual Claude Code usage limits instead of guessing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ccmeter-0.1.7.tar.gz",
-  "download_time": "2026-03-31T20:28:20.305729",
+  "download_filename": "ccmeter-0.1.8.tar.gz",
+  "download_time": "2026-04-01T02:30:50.894852",
   "package_url": "https://pypi.org/project/ccmeter/"
 }

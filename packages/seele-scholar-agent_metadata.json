@@ -1,11 +1,11 @@
 {
   "name": "seele-scholar-agent",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "An academic paper writing agent based on LangGraph",
   "author": "Seele Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "seele_scholar_agent-0.2.0.tar.gz",
-  "download_time": "2026-03-30T15:43:47.278134",
+  "download_filename": "seele_scholar_agent-0.3.1.tar.gz",
+  "download_time": "2026-04-01T02:30:28.940617",
   "package_url": "https://pypi.org/project/seele-scholar-agent/"
 }

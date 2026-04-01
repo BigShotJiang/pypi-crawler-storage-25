@@ -1,0 +1,11 @@
+{
+  "name": "project-composer",
+  "version": "0.8.0",
+  "summary": "A system to compose project parts from applications enabled in a manifest",
+  "author": "David Thenon",
+  "license": "MIT",
+  "home_page": "https://github.com/sveetch/project-composer",
+  "download_filename": "project_composer-0.8.0.tar.gz",
+  "download_time": "2026-04-01T02:30:44.959287",
+  "package_url": "https://pypi.org/project/project-composer/"
+}

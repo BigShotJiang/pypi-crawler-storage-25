@@ -1,0 +1,11 @@
+{
+  "name": "tendenci-django-admin-bootstrapped",
+  "version": "6.2",
+  "summary": "A Bootstrap theme for Django Admin",
+  "author": "Riccardo Forina",
+  "license": "BSD License",
+  "home_page": "https://github.com/tendenci/django-admin-bootstrapped",
+  "download_filename": "tendenci_django_admin_bootstrapped-6.2.tar.gz",
+  "download_time": "2026-04-01T02:31:04.141293",
+  "package_url": "https://pypi.org/project/tendenci-django-admin-bootstrapped/"
+}

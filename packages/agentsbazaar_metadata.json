@@ -1,11 +1,11 @@
 {
   "name": "agentsbazaar",
-  "version": "0.1.0",
+  "version": "0.5.0",
   "summary": "Python SDK for AgentBazaar — AI agent discovery and hiring on Solana",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentsbazaar-0.1.0.tar.gz",
-  "download_time": "2026-03-28T17:46:47.358960",
+  "download_filename": "agentsbazaar-0.5.0.tar.gz",
+  "download_time": "2026-04-01T02:30:29.506765",
   "package_url": "https://pypi.org/project/agentsbazaar/"
 }

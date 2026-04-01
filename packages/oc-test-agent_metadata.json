@@ -1,11 +1,11 @@
 {
   "name": "oc-test-agent",
-  "version": "2.3.7",
+  "version": "2.3.15",
   "summary": "Test-Agent: Docker-based Test Execution System",
   "author": "Test-Agent Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oc_test_agent-2.3.7.tar.gz",
-  "download_time": "2026-03-30T11:34:23.630334",
+  "download_filename": "oc_test_agent-2.3.15.tar.gz",
+  "download_time": "2026-04-01T02:30:47.124067",
   "package_url": "https://pypi.org/project/oc-test-agent/"
 }

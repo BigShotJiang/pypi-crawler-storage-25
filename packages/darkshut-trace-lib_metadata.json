@@ -1,0 +1,11 @@
+{
+  "name": "darkshut-trace-lib",
+  "version": "1.0.0",
+  "summary": "Operation tracing library with daily SQLite logging",
+  "author": "darkshut",
+  "license": null,
+  "home_page": null,
+  "download_filename": "darkshut_trace_lib-1.0.0.tar.gz",
+  "download_time": "2026-04-01T02:30:15.632759",
+  "package_url": "https://pypi.org/project/darkshut-trace-lib/"
+}

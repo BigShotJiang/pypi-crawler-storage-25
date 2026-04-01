@@ -1,0 +1,11 @@
+{
+  "name": "scan-litellm-compromise",
+  "version": "0.4.3",
+  "summary": "Supply chain compromise scanner — detects known PyPI and npm attacks via data-driven threat profiles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scan_litellm_compromise-0.4.3.tar.gz",
+  "download_time": "2026-04-01T02:30:13.917945",
+  "package_url": "https://pypi.org/project/scan-litellm-compromise/"
+}

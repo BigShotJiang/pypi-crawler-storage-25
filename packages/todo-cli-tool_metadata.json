@@ -1,0 +1,11 @@
+{
+  "name": "todo-cli-tool",
+  "version": "0.2.0",
+  "summary": "A CLI tool for managing personal TODOs across life categories and project directories",
+  "author": "Lucas Luize",
+  "license": null,
+  "home_page": null,
+  "download_filename": "todo_cli_tool-0.2.0.tar.gz",
+  "download_time": "2026-04-01T02:30:11.631479",
+  "package_url": "https://pypi.org/project/todo-cli-tool/"
+}

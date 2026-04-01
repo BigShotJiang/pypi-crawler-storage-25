@@ -1,11 +1,11 @@
 {
   "name": "qrclaw",
-  "version": "0.6.1",
+  "version": "0.7.4",
   "summary": "A powerful AI agent with skills system",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qrclaw-0.6.1.tar.gz",
-  "download_time": "2026-03-31T08:08:42.146415",
+  "download_filename": "qrclaw-0.7.4.tar.gz",
+  "download_time": "2026-04-01T02:30:18.535711",
   "package_url": "https://pypi.org/project/qrclaw/"
 }

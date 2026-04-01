@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-ros-tran",
+  "version": "0.25.0",
+  "summary": "Resource Orchestration Service Template Transformer.",
+  "author": "AlibabaCloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://www.alibabacloud.com/product/ros",
+  "download_filename": "alibabacloud_ros_tran-0.25.0.tar.gz",
+  "download_time": "2026-04-01T02:30:53.615350",
+  "package_url": "https://pypi.org/project/alibabacloud-ros-tran/"
+}
