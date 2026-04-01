@@ -1,11 +1,11 @@
 {
   "name": "pyannotators-entityfishing",
-  "version": "1.6.38",
+  "version": "1.6.42",
   "summary": "Annotator based on entity-fishing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyannotators_entityfishing-1.6.38.tar.gz",
-  "download_time": "2026-03-31T12:42:59.105067",
+  "download_filename": "pyannotators_entityfishing-1.6.42.tar.gz",
+  "download_time": "2026-04-01T09:47:10.536847",
   "package_url": "https://pypi.org/project/pyannotators-entityfishing/"
 }

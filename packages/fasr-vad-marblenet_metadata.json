@@ -1,0 +1,11 @@
+{
+  "name": "fasr-vad-marblenet",
+  "version": "0.4.0",
+  "summary": "NVIDIA MarbleNet vad model for fasr",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fasr_vad_marblenet-0.4.0.tar.gz",
+  "download_time": "2026-04-01T09:46:43.288952",
+  "package_url": "https://pypi.org/project/fasr-vad-marblenet/"
+}

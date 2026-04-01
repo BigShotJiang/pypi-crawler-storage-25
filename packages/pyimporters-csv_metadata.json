@@ -1,11 +1,11 @@
 {
   "name": "pyimporters-csv",
-  "version": "1.6.48",
-  "summary": "Sherpa CSV/Excel/TXT knowledge import plugins",
+  "version": "1.6.57",
+  "summary": "Sherpa CSV/Excel/TXT knowledge import plugin",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyimporters_csv-1.6.48.tar.gz",
-  "download_time": "2026-03-30T14:14:49.418236",
+  "download_filename": "pyimporters_csv-1.6.57.tar.gz",
+  "download_time": "2026-04-01T09:46:26.044656",
   "package_url": "https://pypi.org/project/pyimporters-csv/"
 }

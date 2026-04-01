@@ -1,11 +1,11 @@
 {
   "name": "ossplate",
-  "version": "0.4.4",
+  "version": "0.5.2",
   "summary": "Scaffold and maintain one Rust-core CLI that ships cleanly through Cargo, npm, and PyPI.",
   "author": null,
   "license": "Unlicense",
   "home_page": null,
-  "download_filename": "ossplate-0.4.4.tar.gz",
-  "download_time": "2026-03-31T11:36:14.413284",
+  "download_filename": "ossplate-0.5.2.tar.gz",
+  "download_time": "2026-04-01T09:46:31.072023",
   "package_url": "https://pypi.org/project/ossplate/"
 }

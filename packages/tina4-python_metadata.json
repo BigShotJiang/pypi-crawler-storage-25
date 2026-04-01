@@ -1,11 +1,11 @@
 {
   "name": "tina4-python",
-  "version": "3.10.30",
-  "summary": "Tina4 Python v3 — Zero-dependency, lightweight web framework",
+  "version": "3.10.41",
+  "summary": "Tina4 for Python — 54 built-in features, zero dependencies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tina4_python-3.10.30.tar.gz",
-  "download_time": "2026-03-30T15:43:21.534644",
+  "download_filename": "tina4_python-3.10.41.tar.gz",
+  "download_time": "2026-04-01T09:46:48.000163",
   "package_url": "https://pypi.org/project/tina4-python/"
 }

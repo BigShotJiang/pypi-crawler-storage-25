@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-payment-method-base-mode",
+  "version": "18.0.1.0.0.2",
+  "summary": "Glue module for base views",
+  "author": "Therp BV, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/bank-payment",
+  "download_filename": "odoo_addon_account_payment_method_base_mode-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-04-01T09:47:00.504599",
+  "package_url": "https://pypi.org/project/odoo-addon-account-payment-method-base-mode/"
+}

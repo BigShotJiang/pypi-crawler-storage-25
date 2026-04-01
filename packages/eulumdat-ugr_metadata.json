@@ -1,0 +1,11 @@
+{
+  "name": "eulumdat-ugr",
+  "version": "1.0.0",
+  "summary": "UGR (Unified Glare Rating) calculation from EULUMDAT (.ldt) photometric files — extension to eulumdat-py",
+  "author": "123VincentB",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eulumdat_ugr-1.0.0.tar.gz",
+  "download_time": "2026-04-01T09:46:41.739291",
+  "package_url": "https://pypi.org/project/eulumdat-ugr/"
+}
