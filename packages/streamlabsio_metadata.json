@@ -1,0 +1,11 @@
+{
+  "name": "streamlabsio",
+  "version": "2.0.0",
+  "summary": "Get real time Twitch/Youtube events through Streamlabs SocketIO API",
+  "author": "Onyx and Iris",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "streamlabsio-2.0.0.tar.gz",
+  "download_time": "2026-04-01T11:39:31.780513",
+  "package_url": "https://pypi.org/project/streamlabsio/"
+}

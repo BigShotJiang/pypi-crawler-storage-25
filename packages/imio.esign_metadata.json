@@ -1,0 +1,11 @@
+{
+  "name": "imio.esign",
+  "version": "1.0b5",
+  "summary": "Integration of IMIO esign webservice",
+  "author": "Stephan Geulette",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/collective/imio.esign",
+  "download_filename": "imio_esign-1.0b5.tar.gz",
+  "download_time": "2026-04-01T11:39:54.488445",
+  "package_url": "https://pypi.org/project/imio.esign/"
+}

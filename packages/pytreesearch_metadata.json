@@ -1,0 +1,11 @@
+{
+  "name": "pytreesearch",
+  "version": "1.0.3",
+  "summary": "Structure-aware document retrieval. FTS5/BM25 keyword matching over document trees.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pytreesearch-1.0.3.tar.gz",
+  "download_time": "2026-04-01T11:40:02.209848",
+  "package_url": "https://pypi.org/project/pytreesearch/"
+}

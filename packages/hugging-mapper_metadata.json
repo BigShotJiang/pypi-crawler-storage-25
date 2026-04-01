@@ -1,0 +1,11 @@
+{
+  "name": "hugging-mapper",
+  "version": "1.0.2",
+  "summary": "A lightweight python tool for effortless text similarity scoring using Hugging Face models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hugging_mapper-1.0.2.tar.gz",
+  "download_time": "2026-04-01T11:39:22.836313",
+  "package_url": "https://pypi.org/project/hugging-mapper/"
+}

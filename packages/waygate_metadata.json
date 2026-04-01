@@ -1,0 +1,11 @@
+{
+  "name": "waygate",
+  "version": "0.1.2",
+  "summary": "Waygate gives you runtime control of your APIs to toggle features, schedule maintenance, enforce rate limits, and perform rollouts without redeploying.",
+  "author": "Richard Quaicoe",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "waygate-0.1.2.tar.gz",
+  "download_time": "2026-04-01T11:39:40.645754",
+  "package_url": "https://pypi.org/project/waygate/"
+}

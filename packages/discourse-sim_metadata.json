@@ -1,0 +1,11 @@
+{
+  "name": "discourse-sim",
+  "version": "0.1.0",
+  "summary": "LLM-augmented Agent-Based Social Simulation for modelling public discourse dynamics following a critical real-world event.",
+  "author": "dreji18",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "discourse_sim-0.1.0.tar.gz",
+  "download_time": "2026-04-01T11:39:19.514437",
+  "package_url": "https://pypi.org/project/discourse-sim/"
+}

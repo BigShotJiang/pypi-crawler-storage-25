@@ -1,0 +1,11 @@
+{
+  "name": "mlflow-widgets",
+  "version": "0.1.0",
+  "summary": "Anywidget-based notebook widgets for MLflow: live charts, run tables, and more",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlflow_widgets-0.1.0.tar.gz",
+  "download_time": "2026-04-01T11:39:46.259929",
+  "package_url": "https://pypi.org/project/mlflow-widgets/"
+}

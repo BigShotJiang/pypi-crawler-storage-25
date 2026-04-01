@@ -1,0 +1,11 @@
+{
+  "name": "beachcomber",
+  "version": "0.1.0",
+  "summary": "This package exists to prevent name squatting and malicious supply chain attacks. Install libbeachcomber instead. See https://beachcomber.sh",
+  "author": "NavistAu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "beachcomber-0.1.0.tar.gz",
+  "download_time": "2026-04-01T11:39:21.174525",
+  "package_url": "https://pypi.org/project/beachcomber/"
+}

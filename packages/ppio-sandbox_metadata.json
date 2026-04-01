@@ -1,0 +1,11 @@
+{
+  "name": "ppio-sandbox",
+  "version": "1.0.5",
+  "summary": "PPIO Sandbox SDK - Python library for PPIO Agent Sandbox",
+  "author": "PPIO",
+  "license": "MIT",
+  "home_page": "https://ppio.com/",
+  "download_filename": "ppio_sandbox-1.0.5.tar.gz",
+  "download_time": "2026-04-01T11:39:30.761390",
+  "package_url": "https://pypi.org/project/ppio-sandbox/"
+}

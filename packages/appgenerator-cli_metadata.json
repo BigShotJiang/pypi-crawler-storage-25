@@ -1,0 +1,11 @@
+{
+  "name": "appgenerator-cli",
+  "version": "1.1.2",
+  "summary": "A developer-friendly scaffolding CLI for FastAPI and LangChain/LangGraph projects",
+  "author": "Rajendra Kumar Yadav",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "appgenerator_cli-1.1.2.tar.gz",
+  "download_time": "2026-04-01T11:39:36.436135",
+  "package_url": "https://pypi.org/project/appgenerator-cli/"
+}
