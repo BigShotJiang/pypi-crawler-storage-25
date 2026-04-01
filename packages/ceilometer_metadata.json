@@ -1,0 +1,11 @@
+{
+  "name": "ceilometer",
+  "version": "26.0.0",
+  "summary": "OpenStack Telemetry",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/ceilometer/latest/",
+  "download_filename": "ceilometer-26.0.0.tar.gz",
+  "download_time": "2026-04-01T10:43:08.011968",
+  "package_url": "https://pypi.org/project/ceilometer/"
+}

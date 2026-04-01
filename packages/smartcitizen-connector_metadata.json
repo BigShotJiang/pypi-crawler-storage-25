@@ -1,0 +1,11 @@
+{
+  "name": "smartcitizen-connector",
+  "version": "1.4.0",
+  "summary": "Python connector to download information collected in SmartCitizen API",
+  "author": "oscgonfer",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/fablabbcn/smartcitizen-connector",
+  "download_filename": "smartcitizen_connector-1.4.0.tar.gz",
+  "download_time": "2026-04-01T10:43:45.202539",
+  "package_url": "https://pypi.org/project/smartcitizen-connector/"
+}

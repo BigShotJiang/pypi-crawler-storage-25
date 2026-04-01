@@ -1,0 +1,11 @@
+{
+  "name": "cinder",
+  "version": "28.0.0",
+  "summary": "OpenStack Block Storage",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cinder-28.0.0.tar.gz",
+  "download_time": "2026-04-01T10:43:04.418576",
+  "package_url": "https://pypi.org/project/cinder/"
+}

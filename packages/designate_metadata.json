@@ -1,0 +1,11 @@
+{
+  "name": "designate",
+  "version": "22.0.0",
+  "summary": "DNS as a Service",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/designate/latest/",
+  "download_filename": "designate-22.0.0.tar.gz",
+  "download_time": "2026-04-01T10:43:05.447708",
+  "package_url": "https://pypi.org/project/designate/"
+}

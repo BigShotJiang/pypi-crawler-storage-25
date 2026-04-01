@@ -1,0 +1,11 @@
+{
+  "name": "aodh",
+  "version": "22.0.0",
+  "summary": "OpenStack Telemetry Alarming",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/aodh/latest/",
+  "download_filename": "aodh-22.0.0.tar.gz",
+  "download_time": "2026-04-01T10:43:03.874766",
+  "package_url": "https://pypi.org/project/aodh/"
+}

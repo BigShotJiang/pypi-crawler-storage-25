@@ -1,0 +1,11 @@
+{
+  "name": "si5351",
+  "version": "1.0.0",
+  "summary": "Native Linux Python3 driver for the SI5351 programmable clock generator",
+  "author": "Mattia Fiumara",
+  "license": null,
+  "home_page": null,
+  "download_filename": "si5351-1.0.0.tar.gz",
+  "download_time": "2026-04-01T10:43:20.448619",
+  "package_url": "https://pypi.org/project/si5351/"
+}

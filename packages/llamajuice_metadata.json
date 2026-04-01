@@ -1,11 +1,11 @@
 {
   "name": "llamajuice",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Squeeze every last drop from your NVIDIA GPU.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llamajuice-0.1.0.tar.gz",
-  "download_time": "2026-04-01T08:16:38.944120",
+  "download_filename": "llamajuice-0.1.2.tar.gz",
+  "download_time": "2026-04-01T10:43:44.690291",
   "package_url": "https://pypi.org/project/llamajuice/"
 }

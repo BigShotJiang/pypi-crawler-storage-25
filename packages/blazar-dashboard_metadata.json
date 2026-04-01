@@ -1,0 +1,11 @@
+{
+  "name": "blazar-dashboard",
+  "version": "15.0.0",
+  "summary": "Horizon plugin for the Blazar Reservation Service for OpenStack",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "blazar_dashboard-15.0.0.tar.gz",
+  "download_time": "2026-04-01T10:43:21.474730",
+  "package_url": "https://pypi.org/project/blazar-dashboard/"
+}

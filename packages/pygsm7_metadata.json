@@ -1,0 +1,11 @@
+{
+  "name": "pygsm7",
+  "version": "1.0.6",
+  "summary": "pygsm7 is a Python package that provides functions for encoding and decoding messages using GSM 7-bit encoding. It is designed to facilitate the processing of text messages in the context of SMS and mobile communication.",
+  "author": "Alvin Mayende",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygsm7-1.0.6.tar.gz",
+  "download_time": "2026-04-01T10:43:50.838765",
+  "package_url": "https://pypi.org/project/pygsm7/"
+}

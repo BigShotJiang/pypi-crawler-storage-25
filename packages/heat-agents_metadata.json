@@ -1,0 +1,11 @@
+{
+  "name": "heat-agents",
+  "version": "12.0.0",
+  "summary": "heat-agents",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/heat/latest/",
+  "download_filename": "heat_agents-12.0.0.tar.gz",
+  "download_time": "2026-04-01T10:43:02.298530",
+  "package_url": "https://pypi.org/project/heat-agents/"
+}

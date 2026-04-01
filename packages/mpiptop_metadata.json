@@ -1,0 +1,11 @@
+{
+  "name": "mpiptop",
+  "version": "0.2.8",
+  "summary": "TUI for viewing MPI Python stacks across hosts",
+  "author": "yieldthought",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mpiptop-0.2.8.tar.gz",
+  "download_time": "2026-04-01T10:43:46.226170",
+  "package_url": "https://pypi.org/project/mpiptop/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ansible-role-atos-hsm",
+  "version": "11.0.0",
+  "summary": "ansible-role-atos-hsm - Ansible role to configure ATOS HSM clients.",
+  "author": "OpenStack Barbican Team",
+  "license": null,
+  "home_page": "https://opendev.org/openstack/ansible-role-atos-hsm",
+  "download_filename": "ansible_role_atos_hsm-11.0.0.tar.gz",
+  "download_time": "2026-04-01T10:43:09.547328",
+  "package_url": "https://pypi.org/project/ansible-role-atos-hsm/"
+}

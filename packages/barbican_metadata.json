@@ -1,0 +1,11 @@
+{
+  "name": "barbican",
+  "version": "22.0.0",
+  "summary": "Service for storing sensitive client information for OpenStack",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/barbican/latest/",
+  "download_filename": "barbican-22.0.0.tar.gz",
+  "download_time": "2026-04-01T10:43:02.848166",
+  "package_url": "https://pypi.org/project/barbican/"
+}

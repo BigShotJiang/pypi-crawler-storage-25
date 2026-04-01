@@ -1,0 +1,11 @@
+{
+  "name": "blazar-nova",
+  "version": "9.0.0",
+  "summary": "Nova related filters and extensions for Blazar",
+  "author": "OpenStack",
+  "license": "Apache Software License",
+  "home_page": "https://launchpad.net/blazar",
+  "download_filename": "blazar_nova-9.0.0.tar.gz",
+  "download_time": "2026-04-01T10:43:20.961535",
+  "package_url": "https://pypi.org/project/blazar-nova/"
+}

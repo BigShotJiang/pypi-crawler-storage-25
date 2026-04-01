@@ -1,0 +1,11 @@
+{
+  "name": "awsinsights",
+  "version": "1.0.7",
+  "summary": "Get, sort and analyse AWS CloudWatch logs from multiple log groups using AWS CloudWatch Insights service",
+  "author": "Damian Ziobro",
+  "license": "MIT",
+  "home_page": "https://github.com/DamZiobro/awsinsights",
+  "download_filename": "awsinsights-1.0.7.tar.gz",
+  "download_time": "2026-04-01T10:43:35.443023",
+  "package_url": "https://pypi.org/project/awsinsights/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "atb-sdk",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "summary": "ATB (Agent Trace Bundle) Python SDK - local-first, tamper-evident audit trails for AI workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "atb_sdk-1.7.0.tar.gz",
-  "download_time": "2026-04-01T06:57:07.092329",
+  "download_filename": "atb_sdk-1.8.0.tar.gz",
+  "download_time": "2026-04-01T10:43:17.878791",
   "package_url": "https://pypi.org/project/atb-sdk/"
 }

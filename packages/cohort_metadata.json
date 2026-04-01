@@ -1,11 +1,11 @@
 {
   "name": "cohort",
-  "version": "0.4.18",
+  "version": "0.4.33",
   "summary": "Multi-agent orchestration with loop prevention, contribution scoring, and MCP integration",
   "author": "Ryan Wheeler",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cohort-0.4.18-py3-none-any.whl",
-  "download_time": "2026-03-29T21:05:09.660592",
+  "download_filename": "cohort-0.4.33-py3-none-any.whl",
+  "download_time": "2026-04-01T10:43:15.216706",
   "package_url": "https://pypi.org/project/cohort/"
 }
