@@ -1,0 +1,11 @@
+{
+  "name": "pdfget",
+  "version": "0.1.5",
+  "summary": "智能文献搜索与批量下载工具，支持高级检索和并发下载",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdfget-0.1.5.tar.gz",
+  "download_time": "2026-04-01T08:16:36.153950",
+  "package_url": "https://pypi.org/project/pdfget/"
+}

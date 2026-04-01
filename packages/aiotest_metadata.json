@@ -1,11 +1,11 @@
 {
   "name": "aiotest",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "基于 asyncio 的高性能负载测试框架",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiotest-1.0.4.tar.gz",
-  "download_time": "2026-04-01T02:30:35.011053",
+  "download_filename": "aiotest-1.0.5.tar.gz",
+  "download_time": "2026-04-01T08:16:31.043270",
   "package_url": "https://pypi.org/project/aiotest/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "insurance-quantile",
+  "version": "0.4.0",
+  "summary": "Actuarial tail risk quantile and expectile regression for UK personal lines pricing, including EQRN extreme quantile neural nets (Pasche & Engelke 2024)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "insurance_quantile-0.4.0.tar.gz",
+  "download_time": "2026-04-01T08:17:15.448709",
+  "package_url": "https://pypi.org/project/insurance-quantile/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "insurance-survival",
+  "version": "0.3.9",
+  "summary": "Survival analysis for UK insurance pricing: cure models, competing risks, recurrent events, CLV, lapse tables. Extends lifelines with insurance-specific gaps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "insurance_survival-0.3.9.tar.gz",
+  "download_time": "2026-04-01T08:17:13.861714",
+  "package_url": "https://pypi.org/project/insurance-survival/"
+}

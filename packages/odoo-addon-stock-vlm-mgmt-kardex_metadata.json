@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-vlm-mgmt-kardex",
+  "version": "18.0.1.0.0.2",
+  "summary": "Light alternative for Kardex VLM integrations",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-warehouse",
+  "download_filename": "odoo_addon_stock_vlm_mgmt_kardex-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-04-01T08:17:05.831044",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-vlm-mgmt-kardex/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "insurance-reserving-neural",
+  "version": "0.1.1",
+  "summary": "Individual neural claims reserving — per-claim RBNS reserve estimates with bootstrap uncertainty",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "insurance_reserving_neural-0.1.1.tar.gz",
+  "download_time": "2026-04-01T08:17:10.631506",
+  "package_url": "https://pypi.org/project/insurance-reserving-neural/"
+}

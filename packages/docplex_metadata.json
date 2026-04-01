@@ -1,0 +1,11 @@
+{
+  "name": "docplex",
+  "version": "2.32.264",
+  "summary": "The IBM Decision Optimization CPLEX Modeling for Python",
+  "author": "The IBM Decision Optimization on Cloud team",
+  "license": "Apache 2.0",
+  "home_page": "https://www.ibm.com/cloud/decision-optimization-for-watson-studio",
+  "download_filename": "docplex-2.32.264.tar.gz",
+  "download_time": "2026-04-01T08:16:46.238770",
+  "package_url": "https://pypi.org/project/docplex/"
+}
