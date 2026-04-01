@@ -1,11 +1,11 @@
 {
   "name": "tryx",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Rust-powered Python SDK for async WhatsApp automation with typed bindings and event-driven APIs",
   "author": "krypton-byte",
   "license": null,
   "home_page": null,
-  "download_filename": "tryx-0.2.0.tar.gz",
-  "download_time": "2026-04-01T14:22:04.807983",
+  "download_filename": "tryx-0.3.0.tar.gz",
+  "download_time": "2026-04-01T15:54:04.844471",
   "package_url": "https://pypi.org/project/tryx/"
 }

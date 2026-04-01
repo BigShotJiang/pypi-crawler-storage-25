@@ -1,11 +1,11 @@
 {
   "name": "ouroboros-ai",
-  "version": "0.26.6",
+  "version": "0.27.0",
   "summary": "Specification-first workflow engine for AI coding agents. Works with Claude Code and Codex CLI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ouroboros_ai-0.26.6.tar.gz",
-  "download_time": "2026-03-30T18:40:36.689238",
+  "download_filename": "ouroboros_ai-0.27.0.tar.gz",
+  "download_time": "2026-04-01T15:54:11.533088",
   "package_url": "https://pypi.org/project/ouroboros-ai/"
 }

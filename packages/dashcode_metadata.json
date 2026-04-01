@@ -1,11 +1,11 @@
 {
   "name": "dashcode",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "A library for Geometry Dash level generation using .gmd files",
   "author": "IWiterI",
   "license": null,
   "home_page": null,
-  "download_filename": "dashcode-1.2.3.tar.gz",
-  "download_time": "2026-04-01T14:22:07.195353",
+  "download_filename": "dashcode-1.2.4.tar.gz",
+  "download_time": "2026-04-01T15:54:07.202566",
   "package_url": "https://pypi.org/project/dashcode/"
 }

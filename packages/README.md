@@ -1,58 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-04-01T14:22:15.718773
-- **Total Packages**: 92
-- **Total Size**: 54.9 MB
+- **Download Time**: 2026-04-01T15:54:49.946319
+- **Total Packages**: 95
+- **Total Size**: 39.82 MB
 
 ## Packages List
-- icat-plus-client
-- antaris-agent
-- dmart
-- antaris-suite
-- projectkittythemes
-- pyconverters-newsml
-- ccburn
-- gdocz-sdk
-- kelvin-app-storage
-- pycarlo
-- pySerialMux
-- pylocket
-- fieldtest
-- mkdocs-confluence-plugin
-- runcell
-- synapse-layer
-- fluid-blends
-- langflow-nightly
-- cycls
-- parsica-memory
-- code-puppy
-- lfx-nightly
-- krystalview-mcp
-- agentcop
-- wave-python-sdk
-- slopcheck
-- urt30arcon
-- langchain-mycelia-signal
-- reflow-hpc
-- specsmith
-- gpas
-- pixelarraythirdparty
-- recording-machine
-- cc-context-stats
-- secretvm-verify
-- kerykeion
-- Equimo
-- earthkit-geo
-- pull-request-fixer
-- planegcs
-- boreholeai
-- mecademicpy
-- pyverse2d
-- keshro-mcp
-- twitscraper
-- keshro
-- vstash
 - simpleapps-com-augur-api
 - ntc-templates
 - simpleapps-com-augur-mcp
@@ -68,6 +21,7 @@
 - log-analyzer-sattarab
 - plato-hdf5
 - pyspark-antipattern
+- mkdocs-confluence-plugin
 - cgse-gui
 - cgse-core
 - lakeshore-tempcontrol
@@ -98,3 +52,52 @@
 - unique-sdk
 - unique-internal-search
 - unique-mcp
+- unique-stock-ticker
+- unique-follow-up-questions
+- unique-deep-research
+- unique-web-search
+- unique-orchestrator
+- unique-swot
+- unique-quartr
+- unique-six
+- ordeal
+- deltawoot
+- graqle
+- memlord
+- lambda-mcp-server
+- aegis-bio
+- vncv-cpp
+- ceres3
+- agentihooks
+- meridian-vpn
+- better-reddit-cli
+- finanzonline-uid
+- fsonl
+- tko
+- cuhkit
+- torchoptics
+- gw-cli
+- files-com
+- snowflake-snowconvert-testing-orchestration
+- esmecata
+- flask-spa
+- bankstatementparser
+- z4d-certified-devices
+- claude-finance-kit
+- vistools
+- image-crawler-utils
+- super-dev
+- uharfbuzz
+- pyminitcp
+- owasp-logger
+- logic-jena
+- pyprocessors-openai_completion
+- mxcubeweb
+- typos
+- agentcop
+- tina4-python
+- cli-anything-transcode-api-v2
+- bapp-connectors
+- trellis-datamodel
+- pydevversions
+- pybiolib

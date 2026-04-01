@@ -1,0 +1,11 @@
+{
+  "name": "image-crawler-utils",
+  "version": "0.4.6",
+  "summary": "A rather customizable image crawler structure, designed to download images with their information using multi-threading method. Besides, several wheels have been implemented to help better build a custom image crawler for yourself.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "image_crawler_utils-0.4.6.tar.gz",
+  "download_time": "2026-04-01T15:54:38.866300",
+  "package_url": "https://pypi.org/project/image-crawler-utils/"
+}

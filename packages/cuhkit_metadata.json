@@ -1,0 +1,11 @@
+{
+  "name": "cuhkit",
+  "version": "1.1.2",
+  "summary": "A CLI-oriented Python package for handling cuhHub Stormworks projects (addons/mods).",
+  "author": "Cuh4",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/cuhHub/cuhkit",
+  "download_filename": "cuhkit-1.1.2.tar.gz",
+  "download_time": "2026-04-01T15:54:31.547517",
+  "package_url": "https://pypi.org/project/cuhkit/"
+}

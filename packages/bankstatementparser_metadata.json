@@ -1,0 +1,11 @@
+{
+  "name": "bankstatementparser",
+  "version": "0.0.4",
+  "summary": "BankStatementParser is your essential tool for easy bank statement management. Designed with finance and treasury experts in mind, it offers a simple way to handle CAMT (ISO 20022) formats and more. Get quick, accurate insights from your financial data and spend less time on processing. It's the smart, hassle-free way to stay on top of your transactions.",
+  "author": "Sebastien Rousseau",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "bankstatementparser-0.0.4.tar.gz",
+  "download_time": "2026-04-01T15:54:36.183810",
+  "package_url": "https://pypi.org/project/bankstatementparser/"
+}
