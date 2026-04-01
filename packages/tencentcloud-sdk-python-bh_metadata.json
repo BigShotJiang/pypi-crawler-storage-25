@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-bh",
-  "version": "3.1.67",
+  "version": "3.1.69",
   "summary": "Tencent Cloud Bh SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud_sdk_python_bh-3.1.67.tar.gz",
-  "download_time": "2026-03-30T21:10:25.386582",
+  "download_filename": "tencentcloud_sdk_python_bh-3.1.69.tar.gz",
+  "download_time": "2026-04-01T20:03:15.005400",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-bh/"
 }

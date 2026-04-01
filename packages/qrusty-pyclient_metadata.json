@@ -1,11 +1,11 @@
 {
   "name": "qrusty-pyclient",
-  "version": "0.19.9",
+  "version": "0.19.10",
   "summary": "Python client wrapper for the qrusty API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qrusty_pyclient-0.19.9.tar.gz",
-  "download_time": "2026-03-30T02:25:17.651866",
+  "download_filename": "qrusty_pyclient-0.19.10.tar.gz",
+  "download_time": "2026-04-01T20:03:12.416418",
   "package_url": "https://pypi.org/project/qrusty-pyclient/"
 }

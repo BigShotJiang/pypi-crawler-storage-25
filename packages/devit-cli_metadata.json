@@ -1,11 +1,11 @@
 {
   "name": "devit-cli",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "A full-featured CLI framework for professional Python developers",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "devit_cli-0.1.0.tar.gz",
-  "download_time": "2026-04-01T19:02:29.238024",
+  "download_filename": "devit_cli-0.1.3.tar.gz",
+  "download_time": "2026-04-01T20:03:06.164704",
   "package_url": "https://pypi.org/project/devit-cli/"
 }

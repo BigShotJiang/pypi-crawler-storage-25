@@ -1,0 +1,11 @@
+{
+  "name": "aiometric-hass",
+  "version": "0.0.0",
+  "summary": "Asynchronous Python client for interacting with the LaMetric and the LaMetric Cloud API",
+  "author": "Caspar Weber",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiometric_hass-0.0.0.tar.gz",
+  "download_time": "2026-04-01T20:02:44.053856",
+  "package_url": "https://pypi.org/project/aiometric-hass/"
+}

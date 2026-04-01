@@ -1,11 +1,11 @@
 {
   "name": "pympp",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Python SDK for the Machine Payments Protocol (MPP)",
   "author": "Tempo",
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "pympp-0.5.2.tar.gz",
-  "download_time": "2026-04-01T05:14:20.180596",
+  "download_filename": "pympp-0.5.3.tar.gz",
+  "download_time": "2026-04-01T20:02:54.260696",
   "package_url": "https://pypi.org/project/pympp/"
 }

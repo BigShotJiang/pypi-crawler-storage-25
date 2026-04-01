@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-ecs",
+  "version": "1.42.81",
+  "summary": "Type annotations for boto3 ECS 1.42.81 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_ecs-1.42.81.tar.gz",
+  "download_time": "2026-04-01T20:03:20.189932",
+  "package_url": "https://pypi.org/project/mypy-boto3-ecs/"
+}

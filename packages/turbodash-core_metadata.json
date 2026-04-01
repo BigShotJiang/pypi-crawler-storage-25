@@ -1,0 +1,11 @@
+{
+  "name": "turbodash-core",
+  "version": "0.3.6",
+  "summary": "Interactive Dash app for turbomachinery stage preliminary design",
+  "author": "Roberto Agromayor",
+  "license": "MIT",
+  "home_page": "https://github.com/turbo-sim/turbodash",
+  "download_filename": "turbodash_core-0.3.6.tar.gz",
+  "download_time": "2026-04-01T20:03:20.700527",
+  "package_url": "https://pypi.org/project/turbodash-core/"
+}

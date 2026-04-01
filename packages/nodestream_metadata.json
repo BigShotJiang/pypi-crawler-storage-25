@@ -1,0 +1,11 @@
+{
+  "name": "nodestream",
+  "version": "0.15.0",
+  "summary": "A Fast, Declarative ETL for Graph Databases.",
+  "author": "Zach Probst",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "nodestream-0.15.0.tar.gz",
+  "download_time": "2026-04-01T20:02:51.528596",
+  "package_url": "https://pypi.org/project/nodestream/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "prsedm",
+  "version": "1.1.0",
+  "summary": "PRSedm (Polygenic Risk Score Extension for Diabetes Mellitus) is a package for local and remote generation of Polygenic Risk Scores (PRS) for Diabetes Mellitus (DM)",
+  "author": "Seth A. Sharp",
+  "license": null,
+  "home_page": null,
+  "download_filename": "prsedm-1.1.0.tar.gz",
+  "download_time": "2026-04-01T20:02:45.142358",
+  "package_url": "https://pypi.org/project/prsedm/"
+}

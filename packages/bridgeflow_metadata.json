@@ -1,11 +1,11 @@
 {
   "name": "bridgeflow",
-  "version": "0.1.1",
+  "version": "0.1.7",
   "summary": "BridgeFlow 人机协作桥接与团队巡检工具",
   "author": "joinwell52-AI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bridgeflow-0.1.1.tar.gz",
-  "download_time": "2026-04-01T19:02:59.064650",
+  "download_filename": "bridgeflow-0.1.7.tar.gz",
+  "download_time": "2026-04-01T20:02:38.495540",
   "package_url": "https://pypi.org/project/bridgeflow/"
 }
