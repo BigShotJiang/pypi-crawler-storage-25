@@ -1,0 +1,11 @@
+{
+  "name": "attestdb",
+  "version": "0.1.39",
+  "summary": "A brain for AI agents that actually learns — confidence scoring, negative results, gap detection. pip install attestdb && attest brain install",
+  "author": "Omic Research",
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "attestdb-0.1.39.tar.gz",
+  "download_time": "2026-04-01T16:55:13.468391",
+  "package_url": "https://pypi.org/project/attestdb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "omnibackup",
+  "version": "0.1.1",
+  "summary": "Universal Database Backup and Restore System",
+  "author": "Omnibackup Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/omnibackup",
+  "download_filename": "omnibackup-0.1.1.tar.gz",
+  "download_time": "2026-04-01T16:55:21.784780",
+  "package_url": "https://pypi.org/project/omnibackup/"
+}

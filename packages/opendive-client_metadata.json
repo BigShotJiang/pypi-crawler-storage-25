@@ -1,11 +1,11 @@
 {
   "name": "opendive-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python library and CLI for Domain-based Integrity Verification Enforcement (DIVE)",
   "author": "Matéo Florian Callec",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opendive_client-0.1.0.tar.gz",
-  "download_time": "2026-03-31T21:56:40.458506",
+  "download_filename": "opendive_client-0.1.1.tar.gz",
+  "download_time": "2026-04-01T16:54:55.658270",
   "package_url": "https://pypi.org/project/opendive-client/"
 }

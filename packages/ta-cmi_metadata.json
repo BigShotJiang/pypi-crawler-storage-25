@@ -1,0 +1,11 @@
+{
+  "name": "ta-cmi",
+  "version": "3.6.2",
+  "summary": "A Python wrapper to read out sensors from Technische Alternative using the C.M.I.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ta_cmi-3.6.2.tar.gz",
+  "download_time": "2026-04-01T16:55:11.350683",
+  "package_url": "https://pypi.org/project/ta-cmi/"
+}

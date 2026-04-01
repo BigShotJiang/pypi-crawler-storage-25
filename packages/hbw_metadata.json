@@ -1,0 +1,11 @@
+{
+  "name": "hbw",
+  "version": "0.2.0",
+  "summary": "Fast kernel bandwidth selection via analytic Hessian Newton optimization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hbw-0.2.0.tar.gz",
+  "download_time": "2026-04-01T16:55:26.415586",
+  "package_url": "https://pypi.org/project/hbw/"
+}

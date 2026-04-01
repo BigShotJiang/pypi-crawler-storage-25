@@ -1,0 +1,11 @@
+{
+  "name": "bibref-python",
+  "version": "2026.4.1.2",
+  "summary": "Python wrapper for the bibref command-line tool for working with biblical references",
+  "author": "Zoltán Kovács",
+  "license": "Copyright (C) 2026 Zoltán Kovács\n        \n        Copying and distribution of these files, with or without modification,\n        are permitted in any medium without royalty provided the copyright\n        notice and this notice are preserved.\n        ",
+  "home_page": null,
+  "download_filename": "bibref_python-2026.4.1.2.tar.gz",
+  "download_time": "2026-04-01T16:55:03.511013",
+  "package_url": "https://pypi.org/project/bibref-python/"
+}

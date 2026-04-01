@@ -1,0 +1,11 @@
+{
+  "name": "resume-forge-mcp",
+  "version": "0.3.4",
+  "summary": "MCP server for intelligent LaTeX resume generation — browse 350+ Overleaf templates, auto-compile with pdflatex/xelatex/lualatex, tailor to job descriptions, ATS scoring, and visual preview.",
+  "author": "Jitendra Singh Sankhwar, Danny Liu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "resume_forge_mcp-0.3.4.tar.gz",
+  "download_time": "2026-04-01T16:54:53.598078",
+  "package_url": "https://pypi.org/project/resume-forge-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "core-sentry",
+  "version": "2.0.2",
+  "summary": "A thin Python wrapper around the Sentry SDK providing a decorator for automatic initialization and standalone functions for the full event lifecycle.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "core_sentry-2.0.2.tar.gz",
+  "download_time": "2026-04-01T16:55:28.471087",
+  "package_url": "https://pypi.org/project/core-sentry/"
+}

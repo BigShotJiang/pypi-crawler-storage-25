@@ -1,0 +1,11 @@
+{
+  "name": "stubpy",
+  "version": "0.3.1",
+  "summary": "Generate .pyi stub files with full **kwargs / *args MRO backtracing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stubpy-0.3.1.tar.gz",
+  "download_time": "2026-04-01T16:55:12.434203",
+  "package_url": "https://pypi.org/project/stubpy/"
+}

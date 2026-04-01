@@ -1,0 +1,11 @@
+{
+  "name": "mcp-test-driver",
+  "version": "0.1.2",
+  "summary": "Interactive REPL for testing any MCP server over stdio or HTTP",
+  "author": "Phil Pennock",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_test_driver-0.1.2.tar.gz",
+  "download_time": "2026-04-01T16:54:47.383014",
+  "package_url": "https://pypi.org/project/mcp-test-driver/"
+}

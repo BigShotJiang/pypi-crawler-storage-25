@@ -1,11 +1,11 @@
 {
   "name": "kptn",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "Meta tool for managing and deploying data pipelines.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kptn-0.1.14.tar.gz",
-  "download_time": "2026-04-01T14:21:52.245908",
+  "download_filename": "kptn-0.1.15.tar.gz",
+  "download_time": "2026-04-01T16:55:00.891478",
   "package_url": "https://pypi.org/project/kptn/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "simplex-primal",
+  "version": "1.0",
+  "summary": "Primal Simplex Method solver with exact rational arithmetic (Big-M)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simplex_primal-1.0.tar.gz",
+  "download_time": "2026-04-01T16:55:28.985493",
+  "package_url": "https://pypi.org/project/simplex-primal/"
+}
