@@ -1,0 +1,11 @@
+{
+  "name": "ftpot",
+  "version": "2.0.0",
+  "summary": "An FTP Honeypot",
+  "author": "Vesselin Bontchev",
+  "license": "GPL-3.0-only",
+  "home_page": "https://gitlab.com/bontchev/ftpot",
+  "download_filename": "ftpot-2.0.0.tar.gz",
+  "download_time": "2026-04-01T06:56:30.465774",
+  "package_url": "https://pypi.org/project/ftpot/"
+}

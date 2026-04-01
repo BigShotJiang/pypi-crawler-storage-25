@@ -1,0 +1,11 @@
+{
+  "name": "docagent-cli",
+  "version": "0.0.38",
+  "summary": "Terminal interface for Deep Agents - interactive AI agent with file operations, shell access, and sub-agent capabilities.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docagent_cli-0.0.38.tar.gz",
+  "download_time": "2026-04-01T06:56:24.773301",
+  "package_url": "https://pypi.org/project/docagent-cli/"
+}

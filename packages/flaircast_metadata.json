@@ -1,0 +1,11 @@
+{
+  "name": "flaircast",
+  "version": "0.1.0",
+  "summary": "FLAIR: Factored Level And Interleaved Ridge — zero-hyperparameter time series forecasting",
+  "author": "Takato Honda",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flaircast-0.1.0-py3-none-any.whl",
+  "download_time": "2026-04-01T06:56:35.074850",
+  "package_url": "https://pypi.org/project/flaircast/"
+}

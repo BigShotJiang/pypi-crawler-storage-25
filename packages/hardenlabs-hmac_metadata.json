@@ -1,0 +1,11 @@
+{
+  "name": "hardenlabs-hmac",
+  "version": "0.1.2",
+  "summary": "Cross-language HMAC-SHA256 request signing with a defined canonical string format.",
+  "author": "HardenLabs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hardenlabs_hmac-0.1.2.tar.gz",
+  "download_time": "2026-04-01T06:56:39.197641",
+  "package_url": "https://pypi.org/project/hardenlabs-hmac/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cjm-transcript-segment-align",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "summary": "FastHTML dual-column text segmentation & VAD alignment UI for transcript decomposition workflows with forced alignment-based text splitting for aligning text segments with VAD chunks.",
   "author": "Christian J. Mills",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cj-mills/cjm-transcript-segment-align",
-  "download_filename": "cjm_transcript_segment_align-0.0.8.tar.gz",
-  "download_time": "2026-03-31T22:35:24.073194",
+  "download_filename": "cjm_transcript_segment_align-0.0.10.tar.gz",
+  "download_time": "2026-04-01T06:56:35.587048",
   "package_url": "https://pypi.org/project/cjm-transcript-segment-align/"
 }

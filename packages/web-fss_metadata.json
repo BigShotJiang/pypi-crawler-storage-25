@@ -1,0 +1,11 @@
+{
+  "name": "web-fss",
+  "version": "0.2.0",
+  "summary": "A Python 3.7+ file server with directory listing, range download, and resumable upload.",
+  "author": "web-fss contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "web_fss-0.2.0.tar.gz",
+  "download_time": "2026-04-01T06:57:06.580617",
+  "package_url": "https://pypi.org/project/web-fss/"
+}
