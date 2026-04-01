@@ -1,0 +1,11 @@
+{
+  "name": "runware",
+  "version": "0.5.5",
+  "summary": "The Python Runware SDK is used to interact with the Runware API, powered by the Runware inference platform. It supports image generation, video generation, image upscale, video upscale, image caption, video caption, image background removal, video background removal, audio generation, and more. It also allows the use of an existing gallery of models or selecting any model or LoRA from the CivitAI gallery. The API also supports inpainting, outpainting, and a series of other ControlNet models.",
+  "author": "Runware Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/runware/sdk-python",
+  "download_filename": "runware-0.5.5.tar.gz",
+  "download_time": "2026-04-01T17:52:25.606799",
+  "package_url": "https://pypi.org/project/runware/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mailslide",
-  "version": "0.3.10",
+  "version": "0.4.1",
   "summary": "Extract, analyze, and automate Outlook Classic emails on Windows, with optional LLM-powered plugins.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mailslide-0.3.10.tar.gz",
-  "download_time": "2026-03-29T06:11:31.638415",
+  "download_filename": "mailslide-0.4.1.tar.gz",
+  "download_time": "2026-04-01T17:52:34.924795",
   "package_url": "https://pypi.org/project/mailslide/"
 }

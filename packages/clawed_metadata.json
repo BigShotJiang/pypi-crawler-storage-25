@@ -1,11 +1,11 @@
 {
   "name": "clawed",
-  "version": "2.4.0",
+  "version": "2.5.1",
   "summary": "Free AI lesson planner for teachers. Learns your teaching voice from your curriculum files and generates complete lesson packages. Open source, runs locally, no subscription.",
   "author": "Jon Maccarello & Claw-ED contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "clawed-2.4.0.tar.gz",
-  "download_time": "2026-04-01T12:44:23.856875",
+  "download_filename": "clawed-2.5.1.tar.gz",
+  "download_time": "2026-04-01T17:52:13.656582",
   "package_url": "https://pypi.org/project/clawed/"
 }

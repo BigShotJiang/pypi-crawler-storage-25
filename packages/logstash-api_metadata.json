@@ -1,0 +1,11 @@
+{
+  "name": "logstash-api",
+  "version": "0.2.3",
+  "summary": "Logstash API Client",
+  "author": "Hive Solutions Lda.",
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://logstash-api.hive.pt",
+  "download_filename": "logstash_api-0.2.3.tar.gz",
+  "download_time": "2026-04-01T17:52:20.862843",
+  "package_url": "https://pypi.org/project/logstash-api/"
+}

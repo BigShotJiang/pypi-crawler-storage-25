@@ -1,0 +1,11 @@
+{
+  "name": "uthana",
+  "version": "0.2.0",
+  "summary": "A Python client for Uthana: generate lifelike human motion from text or 2D video, create and auto-rig characters, and manage your motions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uthana-0.2.0.tar.gz",
+  "download_time": "2026-04-01T17:52:18.301483",
+  "package_url": "https://pypi.org/project/uthana/"
+}

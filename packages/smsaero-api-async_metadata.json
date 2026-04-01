@@ -1,0 +1,11 @@
+{
+  "name": "smsaero-api-async",
+  "version": "3.2.0",
+  "summary": "SMS Aero Async API client",
+  "author": "SMS Aero",
+  "license": "MIT",
+  "home_page": "https://github.com/smsaero/smsaero_python/",
+  "download_filename": "smsaero_api_async-3.2.0.tar.gz",
+  "download_time": "2026-04-01T17:52:16.736636",
+  "package_url": "https://pypi.org/project/smsaero-api-async/"
+}

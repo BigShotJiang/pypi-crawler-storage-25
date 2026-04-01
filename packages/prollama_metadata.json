@@ -1,11 +1,11 @@
 {
   "name": "prollama",
-  "version": "0.1.2",
-  "summary": "Progressive algorithmization toolchain — from LLM to deterministic code, from proxy to tickets",
+  "version": "0.2.0",
+  "summary": "Intelligent LLM Execution Layer for developer teams — anonymize code, route models, solve tickets.",
   "author": null,
-  "license": "Apache-2.0",
+  "license": null,
   "home_page": null,
-  "download_filename": "prollama-0.1.2.tar.gz",
-  "download_time": "2026-04-01T16:55:26.928903",
+  "download_filename": "prollama-0.2.0.tar.gz",
+  "download_time": "2026-04-01T17:52:21.889035",
   "package_url": "https://pypi.org/project/prollama/"
 }

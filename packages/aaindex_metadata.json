@@ -1,0 +1,11 @@
+{
+  "name": "aaindex",
+  "version": "1.2.0",
+  "summary": "A lightweight Python software package for accessing the data in the various AAIndex databases, which represent the physicochemical, biochemical and structural properties of amino acids as numerical indices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aaindex-1.2.0.tar.gz",
+  "download_time": "2026-04-01T17:52:19.329810",
+  "package_url": "https://pypi.org/project/aaindex/"
+}

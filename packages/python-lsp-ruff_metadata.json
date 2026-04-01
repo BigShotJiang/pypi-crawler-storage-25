@@ -1,0 +1,11 @@
+{
+  "name": "python-lsp-ruff",
+  "version": "2.3.1",
+  "summary": "Ruff linting plugin for pylsp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_lsp_ruff-2.3.1.tar.gz",
+  "download_time": "2026-04-01T17:52:35.958809",
+  "package_url": "https://pypi.org/project/python-lsp-ruff/"
+}
