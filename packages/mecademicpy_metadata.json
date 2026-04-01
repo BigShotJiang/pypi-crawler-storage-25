@@ -1,0 +1,11 @@
+{
+  "name": "mecademicpy",
+  "version": "3.0.2",
+  "summary": "A package to control the Mecademic robots through python",
+  "author": "Mecademic",
+  "license": "MIT",
+  "home_page": "https://github.com/Mecademic/mecademicpy",
+  "download_filename": "mecademicpy-3.0.2.tar.gz",
+  "download_time": "2026-04-01T14:21:45.896468",
+  "package_url": "https://pypi.org/project/mecademicpy/"
+}

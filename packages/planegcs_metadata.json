@@ -1,0 +1,11 @@
+{
+  "name": "planegcs",
+  "version": "0.6.0",
+  "summary": "Python bindings for FreeCAD's PlaneGCS 2D geometric constraint solver",
+  "author": "planegcs contributors",
+  "license": "LGPL-2.1-or-later",
+  "home_page": null,
+  "download_filename": "planegcs-0.6.0.tar.gz",
+  "download_time": "2026-04-01T14:21:44.872935",
+  "package_url": "https://pypi.org/project/planegcs/"
+}

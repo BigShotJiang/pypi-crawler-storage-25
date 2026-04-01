@@ -1,0 +1,11 @@
+{
+  "name": "monopigi",
+  "version": "0.1.15",
+  "summary": "Python SDK and CLI for the Monopigi Greek Government Data API",
+  "author": "Monopigi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "monopigi-0.1.15.tar.gz",
+  "download_time": "2026-04-01T14:22:10.183203",
+  "package_url": "https://pypi.org/project/monopigi/"
+}

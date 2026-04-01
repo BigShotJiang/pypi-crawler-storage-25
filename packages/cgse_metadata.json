@@ -1,0 +1,11 @@
+{
+  "name": "cgse",
+  "version": "0.20.5",
+  "summary": "Generic Common-EGSE: Commanding and monitoring lab equipment",
+  "author": "IvS KU Leuven",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cgse-0.20.5.tar.gz",
+  "download_time": "2026-04-01T14:22:02.979981",
+  "package_url": "https://pypi.org/project/cgse/"
+}

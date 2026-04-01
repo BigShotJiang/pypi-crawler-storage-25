@@ -1,0 +1,11 @@
+{
+  "name": "agentcop",
+  "version": "0.1.8",
+  "summary": "Universal forensic auditor for agent systems — OTel-aligned event schema, pluggable violation detectors",
+  "author": "Shay Mizuno, Hind Tagmouti",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentcop-0.1.8.tar.gz",
+  "download_time": "2026-04-01T14:21:35.995078",
+  "package_url": "https://pypi.org/project/agentcop/"
+}
