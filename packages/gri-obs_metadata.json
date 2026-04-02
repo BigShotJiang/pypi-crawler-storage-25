@@ -1,0 +1,11 @@
+{
+  "name": "gri-obs",
+  "version": "0.1.0",
+  "summary": "Typed observation objects for geolocation measurements (TDOA, FDOA, AOA, Range)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gri_obs-0.1.0.tar.gz",
+  "download_time": "2026-04-02T17:36:56.032748",
+  "package_url": "https://pypi.org/project/gri-obs/"
+}

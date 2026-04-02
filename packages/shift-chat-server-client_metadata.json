@@ -1,0 +1,11 @@
+{
+  "name": "shift-chat-server-client",
+  "version": "0.2.8",
+  "summary": "A Python client for the Shift Chat Server",
+  "author": "Clipboard Health",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shift_chat_server_client-0.2.8.tar.gz",
+  "download_time": "2026-04-02T17:37:06.445917",
+  "package_url": "https://pypi.org/project/shift-chat-server-client/"
+}

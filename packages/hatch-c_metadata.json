@@ -1,0 +1,11 @@
+{
+  "name": "hatch-c",
+  "version": "0.2.1",
+  "summary": "very simple C build plugin for hatch, supporting CPython only",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hatch_c-0.2.1.tar.gz",
+  "download_time": "2026-04-02T17:36:38.183481",
+  "package_url": "https://pypi.org/project/hatch-c/"
+}

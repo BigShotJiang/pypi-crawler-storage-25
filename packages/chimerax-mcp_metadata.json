@@ -1,0 +1,11 @@
+{
+  "name": "chimerax-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server that connects AI coding tools to UCSF ChimeraX for natural-language protein editing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chimerax_mcp-0.1.0.tar.gz",
+  "download_time": "2026-04-02T17:37:03.824172",
+  "package_url": "https://pypi.org/project/chimerax-mcp/"
+}

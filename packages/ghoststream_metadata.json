@@ -1,0 +1,11 @@
+{
+  "name": "ghoststream",
+  "version": "1.2.4",
+  "summary": "Open Source Cross-Platform Transcoding Service & SDK",
+  "author": "GhostStream Contributors",
+  "license": null,
+  "home_page": "https://github.com/BleedingXiko/GhostStream",
+  "download_filename": "ghoststream-1.2.4.tar.gz",
+  "download_time": "2026-04-02T17:36:29.285840",
+  "package_url": "https://pypi.org/project/ghoststream/"
+}

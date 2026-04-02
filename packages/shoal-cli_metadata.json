@@ -1,11 +1,11 @@
 {
   "name": "shoal-cli",
-  "version": "0.28.0",
+  "version": "0.31.4",
   "summary": "Terminal-first orchestration for parallel AI coding agents",
   "author": "Ricardo Roche",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shoal_cli-0.28.0.tar.gz",
-  "download_time": "2026-03-31T18:40:35.393224",
+  "download_filename": "shoal_cli-0.31.4.tar.gz",
+  "download_time": "2026-04-02T17:36:28.206244",
   "package_url": "https://pypi.org/project/shoal-cli/"
 }

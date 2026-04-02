@@ -1,11 +1,11 @@
 {
   "name": "emails",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "summary": "Modern python library for emails.",
   "author": "Sergey Lavrinenko",
-  "license": null,
+  "license": "Apache License 2.0",
   "home_page": "https://github.com/lavr/python-emails",
-  "download_filename": "emails-1.0.1.tar.gz",
-  "download_time": "2026-03-31T21:56:17.147154",
+  "download_filename": "emails-1.1.1.tar.gz",
+  "download_time": "2026-04-02T17:37:04.845678",
   "package_url": "https://pypi.org/project/emails/"
 }

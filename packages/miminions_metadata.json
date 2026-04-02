@@ -1,0 +1,11 @@
+{
+  "name": "miminions",
+  "version": "0.2.1",
+  "summary": "An agentic framework with pydantic_ai, MCP server support and vector memory",
+  "author": "Sheng Xiong Ding",
+  "license": null,
+  "home_page": "https://github.com/MiMinions-ai/miminions",
+  "download_filename": "miminions-0.2.1.tar.gz",
+  "download_time": "2026-04-02T17:36:35.961166",
+  "package_url": "https://pypi.org/project/miminions/"
+}

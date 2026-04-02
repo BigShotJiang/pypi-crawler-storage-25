@@ -1,0 +1,11 @@
+{
+  "name": "vocal-cli",
+  "version": "0.3.7",
+  "summary": "CLI tool for Vocal - Ollama-style Voice Model Management",
+  "author": "Vocal Contributors",
+  "license": "SSPL-1.0",
+  "home_page": null,
+  "download_filename": "vocal_cli-0.3.7.tar.gz",
+  "download_time": "2026-04-02T17:37:15.269565",
+  "package_url": "https://pypi.org/project/vocal-cli/"
+}

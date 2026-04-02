@@ -1,0 +1,11 @@
+{
+  "name": "eufy-sync",
+  "version": "1.6.0",
+  "summary": "Sync Eufy smart scale body composition data to Garmin Connect and Strava",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eufy_sync-1.6.0.tar.gz",
+  "download_time": "2026-04-02T17:37:11.623054",
+  "package_url": "https://pypi.org/project/eufy-sync/"
+}

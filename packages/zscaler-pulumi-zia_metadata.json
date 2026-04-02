@@ -1,0 +1,11 @@
+{
+  "name": "zscaler-pulumi-zia",
+  "version": "1.3.9",
+  "summary": "A native Pulumi provider for Zscaler Internet Access (ZIA).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zscaler_pulumi_zia-1.3.9.tar.gz",
+  "download_time": "2026-04-02T17:36:46.917082",
+  "package_url": "https://pypi.org/project/zscaler-pulumi-zia/"
+}
