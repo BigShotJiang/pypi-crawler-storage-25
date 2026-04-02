@@ -1,0 +1,11 @@
+{
+  "name": "dotenvplus",
+  "version": "0.0.12",
+  "summary": "Reads key-value pairs from a .env file and supports multiple values with dynamic interpolation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dotenvplus-0.0.12.tar.gz",
+  "download_time": "2026-04-02T12:00:20.637800",
+  "package_url": "https://pypi.org/project/dotenvplus/"
+}

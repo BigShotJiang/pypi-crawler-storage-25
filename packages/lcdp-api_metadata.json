@@ -1,0 +1,11 @@
+{
+  "name": "lcdp-api",
+  "version": "1.12.36",
+  "summary": "Rest api specification for Le Comptoir Des Pharmacies",
+  "author": "Le Comptoir Des Pharmacies",
+  "license": "Apache-2.0",
+  "home_page": "https://bitbucket.org/lecomptoirdespharmacies/lcdp-api",
+  "download_filename": "lcdp_api-1.12.36.tar.gz",
+  "download_time": "2026-04-02T12:00:07.957832",
+  "package_url": "https://pypi.org/project/lcdp-api/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "octorules-aws",
-  "version": "0.5.3",
+  "version": "0.6.0",
   "summary": "AWS WAF provider for octorules",
   "author": "Martin Simon, Doctena S.A.",
   "license": null,
   "home_page": null,
-  "download_filename": "octorules_aws-0.5.3.tar.gz",
-  "download_time": "2026-03-30T16:42:15.171270",
+  "download_filename": "octorules_aws-0.6.0.tar.gz",
+  "download_time": "2026-04-02T12:00:28.161363",
   "package_url": "https://pypi.org/project/octorules-aws/"
 }

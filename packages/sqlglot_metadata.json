@@ -1,11 +1,11 @@
 {
   "name": "sqlglot",
-  "version": "30.2.0",
+  "version": "30.2.1",
   "summary": "An easily customizable SQL parser and transpiler",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sqlglot-30.2.0.tar.gz",
-  "download_time": "2026-04-01T22:47:20.431931",
+  "download_filename": "sqlglot-30.2.1.tar.gz",
+  "download_time": "2026-04-02T12:00:48.792395",
   "package_url": "https://pypi.org/project/sqlglot/"
 }

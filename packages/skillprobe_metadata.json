@@ -1,0 +1,11 @@
+{
+  "name": "skillprobe",
+  "version": "0.2.0",
+  "summary": "Automated end-to-end skill testing for LLM coding tools",
+  "author": "Anish Shrestha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skillprobe-0.2.0.tar.gz",
+  "download_time": "2026-04-02T12:00:14.374671",
+  "package_url": "https://pypi.org/project/skillprobe/"
+}

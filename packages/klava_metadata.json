@@ -1,0 +1,11 @@
+{
+  "name": "klava",
+  "version": "0.1.0",
+  "summary": "Klava is a cli for dead-simple usage cli code agents with any providers. Use claude code with your OpenAI-like provider. Make any code agents more secure - filter out any leaking secret keys and crypto keys from your filesystem.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "klava-0.1.0-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-02T12:00:23.336109",
+  "package_url": "https://pypi.org/project/klava/"
+}

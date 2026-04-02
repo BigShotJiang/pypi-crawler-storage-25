@@ -1,0 +1,11 @@
+{
+  "name": "kegg-pathways-completeness",
+  "version": "1.4.2",
+  "summary": "The tool counts completeness of each KEGG pathway for protein sequences.",
+  "author": null,
+  "license": "Apache Software License 2.0",
+  "home_page": null,
+  "download_filename": "kegg_pathways_completeness-1.4.2.tar.gz",
+  "download_time": "2026-04-02T12:00:23.847441",
+  "package_url": "https://pypi.org/project/kegg-pathways-completeness/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "god-code",
-  "version": "0.2.0",
+  "version": "0.4.3",
   "summary": "AI coding agent specialized for Godot game development",
   "author": "chuisiufai",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "god_code-0.2.0.tar.gz",
-  "download_time": "2026-04-02T11:12:30.591027",
+  "download_filename": "god_code-0.4.3.tar.gz",
+  "download_time": "2026-04-02T12:00:26.018596",
   "package_url": "https://pypi.org/project/god-code/"
 }
