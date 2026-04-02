@@ -1,0 +1,11 @@
+{
+  "name": "cyborgdb-migrate",
+  "version": "0.1.1",
+  "summary": "TUI wizard and CLI for migrating vector data into CyborgDB",
+  "author": "Cyborg Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cyborgdb_migrate-0.1.1.tar.gz",
+  "download_time": "2026-04-02T20:21:30.871837",
+  "package_url": "https://pypi.org/project/cyborgdb-migrate/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agentspan",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "summary": "Agentspan SDK — durable, scalable, observable AI agents",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "agentspan-0.0.12.tar.gz",
-  "download_time": "2026-03-31T22:35:28.472402",
+  "download_filename": "agentspan-0.0.14.tar.gz",
+  "download_time": "2026-04-02T20:21:27.225584",
   "package_url": "https://pypi.org/project/agentspan/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "specsmith",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Forge governed project scaffolds from the Agentic AI Development Workflow Specification.",
   "author": "BitConcepts",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "specsmith-0.2.0.tar.gz",
-  "download_time": "2026-04-02T19:38:10.725167",
+  "download_filename": "specsmith-0.2.1.tar.gz",
+  "download_time": "2026-04-02T20:20:48.800161",
   "package_url": "https://pypi.org/project/specsmith/"
 }

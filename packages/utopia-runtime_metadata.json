@@ -1,0 +1,11 @@
+{
+  "name": "utopia-runtime",
+  "version": "0.3.0",
+  "summary": "Production probes + self-healing functions for Utopia — gives AI coding agents real-time visibility and auto-fixes errors at runtime",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "utopia_runtime-0.3.0.tar.gz",
+  "download_time": "2026-04-02T20:21:06.298349",
+  "package_url": "https://pypi.org/project/utopia-runtime/"
+}

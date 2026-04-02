@@ -1,11 +1,11 @@
 {
   "name": "ice9",
-  "version": "0.0.17",
+  "version": "0.0.19",
   "summary": "Python SDK for the ice9 image analysis API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ice9-0.0.17.tar.gz",
-  "download_time": "2026-03-28T08:22:31.432449",
+  "download_filename": "ice9-0.0.19.tar.gz",
+  "download_time": "2026-04-02T20:20:44.095726",
   "package_url": "https://pypi.org/project/ice9/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "claude-monitor-usage",
-  "version": "2.0.0",
-  "summary": "Moniteur temps réel des limites d'utilisation Claude (Pro/Max) — tray icon, widget overlay, notifications",
+  "version": "2.0.1",
+  "summary": "Real-time Claude Pro/Max usage monitor — tray icon, overlay widget, notifications, mini mode, sparklines",
   "author": "audi63",
-  "license": null,
+  "license": "All Rights Reserved",
   "home_page": null,
-  "download_filename": "claude_monitor_usage-2.0.0.tar.gz",
-  "download_time": "2026-04-02T19:38:13.961012",
+  "download_filename": "claude_monitor_usage-2.0.1.tar.gz",
+  "download_time": "2026-04-02T20:20:49.331990",
   "package_url": "https://pypi.org/project/claude-monitor-usage/"
 }

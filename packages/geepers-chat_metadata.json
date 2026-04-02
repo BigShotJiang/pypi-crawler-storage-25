@@ -1,0 +1,11 @@
+{
+  "name": "geepers-chat",
+  "version": "1.0.1",
+  "summary": "One-command multi-provider LLM chat. pip install, one command, full chat UI with 18 providers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geepers_chat-1.0.1.tar.gz",
+  "download_time": "2026-04-02T20:21:27.747828",
+  "package_url": "https://pypi.org/project/geepers-chat/"
+}

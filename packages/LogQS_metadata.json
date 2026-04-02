@@ -1,0 +1,11 @@
+{
+  "name": "LogQS",
+  "version": "1.1.15",
+  "summary": "A client for interacting with the LogQS Service.",
+  "author": "Nathan Margaglio",
+  "license": null,
+  "home_page": "https://github.com/carnegierobotics/LogQS",
+  "download_filename": "logqs-1.1.15.tar.gz",
+  "download_time": "2026-04-02T20:20:51.509713",
+  "package_url": "https://pypi.org/project/LogQS/"
+}
