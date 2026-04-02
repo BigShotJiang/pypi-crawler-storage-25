@@ -1,0 +1,11 @@
+{
+  "name": "cuda-bench",
+  "version": "0.2.1",
+  "summary": "CUDA Kernel Benchmarking Package",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "home_page": null,
+  "download_filename": "cuda_bench-0.2.1-cp310-cp310-manylinux_2_27_x86_64.whl",
+  "download_time": "2026-04-02T19:38:44.395712",
+  "package_url": "https://pypi.org/project/cuda-bench/"
+}

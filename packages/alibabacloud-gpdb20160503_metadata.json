@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-gpdb20160503",
+  "version": "5.2.0",
+  "summary": "Alibaba Cloud AnalyticDB for PostgreSQL (20160503) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_gpdb20160503-5.2.0.tar.gz",
+  "download_time": "2026-04-02T19:38:35.153614",
+  "package_url": "https://pypi.org/project/alibabacloud-gpdb20160503/"
+}

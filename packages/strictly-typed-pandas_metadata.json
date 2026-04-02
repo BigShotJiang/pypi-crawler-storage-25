@@ -1,0 +1,11 @@
+{
+  "name": "strictly-typed-pandas",
+  "version": "0.3.7",
+  "summary": "Static type checking of pandas DataFrames",
+  "author": "Nanne Aben",
+  "license": "MIT",
+  "home_page": "https://github.com/nanne-aben/strictly_typed_pandas",
+  "download_filename": "strictly_typed_pandas-0.3.7.tar.gz",
+  "download_time": "2026-04-02T19:38:15.629239",
+  "package_url": "https://pypi.org/project/strictly-typed-pandas/"
+}
