@@ -1,11 +1,11 @@
 {
   "name": "forgememo",
-  "version": "0.4.11",
+  "version": "0.4.13",
   "summary": "Persistent memory for AI agents — cross-session context that actually sticks",
   "author": "Forgemem Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "forgememo-0.4.11.tar.gz",
-  "download_time": "2026-04-02T21:03:11.129713",
+  "download_filename": "forgememo-0.4.13.tar.gz",
+  "download_time": "2026-04-02T21:54:47.867010",
   "package_url": "https://pypi.org/project/forgememo/"
 }

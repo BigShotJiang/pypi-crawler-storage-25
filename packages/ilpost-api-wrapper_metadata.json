@@ -1,11 +1,11 @@
 {
   "name": "ilpost-api-wrapper",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Python wrapper for Il Post newspaper API",
   "author": "Antonio Girasella",
   "license": null,
   "home_page": null,
-  "download_filename": "ilpost_api_wrapper-0.3.0.tar.gz",
-  "download_time": "2026-04-02T20:20:52.567562",
+  "download_filename": "ilpost_api_wrapper-0.4.0.tar.gz",
+  "download_time": "2026-04-02T21:54:32.813729",
   "package_url": "https://pypi.org/project/ilpost-api-wrapper/"
 }

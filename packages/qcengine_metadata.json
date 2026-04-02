@@ -1,0 +1,11 @@
+{
+  "name": "qcengine",
+  "version": "0.34.2",
+  "summary": "A compute wrapper for Quantum Chemistry.",
+  "author": "The QCArchive Development Team",
+  "license": "BSD-3C",
+  "home_page": "https://github.com/MolSSI/QCEngine",
+  "download_filename": "qcengine-0.34.2.tar.gz",
+  "download_time": "2026-04-02T21:54:35.910474",
+  "package_url": "https://pypi.org/project/qcengine/"
+}

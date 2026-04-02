@@ -1,0 +1,11 @@
+{
+  "name": "jitapi",
+  "version": "0.2.0",
+  "summary": "Point Claude at any API. JitAPI figures out which endpoints to call and in what order — automatically.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jitapi-0.2.0.tar.gz",
+  "download_time": "2026-04-02T21:54:10.486430",
+  "package_url": "https://pypi.org/project/jitapi/"
+}

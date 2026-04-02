@@ -1,0 +1,11 @@
+{
+  "name": "kimi-k2-optimizer",
+  "version": "0.1.0",
+  "summary": "Kimi K2.5 (1.1T) optimization suite for RTX 3090 with aggressive RAM optimization",
+  "author": "Kimi K2 Optimizer Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kimi_k2_optimizer-0.1.0.tar.gz",
+  "download_time": "2026-04-02T21:54:44.241328",
+  "package_url": "https://pypi.org/project/kimi-k2-optimizer/"
+}

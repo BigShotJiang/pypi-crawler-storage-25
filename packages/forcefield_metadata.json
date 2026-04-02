@@ -1,11 +1,11 @@
 {
   "name": "forcefield",
-  "version": "0.7.2",
+  "version": "0.7.4",
   "summary": "Zero-dependency AI security library -- prompt-injection detection, PII redaction, content safety, rate limiting, abuse detection, tool governance, and security evals for LLMs in 3 lines of Python.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "forcefield-0.7.2.tar.gz",
-  "download_time": "2026-03-29T17:49:29.998565",
+  "download_filename": "forcefield-0.7.4.tar.gz",
+  "download_time": "2026-04-02T21:54:06.847095",
   "package_url": "https://pypi.org/project/forcefield/"
 }

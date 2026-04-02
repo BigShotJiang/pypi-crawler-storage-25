@@ -1,11 +1,11 @@
 {
   "name": "dc-python-sdk",
-  "version": "1.5.15",
+  "version": "1.5.22",
   "summary": "Data Connector Python SDK",
   "author": "DataConnector",
   "license": null,
   "home_page": "https://github.com/data-connector/dc-python-sdk",
-  "download_filename": "dc_python_sdk-1.5.15.tar.gz",
-  "download_time": "2026-04-02T16:41:34.859638",
+  "download_filename": "dc_python_sdk-1.5.22.tar.gz",
+  "download_time": "2026-04-02T21:54:18.315594",
   "package_url": "https://pypi.org/project/dc-python-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "agent-cost-guardrails",
+  "version": "0.1.0",
+  "summary": "Budget limits and cost guardrails for AI agent frameworks (CrewAI, AutoGen, LangGraph)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_cost_guardrails-0.1.0.tar.gz",
+  "download_time": "2026-04-02T21:54:36.424955",
+  "package_url": "https://pypi.org/project/agent-cost-guardrails/"
+}

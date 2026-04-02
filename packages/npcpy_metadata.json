@@ -1,0 +1,11 @@
+{
+  "name": "npcpy",
+  "version": "1.4.12",
+  "summary": "npcpy is the premier open-source library for integrating LLMs and Agents into python systems.",
+  "author": "Christopher Agostino",
+  "license": null,
+  "home_page": "https://github.com/NPC-Worldwide/npcpy",
+  "download_filename": "npcpy-1.4.12.tar.gz",
+  "download_time": "2026-04-02T21:54:07.370922",
+  "package_url": "https://pypi.org/project/npcpy/"
+}
