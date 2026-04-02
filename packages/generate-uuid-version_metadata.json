@@ -1,0 +1,11 @@
+{
+  "name": "generate-uuid-version",
+  "version": "3.0.1",
+  "summary": "Generate UUID values (v4, v7) with count support.",
+  "author": "Troy Tessalone",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "generate_uuid_version-3.0.1.tar.gz",
+  "download_time": "2026-04-02T06:49:40.834776",
+  "package_url": "https://pypi.org/project/generate-uuid-version/"
+}

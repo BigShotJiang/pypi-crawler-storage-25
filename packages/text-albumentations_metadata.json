@@ -1,0 +1,11 @@
+{
+  "name": "text-albumentations",
+  "version": "0.4.0",
+  "summary": "Structured synthetic text data generation for SFT and distillation.",
+  "author": "Avishek Biswas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "text_albumentations-0.4.0.tar.gz",
+  "download_time": "2026-04-02T06:49:37.131595",
+  "package_url": "https://pypi.org/project/text-albumentations/"
+}

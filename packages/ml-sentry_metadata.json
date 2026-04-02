@@ -1,0 +1,11 @@
+{
+  "name": "ml-sentry",
+  "version": "0.1.0",
+  "summary": "Lightweight profiling decorator for ML pipelines (time, RAM, args)",
+  "author": "Oleg Nagornyi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ml_sentry-0.1.0-py3-none-any.whl",
+  "download_time": "2026-04-02T06:49:41.413181",
+  "package_url": "https://pypi.org/project/ml-sentry/"
+}

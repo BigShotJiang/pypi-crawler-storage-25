@@ -1,11 +1,11 @@
 {
   "name": "anycode-ai",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Universal coding agent for your terminal — use any OpenAI-compatible LLM",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "anycode_ai-1.0.0.tar.gz",
-  "download_time": "2026-04-02T05:21:27.056108",
+  "download_filename": "anycode_ai-1.1.0.tar.gz",
+  "download_time": "2026-04-02T06:49:43.708154",
   "package_url": "https://pypi.org/project/anycode-ai/"
 }

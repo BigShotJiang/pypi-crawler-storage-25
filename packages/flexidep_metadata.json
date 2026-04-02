@@ -1,0 +1,11 @@
+{
+  "name": "flexidep",
+  "version": "0.0.13",
+  "summary": "Managing dependencies for other python packages, especially when multiple alternatives exist for the same module.",
+  "author": "Francesco Santini",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "flexidep-0.0.13.tar.gz",
+  "download_time": "2026-04-02T06:49:29.702897",
+  "package_url": "https://pypi.org/project/flexidep/"
+}

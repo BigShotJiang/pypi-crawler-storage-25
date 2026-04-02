@@ -1,0 +1,11 @@
+{
+  "name": "egora-rrl",
+  "version": "0.1.1",
+  "summary": "Rotation-Retention Law: threshold analysis, knowledge mapping, and gradient alignment diagnostics for fine-tuned neural networks.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "egora_rrl-0.1.1.tar.gz",
+  "download_time": "2026-04-02T06:50:10.276241",
+  "package_url": "https://pypi.org/project/egora-rrl/"
+}

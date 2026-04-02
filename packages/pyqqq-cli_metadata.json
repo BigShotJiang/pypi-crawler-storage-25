@@ -1,0 +1,11 @@
+{
+  "name": "pyqqq-cli",
+  "version": "0.4.24",
+  "summary": "CLI tool for controlling strategies deployed on the PyQQQ platform.",
+  "author": "PyQQQ team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyqqq_cli-0.4.24.tar.gz",
+  "download_time": "2026-04-02T06:49:47.396293",
+  "package_url": "https://pypi.org/project/pyqqq-cli/"
+}

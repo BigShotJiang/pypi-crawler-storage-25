@@ -1,11 +1,11 @@
 {
   "name": "cool-play-agent-teams",
-  "version": "0.0.3.20260329134700",
+  "version": "20260402.2",
   "summary": "Role-driven multi-agent framework with strong typing and tool-based collaboration.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cool_play_agent_teams-0.0.3.20260329134700.tar.gz",
-  "download_time": "2026-03-29T14:06:05.925418",
+  "download_filename": "cool_play_agent_teams-20260402.2.tar.gz",
+  "download_time": "2026-04-02T06:50:04.446598",
   "package_url": "https://pypi.org/project/cool-play-agent-teams/"
 }

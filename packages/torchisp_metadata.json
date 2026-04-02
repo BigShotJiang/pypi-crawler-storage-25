@@ -1,0 +1,11 @@
+{
+  "name": "torchisp",
+  "version": "0.1.2",
+  "summary": "A PyTorch-based image signal processing tool for converting RGGB to RGB images.",
+  "author": "GenBill",
+  "license": null,
+  "home_page": "https://github.com/GenBill/TorchISP",
+  "download_filename": "torchisp-0.1.2.tar.gz",
+  "download_time": "2026-04-02T06:49:39.815776",
+  "package_url": "https://pypi.org/project/torchisp/"
+}
