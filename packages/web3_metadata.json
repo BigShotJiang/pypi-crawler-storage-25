@@ -1,0 +1,11 @@
+{
+  "name": "web3",
+  "version": "7.15.0",
+  "summary": "web3: A Python library for interacting with Ethereum",
+  "author": "The Ethereum Foundation",
+  "license": "MIT",
+  "home_page": "https://github.com/ethereum/web3.py",
+  "download_filename": "web3-7.15.0.tar.gz",
+  "download_time": "2026-04-02T18:39:10.714890",
+  "package_url": "https://pypi.org/project/web3/"
+}

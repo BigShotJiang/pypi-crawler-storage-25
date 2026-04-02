@@ -1,0 +1,11 @@
+{
+  "name": "slimfaas-client",
+  "version": "0.70.0",
+  "summary": "WebSocket client for SlimFaas — lets Jobs and virtual functions receive async requests and publish/subscribe events without exposing an HTTP port.",
+  "author": "SlimFaas Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slimfaas_client-0.70.0.tar.gz",
+  "download_time": "2026-04-02T18:39:21.043479",
+  "package_url": "https://pypi.org/project/slimfaas-client/"
+}

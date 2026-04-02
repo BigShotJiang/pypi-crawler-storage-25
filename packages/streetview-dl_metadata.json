@@ -1,0 +1,11 @@
+{
+  "name": "streetview-dl",
+  "version": "0.7.0",
+  "summary": "Download high-resolution Google Street View panoramas from the command line",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "streetview_dl-0.7.0.tar.gz",
+  "download_time": "2026-04-02T18:38:42.711435",
+  "package_url": "https://pypi.org/project/streetview-dl/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "torchoptics",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Python library for differentiable Fourier optics simulations with PyTorch.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "torchoptics-1.0.1-py3-none-any.whl",
-  "download_time": "2026-04-01T15:54:32.192887",
+  "download_filename": "torchoptics-1.0.2-py3-none-any.whl",
+  "download_time": "2026-04-02T18:38:55.023991",
   "package_url": "https://pypi.org/project/torchoptics/"
 }

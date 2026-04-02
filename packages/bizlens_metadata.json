@@ -1,11 +1,11 @@
 {
   "name": "bizlens",
-  "version": "2.2.2",
-  "summary": "Integrated Analytics Platform — Descriptive, Diagnostic, Predictive, Prescriptive & Simulation Analytics",
+  "version": "2.2.12",
+  "summary": "Educational descriptive analytics + statistical inference + process mining. Rich tables, diagnostic checks, hypothesis testing, and business process analysis for teaching and analysis.",
   "author": "Sudhanshu Singh",
   "license": "MIT",
   "home_page": "https://github.com/solutiongate-learn/bizlens",
-  "download_filename": "bizlens-2.2.2.tar.gz",
-  "download_time": "2026-04-02T05:20:58.952486",
+  "download_filename": "bizlens-2.2.12.tar.gz",
+  "download_time": "2026-04-02T18:39:19.998695",
   "package_url": "https://pypi.org/project/bizlens/"
 }

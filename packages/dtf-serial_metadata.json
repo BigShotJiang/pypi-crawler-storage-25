@@ -1,0 +1,11 @@
+{
+  "name": "dtf-serial",
+  "version": "0.1.0",
+  "summary": "CLI tool that captures ESP32 UART output and ships structured logs to the DTF ingest gateway",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dtf_serial-0.1.0.tar.gz",
+  "download_time": "2026-04-02T18:39:12.296227",
+  "package_url": "https://pypi.org/project/dtf-serial/"
+}

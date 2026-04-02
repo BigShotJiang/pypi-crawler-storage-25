@@ -1,0 +1,11 @@
+{
+  "name": "linkture",
+  "version": "5.1.0",
+  "summary": "PARSE and PROCESS BIBLE SCRIPTURE REFERENCES: extract, tag, link, rewrite, translate, BCV-encode and -decode",
+  "author": "Eryk J.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "linkture-5.1.0.tar.gz",
+  "download_time": "2026-04-02T18:39:02.391909",
+  "package_url": "https://pypi.org/project/linkture/"
+}

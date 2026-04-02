@@ -1,0 +1,11 @@
+{
+  "name": "zoomcli",
+  "version": "0.2.1",
+  "summary": "Agent-friendly CLI for the Zoom API",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/rvben/zoom-cli",
+  "download_filename": "zoomcli-0.2.1.tar.gz",
+  "download_time": "2026-04-02T18:38:45.450265",
+  "package_url": "https://pypi.org/project/zoomcli/"
+}
