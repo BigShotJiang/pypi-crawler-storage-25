@@ -1,0 +1,11 @@
+{
+  "name": "podiumscan",
+  "version": "0.1.0",
+  "summary": "Extract structured performance data from music program booklets using an LLM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "podiumscan-0.1.0.tar.gz",
+  "download_time": "2026-04-02T22:32:53.933973",
+  "package_url": "https://pypi.org/project/podiumscan/"
+}

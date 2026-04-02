@@ -1,0 +1,11 @@
+{
+  "name": "qa-gentic-agents",
+  "version": "1.0.4",
+  "summary": "Four MCP servers covering the full QA Software Test Life Cycle — test cases, Gherkin BDD, self-healing Playwright code, and Helix-QA file writing. Browser interaction via Playwright MCP. Silent MSAL OAuth against Azure DevOps.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qa_gentic_agents-1.0.4.tar.gz",
+  "download_time": "2026-04-02T22:32:40.782320",
+  "package_url": "https://pypi.org/project/qa-gentic-agents/"
+}

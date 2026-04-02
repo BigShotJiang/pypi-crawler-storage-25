@@ -1,11 +1,11 @@
 {
   "name": "convergio",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Automatic convergence detection for iterative numerical methods. Stop wasting compute.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "convergio-0.1.1.tar.gz",
-  "download_time": "2026-03-28T21:37:08.900099",
+  "download_filename": "convergio-0.1.5.tar.gz",
+  "download_time": "2026-04-02T22:33:02.229594",
   "package_url": "https://pypi.org/project/convergio/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "muninndb",
-  "version": "0.2.5",
+  "version": "0.4.10",
   "summary": "muninndb — alias for muninn-python, the Python SDK for MuninnDB.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "muninndb-0.2.5.tar.gz",
-  "download_time": "2026-03-29T15:58:25.160680",
+  "download_filename": "muninndb-0.4.10.tar.gz",
+  "download_time": "2026-04-02T22:32:59.123808",
   "package_url": "https://pypi.org/project/muninndb/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "databind.json",
+  "version": "4.5.4",
+  "summary": "De-/serialize Python dataclasses to or from JSON payloads. Compatible with Python 3.8 and newer. Deprecated, use `databind` module instead.",
+  "author": "Niklas Rosenstein",
+  "license": null,
+  "home_page": null,
+  "download_filename": "databind_json-4.5.4.tar.gz",
+  "download_time": "2026-04-02T22:32:49.267698",
+  "package_url": "https://pypi.org/project/databind.json/"
+}

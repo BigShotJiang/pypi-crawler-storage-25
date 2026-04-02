@@ -1,0 +1,11 @@
+{
+  "name": "PFASGroups",
+  "version": "3.2.2",
+  "summary": "A comprehensive cheminformatics package for automated detection, classification, and analysis of halogenated substances, with a focus on per- and polyfluoroalkyl substances (PFAS). Combines SMARTS pattern matching, molecular formula constraints, and graph-based pathfinding to identify 119 groups. Supports creations of embeddings with graph metrics for Machine Learning workflows.",
+  "author": "Luc T. Miaz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pfasgroups-3.2.2.tar.gz",
+  "download_time": "2026-04-02T22:32:34.870221",
+  "package_url": "https://pypi.org/project/PFASGroups/"
+}

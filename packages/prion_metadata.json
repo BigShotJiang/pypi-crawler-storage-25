@@ -1,11 +1,11 @@
 {
   "name": "prion",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Dependency injection framework using pure Python",
   "author": "Geunryeol Park",
   "license": null,
   "home_page": null,
-  "download_filename": "prion-0.1.0.tar.gz",
-  "download_time": "2026-03-31T23:07:33.397736",
+  "download_filename": "prion-0.3.0.tar.gz",
+  "download_time": "2026-04-02T22:32:51.861029",
   "package_url": "https://pypi.org/project/prion/"
 }

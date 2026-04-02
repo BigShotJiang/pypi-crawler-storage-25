@@ -1,11 +1,11 @@
 {
   "name": "concert-scribe",
-  "version": "0.1.10",
+  "version": "0.1.12",
   "summary": "Classify audio segments in concert recordings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "concert_scribe-0.1.10.tar.gz",
-  "download_time": "2026-04-02T21:54:20.893541",
+  "download_filename": "concert_scribe-0.1.12.tar.gz",
+  "download_time": "2026-04-02T22:32:55.487432",
   "package_url": "https://pypi.org/project/concert-scribe/"
 }

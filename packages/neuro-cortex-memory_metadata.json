@@ -1,11 +1,11 @@
 {
   "name": "neuro-cortex-memory",
-  "version": "2.6.0",
-  "summary": "Persistent memory and cognitive profiling for Claude Code",
+  "version": "3.2.0",
+  "summary": "Scientifically-grounded memory system based on computational neuroscience research",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neuro_cortex_memory-2.6.0.tar.gz",
-  "download_time": "2026-03-29T21:47:56.468465",
+  "download_filename": "neuro_cortex_memory-3.2.0.tar.gz",
+  "download_time": "2026-04-02T22:32:50.833350",
   "package_url": "https://pypi.org/project/neuro-cortex-memory/"
 }
