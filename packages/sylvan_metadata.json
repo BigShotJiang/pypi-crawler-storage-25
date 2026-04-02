@@ -1,11 +1,11 @@
 {
   "name": "sylvan",
-  "version": "1.6.2",
-  "summary": "Unified code + documentation retrieval MCP server",
+  "version": "1.9.0",
+  "summary": "Code intelligence MCP server for token-efficient code retrieval, analysis, and refactoring",
   "author": "darki73",
   "license": "Custom Non-Commercial",
   "home_page": null,
-  "download_filename": "sylvan-1.6.2.tar.gz",
-  "download_time": "2026-03-30T12:42:12.325252",
+  "download_filename": "sylvan-1.9.0.tar.gz",
+  "download_time": "2026-04-02T15:48:20.090707",
   "package_url": "https://pypi.org/project/sylvan/"
 }

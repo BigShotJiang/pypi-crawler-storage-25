@@ -1,0 +1,11 @@
+{
+  "name": "floom-sdk",
+  "version": "0.1.7",
+  "summary": "Turn Python functions into web apps. Type hints become UI, API, and shareable links.",
+  "author": "floom",
+  "license": "MIT",
+  "home_page": "https://github.com/floomhq/floom",
+  "download_filename": "floom_sdk-0.1.7.tar.gz",
+  "download_time": "2026-04-02T15:48:26.379594",
+  "package_url": "https://pypi.org/project/floom-sdk/"
+}

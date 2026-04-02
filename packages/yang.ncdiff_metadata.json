@@ -1,0 +1,11 @@
+{
+  "name": "yang.ncdiff",
+  "version": "26.3",
+  "summary": "A config state diff calculator for NETCONF",
+  "author": "Jonathan Yang",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/CiscoTestAutomation/yang.git",
+  "download_filename": "yang_ncdiff-26.3-py3-none-any.whl",
+  "download_time": "2026-04-02T15:48:49.682215",
+  "package_url": "https://pypi.org/project/yang.ncdiff/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yang.connector",
+  "version": "26.3",
+  "summary": "YANG defined interface API protocol connector",
+  "author": "Jonathan Yang",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/CiscoTestAutomation/yang.git",
+  "download_filename": "yang_connector-26.3-py3-none-any.whl",
+  "download_time": "2026-04-02T15:48:50.192939",
+  "package_url": "https://pypi.org/project/yang.connector/"
+}
