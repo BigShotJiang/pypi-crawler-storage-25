@@ -1,0 +1,11 @@
+{
+  "name": "iomete-sqlalchemy",
+  "version": "1.0.20rc3",
+  "summary": "SQLAlchemy dialect for IOMETE via Arrow Flight SQL",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "iomete_sqlalchemy-1.0.20rc3.tar.gz",
+  "download_time": "2026-04-02T21:03:36.538697",
+  "package_url": "https://pypi.org/project/iomete-sqlalchemy/"
+}

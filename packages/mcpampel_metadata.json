@@ -1,0 +1,11 @@
+{
+  "name": "mcpampel",
+  "version": "0.2.2",
+  "summary": "MCP security scanner plugin - scan your installed MCP servers with 16 engines",
+  "author": "MCPAmpel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpampel-0.2.2.tar.gz",
+  "download_time": "2026-04-02T21:03:21.239282",
+  "package_url": "https://pypi.org/project/mcpampel/"
+}

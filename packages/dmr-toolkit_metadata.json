@@ -1,0 +1,11 @@
+{
+  "name": "dmr-toolkit",
+  "version": "0.1.0",
+  "summary": "Reusable, composable design pattern helpers for Django REST APIs",
+  "author": "h7ussein.ahmad",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dmr_toolkit-0.1.0.tar.gz",
+  "download_time": "2026-04-02T21:03:58.468209",
+  "package_url": "https://pypi.org/project/dmr-toolkit/"
+}

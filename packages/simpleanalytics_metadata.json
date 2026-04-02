@@ -1,0 +1,11 @@
+{
+  "name": "simpleanalytics",
+  "version": "1.0.8",
+  "summary": "Simple Analytics template tags for Django",
+  "author": "Simple Analytics",
+  "license": null,
+  "home_page": "https://github.com/simpleanalytics/django-plugin",
+  "download_filename": "simpleanalytics-1.0.8.tar.gz",
+  "download_time": "2026-04-02T21:03:50.610545",
+  "package_url": "https://pypi.org/project/simpleanalytics/"
+}

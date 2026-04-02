@@ -1,0 +1,11 @@
+{
+  "name": "autogitsemver",
+  "version": "0.9.8",
+  "summary": "Generate a semantic version based on commits made to a git repository.",
+  "author": "David Brownell",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autogitsemver-0.9.8.tar.gz",
+  "download_time": "2026-04-02T21:03:13.659530",
+  "package_url": "https://pypi.org/project/autogitsemver/"
+}

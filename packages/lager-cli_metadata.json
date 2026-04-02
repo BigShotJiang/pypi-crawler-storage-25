@@ -1,0 +1,11 @@
+{
+  "name": "lager-cli",
+  "version": "0.15.0",
+  "summary": "Lager CLI - Box and Docker connectivity",
+  "author": "Lager Data LLC",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/lagerdata/lager",
+  "download_filename": "lager_cli-0.15.0.tar.gz",
+  "download_time": "2026-04-02T21:03:47.408549",
+  "package_url": "https://pypi.org/project/lager-cli/"
+}

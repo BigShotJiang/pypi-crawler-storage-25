@@ -1,0 +1,11 @@
+{
+  "name": "sniffles",
+  "version": "2.7.5",
+  "summary": "A fast structural variation caller for long-read sequencing data",
+  "author": "Moritz Smolka, Hermann Romanek",
+  "license": "MIT",
+  "home_page": "https://github.com/fritzsedlazeck/Sniffles",
+  "download_filename": "sniffles-2.7.5.tar.gz",
+  "download_time": "2026-04-02T21:03:11.723915",
+  "package_url": "https://pypi.org/project/sniffles/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "roomkit-sandbox",
+  "version": "0.2.2",
+  "summary": "Container-based sandbox executor for RoomKit — gives AI agents sandboxed command execution via RTK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "roomkit_sandbox-0.2.2.tar.gz",
+  "download_time": "2026-04-02T21:03:39.626965",
+  "package_url": "https://pypi.org/project/roomkit-sandbox/"
+}

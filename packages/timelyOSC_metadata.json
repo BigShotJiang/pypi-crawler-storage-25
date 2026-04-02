@@ -1,11 +1,11 @@
 {
   "name": "timelyOSC",
-  "version": "17",
+  "version": "19",
   "summary": "Open Sound Control library for Python 3",
   "author": "Andrzej Cichocki",
   "license": null,
   "home_page": "https://github.com/combatopera/timelyOSC",
-  "download_filename": "timelyosc-17.tar.gz",
-  "download_time": "2026-04-01T22:47:10.401650",
+  "download_filename": "timelyosc-19.tar.gz",
+  "download_time": "2026-04-02T21:04:04.772727",
   "package_url": "https://pypi.org/project/timelyOSC/"
 }

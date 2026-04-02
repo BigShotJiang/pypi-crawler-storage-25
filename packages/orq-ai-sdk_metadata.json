@@ -1,11 +1,11 @@
 {
   "name": "orq-ai-sdk",
-  "version": "4.6.10",
+  "version": "4.6.13",
   "summary": "Python Client SDK for the Orq API.",
   "author": "Orq",
   "license": null,
   "home_page": null,
-  "download_filename": "orq_ai_sdk-4.6.10.tar.gz",
-  "download_time": "2026-04-02T11:13:01.003917",
+  "download_filename": "orq_ai_sdk-4.6.13.tar.gz",
+  "download_time": "2026-04-02T21:03:08.520418",
   "package_url": "https://pypi.org/project/orq-ai-sdk/"
 }

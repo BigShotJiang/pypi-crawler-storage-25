@@ -1,0 +1,11 @@
+{
+  "name": "triples-sigfast",
+  "version": "1.1.1",
+  "summary": "An enterprise-grade, JIT-compiled time-series and nuclear physics analysis engine stress-tested on 100M+ row datasets.",
+  "author": "TripleS Studio",
+  "license": null,
+  "home_page": "https://github.com/SamdaniSayam/triples-sigfast",
+  "download_filename": "triples_sigfast-1.1.1.tar.gz",
+  "download_time": "2026-04-02T21:03:53.229250",
+  "package_url": "https://pypi.org/project/triples-sigfast/"
+}

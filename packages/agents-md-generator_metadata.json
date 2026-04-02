@@ -1,11 +1,11 @@
 {
   "name": "agents-md-generator",
-  "version": "0.5.1",
+  "version": "0.5.3",
   "summary": "MCP server that analyzes codebases and generates AGENTS.md files",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agents_md_generator-0.5.1.tar.gz",
-  "download_time": "2026-04-02T08:07:34.689770",
+  "download_filename": "agents_md_generator-0.5.3.tar.gz",
+  "download_time": "2026-04-02T21:03:26.314494",
   "package_url": "https://pypi.org/project/agents-md-generator/"
 }
