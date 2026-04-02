@@ -1,11 +1,11 @@
 {
   "name": "poster2json",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Convert scientific posters (PDF/images) to structured JSON metadata using Large Language Models",
   "author": "FAIR Data Innovations Hub",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "poster2json-0.2.0.tar.gz",
-  "download_time": "2026-03-31T19:43:34.824457",
+  "download_filename": "poster2json-0.2.2.tar.gz",
+  "download_time": "2026-04-02T00:04:10.597186",
   "package_url": "https://pypi.org/project/poster2json/"
 }

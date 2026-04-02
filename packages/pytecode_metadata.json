@@ -1,11 +1,11 @@
 {
   "name": "pytecode",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Python library for parsing, manipulating, and emitting JVM class files",
   "author": "Trenton Smith",
   "license": null,
   "home_page": null,
-  "download_filename": "pytecode-0.0.1.tar.gz",
-  "download_time": "2026-03-31T05:25:40.979007",
+  "download_filename": "pytecode-0.0.3.tar.gz",
+  "download_time": "2026-04-02T00:03:41.955143",
   "package_url": "https://pypi.org/project/pytecode/"
 }

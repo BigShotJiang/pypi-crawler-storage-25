@@ -1,0 +1,11 @@
+{
+  "name": "llm-route",
+  "version": "0.2.0",
+  "summary": "Intelligent LLM routing with weighted least-outstanding selection, 429 cooldown, and request class isolation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_route-0.2.0.tar.gz",
+  "download_time": "2026-04-02T00:04:01.834863",
+  "package_url": "https://pypi.org/project/llm-route/"
+}

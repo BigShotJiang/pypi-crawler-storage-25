@@ -1,0 +1,11 @@
+{
+  "name": "mozconfigwrapper",
+  "version": "1.1.0",
+  "summary": "Utility to make working with mozconfigs easier",
+  "author": "Andrew Halberstadt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mozconfigwrapper-1.1.0.tar.gz",
+  "download_time": "2026-04-02T00:04:16.309663",
+  "package_url": "https://pypi.org/project/mozconfigwrapper/"
+}

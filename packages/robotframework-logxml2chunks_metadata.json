@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-logxml2chunks",
+  "version": "1.1.6",
+  "summary": "Extract individual test cases from Robot Framework output.xml into separate chunks",
+  "author": "Artur Jadach",
+  "license": null,
+  "home_page": "https://github.com/ajadach/robotframework-LogXML2Chunks",
+  "download_filename": "robotframework_logxml2chunks-1.1.6.tar.gz",
+  "download_time": "2026-04-02T00:03:48.152357",
+  "package_url": "https://pypi.org/project/robotframework-logxml2chunks/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "secploy",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "summary": "Event ingestion, log capture, realtime config sync, and security gating SDK for Python applications",
   "author": "Agastronics",
   "license": null,
   "home_page": "https://github.com/agastronics/secploy-python-sdk",
-  "download_filename": "secploy-1.1.2.tar.gz",
-  "download_time": "2026-04-01T06:56:33.027616",
+  "download_filename": "secploy-1.1.4.tar.gz",
+  "download_time": "2026-04-02T00:04:20.511886",
   "package_url": "https://pypi.org/project/secploy/"
 }

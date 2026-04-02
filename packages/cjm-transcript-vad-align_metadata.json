@@ -1,11 +1,11 @@
 {
   "name": "cjm-transcript-vad-align",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "summary": "FastHTML VAD alignment component for transcript decomposition with Silero VAD audio chunking, card stack navigation with audio playback, and Web Audio API integration.",
   "author": "Christian J. Mills",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cj-mills/cjm-transcript-vad-align",
-  "download_filename": "cjm_transcript_vad_align-0.0.12.tar.gz",
-  "download_time": "2026-04-01T05:13:49.694582",
+  "download_filename": "cjm_transcript_vad_align-0.0.14.tar.gz",
+  "download_time": "2026-04-02T00:04:19.457317",
   "package_url": "https://pypi.org/project/cjm-transcript-vad-align/"
 }
