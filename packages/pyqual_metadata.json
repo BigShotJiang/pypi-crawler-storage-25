@@ -1,11 +1,11 @@
 {
   "name": "pyqual",
-  "version": "0.1.78",
+  "version": "0.1.99",
   "summary": "Declarative quality gate loops for AI-assisted development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyqual-0.1.78.tar.gz",
-  "download_time": "2026-04-01T11:39:59.566729",
+  "download_filename": "pyqual-0.1.99.tar.gz",
+  "download_time": "2026-04-02T09:15:47.171952",
   "package_url": "https://pypi.org/project/pyqual/"
 }

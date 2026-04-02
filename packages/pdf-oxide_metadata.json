@@ -1,0 +1,11 @@
+{
+  "name": "pdf-oxide",
+  "version": "0.3.18",
+  "summary": "The fastest Python PDF library: 0.8ms mean, 5× faster than PyMuPDF. Text extraction, markdown conversion, PDF creation. 100% pass rate on 3,830 PDFs.",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://oxide.fyi",
+  "download_filename": "pdf_oxide-0.3.18-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-02T09:16:18.146790",
+  "package_url": "https://pypi.org/project/pdf-oxide/"
+}

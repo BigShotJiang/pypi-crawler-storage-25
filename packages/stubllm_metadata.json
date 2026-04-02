@@ -1,0 +1,11 @@
+{
+  "name": "stubllm",
+  "version": "0.1.0",
+  "summary": "Deterministic mock server for LLM APIs. Test your AI code without spending tokens.",
+  "author": "mockllm contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stubllm-0.1.0.tar.gz",
+  "download_time": "2026-04-02T09:16:20.209842",
+  "package_url": "https://pypi.org/project/stubllm/"
+}

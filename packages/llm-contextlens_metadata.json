@@ -1,11 +1,11 @@
 {
   "name": "llm-contextlens",
-  "version": "0.3.0",
-  "summary": "Compress your local LLM KV cache with 5.3× memory reduction",
+  "version": "0.4.4",
+  "summary": "Compress your local LLM KV cache with 5.3× memory reduction - Install: pip install llm-contextlens",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_contextlens-0.3.0.tar.gz",
-  "download_time": "2026-03-31T12:43:15.869807",
+  "download_filename": "llm_contextlens-0.4.4.tar.gz",
+  "download_time": "2026-04-02T09:16:09.374529",
   "package_url": "https://pypi.org/project/llm-contextlens/"
 }

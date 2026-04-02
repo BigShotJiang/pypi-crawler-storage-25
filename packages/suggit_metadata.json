@@ -1,0 +1,11 @@
+{
+  "name": "suggit",
+  "version": "1.0.2",
+  "summary": "AI-powered git commit message suggester with local fallback",
+  "author": "Charitra",
+  "license": null,
+  "home_page": "https://github.com/charitraa/suggit",
+  "download_filename": "suggit-1.0.2.tar.gz",
+  "download_time": "2026-04-02T09:15:58.026952",
+  "package_url": "https://pypi.org/project/suggit/"
+}

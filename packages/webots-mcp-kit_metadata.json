@@ -1,0 +1,11 @@
+{
+  "name": "webots-mcp-kit",
+  "version": "0.9.7",
+  "summary": "Windows-first Webots developer toolkit with CLI, MCP server, controller SDK, and bundled benchmarks.",
+  "author": "Arda Karakas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "webots_mcp_kit-0.9.7.tar.gz",
+  "download_time": "2026-04-02T09:16:13.493728",
+  "package_url": "https://pypi.org/project/webots-mcp-kit/"
+}

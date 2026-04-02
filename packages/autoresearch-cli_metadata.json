@@ -1,0 +1,11 @@
+{
+  "name": "autoresearch-cli",
+  "version": "0.2.2",
+  "summary": "Autonomous experiment loop runner — run 100 optimization experiments overnight. Define your goal in Markdown, bring your own LLM key, wake up to a better system.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autoresearch_cli-0.2.2.tar.gz",
+  "download_time": "2026-04-02T09:16:17.601153",
+  "package_url": "https://pypi.org/project/autoresearch-cli/"
+}

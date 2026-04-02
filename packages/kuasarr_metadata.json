@@ -1,11 +1,11 @@
 {
   "name": "kuasarr",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "summary": "kuasarr connects JDownloader with Radarr, Sonarr and LazyLibrarian. It also decrypts links protected by CAPTCHAs, using an additional CaptchaSolverr.",
   "author": "Ritedt",
   "license": null,
   "home_page": "https://github.com/rix1337/Kuasarr",
-  "download_filename": "kuasarr-2.0.0-py3-none-any.whl",
-  "download_time": "2026-03-29T19:55:39.944217",
+  "download_filename": "kuasarr-2.0.2-py3-none-any.whl",
+  "download_time": "2026-04-02T09:16:23.298372",
   "package_url": "https://pypi.org/project/kuasarr/"
 }

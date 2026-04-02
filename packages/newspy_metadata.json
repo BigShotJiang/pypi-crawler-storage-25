@@ -1,0 +1,11 @@
+{
+  "name": "newspy",
+  "version": "2.2.22",
+  "summary": "The news client written in Python that fetches and curates the world news across the web.",
+  "author": "Sechaba Mofokeng",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "newspy-2.2.22.tar.gz",
+  "download_time": "2026-04-02T09:15:54.433644",
+  "package_url": "https://pypi.org/project/newspy/"
+}

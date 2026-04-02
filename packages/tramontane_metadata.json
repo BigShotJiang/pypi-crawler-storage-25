@@ -1,11 +1,11 @@
 {
   "name": "tramontane",
-  "version": "0.1.5",
+  "version": "0.2.3",
   "summary": "Mistral-native agent orchestration framework — EU sovereign, GDPR built-in",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tramontane-0.1.5.tar.gz",
-  "download_time": "2026-04-01T08:17:04.777208",
+  "download_filename": "tramontane-0.2.3-py3-none-any.whl",
+  "download_time": "2026-04-02T09:16:14.518850",
   "package_url": "https://pypi.org/project/tramontane/"
 }

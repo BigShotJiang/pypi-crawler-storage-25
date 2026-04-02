@@ -1,0 +1,11 @@
+{
+  "name": "pyjabber",
+  "version": "0.4.2",
+  "summary": "A lightweight, modular and asyncio XMPP/Jabber server written in Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyjabber-0.4.2.tar.gz",
+  "download_time": "2026-04-02T09:16:30.026844",
+  "package_url": "https://pypi.org/project/pyjabber/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "syng-bts",
+  "version": "3.3.1",
+  "summary": "Synthesis of Next Generation Bulk Transcriptomic Sequencing - A data augmentation tool for transcriptomics data using deep generative models",
+  "author": "Yunhui Qi, Xinyi Wang, Yannick Dueren",
+  "license": null,
+  "home_page": null,
+  "download_filename": "syng_bts-3.3.1.tar.gz",
+  "download_time": "2026-04-02T09:15:55.471204",
+  "package_url": "https://pypi.org/project/syng-bts/"
+}

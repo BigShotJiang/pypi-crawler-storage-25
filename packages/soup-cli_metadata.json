@@ -1,0 +1,11 @@
+{
+  "name": "soup-cli",
+  "version": "0.21.0",
+  "summary": "Fine-tune LLMs in one command. No SSH, no config hell.",
+  "author": "Soup Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "soup_cli-0.21.0.tar.gz",
+  "download_time": "2026-04-02T09:16:07.329230",
+  "package_url": "https://pypi.org/project/soup-cli/"
+}
