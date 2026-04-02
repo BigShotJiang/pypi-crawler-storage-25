@@ -1,0 +1,11 @@
+{
+  "name": "bmr-hc64-client",
+  "version": "0.1.0",
+  "summary": "Python library for communication with BMR HC64 Heating Controller units",
+  "author": "Dan Keder, Honza Slesinger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bmr_hc64_client-0.1.0.tar.gz",
+  "download_time": "2026-04-02T11:12:31.614367",
+  "package_url": "https://pypi.org/project/bmr-hc64-client/"
+}

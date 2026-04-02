@@ -1,11 +1,11 @@
 {
   "name": "netius",
-  "version": "1.35.0",
+  "version": "1.36.2",
   "summary": "Netius System",
   "author": "Hive Solutions Lda.",
   "license": "Apache License, Version 2.0",
   "home_page": "http://netius.hive.pt",
-  "download_filename": "netius-1.35.0.tar.gz",
-  "download_time": "2026-04-02T10:14:52.680157",
+  "download_filename": "netius-1.36.2.tar.gz",
+  "download_time": "2026-04-02T11:12:33.162413",
   "package_url": "https://pypi.org/project/netius/"
 }

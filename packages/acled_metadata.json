@@ -1,0 +1,11 @@
+{
+  "name": "acled",
+  "version": "1.0.0",
+  "summary": "A Python library that unofficially wraps the ACLED API.",
+  "author": "Blaze Burgess",
+  "license": "GPL 3",
+  "home_page": "https://github.com/blazeiburgess/acled",
+  "download_filename": "acled-1.0.0.tar.gz",
+  "download_time": "2026-04-02T11:12:48.123764",
+  "package_url": "https://pypi.org/project/acled/"
+}

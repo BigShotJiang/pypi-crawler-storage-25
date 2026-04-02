@@ -1,11 +1,11 @@
 {
   "name": "vstash",
-  "version": "0.10.3",
+  "version": "0.13.0",
   "summary": "Local document memory with instant semantic search. Drop any file. Ask anything. Get an answer in under a second.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vstash-0.10.3.tar.gz",
-  "download_time": "2026-04-01T14:21:49.060691",
+  "download_filename": "vstash-0.13.0.tar.gz",
+  "download_time": "2026-04-02T11:12:50.184901",
   "package_url": "https://pypi.org/project/vstash/"
 }

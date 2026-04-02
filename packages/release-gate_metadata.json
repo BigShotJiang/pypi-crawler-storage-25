@@ -1,0 +1,11 @@
+{
+  "name": "release-gate",
+  "version": "0.4.0",
+  "summary": "Governance enforcement for AI agents - Prevent cost explosions, ensure safety measures, and enforce access control before deployment.",
+  "author": "Vamsi Sudhakaran",
+  "license": "MIT",
+  "home_page": "https://github.com/VamsiSudhakaran1/release-gate",
+  "download_filename": "release_gate-0.4.0.tar.gz",
+  "download_time": "2026-04-02T11:12:37.814771",
+  "package_url": "https://pypi.org/project/release-gate/"
+}

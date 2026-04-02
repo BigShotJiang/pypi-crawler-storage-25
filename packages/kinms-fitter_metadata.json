@@ -1,0 +1,11 @@
+{
+  "name": "kinms-fitter",
+  "version": "0.5.14",
+  "summary": "Wrapper for KinMSpy that automates most common galaxy fitting tasks",
+  "author": "Timothy A. Davis",
+  "license": "GNU GPLv3",
+  "home_page": "https://github.com/TimothyADavis/KinMS_fitter",
+  "download_filename": "kinms_fitter-0.5.14.tar.gz",
+  "download_time": "2026-04-02T11:12:45.038586",
+  "package_url": "https://pypi.org/project/kinms-fitter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gastimator",
+  "version": "0.5.4",
+  "summary": "Implementation of a Python MCMC gibbs-sampler with adaptive stepping",
+  "author": "Timothy A. Davis",
+  "license": "GNU GPLv3",
+  "home_page": "https://github.com/TimothyADavis/GAStimator",
+  "download_filename": "gastimator-0.5.4.tar.gz",
+  "download_time": "2026-04-02T11:12:50.697300",
+  "package_url": "https://pypi.org/project/gastimator/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "polardbx-zero-mcp",
-  "version": "0.1.2",
-  "summary": "MCP server that gives AI agents a persistent MySQL database via PolarDB-X Cloud Zero",
+  "version": "0.2.0",
+  "summary": "MCP server that gives AI agents persistent MySQL databases via PolarDB-X Cloud Zero",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polardbx_zero_mcp-0.1.2.tar.gz",
-  "download_time": "2026-04-02T05:20:46.442152",
+  "download_filename": "polardbx_zero_mcp-0.2.0.tar.gz",
+  "download_time": "2026-04-02T11:12:59.440818",
   "package_url": "https://pypi.org/project/polardbx-zero-mcp/"
 }
