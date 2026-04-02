@@ -1,0 +1,11 @@
+{
+  "name": "sphinxcontrib-bibtex-urn",
+  "version": "0.1.1",
+  "summary": "Sphinx/pybtex plugin for URN:NBN identifier support in bibliographies",
+  "author": "Niko Savola",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinxcontrib_bibtex_urn-0.1.1.tar.gz",
+  "download_time": "2026-04-02T10:14:21.607929",
+  "package_url": "https://pypi.org/project/sphinxcontrib-bibtex-urn/"
+}

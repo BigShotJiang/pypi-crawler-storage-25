@@ -1,11 +1,11 @@
 {
   "name": "world-model-mcp",
-  "version": "0.2.2",
+  "version": "0.3.1",
   "summary": "MCP server that builds a world model for codebases to prevent hallucinations, repeated mistakes, and regressions",
   "author": "SaravananJaichandar",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "world_model_mcp-0.2.2.tar.gz",
-  "download_time": "2026-04-02T08:08:03.963056",
+  "download_filename": "world_model_mcp-0.3.1.tar.gz",
+  "download_time": "2026-04-02T10:14:39.145979",
   "package_url": "https://pypi.org/project/world-model-mcp/"
 }

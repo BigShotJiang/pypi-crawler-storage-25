@@ -1,0 +1,11 @@
+{
+  "name": "agent-transport",
+  "version": "0.1.2",
+  "summary": "SIP and audio streaming transport for AI voice agents (pure Rust)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_transport-0.1.2-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-02T10:14:42.408558",
+  "package_url": "https://pypi.org/project/agent-transport/"
+}

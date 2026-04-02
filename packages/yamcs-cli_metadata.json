@@ -1,0 +1,11 @@
+{
+  "name": "yamcs-cli",
+  "version": "1.4.17",
+  "summary": "Yamcs Command-Line Tools",
+  "author": "Space Applications Services",
+  "license": "LGPL",
+  "home_page": "https://github.com/yamcs/yamcs-cli",
+  "download_filename": "yamcs_cli-1.4.17.tar.gz",
+  "download_time": "2026-04-02T10:14:41.239226",
+  "package_url": "https://pypi.org/project/yamcs-cli/"
+}

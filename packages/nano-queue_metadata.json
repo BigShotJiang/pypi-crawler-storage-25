@@ -1,11 +1,11 @@
 {
   "name": "nano-queue",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Zero-infra background jobs for Python. Runs via daemon threads and piggybacks on your existing database.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nano_queue-0.1.0.tar.gz",
-  "download_time": "2026-03-31T11:36:34.985208",
+  "download_filename": "nano_queue-0.1.1.tar.gz",
+  "download_time": "2026-04-02T10:14:48.568134",
   "package_url": "https://pypi.org/project/nano-queue/"
 }

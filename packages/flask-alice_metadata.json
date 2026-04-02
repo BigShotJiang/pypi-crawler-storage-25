@@ -1,0 +1,11 @@
+{
+  "name": "flask-alice",
+  "version": "0.0.4",
+  "summary": "Расширение модуля flask, для разработки навыков Яндекс.Алисы",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flask_alice-0.0.4.tar.gz",
+  "download_time": "2026-04-02T10:14:35.050805",
+  "package_url": "https://pypi.org/project/flask-alice/"
+}

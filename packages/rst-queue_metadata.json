@@ -1,0 +1,11 @@
+{
+  "name": "rst-queue",
+  "version": "0.1.4",
+  "summary": "High-performance async queue system built with Rust and Crossbeam",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/suraj202923/rst_queue",
+  "download_filename": "rst_queue-0.1.4-cp38-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-02T10:14:27.470004",
+  "package_url": "https://pypi.org/project/rst-queue/"
+}

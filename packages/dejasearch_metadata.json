@@ -1,0 +1,11 @@
+{
+  "name": "dejasearch",
+  "version": "0.3.0",
+  "summary": "Semantic search MCP server for Claude Code sessions",
+  "author": "Oleg Usoltsev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dejasearch-0.3.0.tar.gz",
+  "download_time": "2026-04-02T10:14:36.075913",
+  "package_url": "https://pypi.org/project/dejasearch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hugr-graphql-ide",
+  "version": "0.2.14",
+  "summary": "JupyterLab extension for Hugr GraphQL IDE — connections, schema explorer, completions, hover, and OIDC authentication",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hugr_graphql_ide-0.2.14-py3-none-any.whl",
+  "download_time": "2026-04-02T10:14:26.349434",
+  "package_url": "https://pypi.org/project/hugr-graphql-ide/"
+}

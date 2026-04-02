@@ -1,0 +1,11 @@
+{
+  "name": "validate-with-resolute",
+  "version": "0.9.0",
+  "summary": "Immutable object modifications with the Result pattern - inspired by C# records",
+  "author": "Marcurion",
+  "license": "MIT",
+  "home_page": "https://github.com/Marcurion/",
+  "download_filename": "validate_with_resolute-0.9.0.tar.gz",
+  "download_time": "2026-04-02T10:14:48.057640",
+  "package_url": "https://pypi.org/project/validate-with-resolute/"
+}

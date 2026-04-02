@@ -1,11 +1,11 @@
 {
   "name": "pocketteam",
-  "version": "1.0.3",
+  "version": "1.0.9",
   "summary": "Your autonomous AI IT team. 12 agents. 59 skills. 9 safety layers. Self-healing via GitHub Actions.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pocketteam-1.0.3.tar.gz",
-  "download_time": "2026-04-02T08:07:36.309359",
+  "download_filename": "pocketteam-1.0.9-py3-none-any.whl",
+  "download_time": "2026-04-02T10:14:19.970729",
   "package_url": "https://pypi.org/project/pocketteam/"
 }
