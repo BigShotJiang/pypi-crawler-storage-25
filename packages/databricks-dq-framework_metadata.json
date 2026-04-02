@@ -1,0 +1,11 @@
+{
+  "name": "databricks-dq-framework",
+  "version": "1.0.8",
+  "summary": "Metadata-driven Data Quality Assessment Framework for Databricks / Delta Lake",
+  "author": "Nitin Mathew George",
+  "license": null,
+  "home_page": null,
+  "download_filename": "databricks_dq_framework-1.0.8.tar.gz",
+  "download_time": "2026-04-02T14:44:37.666772",
+  "package_url": "https://pypi.org/project/databricks-dq-framework/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fake-winreg",
+  "version": "1.9.0",
+  "summary": "A fake Windows registry for testing registry-related code on non-Windows platforms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fake_winreg-1.9.0.tar.gz",
+  "download_time": "2026-04-02T14:44:31.522795",
+  "package_url": "https://pypi.org/project/fake-winreg/"
+}

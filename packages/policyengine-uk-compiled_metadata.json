@@ -1,11 +1,11 @@
 {
   "name": "policyengine-uk-compiled",
-  "version": "0.3.3",
+  "version": "0.3.6",
   "summary": "Compiled UK tax-benefit microsimulation engine (Rust binary with Python interface)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "policyengine_uk_compiled-0.3.3-py3-none-macosx_10_13_universal2.whl",
-  "download_time": "2026-03-30T14:14:58.730414",
+  "download_filename": "policyengine_uk_compiled-0.3.6-py3-none-macosx_10_13_universal2.whl",
+  "download_time": "2026-04-02T14:44:15.862485",
   "package_url": "https://pypi.org/project/policyengine-uk-compiled/"
 }

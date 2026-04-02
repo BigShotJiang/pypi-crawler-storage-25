@@ -1,0 +1,11 @@
+{
+  "name": "web2textpy",
+  "version": "0.1.0",
+  "summary": "Python reimplementation of the Web2Text pipeline for labeling HTML DOM nodes as content or boilerplate",
+  "author": "William Brach",
+  "license": null,
+  "home_page": null,
+  "download_filename": "web2textpy-0.1.0.tar.gz",
+  "download_time": "2026-04-02T14:44:09.564087",
+  "package_url": "https://pypi.org/project/web2textpy/"
+}

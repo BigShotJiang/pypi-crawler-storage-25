@@ -1,11 +1,11 @@
 {
   "name": "Geode-Simplex",
-  "version": "11.1.2",
+  "version": "11.1.3",
   "summary": "Simplex remeshing Geode-solutions OpenGeode module",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "geode_simplex-11.1.2-cp310-cp310-manylinux_2_28_x86_64.whl",
-  "download_time": "2026-03-28T08:22:42.353747",
+  "download_filename": "geode_simplex-11.1.3-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2026-04-02T14:44:49.151738",
   "package_url": "https://pypi.org/project/Geode-Simplex/"
 }

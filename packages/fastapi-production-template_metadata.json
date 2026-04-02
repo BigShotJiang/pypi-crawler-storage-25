@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-production-template",
+  "version": "0.1.4",
+  "summary": "Production-ready FastAPI template with CI/CD, Terraform, and complete tests",
+  "author": "Kevin Meinon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_production_template-0.1.4.tar.gz",
+  "download_time": "2026-04-02T14:44:12.262650",
+  "package_url": "https://pypi.org/project/fastapi-production-template/"
+}

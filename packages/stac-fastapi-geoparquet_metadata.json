@@ -1,0 +1,11 @@
+{
+  "name": "stac-fastapi-geoparquet",
+  "version": "0.0.5",
+  "summary": "A stac-fastapi implementation with a stac-geoparquet backend",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stac_fastapi_geoparquet-0.0.5.tar.gz",
+  "download_time": "2026-04-02T14:44:16.948951",
+  "package_url": "https://pypi.org/project/stac-fastapi-geoparquet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aws-cdk-github-oidc",
+  "version": "4.1.0",
+  "summary": "CDK constructs to use OpenID Connect for authenticating your Github Action workflow with AWS IAM",
+  "author": "Ari Palo<opensource@aripalo.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aripalo/aws-cdk-github-oidc.git",
+  "download_filename": "aws_cdk_github_oidc-4.1.0.tar.gz",
+  "download_time": "2026-04-02T14:44:45.519898",
+  "package_url": "https://pypi.org/project/aws-cdk-github-oidc/"
+}

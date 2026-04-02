@@ -1,11 +1,11 @@
 {
   "name": "mnemosyne-engine",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "LLM Context Compression and Retrieval Engine — zero dependencies, sub-100ms queries, 40-70% token reduction",
   "author": "Cast Rock Innovation L.L.C.",
   "license": null,
   "home_page": null,
-  "download_filename": "mnemosyne_engine-1.0.0.tar.gz",
-  "download_time": "2026-03-31T00:00:38.157982",
+  "download_filename": "mnemosyne_engine-1.0.2.tar.gz",
+  "download_time": "2026-04-02T14:44:47.559210",
   "package_url": "https://pypi.org/project/mnemosyne-engine/"
 }

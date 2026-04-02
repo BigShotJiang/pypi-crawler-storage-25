@@ -1,11 +1,11 @@
 {
   "name": "netskope",
-  "version": "0.2.24",
+  "version": "1.0.0",
   "summary": "The official Netskope CLI — manage your Netskope tenant from the command line",
   "author": "Netskope",
   "license": "MIT",
   "home_page": "https://netskopeoss.github.io/netskope-cli/",
-  "download_filename": "netskope-0.2.24.tar.gz",
-  "download_time": "2026-04-02T12:00:28.738443",
+  "download_filename": "netskope-1.0.0.tar.gz",
+  "download_time": "2026-04-02T14:44:30.489645",
   "package_url": "https://pypi.org/project/netskope/"
 }

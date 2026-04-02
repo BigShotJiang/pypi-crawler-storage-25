@@ -1,0 +1,11 @@
+{
+  "name": "ktalk-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server for accessing Kontur Talk (KTalk) recordings, transcripts and summaries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ktalk_mcp-0.2.0.tar.gz",
+  "download_time": "2026-04-02T14:44:34.587139",
+  "package_url": "https://pypi.org/project/ktalk-mcp/"
+}
