@@ -1,0 +1,11 @@
+{
+  "name": "tensor-spec-worker",
+  "version": "0.1.2",
+  "summary": "Lightweight worker subprocess for tensor-spec",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensor_spec_worker-0.1.2.tar.gz",
+  "download_time": "2026-04-02T08:08:09.593875",
+  "package_url": "https://pypi.org/project/tensor-spec-worker/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "parsica-memory",
-  "version": "3.4.0",
+  "version": "3.4.3",
   "summary": "File-based persistent memory for AI agents. Zero dependencies.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "parsica_memory-3.4.0.tar.gz",
-  "download_time": "2026-04-01T14:21:33.203026",
+  "download_filename": "parsica_memory-3.4.3.tar.gz",
+  "download_time": "2026-04-02T08:08:02.940267",
   "package_url": "https://pypi.org/project/parsica-memory/"
 }

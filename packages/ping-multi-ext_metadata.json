@@ -1,11 +1,11 @@
 {
   "name": "ping-multi-ext",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "summary": "Interactively ping one or many hosts from one or multiple locations (locally or via SSH)",
   "author": "Ivan Zahariev (famzah)",
   "license": "MIT",
   "home_page": "https://github.com/famzah/ping-multi-ext",
-  "download_filename": "ping_multi_ext-1.3.0.tar.gz",
-  "download_time": "2026-04-02T06:50:09.755470",
+  "download_filename": "ping_multi_ext-1.3.1.tar.gz",
+  "download_time": "2026-04-02T08:07:46.784340",
   "package_url": "https://pypi.org/project/ping-multi-ext/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lange-python",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "A bundeld set of tools, clients for the lange-suite of tools and more.",
   "author": "contact@robertlange.me",
   "license": null,
   "home_page": null,
-  "download_filename": "lange_python-0.3.1.tar.gz",
-  "download_time": "2026-03-29T11:05:53.143556",
+  "download_filename": "lange_python-0.3.2.tar.gz",
+  "download_time": "2026-04-02T08:08:07.547075",
   "package_url": "https://pypi.org/project/lange-python/"
 }

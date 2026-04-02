@@ -1,0 +1,11 @@
+{
+  "name": "fincompliance",
+  "version": "0.6.0",
+  "summary": "Financial compliance documentation linter. Accepts PDF, Word, Markdown. Vale rules + Python CLI for BSA/AML, SOX, PCI-DSS, GLBA, NCUA.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fincompliance-0.6.0.tar.gz",
+  "download_time": "2026-04-02T08:07:29.782129",
+  "package_url": "https://pypi.org/project/fincompliance/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "genophi",
+  "version": "1.0.2",
+  "summary": "Whole-genome genotype-to-phenotype modeling with focus on phage-host interaction prediction",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "genophi-1.0.2.tar.gz",
+  "download_time": "2026-04-02T08:07:50.435417",
+  "package_url": "https://pypi.org/project/genophi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cjm-fasthtml-virtual-collection",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "FastHTML virtualized collection rendering with discrete navigation, custom scrollbar, table layout, and cell-level HTMX updates.",
   "author": "Christian J. Mills",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cj-mills/cjm-fasthtml-virtual-collection",
-  "download_filename": "cjm_fasthtml_virtual_collection-0.0.14.tar.gz",
-  "download_time": "2026-03-30T10:17:25.669856",
+  "download_filename": "cjm_fasthtml_virtual_collection-0.0.15.tar.gz",
+  "download_time": "2026-04-02T08:08:06.527351",
   "package_url": "https://pypi.org/project/cjm-fasthtml-virtual-collection/"
 }

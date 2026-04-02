@@ -1,11 +1,11 @@
 {
   "name": "datascreeniq",
-  "version": "1.0.5",
-  "summary": "Real-time data quality screening API — PASS / WARN / BLOCK in under 10ms",
-  "author": "DataScreenIQ",
+  "version": "1.0.11",
+  "summary": "Real-time data quality screening API — PASS / WARN / BLOCK in milliseconds",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://datascreeniq.com",
-  "download_filename": "datascreeniq-1.0.5.tar.gz",
-  "download_time": "2026-03-31T20:28:13.343486",
+  "home_page": null,
+  "download_filename": "datascreeniq-1.0.11.tar.gz",
+  "download_time": "2026-04-02T08:07:39.443048",
   "package_url": "https://pypi.org/project/datascreeniq/"
 }

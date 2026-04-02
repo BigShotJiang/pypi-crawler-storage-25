@@ -1,11 +1,11 @@
 {
   "name": "openfinclaw",
-  "version": "0.1.0",
+  "version": "0.1.6",
   "summary": "OpenFinClaw SDK — Python client & CLI for the DeepAgent API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openfinclaw-0.1.0.tar.gz",
-  "download_time": "2026-04-02T06:49:29.191396",
+  "download_filename": "openfinclaw-0.1.6.tar.gz",
+  "download_time": "2026-04-02T08:07:33.663755",
   "package_url": "https://pypi.org/project/openfinclaw/"
 }

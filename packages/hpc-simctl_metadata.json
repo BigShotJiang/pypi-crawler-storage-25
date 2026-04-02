@@ -1,0 +1,11 @@
+{
+  "name": "hpc-simctl",
+  "version": "0.1.6",
+  "summary": "HPC simulation run management CLI tool for Slurm-based environments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hpc_simctl-0.1.6.tar.gz",
+  "download_time": "2026-04-02T08:07:47.821267",
+  "package_url": "https://pypi.org/project/hpc-simctl/"
+}

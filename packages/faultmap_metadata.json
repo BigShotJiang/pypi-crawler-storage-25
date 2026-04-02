@@ -1,0 +1,11 @@
+{
+  "name": "faultmap",
+  "version": "0.2.0",
+  "summary": "Automatically discover where and why your LLM is failing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "faultmap-0.2.0.tar.gz",
+  "download_time": "2026-04-02T08:07:56.649636",
+  "package_url": "https://pypi.org/project/faultmap/"
+}

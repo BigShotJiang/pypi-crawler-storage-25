@@ -1,11 +1,11 @@
 {
   "name": "tina4-ai",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "AI tools for the Tina4 family",
   "author": "Andre van Zuydam",
   "license": null,
   "home_page": null,
-  "download_filename": "tina4_ai-0.1.0.tar.gz",
-  "download_time": "2026-03-31T20:27:45.467026",
+  "download_filename": "tina4_ai-0.1.1.tar.gz",
+  "download_time": "2026-04-02T08:07:41.554307",
   "package_url": "https://pypi.org/project/tina4-ai/"
 }

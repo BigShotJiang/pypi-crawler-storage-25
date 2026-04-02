@@ -1,0 +1,11 @@
+{
+  "name": "gh-audit",
+  "version": "0.2.1",
+  "summary": "GitHub audit, governance, and inventory for organizations",
+  "author": "N8 Group",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gh_audit-0.2.1.tar.gz",
+  "download_time": "2026-04-02T08:07:40.464834",
+  "package_url": "https://pypi.org/project/gh-audit/"
+}

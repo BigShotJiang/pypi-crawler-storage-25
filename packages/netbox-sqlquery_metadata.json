@@ -1,11 +1,11 @@
 {
   "name": "netbox-sqlquery",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "SQL query interface for NetBox with syntax highlighting, abstract views, and role-based access control",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "netbox_sqlquery-0.1.4.tar.gz",
-  "download_time": "2026-03-31T23:50:58.765789",
+  "download_filename": "netbox_sqlquery-0.1.6.tar.gz",
+  "download_time": "2026-04-02T08:08:16.859834",
   "package_url": "https://pypi.org/project/netbox-sqlquery/"
 }
