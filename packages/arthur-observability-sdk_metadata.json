@@ -1,0 +1,11 @@
+{
+  "name": "arthur-observability-sdk",
+  "version": "0.1.2",
+  "summary": "Official Python SDK for Arthur platform APIs and OpenInference tracing",
+  "author": "Arthur",
+  "license": "Apache-2.0",
+  "home_page": "https://arthur.ai",
+  "download_filename": "arthur_observability_sdk-0.1.2.tar.gz",
+  "download_time": "2026-04-02T23:04:21.373124",
+  "package_url": "https://pypi.org/project/arthur-observability-sdk/"
+}

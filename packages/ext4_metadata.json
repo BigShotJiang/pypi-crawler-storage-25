@@ -1,0 +1,11 @@
+{
+  "name": "ext4",
+  "version": "1.3.1",
+  "summary": "Library for read only interactions with an ext4 filesystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ext4-1.3.1-cp310-cp310-manylinux_2_34_aarch64.whl",
+  "download_time": "2026-04-02T23:04:20.841639",
+  "package_url": "https://pypi.org/project/ext4/"
+}

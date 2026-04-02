@@ -1,0 +1,11 @@
+{
+  "name": "langchain-truthvouch",
+  "version": "1.0.0",
+  "summary": "LangChain integration for TruthVouch Trust API — hallucination detection and content verification",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "langchain_truthvouch-1.0.0.tar.gz",
+  "download_time": "2026-04-02T23:04:24.000869",
+  "package_url": "https://pypi.org/project/langchain-truthvouch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CLI-Cleaner",
+  "version": "1.3",
+  "summary": "A command-line tool for safely cleaning files and directories using customizable rules and dry-run preview",
+  "author": "DasKaroWow",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cli_cleaner-1.3.tar.gz",
+  "download_time": "2026-04-02T23:04:32.890022",
+  "package_url": "https://pypi.org/project/CLI-Cleaner/"
+}
