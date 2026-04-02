@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-githubmodels",
+  "version": "1.0.2",
+  "summary": "NoneBot 集成 GitHub Copilot 和 OpenAI 的 AI 代码生成模型插件",
+  "author": "lyqgzbl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_githubmodels-1.0.2.tar.gz",
+  "download_time": "2026-04-02T05:21:13.892152",
+  "package_url": "https://pypi.org/project/nonebot-plugin-githubmodels/"
+}

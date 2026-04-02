@@ -1,11 +1,11 @@
 {
   "name": "tofusoup",
-  "version": "0.3.31.post4",
+  "version": "0.3.31.post7",
   "summary": "Cross-language conformance test suite for OpenTofu tooling.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tofusoup-0.3.31.post4.tar.gz",
-  "download_time": "2026-04-02T03:28:07.447115",
+  "download_filename": "tofusoup-0.3.31.post7.tar.gz",
+  "download_time": "2026-04-02T05:21:20.569187",
   "package_url": "https://pypi.org/project/tofusoup/"
 }

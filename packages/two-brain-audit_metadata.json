@@ -1,0 +1,11 @@
+{
+  "name": "two-brain-audit",
+  "version": "0.2.2",
+  "summary": "Dual-layer audit system combining automated scoring (left brain) with manual qualitative grading (right brain) and reconciliation.",
+  "author": "Max",
+  "license": null,
+  "home_page": null,
+  "download_filename": "two_brain_audit-0.2.2.tar.gz",
+  "download_time": "2026-04-02T05:21:03.090614",
+  "package_url": "https://pypi.org/project/two-brain-audit/"
+}
