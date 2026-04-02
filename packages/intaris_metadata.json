@@ -1,11 +1,11 @@
 {
   "name": "intaris",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "summary": "Guardrails service for AI agents — safety evaluation, audit, and approval workflows",
   "author": "Filip Pytloun",
   "license": null,
   "home_page": null,
-  "download_filename": "intaris-0.3.2.tar.gz",
-  "download_time": "2026-03-28T16:33:14.788112",
+  "download_filename": "intaris-0.4.0.tar.gz",
+  "download_time": "2026-04-02T13:43:06.896235",
   "package_url": "https://pypi.org/project/intaris/"
 }

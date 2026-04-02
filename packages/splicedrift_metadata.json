@@ -1,0 +1,11 @@
+{
+  "name": "splicedrift",
+  "version": "0.1.1",
+  "summary": "Age-related splicing drift analysis using Bayesian Beta-Binomial regression",
+  "author": "Zoe Chervontseva",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "splicedrift-0.1.1.tar.gz",
+  "download_time": "2026-04-02T13:43:01.612371",
+  "package_url": "https://pypi.org/project/splicedrift/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reeln-native",
+  "version": "0.2.3",
+  "summary": "Rust-powered native backend for the reeln CLI — media processing, overlay rendering, and game state via libav* bindings",
+  "author": null,
+  "license": null,
+  "home_page": "https://streamn.dad",
+  "download_filename": "reeln_native-0.2.3.tar.gz",
+  "download_time": "2026-04-02T13:43:18.365101",
+  "package_url": "https://pypi.org/project/reeln-native/"
+}

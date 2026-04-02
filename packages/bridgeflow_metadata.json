@@ -1,11 +1,11 @@
 {
   "name": "bridgeflow",
-  "version": "0.2.5",
+  "version": "0.2.11",
   "summary": "BridgeFlow — 手机主控 + PC 执行机 + 文件协议的多 AI 角色人机协作桥接工具",
   "author": "joinwell52-AI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bridgeflow-0.2.5.tar.gz",
-  "download_time": "2026-04-02T12:00:12.183802",
+  "download_filename": "bridgeflow-0.2.11.tar.gz",
+  "download_time": "2026-04-02T13:42:37.613841",
   "package_url": "https://pypi.org/project/bridgeflow/"
 }

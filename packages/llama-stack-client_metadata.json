@@ -1,11 +1,11 @@
 {
   "name": "llama-stack-client",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "The official Python library for the llama-stack-client API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llama_stack_client-0.7.0.tar.gz",
-  "download_time": "2026-04-01T21:03:59.531233",
+  "download_filename": "llama_stack_client-0.7.1.tar.gz",
+  "download_time": "2026-04-02T13:42:44.443232",
   "package_url": "https://pypi.org/project/llama-stack-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "isaacsim-mcp-server",
+  "version": "0.4.0",
+  "summary": "Control NVIDIA Isaac Sim robotics simulator through MCP -- 39 tools for scene management, robot control, sensors, and simulation",
+  "author": "omni-mcp, whats2000",
+  "license": null,
+  "home_page": null,
+  "download_filename": "isaacsim_mcp_server-0.4.0.tar.gz",
+  "download_time": "2026-04-02T13:43:04.222320",
+  "package_url": "https://pypi.org/project/isaacsim-mcp-server/"
+}

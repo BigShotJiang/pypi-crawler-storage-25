@@ -1,0 +1,11 @@
+{
+  "name": "deped-hr",
+  "version": "0.1.2",
+  "summary": "Cleans personnel CSV exports into a standalone SQLite database.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deped_hr-0.1.2.tar.gz",
+  "download_time": "2026-04-02T13:42:47.599024",
+  "package_url": "https://pypi.org/project/deped-hr/"
+}

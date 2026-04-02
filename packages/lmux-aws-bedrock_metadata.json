@@ -1,0 +1,11 @@
+{
+  "name": "lmux-aws-bedrock",
+  "version": "0.2.0",
+  "summary": "AWS Bedrock provider for lmux",
+  "author": "Connor Luebbehusen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lmux_aws_bedrock-0.2.0.tar.gz",
+  "download_time": "2026-04-02T13:42:32.922472",
+  "package_url": "https://pypi.org/project/lmux-aws-bedrock/"
+}

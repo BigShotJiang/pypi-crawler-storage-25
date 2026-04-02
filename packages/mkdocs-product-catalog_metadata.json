@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-product-catalog",
+  "version": "1.0.3",
+  "summary": "MkDocs plugin that generates a product catalog page from YAML files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_product_catalog-1.0.3.tar.gz",
+  "download_time": "2026-04-02T13:42:51.732325",
+  "package_url": "https://pypi.org/project/mkdocs-product-catalog/"
+}
