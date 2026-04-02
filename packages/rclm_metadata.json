@@ -1,0 +1,11 @@
+{
+  "name": "rclm",
+  "version": "0.1.0",
+  "summary": "Capture and upload LLM sessions from local hooks and proxy integrations",
+  "author": "ReclaimLLM",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rclm-0.1.0.tar.gz",
+  "download_time": "2026-04-02T16:41:41.668336",
+  "package_url": "https://pypi.org/project/rclm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vexy-lines-apy",
-  "version": "1.0.28",
+  "version": "1.0.30",
   "summary": "Python bindings to the Vexy Lines MCP API and style engine",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vexy_lines_apy-1.0.28.tar.gz",
-  "download_time": "2026-03-31T23:50:56.051445",
+  "download_filename": "vexy_lines_apy-1.0.30.tar.gz",
+  "download_time": "2026-04-02T16:40:59.657456",
   "package_url": "https://pypi.org/project/vexy-lines-apy/"
 }

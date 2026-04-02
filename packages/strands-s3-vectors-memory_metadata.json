@@ -1,0 +1,11 @@
+{
+  "name": "strands-s3-vectors-memory",
+  "version": "0.1.0",
+  "summary": "Long-term semantic memory plugin for Strands Agents backed by Amazon S3 Vectors",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "strands_s3_vectors_memory-0.1.0.tar.gz",
+  "download_time": "2026-04-02T16:40:55.534764",
+  "package_url": "https://pypi.org/project/strands-s3-vectors-memory/"
+}

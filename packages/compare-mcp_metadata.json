@@ -1,0 +1,11 @@
+{
+  "name": "compare-mcp",
+  "version": "0.1.0",
+  "summary": "Multi-model code review with ranked todos and subagent dispatch, inside Claude Code CLI",
+  "author": "carolinacherry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "compare_mcp-0.1.0.tar.gz",
+  "download_time": "2026-04-02T16:41:28.675420",
+  "package_url": "https://pypi.org/project/compare-mcp/"
+}
