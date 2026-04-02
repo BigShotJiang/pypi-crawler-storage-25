@@ -1,0 +1,11 @@
+{
+  "name": "tablassert",
+  "version": "7.2.0",
+  "summary": "Tablassert is a highly performant declarative knowledge graph backend designed to extract knowledge assertions from tabular data while exporting NCATS Translator-compliant Knowledge Graph Exchange (KGX) NDJSON.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tablassert-7.2.0.tar.gz",
+  "download_time": "2026-04-02T03:27:31.201259",
+  "package_url": "https://pypi.org/project/tablassert/"
+}

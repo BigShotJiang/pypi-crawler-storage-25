@@ -1,11 +1,11 @@
 {
   "name": "fabric-resolver",
-  "version": "0.0.0.dev20260331004143",
+  "version": "0.0.0.dev20260402032428",
   "summary": "Python client for the certrelay fabric network",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fabric_resolver-0.0.0.dev20260331004143.tar.gz",
-  "download_time": "2026-03-31T18:40:17.954269",
+  "download_filename": "fabric_resolver-0.0.0.dev20260402032428.tar.gz",
+  "download_time": "2026-04-02T03:27:24.905223",
   "package_url": "https://pypi.org/project/fabric-resolver/"
 }

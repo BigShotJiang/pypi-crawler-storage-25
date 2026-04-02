@@ -1,0 +1,11 @@
+{
+  "name": "cytetype",
+  "version": "0.19.4",
+  "summary": "Python client for characterization of clusters from single-cell RNA-seq data.",
+  "author": null,
+  "license": "CC BY-NC-SA 4.0",
+  "home_page": null,
+  "download_filename": "cytetype-0.19.4.tar.gz",
+  "download_time": "2026-04-02T03:27:50.585098",
+  "package_url": "https://pypi.org/project/cytetype/"
+}

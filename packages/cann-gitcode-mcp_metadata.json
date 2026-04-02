@@ -1,11 +1,11 @@
 {
   "name": "cann-gitcode-mcp",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "CANN GitCode MCP Server - GitCode platform tools for CANN developers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cann_gitcode_mcp-0.2.0.tar.gz",
-  "download_time": "2026-03-29T10:32:45.629716",
+  "download_filename": "cann_gitcode_mcp-0.3.0.tar.gz",
+  "download_time": "2026-04-02T03:27:34.431363",
   "package_url": "https://pypi.org/project/cann-gitcode-mcp/"
 }

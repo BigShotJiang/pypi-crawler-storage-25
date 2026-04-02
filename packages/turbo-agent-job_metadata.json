@@ -1,11 +1,11 @@
 {
   "name": "turbo-agent-job",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Turbo-Agent 任务调度与执行单元（由 worker 迁移而来）",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "turbo_agent_job-0.1.6.tar.gz",
-  "download_time": "2026-03-31T05:25:15.235391",
+  "download_filename": "turbo_agent_job-0.1.7.tar.gz",
+  "download_time": "2026-04-02T03:27:28.056047",
   "package_url": "https://pypi.org/project/turbo-agent-job/"
 }

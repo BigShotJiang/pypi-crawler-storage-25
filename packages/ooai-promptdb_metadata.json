@@ -1,0 +1,11 @@
+{
+  "name": "ooai-promptdb",
+  "version": "0.1.0",
+  "summary": "Prompt registry and runtime delivery scaffold for LangChain and LangGraph.",
+  "author": "William R. Astley",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ooai_promptdb-0.1.0.tar.gz",
+  "download_time": "2026-04-02T03:27:40.731049",
+  "package_url": "https://pypi.org/project/ooai-promptdb/"
+}

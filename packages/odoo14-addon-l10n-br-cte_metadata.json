@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-l10n-br-cte",
+  "version": "14.0.2.5.0",
+  "summary": "Brazilian Electronic Invoice CT-e",
+  "author": "KMEE,Escodoo,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo14_addon_l10n_br_cte-14.0.2.5.0-py3-none-any.whl",
+  "download_time": "2026-04-02T03:27:55.304646",
+  "package_url": "https://pypi.org/project/odoo14-addon-l10n-br-cte/"
+}

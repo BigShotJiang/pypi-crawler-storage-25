@@ -1,0 +1,11 @@
+{
+  "name": "pyboy-advance",
+  "version": "1.0.1",
+  "summary": "Game Boy Advance emulator written in Python",
+  "author": "William Ha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyboy_advance-1.0.1.tar.gz",
+  "download_time": "2026-04-02T03:27:51.628193",
+  "package_url": "https://pypi.org/project/pyboy-advance/"
+}

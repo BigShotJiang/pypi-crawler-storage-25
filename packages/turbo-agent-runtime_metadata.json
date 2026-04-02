@@ -1,11 +1,11 @@
 {
   "name": "turbo-agent-runtime",
-  "version": "0.1.7rc4",
+  "version": "0.1.7",
   "summary": "Runtime orchestration for turbo-agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "turbo_agent_runtime-0.1.7rc4.tar.gz",
-  "download_time": "2026-04-01T05:13:55.531521",
+  "download_filename": "turbo_agent_runtime-0.1.7.tar.gz",
+  "download_time": "2026-04-02T03:27:28.575341",
   "package_url": "https://pypi.org/project/turbo-agent-runtime/"
 }

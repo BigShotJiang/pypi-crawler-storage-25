@@ -1,0 +1,11 @@
+{
+  "name": "odoo-mcp-uvx",
+  "version": "1.0.1",
+  "summary": "Read-only MCP server for standard Odoo (SaaS/Cloud) via XML-RPC — no custom module required",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "odoo_mcp_uvx-1.0.1.tar.gz",
+  "download_time": "2026-04-02T03:27:57.422673",
+  "package_url": "https://pypi.org/project/odoo-mcp-uvx/"
+}
