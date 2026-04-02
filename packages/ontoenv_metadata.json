@@ -1,0 +1,11 @@
+{
+  "name": "ontoenv",
+  "version": "0.5.2",
+  "summary": "Python bindings for the OntoEnv Rust library. Manages ontology-based environments for building knowledge graphs.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/gtfierro/ontoenv-rs",
+  "download_filename": "ontoenv-0.5.2.tar.gz",
+  "download_time": "2026-04-02T23:51:59.137546",
+  "package_url": "https://pypi.org/project/ontoenv/"
+}

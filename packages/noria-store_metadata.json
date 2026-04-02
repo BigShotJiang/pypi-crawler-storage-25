@@ -1,11 +1,11 @@
 {
   "name": "noria-store",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Configurable S3 and R2 storage client for Python services.",
   "author": "Noria Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "noria_store-0.1.0.tar.gz",
-  "download_time": "2026-04-02T19:38:22.198236",
+  "download_filename": "noria_store-0.1.1.tar.gz",
+  "download_time": "2026-04-02T23:51:34.294149",
   "package_url": "https://pypi.org/project/noria-store/"
 }

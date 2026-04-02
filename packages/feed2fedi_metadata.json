@@ -1,0 +1,11 @@
+{
+  "name": "feed2fedi",
+  "version": "3.7.0",
+  "summary": "Makes posts to Fediverse from one or more feeds",
+  "author": "marvin8",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "feed2fedi-3.7.0.tar.gz",
+  "download_time": "2026-04-02T23:51:22.879375",
+  "package_url": "https://pypi.org/project/feed2fedi/"
+}

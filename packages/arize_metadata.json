@@ -1,11 +1,11 @@
 {
   "name": "arize",
-  "version": "8.9.2",
+  "version": "8.11.0",
   "summary": "A helper library to interact with Arize AI APIs",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "arize-8.9.2.tar.gz",
-  "download_time": "2026-03-30T22:43:16.186391",
+  "download_filename": "arize-8.11.0.tar.gz",
+  "download_time": "2026-04-02T23:51:45.332892",
   "package_url": "https://pypi.org/project/arize/"
 }

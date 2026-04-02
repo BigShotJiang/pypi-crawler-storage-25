@@ -1,0 +1,11 @@
+{
+  "name": "dataclaw",
+  "version": "0.4.0",
+  "summary": "Export your coding agent conversations to Hugging Face as structured data",
+  "author": "Banodoco",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataclaw-0.4.0.tar.gz",
+  "download_time": "2026-04-02T23:51:45.905235",
+  "package_url": "https://pypi.org/project/dataclaw/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "signalforge-cli",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "CLI for extracting emails and sending customer.io events",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "signalforge_cli-0.7.1.tar.gz",
-  "download_time": "2026-04-02T19:38:48.636988",
+  "download_filename": "signalforge_cli-0.7.2.tar.gz",
+  "download_time": "2026-04-02T23:51:56.429744",
   "package_url": "https://pypi.org/project/signalforge-cli/"
 }

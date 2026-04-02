@@ -1,0 +1,11 @@
+{
+  "name": "loreto-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server for the Loreto skill generation API — use generate_skills inside Claude Code",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "loreto_mcp-0.1.2.tar.gz",
+  "download_time": "2026-04-02T23:51:32.709022",
+  "package_url": "https://pypi.org/project/loreto-mcp/"
+}

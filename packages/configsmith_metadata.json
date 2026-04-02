@@ -1,0 +1,11 @@
+{
+  "name": "configsmith",
+  "version": "1.0.0",
+  "summary": "Unified config loader — .env, YAML, TOML, JSON with env overrides, type casting, validation, and fallback chains",
+  "author": "prabhay759",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "configsmith-1.0.0.tar.gz",
+  "download_time": "2026-04-02T23:51:24.945889",
+  "package_url": "https://pypi.org/project/configsmith/"
+}

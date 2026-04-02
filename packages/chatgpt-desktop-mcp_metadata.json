@@ -1,11 +1,11 @@
 {
   "name": "chatgpt-desktop-mcp",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "MCP server for ChatGPT macOS desktop app — no focus stealing, clipboard paste, configurable polling",
   "author": "Mark Liu",
   "license": null,
   "home_page": null,
-  "download_filename": "chatgpt_desktop_mcp-0.3.3.tar.gz",
-  "download_time": "2026-03-29T21:05:17.158769",
+  "download_filename": "chatgpt_desktop_mcp-0.3.4.tar.gz",
+  "download_time": "2026-04-02T23:51:29.118267",
   "package_url": "https://pypi.org/project/chatgpt-desktop-mcp/"
 }

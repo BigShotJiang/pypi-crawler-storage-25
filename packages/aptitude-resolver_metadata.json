@@ -1,11 +1,11 @@
 {
   "name": "aptitude-resolver",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "summary": "Deterministic package-manager-style resolver for AI skills",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aptitude_resolver-0.0.3.tar.gz",
-  "download_time": "2026-04-02T23:04:37.594439",
+  "download_filename": "aptitude_resolver-0.0.7.tar.gz",
+  "download_time": "2026-04-02T23:51:40.629193",
   "package_url": "https://pypi.org/project/aptitude-resolver/"
 }

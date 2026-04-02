@@ -1,0 +1,11 @@
+{
+  "name": "psi-cloud",
+  "version": "1.1.0",
+  "summary": "SDK Oficial para el Motor PSI (Proposición de Suficiencia Informativa).",
+  "author": "Ian Amaro",
+  "license": null,
+  "home_page": "https://psi-cloud-v1.onrender.com",
+  "download_filename": "psi_cloud-1.1.0.tar.gz",
+  "download_time": "2026-04-02T23:51:42.710455",
+  "package_url": "https://pypi.org/project/psi-cloud/"
+}

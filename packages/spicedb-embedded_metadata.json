@@ -1,0 +1,11 @@
+{
+  "name": "spicedb-embedded",
+  "version": "0.6.2",
+  "summary": "Embedded SpiceDB for Python — embedded authorization using the standard gRPC API",
+  "author": "Borkfork",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "spicedb_embedded-0.6.2.tar.gz",
+  "download_time": "2026-04-02T23:52:03.884701",
+  "package_url": "https://pypi.org/project/spicedb-embedded/"
+}
