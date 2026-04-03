@@ -1,11 +1,11 @@
 {
   "name": "llama-cloud",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "summary": "The official Python library for the llama-cloud API",
   "author": "Llama Cloud",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llama_cloud-2.1.0.tar.gz",
-  "download_time": "2026-04-01T17:52:38.404130",
+  "download_filename": "llama_cloud-2.2.0.tar.gz",
+  "download_time": "2026-04-03T21:58:30.200016",
   "package_url": "https://pypi.org/project/llama-cloud/"
 }

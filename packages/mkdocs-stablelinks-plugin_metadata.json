@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-stablelinks-plugin",
+  "version": "0.1.1",
+  "summary": "Stable internal linking and durable external URLs for MkDocs via a page ID system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_stablelinks_plugin-0.1.1.tar.gz",
+  "download_time": "2026-04-03T21:58:29.143186",
+  "package_url": "https://pypi.org/project/mkdocs-stablelinks-plugin/"
+}

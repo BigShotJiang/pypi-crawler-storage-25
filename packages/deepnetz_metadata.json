@@ -1,11 +1,11 @@
 {
   "name": "deepnetz",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "summary": "Run massive models on minimal hardware",
   "author": "Keyvan Hardani",
   "license": "MIT",
   "home_page": "https://deepnetz.com",
-  "download_filename": "deepnetz-1.0.3-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2026-04-03T15:03:44.733971",
+  "download_filename": "deepnetz-1.1.0-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2026-04-03T21:58:36.487319",
   "package_url": "https://pypi.org/project/deepnetz/"
 }

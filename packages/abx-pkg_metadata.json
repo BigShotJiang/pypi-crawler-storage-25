@@ -1,0 +1,11 @@
+{
+  "name": "abx-pkg",
+  "version": "1.9.27",
+  "summary": "System package manager interfaces with Python type hints",
+  "author": "Nick Sweeting, ArchiveBox",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "abx_pkg-1.9.27.tar.gz",
+  "download_time": "2026-04-03T21:58:29.656226",
+  "package_url": "https://pypi.org/project/abx-pkg/"
+}

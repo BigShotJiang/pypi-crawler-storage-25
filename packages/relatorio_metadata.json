@@ -1,0 +1,11 @@
+{
+  "name": "relatorio",
+  "version": "0.12.1",
+  "summary": "A templating library able to output odt and pdf files",
+  "author": "Gaëtan de Menten, B2CK SRL, Udo Spallek, OpenHex SPRL",
+  "license": null,
+  "home_page": null,
+  "download_filename": "relatorio-0.12.1.tar.gz",
+  "download_time": "2026-04-03T21:58:45.387056",
+  "package_url": "https://pypi.org/project/relatorio/"
+}

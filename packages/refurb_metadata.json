@@ -1,0 +1,11 @@
+{
+  "name": "refurb",
+  "version": "2.3.1",
+  "summary": "A tool for refurbishing and modernizing Python codebases",
+  "author": "dosisod",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "refurb-2.3.1.tar.gz",
+  "download_time": "2026-04-03T21:58:55.816647",
+  "package_url": "https://pypi.org/project/refurb/"
+}

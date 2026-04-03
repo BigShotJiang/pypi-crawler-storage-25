@@ -1,11 +1,11 @@
 {
   "name": "Wikipedia-API",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "summary": "Python Wrapper for Wikipedia",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wikipedia_api-0.13.0.tar.gz",
-  "download_time": "2026-03-29T19:22:35.893308",
+  "download_filename": "wikipedia_api-0.14.0.tar.gz",
+  "download_time": "2026-04-03T21:58:37.522983",
   "package_url": "https://pypi.org/project/Wikipedia-API/"
 }
