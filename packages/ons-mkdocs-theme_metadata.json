@@ -1,0 +1,11 @@
+{
+  "name": "ons-mkdocs-theme",
+  "version": "1.2.7",
+  "summary": "An ONS MkDocs Theme based on Material for MkDocs for creating documentation websites",
+  "author": "Keilan Evans, ONS",
+  "license": null,
+  "home_page": "https://github.com/ONSdigital/ons_mkdocs_theme",
+  "download_filename": "ons_mkdocs_theme-1.2.7.tar.gz",
+  "download_time": "2026-04-03T06:04:22.001185",
+  "package_url": "https://pypi.org/project/ons-mkdocs-theme/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bsk-sdk",
-  "version": "0.0.1",
-  "summary": "Placeholder release to reserve the bsk-sdk package name on PyPI.",
-  "author": "Basilisk",
-  "license": null,
+  "version": "2.10.0",
+  "summary": "Vendored Basilisk SDK headers, runtime, and CMake integration for plugin authors",
+  "author": null,
+  "license": "ISC",
   "home_page": null,
-  "download_filename": "bsk_sdk-0.0.1.tar.gz",
-  "download_time": "2026-03-31T18:40:40.822427",
+  "download_filename": "bsk_sdk-2.10.0.tar.gz",
+  "download_time": "2026-04-03T06:04:48.396990",
   "package_url": "https://pypi.org/project/bsk-sdk/"
 }

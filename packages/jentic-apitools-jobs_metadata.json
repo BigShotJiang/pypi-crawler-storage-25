@@ -1,11 +1,11 @@
 {
   "name": "jentic-apitools-jobs",
-  "version": "1.0.0a3",
+  "version": "1.0.0a6",
   "summary": "Jentic Apitools Jobs - Async job execution",
   "author": "Jentic",
   "license": null,
   "home_page": null,
-  "download_filename": "jentic_apitools_jobs-1.0.0a3.tar.gz",
-  "download_time": "2026-03-30T19:43:04.291731",
+  "download_filename": "jentic_apitools_jobs-1.0.0a6.tar.gz",
+  "download_time": "2026-04-03T06:04:19.922306",
   "package_url": "https://pypi.org/project/jentic-apitools-jobs/"
 }

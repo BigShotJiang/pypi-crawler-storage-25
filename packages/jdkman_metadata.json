@@ -1,11 +1,11 @@
 {
   "name": "jdkman",
-  "version": "0.3.7",
+  "version": "0.3.9",
   "summary": "A command-line tool for installing and managing OpenJDK distributions.",
   "author": "junghun.song",
   "license": null,
   "home_page": null,
-  "download_filename": "jdkman-0.3.7.tar.gz",
-  "download_time": "2026-04-03T04:40:42.887513",
+  "download_filename": "jdkman-0.3.9.tar.gz",
+  "download_time": "2026-04-03T06:04:14.278697",
   "package_url": "https://pypi.org/project/jdkman/"
 }

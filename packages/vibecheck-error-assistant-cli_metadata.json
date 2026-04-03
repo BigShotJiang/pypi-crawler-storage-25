@@ -1,11 +1,11 @@
 {
   "name": "vibecheck-error-assistant-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Run commands and translate programming errors into beginner-friendly explanations",
   "author": "VibeCheck",
   "license": null,
   "home_page": null,
-  "download_filename": "vibecheck_error_assistant_cli-0.1.0.tar.gz",
-  "download_time": "2026-04-03T04:40:55.271028",
+  "download_filename": "vibecheck_error_assistant_cli-0.1.1.tar.gz",
+  "download_time": "2026-04-03T06:04:16.848979",
   "package_url": "https://pypi.org/project/vibecheck-error-assistant-cli/"
 }

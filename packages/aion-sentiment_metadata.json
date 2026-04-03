@@ -1,0 +1,11 @@
+{
+  "name": "aion-sentiment",
+  "version": "0.1.0",
+  "summary": "AION Financial News Sentiment Analysis with NRC Emotion Lexicon",
+  "author": "AION Open Source Contributors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aion-open-source/aion-sentiment",
+  "download_filename": "aion_sentiment-0.1.0.tar.gz",
+  "download_time": "2026-04-03T06:04:33.961343",
+  "package_url": "https://pypi.org/project/aion-sentiment/"
+}

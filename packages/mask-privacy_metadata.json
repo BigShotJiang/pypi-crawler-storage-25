@@ -1,0 +1,11 @@
+{
+  "name": "mask-privacy",
+  "version": "3.1.0",
+  "summary": "Just-In-Time Privacy Middleware for AI Agents. Format-preserving encryption with pluggable vault backends.",
+  "author": "Mask AI Solutions",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mask_privacy-3.1.0.tar.gz",
+  "download_time": "2026-04-03T06:04:27.148747",
+  "package_url": "https://pypi.org/project/mask-privacy/"
+}

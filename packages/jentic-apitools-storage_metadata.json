@@ -1,11 +1,11 @@
 {
   "name": "jentic-apitools-storage",
-  "version": "1.0.0a3",
+  "version": "1.0.0a6",
   "summary": "Jentic Apitools Storage - Plugin architecture for storing OpenAPI artifacts in different backends",
   "author": "Jentic",
   "license": null,
   "home_page": null,
-  "download_filename": "jentic_apitools_storage-1.0.0a3.tar.gz",
-  "download_time": "2026-03-30T19:43:01.682944",
+  "download_filename": "jentic_apitools_storage-1.0.0a6.tar.gz",
+  "download_time": "2026-04-03T06:04:17.360448",
   "package_url": "https://pypi.org/project/jentic-apitools-storage/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tap-geo",
+  "version": "0.2.0",
+  "summary": "Singer tap for Geo, built with the Meltano Singer SDK.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tap_geo-0.2.0.tar.gz",
+  "download_time": "2026-04-03T06:04:35.505173",
+  "package_url": "https://pypi.org/project/tap-geo/"
+}

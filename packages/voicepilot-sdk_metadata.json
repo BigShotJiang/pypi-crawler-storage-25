@@ -1,11 +1,11 @@
 {
   "name": "voicepilot-sdk",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "summary": "Official Python SDK for high-fidelity voice and conversational AI.",
   "author": "VoicePilot Team",
   "license": null,
   "home_page": "https://openclaw.intelligens.app",
-  "download_filename": "voicepilot_sdk-0.1.5-py3-none-any.whl",
-  "download_time": "2026-04-02T08:08:08.056975",
+  "download_filename": "voicepilot_sdk-0.2.0-py3-none-any.whl",
+  "download_time": "2026-04-03T06:04:24.566991",
   "package_url": "https://pypi.org/project/voicepilot-sdk/"
 }
