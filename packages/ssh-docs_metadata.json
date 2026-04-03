@@ -1,0 +1,11 @@
+{
+  "name": "ssh-docs",
+  "version": "0.1.2",
+  "summary": "Expose documentation via SSH - browse docs using familiar Unix commands",
+  "author": "SSH-Docs Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ssh_docs-0.1.2.tar.gz",
+  "download_time": "2026-04-03T17:21:25.487130",
+  "package_url": "https://pypi.org/project/ssh-docs/"
+}

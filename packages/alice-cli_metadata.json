@@ -1,11 +1,11 @@
 {
   "name": "alice-cli",
-  "version": "0.2.1",
-  "summary": "ALiCE — AI research uility for the Johns Hopkins Libraries",
+  "version": "0.2.2.post1",
+  "summary": "ALiCE — AWS Library Cognitive Engine client uility for the Johns Hopkins Libraries",
   "author": "Steven J Miklovic,Johns Hopkins DRCC",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "alice_cli-0.2.1.tar.gz",
-  "download_time": "2026-04-02T03:27:33.300250",
+  "download_filename": "alice_cli-0.2.2.post1.tar.gz",
+  "download_time": "2026-04-03T17:21:46.361154",
   "package_url": "https://pypi.org/project/alice-cli/"
 }

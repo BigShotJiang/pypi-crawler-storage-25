@@ -1,11 +1,11 @@
 {
   "name": "pepper-ios",
-  "version": "0.2.3",
+  "version": "0.4.1",
   "summary": "MCP server and CLI tools for Pepper iOS simulator control",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pepper_ios-0.2.3.tar.gz",
-  "download_time": "2026-04-02T23:04:32.368349",
+  "download_filename": "pepper_ios-0.4.1.tar.gz",
+  "download_time": "2026-04-03T17:21:12.941802",
   "package_url": "https://pypi.org/project/pepper-ios/"
 }

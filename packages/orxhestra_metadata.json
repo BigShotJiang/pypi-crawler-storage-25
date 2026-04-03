@@ -1,11 +1,11 @@
 {
   "name": "orxhestra",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "summary": "Multi-Agent Orchestration Framework for Python",
   "author": "Nicolai M. T. Lassen",
   "license": null,
   "home_page": null,
-  "download_filename": "orxhestra-0.0.20.tar.gz",
-  "download_time": "2026-04-03T11:55:43.017265",
+  "download_filename": "orxhestra-0.0.21.tar.gz",
+  "download_time": "2026-04-03T17:21:28.138657",
   "package_url": "https://pypi.org/project/orxhestra/"
 }

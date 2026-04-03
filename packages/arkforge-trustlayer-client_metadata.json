@@ -1,0 +1,11 @@
+{
+  "name": "arkforge-trustlayer-client",
+  "version": "1.9.0",
+  "summary": "Python SDK for the ArkForge Trust Layer — cryptographic proof for every AI agent API call",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arkforge_trustlayer_client-1.9.0.tar.gz",
+  "download_time": "2026-04-03T17:21:11.901848",
+  "package_url": "https://pypi.org/project/arkforge-trustlayer-client/"
+}

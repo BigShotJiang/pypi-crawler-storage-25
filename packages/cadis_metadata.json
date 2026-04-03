@@ -1,11 +1,11 @@
 {
   "name": "cadis",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "Lat/Lon to administrative hierarchy lookup with managed datasets.",
   "author": "Cadis",
   "license": null,
   "home_page": null,
-  "download_filename": "cadis-0.4.4.tar.gz",
-  "download_time": "2026-04-03T15:56:32.328365",
+  "download_filename": "cadis-0.4.5.tar.gz",
+  "download_time": "2026-04-03T17:21:42.191949",
   "package_url": "https://pypi.org/project/cadis/"
 }

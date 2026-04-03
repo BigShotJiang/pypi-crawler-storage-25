@@ -1,0 +1,11 @@
+{
+  "name": "yahoo-fantasy-api",
+  "version": "2.12.3",
+  "summary": "Python bindings to access the Yahoo! Fantasy APIs",
+  "author": "Matt Spilchen",
+  "license": "MIT",
+  "home_page": "http://github.com/spilchen/yahoo_fantasy_api",
+  "download_filename": "yahoo_fantasy_api-2.12.3.tar.gz",
+  "download_time": "2026-04-03T17:21:43.763165",
+  "package_url": "https://pypi.org/project/yahoo-fantasy-api/"
+}

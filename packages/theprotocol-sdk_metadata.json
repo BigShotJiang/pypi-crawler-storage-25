@@ -1,0 +1,11 @@
+{
+  "name": "theprotocol-sdk",
+  "version": "0.4.0",
+  "summary": "A2A v1.0 SDK — Build sovereign AI agents with DID identity. Protocol bridges for Google A2A, ANP, MCP. Works with Vertex AI, AWS AgentCore, LangGraph, CrewAI.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "theprotocol_sdk-0.4.0.tar.gz",
+  "download_time": "2026-04-03T17:21:43.251294",
+  "package_url": "https://pypi.org/project/theprotocol-sdk/"
+}

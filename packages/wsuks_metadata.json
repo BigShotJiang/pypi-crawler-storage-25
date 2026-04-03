@@ -1,0 +1,11 @@
+{
+  "name": "wsuks",
+  "version": "1.2.1",
+  "summary": "Automating the MITM attack on WSUS",
+  "author": "Alexander Neff",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wsuks-1.2.1.tar.gz",
+  "download_time": "2026-04-03T17:21:35.410486",
+  "package_url": "https://pypi.org/project/wsuks/"
+}

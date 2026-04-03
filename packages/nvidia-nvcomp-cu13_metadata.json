@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-nvcomp-cu13",
+  "version": "5.2.0.10",
+  "summary": "NVIDIA nvcomp for CUDA 13",
+  "author": "NVIDIA Corporation",
+  "license": "LICENSE AGREEMENT FOR NVIDIA SOFTWARE DEVELOPMENT KITS",
+  "home_page": "https://developer.nvidia.com/nvcomp",
+  "download_filename": "nvidia_nvcomp_cu13-5.2.0.10-py3-none-win_amd64.whl",
+  "download_time": "2026-04-03T17:21:45.846984",
+  "package_url": "https://pypi.org/project/nvidia-nvcomp-cu13/"
+}

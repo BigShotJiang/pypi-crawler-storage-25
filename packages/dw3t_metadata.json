@@ -1,0 +1,11 @@
+{
+  "name": "dw3t",
+  "version": "0.2.0",
+  "summary": "Interface between spherical datasets from simulation outputs and radmc3d",
+  "author": "gwf",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dw3t-0.2.0.tar.gz",
+  "download_time": "2026-04-03T17:21:52.097058",
+  "package_url": "https://pypi.org/project/dw3t/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "processcube-client",
+  "version": "6.1.1",
+  "summary": "A Client for the workflow engine of the ProcessCube platform.",
+  "author": "ProcessCube UG",
+  "license": null,
+  "home_page": "https://github.com/5minds/processcube_client.py",
+  "download_filename": "processcube_client-6.1.1.tar.gz",
+  "download_time": "2026-04-03T17:21:18.210247",
+  "package_url": "https://pypi.org/project/processcube-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcup",
+  "version": "1.0.0",
+  "summary": "Monte Carlo Uncertainty Propagation for regression with measurement errors",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcup-1.0.0.tar.gz",
+  "download_time": "2026-04-03T17:21:30.206827",
+  "package_url": "https://pypi.org/project/mcup/"
+}
