@@ -1,0 +1,11 @@
+{
+  "name": "common-fractals",
+  "version": "0.0.2",
+  "summary": "This package implements common fractals in pgzero and pygame. Fractal generation code written in C for fast rendering.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "common_fractals-0.0.2.tar.gz",
+  "download_time": "2026-04-03T19:02:52.185351",
+  "package_url": "https://pypi.org/project/common-fractals/"
+}

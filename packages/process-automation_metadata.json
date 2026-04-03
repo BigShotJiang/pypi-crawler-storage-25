@@ -1,0 +1,11 @@
+{
+  "name": "process-automation",
+  "version": "1.2.0",
+  "summary": "Automate SAP data extraction (GUI and RFC), SharePoint upload, and Excel macro execution",
+  "author": "Mircea Sava Ioan",
+  "license": "Copyright (c) 2026 Mircea Sava Ioan. All rights reserved.\n        \n        This software is proprietary. No part of this software may be reproduced,\n        distributed, modified, or used in any form without prior written permission\n        from the copyright holder.\n        \n        For licensing inquiries, contact the copyright holder.\n        ",
+  "home_page": null,
+  "download_filename": "process_automation-1.2.0.tar.gz",
+  "download_time": "2026-04-03T19:02:45.713134",
+  "package_url": "https://pypi.org/project/process-automation/"
+}

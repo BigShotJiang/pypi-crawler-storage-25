@@ -1,11 +1,11 @@
 {
   "name": "evalforge",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "summary": "Framework-agnostic LLM agent evaluation harness",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "evalforge-0.2.0-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-04-03T17:21:24.975021",
+  "download_filename": "evalforge-0.5.0-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-03T19:03:10.390918",
   "package_url": "https://pypi.org/project/evalforge/"
 }

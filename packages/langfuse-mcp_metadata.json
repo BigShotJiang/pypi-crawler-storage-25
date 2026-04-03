@@ -1,0 +1,11 @@
+{
+  "name": "langfuse-mcp",
+  "version": "0.6.5",
+  "summary": "Langfuse MCP server for accessing and analyzing telemetry data via natural language",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langfuse_mcp-0.6.5.tar.gz",
+  "download_time": "2026-04-03T19:03:03.943574",
+  "package_url": "https://pypi.org/project/langfuse-mcp/"
+}

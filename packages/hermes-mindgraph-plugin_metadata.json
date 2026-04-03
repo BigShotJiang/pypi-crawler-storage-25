@@ -1,11 +1,11 @@
 {
   "name": "hermes-mindgraph-plugin",
-  "version": "0.4.1",
+  "version": "0.5.1",
   "summary": "MindGraph semantic graph memory plugin for Hermes Agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hermes_mindgraph_plugin-0.4.1.tar.gz",
-  "download_time": "2026-04-03T04:40:42.372805",
+  "download_filename": "hermes_mindgraph_plugin-0.5.1.tar.gz",
+  "download_time": "2026-04-03T19:02:56.104933",
   "package_url": "https://pypi.org/project/hermes-mindgraph-plugin/"
 }
