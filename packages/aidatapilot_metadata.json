@@ -1,11 +1,11 @@
 {
   "name": "aidatapilot",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Lightweight Intelligent Data Automation Engine — plug-and-play pipelines for everyone.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aidatapilot-0.2.1.tar.gz",
-  "download_time": "2026-04-03T11:13:18.976919",
+  "download_filename": "aidatapilot-0.2.3.tar.gz",
+  "download_time": "2026-04-03T11:55:42.497940",
   "package_url": "https://pypi.org/project/aidatapilot/"
 }

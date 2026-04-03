@@ -1,0 +1,11 @@
+{
+  "name": "conf-spl2-converter",
+  "version": "0.8.0",
+  "summary": "A CLI tool for converting Splunk .conf configurations to SPL2",
+  "author": null,
+  "license": "Splunk Proprietary",
+  "home_page": null,
+  "download_filename": "conf_spl2_converter-0.8.0.tar.gz",
+  "download_time": "2026-04-03T11:55:39.851173",
+  "package_url": "https://pypi.org/project/conf-spl2-converter/"
+}

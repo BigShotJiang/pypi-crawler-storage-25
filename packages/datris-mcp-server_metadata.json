@@ -1,11 +1,11 @@
 {
   "name": "datris-mcp-server",
-  "version": "1.4.4",
-  "summary": "MCP server for the Datris AI Agent-Native Data Platform",
+  "version": "1.5.1",
+  "summary": "MCP server for AI-driven data pipeline operations — ingest, validate, transform, analyze, and query data. 32 tools covering ETL, AI data quality, vector search, PostgreSQL, MongoDB, Kafka, S3/MinIO, HashiCorp Vault, Qdrant, Weaviate, Milvus, Chroma, pgvector.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "datris_mcp_server-1.4.4.tar.gz",
-  "download_time": "2026-03-30T16:42:37.697144",
+  "download_filename": "datris_mcp_server-1.5.1.tar.gz",
+  "download_time": "2026-04-03T11:55:38.283029",
   "package_url": "https://pypi.org/project/datris-mcp-server/"
 }

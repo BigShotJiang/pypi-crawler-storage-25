@@ -1,11 +1,11 @@
 {
   "name": "tlaplus-cli",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "summary": "TLA+ tools: download TLC, compile custom modules, run model checker",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tlaplus_cli-0.2.1.tar.gz",
-  "download_time": "2026-03-30T11:34:40.127458",
+  "download_filename": "tlaplus_cli-0.3.1.tar.gz",
+  "download_time": "2026-04-03T11:56:00.370072",
   "package_url": "https://pypi.org/project/tlaplus-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vibepaper",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Data-bound Markdown-to-Word builder for scientific papers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vibepaper-0.5.0.tar.gz",
-  "download_time": "2026-04-03T11:13:43.691245",
+  "download_filename": "vibepaper-0.6.0.tar.gz",
+  "download_time": "2026-04-03T11:55:40.370311",
   "package_url": "https://pypi.org/project/vibepaper/"
 }

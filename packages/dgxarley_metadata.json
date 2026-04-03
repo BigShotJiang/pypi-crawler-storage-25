@@ -1,11 +1,11 @@
 {
   "name": "dgxarley",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "summary": "Integration testing, streaming utilities, and repetition detection for distributed LLM inference on DGX Spark clusters",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dgxarley-0.0.11-py3-none-any.whl",
-  "download_time": "2026-04-02T12:00:38.443129",
+  "download_filename": "dgxarley-0.0.12-py3-none-any.whl",
+  "download_time": "2026-04-03T11:55:24.634861",
   "package_url": "https://pypi.org/project/dgxarley/"
 }

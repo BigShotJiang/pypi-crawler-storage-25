@@ -1,0 +1,11 @@
+{
+  "name": "tzdata",
+  "version": "2026.1",
+  "summary": "Provider of IANA time zone data",
+  "author": "Python Software Foundation",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/python/tzdata",
+  "download_filename": "tzdata-2026.1.tar.gz",
+  "download_time": "2026-04-03T11:55:54.104430",
+  "package_url": "https://pypi.org/project/tzdata/"
+}

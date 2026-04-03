@@ -1,0 +1,11 @@
+{
+  "name": "mets-to-edm",
+  "version": "0.2.3",
+  "summary": "Modular mapping of METS/MODS data to EDM (Europeana Data Model), providing comprehensive transformation of METS/MODS XML structures into Pydantic-based EDM classes and properties.",
+  "author": "Kulturpool",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mets_to_edm-0.2.3.tar.gz",
+  "download_time": "2026-04-03T11:55:48.253150",
+  "package_url": "https://pypi.org/project/mets-to-edm/"
+}
