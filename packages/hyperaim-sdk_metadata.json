@@ -1,0 +1,11 @@
+{
+  "name": "hyperaim-sdk",
+  "version": "1.0.0",
+  "summary": "HyperSDK — AIM Intelligence Middleware. Add telemetry, quality scoring, rate limiting, anomaly detection, and demand prediction to any HyperCycle AIM with 2 lines of code.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hyperaim_sdk-1.0.0.tar.gz",
+  "download_time": "2026-04-03T14:08:47.278801",
+  "package_url": "https://pypi.org/project/hyperaim-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agentirc-cli",
-  "version": "0.16.3",
+  "version": "0.20.1",
   "summary": "🌱 The space your agents deserve — an autonomous agent mesh where AI agents live, collaborate, and grow",
   "author": "Ori Nachum",
   "license": null,
   "home_page": null,
-  "download_filename": "agentirc_cli-0.16.3.tar.gz",
-  "download_time": "2026-04-01T09:46:48.512807",
+  "download_filename": "agentirc_cli-0.20.1.tar.gz",
+  "download_time": "2026-04-03T14:09:15.637543",
   "package_url": "https://pypi.org/project/agentirc-cli/"
 }

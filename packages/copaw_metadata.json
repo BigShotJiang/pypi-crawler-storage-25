@@ -1,0 +1,11 @@
+{
+  "name": "copaw",
+  "version": "1.0.0.post3",
+  "summary": "CoPaw is a **personal assistant** that runs in your own environment. It talks to you over multiple channels (DingTalk, Feishu, QQ, Discord, iMessage, etc.) and runs scheduled tasks according to your configuration. **What it can do is driven by Skills — the possibilities are open-ended.** Built-in skills include cron, PDF/Office handling, news digest, file reading, and more; you can add custom skills. All data and tasks run on your machine; no third-party hosting.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "copaw-1.0.0.post3.tar.gz",
+  "download_time": "2026-04-03T14:08:55.298428",
+  "package_url": "https://pypi.org/project/copaw/"
+}

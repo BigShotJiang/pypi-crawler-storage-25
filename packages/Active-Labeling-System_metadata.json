@@ -1,0 +1,11 @@
+{
+  "name": "Active-Labeling-System",
+  "version": "0.1.0",
+  "summary": "Active Labeling System (ALS) with a PyQt6 GUI and active-learning workflow.",
+  "author": "sairam-s0",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "active_labeling_system-0.1.0.tar.gz",
+  "download_time": "2026-04-03T14:09:24.518297",
+  "package_url": "https://pypi.org/project/Active-Labeling-System/"
+}

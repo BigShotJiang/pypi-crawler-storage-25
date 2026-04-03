@@ -1,0 +1,11 @@
+{
+  "name": "sarray",
+  "version": "0.3.1",
+  "summary": "Meta scheduler merging Slurm Arrays",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sarray-0.3.1.tar.gz",
+  "download_time": "2026-04-03T14:09:09.411965",
+  "package_url": "https://pypi.org/project/sarray/"
+}

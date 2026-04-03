@@ -1,0 +1,11 @@
+{
+  "name": "crate-docs-theme",
+  "version": "0.50.3",
+  "summary": "CrateDB Documentation Theme",
+  "author": "Crate.IO GmbH",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/crate/crate-docs-theme",
+  "download_filename": "crate_docs_theme-0.50.3.tar.gz",
+  "download_time": "2026-04-03T14:09:12.910434",
+  "package_url": "https://pypi.org/project/crate-docs-theme/"
+}

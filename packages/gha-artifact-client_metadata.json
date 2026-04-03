@@ -1,0 +1,11 @@
+{
+  "name": "gha-artifact-client",
+  "version": "0.1.0",
+  "summary": "GitHub Actions Artifact Client for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gha_artifact_client-0.1.0.tar.gz",
+  "download_time": "2026-04-03T14:09:31.498747",
+  "package_url": "https://pypi.org/project/gha-artifact-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fastafood",
+  "version": "0.1.0",
+  "summary": "A Python package to cook DNA variants (SNPs, deletions, duplications)",
+  "author": "Luc Thomès",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastafood-0.1.0.tar.gz",
+  "download_time": "2026-04-03T14:09:16.723227",
+  "package_url": "https://pypi.org/project/fastafood/"
+}

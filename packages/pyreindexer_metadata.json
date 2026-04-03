@@ -1,0 +1,11 @@
+{
+  "name": "pyreindexer",
+  "version": "0.5.120100",
+  "summary": "A connector that allows to interact with Reindexer. Reindexer static library or reindexer-dev package must be installed",
+  "author": "Igor Tulmentyev",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/Restream/reindexer",
+  "download_filename": "pyreindexer-0.5.120100.tar.gz",
+  "download_time": "2026-04-03T14:09:35.263559",
+  "package_url": "https://pypi.org/project/pyreindexer/"
+}
