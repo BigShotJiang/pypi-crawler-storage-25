@@ -1,0 +1,11 @@
+{
+  "name": "llm-arbiter",
+  "version": "0.1.1",
+  "summary": "A/B testing for LLMs. Statistical proof, not vibes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_arbiter-0.1.1.tar.gz",
+  "download_time": "2026-04-03T15:56:29.666829",
+  "package_url": "https://pypi.org/project/llm-arbiter/"
+}

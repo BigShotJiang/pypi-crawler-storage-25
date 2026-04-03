@@ -1,0 +1,11 @@
+{
+  "name": "imio.omnia.tinymce",
+  "version": "1.0a3",
+  "summary": "TinyMCE plugin integrating iMio's Omnia AI API for Plone",
+  "author": "Antoine Duchêne",
+  "license": "GPL version 2",
+  "home_page": "https://gitlab.imio.be/imio/imio.omnia.tinymce",
+  "download_filename": "imio_omnia_tinymce-1.0a3.tar.gz",
+  "download_time": "2026-04-03T15:56:18.099519",
+  "package_url": "https://pypi.org/project/imio.omnia.tinymce/"
+}

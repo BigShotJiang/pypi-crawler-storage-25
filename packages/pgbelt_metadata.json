@@ -1,11 +1,11 @@
 {
   "name": "pgbelt",
-  "version": "0.18.0",
+  "version": "0.18.1",
   "summary": "A CLI tool used to manage Postgres data migrations from beginning to end, for a single database or a fleet, leveraging pglogical replication.",
   "author": "Varjitt Jeeva",
   "license": null,
   "home_page": null,
-  "download_filename": "pgbelt-0.18.0.tar.gz",
-  "download_time": "2026-04-03T15:03:53.440652",
+  "download_filename": "pgbelt-0.18.1.tar.gz",
+  "download_time": "2026-04-03T15:56:52.832585",
   "package_url": "https://pypi.org/project/pgbelt/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "agentveil",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "Python SDK for Agent Veil Protocol — reputation and identity for AI agents",
   "author": "Agent Veil Protocol",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentveil-0.3.5.tar.gz",
-  "download_time": "2026-04-02T19:38:57.495178",
+  "download_filename": "agentveil-0.3.6.tar.gz",
+  "download_time": "2026-04-03T15:56:41.213322",
   "package_url": "https://pypi.org/project/agentveil/"
 }

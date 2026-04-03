@@ -1,0 +1,11 @@
+{
+  "name": "latticepts",
+  "version": "0.0.1",
+  "summary": "A software package for enumerating lattice points in convex polyhedra",
+  "author": "Nate MacFadden for the Liam McAllister Group",
+  "license": null,
+  "home_page": null,
+  "download_filename": "latticepts-0.0.1.tar.gz",
+  "download_time": "2026-04-03T15:56:20.280336",
+  "package_url": "https://pypi.org/project/latticepts/"
+}

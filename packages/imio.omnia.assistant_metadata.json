@@ -1,0 +1,11 @@
+{
+  "name": "imio.omnia.assistant",
+  "version": "1.0a4",
+  "summary": "AI chat assistant widget integrating iMio's Omnia API for Plone",
+  "author": "Antoine Duchêne",
+  "license": "GPL version 2",
+  "home_page": "https://gitlab.imio.be/imio/imio.omnia.assistant",
+  "download_filename": "imio_omnia_assistant-1.0a4.tar.gz",
+  "download_time": "2026-04-03T15:56:16.530227",
+  "package_url": "https://pypi.org/project/imio.omnia.assistant/"
+}

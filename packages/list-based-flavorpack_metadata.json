@@ -1,0 +1,11 @@
+{
+  "name": "list-based-flavorpack",
+  "version": "4.0.3",
+  "summary": "Generic List-Based Flavorpack Plugin for SerialBox",
+  "author": "SerialLab Corp",
+  "license": "GPLv3",
+  "home_page": "https://gitlab.com/serial-lab/list_based_flavorpack",
+  "download_filename": "list_based_flavorpack-4.0.3.tar.gz",
+  "download_time": "2026-04-03T15:56:36.499530",
+  "package_url": "https://pypi.org/project/list-based-flavorpack/"
+}

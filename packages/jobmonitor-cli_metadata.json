@@ -1,11 +1,11 @@
 {
   "name": "jobmonitor-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Monitor any command with periodic Slack, Discord, or email notifications",
   "author": "Raimon Padros",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jobmonitor_cli-0.1.1.tar.gz",
-  "download_time": "2026-04-02T21:03:57.021360",
+  "download_filename": "jobmonitor_cli-0.1.2.tar.gz",
+  "download_time": "2026-04-03T15:56:17.048653",
   "package_url": "https://pypi.org/project/jobmonitor-cli/"
 }

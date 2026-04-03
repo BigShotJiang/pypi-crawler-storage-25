@@ -1,11 +1,11 @@
 {
   "name": "memio",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "summary": "Unified memory gateway for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "memio-0.2.1.tar.gz",
-  "download_time": "2026-03-30T21:10:38.115251",
+  "download_filename": "memio-0.3.1.tar.gz",
+  "download_time": "2026-04-03T15:56:33.368352",
   "package_url": "https://pypi.org/project/memio/"
 }
