@@ -1,0 +1,11 @@
+{
+  "name": "gitdirector",
+  "version": "1.1.2",
+  "summary": "A terminal based control plane for developers working across multiple repositories. Launch multiple AI coding agents, multiple tmux sessions and track changes across all your repos in one place.",
+  "author": "Anito Anto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitdirector-1.1.2.tar.gz",
+  "download_time": "2026-04-03T22:37:57.592001",
+  "package_url": "https://pypi.org/project/gitdirector/"
+}

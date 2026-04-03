@@ -1,11 +1,11 @@
 {
   "name": "awp-agents",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "summary": "Agent Workflow Protocol — an open standard for orchestrating multi-agent AI workflows with YAML definitions, DAG execution, and recursive delegation loops (A0-A4 autonomy)",
   "author": "Silvio Jurk, AWP Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "awp_agents-1.0.19.tar.gz",
-  "download_time": "2026-04-03T20:37:40.489548",
+  "download_filename": "awp_agents-1.0.20.tar.gz",
+  "download_time": "2026-04-03T22:38:04.295433",
   "package_url": "https://pypi.org/project/awp-agents/"
 }

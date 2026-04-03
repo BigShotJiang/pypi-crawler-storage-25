@@ -1,11 +1,11 @@
 {
   "name": "django-couchbase-orm",
-  "version": "0.5.0",
-  "summary": "Django-style ORM for Couchbase — define models, run queries, and manage documents using familiar Django patterns.",
+  "version": "1.0.0",
+  "summary": "Couchbase database backend for Django. Drop-in replacement for SQL databases with full ORM support, plus a standalone Document API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_couchbase_orm-0.5.0.tar.gz",
-  "download_time": "2026-04-02T05:20:57.401025",
+  "download_filename": "django_couchbase_orm-1.0.0.tar.gz",
+  "download_time": "2026-04-03T22:37:43.655414",
   "package_url": "https://pypi.org/project/django-couchbase-orm/"
 }

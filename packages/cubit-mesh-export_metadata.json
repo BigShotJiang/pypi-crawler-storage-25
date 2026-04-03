@@ -1,0 +1,11 @@
+{
+  "name": "cubit-mesh-export",
+  "version": "0.1.0",
+  "summary": "High-order curved mesh export from Coreform Cubit to NGSolve/Netgen",
+  "author": "Kengo Sugahara",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cubit_mesh_export-0.1.0.tar.gz",
+  "download_time": "2026-04-03T22:37:30.434838",
+  "package_url": "https://pypi.org/project/cubit-mesh-export/"
+}

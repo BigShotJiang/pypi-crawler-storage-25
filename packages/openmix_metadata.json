@@ -1,11 +1,11 @@
 {
   "name": "openmix",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Open-source framework for computational mixture and formulation science",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openmix-0.3.1.tar.gz",
-  "download_time": "2026-04-02T23:51:21.324402",
+  "download_filename": "openmix-0.3.2.tar.gz",
+  "download_time": "2026-04-03T22:37:32.667055",
   "package_url": "https://pypi.org/project/openmix/"
 }

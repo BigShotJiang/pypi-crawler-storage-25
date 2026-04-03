@@ -1,0 +1,11 @@
+{
+  "name": "bioscons",
+  "version": "1.2.0",
+  "summary": "Extends the scons build tool for reproducible research in bioinformatics.",
+  "author": "Noah Hoffman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bioscons-1.2.0.tar.gz",
+  "download_time": "2026-04-03T22:37:34.786920",
+  "package_url": "https://pypi.org/project/bioscons/"
+}

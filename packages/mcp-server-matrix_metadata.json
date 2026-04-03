@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-matrix",
+  "version": "0.2.0",
+  "summary": "MCP server for Matrix — interact with Matrix homeservers via Model Context Protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_matrix-0.2.0.tar.gz",
+  "download_time": "2026-04-03T22:37:44.168398",
+  "package_url": "https://pypi.org/project/mcp-server-matrix/"
+}

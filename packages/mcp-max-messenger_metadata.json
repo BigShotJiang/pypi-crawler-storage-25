@@ -1,0 +1,11 @@
+{
+  "name": "mcp-max-messenger",
+  "version": "0.2.0",
+  "summary": "MCP server for Max messenger (formerly VK Teams) — send/read messages, manage chats via Model Context Protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_max_messenger-0.2.0.tar.gz",
+  "download_time": "2026-04-03T22:37:43.141708",
+  "package_url": "https://pypi.org/project/mcp-max-messenger/"
+}
