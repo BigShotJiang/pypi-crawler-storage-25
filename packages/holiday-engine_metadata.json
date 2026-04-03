@@ -1,0 +1,11 @@
+{
+  "name": "holiday-engine",
+  "version": "1.2.0",
+  "summary": "Determine if a date is a US holiday — banking, market, or custom calendars via TOML",
+  "author": "FireByDragon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "holiday_engine-1.2.0.tar.gz",
+  "download_time": "2026-04-03T19:55:09.495077",
+  "package_url": "https://pypi.org/project/holiday-engine/"
+}

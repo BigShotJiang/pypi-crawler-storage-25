@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-settings-aws",
+  "version": "0.1.2",
+  "summary": "Settings management using AWS Secrets Manager and Pydantic",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_settings_aws-0.1.2.tar.gz",
+  "download_time": "2026-04-03T19:55:15.268789",
+  "package_url": "https://pypi.org/project/pydantic-settings-aws/"
+}

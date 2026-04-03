@@ -1,0 +1,11 @@
+{
+  "name": "tag-sync",
+  "version": "0.1.0",
+  "summary": "A CLI tool for syncing git tags with project versions",
+  "author": "Tucker Beck",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tag_sync-0.1.0.tar.gz",
+  "download_time": "2026-04-03T19:55:05.828892",
+  "package_url": "https://pypi.org/project/tag-sync/"
+}

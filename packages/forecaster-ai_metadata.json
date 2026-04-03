@@ -1,11 +1,11 @@
 {
   "name": "forecaster-ai",
-  "version": "0.2.0",
-  "summary": "Enterprise-grade time series forecasting package with ARIMA, Prophet, and LSTM models",
+  "version": "0.5.0",
+  "summary": "Complete time series forecasting solution: Standard, Intermittent & New Product forecasting with evaluation framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "forecaster_ai-0.2.0.tar.gz",
-  "download_time": "2026-04-03T13:03:31.744939",
+  "download_filename": "forecaster_ai-0.5.0.tar.gz",
+  "download_time": "2026-04-03T19:55:08.976659",
   "package_url": "https://pypi.org/project/forecaster-ai/"
 }

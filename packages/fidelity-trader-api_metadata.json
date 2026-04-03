@@ -1,0 +1,11 @@
+{
+  "name": "fidelity-trader-api",
+  "version": "0.2.1",
+  "summary": "Unofficial Python SDK for Fidelity Trader+ API — Your Fidelity account, your API.",
+  "author": "brownjosiah",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fidelity_trader_api-0.2.1.tar.gz",
+  "download_time": "2026-04-03T19:55:12.627597",
+  "package_url": "https://pypi.org/project/fidelity-trader-api/"
+}

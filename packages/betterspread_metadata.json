@@ -1,0 +1,11 @@
+{
+  "name": "betterspread",
+  "version": "1.0.6",
+  "summary": "An async wrapper around gspread with cell and row level functionalities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "betterspread-1.0.6.tar.gz",
+  "download_time": "2026-04-03T19:54:59.988529",
+  "package_url": "https://pypi.org/project/betterspread/"
+}

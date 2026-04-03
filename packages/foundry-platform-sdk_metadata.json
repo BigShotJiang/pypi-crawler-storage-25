@@ -1,0 +1,11 @@
+{
+  "name": "foundry-platform-sdk",
+  "version": "1.79.0",
+  "summary": "The official Python library for the Foundry API",
+  "author": "Palantir Technologies, Inc.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "foundry_platform_sdk-1.79.0.tar.gz",
+  "download_time": "2026-04-03T19:54:44.184230",
+  "package_url": "https://pypi.org/project/foundry-platform-sdk/"
+}

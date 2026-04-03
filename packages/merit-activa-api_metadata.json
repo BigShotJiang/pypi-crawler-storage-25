@@ -1,0 +1,11 @@
+{
+  "name": "merit-activa-api",
+  "version": "2.0.0",
+  "summary": "Python client library for Merit Aktiva / 360 Księgowość API — automated invoicing, customers, payments, departments, and 60+ endpoints",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "merit_activa_api-2.0.0.tar.gz",
+  "download_time": "2026-04-03T19:54:56.824388",
+  "package_url": "https://pypi.org/project/merit-activa-api/"
+}

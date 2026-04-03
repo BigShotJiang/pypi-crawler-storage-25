@@ -1,11 +1,11 @@
 {
   "name": "pyrosql",
-  "version": "0.2.0",
+  "version": "1.1.0",
   "summary": "PyroSQL Python driver — pure-Python ctypes binding to libpyrosql_ffi_pwire",
   "author": null,
   "license": "BSL-1.1",
   "home_page": null,
-  "download_filename": "pyrosql-0.2.0-py3-none-any.whl",
-  "download_time": "2026-03-28T20:29:28.613827",
+  "download_filename": "pyrosql-1.1.0-py3-none-any.whl",
+  "download_time": "2026-04-03T19:55:18.924473",
   "package_url": "https://pypi.org/project/pyrosql/"
 }
