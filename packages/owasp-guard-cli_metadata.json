@@ -1,0 +1,11 @@
+{
+  "name": "owasp-guard-cli",
+  "version": "0.2.2",
+  "summary": "OWASP Guard CLI: secure code inspector",
+  "author": "Jean Claude Geagea",
+  "license": null,
+  "home_page": null,
+  "download_filename": "owasp_guard_cli-0.2.2.tar.gz",
+  "download_time": "2026-04-03T23:07:54.030552",
+  "package_url": "https://pypi.org/project/owasp-guard-cli/"
+}

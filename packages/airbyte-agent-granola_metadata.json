@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-agent-granola",
+  "version": "0.1.23",
+  "summary": "Airbyte Granola Connector for AI platforms",
+  "author": null,
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "airbyte_agent_granola-0.1.23.tar.gz",
+  "download_time": "2026-04-03T23:07:37.104063",
+  "package_url": "https://pypi.org/project/airbyte-agent-granola/"
+}

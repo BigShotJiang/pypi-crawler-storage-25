@@ -1,0 +1,11 @@
+{
+  "name": "birdapi",
+  "version": "0.0.1",
+  "summary": "CLI and library for X/Twitter GraphQL API (cookie auth, no API key required)",
+  "author": "dvermaas",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "birdapi-0.0.1.tar.gz",
+  "download_time": "2026-04-03T23:08:07.648812",
+  "package_url": "https://pypi.org/project/birdapi/"
+}

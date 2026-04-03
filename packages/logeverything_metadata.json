@@ -1,0 +1,11 @@
+{
+  "name": "logeverything",
+  "version": "0.1.3",
+  "summary": "A comprehensive logging library for Python applications with minimal code changes",
+  "author": "Muhammad Ramish Siddiqui",
+  "license": "MIT",
+  "home_page": "https://github.com/RamishSiddiqui/logeverything",
+  "download_filename": "logeverything-0.1.3.tar.gz",
+  "download_time": "2026-04-03T23:08:16.547417",
+  "package_url": "https://pypi.org/project/logeverything/"
+}

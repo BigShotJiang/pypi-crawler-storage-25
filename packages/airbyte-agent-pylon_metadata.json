@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-agent-pylon",
+  "version": "0.1.24",
+  "summary": "Airbyte Pylon Connector for AI platforms",
+  "author": null,
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "airbyte_agent_pylon-0.1.24.tar.gz",
+  "download_time": "2026-04-03T23:07:36.556803",
+  "package_url": "https://pypi.org/project/airbyte-agent-pylon/"
+}

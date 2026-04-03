@@ -1,0 +1,11 @@
+{
+  "name": "pluck-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for Pluck — query your knowledge graph from Claude Desktop, Cursor, and other MCP clients",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pluck_mcp-0.1.1.tar.gz",
+  "download_time": "2026-04-03T23:07:32.098276",
+  "package_url": "https://pypi.org/project/pluck-mcp/"
+}
