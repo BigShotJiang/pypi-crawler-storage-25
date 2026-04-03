@@ -1,11 +1,11 @@
 {
   "name": "llmkit-sdk",
-  "version": "0.1.5",
+  "version": "0.1.9",
   "summary": "AI API gateway SDK with cost tracking, budget enforcement, and multi-provider routing for LLM applications",
   "author": "f3d1",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llmkit_sdk-0.1.5.tar.gz",
-  "download_time": "2026-03-28T20:59:07.847828",
+  "download_filename": "llmkit_sdk-0.1.9.tar.gz",
+  "download_time": "2026-04-03T20:37:06.123886",
   "package_url": "https://pypi.org/project/llmkit-sdk/"
 }

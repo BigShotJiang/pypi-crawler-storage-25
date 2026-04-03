@@ -1,0 +1,11 @@
+{
+  "name": "miao-io",
+  "version": "0.1.3",
+  "summary": "Scalable PyTorch data loaders for OME-NGFF zarr datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "miao_io-0.1.3.tar.gz",
+  "download_time": "2026-04-03T20:37:16.838386",
+  "package_url": "https://pypi.org/project/miao-io/"
+}

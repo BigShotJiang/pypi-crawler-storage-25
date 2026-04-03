@@ -1,0 +1,11 @@
+{
+  "name": "cvat-manifest-builder",
+  "version": "0.0.265",
+  "summary": "Builds a CVAT manifest file from a directory of images.",
+  "author": "Michael Mohamed",
+  "license": "MIT",
+  "home_page": "https://github.com/fsai-dev/fsai-cli-tools",
+  "download_filename": "cvat_manifest_builder-0.0.265.tar.gz",
+  "download_time": "2026-04-03T20:37:45.032138",
+  "package_url": "https://pypi.org/project/cvat-manifest-builder/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "forecaster-ai",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "Complete time series forecasting solution: Standard, Intermittent & New Product forecasting with evaluation framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "forecaster_ai-0.5.0.tar.gz",
-  "download_time": "2026-04-03T19:55:08.976659",
+  "download_filename": "forecaster_ai-0.5.2.tar.gz",
+  "download_time": "2026-04-03T20:37:10.434836",
   "package_url": "https://pypi.org/project/forecaster-ai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "connector-sdk-types",
-  "version": "0.46.0",
+  "version": "0.47.0",
   "summary": "Generated types for the Lumos Connector SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "connector_sdk_types-0.46.0.tar.gz",
-  "download_time": "2026-04-01T21:04:12.917818",
+  "download_filename": "connector_sdk_types-0.47.0.tar.gz",
+  "download_time": "2026-04-03T20:37:13.615623",
   "package_url": "https://pypi.org/project/connector-sdk-types/"
 }

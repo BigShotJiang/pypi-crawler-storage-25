@@ -1,11 +1,11 @@
 {
   "name": "alterks",
-  "version": "0.1.21",
+  "version": "0.2.2",
   "summary": "ALTER KILL SWITCH — Python package scanner, monitor, and supply chain attack mitigation tool.",
   "author": "Ts Dr Wan Saifudin",
   "license": null,
   "home_page": null,
-  "download_filename": "alterks-0.1.21.tar.gz",
-  "download_time": "2026-03-30T19:42:31.766248",
+  "download_filename": "alterks-0.2.2.tar.gz",
+  "download_time": "2026-04-03T20:36:54.758911",
   "package_url": "https://pypi.org/project/alterks/"
 }
