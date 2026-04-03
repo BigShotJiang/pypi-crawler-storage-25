@@ -1,0 +1,11 @@
+{
+  "name": "fluentpyside",
+  "version": "0.1.1",
+  "summary": "Fluent WinUI3 QML style helper for PySide6 (copies assets from local PySide6 install)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fluentpyside-0.1.1-py3-none-any.whl",
+  "download_time": "2026-04-03T11:12:59.378574",
+  "package_url": "https://pypi.org/project/fluentpyside/"
+}

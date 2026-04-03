@@ -1,11 +1,11 @@
 {
   "name": "neural-memory",
-  "version": "4.26.0",
-  "summary": "Reflex-based memory system for AI agents - retrieval through activation, not search",
+  "version": "4.28.0",
+  "summary": "Persistent memory for AI agents — 55 MCP tools, spreading activation recall, neuroscience-inspired consolidation. Works with Claude, GPT, Gemini.",
   "author": "NeuralMemory Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "neural_memory-4.26.0.tar.gz",
-  "download_time": "2026-04-02T05:21:31.802219",
+  "download_filename": "neural_memory-4.28.0.tar.gz",
+  "download_time": "2026-04-03T11:13:24.215317",
   "package_url": "https://pypi.org/project/neural-memory/"
 }

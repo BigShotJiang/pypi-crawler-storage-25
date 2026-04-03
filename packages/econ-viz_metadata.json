@@ -1,11 +1,11 @@
 {
   "name": "econ-viz",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "summary": "A Python toolkit for producing publication-quality microeconomics diagrams.",
   "author": "Anthony Sung",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "econ_viz-1.3.1.tar.gz",
-  "download_time": "2026-04-03T10:29:20.538162",
+  "download_filename": "econ_viz-1.3.2.tar.gz",
+  "download_time": "2026-04-03T11:13:26.775658",
   "package_url": "https://pypi.org/project/econ-viz/"
 }

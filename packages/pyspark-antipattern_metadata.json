@@ -1,11 +1,11 @@
 {
   "name": "pyspark-antipattern",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "PySpark antipattern linter for CI/CD pipelines",
   "author": null,
   "license": "MIT",
   "home_page": "https://skanderboudawara.github.io/pyspark-antipattern/",
-  "download_filename": "pyspark_antipattern-0.2.3-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2026-04-02T17:36:40.431049",
+  "download_filename": "pyspark_antipattern-0.3.0-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-03T11:13:02.470146",
   "package_url": "https://pypi.org/project/pyspark-antipattern/"
 }

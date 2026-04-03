@@ -1,11 +1,11 @@
 {
   "name": "PyFT8",
-  "version": "2.7.6",
+  "version": "2.9.0",
   "summary": "FT8 Decoding and Encoding in Python with test/loopback code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyft8-2.7.6.tar.gz",
-  "download_time": "2026-03-31T21:56:39.297821",
+  "download_filename": "pyft8-2.9.0.tar.gz",
+  "download_time": "2026-04-03T11:13:07.112491",
   "package_url": "https://pypi.org/project/PyFT8/"
 }

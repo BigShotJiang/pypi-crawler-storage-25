@@ -1,0 +1,11 @@
+{
+  "name": "gams-xml-catalog",
+  "version": "0.6.3",
+  "summary": "Python package providing schema files commonly needed in GAMS projects, along with utilities to interact with the catalog.",
+  "author": "Gunter Vasold",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gams_xml_catalog-0.6.3.tar.gz",
+  "download_time": "2026-04-03T11:13:23.693816",
+  "package_url": "https://pypi.org/project/gams-xml-catalog/"
+}

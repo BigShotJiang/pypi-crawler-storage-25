@@ -1,0 +1,11 @@
+{
+  "name": "mvt-parser",
+  "version": "0.1.1",
+  "summary": "Python library to parse IATA MVT flight movement messages",
+  "author": "Edgaras Norvaisa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mvt_parser-0.1.1.tar.gz",
+  "download_time": "2026-04-03T11:13:12.242843",
+  "package_url": "https://pypi.org/project/mvt-parser/"
+}

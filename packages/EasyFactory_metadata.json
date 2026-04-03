@@ -1,0 +1,11 @@
+{
+  "name": "EasyFactory",
+  "version": "1.5.0",
+  "summary": "EasyFactory is a wrapper above FactoryBoy to allow the generation of Factory class with mandatory parameter filed.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "easyfactory-1.5.0.tar.gz",
+  "download_time": "2026-04-03T11:13:01.945012",
+  "package_url": "https://pypi.org/project/EasyFactory/"
+}
