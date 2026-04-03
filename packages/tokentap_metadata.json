@@ -1,0 +1,11 @@
+{
+  "name": "tokentap",
+  "version": "0.1.1",
+  "summary": "Token tracker for LLM CLI tools with live terminal dashboard",
+  "author": "Juan Munoz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tokentap-0.1.1.tar.gz",
+  "download_time": "2026-04-03T02:12:47.743202",
+  "package_url": "https://pypi.org/project/tokentap/"
+}

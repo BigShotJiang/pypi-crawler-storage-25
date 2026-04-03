@@ -1,0 +1,11 @@
+{
+  "name": "toy-gpt-train-100-unigram",
+  "version": "0.9.7",
+  "summary": "Toy GPT next-token prediction using a unigram model.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toy_gpt_train_100_unigram-0.9.7.tar.gz",
+  "download_time": "2026-04-03T02:12:13.864822",
+  "package_url": "https://pypi.org/project/toy-gpt-train-100-unigram/"
+}

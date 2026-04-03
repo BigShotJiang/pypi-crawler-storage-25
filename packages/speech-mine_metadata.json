@@ -1,0 +1,11 @@
+{
+  "name": "speech-mine",
+  "version": "1.1.0",
+  "summary": "A powerful tool for extracting and analyzing speech data from audio files with known speaker counts and contents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "speech_mine-1.1.0.tar.gz",
+  "download_time": "2026-04-03T02:12:19.133823",
+  "package_url": "https://pypi.org/project/speech-mine/"
+}

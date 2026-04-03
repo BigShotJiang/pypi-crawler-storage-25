@@ -1,0 +1,11 @@
+{
+  "name": "cli-galaxy",
+  "version": "1.0.0",
+  "summary": "CLI harness for the Galaxy bioinformatics platform",
+  "author": "cli-anything",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cli_galaxy-1.0.0.tar.gz",
+  "download_time": "2026-04-03T02:12:20.187735",
+  "package_url": "https://pypi.org/project/cli-galaxy/"
+}

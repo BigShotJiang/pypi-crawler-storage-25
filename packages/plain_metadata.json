@@ -1,11 +1,11 @@
 {
   "name": "plain",
-  "version": "0.130.2",
+  "version": "0.131.1",
   "summary": "A web framework for building products with Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain-0.130.2.tar.gz",
-  "download_time": "2026-04-02T03:28:00.604180",
+  "download_filename": "plain-0.131.1.tar.gz",
+  "download_time": "2026-04-03T02:12:37.987737",
   "package_url": "https://pypi.org/project/plain/"
 }

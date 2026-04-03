@@ -1,11 +1,11 @@
 {
   "name": "onesite",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "A CLI tool to generate full-stack web projects from SQLModel",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "onesite-0.1.7-py3-none-any.whl",
-  "download_time": "2026-03-30T08:49:42.326518",
+  "download_filename": "onesite-0.1.9-py3-none-any.whl",
+  "download_time": "2026-04-03T02:12:30.846473",
   "package_url": "https://pypi.org/project/onesite/"
 }

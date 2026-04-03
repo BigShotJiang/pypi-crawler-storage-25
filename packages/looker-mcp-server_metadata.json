@@ -1,0 +1,11 @@
+{
+  "name": "looker-mcp-server",
+  "version": "0.4.0",
+  "summary": "A Model Context Protocol (MCP) server for the Looker API with full tool coverage, OAuth pass-through, and user impersonation support.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "looker_mcp_server-0.4.0.tar.gz",
+  "download_time": "2026-04-03T02:12:26.640926",
+  "package_url": "https://pypi.org/project/looker-mcp-server/"
+}

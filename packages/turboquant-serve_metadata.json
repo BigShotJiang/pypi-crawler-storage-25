@@ -1,0 +1,11 @@
+{
+  "name": "turboquant-serve",
+  "version": "0.1.2",
+  "summary": "TurboQuant KV-cache compression for any HuggingFace model",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "turboquant_serve-0.1.2.tar.gz",
+  "download_time": "2026-04-03T02:12:06.380762",
+  "package_url": "https://pypi.org/project/turboquant-serve/"
+}

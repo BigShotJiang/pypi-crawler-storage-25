@@ -1,0 +1,11 @@
+{
+  "name": "instructor",
+  "version": "1.15.1",
+  "summary": "structured outputs for llm",
+  "author": "Jason Liu, Ivan Leo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "instructor-1.15.1-py3-none-any.whl",
+  "download_time": "2026-04-03T02:12:31.368100",
+  "package_url": "https://pypi.org/project/instructor/"
+}

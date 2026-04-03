@@ -1,0 +1,11 @@
+{
+  "name": "smoothie-st",
+  "version": "1.0.2",
+  "summary": "A package for analyzing spatial transcriptomics data with Gaussian smoothing, spatial gene correlation network clustering, gene module visualization, and multi-sample integration.",
+  "author": "Chase Holdener",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smoothie_st-1.0.2.tar.gz",
+  "download_time": "2026-04-03T02:12:17.003778",
+  "package_url": "https://pypi.org/project/smoothie-st/"
+}
