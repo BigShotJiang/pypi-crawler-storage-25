@@ -1,11 +1,11 @@
 {
   "name": "better-websearch-cli",
-  "version": "0.2.9",
+  "version": "0.4.0",
   "summary": "CLI tool to fetch URLs and search the web",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "better_websearch_cli-0.2.9.tar.gz",
-  "download_time": "2026-04-03T11:55:21.850505",
+  "download_filename": "better_websearch_cli-0.4.0.tar.gz",
+  "download_time": "2026-04-03T13:03:39.829992",
   "package_url": "https://pypi.org/project/better-websearch-cli/"
 }

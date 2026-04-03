@@ -1,11 +1,11 @@
 {
   "name": "iris-vector-graph",
-  "version": "1.36.0",
+  "version": "1.43.0",
   "summary": "Transactional Graph + Vector retrieval system for InterSystems IRIS with hybrid search, openCypher, and GraphQL APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iris_vector_graph-1.36.0.tar.gz",
-  "download_time": "2026-03-31T21:05:15.927308",
+  "download_filename": "iris_vector_graph-1.43.0.tar.gz",
+  "download_time": "2026-04-03T13:03:07.253758",
   "package_url": "https://pypi.org/project/iris-vector-graph/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ollama-models",
+  "version": "0.1.0",
+  "summary": "Python client for the ollama-models API — search and list Ollama model weights",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ollama_models-0.1.0.tar.gz",
+  "download_time": "2026-04-03T13:03:23.789215",
+  "package_url": "https://pypi.org/project/ollama-models/"
+}

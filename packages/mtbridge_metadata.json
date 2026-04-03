@@ -1,11 +1,11 @@
 {
   "name": "mtbridge",
-  "version": "0.4.0",
+  "version": "0.7.0",
   "summary": "Telegram MTProto bridge for AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mtbridge-0.4.0-py3-none-any.whl",
-  "download_time": "2026-04-03T02:12:46.162347",
+  "download_filename": "mtbridge-0.7.0-py3-none-any.whl",
+  "download_time": "2026-04-03T13:03:37.544144",
   "package_url": "https://pypi.org/project/mtbridge/"
 }

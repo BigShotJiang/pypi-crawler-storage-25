@@ -1,0 +1,11 @@
+{
+  "name": "locationformatter",
+  "version": "0.1.3",
+  "summary": "A dual-head NER-based parser for location strings",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "locationformatter-0.1.3-py3-none-any.whl",
+  "download_time": "2026-04-03T13:03:51.946800",
+  "package_url": "https://pypi.org/project/locationformatter/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "surveyjs",
-  "version": "0.2.7",
-  "summary": "Python object API for SurveyJS Creator (form builder) and Form (response, submission) data.",
+  "version": "0.2.8",
+  "summary": "Python API for SurveyJS Creator (Form Builder) and Form (response, submission) JSON data.",
   "author": "Bob Leers",
   "license": "MIT",
   "home_page": "https://github.com/novacode-nl/python-surveyjs",
-  "download_filename": "surveyjs-0.2.7.tar.gz",
-  "download_time": "2026-04-01T08:16:51.088036",
+  "download_filename": "surveyjs-0.2.8.tar.gz",
+  "download_time": "2026-04-03T13:03:44.455722",
   "package_url": "https://pypi.org/project/surveyjs/"
 }

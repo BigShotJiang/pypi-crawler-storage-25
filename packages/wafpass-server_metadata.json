@@ -1,0 +1,11 @@
+{
+  "name": "wafpass-server",
+  "version": "0.3.4",
+  "summary": "WAF++ PASS – API server for persisting and querying scan results",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wafpass_server-0.3.4.tar.gz",
+  "download_time": "2026-04-03T13:03:23.256745",
+  "package_url": "https://pypi.org/project/wafpass-server/"
+}

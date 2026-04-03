@@ -1,0 +1,11 @@
+{
+  "name": "fints-rest-wrapper",
+  "version": "1.0.3",
+  "summary": "Small FastAPI wrapper around python-fints",
+  "author": "qhle",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fints_rest_wrapper-1.0.3.tar.gz",
+  "download_time": "2026-04-03T13:03:17.203439",
+  "package_url": "https://pypi.org/project/fints-rest-wrapper/"
+}

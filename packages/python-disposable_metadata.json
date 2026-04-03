@@ -1,0 +1,11 @@
+{
+  "name": "python-disposable",
+  "version": "0.0.12",
+  "summary": "Check if an email address or domain belongs to a disposable/temporary email service. Bundles 72k+ domains from disposable/disposable-email-domains.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_disposable-0.0.12.tar.gz",
+  "download_time": "2026-04-03T13:03:06.703223",
+  "package_url": "https://pypi.org/project/python-disposable/"
+}

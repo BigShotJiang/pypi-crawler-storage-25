@@ -1,0 +1,11 @@
+{
+  "name": "invoicingly",
+  "version": "1.0.0",
+  "summary": "This package can be used to convert Excel invoices to PDF invoices.",
+  "author": "Prachi Pujari",
+  "license": "MIT",
+  "home_page": "https://example.com",
+  "download_filename": "invoicingly-1.0.0.tar.gz",
+  "download_time": "2026-04-03T13:03:50.346164",
+  "package_url": "https://pypi.org/project/invoicingly/"
+}
