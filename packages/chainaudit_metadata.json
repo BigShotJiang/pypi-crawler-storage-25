@@ -1,11 +1,11 @@
 {
   "name": "chainaudit",
-  "version": "1.1.5",
+  "version": "1.2.1",
   "summary": "Smart contract security scanner for EVM and Solana",
-  "author": "Aditya Raina",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/aizen299/smart-contract-auditor",
-  "download_filename": "chainaudit-1.1.5.tar.gz",
-  "download_time": "2026-03-28T22:40:39.656629",
+  "home_page": null,
+  "download_filename": "chainaudit-1.2.1.tar.gz",
+  "download_time": "2026-04-03T15:03:47.620853",
   "package_url": "https://pypi.org/project/chainaudit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "python-camera-manager-directshow",
+  "version": "0.2.1",
+  "summary": "Python camera manager with DirectShow capability discovery and .NET bridge integration",
+  "author": "Lior Blokshtein",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_camera_manager_directshow-0.2.1.tar.gz",
+  "download_time": "2026-04-03T15:03:40.660951",
+  "package_url": "https://pypi.org/project/python-camera-manager-directshow/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "PyQt6-Qlementine",
-  "version": "1.4.3.0rc5",
+  "version": "1.4.3.0rc6",
   "summary": "Python bindings for Qlementine, a modern QStyle for desktop Qt6 applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyqt6_qlementine-1.4.3.0rc5-cp310-abi3-macosx_11_0_arm64.whl",
-  "download_time": "2026-03-28T20:29:36.375398",
+  "download_filename": "pyqt6_qlementine-1.4.3.0rc6-cp310-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-03T15:04:12.216630",
   "package_url": "https://pypi.org/project/PyQt6-Qlementine/"
 }

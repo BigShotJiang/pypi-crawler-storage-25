@@ -1,11 +1,11 @@
 {
   "name": "vexy-lines-py",
-  "version": "1.0.19",
+  "version": "1.0.28",
   "summary": "Pure-Python cross-platform parser for Vexy Lines .lines vector art files",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vexy_lines_py-1.0.19.tar.gz",
-  "download_time": "2026-04-02T16:41:02.761794",
+  "download_filename": "vexy_lines_py-1.0.28.tar.gz",
+  "download_time": "2026-04-03T15:03:29.711190",
   "package_url": "https://pypi.org/project/vexy-lines-py/"
 }

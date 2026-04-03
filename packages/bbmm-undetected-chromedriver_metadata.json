@@ -1,0 +1,11 @@
+{
+  "name": "bbmm-undetected-chromedriver",
+  "version": "3.6.4",
+  "summary": "Selenium Chrome replacement with anti-detection patches; this fork adds proxy support (local forwarder, proxy_server=).",
+  "author": "BBMM Software",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/BBMM-Software/undetected-chromedriver",
+  "download_filename": "bbmm_undetected_chromedriver-3.6.4.tar.gz",
+  "download_time": "2026-04-03T15:04:08.887433",
+  "package_url": "https://pypi.org/project/bbmm-undetected-chromedriver/"
+}
