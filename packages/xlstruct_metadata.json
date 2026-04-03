@@ -1,0 +1,11 @@
+{
+  "name": "xlstruct",
+  "version": "0.6.0",
+  "summary": "LLM-powered Excel parser — define a Pydantic schema, get structured data from any Excel file",
+  "author": "DanMeon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xlstruct-0.6.0.tar.gz",
+  "download_time": "2026-04-03T07:39:29.397812",
+  "package_url": "https://pypi.org/project/xlstruct/"
+}

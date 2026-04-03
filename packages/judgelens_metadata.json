@@ -1,0 +1,11 @@
+{
+  "name": "judgelens",
+  "version": "0.1.0",
+  "summary": "A model-agnostic framework for quantifying and correcting systematic biases in LLM-as-judge evaluation pipelines.",
+  "author": "suryanox",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "judgelens-0.1.0.tar.gz",
+  "download_time": "2026-04-03T07:39:25.279724",
+  "package_url": "https://pypi.org/project/judgelens/"
+}

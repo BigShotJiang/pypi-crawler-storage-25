@@ -1,0 +1,11 @@
+{
+  "name": "aws-cdk.aws-s3tables-alpha",
+  "version": "2.248.0a0",
+  "summary": "CDK Constructs for S3 Tables",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aws/aws-cdk",
+  "download_filename": "aws_cdk_aws_s3tables_alpha-2.248.0a0.tar.gz",
+  "download_time": "2026-04-03T07:39:35.361215",
+  "package_url": "https://pypi.org/project/aws-cdk.aws-s3tables-alpha/"
+}

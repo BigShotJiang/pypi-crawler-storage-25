@@ -1,0 +1,11 @@
+{
+  "name": "commandchat",
+  "version": "0.0.13",
+  "summary": "use command to chat with openai models",
+  "author": "xoto",
+  "license": "MIT",
+  "home_page": "https://github.com/",
+  "download_filename": "commandchat-0.0.13.tar.gz",
+  "download_time": "2026-04-03T07:39:57.592298",
+  "package_url": "https://pypi.org/project/commandchat/"
+}

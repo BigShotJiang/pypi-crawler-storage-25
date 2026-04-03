@@ -1,0 +1,11 @@
+{
+  "name": "aws-cdk.cx-api",
+  "version": "2.248.0",
+  "summary": "Cloud executable protocol",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aws/aws-cdk",
+  "download_filename": "aws_cdk_cx_api-2.248.0.tar.gz",
+  "download_time": "2026-04-03T07:39:32.543477",
+  "package_url": "https://pypi.org/project/aws-cdk.cx-api/"
+}

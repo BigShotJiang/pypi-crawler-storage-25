@@ -1,0 +1,11 @@
+{
+  "name": "ghostserver",
+  "version": "0.1.1",
+  "summary": "Self-hosted MCP server connecting AI tools to GitHub, Gmail, Google Calendar, Cloudflare, and AWS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghostserver-0.1.1.tar.gz",
+  "download_time": "2026-04-03T07:39:58.738090",
+  "package_url": "https://pypi.org/project/ghostserver/"
+}

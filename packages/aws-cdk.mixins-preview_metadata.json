@@ -1,0 +1,11 @@
+{
+  "name": "aws-cdk.mixins-preview",
+  "version": "2.248.0a0",
+  "summary": "Preview of CDK Mixins - composable, reusable abstractions that can be applied to any construct (L1, L2 or custom).",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aws/aws-cdk",
+  "download_filename": "aws_cdk_mixins_preview-2.248.0a0.tar.gz",
+  "download_time": "2026-04-03T07:39:30.726917",
+  "package_url": "https://pypi.org/project/aws-cdk.mixins-preview/"
+}

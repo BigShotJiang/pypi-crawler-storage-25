@@ -1,0 +1,11 @@
+{
+  "name": "aws-cdk.aws-iotevents-actions-alpha",
+  "version": "2.248.0a0",
+  "summary": "Receipt Detector Model actions for AWS IoT Events",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aws/aws-cdk",
+  "download_filename": "aws_cdk_aws_iotevents_actions_alpha-2.248.0a0.tar.gz",
+  "download_time": "2026-04-03T07:39:48.163376",
+  "package_url": "https://pypi.org/project/aws-cdk.aws-iotevents-actions-alpha/"
+}
