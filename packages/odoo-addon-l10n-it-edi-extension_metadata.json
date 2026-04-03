@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-l10n-it-edi-extension",
-  "version": "18.0.1.7.0",
+  "version": "18.0.1.8.0",
   "summary": "E-invoice base feature",
   "author": "Giuseppe Borruso, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/l10n-italy",
-  "download_filename": "odoo_addon_l10n_it_edi_extension-18.0.1.7.0-py3-none-any.whl",
-  "download_time": "2026-04-03T08:34:19.830423",
+  "download_filename": "odoo_addon_l10n_it_edi_extension-18.0.1.8.0-py3-none-any.whl",
+  "download_time": "2026-04-03T09:39:53.993535",
   "package_url": "https://pypi.org/project/odoo-addon-l10n-it-edi-extension/"
 }

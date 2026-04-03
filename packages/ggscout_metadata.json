@@ -1,0 +1,11 @@
+{
+  "name": "ggscout",
+  "version": "0.27.0",
+  "summary": "GitGuardian CLI tool that acts as an outpost to extract, hash, and transfer secrets metadata to GitGuardian Platform",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "ggscout-0.27.0-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-03T09:40:08.413535",
+  "package_url": "https://pypi.org/project/ggscout/"
+}

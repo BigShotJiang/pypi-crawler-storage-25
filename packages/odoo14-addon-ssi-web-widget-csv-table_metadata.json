@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-web-widget-csv-table",
+  "version": "14.0.1.0.1.dev1",
+  "summary": "Widget CSV Table",
+  "author": "PT. Simetri Sinergi Indonesia, OpenSynergy Indonesia",
+  "license": "LGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_web_widget_csv_table-14.0.1.0.1.dev1-py3-none-any.whl",
+  "download_time": "2026-04-03T09:39:30.252051",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-web-widget-csv-table/"
+}

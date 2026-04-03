@@ -1,0 +1,11 @@
+{
+  "name": "sqphi-trade-kit",
+  "version": "0.4.0",
+  "summary": "Shared utilities for crypto trading systems — DB connectors, notifications, secrets",
+  "author": "Sigma QuantiPhi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqphi_trade_kit-0.4.0.tar.gz",
+  "download_time": "2026-04-03T09:39:56.554254",
+  "package_url": "https://pypi.org/project/sqphi-trade-kit/"
+}

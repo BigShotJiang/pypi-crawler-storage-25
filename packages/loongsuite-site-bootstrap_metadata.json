@@ -1,0 +1,11 @@
+{
+  "name": "loongsuite-site-bootstrap",
+  "version": "0.4.0",
+  "summary": "LoongSuite .pth site bootstrap for OpenTelemetry auto-instrumentation (opt-in via env)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "loongsuite_site_bootstrap-0.4.0-py3-none-any.whl",
+  "download_time": "2026-04-03T09:39:59.146873",
+  "package_url": "https://pypi.org/project/loongsuite-site-bootstrap/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "linux-admin-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server for Linux system administration — manage services, processes, disk, network and logs via AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "linux_admin_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-04-03T09:39:32.853857",
+  "package_url": "https://pypi.org/project/linux-admin-mcp-server/"
+}
