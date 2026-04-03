@@ -1,0 +1,11 @@
+{
+  "name": "csvtojsonify",
+  "version": "2.0.0",
+  "summary": "Convert CSV text to JSON — library, CLI, and optional web UI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "csvtojsonify-2.0.0.tar.gz",
+  "download_time": "2026-04-03T21:19:18.802769",
+  "package_url": "https://pypi.org/project/csvtojsonify/"
+}

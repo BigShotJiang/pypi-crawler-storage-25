@@ -1,0 +1,11 @@
+{
+  "name": "fluxflow-training",
+  "version": "0.8.1",
+  "summary": "Training tools and scripts for FluxFlow text-to-image generation",
+  "author": "Daniele Camisani",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fluxflow_training-0.8.1.tar.gz",
+  "download_time": "2026-04-03T21:19:12.939883",
+  "package_url": "https://pypi.org/project/fluxflow-training/"
+}

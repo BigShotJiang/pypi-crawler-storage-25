@@ -1,0 +1,11 @@
+{
+  "name": "notify-utils",
+  "version": "0.4.20",
+  "summary": "Biblioteca Python para parsing de preços de scraping, cálculo de descontos e análise estatística de histórico de preços.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "notify_utils-0.4.20.tar.gz",
+  "download_time": "2026-04-03T21:19:04.219560",
+  "package_url": "https://pypi.org/project/notify-utils/"
+}

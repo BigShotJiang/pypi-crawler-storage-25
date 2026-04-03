@@ -1,11 +1,11 @@
 {
   "name": "plato-spw",
-  "version": "0.20.5",
+  "version": "0.21.1",
   "summary": "SpaceWire implementation for CGSE",
   "author": "IvS KU Leuven",
   "license": null,
   "home_page": null,
-  "download_filename": "plato_spw-0.20.5.tar.gz",
-  "download_time": "2026-04-01T14:22:01.474788",
+  "download_filename": "plato_spw-0.21.1.tar.gz",
+  "download_time": "2026-04-03T21:19:47.653820",
   "package_url": "https://pypi.org/project/plato-spw/"
 }

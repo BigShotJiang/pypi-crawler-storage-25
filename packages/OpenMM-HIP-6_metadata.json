@@ -1,0 +1,11 @@
+{
+  "name": "OpenMM-HIP-6",
+  "version": "8.5.0",
+  "summary": "HIP platform for OpenMM",
+  "author": "Peter Eastman",
+  "license": null,
+  "home_page": "https://openmm.org",
+  "download_filename": "openmm_hip_6-8.5.0-py3-none-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-04-03T21:19:37.783975",
+  "package_url": "https://pypi.org/project/OpenMM-HIP-6/"
+}
