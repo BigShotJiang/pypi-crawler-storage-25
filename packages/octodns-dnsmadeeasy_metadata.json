@@ -1,0 +1,11 @@
+{
+  "name": "octodns-dnsmadeeasy",
+  "version": "1.0.1",
+  "summary": "DNS Made Easy provider for octoDNS",
+  "author": "Ross McFarland",
+  "license": "MIT",
+  "home_page": "https://github.com/octodns/octodns-dnsmadeeasy",
+  "download_filename": "octodns_dnsmadeeasy-1.0.1.tar.gz",
+  "download_time": "2026-04-03T23:51:20.070779",
+  "package_url": "https://pypi.org/project/octodns-dnsmadeeasy/"
+}

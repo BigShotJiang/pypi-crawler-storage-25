@@ -1,11 +1,11 @@
 {
   "name": "stock-trek",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Stock Trek time-series analysis python bindings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stock_trek-0.2.3-cp38-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
-  "download_time": "2026-04-03T23:07:45.837044",
+  "download_filename": "stock_trek-0.2.4-cp38-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2026-04-03T23:51:59.269949",
   "package_url": "https://pypi.org/project/stock-trek/"
 }

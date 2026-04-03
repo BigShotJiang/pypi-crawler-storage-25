@@ -1,0 +1,11 @@
+{
+  "name": "octodns-bind",
+  "version": "1.1.0",
+  "summary": "RFC compliant (Bind9) provider for octoDNS",
+  "author": "Adam Smith",
+  "license": "MIT",
+  "home_page": "https://github.com/octodns/octodns-bind",
+  "download_filename": "octodns_bind-1.1.0.tar.gz",
+  "download_time": "2026-04-03T23:51:39.893811",
+  "package_url": "https://pypi.org/project/octodns-bind/"
+}

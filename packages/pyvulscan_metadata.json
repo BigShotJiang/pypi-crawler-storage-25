@@ -1,11 +1,11 @@
 {
   "name": "pyvulscan",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Vulnerability scanner for Python dependencies using the OSV API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyvulscan-0.1.1.tar.gz",
-  "download_time": "2026-04-03T19:03:25.341484",
+  "download_filename": "pyvulscan-0.1.2.tar.gz",
+  "download_time": "2026-04-03T23:52:01.403062",
   "package_url": "https://pypi.org/project/pyvulscan/"
 }

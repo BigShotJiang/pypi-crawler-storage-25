@@ -1,0 +1,11 @@
+{
+  "name": "act-build",
+  "version": "0.3.5",
+  "summary": "Build tool for ACT WASM components",
+  "author": null,
+  "license": null,
+  "home_page": "https://actcore.dev",
+  "download_filename": "act_build-0.3.5-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-03T23:51:27.504614",
+  "package_url": "https://pypi.org/project/act-build/"
+}

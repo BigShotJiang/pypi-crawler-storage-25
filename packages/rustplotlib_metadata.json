@@ -1,11 +1,11 @@
 {
   "name": "rustplotlib",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Matplotlib drop-in replacement powered by Rust",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rustplotlib-0.2.0.tar.gz",
-  "download_time": "2026-04-03T22:37:33.225631",
+  "download_filename": "rustplotlib-0.3.0.tar.gz",
+  "download_time": "2026-04-03T23:52:00.337513",
   "package_url": "https://pypi.org/project/rustplotlib/"
 }

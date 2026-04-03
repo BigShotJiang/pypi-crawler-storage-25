@@ -1,0 +1,11 @@
+{
+  "name": "orchard",
+  "version": "2026.4.2",
+  "summary": "Python client for Orchard, a compute platform for Apple Silicon",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orchard-2026.4.2.tar.gz",
+  "download_time": "2026-04-03T23:51:45.262492",
+  "package_url": "https://pypi.org/project/orchard/"
+}

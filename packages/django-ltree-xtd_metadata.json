@@ -1,0 +1,11 @@
+{
+  "name": "django-ltree-xtd",
+  "version": "0.1.0",
+  "summary": "PostgreSQL ltree-based tree models for Django with trigger-maintained paths",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_ltree_xtd-0.1.0.tar.gz",
+  "download_time": "2026-04-03T23:52:00.869225",
+  "package_url": "https://pypi.org/project/django-ltree-xtd/"
+}

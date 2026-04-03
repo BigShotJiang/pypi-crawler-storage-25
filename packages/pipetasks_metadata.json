@@ -1,11 +1,11 @@
 {
   "name": "pipetasks",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "Utils to build pipelines",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "pipetasks-0.1.5.tar.gz",
-  "download_time": "2026-04-03T23:08:07.125716",
+  "download_filename": "pipetasks-0.1.8.tar.gz",
+  "download_time": "2026-04-03T23:51:19.537302",
   "package_url": "https://pypi.org/project/pipetasks/"
 }
