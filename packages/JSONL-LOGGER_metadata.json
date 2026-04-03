@@ -1,11 +1,11 @@
 {
   "name": "JSONL-LOGGER",
-  "version": "1.1.1",
+  "version": "1.2.2",
   "summary": "Async queue-based structured JSONL logging with thread-safe performance and auto-detected module names",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jsonl_logger-1.1.1.tar.gz",
-  "download_time": "2026-04-03T11:13:42.157658",
+  "download_filename": "jsonl_logger-1.2.2.tar.gz",
+  "download_time": "2026-04-03T18:02:27.795229",
   "package_url": "https://pypi.org/project/JSONL-LOGGER/"
 }

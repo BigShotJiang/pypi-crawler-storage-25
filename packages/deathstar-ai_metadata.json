@@ -1,11 +1,11 @@
 {
   "name": "deathstar-ai",
-  "version": "0.10.0",
+  "version": "0.10.2",
   "summary": "Secure AWS-hosted remote AI coding workstation with a provider-agnostic local CLI.",
   "author": "DeathStar contributors",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "deathstar_ai-0.10.0.tar.gz",
-  "download_time": "2026-04-02T23:04:25.564479",
+  "download_filename": "deathstar_ai-0.10.2.tar.gz",
+  "download_time": "2026-04-03T18:02:10.558896",
   "package_url": "https://pypi.org/project/deathstar-ai/"
 }

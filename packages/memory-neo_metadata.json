@@ -1,0 +1,11 @@
+{
+  "name": "memory-neo",
+  "version": "0.1.2",
+  "summary": "Push your codebase to a graph DB and query it with natural language",
+  "author": "memory-neo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memory_neo-0.1.2.tar.gz",
+  "download_time": "2026-04-03T18:02:34.223726",
+  "package_url": "https://pypi.org/project/memory-neo/"
+}

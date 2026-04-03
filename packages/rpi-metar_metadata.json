@@ -1,0 +1,11 @@
+{
+  "name": "rpi-metar",
+  "version": "0.4.3",
+  "summary": "Visualizing METAR data on a Raspberry Pi with LEDs.",
+  "author": "Scott Sturdivant",
+  "license": "MIT",
+  "home_page": "https://github.com/ScottSturdivant/rpi_metar",
+  "download_filename": "rpi_metar-0.4.3.tar.gz",
+  "download_time": "2026-04-03T18:01:50.695939",
+  "package_url": "https://pypi.org/project/rpi-metar/"
+}

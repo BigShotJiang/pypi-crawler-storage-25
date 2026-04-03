@@ -1,0 +1,11 @@
+{
+  "name": "engram-kv",
+  "version": "1.0.0",
+  "summary": "KV cache fingerprinting for persistent cross-session LLM memory. Fourier decomposition achieves 98% Recall@1 at 51µs.",
+  "author": "ENIGMA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "engram_kv-1.0.0.tar.gz",
+  "download_time": "2026-04-03T18:02:06.753956",
+  "package_url": "https://pypi.org/project/engram-kv/"
+}

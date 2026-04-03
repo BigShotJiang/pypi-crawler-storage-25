@@ -1,0 +1,11 @@
+{
+  "name": "ringdetect",
+  "version": "1.0.0",
+  "summary": "A blisteringly fast Fortran engine for molecular cycle perception.",
+  "author": "ouielba90",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ringdetect-1.0.0-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2026-04-03T18:02:18.090785",
+  "package_url": "https://pypi.org/project/ringdetect/"
+}
