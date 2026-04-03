@@ -1,0 +1,11 @@
+{
+  "name": "cdklabs.cdk-proserve-lib",
+  "version": "0.14.0",
+  "summary": "AWS CDK library containing constructs, aspects, and patterns.",
+  "author": "Amazon Web Services<aws-cdk-dev@amazon.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cdklabs/cdk-proserve-lib.git",
+  "download_filename": "cdklabs_cdk_proserve_lib-0.14.0.tar.gz",
+  "download_time": "2026-04-03T04:40:53.724760",
+  "package_url": "https://pypi.org/project/cdklabs.cdk-proserve-lib/"
+}

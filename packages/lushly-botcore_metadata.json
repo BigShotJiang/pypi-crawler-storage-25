@@ -1,0 +1,11 @@
+{
+  "name": "lushly-botcore",
+  "version": "0.4.0",
+  "summary": "Shared bot infrastructure — config, plugin contract, and extracted commands",
+  "author": "Falkicon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lushly_botcore-0.4.0.tar.gz",
+  "download_time": "2026-04-03T04:40:35.660773",
+  "package_url": "https://pypi.org/project/lushly-botcore/"
+}

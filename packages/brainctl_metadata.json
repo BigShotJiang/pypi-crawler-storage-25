@@ -1,0 +1,11 @@
+{
+  "name": "brainctl",
+  "version": "0.1.1",
+  "summary": "A cognitive memory system for AI agents — episodic, semantic, and procedural memory with FTS5 search, vector embeddings, neuromodulation, and MCP server integration.",
+  "author": "Terrence Schonleber",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brainctl-0.1.1.tar.gz",
+  "download_time": "2026-04-03T04:40:35.144988",
+  "package_url": "https://pypi.org/project/brainctl/"
+}

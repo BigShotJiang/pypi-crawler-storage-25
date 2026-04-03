@@ -1,11 +1,11 @@
 {
   "name": "etcion",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "Architecture as code — build, query, validate, and analyze enterprise architecture models in Python",
   "author": "etcion contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "etcion-0.8.0.tar.gz",
-  "download_time": "2026-04-03T02:12:48.291505",
+  "download_filename": "etcion-0.9.0.tar.gz",
+  "download_time": "2026-04-03T04:40:47.526546",
   "package_url": "https://pypi.org/project/etcion/"
 }

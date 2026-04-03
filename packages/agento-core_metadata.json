@@ -1,11 +1,11 @@
 {
   "name": "agento-core",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "AI Agent Framework — automates tasks using AI agents in Docker containers",
   "author": "Marcin Klauza",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agento_core-0.1.4.tar.gz",
-  "download_time": "2026-04-02T08:08:01.910999",
+  "download_filename": "agento_core-0.1.5.tar.gz",
+  "download_time": "2026-04-03T04:40:28.450083",
   "package_url": "https://pypi.org/project/agento-core/"
 }

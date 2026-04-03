@@ -1,11 +1,11 @@
 {
   "name": "llm-failure-atlas",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Detection and pattern library for LLM agent failures",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_failure_atlas-0.1.1.tar.gz",
-  "download_time": "2026-04-02T18:38:45.984604",
+  "download_filename": "llm_failure_atlas-0.1.2.tar.gz",
+  "download_time": "2026-04-03T04:41:01.998281",
   "package_url": "https://pypi.org/project/llm-failure-atlas/"
 }

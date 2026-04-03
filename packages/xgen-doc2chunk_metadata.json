@@ -1,0 +1,11 @@
+{
+  "name": "xgen-doc2chunk",
+  "version": "0.2.26",
+  "summary": "Convert raw documents into AI-understandable context with intelligent text extraction, table detection, and semantic chunking",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "xgen_doc2chunk-0.2.26.tar.gz",
+  "download_time": "2026-04-03T04:40:25.893663",
+  "package_url": "https://pypi.org/project/xgen-doc2chunk/"
+}
