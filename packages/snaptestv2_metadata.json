@@ -1,0 +1,11 @@
+{
+  "name": "snaptestv2",
+  "version": "1.0.0",
+  "summary": "Snapshot testing for Python — auto-create, diff on mismatch, pytest plugin, and CLI",
+  "author": "prabhay759",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snaptestv2-1.0.0.tar.gz",
+  "download_time": "2026-04-03T08:33:42.833759",
+  "package_url": "https://pypi.org/project/snaptestv2/"
+}

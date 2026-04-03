@@ -1,0 +1,11 @@
+{
+  "name": "seasonal-shift",
+  "version": "1.2.3",
+  "summary": "A small CLI tool to shift season and episode numbers of TV episode files based on configurable offsets.",
+  "author": "Youssef Aswad",
+  "license": null,
+  "home_page": null,
+  "download_filename": "seasonal_shift-1.2.3.tar.gz",
+  "download_time": "2026-04-03T08:33:55.350447",
+  "package_url": "https://pypi.org/project/seasonal-shift/"
+}

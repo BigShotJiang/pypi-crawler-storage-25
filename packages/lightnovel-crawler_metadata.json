@@ -1,0 +1,11 @@
+{
+  "name": "lightnovel-crawler",
+  "version": "4.1.1",
+  "summary": "Download lightnovels from various online sources and generate output in different formats, e.g. epub, mobi, json, text, docx, pdf, html etc.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lightnovel_crawler-4.1.1-py3-none-any.whl",
+  "download_time": "2026-04-03T08:34:11.510046",
+  "package_url": "https://pypi.org/project/lightnovel-crawler/"
+}

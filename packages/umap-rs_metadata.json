@@ -1,0 +1,11 @@
+{
+  "name": "umap-rs",
+  "version": "0.3.0",
+  "summary": "Python bindings for rust_umap",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/wenjiudaijiugui/umap-rs",
+  "download_filename": "umap_rs-0.3.0.tar.gz",
+  "download_time": "2026-04-03T08:34:20.349081",
+  "package_url": "https://pypi.org/project/umap-rs/"
+}

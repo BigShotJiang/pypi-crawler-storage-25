@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-apod",
+  "version": "1.1.0",
+  "summary": "定时发送 NASA 每日提供的天文图片",
+  "author": "lyqgzbl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_apod-1.1.0.tar.gz",
+  "download_time": "2026-04-03T08:34:04.739796",
+  "package_url": "https://pypi.org/project/nonebot-plugin-apod/"
+}

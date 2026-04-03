@@ -1,11 +1,11 @@
 {
   "name": "epik8s-tools",
-  "version": "0.12.0",
+  "version": "0.14.0",
   "summary": "A set of tools for generating Kubernetes Helm charts for EPICS-based systems.",
   "author": "Andrea Michelotti",
   "license": null,
   "home_page": "https://github.com/infn-epics/epik8s-tools",
-  "download_filename": "epik8s_tools-0.12.0.tar.gz",
-  "download_time": "2026-03-28T09:53:07.176450",
+  "download_filename": "epik8s_tools-0.14.0.tar.gz",
+  "download_time": "2026-04-03T08:33:42.316305",
   "package_url": "https://pypi.org/project/epik8s-tools/"
 }
