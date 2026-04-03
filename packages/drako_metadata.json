@@ -1,11 +1,11 @@
 {
   "name": "drako",
-  "version": "2.4.1",
+  "version": "2.5.3",
   "summary": "The Python Governance Platform for AI Agents — compliance middleware for LangGraph, CrewAI, AutoGen",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "drako-2.4.1.tar.gz",
-  "download_time": "2026-03-28T07:34:38.305803",
+  "download_filename": "drako-2.5.3.tar.gz",
+  "download_time": "2026-04-03T10:29:13.349574",
   "package_url": "https://pypi.org/project/drako/"
 }

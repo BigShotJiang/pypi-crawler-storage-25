@@ -1,0 +1,11 @@
+{
+  "name": "OMOP-MEDS",
+  "version": "0.2.0",
+  "summary": "An ETL to convert OMOP data to the MEDS format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omop_meds-0.2.0.tar.gz",
+  "download_time": "2026-04-03T10:29:36.217783",
+  "package_url": "https://pypi.org/project/OMOP-MEDS/"
+}

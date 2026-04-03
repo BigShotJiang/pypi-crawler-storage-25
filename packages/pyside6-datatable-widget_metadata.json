@@ -1,0 +1,11 @@
+{
+  "name": "pyside6-datatable-widget",
+  "version": "1.2.2",
+  "summary": "A PySide6 DataTable widget with jQuery DataTable-like functionality",
+  "author": "Zuko",
+  "license": "GPLv3",
+  "home_page": "https://github.com/ultra-bugs/pyside6-datatable-widget",
+  "download_filename": "pyside6_datatable_widget-1.2.2.tar.gz",
+  "download_time": "2026-04-03T10:29:26.423186",
+  "package_url": "https://pypi.org/project/pyside6-datatable-widget/"
+}

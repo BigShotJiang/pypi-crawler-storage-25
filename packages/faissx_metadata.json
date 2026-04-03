@@ -1,0 +1,11 @@
+{
+  "name": "faissx",
+  "version": "0.20260403.0",
+  "summary": "High-performance vector database proxy using FAISS and ZeroMQ",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "faissx-0.20260403.0.tar.gz",
+  "download_time": "2026-04-03T10:29:39.686640",
+  "package_url": "https://pypi.org/project/faissx/"
+}

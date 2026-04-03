@@ -1,11 +1,11 @@
 {
   "name": "dlt-community-sources",
-  "version": "0.6.2",
+  "version": "0.6.4",
   "summary": "Community-maintained dlt sources for various APIs",
   "author": "ota2000",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dlt_community_sources-0.6.2.tar.gz",
-  "download_time": "2026-03-28T17:05:57.568302",
+  "download_filename": "dlt_community_sources-0.6.4.tar.gz",
+  "download_time": "2026-04-03T10:29:45.566722",
   "package_url": "https://pypi.org/project/dlt-community-sources/"
 }

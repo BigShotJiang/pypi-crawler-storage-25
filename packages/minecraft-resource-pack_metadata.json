@@ -1,0 +1,11 @@
+{
+  "name": "minecraft-resource-pack",
+  "version": "1.4.11",
+  "summary": "A Python library reading Minecraft's various resource pack formats.",
+  "author": "James Clare",
+  "license": null,
+  "home_page": "https://www.amuletmc.com",
+  "download_filename": "minecraft_resource_pack-1.4.11.tar.gz",
+  "download_time": "2026-04-03T10:29:17.562408",
+  "package_url": "https://pypi.org/project/minecraft-resource-pack/"
+}

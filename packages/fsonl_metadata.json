@@ -1,11 +1,11 @@
 {
   "name": "fsonl",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Function-Styled Object Notation Lines — a line-based serialization format with typed schemas",
   "author": "Hve",
   "license": null,
   "home_page": null,
-  "download_filename": "fsonl-0.3.0.tar.gz",
-  "download_time": "2026-04-01T15:54:30.252473",
+  "download_filename": "fsonl-0.4.0.tar.gz",
+  "download_time": "2026-04-03T10:29:21.775591",
   "package_url": "https://pypi.org/project/fsonl/"
 }

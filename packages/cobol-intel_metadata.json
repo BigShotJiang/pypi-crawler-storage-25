@@ -1,0 +1,11 @@
+{
+  "name": "cobol-intel",
+  "version": "0.3.1",
+  "summary": "Open-source platform for understanding, documenting, and analyzing legacy COBOL codebases using static analysis and LLM",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cobol_intel-0.3.1.tar.gz",
+  "download_time": "2026-04-03T10:29:12.126175",
+  "package_url": "https://pypi.org/project/cobol-intel/"
+}

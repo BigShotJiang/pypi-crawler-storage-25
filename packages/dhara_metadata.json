@@ -1,0 +1,11 @@
+{
+  "name": "dhara",
+  "version": "0.8.1",
+  "summary": "A Python Persistent Object Database with ACID Transactions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dhara-0.8.1.tar.gz",
+  "download_time": "2026-04-03T10:29:09.315721",
+  "package_url": "https://pypi.org/project/dhara/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "venvpool",
+  "version": "27",
+  "summary": "Run your Python scripts using an automated pool of virtual environments to satisfy their requirements",
+  "author": "foyono",
+  "license": null,
+  "home_page": "https://pypi.org/project/venvpool/",
+  "download_filename": "venvpool-27.tar.gz",
+  "download_time": "2026-04-03T10:29:11.337501",
+  "package_url": "https://pypi.org/project/venvpool/"
+}

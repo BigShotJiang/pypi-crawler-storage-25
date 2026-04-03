@@ -1,11 +1,11 @@
 {
   "name": "bizon",
-  "version": "0.3.6",
+  "version": "0.3.8",
   "summary": "Extract and load your data reliably from API Clients with native fault-tolerant and checkpointing mechanism.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bizon-0.3.6.tar.gz",
-  "download_time": "2026-04-03T08:33:58.994018",
+  "download_filename": "bizon-0.3.8.tar.gz",
+  "download_time": "2026-04-03T10:29:46.155012",
   "package_url": "https://pypi.org/project/bizon/"
 }
