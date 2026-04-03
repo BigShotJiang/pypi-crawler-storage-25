@@ -1,0 +1,11 @@
+{
+  "name": "pytest-playwright-axe",
+  "version": "4.11.2",
+  "summary": "An axe-core integration for accessibility testing using Playwright Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_playwright_axe-4.11.2.tar.gz",
+  "download_time": "2026-04-03T16:40:51.867985",
+  "package_url": "https://pypi.org/project/pytest-playwright-axe/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "euler-train",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "Lightweight file-based experiment logger for PyTorch",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "euler_train-2.0.0.tar.gz",
-  "download_time": "2026-03-31T11:36:33.446917",
+  "download_filename": "euler_train-2.1.0.tar.gz",
+  "download_time": "2026-04-03T16:40:39.222732",
   "package_url": "https://pypi.org/project/euler-train/"
 }

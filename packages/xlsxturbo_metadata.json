@@ -1,0 +1,11 @@
+{
+  "name": "xlsxturbo",
+  "version": "0.12.4",
+  "summary": "High-performance Excel writer with automatic type detection (pandas, polars, CSV)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xlsxturbo-0.12.4.tar.gz",
+  "download_time": "2026-04-03T16:41:08.357689",
+  "package_url": "https://pypi.org/project/xlsxturbo/"
+}

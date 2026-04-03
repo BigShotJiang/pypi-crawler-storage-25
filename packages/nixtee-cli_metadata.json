@@ -1,0 +1,11 @@
+{
+  "name": "nixtee-cli",
+  "version": "0.3.0",
+  "summary": "GNN-based Neural Network Performance Predictor",
+  "author": "Nixtee s.r.o",
+  "license": null,
+  "home_page": "https://github.com/ajandera/nixtee-cli",
+  "download_filename": "nixtee_cli-0.3.0.tar.gz",
+  "download_time": "2026-04-03T16:40:38.192934",
+  "package_url": "https://pypi.org/project/nixtee-cli/"
+}

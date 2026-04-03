@@ -1,0 +1,11 @@
+{
+  "name": "run-codeql",
+  "version": "1.2.0",
+  "summary": "Run CodeQL code-quality analysis locally, mirroring the GitHub 'Code Quality' check",
+  "author": "Derek Norrbom",
+  "license": null,
+  "home_page": null,
+  "download_filename": "run_codeql-1.2.0.tar.gz",
+  "download_time": "2026-04-03T16:40:49.297685",
+  "package_url": "https://pypi.org/project/run-codeql/"
+}

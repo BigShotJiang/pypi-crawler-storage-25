@@ -1,11 +1,11 @@
 {
   "name": "nyc-geo-toolkit",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Reusable NYC geography resources, normalization helpers, and boundary loaders for Python tools.",
   "author": "Blaise Albis-Burdige",
   "license": null,
   "home_page": null,
-  "download_filename": "nyc_geo_toolkit-0.1.3.tar.gz",
-  "download_time": "2026-04-02T16:41:42.226663",
+  "download_filename": "nyc_geo_toolkit-0.1.5.tar.gz",
+  "download_time": "2026-04-03T16:40:43.986216",
   "package_url": "https://pypi.org/project/nyc-geo-toolkit/"
 }

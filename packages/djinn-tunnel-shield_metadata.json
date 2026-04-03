@@ -1,0 +1,11 @@
+{
+  "name": "djinn-tunnel-shield",
+  "version": "0.1.1",
+  "summary": "Zero-config DDoS protection for Bittensor miners via Cloudflare Tunnel",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "djinn_tunnel_shield-0.1.1.tar.gz",
+  "download_time": "2026-04-03T16:40:26.797883",
+  "package_url": "https://pypi.org/project/djinn-tunnel-shield/"
+}
