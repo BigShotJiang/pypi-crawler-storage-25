@@ -1,0 +1,11 @@
+{
+  "name": "sharepoint-to-text",
+  "version": "1.1.0",
+  "summary": "Text extraction library for typical file formats found in SharePoint repositories",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sharepoint_to_text-1.1.0.tar.gz",
+  "download_time": "2026-04-04T10:34:30.384875",
+  "package_url": "https://pypi.org/project/sharepoint-to-text/"
+}

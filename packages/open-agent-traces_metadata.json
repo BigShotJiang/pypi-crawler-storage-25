@@ -1,0 +1,11 @@
+{
+  "name": "open-agent-traces",
+  "version": "0.1.0",
+  "summary": "Mock OCEL 2.0 event log generator for LangChain multi-agent runs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "open_agent_traces-0.1.0.tar.gz",
+  "download_time": "2026-04-04T10:34:25.656494",
+  "package_url": "https://pypi.org/project/open-agent-traces/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "thermoclaw",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Thermodynamic diagnostics for neural network training — see what your optimizer is actually doing.",
   "author": "Christopher Gardner",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "thermoclaw-0.1.4.tar.gz",
-  "download_time": "2026-04-03T21:19:32.753624",
+  "download_filename": "thermoclaw-0.1.5.tar.gz",
+  "download_time": "2026-04-04T10:34:19.923857",
   "package_url": "https://pypi.org/project/thermoclaw/"
 }

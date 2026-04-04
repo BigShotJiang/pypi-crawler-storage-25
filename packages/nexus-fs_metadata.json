@@ -1,11 +1,11 @@
 {
   "name": "nexus-fs",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Unified filesystem abstraction for cloud storage — mount S3, GCS, and local storage with two lines of Python",
   "author": "Nexi Lab Team",
   "license": null,
   "home_page": null,
-  "download_filename": "nexus_fs-0.4.1.tar.gz",
-  "download_time": "2026-04-04T07:39:50.432794",
+  "download_filename": "nexus_fs-0.4.2.tar.gz",
+  "download_time": "2026-04-04T10:34:20.603259",
   "package_url": "https://pypi.org/project/nexus-fs/"
 }

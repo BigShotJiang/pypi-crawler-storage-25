@@ -1,11 +1,11 @@
 {
   "name": "worca-cc",
-  "version": "0.6.0rc3",
+  "version": "0.6.0rc5",
   "summary": "Autonomous software development pipeline combining orchestration with governance enforcement",
   "author": "Sinisha Djukic, Ivan Dachev",
   "license": null,
   "home_page": null,
-  "download_filename": "worca_cc-0.6.0rc3.tar.gz",
-  "download_time": "2026-04-03T20:37:46.268711",
+  "download_filename": "worca_cc-0.6.0rc5.tar.gz",
+  "download_time": "2026-04-04T10:34:50.332819",
   "package_url": "https://pypi.org/project/worca-cc/"
 }

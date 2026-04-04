@@ -1,11 +1,11 @@
 {
   "name": "opensearch-fscrawler",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "File system crawler for OpenSearch / Elasticsearch — Python rewrite of FSCrawler",
   "author": "Toomas Ormisson",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opensearch_fscrawler-0.2.0.tar.gz",
-  "download_time": "2026-04-03T13:03:46.620421",
+  "download_filename": "opensearch_fscrawler-0.4.0.tar.gz",
+  "download_time": "2026-04-04T10:34:38.639059",
   "package_url": "https://pypi.org/project/opensearch-fscrawler/"
 }

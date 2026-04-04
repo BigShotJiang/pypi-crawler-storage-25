@@ -1,11 +1,11 @@
 {
   "name": "ufw-audit",
-  "version": "1.4.2",
+  "version": "1.5.0",
   "summary": "UFW firewall audit tool — cross-checks rules against listening services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ufw_audit-1.4.2.tar.gz",
-  "download_time": "2026-04-04T05:42:59.756650",
+  "download_filename": "ufw_audit-1.5.0.tar.gz",
+  "download_time": "2026-04-04T10:34:32.964617",
   "package_url": "https://pypi.org/project/ufw-audit/"
 }

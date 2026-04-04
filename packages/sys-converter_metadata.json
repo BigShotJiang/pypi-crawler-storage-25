@@ -1,11 +1,11 @@
 {
   "name": "sys-converter",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "A library for converting numbers to different number systems (2-36)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sys_converter-1.1.5.tar.gz",
-  "download_time": "2026-04-04T09:09:18.208763",
+  "download_filename": "sys_converter-1.1.6.tar.gz",
+  "download_time": "2026-04-04T10:34:17.812093",
   "package_url": "https://pypi.org/project/sys-converter/"
 }

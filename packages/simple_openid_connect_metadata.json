@@ -1,0 +1,11 @@
+{
+  "name": "simple_openid_connect",
+  "version": "2.4.0",
+  "summary": "Simple and opinionated OpenID-Connect relying party and resource server implementation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_openid_connect-2.4.0.tar.gz",
+  "download_time": "2026-04-04T10:34:13.564593",
+  "package_url": "https://pypi.org/project/simple_openid_connect/"
+}

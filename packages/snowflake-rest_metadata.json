@@ -1,0 +1,11 @@
+{
+  "name": "snowflake-rest",
+  "version": "0.1.1",
+  "summary": "Lightweight Snowflake SQL API client for Python. No native connector needed.",
+  "author": "Pushpendra Singh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snowflake_rest-0.1.1.tar.gz",
+  "download_time": "2026-04-04T10:34:27.788913",
+  "package_url": "https://pypi.org/project/snowflake-rest/"
+}

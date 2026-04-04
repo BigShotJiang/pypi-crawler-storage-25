@@ -1,11 +1,11 @@
 {
   "name": "warp-md-cuda",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "warp-md Python bindings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "warp_md_cuda-0.3.7-cp310-cp310-manylinux_2_28_x86_64.whl",
-  "download_time": "2026-04-02T03:27:56.901549",
+  "download_filename": "warp_md_cuda-0.3.8-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2026-04-04T10:34:37.084409",
   "package_url": "https://pypi.org/project/warp-md-cuda/"
 }

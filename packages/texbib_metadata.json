@@ -1,0 +1,11 @@
+{
+  "name": "texbib",
+  "version": "0.5.0",
+  "summary": "A tool for managing bibliographies",
+  "author": "Lars Franke",
+  "license": "GPLv3",
+  "home_page": "https://github.com/frcl/bib",
+  "download_filename": "texbib-0.5.0.tar.gz",
+  "download_time": "2026-04-04T10:34:33.989556",
+  "package_url": "https://pypi.org/project/texbib/"
+}

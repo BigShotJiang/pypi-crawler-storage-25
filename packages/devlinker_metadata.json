@@ -1,11 +1,11 @@
 {
   "name": "devlinker",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "summary": "A lightweight proxy that combines your frontend and backend into one link for easy development and sharing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "devlinker-1.4.4.tar.gz",
-  "download_time": "2026-04-02T10:14:57.326063",
+  "download_filename": "devlinker-1.4.5.tar.gz",
+  "download_time": "2026-04-04T10:34:40.195598",
   "package_url": "https://pypi.org/project/devlinker/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "demiourgos",
-  "version": "0.2.3",
+  "version": "0.2.8",
   "summary": "Demiourgos bootstrap CLI (binary fetcher)",
   "author": "Demiourgos",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "demiourgos-0.2.3-py3-none-any.whl",
-  "download_time": "2026-04-04T02:04:55.870065",
+  "download_filename": "demiourgos-0.2.8-py3-none-any.whl",
+  "download_time": "2026-04-04T10:34:44.655712",
   "package_url": "https://pypi.org/project/demiourgos/"
 }

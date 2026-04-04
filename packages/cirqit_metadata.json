@@ -1,11 +1,11 @@
 {
   "name": "cirqit",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A pure NumPy quantum circuit simulator — no heavy dependencies",
   "author": "Muhammad",
   "license": null,
   "home_page": "https://github.com/yourusername/cirqit",
-  "download_filename": "cirqit-0.1.4.tar.gz",
-  "download_time": "2026-04-04T09:56:45.119130",
+  "download_filename": "cirqit-0.1.5.tar.gz",
+  "download_time": "2026-04-04T10:34:21.669585",
   "package_url": "https://pypi.org/project/cirqit/"
 }
