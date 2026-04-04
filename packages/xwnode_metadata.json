@@ -1,11 +1,11 @@
 {
   "name": "xwnode",
-  "version": "0.9.0.20",
+  "version": "0.9.0.21",
   "summary": "Convenience wrapper for exonware-xwnode - provides 'import xwnode' alias",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xwnode-0.9.0.20.tar.gz",
-  "download_time": "2026-03-30T22:43:12.569710",
+  "download_filename": "xwnode-0.9.0.21.tar.gz",
+  "download_time": "2026-04-04T15:32:36.833876",
   "package_url": "https://pypi.org/project/xwnode/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "kwslib",
+  "version": "0.0.10",
+  "summary": "Python client library for KWS Platform API - dataset splits, feature npz download, model/artifacts/metrics push",
+  "author": "Ngoc An Lam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kwslib-0.0.10.tar.gz",
+  "download_time": "2026-04-04T15:32:16.148309",
+  "package_url": "https://pypi.org/project/kwslib/"
+}

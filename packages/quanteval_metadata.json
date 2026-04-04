@@ -1,0 +1,11 @@
+{
+  "name": "quanteval",
+  "version": "1.1.0",
+  "summary": "Quantitative strategy and factor evaluation toolkit for Chinese A-share and Hong Kong (HKEX) markets",
+  "author": "Karhou Tam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quanteval-1.1.0.tar.gz",
+  "download_time": "2026-04-04T15:32:25.447179",
+  "package_url": "https://pypi.org/project/quanteval/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tollbooth",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "A bot-challenge Python middleware issuing brief challenges, granting solvers signed access cookies.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tollbooth-0.3.7.tar.gz",
-  "download_time": "2026-04-04T14:54:18.683681",
+  "download_filename": "tollbooth-0.3.8.tar.gz",
+  "download_time": "2026-04-04T15:32:54.424212",
   "package_url": "https://pypi.org/project/tollbooth/"
 }

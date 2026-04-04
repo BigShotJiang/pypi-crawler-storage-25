@@ -1,0 +1,11 @@
+{
+  "name": "datablob",
+  "version": "0.6.0",
+  "summary": "Client for Updating a Simple Data Warehouse on Blob Storage",
+  "author": "Daniel J. Dufour",
+  "license": null,
+  "home_page": "https://github.com/gocarta/datablob",
+  "download_filename": "datablob-0.6.0.tar.gz",
+  "download_time": "2026-04-04T15:32:17.683365",
+  "package_url": "https://pypi.org/project/datablob/"
+}

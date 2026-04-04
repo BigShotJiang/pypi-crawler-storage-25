@@ -1,0 +1,11 @@
+{
+  "name": "cm-qa-integration",
+  "version": "1.0.0",
+  "summary": "Robot Framework listener para integração em tempo real com QA Manager",
+  "author": "Ronaldo Adriano",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cm_qa_integration-1.0.0.tar.gz",
+  "download_time": "2026-04-04T15:32:52.839802",
+  "package_url": "https://pypi.org/project/cm-qa-integration/"
+}

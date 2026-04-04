@@ -1,11 +1,11 @@
 {
   "name": "bapp-connectors",
-  "version": "0.18.0",
+  "version": "0.21.0",
   "summary": "Reusable integration framework for external service connectors (shops, couriers, payments, messaging, storage)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bapp_connectors-0.18.0.tar.gz",
-  "download_time": "2026-04-01T15:54:47.016489",
+  "download_filename": "bapp_connectors-0.21.0.tar.gz",
+  "download_time": "2026-04-04T15:32:20.287467",
   "package_url": "https://pypi.org/project/bapp-connectors/"
 }

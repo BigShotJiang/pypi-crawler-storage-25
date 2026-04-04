@@ -1,0 +1,11 @@
+{
+  "name": "oeissequences",
+  "version": "0.2.5.9",
+  "summary": "Python functions to generate OEIS sequences",
+  "author": "Chai Wah Wu",
+  "license": "LICENSE",
+  "home_page": "https://github.com/postvakje/oeis-sequences",
+  "download_filename": "oeissequences-0.2.5.9.tar.gz",
+  "download_time": "2026-04-04T15:32:31.607837",
+  "package_url": "https://pypi.org/project/oeissequences/"
+}

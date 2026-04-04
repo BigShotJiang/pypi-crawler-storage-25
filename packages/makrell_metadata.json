@@ -1,0 +1,11 @@
+{
+  "name": "makrell",
+  "version": "0.10.0",
+  "summary": "Makrell: A programming language family",
+  "author": "Hans-Christian Holm",
+  "license": "MIT",
+  "home_page": "https://makrell.dev/",
+  "download_filename": "makrell-0.10.0.tar.gz",
+  "download_time": "2026-04-04T15:32:11.917950",
+  "package_url": "https://pypi.org/project/makrell/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytorchforge",
+  "version": "1.0.0",
+  "summary": "Enterprise-grade PyTorch framework with governance, monitoring, and production deployment capabilities",
+  "author": "Anil Prasad",
+  "license": null,
+  "home_page": "https://github.com/anilatambharii/torchforge",
+  "download_filename": "pytorchforge-1.0.0.tar.gz",
+  "download_time": "2026-04-04T15:32:39.413828",
+  "package_url": "https://pypi.org/project/pytorchforge/"
+}

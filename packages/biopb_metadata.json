@@ -1,0 +1,11 @@
+{
+  "name": "biopb",
+  "version": "0.3.0",
+  "summary": "Python bindings of BioPB: open protobuf/gRPC protocols for biomedical image processing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "biopb-0.3.0.tar.gz",
+  "download_time": "2026-04-04T15:32:42.001061",
+  "package_url": "https://pypi.org/project/biopb/"
+}

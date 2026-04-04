@@ -1,11 +1,11 @@
 {
   "name": "orze-pro",
-  "version": "0.3.3",
+  "version": "0.3.6",
   "summary": "Autopilot for GPU experiments — autonomous research agents for orze",
   "author": "orze contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "orze_pro-0.3.3.tar.gz",
-  "download_time": "2026-04-04T04:28:04.900742",
+  "download_filename": "orze_pro-0.3.6.tar.gz",
+  "download_time": "2026-04-04T15:32:43.025831",
   "package_url": "https://pypi.org/project/orze-pro/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rwlocker",
+  "version": "3.3",
+  "summary": "Advanced, High-Performance, and State-Machine Based Synchronous/Asynchronous Read-Write Locks.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rwlocker-3.3.tar.gz",
+  "download_time": "2026-04-04T15:32:17.171794",
+  "package_url": "https://pypi.org/project/rwlocker/"
+}
