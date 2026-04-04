@@ -1,0 +1,11 @@
+{
+  "name": "loramesh",
+  "version": "1.0.3",
+  "summary": "C++ library to communicate with Radioenge LoRaMESH modules via UART, with Python bindings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "loramesh-1.0.3.tar.gz",
+  "download_time": "2026-04-04T21:01:55.895294",
+  "package_url": "https://pypi.org/project/loramesh/"
+}

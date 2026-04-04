@@ -1,0 +1,11 @@
+{
+  "name": "dbsprout",
+  "version": "0.1.5",
+  "summary": "CLI tool that reads database schemas and generates realistic seed data",
+  "author": "Fernando Flores",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbsprout-0.1.5.tar.gz",
+  "download_time": "2026-04-04T21:02:28.024611",
+  "package_url": "https://pypi.org/project/dbsprout/"
+}

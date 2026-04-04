@@ -1,11 +1,11 @@
 {
   "name": "streamlit-audio-editor",
-  "version": "0.3.0",
-  "summary": "A browser-based audio editor component for Streamlit — trim, gain, loop, export WAV",
+  "version": "0.4.0",
+  "summary": "Browser-based audio editor & jam-session recorder for Streamlit — full effects rack, mic input, real-time recording",
   "author": "Dan Sheils",
   "license": null,
   "home_page": "https://github.com/RhythrosaLabs/streamlit-audio-editor",
-  "download_filename": "streamlit_audio_editor-0.3.0.tar.gz",
-  "download_time": "2026-04-04T20:32:04.359099",
+  "download_filename": "streamlit_audio_editor-0.4.0.tar.gz",
+  "download_time": "2026-04-04T21:02:12.541678",
   "package_url": "https://pypi.org/project/streamlit-audio-editor/"
 }

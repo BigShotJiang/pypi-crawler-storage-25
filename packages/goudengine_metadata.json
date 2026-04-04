@@ -1,0 +1,11 @@
+{
+  "name": "goudengine",
+  "version": "0.0.841",
+  "summary": "Python SDK for GoudEngine. Build 2D and 3D games powered by a Rust core.",
+  "author": "Aram Hammoudeh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "goudengine-0.0.841.tar.gz",
+  "download_time": "2026-04-04T21:02:01.109993",
+  "package_url": "https://pypi.org/project/goudengine/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ptk-ai",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Python Token Killer — token-optimized CLI proxy for LLM context compression",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ptk_ai-0.1.4.tar.gz",
-  "download_time": "2026-04-04T20:32:05.935678",
+  "download_filename": "ptk_ai-0.1.5.tar.gz",
+  "download_time": "2026-04-04T21:02:10.484910",
   "package_url": "https://pypi.org/project/ptk-ai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "synchra.cli",
-  "version": "0.2.2",
+  "version": "0.3.1",
   "summary": "A powerful, interactive CLI for monitoring and sending messages via the Synchra API.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synchra_cli-0.2.2.tar.gz",
-  "download_time": "2026-04-03T08:33:40.728282",
+  "download_filename": "synchra_cli-0.3.1.tar.gz",
+  "download_time": "2026-04-04T21:02:17.710082",
   "package_url": "https://pypi.org/project/synchra.cli/"
 }

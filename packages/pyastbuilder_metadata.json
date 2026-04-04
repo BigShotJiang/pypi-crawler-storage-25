@@ -1,11 +1,11 @@
 {
   "name": "pyastbuilder",
-  "version": "0.0.2.23986904307",
+  "version": "0.0.2.23987254301",
   "summary": "Utility for generating AST classes from a yaml description",
   "author": "Matthew Ballance",
   "license": "Apache 2.0",
   "home_page": "https://github.com/mballance/pyastbuilder",
-  "download_filename": "pyastbuilder-0.0.2.23986904307-py2.py3-none-any.whl",
-  "download_time": "2026-04-04T20:32:08.637411",
+  "download_filename": "pyastbuilder-0.0.2.23987254301-py2.py3-none-any.whl",
+  "download_time": "2026-04-04T21:02:21.326089",
   "package_url": "https://pypi.org/project/pyastbuilder/"
 }

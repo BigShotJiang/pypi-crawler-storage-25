@@ -1,11 +1,11 @@
 {
   "name": "aiden3drenderer",
-  "version": "1.10.5",
+  "version": "1.11.1",
   "summary": "A lightweight 3D wireframe renderer built from scratch using Pygame",
   "author": "Aiden",
   "license": null,
   "home_page": "https://github.com/AidenKielby/3D-mesh-Renderer",
-  "download_filename": "aiden3drenderer-1.10.5.tar.gz",
-  "download_time": "2026-04-04T19:56:38.190454",
+  "download_filename": "aiden3drenderer-1.11.1.tar.gz",
+  "download_time": "2026-04-04T21:02:01.626367",
   "package_url": "https://pypi.org/project/aiden3drenderer/"
 }

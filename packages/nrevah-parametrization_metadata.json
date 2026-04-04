@@ -1,11 +1,11 @@
 {
   "name": "nrevah-parametrization",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "nrevah-parametrization: Simpler PyTest parametrization",
   "author": "Netanel Revah",
   "license": null,
   "home_page": null,
-  "download_filename": "nrevah_parametrization-1.0.0.tar.gz",
-  "download_time": "2026-04-04T20:31:59.447801",
+  "download_filename": "nrevah_parametrization-1.0.1.tar.gz",
+  "download_time": "2026-04-04T21:02:14.081670",
   "package_url": "https://pypi.org/project/nrevah-parametrization/"
 }

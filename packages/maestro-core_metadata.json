@@ -1,11 +1,11 @@
 {
   "name": "maestro-core",
-  "version": "0.5.0",
+  "version": "1.0.1",
   "summary": "Core engine for Maestro AI agent — providers, trust layer, tools, conversation engine",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "maestro_core-0.5.0.tar.gz",
-  "download_time": "2026-04-04T17:17:52.740536",
+  "download_filename": "maestro_core-1.0.1.tar.gz",
+  "download_time": "2026-04-04T21:01:58.013058",
   "package_url": "https://pypi.org/project/maestro-core/"
 }
