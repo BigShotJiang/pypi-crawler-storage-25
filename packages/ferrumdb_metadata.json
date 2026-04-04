@@ -1,11 +1,11 @@
 {
   "name": "ferrumdb",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "FerrumDB — Zero-setup embedded document database for Python. No server. No config. Just open a file and go.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ferrumdb-0.1.2.tar.gz",
-  "download_time": "2026-04-04T11:46:24.225524",
+  "download_filename": "ferrumdb-0.1.3.tar.gz",
+  "download_time": "2026-04-04T12:04:18.391143",
   "package_url": "https://pypi.org/project/ferrumdb/"
 }

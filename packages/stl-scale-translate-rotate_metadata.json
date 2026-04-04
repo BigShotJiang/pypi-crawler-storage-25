@@ -1,0 +1,11 @@
+{
+  "name": "stl-scale-translate-rotate",
+  "version": "0.1.1",
+  "summary": "translate, scale or rotate stl 3d model, then saved it to .stl file.",
+  "author": "GGN_2015",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stl_scale_translate_rotate-0.1.1.tar.gz",
+  "download_time": "2026-04-04T12:04:14.208736",
+  "package_url": "https://pypi.org/project/stl-scale-translate-rotate/"
+}

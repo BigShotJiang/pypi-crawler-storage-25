@@ -1,11 +1,11 @@
 {
   "name": "gasket-cli",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Run GitHub Actions locally using nektos/act from a Python CLI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gasket_cli-0.2.2.tar.gz",
-  "download_time": "2026-04-04T05:42:51.923361",
+  "download_filename": "gasket_cli-0.2.3.tar.gz",
+  "download_time": "2026-04-04T12:04:25.062262",
   "package_url": "https://pypi.org/project/gasket-cli/"
 }

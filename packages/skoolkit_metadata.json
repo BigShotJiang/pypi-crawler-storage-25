@@ -1,0 +1,11 @@
+{
+  "name": "skoolkit",
+  "version": "10.0",
+  "summary": "A suite of tools for creating disassemblies of ZX Spectrum games",
+  "author": "Richard Dymond",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://skoolkit.ca",
+  "download_filename": "skoolkit-10.0.tar.gz",
+  "download_time": "2026-04-04T12:04:20.452998",
+  "package_url": "https://pypi.org/project/skoolkit/"
+}

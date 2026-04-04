@@ -1,0 +1,11 @@
+{
+  "name": "TexSoup",
+  "version": "0.3.2",
+  "summary": "parses valid LaTeX and provides variety of Beautiful-Soup-esque methods and Pythonic idioms for iterating over and searching the parse tree",
+  "author": "Alvin Wan",
+  "license": "BSD",
+  "home_page": "https://github.com/alvinwan/TexSoup",
+  "download_filename": "texsoup-0.3.2.tar.gz",
+  "download_time": "2026-04-04T12:04:12.672680",
+  "package_url": "https://pypi.org/project/TexSoup/"
+}

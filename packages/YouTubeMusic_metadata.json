@@ -1,11 +1,11 @@
 {
   "name": "YouTubeMusic",
-  "version": "2026.4.1",
+  "version": "2026.4.2",
   "summary": "Async YouTube Music search and stream extraction library.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "youtubemusic-2026.4.1.tar.gz",
-  "download_time": "2026-04-04T11:46:11.709954",
+  "download_filename": "youtubemusic-2026.4.2.tar.gz",
+  "download_time": "2026-04-04T12:04:32.232849",
   "package_url": "https://pypi.org/project/YouTubeMusic/"
 }

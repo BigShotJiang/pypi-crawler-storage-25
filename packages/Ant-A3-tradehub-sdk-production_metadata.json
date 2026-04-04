@@ -1,0 +1,11 @@
+{
+  "name": "Ant-A3-tradehub-sdk-production",
+  "version": "1.1.7",
+  "summary": "Python SDK for integrating with Aliceblue trading platform.",
+  "author": "Codifi",
+  "license": "MIT",
+  "home_page": "https://a3.aliceblueonline.com/",
+  "download_filename": "ant_a3_tradehub_sdk_production-1.1.7.tar.gz",
+  "download_time": "2026-04-04T12:04:33.767042",
+  "package_url": "https://pypi.org/project/Ant-A3-tradehub-sdk-production/"
+}

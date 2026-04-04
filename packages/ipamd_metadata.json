@@ -1,0 +1,11 @@
+{
+  "name": "ipamd",
+  "version": "0.0.17",
+  "summary": "A Python package for MD simulations and analysis of biomolecules",
+  "author": "Xiaoyang Liu",
+  "license": "LGPL-3.0",
+  "home_page": null,
+  "download_filename": "ipamd-0.0.17.tar.gz",
+  "download_time": "2026-04-04T12:04:14.759093",
+  "package_url": "https://pypi.org/project/ipamd/"
+}
