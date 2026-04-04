@@ -1,0 +1,11 @@
+{
+  "name": "maybankpdf2json",
+  "version": "0.2.1",
+  "summary": "A package for extracting JSON data from Maybank PDF account statements",
+  "author": "Nordin",
+  "license": null,
+  "home_page": "https://github.com/nordinz7/maybankpdf2json",
+  "download_filename": "maybankpdf2json-0.2.1.tar.gz",
+  "download_time": "2026-04-04T07:39:25.057453",
+  "package_url": "https://pypi.org/project/maybankpdf2json/"
+}

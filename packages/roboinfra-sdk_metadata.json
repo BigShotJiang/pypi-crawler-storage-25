@@ -1,11 +1,11 @@
 {
   "name": "roboinfra-sdk",
-  "version": "1.0.6",
-  "summary": "Python SDK for RoboInfra URDF validation, Mesh Analyzer and 3D Model Converter robotics APIs",
-  "author": "Ravindar J",
+  "version": "1.0.7",
+  "summary": "Python SDK for RoboInfra — URDF validation, kinematic analysis, 3D model conversion and mesh analysis APIs for ROS developers",
+  "author": "RoboInfra",
   "license": null,
-  "home_page": "https://pypi.org/project/roboinfra-sdk/",
-  "download_filename": "roboinfra_sdk-1.0.6.tar.gz",
-  "download_time": "2026-04-02T18:38:54.490299",
+  "home_page": "https://github.com/Ravindar10/roboinfra-python-sdk",
+  "download_filename": "roboinfra_sdk-1.0.7.tar.gz",
+  "download_time": "2026-04-04T07:39:16.291961",
   "package_url": "https://pypi.org/project/roboinfra-sdk/"
 }

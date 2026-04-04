@@ -1,11 +1,11 @@
 {
   "name": "deepdoc",
-  "version": "0.1.6",
+  "version": "1.1.0",
   "summary": "Auto-generate beautiful docs from any codebase",
   "author": "Pranav Kumar",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "deepdoc-0.1.6.tar.gz",
-  "download_time": "2026-04-02T09:15:55.983116",
+  "download_filename": "deepdoc-1.1.0.tar.gz",
+  "download_time": "2026-04-04T07:39:18.856443",
   "package_url": "https://pypi.org/project/deepdoc/"
 }

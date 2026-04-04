@@ -1,11 +1,11 @@
 {
   "name": "bulla",
-  "version": "0.22.0",
+  "version": "0.23.0",
   "summary": "Witness kernel for agent tool compositions — diagnose, attest, seal",
   "author": "Glyph",
   "license": null,
   "home_page": null,
-  "download_filename": "bulla-0.22.0.tar.gz",
-  "download_time": "2026-04-04T06:42:22.569195",
+  "download_filename": "bulla-0.23.0.tar.gz",
+  "download_time": "2026-04-04T07:39:41.633167",
   "package_url": "https://pypi.org/project/bulla/"
 }
