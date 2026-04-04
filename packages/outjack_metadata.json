@@ -1,0 +1,11 @@
+{
+  "name": "outjack",
+  "version": "24",
+  "summary": "JACK and PortAudio integration for Python",
+  "author": "Andrzej Cichocki",
+  "license": null,
+  "home_page": "https://github.com/combatopera/outjack",
+  "download_filename": "outjack-24.tar.gz",
+  "download_time": "2026-04-04T22:02:50.887873",
+  "package_url": "https://pypi.org/project/outjack/"
+}

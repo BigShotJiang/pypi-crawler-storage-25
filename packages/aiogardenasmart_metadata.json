@@ -1,0 +1,11 @@
+{
+  "name": "aiogardenasmart",
+  "version": "0.1.4",
+  "summary": "Async Python client for the Gardena Smart System API v2",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aiogardenasmart-0.1.4.tar.gz",
+  "download_time": "2026-04-04T22:02:36.059856",
+  "package_url": "https://pypi.org/project/aiogardenasmart/"
+}

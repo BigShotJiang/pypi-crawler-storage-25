@@ -1,0 +1,11 @@
+{
+  "name": "texthumanize",
+  "version": "0.28.0",
+  "summary": "Algorithmic text humanization with AI detection, tone analysis, paraphrasing, and spinning — 38-stage pipeline, 25 languages, SentenceValidator™, PHANTOM™",
+  "author": "TextHumanize Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "texthumanize-0.28.0.tar.gz",
+  "download_time": "2026-04-04T22:03:01.978604",
+  "package_url": "https://pypi.org/project/texthumanize/"
+}

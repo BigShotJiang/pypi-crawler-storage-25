@@ -1,11 +1,11 @@
 {
   "name": "formepdf",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "Python SDK for the Forme hosted PDF API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "formepdf-0.9.0.tar.gz",
-  "download_time": "2026-04-04T21:01:49.181070",
+  "download_filename": "formepdf-0.9.1.tar.gz",
+  "download_time": "2026-04-04T22:02:36.580689",
   "package_url": "https://pypi.org/project/formepdf/"
 }

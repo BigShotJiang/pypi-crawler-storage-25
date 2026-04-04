@@ -1,11 +1,11 @@
 {
   "name": "mlfastflow",
-  "version": "0.2.9.6",
+  "version": "0.2.9.7",
   "summary": "Packages for fast dataflow and workflow processing",
   "author": "genX.AI",
   "license": null,
   "home_page": "https://pypi.org/project/mlfastflow/",
-  "download_filename": "mlfastflow-0.2.9.6.tar.gz",
-  "download_time": "2026-04-02T15:48:43.407419",
+  "download_filename": "mlfastflow-0.2.9.7.tar.gz",
+  "download_time": "2026-04-04T22:02:48.801987",
   "package_url": "https://pypi.org/project/mlfastflow/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ssh-to-server",
+  "version": "1.0.5",
+  "summary": "A simple CLI tool to SSH into servers from your ~/.ssh/config",
+  "author": "Lucas da Silva Junior",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ssh_to_server-1.0.5.tar.gz",
+  "download_time": "2026-04-04T22:02:43.538095",
+  "package_url": "https://pypi.org/project/ssh-to-server/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "econirl",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Behavioral inference. IRL and DDC with standard errors.",
   "author": "Pranjal Rawat",
   "license": null,
   "home_page": null,
-  "download_filename": "econirl-0.0.3.tar.gz",
-  "download_time": "2026-04-01T11:39:50.336514",
+  "download_filename": "econirl-0.0.4.tar.gz",
+  "download_time": "2026-04-04T22:03:03.579290",
   "package_url": "https://pypi.org/project/econirl/"
 }
