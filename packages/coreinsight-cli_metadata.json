@@ -1,11 +1,11 @@
 {
   "name": "coreinsight-cli",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Local-first AI performance profiler that mathematically verifies optimizations for Python, C++, and CUDA",
   "author": "Varun Jani",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "coreinsight_cli-0.3.0.tar.gz",
-  "download_time": "2026-04-03T19:03:16.586724",
+  "download_filename": "coreinsight_cli-0.3.1.tar.gz",
+  "download_time": "2026-04-04T02:04:47.953447",
   "package_url": "https://pypi.org/project/coreinsight-cli/"
 }

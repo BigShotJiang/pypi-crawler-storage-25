@@ -1,0 +1,11 @@
+{
+  "name": "sshdcommander",
+  "version": "3.5.1",
+  "summary": "SSH automation daemon with persistent connections, secure credential storage, and server profiles",
+  "author": "Veniatis",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "sshdcommander-3.5.1-cp314-cp314-win_amd64.whl",
+  "download_time": "2026-04-04T02:04:39.783224",
+  "package_url": "https://pypi.org/project/sshdcommander/"
+}

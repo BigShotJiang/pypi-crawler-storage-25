@@ -1,0 +1,11 @@
+{
+  "name": "vs-mcp-server",
+  "version": "0.1.1",
+  "summary": "Visual Studio 2022 MCP server — control VS via Claude Code (COM/DTE automation)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vs_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-04-04T02:04:38.655115",
+  "package_url": "https://pypi.org/project/vs-mcp-server/"
+}
