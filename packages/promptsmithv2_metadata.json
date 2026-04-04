@@ -1,0 +1,11 @@
+{
+  "name": "promptsmithv2",
+  "version": "1.0.0",
+  "summary": "Structured prompt builder and version manager for LLM engineers — typed variables, versioning, diffing, A/B testing, and audit trails",
+  "author": "prabhay759",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "promptsmithv2-1.0.0.tar.gz",
+  "download_time": "2026-04-04T06:42:23.649149",
+  "package_url": "https://pypi.org/project/promptsmithv2/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "crewai-files",
-  "version": "1.12.2",
+  "version": "1.13.0",
   "summary": "File handling utilities for CrewAI multimodal inputs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crewai_files-1.12.2.tar.gz",
-  "download_time": "2026-03-28T06:40:35.175533",
+  "download_filename": "crewai_files-1.13.0.tar.gz",
+  "download_time": "2026-04-04T06:42:28.635216",
   "package_url": "https://pypi.org/project/crewai-files/"
 }

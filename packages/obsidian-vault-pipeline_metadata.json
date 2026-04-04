@@ -1,11 +1,11 @@
 {
   "name": "obsidian-vault-pipeline",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "summary": "全自动Obsidian知识管理Pipeline - 生产级知识管理流水线",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "obsidian_vault_pipeline-0.1.8.tar.gz",
-  "download_time": "2026-04-03T22:37:51.911312",
+  "download_filename": "obsidian_vault_pipeline-0.2.0.tar.gz",
+  "download_time": "2026-04-04T06:42:52.315855",
   "package_url": "https://pypi.org/project/obsidian-vault-pipeline/"
 }

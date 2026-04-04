@@ -1,11 +1,11 @@
 {
   "name": "glassbox-mech-interp",
-  "version": "4.2.1",
+  "version": "4.2.4",
   "summary": "Mechanistic interpretability + EU AI Act Annex IV compliance. 21/21 frameworks: ACDC edge-circuit discovery, multi-arch GQA/RMSNorm adapter (Llama-3/Mistral/Phi-3), cross-model comparison, causal scrubbing, DAS, Hessian bounds, BH FDR, folded LayerNorm, SAE polysemanticity, multi-corruption, held-out validation. Dual-licensed (MIT core + BSL 1.1 compliance engine).",
   "author": null,
   "license": "MIT AND LicenseRef-BUSL-1.1",
   "home_page": null,
-  "download_filename": "glassbox_mech_interp-4.2.1.tar.gz",
-  "download_time": "2026-04-03T23:51:35.091348",
+  "download_filename": "glassbox_mech_interp-4.2.4.tar.gz",
+  "download_time": "2026-04-04T06:42:05.887336",
   "package_url": "https://pypi.org/project/glassbox-mech-interp/"
 }

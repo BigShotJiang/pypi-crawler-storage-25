@@ -1,0 +1,11 @@
+{
+  "name": "libretrofuzz",
+  "version": "3.7.1",
+  "summary": "Fuzzy Retroarch thumbnail downloader",
+  "author": "i30817",
+  "license": "MIT",
+  "home_page": "https://github.com/i30817/libretrofuzz",
+  "download_filename": "libretrofuzz-3.7.1.tar.gz",
+  "download_time": "2026-04-04T06:42:33.585882",
+  "package_url": "https://pypi.org/project/libretrofuzz/"
+}

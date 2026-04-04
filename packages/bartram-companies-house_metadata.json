@@ -1,0 +1,11 @@
+{
+  "name": "bartram-companies-house",
+  "version": "0.1.0",
+  "summary": "UK Companies House data via MCP — company search, profiles, officers, beneficial owners, and filings with cleaning and deduplication.",
+  "author": "Bartram Foundry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bartram_companies_house-0.1.0.tar.gz",
+  "download_time": "2026-04-04T06:42:09.920174",
+  "package_url": "https://pypi.org/project/bartram-companies-house/"
+}

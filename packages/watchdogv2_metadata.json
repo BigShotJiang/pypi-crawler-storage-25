@@ -1,0 +1,11 @@
+{
+  "name": "watchdogv2",
+  "version": "1.0.0",
+  "summary": "Ultra-lightweight structured metrics tracking and anomaly detection — Z-score, percentile, rate-of-change, alerts, SQLite persistence. Zero dependencies.",
+  "author": "prabhay759",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "watchdogv2-1.0.0.tar.gz",
+  "download_time": "2026-04-04T06:42:25.271623",
+  "package_url": "https://pypi.org/project/watchdogv2/"
+}

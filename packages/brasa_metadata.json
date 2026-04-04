@@ -1,11 +1,11 @@
 {
   "name": "brasa",
-  "version": "0.1.0",
+  "version": "0.3.1",
   "summary": "MicroPython developer tools — flash, deploy, watch, monitor.",
   "author": "Martin Miglio",
   "license": null,
   "home_page": null,
-  "download_filename": "brasa-0.1.0.tar.gz",
-  "download_time": "2026-04-04T05:42:59.244213",
+  "download_filename": "brasa-0.3.1.tar.gz",
+  "download_time": "2026-04-04T06:42:13.178956",
   "package_url": "https://pypi.org/project/brasa/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sorcgcs-server",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Local development server for SorcGCS — game preview, file management, and AI agent support",
   "author": "SorcGCS",
   "license": null,
   "home_page": null,
-  "download_filename": "sorcgcs_server-0.6.0.tar.gz",
-  "download_time": "2026-04-03T06:04:14.791707",
+  "download_filename": "sorcgcs_server-0.6.1.tar.gz",
+  "download_time": "2026-04-04T06:42:36.844539",
   "package_url": "https://pypi.org/project/sorcgcs-server/"
 }

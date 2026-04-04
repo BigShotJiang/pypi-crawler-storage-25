@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-nmap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server for python-nmap network scanning",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_server_nmap-0.1.0.tar.gz",
-  "download_time": "2026-04-04T05:42:50.893834",
+  "download_filename": "mcp_server_nmap-0.1.1.tar.gz",
+  "download_time": "2026-04-04T06:42:43.954194",
   "package_url": "https://pypi.org/project/mcp-server-nmap/"
 }
