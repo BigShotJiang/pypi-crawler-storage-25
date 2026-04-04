@@ -1,11 +1,11 @@
 {
   "name": "kiwoom-cli",
-  "version": "0.6.0",
+  "version": "0.6.3",
   "summary": "User-friendly CLI for the Kiwoom Securities REST API (키움증권)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kiwoom_cli-0.6.0.tar.gz",
-  "download_time": "2026-04-04T09:08:54.086645",
+  "download_filename": "kiwoom_cli-0.6.3.tar.gz",
+  "download_time": "2026-04-04T09:56:43.582986",
   "package_url": "https://pypi.org/project/kiwoom-cli/"
 }

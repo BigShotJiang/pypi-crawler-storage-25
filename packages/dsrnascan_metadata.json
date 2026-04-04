@@ -1,0 +1,11 @@
+{
+  "name": "dsrnascan",
+  "version": "0.4.8",
+  "summary": "A tool for genome-wide prediction of double-stranded RNA structures",
+  "author": "Bass Lab",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/Bass-Lab/dsRNAscan",
+  "download_filename": "dsrnascan-0.4.8.tar.gz",
+  "download_time": "2026-04-04T09:56:26.586992",
+  "package_url": "https://pypi.org/project/dsrnascan/"
+}

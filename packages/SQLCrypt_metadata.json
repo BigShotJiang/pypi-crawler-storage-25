@@ -1,0 +1,11 @@
+{
+  "name": "SQLCrypt",
+  "version": "0.0.2",
+  "summary": "Protect your SQLite database with AES !",
+  "author": "Mr7F",
+  "license": "MIT",
+  "home_page": "https://github.com/Mr7F/sqlcrypt",
+  "download_filename": "sqlcrypt-0.0.2.tar.gz",
+  "download_time": "2026-04-04T09:56:44.607285",
+  "package_url": "https://pypi.org/project/SQLCrypt/"
+}

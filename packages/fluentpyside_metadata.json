@@ -1,11 +1,11 @@
 {
   "name": "fluentpyside",
-  "version": "0.1.4",
+  "version": "0.2.1",
   "summary": "FluentWinUI3 QML style for PySide6 — one-liner to add the Fluent theme",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fluentpyside-0.1.4.tar.gz",
-  "download_time": "2026-04-04T09:09:31.612509",
+  "download_filename": "fluentpyside-0.2.1.tar.gz",
+  "download_time": "2026-04-04T09:56:46.152125",
   "package_url": "https://pypi.org/project/fluentpyside/"
 }

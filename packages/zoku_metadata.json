@@ -1,0 +1,11 @@
+{
+  "name": "zoku",
+  "version": "0.1.2",
+  "summary": "Invisible automation layer for Claude Code. Watches your sessions, discovers repeated workflows, suggests automating them.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zoku-0.1.2.tar.gz",
+  "download_time": "2026-04-04T09:56:52.324596",
+  "package_url": "https://pypi.org/project/zoku/"
+}

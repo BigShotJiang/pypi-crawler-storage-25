@@ -1,11 +1,11 @@
 {
   "name": "tiportfolio",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "A portfolio management tool with built-in state-of-the-art portfolio optimization algorithms, with extensibility for different use cases for both institutes and retail traders.",
   "author": "tim-hub, TradeInsight.info",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "tiportfolio-1.1.0.tar.gz",
-  "download_time": "2026-04-04T09:09:36.090789",
+  "download_filename": "tiportfolio-1.2.0.tar.gz",
+  "download_time": "2026-04-04T09:56:50.271488",
   "package_url": "https://pypi.org/project/tiportfolio/"
 }

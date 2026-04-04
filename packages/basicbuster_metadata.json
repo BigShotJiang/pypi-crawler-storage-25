@@ -1,0 +1,11 @@
+{
+  "name": "basicbuster",
+  "version": "0.1.0",
+  "summary": "CLI tool for HTTP Basic Authentication testing with wordlists.",
+  "author": "dhina016",
+  "license": null,
+  "home_page": null,
+  "download_filename": "basicbuster-0.1.0.tar.gz",
+  "download_time": "2026-04-04T09:56:56.455612",
+  "package_url": "https://pypi.org/project/basicbuster/"
+}

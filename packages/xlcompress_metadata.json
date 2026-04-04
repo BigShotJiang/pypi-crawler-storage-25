@@ -1,0 +1,11 @@
+{
+  "name": "xlcompress",
+  "version": "0.2.1",
+  "summary": "Compress Excel spreadsheets for LLM consumption",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xlcompress-0.2.1.tar.gz",
+  "download_time": "2026-04-04T09:56:14.681812",
+  "package_url": "https://pypi.org/project/xlcompress/"
+}
