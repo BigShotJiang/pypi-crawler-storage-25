@@ -1,0 +1,11 @@
+{
+  "name": "rascpy",
+  "version": "2026.4.2",
+  "summary": "The rascpy project supplement and improve existing statistical methods such as bidirectional stepwise regression,optimal binning,risk scorecard,automatic parameter search for ensemble trees,filling and transforming complex data with both missing and special values,high-dimensional stratified sampling,reject inference.An major area is credit risk Management.",
+  "author": "SIFU DATA SCIENCE",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rascpy-2026.4.2-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2026-04-04T14:54:53.343421",
+  "package_url": "https://pypi.org/project/rascpy/"
+}

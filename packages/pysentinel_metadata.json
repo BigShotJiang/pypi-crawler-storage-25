@@ -1,0 +1,11 @@
+{
+  "name": "pysentinel",
+  "version": "0.1.6",
+  "summary": "A python package for threshold based alerting using simple configuration.",
+  "author": "Rakibul Haq",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pysentinel-0.1.6.tar.gz",
+  "download_time": "2026-04-04T14:54:52.203696",
+  "package_url": "https://pypi.org/project/pysentinel/"
+}

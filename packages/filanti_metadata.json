@@ -1,0 +1,11 @@
+{
+  "name": "filanti",
+  "version": "2.0.1",
+  "summary": "A secure cryptographic file  execution platform with policy enforcement, key management, and stateful control",
+  "author": "Decliqe",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "filanti-2.0.1.tar.gz",
+  "download_time": "2026-04-04T14:54:13.075304",
+  "package_url": "https://pypi.org/project/filanti/"
+}

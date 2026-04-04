@@ -1,0 +1,11 @@
+{
+  "name": "mail-parser",
+  "version": "4.2.1",
+  "summary": "A tool that parses emails by enhancing the Python standard library, extracting all details into a comprehensive object.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mail_parser-4.2.1.tar.gz",
+  "download_time": "2026-04-04T14:54:10.652062",
+  "package_url": "https://pypi.org/project/mail-parser/"
+}

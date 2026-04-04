@@ -1,0 +1,11 @@
+{
+  "name": "mlx-stack",
+  "version": "0.3.6",
+  "summary": "CLI control plane for local LLM infrastructure on Apple Silicon",
+  "author": "mlx-stack contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlx_stack-0.3.6.tar.gz",
+  "download_time": "2026-04-04T14:54:15.259092",
+  "package_url": "https://pypi.org/project/mlx-stack/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "netscout",
-  "version": "1.1.2",
+  "version": "1.1.5",
   "summary": "Production-ready pentest recon CLI — speed first.",
   "author": "NetScout Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "netscout-1.1.2.tar.gz",
-  "download_time": "2026-04-04T11:07:25.108872",
+  "download_filename": "netscout-1.1.5.tar.gz",
+  "download_time": "2026-04-04T14:54:28.617386",
   "package_url": "https://pypi.org/project/netscout/"
 }
