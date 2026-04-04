@@ -1,0 +1,11 @@
+{
+  "name": "wwpdb.utils.nmr",
+  "version": "0.50",
+  "summary": "wwPDB NMR utilities",
+  "author": "Ezra Peisach",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/wwpdb/py-wwpdb_utils_nmr",
+  "download_filename": "wwpdb_utils_nmr-0.50.tar.gz",
+  "download_time": "2026-04-04T11:46:40.445254",
+  "package_url": "https://pypi.org/project/wwpdb.utils.nmr/"
+}

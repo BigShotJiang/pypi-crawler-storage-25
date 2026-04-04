@@ -1,11 +1,11 @@
 {
   "name": "velobase-billing",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Velobase Billing SDK for Python",
   "author": "Velobase",
   "license": null,
   "home_page": null,
-  "download_filename": "velobase_billing-0.1.6.tar.gz",
-  "download_time": "2026-04-03T14:08:50.461081",
+  "download_filename": "velobase_billing-0.1.8.tar.gz",
+  "download_time": "2026-04-04T11:46:55.041008",
   "package_url": "https://pypi.org/project/velobase-billing/"
 }

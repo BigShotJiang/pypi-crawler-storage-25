@@ -1,11 +1,11 @@
 {
   "name": "openlaoke",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "Open-source terminal AI coding assistant",
   "author": "OpenLaoKe Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "openlaoke-0.1.9.tar.gz",
-  "download_time": "2026-04-04T11:07:45.065780",
+  "download_filename": "openlaoke-0.1.11-py3-none-any.whl",
+  "download_time": "2026-04-04T11:46:14.316182",
   "package_url": "https://pypi.org/project/openlaoke/"
 }

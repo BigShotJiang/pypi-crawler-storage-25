@@ -1,0 +1,11 @@
+{
+  "name": "browser-service",
+  "version": "1.0.21",
+  "summary": "Browser automation service with AI-powered element identification and locator generation",
+  "author": "monkscode",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/monkscode/browser-service",
+  "download_filename": "browser_service-1.0.21.tar.gz",
+  "download_time": "2026-04-04T11:46:16.416090",
+  "package_url": "https://pypi.org/project/browser-service/"
+}

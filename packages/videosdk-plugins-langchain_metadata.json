@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-langchain",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "VideoSDK Agent Framework plugin for LangChain and LangGraph",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_langchain-1.0.2.tar.gz",
-  "download_time": "2026-04-02T11:12:26.481398",
+  "download_filename": "videosdk_plugins_langchain-1.0.3.tar.gz",
+  "download_time": "2026-04-04T11:46:38.868225",
   "package_url": "https://pypi.org/project/videosdk-plugins-langchain/"
 }

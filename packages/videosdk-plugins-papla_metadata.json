@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-papla",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "VideoSDK Agent Framework plugin for Papla",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_papla-1.0.2.tar.gz",
-  "download_time": "2026-04-02T11:12:21.858696",
+  "download_filename": "videosdk_plugins_papla-1.0.3.tar.gz",
+  "download_time": "2026-04-04T11:46:34.712411",
   "package_url": "https://pypi.org/project/videosdk-plugins-papla/"
 }
