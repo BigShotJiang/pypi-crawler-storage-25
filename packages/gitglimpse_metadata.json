@@ -1,11 +1,11 @@
 {
   "name": "gitglimpse",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Extract structured context from your git history — PR descriptions, standups, weekly reports, and LLM-ready JSON.",
   "author": "Dino",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gitglimpse-0.1.5.tar.gz",
-  "download_time": "2026-04-04T22:51:24.739773",
+  "download_filename": "gitglimpse-0.1.6.tar.gz",
+  "download_time": "2026-04-04T23:31:47.669537",
   "package_url": "https://pypi.org/project/gitglimpse/"
 }

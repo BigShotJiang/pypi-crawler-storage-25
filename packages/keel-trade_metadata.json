@@ -1,11 +1,11 @@
 {
   "name": "keel-trade",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Keel — CLI and MCP server for AI-driven crypto strategy development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "keel_trade-0.1.1.tar.gz",
-  "download_time": "2026-04-04T22:51:44.071946",
+  "download_filename": "keel_trade-0.1.5.tar.gz",
+  "download_time": "2026-04-04T23:31:46.634488",
   "package_url": "https://pypi.org/project/keel-trade/"
 }

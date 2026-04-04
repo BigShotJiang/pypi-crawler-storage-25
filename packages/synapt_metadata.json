@@ -1,11 +1,11 @@
 {
   "name": "synapt",
-  "version": "0.9.0",
+  "version": "0.9.2",
   "summary": "Persistent conversational memory for AI coding assistants",
   "author": "Layne Penney",
   "license": null,
   "home_page": null,
-  "download_filename": "synapt-0.9.0.tar.gz",
-  "download_time": "2026-04-02T21:54:41.622178",
+  "download_filename": "synapt-0.9.2.tar.gz",
+  "download_time": "2026-04-04T23:32:12.696805",
   "package_url": "https://pypi.org/project/synapt/"
 }

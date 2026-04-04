@@ -1,11 +1,11 @@
 {
   "name": "datapaths",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Python wrapper for datapaths",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datapaths-0.0.2-cp311-cp311-win_amd64.whl",
-  "download_time": "2026-04-04T21:43:28.007427",
+  "download_filename": "datapaths-0.0.4-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-04-04T23:31:53.921320",
   "package_url": "https://pypi.org/project/datapaths/"
 }

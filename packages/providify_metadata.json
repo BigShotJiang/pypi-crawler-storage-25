@@ -1,0 +1,11 @@
+{
+  "name": "providify",
+  "version": "0.1.5",
+  "summary": "A Python dependency injection container inspired by Jakarta CDI and Spring. Supports sync and async resolution, multiple scopes, lifecycle hooks, and configuration modules.",
+  "author": "edoardo.scarpaci",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/edoardoscarpaci/providify",
+  "download_filename": "providify-0.1.5.tar.gz",
+  "download_time": "2026-04-04T23:32:11.117223",
+  "package_url": "https://pypi.org/project/providify/"
+}

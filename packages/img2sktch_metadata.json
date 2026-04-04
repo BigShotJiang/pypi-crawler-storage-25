@@ -1,0 +1,11 @@
+{
+  "name": "img2sktch",
+  "version": "0.1.0",
+  "summary": "Convert images to pencil sketches and extract contour paths for pen plotters and generative art.",
+  "author": "NacreousDawn596",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "img2sktch-0.1.0.tar.gz",
+  "download_time": "2026-04-04T23:31:38.904759",
+  "package_url": "https://pypi.org/project/img2sktch/"
+}

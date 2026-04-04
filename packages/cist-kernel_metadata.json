@@ -1,11 +1,11 @@
 {
   "name": "cist-kernel",
-  "version": "0.0.52",
+  "version": "0.0.55",
   "summary": "CLI for cist kernel telemetry and compilation",
   "author": null,
   "license": "tooig software license",
   "home_page": null,
-  "download_filename": "cist_kernel-0.0.52-py3-none-any.whl",
-  "download_time": "2026-04-04T22:51:29.428784",
+  "download_filename": "cist_kernel-0.0.55-py3-none-any.whl",
+  "download_time": "2026-04-04T23:31:41.482377",
   "package_url": "https://pypi.org/project/cist-kernel/"
 }

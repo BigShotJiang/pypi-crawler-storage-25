@@ -1,11 +1,11 @@
 {
   "name": "compair-core",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "summary": "Open-source foundation of the Compair collaboration platform.",
   "author": "RocketResearch, Inc.",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "compair_core-0.6.6.tar.gz",
-  "download_time": "2026-04-04T17:59:15.762205",
+  "download_filename": "compair_core-0.6.7.tar.gz",
+  "download_time": "2026-04-04T23:31:37.876196",
   "package_url": "https://pypi.org/project/compair-core/"
 }

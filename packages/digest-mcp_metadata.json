@@ -1,0 +1,11 @@
+{
+  "name": "digest-mcp",
+  "version": "0.0.1",
+  "summary": "Digest — local-first nutrition tracking MCP server. Log meals by chatting, see progress in a visual dashboard. USDA + Open Food Facts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "digest_mcp-0.0.1.tar.gz",
+  "download_time": "2026-04-04T23:32:06.901934",
+  "package_url": "https://pypi.org/project/digest-mcp/"
+}

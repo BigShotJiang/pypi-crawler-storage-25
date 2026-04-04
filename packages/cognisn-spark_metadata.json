@@ -1,11 +1,11 @@
 {
   "name": "cognisn-spark",
-  "version": "0.1.0a3",
+  "version": "0.1.0a13",
   "summary": "Secure Personal AI Research Kit - Multi-provider LLM web interface with MCP tool integration",
   "author": "Matthew Westwood-Hill",
   "license": "MIT with Commons Clause",
   "home_page": null,
-  "download_filename": "cognisn_spark-0.1.0a3-py3-none-any.whl",
-  "download_time": "2026-04-01T06:56:58.319175",
+  "download_filename": "cognisn_spark-0.1.0a13-py3-none-any.whl",
+  "download_time": "2026-04-04T23:31:58.580324",
   "package_url": "https://pypi.org/project/cognisn-spark/"
 }

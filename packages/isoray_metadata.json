@@ -1,11 +1,11 @@
 {
   "name": "isoray",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Robust iso-surface rendering via interval-arithmetic ray casting for arbitrary implicit geometries",
   "author": "Mason Seo",
   "license": null,
   "home_page": null,
-  "download_filename": "isoray-0.1.2.tar.gz",
-  "download_time": "2026-04-04T14:54:11.229093",
+  "download_filename": "isoray-0.2.0.tar.gz",
+  "download_time": "2026-04-04T23:31:44.053248",
   "package_url": "https://pypi.org/project/isoray/"
 }
