@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-audio-editor",
+  "version": "0.1.0",
+  "summary": "A browser-based audio editor component for Streamlit — trim, gain, loop, export WAV",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/RhythrosaLabs/streamlit-audio-editor",
+  "download_filename": "streamlit_audio_editor-0.1.0.tar.gz",
+  "download_time": "2026-04-04T19:23:15.375521",
+  "package_url": "https://pypi.org/project/streamlit-audio-editor/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "zhivex-ai-sdk",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Agent-first Python SDK for building orchestrated AI systems across multiple providers",
   "author": "Miguel Ortiz",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zhivex_ai_sdk-0.2.0.tar.gz",
-  "download_time": "2026-04-04T18:46:27.699438",
+  "download_filename": "zhivex_ai_sdk-0.3.0.tar.gz",
+  "download_time": "2026-04-04T19:22:46.937114",
   "package_url": "https://pypi.org/project/zhivex-ai-sdk/"
 }

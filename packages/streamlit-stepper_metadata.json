@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-stepper",
+  "version": "0.1.0",
+  "summary": "A multi-step wizard component for Streamlit with validation and progress tracking",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/RhythrosaLabs/streamlit-stepper",
+  "download_filename": "streamlit_stepper-0.1.0.tar.gz",
+  "download_time": "2026-04-04T19:23:14.857377",
+  "package_url": "https://pypi.org/project/streamlit-stepper/"
+}

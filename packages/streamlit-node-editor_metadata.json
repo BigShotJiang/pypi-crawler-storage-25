@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-node-editor",
+  "version": "0.1.0",
+  "summary": "A ComfyUI/Blueprints-style node graph editor for Streamlit — typed ports, drag-to-connect, inline params",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/RhythrosaLabs/streamlit-node-editor",
+  "download_filename": "streamlit_node_editor-0.1.0.tar.gz",
+  "download_time": "2026-04-04T19:23:14.343266",
+  "package_url": "https://pypi.org/project/streamlit-node-editor/"
+}

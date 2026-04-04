@@ -1,11 +1,11 @@
 {
   "name": "rendershot",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Python SDK for the Rendershot screenshot & PDF generation API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rendershot-0.1.6.tar.gz",
-  "download_time": "2026-04-03T13:03:31.210570",
+  "download_filename": "rendershot-0.1.7.tar.gz",
+  "download_time": "2026-04-04T19:22:51.095747",
   "package_url": "https://pypi.org/project/rendershot/"
 }
