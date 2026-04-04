@@ -1,11 +1,11 @@
 {
   "name": "fast-bpe-rs",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Fast Byte Pair Encoding (BPE) tokenizer with Python bindings powered by PyO3.",
   "author": "fast-bpe-rs contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "fast_bpe_rs-0.3.2.tar.gz",
-  "download_time": "2026-04-04T07:39:21.439134",
+  "download_filename": "fast_bpe_rs-0.3.3.tar.gz",
+  "download_time": "2026-04-04T08:25:55.768266",
   "package_url": "https://pypi.org/project/fast-bpe-rs/"
 }

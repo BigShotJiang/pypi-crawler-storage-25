@@ -1,11 +1,11 @@
 {
   "name": "urllib3-future",
-  "version": "2.19.900",
+  "version": "2.19.902",
   "summary": "urllib3.future is a powerful HTTP 1.1, 2, and 3 client with both sync and async interfaces",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "urllib3_future-2.19.900.tar.gz",
-  "download_time": "2026-03-29T17:49:40.469247",
+  "download_filename": "urllib3_future-2.19.902.tar.gz",
+  "download_time": "2026-04-04T08:26:09.694913",
   "package_url": "https://pypi.org/project/urllib3-future/"
 }

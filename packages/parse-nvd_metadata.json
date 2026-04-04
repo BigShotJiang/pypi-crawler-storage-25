@@ -1,0 +1,11 @@
+{
+  "name": "parse-nvd",
+  "version": "0.4.1",
+  "summary": "CLI tool to match COTS inventories against NVD CVE feeds.",
+  "author": "Phil",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "parse_nvd-0.4.1-py3-none-any.whl",
+  "download_time": "2026-04-04T08:26:22.515190",
+  "package_url": "https://pypi.org/project/parse-nvd/"
+}

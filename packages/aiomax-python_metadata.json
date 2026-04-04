@@ -1,11 +1,11 @@
 {
   "name": "aiomax-python",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Async Max framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiomax_python-0.1.6.tar.gz",
-  "download_time": "2026-03-28T17:46:34.900319",
+  "download_filename": "aiomax_python-0.1.8.tar.gz",
+  "download_time": "2026-04-04T08:25:48.266118",
   "package_url": "https://pypi.org/project/aiomax-python/"
 }

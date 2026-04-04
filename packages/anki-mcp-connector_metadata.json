@@ -1,0 +1,11 @@
+{
+  "name": "anki-mcp-connector",
+  "version": "0.1.8",
+  "summary": "A Model Context Protocol server for creating Anki flashcards via AnkiConnect",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "anki_mcp_connector-0.1.8.tar.gz",
+  "download_time": "2026-04-04T08:26:25.178467",
+  "package_url": "https://pypi.org/project/anki-mcp-connector/"
+}
