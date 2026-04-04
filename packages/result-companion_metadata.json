@@ -1,0 +1,11 @@
+{
+  "name": "result-companion",
+  "version": "0.0.13",
+  "summary": "AI-powered analysis of Robot Framework test failures - instant insights from output.xml",
+  "author": "Milosz Trojanowski",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "result_companion-0.0.13.tar.gz",
+  "download_time": "2026-04-04T19:56:56.803868",
+  "package_url": "https://pypi.org/project/result-companion/"
+}

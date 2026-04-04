@@ -1,11 +1,11 @@
 {
   "name": "indiestack",
-  "version": "1.14.2",
+  "version": "1.15.0",
   "summary": "MCP server for IndieStack — the discovery layer between AI coding agents and 8,000+ developer tools. Search, compare, scan projects, build stacks, and check compatibility before your AI generates boilerplate.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "indiestack-1.14.2.tar.gz",
-  "download_time": "2026-04-04T17:59:02.240508",
+  "download_filename": "indiestack-1.15.0.tar.gz",
+  "download_time": "2026-04-04T19:56:56.292799",
   "package_url": "https://pypi.org/project/indiestack/"
 }

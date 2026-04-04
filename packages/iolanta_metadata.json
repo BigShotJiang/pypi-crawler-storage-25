@@ -1,11 +1,11 @@
 {
   "name": "iolanta",
-  "version": "2.1.28",
+  "version": "2.1.29",
   "summary": "Semantic Web browser",
   "author": "Anatoly Scherbakov",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "iolanta-2.1.28.tar.gz",
-  "download_time": "2026-03-29T21:04:59.929239",
+  "download_filename": "iolanta-2.1.29.tar.gz",
+  "download_time": "2026-04-04T19:56:37.159683",
   "package_url": "https://pypi.org/project/iolanta/"
 }

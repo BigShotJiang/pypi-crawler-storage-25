@@ -1,0 +1,11 @@
+{
+  "name": "bs-poly",
+  "version": "0.2.2",
+  "summary": "Python bindings for the bs-p C kernel.",
+  "author": "Holypoly Foundation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bs_poly-0.2.2.tar.gz",
+  "download_time": "2026-04-04T19:56:43.340335",
+  "package_url": "https://pypi.org/project/bs-poly/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "matplobbot-shared",
-  "version": "0.1.212",
+  "version": "0.1.213",
   "summary": "Shared library for the Matplobbot ecosystem.",
   "author": "Ackrome",
   "license": null,
   "home_page": null,
-  "download_filename": "matplobbot_shared-0.1.212.tar.gz",
-  "download_time": "2026-04-04T17:58:46.475542",
+  "download_filename": "matplobbot_shared-0.1.213.tar.gz",
+  "download_time": "2026-04-04T19:56:26.369750",
   "package_url": "https://pypi.org/project/matplobbot-shared/"
 }

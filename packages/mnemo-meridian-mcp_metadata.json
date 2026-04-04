@@ -1,0 +1,11 @@
+{
+  "name": "mnemo-meridian-mcp",
+  "version": "0.1.1",
+  "summary": "Standalone MCP server for the Mnemo platform — connects Mnemo memory to Claude Desktop, Claude Code, and any MCP client.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "mnemo_meridian_mcp-0.1.1.tar.gz",
+  "download_time": "2026-04-04T19:56:54.244033",
+  "package_url": "https://pypi.org/project/mnemo-meridian-mcp/"
+}

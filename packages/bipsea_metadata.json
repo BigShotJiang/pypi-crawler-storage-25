@@ -1,0 +1,11 @@
+{
+  "name": "bipsea",
+  "version": "3.2.0",
+  "summary": "Composable Python CLI for Bitcoin mnemonics and BIP-85 secrets.",
+  "author": "Aneesh Karve",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/akarve/bipsea",
+  "download_filename": "bipsea-3.2.0.tar.gz",
+  "download_time": "2026-04-04T19:56:34.079067",
+  "package_url": "https://pypi.org/project/bipsea/"
+}

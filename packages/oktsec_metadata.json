@@ -1,0 +1,11 @@
+{
+  "name": "oktsec",
+  "version": "0.13.3",
+  "summary": "Python SDK for the oktsec security proxy — identity, policy, and content scanning for AI agent communication",
+  "author": "GARAGON",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oktsec-0.13.3.tar.gz",
+  "download_time": "2026-04-04T19:56:55.778131",
+  "package_url": "https://pypi.org/project/oktsec/"
+}

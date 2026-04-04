@@ -1,11 +1,11 @@
 {
   "name": "nyc-mesh",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Python toolkit for converting NYC CityGML and LiDAR into web-ready 3D geodata.",
   "author": "Blaise Albis-Burdige",
   "license": null,
   "home_page": null,
-  "download_filename": "nyc_mesh-0.1.1.tar.gz",
-  "download_time": "2026-04-03T17:21:22.875132",
+  "download_filename": "nyc_mesh-0.2.0.tar.gz",
+  "download_time": "2026-04-04T19:56:15.994898",
   "package_url": "https://pypi.org/project/nyc-mesh/"
 }

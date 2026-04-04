@@ -1,11 +1,11 @@
 {
   "name": "standards-sdk-py",
-  "version": "0.1.10",
+  "version": "0.1.12",
   "summary": "Python SDK for Hedera standards and Registry Broker parity with TypeScript and Go SDKs.",
   "author": "Hashgraph Online",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "standards_sdk_py-0.1.10.tar.gz",
-  "download_time": "2026-04-04T19:22:44.379545",
+  "download_filename": "standards_sdk_py-0.1.12.tar.gz",
+  "download_time": "2026-04-04T19:56:53.222097",
   "package_url": "https://pypi.org/project/standards-sdk-py/"
 }

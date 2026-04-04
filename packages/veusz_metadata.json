@@ -1,0 +1,11 @@
+{
+  "name": "veusz",
+  "version": "4.2.1",
+  "summary": "A scientific plotting package",
+  "author": "Jeremy Sanders",
+  "license": "GPL-2.0-or-later",
+  "home_page": "https://veusz.github.io/",
+  "download_filename": "veusz-4.2.1.tar.gz",
+  "download_time": "2026-04-04T19:56:24.832734",
+  "package_url": "https://pypi.org/project/veusz/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pylzsg",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "CLI bridge project that exposes the legacy Typer commands from pylizlib as the pylzsg command.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pylzsg-0.0.5.tar.gz",
-  "download_time": "2026-04-04T19:23:00.911147",
+  "download_filename": "pylzsg-0.0.7.tar.gz",
+  "download_time": "2026-04-04T19:56:42.316898",
   "package_url": "https://pypi.org/project/pylzsg/"
 }

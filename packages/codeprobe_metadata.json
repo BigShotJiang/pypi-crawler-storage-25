@@ -1,11 +1,11 @@
 {
   "name": "codeprobe",
-  "version": "0.1.0a3",
+  "version": "0.1.2",
   "summary": "Benchmark AI coding agents against your own codebase. Mine real tasks from repo history, run agents, interpret results.",
   "author": "codeprobe contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "codeprobe-0.1.0a3.tar.gz",
-  "download_time": "2026-04-02T23:04:49.602013",
+  "download_filename": "codeprobe-0.1.2.tar.gz",
+  "download_time": "2026-04-04T19:56:20.718298",
   "package_url": "https://pypi.org/project/codeprobe/"
 }
