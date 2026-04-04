@@ -1,0 +1,11 @@
+{
+  "name": "fonsim",
+  "version": "0.6.0",
+  "summary": "Fluidic Object-Oriented Network Simulator",
+  "author": "Arne Baeyens, Bert Van Raemdonck",
+  "license": "AGPLv3",
+  "home_page": "http://fonsim.org",
+  "download_filename": "fonsim-0.6.0.tar.gz",
+  "download_time": "2026-04-04T14:07:26.923948",
+  "package_url": "https://pypi.org/project/fonsim/"
+}

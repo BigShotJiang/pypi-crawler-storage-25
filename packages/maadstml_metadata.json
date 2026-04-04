@@ -1,11 +1,11 @@
 {
   "name": "maadstml",
-  "version": "3.67",
+  "version": "3.70",
   "summary": "Multi-Agent Accelerator for Data Science (MAADS): Transactional Machine Learning",
   "author": "Sebastian Maurice",
   "license": "MIT License",
   "home_page": "https://github.com/smaurice101/transactionalmachinelearning",
-  "download_filename": "maadstml-3.67.tar.gz",
-  "download_time": "2026-04-03T23:51:25.905429",
+  "download_filename": "maadstml-3.70.tar.gz",
+  "download_time": "2026-04-04T14:07:50.553411",
   "package_url": "https://pypi.org/project/maadstml/"
 }

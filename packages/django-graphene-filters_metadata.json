@@ -1,11 +1,11 @@
 {
   "name": "django-graphene-filters",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "summary": "Advanced auto related filters for Graphene Django",
   "author": null,
   "license": "© All Rights Reserved",
   "home_page": null,
-  "download_filename": "django_graphene_filters-0.7.3.tar.gz",
-  "download_time": "2026-04-04T13:23:11.583059",
+  "download_filename": "django_graphene_filters-0.7.4.tar.gz",
+  "download_time": "2026-04-04T14:08:09.066600",
   "package_url": "https://pypi.org/project/django-graphene-filters/"
 }

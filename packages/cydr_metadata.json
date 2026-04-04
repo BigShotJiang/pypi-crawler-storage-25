@@ -1,0 +1,11 @@
+{
+  "name": "cydr",
+  "version": "0.1.1",
+  "summary": "A fast, pythonic, focused XCDR1 serializer/deserializer for Python with a schema API and just-in-time compilation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cydr-0.1.1.tar.gz",
+  "download_time": "2026-04-04T14:07:44.844044",
+  "package_url": "https://pypi.org/project/cydr/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sqlhund",
-  "version": "0.0.5",
-  "summary": "A Rust library with Python bindings for detecting SQL injection patterns in input strings. Built for speed and designed especially for AI agents that process or generate SQL queries.",
+  "version": "0.0.9",
+  "summary": "**sqlhund** detects SQL injection patterns with CWE and CAPEC classification.Written in Rust with Python bindings via [PyO3](https://pyo3.rs/), it provides security analysis for AI agents that generate or relay SQL queries, preventing database manipulation through dual-axis threat intelligence (technique vs impact).",
   "author": null,
   "license": null,
   "home_page": "https://github.com/kanishknavale/sqlhund",
-  "download_filename": "sqlhund-0.0.5-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2026-03-31T10:35:18.421120",
+  "download_filename": "sqlhund-0.0.9-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-04T14:07:38.078508",
   "package_url": "https://pypi.org/project/sqlhund/"
 }

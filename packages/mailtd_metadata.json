@@ -1,0 +1,11 @@
+{
+  "name": "mailtd",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the Mail.td developer email platform",
+  "author": "Mail.td",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mailtd-1.0.0.tar.gz",
+  "download_time": "2026-04-04T14:07:42.739174",
+  "package_url": "https://pypi.org/project/mailtd/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "drf-audit-trail",
+  "version": "0.4.6",
+  "summary": "A reusable django [DRF] application that handles auditing of requests, logins and process",
+  "author": "Talismar Fernandes Costa",
+  "license": null,
+  "home_page": "https://github.com/Talismar/drf-audit-trail",
+  "download_filename": "drf_audit_trail-0.4.6.tar.gz",
+  "download_time": "2026-04-04T14:07:38.588506",
+  "package_url": "https://pypi.org/project/drf-audit-trail/"
+}
