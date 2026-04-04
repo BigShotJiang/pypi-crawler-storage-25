@@ -1,11 +1,11 @@
 {
   "name": "neptune_api_v2",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "The official Python library for the neptune-api-v2 API",
   "author": "Neptune API V2",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "neptune_api_v2-0.2.0.tar.gz",
-  "download_time": "2026-04-03T02:12:13.332574",
+  "download_filename": "neptune_api_v2-0.3.0.tar.gz",
+  "download_time": "2026-04-04T21:43:25.278549",
   "package_url": "https://pypi.org/project/neptune_api_v2/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "rewind-memory",
-  "version": "0.4.5",
+  "version": "0.5.0",
   "summary": "Bio-inspired persistent memory for AI agents. 5-layer architecture with FTS5, vector search, knowledge graph, and HybridRAG fusion.",
   "author": null,
-  "license": "Apache-2.0",
+  "license": "Source-Available-Noncommercial",
   "home_page": null,
-  "download_filename": "rewind_memory-0.4.5.tar.gz",
-  "download_time": "2026-03-31T22:35:31.319841",
+  "download_filename": "rewind_memory-0.5.0.tar.gz",
+  "download_time": "2026-04-04T21:43:12.196253",
   "package_url": "https://pypi.org/project/rewind-memory/"
 }

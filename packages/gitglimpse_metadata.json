@@ -1,11 +1,11 @@
 {
   "name": "gitglimpse",
-  "version": "0.1.2",
-  "summary": "Analyze git history and generate standup updates, daily reports, and weekly summaries.",
+  "version": "0.1.4",
+  "summary": "Extract structured context from your git history — PR descriptions, standups, weekly reports, and LLM-ready JSON.",
   "author": "Dino",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gitglimpse-0.1.2.tar.gz",
-  "download_time": "2026-03-29T23:02:30.929925",
+  "download_filename": "gitglimpse-0.1.4.tar.gz",
+  "download_time": "2026-04-04T21:43:46.435509",
   "package_url": "https://pypi.org/project/gitglimpse/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "abstract-hugpy",
-  "version": "0.1.153",
+  "version": "0.1.158",
   "summary": "Lazy-loaded HuggingFace utilities for summarization, OCR, embeddings, and video pipelines",
   "author": "Abstract Endeavors",
   "license": null,
   "home_page": "https://github.com/AbstractEndeavors/abstract_hugpy",
-  "download_filename": "abstract_hugpy-0.1.153.tar.gz",
-  "download_time": "2026-03-28T10:31:28.815931",
+  "download_filename": "abstract_hugpy-0.1.158.tar.gz",
+  "download_time": "2026-04-04T21:43:15.432739",
   "package_url": "https://pypi.org/project/abstract-hugpy/"
 }

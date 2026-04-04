@@ -1,0 +1,11 @@
+{
+  "name": "gitcopilot",
+  "version": "0.2.5",
+  "summary": "Production-ready agentic AI assistant for GitHub repositories with multi-LLM support and visual workflow insights",
+  "author": "Ruslan Magana Vsevolodovna",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitcopilot-0.2.5.tar.gz",
+  "download_time": "2026-04-04T21:43:30.711153",
+  "package_url": "https://pypi.org/project/gitcopilot/"
+}

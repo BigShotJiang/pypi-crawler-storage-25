@@ -1,11 +1,11 @@
 {
   "name": "aigate",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "AI Secret Hygiene — MCP server, proxy, and hooks that catch and remediate hardcoded secrets in AI-generated code",
   "author": "Jose Ramos",
   "license": null,
   "home_page": null,
-  "download_filename": "aigate-0.3.0.tar.gz",
-  "download_time": "2026-04-04T21:02:02.143207",
+  "download_filename": "aigate-0.3.1.tar.gz",
+  "download_time": "2026-04-04T21:43:34.490478",
   "package_url": "https://pypi.org/project/aigate/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tpuz",
+  "version": "0.1.0",
+  "summary": "Manage GCP TPU VMs from your terminal — create, run, recover, teardown",
+  "author": "Taha Bouhsine",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tpuz-0.1.0.tar.gz",
+  "download_time": "2026-04-04T21:43:27.464152",
+  "package_url": "https://pypi.org/project/tpuz/"
+}
