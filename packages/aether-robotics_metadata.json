@@ -1,11 +1,11 @@
 {
   "name": "aether-robotics",
-  "version": "3.1.3",
+  "version": "3.1.4",
   "summary": "Autonomous multi-agent robotics system with DRL-First Hybrid FDIR",
   "author": "Chahel Paatur",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aether_robotics-3.1.3.tar.gz",
-  "download_time": "2026-04-03T21:19:05.970135",
+  "download_filename": "aether_robotics-3.1.4.tar.gz",
+  "download_time": "2026-04-04T22:51:52.218426",
   "package_url": "https://pypi.org/project/aether-robotics/"
 }

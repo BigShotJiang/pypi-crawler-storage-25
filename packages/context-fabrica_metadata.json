@@ -1,0 +1,11 @@
+{
+  "name": "context-fabrica",
+  "version": "0.4.0",
+  "summary": "Governed agent memory with hybrid retrieval, temporal recall, and graph reasoning",
+  "author": "TaskForest",
+  "license": "MIT",
+  "home_page": "https://github.com/TaskForest/context-fabrica",
+  "download_filename": "context_fabrica-0.4.0.tar.gz",
+  "download_time": "2026-04-04T22:52:09.221648",
+  "package_url": "https://pypi.org/project/context-fabrica/"
+}

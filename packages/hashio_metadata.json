@@ -1,0 +1,11 @@
+{
+  "name": "hashio",
+  "version": "0.5.0",
+  "summary": "Custom file and directory checksum tool",
+  "author": "Ryan Galloway",
+  "license": "BSD 3-Clause License",
+  "home_page": "http://github.com/rsgalloway/hashio",
+  "download_filename": "hashio-0.5.0.tar.gz",
+  "download_time": "2026-04-04T22:51:57.874713",
+  "package_url": "https://pypi.org/project/hashio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-icv-search",
+  "version": "0.10.0",
+  "summary": "Pluggable search engine integration for Django — index management, document indexing, and search queries with swappable backends.",
+  "author": "Nigel Copley",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_icv_search-0.10.0.tar.gz",
+  "download_time": "2026-04-04T22:51:38.734730",
+  "package_url": "https://pypi.org/project/django-icv-search/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "automata-celular",
+  "version": "0.1.0",
+  "summary": "Implementación de autómata celular 1D con reglas de Wolfram",
+  "author": "Juan Gracia Sercado",
+  "license": "GNU General Public License v3.0 (GPL-3.0)",
+  "home_page": "https://github.com/juangracia/automata-celular",
+  "download_filename": "automata_celular-0.1.0.tar.gz",
+  "download_time": "2026-04-04T22:51:56.525620",
+  "package_url": "https://pypi.org/project/automata-celular/"
+}

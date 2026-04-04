@@ -1,11 +1,11 @@
 {
   "name": "codex-plugin-scanner",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "summary": "Security, operational-security, and publishability scanner for Codex plugins with Cisco-backed skill analysis.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codex_plugin_scanner-1.4.3.tar.gz",
-  "download_time": "2026-04-04T21:01:52.268967",
+  "download_filename": "codex_plugin_scanner-1.4.4.tar.gz",
+  "download_time": "2026-04-04T22:51:33.185671",
   "package_url": "https://pypi.org/project/codex-plugin-scanner/"
 }

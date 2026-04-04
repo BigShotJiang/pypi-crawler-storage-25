@@ -1,0 +1,11 @@
+{
+  "name": "aegypti",
+  "version": "0.3.8",
+  "summary": "Compute the Approximate Clique for undirected graph encoded in DIMACS format.",
+  "author": "Frank Vega",
+  "license": "MIT License",
+  "home_page": "https://github.com/frankvegadelgado/finlay",
+  "download_filename": "aegypti-0.3.8.tar.gz",
+  "download_time": "2026-04-04T22:52:20.071370",
+  "package_url": "https://pypi.org/project/aegypti/"
+}

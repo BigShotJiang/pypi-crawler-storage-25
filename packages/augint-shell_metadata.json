@@ -1,11 +1,11 @@
 {
   "name": "augint-shell",
-  "version": "0.22.5",
+  "version": "0.23.0",
   "summary": "Launch AI coding tools and local LLMs in Docker containers",
   "author": "svange",
   "license": null,
   "home_page": null,
-  "download_filename": "augint_shell-0.22.5.tar.gz",
-  "download_time": "2026-04-04T19:23:20.510697",
+  "download_filename": "augint_shell-0.23.0.tar.gz",
+  "download_time": "2026-04-04T22:51:42.245680",
   "package_url": "https://pypi.org/project/augint-shell/"
 }
