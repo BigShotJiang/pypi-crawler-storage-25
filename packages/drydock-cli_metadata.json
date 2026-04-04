@@ -1,11 +1,11 @@
 {
   "name": "drydock-cli",
-  "version": "2.4.5",
+  "version": "2.4.7",
   "summary": "Drydock — nautical CLI coding agent",
   "author": "Drydock contributors, Mistral AI (original)",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "drydock_cli-2.4.5.tar.gz",
-  "download_time": "2026-04-04T15:32:38.899565",
+  "download_filename": "drydock_cli-2.4.7.tar.gz",
+  "download_time": "2026-04-04T15:59:41.442839",
   "package_url": "https://pypi.org/project/drydock-cli/"
 }

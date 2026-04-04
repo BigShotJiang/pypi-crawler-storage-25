@@ -1,11 +1,11 @@
 {
   "name": "rfx-fdtd",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "summary": "JAX-native 3D FDTD electromagnetic simulator for RF engineering",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rfx_fdtd-1.2.0.tar.gz",
-  "download_time": "2026-04-04T12:04:16.852132",
+  "download_filename": "rfx_fdtd-1.3.0.tar.gz",
+  "download_time": "2026-04-04T16:00:18.074331",
   "package_url": "https://pypi.org/project/rfx-fdtd/"
 }

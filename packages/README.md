@@ -1,50 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-04-04T15:32:57.029647
-- **Total Packages**: 89
-- **Total Size**: 46.0 MB
+- **Download Time**: 2026-04-04T16:00:25.806699
+- **Total Packages**: 88
+- **Total Size**: 24.79 MB
 
 ## Packages List
-- gnomepy
-- bonsai-nn-library
-- slotloss
-- makrell
-- tsdate
-- voidcrawl
-- nteract
-- runtimed
-- enwrit
-- aun-core
-- kblens
-- kwslib
-- bitsage-sdk
-- rwlocker
-- datablob
-- indream-client
-- mlx-stack
-- aiecs
-- fixos
-- bapp-connectors
-- stock-trek
-- xtlsapi-ipblacklist
-- tuxgenie
-- llmakits
-- aisbf
-- cognex
-- jsmn-tools
-- deepnetz
-- ouroboros-ai
-- quanteval
-- endstone-endweave
-- rexys-pyutils
-- lupy
-- reprospect
-- fastscrumpoker
-- lucid-pipeline
-- kluris
-- xiaomi-ble
-- mwgencode
 - babelwrap-mcp
 - babelwrap
 - oeissequences
@@ -58,6 +19,7 @@
 - ojhunt
 - python-roborock
 - xwnode
+- fastscrumpoker
 - exonware-xwnode
 - esp-flasher
 - drydock-cli
@@ -68,6 +30,8 @@
 - kailash-pact
 - biopb
 - freetser
+- kluris
+- rexys-pyutils
 - orze-pro
 - ztu-somemodelruntime-ez-rknn-async
 - taxid-etims
@@ -76,6 +40,7 @@
 - mcp-ezpay-einvoice
 - json-admin
 - resample
+- fixos
 - reprompt-cli
 - llm-cache-lite
 - exoclaw-executor-dbos
@@ -88,6 +53,7 @@
 - rustplotlib
 - muziqa
 - cm-qa-integration
+- xtlsapi-ipblacklist
 - pythodds
 - ctxray
 - tollbooth
@@ -95,3 +61,36 @@
 - pycubrid
 - proxbox-api
 - hill-climb-racing-env
+- mangscan
+- pyverse2d
+- voidcrawl
+- tracelify-sdk
+- paddock-agent
+- marknotion
+- pyHMT2D
+- rpyc-ng
+- geone
+- lmprobe
+- epftoolbox2
+- tuxgenie
+- hydra-agents
+- ado-git-repo-insights
+- somatize
+- ExSCF
+- matplobbot-shared
+- deepnetz
+- pgcraft
+- crossmark-jotform-api
+- flowly-ai
+- rfx-fdtd
+- stigmer
+- zulip-agent-adapter
+- richardzhi-mcp-demo
+- stigmer-protos
+- baselith-core
+- pragmatiks-qdrant-provider
+- pragmatiks-agno-provider
+- psinfo
+- netscout
+- openlaoke
+- corticalfields

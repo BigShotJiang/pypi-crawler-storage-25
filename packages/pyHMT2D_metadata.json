@@ -1,0 +1,11 @@
+{
+  "name": "pyHMT2D",
+  "version": "2.0.0",
+  "summary": "Two-dimensional hydraulic modeling tools in Python",
+  "author": "Xiaofeng Liu",
+  "license": "MIT",
+  "home_page": "https://github.com/psu-efd/pyHMT2D",
+  "download_filename": "pyhmt2d-2.0.0-py3-none-any.whl",
+  "download_time": "2026-04-04T16:00:07.246970",
+  "package_url": "https://pypi.org/project/pyHMT2D/"
+}
