@@ -1,0 +1,11 @@
+{
+  "name": "nps-ctl",
+  "version": "0.4.0",
+  "summary": "A Python library and CLI tool for managing NPS (djylb/nps) proxy servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nps_ctl-0.4.0.tar.gz",
+  "download_time": "2026-04-04T17:18:08.759017",
+  "package_url": "https://pypi.org/project/nps-ctl/"
+}

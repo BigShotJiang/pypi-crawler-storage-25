@@ -1,0 +1,11 @@
+{
+  "name": "multikeyjwt",
+  "version": "1.5.0",
+  "summary": "Verify JWTs with multiple public keys, FastAPI middleware for auth",
+  "author": "Eero af Heurlin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "multikeyjwt-1.5.0.tar.gz",
+  "download_time": "2026-04-04T17:18:09.270379",
+  "package_url": "https://pypi.org/project/multikeyjwt/"
+}

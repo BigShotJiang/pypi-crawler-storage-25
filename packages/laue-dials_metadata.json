@@ -1,0 +1,11 @@
+{
+  "name": "laue-dials",
+  "version": "0.5.1",
+  "summary": "A package for analyzing Laue x-ray crystallography data using the DIALS framework.",
+  "author": "Rick A. Hewitt",
+  "license": "MIT",
+  "home_page": "https://github.com/rs-station/laue_dials",
+  "download_filename": "laue_dials-0.5.1-py3-none-any.whl",
+  "download_time": "2026-04-04T17:18:10.304107",
+  "package_url": "https://pypi.org/project/laue-dials/"
+}

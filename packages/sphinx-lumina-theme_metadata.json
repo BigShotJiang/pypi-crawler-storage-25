@@ -1,11 +1,11 @@
 {
   "name": "sphinx-lumina-theme",
-  "version": "1.21.1",
+  "version": "1.22.0",
   "summary": "A modern Sphinx documentation theme with Tailwind CSS and Alpine.js",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sphinx_lumina_theme-1.21.1.tar.gz",
-  "download_time": "2026-04-04T16:43:42.499037",
+  "download_filename": "sphinx_lumina_theme-1.22.0.tar.gz",
+  "download_time": "2026-04-04T17:18:05.630759",
   "package_url": "https://pypi.org/project/sphinx-lumina-theme/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pytest-html-plus",
+  "version": "0.5.2",
+  "summary": "Generate Actionable, automatic screenshots, unified Mobile friendly Pytest HTML report in less than 3 seconds — no hooks, merge plugins, no config, xdist-ready.",
+  "author": "reporterplus",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_html_plus-0.5.2.tar.gz",
+  "download_time": "2026-04-04T17:18:09.784861",
+  "package_url": "https://pypi.org/project/pytest-html-plus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "insurance-monitoring",
+  "version": "1.2.1",
+  "summary": "Model drift detection, calibration monitoring, and sequential A/B testing for insurance pricing models: PSI, Gini drift, Murphy decomposition, mSPRT champion/challenger.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "insurance_monitoring-1.2.1.tar.gz",
+  "download_time": "2026-04-04T17:17:41.907860",
+  "package_url": "https://pypi.org/project/insurance-monitoring/"
+}

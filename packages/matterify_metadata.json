@@ -1,0 +1,11 @@
+{
+  "name": "matterify",
+  "version": "0.2.1",
+  "summary": "Extract and aggregate YAML frontmatter from Markdown files into structured JSON",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "matterify-0.2.1.tar.gz",
+  "download_time": "2026-04-04T17:17:45.504769",
+  "package_url": "https://pypi.org/project/matterify/"
+}

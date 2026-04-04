@@ -1,0 +1,11 @@
+{
+  "name": "deimos-daq",
+  "version": "0.16.1",
+  "summary": "Control-loop and data pipeline for the Deimos data acquisition system",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/deimoscontrols/deimos",
+  "download_filename": "deimos_daq-0.16.1.tar.gz",
+  "download_time": "2026-04-04T17:18:02.034350",
+  "package_url": "https://pypi.org/project/deimos-daq/"
+}

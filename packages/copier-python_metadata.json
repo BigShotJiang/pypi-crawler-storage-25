@@ -1,11 +1,11 @@
 {
   "name": "copier-python",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Copier template for Python projects with modern tooling",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "copier_python-0.2.1.tar.gz",
-  "download_time": "2026-04-04T07:39:17.830175",
+  "download_filename": "copier_python-0.3.0.tar.gz",
+  "download_time": "2026-04-04T17:17:54.806578",
   "package_url": "https://pypi.org/project/copier-python/"
 }

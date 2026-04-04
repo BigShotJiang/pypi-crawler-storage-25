@@ -1,11 +1,11 @@
 {
   "name": "crossmem",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Cross-project memory for AI coding agents",
   "author": "Md Niajul Hasan",
   "license": null,
   "home_page": null,
-  "download_filename": "crossmem-0.3.0.tar.gz",
-  "download_time": "2026-04-03T19:03:08.720527",
+  "download_filename": "crossmem-0.3.1.tar.gz",
+  "download_time": "2026-04-04T17:18:03.059647",
   "package_url": "https://pypi.org/project/crossmem/"
 }

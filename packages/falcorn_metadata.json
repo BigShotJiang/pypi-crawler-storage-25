@@ -1,0 +1,11 @@
+{
+  "name": "falcorn",
+  "version": "0.1.2",
+  "summary": "A lightning fast WSGI/ASGI application server written in Rust",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/AllDotPy/Falcorn",
+  "download_filename": "falcorn-0.1.2.tar.gz",
+  "download_time": "2026-04-04T17:17:54.288642",
+  "package_url": "https://pypi.org/project/falcorn/"
+}

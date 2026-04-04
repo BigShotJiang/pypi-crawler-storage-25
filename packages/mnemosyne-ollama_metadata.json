@@ -1,0 +1,11 @@
+{
+  "name": "mnemosyne-ollama",
+  "version": "0.1.0",
+  "summary": "Ask your codebase questions using Ollama and Mnemosyne -- zero-config local code search",
+  "author": "Cast Rock Innovation L.L.C.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mnemosyne_ollama-0.1.0.tar.gz",
+  "download_time": "2026-04-04T17:17:38.810075",
+  "package_url": "https://pypi.org/project/mnemosyne-ollama/"
+}

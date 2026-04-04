@@ -1,11 +1,11 @@
 {
   "name": "agribound",
-  "version": "0.1.1.post1",
+  "version": "0.1.2",
   "summary": "Agribound: Unified agricultural field boundary delineation from satellite imagery using geospatial foundation models, pre-trained segmentation, and embeddings.",
-  "author": "Justin Huntington, Peter ReVelle, Soheil Nozari, Ryan Smith, Matt Bromley, Jayden Atkin, Samapriya Roy",
+  "author": "Justin L. Huntington, Peter ReVelle, Soheil Nozari, Ryan G. Smith, M. F. Hasan, Matt Bromley, Jayden Atkin, Jeremy Rapp, Eric R. Jensen, David Ketchum, Samapriya Roy",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agribound-0.1.1.post1-py3-none-any.whl",
-  "download_time": "2026-03-31T23:50:51.655360",
+  "download_filename": "agribound-0.1.2-py3-none-any.whl",
+  "download_time": "2026-04-04T17:18:14.563422",
   "package_url": "https://pypi.org/project/agribound/"
 }

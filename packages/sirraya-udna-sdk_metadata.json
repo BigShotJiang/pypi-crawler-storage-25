@@ -1,11 +1,11 @@
 {
   "name": "sirraya-udna-sdk",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Sirraya Labs UDNA SDK - W3C Universal DID-Native Addressing Implementation",
   "author": "Sirraya Labs",
   "license": null,
   "home_page": "https://github.com/sirraya-labs/udna-sdk",
-  "download_filename": "sirraya_udna_sdk-1.0.2.tar.gz",
-  "download_time": "2026-04-04T11:46:31.537208",
+  "download_filename": "sirraya_udna_sdk-1.0.4.tar.gz",
+  "download_time": "2026-04-04T17:18:08.247732",
   "package_url": "https://pypi.org/project/sirraya-udna-sdk/"
 }
