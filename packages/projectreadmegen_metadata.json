@@ -1,11 +1,11 @@
 {
   "name": "projectreadmegen",
-  "version": "1.6.9",
+  "version": "1.6.10",
   "summary": "Auto-generate README files from folder structure",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "projectreadmegen-1.6.9.tar.gz",
-  "download_time": "2026-04-04T19:56:40.770116",
+  "download_filename": "projectreadmegen-1.6.10.tar.gz",
+  "download_time": "2026-04-04T20:32:22.437364",
   "package_url": "https://pypi.org/project/projectreadmegen/"
 }

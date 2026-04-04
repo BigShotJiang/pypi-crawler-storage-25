@@ -1,0 +1,11 @@
+{
+  "name": "pragma-market",
+  "version": "0.2.0",
+  "summary": "Python SDK and CLI for agent-native trading on Pragma Market.",
+  "author": "penteautomation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pragma_market-0.2.0.tar.gz",
+  "download_time": "2026-04-04T20:32:06.472602",
+  "package_url": "https://pypi.org/project/pragma-market/"
+}

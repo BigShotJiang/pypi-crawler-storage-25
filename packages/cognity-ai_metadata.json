@@ -1,0 +1,11 @@
+{
+  "name": "cognity-ai",
+  "version": "2.0.1",
+  "summary": "Modular, provider-agnostic RAG library — any LLM, any vector store, any graph DB, any file format",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cognity_ai-2.0.1.tar.gz",
+  "download_time": "2026-04-04T20:32:16.751747",
+  "package_url": "https://pypi.org/project/cognity-ai/"
+}

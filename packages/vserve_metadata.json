@@ -1,11 +1,11 @@
 {
   "name": "vserve",
-  "version": "0.3.3",
-  "summary": "CLI for managing vLLM inference on GPU workstations",
+  "version": "0.5.0",
+  "summary": "CLI for managing LLM inference on GPU workstations",
   "author": "Mohan Qiao",
   "license": null,
   "home_page": null,
-  "download_filename": "vserve-0.3.3.tar.gz",
-  "download_time": "2026-04-03T21:19:14.987625",
+  "download_filename": "vserve-0.5.0.tar.gz",
+  "download_time": "2026-04-04T20:31:55.301845",
   "package_url": "https://pypi.org/project/vserve/"
 }

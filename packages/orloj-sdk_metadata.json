@@ -1,0 +1,11 @@
+{
+  "name": "orloj-sdk",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for the Orloj multi-agent orchestration platform",
+  "author": "Orloj HQ",
+  "license": null,
+  "home_page": null,
+  "download_filename": "orloj_sdk-0.1.0.tar.gz",
+  "download_time": "2026-04-04T20:32:26.887706",
+  "package_url": "https://pypi.org/project/orloj-sdk/"
+}

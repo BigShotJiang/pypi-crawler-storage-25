@@ -1,11 +1,11 @@
 {
   "name": "quickagents",
-  "version": "2.8.2",
+  "version": "2.8.3",
   "summary": "QuickAgents - AI Agent Enhancement Toolkit with Document Understanding, Self-Evolution and Unified UTF-8 Encoding",
   "author": "Coder-Beam",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quickagents-2.8.2.tar.gz",
-  "download_time": "2026-04-04T18:45:50.830179",
+  "download_filename": "quickagents-2.8.3.tar.gz",
+  "download_time": "2026-04-04T20:31:51.815479",
   "package_url": "https://pypi.org/project/quickagents/"
 }

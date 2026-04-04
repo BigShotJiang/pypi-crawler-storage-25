@@ -1,0 +1,11 @@
+{
+  "name": "clipflow",
+  "version": "0.2.0",
+  "summary": "Trim, compress, and highlight video clips — auto-managed ffmpeg, zero setup",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clipflow-0.2.0.tar.gz",
+  "download_time": "2026-04-04T20:32:17.266316",
+  "package_url": "https://pypi.org/project/clipflow/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "deepvista-cli",
-  "version": "0.1.0a3",
-  "summary": "CLI for DeepVista — manage your knowledge base, VistaBooks, notes, and chat from the terminal.",
+  "version": "0.1.0a4",
+  "summary": "CLI for DeepVista — chat, notes, recipes, and memory from your terminal.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "deepvista_cli-0.1.0a3.tar.gz",
-  "download_time": "2026-04-04T02:04:33.878024",
+  "download_filename": "deepvista_cli-0.1.0a4.tar.gz",
+  "download_time": "2026-04-04T20:31:52.354321",
   "package_url": "https://pypi.org/project/deepvista-cli/"
 }

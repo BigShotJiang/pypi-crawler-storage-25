@@ -1,0 +1,11 @@
+{
+  "name": "pytest-leela",
+  "version": "0.3.0",
+  "summary": "Type-aware mutation testing for Python — fast, opinionated, pytest-native",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_leela-0.3.0.tar.gz",
+  "download_time": "2026-04-04T20:32:28.684889",
+  "package_url": "https://pypi.org/project/pytest-leela/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "streamlit-stepper",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "A multi-step wizard component for Streamlit with validation and progress tracking",
-  "author": "Your Name",
+  "author": "Dan Sheils",
   "license": null,
   "home_page": "https://github.com/RhythrosaLabs/streamlit-stepper",
-  "download_filename": "streamlit_stepper-0.1.0.tar.gz",
-  "download_time": "2026-04-04T19:23:14.857377",
+  "download_filename": "streamlit_stepper-0.3.0.tar.gz",
+  "download_time": "2026-04-04T20:32:03.811460",
   "package_url": "https://pypi.org/project/streamlit-stepper/"
 }
