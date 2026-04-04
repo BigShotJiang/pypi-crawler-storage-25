@@ -1,11 +1,11 @@
 {
   "name": "hebbmem",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Hebbian memory for AI agents — memories that fire together wire together.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hebbmem-0.2.0.tar.gz",
-  "download_time": "2026-04-04T17:18:02.547125",
+  "download_filename": "hebbmem-0.4.0.tar.gz",
+  "download_time": "2026-04-04T17:59:16.831535",
   "package_url": "https://pypi.org/project/hebbmem/"
 }

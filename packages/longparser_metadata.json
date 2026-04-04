@@ -1,0 +1,11 @@
+{
+  "name": "longparser",
+  "version": "0.1.0",
+  "summary": "Privacy-first document intelligence engine — converts PDFs, DOCX, PPTX, XLSX, and CSV into AI-ready Markdown + structured JSON for RAG pipelines.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "longparser-0.1.0.tar.gz",
+  "download_time": "2026-04-04T17:58:55.221619",
+  "package_url": "https://pypi.org/project/longparser/"
+}

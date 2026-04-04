@@ -1,0 +1,11 @@
+{
+  "name": "aiwaf-fast",
+  "version": "0.0.2",
+  "summary": "AI Web Application Firewall for FastAPI - Advanced security middleware",
+  "author": "Aayush Gauba",
+  "license": "MIT",
+  "home_page": "https://github.com/aayushgauba/aiwaf-fast",
+  "download_filename": "aiwaf_fast-0.0.2.tar.gz",
+  "download_time": "2026-04-04T17:59:06.157883",
+  "package_url": "https://pypi.org/project/aiwaf-fast/"
+}

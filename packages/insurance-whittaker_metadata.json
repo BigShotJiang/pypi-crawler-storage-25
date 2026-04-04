@@ -1,0 +1,11 @@
+{
+  "name": "insurance-whittaker",
+  "version": "0.1.5",
+  "summary": "Whittaker-Henderson smoothing for insurance pricing and actuarial rating tables: 1D and 2D graduation with automatic lambda selection via cross-validation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "insurance_whittaker-0.1.5.tar.gz",
+  "download_time": "2026-04-04T17:59:23.191825",
+  "package_url": "https://pypi.org/project/insurance-whittaker/"
+}
