@@ -1,0 +1,11 @@
+{
+  "name": "tradeo",
+  "version": "0.24.2",
+  "summary": "This library contains a series of tools to create a trading bot for Forex trading using Metatrader.",
+  "author": "Cayetano Romero Vargas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tradeo-0.24.2.tar.gz",
+  "download_time": "2026-04-04T11:07:28.024210",
+  "package_url": "https://pypi.org/project/tradeo/"
+}

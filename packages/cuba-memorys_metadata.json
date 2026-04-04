@@ -1,11 +1,11 @@
 {
   "name": "cuba-memorys",
-  "version": "1.7.0",
-  "summary": "Persistent memory for AI agents — knowledge graph MCP server with Hebbian learning, RRF fusion search, GraphRAG, and anti-hallucination grounding. 13 tools, PostgreSQL, sub-millisecond handlers.",
+  "version": "1.8.0",
+  "summary": "Persistent memory for AI agents — knowledge graph MCP server with 19 tools: Hebbian learning, RRF fusion, episodic memory, contradiction detection, prospective triggers, Bayesian calibration, link prediction. PostgreSQL, sub-millisecond.",
   "author": null,
   "license": "CC-BY-NC-4.0",
   "home_page": null,
-  "download_filename": "cuba_memorys-1.7.0.tar.gz",
-  "download_time": "2026-03-28T11:59:12.548761",
+  "download_filename": "cuba_memorys-1.8.0-py3-none-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2026-04-04T11:07:58.715873",
   "package_url": "https://pypi.org/project/cuba-memorys/"
 }

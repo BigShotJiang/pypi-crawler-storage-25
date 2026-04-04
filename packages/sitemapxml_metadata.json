@@ -1,0 +1,11 @@
+{
+  "name": "sitemapxml",
+  "version": "0.1.0",
+  "summary": "A CLI tool to parse sitemaps and extract URL metadata into a CSV format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sitemapxml-0.1.0.tar.gz",
+  "download_time": "2026-04-04T11:07:24.532232",
+  "package_url": "https://pypi.org/project/sitemapxml/"
+}

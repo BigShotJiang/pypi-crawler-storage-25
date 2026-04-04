@@ -1,0 +1,11 @@
+{
+  "name": "vsdirty",
+  "version": "0.3.0",
+  "summary": "VapourSynth wrappers for denoising, masking and edge fixing",
+  "author": "PingWer, Mhanz3500",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vsdirty-0.3.0.tar.gz",
+  "download_time": "2026-04-04T11:07:37.476484",
+  "package_url": "https://pypi.org/project/vsdirty/"
+}

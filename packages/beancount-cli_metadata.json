@@ -1,0 +1,11 @@
+{
+  "name": "beancount-cli",
+  "version": "0.2.8",
+  "summary": "A CLI tool to manage Beancount ledgers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "beancount_cli-0.2.8.tar.gz",
+  "download_time": "2026-04-04T11:07:25.682353",
+  "package_url": "https://pypi.org/project/beancount-cli/"
+}

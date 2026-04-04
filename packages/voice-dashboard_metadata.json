@@ -1,11 +1,11 @@
 {
   "name": "voice-dashboard",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "Daily-friendly MiniMax batch TTS CLI",
   "author": "Leon Wong",
   "license": null,
   "home_page": null,
-  "download_filename": "voice_dashboard-0.7.1.tar.gz",
-  "download_time": "2026-04-04T10:34:24.098110",
+  "download_filename": "voice_dashboard-0.7.2.tar.gz",
+  "download_time": "2026-04-04T11:07:38.018884",
   "package_url": "https://pypi.org/project/voice-dashboard/"
 }

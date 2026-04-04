@@ -1,0 +1,11 @@
+{
+  "name": "mkpipe-loader-file",
+  "version": "0.5.0",
+  "summary": "File-based loader for mkpipe (S3, ADLS, GCS, HDFS, local). Supports parquet, csv, json, orc, avro, iceberg, delta.",
+  "author": "Metin Karakus",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "mkpipe_loader_file-0.5.0.tar.gz",
+  "download_time": "2026-04-04T11:07:56.522040",
+  "package_url": "https://pypi.org/project/mkpipe-loader-file/"
+}

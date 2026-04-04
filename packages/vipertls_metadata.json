@@ -1,0 +1,11 @@
+{
+  "name": "vipertls",
+  "version": "0.1.1",
+  "summary": "Pure Python TLS fingerprint spoofing client with browser challenge fallback.",
+  "author": "vipertls",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vipertls-0.1.1.tar.gz",
+  "download_time": "2026-04-04T11:07:26.260506",
+  "package_url": "https://pypi.org/project/vipertls/"
+}

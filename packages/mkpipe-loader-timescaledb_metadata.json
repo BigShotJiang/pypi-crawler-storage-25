@@ -1,0 +1,11 @@
+{
+  "name": "mkpipe-loader-timescaledb",
+  "version": "0.2.0",
+  "summary": "TimescaleDB loader for mkpipe (uses PostgreSQL JDBC driver).",
+  "author": "Metin Karakus",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "mkpipe_loader_timescaledb-0.2.0.tar.gz",
+  "download_time": "2026-04-04T11:07:42.358083",
+  "package_url": "https://pypi.org/project/mkpipe-loader-timescaledb/"
+}
