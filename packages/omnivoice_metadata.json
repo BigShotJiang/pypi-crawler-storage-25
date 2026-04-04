@@ -1,0 +1,11 @@
+{
+  "name": "omnivoice",
+  "version": "0.1.2",
+  "summary": "OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models",
+  "author": "Han Zhu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "omnivoice-0.1.2.tar.gz",
+  "download_time": "2026-04-04T13:23:12.601124",
+  "package_url": "https://pypi.org/project/omnivoice/"
+}

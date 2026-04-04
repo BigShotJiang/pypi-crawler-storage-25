@@ -1,11 +1,11 @@
 {
   "name": "smsd",
-  "version": "6.7.0",
+  "version": "6.10.2",
   "summary": "Fast substructure search, MCS, circular fingerprints, and molecular similarity with tautomer awareness and GPU acceleration",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "smsd-6.7.0.tar.gz",
-  "download_time": "2026-03-31T11:35:53.208594",
+  "download_filename": "smsd-6.10.2.tar.gz",
+  "download_time": "2026-04-04T13:23:00.886233",
   "package_url": "https://pypi.org/project/smsd/"
 }

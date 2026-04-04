@@ -1,11 +1,11 @@
 {
   "name": "ase-biaspot",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "User-defined bias potentials for ASE geometry optimization with learnable weights (nn.Parameter), torch/autograd and numerical fallback.",
   "author": "ss0832",
   "license": null,
   "home_page": null,
-  "download_filename": "ase_biaspot-0.1.5.tar.gz",
-  "download_time": "2026-04-04T09:09:10.949486",
+  "download_filename": "ase_biaspot-0.1.8.tar.gz",
+  "download_time": "2026-04-04T13:23:07.302318",
   "package_url": "https://pypi.org/project/ase-biaspot/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "contextfirewall",
+  "version": "0.2.1",
+  "summary": "A lightweight, developer-friendly firewall for LLM prompts. Prevents sensitive data from reaching AI models.",
+  "author": "Suhaib Bin Younis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "contextfirewall-0.2.1.tar.gz",
+  "download_time": "2026-04-04T13:23:13.688051",
+  "package_url": "https://pypi.org/project/contextfirewall/"
+}

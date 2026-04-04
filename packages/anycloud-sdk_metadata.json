@@ -1,0 +1,11 @@
+{
+  "name": "anycloud-sdk",
+  "version": "5.18.1",
+  "summary": "Python SDK for anycloud — submit jobs, build DAGs, run workloads on any cloud",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "anycloud_sdk-5.18.1.tar.gz",
+  "download_time": "2026-04-04T13:23:34.843062",
+  "package_url": "https://pypi.org/project/anycloud-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pdfmux",
+  "version": "1.4.0",
+  "summary": "Universal PDF extraction orchestrator. Routes each page to the best of 5 backends + BYOK LLM, audits output, re-extracts failures. CLI, Python API, MCP server, LangChain, LlamaIndex.",
+  "author": "Nameet Potnis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdfmux-1.4.0.tar.gz",
+  "download_time": "2026-04-04T13:23:39.949031",
+  "package_url": "https://pypi.org/project/pdfmux/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "libgossip",
+  "version": "0.3.0",
+  "summary": "Python bindings for libgossip - a C++ Gossip protocol implementation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "libgossip-0.3.0.tar.gz",
+  "download_time": "2026-04-04T13:23:16.777661",
+  "package_url": "https://pypi.org/project/libgossip/"
+}
