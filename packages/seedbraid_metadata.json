@@ -1,0 +1,11 @@
+{
+  "name": "seedbraid",
+  "version": "2.0.4",
+  "summary": "Reference-based file reconstruction with CDC chunking, SBD1 binary seed format, and IPFS transport",
+  "author": "aimsise",
+  "license": null,
+  "home_page": null,
+  "download_filename": "seedbraid-2.0.4.tar.gz",
+  "download_time": "2026-04-04T04:27:48.861335",
+  "package_url": "https://pypi.org/project/seedbraid/"
+}

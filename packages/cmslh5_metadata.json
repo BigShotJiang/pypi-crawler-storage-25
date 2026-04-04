@@ -1,0 +1,11 @@
+{
+  "name": "cmslh5",
+  "version": "0.1.4",
+  "summary": "Read, write, and analyse COMSOL HDF5 result files (.cmslh5)",
+  "author": "S. K. Sinha",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cmslh5-0.1.4.tar.gz",
+  "download_time": "2026-04-04T04:27:52.468273",
+  "package_url": "https://pypi.org/project/cmslh5/"
+}

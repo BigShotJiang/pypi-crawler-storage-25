@@ -1,11 +1,11 @@
 {
   "name": "lilliepy-dir-router",
-  "version": "11.0.0",
+  "version": "13.0.0",
   "summary": "File-based router for ReactPy or LilliePy framework",
   "author": "Sarthak Ghoshal",
   "license": "MIT",
   "home_page": "https://github.com/websitedeb/lilliepy-dir-router",
-  "download_filename": "lilliepy_dir_router-11.0.0.tar.gz",
-  "download_time": "2026-04-03T06:04:34.992142",
+  "download_filename": "lilliepy_dir_router-13.0.0.tar.gz",
+  "download_time": "2026-04-04T04:27:55.583900",
   "package_url": "https://pypi.org/project/lilliepy-dir-router/"
 }

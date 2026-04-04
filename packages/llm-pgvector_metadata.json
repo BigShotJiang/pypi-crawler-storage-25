@@ -1,0 +1,11 @@
+{
+  "name": "llm-pgvector",
+  "version": "0.2.0",
+  "summary": "PostgreSQL pgvector storage backend for LLM",
+  "author": "Tim Ren",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llm_pgvector-0.2.0.tar.gz",
+  "download_time": "2026-04-04T04:27:37.401437",
+  "package_url": "https://pypi.org/project/llm-pgvector/"
+}

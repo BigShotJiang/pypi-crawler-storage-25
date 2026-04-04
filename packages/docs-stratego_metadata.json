@@ -1,11 +1,11 @@
 {
   "name": "docs-stratego",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Central documentation hub for multi-repo software projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "docs_stratego-0.1.1.tar.gz",
-  "download_time": "2026-04-03T11:56:01.933828",
+  "download_filename": "docs_stratego-0.1.4.tar.gz",
+  "download_time": "2026-04-04T04:27:37.913561",
   "package_url": "https://pypi.org/project/docs-stratego/"
 }

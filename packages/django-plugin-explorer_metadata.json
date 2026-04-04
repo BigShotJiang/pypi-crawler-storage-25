@@ -1,0 +1,11 @@
+{
+  "name": "django-plugin-explorer",
+  "version": "0.1.1",
+  "summary": "Un explorateur des plugins installés pour Django Admin",
+  "author": "Armand Kouassi (krak225)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_plugin_explorer-0.1.1.tar.gz",
+  "download_time": "2026-04-04T04:27:32.217892",
+  "package_url": "https://pypi.org/project/django-plugin-explorer/"
+}
