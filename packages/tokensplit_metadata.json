@@ -1,0 +1,11 @@
+{
+  "name": "tokensplit",
+  "version": "0.1.1",
+  "summary": "String-separated values with user-defined multi-character delimiters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tokensplit-0.1.1.tar.gz",
+  "download_time": "2026-04-04T16:43:35.496464",
+  "package_url": "https://pypi.org/project/tokensplit/"
+}

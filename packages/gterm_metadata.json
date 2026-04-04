@@ -1,0 +1,11 @@
+{
+  "name": "gterm",
+  "version": "0.1.5",
+  "summary": "Natural language terminal powered by Gemma 4 via llama.cpp",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gterm-0.1.5.tar.gz",
+  "download_time": "2026-04-04T16:43:34.963232",
+  "package_url": "https://pypi.org/project/gterm/"
+}

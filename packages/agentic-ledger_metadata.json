@@ -1,0 +1,11 @@
+{
+  "name": "agentic-ledger",
+  "version": "0.1.3",
+  "summary": "Runtime observability for AI agents — see exactly what your agent did, why it did it, and what it cost.",
+  "author": "Shekhar Bhardwaj",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentic_ledger-0.1.3.tar.gz",
+  "download_time": "2026-04-04T16:43:26.810811",
+  "package_url": "https://pypi.org/project/agentic-ledger/"
+}

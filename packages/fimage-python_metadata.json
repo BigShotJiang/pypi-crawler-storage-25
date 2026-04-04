@@ -1,0 +1,11 @@
+{
+  "name": "fimage-python",
+  "version": "0.1.1",
+  "summary": "Fast Image processing library with lazy evaluation",
+  "author": "AI for Oncology Research Group",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/NKI-AI/aifo-openmidnight",
+  "download_filename": "fimage_python-0.1.1-cp310-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-04-04T16:43:47.895827",
+  "package_url": "https://pypi.org/project/fimage-python/"
+}

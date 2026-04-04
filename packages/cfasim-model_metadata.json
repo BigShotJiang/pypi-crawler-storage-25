@@ -1,11 +1,11 @@
 {
   "name": "cfasim-model",
-  "version": "0.1.10",
+  "version": "0.2.0",
   "summary": "Base model class for CFA simulations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cfasim_model-0.1.10.tar.gz",
-  "download_time": "2026-04-04T14:07:39.097683",
+  "download_filename": "cfasim_model-0.2.0.tar.gz",
+  "download_time": "2026-04-04T16:43:55.906116",
   "package_url": "https://pypi.org/project/cfasim-model/"
 }

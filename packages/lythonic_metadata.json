@@ -1,11 +1,11 @@
 {
   "name": "lythonic",
-  "version": "0.0.10",
-  "summary": "Light-weight pythonic db integration - powered by the best of all time: sqlite and pydantic",
+  "version": "0.0.11",
+  "summary": "Lightweight pythonic toolkit for building complex workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lythonic-0.0.10.tar.gz",
-  "download_time": "2026-03-30T20:27:58.100660",
+  "download_filename": "lythonic-0.0.11.tar.gz",
+  "download_time": "2026-04-04T16:43:49.487890",
   "package_url": "https://pypi.org/project/lythonic/"
 }

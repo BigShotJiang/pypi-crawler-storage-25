@@ -1,11 +1,11 @@
 {
   "name": "cruise",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Polls Linear for issues and dispatches Claude Code agents to work on them",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cruise-0.1.0.tar.gz",
-  "download_time": "2026-04-04T14:08:03.924861",
+  "download_filename": "cruise-0.2.0.tar.gz",
+  "download_time": "2026-04-04T16:43:33.339233",
   "package_url": "https://pypi.org/project/cruise/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "qqet",
+  "version": "0.1.0",
+  "summary": "QQet — Fast quantum circuit simulator with Qiskit-style visualization",
+  "author": "Muhammad",
+  "license": null,
+  "home_page": "https://github.com/yourusername/qqet",
+  "download_filename": "qqet-0.1.0.tar.gz",
+  "download_time": "2026-04-04T16:43:41.956785",
+  "package_url": "https://pypi.org/project/qqet/"
+}

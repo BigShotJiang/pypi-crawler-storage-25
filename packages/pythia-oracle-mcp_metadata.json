@@ -1,11 +1,11 @@
 {
   "name": "pythia-oracle-mcp",
-  "version": "0.2.3",
-  "summary": "MCP server for Pythia Oracle — on-chain calculated indicators (EMA, RSI, Bollinger, Volatility) via Chainlink",
+  "version": "0.2.6",
+  "summary": "Every smart contract deserves intelligence, not just data. Pythia Oracle MCP server — on-chain calculated indicators via Chainlink.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pythia_oracle_mcp-0.2.3.tar.gz",
-  "download_time": "2026-04-03T11:13:14.288067",
+  "download_filename": "pythia_oracle_mcp-0.2.6.tar.gz",
+  "download_time": "2026-04-04T16:43:45.633658",
   "package_url": "https://pypi.org/project/pythia-oracle-mcp/"
 }
