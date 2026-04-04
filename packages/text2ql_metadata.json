@@ -1,0 +1,11 @@
+{
+  "name": "text2ql",
+  "version": "0.1.1",
+  "summary": "Natural language to any query language, starting with GraphQL",
+  "author": "text2ql contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "text2ql-0.1.1.tar.gz",
+  "download_time": "2026-04-04T09:09:16.115527",
+  "package_url": "https://pypi.org/project/text2ql/"
+}

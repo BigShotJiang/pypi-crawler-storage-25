@@ -1,11 +1,11 @@
 {
   "name": "piv-oac",
-  "version": "0.2.0",
+  "version": "0.4.1",
   "summary": "SDK Python para el framework PIV/OAC — agentes, contratos y engram store",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "piv_oac-0.2.0.tar.gz",
-  "download_time": "2026-04-04T08:26:03.252578",
+  "download_filename": "piv_oac-0.4.1.tar.gz",
+  "download_time": "2026-04-04T09:09:06.805365",
   "package_url": "https://pypi.org/project/piv-oac/"
 }

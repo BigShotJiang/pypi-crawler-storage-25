@@ -1,11 +1,11 @@
 {
   "name": "daily-report-collector",
-  "version": "0.1.10",
+  "version": "0.1.14",
   "summary": "Cross-platform agent that collects AI coding tool memory files and syncs to a central server",
   "author": "ddong8",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "daily_report_collector-0.1.10.tar.gz",
-  "download_time": "2026-04-04T08:26:15.572529",
+  "download_filename": "daily_report_collector-0.1.14.tar.gz",
+  "download_time": "2026-04-04T09:08:53.576803",
   "package_url": "https://pypi.org/project/daily-report-collector/"
 }

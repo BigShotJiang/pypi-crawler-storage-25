@@ -1,11 +1,11 @@
 {
   "name": "neo-mcp",
-  "version": "0.4.20",
+  "version": "0.4.23",
   "summary": "MCP server for the Neo AI/ML backend — submit tasks, poll status, read output",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neo_mcp-0.4.20-py3-none-any.whl",
-  "download_time": "2026-04-04T08:26:05.415185",
+  "download_filename": "neo_mcp-0.4.23.tar.gz",
+  "download_time": "2026-04-04T09:09:02.394475",
   "package_url": "https://pypi.org/project/neo-mcp/"
 }

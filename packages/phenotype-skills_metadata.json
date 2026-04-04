@@ -1,0 +1,11 @@
+{
+  "name": "phenotype-skills",
+  "version": "0.1.0",
+  "summary": "Python bindings for the phenotype-skills Rust library",
+  "author": "Phenotype Team",
+  "license": "MIT",
+  "home_page": "https://github.com/phenotype/skills",
+  "download_filename": "phenotype_skills-0.1.0.tar.gz",
+  "download_time": "2026-04-04T09:09:11.460892",
+  "package_url": "https://pypi.org/project/phenotype-skills/"
+}

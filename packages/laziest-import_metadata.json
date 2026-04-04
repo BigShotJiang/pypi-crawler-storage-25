@@ -1,11 +1,11 @@
 {
   "name": "laziest-import",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Automatic lazy import library - use common libraries without explicit import statements",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "laziest_import-0.0.1.tar.gz",
-  "download_time": "2026-04-03T06:04:56.592832",
+  "download_filename": "laziest_import-0.0.2.tar.gz",
+  "download_time": "2026-04-04T09:08:55.616674",
   "package_url": "https://pypi.org/project/laziest-import/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "flyto-core",
-  "version": "2.25.6",
+  "version": "2.25.14",
   "summary": "A workflow engine with 412 built-in modules. Trace every step. Replay from any point.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "flyto_core-2.25.6.tar.gz",
-  "download_time": "2026-04-02T19:38:53.270059",
+  "download_filename": "flyto_core-2.25.14.tar.gz",
+  "download_time": "2026-04-04T09:09:18.726281",
   "package_url": "https://pypi.org/project/flyto-core/"
 }
