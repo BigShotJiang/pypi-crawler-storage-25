@@ -1,0 +1,11 @@
+{
+  "name": "robhan-cdk-lib.aws-mwaa",
+  "version": "0.0.121",
+  "summary": "AWS CDK Construct Library for Amazon Managed Workflows for Apache Airflow",
+  "author": "Robert Hanuschke<robhan-cdk-lib@hanuschke.eu>",
+  "license": "MIT",
+  "home_page": "https://github.com/robert-hanuschke/cdk-aws_mwaa.git",
+  "download_filename": "robhan_cdk_lib_aws_mwaa-0.0.121.tar.gz",
+  "download_time": "2026-04-04T05:43:00.783234",
+  "package_url": "https://pypi.org/project/robhan-cdk-lib.aws-mwaa/"
+}

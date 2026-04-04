@@ -1,11 +1,11 @@
 {
   "name": "ephapsys",
-  "version": "0.2.62",
+  "version": "0.2.65",
   "summary": "Ephapsys helps you empower and govern AI agents.",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "ephapsys-0.2.62.tar.gz",
-  "download_time": "2026-04-04T04:27:54.042921",
+  "download_filename": "ephapsys-0.2.65.tar.gz",
+  "download_time": "2026-04-04T05:42:56.683815",
   "package_url": "https://pypi.org/project/ephapsys/"
 }

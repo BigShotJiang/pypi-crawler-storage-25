@@ -1,0 +1,11 @@
+{
+  "name": "mtg-mcp-server",
+  "version": "3.0.0",
+  "summary": "Magic: The Gathering card search, combo lookup, draft analytics, and Commander tools.",
+  "author": "Justin Forth",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtg_mcp_server-3.0.0.tar.gz",
+  "download_time": "2026-04-04T05:42:42.643422",
+  "package_url": "https://pypi.org/project/mtg-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scitex-dict",
+  "version": "0.1.0",
+  "summary": "Dictionary utilities (DotDict, safe_merge) for the SciTeX ecosystem",
+  "author": "Yusuke Watanabe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scitex_dict-0.1.0.tar.gz",
+  "download_time": "2026-04-04T05:42:58.224049",
+  "package_url": "https://pypi.org/project/scitex-dict/"
+}

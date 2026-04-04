@@ -1,0 +1,11 @@
+{
+  "name": "altairant",
+  "version": "0.1.0",
+  "summary": "A Python library that provides unified utilities for working with local and cloud-based data, including DuckDB database wrappers and file system abstractions for Google Cloud Storage (GCS). It enables seamless database operations, context-managed file access, and automatic synchronization between local and remote storage, with an extensible design for additional backends and features.",
+  "author": "Sarbadal Pal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "altairant-0.1.0.tar.gz",
+  "download_time": "2026-04-04T05:42:35.235147",
+  "package_url": "https://pypi.org/project/altairant/"
+}

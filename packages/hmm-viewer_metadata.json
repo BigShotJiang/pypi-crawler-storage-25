@@ -1,11 +1,11 @@
 {
   "name": "hmm-viewer",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "summary": "View CSV, Parquet files and pandas/polars DataFrames in a terminal UI",
   "author": "Stephen Sun",
   "license": null,
   "home_page": null,
-  "download_filename": "hmm_viewer-1.0.1.tar.gz",
-  "download_time": "2026-04-03T11:13:20.556268",
+  "download_filename": "hmm_viewer-2.0.0.tar.gz",
+  "download_time": "2026-04-04T05:42:44.179851",
   "package_url": "https://pypi.org/project/hmm-viewer/"
 }

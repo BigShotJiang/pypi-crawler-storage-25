@@ -1,11 +1,11 @@
 {
   "name": "atboards",
-  "version": "0.1.1",
+  "version": "0.3.0",
   "summary": "Decentralized bulletin boards on atproto.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "atboards-0.1.1.tar.gz",
-  "download_time": "2026-04-03T23:08:18.714475",
+  "download_filename": "atboards-0.3.0.tar.gz",
+  "download_time": "2026-04-04T05:42:35.746060",
   "package_url": "https://pypi.org/project/atboards/"
 }
