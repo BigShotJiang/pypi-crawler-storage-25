@@ -1,0 +1,11 @@
+{
+  "name": "deepmask",
+  "version": "0.1.0",
+  "summary": "Un paquete que elimina cualquier tipo de dato sensible que le envíes a la IA manteniendo tu privacidad",
+  "author": "v019 Labs",
+  "license": "GNU General Public Affero License v3",
+  "home_page": "https://github.com/v019-labs/deepmask",
+  "download_filename": "deepmask-0.1.0.tar.gz",
+  "download_time": "2026-04-04T18:46:24.389186",
+  "package_url": "https://pypi.org/project/deepmask/"
+}

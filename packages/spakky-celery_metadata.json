@@ -1,0 +1,11 @@
+{
+  "name": "spakky-celery",
+  "version": "6.3.1",
+  "summary": "Celery DI/AOP integration plugin for Spakky Framework",
+  "author": "Spakky",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spakky_celery-6.3.1.tar.gz",
+  "download_time": "2026-04-04T18:46:00.644842",
+  "package_url": "https://pypi.org/project/spakky-celery/"
+}

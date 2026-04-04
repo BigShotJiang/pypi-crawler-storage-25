@@ -1,11 +1,11 @@
 {
   "name": "seif-cli",
-  "version": "0.1.2",
-  "summary": "S.E.I.F. — Your AI never starts from zero. Compressed, verified, collaborative context for any LLM.",
-  "author": null,
+  "version": "0.3.0",
+  "summary": "Measure AI output quality, protect sensitive data, watch your AI environment resonate. Quality Gate, Classification, Sentinel & Auto-Healing, SEIF OS.",
+  "author": "André Cunha Antero de Carvalho",
   "license": "CC-BY-NC-SA-4.0",
   "home_page": null,
-  "download_filename": "seif_cli-0.1.2.tar.gz",
-  "download_time": "2026-03-29T11:44:38.009645",
+  "download_filename": "seif_cli-0.3.0.tar.gz",
+  "download_time": "2026-04-04T18:46:31.514078",
   "package_url": "https://pypi.org/project/seif-cli/"
 }

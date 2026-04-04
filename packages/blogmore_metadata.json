@@ -1,11 +1,11 @@
 {
   "name": "blogmore",
-  "version": "2.6.0",
+  "version": "2.9.0",
   "summary": "A blog-oriented static site generation engine",
   "author": "Dave Pearson",
   "license": null,
   "home_page": null,
-  "download_filename": "blogmore-2.6.0.tar.gz",
-  "download_time": "2026-03-28T15:04:27.040721",
+  "download_filename": "blogmore-2.9.0.tar.gz",
+  "download_time": "2026-04-04T18:45:47.007102",
   "package_url": "https://pypi.org/project/blogmore/"
 }

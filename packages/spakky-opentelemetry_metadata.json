@@ -1,0 +1,11 @@
+{
+  "name": "spakky-opentelemetry",
+  "version": "6.3.1",
+  "summary": "OpenTelemetry SDK bridge for Spakky Framework",
+  "author": "Spakky",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spakky_opentelemetry-6.3.1.tar.gz",
+  "download_time": "2026-04-04T18:46:04.992998",
+  "package_url": "https://pypi.org/project/spakky-opentelemetry/"
+}

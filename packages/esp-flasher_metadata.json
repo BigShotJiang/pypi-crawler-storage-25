@@ -1,11 +1,11 @@
 {
   "name": "esp-flasher",
-  "version": "4.2.0",
+  "version": "4.3.0",
   "summary": "ESP8266/ESP32 Tasmota firmware flasher for ESP",
   "author": "Jason2866",
   "license": "MIT",
   "home_page": "https://github.com/Jason2866/ESP_Flasher",
-  "download_filename": "esp_flasher-4.2.0.tar.gz",
-  "download_time": "2026-04-04T15:32:38.384043",
+  "download_filename": "esp_flasher-4.3.0.tar.gz",
+  "download_time": "2026-04-04T18:46:26.065330",
   "package_url": "https://pypi.org/project/esp-flasher/"
 }

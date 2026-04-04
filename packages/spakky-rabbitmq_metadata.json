@@ -1,0 +1,11 @@
+{
+  "name": "spakky-rabbitmq",
+  "version": "6.3.1",
+  "summary": "RabbitMQ plugin for Spakky framework",
+  "author": "Spakky",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spakky_rabbitmq-6.3.1.tar.gz",
+  "download_time": "2026-04-04T18:45:56.292857",
+  "package_url": "https://pypi.org/project/spakky-rabbitmq/"
+}

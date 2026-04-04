@@ -1,0 +1,11 @@
+{
+  "name": "monopack",
+  "version": "0.2.2",
+  "summary": "Build focused Python Lambda function bundles from source imports.",
+  "author": "monopack maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "monopack-0.2.2.tar.gz",
+  "download_time": "2026-04-04T18:46:07.723481",
+  "package_url": "https://pypi.org/project/monopack/"
+}

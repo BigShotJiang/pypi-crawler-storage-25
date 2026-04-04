@@ -1,0 +1,11 @@
+{
+  "name": "acaia-lunar-ble",
+  "version": "1.0.1",
+  "summary": "Python library for interacting with the Acaia Lunar coffee scale over Bluetooth Low Energy (BLE)",
+  "author": "Clemens Beat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "acaia_lunar_ble-1.0.1.tar.gz",
+  "download_time": "2026-04-04T18:45:46.458081",
+  "package_url": "https://pypi.org/project/acaia-lunar-ble/"
+}

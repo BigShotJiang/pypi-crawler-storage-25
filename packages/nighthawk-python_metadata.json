@@ -1,11 +1,11 @@
 {
   "name": "nighthawk-python",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "A Python library where Python controls flow and LLMs or coding agents reason within constrained Natural blocks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nighthawk_python-0.8.0.tar.gz",
-  "download_time": "2026-04-03T17:21:23.387709",
+  "download_filename": "nighthawk_python-0.9.0.tar.gz",
+  "download_time": "2026-04-04T18:46:18.825209",
   "package_url": "https://pypi.org/project/nighthawk-python/"
 }

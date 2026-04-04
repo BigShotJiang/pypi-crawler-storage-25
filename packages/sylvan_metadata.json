@@ -1,11 +1,11 @@
 {
   "name": "sylvan",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "summary": "Code intelligence MCP server for token-efficient code retrieval, analysis, and refactoring",
   "author": "darki73",
   "license": "Custom Non-Commercial",
   "home_page": null,
-  "download_filename": "sylvan-1.9.0.tar.gz",
-  "download_time": "2026-04-02T15:48:20.090707",
+  "download_filename": "sylvan-1.10.0.tar.gz",
+  "download_time": "2026-04-04T18:45:52.475645",
   "package_url": "https://pypi.org/project/sylvan/"
 }

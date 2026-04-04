@@ -1,11 +1,11 @@
 {
   "name": "aceternity-mcp",
-  "version": "1.8.0",
+  "version": "1.9.3",
   "summary": "A pipx application for Aceternity UI components - MCP server with CLI for discovery, recommendations, and installation.",
   "author": "Aceternity MCP Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aceternity_mcp-1.8.0.tar.gz",
-  "download_time": "2026-04-04T16:43:38.137402",
+  "download_filename": "aceternity_mcp-1.9.3.tar.gz",
+  "download_time": "2026-04-04T18:45:44.699444",
   "package_url": "https://pypi.org/project/aceternity-mcp/"
 }

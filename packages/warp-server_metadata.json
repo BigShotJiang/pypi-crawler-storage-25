@@ -1,11 +1,11 @@
 {
   "name": "warp-server",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "WARP signature server API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "warp_server-0.1.4.tar.gz",
-  "download_time": "2026-04-04T16:43:27.920916",
+  "download_filename": "warp_server-0.1.7.tar.gz",
+  "download_time": "2026-04-04T18:46:04.446096",
   "package_url": "https://pypi.org/project/warp-server/"
 }
