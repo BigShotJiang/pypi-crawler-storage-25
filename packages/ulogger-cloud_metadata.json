@@ -1,0 +1,11 @@
+{
+  "name": "ulogger-cloud",
+  "version": "1.0.0",
+  "summary": "uLogger cloud communication library – MQTT session management, binary log upload, and data validation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ulogger_cloud-1.0.0.tar.gz",
+  "download_time": "2026-04-05T20:52:47.740152",
+  "package_url": "https://pypi.org/project/ulogger-cloud/"
+}
