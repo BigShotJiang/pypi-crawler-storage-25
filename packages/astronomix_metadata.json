@@ -1,0 +1,11 @@
+{
+  "name": "astronomix",
+  "version": "0.5.6",
+  "summary": "differentiable (magneto)hydrodynamics for astrophysics in JAX",
+  "author": "Leonard Storcks",
+  "license": null,
+  "home_page": null,
+  "download_filename": "astronomix-0.5.6.tar.gz",
+  "download_time": "2026-04-05T12:58:27.101449",
+  "package_url": "https://pypi.org/project/astronomix/"
+}

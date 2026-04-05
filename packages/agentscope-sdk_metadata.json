@@ -1,11 +1,11 @@
 {
   "name": "agentscope-sdk",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "AgentScope Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentscope_sdk-0.1.11.tar.gz",
-  "download_time": "2026-04-05T09:59:18.176255",
+  "download_filename": "agentscope_sdk-0.1.12.tar.gz",
+  "download_time": "2026-04-05T12:57:54.376444",
   "package_url": "https://pypi.org/project/agentscope-sdk/"
 }

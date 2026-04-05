@@ -1,11 +1,11 @@
 {
   "name": "sinan-captcha",
-  "version": "0.1.7",
+  "version": "0.1.11",
   "summary": "Training and data engineering workspace for graphical captcha models.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sinan_captcha-0.1.7.tar.gz",
-  "download_time": "2026-04-05T10:36:28.468333",
+  "download_filename": "sinan_captcha-0.1.11.tar.gz",
+  "download_time": "2026-04-05T12:57:58.112936",
   "package_url": "https://pypi.org/project/sinan-captcha/"
 }

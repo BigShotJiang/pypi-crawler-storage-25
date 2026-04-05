@@ -1,11 +1,11 @@
 {
   "name": "xpyd",
-  "version": "1.0.0",
-  "summary": "Lightweight Prefill-Decode proxy for disaggregated LLM serving",
+  "version": "1.2.0",
+  "summary": "xPyD: Lightweight Prefill-Decode disaggregated LLM serving toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xpyd-1.0.0.tar.gz",
-  "download_time": "2026-04-01T16:55:23.331424",
+  "download_filename": "xpyd-1.2.0.tar.gz",
+  "download_time": "2026-04-05T12:58:20.113788",
   "package_url": "https://pypi.org/project/xpyd/"
 }

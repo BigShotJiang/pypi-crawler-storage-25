@@ -1,0 +1,11 @@
+{
+  "name": "lazybridge",
+  "version": "0.3.1",
+  "summary": "Zero-boilerplate multi-provider LLM agent framework",
+  "author": "Marco Selvatici",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lazybridge-0.3.1.tar.gz",
+  "download_time": "2026-04-05T12:57:44.594568",
+  "package_url": "https://pypi.org/project/lazybridge/"
+}
