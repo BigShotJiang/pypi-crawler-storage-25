@@ -1,11 +1,11 @@
 {
   "name": "vgis-ai",
-  "version": "1.5.3",
+  "version": "1.5.6",
   "summary": "A libary for ai operator",
   "author": "gisfanmachel",
   "license": null,
   "home_page": "https://github.com/gisfanmachel/vgisAi",
-  "download_filename": "vgis_ai-1.5.3.tar.gz",
-  "download_time": "2026-04-05T05:13:54.643756",
+  "download_filename": "vgis_ai-1.5.6.tar.gz",
+  "download_time": "2026-04-05T13:57:52.684211",
   "package_url": "https://pypi.org/project/vgis-ai/"
 }

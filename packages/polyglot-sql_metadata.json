@@ -1,0 +1,11 @@
+{
+  "name": "polyglot-sql",
+  "version": "0.2.3",
+  "summary": "Rust-powered SQL transpiler for 32+ dialects. Parse, generate, transpile, format, and validate SQL.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/tobilg/polyglot",
+  "download_filename": "polyglot_sql-0.2.3.tar.gz",
+  "download_time": "2026-04-05T13:57:34.033215",
+  "package_url": "https://pypi.org/project/polyglot-sql/"
+}

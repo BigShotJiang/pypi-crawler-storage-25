@@ -1,0 +1,11 @@
+{
+  "name": "verdictlens",
+  "version": "0.2.0",
+  "summary": "Open-source observability for AI agents — hierarchical tracing, auto-instrumentation, blame analysis.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "verdictlens-0.2.0.tar.gz",
+  "download_time": "2026-04-05T13:58:07.959991",
+  "package_url": "https://pypi.org/project/verdictlens/"
+}

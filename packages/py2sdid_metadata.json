@@ -1,11 +1,11 @@
 {
   "name": "py2sdid",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Two-stage DiD and BJS imputation estimator for staggered treatment designs",
   "author": "Alan Huang",
   "license": null,
   "home_page": null,
-  "download_filename": "py2sdid-0.1.0.tar.gz",
-  "download_time": "2026-04-05T10:36:45.703189",
+  "download_filename": "py2sdid-0.1.2.tar.gz",
+  "download_time": "2026-04-05T13:58:04.693311",
   "package_url": "https://pypi.org/project/py2sdid/"
 }

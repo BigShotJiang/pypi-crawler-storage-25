@@ -1,11 +1,11 @@
 {
   "name": "xta-tool",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A command line tool for sending and receiving XÖV Transport Adapter (XTA) messages.",
   "author": "Jan Zickermann",
   "license": null,
   "home_page": null,
-  "download_filename": "xta_tool-0.2.0.tar.gz",
-  "download_time": "2026-04-04T09:56:48.214372",
+  "download_filename": "xta_tool-0.3.0.tar.gz",
+  "download_time": "2026-04-05T13:57:17.489591",
   "package_url": "https://pypi.org/project/xta-tool/"
 }
