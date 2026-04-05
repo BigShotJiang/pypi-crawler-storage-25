@@ -1,0 +1,11 @@
+{
+  "name": "cukks-cu128",
+  "version": "0.2.2",
+  "summary": "CKKS Homomorphic Encryption backend with CUDA 12.8 GPU acceleration",
+  "author": "CuKKS Authors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cukks_cu128-0.2.2-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-04-05T00:00:27.513729",
+  "package_url": "https://pypi.org/project/cukks-cu128/"
+}

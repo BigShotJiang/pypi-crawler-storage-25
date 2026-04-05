@@ -1,0 +1,11 @@
+{
+  "name": "dynamicsyntax",
+  "version": "0.1.1",
+  "summary": "Python port of DyLan Dynamic Syntax + TTR (parser core)",
+  "author": "DyLan Python port",
+  "license": "BSD-3-Clause (see DyLan upstream LICENSE.txt)",
+  "home_page": null,
+  "download_filename": "dynamicsyntax-0.1.1.tar.gz",
+  "download_time": "2026-04-05T00:00:15.274442",
+  "package_url": "https://pypi.org/project/dynamicsyntax/"
+}
