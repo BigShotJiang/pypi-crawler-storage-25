@@ -1,11 +1,11 @@
 {
   "name": "tracehub-logger",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Lightweight, non-blocking Python SDK for TraceHub log ingestion and error tracking",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tracehub_logger-1.0.0.tar.gz",
-  "download_time": "2026-04-05T09:09:55.672677",
+  "download_filename": "tracehub_logger-1.1.0.tar.gz",
+  "download_time": "2026-04-05T09:59:05.810411",
   "package_url": "https://pypi.org/project/tracehub-logger/"
 }

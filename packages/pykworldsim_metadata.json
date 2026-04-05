@@ -1,11 +1,11 @@
 {
   "name": "pykworldsim",
-  "version": "2.0.0",
-  "summary": "A scalable, modular ECS-based world simulation framework — people, cities, relationships, and more",
+  "version": "3.0.0",
+  "summary": "Production-grade ECS world simulation framework — people, cities, relationships, and more",
   "author": "Kairav Dutta",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pykworldsim-2.0.0.tar.gz",
-  "download_time": "2026-04-04T18:46:13.250127",
+  "download_filename": "pykworldsim-3.0.0.tar.gz",
+  "download_time": "2026-04-05T09:59:24.349798",
   "package_url": "https://pypi.org/project/pykworldsim/"
 }

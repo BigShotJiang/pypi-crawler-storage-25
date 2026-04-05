@@ -1,0 +1,11 @@
+{
+  "name": "anyserve-runtime",
+  "version": "0.4.0",
+  "summary": "Rust-backed Python package for AnyServe",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "anyserve_runtime-0.4.0.tar.gz",
+  "download_time": "2026-04-05T09:59:01.075040",
+  "package_url": "https://pypi.org/project/anyserve-runtime/"
+}

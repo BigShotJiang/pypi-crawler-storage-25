@@ -1,11 +1,11 @@
 {
   "name": "uhttp-server",
-  "version": "2.3.3",
+  "version": "2.4.0",
   "summary": "Micro HTTP server for Python and MicroPython",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "uhttp_server-2.3.3.tar.gz",
-  "download_time": "2026-04-01T10:43:38.515450",
+  "download_filename": "uhttp_server-2.4.0.tar.gz",
+  "download_time": "2026-04-05T09:59:33.779480",
   "package_url": "https://pypi.org/project/uhttp-server/"
 }

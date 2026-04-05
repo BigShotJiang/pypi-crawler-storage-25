@@ -1,11 +1,11 @@
 {
   "name": "xtlsapi-ipblacklist",
-  "version": "3.4.0",
+  "version": "3.4.3",
   "summary": "Fork of the xtlsapi library with an ip blacklist feature",
   "author": "klirii",
   "license": null,
   "home_page": "https://github.com/hiddify/xtlsapi/",
-  "download_filename": "xtlsapi_ipblacklist-3.4.0.tar.gz",
-  "download_time": "2026-04-05T07:39:53.154667",
+  "download_filename": "xtlsapi_ipblacklist-3.4.3.tar.gz",
+  "download_time": "2026-04-05T09:59:32.756403",
   "package_url": "https://pypi.org/project/xtlsapi-ipblacklist/"
 }
