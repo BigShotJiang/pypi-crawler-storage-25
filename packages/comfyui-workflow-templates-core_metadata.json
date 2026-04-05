@@ -1,11 +1,11 @@
 {
   "name": "comfyui-workflow-templates-core",
-  "version": "0.3.190",
+  "version": "0.3.193",
   "summary": "Core helpers for ComfyUI workflow templates",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "comfyui_workflow_templates_core-0.3.190.tar.gz",
-  "download_time": "2026-04-01T02:30:46.028489",
+  "download_filename": "comfyui_workflow_templates_core-0.3.193.tar.gz",
+  "download_time": "2026-04-05T05:13:52.561432",
   "package_url": "https://pypi.org/project/comfyui-workflow-templates-core/"
 }

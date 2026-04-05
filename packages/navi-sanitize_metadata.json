@@ -1,0 +1,11 @@
+{
+  "name": "navi-sanitize",
+  "version": "0.2.1",
+  "summary": "Input sanitization pipeline for untrusted text. Deterministic. No ML. Legitimate Unicode preserved.",
+  "author": "Project Navi LLC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "navi_sanitize-0.2.1.tar.gz",
+  "download_time": "2026-04-05T05:13:47.877750",
+  "package_url": "https://pypi.org/project/navi-sanitize/"
+}

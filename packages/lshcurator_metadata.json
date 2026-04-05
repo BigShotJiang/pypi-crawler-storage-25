@@ -1,0 +1,11 @@
+{
+  "name": "lshcurator",
+  "version": "0.2.3",
+  "summary": "High-throughput MinHash + LSH toolkit for large-scale text corpus deduplication and dense near-duplicate mining.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lshcurator-0.2.3.tar.gz",
+  "download_time": "2026-04-05T05:13:48.916239",
+  "package_url": "https://pypi.org/project/lshcurator/"
+}

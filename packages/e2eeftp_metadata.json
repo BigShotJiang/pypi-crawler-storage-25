@@ -1,0 +1,11 @@
+{
+  "name": "e2eeftp",
+  "version": "0.0.0b3",
+  "summary": "A simple command-line prototype for secure file transfers over TCP using Python. It ensures that files are encrypted from the client to the server, with no one in the middle being able to decipher the content.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "e2eeftp-0.0.0b3.tar.gz",
+  "download_time": "2026-04-05T05:13:49.955002",
+  "package_url": "https://pypi.org/project/e2eeftp/"
+}

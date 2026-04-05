@@ -1,11 +1,11 @@
 {
   "name": "goliath-utils",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Lightweight internal utilities for the Goliath platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "goliath_utils-0.1.5.tar.gz",
-  "download_time": "2026-04-05T02:57:07.545153",
+  "download_filename": "goliath_utils-0.1.6.tar.gz",
+  "download_time": "2026-04-05T05:13:18.085873",
   "package_url": "https://pypi.org/project/goliath-utils/"
 }

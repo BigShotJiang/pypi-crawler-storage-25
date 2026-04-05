@@ -1,0 +1,11 @@
+{
+  "name": "vault-recommender",
+  "version": "0.3.0",
+  "summary": "Semantic recommendation engine for Obsidian vaults — embeddings + wiki-link graph boosting with MCP server for Claude Code integration.",
+  "author": "Joshua Oliphant",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vault_recommender-0.3.0.tar.gz",
+  "download_time": "2026-04-05T05:13:44.208682",
+  "package_url": "https://pypi.org/project/vault-recommender/"
+}

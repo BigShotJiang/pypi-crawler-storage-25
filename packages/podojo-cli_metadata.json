@@ -1,11 +1,11 @@
 {
   "name": "podojo-cli",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "summary": "CLI for the Podojo user research platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "podojo_cli-0.3.2.tar.gz",
-  "download_time": "2026-04-04T11:07:20.547715",
+  "download_filename": "podojo_cli-0.4.0.tar.gz",
+  "download_time": "2026-04-05T05:13:55.162500",
   "package_url": "https://pypi.org/project/podojo-cli/"
 }

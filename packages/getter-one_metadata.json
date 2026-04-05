@@ -1,11 +1,11 @@
 {
   "name": "getter-one",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "GETTER One: Geometric Event-driven Tensor-based Time-series Extraction & Recognition - Structural event detection and causal network extraction for N-dimensional time series",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "getter_one-0.2.1.tar.gz",
-  "download_time": "2026-04-05T02:56:38.258107",
+  "download_filename": "getter_one-0.2.2.tar.gz",
+  "download_time": "2026-04-05T05:13:40.567003",
   "package_url": "https://pypi.org/project/getter-one/"
 }
