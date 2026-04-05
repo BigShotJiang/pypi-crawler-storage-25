@@ -1,11 +1,11 @@
 {
   "name": "macfw",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A small pf-based firewall manager for macOS with a ufw-like CLI",
   "author": "tudoujun",
   "license": null,
   "home_page": null,
-  "download_filename": "macfw-0.1.1.tar.gz",
-  "download_time": "2026-04-05T09:59:07.934896",
+  "download_filename": "macfw-0.1.2.tar.gz",
+  "download_time": "2026-04-05T10:36:43.533409",
   "package_url": "https://pypi.org/project/macfw/"
 }

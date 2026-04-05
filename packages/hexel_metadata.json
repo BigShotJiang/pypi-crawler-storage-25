@@ -1,11 +1,11 @@
 {
   "name": "hexel",
-  "version": "0.1.5",
+  "version": "0.2.2",
   "summary": "Hexel Studio SDK — deploy and run AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hexel-0.1.5.tar.gz",
-  "download_time": "2026-04-05T09:58:55.850020",
+  "download_filename": "hexel-0.2.2.tar.gz",
+  "download_time": "2026-04-05T10:36:25.676002",
   "package_url": "https://pypi.org/project/hexel/"
 }

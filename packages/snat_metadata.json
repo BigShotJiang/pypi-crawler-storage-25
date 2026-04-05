@@ -1,0 +1,11 @@
+{
+  "name": "snat",
+  "version": "0.0.1",
+  "summary": "A Python library for evaluating node importance in social networks using H-index and its derivatives",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snat-0.0.1-py3-none-any.whl",
+  "download_time": "2026-04-05T10:36:30.077122",
+  "package_url": "https://pypi.org/project/snat/"
+}

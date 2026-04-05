@@ -1,11 +1,11 @@
 {
   "name": "deepcsv",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "summary": "Automatically processes data files in directories, converts array-like strings to NumPy arrays, detects and fixes data type issues, and saves results as optimized Parquet files and MORE!",
   "author": "Abdullah Bakr",
   "license": "MIT",
   "home_page": "https://github.com/abdubakr77/deepcsv",
-  "download_filename": "deepcsv-0.6.6.tar.gz",
-  "download_time": "2026-04-05T09:58:57.378133",
+  "download_filename": "deepcsv-0.6.7.tar.gz",
+  "download_time": "2026-04-05T10:36:56.454152",
   "package_url": "https://pypi.org/project/deepcsv/"
 }

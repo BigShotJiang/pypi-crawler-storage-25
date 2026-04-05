@@ -1,11 +1,11 @@
 {
   "name": "netcrawl-sdk",
-  "version": "0.1.0",
+  "version": "0.5.0",
   "summary": "Python SDK for NetCrawl — the programmable idle game",
   "author": "NetCrawl",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "netcrawl_sdk-0.1.0.tar.gz",
-  "download_time": "2026-04-05T07:40:01.308931",
+  "download_filename": "netcrawl_sdk-0.5.0.tar.gz",
+  "download_time": "2026-04-05T10:36:27.281543",
   "package_url": "https://pypi.org/project/netcrawl-sdk/"
 }

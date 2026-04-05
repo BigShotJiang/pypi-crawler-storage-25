@@ -1,11 +1,11 @@
 {
   "name": "dbentity",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "summary": "Lightweight Python ORM library for PostgreSQL",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dbentity-1.0.0.tar.gz",
-  "download_time": "2026-03-31T12:43:45.468412",
+  "download_filename": "dbentity-1.3.0.tar.gz",
+  "download_time": "2026-04-05T10:36:56.995429",
   "package_url": "https://pypi.org/project/dbentity/"
 }

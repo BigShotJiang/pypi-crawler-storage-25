@@ -1,0 +1,11 @@
+{
+  "name": "iot-device-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP Server for IoT Device Management — register, monitor, and control IoT devices via AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iot_device_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-04-05T10:36:59.657741",
+  "package_url": "https://pypi.org/project/iot-device-mcp-server/"
+}

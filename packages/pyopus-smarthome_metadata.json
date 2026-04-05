@@ -1,11 +1,11 @@
 {
   "name": "pyopus-smarthome",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Async Python client for OPUS SmartHome gateway REST API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyopus_smarthome-0.1.1.tar.gz",
-  "download_time": "2026-03-28T21:37:30.269572",
+  "download_filename": "pyopus_smarthome-0.1.3.tar.gz",
+  "download_time": "2026-04-05T10:36:30.611575",
   "package_url": "https://pypi.org/project/pyopus-smarthome/"
 }
