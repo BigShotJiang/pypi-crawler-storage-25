@@ -1,11 +1,11 @@
 {
   "name": "vmr-http",
-  "version": "0.6.0",
+  "version": "0.7.1",
   "summary": "HTTP API for controlling Voicemeeter",
   "author": "onyx-and-iris",
   "license": null,
   "home_page": null,
-  "download_filename": "vmr_http-0.6.0.tar.gz",
-  "download_time": "2026-04-05T22:04:15.971841",
+  "download_filename": "vmr_http-0.7.1.tar.gz",
+  "download_time": "2026-04-05T22:54:41.366331",
   "package_url": "https://pypi.org/project/vmr-http/"
 }

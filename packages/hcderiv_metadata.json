@@ -1,11 +1,11 @@
 {
   "name": "hcderiv",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Exact derivatives via hypercomplex perturbation algebra",
   "author": "Zetta Byte",
   "license": null,
   "home_page": null,
-  "download_filename": "hcderiv-0.3.0.tar.gz",
-  "download_time": "2026-04-04T16:43:21.810029",
+  "download_filename": "hcderiv-0.4.0.tar.gz",
+  "download_time": "2026-04-05T22:54:30.435587",
   "package_url": "https://pypi.org/project/hcderiv/"
 }

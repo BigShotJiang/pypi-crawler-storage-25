@@ -1,11 +1,11 @@
 {
   "name": "morphra",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Velarium IR to Pydantic models — scaffold",
   "author": "Velarium contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "morphra-0.2.0.tar.gz",
-  "download_time": "2026-04-05T22:04:08.715174",
+  "download_filename": "morphra-0.4.0.tar.gz",
+  "download_time": "2026-04-05T22:54:27.119606",
   "package_url": "https://pypi.org/project/morphra/"
 }

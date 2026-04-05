@@ -1,11 +1,11 @@
 {
   "name": "sview",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Sequence-aware filesystem browser",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sview-0.1.2.tar.gz",
-  "download_time": "2026-04-05T20:53:19.231106",
+  "download_filename": "sview-0.2.0.tar.gz",
+  "download_time": "2026-04-05T22:54:10.234781",
   "package_url": "https://pypi.org/project/sview/"
 }

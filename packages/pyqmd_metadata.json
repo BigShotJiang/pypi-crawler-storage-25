@@ -1,0 +1,11 @@
+{
+  "name": "pyqmd",
+  "version": "0.1.0",
+  "summary": "Python-native local search engine for markdown files. Hybrid BM25 + vector search with reranking.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyqmd-0.1.0.tar.gz",
+  "download_time": "2026-04-05T22:54:07.931462",
+  "package_url": "https://pypi.org/project/pyqmd/"
+}

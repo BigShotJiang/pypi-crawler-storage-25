@@ -1,0 +1,11 @@
+{
+  "name": "cdk-lazy-import",
+  "version": "1.0.0",
+  "summary": "Lazy-load aws_cdk submodules to speed up CDK synth",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cdk_lazy_import-1.0.0.tar.gz",
+  "download_time": "2026-04-05T22:54:36.966262",
+  "package_url": "https://pypi.org/project/cdk-lazy-import/"
+}

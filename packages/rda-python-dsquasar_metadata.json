@@ -1,0 +1,11 @@
+{
+  "name": "rda-python-dsquasar",
+  "version": "2.0.12",
+  "summary": "RDA Python package to backup and recover RDA data archives to and from GLOBUS Quasar backup server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rda_python_dsquasar-2.0.12.tar.gz",
+  "download_time": "2026-04-05T22:54:02.154699",
+  "package_url": "https://pypi.org/project/rda-python-dsquasar/"
+}

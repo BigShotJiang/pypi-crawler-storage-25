@@ -1,11 +1,11 @@
 {
   "name": "lumen-py",
-  "version": "1.0.0",
-  "summary": "An AI-powered, local, Object-Oriented coding mentor.",
-  "author": "Bivo",
+  "version": "1.0.5",
+  "summary": "An AI-powered, local, coding mentor.",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lumen_py-1.0.0.tar.gz",
-  "download_time": "2026-04-05T20:03:40.705037",
+  "download_filename": "lumen_py-1.0.5.tar.gz",
+  "download_time": "2026-04-05T22:54:43.024970",
   "package_url": "https://pypi.org/project/lumen-py/"
 }

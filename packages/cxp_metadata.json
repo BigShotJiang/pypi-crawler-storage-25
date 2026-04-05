@@ -1,11 +1,11 @@
 {
   "name": "cxp",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "Capability Exchange Protocol",
   "author": "Vicente Ruiz",
   "license": null,
   "home_page": null,
-  "download_filename": "cxp-1.0.0.tar.gz",
-  "download_time": "2026-04-04T17:17:34.122859",
+  "download_filename": "cxp-2.0.0.tar.gz",
+  "download_time": "2026-04-05T22:54:44.107591",
   "package_url": "https://pypi.org/project/cxp/"
 }

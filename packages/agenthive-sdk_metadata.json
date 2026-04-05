@@ -1,11 +1,11 @@
 {
   "name": "agenthive-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Connect your machine to AgentHive — auto-detects CLI agents, runs as a background daemon",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agenthive_sdk-0.1.1.tar.gz",
-  "download_time": "2026-04-05T19:36:46.540027",
+  "download_filename": "agenthive_sdk-0.1.2.tar.gz",
+  "download_time": "2026-04-05T22:54:34.253769",
   "package_url": "https://pypi.org/project/agenthive-sdk/"
 }

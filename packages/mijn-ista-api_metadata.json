@@ -1,11 +1,11 @@
 {
   "name": "mijn-ista-api",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Async Python client for the mijn.ista.nl energy portal",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mijn_ista_api-0.1.1.tar.gz",
-  "download_time": "2026-03-28T23:46:18.880193",
+  "download_filename": "mijn_ista_api-0.1.4.tar.gz",
+  "download_time": "2026-04-05T22:54:19.414411",
   "package_url": "https://pypi.org/project/mijn-ista-api/"
 }

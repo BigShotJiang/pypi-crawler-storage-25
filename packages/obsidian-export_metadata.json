@@ -1,0 +1,11 @@
+{
+  "name": "obsidian-export",
+  "version": "0.5.1",
+  "summary": "Convert Obsidian-flavored Markdown to PDF and DOCX via a 5-stage pipeline",
+  "author": "Matthias Christenson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "obsidian_export-0.5.1.tar.gz",
+  "download_time": "2026-04-05T22:54:01.568026",
+  "package_url": "https://pypi.org/project/obsidian-export/"
+}

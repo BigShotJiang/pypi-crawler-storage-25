@@ -1,11 +1,11 @@
 {
   "name": "torchfoo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A collection of general utilities for PyTorch",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "torchfoo-0.0.2.tar.gz",
-  "download_time": "2026-04-04T08:25:50.929061",
+  "download_filename": "torchfoo-0.0.3.tar.gz",
+  "download_time": "2026-04-05T22:54:23.830355",
   "package_url": "https://pypi.org/project/torchfoo/"
 }
