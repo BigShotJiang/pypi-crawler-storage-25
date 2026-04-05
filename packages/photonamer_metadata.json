@@ -1,11 +1,11 @@
 {
   "name": "photonamer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Photonamer: Autonomous photo file renaming tool using local Visual-Language Models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "photonamer-0.1.1.tar.gz",
-  "download_time": "2026-04-05T11:09:07.339476",
+  "download_filename": "photonamer-0.1.2.tar.gz",
+  "download_time": "2026-04-05T14:37:18.871938",
   "package_url": "https://pypi.org/project/photonamer/"
 }

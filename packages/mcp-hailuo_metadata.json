@@ -1,11 +1,11 @@
 {
   "name": "mcp-hailuo",
-  "version": "2026.4.5.3",
+  "version": "2026.4.5.5",
   "summary": "MCP Server for Hailuo (MiniMax) AI Video Generation via AceDataCloud API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_hailuo-2026.4.5.3.tar.gz",
-  "download_time": "2026-04-05T12:58:07.249701",
+  "download_filename": "mcp_hailuo-2026.4.5.5.tar.gz",
+  "download_time": "2026-04-05T14:37:37.636279",
   "package_url": "https://pypi.org/project/mcp-hailuo/"
 }

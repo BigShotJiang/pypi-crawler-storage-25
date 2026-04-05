@@ -1,11 +1,11 @@
 {
   "name": "sygen",
-  "version": "1.2.12",
+  "version": "1.2.13",
   "summary": "AI assistant framework with multi-agent orchestration, background tasks, and persistent memory.",
   "author": "TIME DESIGN LLC",
   "license": null,
   "home_page": null,
-  "download_filename": "sygen-1.2.12.tar.gz",
-  "download_time": "2026-04-05T13:57:47.191917",
+  "download_filename": "sygen-1.2.13.tar.gz",
+  "download_time": "2026-04-05T14:37:51.394734",
   "package_url": "https://pypi.org/project/sygen/"
 }

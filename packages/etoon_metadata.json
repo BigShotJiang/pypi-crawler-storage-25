@@ -1,0 +1,11 @@
+{
+  "name": "etoon",
+  "version": "0.1.1",
+  "summary": "Fast TOON (Token-Oriented Object Notation) encoder. Byte-identical to the TOON spec, 8x faster than toons and 2.7x faster than the official TS SDK.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "etoon-0.1.1.tar.gz",
+  "download_time": "2026-04-05T14:37:52.966833",
+  "package_url": "https://pypi.org/project/etoon/"
+}
