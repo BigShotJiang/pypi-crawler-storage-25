@@ -1,11 +1,11 @@
 {
   "name": "millrace-ai",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Python runtime engine for the Millrace v1 control plane",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "millrace_ai-0.2.0.tar.gz",
-  "download_time": "2026-03-31T09:19:09.406910",
+  "download_filename": "millrace_ai-0.4.0.tar.gz",
+  "download_time": "2026-04-05T08:26:17.446298",
   "package_url": "https://pypi.org/project/millrace-ai/"
 }

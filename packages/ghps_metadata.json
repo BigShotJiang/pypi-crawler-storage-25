@@ -1,0 +1,11 @@
+{
+  "name": "ghps",
+  "version": "0.3",
+  "summary": "Ghps: A Minimal GitHub Pages Simulator for Local Development",
+  "author": "Sepand Haghighi",
+  "license": "MIT",
+  "home_page": "https://github.com/sepandhaghighi/ghps",
+  "download_filename": "ghps-0.3.tar.gz",
+  "download_time": "2026-04-05T08:26:24.135881",
+  "package_url": "https://pypi.org/project/ghps/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gds-symbolic",
-  "version": "0.1.0",
+  "version": "0.99.0",
   "summary": "Symbolic math bridge for the GDS ecosystem — SymPy to ODE compilation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gds_symbolic-0.1.0.tar.gz",
-  "download_time": "2026-03-29T14:06:03.207213",
+  "download_filename": "gds_symbolic-0.99.0.tar.gz",
+  "download_time": "2026-04-05T08:26:38.026270",
   "package_url": "https://pypi.org/project/gds-symbolic/"
 }

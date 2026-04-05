@@ -1,11 +1,11 @@
 {
   "name": "hex-driver-mujoco",
-  "version": "0.0.1a9",
+  "version": "0.0.1a10",
   "summary": "HEXFELLOW Mujoco Driver",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hex_driver_mujoco-0.0.1a9.tar.gz",
-  "download_time": "2026-04-04T14:54:40.171887",
+  "download_filename": "hex_driver_mujoco-0.0.1a10.tar.gz",
+  "download_time": "2026-04-05T08:26:14.888968",
   "package_url": "https://pypi.org/project/hex-driver-mujoco/"
 }

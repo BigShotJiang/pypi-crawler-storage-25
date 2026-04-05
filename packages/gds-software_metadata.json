@@ -1,11 +1,11 @@
 {
   "name": "gds-software",
-  "version": "0.1.1",
+  "version": "0.99.0",
   "summary": "Software architecture DSL over GDS semantics — DFDs, state machines, components, C4, ERDs, and dependency graphs with formal verification",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gds_software-0.1.1.tar.gz",
-  "download_time": "2026-04-03T16:40:28.997464",
+  "download_filename": "gds_software-0.99.0.tar.gz",
+  "download_time": "2026-04-05T08:26:39.557300",
   "package_url": "https://pypi.org/project/gds-software/"
 }

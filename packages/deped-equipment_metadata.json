@@ -1,11 +1,11 @@
 {
   "name": "deped-equipment",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Equipment cleaner extracted from the DepEd asset pipeline.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deped_equipment-0.1.0.tar.gz",
-  "download_time": "2026-04-03T07:40:13.272191",
+  "download_filename": "deped_equipment-0.1.1.tar.gz",
+  "download_time": "2026-04-05T08:26:16.420538",
   "package_url": "https://pypi.org/project/deped-equipment/"
 }

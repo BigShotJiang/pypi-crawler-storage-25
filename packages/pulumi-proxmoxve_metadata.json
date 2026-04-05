@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-proxmoxve",
+  "version": "8.0.0",
+  "summary": "A Pulumi package for creating and managing Proxmox Virtual Environment cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_proxmoxve-8.0.0.tar.gz",
+  "download_time": "2026-04-05T08:26:18.484769",
+  "package_url": "https://pypi.org/project/pulumi-proxmoxve/"
+}

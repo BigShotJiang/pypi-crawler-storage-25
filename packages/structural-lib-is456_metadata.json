@@ -1,11 +1,11 @@
 {
   "name": "structural-lib-is456",
-  "version": "0.21.1",
+  "version": "0.21.2",
   "summary": "IS 456 RC Design Library — beams, columns & footings (flexure, shear, axial, ductile detailing, DXF export)",
   "author": "Pravin Surawase",
   "license": null,
   "home_page": null,
-  "download_filename": "structural_lib_is456-0.21.1.tar.gz",
-  "download_time": "2026-04-05T05:13:42.650472",
+  "download_filename": "structural_lib_is456-0.21.2.tar.gz",
+  "download_time": "2026-04-05T08:26:34.970905",
   "package_url": "https://pypi.org/project/structural-lib-is456/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "termrender",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Rich terminal rendering of directive-flavored markdown",
   "author": "Silas Rhyneer",
   "license": null,
   "home_page": null,
-  "download_filename": "termrender-0.1.0.tar.gz",
-  "download_time": "2026-04-05T05:13:33.276077",
+  "download_filename": "termrender-0.2.0.tar.gz",
+  "download_time": "2026-04-05T08:26:02.238308",
   "package_url": "https://pypi.org/project/termrender/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nouse",
+  "version": "0.2.1",
+  "summary": "Epistemic grounding substrate for LLMs — knows what it knows, what it doesn't, and why",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nouse-0.2.1.tar.gz",
+  "download_time": "2026-04-05T08:26:17.972950",
+  "package_url": "https://pypi.org/project/nouse/"
+}
