@@ -1,11 +1,11 @@
 {
   "name": "monomech",
-  "version": "0.2.0",
-  "summary": "MonoMech: single-camera biomechanics from video to kinematics, external loads, and kinetics",
-  "author": "OpenAI for user",
+  "version": "0.3.0",
+  "summary": "Single camera biomechanics library",
+  "author": "Cole Hagen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "monomech-0.2.0-py3-none-any.whl",
-  "download_time": "2026-04-03T15:56:13.898694",
+  "download_filename": "monomech-0.3.0.tar.gz",
+  "download_time": "2026-04-05T23:35:46.281329",
   "package_url": "https://pypi.org/project/monomech/"
 }

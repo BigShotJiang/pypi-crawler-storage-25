@@ -1,11 +1,11 @@
 {
   "name": "codeannex",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "summary": "Generates a professional PDF source code annex with Smart Index, Images and Emoji support.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codeannex-0.3.4.tar.gz",
-  "download_time": "2026-04-05T22:54:12.840089",
+  "download_filename": "codeannex-0.4.0.tar.gz",
+  "download_time": "2026-04-05T23:35:36.414462",
   "package_url": "https://pypi.org/project/codeannex/"
 }

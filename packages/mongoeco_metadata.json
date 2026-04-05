@@ -1,0 +1,11 @@
+{
+  "name": "mongoeco",
+  "version": "3.2.0",
+  "summary": "Async-first MongoDB-like persistence library with pluggable storage engines.",
+  "author": "Vicente Ruiz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mongoeco-3.2.0.tar.gz",
+  "download_time": "2026-04-05T23:35:43.644390",
+  "package_url": "https://pypi.org/project/mongoeco/"
+}

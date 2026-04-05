@@ -1,0 +1,11 @@
+{
+  "name": "gpu-memory-guard",
+  "version": "0.1.0",
+  "summary": "CLI tool to check GPU VRAM before loading AI models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gpu_memory_guard-0.1.0.tar.gz",
+  "download_time": "2026-04-05T23:35:35.372544",
+  "package_url": "https://pypi.org/project/gpu-memory-guard/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "shopyo",
+  "version": "4.17.3",
+  "summary": "Highly modular web framework built for big apps on top of Flask with Django advantages",
+  "author": "Abdur-Rahmaan Janhangeer",
+  "license": null,
+  "home_page": "https://github.com/shopyo/shopyo",
+  "download_filename": "shopyo-4.17.3.tar.gz",
+  "download_time": "2026-04-05T23:35:55.206369",
+  "package_url": "https://pypi.org/project/shopyo/"
+}

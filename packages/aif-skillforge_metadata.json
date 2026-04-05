@@ -1,11 +1,11 @@
 {
   "name": "aif-skillforge",
-  "version": "0.6.2",
+  "version": "0.7.0",
   "summary": "SkillForge — quality layer for Agent Skills. Lint, sign, test your SKILL.md files.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aif_skillforge-0.6.2.tar.gz",
-  "download_time": "2026-04-05T15:50:45.844868",
+  "download_filename": "aif_skillforge-0.7.0.tar.gz",
+  "download_time": "2026-04-05T23:35:47.817979",
   "package_url": "https://pypi.org/project/aif-skillforge/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "blathers",
-  "version": "1.0.0a4",
+  "version": "1.0.0a5",
   "summary": "Ontology documentation & validation CLI — bridges auto-extracted OWL/SHACL definitions with Markdown narrative",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "blathers-1.0.0a4.tar.gz",
-  "download_time": "2026-04-05T16:38:38.049570",
+  "download_filename": "blathers-1.0.0a5.tar.gz",
+  "download_time": "2026-04-05T23:35:47.304184",
   "package_url": "https://pypi.org/project/blathers/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "chumicro-runner-experimental",
+  "version": "0.1.5",
+  "summary": "Tick-based task runner with shared timestamps for Chumicro applications.",
+  "author": "Chumicro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chumicro_runner_experimental-0.1.5.tar.gz",
+  "download_time": "2026-04-05T23:35:19.921078",
+  "package_url": "https://pypi.org/project/chumicro-runner-experimental/"
+}

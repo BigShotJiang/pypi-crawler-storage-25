@@ -1,0 +1,11 @@
+{
+  "name": "simz",
+  "version": "0.2.1",
+  "summary": "A lightweight ECS-based simulation engine",
+  "author": null,
+  "license": "Copyright (c) [Daniel Dror;danield137@gmail.com] Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to use, copy, modify, and distribute the Software for non-commercial, non-profit purposes only. Commercial use, including but not limited to use by for-profit organizations or individuals for business purposes, is not permitted without obtaining a separate commercial license from the copyright holder.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY...",
+  "home_page": null,
+  "download_filename": "simz-0.2.1.tar.gz",
+  "download_time": "2026-04-05T23:35:29.703946",
+  "package_url": "https://pypi.org/project/simz/"
+}

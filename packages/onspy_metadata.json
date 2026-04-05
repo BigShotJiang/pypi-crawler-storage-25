@@ -1,11 +1,11 @@
 {
   "name": "onspy",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Python and MCP tooling for the Office for National Statistics (ONS) API",
   "author": "Joe Wait",
   "license": null,
   "home_page": null,
-  "download_filename": "onspy-0.2.2.tar.gz",
-  "download_time": "2026-04-05T22:54:15.421121",
+  "download_filename": "onspy-0.2.3.tar.gz",
+  "download_time": "2026-04-05T23:35:50.986934",
   "package_url": "https://pypi.org/project/onspy/"
 }

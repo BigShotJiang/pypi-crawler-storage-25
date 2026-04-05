@@ -1,11 +1,11 @@
 {
   "name": "pyansistring",
-  "version": "0.3.0",
+  "version": "0.3.3",
   "summary": "A powerful Python library for terminal string styling, ANSI color manipulation, ASCII art generation, and SVG terminal rendering.",
   "author": "Volodymyr Horshenin",
   "license": null,
   "home_page": null,
-  "download_filename": "pyansistring-0.3.0.tar.gz",
-  "download_time": "2026-04-05T22:54:31.533403",
+  "download_filename": "pyansistring-0.3.3.tar.gz",
+  "download_time": "2026-04-05T23:35:48.351601",
   "package_url": "https://pypi.org/project/pyansistring/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "slave-cp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A CLI tool to automate competitive programming workflow - fetch, test, and submit solutions",
   "author": "Ayush Kunwar Singh",
   "license": null,
   "home_page": "https://github.com/block-plant/slave-cp",
-  "download_filename": "slave_cp-0.1.1-py3-none-any.whl",
-  "download_time": "2026-04-05T22:54:14.600279",
+  "download_filename": "slave_cp-0.1.2.tar.gz",
+  "download_time": "2026-04-05T23:35:39.519901",
   "package_url": "https://pypi.org/project/slave-cp/"
 }

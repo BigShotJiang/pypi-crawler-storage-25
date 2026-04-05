@@ -1,11 +1,11 @@
 {
   "name": "velarium",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Velarium IR (ModelSpec): normalization, JSON codec, Python→IR extraction",
   "author": "Velarium contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "velarium-0.4.0.tar.gz",
-  "download_time": "2026-04-05T22:54:26.577490",
+  "download_filename": "velarium-0.5.0.tar.gz",
+  "download_time": "2026-04-05T23:35:24.555219",
   "package_url": "https://pypi.org/project/velarium/"
 }
