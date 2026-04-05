@@ -1,0 +1,11 @@
+{
+  "name": "naver-stock-mcp",
+  "version": "0.1.1",
+  "summary": "네이버 증권 데이터를 Claude에서 바로 조회할 수 있는 MCP 서버 - 한국 주식 차트, 수급, 재무지표를 자연어로 분석",
+  "author": "Johnhyeon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "naver_stock_mcp-0.1.1.tar.gz",
+  "download_time": "2026-04-05T18:51:57.780812",
+  "package_url": "https://pypi.org/project/naver-stock-mcp/"
+}

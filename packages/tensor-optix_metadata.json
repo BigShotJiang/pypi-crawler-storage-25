@@ -1,0 +1,11 @@
+{
+  "name": "tensor-optix",
+  "version": "0.8.0",
+  "summary": "Autonomous training loop for any sequential learning model — built-in PPO, DQN, and SAC for TensorFlow and PyTorch",
+  "author": "sup3rus3r",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tensor_optix-0.8.0.tar.gz",
+  "download_time": "2026-04-05T18:51:22.308772",
+  "package_url": "https://pypi.org/project/tensor-optix/"
+}

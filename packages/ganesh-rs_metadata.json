@@ -1,11 +1,11 @@
 {
   "name": "ganesh-rs",
-  "version": "0.26.1",
+  "version": "0.26.2",
   "summary": "Helper library for the ganesh Rust crate",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": "https://github.com/denehoffman/ganesh",
-  "download_filename": "ganesh_rs-0.26.1.tar.gz",
-  "download_time": "2026-04-04T22:02:42.482252",
+  "download_filename": "ganesh_rs-0.26.2.tar.gz",
+  "download_time": "2026-04-05T18:51:57.183696",
   "package_url": "https://pypi.org/project/ganesh-rs/"
 }

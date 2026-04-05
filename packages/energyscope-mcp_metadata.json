@@ -1,11 +1,11 @@
 {
   "name": "energyscope-mcp",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "summary": "EnergyScope MCP Server — AI agent tools for energy market data and analytics",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "energyscope_mcp-2.3.0.tar.gz",
-  "download_time": "2026-04-05T17:59:16.061854",
+  "download_filename": "energyscope_mcp-2.4.0.tar.gz",
+  "download_time": "2026-04-05T18:51:19.494597",
   "package_url": "https://pypi.org/project/energyscope-mcp/"
 }

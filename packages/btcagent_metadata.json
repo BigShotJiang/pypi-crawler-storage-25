@@ -1,11 +1,11 @@
 {
   "name": "btcagent",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Automated Bitcoin trading on Binance with AI-powered sentiment analysis",
   "author": "Péricles Lopes Machado",
   "license": "MIT",
   "home_page": "https://github.com/gogo40/btcagent",
-  "download_filename": "btcagent-0.2.0.tar.gz",
-  "download_time": "2026-04-05T17:18:47.572143",
+  "download_filename": "btcagent-0.3.0.tar.gz",
+  "download_time": "2026-04-05T18:51:09.533629",
   "package_url": "https://pypi.org/project/btcagent/"
 }

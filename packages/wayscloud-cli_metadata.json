@@ -1,0 +1,11 @@
+{
+  "name": "wayscloud-cli",
+  "version": "0.2.0",
+  "summary": "Command-line interface for WAYSCloud — manage VPS, DNS, databases, storage, apps, IoT, and more",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wayscloud_cli-0.2.0.tar.gz",
+  "download_time": "2026-04-05T18:51:47.054857",
+  "package_url": "https://pypi.org/project/wayscloud-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gdrivectl",
+  "version": "0.1.0",
+  "summary": "CLI tool to manage Google Docs permissions in bulk — grant, revoke, audit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gdrivectl-0.1.0.tar.gz",
+  "download_time": "2026-04-05T18:51:42.616761",
+  "package_url": "https://pypi.org/project/gdrivectl/"
+}

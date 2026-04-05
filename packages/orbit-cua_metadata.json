@@ -1,11 +1,11 @@
 {
   "name": "orbit-cua",
-  "version": "0.2.2",
+  "version": "0.2.6",
   "summary": "General computer-use agent.",
   "author": "Aadya",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "orbit_cua-0.2.2-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2026-04-05T08:25:55.742757",
+  "download_filename": "orbit_cua-0.2.6-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2026-04-05T18:52:00.619199",
   "package_url": "https://pypi.org/project/orbit-cua/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "oasyce-sdk",
-  "version": "0.5.0",
+  "version": "0.10.6",
   "summary": "Python SDK for Oasyce -- On-chain economic system for AI agents: escrow, service marketplace, data rights, reputation, dispute resolution",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oasyce_sdk-0.5.0.tar.gz",
-  "download_time": "2026-03-29T23:49:32.659592",
+  "download_filename": "oasyce_sdk-0.10.6.tar.gz",
+  "download_time": "2026-04-05T18:51:31.555420",
   "package_url": "https://pypi.org/project/oasyce-sdk/"
 }

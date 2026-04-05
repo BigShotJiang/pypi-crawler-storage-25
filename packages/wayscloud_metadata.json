@@ -1,0 +1,11 @@
+{
+  "name": "wayscloud",
+  "version": "0.2.0",
+  "summary": "Official Python SDK for the WAYSCloud API",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://wayscloud.services",
+  "download_filename": "wayscloud-0.2.0.tar.gz",
+  "download_time": "2026-04-05T18:51:47.653475",
+  "package_url": "https://pypi.org/project/wayscloud/"
+}

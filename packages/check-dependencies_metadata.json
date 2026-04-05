@@ -1,0 +1,11 @@
+{
+  "name": "check-dependencies",
+  "version": "1.1.0",
+  "summary": "Check dependencies of a python project against pyproject.toml requirements",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "check_dependencies-1.1.0.tar.gz",
+  "download_time": "2026-04-05T18:51:08.959963",
+  "package_url": "https://pypi.org/project/check-dependencies/"
+}

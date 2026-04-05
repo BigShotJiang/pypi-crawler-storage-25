@@ -1,11 +1,11 @@
 {
   "name": "envctl",
-  "version": "2.3.3",
+  "version": "2.4.1",
   "summary": "Local environment control plane for contract-driven development workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "envctl-2.3.3.tar.gz",
-  "download_time": "2026-04-02T14:44:46.536266",
+  "download_filename": "envctl-2.4.1.tar.gz",
+  "download_time": "2026-04-05T18:51:18.920651",
   "package_url": "https://pypi.org/project/envctl/"
 }

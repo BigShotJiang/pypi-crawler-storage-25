@@ -1,11 +1,11 @@
 {
   "name": "somatize",
-  "version": "0.2.38",
+  "version": "0.2.43",
   "summary": "A computational graph runtime for research pipelines, agent orchestration, and data virtualization",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "somatize-0.2.38.tar.gz",
-  "download_time": "2026-04-04T16:00:13.276122",
+  "download_filename": "somatize-0.2.43.tar.gz",
+  "download_time": "2026-04-05T18:51:14.745145",
   "package_url": "https://pypi.org/project/somatize/"
 }
