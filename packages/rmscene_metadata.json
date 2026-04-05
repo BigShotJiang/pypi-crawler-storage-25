@@ -1,0 +1,11 @@
+{
+  "name": "rmscene",
+  "version": "0.8.0",
+  "summary": "Read v6 .rm files from the reMarkable tablet",
+  "author": "Rick Lupton",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rmscene-0.8.0.tar.gz",
+  "download_time": "2026-04-05T15:09:07.043769",
+  "package_url": "https://pypi.org/project/rmscene/"
+}

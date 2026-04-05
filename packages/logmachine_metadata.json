@@ -1,11 +1,11 @@
 {
   "name": "logmachine",
-  "version": "2.3.0",
+  "version": "2.3.2",
   "summary": "Collaborative, beautiful logging system for distributed developers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "logmachine-2.3.0.tar.gz",
-  "download_time": "2026-04-03T10:29:25.838569",
+  "download_filename": "logmachine-2.3.2.tar.gz",
+  "download_time": "2026-04-05T15:08:46.036332",
   "package_url": "https://pypi.org/project/logmachine/"
 }

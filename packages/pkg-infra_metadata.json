@@ -1,0 +1,11 @@
+{
+  "name": "pkg-infra",
+  "version": "0.0.2",
+  "summary": "This is session handler, configuration and logging handler for Saezlab packages and applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pkg_infra-0.0.2.tar.gz",
+  "download_time": "2026-04-05T15:08:39.043266",
+  "package_url": "https://pypi.org/project/pkg-infra/"
+}

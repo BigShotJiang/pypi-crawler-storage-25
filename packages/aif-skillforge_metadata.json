@@ -1,11 +1,11 @@
 {
   "name": "aif-skillforge",
-  "version": "0.4.2",
-  "summary": "SkillForge — quality layer for Agent Skills. Lint, hash, sign, version, eval your SKILL.md files",
+  "version": "0.6.0",
+  "summary": "SkillForge — quality layer for Agent Skills. Lint, sign, test your SKILL.md files.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aif_skillforge-0.4.2-cp313-cp313-macosx_11_0_arm64.whl",
-  "download_time": "2026-04-05T00:00:15.808260",
+  "download_filename": "aif_skillforge-0.6.0-cp313-cp313-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-05T15:08:29.094545",
   "package_url": "https://pypi.org/project/aif-skillforge/"
 }

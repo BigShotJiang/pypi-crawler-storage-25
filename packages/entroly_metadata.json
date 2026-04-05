@@ -1,11 +1,11 @@
 {
   "name": "entroly",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "summary": "Information-theoretic context optimization for AI coding agents. Knapsack-optimal token budgeting, Shannon entropy scoring, SimHash dedup, predictive pre-fetch. MCP server.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "entroly-0.6.3.tar.gz",
-  "download_time": "2026-04-03T06:04:45.310144",
+  "download_filename": "entroly-0.6.4-py3-none-any.whl",
+  "download_time": "2026-04-05T15:09:13.479924",
   "package_url": "https://pypi.org/project/entroly/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "webex-message-handler",
+  "version": "0.6.2",
+  "summary": "Lightweight Webex Mercury WebSocket + KMS decryption for receiving bot messages without the full Webex SDK",
+  "author": "Ergon Copeland",
+  "license": null,
+  "home_page": null,
+  "download_filename": "webex_message_handler-0.6.2.tar.gz",
+  "download_time": "2026-04-05T15:09:03.815002",
+  "package_url": "https://pypi.org/project/webex-message-handler/"
+}

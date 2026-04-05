@@ -1,11 +1,11 @@
 {
   "name": "chameleon-mcp",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "summary": "The shape-shifting MCP hub — morph() into any server at runtime. 3,000+ servers. No config. No restart.",
   "author": "Chameleon MCP Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chameleon_mcp-0.5.5.tar.gz",
-  "download_time": "2026-04-05T14:37:24.094922",
+  "download_filename": "chameleon_mcp-0.5.6.tar.gz",
+  "download_time": "2026-04-05T15:09:08.657455",
   "package_url": "https://pypi.org/project/chameleon-mcp/"
 }

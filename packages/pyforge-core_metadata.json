@@ -1,0 +1,11 @@
+{
+  "name": "pyforge-core",
+  "version": "0.3.0",
+  "summary": "Rust-accelerated serialization and validation for Python — framework-agnostic",
+  "author": "Abdulwahed Mansour",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyforge_core-0.3.0-cp312-cp312-macosx_11_0_x86_64.whl",
+  "download_time": "2026-04-05T15:09:10.809058",
+  "package_url": "https://pypi.org/project/pyforge-core/"
+}

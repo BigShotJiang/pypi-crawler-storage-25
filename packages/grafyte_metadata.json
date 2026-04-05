@@ -1,0 +1,11 @@
+{
+  "name": "grafyte",
+  "version": "0.2.4",
+  "summary": "A simple rendering engine with some game engine features made with OpenGL for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grafyte-0.2.4-py3-none-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-04-05T15:09:04.916797",
+  "package_url": "https://pypi.org/project/grafyte/"
+}
