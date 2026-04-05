@@ -1,0 +1,11 @@
+{
+  "name": "agent-droid-bridge",
+  "version": "0.4.2",
+  "summary": "MCP server giving AI agents eyes and hands inside Android devices via ADB",
+  "author": "Neverlow512",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_droid_bridge-0.4.2.tar.gz",
+  "download_time": "2026-04-05T15:50:51.275528",
+  "package_url": "https://pypi.org/project/agent-droid-bridge/"
+}

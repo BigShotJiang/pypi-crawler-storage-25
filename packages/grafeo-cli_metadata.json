@@ -1,0 +1,11 @@
+{
+  "name": "grafeo-cli",
+  "version": "0.5.33",
+  "summary": "Command-line interface for Grafeo graph database",
+  "author": "S.T. Grond",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "grafeo_cli-0.5.33.tar.gz",
+  "download_time": "2026-04-05T15:50:32.434655",
+  "package_url": "https://pypi.org/project/grafeo-cli/"
+}

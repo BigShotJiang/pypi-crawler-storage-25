@@ -1,0 +1,11 @@
+{
+  "name": "imq-analyser",
+  "version": "1.0.0",
+  "summary": "A tool to analyze PDF embedded images for resolution, contrast, exposure and colorblind accessibility.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imq_analyser-1.0.0.tar.gz",
+  "download_time": "2026-04-05T15:50:26.423056",
+  "package_url": "https://pypi.org/project/imq-analyser/"
+}

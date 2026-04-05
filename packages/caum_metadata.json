@@ -1,0 +1,11 @@
+{
+  "name": "caum",
+  "version": "1.0.0",
+  "summary": "AI Agent Observability - Detect when your agent is wasting money",
+  "author": "Andres Silva",
+  "license": null,
+  "home_page": "https://caum.systems",
+  "download_filename": "caum-1.0.0.tar.gz",
+  "download_time": "2026-04-05T15:50:56.157117",
+  "package_url": "https://pypi.org/project/caum/"
+}

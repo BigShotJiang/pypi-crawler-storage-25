@@ -1,0 +1,11 @@
+{
+  "name": "magma-optimizer",
+  "version": "0.1.1",
+  "summary": "Momentum-Aligned Gradient Masking — block-wise stochastic masking wrapper for PyTorch optimizers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "magma_optimizer-0.1.1.tar.gz",
+  "download_time": "2026-04-05T15:50:35.090481",
+  "package_url": "https://pypi.org/project/magma-optimizer/"
+}

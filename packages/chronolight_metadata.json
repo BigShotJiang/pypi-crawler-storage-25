@@ -1,11 +1,11 @@
 {
   "name": "chronolight",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "summary": "A simple library for easily working with time series data",
   "author": "Sviter",
   "license": "MIT",
   "home_page": "https://github.com/ISviterI/chronolight",
-  "download_filename": "chronolight-1.0.1.tar.gz",
-  "download_time": "2026-04-05T13:57:59.802375",
+  "download_filename": "chronolight-1.1.1.tar.gz",
+  "download_time": "2026-04-05T15:50:21.038388",
   "package_url": "https://pypi.org/project/chronolight/"
 }

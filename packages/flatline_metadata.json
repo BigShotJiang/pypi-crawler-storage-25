@@ -1,0 +1,11 @@
+{
+  "name": "flatline",
+  "version": "0.1.2",
+  "summary": "Python wrapper around the Ghidra decompiler",
+  "author": "patacca",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flatline-0.1.2.tar.gz",
+  "download_time": "2026-04-05T15:50:31.365410",
+  "package_url": "https://pypi.org/project/flatline/"
+}

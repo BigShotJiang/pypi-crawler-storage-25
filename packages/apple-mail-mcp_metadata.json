@@ -1,11 +1,11 @@
 {
   "name": "apple-mail-mcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Apple Mail MCP server with full-text email search. The only one that works reliably on large mailboxes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apple_mail_mcp-0.2.0.tar.gz",
-  "download_time": "2026-04-01T14:22:12.356000",
+  "download_filename": "apple_mail_mcp-0.2.1.tar.gz",
+  "download_time": "2026-04-05T15:50:41.561414",
   "package_url": "https://pypi.org/project/apple-mail-mcp/"
 }
