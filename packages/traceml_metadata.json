@@ -1,11 +1,11 @@
 {
   "name": "traceml",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "summary": "Engine for ML/Data tracking, visualization, dashboards, and model UI for Polyaxon.",
   "author": "Polyaxon, Inc.",
   "license": "Apache 2.0",
   "home_page": "https://github.com/polyaxon/traceml",
-  "download_filename": "traceml-1.2.6.tar.gz",
-  "download_time": "2026-03-29T13:21:14.496383",
+  "download_filename": "traceml-1.2.7.tar.gz",
+  "download_time": "2026-04-05T19:36:21.857097",
   "package_url": "https://pypi.org/project/traceml/"
 }

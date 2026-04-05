@@ -1,0 +1,11 @@
+{
+  "name": "django-ca",
+  "version": "3.0.0",
+  "summary": "A Django app providing a TLS certificate authority.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_ca-3.0.0.tar.gz",
+  "download_time": "2026-04-05T19:36:41.818028",
+  "package_url": "https://pypi.org/project/django-ca/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-testkit",
+  "version": "1.0.1",
+  "summary": "MCP test server with 65 deterministic tools for protocol testing",
+  "author": "AgentSpan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_testkit-1.0.1.tar.gz",
+  "download_time": "2026-04-05T19:36:35.508188",
+  "package_url": "https://pypi.org/project/mcp-testkit/"
+}

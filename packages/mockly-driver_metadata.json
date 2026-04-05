@@ -1,0 +1,11 @@
+{
+  "name": "mockly-driver",
+  "version": "0.4.5",
+  "summary": "Python client for Mockly — start/stop servers and manage HTTP mocks in tests",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mockly_driver-0.4.5.tar.gz",
+  "download_time": "2026-04-05T19:36:13.526200",
+  "package_url": "https://pypi.org/project/mockly-driver/"
+}

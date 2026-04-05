@@ -1,11 +1,11 @@
 {
   "name": "x-browser",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Browser-based CLI for X/Twitter using Playwright + CDP. No API keys needed.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_browser-0.1.5.tar.gz",
-  "download_time": "2026-04-05T18:51:50.991682",
+  "download_filename": "x_browser-0.1.6.tar.gz",
+  "download_time": "2026-04-05T19:36:26.107116",
   "package_url": "https://pypi.org/project/x-browser/"
 }

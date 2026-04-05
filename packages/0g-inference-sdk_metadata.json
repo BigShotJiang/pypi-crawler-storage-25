@@ -1,0 +1,11 @@
+{
+  "name": "0g-inference-sdk",
+  "version": "0.6.0",
+  "summary": "Python SDK for the 0G Compute Network - AI inference services on decentralized infrastructure",
+  "author": "notMartin",
+  "license": null,
+  "home_page": "https://github.com/mandatedisrael/0g-py-sdk",
+  "download_filename": "0g_inference_sdk-0.6.0.tar.gz",
+  "download_time": "2026-04-05T19:36:31.339906",
+  "package_url": "https://pypi.org/project/0g-inference-sdk/"
+}

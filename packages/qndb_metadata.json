@@ -1,11 +1,11 @@
 {
   "name": "qndb",
-  "version": "4.0.0",
+  "version": "1.1.1",
   "summary": "A quantum database implementation",
   "author": "Abhishek Panthee",
   "license": "MIT",
   "home_page": "https://github.com/abhishekpanthee/quantum-database",
-  "download_filename": "qndb-4.0.0-py3-none-any.whl",
-  "download_time": "2026-04-05T18:51:37.619550",
+  "download_filename": "qndb-1.1.1-py3-none-any.whl",
+  "download_time": "2026-04-05T19:36:34.467787",
   "package_url": "https://pypi.org/project/qndb/"
 }

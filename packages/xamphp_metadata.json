@@ -1,0 +1,11 @@
+{
+  "name": "xamphp",
+  "version": "2.0.0",
+  "summary": "XAMPHP is a command-line interface app designed to launch PHP projects via XAMPP engine from any location on your Windows machine as a virtual local host",
+  "author": "Irakli Gzirishvili",
+  "license": null,
+  "home_page": "https://github.com/IG-onGit/XAMPHP",
+  "download_filename": "xamphp-2.0.0.tar.gz",
+  "download_time": "2026-04-05T19:36:29.259635",
+  "package_url": "https://pypi.org/project/xamphp/"
+}

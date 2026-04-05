@@ -1,0 +1,11 @@
+{
+  "name": "neograph",
+  "version": "0.1.0",
+  "summary": "Write Python. Get a production LLM graph. Declarative LLM graph compiler that compiles @node-decorated functions into LangGraph.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neograph-0.1.0.tar.gz",
+  "download_time": "2026-04-05T19:36:51.282838",
+  "package_url": "https://pypi.org/project/neograph/"
+}

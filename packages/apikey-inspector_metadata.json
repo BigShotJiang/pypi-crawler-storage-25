@@ -1,0 +1,11 @@
+{
+  "name": "apikey-inspector",
+  "version": "0.1.0.4",
+  "summary": "Identify and validate API keys for OpenAI, Anthropic, Gemini, and more with privacy-first masking.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apikey_inspector-0.1.0.4.tar.gz",
+  "download_time": "2026-04-05T19:36:18.736896",
+  "package_url": "https://pypi.org/project/apikey-inspector/"
+}
