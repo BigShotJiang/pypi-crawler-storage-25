@@ -1,0 +1,11 @@
+{
+  "name": "simple-upgrade",
+  "version": "1.0.0",
+  "summary": "A modular, profile-driven Python orchestrator for network device firmware upgrades. Currently supports Cisco IOS-XE.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simple_upgrade-1.0.0.tar.gz",
+  "download_time": "2026-04-05T06:23:32.330572",
+  "package_url": "https://pypi.org/project/simple-upgrade/"
+}

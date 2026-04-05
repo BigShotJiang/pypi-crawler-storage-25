@@ -1,0 +1,11 @@
+{
+  "name": "fast-gspan",
+  "version": "0.1.2",
+  "summary": "Fast gSpan (frequent subgraph mining) powered by gBolt C++ backend",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_gspan-0.1.2.tar.gz",
+  "download_time": "2026-04-05T06:23:35.962422",
+  "package_url": "https://pypi.org/project/fast-gspan/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "visio-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server exposing Visio COM automation to Claude",
+  "author": "yushun",
+  "license": null,
+  "home_page": null,
+  "download_filename": "visio_mcp-0.1.2.tar.gz",
+  "download_time": "2026-04-05T06:23:48.800147",
+  "package_url": "https://pypi.org/project/visio-mcp/"
+}

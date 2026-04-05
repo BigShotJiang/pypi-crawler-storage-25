@@ -1,0 +1,11 @@
+{
+  "name": "pybind11-pixelmatch",
+  "version": "0.1.6",
+  "summary": "A C++17 port of the JavaScript pixelmatch library (with python binding), providing a small pixel-level image comparison library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybind11_pixelmatch-0.1.6.tar.gz",
+  "download_time": "2026-04-05T06:23:33.912209",
+  "package_url": "https://pypi.org/project/pybind11-pixelmatch/"
+}

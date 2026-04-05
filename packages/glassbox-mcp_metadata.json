@@ -1,0 +1,11 @@
+{
+  "name": "glassbox-mcp",
+  "version": "4.2.4",
+  "summary": "MCP server for Glassbox — mechanistic interpretability + EU AI Act Annex IV compliance tools for Claude and any MCP-compatible client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "glassbox_mcp-4.2.4.tar.gz",
+  "download_time": "2026-04-05T06:23:51.357060",
+  "package_url": "https://pypi.org/project/glassbox-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cfsniff",
+  "version": "0.1.3",
+  "summary": "Sniff out secrets in arbitrary text using the ClassiFinder API",
+  "author": "Thomas Paras",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cfsniff-0.1.3.tar.gz",
+  "download_time": "2026-04-05T06:23:32.839766",
+  "package_url": "https://pypi.org/project/cfsniff/"
+}
