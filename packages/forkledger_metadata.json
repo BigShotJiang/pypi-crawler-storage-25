@@ -1,0 +1,11 @@
+{
+  "name": "forkledger",
+  "version": "0.4.0",
+  "summary": "Branch-based decision memory for AI agents — stores choices, alternatives, and regret.",
+  "author": "sliper82",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "forkledger-0.4.0.tar.gz",
+  "download_time": "2026-04-05T11:47:50.486724",
+  "package_url": "https://pypi.org/project/forkledger/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcp-kling",
-  "version": "2026.4.5.0",
+  "version": "2026.4.5.1",
   "summary": "MCP Server for Kling AI Video Generation via AceDataCloud API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_kling-2026.4.5.0.tar.gz",
-  "download_time": "2026-04-05T11:08:58.615792",
+  "download_filename": "mcp_kling-2026.4.5.1.tar.gz",
+  "download_time": "2026-04-05T11:47:54.070315",
   "package_url": "https://pypi.org/project/mcp-kling/"
 }

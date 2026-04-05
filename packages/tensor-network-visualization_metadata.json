@@ -1,11 +1,11 @@
 {
   "name": "tensor-network-visualization",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "summary": "Minimal Matplotlib visualizations for TensorKrowch, TensorNetwork, Quimb, TeNPy, and traced PyTorch/NumPy einsum tensor networks.",
   "author": "Alejandro Mata Ali",
   "license": null,
   "home_page": null,
-  "download_filename": "tensor_network_visualization-1.5.1.tar.gz",
-  "download_time": "2026-04-04T09:08:51.458854",
+  "download_filename": "tensor_network_visualization-1.5.2.tar.gz",
+  "download_time": "2026-04-05T11:48:02.803279",
   "package_url": "https://pypi.org/project/tensor-network-visualization/"
 }

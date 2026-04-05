@@ -1,0 +1,11 @@
+{
+  "name": "transai",
+  "version": "1.0.0",
+  "summary": "AI library and helpers (Python/Poetry/Typer - LM Studio & llama.cpp)",
+  "author": "Daniel Balparda",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/balparda/transai",
+  "download_filename": "transai-1.0.0.tar.gz",
+  "download_time": "2026-04-05T11:48:04.856060",
+  "package_url": "https://pypi.org/project/transai/"
+}

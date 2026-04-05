@@ -1,0 +1,11 @@
+{
+  "name": "mcp-to-cli",
+  "version": "1.0.2",
+  "summary": "Convert MCP server tools into hierarchical CLI commands and agent Skills",
+  "author": "oliver.mengxy@gmail.com",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_to_cli-1.0.2.tar.gz",
+  "download_time": "2026-04-05T11:48:00.245014",
+  "package_url": "https://pypi.org/project/mcp-to-cli/"
+}

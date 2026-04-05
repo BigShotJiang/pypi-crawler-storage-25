@@ -1,11 +1,11 @@
 {
   "name": "cli-core-yo",
-  "version": "0.5.1",
+  "version": "1.0.1",
   "summary": "Reusable CLI kernel for building unified command-line interfaces with consistent behavior, output style, help, and extension semantics.",
   "author": "Daylily Informatics",
   "license": null,
   "home_page": null,
-  "download_filename": "cli_core_yo-0.5.1.tar.gz",
-  "download_time": "2026-04-02T21:03:46.686947",
+  "download_filename": "cli_core_yo-1.0.1.tar.gz",
+  "download_time": "2026-04-05T11:47:44.332883",
   "package_url": "https://pypi.org/project/cli-core-yo/"
 }

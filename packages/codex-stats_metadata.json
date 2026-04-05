@@ -1,11 +1,11 @@
 {
   "name": "codex-stats",
-  "version": "0.3.0",
+  "version": "1.3.0",
   "summary": "Local AI usage observability CLI for Codex sessions.",
   "author": "Vivek",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codex_stats-0.3.0.tar.gz",
-  "download_time": "2026-04-03T14:09:11.752646",
+  "download_filename": "codex_stats-1.3.0.tar.gz",
+  "download_time": "2026-04-05T11:47:45.867441",
   "package_url": "https://pypi.org/project/codex-stats/"
 }

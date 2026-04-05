@@ -1,11 +1,11 @@
 {
   "name": "maleo-telemetry",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "MaleoTelemetry service package",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_telemetry-0.0.7.tar.gz",
-  "download_time": "2026-04-05T09:58:59.545693",
+  "download_filename": "maleo_telemetry-0.0.8.tar.gz",
+  "download_time": "2026-04-05T11:47:49.463967",
   "package_url": "https://pypi.org/project/maleo-telemetry/"
 }

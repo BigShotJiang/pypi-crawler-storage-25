@@ -1,11 +1,11 @@
 {
   "name": "apcore",
-  "version": "0.15.0",
+  "version": "0.17.0",
   "summary": "Schema-driven module standard for AI-perceivable interfaces",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "apcore-0.15.0.tar.gz",
-  "download_time": "2026-03-31T06:50:07.158413",
+  "download_filename": "apcore-0.17.0.tar.gz",
+  "download_time": "2026-04-05T11:48:07.933735",
   "package_url": "https://pypi.org/project/apcore/"
 }
