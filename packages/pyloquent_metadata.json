@@ -1,0 +1,11 @@
+{
+  "name": "pyloquent",
+  "version": "0.2.0",
+  "summary": "Eloquent-inspired ORM for Python with Pydantic and FastAPI support",
+  "author": "Pyloquent Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyloquent-0.2.0.tar.gz",
+  "download_time": "2026-04-05T11:09:14.811355",
+  "package_url": "https://pypi.org/project/pyloquent/"
+}

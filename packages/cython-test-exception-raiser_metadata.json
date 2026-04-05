@@ -1,0 +1,11 @@
+{
+  "name": "cython-test-exception-raiser",
+  "version": "26.4.1",
+  "summary": "A trivial extension that just raises an exception.",
+  "author": "Twisted Matrix Laboratories",
+  "license": "MIT",
+  "home_page": "https://github.com/twisted/cython-test-exception-raiser",
+  "download_filename": "cython_test_exception_raiser-26.4.1.tar.gz",
+  "download_time": "2026-04-05T11:09:10.415659",
+  "package_url": "https://pypi.org/project/cython-test-exception-raiser/"
+}

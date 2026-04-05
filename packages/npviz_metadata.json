@@ -1,11 +1,11 @@
 {
   "name": "npviz",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "visualize how neural network architectures change during training",
   "author": "Abhisar Mehta",
   "license": null,
   "home_page": null,
-  "download_filename": "npviz-0.1.0.tar.gz",
-  "download_time": "2026-04-05T10:36:29.006878",
+  "download_filename": "npviz-0.1.1.tar.gz",
+  "download_time": "2026-04-05T11:09:11.056045",
   "package_url": "https://pypi.org/project/npviz/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dinobase",
-  "version": "0.3.0",
+  "version": "0.2.3",
   "summary": "🦕 The agent-first database",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dinobase-0.3.0.tar.gz",
-  "download_time": "2026-04-02T13:43:03.709279",
+  "download_filename": "dinobase-0.2.3-py3-none-any.whl",
+  "download_time": "2026-04-05T11:08:35.346495",
   "package_url": "https://pypi.org/project/dinobase/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fotolab",
-  "version": "0.40.0",
+  "version": "0.40.1",
   "summary": "A console program to manipulate photos.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fotolab-0.40.0.tar.gz",
-  "download_time": "2026-03-29T10:32:52.216032",
+  "download_filename": "fotolab-0.40.1.tar.gz",
+  "download_time": "2026-04-05T11:08:32.778263",
   "package_url": "https://pypi.org/project/fotolab/"
 }

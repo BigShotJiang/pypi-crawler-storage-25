@@ -1,11 +1,11 @@
 {
   "name": "tteg",
-  "version": "0.3.2",
+  "version": "0.4.1",
   "summary": "Free stock image search CLI for agents.",
   "author": "Kushal",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tteg-0.3.2.tar.gz",
-  "download_time": "2026-04-02T08:07:44.682438",
+  "download_filename": "tteg-0.4.1.tar.gz",
+  "download_time": "2026-04-05T11:08:57.301122",
   "package_url": "https://pypi.org/project/tteg/"
 }

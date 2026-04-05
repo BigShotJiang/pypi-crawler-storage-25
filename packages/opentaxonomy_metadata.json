@@ -1,11 +1,11 @@
 {
   "name": "opentaxonomy",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "LLM-powered semantic taxonomy generator for raw categorical data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opentaxonomy-0.1.4.tar.gz",
-  "download_time": "2026-04-05T10:36:35.448300",
+  "download_filename": "opentaxonomy-0.1.5.tar.gz",
+  "download_time": "2026-04-05T11:09:03.169537",
   "package_url": "https://pypi.org/project/opentaxonomy/"
 }
