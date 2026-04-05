@@ -1,11 +1,11 @@
 {
   "name": "file-identifier",
-  "version": "0.1.0",
-  "summary": "File Type Identifier using Magic Numbers",
+  "version": "0.2.4",
+  "summary": "CLI tool to detect real file types using magic numbers, with JSON output, directory scanning, and extension mismatch detection",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "file_identifier-0.1.0.tar.gz",
-  "download_time": "2026-04-05T08:26:06.905206",
+  "download_filename": "file_identifier-0.2.4.tar.gz",
+  "download_time": "2026-04-05T16:38:46.483676",
   "package_url": "https://pypi.org/project/file-identifier/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pym2149",
-  "version": "42",
+  "version": "43",
   "summary": "YM2149 emulator supporting YM files, OSC to JACK, PortAudio, WAV",
   "author": "Andrzej Cichocki",
   "license": null,
   "home_page": "https://github.com/combatopera/pym2149",
-  "download_filename": "pym2149-42.tar.gz",
-  "download_time": "2026-04-04T09:56:24.018233",
+  "download_filename": "pym2149-43.tar.gz",
+  "download_time": "2026-04-05T16:38:24.896663",
   "package_url": "https://pypi.org/project/pym2149/"
 }

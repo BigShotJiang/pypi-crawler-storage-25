@@ -1,11 +1,11 @@
 {
   "name": "wasmsh-pyodide-runtime",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Pyodide-backed wasmsh runtime assets for Python integrations",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "wasmsh_pyodide_runtime-0.5.1.tar.gz",
-  "download_time": "2026-04-05T08:26:22.606910",
+  "download_filename": "wasmsh_pyodide_runtime-0.5.2.tar.gz",
+  "download_time": "2026-04-05T16:38:18.927685",
   "package_url": "https://pypi.org/project/wasmsh-pyodide-runtime/"
 }

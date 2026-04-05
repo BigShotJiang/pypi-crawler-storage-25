@@ -1,0 +1,11 @@
+{
+  "name": "octodns-unifi",
+  "version": "1.0.0",
+  "summary": "UniFi Network provider for octoDNS",
+  "author": "netshad0w",
+  "license": "MIT",
+  "home_page": "https://github.com/netshad0w/octodns-unifi",
+  "download_filename": "octodns_unifi-1.0.0.tar.gz",
+  "download_time": "2026-04-05T16:38:37.515291",
+  "package_url": "https://pypi.org/project/octodns-unifi/"
+}

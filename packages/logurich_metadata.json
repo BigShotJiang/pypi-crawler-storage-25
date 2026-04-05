@@ -1,11 +1,11 @@
 {
   "name": "logurich",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "A Python library combining standard logging and Rich for beautiful logging.",
   "author": "PakitoSec",
   "license": null,
   "home_page": null,
-  "download_filename": "logurich-0.9.0.tar.gz",
-  "download_time": "2026-04-04T17:59:09.440370",
+  "download_filename": "logurich-0.9.1.tar.gz",
+  "download_time": "2026-04-05T16:39:01.298431",
   "package_url": "https://pypi.org/project/logurich/"
 }

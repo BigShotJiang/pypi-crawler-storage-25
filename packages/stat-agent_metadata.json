@@ -1,11 +1,11 @@
 {
   "name": "stat-agent",
-  "version": "0.1.13",
+  "version": "0.1.15",
   "summary": "STAT: Spatial Transcriptomics Analytical agenT - AI-powered platform for spatial omics analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stat_agent-0.1.13.tar.gz",
-  "download_time": "2026-04-05T15:50:30.268069",
+  "download_filename": "stat_agent-0.1.15.tar.gz",
+  "download_time": "2026-04-05T16:38:52.709824",
   "package_url": "https://pypi.org/project/stat-agent/"
 }

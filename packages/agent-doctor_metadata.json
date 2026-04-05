@@ -1,0 +1,11 @@
+{
+  "name": "agent-doctor",
+  "version": "0.12.0",
+  "summary": "Python SDK for agent-doctor — instrument AI agents with one init() call",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_doctor-0.12.0.tar.gz",
+  "download_time": "2026-04-05T16:39:00.746711",
+  "package_url": "https://pypi.org/project/agent-doctor/"
+}

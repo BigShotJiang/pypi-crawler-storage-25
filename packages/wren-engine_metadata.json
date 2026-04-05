@@ -1,0 +1,11 @@
+{
+  "name": "wren-engine",
+  "version": "0.1.0",
+  "summary": "Wren Engine CLI and Python SDK — semantic SQL layer for 20+ data sources",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "wren_engine-0.1.0.tar.gz",
+  "download_time": "2026-04-05T16:38:54.847713",
+  "package_url": "https://pypi.org/project/wren-engine/"
+}

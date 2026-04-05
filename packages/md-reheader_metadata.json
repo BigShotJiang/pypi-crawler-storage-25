@@ -1,0 +1,11 @@
+{
+  "name": "md-reheader",
+  "version": "0.1.3",
+  "summary": "Restore heading hierarchy in markdown documents using a fine-tuned Qwen3-0.6B model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "md_reheader-0.1.3-py3-none-any.whl",
+  "download_time": "2026-04-05T16:38:42.817213",
+  "package_url": "https://pypi.org/project/md-reheader/"
+}
