@@ -1,11 +1,11 @@
 {
   "name": "axiomguard",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "Deterministic Neuro-Symbolic Guardrails for Enterprise AI.",
   "author": "Witchwasin K.",
   "license": null,
   "home_page": "https://github.com/witchwasin/AxiomGuard",
-  "download_filename": "axiomguard-0.7.1.tar.gz",
-  "download_time": "2026-04-05T19:36:36.028731",
+  "download_filename": "axiomguard-0.7.2.tar.gz",
+  "download_time": "2026-04-05T20:04:01.495216",
   "package_url": "https://pypi.org/project/axiomguard/"
 }

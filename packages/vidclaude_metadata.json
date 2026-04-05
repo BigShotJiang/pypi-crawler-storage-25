@@ -1,0 +1,11 @@
+{
+  "name": "vidclaude",
+  "version": "0.2.0",
+  "summary": "Multimodal video understanding for Claude Code — extract frames, transcribe audio, build timelines from any video",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vidclaude-0.2.0.tar.gz",
+  "download_time": "2026-04-05T20:03:34.997717",
+  "package_url": "https://pypi.org/project/vidclaude/"
+}

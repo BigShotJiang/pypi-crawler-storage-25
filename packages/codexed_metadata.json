@@ -1,11 +1,11 @@
 {
   "name": "codexed",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "summary": "Alternative codex app-server client",
   "author": "Philipp Temminghoff",
   "license": null,
   "home_page": null,
-  "download_filename": "codexed-1.1.6.tar.gz",
-  "download_time": "2026-04-04T17:59:11.939795",
+  "download_filename": "codexed-1.1.7.tar.gz",
+  "download_time": "2026-04-05T20:03:36.553089",
   "package_url": "https://pypi.org/project/codexed/"
 }

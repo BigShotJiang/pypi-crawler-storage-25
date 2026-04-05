@@ -1,11 +1,11 @@
 {
   "name": "autoendpoint",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Library to create basics endpoints from Models SQLModels",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autoendpoint-0.2.0.tar.gz",
-  "download_time": "2026-04-04T19:23:11.766554",
+  "download_filename": "autoendpoint-0.3.0.tar.gz",
+  "download_time": "2026-04-05T20:03:23.508670",
   "package_url": "https://pypi.org/project/autoendpoint/"
 }

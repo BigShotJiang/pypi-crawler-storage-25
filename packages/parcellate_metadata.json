@@ -1,11 +1,11 @@
 {
   "name": "parcellate",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Extract regional statistics from scalar brain maps using atlas-based parcellation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "parcellate-0.4.1.tar.gz",
-  "download_time": "2026-04-05T19:36:37.072496",
+  "download_filename": "parcellate-0.4.2.tar.gz",
+  "download_time": "2026-04-05T20:03:54.269723",
   "package_url": "https://pypi.org/project/parcellate/"
 }
