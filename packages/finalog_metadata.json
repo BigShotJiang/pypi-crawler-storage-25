@@ -1,0 +1,11 @@
+{
+  "name": "finalog",
+  "version": "0.1.0",
+  "summary": "Capture banking transactions from screen and log them to Google Sheets",
+  "author": "Michael Zhang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "finalog-0.1.0.tar.gz",
+  "download_time": "2026-04-05T09:09:25.695900",
+  "package_url": "https://pypi.org/project/finalog/"
+}

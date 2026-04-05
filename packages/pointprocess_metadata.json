@@ -1,0 +1,11 @@
+{
+  "name": "pointprocess",
+  "version": "0.1.0",
+  "summary": "C++ implementation of point process models for heart rate variability analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pointprocess-0.1.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-05T09:09:59.785492",
+  "package_url": "https://pypi.org/project/pointprocess/"
+}

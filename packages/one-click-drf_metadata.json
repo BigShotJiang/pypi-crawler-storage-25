@@ -1,11 +1,11 @@
 {
   "name": "one-click-drf",
-  "version": "1.1.9",
+  "version": "1.1.11",
   "summary": "One command to generate a production-ready Django REST backend",
   "author": "Shemanto Sharkar",
   "license": null,
   "home_page": null,
-  "download_filename": "one_click_drf-1.1.9.tar.gz",
-  "download_time": "2026-04-04T23:59:55.308754",
+  "download_filename": "one_click_drf-1.1.11.tar.gz",
+  "download_time": "2026-04-05T09:09:39.079887",
   "package_url": "https://pypi.org/project/one-click-drf/"
 }

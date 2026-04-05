@@ -1,0 +1,11 @@
+{
+  "name": "agent-rag-mcp",
+  "version": "1.1.6",
+  "summary": "RAG MCP server: ChromaDB + sentence-transformers, exposes ingest/search/list/delete tools.",
+  "author": "Tharindumendis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_rag_mcp-1.1.6.tar.gz",
+  "download_time": "2026-04-05T09:09:41.145764",
+  "package_url": "https://pypi.org/project/agent-rag-mcp/"
+}

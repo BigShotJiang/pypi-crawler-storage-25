@@ -1,0 +1,11 @@
+{
+  "name": "minibatch-kmeans",
+  "version": "0.1.1",
+  "summary": "Mini-batch k-means clustering implemented in PyTorch",
+  "author": "Miroojin Bakshi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "minibatch_kmeans-0.1.1.tar.gz",
+  "download_time": "2026-04-05T09:09:22.618288",
+  "package_url": "https://pypi.org/project/minibatch-kmeans/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "moju",
+  "version": "0.6.1",
+  "summary": "Physics-informed machine learning framework for enforcing governing equations, and auditing physical consistency across PINNs, CFD surrogates, and other state predictors",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "moju-0.6.1.tar.gz",
+  "download_time": "2026-04-05T09:09:58.755465",
+  "package_url": "https://pypi.org/project/moju/"
+}

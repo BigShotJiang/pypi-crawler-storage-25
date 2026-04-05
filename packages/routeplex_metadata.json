@@ -1,0 +1,11 @@
+{
+  "name": "routeplex",
+  "version": "1.0.0",
+  "summary": "RoutePlex Python SDK - Multi-model AI gateway. Route requests across OpenAI, Anthropic, and Google Gemini through a unified API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "routeplex-1.0.0.tar.gz",
+  "download_time": "2026-04-05T09:09:22.105058",
+  "package_url": "https://pypi.org/project/routeplex/"
+}

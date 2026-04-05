@@ -1,11 +1,11 @@
 {
   "name": "aira-sdk",
-  "version": "0.2.2",
+  "version": "0.3.1",
   "summary": "Python SDK for Aira — legal infrastructure for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aira_sdk-0.2.2.tar.gz",
-  "download_time": "2026-03-31T19:42:55.421726",
+  "download_filename": "aira_sdk-0.3.1.tar.gz",
+  "download_time": "2026-04-05T09:09:42.176582",
   "package_url": "https://pypi.org/project/aira-sdk/"
 }

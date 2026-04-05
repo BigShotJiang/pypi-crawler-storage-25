@@ -1,0 +1,11 @@
+{
+  "name": "mimir-context-server",
+  "version": "1.1.2",
+  "summary": "Mimir — Context Server: intelligent code context engine for LLMs working with large, multi-repo codebases",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mimir_context_server-1.1.2.tar.gz",
+  "download_time": "2026-04-05T09:09:23.647887",
+  "package_url": "https://pypi.org/project/mimir-context-server/"
+}
