@@ -1,11 +1,11 @@
 {
   "name": "fivefury",
-  "version": "0.1.9",
+  "version": "0.1.12",
   "summary": "Python library for GTA V asset workflows including YMAP, YTYP, RPF, YTD and GameFileCache utilities.",
   "author": "Codex",
   "license": null,
   "home_page": null,
-  "download_filename": "fivefury-0.1.9.tar.gz",
-  "download_time": "2026-04-03T19:03:27.393207",
+  "download_filename": "fivefury-0.1.12.tar.gz",
+  "download_time": "2026-04-05T07:40:19.631810",
   "package_url": "https://pypi.org/project/fivefury/"
 }

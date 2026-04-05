@@ -1,0 +1,11 @@
+{
+  "name": "hqdata",
+  "version": "0.1.2",
+  "summary": "A股历史与实时行情数据统一接入、清洗与存储",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hqdata-0.1.2.tar.gz",
+  "download_time": "2026-04-05T07:40:18.559353",
+  "package_url": "https://pypi.org/project/hqdata/"
+}

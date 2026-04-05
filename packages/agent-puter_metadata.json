@@ -1,0 +1,11 @@
+{
+  "name": "agent-puter",
+  "version": "1.0.0",
+  "summary": "Autonomous AI consulting agency — a swarm of specialized agents built on pydantic-ai, litellm, and Puter.js",
+  "author": "Charles Nichols",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_puter-1.0.0.tar.gz",
+  "download_time": "2026-04-05T07:40:33.164292",
+  "package_url": "https://pypi.org/project/agent-puter/"
+}

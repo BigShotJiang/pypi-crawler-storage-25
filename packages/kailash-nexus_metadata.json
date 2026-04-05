@@ -1,11 +1,11 @@
 {
   "name": "kailash-nexus",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "summary": "Zero-configuration multi-channel workflow orchestration platform",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "kailash_nexus-1.8.0-py3-none-any.whl",
-  "download_time": "2026-04-04T15:32:40.449038",
+  "download_filename": "kailash_nexus-1.9.0-py3-none-any.whl",
+  "download_time": "2026-04-05T07:40:29.895906",
   "package_url": "https://pypi.org/project/kailash-nexus/"
 }

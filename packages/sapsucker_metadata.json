@@ -1,0 +1,11 @@
+{
+  "name": "sapsucker",
+  "version": "0.2.0",
+  "summary": "Typed Python wrapper for the SAP GUI Scripting COM API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sapsucker-0.2.0.tar.gz",
+  "download_time": "2026-04-05T07:40:26.119770",
+  "package_url": "https://pypi.org/project/sapsucker/"
+}

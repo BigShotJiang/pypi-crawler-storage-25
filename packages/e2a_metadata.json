@@ -1,11 +1,11 @@
 {
   "name": "e2a",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Python SDK for the e2a protocol — email-to-agent authentication",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "e2a-1.0.0.tar.gz",
-  "download_time": "2026-03-31T06:49:42.843669",
+  "download_filename": "e2a-1.1.1.tar.gz",
+  "download_time": "2026-04-05T07:39:57.965286",
   "package_url": "https://pypi.org/project/e2a/"
 }

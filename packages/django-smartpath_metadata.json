@@ -1,0 +1,11 @@
+{
+  "name": "django-smartpath",
+  "version": "1.0.0",
+  "summary": "Smart media/static file path insertion for Django — works in VS Code, PyCharm, Sublime Text",
+  "author": "django-smartpath contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/django-smartpath/django-smartpath",
+  "download_filename": "django_smartpath-1.0.0.tar.gz",
+  "download_time": "2026-04-05T07:39:59.701557",
+  "package_url": "https://pypi.org/project/django-smartpath/"
+}

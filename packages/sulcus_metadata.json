@@ -1,11 +1,11 @@
 {
   "name": "sulcus",
-  "version": "0.6.0",
+  "version": "0.7.1",
   "summary": "Sulcus — Thermodynamic Memory for AI Agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sulcus-0.6.0.tar.gz",
-  "download_time": "2026-03-31T17:42:04.977059",
+  "download_filename": "sulcus-0.7.1.tar.gz",
+  "download_time": "2026-04-05T07:40:14.798208",
   "package_url": "https://pypi.org/project/sulcus/"
 }

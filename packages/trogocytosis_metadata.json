@@ -1,11 +1,11 @@
 {
   "name": "trogocytosis",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "Persistent browser MCP server with credential transfer and stealth fallback.",
   "author": "Terry Li",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "trogocytosis-0.4.0.tar.gz",
-  "download_time": "2026-04-05T05:13:26.447587",
+  "download_filename": "trogocytosis-0.6.0.tar.gz",
+  "download_time": "2026-04-05T07:40:05.045313",
   "package_url": "https://pypi.org/project/trogocytosis/"
 }

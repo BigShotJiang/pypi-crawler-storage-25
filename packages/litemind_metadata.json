@@ -1,0 +1,11 @@
+{
+  "name": "litemind",
+  "version": "2026.4.4",
+  "summary": "A wrapper API around LLM APIs and agentic AI framework",
+  "author": "Loic A. Royer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "litemind-2026.4.4.tar.gz",
+  "download_time": "2026-04-05T07:40:08.870503",
+  "package_url": "https://pypi.org/project/litemind/"
+}
