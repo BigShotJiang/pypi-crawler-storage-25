@@ -1,0 +1,11 @@
+{
+  "name": "rtk-hermes",
+  "version": "1.0.0",
+  "summary": "RTK plugin for Hermes — rewrites shell commands for 60-90% LLM token savings",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rtk_hermes-1.0.0.tar.gz",
+  "download_time": "2026-04-05T02:56:37.743947",
+  "package_url": "https://pypi.org/project/rtk-hermes/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "napari-chat-assistant",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "summary": "Local AI and deterministic workbench for napari image-analysis workflows",
   "author": "Wulin Teo",
   "license": null,
   "home_page": null,
-  "download_filename": "napari_chat_assistant-1.8.2.tar.gz",
-  "download_time": "2026-04-04T23:32:08.455737",
+  "download_filename": "napari_chat_assistant-1.8.3.tar.gz",
+  "download_time": "2026-04-05T02:57:02.182114",
   "package_url": "https://pypi.org/project/napari-chat-assistant/"
 }

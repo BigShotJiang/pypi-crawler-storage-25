@@ -1,11 +1,11 @@
 {
   "name": "graphrefly",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Reactive graph protocol for human + LLM co-operation. Composable nodes, glitch-free diamond resolution, two-phase push, durable streaming. Zero dependencies.",
   "author": "David Chen",
   "license": null,
   "home_page": null,
-  "download_filename": "graphrefly-0.4.0.tar.gz",
-  "download_time": "2026-04-04T14:54:21.159192",
+  "download_filename": "graphrefly-0.5.0.tar.gz",
+  "download_time": "2026-04-05T02:57:11.217681",
   "package_url": "https://pypi.org/project/graphrefly/"
 }

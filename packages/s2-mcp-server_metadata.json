@@ -1,11 +1,11 @@
 {
   "name": "s2-mcp-server",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "summary": "MCP server for Semantic Scholar — 200M+ academic papers in Claude Desktop",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "s2_mcp_server-1.0.3.tar.gz",
-  "download_time": "2026-04-04T22:03:07.760579",
+  "download_filename": "s2_mcp_server-1.1.0.tar.gz",
+  "download_time": "2026-04-05T02:57:18.543026",
   "package_url": "https://pypi.org/project/s2-mcp-server/"
 }

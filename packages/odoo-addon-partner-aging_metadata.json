@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-aging",
+  "version": "18.0.1.0.0.2",
+  "summary": "Aging as a view - invoices and credits",
+  "author": "Open Source Integrators, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-payment",
+  "download_filename": "odoo_addon_partner_aging-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-04-05T02:56:51.810246",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-aging/"
+}

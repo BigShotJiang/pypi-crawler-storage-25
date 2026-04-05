@@ -1,11 +1,11 @@
 {
   "name": "mindvault",
-  "version": "0.5.3",
+  "version": "0.5.460",
   "summary": "Local-first second brain RAG system — chat with your own data",
   "author": null,
   "license": "Source-Available — see LICENSE",
   "home_page": null,
-  "download_filename": "mindvault-0.5.3.tar.gz",
-  "download_time": "2026-04-04T22:51:46.836942",
+  "download_filename": "mindvault-0.5.460.tar.gz",
+  "download_time": "2026-04-05T02:56:42.995396",
   "package_url": "https://pypi.org/project/mindvault/"
 }

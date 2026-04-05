@@ -1,0 +1,11 @@
+{
+  "name": "tereo",
+  "version": "0.1.3",
+  "summary": "Proof layer for software changes. Keep only what proves itself.",
+  "author": "Woojoo Kim",
+  "license": "MIT",
+  "home_page": "https://github.com/kim-woojoo/tereo",
+  "download_filename": "tereo-0.1.3.tar.gz",
+  "download_time": "2026-04-05T02:56:59.044608",
+  "package_url": "https://pypi.org/project/tereo/"
+}

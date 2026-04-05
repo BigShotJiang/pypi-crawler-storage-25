@@ -1,11 +1,11 @@
 {
   "name": "gradexp",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Gradient Explorer Python Client Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gradexp-0.1.10.tar.gz",
-  "download_time": "2026-04-04T23:59:55.833183",
+  "download_filename": "gradexp-0.1.11.tar.gz",
+  "download_time": "2026-04-05T02:56:53.362342",
   "package_url": "https://pypi.org/project/gradexp/"
 }
