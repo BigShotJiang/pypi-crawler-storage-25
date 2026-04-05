@@ -1,11 +1,11 @@
 {
   "name": "pydevversions",
-  "version": "2.1.0",
+  "version": "3.0.1",
   "summary": "Displays versions and paths of a collection of apps in the terminal",
   "author": "thib1984",
   "license": "MIT",
   "home_page": "https://github.com/thib1984/pydevversions",
-  "download_filename": "pydevversions-2.1.0.tar.gz",
-  "download_time": "2026-04-05T11:08:38.009065",
+  "download_filename": "pydevversions-3.0.1.tar.gz",
+  "download_time": "2026-04-05T17:59:58.243773",
   "package_url": "https://pypi.org/project/pydevversions/"
 }

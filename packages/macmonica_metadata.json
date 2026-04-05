@@ -1,0 +1,11 @@
+{
+  "name": "macmonica",
+  "version": "1.1.5",
+  "summary": "Lightweight macOS system health monitor with historical tracking, smart alerts, and actionable insights — Monica would be proud of how clean your system runs",
+  "author": "Hritik Valluvar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "macmonica-1.1.5.tar.gz",
+  "download_time": "2026-04-05T17:59:38.383309",
+  "package_url": "https://pypi.org/project/macmonica/"
+}

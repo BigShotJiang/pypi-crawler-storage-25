@@ -1,11 +1,11 @@
 {
   "name": "agentbreak",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "Chaos proxy for testing LLM agents. Supports OpenAI, Anthropic, and MCP.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentbreak-0.4.3.tar.gz",
-  "download_time": "2026-04-05T05:13:44.726734",
+  "download_filename": "agentbreak-0.4.4.tar.gz",
+  "download_time": "2026-04-05T17:59:51.678469",
   "package_url": "https://pypi.org/project/agentbreak/"
 }

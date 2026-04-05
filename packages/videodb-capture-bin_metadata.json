@@ -1,0 +1,11 @@
+{
+  "name": "videodb-capture-bin",
+  "version": "0.3.1",
+  "summary": "Binary container for VideoDB Capture runtime",
+  "author": "VideoDB",
+  "license": null,
+  "home_page": "https://github.com/video-db/videodb-python",
+  "download_filename": "videodb_capture_bin-0.3.1-py3-none-win_amd64.whl",
+  "download_time": "2026-04-05T17:59:45.027190",
+  "package_url": "https://pypi.org/project/videodb-capture-bin/"
+}

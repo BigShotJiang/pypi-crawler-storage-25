@@ -1,0 +1,11 @@
+{
+  "name": "agentic-memory-ai",
+  "version": "0.1.0",
+  "summary": "Framework-agnostic memory layer for AI agents. Multi-signal retrieval, conflict detection, typed decay, checkpointing. Zero dependencies.",
+  "author": "genieincodebottle",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentic_memory_ai-0.1.0.tar.gz",
+  "download_time": "2026-04-05T17:59:41.168467",
+  "package_url": "https://pypi.org/project/agentic-memory-ai/"
+}

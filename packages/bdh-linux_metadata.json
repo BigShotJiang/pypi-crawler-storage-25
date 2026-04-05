@@ -1,11 +1,11 @@
 {
   "name": "bdh-linux",
-  "version": "3.0.0",
+  "version": "3.0.3",
   "summary": "bdh-linux — Backend Developer OS setup tool for Arch/Manjaro",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bdh_linux-3.0.0.tar.gz",
-  "download_time": "2026-04-04T19:56:38.702129",
+  "download_filename": "bdh_linux-3.0.3.tar.gz",
+  "download_time": "2026-04-05T17:59:53.848657",
   "package_url": "https://pypi.org/project/bdh-linux/"
 }
