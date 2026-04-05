@@ -1,11 +1,11 @@
 {
   "name": "zyncedpy",
-  "version": "1.0.4",
-  "summary": "ZyncedPy is a Python module that allows you to create bots for Zynced chat platform.",
-  "author": "Emanuel Scura",
-  "license": "MIT",
-  "home_page": "https://github.com/Emsa001/zyncedpy",
-  "download_filename": "zyncedpy-1.0.4.tar.gz",
-  "download_time": "2026-04-05T00:00:07.863582",
+  "version": "1.2.3",
+  "summary": "ZyncedPy is a Python module for Zynced chat platform.",
+  "author": "dukaj",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zyncedpy-1.2.3.tar.gz",
+  "download_time": "2026-04-05T21:33:55.370142",
   "package_url": "https://pypi.org/project/zyncedpy/"
 }

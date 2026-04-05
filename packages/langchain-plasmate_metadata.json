@@ -1,0 +1,11 @@
+{
+  "name": "langchain-plasmate",
+  "version": "0.5.0",
+  "summary": "LangChain integration for Plasmate — agent-native headless browser with SOM output",
+  "author": "Plasmate Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_plasmate-0.5.0.tar.gz",
+  "download_time": "2026-04-05T21:34:00.053019",
+  "package_url": "https://pypi.org/project/langchain-plasmate/"
+}

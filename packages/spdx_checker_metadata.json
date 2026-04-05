@@ -1,0 +1,11 @@
+{
+  "name": "spdx_checker",
+  "version": "0.1.21",
+  "summary": "Fast SPDX License Checker for Source Code",
+  "author": "Tobias Stach",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spdx_checker-0.1.21-cp311-abi3-macosx_14_0_arm64.whl",
+  "download_time": "2026-04-05T21:33:43.689137",
+  "package_url": "https://pypi.org/project/spdx_checker/"
+}

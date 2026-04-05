@@ -1,11 +1,11 @@
 {
   "name": "termux-app-store",
-  "version": "0.1.7",
+  "version": "0.2.1",
   "summary": "The first offline-first, source-based TUI package manager built natively for Termux",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "termux_app_store-0.1.7.tar.gz",
-  "download_time": "2026-04-05T20:03:34.485543",
+  "download_filename": "termux_app_store-0.2.1.tar.gz",
+  "download_time": "2026-04-05T21:33:30.001908",
   "package_url": "https://pypi.org/project/termux-app-store/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "conduit-ai",
+  "version": "0.2.0",
+  "summary": "Python SDK for Conduit — the knowledge graph engine. Includes LangChain retriever.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "conduit_ai-0.2.0.tar.gz",
+  "download_time": "2026-04-05T21:33:42.635965",
+  "package_url": "https://pypi.org/project/conduit-ai/"
+}

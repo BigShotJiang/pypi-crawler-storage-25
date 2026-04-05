@@ -1,11 +1,11 @@
 {
   "name": "zwischenzug",
-  "version": "0.7.0",
+  "version": "1.33.0",
   "summary": "Zwischenzug CLI — AI coding agent powered by LangChain",
   "author": "Zwischenzug contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zwischenzug-0.7.0.tar.gz",
-  "download_time": "2026-04-05T20:52:58.346686",
+  "download_filename": "zwischenzug-1.33.0.tar.gz",
+  "download_time": "2026-04-05T21:33:36.350800",
   "package_url": "https://pypi.org/project/zwischenzug/"
 }

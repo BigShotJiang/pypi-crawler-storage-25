@@ -1,0 +1,11 @@
+{
+  "name": "py-growth-RHEED",
+  "version": "1.0.3",
+  "summary": "A Python package for simulations of RHEED intensity oscillations within the kinematical approximation",
+  "author": "Bartek Daniluk",
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "py_growth_rheed-1.0.3.tar.gz",
+  "download_time": "2026-04-05T21:33:31.044297",
+  "package_url": "https://pypi.org/project/py-growth-RHEED/"
+}
