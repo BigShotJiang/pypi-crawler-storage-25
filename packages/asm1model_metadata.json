@@ -1,0 +1,11 @@
+{
+  "name": "asm1model",
+  "version": "0.1.0",
+  "summary": "ASM1 compiled extension modules for Windows (CPython 3.12 wheel)",
+  "author": "Dr Taher Abunama",
+  "license": "SEE LICENSE",
+  "home_page": null,
+  "download_filename": "asm1model-0.1.0-cp312-cp312-win_amd64.whl",
+  "download_time": "2026-04-05T17:18:35.960044",
+  "package_url": "https://pypi.org/project/asm1model/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "asyngram",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Developer-friendly async Telegram Bot Framework. from Sadullayev Musobek Otabek",
   "author": "Musa ibn Atabek Sadullah",
   "license": null,
   "home_page": "https://github.com/telegrampy/telegrampy",
-  "download_filename": "asyngram-0.1.0.tar.gz",
-  "download_time": "2026-04-05T15:08:45.505372",
+  "download_filename": "asyngram-0.1.1.tar.gz",
+  "download_time": "2026-04-05T17:18:42.584139",
   "package_url": "https://pypi.org/project/asyngram/"
 }

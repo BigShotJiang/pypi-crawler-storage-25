@@ -1,11 +1,11 @@
 {
   "name": "nanoindex",
-  "version": "0.1.18",
+  "version": "0.1.21",
   "summary": "Turn any PDF into searchable trees and knowledge graphs. No vectors, no chunks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nanoindex-0.1.18.tar.gz",
-  "download_time": "2026-04-05T16:38:51.114585",
+  "download_filename": "nanoindex-0.1.21.tar.gz",
+  "download_time": "2026-04-05T17:18:55.241699",
   "package_url": "https://pypi.org/project/nanoindex/"
 }

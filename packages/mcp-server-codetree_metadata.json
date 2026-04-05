@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-codetree",
+  "version": "0.2.0",
+  "summary": "MCP server with 23 tools for structured code understanding via tree-sitter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_codetree-0.2.0.tar.gz",
+  "download_time": "2026-04-05T17:18:29.840076",
+  "package_url": "https://pypi.org/project/mcp-server-codetree/"
+}

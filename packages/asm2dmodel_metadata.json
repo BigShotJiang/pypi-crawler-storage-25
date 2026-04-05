@@ -1,0 +1,11 @@
+{
+  "name": "asm2dmodel",
+  "version": "0.1.0",
+  "summary": "ASM2d compiled extension modules for Windows (CPython 3.12 wheel)",
+  "author": "Dr Taher Abunama",
+  "license": "SEE LICENSE",
+  "home_page": null,
+  "download_filename": "asm2dmodel-0.1.0-cp312-cp312-win_amd64.whl",
+  "download_time": "2026-04-05T17:18:40.951413",
+  "package_url": "https://pypi.org/project/asm2dmodel/"
+}

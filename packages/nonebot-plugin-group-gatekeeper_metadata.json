@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-group-gatekeeper",
+  "version": "0.2.0",
+  "summary": "监听加群请求并通知管理员，通过指令同意/拒绝申请",
+  "author": "dontdot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_group_gatekeeper-0.2.0.tar.gz",
+  "download_time": "2026-04-05T17:18:17.012193",
+  "package_url": "https://pypi.org/project/nonebot-plugin-group-gatekeeper/"
+}

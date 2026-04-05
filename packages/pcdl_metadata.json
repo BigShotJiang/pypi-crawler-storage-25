@@ -1,11 +1,11 @@
 {
   "name": "pcdl",
-  "version": "4.1.4",
+  "version": "4.1.5",
   "summary": "physicell data loader (pcdl) provides a platform independent, python3 based, pip installable interface to load output, generated with the PhysiCell agent based modeling framework, into python3.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pcdl-4.1.4-py3-none-any.whl",
-  "download_time": "2026-04-05T09:59:07.426420",
+  "download_filename": "pcdl-4.1.5-py3-none-any.whl",
+  "download_time": "2026-04-05T17:18:20.870738",
   "package_url": "https://pypi.org/project/pcdl/"
 }

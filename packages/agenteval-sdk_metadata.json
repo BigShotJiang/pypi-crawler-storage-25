@@ -1,11 +1,11 @@
 {
   "name": "agenteval-sdk",
-  "version": "0.3.3",
+  "version": "0.3.5",
   "summary": "Telemetry and Observability SDK for AI Agents — with Trace Tree MRI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agenteval_sdk-0.3.3.tar.gz",
-  "download_time": "2026-04-05T16:38:53.776044",
+  "download_filename": "agenteval_sdk-0.3.5.tar.gz",
+  "download_time": "2026-04-05T17:18:44.244101",
   "package_url": "https://pypi.org/project/agenteval-sdk/"
 }

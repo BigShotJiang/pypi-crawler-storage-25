@@ -1,11 +1,11 @@
 {
   "name": "llm-trust-guard",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Security guards for LLM-powered and agentic AI applications. Zero dependencies. Covers OWASP Top 10 for LLMs 2025.",
   "author": "Nandakishore Leburu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_trust_guard-0.6.0.tar.gz",
-  "download_time": "2026-04-04T17:59:07.789528",
+  "download_filename": "llm_trust_guard-0.7.0.tar.gz",
+  "download_time": "2026-04-05T17:18:48.657902",
   "package_url": "https://pypi.org/project/llm-trust-guard/"
 }

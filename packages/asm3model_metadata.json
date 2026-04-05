@@ -1,0 +1,11 @@
+{
+  "name": "asm3model",
+  "version": "0.1.0",
+  "summary": "ASM3 compiled extension modules for Windows (CPython 3.12 wheel)",
+  "author": "Dr Taher Abunama",
+  "license": "SEE LICENSE",
+  "home_page": null,
+  "download_filename": "asm3model-0.1.0-cp312-cp312-win_amd64.whl",
+  "download_time": "2026-04-05T17:18:34.870352",
+  "package_url": "https://pypi.org/project/asm3model/"
+}

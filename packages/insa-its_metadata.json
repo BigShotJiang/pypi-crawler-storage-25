@@ -1,11 +1,11 @@
 {
   "name": "insa-its",
-  "version": "3.3.1",
+  "version": "4.3.1",
   "summary": "Open-core multi-LLM communication monitoring, hallucination detection & deciphering for agent systems",
   "author": "YuyAI / InsAIts Team",
   "license": null,
   "home_page": "https://github.com/Nomadu27/InsAIts",
-  "download_filename": "insa_its-3.3.1.tar.gz",
-  "download_time": "2026-03-28T04:32:21.900178",
+  "download_filename": "insa_its-4.3.1.tar.gz",
+  "download_time": "2026-04-05T17:18:33.217963",
   "package_url": "https://pypi.org/project/insa-its/"
 }

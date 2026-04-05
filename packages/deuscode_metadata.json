@@ -1,11 +1,11 @@
 {
   "name": "deuscode",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "AI-powered multi-agent CLI coding assistant for local LLMs",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "deuscode-0.5.1.tar.gz",
-  "download_time": "2026-04-05T16:38:23.213364",
+  "download_filename": "deuscode-0.5.2.tar.gz",
+  "download_time": "2026-04-05T17:18:34.314121",
   "package_url": "https://pypi.org/project/deuscode/"
 }

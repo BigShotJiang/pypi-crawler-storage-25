@@ -1,0 +1,11 @@
+{
+  "name": "llm-security-reviewer",
+  "version": "0.1.2",
+  "summary": "AI-powered security code reviewer using a fine-tuned Qwen2.5-Coder LLM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_security_reviewer-0.1.2-py3-none-any.whl",
+  "download_time": "2026-04-05T17:18:51.976161",
+  "package_url": "https://pypi.org/project/llm-security-reviewer/"
+}
