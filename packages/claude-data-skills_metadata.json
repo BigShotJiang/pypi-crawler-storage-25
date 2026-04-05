@@ -1,11 +1,11 @@
 {
   "name": "claude-data-skills",
-  "version": "3.2.2",
+  "version": "3.3.1",
   "summary": "A comprehensive collection of data science, analysis, and engineering skills and scripts.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_data_skills-3.2.2.tar.gz",
-  "download_time": "2026-03-28T20:58:36.773335",
+  "download_filename": "claude_data_skills-3.3.1.tar.gz",
+  "download_time": "2026-04-05T22:04:17.017850",
   "package_url": "https://pypi.org/project/claude-data-skills/"
 }

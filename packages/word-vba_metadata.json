@@ -1,0 +1,11 @@
+{
+  "name": "word-vba",
+  "version": "0.5.0",
+  "summary": "Edit, export and import Word VBA code from the command line. Thin entry-point wrapper for vba-edit.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "word_vba-0.5.0.tar.gz",
+  "download_time": "2026-04-05T22:03:36.574752",
+  "package_url": "https://pypi.org/project/word-vba/"
+}

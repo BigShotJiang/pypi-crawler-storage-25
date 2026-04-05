@@ -1,11 +1,11 @@
 {
   "name": "graphifyy",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "Claude Code skill - turn any folder of code, docs, papers, images, or tweets into a queryable knowledge graph",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "graphifyy-0.1.9.tar.gz",
-  "download_time": "2026-04-05T19:36:54.465773",
+  "download_filename": "graphifyy-0.1.11.tar.gz",
+  "download_time": "2026-04-05T22:03:43.337422",
   "package_url": "https://pypi.org/project/graphifyy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rpgnlp",
+  "version": "0.1.1",
+  "summary": "A natural language parser for RPG text commands. Extracts actions, subjects, directions, instruments, modifiers, and topics from player input.",
+  "author": "zship135",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rpgnlp-0.1.1.tar.gz",
+  "download_time": "2026-04-05T22:03:56.322974",
+  "package_url": "https://pypi.org/project/rpgnlp/"
+}

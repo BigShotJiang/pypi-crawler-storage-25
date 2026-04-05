@@ -1,11 +1,11 @@
 {
   "name": "sctrial",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Participant-level differential analysis for longitudinal single-cell experiments: DiD, paired comparisons, module scoring, pseudobulk, and power analysis.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sctrial-0.3.2.tar.gz",
-  "download_time": "2026-04-05T21:33:47.918193",
+  "download_filename": "sctrial-0.3.3.tar.gz",
+  "download_time": "2026-04-05T22:04:04.604059",
   "package_url": "https://pypi.org/project/sctrial/"
 }

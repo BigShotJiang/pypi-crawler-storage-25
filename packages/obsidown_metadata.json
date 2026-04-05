@@ -1,0 +1,11 @@
+{
+  "name": "obsidown",
+  "version": "0.2.10",
+  "summary": "A quick way to convert obsidian markdown docs to markdown static pages",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "obsidown-0.2.10.tar.gz",
+  "download_time": "2026-04-05T22:04:15.460253",
+  "package_url": "https://pypi.org/project/obsidown/"
+}

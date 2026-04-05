@@ -1,11 +1,11 @@
 {
   "name": "prodmcp",
-  "version": "0.3.4",
+  "version": "0.3.6",
   "summary": "Unified production framework for both REST APIs and MCP servers. Drop-in replacement for FastAPI and FastMCP with schema validation, security, middleware, and OpenMCP spec generation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prodmcp-0.3.4.tar.gz",
-  "download_time": "2026-04-05T20:03:54.782266",
+  "download_filename": "prodmcp-0.3.6.tar.gz",
+  "download_time": "2026-04-05T22:04:11.800330",
   "package_url": "https://pypi.org/project/prodmcp/"
 }
