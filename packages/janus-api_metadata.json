@@ -1,11 +1,11 @@
 {
   "name": "janus-api",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "summary": "Async Python toolkit for the Janus WebRTC Gateway, with typed protocol bindings, plugin abstractions, and production-ready ASGI service tooling.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "janus_api-2.0.3.tar.gz",
-  "download_time": "2026-04-05T22:54:17.735537",
+  "download_filename": "janus_api-2.0.4.tar.gz",
+  "download_time": "2026-04-06T16:33:33.167373",
   "package_url": "https://pypi.org/project/janus-api/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dbtk",
+  "version": "0.8.3",
+  "summary": "Data Benders Toolkit - A lightweight toolkit for data integration, ELT and ETL",
+  "author": "Scott Bailey <scottrbailey@gmail.com>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbtk-0.8.3.tar.gz",
+  "download_time": "2026-04-06T16:34:05.844337",
+  "package_url": "https://pypi.org/project/dbtk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyaaindex",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "AAindex (aaindex1/2/3) to clean pandas DataFrames",
   "author": "pyaaindex contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyaaindex-0.2.0.tar.gz",
-  "download_time": "2026-04-02T17:37:15.778206",
+  "download_filename": "pyaaindex-0.3.0.tar.gz",
+  "download_time": "2026-04-06T16:33:46.971565",
   "package_url": "https://pypi.org/project/pyaaindex/"
 }

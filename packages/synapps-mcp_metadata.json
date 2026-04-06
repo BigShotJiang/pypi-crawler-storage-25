@@ -1,11 +1,11 @@
 {
   "name": "synapps-mcp",
-  "version": "1.7.0",
+  "version": "1.8.4",
   "summary": "Code intelligence MCP server — indexes codebases into a queryable graph of symbols, call chains, and relationships",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synapps_mcp-1.7.0.tar.gz",
-  "download_time": "2026-04-05T15:09:02.184975",
+  "download_filename": "synapps_mcp-1.8.4.tar.gz",
+  "download_time": "2026-04-06T16:33:07.512073",
   "package_url": "https://pypi.org/project/synapps-mcp/"
 }

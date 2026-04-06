@@ -1,0 +1,11 @@
+{
+  "name": "mellona-hive",
+  "version": "2.4.0",
+  "summary": "CLI-first orchestration platform for autonomous agents with Git-backed task, run, and memory state",
+  "author": "Bryan Young, Agent Hive Community",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mellona_hive-2.4.0.tar.gz",
+  "download_time": "2026-04-06T16:33:56.074263",
+  "package_url": "https://pypi.org/project/mellona-hive/"
+}

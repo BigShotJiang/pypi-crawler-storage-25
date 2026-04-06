@@ -1,11 +1,11 @@
 {
   "name": "pyrct2",
-  "version": "0.5.1",
+  "version": "0.7.0",
   "summary": "Interact with OpenRCT2 from python!",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyrct2-0.5.1.tar.gz",
-  "download_time": "2026-03-28T13:14:33.866643",
+  "download_filename": "pyrct2-0.7.0.tar.gz",
+  "download_time": "2026-04-06T16:33:31.220629",
   "package_url": "https://pypi.org/project/pyrct2/"
 }

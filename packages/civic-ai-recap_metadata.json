@@ -1,0 +1,11 @@
+{
+  "name": "civic-ai-recap",
+  "version": "0.10.3",
+  "summary": "Tools that capture public hearings, committee meetings, and symposiums from YouTube, then convert the recordings into searchable, analyzable transcripts.",
+  "author": "Travis Hoppe",
+  "license": "CC-SA",
+  "home_page": "https://github.com/thoppe/Civic-AI-Recap/",
+  "download_filename": "civic_ai_recap-0.10.3.tar.gz",
+  "download_time": "2026-04-06T16:33:26.604796",
+  "package_url": "https://pypi.org/project/civic-ai-recap/"
+}
