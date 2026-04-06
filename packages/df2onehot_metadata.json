@@ -1,0 +1,11 @@
+{
+  "name": "df2onehot",
+  "version": "1.2.3",
+  "summary": "Python package df2onehot is to convert a pandas dataframe into a stuctured dataframe.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "df2onehot-1.2.3.tar.gz",
+  "download_time": "2026-04-06T10:11:00.415669",
+  "package_url": "https://pypi.org/project/df2onehot/"
+}

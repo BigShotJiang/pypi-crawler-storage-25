@@ -1,0 +1,11 @@
+{
+  "name": "syrin",
+  "version": "0.11.0",
+  "summary": "Python library for building AI agents with budget management, declarative definitions, and production-ready observability.",
+  "author": "Syrin Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "syrin-0.11.0.tar.gz",
+  "download_time": "2026-04-06T10:11:20.477927",
+  "package_url": "https://pypi.org/project/syrin/"
+}

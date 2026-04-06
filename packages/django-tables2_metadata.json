@@ -1,0 +1,11 @@
+{
+  "name": "django-tables2",
+  "version": "2.9.0",
+  "summary": "Table/data-grid framework for Django",
+  "author": null,
+  "license": "All changes made to django-tables2 since forking from django-tables\n        are Copyright (c) 2011, Bradley Ayers <http://bradleyayers.com>\n        All rights reserved.\n        \n        Redistribution is permitted under the same terms as the original\n        django-tables license. The original django-tables license is included\n        below.\n        \n        \n        Copyright (c) 2008, Michael Elsdörfer <http://elsdoerfer.name>\n        All rights reserved.\n        \n        Redistribution and use in source and binary forms, with or without\n        modification, are permitted provided that the following conditions\n        are met:\n        \n            1. Redistributions of source code must retain the above copyright\n               notice, this list of conditions and the following disclaimer.\n        \n            2. Redistributions in binary form must reproduce the above\n               copyright notice, this list of conditions and the following\n               disclaimer in the documentation and/or other materials\n               provided with the distribution.\n        \n        THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS\n        \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT\n        LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS\n        FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE\n        COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,\n        INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,\n        BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;\n        LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\n        CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT\n        LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN\n        ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE\n        POSSIBILITY OF SUCH DAMAGE.",
+  "home_page": null,
+  "download_filename": "django_tables2-2.9.0.tar.gz",
+  "download_time": "2026-04-06T10:11:10.715539",
+  "package_url": "https://pypi.org/project/django-tables2/"
+}

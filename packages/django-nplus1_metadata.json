@@ -1,0 +1,11 @@
+{
+  "name": "django-nplus1",
+  "version": "0.1.0a2",
+  "summary": "N+1 query detection for Django",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_nplus1-0.1.0a2.tar.gz",
+  "download_time": "2026-04-06T10:11:15.353499",
+  "package_url": "https://pypi.org/project/django-nplus1/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "grooveshop-django-api",
-  "version": "1.92.2",
+  "version": "1.92.4",
   "summary": "GrooveShop Django Backend",
   "author": "Vasilis Totskas",
   "license": null,
   "home_page": null,
-  "download_filename": "grooveshop_django_api-1.92.2.tar.gz",
-  "download_time": "2026-04-05T22:54:13.445929",
+  "download_filename": "grooveshop_django_api-1.92.4.tar.gz",
+  "download_time": "2026-04-06T10:11:26.174175",
   "package_url": "https://pypi.org/project/grooveshop-django-api/"
 }

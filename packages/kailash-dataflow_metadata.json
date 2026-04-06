@@ -1,11 +1,11 @@
 {
   "name": "kailash-dataflow",
-  "version": "1.7.1",
+  "version": "1.8.0",
   "summary": "Workflow-native database framework for Kailash SDK",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "kailash_dataflow-1.7.1-py3-none-any.whl",
-  "download_time": "2026-04-05T07:40:27.752244",
+  "download_filename": "kailash_dataflow-1.8.0-py3-none-any.whl",
+  "download_time": "2026-04-06T10:10:47.033285",
   "package_url": "https://pypi.org/project/kailash-dataflow/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ymmsl",
+  "version": "0.15.0",
+  "summary": "Python bindings for the YAML version of the Multiscale Modeling and Simulation Language",
+  "author": "Lourens Veen",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/multiscale/ymmsl-python",
+  "download_filename": "ymmsl-0.15.0.tar.gz",
+  "download_time": "2026-04-06T10:11:18.426820",
+  "package_url": "https://pypi.org/project/ymmsl/"
+}

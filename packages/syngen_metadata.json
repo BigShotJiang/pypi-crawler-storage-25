@@ -1,0 +1,11 @@
+{
+  "name": "syngen",
+  "version": "0.10.43",
+  "summary": "The tool uncovers patterns, trends, and correlations hidden within your production datasets.",
+  "author": "EPAM Systems, Inc.",
+  "license": "GPLv3 License",
+  "home_page": "https://github.com/tdspora/syngen",
+  "download_filename": "syngen-0.10.43.tar.gz",
+  "download_time": "2026-04-06T10:11:28.753078",
+  "package_url": "https://pypi.org/project/syngen/"
+}

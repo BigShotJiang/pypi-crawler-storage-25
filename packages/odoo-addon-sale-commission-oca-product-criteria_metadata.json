@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-commission-oca-product-criteria",
+  "version": "18.0.1.0.0.2",
+  "summary": "Advanced commissions rules",
+  "author": "Ilyas, Ooops404, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/commission",
+  "download_filename": "odoo_addon_sale_commission_oca_product_criteria-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-04-06T10:11:15.863825",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-commission-oca-product-criteria/"
+}

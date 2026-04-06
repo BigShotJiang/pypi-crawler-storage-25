@@ -1,0 +1,11 @@
+{
+  "name": "syngen-databricks",
+  "version": "0.10.43",
+  "summary": "The tool uncovers patterns, trends, and correlations hidden within your production datasets.",
+  "author": "EPAM Systems, Inc.",
+  "license": "GPLv3 License",
+  "home_page": "https://github.com/tdspora/syngen",
+  "download_filename": "syngen_databricks-0.10.43.tar.gz",
+  "download_time": "2026-04-06T10:11:24.606148",
+  "package_url": "https://pypi.org/project/syngen-databricks/"
+}

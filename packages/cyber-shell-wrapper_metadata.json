@@ -1,0 +1,11 @@
+{
+  "name": "cyber-shell-wrapper",
+  "version": "1.1.0",
+  "summary": "Local PTY shell wrapper for cyber range AI telemetry",
+  "author": "Nguyen Nhan M.M",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "cyber_shell_wrapper-1.1.0.tar.gz",
+  "download_time": "2026-04-06T10:11:19.962557",
+  "package_url": "https://pypi.org/project/cyber-shell-wrapper/"
+}

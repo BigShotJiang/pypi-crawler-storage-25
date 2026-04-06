@@ -1,11 +1,11 @@
 {
   "name": "xpander-sdk",
-  "version": "2.0.275",
+  "version": "2.0.278",
   "summary": "xpander.ai Backend-as-a-service for AI Agents - SDK",
   "author": "xpanderAI",
   "license": null,
   "home_page": "https://www.xpander.ai",
-  "download_filename": "xpander_sdk-2.0.275.tar.gz",
-  "download_time": "2026-03-29T11:44:51.998932",
+  "download_filename": "xpander_sdk-2.0.278.tar.gz",
+  "download_time": "2026-04-06T10:11:21.512847",
   "package_url": "https://pypi.org/project/xpander-sdk/"
 }
