@@ -1,0 +1,11 @@
+{
+  "name": "micropython-package-template",
+  "version": "0.13.0",
+  "summary": "MicroPython PyPi package template project with auto deploy",
+  "author": "brainelectronics",
+  "license": "MIT",
+  "home_page": "https://github.com/brainelectronics/micropython-package-template",
+  "download_filename": "micropython_package_template-0.13.0.tar.gz",
+  "download_time": "2026-04-06T20:26:08.738913",
+  "package_url": "https://pypi.org/project/micropython-package-template/"
+}

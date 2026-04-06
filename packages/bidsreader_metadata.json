@@ -1,0 +1,11 @@
+{
+  "name": "bidsreader",
+  "version": "0.2.0",
+  "summary": "Data loader and file reader for the OpenBIDS format",
+  "author": "Computational Memory Lab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bidsreader-0.2.0.tar.gz",
+  "download_time": "2026-04-06T20:26:48.055683",
+  "package_url": "https://pypi.org/project/bidsreader/"
+}

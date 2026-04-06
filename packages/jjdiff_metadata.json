@@ -1,0 +1,11 @@
+{
+  "name": "jjdiff",
+  "version": "0.6.2",
+  "summary": "A TUI that can be used as a diff editor in the jujutsu vcs.",
+  "author": "Daan van der Kallen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jjdiff-0.6.2.tar.gz",
+  "download_time": "2026-04-06T20:26:13.930469",
+  "package_url": "https://pypi.org/project/jjdiff/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "openedx-filters",
+  "version": "3.1.0",
+  "summary": "Open edX Filters from Hooks Extensions Framework (OEP-50).",
+  "author": "eduNEXT",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/openedx/openedx-filters",
+  "download_filename": "openedx_filters-3.1.0.tar.gz",
+  "download_time": "2026-04-06T20:26:09.255470",
+  "package_url": "https://pypi.org/project/openedx-filters/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "http-mcp",
+  "version": "0.11.3",
+  "summary": "This is a HTTP implementation of the MCP protocol",
+  "author": "Yeison Liscano",
+  "license": null,
+  "home_page": null,
+  "download_filename": "http_mcp-0.11.3.tar.gz",
+  "download_time": "2026-04-06T20:26:05.621238",
+  "package_url": "https://pypi.org/project/http-mcp/"
+}

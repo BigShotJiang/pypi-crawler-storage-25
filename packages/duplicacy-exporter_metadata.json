@@ -1,0 +1,11 @@
+{
+  "name": "duplicacy-exporter",
+  "version": "0.3.4",
+  "summary": "Prometheus exporter for Duplicacy backup metrics -- real-time progress, speed, and post-run summaries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "duplicacy_exporter-0.3.4.tar.gz",
+  "download_time": "2026-04-06T20:26:21.187319",
+  "package_url": "https://pypi.org/project/duplicacy-exporter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gh-ai-runner",
+  "version": "0.1.4",
+  "summary": "Serverless AI inference via GitHub Actions — no server required",
+  "author": "Tanish Chauhan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gh_ai_runner-0.1.4.tar.gz",
+  "download_time": "2026-04-06T20:26:02.412639",
+  "package_url": "https://pypi.org/project/gh-ai-runner/"
+}

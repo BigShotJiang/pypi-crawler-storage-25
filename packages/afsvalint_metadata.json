@@ -1,11 +1,11 @@
 {
   "name": "afsvalint",
-  "version": "2.1.1",
-  "summary": "SystemVerilog Assertion Linter",
-  "author": "Your Name",
+  "version": "2.1.6",
+  "summary": "SVA Linter",
+  "author": "AsFigo",
   "license": null,
-  "home_page": "https://github.com/AsFigo/SVALint",
-  "download_filename": "afsvalint-2.1.1.tar.gz",
-  "download_time": "2026-04-06T11:16:05.671428",
+  "home_page": "https://github.com/prajapati93/afsvalint",
+  "download_filename": "afsvalint-2.1.6.tar.gz",
+  "download_time": "2026-04-06T20:26:01.345662",
   "package_url": "https://pypi.org/project/afsvalint/"
 }

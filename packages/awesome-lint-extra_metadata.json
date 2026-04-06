@@ -1,0 +1,11 @@
+{
+  "name": "awesome-lint-extra",
+  "version": "1.0.0",
+  "summary": "Custom linter for awesome lists — format validation, alphabetical order, badge checks, and configurable URL approval",
+  "author": "GeiserX",
+  "license": null,
+  "home_page": null,
+  "download_filename": "awesome_lint_extra-1.0.0.tar.gz",
+  "download_time": "2026-04-06T20:26:20.154904",
+  "package_url": "https://pypi.org/project/awesome-lint-extra/"
+}
