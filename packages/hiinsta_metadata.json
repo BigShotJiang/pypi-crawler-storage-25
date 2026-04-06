@@ -1,0 +1,11 @@
+{
+  "name": "hiinsta",
+  "version": "0.5.2",
+  "summary": "A wrapper for Instagram's messaging API",
+  "author": "Tomas Santana",
+  "license": "MIT",
+  "home_page": "https://github.com/cervant-ai/hiinsta",
+  "download_filename": "hiinsta-0.5.2.tar.gz",
+  "download_time": "2026-04-06T13:44:34.621043",
+  "package_url": "https://pypi.org/project/hiinsta/"
+}

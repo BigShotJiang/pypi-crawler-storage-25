@@ -1,11 +1,11 @@
 {
   "name": "py-asyncutils",
-  "version": "0.8.20",
-  "summary": "A library containing versatile and adaptable tools to well complement the asyncio framework. Not as performant as C extensions, but startup speed is great considering the features it provides.",
+  "version": "0.8.22",
+  "summary": "A library containing versatile tools to well complement the asyncio framework. Not as performant as C extensions, but startup speed is great considering the features it provides.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_asyncutils-0.8.20.tar.gz",
-  "download_time": "2026-03-29T04:46:55.589635",
+  "download_filename": "py_asyncutils-0.8.22.tar.gz",
+  "download_time": "2026-04-06T13:44:35.642588",
   "package_url": "https://pypi.org/project/py-asyncutils/"
 }

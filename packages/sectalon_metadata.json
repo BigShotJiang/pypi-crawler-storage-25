@@ -1,0 +1,11 @@
+{
+  "name": "sectalon",
+  "version": "0.1.1",
+  "summary": "Talon CLI: phishing URL analysis with Playwright, Ollama/OpenAI, and evidence capture.",
+  "author": "tejkdno1",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sectalon-0.1.1.tar.gz",
+  "download_time": "2026-04-06T13:45:01.767587",
+  "package_url": "https://pypi.org/project/sectalon/"
+}

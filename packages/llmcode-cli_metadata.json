@@ -1,0 +1,11 @@
+{
+  "name": "llmcode-cli",
+  "version": "1.0.3",
+  "summary": "Open-source AI agent runtime for any LLM — production-grade coding agent with multi-layer memory, multi-agent orchestration, and defense-in-depth security",
+  "author": "Adam Hong",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmcode_cli-1.0.3.tar.gz",
+  "download_time": "2026-04-06T13:44:46.180819",
+  "package_url": "https://pypi.org/project/llmcode-cli/"
+}
