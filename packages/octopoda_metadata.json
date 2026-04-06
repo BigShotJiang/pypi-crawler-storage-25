@@ -1,0 +1,11 @@
+{
+  "name": "octopoda",
+  "version": "3.0.3",
+  "summary": "Persistent Memory Kernel for AI Agents — crash recovery, shared memory, audit trail, real-time dashboard",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "octopoda-3.0.3.tar.gz",
+  "download_time": "2026-04-06T12:04:54.029321",
+  "package_url": "https://pypi.org/project/octopoda/"
+}

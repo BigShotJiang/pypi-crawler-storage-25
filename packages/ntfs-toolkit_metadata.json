@@ -1,0 +1,11 @@
+{
+  "name": "ntfs-toolkit",
+  "version": "3.0.0",
+  "summary": "NTFS forensics, low-level disk analysis, and education toolkit",
+  "author": "Ibrahim Isleem",
+  "license": "MIT",
+  "home_page": "https://github.com/IbrahimTEslim/LBALab",
+  "download_filename": "ntfs_toolkit-3.0.0.tar.gz",
+  "download_time": "2026-04-06T12:04:48.092288",
+  "package_url": "https://pypi.org/project/ntfs-toolkit/"
+}

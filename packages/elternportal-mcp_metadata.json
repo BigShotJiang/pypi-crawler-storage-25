@@ -1,0 +1,11 @@
+{
+  "name": "elternportal-mcp",
+  "version": "2.1.0",
+  "summary": "MCP server for Eltern-Portal — substitution plans, parent letters, bulletin board, and school calendar",
+  "author": "Andrei Svirida",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elternportal_mcp-2.1.0.tar.gz",
+  "download_time": "2026-04-06T12:04:59.473579",
+  "package_url": "https://pypi.org/project/elternportal-mcp/"
+}

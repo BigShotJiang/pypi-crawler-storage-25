@@ -1,0 +1,11 @@
+{
+  "name": "llm-monitor-sdk",
+  "version": "0.1.1",
+  "summary": "Lightweight SDK for LLM cost & latency monitoring",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_monitor_sdk-0.1.1.tar.gz",
+  "download_time": "2026-04-06T12:04:44.825843",
+  "package_url": "https://pypi.org/project/llm-monitor-sdk/"
+}

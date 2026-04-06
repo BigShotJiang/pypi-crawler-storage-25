@@ -1,0 +1,11 @@
+{
+  "name": "sedrila",
+  "version": "3.0.0",
+  "summary": "Tool infrastructure for building and running \"self-driven lab\" courses",
+  "author": "Lutz Prechelt",
+  "license": "MIT",
+  "home_page": "https://github.com/fubinf/sedrila",
+  "download_filename": "sedrila-3.0.0.tar.gz",
+  "download_time": "2026-04-06T12:04:43.197364",
+  "package_url": "https://pypi.org/project/sedrila/"
+}
