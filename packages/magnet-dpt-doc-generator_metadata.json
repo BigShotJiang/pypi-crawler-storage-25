@@ -1,0 +1,11 @@
+{
+  "name": "magnet-dpt-doc-generator",
+  "version": "0.1.0",
+  "summary": "A Django app to generate Documentation for Django Project Template.",
+  "author": "Ignacio Munizaga",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "magnet_dpt_doc_generator-0.1.0.tar.gz",
+  "download_time": "2026-04-06T03:44:18.633906",
+  "package_url": "https://pypi.org/project/magnet-dpt-doc-generator/"
+}

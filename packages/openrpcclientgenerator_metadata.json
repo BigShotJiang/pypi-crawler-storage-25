@@ -1,0 +1,11 @@
+{
+  "name": "openrpcclientgenerator",
+  "version": "0.51.3",
+  "summary": "Generate clients from an Open-RPC document.",
+  "author": "Matthew Burkard",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openrpcclientgenerator-0.51.3.tar.gz",
+  "download_time": "2026-04-06T03:44:08.704869",
+  "package_url": "https://pypi.org/project/openrpcclientgenerator/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "flint-ai",
-  "version": "1.0.0",
+  "version": "0.2.2",
   "summary": "Flint — spark your agent workflows. Queue-driven AI agent orchestration SDK.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flint_ai-1.0.0.tar.gz",
-  "download_time": "2026-04-04T19:56:41.804311",
+  "download_filename": "flint_ai-0.2.2.tar.gz",
+  "download_time": "2026-04-06T03:43:55.061459",
   "package_url": "https://pypi.org/project/flint-ai/"
 }

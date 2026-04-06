@@ -1,0 +1,11 @@
+{
+  "name": "keyguard-scan",
+  "version": "0.1.0",
+  "summary": "Scan codebases, GCP projects, and CI pipelines for exposed Google API credentials",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "keyguard_scan-0.1.0.tar.gz",
+  "download_time": "2026-04-06T03:44:09.745692",
+  "package_url": "https://pypi.org/project/keyguard-scan/"
+}

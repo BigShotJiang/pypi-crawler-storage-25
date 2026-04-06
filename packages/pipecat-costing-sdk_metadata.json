@@ -1,11 +1,11 @@
 {
   "name": "pipecat-costing-sdk",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Get a costing of voice ai pipeline. when call ends",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pipecat_costing_sdk-0.0.4.tar.gz",
-  "download_time": "2026-04-05T11:47:41.755340",
+  "download_filename": "pipecat_costing_sdk-0.0.5.tar.gz",
+  "download_time": "2026-04-06T03:43:40.799354",
   "package_url": "https://pypi.org/project/pipecat-costing-sdk/"
 }

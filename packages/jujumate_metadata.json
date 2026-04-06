@@ -1,11 +1,11 @@
 {
   "name": "jujumate",
-  "version": "0.2.8",
+  "version": "0.3.2",
   "summary": "Terminal UI for Juju infrastructure orchestration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jujumate-0.2.8.tar.gz",
-  "download_time": "2026-03-30T05:12:34.132162",
+  "download_filename": "jujumate-0.3.2.tar.gz",
+  "download_time": "2026-04-06T03:44:06.059643",
   "package_url": "https://pypi.org/project/jujumate/"
 }
