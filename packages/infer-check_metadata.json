@@ -1,0 +1,11 @@
+{
+  "name": "infer-check",
+  "version": "0.2.3",
+  "summary": "Correctness and reliability testing for LLM inference engines",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "infer_check-0.2.3.tar.gz",
+  "download_time": "2026-04-06T18:15:24.323028",
+  "package_url": "https://pypi.org/project/infer-check/"
+}

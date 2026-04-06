@@ -1,0 +1,11 @@
+{
+  "name": "applyllm",
+  "version": "0.0.10",
+  "summary": "A python package to apply opensource LLM in local CUDA environment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "applyllm-0.0.10.tar.gz",
+  "download_time": "2026-04-06T18:15:26.969977",
+  "package_url": "https://pypi.org/project/applyllm/"
+}

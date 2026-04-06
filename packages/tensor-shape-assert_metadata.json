@@ -1,0 +1,11 @@
+{
+  "name": "tensor-shape-assert",
+  "version": "0.4.2",
+  "summary": "A simple runtime assert library for tensor-based frameworks.",
+  "author": "Leif Van Holland",
+  "license": null,
+  "home_page": "https://github.com/leifvan/tensor-shape-assert",
+  "download_filename": "tensor_shape_assert-0.4.2.tar.gz",
+  "download_time": "2026-04-06T18:15:49.201798",
+  "package_url": "https://pypi.org/project/tensor-shape-assert/"
+}

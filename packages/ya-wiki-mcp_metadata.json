@@ -1,0 +1,11 @@
+{
+  "name": "ya-wiki-mcp",
+  "version": "0.3.1",
+  "summary": "MCP server for Yandex Wiki API — pages, grids, YFM syntax, prompt templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ya_wiki_mcp-0.3.1.tar.gz",
+  "download_time": "2026-04-06T18:15:52.810797",
+  "package_url": "https://pypi.org/project/ya-wiki-mcp/"
+}
