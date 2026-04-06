@@ -1,0 +1,11 @@
+{
+  "name": "rdapify-py",
+  "version": "0.4.0",
+  "summary": "⚠️ DEPRECATED — RDAPify is now Rust-first. Future Python support via PyO3 after v1.0. See https://github.com/rdapify/RDAPify",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rdapify_py-0.4.0.tar.gz",
+  "download_time": "2026-04-06T05:54:08.993838",
+  "package_url": "https://pypi.org/project/rdapify-py/"
+}

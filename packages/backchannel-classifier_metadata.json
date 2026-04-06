@@ -1,0 +1,11 @@
+{
+  "name": "backchannel-classifier",
+  "version": "0.4.0",
+  "summary": "backchannel classifier - detect backchannels vs real responses in thai and japanese asr output",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "backchannel_classifier-0.4.0.tar.gz",
+  "download_time": "2026-04-06T05:54:19.919372",
+  "package_url": "https://pypi.org/project/backchannel-classifier/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sigvideo",
+  "version": "0.3.0",
+  "summary": "Video summarization via the Signature Transform (de Curtò & de Zarzà, Electronics 2023)",
+  "author": "J. de Curtò, I. de Zarzà",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sigvideo-0.3.0.tar.gz",
+  "download_time": "2026-04-06T05:54:21.514937",
+  "package_url": "https://pypi.org/project/sigvideo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "neuroloom-codeweaver",
+  "version": "0.1.1",
+  "summary": "Client-side Tree-sitter parser for Neuroloom code graph extraction",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neuroloom_codeweaver-0.1.1.tar.gz",
+  "download_time": "2026-04-06T05:54:17.320321",
+  "package_url": "https://pypi.org/project/neuroloom-codeweaver/"
+}

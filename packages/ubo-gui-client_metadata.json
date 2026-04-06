@@ -1,0 +1,11 @@
+{
+  "name": "ubo-gui-client",
+  "version": "1.7.1.dev260406103509751974",
+  "summary": "Kivy GUI client for Ubo App - communicates via gRPC",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ubo_gui_client-1.7.1.dev260406103509751974.tar.gz",
+  "download_time": "2026-04-06T05:54:34.660852",
+  "package_url": "https://pypi.org/project/ubo-gui-client/"
+}

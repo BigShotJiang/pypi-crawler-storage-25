@@ -1,0 +1,11 @@
+{
+  "name": "moto-ext",
+  "version": "5.1.30",
+  "summary": "A library that allows you to easily mock out tests based on AWS infrastructure",
+  "author": "Steve Pulec",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/localstack/moto",
+  "download_filename": "moto_ext-5.1.30.tar.gz",
+  "download_time": "2026-04-06T05:54:20.996860",
+  "package_url": "https://pypi.org/project/moto-ext/"
+}
