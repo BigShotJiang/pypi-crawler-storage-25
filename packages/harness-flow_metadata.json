@@ -1,11 +1,11 @@
 {
   "name": "harness-flow",
-  "version": "4.1.25",
+  "version": "4.1.31",
   "summary": "Cursor-native multi-agent development framework with 5-role review",
   "author": "Arthas Zeng",
   "license": null,
   "home_page": null,
-  "download_filename": "harness_flow-4.1.25.tar.gz",
-  "download_time": "2026-04-02T21:54:05.256835",
+  "download_filename": "harness_flow-4.1.31.tar.gz",
+  "download_time": "2026-04-06T11:16:16.009446",
   "package_url": "https://pypi.org/project/harness-flow/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pynintendoparental",
+  "version": "2.3.4",
+  "summary": "A Python module to interact with Nintendo Parental Controls",
+  "author": "pantherale0",
+  "license": "MIT",
+  "home_page": "http://github.com/pantherale0/pynintendoparental",
+  "download_filename": "pynintendoparental-2.3.4.tar.gz",
+  "download_time": "2026-04-06T11:15:56.934056",
+  "package_url": "https://pypi.org/project/pynintendoparental/"
+}

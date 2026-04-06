@@ -1,0 +1,11 @@
+{
+  "name": "dbt-agent-layer",
+  "version": "0.1.0",
+  "summary": "Make your dbt metrics queryable by AI agents via MCP",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dbt_agent_layer-0.1.0.tar.gz",
+  "download_time": "2026-04-06T11:16:26.823586",
+  "package_url": "https://pypi.org/project/dbt-agent-layer/"
+}

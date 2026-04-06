@@ -1,11 +1,11 @@
 {
   "name": "agentouto",
-  "version": "0.21.0",
+  "version": "0.23.1",
   "summary": "Multi-agent Python SDK with peer-to-peer agent communication",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentouto-0.21.0.tar.gz",
-  "download_time": "2026-04-03T11:55:45.614332",
+  "download_filename": "agentouto-0.23.1.tar.gz",
+  "download_time": "2026-04-06T11:16:14.982606",
   "package_url": "https://pypi.org/project/agentouto/"
 }

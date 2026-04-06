@@ -1,0 +1,11 @@
+{
+  "name": "mmrouter",
+  "version": "0.1.0",
+  "summary": "Intelligent LLM request routing: classify prompts, route to optimal model, cut costs 40-70%",
+  "author": "Evgeny Alexeev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mmrouter-0.1.0.tar.gz",
+  "download_time": "2026-04-06T11:16:11.903684",
+  "package_url": "https://pypi.org/project/mmrouter/"
+}

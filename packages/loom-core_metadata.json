@@ -1,0 +1,11 @@
+{
+  "name": "loom-core",
+  "version": "1.27.0",
+  "summary": "Durable workflow orchestration engine for Python",
+  "author": "Satadeep Dasgupta",
+  "license": "MIT",
+  "home_page": "https://github.com/satadeep3927/loom",
+  "download_filename": "loom_core-1.27.0.tar.gz",
+  "download_time": "2026-04-06T11:16:00.531125",
+  "package_url": "https://pypi.org/project/loom-core/"
+}
