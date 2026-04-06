@@ -1,0 +1,11 @@
+{
+  "name": "aiogtrans",
+  "version": "1.2.2",
+  "summary": "An async and updated version of the googletrans package.",
+  "author": "Ben Z",
+  "license": "MIT",
+  "home_page": "https://github.com/Leg3ndary/aiogtrans",
+  "download_filename": "aiogtrans-1.2.2.tar.gz",
+  "download_time": "2026-04-06T21:06:14.046561",
+  "package_url": "https://pypi.org/project/aiogtrans/"
+}

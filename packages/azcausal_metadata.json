@@ -1,0 +1,11 @@
+{
+  "name": "azcausal",
+  "version": "0.2.4.3",
+  "summary": "Casual Inference",
+  "author": "Julian Blank",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/amazon-science/azcausal",
+  "download_filename": "azcausal-0.2.4.3.tar.gz",
+  "download_time": "2026-04-06T21:06:24.015097",
+  "package_url": "https://pypi.org/project/azcausal/"
+}

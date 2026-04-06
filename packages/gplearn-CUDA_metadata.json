@@ -1,11 +1,11 @@
 {
   "name": "gplearn-CUDA",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "summary": "GPU-accelerated Genetic Programming in Python (CUDA extension of gplearn)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gplearn_cuda-0.4.5.tar.gz",
-  "download_time": "2026-04-06T19:33:43.239326",
+  "download_filename": "gplearn_cuda-0.4.6.tar.gz",
+  "download_time": "2026-04-06T21:06:32.383112",
   "package_url": "https://pypi.org/project/gplearn-CUDA/"
 }

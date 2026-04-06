@@ -1,11 +1,11 @@
 {
   "name": "chumicro-timing-experimental",
-  "version": "0.1.8",
-  "summary": "Cross-runtime millisecond tick helpers and periodic timing utilities.",
+  "version": "0.1.11",
+  "summary": "Wraparound-safe millisecond tick helpers and heartbeat scheduling for CircuitPython, MicroPython, and CPython.",
   "author": "Chumicro",
   "license": null,
   "home_page": null,
-  "download_filename": "chumicro_timing_experimental-0.1.8.tar.gz",
-  "download_time": "2026-04-06T00:06:07.054448",
+  "download_filename": "chumicro_timing_experimental-0.1.11.tar.gz",
+  "download_time": "2026-04-06T21:06:11.122784",
   "package_url": "https://pypi.org/project/chumicro-timing-experimental/"
 }

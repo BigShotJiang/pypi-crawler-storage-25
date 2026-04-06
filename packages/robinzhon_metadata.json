@@ -1,0 +1,11 @@
+{
+  "name": "robinzhon",
+  "version": "0.2.2",
+  "summary": "Minimal, high-performance Python helpers for concurrent S3 object transfers",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/rohaquinlop/robinzhon",
+  "download_filename": "robinzhon-0.2.2.tar.gz",
+  "download_time": "2026-04-06T21:06:32.959759",
+  "package_url": "https://pypi.org/project/robinzhon/"
+}

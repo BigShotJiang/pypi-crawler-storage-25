@@ -1,11 +1,11 @@
 {
   "name": "empirica-mcp",
-  "version": "1.7.3",
-  "summary": "MCP server for Empirica epistemic framework",
+  "version": "1.7.11",
+  "summary": "MCP server for Empirica — AI measurement and calibration tools via Model Context Protocol",
   "author": "David S. L. Van Assche",
   "license": null,
   "home_page": null,
-  "download_filename": "empirica_mcp-1.7.3.tar.gz",
-  "download_time": "2026-03-29T15:58:35.558821",
+  "download_filename": "empirica_mcp-1.7.11.tar.gz",
+  "download_time": "2026-04-06T21:06:16.245281",
   "package_url": "https://pypi.org/project/empirica-mcp/"
 }
