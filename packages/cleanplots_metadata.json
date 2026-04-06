@@ -1,11 +1,11 @@
 {
   "name": "cleanplots",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Nice looking MPL plots",
   "author": "Henry Pinkard",
   "license": null,
   "home_page": "https://github.com/henrypinkard/cleanplots",
-  "download_filename": "cleanplots-0.4.2.tar.gz",
-  "download_time": "2026-04-06T21:54:39.977070",
+  "download_filename": "cleanplots-0.4.3.tar.gz",
+  "download_time": "2026-04-06T23:25:32.939761",
   "package_url": "https://pypi.org/project/cleanplots/"
 }

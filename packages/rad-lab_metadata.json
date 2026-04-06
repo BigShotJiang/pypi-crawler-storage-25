@@ -1,0 +1,11 @@
+{
+  "name": "rad-lab",
+  "version": "0.0.3",
+  "summary": "A module for general radar signal processing library",
+  "author": "John Nehls",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "rad_lab-0.0.3.tar.gz",
+  "download_time": "2026-04-06T23:25:27.229573",
+  "package_url": "https://pypi.org/project/rad-lab/"
+}
