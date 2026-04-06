@@ -1,0 +1,11 @@
+{
+  "name": "pyhalo",
+  "version": "1.4.6",
+  "summary": "A python package for generating populations of dark matter halos",
+  "author": "Daniel Gilman",
+  "license": "MIT license",
+  "home_page": "https://github.com/dangilman/pyHalo",
+  "download_filename": "pyhalo-1.4.6.tar.gz",
+  "download_time": "2026-04-06T14:39:26.239351",
+  "package_url": "https://pypi.org/project/pyhalo/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bkmr",
-  "version": "6.7.0",
+  "version": "7.3.0",
   "summary": "Super fast bookmark manager with semantic full text search'",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/sysid/bkmr",
-  "download_filename": "bkmr-6.7.0.tar.gz",
-  "download_time": "2026-04-03T19:54:42.526366",
+  "download_filename": "bkmr-7.3.0.tar.gz",
+  "download_time": "2026-04-06T14:38:51.700915",
   "package_url": "https://pypi.org/project/bkmr/"
 }

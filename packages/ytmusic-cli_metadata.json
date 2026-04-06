@@ -1,0 +1,11 @@
+{
+  "name": "ytmusic-cli",
+  "version": "1.0.8",
+  "summary": "CLI tool to download YouTube playlists as audio with metadata",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ytmusic_cli-1.0.8.tar.gz",
+  "download_time": "2026-04-06T14:38:57.438205",
+  "package_url": "https://pypi.org/project/ytmusic-cli/"
+}

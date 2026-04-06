@@ -1,0 +1,11 @@
+{
+  "name": "flowpatrol-cli",
+  "version": "0.2.0",
+  "summary": "Flowpatrol CLI — run security scans from your terminal",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flowpatrol_cli-0.2.0.tar.gz",
+  "download_time": "2026-04-06T14:39:15.933126",
+  "package_url": "https://pypi.org/project/flowpatrol-cli/"
+}

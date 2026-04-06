@@ -1,0 +1,11 @@
+{
+  "name": "openwillis-voice",
+  "version": "1.1.1",
+  "summary": "digital health measurement",
+  "author": "bklynhlth",
+  "license": "Apache",
+  "home_page": "https://github.com/bklynhlth/openwillis",
+  "download_filename": "openwillis_voice-1.1.1.tar.gz",
+  "download_time": "2026-04-06T14:39:27.774663",
+  "package_url": "https://pypi.org/project/openwillis-voice/"
+}

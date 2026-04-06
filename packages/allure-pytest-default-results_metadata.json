@@ -1,0 +1,11 @@
+{
+  "name": "allure-pytest-default-results",
+  "version": "0.1.4",
+  "summary": "Generate default \"unknown\" results to show in Allure Report if test case does not run",
+  "author": "Carl Csaposs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "allure_pytest_default_results-0.1.4.tar.gz",
+  "download_time": "2026-04-06T14:39:32.418754",
+  "package_url": "https://pypi.org/project/allure-pytest-default-results/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "single_cell_metabolomics",
-  "version": "0.1.67",
+  "version": "0.1.81",
   "summary": "Analysis tools for single-cell metabolome data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "single_cell_metabolomics-0.1.67.tar.gz",
-  "download_time": "2026-03-31T11:36:36.249313",
+  "download_filename": "single_cell_metabolomics-0.1.81.tar.gz",
+  "download_time": "2026-04-06T14:39:18.570414",
   "package_url": "https://pypi.org/project/single_cell_metabolomics/"
 }

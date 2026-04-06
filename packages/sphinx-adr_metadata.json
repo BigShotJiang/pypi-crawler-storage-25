@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-adr",
+  "version": "0.4.0",
+  "summary": "Sphinx extension to document Architecture Decision Records (ADRs)",
+  "author": "sphinx-adr contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_adr-0.4.0.tar.gz",
+  "download_time": "2026-04-06T14:39:16.443057",
+  "package_url": "https://pypi.org/project/sphinx-adr/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "Encorsa-e-Factura",
-  "version": "0.5.4",
+  "version": "0.5.6",
   "summary": "A small example package",
   "author": "Dan Popescu, Razvan Ogrezeanu",
   "license": null,
   "home_page": "https://encorsa.ro",
-  "download_filename": "encorsa_e_factura-0.5.4.tar.gz",
-  "download_time": "2026-04-03T17:21:22.363369",
+  "download_filename": "encorsa_e_factura-0.5.6.tar.gz",
+  "download_time": "2026-04-06T14:38:53.756993",
   "package_url": "https://pypi.org/project/Encorsa-e-Factura/"
 }
