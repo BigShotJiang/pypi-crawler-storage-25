@@ -1,0 +1,11 @@
+{
+  "name": "agentpay-protocol",
+  "version": "0.1.1",
+  "summary": "The payment protocol for AI agents. Let any AI agent send and receive crypto payments in 3 lines of code.",
+  "author": "agent-pay",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentpay_protocol-0.1.1.tar.gz",
+  "download_time": "2026-04-06T00:05:52.725689",
+  "package_url": "https://pypi.org/project/agentpay-protocol/"
+}

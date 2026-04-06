@@ -1,11 +1,11 @@
 {
   "name": "archeologist",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Code archaeologist - reconstruct function decision history via AST-aware lineage tracking",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "archeologist-0.1.1.tar.gz",
-  "download_time": "2026-04-05T23:35:43.130189",
+  "download_filename": "archeologist-0.1.4.tar.gz",
+  "download_time": "2026-04-06T00:05:49.890135",
   "package_url": "https://pypi.org/project/archeologist/"
 }

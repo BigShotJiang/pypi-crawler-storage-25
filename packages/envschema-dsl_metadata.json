@@ -1,0 +1,11 @@
+{
+  "name": "envschema-dsl",
+  "version": "0.1.1",
+  "summary": "DSL for typed .env files — schema, validation, codegen",
+  "author": "nike4192",
+  "license": null,
+  "home_page": null,
+  "download_filename": "envschema_dsl-0.1.1.tar.gz",
+  "download_time": "2026-04-06T00:06:13.837463",
+  "package_url": "https://pypi.org/project/envschema-dsl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pypowerwall",
+  "version": "0.15.0",
+  "summary": "Python module to access Tesla Energy Gateway for Powerwall and solar power data",
+  "author": "Jason Cox",
+  "license": null,
+  "home_page": "https://github.com/jasonacox/pypowerwall",
+  "download_filename": "pypowerwall-0.15.0-py2.py3-none-any.whl",
+  "download_time": "2026-04-06T00:06:19.077367",
+  "package_url": "https://pypi.org/project/pypowerwall/"
+}

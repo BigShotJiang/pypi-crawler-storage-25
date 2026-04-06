@@ -1,0 +1,11 @@
+{
+  "name": "alphainfo",
+  "version": "1.0.0",
+  "summary": "Python client for alphainfo.io — Structural Regime Detection API",
+  "author": "alphainfo.io",
+  "license": "MIT",
+  "home_page": "https://github.com/alphainfo-io/python-sdk",
+  "download_filename": "alphainfo-1.0.0.tar.gz",
+  "download_time": "2026-04-06T00:06:21.162249",
+  "package_url": "https://pypi.org/project/alphainfo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chgksuite_qt",
+  "version": "0.0.9",
+  "summary": "A GUI wrapper for chgksuite using PyQt6",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chgksuite_qt-0.0.9.tar.gz",
+  "download_time": "2026-04-06T00:06:15.971207",
+  "package_url": "https://pypi.org/project/chgksuite_qt/"
+}

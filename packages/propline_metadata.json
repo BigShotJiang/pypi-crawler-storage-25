@@ -1,11 +1,11 @@
 {
   "name": "propline",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python SDK for the PropLine player props betting odds API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "propline-0.1.0.tar.gz",
-  "download_time": "2026-04-05T22:54:00.339446",
+  "download_filename": "propline-0.1.1.tar.gz",
+  "download_time": "2026-04-06T00:06:12.277276",
   "package_url": "https://pypi.org/project/propline/"
 }
