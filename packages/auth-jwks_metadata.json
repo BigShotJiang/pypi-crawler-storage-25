@@ -1,0 +1,11 @@
+{
+  "name": "auth-jwks",
+  "version": "0.2.1",
+  "summary": "Async JWKS key fetching, caching, and JWT verification",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auth_jwks-0.2.1.tar.gz",
+  "download_time": "2026-04-06T07:31:05.376229",
+  "package_url": "https://pypi.org/project/auth-jwks/"
+}

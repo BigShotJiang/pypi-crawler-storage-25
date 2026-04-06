@@ -1,11 +1,11 @@
 {
   "name": "clawlock",
-  "version": "2.0.0",
+  "version": "2.1.1",
   "summary": "Comprehensive security scanner, red-teamer & hardening toolkit for Claw-based AI agent deployments",
-  "author": "g1at",
+  "author": "g0at",
   "license": "Apache-2.0 OR MIT",
   "home_page": null,
-  "download_filename": "clawlock-2.0.0.tar.gz",
-  "download_time": "2026-04-05T17:59:55.461313",
+  "download_filename": "clawlock-2.1.1.tar.gz",
+  "download_time": "2026-04-06T07:31:04.854510",
   "package_url": "https://pypi.org/project/clawlock/"
 }

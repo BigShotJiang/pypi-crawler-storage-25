@@ -1,0 +1,11 @@
+{
+  "name": "buildscad",
+  "version": "0.4.2",
+  "summary": "An interpreter for OpenSCAD that renders to build123d objects",
+  "author": null,
+  "license": "All files in this repository are are licensed under the LGPL V3, as\n        published by the FSF at https://www.gnu.org/licenses/lgpl-3.0.html .\n        \n        In addition to the LGPL's terms, the author(s) respectfully ask all users of\n        this code to contribute any bug fixes or enhancements.\n        \n        Thank you.\n        \n        Copyright © 2024 Matthias Urlichs <matthias@urlichs.de>\n        ",
+  "home_page": null,
+  "download_filename": "buildscad-0.4.2.tar.gz",
+  "download_time": "2026-04-06T07:31:12.731076",
+  "package_url": "https://pypi.org/project/buildscad/"
+}
