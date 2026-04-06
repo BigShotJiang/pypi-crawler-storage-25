@@ -1,0 +1,11 @@
+{
+  "name": "intermittent-alignment-error",
+  "version": "0.1.2",
+  "summary": "Timing-aware metric for intermittent demand forecasting",
+  "author": "Jonatan Flyckt",
+  "license": "This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.\r\n        \r\n        To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/\r\n        ",
+  "home_page": null,
+  "download_filename": "intermittent_alignment_error-0.1.2.tar.gz",
+  "download_time": "2026-04-06T19:34:10.113746",
+  "package_url": "https://pypi.org/project/intermittent-alignment-error/"
+}

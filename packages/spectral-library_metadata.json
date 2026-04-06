@@ -1,11 +1,11 @@
 {
   "name": "spectral-library",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "Spectral library build, preparation, and retrieval-based mapping toolkit.",
   "author": "Marc Yin",
   "license": null,
   "home_page": null,
-  "download_filename": "spectral_library-0.4.0.tar.gz",
-  "download_time": "2026-04-05T22:54:32.076419",
+  "download_filename": "spectral_library-0.6.0.tar.gz",
+  "download_time": "2026-04-06T19:33:43.772326",
   "package_url": "https://pypi.org/project/spectral-library/"
 }

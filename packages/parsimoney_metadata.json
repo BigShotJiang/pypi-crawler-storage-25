@@ -1,11 +1,11 @@
 {
   "name": "parsimoney",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A strict money parser that reads what humans write and preserves what they meant",
   "author": "Erskin Cherry",
   "license": null,
   "home_page": null,
-  "download_filename": "parsimoney-0.2.0.tar.gz",
-  "download_time": "2026-04-05T05:13:20.707117",
+  "download_filename": "parsimoney-0.3.0.tar.gz",
+  "download_time": "2026-04-06T19:33:44.283596",
   "package_url": "https://pypi.org/project/parsimoney/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "text2ql",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Natural language to any query language, starting with GraphQL",
   "author": "text2ql contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "text2ql-0.1.8.tar.gz",
-  "download_time": "2026-04-06T17:30:55.220929",
+  "download_filename": "text2ql-0.1.9.tar.gz",
+  "download_time": "2026-04-06T19:33:37.849960",
   "package_url": "https://pypi.org/project/text2ql/"
 }

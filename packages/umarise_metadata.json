@@ -1,0 +1,11 @@
+{
+  "name": "umarise",
+  "version": "1.0.0",
+  "summary": "Anchor files to Bitcoin. Verify proofs offline. Content-blind proof-of-existence infrastructure.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "umarise-1.0.0.tar.gz",
+  "download_time": "2026-04-06T19:33:39.487883",
+  "package_url": "https://pypi.org/project/umarise/"
+}

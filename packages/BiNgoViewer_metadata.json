@@ -1,11 +1,11 @@
 {
   "name": "BiNgoViewer",
-  "version": "2.4.1",
+  "version": "2.5.3",
   "summary": "BiNgo Genome Viewer — a lightweight browser-based genomics viewer",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "bingoviewer-2.4.1.tar.gz",
-  "download_time": "2026-04-06T15:35:32.502512",
+  "download_filename": "bingoviewer-2.5.3.tar.gz",
+  "download_time": "2026-04-06T19:33:44.799288",
   "package_url": "https://pypi.org/project/BiNgoViewer/"
 }

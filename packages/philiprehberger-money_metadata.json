@@ -1,11 +1,11 @@
 {
   "name": "philiprehberger-money",
-  "version": "0.4.0",
-  "summary": "Precise monetary calculations using integer cents with currency support and formatting",
+  "version": "0.5.0",
+  "summary": "Precise monetary calculations using integer cents with currency support and formatting.",
   "author": "Philip Rehberger",
   "license": null,
   "home_page": null,
-  "download_filename": "philiprehberger_money-0.4.0.tar.gz",
-  "download_time": "2026-03-29T04:46:45.333835",
+  "download_filename": "philiprehberger_money-0.5.0.tar.gz",
+  "download_time": "2026-04-06T19:34:07.026423",
   "package_url": "https://pypi.org/project/philiprehberger-money/"
 }

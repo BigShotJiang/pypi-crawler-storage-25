@@ -1,0 +1,11 @@
+{
+  "name": "philiprehberger-task-scheduler",
+  "version": "0.3.0",
+  "summary": "Cron-like task scheduler with overlap prevention and interval support.",
+  "author": "Philip Rehberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "philiprehberger_task_scheduler-0.3.0.tar.gz",
+  "download_time": "2026-04-06T19:34:03.930220",
+  "package_url": "https://pypi.org/project/philiprehberger-task-scheduler/"
+}

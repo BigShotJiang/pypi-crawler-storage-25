@@ -1,0 +1,11 @@
+{
+  "name": "aleam",
+  "version": "1.0.3",
+  "summary": "True randomness for AI and machine learning. Non-recursive, stateless, cryptographically secure random number generator.",
+  "author": "Fardin Sabid",
+  "license": "MIT",
+  "home_page": "https://github.com/fardinsabid/aleam",
+  "download_filename": "aleam-1.0.3.tar.gz",
+  "download_time": "2026-04-06T19:33:36.783044",
+  "package_url": "https://pypi.org/project/aleam/"
+}

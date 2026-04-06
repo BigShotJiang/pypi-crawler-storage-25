@@ -1,0 +1,11 @@
+{
+  "name": "assistant",
+  "version": "2.0.0b2",
+  "summary": "Your very own Assistant. Because you deserve it.",
+  "author": "Danny Waser",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/waser-technologies/technologies/assistant",
+  "download_filename": "assistant-2.0.0b2.tar.gz",
+  "download_time": "2026-04-06T19:33:41.072953",
+  "package_url": "https://pypi.org/project/assistant/"
+}

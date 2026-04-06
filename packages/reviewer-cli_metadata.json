@@ -1,0 +1,11 @@
+{
+  "name": "reviewer-cli",
+  "version": "0.1.1",
+  "summary": "Deterministic pull request review for public GitHub pull requests",
+  "author": "Shalvi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "reviewer_cli-0.1.1.tar.gz",
+  "download_time": "2026-04-06T19:34:09.602710",
+  "package_url": "https://pypi.org/project/reviewer-cli/"
+}

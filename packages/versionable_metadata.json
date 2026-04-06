@@ -1,0 +1,11 @@
+{
+  "name": "versionable",
+  "version": "0.0.1rc1",
+  "summary": "Versioned persistence for Python dataclasses with hash validation, declarative migrations, and pluggable backends",
+  "author": "Hendrick Melo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "versionable-0.0.1rc1.tar.gz",
+  "download_time": "2026-04-06T19:34:20.474977",
+  "package_url": "https://pypi.org/project/versionable/"
+}

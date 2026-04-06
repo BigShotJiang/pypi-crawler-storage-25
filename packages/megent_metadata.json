@@ -1,11 +1,11 @@
 {
   "name": "megent",
-  "version": "0.1.4",
-  "summary": "AI agent security middleware — policy-enforced tool call interception",
+  "version": "0.1.5",
+  "summary": "Open-source AI agent security middleware for policy-enforced tool calls, prompt injection defense, and PII masking",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "megent-0.1.4.tar.gz",
-  "download_time": "2026-04-04T08:26:00.044884",
+  "download_filename": "megent-0.1.5.tar.gz",
+  "download_time": "2026-04-06T19:33:49.943974",
   "package_url": "https://pypi.org/project/megent/"
 }
