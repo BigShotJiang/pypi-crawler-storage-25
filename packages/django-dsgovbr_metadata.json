@@ -1,0 +1,11 @@
+{
+  "name": "django-dsgovbr",
+  "version": "5.2.4",
+  "summary": "Compliance com o https://www.gov.br/ds/home",
+  "author": "Kelson da Costa Medeiros",
+  "license": "MIT License",
+  "home_page": "https://codelab.ifrn.edu.br/dead-zl/ava/integration/django-dsgovbr",
+  "download_filename": "django_dsgovbr-5.2.4.tar.gz",
+  "download_time": "2026-04-06T22:38:53.973038",
+  "package_url": "https://pypi.org/project/django-dsgovbr/"
+}

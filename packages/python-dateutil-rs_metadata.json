@@ -1,0 +1,11 @@
+{
+  "name": "python-dateutil-rs",
+  "version": "0.0.2",
+  "summary": "A Rust-backed port of python-dateutil",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_dateutil_rs-0.0.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2026-04-06T22:39:03.375329",
+  "package_url": "https://pypi.org/project/python-dateutil-rs/"
+}

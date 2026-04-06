@@ -1,11 +1,11 @@
 {
   "name": "yt-brain",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "YouTube knowledge brain — ingest, classify, and curate your YouTube activity",
   "author": "jayers99",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yt_brain-0.1.2.tar.gz",
-  "download_time": "2026-04-06T07:31:20.548066",
+  "download_filename": "yt_brain-0.1.5.tar.gz",
+  "download_time": "2026-04-06T22:38:46.140658",
   "package_url": "https://pypi.org/project/yt-brain/"
 }

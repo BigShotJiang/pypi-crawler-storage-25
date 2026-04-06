@@ -1,11 +1,11 @@
 {
   "name": "deckgl-marimo",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "deck.gl visualization library for marimo notebooks — interactive maps with 33 layer types",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deckgl_marimo-0.2.0.tar.gz",
-  "download_time": "2026-03-28T19:52:34.967378",
+  "download_filename": "deckgl_marimo-0.4.0.tar.gz",
+  "download_time": "2026-04-06T22:38:45.074809",
   "package_url": "https://pypi.org/project/deckgl-marimo/"
 }

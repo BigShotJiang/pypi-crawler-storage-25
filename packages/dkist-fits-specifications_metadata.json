@@ -1,0 +1,11 @@
+{
+  "name": "dkist-fits-specifications",
+  "version": "4.23.0",
+  "summary": "Machine readable FITS specifications for DKIST data.",
+  "author": "AURA/NSO",
+  "license": "BSD 3-Clause",
+  "home_page": "https://bitbucket.org/dkistdc/dkist-fits-specifications/src/main/",
+  "download_filename": "dkist_fits_specifications-4.23.0.tar.gz",
+  "download_time": "2026-04-06T22:39:06.582058",
+  "package_url": "https://pypi.org/project/dkist-fits-specifications/"
+}

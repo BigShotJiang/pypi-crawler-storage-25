@@ -1,0 +1,11 @@
+{
+  "name": "npc-gym",
+  "version": "0.1.1",
+  "summary": "Drop-in gymnasium replacement for training hybrid LLM+ML agents through games and neuroevolution",
+  "author": "Christopher Agostino",
+  "license": null,
+  "home_page": "https://github.com/NPC-Worldwide/npc-gym",
+  "download_filename": "npc_gym-0.1.1.tar.gz",
+  "download_time": "2026-04-06T22:38:32.024358",
+  "package_url": "https://pypi.org/project/npc-gym/"
+}
