@@ -1,0 +1,11 @@
+{
+  "name": "n8n-toolkit",
+  "version": "0.3.0",
+  "summary": "CLI tool for the n8n REST API — scriptable, pipeable, zero dependencies",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "n8n_toolkit-0.3.0.tar.gz",
+  "download_time": "2026-04-06T17:30:51.467607",
+  "package_url": "https://pypi.org/project/n8n-toolkit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mirc-dataset-handler",
+  "version": "0.3.0",
+  "summary": "Utilities for loading MIRC annotations, creating subject-aware cross-validation splits, and building PyTorch DataLoaders for semantic segmentation workflows.",
+  "author": "Iago Rodrigues",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mirc_dataset_handler-0.3.0.tar.gz",
+  "download_time": "2026-04-06T17:31:05.824505",
+  "package_url": "https://pypi.org/project/mirc-dataset-handler/"
+}
