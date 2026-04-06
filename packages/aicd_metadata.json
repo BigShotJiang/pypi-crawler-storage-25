@@ -1,11 +1,11 @@
 {
   "name": "aicd",
-  "version": "0.4.2",
+  "version": "0.5.6",
   "summary": "CLI AI Agent for code and documentation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aicd-0.4.2.tar.gz",
-  "download_time": "2026-03-28T06:40:34.095261",
+  "download_filename": "aicd-0.5.6.tar.gz",
+  "download_time": "2026-04-06T08:56:44.891264",
   "package_url": "https://pypi.org/project/aicd/"
 }

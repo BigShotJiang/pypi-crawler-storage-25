@@ -1,0 +1,11 @@
+{
+  "name": "spec-runner",
+  "version": "2.0.0",
+  "summary": "Task automation from markdown specs via Claude CLI",
+  "author": "Andrei",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spec_runner-2.0.0.tar.gz",
+  "download_time": "2026-04-06T08:57:04.459979",
+  "package_url": "https://pypi.org/project/spec-runner/"
+}

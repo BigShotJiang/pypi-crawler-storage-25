@@ -1,0 +1,11 @@
+{
+  "name": "pirogue-mongoose",
+  "version": "1.0.2",
+  "summary": "A Python daemon and library for collecting, enriching, storing and forwarding network events from Suricata and NFStream.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pirogue_mongoose-1.0.2.tar.gz",
+  "download_time": "2026-04-06T08:56:41.806273",
+  "package_url": "https://pypi.org/project/pirogue-mongoose/"
+}

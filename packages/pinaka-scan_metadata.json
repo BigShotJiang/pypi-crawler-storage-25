@@ -1,0 +1,11 @@
+{
+  "name": "pinaka-scan",
+  "version": "0.3.0",
+  "summary": "Free dependency vulnerability scanner. Like Snyk, but open. Powered by OSV.dev.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pinaka_scan-0.3.0.tar.gz",
+  "download_time": "2026-04-06T08:56:58.315530",
+  "package_url": "https://pypi.org/project/pinaka-scan/"
+}

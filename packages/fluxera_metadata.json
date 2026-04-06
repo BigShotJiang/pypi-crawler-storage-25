@@ -1,11 +1,11 @@
 {
   "name": "fluxera",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Async-native message processing inspired by Dramatiq.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fluxera-0.1.2.tar.gz",
-  "download_time": "2026-04-06T03:44:12.899060",
+  "download_filename": "fluxera-0.1.4.tar.gz",
+  "download_time": "2026-04-06T08:56:46.983178",
   "package_url": "https://pypi.org/project/fluxera/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "depth2normal",
+  "version": "1.0.0",
+  "summary": "Convert depth map images to normal map images",
+  "author": "Mert Cobanov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "depth2normal-1.0.0.tar.gz",
+  "download_time": "2026-04-06T08:56:48.544083",
+  "package_url": "https://pypi.org/project/depth2normal/"
+}

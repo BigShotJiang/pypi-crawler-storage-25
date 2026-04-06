@@ -1,0 +1,11 @@
+{
+  "name": "langchain-endee",
+  "version": "0.1.0b3",
+  "summary": "High Speed Vector Database for Faster and Efficient  ANN Searches with LangChain",
+  "author": "Endee Labs",
+  "license": null,
+  "home_page": "https://endee.io",
+  "download_filename": "langchain_endee-0.1.0b3.tar.gz",
+  "download_time": "2026-04-06T08:57:19.939782",
+  "package_url": "https://pypi.org/project/langchain-endee/"
+}

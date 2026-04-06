@@ -1,0 +1,11 @@
+{
+  "name": "iec-api",
+  "version": "0.5.12",
+  "summary": "A Python wrapper for Israel Electric Company API",
+  "author": "GuyKh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iec_api-0.5.12.tar.gz",
+  "download_time": "2026-04-06T08:57:00.368937",
+  "package_url": "https://pypi.org/project/iec-api/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "port-pulumi",
-  "version": "2.21.5",
+  "version": "2.21.6",
   "summary": "A Pulumi package for creating and managing Port resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://www.pulumi.com",
-  "download_filename": "port_pulumi-2.21.5.tar.gz",
-  "download_time": "2026-04-05T16:38:21.640746",
+  "download_filename": "port_pulumi-2.21.6.tar.gz",
+  "download_time": "2026-04-06T08:57:14.300872",
   "package_url": "https://pypi.org/project/port-pulumi/"
 }
