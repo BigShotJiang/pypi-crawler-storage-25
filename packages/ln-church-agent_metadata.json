@@ -1,11 +1,11 @@
 {
   "name": "ln-church-agent",
-  "version": "0.9.7",
+  "version": "1.0.0",
   "summary": "A Python reference client for HTTP 402 settlement across x402, L402, MPP, and fallback flows.",
   "author": "LN Church",
   "license": null,
   "home_page": "https://kari.mayim-mayim.com/",
-  "download_filename": "ln_church_agent-0.9.7.tar.gz",
-  "download_time": "2026-04-05T07:40:03.434974",
+  "download_filename": "ln_church_agent-1.0.0.tar.gz",
+  "download_time": "2026-04-06T15:34:54.419299",
   "package_url": "https://pypi.org/project/ln-church-agent/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tmux-orche",
-  "version": "0.4.23",
+  "version": "0.4.31",
   "summary": "Typer-based CLI for tmux-backed Codex orchestration sessions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tmux_orche-0.4.23.tar.gz",
-  "download_time": "2026-04-05T15:08:56.845609",
+  "download_filename": "tmux_orche-0.4.31.tar.gz",
+  "download_time": "2026-04-06T15:35:05.623187",
   "package_url": "https://pypi.org/project/tmux-orche/"
 }

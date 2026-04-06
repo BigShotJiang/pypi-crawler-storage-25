@@ -1,11 +1,11 @@
 {
   "name": "xlcompress",
-  "version": "0.3.2",
+  "version": "0.3.5",
   "summary": "Compress Excel spreadsheets for LLM context windows. Rust-powered, 80-95% token reduction.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xlcompress-0.3.2.tar.gz",
-  "download_time": "2026-04-04T11:07:33.076350",
+  "download_filename": "xlcompress-0.3.5.tar.gz",
+  "download_time": "2026-04-06T15:34:53.136165",
   "package_url": "https://pypi.org/project/xlcompress/"
 }
