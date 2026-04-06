@@ -1,0 +1,11 @@
+{
+  "name": "circuit-weaver",
+  "version": "0.10.1",
+  "summary": "Programmatic circuit design, validation, and KiCad artifact generation",
+  "author": "Matt Painter",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "circuit_weaver-0.10.1.tar.gz",
+  "download_time": "2026-04-06T21:54:36.584486",
+  "package_url": "https://pypi.org/project/circuit-weaver/"
+}

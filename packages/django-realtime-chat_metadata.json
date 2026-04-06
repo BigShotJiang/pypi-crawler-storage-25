@@ -1,11 +1,11 @@
 {
   "name": "django-realtime-chat",
-  "version": "1.1.7",
+  "version": "1.2.1",
   "summary": "Plugin Django de chat temps réel via WebSocket (Django Channels + JWT)",
   "author": "Armand Kouassi (krak225)",
   "license": null,
   "home_page": null,
-  "download_filename": "django_realtime_chat-1.1.7.tar.gz",
-  "download_time": "2026-04-06T16:33:21.621545",
+  "download_filename": "django_realtime_chat-1.2.1.tar.gz",
+  "download_time": "2026-04-06T21:54:08.172920",
   "package_url": "https://pypi.org/project/django-realtime-chat/"
 }

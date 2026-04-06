@@ -1,11 +1,11 @@
 {
   "name": "vikhry",
-  "version": "0.2.0",
+  "version": "0.2.6",
   "summary": "Async distributed load-testing framework contracts and runtime",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vikhry-0.2.0.tar.gz",
-  "download_time": "2026-04-03T08:34:18.270972",
+  "download_filename": "vikhry-0.2.6.tar.gz",
+  "download_time": "2026-04-06T21:54:31.549934",
   "package_url": "https://pypi.org/project/vikhry/"
 }

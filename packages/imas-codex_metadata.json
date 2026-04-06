@@ -1,11 +1,11 @@
 {
   "name": "imas-codex",
-  "version": "5.0.0rc25",
+  "version": "5.0.0",
   "summary": "An IMAS Data Dictionary MCP server",
   "author": null,
   "license": "CC BY-ND 4.0",
   "home_page": null,
-  "download_filename": "imas_codex-5.0.0rc25.tar.gz",
-  "download_time": "2026-04-05T22:54:42.483669",
+  "download_filename": "imas_codex-5.0.0.tar.gz",
+  "download_time": "2026-04-06T21:54:33.299537",
   "package_url": "https://pypi.org/project/imas-codex/"
 }

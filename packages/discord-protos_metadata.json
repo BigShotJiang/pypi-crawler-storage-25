@@ -1,11 +1,11 @@
 {
   "name": "discord-protos",
-  "version": "1.2.148",
+  "version": "1.2.153",
   "summary": "Discord user settings protobufs.",
   "author": "Dolfies",
   "license": "MIT",
   "home_page": "https://github.com/dolfies/discord-protos",
-  "download_filename": "discord_protos-1.2.148.tar.gz",
-  "download_time": "2026-04-02T21:54:21.923012",
+  "download_filename": "discord_protos-1.2.153.tar.gz",
+  "download_time": "2026-04-06T21:54:41.073328",
   "package_url": "https://pypi.org/project/discord-protos/"
 }

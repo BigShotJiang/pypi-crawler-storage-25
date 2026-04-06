@@ -1,0 +1,11 @@
+{
+  "name": "vlm4ocr",
+  "version": "0.4.3",
+  "summary": "Python package and Web App for OCR with vision language models.",
+  "author": "Enshuo (David) Hsu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vlm4ocr-0.4.3.tar.gz",
+  "download_time": "2026-04-06T21:54:15.741835",
+  "package_url": "https://pypi.org/project/vlm4ocr/"
+}

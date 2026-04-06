@@ -1,11 +1,11 @@
 {
   "name": "django-sample-components",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "A handy collection of reusable Django UI components, allowing me to share and integrate elements efficiently across various projects.",
   "author": "Gustavo Rizzo S M de Albuquerque",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_sample_components-0.1.5.tar.gz",
-  "download_time": "2026-04-04T18:45:57.385927",
+  "download_filename": "django_sample_components-0.1.7.tar.gz",
+  "download_time": "2026-04-06T21:54:36.040663",
   "package_url": "https://pypi.org/project/django-sample-components/"
 }

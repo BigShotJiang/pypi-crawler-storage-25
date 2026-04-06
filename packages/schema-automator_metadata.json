@@ -1,0 +1,11 @@
+{
+  "name": "schema-automator",
+  "version": "0.5.5",
+  "summary": "Infer models, enrich with meaning for terms including enum permissible values",
+  "author": "Chris Mungall",
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "schema_automator-0.5.5.tar.gz",
+  "download_time": "2026-04-06T21:54:17.063231",
+  "package_url": "https://pypi.org/project/schema-automator/"
+}
