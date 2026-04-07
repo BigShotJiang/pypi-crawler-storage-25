@@ -1,0 +1,11 @@
+{
+  "name": "langchain-collapse",
+  "version": "0.1.1",
+  "summary": "Collapse consecutive read/search tool calls to reduce agent context size",
+  "author": "Johan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_collapse-0.1.1.tar.gz",
+  "download_time": "2026-04-07T08:15:46.621473",
+  "package_url": "https://pypi.org/project/langchain-collapse/"
+}

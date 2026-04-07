@@ -1,0 +1,11 @@
+{
+  "name": "evdspy",
+  "version": "1.2.2",
+  "summary": "A versatile interface for the 'EDDS' (EVDS) API of the Central Bank of the Republic of Türkiye (https://evds2.tcmb.gov.tr/index.php?/evds/userDocs). This package allows users to easily access and manage economic data through a user-friendly menu function. It features a robust caching mechanism to enhance the efficiency of data requests by storing frequently accessed data for selected periods. Required API keys can be obtained by registering on the EVDS website.",
+  "author": "Sermet Pekin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evdspy-1.2.2.tar.gz",
+  "download_time": "2026-04-07T08:15:23.715881",
+  "package_url": "https://pypi.org/project/evdspy/"
+}

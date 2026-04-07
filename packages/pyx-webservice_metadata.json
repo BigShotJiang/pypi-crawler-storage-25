@@ -1,0 +1,11 @@
+{
+  "name": "pyx-webservice",
+  "version": "1.29.0",
+  "summary": "Provides web services from PyXMake using fastapi",
+  "author": "Garbade, Marc",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyx_webservice-1.29.0.tar.gz",
+  "download_time": "2026-04-07T08:15:48.218313",
+  "package_url": "https://pypi.org/project/pyx-webservice/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agent-immune",
-  "version": "0.1.1",
+  "version": "0.2.2",
   "summary": "Adaptive threat intelligence for AI agent security — semantic memory, multi-turn escalation, output scanning, rate limiting, and prompt hardening.",
   "author": "Denny",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agent_immune-0.1.1.tar.gz",
-  "download_time": "2026-04-07T05:27:45.082276",
+  "download_filename": "agent_immune-0.2.2.tar.gz",
+  "download_time": "2026-04-07T08:16:01.885169",
   "package_url": "https://pypi.org/project/agent-immune/"
 }

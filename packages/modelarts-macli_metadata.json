@@ -1,0 +1,11 @@
+{
+  "name": "modelarts-macli",
+  "version": "0.2.0",
+  "summary": "华为云 ModelArts 远程管理 CLI",
+  "author": "hammershock",
+  "license": null,
+  "home_page": null,
+  "download_filename": "modelarts_macli-0.2.0.tar.gz",
+  "download_time": "2026-04-07T08:15:34.821567",
+  "package_url": "https://pypi.org/project/modelarts-macli/"
+}

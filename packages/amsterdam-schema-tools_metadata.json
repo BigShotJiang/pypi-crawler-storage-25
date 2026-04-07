@@ -1,0 +1,11 @@
+{
+  "name": "amsterdam-schema-tools",
+  "version": "9.3.1",
+  "summary": "Tools to work with Amsterdam Schema.",
+  "author": "Team Data Diensten, van het Dataplatform onder de Directie Digitale Voorzieningen (Gemeente Amsterdam)",
+  "license": "Mozilla Public 2.0",
+  "home_page": "https://github.com/amsterdam/schema-tools",
+  "download_filename": "amsterdam_schema_tools-9.3.1.tar.gz",
+  "download_time": "2026-04-07T08:16:01.353330",
+  "package_url": "https://pypi.org/project/amsterdam-schema-tools/"
+}

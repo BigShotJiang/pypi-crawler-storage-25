@@ -1,11 +1,11 @@
 {
   "name": "afsvalint",
-  "version": "2.2.2",
+  "version": "2.2.6",
   "summary": "SVA Linter",
   "author": "AsFigo",
   "license": null,
   "home_page": "https://github.com/prajapati93/afsvalint",
-  "download_filename": "afsvalint-2.2.2.tar.gz",
-  "download_time": "2026-04-07T06:55:00.450881",
+  "download_filename": "afsvalint-2.2.6.tar.gz",
+  "download_time": "2026-04-07T08:15:40.807633",
   "package_url": "https://pypi.org/project/afsvalint/"
 }

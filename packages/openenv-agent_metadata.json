@@ -1,0 +1,11 @@
+{
+  "name": "openenv-agent",
+  "version": "0.1.0",
+  "summary": "Agent client for OpenEnv environments - connects RL agents to OpenEnv servers for inference and training",
+  "author": "Croma",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openenv_agent-0.1.0.tar.gz",
+  "download_time": "2026-04-07T08:15:35.332462",
+  "package_url": "https://pypi.org/project/openenv-agent/"
+}
