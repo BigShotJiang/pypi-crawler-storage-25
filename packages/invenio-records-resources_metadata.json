@@ -1,0 +1,11 @@
+{
+  "name": "invenio-records-resources",
+  "version": "9.2.0",
+  "summary": "Invenio resources module to create REST APIs.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-records-resources",
+  "download_filename": "invenio_records_resources-9.2.0.tar.gz",
+  "download_time": "2026-04-07T11:42:24.269576",
+  "package_url": "https://pypi.org/project/invenio-records-resources/"
+}

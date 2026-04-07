@@ -1,11 +1,11 @@
 {
   "name": "scitex-agent-container",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Declarative YAML-based framework for defining, managing, and orchestrating AI coding agent instances",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scitex_agent_container-0.1.0.tar.gz",
-  "download_time": "2026-04-07T10:44:20.883898",
+  "download_filename": "scitex_agent_container-0.2.0.tar.gz",
+  "download_time": "2026-04-07T11:42:18.533116",
   "package_url": "https://pypi.org/project/scitex-agent-container/"
 }

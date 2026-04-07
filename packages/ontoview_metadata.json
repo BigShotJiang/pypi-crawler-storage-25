@@ -1,0 +1,11 @@
+{
+  "name": "ontoview",
+  "version": "0.2.1",
+  "summary": "Interactive ontology visualization, SHACL validation, and live TTL editing plugin for MkDocs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ontoview-0.2.1.tar.gz",
+  "download_time": "2026-04-07T11:42:34.536960",
+  "package_url": "https://pypi.org/project/ontoview/"
+}

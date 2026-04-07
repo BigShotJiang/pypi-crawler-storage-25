@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-stock-prebook-cancel-line",
+  "version": "16.0.1.0.1",
+  "summary": "Takes into account prebook pickings into the computation of cancelled qty on the sale order lines",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-prebook",
+  "download_filename": "odoo_addon_sale_stock_prebook_cancel_line-16.0.1.0.1-py3-none-any.whl",
+  "download_time": "2026-04-07T11:42:12.339361",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-stock-prebook-cancel-line/"
+}

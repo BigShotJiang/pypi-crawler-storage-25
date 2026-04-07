@@ -1,11 +1,11 @@
 {
   "name": "openmax",
-  "version": "0.9.46",
+  "version": "0.9.48",
   "summary": "Extreme parallel acceleration — one command dispatches multiple AI agents with domain-aware task decomposition",
   "author": "Chen Kailun",
   "license": null,
   "home_page": null,
-  "download_filename": "openmax-0.9.46-py3-none-any.whl",
-  "download_time": "2026-04-07T09:38:26.574687",
+  "download_filename": "openmax-0.9.48-py3-none-any.whl",
+  "download_time": "2026-04-07T11:42:46.397417",
   "package_url": "https://pypi.org/project/openmax/"
 }

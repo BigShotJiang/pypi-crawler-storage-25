@@ -1,0 +1,11 @@
+{
+  "name": "vnc-computer-use",
+  "version": "0.2.0",
+  "summary": "VNC Computer-Use CLI - control a remote desktop via VNC for AI computer-use agents",
+  "author": "EYHN",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vnc_computer_use-0.2.0.tar.gz",
+  "download_time": "2026-04-07T11:42:38.802872",
+  "package_url": "https://pypi.org/project/vnc-computer-use/"
+}

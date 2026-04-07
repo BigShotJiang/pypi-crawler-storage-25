@@ -1,0 +1,11 @@
+{
+  "name": "dabfs",
+  "version": "1.0.0",
+  "summary": "Dynamic BFS algorithm to compress graph for reachability queries",
+  "author": "Resul Tugay",
+  "license": "MIT",
+  "home_page": "https://github.com/resultugay/dabfs",
+  "download_filename": "dabfs-1.0.0.tar.gz",
+  "download_time": "2026-04-07T11:42:21.678335",
+  "package_url": "https://pypi.org/project/dabfs/"
+}

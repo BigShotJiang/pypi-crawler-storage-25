@@ -1,0 +1,11 @@
+{
+  "name": "stake",
+  "version": "0.13.0",
+  "summary": "Unofficial  https://hellostake.com API wrapper.",
+  "author": "Stefano Tabacco",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/stabacco/stake-python",
+  "download_filename": "stake-0.13.0.tar.gz",
+  "download_time": "2026-04-07T11:42:52.059274",
+  "package_url": "https://pypi.org/project/stake/"
+}
