@@ -1,0 +1,11 @@
+{
+  "name": "amulet-leveldb",
+  "version": "1.0.4",
+  "summary": "A Cython wrapper for Mojang's custom LevelDB.",
+  "author": "James Clare",
+  "license": null,
+  "home_page": "https://www.amuletmc.com",
+  "download_filename": "amulet_leveldb-1.0.4.tar.gz",
+  "download_time": "2026-04-07T14:21:55.158240",
+  "package_url": "https://pypi.org/project/amulet-leveldb/"
+}

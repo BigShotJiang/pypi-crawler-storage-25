@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-user-restrict-stripe-bypass-user",
+  "version": "17.0.1.0.0.2",
+  "summary": "POS User Restrict Strype Bypass User",
+  "author": "Antoni Marroig, APSL-Nagarro, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_user_restrict_stripe_bypass_user-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-04-07T14:21:12.114789",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-user-restrict-stripe-bypass-user/"
+}

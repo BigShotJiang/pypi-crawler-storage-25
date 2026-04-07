@@ -1,0 +1,11 @@
+{
+  "name": "respx",
+  "version": "0.23.0",
+  "summary": "A utility for mocking out the Python HTTPX and HTTP Core libraries.",
+  "author": "Jonas Lundberg",
+  "license": "BSD-3-Clause",
+  "home_page": "https://lundberg.github.io/respx/",
+  "download_filename": "respx-0.23.0.tar.gz",
+  "download_time": "2026-04-07T14:21:18.432939",
+  "package_url": "https://pypi.org/project/respx/"
+}

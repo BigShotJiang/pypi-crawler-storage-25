@@ -1,11 +1,11 @@
 {
   "name": "claude-code-llm-router",
-  "version": "1.9.2",
+  "version": "1.9.4",
   "summary": "Multi-LLM router MCP server for Claude Code — smart complexity routing, Claude subscription monitoring, Codex integration, 20+ providers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claude_code_llm_router-1.9.2.tar.gz",
-  "download_time": "2026-04-07T08:15:58.057507",
+  "download_filename": "claude_code_llm_router-1.9.4.tar.gz",
+  "download_time": "2026-04-07T14:21:31.953390",
   "package_url": "https://pypi.org/project/claude-code-llm-router/"
 }

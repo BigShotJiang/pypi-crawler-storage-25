@@ -1,11 +1,11 @@
 {
   "name": "pycanha-core",
-  "version": "0.7.0",
+  "version": "0.11.0",
   "summary": "Python bindings for pycanha-core with nanobind",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycanha_core-0.7.0.tar.gz",
-  "download_time": "2026-04-01T10:43:43.152347",
+  "download_filename": "pycanha_core-0.11.0.tar.gz",
+  "download_time": "2026-04-07T14:21:10.030723",
   "package_url": "https://pypi.org/project/pycanha-core/"
 }

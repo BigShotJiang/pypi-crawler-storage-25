@@ -1,0 +1,11 @@
+{
+  "name": "steklov-activations",
+  "version": "0.1.0",
+  "summary": "Compact-support piecewise-polynomial activation functions with tunable sparsity",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "steklov_activations-0.1.0.tar.gz",
+  "download_time": "2026-04-07T14:21:17.410168",
+  "package_url": "https://pypi.org/project/steklov-activations/"
+}

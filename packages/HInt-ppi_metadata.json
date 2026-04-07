@@ -1,0 +1,11 @@
+{
+  "name": "HInt-ppi",
+  "version": "0.5.1",
+  "summary": "A tool to find homologous interactions and speed up AlphaFold-based structural modeling.",
+  "author": "Quentin Rouger",
+  "license": "GPL-3.0 license",
+  "home_page": "https://github.com/Qrouger/HInt",
+  "download_filename": "hint_ppi-0.5.1.tar.gz",
+  "download_time": "2026-04-07T14:21:55.673143",
+  "package_url": "https://pypi.org/project/HInt-ppi/"
+}

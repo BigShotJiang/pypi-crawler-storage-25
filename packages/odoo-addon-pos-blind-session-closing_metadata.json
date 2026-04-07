@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-blind-session-closing",
+  "version": "18.0.1.0.0.2",
+  "summary": "Hide cash control details in the closing popup",
+  "author": "APSL-Nagarro, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_blind_session_closing-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-04-07T14:21:17.921667",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-blind-session-closing/"
+}

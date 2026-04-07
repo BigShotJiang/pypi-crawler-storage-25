@@ -1,0 +1,11 @@
+{
+  "name": "extjson",
+  "version": "0.1.1",
+  "summary": "Extended JSON serialization library supporting main BSON types (datetime, bytes, UUID, Decimal, …)",
+  "author": "Pascal Chambon",
+  "license": "MIT",
+  "home_page": "https://github.com/pakal/extjson",
+  "download_filename": "extjson-0.1.1.tar.gz",
+  "download_time": "2026-04-07T14:21:15.825666",
+  "package_url": "https://pypi.org/project/extjson/"
+}
