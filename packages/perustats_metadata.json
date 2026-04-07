@@ -1,0 +1,11 @@
+{
+  "name": "perustats",
+  "version": "0.2.22",
+  "summary": "Tools to download and process public datasets from Peru (INEI & BCRP).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "perustats-0.2.22.tar.gz",
+  "download_time": "2026-04-07T22:02:25.119282",
+  "package_url": "https://pypi.org/project/perustats/"
+}

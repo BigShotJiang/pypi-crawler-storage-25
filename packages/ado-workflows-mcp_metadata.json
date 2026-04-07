@@ -1,0 +1,11 @@
+{
+  "name": "ado-workflows-mcp",
+  "version": "0.8.0",
+  "summary": "MCP server exposing Azure DevOps workflow automation tools",
+  "author": "Jack Pines",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ado_workflows_mcp-0.8.0.tar.gz",
+  "download_time": "2026-04-07T22:02:13.627538",
+  "package_url": "https://pypi.org/project/ado-workflows-mcp/"
+}

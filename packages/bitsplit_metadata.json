@@ -1,0 +1,11 @@
+{
+  "name": "bitsplit",
+  "version": "0.1.1",
+  "summary": "Split any file into a keyless binary block and a 128-bit text key.",
+  "author": "Paul",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bitsplit-0.1.1.tar.gz",
+  "download_time": "2026-04-07T22:02:08.476900",
+  "package_url": "https://pypi.org/project/bitsplit/"
+}

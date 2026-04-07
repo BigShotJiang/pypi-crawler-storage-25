@@ -1,0 +1,11 @@
+{
+  "name": "pysofascore",
+  "version": "0.2.1",
+  "summary": "Python library for SofaScore data extraction. Built on scrapling/curl_cffi stealth engine.",
+  "author": "kirill52300",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pysofascore-0.2.1.tar.gz",
+  "download_time": "2026-04-07T22:02:18.301920",
+  "package_url": "https://pypi.org/project/pysofascore/"
+}

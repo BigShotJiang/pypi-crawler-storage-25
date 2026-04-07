@@ -1,11 +1,11 @@
 {
   "name": "corticalfields",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Spectral cortical and subcortical analysis with statistical testing (RSA, CCA, PLS, PERMANOVA, TFCE, NBS, laterality classification), on meshes and point clouds — Laplace-Beltrami decomposition, atlas-free asymmetry, GPU-accelerated optimal transport, hippocampal subfield analysis (HippUnfold), ShapeDNA/BrainPrint spectral fingerprinting, geometric deep learning, Bayesian inference, and normative modeling for structural neuroimaging.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "corticalfields-0.2.0.tar.gz",
-  "download_time": "2026-04-04T16:00:25.305772",
+  "download_filename": "corticalfields-0.2.1.tar.gz",
+  "download_time": "2026-04-07T22:01:52.366435",
   "package_url": "https://pypi.org/project/corticalfields/"
 }

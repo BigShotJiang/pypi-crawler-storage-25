@@ -1,0 +1,11 @@
+{
+  "name": "llama-agents-server",
+  "version": "0.4.0",
+  "summary": "HTTP server for deploying and serving LlamaIndex workflows as web services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_agents_server-0.4.0.tar.gz",
+  "download_time": "2026-04-07T22:01:46.680049",
+  "package_url": "https://pypi.org/project/llama-agents-server/"
+}

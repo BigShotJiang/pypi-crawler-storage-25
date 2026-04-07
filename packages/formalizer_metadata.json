@@ -1,0 +1,11 @@
+{
+  "name": "formalizer",
+  "version": "0.2.3",
+  "summary": "Orchestrate end-to-end reproduction of fillable PDF forms as self-contained Typst packages.",
+  "author": "nibsbin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "formalizer-0.2.3.tar.gz",
+  "download_time": "2026-04-07T22:02:08.993496",
+  "package_url": "https://pypi.org/project/formalizer/"
+}
