@@ -1,0 +1,11 @@
+{
+  "name": "cognite-pygen-spark",
+  "version": "0.2.3",
+  "summary": "Code generation library for creating Python UDTFs from CDF Data Models",
+  "author": "Cognite",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cognite_pygen_spark-0.2.3.tar.gz",
+  "download_time": "2026-04-07T15:57:58.602024",
+  "package_url": "https://pypi.org/project/cognite-pygen-spark/"
+}

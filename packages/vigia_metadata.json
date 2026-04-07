@@ -1,11 +1,11 @@
 {
   "name": "vigia",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "LLM & Agent Red Teaming Framework — automated security testing for AI systems",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vigia-0.5.0.tar.gz",
-  "download_time": "2026-04-01T22:47:26.398361",
+  "download_filename": "vigia-0.5.2.tar.gz",
+  "download_time": "2026-04-07T15:58:34.827408",
   "package_url": "https://pypi.org/project/vigia/"
 }

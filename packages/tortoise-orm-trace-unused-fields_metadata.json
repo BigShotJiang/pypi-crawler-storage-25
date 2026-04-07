@@ -1,0 +1,11 @@
+{
+  "name": "tortoise-orm-trace-unused-fields",
+  "version": "0.1.0",
+  "summary": "Small hook to trace Tortoise-ORM unused fields",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tortoise_orm_trace_unused_fields-0.1.0.tar.gz",
+  "download_time": "2026-04-07T15:58:19.120294",
+  "package_url": "https://pypi.org/project/tortoise-orm-trace-unused-fields/"
+}

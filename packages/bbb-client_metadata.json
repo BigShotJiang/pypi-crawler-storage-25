@@ -1,11 +1,11 @@
 {
   "name": "bbb-client",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Client library and CLI to interact with the BBB API",
   "author": "Tanguy Le Carrour",
   "license": "GPL-3.0-or-later",
   "home_page": "https://gitlab.easter-eggs.com/ee/bbb-client",
-  "download_filename": "bbb_client-0.3.0.tar.gz",
-  "download_time": "2026-04-02T13:42:55.429534",
+  "download_filename": "bbb_client-0.3.1.tar.gz",
+  "download_time": "2026-04-07T15:58:21.917302",
   "package_url": "https://pypi.org/project/bbb-client/"
 }

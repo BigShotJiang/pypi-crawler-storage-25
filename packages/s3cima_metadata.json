@@ -1,0 +1,11 @@
+{
+  "name": "s3cima",
+  "version": "0.1.10",
+  "summary": "Supervised Spatial Single-Cell Image Analysis for identification of disease associated cell type composition in the tissue microenvironment",
+  "author": "gabriel-dvl",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "s3cima-0.1.10.tar.gz",
+  "download_time": "2026-04-07T15:58:34.295998",
+  "package_url": "https://pypi.org/project/s3cima/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ai-sync",
-  "version": "1.8.3",
+  "version": "1.8.4",
   "summary": "Self-contained AI config sync for Codex, Cursor, Gemini, and Claude Code.",
   "author": "Loup Peluso",
   "license": "LicenseRef-PolyForm-Noncommercial-1.0.0",
   "home_page": null,
-  "download_filename": "ai_sync-1.8.3.tar.gz",
-  "download_time": "2026-04-07T09:38:57.261321",
+  "download_filename": "ai_sync-1.8.4.tar.gz",
+  "download_time": "2026-04-07T15:58:32.702193",
   "package_url": "https://pypi.org/project/ai-sync/"
 }

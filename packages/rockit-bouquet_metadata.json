@@ -1,11 +1,11 @@
 {
   "name": "rockit-bouquet",
-  "version": "0.3.9",
+  "version": "0.4.0",
   "summary": "A tool for defining and running a set of services for a beamline",
   "author": "Devin Burke",
   "license": "GNU GPL 3",
   "home_page": null,
-  "download_filename": "rockit_bouquet-0.3.9.tar.gz",
-  "download_time": "2026-04-07T08:15:44.447013",
+  "download_filename": "rockit_bouquet-0.4.0.tar.gz",
+  "download_time": "2026-04-07T15:58:20.822917",
   "package_url": "https://pypi.org/project/rockit-bouquet/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "valbridge-pydantic",
+  "version": "0.4.1",
+  "summary": "Render valbridge IR into Pydantic v2 models",
+  "author": "vectorfyco",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "valbridge_pydantic-0.4.1.tar.gz",
+  "download_time": "2026-04-07T15:58:45.021062",
+  "package_url": "https://pypi.org/project/valbridge-pydantic/"
+}

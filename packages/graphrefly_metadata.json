@@ -1,11 +1,11 @@
 {
   "name": "graphrefly",
-  "version": "0.10.0",
-  "summary": "Reactive graph protocol for human + LLM co-operation. Composable nodes, glitch-free diamond resolution, two-phase push, durable streaming. Zero dependencies.",
+  "version": "0.14.0",
+  "summary": "Reactive harness layer for agent workflows. Describe automations in plain language, trace every decision, enforce policies, persist checkpoints. Zero dependencies.",
   "author": "David Chen",
   "license": null,
   "home_page": null,
-  "download_filename": "graphrefly-0.10.0.tar.gz",
-  "download_time": "2026-04-06T21:54:13.478770",
+  "download_filename": "graphrefly-0.14.0.tar.gz",
+  "download_time": "2026-04-07T15:58:11.680113",
   "package_url": "https://pypi.org/project/graphrefly/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pg-runner-draghici-andrei",
-  "version": "0.2.5",
+  "version": "0.2.11",
   "summary": "This is the pg_runner. It is used to perform PostgreSQL management operations.",
   "author": "Andrei Draghici",
   "license": null,
   "home_page": "https://github.com/draghiciandrei1307/python-automation",
-  "download_filename": "pg_runner_draghici_andrei-0.2.5.tar.gz",
-  "download_time": "2026-04-07T08:15:38.575196",
+  "download_filename": "pg_runner_draghici_andrei-0.2.11.tar.gz",
+  "download_time": "2026-04-07T15:58:00.891672",
   "package_url": "https://pypi.org/project/pg-runner-draghici-andrei/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dgat",
+  "version": "1.0.2",
+  "summary": "Dependency Graph as a Tool - LLM-annotated code dependency analysis",
+  "author": "DGAT Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dgat-1.0.2.tar.gz",
+  "download_time": "2026-04-07T15:58:23.514909",
+  "package_url": "https://pypi.org/project/dgat/"
+}
