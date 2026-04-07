@@ -1,11 +1,11 @@
 {
   "name": "girder-worker",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "summary": "Batch execution engine built on celery.",
   "author": "Kitware, Inc.",
   "license": "Apache 2.0",
   "home_page": "https://github.com/girder/girder_worker",
-  "download_filename": "girder_worker-5.0.1.tar.gz",
-  "download_time": "2026-03-30T19:42:41.171711",
+  "download_filename": "girder_worker-5.0.2.tar.gz",
+  "download_time": "2026-04-07T18:03:15.378088",
   "package_url": "https://pypi.org/project/girder-worker/"
 }

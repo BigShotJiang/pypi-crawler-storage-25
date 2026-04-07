@@ -1,11 +1,11 @@
 {
   "name": "girder-hashsum-download",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "summary": "Allows download of a file by its hashsum.",
   "author": "Kitware, Inc.",
   "license": "Apache 2.0",
   "home_page": "http://girder.readthedocs.io/en/latest/plugins.html#hashsum-download",
-  "download_filename": "girder_hashsum_download-5.0.1.tar.gz",
-  "download_time": "2026-03-30T19:42:58.999144",
+  "download_filename": "girder_hashsum_download-5.0.2.tar.gz",
+  "download_time": "2026-04-07T18:03:32.835191",
   "package_url": "https://pypi.org/project/girder-hashsum-download/"
 }

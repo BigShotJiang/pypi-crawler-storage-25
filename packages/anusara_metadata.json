@@ -1,11 +1,11 @@
 {
   "name": "anusara",
-  "version": "1.17.0",
+  "version": "1.18.1",
   "summary": "Deterministic execution engine with traceable, immutable history",
   "author": "Nataraj Narayana",
   "license": null,
   "home_page": null,
-  "download_filename": "anusara-1.17.0.tar.gz",
-  "download_time": "2026-04-07T12:47:23.780818",
+  "download_filename": "anusara-1.18.1.tar.gz",
+  "download_time": "2026-04-07T18:03:24.902889",
   "package_url": "https://pypi.org/project/anusara/"
 }

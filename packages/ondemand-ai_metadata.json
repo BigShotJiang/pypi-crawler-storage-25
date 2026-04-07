@@ -1,11 +1,11 @@
 {
   "name": "ondemand-ai",
-  "version": "1.3.0",
+  "version": "1.4.2",
   "summary": "Automation agent toolkit for the Ondemand platform",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ondemand_ai-1.3.0.tar.gz",
-  "download_time": "2026-04-01T02:30:25.578730",
+  "download_filename": "ondemand_ai-1.4.2.tar.gz",
+  "download_time": "2026-04-07T18:03:49.088187",
   "package_url": "https://pypi.org/project/ondemand-ai/"
 }

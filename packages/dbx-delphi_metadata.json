@@ -1,11 +1,11 @@
 {
   "name": "dbx-delphi",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "summary": "Probabilistic data test framework for Databricks — test terabyte-scale Delta Lake tables in seconds using statistical sampling and confidence intervals",
   "author": "degert",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dbx_delphi-0.1.0.tar.gz",
-  "download_time": "2026-04-07T12:47:38.973072",
+  "download_filename": "dbx_delphi-0.4.0.tar.gz",
+  "download_time": "2026-04-07T18:03:12.739739",
   "package_url": "https://pypi.org/project/dbx-delphi/"
 }

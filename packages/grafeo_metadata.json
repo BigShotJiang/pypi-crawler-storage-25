@@ -1,11 +1,11 @@
 {
   "name": "grafeo",
-  "version": "0.5.33",
+  "version": "0.5.34",
   "summary": "A high-performance, embeddable graph database with Python bindings",
   "author": "S.T. Grond",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "grafeo-0.5.33.tar.gz",
-  "download_time": "2026-04-05T15:50:50.159549",
+  "download_filename": "grafeo-0.5.34.tar.gz",
+  "download_time": "2026-04-07T18:03:38.623765",
   "package_url": "https://pypi.org/project/grafeo/"
 }

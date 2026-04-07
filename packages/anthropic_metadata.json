@@ -1,11 +1,11 @@
 {
   "name": "anthropic",
-  "version": "0.89.0",
+  "version": "0.90.0",
   "summary": "The official Python library for the anthropic API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "anthropic-0.89.0.tar.gz",
-  "download_time": "2026-04-03T19:02:59.588705",
+  "download_filename": "anthropic-0.90.0.tar.gz",
+  "download_time": "2026-04-07T18:03:05.966067",
   "package_url": "https://pypi.org/project/anthropic/"
 }
