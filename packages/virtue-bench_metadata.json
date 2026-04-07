@@ -1,0 +1,11 @@
+{
+  "name": "virtue-bench",
+  "version": "2.0.0",
+  "summary": "VirtueBench V2: Multi-dimensional virtue evaluation benchmark for LLMs with tripartite and Ignatian temptation models",
+  "author": "The Institute for Christian Machine Intelligence",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "virtue_bench-2.0.0.tar.gz",
+  "download_time": "2026-04-07T03:22:49.443509",
+  "package_url": "https://pypi.org/project/virtue-bench/"
+}

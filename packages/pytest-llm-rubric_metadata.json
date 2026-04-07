@@ -1,0 +1,11 @@
+{
+  "name": "pytest-llm-rubric",
+  "version": "0.4.0",
+  "summary": "A pytest plugin for rubric-based LLM-as-judge testing with auto-discovery and preflight",
+  "author": "ugai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_llm_rubric-0.4.0.tar.gz",
+  "download_time": "2026-04-07T03:22:58.849041",
+  "package_url": "https://pypi.org/project/pytest-llm-rubric/"
+}

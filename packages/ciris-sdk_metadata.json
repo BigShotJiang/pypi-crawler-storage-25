@@ -1,11 +1,11 @@
 {
   "name": "ciris-sdk",
-  "version": "2.3.5",
+  "version": "2.3.6",
   "summary": "CIRIS SDK - Async Python client for CIRIS Agent API",
   "author": "Eric Moore",
   "license": null,
   "home_page": "https://github.com/CIRISAI/CIRISAgent",
-  "download_filename": "ciris_sdk-2.3.5-py3-none-any.whl",
-  "download_time": "2026-04-05T19:36:37.590719",
+  "download_filename": "ciris_sdk-2.3.6-py3-none-any.whl",
+  "download_time": "2026-04-07T03:22:52.048727",
   "package_url": "https://pypi.org/project/ciris-sdk/"
 }

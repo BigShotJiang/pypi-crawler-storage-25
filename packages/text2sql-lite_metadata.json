@@ -1,0 +1,11 @@
+{
+  "name": "text2sql-lite",
+  "version": "0.4.0",
+  "summary": "Convert natural English to SQL (SQLite, Postgres, MySQL) with offline heuristics or optional LLM backends.",
+  "author": "text2sql-lite contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "text2sql_lite-0.4.0.tar.gz",
+  "download_time": "2026-04-07T03:23:16.489850",
+  "package_url": "https://pypi.org/project/text2sql-lite/"
+}

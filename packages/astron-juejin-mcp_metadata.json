@@ -1,0 +1,11 @@
+{
+  "name": "astron-juejin-mcp",
+  "version": "0.1.4",
+  "summary": "Astron-Juejin-MCP: 基于掘金公开 API 与公开页面的自包含 MCP Server，支持 MCP 协议和 uvx 一键启动。",
+  "author": "iFlytek Astron Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "astron_juejin_mcp-0.1.4.tar.gz",
+  "download_time": "2026-04-07T03:23:32.514059",
+  "package_url": "https://pypi.org/project/astron-juejin-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "astron-bilibili-mcp",
+  "version": "0.2.5",
+  "summary": "Astron-Bilibili-MCP: 基于哔哩哔哩游客态公开接口的自包含 MCP Server，支持 MCP 协议和 uvx 一键启动。",
+  "author": "iFlytek Astron Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "astron_bilibili_mcp-0.2.5.tar.gz",
+  "download_time": "2026-04-07T03:23:35.071109",
+  "package_url": "https://pypi.org/project/astron-bilibili-mcp/"
+}

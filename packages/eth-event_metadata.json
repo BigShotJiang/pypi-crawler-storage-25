@@ -1,0 +1,11 @@
+{
+  "name": "eth-event",
+  "version": "1.4.7",
+  "summary": "Ethereum event decoder and topic generator",
+  "author": "Benjamin Hauser",
+  "license": "MIT",
+  "home_page": "https://github.com/iamdefinitelyahuman/eth-event",
+  "download_filename": "eth_event-1.4.7.tar.gz",
+  "download_time": "2026-04-07T03:23:04.641599",
+  "package_url": "https://pypi.org/project/eth-event/"
+}

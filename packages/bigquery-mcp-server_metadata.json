@@ -1,0 +1,11 @@
+{
+  "name": "bigquery-mcp-server",
+  "version": "0.1.1",
+  "summary": "MCP server for Google BigQuery — authenticate via service account JSON env var, run with uvx",
+  "author": "NVDR",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bigquery_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-04-07T03:23:24.761877",
+  "package_url": "https://pypi.org/project/bigquery-mcp-server/"
+}

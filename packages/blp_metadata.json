@@ -1,0 +1,11 @@
+{
+  "name": "blp",
+  "version": "0.0.4",
+  "summary": "Pythonic interface for Bloomberg Open API",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/matthewgilbert/blp",
+  "download_filename": "blp-0.0.4.tar.gz",
+  "download_time": "2026-04-07T03:23:10.793990",
+  "package_url": "https://pypi.org/project/blp/"
+}

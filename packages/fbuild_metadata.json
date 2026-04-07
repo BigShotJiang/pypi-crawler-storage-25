@@ -1,11 +1,11 @@
 {
   "name": "fbuild",
-  "version": "2.1.6",
+  "version": "2.1.9",
   "summary": "PlatformIO-compatible embedded build tool (Rust implementation)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fbuild-2.1.6-cp39-abi3-macosx_11_0_arm64.whl",
-  "download_time": "2026-04-06T23:25:40.761082",
+  "download_filename": "fbuild-2.1.9-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-07T03:23:12.373871",
   "package_url": "https://pypi.org/project/fbuild/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "astron-toutiao-mcp",
+  "version": "0.1.4",
+  "summary": "Astron-Toutiao-MCP: 基于今日头条公开热榜、推荐流、搜索页和移动端详情接口的自包含 MCP Server，支持 MCP 协议和 uvx 一键启动。",
+  "author": "iFlytek Astron Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "astron_toutiao_mcp-0.1.4.tar.gz",
+  "download_time": "2026-04-07T03:23:30.970699",
+  "package_url": "https://pypi.org/project/astron-toutiao-mcp/"
+}
