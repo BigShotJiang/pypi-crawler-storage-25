@@ -1,11 +1,11 @@
 {
   "name": "ember-qc-analysis",
-  "version": "0.10.0",
+  "version": "0.10.3",
   "summary": "Post-benchmark analysis, plots, and statistics for ember-qc results",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ember_qc_analysis-0.10.0.tar.gz",
-  "download_time": "2026-04-07T18:03:46.480768",
+  "download_filename": "ember_qc_analysis-0.10.3.tar.gz",
+  "download_time": "2026-04-07T21:09:54.225046",
   "package_url": "https://pypi.org/project/ember-qc-analysis/"
 }

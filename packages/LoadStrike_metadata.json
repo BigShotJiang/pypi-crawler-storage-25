@@ -1,11 +1,11 @@
 {
   "name": "LoadStrike",
-  "version": "1.0.10801",
+  "version": "1.0.15601",
   "summary": "Python SDK for in-process load execution, traffic correlation, and reporting.",
   "author": "LoadStrike",
   "license": null,
   "home_page": null,
-  "download_filename": "loadstrike-1.0.10801.tar.gz",
-  "download_time": "2026-04-03T17:21:40.035445",
+  "download_filename": "loadstrike-1.0.15601.tar.gz",
+  "download_time": "2026-04-07T21:09:47.541470",
   "package_url": "https://pypi.org/project/LoadStrike/"
 }

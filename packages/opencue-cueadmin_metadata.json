@@ -1,0 +1,11 @@
+{
+  "name": "opencue-cueadmin",
+  "version": "1.19.1",
+  "summary": "CueAdmin is a command-line administration tool for OpenCue that provides full control over jobs, layers, frames, and hosts. It allows administrators to perform advanced management tasks such as setting priorities, killing jobs, or managing resource allocation.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "opencue_cueadmin-1.19.1.tar.gz",
+  "download_time": "2026-04-07T21:09:40.820871",
+  "package_url": "https://pypi.org/project/opencue-cueadmin/"
+}

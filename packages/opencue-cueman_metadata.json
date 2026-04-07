@@ -1,0 +1,11 @@
+{
+  "name": "opencue-cueman",
+  "version": "1.19.1",
+  "summary": "Cueman is a command-line job management tool for OpenCue that provides efficient job control operations. It offers a streamlined interface for managing jobs, frames, and processes with advanced filtering and batch operation capabilities.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "opencue_cueman-1.19.1.tar.gz",
+  "download_time": "2026-04-07T21:09:38.249288",
+  "package_url": "https://pypi.org/project/opencue-cueman/"
+}

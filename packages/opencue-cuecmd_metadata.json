@@ -1,0 +1,11 @@
+{
+  "name": "opencue-cuecmd",
+  "version": "1.19.1",
+  "summary": "Cuecmd is a command-line tool for OpenCue that executes a list of commands as frames on the render farm. It enables batch processing by chunking commands and submitting them as OpenCue jobs.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "opencue_cuecmd-1.19.1.tar.gz",
+  "download_time": "2026-04-07T21:09:39.415100",
+  "package_url": "https://pypi.org/project/opencue-cuecmd/"
+}

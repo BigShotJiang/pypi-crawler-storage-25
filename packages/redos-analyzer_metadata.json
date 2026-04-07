@@ -1,0 +1,11 @@
+{
+  "name": "redos-analyzer",
+  "version": "1.0.0",
+  "summary": "Static analysis tool that detects and automatically fixes ReDoS vulnerabilities in Python",
+  "author": "HarshithReddy01",
+  "license": null,
+  "home_page": null,
+  "download_filename": "redos_analyzer-1.0.0.tar.gz",
+  "download_time": "2026-04-07T21:09:41.334478",
+  "package_url": "https://pypi.org/project/redos-analyzer/"
+}

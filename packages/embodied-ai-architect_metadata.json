@@ -1,11 +1,11 @@
 {
   "name": "embodied-ai-architect",
-  "version": "0.22.2",
+  "version": "0.25.0",
   "summary": "Hardware/Software Codesign Space Exploration and Optimization Environment for Embodied AI systems",
   "author": "Branes-ai Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "embodied_ai_architect-0.22.2.tar.gz",
-  "download_time": "2026-04-04T13:23:40.460185",
+  "download_filename": "embodied_ai_architect-0.25.0.tar.gz",
+  "download_time": "2026-04-07T21:09:19.704254",
   "package_url": "https://pypi.org/project/embodied-ai-architect/"
 }

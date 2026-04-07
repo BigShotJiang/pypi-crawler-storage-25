@@ -1,0 +1,11 @@
+{
+  "name": "opencue-rqd",
+  "version": "1.19.1",
+  "summary": "RQD is a software client that runs on all hosts doing work for an OpenCue deployment.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "opencue_rqd-1.19.1.tar.gz",
+  "download_time": "2026-04-07T21:09:34.566137",
+  "package_url": "https://pypi.org/project/opencue-rqd/"
+}

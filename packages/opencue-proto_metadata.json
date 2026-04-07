@@ -1,0 +1,11 @@
+{
+  "name": "opencue-proto",
+  "version": "1.19.1",
+  "summary": "The opencue-proto is a module containing the protobuf modules for communication to and from Cuebot.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "opencue_proto-1.19.1.tar.gz",
+  "download_time": "2026-04-07T21:09:36.169678",
+  "package_url": "https://pypi.org/project/opencue-proto/"
+}

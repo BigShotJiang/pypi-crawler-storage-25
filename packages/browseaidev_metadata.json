@@ -1,11 +1,11 @@
 {
   "name": "browseaidev",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "summary": "Python SDK for BrowseAI Dev — Grounded Intelligence research infrastructure for AI agents",
   "author": "BrowseAI Dev",
   "license": null,
   "home_page": null,
-  "download_filename": "browseaidev-0.3.3.tar.gz",
-  "download_time": "2026-04-04T09:09:09.418347",
+  "download_filename": "browseaidev-0.4.0.tar.gz",
+  "download_time": "2026-04-07T21:09:23.399962",
   "package_url": "https://pypi.org/project/browseaidev/"
 }

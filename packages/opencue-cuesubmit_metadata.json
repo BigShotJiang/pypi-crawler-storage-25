@@ -1,0 +1,11 @@
+{
+  "name": "opencue-cuesubmit",
+  "version": "1.19.1",
+  "summary": "CueSubmit is a submission tool for OpenCue that allows artists and developers to easily submit jobs to the render farm. It provides an interface to configure job parameters, layers, and dependencies before dispatching work.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "opencue_cuesubmit-1.19.1.tar.gz",
+  "download_time": "2026-04-07T21:09:36.679864",
+  "package_url": "https://pypi.org/project/opencue-cuesubmit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "opencue-cuegui",
+  "version": "1.19.1",
+  "summary": "CueGUI is the graphical user interface for OpenCue with two main workspace views. Cuetopia provides artist-focused tools for monitoring and managing render jobs through plugins like Monitor Jobs, Job Details, Frame logs, and Job Graph. CueCommander offers administrator-focused system monitoring and host management with advanced tools for allocations, hosts, services, and resources. Together, they enable artists and administrators to track job progress and manage render farm operations.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "opencue_cuegui-1.19.1.tar.gz",
+  "download_time": "2026-04-07T21:09:38.831956",
+  "package_url": "https://pypi.org/project/opencue-cuegui/"
+}
