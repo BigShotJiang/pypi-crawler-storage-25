@@ -1,11 +1,11 @@
 {
   "name": "pktron",
-  "version": "2.7.0",
-  "summary": "PKTron - Pakistan's 1st Quantum AI Powered Simulation Framework with 200+ Professional Features",
-  "author": "CETQAP",
-  "license": null,
+  "version": "2.8.2",
+  "summary": "PKTron - High-Performance Quantum Circuit Simulator",
+  "author": "PKTron Team",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "pktron-2.7.0.tar.gz",
-  "download_time": "2026-04-05T20:04:00.464316",
+  "download_filename": "pktron-2.8.2.tar.gz",
+  "download_time": "2026-04-07T20:09:12.845801",
   "package_url": "https://pypi.org/project/pktron/"
 }

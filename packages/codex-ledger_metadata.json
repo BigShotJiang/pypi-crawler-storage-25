@@ -1,0 +1,11 @@
+{
+  "name": "codex-ledger",
+  "version": "0.1.0",
+  "summary": "Local-first, auditable usage ledger for Codex session artifacts.",
+  "author": "Mark Hardy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codex_ledger-0.1.0.tar.gz",
+  "download_time": "2026-04-07T20:09:19.624422",
+  "package_url": "https://pypi.org/project/codex-ledger/"
+}

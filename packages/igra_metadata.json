@@ -1,0 +1,11 @@
+{
+  "name": "igra",
+  "version": "26.4",
+  "summary": "IGRAv2 radiosonde tools",
+  "author": "MB",
+  "license": "MIT",
+  "home_page": "https://github.com/MBlaschek/igra",
+  "download_filename": "igra-26.4-py3-none-any.whl",
+  "download_time": "2026-04-07T20:09:18.589093",
+  "package_url": "https://pypi.org/project/igra/"
+}

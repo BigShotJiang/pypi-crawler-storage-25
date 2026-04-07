@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-jupyter-config",
+  "version": "0.0.12",
+  "summary": "Jupyter configuration utilities using gcloud",
+  "author": "Google, Inc.",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/GoogleCloudPlatform/jupyter-extensions/tree/master/google-cloud-jupyter-config",
+  "download_filename": "google_cloud_jupyter_config-0.0.12.tar.gz",
+  "download_time": "2026-04-07T20:08:39.655841",
+  "package_url": "https://pypi.org/project/google-cloud-jupyter-config/"
+}

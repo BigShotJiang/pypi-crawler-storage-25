@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-lambda",
+  "version": "1.42.85",
+  "summary": "Type annotations for boto3 Lambda 1.42.85 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_lambda-1.42.85.tar.gz",
+  "download_time": "2026-04-07T20:08:58.386968",
+  "package_url": "https://pypi.org/project/mypy-boto3-lambda/"
+}

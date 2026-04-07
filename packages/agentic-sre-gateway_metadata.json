@@ -1,0 +1,11 @@
+{
+  "name": "agentic-sre-gateway",
+  "version": "1.0.0",
+  "summary": "An SRE-Optimized API Gateway for dynamic LLM routing, Redis caching, and Prometheus telemetry.",
+  "author": "Manik Bodamwad",
+  "license": null,
+  "home_page": "https://github.com/ManikBodamwad/LLM-Latency-Cost-Router",
+  "download_filename": "agentic_sre_gateway-1.0.0.tar.gz",
+  "download_time": "2026-04-07T20:09:15.482317",
+  "package_url": "https://pypi.org/project/agentic-sre-gateway/"
+}

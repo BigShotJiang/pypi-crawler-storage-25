@@ -1,11 +1,11 @@
 {
   "name": "streamdeck-gui-ng",
-  "version": "4.5.1",
+  "version": "4.8.0",
   "summary": "Next Generation Linux UI for the Elgato Stream Deck - Modernized fork with Python 3.12+ support (including 3.14)",
   "author": "Timothy Crosley",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "streamdeck_gui_ng-4.5.1.tar.gz",
-  "download_time": "2026-04-04T22:02:44.592801",
+  "download_filename": "streamdeck_gui_ng-4.8.0.tar.gz",
+  "download_time": "2026-04-07T20:09:14.441337",
   "package_url": "https://pypi.org/project/streamdeck-gui-ng/"
 }
