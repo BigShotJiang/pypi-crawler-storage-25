@@ -1,0 +1,11 @@
+{
+  "name": "damo",
+  "version": "3.2.1",
+  "summary": "DAMON user-space tool",
+  "author": "SeongJae Park",
+  "license": null,
+  "home_page": "https://github.com/damonitor/damo",
+  "download_filename": "damo-3.2.1.tar.gz",
+  "download_time": "2026-04-07T00:02:21.414372",
+  "package_url": "https://pypi.org/project/damo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bpsa",
+  "version": "1.24.6",
+  "summary": "Beyond Python SmolAgents (BPSA) — a multi-language, multi-agent framework forked from HuggingFace smolagents.",
+  "author": "Joao Paulo Schwarz Schuler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bpsa-1.24.6.tar.gz",
+  "download_time": "2026-04-07T00:02:11.790591",
+  "package_url": "https://pypi.org/project/bpsa/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "elo-memory",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Bio-inspired episodic memory system for AI agents — with persistent brain CLI",
   "author": "Lorenc Ndoj, Elvi Zekaj",
   "license": "BSL-1.1",
   "home_page": null,
-  "download_filename": "elo_memory-0.3.0.tar.gz",
-  "download_time": "2026-04-06T22:39:07.097565",
+  "download_filename": "elo_memory-0.3.1.tar.gz",
+  "download_time": "2026-04-07T00:02:15.835887",
   "package_url": "https://pypi.org/project/elo-memory/"
 }

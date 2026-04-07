@@ -1,11 +1,11 @@
 {
   "name": "argus-search",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "summary": "Search broker with content extraction and multi-turn sessions — routes queries across multiple providers with fallback, ranking, health tracking, and budget enforcement",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "argus_search-1.0.0.tar.gz",
-  "download_time": "2026-04-05T17:59:56.004402",
+  "download_filename": "argus_search-1.2.1.tar.gz",
+  "download_time": "2026-04-07T00:01:52.495661",
   "package_url": "https://pypi.org/project/argus-search/"
 }

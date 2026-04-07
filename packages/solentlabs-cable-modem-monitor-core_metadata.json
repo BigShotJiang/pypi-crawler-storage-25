@@ -1,11 +1,11 @@
 {
   "name": "solentlabs-cable-modem-monitor-core",
-  "version": "3.14.0a6",
+  "version": "3.14.0a12",
   "summary": "Cable Modem Monitor Core — platform-agnostic DOCSIS monitoring engine",
   "author": "Solent Labs™",
   "license": null,
   "home_page": null,
-  "download_filename": "solentlabs_cable_modem_monitor_core-3.14.0a6.tar.gz",
-  "download_time": "2026-03-31T23:50:52.204790",
+  "download_filename": "solentlabs_cable_modem_monitor_core-3.14.0a12.tar.gz",
+  "download_time": "2026-04-07T00:02:07.244771",
   "package_url": "https://pypi.org/project/solentlabs-cable-modem-monitor-core/"
 }

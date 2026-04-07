@@ -1,11 +1,11 @@
 {
   "name": "getcalx",
-  "version": "0.7.1",
-  "summary": "Behavioral governance for AI agents. Corrections become structural improvements to the agent's environment, enforced over MCP.",
+  "version": "0.7.3",
+  "summary": "Behavioral infrastructure for agents. Your AI agents ignore you. Calx fixes that.",
   "author": "Spencer Hardwick",
   "license": null,
   "home_page": null,
-  "download_filename": "getcalx-0.7.1.tar.gz",
-  "download_time": "2026-04-03T20:37:21.844251",
+  "download_filename": "getcalx-0.7.3.tar.gz",
+  "download_time": "2026-04-07T00:01:47.305838",
   "package_url": "https://pypi.org/project/getcalx/"
 }

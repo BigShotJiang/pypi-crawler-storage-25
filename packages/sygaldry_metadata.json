@@ -1,11 +1,11 @@
 {
   "name": "sygaldry",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Build arbitrary Python objects from YAML or TOML configuration files.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sygaldry-0.2.0-py2.py3-none-any.whl",
-  "download_time": "2026-04-01T05:14:01.648881",
+  "download_filename": "sygaldry-0.3.0-py2.py3-none-any.whl",
+  "download_time": "2026-04-07T00:01:37.660573",
   "package_url": "https://pypi.org/project/sygaldry/"
 }

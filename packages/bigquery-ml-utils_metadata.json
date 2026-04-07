@@ -1,11 +1,11 @@
 {
   "name": "bigquery-ml-utils",
-  "version": "1.4.1",
+  "version": "1.4.3",
   "summary": "BigQuery ML Utils",
   "author": "Google Inc.",
   "license": "Apache 2.0",
   "home_page": "https://github.com/GoogleCloudPlatform/bigquery-ml-utils",
-  "download_filename": "bigquery_ml_utils-1.4.1-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl",
-  "download_time": "2026-04-03T21:58:26.053847",
+  "download_filename": "bigquery_ml_utils-1.4.3-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-04-07T00:02:17.914536",
   "package_url": "https://pypi.org/project/bigquery-ml-utils/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "decibel-python-sdk",
+  "version": "0.2.0",
+  "summary": "Python SDK for interacting with Decibel, a fully on-chain trading engine built on Aptos.",
+  "author": "Decibel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "decibel_python_sdk-0.2.0.tar.gz",
+  "download_time": "2026-04-07T00:01:41.095211",
+  "package_url": "https://pypi.org/project/decibel-python-sdk/"
+}
