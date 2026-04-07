@@ -1,11 +1,11 @@
 {
   "name": "clawaudit",
-  "version": "0.4.4a1",
+  "version": "0.4.6a2",
   "summary": "OpenClaw security audit tool",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "clawaudit-0.4.4a1-py3-none-any.whl",
-  "download_time": "2026-04-02T03:27:25.428366",
+  "download_filename": "clawaudit-0.4.6a2-py3-none-any.whl",
+  "download_time": "2026-04-07T06:55:07.771101",
   "package_url": "https://pypi.org/project/clawaudit/"
 }

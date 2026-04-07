@@ -1,0 +1,11 @@
+{
+  "name": "langchain-nono",
+  "version": "0.1.0",
+  "summary": "OS-enforced sandbox backend for LangChain Deep Agents using Landlock (Linux) and Seatbelt (macOS)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "langchain_nono-0.1.0.tar.gz",
+  "download_time": "2026-04-07T06:55:10.185521",
+  "package_url": "https://pypi.org/project/langchain-nono/"
+}

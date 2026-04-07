@@ -1,0 +1,11 @@
+{
+  "name": "pi-llm",
+  "version": "0.1.4",
+  "summary": "Unified LLM provider abstraction for Python — streaming, tool calling, extended thinking, cost tracking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pi_llm-0.1.4.tar.gz",
+  "download_time": "2026-04-07T06:55:17.113845",
+  "package_url": "https://pypi.org/project/pi-llm/"
+}

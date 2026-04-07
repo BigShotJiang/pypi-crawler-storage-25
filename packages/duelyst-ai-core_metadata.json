@@ -1,11 +1,11 @@
 {
   "name": "duelyst-ai-core",
-  "version": "0.6.4",
+  "version": "0.6.7",
   "summary": "Open-source AI debate engine — multi-model adversarial debates with LangGraph orchestration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "duelyst_ai_core-0.6.4.tar.gz",
-  "download_time": "2026-04-07T05:27:37.840859",
+  "download_filename": "duelyst_ai_core-0.6.7.tar.gz",
+  "download_time": "2026-04-07T06:54:55.992224",
   "package_url": "https://pypi.org/project/duelyst-ai-core/"
 }

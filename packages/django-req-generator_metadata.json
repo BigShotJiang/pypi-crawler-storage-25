@@ -1,0 +1,11 @@
+{
+  "name": "django-req-generator",
+  "version": "0.1.4",
+  "summary": "Advanced requirements.txt generator for Django. Self-healing, PyPI dynamic mapping, and venv validation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_req_generator-0.1.4.tar.gz",
+  "download_time": "2026-04-07T06:55:05.325069",
+  "package_url": "https://pypi.org/project/django-req-generator/"
+}

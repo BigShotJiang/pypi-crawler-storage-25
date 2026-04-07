@@ -1,11 +1,11 @@
 {
   "name": "stoobly-agent",
-  "version": "1.16.1",
+  "version": "1.16.2",
   "summary": "Record, mock, and test HTTP(s) requests. CLI agent for Stoobly",
   "author": "Matt Le",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "stoobly_agent-1.16.1.tar.gz",
-  "download_time": "2026-04-01T06:57:05.013074",
+  "download_filename": "stoobly_agent-1.16.2.tar.gz",
+  "download_time": "2026-04-07T06:55:13.899036",
   "package_url": "https://pypi.org/project/stoobly-agent/"
 }

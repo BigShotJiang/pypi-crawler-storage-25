@@ -1,0 +1,11 @@
+{
+  "name": "easeai",
+  "version": "0.1.0",
+  "summary": "Reusable XGBoost + SHAP workflow for tabular regression explainability",
+  "author": "Ria A. Martins",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "easeai-0.1.0.tar.gz",
+  "download_time": "2026-04-07T06:55:14.477960",
+  "package_url": "https://pypi.org/project/easeai/"
+}

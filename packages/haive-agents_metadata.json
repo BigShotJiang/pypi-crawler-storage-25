@@ -1,0 +1,11 @@
+{
+  "name": "haive-agents",
+  "version": "1.0.1",
+  "summary": "Production-ready agent implementations: SimpleAgent, ReactAgent, MultiAgent, MemoryAgent, RAG variants, and more",
+  "author": "pr1m8",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "haive_agents-1.0.1.tar.gz",
+  "download_time": "2026-04-07T06:55:32.967724",
+  "package_url": "https://pypi.org/project/haive-agents/"
+}
