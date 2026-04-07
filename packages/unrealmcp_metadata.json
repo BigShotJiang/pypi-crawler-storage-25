@@ -1,0 +1,11 @@
+{
+  "name": "unrealmcp",
+  "version": "1.2.2",
+  "summary": "MCP (Model Context Protocol) bridge for Unreal Engine 5 — lets AI assistants control the UE5 editor",
+  "author": "Aadesh Yadav",
+  "license": null,
+  "home_page": null,
+  "download_filename": "unrealmcp-1.2.2.tar.gz",
+  "download_time": "2026-04-07T05:27:48.665338",
+  "package_url": "https://pypi.org/project/unrealmcp/"
+}

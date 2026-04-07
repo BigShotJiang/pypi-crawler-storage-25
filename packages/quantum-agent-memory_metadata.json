@@ -1,0 +1,11 @@
+{
+  "name": "quantum-agent-memory",
+  "version": "0.1.0",
+  "summary": "QAOA-powered memory management for AI agents — clustering, compaction, and recall",
+  "author": "Coinkong (Chef's Attraction)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantum_agent_memory-0.1.0.tar.gz",
+  "download_time": "2026-04-07T05:28:07.010890",
+  "package_url": "https://pypi.org/project/quantum-agent-memory/"
+}

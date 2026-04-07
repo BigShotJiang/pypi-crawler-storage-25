@@ -1,0 +1,11 @@
+{
+  "name": "haive-prebuilt",
+  "version": "1.0.0",
+  "summary": "Pre-configured Haive agent presets and templates for common use cases",
+  "author": "pr1m8",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "haive_prebuilt-1.0.0.tar.gz",
+  "download_time": "2026-04-07T05:27:33.595476",
+  "package_url": "https://pypi.org/project/haive-prebuilt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "canvit-mlx",
+  "version": "0.1.2",
+  "summary": "CanViT inference on Apple Silicon via MLX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "canvit_mlx-0.1.2.tar.gz",
+  "download_time": "2026-04-07T05:27:34.135839",
+  "package_url": "https://pypi.org/project/canvit-mlx/"
+}

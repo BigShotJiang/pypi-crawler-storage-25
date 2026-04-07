@@ -1,0 +1,11 @@
+{
+  "name": "dygraphs",
+  "version": "0.0.2",
+  "summary": "Python wrapper for the dygraphs JavaScript charting library. Core port of R dygraphs with framework adapters for Dash and Shiny.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dygraphs-0.0.2.tar.gz",
+  "download_time": "2026-04-07T05:27:35.714981",
+  "package_url": "https://pypi.org/project/dygraphs/"
+}
