@@ -1,0 +1,11 @@
+{
+  "name": "ogpu",
+  "version": "0.2.0.15",
+  "summary": "OpenGPU SDK for distributed AI task deployment",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ogpu-0.2.0.15.tar.gz",
+  "download_time": "2026-04-07T12:47:24.820738",
+  "package_url": "https://pypi.org/project/ogpu/"
+}

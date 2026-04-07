@@ -1,0 +1,11 @@
+{
+  "name": "scrapinghub",
+  "version": "2.7.0",
+  "summary": "Client interface for Scrapinghub API",
+  "author": "Scrapinghub",
+  "license": "BSD",
+  "home_page": "http://github.com/scrapinghub/python-scrapinghub",
+  "download_filename": "scrapinghub-2.7.0.tar.gz",
+  "download_time": "2026-04-07T12:46:55.508484",
+  "package_url": "https://pypi.org/project/scrapinghub/"
+}

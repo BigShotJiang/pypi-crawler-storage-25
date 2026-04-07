@@ -1,0 +1,11 @@
+{
+  "name": "valbridge-core",
+  "version": "0.1.1",
+  "summary": "Core IR types, diagnostics, and enriched schema parsing for valbridge",
+  "author": "vectorfyco",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "valbridge_core-0.1.1.tar.gz",
+  "download_time": "2026-04-07T12:47:14.862840",
+  "package_url": "https://pypi.org/project/valbridge-core/"
+}
