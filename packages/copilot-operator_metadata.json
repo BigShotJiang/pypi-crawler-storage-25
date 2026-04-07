@@ -1,11 +1,11 @@
 {
   "name": "copilot-operator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Autonomous orchestration loop for GitHub Copilot in VS Code — drives multi-iteration coding sessions with self-correction, learning, and intelligent strategy.",
   "author": "Copilot Operator Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "copilot_operator-1.0.1.tar.gz",
-  "download_time": "2026-04-07T11:42:22.715696",
+  "download_filename": "copilot_operator-1.0.2.tar.gz",
+  "download_time": "2026-04-07T17:02:55.285395",
   "package_url": "https://pypi.org/project/copilot-operator/"
 }

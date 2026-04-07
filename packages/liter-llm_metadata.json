@@ -1,11 +1,11 @@
 {
   "name": "liter-llm",
-  "version": "1.0.0rc9",
+  "version": "1.2.0",
   "summary": "Universal LLM API client for Python. Unified interface for streaming, tool calling, and provider routing across 142+ LLM providers. Rust-powered.",
   "author": null,
   "license": "MIT",
   "home_page": "https://kreuzberg.dev",
-  "download_filename": "liter_llm-1.0.0rc9.tar.gz",
-  "download_time": "2026-03-28T22:40:00.323802",
+  "download_filename": "liter_llm-1.2.0.tar.gz",
+  "download_time": "2026-04-07T17:02:11.588827",
   "package_url": "https://pypi.org/project/liter-llm/"
 }

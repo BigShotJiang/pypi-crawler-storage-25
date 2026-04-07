@@ -1,11 +1,11 @@
 {
   "name": "napari-feature-classifier",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "An interactive classifier plugin to use with label images and feature measurements",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "napari_feature_classifier-0.4.1.tar.gz",
-  "download_time": "2026-04-04T19:56:40.247656",
+  "download_filename": "napari_feature_classifier-0.4.2.tar.gz",
+  "download_time": "2026-04-07T17:02:20.298039",
   "package_url": "https://pypi.org/project/napari-feature-classifier/"
 }

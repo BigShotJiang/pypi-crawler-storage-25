@@ -1,11 +1,11 @@
 {
   "name": "icij-common",
-  "version": "0.7.8",
+  "version": "0.8.2",
   "summary": "Common utils for ICIJ libs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "icij_common-0.7.8.tar.gz",
-  "download_time": "2026-03-30T10:17:26.192023",
+  "download_filename": "icij_common-0.8.2.tar.gz",
+  "download_time": "2026-04-07T17:02:33.092207",
   "package_url": "https://pypi.org/project/icij-common/"
 }

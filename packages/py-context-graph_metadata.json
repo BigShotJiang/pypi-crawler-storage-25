@@ -1,0 +1,11 @@
+{
+  "name": "py-context-graph",
+  "version": "0.1.2",
+  "summary": "Extract, enrich, cluster, and query decisions from unstructured conversations using LLMs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_context_graph-0.1.2.tar.gz",
+  "download_time": "2026-04-07T17:02:26.011716",
+  "package_url": "https://pypi.org/project/py-context-graph/"
+}

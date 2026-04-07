@@ -1,0 +1,11 @@
+{
+  "name": "slideguard",
+  "version": "0.1.2",
+  "summary": "A simple and lightweight rate limiter decorator for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slideguard-0.1.2.tar.gz",
+  "download_time": "2026-04-07T17:02:34.684344",
+  "package_url": "https://pypi.org/project/slideguard/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "whisper-blaze",
+  "version": "0.1.6",
+  "summary": "Hopper-native CUDA kernels for Whisper large-v3 on H100 GPU",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whisper_blaze-0.1.6.tar.gz",
+  "download_time": "2026-04-07T17:02:22.275682",
+  "package_url": "https://pypi.org/project/whisper-blaze/"
+}

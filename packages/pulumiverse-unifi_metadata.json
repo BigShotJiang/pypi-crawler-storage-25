@@ -1,0 +1,11 @@
+{
+  "name": "pulumiverse-unifi",
+  "version": "0.2.0",
+  "summary": "A Pulumi package for creating and managing Unifi network resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumiverse_unifi-0.2.0.tar.gz",
+  "download_time": "2026-04-07T17:02:18.186275",
+  "package_url": "https://pypi.org/project/pulumiverse-unifi/"
+}

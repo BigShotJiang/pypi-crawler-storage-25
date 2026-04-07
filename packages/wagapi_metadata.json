@@ -1,11 +1,11 @@
 {
   "name": "wagapi",
-  "version": "0.2.2",
+  "version": "0.6.0",
   "summary": "CLI client for the Wagtail Write API, optimised for LLM orchestration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wagapi-0.2.2.tar.gz",
-  "download_time": "2026-04-07T11:42:42.264517",
+  "download_filename": "wagapi-0.6.0.tar.gz",
+  "download_time": "2026-04-07T17:02:32.046235",
   "package_url": "https://pypi.org/project/wagapi/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "memchinesepalace",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "summary": "Classical Chinese as the ultimate LLM memory compression core — 文言文记忆宫殿",
   "author": "MemChinesePalace Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "memchinesepalace-1.0.0.tar.gz",
-  "download_time": "2026-04-07T11:42:23.747120",
+  "download_filename": "memchinesepalace-0.2.0.tar.gz",
+  "download_time": "2026-04-07T17:02:56.324448",
   "package_url": "https://pypi.org/project/memchinesepalace/"
 }

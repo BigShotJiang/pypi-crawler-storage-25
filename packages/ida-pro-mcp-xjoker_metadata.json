@@ -1,0 +1,11 @@
+{
+  "name": "ida-pro-mcp-xjoker",
+  "version": "1.0.2",
+  "summary": "Vibe reversing with IDA Pro (enhanced fork)",
+  "author": "mrexodia, can1357, IDA Pro MCP Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ida_pro_mcp_xjoker-1.0.2.tar.gz",
+  "download_time": "2026-04-07T17:02:12.130073",
+  "package_url": "https://pypi.org/project/ida-pro-mcp-xjoker/"
+}
