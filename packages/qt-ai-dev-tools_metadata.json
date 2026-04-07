@@ -1,11 +1,11 @@
 {
   "name": "qt-ai-dev-tools",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "AI agent infrastructure for Qt/PySide apps — inspect, interact, screenshot via AT-SPI",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "qt_ai_dev_tools-0.4.0.tar.gz",
-  "download_time": "2026-04-07T20:08:48.973795",
+  "download_filename": "qt_ai_dev_tools-0.5.0.tar.gz",
+  "download_time": "2026-04-07T22:52:10.835210",
   "package_url": "https://pypi.org/project/qt-ai-dev-tools/"
 }

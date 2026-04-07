@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-tax-unece",
+  "version": "19.0.1.0.0.2",
+  "summary": "UNECE nomenclature for taxes",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/community-data-files",
+  "download_filename": "odoo_addon_account_tax_unece-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-04-07T22:51:38.117215",
+  "package_url": "https://pypi.org/project/odoo-addon-account-tax-unece/"
+}

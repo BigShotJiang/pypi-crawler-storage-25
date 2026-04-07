@@ -1,0 +1,11 @@
+{
+  "name": "stlbench",
+  "version": "0.2.4",
+  "summary": "STL preparation toolkit for resin 3D printing: uniform scaling, bed packing, fill, autopack.",
+  "author": "NikitaDmitryuk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stlbench-0.2.4.tar.gz",
+  "download_time": "2026-04-07T22:52:05.327801",
+  "package_url": "https://pypi.org/project/stlbench/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "openclawwatch",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Local-first OTel-native observability for Autonomous AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openclawwatch-0.1.2.tar.gz",
-  "download_time": "2026-04-07T21:09:45.992714",
+  "download_filename": "openclawwatch-0.1.3.tar.gz",
+  "download_time": "2026-04-07T22:51:45.222088",
   "package_url": "https://pypi.org/project/openclawwatch/"
 }
