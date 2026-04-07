@@ -1,0 +1,11 @@
+{
+  "name": "segmodels-keras",
+  "version": "0.1.0.dev2",
+  "summary": "Image segmentation models with pre-trained backbones with Keras.",
+  "author": "Pieter Roggemans",
+  "license": "MIT",
+  "home_page": "https://github.com/orthoseg/segmodels_keras",
+  "download_filename": "segmodels_keras-0.1.0.dev2.tar.gz",
+  "download_time": "2026-04-07T19:21:48.706543",
+  "package_url": "https://pypi.org/project/segmodels-keras/"
+}

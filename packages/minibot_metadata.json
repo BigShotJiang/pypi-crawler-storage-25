@@ -1,0 +1,11 @@
+{
+  "name": "minibot",
+  "version": "0.2.0",
+  "summary": "Self-hosted Telegram-first AI assistant with async tooling, memory, and scheduling.",
+  "author": "sonic182",
+  "license": "MIT",
+  "home_page": "https://github.com/sonic182/minibot",
+  "download_filename": "minibot-0.2.0.tar.gz",
+  "download_time": "2026-04-07T19:21:52.312907",
+  "package_url": "https://pypi.org/project/minibot/"
+}

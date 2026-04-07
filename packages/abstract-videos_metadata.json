@@ -1,0 +1,11 @@
+{
+  "name": "abstract-videos",
+  "version": "0.0.0.262",
+  "summary": "A structured pipeline for transforming video content into **searchable, metadata-rich, and SEO-optimized assets**, combining ingestion, transcription, OCR, NLP enrichment, and persistent storage.",
+  "author": "putkoff",
+  "license": null,
+  "home_page": null,
+  "download_filename": "abstract_videos-0.0.0.262.tar.gz",
+  "download_time": "2026-04-07T19:22:08.913013",
+  "package_url": "https://pypi.org/project/abstract-videos/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "geci-plots",
+  "version": "0.11.0",
+  "summary": "A custom matplotlib module",
+  "author": "Ciencia de Datos • GECI",
+  "license": null,
+  "home_page": "https://github.com/IslasGECI/geci_plots",
+  "download_filename": "geci_plots-0.11.0.tar.gz",
+  "download_time": "2026-04-07T19:22:18.251675",
+  "package_url": "https://pypi.org/project/geci-plots/"
+}

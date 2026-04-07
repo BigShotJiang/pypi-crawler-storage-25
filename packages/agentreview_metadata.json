@@ -1,11 +1,11 @@
 {
   "name": "agentreview",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "summary": "Generate LLM-friendly code review payloads from git or sl diffs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentreview-0.1.30.tar.gz",
-  "download_time": "2026-04-06T21:06:29.967576",
+  "download_filename": "agentreview-0.1.31.tar.gz",
+  "download_time": "2026-04-07T19:22:01.738021",
   "package_url": "https://pypi.org/project/agentreview/"
 }

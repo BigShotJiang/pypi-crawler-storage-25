@@ -1,11 +1,11 @@
 {
   "name": "pyAthina",
-  "version": "0.1.0",
-  "summary": "A photoelectron microspectroscopy/spectromicroscopy data analyis package",
+  "version": "0.1.1",
+  "summary": "A photoelectron microspectroscopy/spectromicroscopy data analysis package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyathina-0.1.0.tar.gz",
-  "download_time": "2026-04-05T17:18:21.411915",
+  "download_filename": "pyathina-0.1.1.tar.gz",
+  "download_time": "2026-04-07T19:21:47.148801",
   "package_url": "https://pypi.org/project/pyAthina/"
 }

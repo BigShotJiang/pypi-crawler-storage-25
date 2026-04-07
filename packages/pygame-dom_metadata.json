@@ -1,11 +1,11 @@
 {
   "name": "pygame-dom",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "UI framework for creating pygame UI using HTML and CSS",
   "author": "RAKETOMET135",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pygame_dom-0.1.4.tar.gz",
-  "download_time": "2026-04-03T19:55:04.792087",
+  "download_filename": "pygame_dom-0.1.7.tar.gz",
+  "download_time": "2026-04-07T19:21:43.480098",
   "package_url": "https://pypi.org/project/pygame-dom/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "BSPDA",
+  "version": "0.3.2",
+  "summary": "A 3D Protein Pocket Detection & Classification Pipeline using geometry and electrostatic methods",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bspda-0.3.2.tar.gz",
+  "download_time": "2026-04-07T19:21:36.727559",
+  "package_url": "https://pypi.org/project/BSPDA/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "penpal-cli",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Async Claude CLI via Batch API — half the cost, none of the rush.",
   "author": "JNalv",
   "license": null,
   "home_page": null,
-  "download_filename": "penpal_cli-0.1.0.tar.gz",
-  "download_time": "2026-04-07T15:58:19.683127",
+  "download_filename": "penpal_cli-0.1.2.tar.gz",
+  "download_time": "2026-04-07T19:22:19.790619",
   "package_url": "https://pypi.org/project/penpal-cli/"
 }

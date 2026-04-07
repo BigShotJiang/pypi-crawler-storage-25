@@ -1,0 +1,11 @@
+{
+  "name": "pyasyncialarm",
+  "version": "2.3.18",
+  "summary": "A simple library to interface with iAlarm systems, built for use with Home-Assistant",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyasyncialarm-2.3.18.tar.gz",
+  "download_time": "2026-04-07T19:21:53.391653",
+  "package_url": "https://pypi.org/project/pyasyncialarm/"
+}

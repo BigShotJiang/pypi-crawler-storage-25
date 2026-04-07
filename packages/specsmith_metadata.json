@@ -1,11 +1,11 @@
 {
   "name": "specsmith",
-  "version": "0.2.3",
-  "summary": "Forge governed project scaffolds from the Agentic AI Development Workflow Specification.",
+  "version": "0.3.5",
+  "summary": "Applied Epistemic Engineering toolkit — forge epistemically-governed scaffolds, stress-test belief systems, and run AEE pipelines.",
   "author": "BitConcepts",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "specsmith-0.2.3.tar.gz",
-  "download_time": "2026-04-03T22:37:47.781072",
+  "download_filename": "specsmith-0.3.5.tar.gz",
+  "download_time": "2026-04-07T19:21:37.798299",
   "package_url": "https://pypi.org/project/specsmith/"
 }

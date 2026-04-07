@@ -1,0 +1,11 @@
+{
+  "name": "readpdf-cli",
+  "version": "0.1.0",
+  "summary": "Convert PDF to text for token-efficient AI agent reading",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "readpdf_cli-0.1.0-py3-none-any.whl",
+  "download_time": "2026-04-07T19:22:05.323967",
+  "package_url": "https://pypi.org/project/readpdf-cli/"
+}

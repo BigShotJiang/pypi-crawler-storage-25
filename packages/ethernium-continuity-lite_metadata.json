@@ -1,11 +1,11 @@
 {
   "name": "ethernium-continuity-lite",
-  "version": "2.1.0",
+  "version": "3.0.1",
   "summary": "Continuity Legacy (Lite): A professional AI continuity framework for zero-friction context handoffs.",
   "author": "SteveBlackbeard",
   "license": null,
   "home_page": null,
-  "download_filename": "ethernium_continuity_lite-2.1.0.tar.gz",
-  "download_time": "2026-04-05T16:39:00.217940",
+  "download_filename": "ethernium_continuity_lite-3.0.1.tar.gz",
+  "download_time": "2026-04-07T19:22:01.211250",
   "package_url": "https://pypi.org/project/ethernium-continuity-lite/"
 }

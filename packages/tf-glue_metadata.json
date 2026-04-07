@@ -1,11 +1,11 @@
 {
   "name": "tf-glue",
-  "version": "0.1.dev1",
-  "summary": "Orchestrate OpenTofu or Terraform initialization and interactions with Ansible and Incus.",
+  "version": "1.0.0rc1",
+  "summary": "Orchestrate OpenTofu (or Terraform) initialization and interactions with Ansible and Incus (including Incus S3 bucket as state backend).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tf_glue-0.1.dev1-py3-none-any.whl",
-  "download_time": "2026-04-05T12:57:43.001428",
+  "download_filename": "tf_glue-1.0.0rc1-py3-none-any.whl",
+  "download_time": "2026-04-07T19:22:06.861211",
   "package_url": "https://pypi.org/project/tf-glue/"
 }
