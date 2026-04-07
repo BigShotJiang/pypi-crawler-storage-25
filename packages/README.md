@@ -1,11 +1,12 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-04-07T22:52:24.496434
-- **Total Packages**: 90
-- **Total Size**: 47.95 MB
+- **Download Time**: 2026-04-07T23:40:02.766052
+- **Total Packages**: 89
+- **Total Size**: 9.15 MB
 
 ## Packages List
+- cellin
 - pycarlo
 - pymatgen-core
 - sheetforge-mcp
@@ -14,7 +15,6 @@
 - plato-sdk-v2
 - django-sample-components
 - odoo-addon-account-tax-unece
-- pyslow2fast
 - swival
 - ScriptCollection
 - trainly
@@ -95,4 +95,3 @@
 - ladybug-memory
 - aidocs-mcp
 - ambers
-- pyrig

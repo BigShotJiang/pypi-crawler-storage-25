@@ -1,8 +1,9 @@
 {
-  "download_time": "2026-04-07T22:52:24.496434",
-  "total_packages_downloaded": 90,
-  "total_size_mb": 47.95,
+  "download_time": "2026-04-07T23:40:02.766052",
+  "total_packages_downloaded": 89,
+  "total_size_mb": 9.15,
   "packages": [
+    "cellin",
     "pycarlo",
     "pymatgen-core",
     "sheetforge-mcp",
@@ -11,7 +12,6 @@
     "plato-sdk-v2",
     "django-sample-components",
     "odoo-addon-account-tax-unece",
-    "pyslow2fast",
     "swival",
     "ScriptCollection",
     "trainly",
@@ -91,7 +91,6 @@
     "azure-functions-validation",
     "ladybug-memory",
     "aidocs-mcp",
-    "ambers",
-    "pyrig"
+    "ambers"
   ]
 }

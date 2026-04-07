@@ -1,11 +1,11 @@
 {
   "name": "cartograph-cli",
-  "version": "0.5.14",
+  "version": "0.5.16",
   "summary": "Widget library manager for AI agents — CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cartograph_cli-0.5.14.tar.gz",
-  "download_time": "2026-04-07T22:52:20.184530",
+  "download_filename": "cartograph_cli-0.5.16.tar.gz",
+  "download_time": "2026-04-07T23:39:59.202808",
   "package_url": "https://pypi.org/project/cartograph-cli/"
 }
