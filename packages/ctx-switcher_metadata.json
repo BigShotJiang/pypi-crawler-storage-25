@@ -1,0 +1,11 @@
+{
+  "name": "ctx-switcher",
+  "version": "0.1.0",
+  "summary": "Save and restore full terminal context for developers juggling multiple repos",
+  "author": "Hiren Thakore",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctx_switcher-0.1.0.tar.gz",
+  "download_time": "2026-04-07T10:45:06.554827",
+  "package_url": "https://pypi.org/project/ctx-switcher/"
+}

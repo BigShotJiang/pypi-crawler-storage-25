@@ -1,0 +1,11 @@
+{
+  "name": "dotlocker",
+  "version": "0.1.0",
+  "summary": "CLI tool for managing and syncing .env files across machines and team members",
+  "author": "Hiren Thakore",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dotlocker-0.1.0.tar.gz",
+  "download_time": "2026-04-07T10:45:01.879338",
+  "package_url": "https://pypi.org/project/dotlocker/"
+}

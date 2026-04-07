@@ -1,11 +1,11 @@
 {
   "name": "octorules",
-  "version": "0.23.0",
+  "version": "0.23.1",
   "summary": "WAF rules as code — manage rules across providers declaratively",
   "author": "Martin Simon, Doctena S.A.",
   "license": null,
   "home_page": null,
-  "download_filename": "octorules-0.23.0.tar.gz",
-  "download_time": "2026-04-05T14:37:19.393818",
+  "download_filename": "octorules-0.23.1.tar.gz",
+  "download_time": "2026-04-07T10:45:01.367969",
   "package_url": "https://pypi.org/project/octorules/"
 }

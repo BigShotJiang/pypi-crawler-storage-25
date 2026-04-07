@@ -1,0 +1,11 @@
+{
+  "name": "changelog-ci",
+  "version": "0.1.0",
+  "summary": "Auto-generate CHANGELOG.md from merged PRs and git history",
+  "author": "Hiren Thakore",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "changelog_ci-0.1.0.tar.gz",
+  "download_time": "2026-04-07T10:45:07.065694",
+  "package_url": "https://pypi.org/project/changelog-ci/"
+}

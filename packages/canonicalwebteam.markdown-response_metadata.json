@@ -1,0 +1,11 @@
+{
+  "name": "canonicalwebteam.markdown-response",
+  "version": "0.1.1",
+  "summary": "Flask extension to serve HTML pages as Markdown via ?format=md query parameter.",
+  "author": "Canonical webteam",
+  "license": null,
+  "home_page": "https://github.com/canonical/canonicalwebteam.markdown-response",
+  "download_filename": "canonicalwebteam_markdown_response-0.1.1.tar.gz",
+  "download_time": "2026-04-07T10:44:56.254063",
+  "package_url": "https://pypi.org/project/canonicalwebteam.markdown-response/"
+}

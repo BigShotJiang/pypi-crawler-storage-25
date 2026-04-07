@@ -1,0 +1,11 @@
+{
+  "name": "appdynamics-alpine-without-jre",
+  "version": "26.4.0.8689",
+  "summary": "Python Agent for AppDynamics",
+  "author": "AppDynamics",
+  "license": "See license in package description",
+  "home_page": "https://www.appdynamics.com/python",
+  "download_filename": "appdynamics_alpine_without_jre-26.4.0.8689-py2.py3-none-any.whl",
+  "download_time": "2026-04-07T10:44:45.434363",
+  "package_url": "https://pypi.org/project/appdynamics-alpine-without-jre/"
+}

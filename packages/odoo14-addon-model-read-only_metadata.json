@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-model-read-only",
+  "version": "14.0.3.0.3",
+  "summary": "Model Read Only",
+  "author": "Ilyas, ooops404, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-tools",
+  "download_filename": "odoo14_addon_model_read_only-14.0.3.0.3-py3-none-any.whl",
+  "download_time": "2026-04-07T10:44:58.803190",
+  "package_url": "https://pypi.org/project/odoo14-addon-model-read-only/"
+}

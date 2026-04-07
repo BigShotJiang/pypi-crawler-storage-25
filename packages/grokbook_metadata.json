@@ -1,11 +1,11 @@
 {
   "name": "grokbook",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Interactive notebook server for learning computer science",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "grokbook-0.1.5.tar.gz",
-  "download_time": "2026-04-07T09:38:35.015613",
+  "download_filename": "grokbook-0.1.6.tar.gz",
+  "download_time": "2026-04-07T10:44:52.634076",
   "package_url": "https://pypi.org/project/grokbook/"
 }
