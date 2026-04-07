@@ -1,0 +1,11 @@
+{
+  "name": "idf-ci",
+  "version": "1.0.2",
+  "summary": "The python library for CI/CD of ESP-IDF projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "idf_ci-1.0.2.tar.gz",
+  "download_time": "2026-04-07T09:38:53.210055",
+  "package_url": "https://pypi.org/project/idf-ci/"
+}

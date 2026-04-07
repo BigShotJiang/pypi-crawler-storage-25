@@ -1,11 +1,11 @@
 {
   "name": "mcparmory-close",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "MCP server for Close API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcparmory_close-1.0.0-py3-none-any.whl",
-  "download_time": "2026-04-06T19:33:58.760704",
+  "download_filename": "mcparmory_close-1.0.1-py3-none-any.whl",
+  "download_time": "2026-04-07T09:38:56.087593",
   "package_url": "https://pypi.org/project/mcparmory-close/"
 }

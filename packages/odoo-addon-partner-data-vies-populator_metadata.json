@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-data-vies-populator",
+  "version": "17.0.1.0.0.2",
+  "summary": "Populate Partner name and address using the VIES webservice",
+  "author": "NextERP Romania,Forest and Biomass Romania,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_partner_data_vies_populator-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-04-07T09:38:17.904212",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-data-vies-populator/"
+}

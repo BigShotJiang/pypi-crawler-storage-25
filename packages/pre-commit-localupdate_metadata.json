@@ -1,0 +1,11 @@
+{
+  "name": "pre-commit-localupdate",
+  "version": "0.5.0",
+  "summary": "A CLI tool to automatically update additional dependencies within local hooks in pre-commit config files.",
+  "author": "M. Farzalipour Tabriz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pre_commit_localupdate-0.5.0.tar.gz",
+  "download_time": "2026-04-07T09:39:02.607724",
+  "package_url": "https://pypi.org/project/pre-commit-localupdate/"
+}
