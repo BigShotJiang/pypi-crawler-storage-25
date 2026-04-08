@@ -1,0 +1,11 @@
+{
+  "name": "sentinel-guardrails-sdk",
+  "version": "4.0.0",
+  "summary": "SENTINEL — Drop-in LLM Trust & Safety SDK. 19-agent parallel mesh: prompt injection, PII, jailbreak pattern detection, DAN attacks, cost anomaly detection, agentic loop breaking, hallucination, and compliance routing.",
+  "author": "SENTINEL Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sentinel_guardrails_sdk-4.0.0.tar.gz",
+  "download_time": "2026-04-08T11:19:23.757850",
+  "package_url": "https://pypi.org/project/sentinel-guardrails-sdk/"
+}

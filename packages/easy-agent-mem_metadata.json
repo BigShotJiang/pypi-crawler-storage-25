@@ -1,0 +1,11 @@
+{
+  "name": "easy-agent-mem",
+  "version": "0.4.1",
+  "summary": "CLI-first persistent memory for AI coding sessions with direct Obsidian note writing and local fallback storage.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "easy_agent_mem-0.4.1.tar.gz",
+  "download_time": "2026-04-08T11:18:54.520867",
+  "package_url": "https://pypi.org/project/easy-agent-mem/"
+}

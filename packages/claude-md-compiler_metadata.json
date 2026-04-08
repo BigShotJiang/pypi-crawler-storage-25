@@ -1,0 +1,11 @@
+{
+  "name": "claude-md-compiler",
+  "version": "0.2.0",
+  "summary": "Compile structured Claude Code workflow policy into versioned artifacts and enforce it against runtime evidence, hooks, and git diffs.",
+  "author": "AbdelStark",
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_md_compiler-0.2.0.tar.gz",
+  "download_time": "2026-04-08T11:18:43.571745",
+  "package_url": "https://pypi.org/project/claude-md-compiler/"
+}

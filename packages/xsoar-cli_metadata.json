@@ -1,11 +1,11 @@
 {
   "name": "xsoar-cli",
-  "version": "2.0.2",
+  "version": "2.1.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xsoar_cli-2.0.2.tar.gz",
-  "download_time": "2026-04-08T10:10:01.348265",
+  "download_filename": "xsoar_cli-2.1.1.tar.gz",
+  "download_time": "2026-04-08T11:18:47.758927",
   "package_url": "https://pypi.org/project/xsoar-cli/"
 }

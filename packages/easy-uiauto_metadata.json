@@ -1,11 +1,11 @@
 {
   "name": "easy-uiauto",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "UI automation toolkit based on pyautogui and uiautomation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easy_uiauto-0.0.1.tar.gz",
-  "download_time": "2026-04-08T10:10:18.820116",
+  "download_filename": "easy_uiauto-0.0.3.tar.gz",
+  "download_time": "2026-04-08T11:18:56.598486",
   "package_url": "https://pypi.org/project/easy-uiauto/"
 }

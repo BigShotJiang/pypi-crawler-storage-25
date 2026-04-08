@@ -1,11 +1,11 @@
 {
   "name": "kreuzberg",
-  "version": "4.7.1",
+  "version": "4.8.0",
   "summary": "High-performance document intelligence library for Python. Extract text, metadata, and structured data from PDFs, Office documents, images, and 88+ formats. Powered by Rust core for 10-50x speed improvements.",
   "author": null,
-  "license": "MIT",
+  "license": "Elastic-2.0",
   "home_page": "https://kreuzberg-dev.github.io/kreuzberg/",
-  "download_filename": "kreuzberg-4.7.1.tar.gz",
-  "download_time": "2026-04-03T21:19:11.183328",
+  "download_filename": "kreuzberg-4.8.0.tar.gz",
+  "download_time": "2026-04-08T11:19:22.196246",
   "package_url": "https://pypi.org/project/kreuzberg/"
 }

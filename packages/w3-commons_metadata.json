@@ -1,0 +1,11 @@
+{
+  "name": "w3-commons",
+  "version": "0.4.0",
+  "summary": "Commons is a package of common functions, utilities and classes used across multiple projects in the company, improves development, reduces duplicated efforts and includes functionalities such as interaction with web3, configuring, data validation and others",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "w3_commons-0.4.0.tar.gz",
+  "download_time": "2026-04-08T11:19:08.083974",
+  "package_url": "https://pypi.org/project/w3-commons/"
+}

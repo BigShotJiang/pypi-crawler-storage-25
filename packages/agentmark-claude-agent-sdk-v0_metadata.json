@@ -1,0 +1,11 @@
+{
+  "name": "agentmark-claude-agent-sdk-v0",
+  "version": "0.1.0",
+  "summary": "Claude Agent SDK adapter for AgentMark - integrate AgentMark prompts with Claude Agent SDK",
+  "author": "AgentMark Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentmark_claude_agent_sdk_v0-0.1.0.tar.gz",
+  "download_time": "2026-04-08T11:18:50.372457",
+  "package_url": "https://pypi.org/project/agentmark-claude-agent-sdk-v0/"
+}

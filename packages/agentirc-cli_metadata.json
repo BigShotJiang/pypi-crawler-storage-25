@@ -1,11 +1,11 @@
 {
   "name": "agentirc-cli",
-  "version": "4.3.7",
+  "version": "4.4.2",
   "summary": "Legacy alias for culture — install culture instead",
   "author": "Ori Nachum",
   "license": null,
   "home_page": null,
-  "download_filename": "agentirc_cli-4.3.7.tar.gz",
-  "download_time": "2026-04-07T12:47:17.995907",
+  "download_filename": "agentirc_cli-4.4.2.tar.gz",
+  "download_time": "2026-04-08T11:18:49.331736",
   "package_url": "https://pypi.org/project/agentirc-cli/"
 }

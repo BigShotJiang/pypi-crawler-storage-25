@@ -1,0 +1,11 @@
+{
+  "name": "amulet-map-editor",
+  "version": "0.10.55",
+  "summary": "A Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.",
+  "author": "James Clare, Ben Gothard et al.",
+  "license": null,
+  "home_page": "https://www.amuletmc.com",
+  "download_filename": "amulet_map_editor-0.10.55.tar.gz",
+  "download_time": "2026-04-08T11:19:16.948258",
+  "package_url": "https://pypi.org/project/amulet-map-editor/"
+}

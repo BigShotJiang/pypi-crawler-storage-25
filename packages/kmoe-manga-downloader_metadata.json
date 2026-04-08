@@ -1,0 +1,11 @@
+{
+  "name": "kmoe-manga-downloader",
+  "version": "1.3.3",
+  "summary": "A CLI-downloader for site @kox.moe.",
+  "author": "Chris Zheng",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kmoe_manga_downloader-1.3.3.tar.gz",
+  "download_time": "2026-04-08T11:18:53.477897",
+  "package_url": "https://pypi.org/project/kmoe-manga-downloader/"
+}
