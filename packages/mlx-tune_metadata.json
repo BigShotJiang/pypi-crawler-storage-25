@@ -1,11 +1,11 @@
 {
   "name": "mlx-tune",
-  "version": "0.4.14",
-  "summary": "MLX-powered LLM/VLM/TTS/STT/Embedding fine-tuning for Apple Silicon - Unsloth-compatible API for Mac",
+  "version": "0.4.20",
+  "summary": "MLX-powered LLM/VLM/TTS/STT/Embedding/OCR fine-tuning for Apple Silicon - Unsloth-compatible API for Mac",
   "author": "MLX-Tune Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mlx_tune-0.4.14.tar.gz",
-  "download_time": "2026-03-30T07:02:55.271941",
+  "download_filename": "mlx_tune-0.4.20.tar.gz",
+  "download_time": "2026-04-08T19:45:33.718680",
   "package_url": "https://pypi.org/project/mlx-tune/"
 }

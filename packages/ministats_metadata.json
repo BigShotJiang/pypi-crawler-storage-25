@@ -1,0 +1,11 @@
+{
+  "name": "ministats",
+  "version": "0.5.9",
+  "summary": "Common statistical testing procedures used for STATS 101 topics. The code is intentionally simple to make it easy to follow for beginners.",
+  "author": "Ivan Savov",
+  "license": "MIT license",
+  "home_page": "https://github.com/minireference/ministats",
+  "download_filename": "ministats-0.5.9.tar.gz",
+  "download_time": "2026-04-08T19:45:38.491594",
+  "package_url": "https://pypi.org/project/ministats/"
+}

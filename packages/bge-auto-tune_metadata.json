@@ -1,0 +1,11 @@
+{
+  "name": "bge-auto-tune",
+  "version": "0.1.5.7",
+  "summary": "Fine-tune BAAI/bge-m3 per retrieval + reranking su dominio specifico",
+  "author": "2sophia",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bge_auto_tune-0.1.5.7-py3-none-any.whl",
+  "download_time": "2026-04-08T19:46:06.281408",
+  "package_url": "https://pypi.org/project/bge-auto-tune/"
+}

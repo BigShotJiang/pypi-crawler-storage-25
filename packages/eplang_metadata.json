@@ -1,11 +1,11 @@
 {
   "name": "eplang",
-  "version": "7.3.2",
+  "version": "7.4.0",
   "summary": "EPL - English Programming Language: write code in plain English. Build apps, web servers, and more.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eplang-7.3.2.tar.gz",
-  "download_time": "2026-04-06T11:16:24.766521",
+  "download_filename": "eplang-7.4.0.tar.gz",
+  "download_time": "2026-04-08T19:45:40.675640",
   "package_url": "https://pypi.org/project/eplang/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "blender-weave",
+  "version": "1.0.2",
+  "summary": "Weave 3D worlds with AI — the MCP server for Blender",
+  "author": "Pedro Augusto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blender_weave-1.0.2.tar.gz",
+  "download_time": "2026-04-08T19:45:26.973310",
+  "package_url": "https://pypi.org/project/blender-weave/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cognitor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Python SDK to extract relevant metrics from Small Language Model inference calls.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cognitor-0.1.0.tar.gz",
-  "download_time": "2026-04-05T20:03:49.516213",
+  "download_filename": "cognitor-0.2.0.tar.gz",
+  "download_time": "2026-04-08T19:45:54.698914",
   "package_url": "https://pypi.org/project/cognitor/"
 }

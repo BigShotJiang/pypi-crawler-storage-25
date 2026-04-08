@@ -1,0 +1,11 @@
+{
+  "name": "warp-nn",
+  "version": "0.1.0",
+  "summary": "Neural network library for NVIDIA Warp",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "warp_nn-0.1.0-py3-none-any.whl",
+  "download_time": "2026-04-08T19:45:59.833544",
+  "package_url": "https://pypi.org/project/warp-nn/"
+}

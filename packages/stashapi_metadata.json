@@ -1,0 +1,11 @@
+{
+  "name": "stashapi",
+  "version": "0.1.5",
+  "summary": "API wrapper and tools for interfacing with a [Stash](https://github.com/stashapp/stash) instance",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stashapi-0.1.5.tar.gz",
+  "download_time": "2026-04-08T19:45:50.479265",
+  "package_url": "https://pypi.org/project/stashapi/"
+}
