@@ -1,0 +1,11 @@
+{
+  "name": "ovos-workshop",
+  "version": "8.0.0",
+  "summary": "frameworks, templates and patches for the OpenVoiceOS universe",
+  "author": "jarbasAi",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/OVOS-workshop",
+  "download_filename": "ovos_workshop-8.0.0.tar.gz",
+  "download_time": "2026-04-08T14:06:46.217549",
+  "package_url": "https://pypi.org/project/ovos-workshop/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyopensoundcontrol",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A package to add fully featured OSC support to python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyopensoundcontrol-1.1.0.tar.gz",
-  "download_time": "2026-04-05T13:57:43.345807",
+  "download_filename": "pyopensoundcontrol-1.1.1.tar.gz",
+  "download_time": "2026-04-08T14:06:13.664604",
   "package_url": "https://pypi.org/project/pyopensoundcontrol/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mbgg-sts2-uploader",
+  "version": "0.1.0",
+  "summary": "Upload your Slay the Spire 2 runs to mbgg analytics server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mbgg_sts2_uploader-0.1.0.tar.gz",
+  "download_time": "2026-04-08T14:06:45.700782",
+  "package_url": "https://pypi.org/project/mbgg-sts2-uploader/"
+}

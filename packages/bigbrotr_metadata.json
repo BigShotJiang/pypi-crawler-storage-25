@@ -1,11 +1,11 @@
 {
   "name": "bigbrotr",
-  "version": "6.6.4",
+  "version": "6.6.7",
   "summary": "Modular Nostr network observatory — relay discovery, health monitoring, event archiving, analytics, and data access across clearnet, Tor, I2P, and Lokinet",
   "author": "BigBrotr Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bigbrotr-6.6.4.tar.gz",
-  "download_time": "2026-04-08T11:19:24.277674",
+  "download_filename": "bigbrotr-6.6.7.tar.gz",
+  "download_time": "2026-04-08T14:06:09.034782",
   "package_url": "https://pypi.org/project/bigbrotr/"
 }

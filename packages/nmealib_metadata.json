@@ -1,0 +1,11 @@
+{
+  "name": "nmealib",
+  "version": "0.7.0",
+  "summary": "Python bindings for nmealib (NMEA 0183 and NMEA 2000 parsing)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nmealib-0.7.0-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-04-08T14:06:14.698404",
+  "package_url": "https://pypi.org/project/nmealib/"
+}

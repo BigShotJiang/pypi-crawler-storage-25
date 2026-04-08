@@ -1,11 +1,11 @@
 {
   "name": "worph",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Materialize RDF knowledge graphs from RML/YARRRML mappings with Morph-KGC compatibility",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "worph-0.1.6.tar.gz",
-  "download_time": "2026-04-08T10:10:18.297799",
+  "download_filename": "worph-0.1.7.tar.gz",
+  "download_time": "2026-04-08T14:06:44.677477",
   "package_url": "https://pypi.org/project/worph/"
 }

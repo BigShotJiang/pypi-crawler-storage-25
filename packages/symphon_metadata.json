@@ -1,0 +1,11 @@
+{
+  "name": "symphon",
+  "version": "0.2.4",
+  "summary": "symphon: use phonopy to find the irreducible representations of the phonon modes from anaddb output. It is a simple wrapper of the Phonopy irreps module.",
+  "author": null,
+  "license": "BSD-2-clause",
+  "home_page": null,
+  "download_filename": "symphon-0.2.4.tar.gz",
+  "download_time": "2026-04-08T14:06:41.574065",
+  "package_url": "https://pypi.org/project/symphon/"
+}

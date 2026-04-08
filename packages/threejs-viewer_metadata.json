@@ -1,11 +1,11 @@
 {
   "name": "threejs-viewer",
-  "version": "0.0.14",
+  "version": "0.0.16",
   "summary": "Lightweight Three.js viewer controlled from Python via WebSocket",
   "author": "Thijs Damsma",
   "license": null,
   "home_page": null,
-  "download_filename": "threejs_viewer-0.0.14.tar.gz",
-  "download_time": "2026-04-07T12:47:26.384275",
+  "download_filename": "threejs_viewer-0.0.16.tar.gz",
+  "download_time": "2026-04-08T14:06:55.754101",
   "package_url": "https://pypi.org/project/threejs-viewer/"
 }
