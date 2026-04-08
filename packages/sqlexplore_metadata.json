@@ -1,0 +1,11 @@
+{
+  "name": "sqlexplore",
+  "version": "0.8.2",
+  "summary": "SQL exploration over data files with your CLI and LLM",
+  "author": "Dylan Hogg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlexplore-0.8.2.tar.gz",
+  "download_time": "2026-04-08T01:08:00.733067",
+  "package_url": "https://pypi.org/project/sqlexplore/"
+}

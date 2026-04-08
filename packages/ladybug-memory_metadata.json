@@ -1,11 +1,11 @@
 {
   "name": "ladybug-memory",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Agent memory interface implemented using LadybugDB",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ladybug_memory-0.1.5.tar.gz",
-  "download_time": "2026-04-07T22:52:22.364122",
+  "download_filename": "ladybug_memory-0.1.7.tar.gz",
+  "download_time": "2026-04-08T01:08:01.754570",
   "package_url": "https://pypi.org/project/ladybug-memory/"
 }

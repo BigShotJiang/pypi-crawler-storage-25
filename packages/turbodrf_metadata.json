@@ -1,0 +1,11 @@
+{
+  "name": "turbodrf",
+  "version": "0.3.0",
+  "summary": "Dead simple Django REST API generator with role-based permissions",
+  "author": "Alexander Collins",
+  "license": "MIT",
+  "home_page": "https://github.com/alexandercollins/turbodrf",
+  "download_filename": "turbodrf-0.3.0.tar.gz",
+  "download_time": "2026-04-08T01:07:26.017415",
+  "package_url": "https://pypi.org/project/turbodrf/"
+}

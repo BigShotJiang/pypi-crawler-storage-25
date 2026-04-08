@@ -1,0 +1,11 @@
+{
+  "name": "anzar",
+  "version": "0.4.2",
+  "summary": "Anzar is a lightweight authentication and authorization framework that runs as a separate microservice",
+  "author": "Hakou Guelfen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "anzar-0.4.2.tar.gz",
+  "download_time": "2026-04-08T01:07:48.768248",
+  "package_url": "https://pypi.org/project/anzar/"
+}
