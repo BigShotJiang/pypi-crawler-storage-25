@@ -1,0 +1,11 @@
+{
+  "name": "ghtc",
+  "version": "0.2.2",
+  "summary": "ghtc service",
+  "author": "Fabien MARTY",
+  "license": "BSD 3",
+  "home_page": "https://git.meteo.fr/dsi-dev-ws/ghtc",
+  "download_filename": "ghtc-0.2.2.tar.gz",
+  "download_time": "2026-04-08T16:50:19.707838",
+  "package_url": "https://pypi.org/project/ghtc/"
+}

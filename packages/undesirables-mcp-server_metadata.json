@@ -1,11 +1,11 @@
 {
   "name": "undesirables-mcp-server",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Local-first AI agent MCP server — TCG card grading, Monte Carlo simulations, video production, music generation, image generation, and security scanning. Zero-trust architecture, everything runs on your machine.",
   "author": null,
   "license": "BSL-1.1",
   "home_page": null,
-  "download_filename": "undesirables_mcp_server-1.0.0.tar.gz",
-  "download_time": "2026-04-05T13:58:03.591220",
+  "download_filename": "undesirables_mcp_server-1.1.1.tar.gz",
+  "download_time": "2026-04-08T16:50:00.085578",
   "package_url": "https://pypi.org/project/undesirables-mcp-server/"
 }

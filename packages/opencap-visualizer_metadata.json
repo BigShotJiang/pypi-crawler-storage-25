@@ -1,0 +1,11 @@
+{
+  "name": "opencap-visualizer",
+  "version": "1.4.1",
+  "summary": "Tool for creating videos and live WebSocket streaming from OpenCap biomechanics data (CLI and Python API)",
+  "author": "Selim Gilon",
+  "license": "MIT",
+  "home_page": "https://github.com/utahmobl/opencap-visualizer",
+  "download_filename": "opencap_visualizer-1.4.1.tar.gz",
+  "download_time": "2026-04-08T16:50:34.357152",
+  "package_url": "https://pypi.org/project/opencap-visualizer/"
+}

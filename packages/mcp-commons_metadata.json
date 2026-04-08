@@ -1,0 +1,11 @@
+{
+  "name": "mcp-commons",
+  "version": "2.1.1",
+  "summary": "Shared infrastructure library for MCP (Model Context Protocol) servers",
+  "author": "MCP Commons Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_commons-2.1.1.tar.gz",
+  "download_time": "2026-04-08T16:49:59.565098",
+  "package_url": "https://pypi.org/project/mcp-commons/"
+}

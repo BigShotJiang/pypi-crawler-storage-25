@@ -1,11 +1,11 @@
 {
   "name": "etherealogic-aetheriaforge",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "EthereaLogic Databricks Suite — Intelligent Data Transformation Engine",
   "author": "Anthony Johnson",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "etherealogic_aetheriaforge-0.1.0.tar.gz",
-  "download_time": "2026-04-04T17:17:47.047614",
+  "download_filename": "etherealogic_aetheriaforge-0.1.2-py3-none-any.whl",
+  "download_time": "2026-04-08T16:50:11.676411",
   "package_url": "https://pypi.org/project/etherealogic-aetheriaforge/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "microdriver",
+  "version": "0.0.4",
+  "summary": "Bootstraps MicroPython in a PyScript-compatible way from a worker (localhost, Briefcase, Positron, Toga).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "microdriver-0.0.4.tar.gz",
+  "download_time": "2026-04-08T16:50:40.598760",
+  "package_url": "https://pypi.org/project/microdriver/"
+}
