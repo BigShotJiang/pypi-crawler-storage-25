@@ -1,11 +1,11 @@
 {
   "name": "lionscraper",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "summary": "LionScraper bridge daemon, thin MCP stdio, and CLI — local HTTP + WebSocket to Chrome extension (Python)",
   "author": "LionScraper",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lionscraper-1.0.2.tar.gz",
-  "download_time": "2026-04-05T09:59:36.344113",
+  "download_filename": "lionscraper-1.0.5.tar.gz",
+  "download_time": "2026-04-08T07:47:09.534441",
   "package_url": "https://pypi.org/project/lionscraper/"
 }

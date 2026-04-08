@@ -1,0 +1,11 @@
+{
+  "name": "cjapy",
+  "version": "0.3.0",
+  "summary": "Adobe Customer Journey Analytics (CJA) wrapper",
+  "author": "Julien Piccini",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/pitchmuc/cjapy",
+  "download_filename": "cjapy-0.3.0.tar.gz",
+  "download_time": "2026-04-08T07:46:58.566547",
+  "package_url": "https://pypi.org/project/cjapy/"
+}

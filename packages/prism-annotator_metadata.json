@@ -1,0 +1,11 @@
+{
+  "name": "prism-annotator",
+  "version": "0.2.1",
+  "summary": "PRISM annotation of medical texts using LLMs and TANL parsing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prism_annotator-0.2.1.tar.gz",
+  "download_time": "2026-04-08T07:46:48.310107",
+  "package_url": "https://pypi.org/project/prism-annotator/"
+}
