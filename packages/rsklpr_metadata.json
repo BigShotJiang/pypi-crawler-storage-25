@@ -1,0 +1,11 @@
+{
+  "name": "rsklpr",
+  "version": "2.1.0",
+  "summary": "Implementation of the Robust Local Polynomial Regression with Similarity Kernel method",
+  "author": "Yaniv Shulman",
+  "license": null,
+  "home_page": "https://github.com/yaniv-shulman/rsklpr",
+  "download_filename": "rsklpr-2.1.0.tar.gz",
+  "download_time": "2026-04-08T06:02:05.483164",
+  "package_url": "https://pypi.org/project/rsklpr/"
+}

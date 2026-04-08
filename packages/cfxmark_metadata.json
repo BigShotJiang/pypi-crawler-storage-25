@@ -1,0 +1,11 @@
+{
+  "name": "cfxmark",
+  "version": "0.2.0",
+  "summary": "Bidirectional Markdown <-> Confluence Storage XHTML converter with lossless opaque preservation.",
+  "author": "Eunsan Jo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cfxmark-0.2.0.tar.gz",
+  "download_time": "2026-04-08T06:02:23.312315",
+  "package_url": "https://pypi.org/project/cfxmark/"
+}

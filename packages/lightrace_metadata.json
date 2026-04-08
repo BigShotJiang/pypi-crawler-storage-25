@@ -1,11 +1,11 @@
 {
   "name": "lightrace",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "summary": "Agentic development kit — LLM tracing, tool management, and agent primitives",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lightrace-1.0.8.tar.gz",
-  "download_time": "2026-04-07T06:55:27.155157",
+  "download_filename": "lightrace-1.0.10.tar.gz",
+  "download_time": "2026-04-08T06:02:25.360284",
   "package_url": "https://pypi.org/project/lightrace/"
 }

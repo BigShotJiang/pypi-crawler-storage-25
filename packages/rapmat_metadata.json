@@ -1,11 +1,11 @@
 {
   "name": "rapmat",
-  "version": "0.1.26",
+  "version": "0.1.29",
   "summary": "Rapmat - rapid materials discovery using MLIPs and random search",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rapmat-0.1.26.tar.gz",
-  "download_time": "2026-04-07T12:47:38.452506",
+  "download_filename": "rapmat-0.1.29.tar.gz",
+  "download_time": "2026-04-08T06:02:19.708879",
   "package_url": "https://pypi.org/project/rapmat/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "voucherify-core-mcp",
+  "version": "1.2.1",
+  "summary": "A Model Context Protocol (MCP) server for integrating with Voucherify services",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voucherify_core_mcp-1.2.1.tar.gz",
+  "download_time": "2026-04-08T06:02:31.563063",
+  "package_url": "https://pypi.org/project/voucherify-core-mcp/"
+}

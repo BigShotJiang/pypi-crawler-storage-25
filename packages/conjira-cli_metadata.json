@@ -1,0 +1,11 @@
+{
+  "name": "conjira-cli",
+  "version": "0.2.0",
+  "summary": "Unofficial agent-friendly CLI for self-hosted Confluence and Jira",
+  "author": "quanttraderkim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "conjira_cli-0.2.0.tar.gz",
+  "download_time": "2026-04-08T06:02:21.266134",
+  "package_url": "https://pypi.org/project/conjira-cli/"
+}

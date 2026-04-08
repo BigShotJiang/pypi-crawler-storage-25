@@ -1,0 +1,11 @@
+{
+  "name": "fink-client",
+  "version": "11.0",
+  "summary": "Light-weight client to manipulate alerts from Fink",
+  "author": "AstroLab Software",
+  "license": null,
+  "home_page": "https://doc.lsst.fink-broker.org",
+  "download_filename": "fink_client-11.0.tar.gz",
+  "download_time": "2026-04-08T06:02:37.231709",
+  "package_url": "https://pypi.org/project/fink-client/"
+}

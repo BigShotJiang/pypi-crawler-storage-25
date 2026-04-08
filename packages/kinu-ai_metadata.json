@@ -1,11 +1,11 @@
 {
   "name": "kinu-ai",
-  "version": "1.1.0",
-  "summary": "A local AI terminal assistant with memory, intent detection, and voice mode",
+  "version": "1.6.0",
+  "summary": "Local AI assistant with web search, ElevenLabs voice, full duplex, and persistent memory",
   "author": "Alex Kinuthia",
   "license": null,
   "home_page": "https://github.com/bettalex33-prog/ai-cli-chatbot",
-  "download_filename": "kinu_ai-1.1.0.tar.gz",
-  "download_time": "2026-04-05T20:53:24.434961",
+  "download_filename": "kinu_ai-1.6.0.tar.gz",
+  "download_time": "2026-04-08T06:02:18.687888",
   "package_url": "https://pypi.org/project/kinu-ai/"
 }

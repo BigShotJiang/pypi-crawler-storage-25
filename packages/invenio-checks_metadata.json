@@ -1,0 +1,11 @@
+{
+  "name": "invenio-checks",
+  "version": "8.0.0",
+  "summary": "Invenio module to automated curation checks on records.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-checks",
+  "download_filename": "invenio_checks-8.0.0.tar.gz",
+  "download_time": "2026-04-08T06:02:16.629795",
+  "package_url": "https://pypi.org/project/invenio-checks/"
+}
