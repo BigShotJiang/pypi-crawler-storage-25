@@ -1,0 +1,11 @@
+{
+  "name": "aps-beamline-driver",
+  "version": "1.0.14",
+  "summary": "APS Beamline Driver",
+  "author": "Luca Rebuffi",
+  "license": "BSD-3",
+  "home_page": "https://github.com/APS-XSD-OPT-Group/Beamline-Driver",
+  "download_filename": "aps_beamline_driver-1.0.14.tar.gz",
+  "download_time": "2026-04-08T15:47:28.245088",
+  "package_url": "https://pypi.org/project/aps-beamline-driver/"
+}

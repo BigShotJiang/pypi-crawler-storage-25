@@ -1,0 +1,11 @@
+{
+  "name": "sikkerkey",
+  "version": "1.0.0",
+  "summary": "SikkerKey Python SDK — read secrets with Ed25519 machine authentication",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sikkerkey-1.0.0.tar.gz",
+  "download_time": "2026-04-08T15:47:33.731387",
+  "package_url": "https://pypi.org/project/sikkerkey/"
+}

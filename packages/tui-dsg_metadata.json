@@ -1,0 +1,11 @@
+{
+  "name": "tui-dsg",
+  "version": "202604081636",
+  "summary": "everything you need for our jupyter notebooks",
+  "author": "Eric Tröbs",
+  "license": null,
+  "home_page": "https://dbgit.prakinf.tu-ilmenau.de/lectures/data-science-grundlagen",
+  "download_filename": "tui_dsg-202604081636.tar.gz",
+  "download_time": "2026-04-08T15:47:07.630369",
+  "package_url": "https://pypi.org/project/tui-dsg/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "openlama",
-  "version": "0.1.41",
+  "version": "0.1.52",
   "summary": "Personal AI agent bot — Telegram + Ollama",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openlama-0.1.41.tar.gz",
-  "download_time": "2026-04-08T14:06:23.494405",
+  "download_filename": "openlama-0.1.52.tar.gz",
+  "download_time": "2026-04-08T15:47:06.534498",
   "package_url": "https://pypi.org/project/openlama/"
 }

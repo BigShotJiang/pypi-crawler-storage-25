@@ -1,11 +1,11 @@
 {
   "name": "gradgen",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Symbolic differentiation and Rust code generation library.",
-  "author": "Ruairi Moran, Jie Lin",
+  "author": "Pantelis Sopasakis, Ruairi Moran, Jie Lin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gradgen-0.3.1.tar.gz",
-  "download_time": "2026-03-29T20:32:41.487569",
+  "download_filename": "gradgen-0.4.0.tar.gz",
+  "download_time": "2026-04-08T15:47:43.060744",
   "package_url": "https://pypi.org/project/gradgen/"
 }

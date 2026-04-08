@@ -1,0 +1,11 @@
+{
+  "name": "sessionbridge",
+  "version": "0.1.1",
+  "summary": "MCP server for persistent cross-repo session memory with smart status tracking",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sessionbridge-0.1.1.tar.gz",
+  "download_time": "2026-04-08T15:46:54.857000",
+  "package_url": "https://pypi.org/project/sessionbridge/"
+}

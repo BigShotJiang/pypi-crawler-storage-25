@@ -1,11 +1,11 @@
 {
   "name": "code-graph-builder",
-  "version": "0.34.0",
+  "version": "0.42.0",
   "summary": "Code knowledge graph builder with MCP server for AI-assisted code navigation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "code_graph_builder-0.34.0.tar.gz",
-  "download_time": "2026-04-08T06:01:59.612917",
+  "download_filename": "code_graph_builder-0.42.0.tar.gz",
+  "download_time": "2026-04-08T15:47:37.052440",
   "package_url": "https://pypi.org/project/code-graph-builder/"
 }
