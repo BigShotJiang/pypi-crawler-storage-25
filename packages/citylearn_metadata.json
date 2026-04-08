@@ -1,0 +1,11 @@
+{
+  "name": "citylearn",
+  "version": "2.5.0",
+  "summary": "An open source Farama Foundation Gymnasium environment for benchmarking distributed energy resource control algorithms to provide energy flexibility in a district of buildings.",
+  "author": "Jose Ramon Vazquez-Canteli, Kingsley Nweye, Zoltan Nagy",
+  "license": null,
+  "home_page": "https://github.com/intelligent-environments-lab/CityLearn",
+  "download_filename": "citylearn-2.5.0.tar.gz",
+  "download_time": "2026-04-08T21:13:52.239269",
+  "package_url": "https://pypi.org/project/citylearn/"
+}

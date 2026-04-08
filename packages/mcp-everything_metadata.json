@@ -1,11 +1,11 @@
 {
   "name": "mcp-everything",
-  "version": "0.3.0",
-  "summary": "10+ plug-and-play MCP servers for Claude — Hacker News, Wikipedia, Weather, GitHub, Reddit, and more. One install, zero hassle.",
+  "version": "0.5.0",
+  "summary": "19 plug-and-play MCP servers for Claude — Hacker News, Wikipedia, Weather, GitHub, Reddit, Context7 and more. One install, zero hassle.",
   "author": "mcp-everything contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_everything-0.3.0.tar.gz",
-  "download_time": "2026-04-08T19:45:31.671785",
+  "download_filename": "mcp_everything-0.5.0.tar.gz",
+  "download_time": "2026-04-08T21:13:45.015011",
   "package_url": "https://pypi.org/project/mcp-everything/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-serve",
+  "version": "0.0.16",
+  "summary": "Agentic server to support MCP tools for science",
+  "author": "Vanessa Sochat",
+  "license": "LICENSE",
+  "home_page": "https://github.com/converged-computing/mcp-server",
+  "download_filename": "mcp_serve-0.0.16.tar.gz",
+  "download_time": "2026-04-08T21:13:38.493723",
+  "package_url": "https://pypi.org/project/mcp-serve/"
+}

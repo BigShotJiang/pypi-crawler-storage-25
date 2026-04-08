@@ -1,11 +1,11 @@
 {
   "name": "mcp-canada",
-  "version": "0.2.0",
+  "version": "0.4.3",
   "summary": "MCP server for Canadian federal government data — bilingual, multi-source, AI-ready.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_canada-0.2.0.tar.gz",
-  "download_time": "2026-04-07T05:27:29.336090",
+  "download_filename": "mcp_canada-0.4.3.tar.gz",
+  "download_time": "2026-04-08T21:13:26.202281",
   "package_url": "https://pypi.org/project/mcp-canada/"
 }

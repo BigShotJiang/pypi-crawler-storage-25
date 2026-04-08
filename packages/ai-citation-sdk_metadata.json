@@ -1,11 +1,11 @@
 {
   "name": "ai-citation-sdk",
-  "version": "1.0.0",
-  "summary": "AIACTA Citation Webhook SDK for Python (Proposal 2 §3.4)",
-  "author": null,
-  "license": null,
-  "home_page": null,
-  "download_filename": "ai_citation_sdk-1.0.0.tar.gz",
-  "download_time": "2026-04-07T00:01:36.002267",
+  "version": "1.0.5",
+  "summary": "AIACTA Citation Webhook SDK for Python — signature verification, idempotency, and retry handling (Proposal 2, §3.4)",
+  "author": "Eric Michel",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aiacta-org/aiacta/tree/main/packages/ai-citation-sdk",
+  "download_filename": "ai_citation_sdk-1.0.5.tar.gz",
+  "download_time": "2026-04-08T21:13:39.651844",
   "package_url": "https://pypi.org/project/ai-citation-sdk/"
 }

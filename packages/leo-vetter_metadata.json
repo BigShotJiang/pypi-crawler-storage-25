@@ -1,0 +1,11 @@
+{
+  "name": "leo-vetter",
+  "version": "1.0.0",
+  "summary": "LEO-Vetter: Automated Vetting for TESS Planet Candidates",
+  "author": "Michelle Kunimoto",
+  "license": "GPLv3",
+  "home_page": "https://github.com/mkunimoto/LEO-Vetter",
+  "download_filename": "leo_vetter-1.0.0.tar.gz",
+  "download_time": "2026-04-08T21:13:42.649720",
+  "package_url": "https://pypi.org/project/leo-vetter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-splunk-oncall",
+  "version": "0.2.0",
+  "summary": "MCP server for Splunk On-Call (VictorOps) incident management",
+  "author": "amendezsap",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_splunk_oncall-0.2.0.tar.gz",
+  "download_time": "2026-04-08T21:13:52.813936",
+  "package_url": "https://pypi.org/project/mcp-server-splunk-oncall/"
+}

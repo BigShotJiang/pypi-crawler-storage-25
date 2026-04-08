@@ -1,0 +1,11 @@
+{
+  "name": "macldlt",
+  "version": "0.0.0",
+  "summary": "Python wrapper for Apple Accelerate sparse LDL^T factorization",
+  "author": "Brendan O'Donoghue",
+  "license": null,
+  "home_page": null,
+  "download_filename": "macldlt-0.0.0.tar.gz",
+  "download_time": "2026-04-08T21:13:25.005117",
+  "package_url": "https://pypi.org/project/macldlt/"
+}

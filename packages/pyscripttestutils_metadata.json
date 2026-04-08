@@ -1,0 +1,11 @@
+{
+  "name": "pyscripttestutils",
+  "version": "1.0.0",
+  "summary": "Run pytest-style checks concurrently in Python and TypeScript for dual-language libraries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyscripttestutils-1.0.0.tar.gz",
+  "download_time": "2026-04-08T21:13:59.991007",
+  "package_url": "https://pypi.org/project/pyscripttestutils/"
+}

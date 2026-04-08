@@ -1,0 +1,11 @@
+{
+  "name": "mcmu",
+  "version": "2.1.1",
+  "summary": "A utility to update Minecraft java edition mods from Modrinth",
+  "author": "Josiah Jarvis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcmu-2.1.1.tar.gz",
+  "download_time": "2026-04-08T21:13:25.582743",
+  "package_url": "https://pypi.org/project/mcmu/"
+}

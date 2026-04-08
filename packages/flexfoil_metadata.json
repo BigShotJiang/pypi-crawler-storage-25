@@ -1,0 +1,11 @@
+{
+  "name": "flexfoil",
+  "version": "1.1.6",
+  "summary": "Airfoil analysis in Python — XFOIL-faithful solver with a local web UI",
+  "author": "Flexcompute, Inc., Harry Smith",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flexfoil-1.1.6.tar.gz",
+  "download_time": "2026-04-08T21:13:53.975786",
+  "package_url": "https://pypi.org/project/flexfoil/"
+}

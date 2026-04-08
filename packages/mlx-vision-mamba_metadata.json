@@ -1,0 +1,11 @@
+{
+  "name": "mlx-vision-mamba",
+  "version": "0.1.1",
+  "summary": "Metal-accelerated Vision Mamba for Apple Silicon (2D/3D/4D)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mlx_vision_mamba-0.1.1.tar.gz",
+  "download_time": "2026-04-08T21:13:30.780907",
+  "package_url": "https://pypi.org/project/mlx-vision-mamba/"
+}
