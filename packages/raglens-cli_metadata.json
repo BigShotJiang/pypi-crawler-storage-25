@@ -1,0 +1,11 @@
+{
+  "name": "raglens-cli",
+  "version": "0.1.1",
+  "summary": "RAGLens CLI for debugging retrieval behavior in RAG systems",
+  "author": "RAGLens Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/kraftaa/raglens",
+  "download_filename": "raglens_cli-0.1.1-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-08T20:28:24.067032",
+  "package_url": "https://pypi.org/project/raglens-cli/"
+}

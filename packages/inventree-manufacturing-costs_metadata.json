@@ -1,11 +1,11 @@
 {
   "name": "inventree-manufacturing-costs",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "summary": "Capture part manufacturing costs",
   "author": "Oliver Walters",
   "license": "MIT",
   "home_page": "https://github.com/SchrodingersGat/inventree-manufacturing-costs",
-  "download_filename": "inventree_manufacturing_costs-0.4.2.tar.gz",
-  "download_time": "2026-03-31T11:36:40.898671",
+  "download_filename": "inventree_manufacturing_costs-0.5.0.tar.gz",
+  "download_time": "2026-04-08T20:28:19.566500",
   "package_url": "https://pypi.org/project/inventree-manufacturing-costs/"
 }

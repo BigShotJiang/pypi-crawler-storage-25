@@ -1,11 +1,11 @@
 {
   "name": "pyprocessors-chunk_sentences",
-  "version": "1.6.58",
+  "version": "1.6.62",
   "summary": "Sherpa sentence chunking processor",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyprocessors_chunk_sentences-1.6.58.tar.gz",
-  "download_time": "2026-04-08T11:18:48.281517",
+  "download_filename": "pyprocessors_chunk_sentences-1.6.62.tar.gz",
+  "download_time": "2026-04-08T20:28:40.470870",
   "package_url": "https://pypi.org/project/pyprocessors-chunk_sentences/"
 }

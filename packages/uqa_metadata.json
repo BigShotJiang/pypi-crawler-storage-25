@@ -1,11 +1,11 @@
 {
   "name": "uqa",
-  "version": "0.25.7",
+  "version": "0.25.10",
   "summary": "Unified Query Algebra — a multi-paradigm database engine unifying relational, text, vector, graph, and geospatial queries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uqa-0.25.7.tar.gz",
-  "download_time": "2026-04-08T11:18:42.530732",
+  "download_filename": "uqa-0.25.10.tar.gz",
+  "download_time": "2026-04-08T20:28:30.822872",
   "package_url": "https://pypi.org/project/uqa/"
 }

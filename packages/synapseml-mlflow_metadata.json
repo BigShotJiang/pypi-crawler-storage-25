@@ -1,0 +1,11 @@
+{
+  "name": "synapseml-mlflow",
+  "version": "2.0.2",
+  "summary": "MLflow plugin in Microsoft Fabric platform.",
+  "author": null,
+  "license": "proprietary and confidential",
+  "home_page": "https://learn.microsoft.com/en-us/fabric/data-science/machine-learning-experiment",
+  "download_filename": "synapseml_mlflow-2.0.2-py3-none-any.whl",
+  "download_time": "2026-04-08T20:28:09.872067",
+  "package_url": "https://pypi.org/project/synapseml-mlflow/"
+}

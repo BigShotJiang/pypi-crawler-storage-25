@@ -1,0 +1,11 @@
+{
+  "name": "sansproto",
+  "version": "0.9",
+  "summary": "Sans-I/O helpers for byte stream protocol parsers.",
+  "author": "Anton Bobrov",
+  "license": "MIT",
+  "home_page": "https://github.com/baverman/sansproto",
+  "download_filename": "sansproto-0.9-py3-none-any.whl",
+  "download_time": "2026-04-08T20:28:34.031536",
+  "package_url": "https://pypi.org/project/sansproto/"
+}
