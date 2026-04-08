@@ -1,0 +1,11 @@
+{
+  "name": "bigdata-client",
+  "version": "2.20.0",
+  "summary": "A Python client for accessing Bigdata API",
+  "author": "Bigdata Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "bigdata_client-2.20.0.tar.gz",
+  "download_time": "2026-04-08T12:08:46.296007",
+  "package_url": "https://pypi.org/project/bigdata-client/"
+}

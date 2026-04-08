@@ -1,0 +1,11 @@
+{
+  "name": "ansible-dev-tools",
+  "version": "26.4.1",
+  "summary": "Ansible Developtment Tools kit bundles all tools needed for content creation and testing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansible_dev_tools-26.4.1.tar.gz",
+  "download_time": "2026-04-08T12:09:04.103152",
+  "package_url": "https://pypi.org/project/ansible-dev-tools/"
+}

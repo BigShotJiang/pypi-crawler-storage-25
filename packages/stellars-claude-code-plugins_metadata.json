@@ -1,11 +1,11 @@
 {
   "name": "stellars-claude-code-plugins",
-  "version": "0.8.69",
+  "version": "0.8.74",
   "summary": "Claude Code plugins for autonomous development workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stellars_claude_code_plugins-0.8.69-py3-none-any.whl",
-  "download_time": "2026-04-04T16:43:31.729799",
+  "download_filename": "stellars_claude_code_plugins-0.8.74-py3-none-any.whl",
+  "download_time": "2026-04-08T12:08:53.646017",
   "package_url": "https://pypi.org/project/stellars-claude-code-plugins/"
 }

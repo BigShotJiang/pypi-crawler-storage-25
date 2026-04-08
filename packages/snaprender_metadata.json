@@ -1,11 +1,11 @@
 {
   "name": "snaprender",
-  "version": "0.3.0",
+  "version": "0.6.0",
   "summary": "Official Python SDK for SnapRender Screenshot API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "snaprender-0.3.0.tar.gz",
-  "download_time": "2026-04-08T10:10:07.788160",
+  "download_filename": "snaprender-0.6.0.tar.gz",
+  "download_time": "2026-04-08T12:09:01.992860",
   "package_url": "https://pypi.org/project/snaprender/"
 }

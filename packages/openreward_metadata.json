@@ -1,11 +1,11 @@
 {
   "name": "openreward",
-  "version": "0.1.89",
+  "version": "0.1.92",
   "summary": "Python SDK for the OpenReward platform.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openreward-0.1.89.tar.gz",
-  "download_time": "2026-04-03T15:03:55.352838",
+  "download_filename": "openreward-0.1.92.tar.gz",
+  "download_time": "2026-04-08T12:09:19.352412",
   "package_url": "https://pypi.org/project/openreward/"
 }

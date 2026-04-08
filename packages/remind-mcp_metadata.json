@@ -1,11 +1,11 @@
 {
   "name": "remind-mcp",
-  "version": "0.10.0",
+  "version": "0.10.3",
   "summary": "Generalization-capable memory layer for LLMs with episodic buffers, semantic graphs, and spreading activation retrieval",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "remind_mcp-0.10.0.tar.gz",
-  "download_time": "2026-04-08T06:02:06.012736",
+  "download_filename": "remind_mcp-0.10.3.tar.gz",
+  "download_time": "2026-04-08T12:09:03.578547",
   "package_url": "https://pypi.org/project/remind-mcp/"
 }

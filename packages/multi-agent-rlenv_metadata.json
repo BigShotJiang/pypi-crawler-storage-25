@@ -1,11 +1,11 @@
 {
   "name": "multi-agent-rlenv",
-  "version": "4.0.5",
+  "version": "4.1.1",
   "summary": "A strongly typed Multi-Agent Reinforcement Learning framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "multi_agent_rlenv-4.0.5.tar.gz",
-  "download_time": "2026-03-31T12:42:56.902239",
+  "download_filename": "multi_agent_rlenv-4.1.1.tar.gz",
+  "download_time": "2026-04-08T12:09:21.972042",
   "package_url": "https://pypi.org/project/multi-agent-rlenv/"
 }

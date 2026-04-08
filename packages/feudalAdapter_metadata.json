@@ -1,0 +1,11 @@
+{
+  "name": "feudalAdapter",
+  "version": "1.1.2",
+  "summary": "Adapter to connect provisioning events with a backend",
+  "author": "Joshua Bachmeier",
+  "license": "MIT",
+  "home_page": "https://codebase.helmholtz.cloud/m-team/feudal/feudal_adapter_ldf",
+  "download_filename": "feudaladapter-1.1.2.tar.gz",
+  "download_time": "2026-04-08T12:09:20.923442",
+  "package_url": "https://pypi.org/project/feudalAdapter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-downloadall",
+  "version": "0.3.0",
+  "summary": "CKAN extension that adds a \"Download all\" button to a dataset",
+  "author": "David Read, Ian Ward, Philipp D. Rohde",
+  "license": "AGPL",
+  "home_page": "https://github.com/davidread/ckanext-downloadall",
+  "download_filename": "ckanext_downloadall-0.3.0.tar.gz",
+  "download_time": "2026-04-08T12:09:25.088318",
+  "package_url": "https://pypi.org/project/ckanext-downloadall/"
+}

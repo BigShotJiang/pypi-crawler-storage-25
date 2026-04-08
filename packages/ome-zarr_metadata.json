@@ -1,0 +1,11 @@
+{
+  "name": "ome-zarr",
+  "version": "0.15.0",
+  "summary": "Implementation of images in Zarr files.",
+  "author": "The Open Microscopy Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ome_zarr-0.15.0.tar.gz",
+  "download_time": "2026-04-08T12:09:18.293717",
+  "package_url": "https://pypi.org/project/ome-zarr/"
+}
