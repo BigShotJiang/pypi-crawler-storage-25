@@ -1,11 +1,11 @@
 {
   "name": "numasec",
-  "version": "4.1.0",
+  "version": "4.1.3",
   "summary": "AI-powered penetration testing via MCP — 21 security tools, PTES methodology, multi-provider",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "numasec-4.1.0.tar.gz",
-  "download_time": "2026-04-05T09:59:29.138148",
+  "download_filename": "numasec-4.1.3.tar.gz",
+  "download_time": "2026-04-08T08:49:44.042349",
   "package_url": "https://pypi.org/project/numasec/"
 }

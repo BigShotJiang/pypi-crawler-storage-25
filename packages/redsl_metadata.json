@@ -1,11 +1,11 @@
 {
   "name": "redsl",
-  "version": "1.2.4",
+  "version": "1.2.10",
   "summary": "ReDSL — Refactor + DSL + Self-Learning. LLM-powered autonomous code refactoring.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "redsl-1.2.4.tar.gz",
-  "download_time": "2026-04-07T19:21:57.579507",
+  "download_filename": "redsl-1.2.10.tar.gz",
+  "download_time": "2026-04-08T08:49:26.316054",
   "package_url": "https://pypi.org/project/redsl/"
 }

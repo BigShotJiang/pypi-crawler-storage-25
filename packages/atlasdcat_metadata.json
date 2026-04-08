@@ -1,0 +1,11 @@
+{
+  "name": "atlasdcat",
+  "version": "1.2.0",
+  "summary": "A library for managing DCAT metadata using Apache Atlas",
+  "author": "Jeff Reiffers",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "atlasdcat-1.2.0.tar.gz",
+  "download_time": "2026-04-08T08:49:40.826729",
+  "package_url": "https://pypi.org/project/atlasdcat/"
+}

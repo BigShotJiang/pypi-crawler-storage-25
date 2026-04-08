@@ -1,11 +1,11 @@
 {
   "name": "pydevversions",
-  "version": "4.1.5",
+  "version": "4.3.0",
   "summary": "Displays versions and paths of a collection of apps in the terminal",
   "author": "thib1984",
   "license": "MIT",
   "home_page": "https://github.com/thib1984/pydevversions",
-  "download_filename": "pydevversions-4.1.5.tar.gz",
-  "download_time": "2026-04-07T20:08:34.461033",
+  "download_filename": "pydevversions-4.3.0.tar.gz",
+  "download_time": "2026-04-08T08:49:23.647648",
   "package_url": "https://pypi.org/project/pydevversions/"
 }

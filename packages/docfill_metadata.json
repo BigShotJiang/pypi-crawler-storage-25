@@ -1,0 +1,11 @@
+{
+  "name": "docfill",
+  "version": "0.2.2",
+  "summary": "Library: fill Excel (.xlsx) templates with Jinja2 and optional row expansion from a context dict",
+  "author": "docfill contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "docfill-0.2.2.tar.gz",
+  "download_time": "2026-04-08T08:49:46.162219",
+  "package_url": "https://pypi.org/project/docfill/"
+}

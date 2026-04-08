@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-web-button-visibility",
+  "version": "14.0.1.1.0",
+  "summary": "Web Button Visibility",
+  "author": "Ilyas, ooops404, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/web",
+  "download_filename": "odoo14_addon_web_button_visibility-14.0.1.1.0-py3-none-any.whl",
+  "download_time": "2026-04-08T08:49:33.874071",
+  "package_url": "https://pypi.org/project/odoo14-addon-web-button-visibility/"
+}

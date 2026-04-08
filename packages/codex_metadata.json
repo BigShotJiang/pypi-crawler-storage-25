@@ -1,11 +1,11 @@
 {
   "name": "codex",
-  "version": "1.10.3",
+  "version": "1.10.9",
   "summary": "A comic archive web server.",
   "author": "AJ Slater",
   "license": null,
   "home_page": null,
-  "download_filename": "codex-1.10.3.tar.gz",
-  "download_time": "2026-04-06T23:25:41.366252",
+  "download_filename": "codex-1.10.9.tar.gz",
+  "download_time": "2026-04-08T08:49:41.389304",
   "package_url": "https://pypi.org/project/codex/"
 }

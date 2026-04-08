@@ -1,0 +1,11 @@
+{
+  "name": "REST2JSON",
+  "version": "0.1.5",
+  "summary": "metadriven-адаптер для RESTAPI запросов",
+  "author": "Denis Kodolich",
+  "license": null,
+  "home_page": "https://github.com/Siinthd/REST2JSON",
+  "download_filename": "rest2json-0.1.5.tar.gz",
+  "download_time": "2026-04-08T08:49:42.450273",
+  "package_url": "https://pypi.org/project/REST2JSON/"
+}

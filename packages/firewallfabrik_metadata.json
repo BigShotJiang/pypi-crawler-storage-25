@@ -1,11 +1,11 @@
 {
   "name": "firewallfabrik",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Modern fwbuilder successor: Qt GUI for managing iptables/nftables policies. Centralized policy DB with reusable objects, scales to hundreds of firewalls, generates deployment-ready shell scripts.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "firewallfabrik-1.4.0.tar.gz",
-  "download_time": "2026-03-29T19:22:03.348836",
+  "download_filename": "firewallfabrik-1.4.1.tar.gz",
+  "download_time": "2026-04-08T08:49:37.632556",
   "package_url": "https://pypi.org/project/firewallfabrik/"
 }

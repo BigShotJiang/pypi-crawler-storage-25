@@ -1,0 +1,11 @@
+{
+  "name": "django-alert-monitoring",
+  "version": "1.0.0",
+  "summary": "Django package for system monitoring and alerting",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/django-alert-monitoring",
+  "download_filename": "django_alert_monitoring-1.0.0.tar.gz",
+  "download_time": "2026-04-08T08:49:15.073362",
+  "package_url": "https://pypi.org/project/django-alert-monitoring/"
+}
