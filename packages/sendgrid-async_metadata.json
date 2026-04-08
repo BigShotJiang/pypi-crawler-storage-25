@@ -1,0 +1,11 @@
+{
+  "name": "sendgrid-async",
+  "version": "2.1.2",
+  "summary": "SendGrid using an httpx client",
+  "author": "Elyes Mahjoubi",
+  "license": "MIT",
+  "home_page": "https://github.com/EM51641/async-sendgrid-",
+  "download_filename": "sendgrid_async-2.1.2.tar.gz",
+  "download_time": "2026-04-08T10:10:17.136533",
+  "package_url": "https://pypi.org/project/sendgrid-async/"
+}

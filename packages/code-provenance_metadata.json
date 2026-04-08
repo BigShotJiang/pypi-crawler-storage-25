@@ -1,11 +1,11 @@
 {
   "name": "code-provenance",
-  "version": "0.1.10",
+  "version": "0.1.12",
   "summary": "Resolve Docker images to their source code commits on GitHub",
   "author": "SCRT Labs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "code_provenance-0.1.10.tar.gz",
-  "download_time": "2026-04-05T19:36:14.045209",
+  "download_filename": "code_provenance-0.1.12.tar.gz",
+  "download_time": "2026-04-08T10:10:46.182640",
   "package_url": "https://pypi.org/project/code-provenance/"
 }

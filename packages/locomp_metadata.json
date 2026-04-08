@@ -1,11 +1,11 @@
 {
   "name": "locomp",
-  "version": "0.7.0",
-  "summary": "A GPU compute compiler for Apple Metal — write kernels in Python, compile to native Metal shaders",
+  "version": "1.0.0",
+  "summary": "A Python GPU kernel compiler for Apple Silicon (Metal), NVIDIA (CUDA), AMD (ROCm/HIP), and RISC-V — write kernels once in Python, run on all four backends",
   "author": "Locomp Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "locomp-0.7.0.tar.gz",
-  "download_time": "2026-04-05T02:57:21.125802",
+  "download_filename": "locomp-1.0.0.tar.gz",
+  "download_time": "2026-04-08T10:10:37.700661",
   "package_url": "https://pypi.org/project/locomp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "slug-ig-crawler",
+  "version": "2.2.24",
+  "summary": "Browser-based Instagram research tooling: Selenium scraper with optional GCS and PostgreSQL.",
+  "author": "Pugsy Explores",
+  "license": null,
+  "home_page": null,
+  "download_filename": "slug_ig_crawler-2.2.24.tar.gz",
+  "download_time": "2026-04-08T10:10:44.371805",
+  "package_url": "https://pypi.org/project/slug-ig-crawler/"
+}

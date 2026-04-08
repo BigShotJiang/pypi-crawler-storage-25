@@ -1,11 +1,11 @@
 {
   "name": "portctl",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Manage your ports — view, inspect, and kill processes on TCP ports",
   "author": "Mubbie Idoko",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "portctl-0.1.1.tar.gz",
-  "download_time": "2026-04-04T08:25:54.702227",
+  "download_filename": "portctl-0.2.1.tar.gz",
+  "download_time": "2026-04-08T10:10:07.265405",
   "package_url": "https://pypi.org/project/portctl/"
 }

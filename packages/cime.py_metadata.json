@@ -1,11 +1,11 @@
 {
   "name": "cime.py",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "summary": "Unofficial Python SDK for CI.ME OpenAPI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cime_py-1.0.0.tar.gz",
-  "download_time": "2026-04-07T09:38:11.990551",
+  "download_filename": "cime_py-1.0.5.tar.gz",
+  "download_time": "2026-04-08T10:10:15.362198",
   "package_url": "https://pypi.org/project/cime.py/"
 }

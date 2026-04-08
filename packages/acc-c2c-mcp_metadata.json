@@ -1,0 +1,11 @@
+{
+  "name": "acc-c2c-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server for ACC C2C Protocol — lets AI agents dispatch tasks, manage lifecycle, and query the C2C API via API Key.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acc_c2c_mcp-0.1.2.tar.gz",
+  "download_time": "2026-04-08T10:10:03.036565",
+  "package_url": "https://pypi.org/project/acc-c2c-mcp/"
+}

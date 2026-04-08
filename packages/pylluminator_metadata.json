@@ -1,0 +1,11 @@
+{
+  "name": "pylluminator",
+  "version": "2.1",
+  "summary": "Tool to preprocess, analyze and visualize DNA methylation data from Illumina micro-arrays",
+  "author": "Elio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylluminator-2.1.tar.gz",
+  "download_time": "2026-04-08T10:10:37.122559",
+  "package_url": "https://pypi.org/project/pylluminator/"
+}
