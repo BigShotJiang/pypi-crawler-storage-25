@@ -1,11 +1,11 @@
 {
   "name": "bicameral-mcp",
-  "version": "0.2.11",
+  "version": "0.2.16",
   "summary": "Decision ledger MCP server — ingests meeting transcripts, maps decisions to code, tracks drift",
   "author": "Bicameral AI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bicameral_mcp-0.2.11.tar.gz",
-  "download_time": "2026-04-02T05:21:29.640978",
+  "download_filename": "bicameral_mcp-0.2.16.tar.gz",
+  "download_time": "2026-04-08T23:56:54.221766",
   "package_url": "https://pypi.org/project/bicameral-mcp/"
 }

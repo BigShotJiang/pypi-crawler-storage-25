@@ -1,11 +1,11 @@
 {
   "name": "fiberai",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "summary": "Official Python SDK for Fiber AI API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fiberai-0.0.8.tar.gz",
-  "download_time": "2026-04-07T21:09:52.678166",
+  "download_filename": "fiberai-0.0.10.tar.gz",
+  "download_time": "2026-04-08T23:57:00.461495",
   "package_url": "https://pypi.org/project/fiberai/"
 }

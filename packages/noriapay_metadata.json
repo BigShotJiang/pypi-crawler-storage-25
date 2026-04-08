@@ -1,0 +1,11 @@
+{
+  "name": "noriapay",
+  "version": "0.1.0",
+  "summary": "Reusable Python SDK for M-PESA Daraja, SasaPay, and Paystack payments.",
+  "author": "Noria Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "noriapay-0.1.0.tar.gz",
+  "download_time": "2026-04-08T23:56:45.115473",
+  "package_url": "https://pypi.org/project/noriapay/"
+}

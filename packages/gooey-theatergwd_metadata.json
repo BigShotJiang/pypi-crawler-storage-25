@@ -1,11 +1,11 @@
 {
   "name": "gooey-theatergwd",
-  "version": "1.1.3",
+  "version": "1.2.13",
   "summary": "TheaterGWD Control Center – web-based OSC device manager for theater sensor hardware",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gooey_theatergwd-1.1.3.tar.gz",
-  "download_time": "2026-04-07T22:02:07.901768",
+  "download_filename": "gooey_theatergwd-1.2.13.tar.gz",
+  "download_time": "2026-04-08T23:57:20.787427",
   "package_url": "https://pypi.org/project/gooey-theatergwd/"
 }

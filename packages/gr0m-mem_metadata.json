@@ -1,0 +1,11 @@
+{
+  "name": "gr0m-mem",
+  "version": "0.1.0",
+  "summary": "Zero-install persistent memory brain for Claude Code and Claude Desktop. Stops re-asking and re-deriving across sessions.",
+  "author": "Gr0m_Mem contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gr0m_mem-0.1.0.tar.gz",
+  "download_time": "2026-04-08T23:57:23.860580",
+  "package_url": "https://pypi.org/project/gr0m-mem/"
+}

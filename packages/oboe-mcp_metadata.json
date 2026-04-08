@@ -1,0 +1,11 @@
+{
+  "name": "oboe-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for durable one-by-one review workflows, with prioritized session state for coding agents.",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "oboe_mcp-0.1.1.tar.gz",
+  "download_time": "2026-04-08T23:57:23.350326",
+  "package_url": "https://pypi.org/project/oboe-mcp/"
+}

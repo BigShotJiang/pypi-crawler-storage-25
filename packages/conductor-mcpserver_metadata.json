@@ -1,0 +1,11 @@
+{
+  "name": "conductor-mcpserver",
+  "version": "0.1.0",
+  "summary": "A local task scheduler with worker management, accessible via MCP (Model Context Protocol) for Claude Desktop",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "conductor_mcpserver-0.1.0.tar.gz",
+  "download_time": "2026-04-08T23:57:22.327556",
+  "package_url": "https://pypi.org/project/conductor-mcpserver/"
+}

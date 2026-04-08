@@ -1,11 +1,11 @@
 {
   "name": "robo-appian-pr",
-  "version": "0.0.4",
+  "version": "0.0.9",
   "summary": "Automate your Appian code testing with Python. Boost quality, save time.",
   "author": "Dinil Mithra",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "robo_appian_pr-0.0.4.tar.gz",
-  "download_time": "2026-03-30T15:43:37.408103",
+  "download_filename": "robo_appian_pr-0.0.9.tar.gz",
+  "download_time": "2026-04-08T23:57:18.223906",
   "package_url": "https://pypi.org/project/robo-appian-pr/"
 }
