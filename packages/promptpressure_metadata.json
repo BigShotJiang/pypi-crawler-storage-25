@@ -1,0 +1,11 @@
+{
+  "name": "promptpressure",
+  "version": "0.1.1",
+  "summary": "Pressure-test your AI before attackers do. Open-core local AI red-teaming scanner.",
+  "author": "Snakeau",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "promptpressure-0.1.1.tar.gz",
+  "download_time": "2026-04-08T22:04:24.017693",
+  "package_url": "https://pypi.org/project/promptpressure/"
+}

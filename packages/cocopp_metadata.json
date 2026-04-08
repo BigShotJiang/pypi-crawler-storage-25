@@ -1,0 +1,11 @@
+{
+  "name": "cocopp",
+  "version": "2.8.4",
+  "summary": "Benchmarking framework for all types of black-box optimization algorithms, postprocessing.",
+  "author": "Umut Batu, Dimo Brockhoff, Paul Dufossé, Tobias Glasmachers, Nikolaus Hansen, Filip Matzner, Olaf Mersmann, Raymond Ros, Dejan Tušar",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "cocopp-2.8.4.tar.gz",
+  "download_time": "2026-04-08T22:04:30.609914",
+  "package_url": "https://pypi.org/project/cocopp/"
+}

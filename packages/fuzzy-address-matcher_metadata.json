@@ -1,0 +1,11 @@
+{
+  "name": "fuzzy-address-matcher",
+  "version": "2.1.1",
+  "summary": "Match tabular address datasets together using address standardisation, rapidfuzz, and exact text matching via a Gradio GUI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fuzzy_address_matcher-2.1.1.tar.gz",
+  "download_time": "2026-04-08T22:04:53.581701",
+  "package_url": "https://pypi.org/project/fuzzy-address-matcher/"
+}

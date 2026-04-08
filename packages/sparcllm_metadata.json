@@ -1,0 +1,11 @@
+{
+  "name": "sparcllm",
+  "version": "2.0.1",
+  "summary": "SPARC-LLM framework with sklearn-inspired object API",
+  "author": "SPARC-LLM Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sparcllm-2.0.1.tar.gz",
+  "download_time": "2026-04-08T22:04:49.284010",
+  "package_url": "https://pypi.org/project/sparcllm/"
+}

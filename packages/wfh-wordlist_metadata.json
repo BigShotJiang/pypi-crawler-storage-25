@@ -1,11 +1,11 @@
 {
   "name": "wfh-wordlist",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "summary": "WordList For Hacking — Unified wordlist generation toolkit for pentest and red team operations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wfh_wordlist-2.2.0.tar.gz",
-  "download_time": "2026-04-08T21:13:51.055626",
+  "download_filename": "wfh_wordlist-2.3.0.tar.gz",
+  "download_time": "2026-04-08T22:04:57.173190",
   "package_url": "https://pypi.org/project/wfh-wordlist/"
 }
