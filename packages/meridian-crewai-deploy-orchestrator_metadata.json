@@ -1,0 +1,11 @@
+{
+  "name": "meridian-crewai-deploy-orchestrator",
+  "version": "0.2.1",
+  "summary": "Meridian-powered cross-platform deployment orchestration for CrewAI agents",
+  "author": "Meridian",
+  "license": "MIT",
+  "home_page": "https://github.com/meridian-mind/crewai-deploy-orchestrator",
+  "download_filename": "meridian_crewai_deploy_orchestrator-0.2.1.tar.gz",
+  "download_time": "2026-04-08T23:06:53.267481",
+  "package_url": "https://pypi.org/project/meridian-crewai-deploy-orchestrator/"
+}

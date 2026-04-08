@@ -1,0 +1,11 @@
+{
+  "name": "allure-cli",
+  "version": "0.2.2",
+  "summary": "CLI для Allure TestOps: получение Allure ID тест-кейса по названию",
+  "author": "Allure CLI Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "allure_cli-0.2.2.tar.gz",
+  "download_time": "2026-04-08T23:06:27.050284",
+  "package_url": "https://pypi.org/project/allure-cli/"
+}

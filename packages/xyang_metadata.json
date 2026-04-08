@@ -1,0 +1,11 @@
+{
+  "name": "xyang",
+  "version": "0.1.0",
+  "summary": "A Python library implementing a subset of YANG features focused on constraint validation",
+  "author": "Exergy LLC",
+  "license": null,
+  "home_page": "https://github.com/exergy-connect/xYang",
+  "download_filename": "xyang-0.1.0.tar.gz",
+  "download_time": "2026-04-08T23:06:32.238428",
+  "package_url": "https://pypi.org/project/xyang/"
+}

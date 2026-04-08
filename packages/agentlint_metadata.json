@@ -1,11 +1,11 @@
 {
   "name": "agentlint",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "summary": "Real-time quality guardrails for AI coding agents",
   "author": "mauhpr",
   "license": null,
   "home_page": null,
-  "download_filename": "agentlint-1.5.1.tar.gz",
-  "download_time": "2026-04-08T16:50:38.522695",
+  "download_filename": "agentlint-1.6.0.tar.gz",
+  "download_time": "2026-04-08T23:06:45.545734",
   "package_url": "https://pypi.org/project/agentlint/"
 }

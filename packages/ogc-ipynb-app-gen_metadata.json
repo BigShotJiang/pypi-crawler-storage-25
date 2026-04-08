@@ -1,0 +1,11 @@
+{
+  "name": "ogc-ipynb-app-gen",
+  "version": "1.2.1",
+  "summary": "Generates an OGC application package from a Jupyter Notebook by parsing its it's papermill parameterized metadata.",
+  "author": "James McDuffie, Max Zhan",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "ogc_ipynb_app_gen-1.2.1.tar.gz",
+  "download_time": "2026-04-08T23:06:49.656098",
+  "package_url": "https://pypi.org/project/ogc-ipynb-app-gen/"
+}

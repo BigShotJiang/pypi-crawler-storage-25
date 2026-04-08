@@ -1,11 +1,11 @@
 {
   "name": "solentlabs-cable-modem-monitor-catalog",
-  "version": "3.14.0a12",
+  "version": "3.14.0a13",
   "summary": "Cable Modem Monitor Catalog — modem config files and parser overrides",
   "author": "Solent Labs™",
   "license": null,
   "home_page": null,
-  "download_filename": "solentlabs_cable_modem_monitor_catalog-3.14.0a12.tar.gz",
-  "download_time": "2026-04-07T00:02:04.922190",
+  "download_filename": "solentlabs_cable_modem_monitor_catalog-3.14.0a13.tar.gz",
+  "download_time": "2026-04-08T23:06:40.921741",
   "package_url": "https://pypi.org/project/solentlabs-cable-modem-monitor-catalog/"
 }
