@@ -1,11 +1,11 @@
 {
   "name": "redatlas",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "RED Atlas External API",
-  "author": "RED Atlas",
-  "license": "ISC",
+  "author": "OpenAPI Generator community",
+  "license": "Proprietary",
   "home_page": "https://github.com/red-atlas/red-atlas-sdks",
-  "download_filename": "redatlas-0.1.2.tar.gz",
-  "download_time": "2026-04-07T19:21:34.618450",
+  "download_filename": "redatlas-0.1.5.tar.gz",
+  "download_time": "2026-04-09T19:54:26.180991",
   "package_url": "https://pypi.org/project/redatlas/"
 }

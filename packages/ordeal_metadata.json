@@ -1,11 +1,11 @@
 {
   "name": "ordeal",
-  "version": "0.3.30",
+  "version": "0.3.33",
   "summary": "Automated chaos testing for Python — fault injection, property assertions, and stateful exploration.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ordeal-0.3.30.tar.gz",
-  "download_time": "2026-04-09T06:15:10.747174",
+  "download_filename": "ordeal-0.3.33.tar.gz",
+  "download_time": "2026-04-09T19:54:29.854130",
   "package_url": "https://pypi.org/project/ordeal/"
 }

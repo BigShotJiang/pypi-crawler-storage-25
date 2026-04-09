@@ -1,0 +1,11 @@
+{
+  "name": "cosmufr",
+  "version": "0.7.1",
+  "summary": "CosmUFR: Cosmological Parameter Inference via Unified Field Representations. 125M-parameter belief-settling neural emulator. Recovers 8 cosmological parameters from matter power spectrum P(k).",
+  "author": "Aaditya Rajgor",
+  "license": "MIT",
+  "home_page": "https://github.com/arajgor1/calybre-ufr",
+  "download_filename": "cosmufr-0.7.1.tar.gz",
+  "download_time": "2026-04-09T19:54:03.567272",
+  "package_url": "https://pypi.org/project/cosmufr/"
+}

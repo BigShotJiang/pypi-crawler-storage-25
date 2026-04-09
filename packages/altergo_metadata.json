@@ -1,11 +1,11 @@
 {
   "name": "altergo",
-  "version": "0.6.0",
+  "version": "0.10.0",
   "summary": "Switch Claude identities. Keep your context. — N-account session manager for Claude Code",
   "author": "thepixelabs",
   "license": null,
   "home_page": null,
-  "download_filename": "altergo-0.6.0.tar.gz",
-  "download_time": "2026-04-07T08:15:18.443762",
+  "download_filename": "altergo-0.10.0.tar.gz",
+  "download_time": "2026-04-09T19:53:58.353342",
   "package_url": "https://pypi.org/project/altergo/"
 }

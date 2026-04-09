@@ -1,0 +1,11 @@
+{
+  "name": "kube2docs",
+  "version": "0.1.1",
+  "summary": "Crawl a Kubernetes cluster and produce structured operational knowledge",
+  "author": "Mateusz Szymczyk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kube2docs-0.1.1.tar.gz",
+  "download_time": "2026-04-09T19:54:24.089340",
+  "package_url": "https://pypi.org/project/kube2docs/"
+}

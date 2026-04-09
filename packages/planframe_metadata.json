@@ -1,11 +1,11 @@
 {
   "name": "planframe",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "summary": "Core typed relational planning layer for Python DataFrames.",
   "author": "PlanFrame Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "planframe-0.5.0.tar.gz",
-  "download_time": "2026-04-08T19:45:57.776919",
+  "download_filename": "planframe-1.0.0.tar.gz",
+  "download_time": "2026-04-09T19:54:07.725304",
   "package_url": "https://pypi.org/project/planframe/"
 }

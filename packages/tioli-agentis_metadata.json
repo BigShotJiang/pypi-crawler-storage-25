@@ -1,0 +1,11 @@
+{
+  "name": "tioli-agentis",
+  "version": "0.3.0",
+  "summary": "Python SDK for TiOLi AGENTIS — identity, memory, and economic infrastructure for AI agents",
+  "author": "TiOLi AI Investments",
+  "license": "BUSL-1.1",
+  "home_page": "https://agentisexchange.com",
+  "download_filename": "tioli_agentis-0.3.0.tar.gz",
+  "download_time": "2026-04-09T19:54:40.404956",
+  "package_url": "https://pypi.org/project/tioli-agentis/"
+}

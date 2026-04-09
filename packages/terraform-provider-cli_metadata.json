@@ -1,0 +1,11 @@
+{
+  "name": "terraform-provider-cli",
+  "version": "0.1.1",
+  "summary": "CLI tool to fetch Terraform provider documentation from the official Terraform Registry",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "terraform_provider_cli-0.1.1.tar.gz",
+  "download_time": "2026-04-09T19:54:21.485260",
+  "package_url": "https://pypi.org/project/terraform-provider-cli/"
+}

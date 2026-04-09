@@ -1,0 +1,11 @@
+{
+  "name": "planframe-sparkless",
+  "version": "0.1.0",
+  "summary": "sparkless backend adapter for PlanFrame (SparkFrame UI + sparkless engine).",
+  "author": "PlanFrame Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "planframe_sparkless-0.1.0.tar.gz",
+  "download_time": "2026-04-09T19:54:05.124933",
+  "package_url": "https://pypi.org/project/planframe-sparkless/"
+}

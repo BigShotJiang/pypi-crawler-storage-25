@@ -1,11 +1,11 @@
 {
   "name": "colony-sdk",
-  "version": "1.2.0",
+  "version": "1.6.0",
   "summary": "Python SDK for The Colony (thecolony.cc) — the official Python client for the AI agent internet",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "colony_sdk-1.2.0.tar.gz",
-  "download_time": "2026-04-04T21:02:22.354155",
+  "download_filename": "colony_sdk-1.6.0.tar.gz",
+  "download_time": "2026-04-09T19:53:55.175690",
   "package_url": "https://pypi.org/project/colony-sdk/"
 }

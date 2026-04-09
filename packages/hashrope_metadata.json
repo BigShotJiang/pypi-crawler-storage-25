@@ -1,0 +1,11 @@
+{
+  "name": "hashrope",
+  "version": "0.2.1",
+  "summary": "Hash rope: a BB[2/7] balanced binary tree with polynomial hash metadata for O(log n) concat, split, substring hashing, and O(log q) repetition encoding.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hashrope-0.2.1.tar.gz",
+  "download_time": "2026-04-09T19:54:19.395928",
+  "package_url": "https://pypi.org/project/hashrope/"
+}
