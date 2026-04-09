@@ -1,11 +1,11 @@
 {
   "name": "aisbf",
-  "version": "0.99.5",
+  "version": "0.99.7",
   "summary": "AISBF - AI Service Broker Framework || AI Should Be Free - A modular proxy server for managing multiple AI provider integrations",
   "author": "AISBF Contributors",
   "license": null,
   "home_page": "https://git.nexlab.net/nexlab/aisbf.git",
-  "download_filename": "aisbf-0.99.5.tar.gz",
-  "download_time": "2026-04-09T11:41:13.971760",
+  "download_filename": "aisbf-0.99.7.tar.gz",
+  "download_time": "2026-04-09T12:50:39.896498",
   "package_url": "https://pypi.org/project/aisbf/"
 }

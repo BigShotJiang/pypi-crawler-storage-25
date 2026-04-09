@@ -1,11 +1,11 @@
 {
   "name": "codicent-cli",
-  "version": "0.8.0",
+  "version": "0.8.2",
   "summary": "Command-line interface for the Codicent API",
   "author": "Johan Isaksson",
   "license": null,
   "home_page": "https://github.com/izaxon/codicent-cli",
-  "download_filename": "codicent_cli-0.8.0.tar.gz",
-  "download_time": "2026-04-02T08:08:13.742908",
+  "download_filename": "codicent_cli-0.8.2.tar.gz",
+  "download_time": "2026-04-09T12:51:12.884344",
   "package_url": "https://pypi.org/project/codicent-cli/"
 }

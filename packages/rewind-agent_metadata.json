@@ -1,11 +1,11 @@
 {
   "name": "rewind-agent",
-  "version": "0.4.0",
+  "version": "0.4.4",
   "summary": "Chrome DevTools for AI agents — record, inspect, fork, replay, diff.",
   "author": "Rewind Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "rewind_agent-0.4.0.tar.gz",
-  "download_time": "2026-04-09T10:40:34.592149",
+  "download_filename": "rewind_agent-0.4.4.tar.gz",
+  "download_time": "2026-04-09T12:50:45.549361",
   "package_url": "https://pypi.org/project/rewind-agent/"
 }

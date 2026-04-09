@@ -1,0 +1,11 @@
+{
+  "name": "librapidsmpf-cu13",
+  "version": "26.4.0",
+  "summary": "Multi-GPU and distributed-memory algorithms",
+  "author": "NVIDIA Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "librapidsmpf_cu13-26.4.0-py3-none-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2026-04-09T12:51:00.526376",
+  "package_url": "https://pypi.org/project/librapidsmpf-cu13/"
+}

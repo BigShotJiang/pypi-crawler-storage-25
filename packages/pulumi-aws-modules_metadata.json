@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-aws-modules",
+  "version": "0.1.0",
+  "summary": "Reusable Pulumi AWS primitive modules for Onii infrastructure.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulumi_aws_modules-0.1.0.tar.gz",
+  "download_time": "2026-04-09T12:50:44.524233",
+  "package_url": "https://pypi.org/project/pulumi-aws-modules/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "passclip",
+  "version": "1.2.1",
+  "summary": "Security-focused CLI for managing secrets in GPG-backed environments. Extends pass with TOTP, AES-256-GCM backups, secure clipboard handling, and runtime secret injection.",
+  "author": "Rutvik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "passclip-1.2.1.tar.gz",
+  "download_time": "2026-04-09T12:50:58.472612",
+  "package_url": "https://pypi.org/project/passclip/"
+}

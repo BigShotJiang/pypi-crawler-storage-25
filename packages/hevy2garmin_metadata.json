@@ -1,11 +1,11 @@
 {
   "name": "hevy2garmin",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Sync Hevy gym workouts to Garmin Connect — exercise mapping, FIT file generation, and automatic upload",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hevy2garmin-0.1.1.tar.gz",
-  "download_time": "2026-04-04T19:23:12.794919",
+  "download_filename": "hevy2garmin-0.2.0.tar.gz",
+  "download_time": "2026-04-09T12:51:10.307314",
   "package_url": "https://pypi.org/project/hevy2garmin/"
 }

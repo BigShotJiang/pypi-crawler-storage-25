@@ -1,0 +1,11 @@
+{
+  "name": "icolyzer",
+  "version": "1.10.0",
+  "summary": "Auxiliary set of tools to work with measurement data produced by the ICOtronic system",
+  "author": "Clemens Burgstaller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "icolyzer-1.10.0.tar.gz",
+  "download_time": "2026-04-09T12:50:33.199250",
+  "package_url": "https://pypi.org/project/icolyzer/"
+}

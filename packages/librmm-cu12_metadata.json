@@ -1,0 +1,11 @@
+{
+  "name": "librmm-cu12",
+  "version": "26.4.0",
+  "summary": "rmm - RAPIDS Memory Manager",
+  "author": "NVIDIA Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "librmm_cu12-26.4.0-py3-none-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2026-04-09T12:51:01.566519",
+  "package_url": "https://pypi.org/project/librmm-cu12/"
+}

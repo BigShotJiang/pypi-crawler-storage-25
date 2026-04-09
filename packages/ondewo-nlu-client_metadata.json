@@ -1,0 +1,11 @@
+{
+  "name": "ondewo-nlu-client",
+  "version": "6.5.0",
+  "summary": "ONDEWO Natural Language Understanding (NLU) Client library for Python",
+  "author": "ONDEWO GmbH",
+  "license": null,
+  "home_page": "https://github.com/ondewo/ondewo-nlu-client-python",
+  "download_filename": "ondewo_nlu_client-6.5.0.tar.gz",
+  "download_time": "2026-04-09T12:50:29.617272",
+  "package_url": "https://pypi.org/project/ondewo-nlu-client/"
+}
