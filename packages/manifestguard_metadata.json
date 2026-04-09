@@ -1,11 +1,11 @@
 {
   "name": "manifestguard",
-  "version": "1.6.26.post1",
-  "summary": "Public bootstrap installer for the protected ManifestGuard release payload",
+  "version": "1.6.44",
+  "summary": "Python package manifest validation (pyproject.toml, setup.py, requirements.txt) with policy enforcement and SBOM generation",
   "author": null,
-  "license": "Proprietary",
+  "license": null,
   "home_page": null,
-  "download_filename": "manifestguard-1.6.26.post1.tar.gz",
-  "download_time": "2026-03-31T10:35:46.064072",
+  "download_filename": "manifestguard-1.6.44.tar.gz",
+  "download_time": "2026-04-09T11:41:28.363612",
   "package_url": "https://pypi.org/project/manifestguard/"
 }

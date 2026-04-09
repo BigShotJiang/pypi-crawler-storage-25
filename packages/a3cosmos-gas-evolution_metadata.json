@@ -1,11 +1,11 @@
 {
   "name": "a3cosmos-gas-evolution",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "A Python Package for Galaxy Cold Molecular Gas and Star Formation Evolution Equations.",
   "author": "A3COSMOS Team",
   "license": "BSD License",
   "home_page": "https://sites.google.com/view/a3cosmos",
-  "download_filename": "a3cosmos_gas_evolution-2.0.2.tar.gz",
-  "download_time": "2026-04-06T19:34:10.691205",
+  "download_filename": "a3cosmos_gas_evolution-2.0.3.tar.gz",
+  "download_time": "2026-04-09T11:41:02.914098",
   "package_url": "https://pypi.org/project/a3cosmos-gas-evolution/"
 }

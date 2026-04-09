@@ -1,11 +1,11 @@
 {
   "name": "lofar-sid",
-  "version": "2.0.0",
+  "version": "2.20",
   "summary": "Software interface description",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": "https://git.astron.nl/lofar2.0/sid",
-  "download_filename": "lofar_sid-2.0.0.tar.gz",
-  "download_time": "2026-03-30T08:49:59.868336",
+  "download_filename": "lofar_sid-2.20.tar.gz",
+  "download_time": "2026-04-09T11:41:38.659828",
   "package_url": "https://pypi.org/project/lofar-sid/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "xtimeline",
+  "version": "0.1.4",
+  "summary": "Lightweight X/Twitter timeline client (GraphQL via cURL or auth strategies)",
+  "author": "Stephan Akkerman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xtimeline-0.1.4.tar.gz",
+  "download_time": "2026-04-09T11:41:09.830204",
+  "package_url": "https://pypi.org/project/xtimeline/"
+}

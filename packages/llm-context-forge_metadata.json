@@ -1,0 +1,11 @@
+{
+  "name": "llm-context-forge",
+  "version": "0.1.5",
+  "summary": "Production-grade LLMOps infrastructure for context window management, token counting, document chunking, and compression",
+  "author": "Dhruv",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_context_forge-0.1.5.tar.gz",
+  "download_time": "2026-04-09T11:41:10.342905",
+  "package_url": "https://pypi.org/project/llm-context-forge/"
+}

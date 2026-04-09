@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.dynamodb-mcp-server",
+  "version": "2.0.24",
+  "summary": "The official MCP Server for interacting with AWS DynamoDB",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_dynamodb_mcp_server-2.0.24.tar.gz",
+  "download_time": "2026-04-09T11:41:40.716368",
+  "package_url": "https://pypi.org/project/awslabs.dynamodb-mcp-server/"
+}

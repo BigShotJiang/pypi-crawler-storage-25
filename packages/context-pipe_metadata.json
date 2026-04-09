@@ -1,0 +1,11 @@
+{
+  "name": "context-pipe",
+  "version": "0.1.0",
+  "summary": "Extensible conversation context management toolkit for LLM applications",
+  "author": "Sarvesh Kr. Dwivedi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "context_pipe-0.1.0-py3-none-any.whl",
+  "download_time": "2026-04-09T11:41:21.166973",
+  "package_url": "https://pypi.org/project/context-pipe/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-salesforce",
+  "version": "6.0",
+  "summary": "a Salesforce backend for Django's ORM",
+  "author": null,
+  "license": "MIT (or AGPL)",
+  "home_page": null,
+  "download_filename": "django_salesforce-6.0.tar.gz",
+  "download_time": "2026-04-09T11:41:19.116299",
+  "package_url": "https://pypi.org/project/django-salesforce/"
+}
