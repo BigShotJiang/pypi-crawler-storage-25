@@ -1,0 +1,11 @@
+{
+  "name": "dc-consent",
+  "version": "4.1.8",
+  "summary": "A Django app to add a cookie consent modal to your site.",
+  "author": "Nigel",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "dc_consent-4.1.8.tar.gz",
+  "download_time": "2026-04-09T09:11:05.239183",
+  "package_url": "https://pypi.org/project/dc-consent/"
+}

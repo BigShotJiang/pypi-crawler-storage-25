@@ -1,0 +1,11 @@
+{
+  "name": "openalgo",
+  "version": "1.0.47",
+  "summary": "A Python library for interacting with OpenAlgo's trading APIs with high-performance technical indicators",
+  "author": "Rajandran R",
+  "license": null,
+  "home_page": "https://openalgo.in",
+  "download_filename": "openalgo-1.0.47.tar.gz",
+  "download_time": "2026-04-09T09:10:51.090681",
+  "package_url": "https://pypi.org/project/openalgo/"
+}

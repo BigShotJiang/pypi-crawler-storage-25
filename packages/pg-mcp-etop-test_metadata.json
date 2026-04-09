@@ -1,0 +1,11 @@
+{
+  "name": "pg-mcp-etop-test",
+  "version": "0.1.0",
+  "summary": "PostgreSQL MCP处理器 - 提供数据库表查询、GDP数据获取等功能的MCP服务",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pg_mcp_etop_test-0.1.0.tar.gz",
+  "download_time": "2026-04-09T09:10:57.383355",
+  "package_url": "https://pypi.org/project/pg-mcp-etop-test/"
+}

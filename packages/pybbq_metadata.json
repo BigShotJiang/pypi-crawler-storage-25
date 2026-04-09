@@ -1,11 +1,11 @@
 {
   "name": "pybbq",
-  "version": "2026.4.2",
+  "version": "2026.4.3",
   "summary": "Python thermo-electromagnetic modelling tool for simulating transients in superconductors",
   "author": "Tim Mulder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pybbq-2026.4.2.tar.gz",
-  "download_time": "2026-04-09T07:59:17.521129",
+  "download_filename": "pybbq-2026.4.3.tar.gz",
+  "download_time": "2026-04-09T09:10:30.683678",
   "package_url": "https://pypi.org/project/pybbq/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "openagent-framework",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "Simplified LLM agent framework with MCP, memory, and multi-channel support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openagent_framework-0.2.0.tar.gz",
-  "download_time": "2026-04-09T06:14:56.016656",
+  "download_filename": "openagent_framework-0.2.3.tar.gz",
+  "download_time": "2026-04-09T09:10:26.473755",
   "package_url": "https://pypi.org/project/openagent-framework/"
 }

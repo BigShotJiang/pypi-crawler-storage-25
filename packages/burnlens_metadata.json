@@ -1,0 +1,11 @@
+{
+  "name": "burnlens",
+  "version": "0.1.1",
+  "summary": "See where your LLM money goes. Open-source proxy for AI API cost tracking, waste detection, and budget alerts.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "burnlens-0.1.1.tar.gz",
+  "download_time": "2026-04-09T09:10:40.144048",
+  "package_url": "https://pypi.org/project/burnlens/"
+}

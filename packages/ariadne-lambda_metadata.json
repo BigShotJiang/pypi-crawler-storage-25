@@ -1,0 +1,11 @@
+{
+  "name": "ariadne-lambda",
+  "version": "0.4.1",
+  "summary": "This package extends the Ariadne library by adding a GraphQL HTTP handler designed for use in AWS Lambda environments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ariadne_lambda-0.4.1.tar.gz",
+  "download_time": "2026-04-09T09:10:56.863482",
+  "package_url": "https://pypi.org/project/ariadne-lambda/"
+}
