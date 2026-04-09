@@ -1,11 +1,11 @@
 {
   "name": "tritonparse",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "TritonParse: A Compiler Tracer, Visualizer, and mini-Reproducer Generator for Triton Kernels",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tritonparse-0.4.2.tar.gz",
-  "download_time": "2026-04-04T07:39:19.376355",
+  "download_filename": "tritonparse-0.4.3.tar.gz",
+  "download_time": "2026-04-09T07:59:50.287902",
   "package_url": "https://pypi.org/project/tritonparse/"
 }

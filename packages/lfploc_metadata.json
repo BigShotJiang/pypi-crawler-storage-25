@@ -1,11 +1,11 @@
 {
   "name": "lfploc",
-  "version": "0.0.2",
-  "summary": "A python package to estimate anatomical location using iEEG probes",
+  "version": "0.0.3",
+  "summary": "A python package to estimate anatomical location using high-density neural probes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lfploc-0.0.2.tar.gz",
-  "download_time": "2026-03-30T14:15:04.454427",
+  "download_filename": "lfploc-0.0.3.tar.gz",
+  "download_time": "2026-04-09T07:59:54.488734",
   "package_url": "https://pypi.org/project/lfploc/"
 }

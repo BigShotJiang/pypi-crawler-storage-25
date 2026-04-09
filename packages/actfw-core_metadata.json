@@ -1,0 +1,11 @@
+{
+  "name": "actfw-core",
+  "version": "2.15.0",
+  "summary": "Core components of actfw, independent of specific devices",
+  "author": "Idein Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/Idein/actfw-core",
+  "download_filename": "actfw_core-2.15.0.tar.gz",
+  "download_time": "2026-04-09T07:59:35.221584",
+  "package_url": "https://pypi.org/project/actfw-core/"
+}

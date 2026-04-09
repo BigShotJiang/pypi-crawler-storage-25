@@ -1,0 +1,11 @@
+{
+  "name": "urlcheck-smith",
+  "version": "0.6.0",
+  "summary": "Minimal URL extraction / classification / HTTP check pipeline.",
+  "author": "Eiichi Yamamoto",
+  "license": null,
+  "home_page": null,
+  "download_filename": "urlcheck_smith-0.6.0.tar.gz",
+  "download_time": "2026-04-09T07:59:38.864012",
+  "package_url": "https://pypi.org/project/urlcheck-smith/"
+}

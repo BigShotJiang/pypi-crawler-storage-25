@@ -1,11 +1,11 @@
 {
   "name": "lunatone-rest-api-client",
-  "version": "0.8.1",
+  "version": "0.9.0",
   "summary": "A client library for accessing the Lunatone REST API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lunatone_rest_api_client-0.8.1.tar.gz",
-  "download_time": "2026-04-01T08:16:22.274467",
+  "download_filename": "lunatone_rest_api_client-0.9.0.tar.gz",
+  "download_time": "2026-04-09T07:59:32.124028",
   "package_url": "https://pypi.org/project/lunatone-rest-api-client/"
 }

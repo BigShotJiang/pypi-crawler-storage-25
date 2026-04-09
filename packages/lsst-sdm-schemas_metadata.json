@@ -1,0 +1,11 @@
+{
+  "name": "lsst-sdm-schemas",
+  "version": "30.2026.1500",
+  "summary": "Science Data Model (SDM) Schemas for Rubin Observatory",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsst_sdm_schemas-30.2026.1500.tar.gz",
+  "download_time": "2026-04-09T07:59:44.545098",
+  "package_url": "https://pypi.org/project/lsst-sdm-schemas/"
+}
