@@ -1,0 +1,11 @@
+{
+  "name": "voyant-api",
+  "version": "0.7.0",
+  "summary": "Python bindings for Voyant Photonics, Inc. sensors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voyant_api-0.7.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-09T16:21:04.047833",
+  "package_url": "https://pypi.org/project/voyant-api/"
+}

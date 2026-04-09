@@ -1,0 +1,11 @@
+{
+  "name": "bithub",
+  "version": "0.1.1",
+  "summary": "The missing friendly interface for BitNet inference. Ollama for 1-bit LLMs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bithub-0.1.1-py3-none-any.whl",
+  "download_time": "2026-04-09T16:20:45.746271",
+  "package_url": "https://pypi.org/project/bithub/"
+}

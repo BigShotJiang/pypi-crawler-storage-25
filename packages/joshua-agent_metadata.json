@@ -1,11 +1,11 @@
 {
   "name": "joshua-agent",
-  "version": "1.15.0",
+  "version": "1.16.0",
   "summary": "Autonomous gated software sprints. Define your team in YAML — dev, bug-hunter, QA. Gate agent issues GO/CAUTION/REVERT. Auto-deploy on GO, auto-revert on REVERT. Self-learning wiki across cycles. Works with Claude Code, Aider, Codex, or any LLM CLI. Shall we play a game?",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "joshua_agent-1.15.0.tar.gz",
-  "download_time": "2026-04-09T02:15:14.759475",
+  "download_filename": "joshua_agent-1.16.0.tar.gz",
+  "download_time": "2026-04-09T16:20:52.528730",
   "package_url": "https://pypi.org/project/joshua-agent/"
 }

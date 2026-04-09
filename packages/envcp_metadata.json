@@ -1,0 +1,11 @@
+{
+  "name": "envcp",
+  "version": "1.0.83",
+  "summary": "Encrypted environment variable vault with AI access policies, keeping secrets safe from AI agents",
+  "author": null,
+  "license": "SAL-1.0",
+  "home_page": null,
+  "download_filename": "envcp-1.0.83.tar.gz",
+  "download_time": "2026-04-09T16:20:50.956879",
+  "package_url": "https://pypi.org/project/envcp/"
+}

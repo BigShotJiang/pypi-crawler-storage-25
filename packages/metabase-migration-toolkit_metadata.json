@@ -1,0 +1,11 @@
+{
+  "name": "metabase-migration-toolkit",
+  "version": "1.2.1",
+  "summary": "Export and import Metabase content (collections, questions, dashboards) between instances",
+  "author": "Metabase Migration Toolkit Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "metabase_migration_toolkit-1.2.1.tar.gz",
+  "download_time": "2026-04-09T16:20:33.463117",
+  "package_url": "https://pypi.org/project/metabase-migration-toolkit/"
+}

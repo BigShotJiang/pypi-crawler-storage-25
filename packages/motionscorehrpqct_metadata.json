@@ -1,11 +1,11 @@
 {
   "name": "motionscorehrpqct",
-  "version": "2.2.1",
+  "version": "2.2.3",
   "summary": "MotionScoreHRpQCT core CLI for dataset-first HR-pQCT motion grading",
   "author": "Matthias Walle",
   "license": null,
   "home_page": "https://github.com/wallematthias/MotionScoreHRpQCT",
-  "download_filename": "motionscorehrpqct-2.2.1.tar.gz",
-  "download_time": "2026-04-08T22:04:33.216878",
+  "download_filename": "motionscorehrpqct-2.2.3.tar.gz",
+  "download_time": "2026-04-09T16:21:00.373016",
   "package_url": "https://pypi.org/project/motionscorehrpqct/"
 }

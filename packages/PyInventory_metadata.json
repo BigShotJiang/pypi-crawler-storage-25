@@ -1,0 +1,11 @@
+{
+  "name": "PyInventory",
+  "version": "0.24.1",
+  "summary": "Web based management to catalog things including state and location etc. using Python/Django.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pyinventory-0.24.1.tar.gz",
+  "download_time": "2026-04-09T16:20:42.518319",
+  "package_url": "https://pypi.org/project/PyInventory/"
+}

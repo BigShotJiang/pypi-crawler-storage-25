@@ -1,0 +1,11 @@
+{
+  "name": "fuzzy-ops-lib",
+  "version": "0.0.2",
+  "summary": "Fuzzy set operations library (union, intersection, complement, difference)",
+  "author": "Daniel Tayade",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fuzzy_ops_lib-0.0.2.tar.gz",
+  "download_time": "2026-04-09T16:21:16.122368",
+  "package_url": "https://pypi.org/project/fuzzy-ops-lib/"
+}

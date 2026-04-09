@@ -1,11 +1,11 @@
 {
   "name": "bpsai-agent-core",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Base agent package for the BPS AI ecosystem — tick lifecycle, enforcement, quality profiles",
   "author": null,
   "license": "LicenseRef-Proprietary",
   "home_page": null,
-  "download_filename": "bpsai_agent_core-0.2.0.tar.gz",
-  "download_time": "2026-03-31T21:57:01.932975",
+  "download_filename": "bpsai_agent_core-0.4.0.tar.gz",
+  "download_time": "2026-04-09T16:20:59.853691",
   "package_url": "https://pypi.org/project/bpsai-agent-core/"
 }
