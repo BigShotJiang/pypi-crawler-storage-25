@@ -1,0 +1,11 @@
+{
+  "name": "robot-tool-mcp",
+  "version": "1.2.2",
+  "summary": "MCP server wrapping the ROBOT ontology CLI tool",
+  "author": "Josef Hardi",
+  "license": "BSD 2-Clause License",
+  "home_page": null,
+  "download_filename": "robot_tool_mcp-1.2.2.tar.gz",
+  "download_time": "2026-04-09T21:48:28.246313",
+  "package_url": "https://pypi.org/project/robot-tool-mcp/"
+}

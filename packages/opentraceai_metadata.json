@@ -1,11 +1,11 @@
 {
   "name": "opentraceai",
-  "version": "0.3.0rc23",
+  "version": "0.3.0rc30",
   "summary": "OpenTrace Python agent — maps system architecture, code structure, and service relationships into a knowledge graph",
   "author": "OpenTrace Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "opentraceai-0.3.0rc23.tar.gz",
-  "download_time": "2026-04-01T22:47:39.677538",
+  "download_filename": "opentraceai-0.3.0rc30.tar.gz",
+  "download_time": "2026-04-09T21:48:04.917364",
   "package_url": "https://pypi.org/project/opentraceai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pycogat",
+  "version": "0.2.7",
+  "summary": "Python package that splits district level CogAT score reports into student level single files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycogat-0.2.7.tar.gz",
+  "download_time": "2026-04-09T21:47:57.546319",
+  "package_url": "https://pypi.org/project/pycogat/"
+}

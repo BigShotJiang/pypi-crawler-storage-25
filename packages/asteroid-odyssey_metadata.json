@@ -1,11 +1,11 @@
 {
   "name": "asteroid-odyssey",
-  "version": "1.6.406",
+  "version": "1.6.434",
   "summary": "Python SDK for the Asteroid Agents API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "asteroid_odyssey-1.6.406.tar.gz",
-  "download_time": "2026-03-31T23:50:38.338531",
+  "download_filename": "asteroid_odyssey-1.6.434.tar.gz",
+  "download_time": "2026-04-09T21:47:50.798480",
   "package_url": "https://pypi.org/project/asteroid-odyssey/"
 }

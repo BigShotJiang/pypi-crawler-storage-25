@@ -1,11 +1,11 @@
 {
   "name": "wandb-agentstream",
-  "version": "0.5.2",
+  "version": "0.5.4",
   "summary": "Read, transform, and write AI agent session logs across formats",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wandb_agentstream-0.5.2-py3-none-any.whl",
-  "download_time": "2026-04-05T22:04:10.767800",
+  "download_filename": "wandb_agentstream-0.5.4-py3-none-any.whl",
+  "download_time": "2026-04-09T21:48:13.184771",
   "package_url": "https://pypi.org/project/wandb-agentstream/"
 }

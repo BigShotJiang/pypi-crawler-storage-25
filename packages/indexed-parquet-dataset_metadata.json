@@ -1,0 +1,11 @@
+{
+  "name": "indexed-parquet-dataset",
+  "version": "0.2.6.dev0",
+  "summary": "High-performance O(1) random access indexer for Parquet datasets in PyTorch",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "indexed_parquet_dataset-0.2.6.dev0.tar.gz",
+  "download_time": "2026-04-09T21:48:02.306211",
+  "package_url": "https://pypi.org/project/indexed-parquet-dataset/"
+}

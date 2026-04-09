@@ -1,0 +1,11 @@
+{
+  "name": "nestling-growth-app",
+  "version": "0.2.0",
+  "summary": "An interactive Dash app to analyze nestling growth using biological models",
+  "author": "Jorge Lizarazo, Juan Camilo Guerra & Gustavo A Londoño",
+  "license": "MIT",
+  "home_page": "https://github.com/jorgelizarazo94/NestlingGrowthApp",
+  "download_filename": "nestling_growth_app-0.2.0.tar.gz",
+  "download_time": "2026-04-09T21:48:08.536802",
+  "package_url": "https://pypi.org/project/nestling-growth-app/"
+}

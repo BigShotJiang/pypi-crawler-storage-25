@@ -1,0 +1,11 @@
+{
+  "name": "chordpro-renderer",
+  "version": "1.0.3",
+  "summary": "ChordPro parser, renderer, and Flask extension",
+  "author": "Jared McKnight",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chordpro_renderer-1.0.3.tar.gz",
+  "download_time": "2026-04-09T21:48:01.774176",
+  "package_url": "https://pypi.org/project/chordpro-renderer/"
+}
