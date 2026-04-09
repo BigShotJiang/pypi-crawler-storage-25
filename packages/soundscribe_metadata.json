@@ -1,0 +1,11 @@
+{
+  "name": "soundscribe",
+  "version": "0.1.1",
+  "summary": "Audio transcription CLI tool using faster-whisper",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "soundscribe-0.1.1.tar.gz",
+  "download_time": "2026-04-09T10:39:50.495224",
+  "package_url": "https://pypi.org/project/soundscribe/"
+}

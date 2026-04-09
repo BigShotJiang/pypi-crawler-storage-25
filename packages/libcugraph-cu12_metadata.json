@@ -1,0 +1,11 @@
+{
+  "name": "libcugraph-cu12",
+  "version": "26.4.0",
+  "summary": "cuGraph - RAPIDS GPU Graph Analytics (C++)",
+  "author": "NVIDIA Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libcugraph_cu12-26.4.0.tar.gz",
+  "download_time": "2026-04-09T10:40:21.710104",
+  "package_url": "https://pypi.org/project/libcugraph-cu12/"
+}

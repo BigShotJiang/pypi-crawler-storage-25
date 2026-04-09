@@ -1,11 +1,11 @@
 {
   "name": "protoruf",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python library written in Rust for JSON/Protobuf conversion",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "protoruf-0.1.1.tar.gz",
-  "download_time": "2026-04-08T23:57:21.818131",
+  "download_filename": "protoruf-0.1.2.tar.gz",
+  "download_time": "2026-04-09T10:40:26.330778",
   "package_url": "https://pypi.org/project/protoruf/"
 }

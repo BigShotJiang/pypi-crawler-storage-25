@@ -1,11 +1,11 @@
 {
   "name": "sedes",
-  "version": "0.1.0",
+  "version": "0.1.7",
   "summary": "Python bindings for parallel ngspice simulation via Rust worker pool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sedes-0.1.0.tar.gz",
-  "download_time": "2026-04-04T21:43:21.481468",
+  "download_filename": "sedes-0.1.7.tar.gz",
+  "download_time": "2026-04-09T10:40:34.082389",
   "package_url": "https://pypi.org/project/sedes/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "evecli-llm",
+  "version": "0.1.1",
+  "summary": "A CLI backend for LLM assistants to manage EVE Online via the ESI API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evecli_llm-0.1.1.tar.gz",
+  "download_time": "2026-04-09T10:40:16.604832",
+  "package_url": "https://pypi.org/project/evecli-llm/"
+}

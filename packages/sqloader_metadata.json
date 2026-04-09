@@ -1,0 +1,11 @@
+{
+  "name": "sqloader",
+  "version": "0.2.8",
+  "summary": "A simple and extensible SQL migration and loader utility for Python.",
+  "author": "horrible-gh",
+  "license": null,
+  "home_page": "https://github.com/horrible-gh/py_sqloader.git",
+  "download_filename": "sqloader-0.2.8.tar.gz",
+  "download_time": "2026-04-09T10:40:33.572013",
+  "package_url": "https://pypi.org/project/sqloader/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "moleculerpy",
-  "version": "0.14.21",
+  "version": "0.14.22",
   "summary": "Fast, modern microservices framework for Python - Port of Moleculer.js",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moleculerpy-0.14.21.tar.gz",
-  "download_time": "2026-04-07T11:42:24.786232",
+  "download_filename": "moleculerpy-0.14.22.tar.gz",
+  "download_time": "2026-04-09T10:39:56.792023",
   "package_url": "https://pypi.org/project/moleculerpy/"
 }

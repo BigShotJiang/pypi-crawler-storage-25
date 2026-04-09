@@ -1,11 +1,11 @@
 {
   "name": "sensortower-st-cli",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "Sensor Tower CLI — browser cookies + httpx, JSON envelope for agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sensortower_st_cli-0.1.5.tar.gz",
-  "download_time": "2026-04-01T02:30:57.474096",
+  "download_filename": "sensortower_st_cli-0.1.8.tar.gz",
+  "download_time": "2026-04-09T10:40:03.503189",
   "package_url": "https://pypi.org/project/sensortower-st-cli/"
 }

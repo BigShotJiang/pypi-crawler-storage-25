@@ -1,0 +1,11 @@
+{
+  "name": "cugraph-pyg-cu13",
+  "version": "26.2.1",
+  "summary": "cugraph-pyg - PyG support for cuGraph massive-scale, ultra-fast GPU graph analytics.",
+  "author": "NVIDIA Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cugraph_pyg_cu13-26.2.1-py3-none-any.whl",
+  "download_time": "2026-04-09T10:39:47.751925",
+  "package_url": "https://pypi.org/project/cugraph-pyg-cu13/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "uow-lib",
+  "version": "0.1.1",
+  "summary": "Generic Unit of Work pattern implementation for Python",
+  "author": "Sokrat Magomedov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uow_lib-0.1.1.tar.gz",
+  "download_time": "2026-04-09T10:40:27.862943",
+  "package_url": "https://pypi.org/project/uow-lib/"
+}

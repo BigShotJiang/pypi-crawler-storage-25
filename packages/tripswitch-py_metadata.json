@@ -1,11 +1,11 @@
 {
   "name": "tripswitch-py",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Official Python SDK for the Tripswitch circuit breaker service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tripswitch_py-0.2.0.tar.gz",
-  "download_time": "2026-04-08T19:45:50.991501",
+  "download_filename": "tripswitch_py-0.2.2.tar.gz",
+  "download_time": "2026-04-09T10:40:00.363041",
   "package_url": "https://pypi.org/project/tripswitch-py/"
 }
