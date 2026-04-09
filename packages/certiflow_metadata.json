@@ -1,0 +1,11 @@
+{
+  "name": "certiflow",
+  "version": "0.1.0",
+  "summary": "Confidence fusion, risk scoring & drift detection pipeline — from raw logits to actionable risk levels in five layers.",
+  "author": "刘秉其",
+  "license": null,
+  "home_page": null,
+  "download_filename": "certiflow-0.1.0.tar.gz",
+  "download_time": "2026-04-09T06:14:57.167790",
+  "package_url": "https://pypi.org/project/certiflow/"
+}

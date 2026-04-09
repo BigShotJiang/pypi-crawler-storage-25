@@ -1,0 +1,11 @@
+{
+  "name": "auto-quant-tool",
+  "version": "0.1.1.1",
+  "summary": "Automated quantization benchmarking suite for GGUF, GPTQ, and TFLite models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "auto_quant_tool-0.1.1.1.tar.gz",
+  "download_time": "2026-04-09T06:15:19.033590",
+  "package_url": "https://pypi.org/project/auto-quant-tool/"
+}

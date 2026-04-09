@@ -1,0 +1,11 @@
+{
+  "name": "ta-saham",
+  "version": "1.0.0",
+  "summary": "Technical Analysis library for Indonesian stocks (Saham). Pure Python/Pandas — zero C dependencies. Replaces TA-Lib & pandas-ta.",
+  "author": "AnalisaSaham",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ta_saham-1.0.0.tar.gz",
+  "download_time": "2026-04-09T06:15:04.841336",
+  "package_url": "https://pypi.org/project/ta-saham/"
+}

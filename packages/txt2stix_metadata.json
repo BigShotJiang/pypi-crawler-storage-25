@@ -1,0 +1,11 @@
+{
+  "name": "txt2stix",
+  "version": "1.4.4",
+  "summary": "txt2stix is a Python script that is designed to identify and extract IoCs and TTPs from text files, identify the relationships between them, convert them to STIX 2.1 objects, and output as a STIX 2.1 bundle.",
+  "author": "dogesec",
+  "license": null,
+  "home_page": null,
+  "download_filename": "txt2stix-1.4.4.tar.gz",
+  "download_time": "2026-04-09T06:14:58.320111",
+  "package_url": "https://pypi.org/project/txt2stix/"
+}

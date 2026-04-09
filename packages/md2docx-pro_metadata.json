@@ -1,0 +1,11 @@
+{
+  "name": "md2docx-pro",
+  "version": "0.1.2",
+  "summary": "A Python package to convert Markdown to Docx with custom font and embedded images.",
+  "author": "Gemini Assistant",
+  "license": null,
+  "home_page": "https://github.com/wgwang/md2docx",
+  "download_filename": "md2docx_pro-0.1.2.tar.gz",
+  "download_time": "2026-04-09T06:14:33.059464",
+  "package_url": "https://pypi.org/project/md2docx-pro/"
+}

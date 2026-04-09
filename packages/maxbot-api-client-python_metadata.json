@@ -1,11 +1,11 @@
 {
   "name": "maxbot-api-client-python",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "Python client for MAX Bot API with Sync and Async support",
   "author": "Green API",
   "license": null,
   "home_page": null,
-  "download_filename": "maxbot_api_client_python-1.2.1.tar.gz",
-  "download_time": "2026-04-09T04:46:25.035290",
+  "download_filename": "maxbot_api_client_python-1.2.2.tar.gz",
+  "download_time": "2026-04-09T06:14:59.415205",
   "package_url": "https://pypi.org/project/maxbot-api-client-python/"
 }

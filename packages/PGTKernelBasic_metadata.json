@@ -1,11 +1,11 @@
 {
   "name": "PGTKernelBasic",
-  "version": "0.22.0",
-  "summary": "Lightweight UI framework for Pygame",
-  "author": "Your Name",
+  "version": "0.23.6",
+  "summary": "hello",
+  "author": "tranngoctungchess-bit",
   "license": null,
   "home_page": null,
-  "download_filename": "pgtkernelbasic-0.22.0.tar.gz",
-  "download_time": "2026-04-08T15:47:02.182938",
+  "download_filename": "pgtkernelbasic-0.23.6.tar.gz",
+  "download_time": "2026-04-09T06:14:35.343158",
   "package_url": "https://pypi.org/project/PGTKernelBasic/"
 }
