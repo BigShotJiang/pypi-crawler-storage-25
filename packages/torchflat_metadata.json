@@ -1,0 +1,11 @@
+{
+  "name": "torchflat",
+  "version": "0.9.22",
+  "summary": "GPU-accelerated photometric preprocessing with UMI detrending for exoplanet transit searches",
+  "author": "Omar Khan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "torchflat-0.9.22.tar.gz",
+  "download_time": "2026-04-09T02:14:54.296403",
+  "package_url": "https://pypi.org/project/torchflat/"
+}

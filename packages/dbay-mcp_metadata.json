@@ -1,11 +1,11 @@
 {
   "name": "dbay-mcp",
-  "version": "0.4.2",
+  "version": "0.5.2",
   "summary": "DBay MCP server — knowledge base and agent memory for AI tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dbay_mcp-0.4.2.tar.gz",
-  "download_time": "2026-04-08T07:47:14.755153",
+  "download_filename": "dbay_mcp-0.5.2.tar.gz",
+  "download_time": "2026-04-09T02:15:10.691774",
   "package_url": "https://pypi.org/project/dbay-mcp/"
 }

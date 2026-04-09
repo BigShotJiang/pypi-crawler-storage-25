@@ -1,11 +1,11 @@
 {
   "name": "ambivo-agents",
-  "version": "1.4.21",
+  "version": "1.4.22",
   "summary": "Multi-Agent AI System for automation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ambivo_agents-1.4.21.tar.gz",
-  "download_time": "2026-04-08T23:57:14.617244",
+  "download_filename": "ambivo_agents-1.4.22.tar.gz",
+  "download_time": "2026-04-09T02:15:27.538190",
   "package_url": "https://pypi.org/project/ambivo-agents/"
 }

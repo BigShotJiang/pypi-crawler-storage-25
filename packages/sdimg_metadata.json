@@ -1,0 +1,11 @@
+{
+  "name": "sdimg",
+  "version": "0.2.0",
+  "summary": "Small, function-based image and mask processing library built on numpy",
+  "author": "kn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sdimg-0.2.0.tar.gz",
+  "download_time": "2026-04-09T02:15:04.002799",
+  "package_url": "https://pypi.org/project/sdimg/"
+}

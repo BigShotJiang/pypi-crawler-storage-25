@@ -1,11 +1,11 @@
 {
   "name": "shypmate",
-  "version": "0.1.0.post21",
+  "version": "0.1.0.post27",
   "summary": "Autonomous AI dev agents as Docker containers — add to any project as a submodule",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shypmate-0.1.0.post21.tar.gz",
-  "download_time": "2026-03-29T23:49:33.688179",
+  "download_filename": "shypmate-0.1.0.post27.tar.gz",
+  "download_time": "2026-04-09T02:15:13.634201",
   "package_url": "https://pypi.org/project/shypmate/"
 }

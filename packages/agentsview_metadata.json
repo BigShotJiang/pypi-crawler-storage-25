@@ -1,11 +1,11 @@
 {
   "name": "agentsview",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "summary": "Local web viewer for AI agent sessions",
   "author": "Wes McKinney",
   "license": "MIT",
   "home_page": "https://github.com/wesm/agentsview",
-  "download_filename": "agentsview-0.18.0-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-04-02T12:00:55.201248",
+  "download_filename": "agentsview-0.19.0-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-09T02:15:37.516857",
   "package_url": "https://pypi.org/project/agentsview/"
 }
