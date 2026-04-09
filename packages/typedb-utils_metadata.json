@@ -1,0 +1,11 @@
+{
+  "name": "typedb-utils",
+  "version": "0.1.1",
+  "summary": "Reusable TypeDB 3 Python utilities and interface layer",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Rezenders/ros_typedb",
+  "download_filename": "typedb_utils-0.1.1.tar.gz",
+  "download_time": "2026-04-09T14:57:36.751495",
+  "package_url": "https://pypi.org/project/typedb-utils/"
+}

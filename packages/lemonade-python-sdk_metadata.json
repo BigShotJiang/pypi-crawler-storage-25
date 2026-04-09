@@ -1,11 +1,11 @@
 {
   "name": "lemonade-python-sdk",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "summary": "A clean interface for interacting with the Lemonade LLM server",
   "author": "Tetramatrix",
   "license": null,
   "home_page": "https://github.com/Tetramatrix/lemonade-python-sdk",
-  "download_filename": "lemonade_python_sdk-1.0.4.tar.gz",
-  "download_time": "2026-04-05T11:08:32.132104",
+  "download_filename": "lemonade_python_sdk-1.0.7.tar.gz",
+  "download_time": "2026-04-09T14:58:00.070518",
   "package_url": "https://pypi.org/project/lemonade-python-sdk/"
 }

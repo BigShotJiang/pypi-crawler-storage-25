@@ -1,0 +1,11 @@
+{
+  "name": "pypispdx",
+  "version": "0.2.1",
+  "summary": "An SCA tool for creating an SPDX SBOM for a https://pypi.org/ package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypispdx-0.2.1.tar.gz",
+  "download_time": "2026-04-09T14:57:09.891617",
+  "package_url": "https://pypi.org/project/pypispdx/"
+}

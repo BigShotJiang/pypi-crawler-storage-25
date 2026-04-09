@@ -1,0 +1,11 @@
+{
+  "name": "hifi-trimmer",
+  "version": "3.1.0",
+  "summary": "hifi-trimmer is a tool for filtering and trimming extraneous adapter hits from a HiFi read set using a BLAST search.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hifi_trimmer-3.1.0.tar.gz",
+  "download_time": "2026-04-09T14:57:57.845077",
+  "package_url": "https://pypi.org/project/hifi-trimmer/"
+}

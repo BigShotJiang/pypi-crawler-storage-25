@@ -1,11 +1,11 @@
 {
   "name": "rpgp-py",
-  "version": "0.19.0",
+  "version": "0.19.3",
   "summary": "Python binding for rpgp, a Rust implementation of OpenPGP according to RFC 9580",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rpgp_py-0.19.0.tar.gz",
-  "download_time": "2026-04-08T12:08:47.334839",
+  "download_filename": "rpgp_py-0.19.3.tar.gz",
+  "download_time": "2026-04-09T14:57:28.715219",
   "package_url": "https://pypi.org/project/rpgp-py/"
 }

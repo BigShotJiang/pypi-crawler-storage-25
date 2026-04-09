@@ -1,0 +1,11 @@
+{
+  "name": "axl-core",
+  "version": "0.7.0",
+  "summary": "AXL Protocol v3: Compressed semantic protocol for agent reasoning. Deterministic English-to-AXL compression.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "axl_core-0.7.0.tar.gz",
+  "download_time": "2026-04-09T14:57:42.693657",
+  "package_url": "https://pypi.org/project/axl-core/"
+}

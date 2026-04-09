@@ -1,11 +1,11 @@
 {
   "name": "clawed",
-  "version": "4.9.2026.1",
+  "version": "4.9.2026.6",
   "summary": "Your AI co-teacher. Generate lessons, games, slides, and assessments from your terminal. Learns your teaching voice, aligns to your state standards, and works with any LLM provider.",
   "author": "Jon Maccarello & Claw-ED contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "clawed-4.9.2026.1.tar.gz",
-  "download_time": "2026-04-09T12:51:08.253746",
+  "download_filename": "clawed-4.9.2026.6.tar.gz",
+  "download_time": "2026-04-09T14:57:21.097398",
   "package_url": "https://pypi.org/project/clawed/"
 }
