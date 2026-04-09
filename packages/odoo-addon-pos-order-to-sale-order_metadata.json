@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-order-to-sale-order",
+  "version": "18.0.1.0.0.3",
+  "summary": "PoS Order To Sale Order",
+  "author": "GRAP,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_order_to_sale_order-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-04-09T18:43:17.947874",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-order-to-sale-order/"
+}

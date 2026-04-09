@@ -1,11 +1,11 @@
 {
   "name": "heiban",
-  "version": "0.1.9",
+  "version": "0.1.40",
   "summary": "Mermaid to HTML Slides Generator with PySide6 GUI",
   "author": "HeiBan Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "heiban-0.1.9.tar.gz",
-  "download_time": "2026-04-09T11:41:07.755968",
+  "download_filename": "heiban-0.1.40.tar.gz",
+  "download_time": "2026-04-09T18:43:16.886437",
   "package_url": "https://pypi.org/project/heiban/"
 }

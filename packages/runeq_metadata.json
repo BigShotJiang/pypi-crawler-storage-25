@@ -1,0 +1,11 @@
+{
+  "name": "runeq",
+  "version": "0.18.1",
+  "summary": "Query data from Rune Labs APIs",
+  "author": "Rune Labs",
+  "license": null,
+  "home_page": "https://github.com/rune-labs/runeq-python",
+  "download_filename": "runeq-0.18.1.tar.gz",
+  "download_time": "2026-04-09T18:43:16.349571",
+  "package_url": "https://pypi.org/project/runeq/"
+}

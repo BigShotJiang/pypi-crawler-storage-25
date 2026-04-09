@@ -1,11 +1,11 @@
 {
   "name": "labdawg",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Copies Python template files to the user's folder",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "labdawg-0.2.1.tar.gz",
-  "download_time": "2026-04-09T16:21:17.717774",
+  "download_filename": "labdawg-0.2.3.tar.gz",
+  "download_time": "2026-04-09T18:43:02.819484",
   "package_url": "https://pypi.org/project/labdawg/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "agi-core",
-  "version": "2026.4.7",
+  "version": "2026.4.11",
   "summary": "Meta-package that installs and wires agi-env, agi-node, and agi-cluster together",
   "author": "Jean-Pierre Morard",
   "license": null,
   "home_page": null,
-  "download_filename": "agi_core-2026.4.7.tar.gz",
-  "download_time": "2026-04-06T17:30:48.895104",
+  "download_filename": "agi_core-2026.4.11.tar.gz",
+  "download_time": "2026-04-09T18:43:04.885616",
   "package_url": "https://pypi.org/project/agi-core/"
 }

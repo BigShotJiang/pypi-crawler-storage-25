@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-zefix",
-  "version": "0.2.2",
+  "version": "0.3.1",
   "summary": "MCP server for querying the Swiss Zefix company register (Handelsregister)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_zefix-0.2.2.tar.gz",
-  "download_time": "2026-03-29T19:22:20.522225",
+  "download_filename": "mcp_server_zefix-0.3.1.tar.gz",
+  "download_time": "2026-04-09T18:43:10.083241",
   "package_url": "https://pypi.org/project/mcp-server-zefix/"
 }

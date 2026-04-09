@@ -1,0 +1,11 @@
+{
+  "name": "themoviedb-lib",
+  "version": "0.0.6",
+  "summary": "Library providing useful tools for The Movie Database (TMDb). Not dependent on API-keys.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/inwerk/themoviedb-lib",
+  "download_filename": "themoviedb_lib-0.0.6.tar.gz",
+  "download_time": "2026-04-09T18:43:17.416049",
+  "package_url": "https://pypi.org/project/themoviedb-lib/"
+}
