@@ -1,11 +1,11 @@
 {
   "name": "pyfltr",
-  "version": "1.17.1",
+  "version": "1.18.1",
   "summary": "Python Formatters, Linters, and Testers Runner.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyfltr-1.17.1.tar.gz",
-  "download_time": "2026-04-09T21:48:03.362361",
+  "download_filename": "pyfltr-1.18.1.tar.gz",
+  "download_time": "2026-04-09T23:57:43.876984",
   "package_url": "https://pypi.org/project/pyfltr/"
 }

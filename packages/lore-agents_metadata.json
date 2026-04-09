@@ -1,0 +1,11 @@
+{
+  "name": "lore-agents",
+  "version": "1.1.0",
+  "summary": "The AI Agent Codex — 15 production patterns, scaffolds for LangGraph/CrewAI/OpenAI Agents SDK, and a searchable knowledge base",
+  "author": "Miles",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lore_agents-1.1.0-py3-none-any.whl",
+  "download_time": "2026-04-09T23:58:03.307884",
+  "package_url": "https://pypi.org/project/lore-agents/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "modforge-cli",
+  "version": "0.2.9",
+  "summary": "ModForge-CLI — a Modrinth-based Minecraft modpack builder",
+  "author": "Frank1o3",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "modforge_cli-0.2.9.tar.gz",
+  "download_time": "2026-04-09T23:57:39.718660",
+  "package_url": "https://pypi.org/project/modforge-cli/"
+}

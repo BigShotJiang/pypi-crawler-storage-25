@@ -1,11 +1,11 @@
 {
   "name": "microsoft-teams-graph",
-  "version": "2.0.0a31",
+  "version": "2.0.0a49",
   "summary": "The Graph package for a Microsoft Teams agent",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "microsoft_teams_graph-2.0.0a31.tar.gz",
-  "download_time": "2026-04-03T16:40:59.570555",
+  "download_filename": "microsoft_teams_graph-2.0.0a49.tar.gz",
+  "download_time": "2026-04-09T23:57:49.600808",
   "package_url": "https://pypi.org/project/microsoft-teams-graph/"
 }

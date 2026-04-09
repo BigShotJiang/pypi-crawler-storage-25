@@ -1,11 +1,11 @@
 {
   "name": "aru-code",
-  "version": "0.17.1",
+  "version": "0.19.0",
   "summary": "A Claude Code clone built with Agno agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aru_code-0.17.1.tar.gz",
-  "download_time": "2026-04-09T06:15:04.267144",
+  "download_filename": "aru_code-0.19.0.tar.gz",
+  "download_time": "2026-04-09T23:57:40.762612",
   "package_url": "https://pypi.org/project/aru-code/"
 }

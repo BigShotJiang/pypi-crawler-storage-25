@@ -1,0 +1,11 @@
+{
+  "name": "spatial-polars",
+  "version": "0.2.4",
+  "summary": "A package that extends polars for working with geospatial data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spatial_polars-0.2.4-py3-none-any.whl",
+  "download_time": "2026-04-09T23:57:31.269057",
+  "package_url": "https://pypi.org/project/spatial-polars/"
+}

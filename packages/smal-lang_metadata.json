@@ -1,11 +1,11 @@
 {
   "name": "smal-lang",
-  "version": "0.3.4",
+  "version": "0.4.2",
   "summary": "State Machine Abstraction Language (SMAL) is a YAML-based description language for simple, robust and debuggable state machines.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smal_lang-0.3.4.tar.gz",
-  "download_time": "2026-04-01T19:02:38.954111",
+  "download_filename": "smal_lang-0.4.2.tar.gz",
+  "download_time": "2026-04-09T23:58:12.004672",
   "package_url": "https://pypi.org/project/smal-lang/"
 }

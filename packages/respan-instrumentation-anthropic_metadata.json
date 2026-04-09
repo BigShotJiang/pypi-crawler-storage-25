@@ -1,0 +1,11 @@
+{
+  "name": "respan-instrumentation-anthropic",
+  "version": "1.0.0",
+  "summary": "Respan instrumentation plugin for the Anthropic SDK",
+  "author": "Respan",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "respan_instrumentation_anthropic-1.0.0.tar.gz",
+  "download_time": "2026-04-09T23:58:04.875920",
+  "package_url": "https://pypi.org/project/respan-instrumentation-anthropic/"
+}

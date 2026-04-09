@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-consul",
+  "version": "3.14.1",
+  "summary": "A Pulumi package for creating and managing consul resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_consul-3.14.1.tar.gz",
+  "download_time": "2026-04-09T23:57:26.838935",
+  "package_url": "https://pypi.org/project/pulumi-consul/"
+}

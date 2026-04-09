@@ -1,0 +1,11 @@
+{
+  "name": "rot2prog",
+  "version": "0.0.11",
+  "summary": "A python interface to the Alfa ROT2Prog Controller.",
+  "author": "TJ Scherer",
+  "license": null,
+  "home_page": "https://github.com/tj-scherer/rot2prog",
+  "download_filename": "rot2prog-0.0.11.tar.gz",
+  "download_time": "2026-04-09T23:57:27.925998",
+  "package_url": "https://pypi.org/project/rot2prog/"
+}

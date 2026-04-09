@@ -1,11 +1,11 @@
 {
   "name": "hyper-sentinel",
-  "version": "0.5.9",
-  "summary": "Thin Python SDK for the Sentinel AI Trading API — 62+ tools via REST",
+  "version": "0.5.13",
+  "summary": "AI trading terminal with 62+ tools — Hyperliquid, Aster DEX, Polymarket, CoinGecko, FRED",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyper_sentinel-0.5.9.tar.gz",
-  "download_time": "2026-04-05T20:53:16.087015",
+  "download_filename": "hyper_sentinel-0.5.13.tar.gz",
+  "download_time": "2026-04-09T23:57:43.356863",
   "package_url": "https://pypi.org/project/hyper-sentinel/"
 }

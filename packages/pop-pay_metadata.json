@@ -1,11 +1,11 @@
 {
   "name": "pop-pay",
-  "version": "0.6.32",
+  "version": "0.7.0",
   "summary": "Point One Percent - Semantic Payment Guardrail for AI Agents. it only takes 0.1% of Hallucination to drain 100% of your wallet.",
   "author": "Point One Percent Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pop_pay-0.6.32-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2026-04-06T12:04:49.721668",
+  "download_filename": "pop_pay-0.7.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-09T23:57:57.494859",
   "package_url": "https://pypi.org/project/pop-pay/"
 }
