@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-vcp-github",
-  "version": "18.0.1.0.0.6",
+  "version": "18.0.1.0.0.8",
   "summary": "Integrate Version Control Platform with Github",
   "author": "Dixmit,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/version-control-platform",
-  "download_filename": "odoo_addon_vcp_github-18.0.1.0.0.6-py3-none-any.whl",
-  "download_time": "2026-04-01T08:16:44.653460",
+  "download_filename": "odoo_addon_vcp_github-18.0.1.0.0.8-py3-none-any.whl",
+  "download_time": "2026-04-09T04:46:12.944353",
   "package_url": "https://pypi.org/project/odoo-addon-vcp-github/"
 }

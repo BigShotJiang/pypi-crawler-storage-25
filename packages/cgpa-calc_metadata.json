@@ -1,0 +1,11 @@
+{
+  "name": "cgpa-calc",
+  "version": "1.0.0",
+  "summary": "A lightweight Python library for calculating GPA, CGPA, and SGPA. Supports 4.0 and 5.0 grading scales.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cgpa_calc-1.0.0.tar.gz",
+  "download_time": "2026-04-09T04:45:51.998223",
+  "package_url": "https://pypi.org/project/cgpa-calc/"
+}

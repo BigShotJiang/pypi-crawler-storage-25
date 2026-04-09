@@ -1,0 +1,11 @@
+{
+  "name": "zai-quota",
+  "version": "1.0.0",
+  "summary": "Check Z.ai (Zhipu AI) GLM API usage quota, remaining sessions, and token limits.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zai_quota-1.0.0.tar.gz",
+  "download_time": "2026-04-09T04:46:07.228533",
+  "package_url": "https://pypi.org/project/zai-quota/"
+}

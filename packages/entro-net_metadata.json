@@ -1,0 +1,11 @@
+{
+  "name": "entro-net",
+  "version": "1.0.0",
+  "summary": "ENTRO-NET: Distributed Entropy Synchronization Protocols for Collective Neural Networks",
+  "author": "Samir Baladi",
+  "license": "MIT",
+  "home_page": "https://entro-net.netlify.app",
+  "download_filename": "entro_net-1.0.0.tar.gz",
+  "download_time": "2026-04-09T04:46:19.812056",
+  "package_url": "https://pypi.org/project/entro-net/"
+}
