@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-tool-shed",
+  "version": "26.0.0",
+  "summary": "Galaxy Tool Shed",
+  "author": "Galaxy Project and Community",
+  "license": "MIT",
+  "home_page": "https://github.com/galaxyproject/galaxy",
+  "download_filename": "galaxy_tool_shed-26.0.0.tar.gz",
+  "download_time": "2026-04-09T23:13:51.425298",
+  "package_url": "https://pypi.org/project/galaxy-tool-shed/"
+}

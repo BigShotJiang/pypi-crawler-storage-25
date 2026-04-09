@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-tool-shed-schema",
+  "version": "26.0.0",
+  "summary": "Pydantic models for the Galaxy Tool Shed",
+  "author": "Galaxy Project and Community",
+  "license": "MIT",
+  "home_page": "https://github.com/galaxyproject/galaxy",
+  "download_filename": "galaxy_tool_shed_schema-26.0.0.tar.gz",
+  "download_time": "2026-04-09T23:13:50.906498",
+  "package_url": "https://pypi.org/project/galaxy-tool-shed-schema/"
+}

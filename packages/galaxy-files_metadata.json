@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-files",
+  "version": "26.0.0",
+  "summary": "Galaxy file source framework and default plugins",
+  "author": "Galaxy Project and Community",
+  "license": "MIT",
+  "home_page": "https://github.com/galaxyproject/galaxy",
+  "download_filename": "galaxy_files-26.0.0.tar.gz",
+  "download_time": "2026-04-09T23:13:56.588641",
+  "package_url": "https://pypi.org/project/galaxy-files/"
+}

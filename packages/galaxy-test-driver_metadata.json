@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-test-driver",
+  "version": "26.0.0",
+  "summary": "Galaxy test driver",
+  "author": "Galaxy Project and Community",
+  "license": "MIT",
+  "home_page": "https://github.com/galaxyproject/galaxy",
+  "download_filename": "galaxy_test_driver-26.0.0.tar.gz",
+  "download_time": "2026-04-09T23:13:51.938958",
+  "package_url": "https://pypi.org/project/galaxy-test-driver/"
+}

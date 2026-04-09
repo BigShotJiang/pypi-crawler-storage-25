@@ -1,11 +1,11 @@
 {
   "name": "provisa-client",
-  "version": "0.1.0a69",
+  "version": "0.1.0a74",
   "summary": "Python client for Provisa — GraphQL queries and Arrow Flight streaming",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "provisa_client-0.1.0a69.tar.gz",
-  "download_time": "2026-04-09T18:43:27.991375",
+  "download_filename": "provisa_client-0.1.0a74.tar.gz",
+  "download_time": "2026-04-09T23:13:32.086142",
   "package_url": "https://pypi.org/project/provisa-client/"
 }

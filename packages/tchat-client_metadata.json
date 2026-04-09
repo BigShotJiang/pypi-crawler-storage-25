@@ -1,11 +1,11 @@
 {
   "name": "tchat-client",
-  "version": "0.18.4",
+  "version": "0.18.5",
   "summary": "tchat — client",
   "author": "leberton",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tchat_client-0.18.4.tar.gz",
-  "download_time": "2026-04-09T21:48:26.183373",
+  "download_filename": "tchat_client-0.18.5.tar.gz",
+  "download_time": "2026-04-09T23:13:33.634005",
   "package_url": "https://pypi.org/project/tchat-client/"
 }

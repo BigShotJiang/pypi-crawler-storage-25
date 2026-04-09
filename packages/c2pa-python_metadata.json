@@ -1,11 +1,11 @@
 {
   "name": "c2pa-python",
-  "version": "0.32.1",
+  "version": "0.32.2",
   "summary": "Python bindings for the C2PA Content Authenticity Initiative (CAI) library",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "c2pa_python-0.32.1.tar.gz",
-  "download_time": "2026-04-08T21:14:01.780786",
+  "download_filename": "c2pa_python-0.32.2.tar.gz",
+  "download_time": "2026-04-09T23:14:03.834187",
   "package_url": "https://pypi.org/project/c2pa-python/"
 }
