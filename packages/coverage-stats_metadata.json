@@ -1,0 +1,11 @@
+{
+  "name": "coverage-stats",
+  "version": "0.1.1",
+  "summary": "Per-line deliberate/incidental coverage, # tests, # asserts & other stats stats for pytest",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coverage_stats-0.1.1.tar.gz",
+  "download_time": "2026-04-10T20:23:47.520347",
+  "package_url": "https://pypi.org/project/coverage-stats/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "c5tree",
+  "version": "0.1.0",
+  "summary": "C5.0 Decision Tree Classifier — a pure-Python, scikit-learn-compatible implementation",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "c5tree-0.1.0.tar.gz",
+  "download_time": "2026-04-10T20:23:42.079102",
+  "package_url": "https://pypi.org/project/c5tree/"
+}

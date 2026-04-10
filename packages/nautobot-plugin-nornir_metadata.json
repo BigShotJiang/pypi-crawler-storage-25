@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-plugin-nornir",
+  "version": "3.1.2",
+  "summary": "Nautobot App that provides a shim layer to simplify using Nornir within other Nautobot Apps and Nautobot Jobs",
+  "author": "Network to Code, LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nautobot_plugin_nornir-3.1.2.tar.gz",
+  "download_time": "2026-04-10T20:24:11.920590",
+  "package_url": "https://pypi.org/project/nautobot-plugin-nornir/"
+}

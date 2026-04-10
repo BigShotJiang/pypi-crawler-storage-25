@@ -1,0 +1,11 @@
+{
+  "name": "quantile-guard",
+  "version": "0.6.2",
+  "summary": "The quantile modeling toolkit with non-crossing guarantees. Joint multi-quantile fitting, inference, conformal calibration, and evaluation. Scikit-learn compatible.",
+  "author": "Joshua Vernazza",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quantile_guard-0.6.2.tar.gz",
+  "download_time": "2026-04-10T20:24:14.113863",
+  "package_url": "https://pypi.org/project/quantile-guard/"
+}

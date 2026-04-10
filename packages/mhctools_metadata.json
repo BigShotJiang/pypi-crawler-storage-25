@@ -1,11 +1,11 @@
 {
   "name": "mhctools",
-  "version": "3.0.2",
-  "summary": "Python interface to running command-line and web-based MHC binding predictors",
+  "version": "3.7.1",
+  "summary": "Python interface to MHC binding, presentation, immunogenicity, and antigen processing predictors",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mhctools-3.0.2.tar.gz",
-  "download_time": "2026-04-09T02:14:54.866019",
+  "download_filename": "mhctools-3.7.1.tar.gz",
+  "download_time": "2026-04-10T20:24:13.580140",
   "package_url": "https://pypi.org/project/mhctools/"
 }

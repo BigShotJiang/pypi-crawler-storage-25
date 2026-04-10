@@ -1,0 +1,11 @@
+{
+  "name": "db86",
+  "version": "0.6.2",
+  "summary": "A robust Python wrapper around SQLite3 providing dict-like API, multi-threading support, and REST service endpoints",
+  "author": "Anubhav Mattoo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "db86-0.6.2.tar.gz",
+  "download_time": "2026-04-10T20:24:10.282670",
+  "package_url": "https://pypi.org/project/db86/"
+}
