@@ -1,11 +1,11 @@
 {
   "name": "pipebridge",
-  "version": "0.1.2",
-  "summary": "Unofficial Python SDK for Pipefy with typed models, safe workflows, and extensible integrations.",
+  "version": "0.2.5",
+  "summary": "Semantic integration layer for building scalable and reliable Pipefy automations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pipebridge-0.1.2.tar.gz",
-  "download_time": "2026-04-06T00:05:55.846848",
+  "download_filename": "pipebridge-0.2.5.tar.gz",
+  "download_time": "2026-04-10T18:58:51.434811",
   "package_url": "https://pypi.org/project/pipebridge/"
 }

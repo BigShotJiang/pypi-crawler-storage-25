@@ -1,11 +1,11 @@
 {
   "name": "violit",
-  "version": "0.4.1",
+  "version": "0.5.7",
   "summary": "Violit: Faster than Light, Beautiful as Violet. The High-Performance Python Web Framework (Streamlit Alternative with Zero Rerun).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "violit-0.4.1.tar.gz",
-  "download_time": "2026-04-05T15:50:20.503046",
+  "download_filename": "violit-0.5.7.tar.gz",
+  "download_time": "2026-04-10T18:59:15.862490",
   "package_url": "https://pypi.org/project/violit/"
 }

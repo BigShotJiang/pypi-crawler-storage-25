@@ -1,0 +1,11 @@
+{
+  "name": "transports-commun-lyon",
+  "version": "0.3.0",
+  "summary": "Python library to retrieve public transport data from the TCL/Sytral network in Lyon, France",
+  "author": "Gabriel Augendre",
+  "license": null,
+  "home_page": null,
+  "download_filename": "transports_commun_lyon-0.3.0.tar.gz",
+  "download_time": "2026-04-10T18:58:36.606511",
+  "package_url": "https://pypi.org/project/transports-commun-lyon/"
+}

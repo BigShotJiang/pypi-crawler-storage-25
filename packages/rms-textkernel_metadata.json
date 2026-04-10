@@ -1,0 +1,11 @@
+{
+  "name": "rms-textkernel",
+  "version": "1.1.1",
+  "summary": "Routines for parsing SPICE text kernels",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rms_textkernel-1.1.1.tar.gz",
+  "download_time": "2026-04-10T18:58:35.455045",
+  "package_url": "https://pypi.org/project/rms-textkernel/"
+}

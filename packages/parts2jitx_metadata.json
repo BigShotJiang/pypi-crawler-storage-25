@@ -1,0 +1,11 @@
+{
+  "name": "parts2jitx",
+  "version": "0.1.0",
+  "summary": "Import electronic part data (LCSC, KiCad, EasyEDA) and convert to JITX component code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parts2jitx-0.1.0.tar.gz",
+  "download_time": "2026-04-10T18:58:56.076681",
+  "package_url": "https://pypi.org/project/parts2jitx/"
+}

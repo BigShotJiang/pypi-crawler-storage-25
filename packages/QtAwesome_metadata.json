@@ -1,0 +1,11 @@
+{
+  "name": "QtAwesome",
+  "version": "1.4.2",
+  "summary": "FontAwesome icons in PyQt and PySide applications",
+  "author": "Sylvain Corlay and the Spyder Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/spyder-ide/qtawesome",
+  "download_filename": "qtawesome-1.4.2.tar.gz",
+  "download_time": "2026-04-10T18:58:55.004605",
+  "package_url": "https://pypi.org/project/QtAwesome/"
+}

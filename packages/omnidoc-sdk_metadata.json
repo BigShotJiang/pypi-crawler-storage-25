@@ -1,0 +1,11 @@
+{
+  "name": "omnidoc-sdk",
+  "version": "0.4.0",
+  "summary": "Enterprise-grade SDK for document ingestion, OCR, semantic chunking, and RAG-ready processing",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "omnidoc_sdk-0.4.0.tar.gz",
+  "download_time": "2026-04-10T18:59:06.802814",
+  "package_url": "https://pypi.org/project/omnidoc-sdk/"
+}
