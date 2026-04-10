@@ -1,0 +1,11 @@
+{
+  "name": "pydna",
+  "version": "5.5.10",
+  "summary": "Representing double stranded DNA and functions for simulating cloning and homologous recombination between DNA molecules.",
+  "author": "Björn F. Johansson",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "pydna-5.5.10.tar.gz",
+  "download_time": "2026-04-10T08:53:12.869468",
+  "package_url": "https://pypi.org/project/pydna/"
+}

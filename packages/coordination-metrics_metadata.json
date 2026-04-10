@@ -1,0 +1,11 @@
+{
+  "name": "coordination-metrics",
+  "version": "0.2.0",
+  "summary": "Metrics that predict design coordination failure before it hits site. For BIM managers, design coordinators, and digital engineering leads.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coordination_metrics-0.2.0-py3-none-any.whl",
+  "download_time": "2026-04-10T08:53:15.533466",
+  "package_url": "https://pypi.org/project/coordination-metrics/"
+}

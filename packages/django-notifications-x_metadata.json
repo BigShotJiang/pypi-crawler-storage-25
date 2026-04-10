@@ -1,0 +1,11 @@
+{
+  "name": "django-notifications-x",
+  "version": "0.1.0",
+  "summary": "GitHub notifications alike app for Django.",
+  "author": "PanovYury",
+  "license": "BSD-3-Clause",
+  "home_page": "http://github.com/django-notifications/django-notifications",
+  "download_filename": "django_notifications_x-0.1.0-py2.py3-none-any.whl",
+  "download_time": "2026-04-10T08:53:08.558283",
+  "package_url": "https://pypi.org/project/django-notifications-x/"
+}

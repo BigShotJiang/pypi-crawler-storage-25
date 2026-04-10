@@ -1,11 +1,11 @@
 {
   "name": "mcp-atlassian-voyah",
-  "version": "0.21.2",
+  "version": "0.21.3",
   "summary": "The Model Context Protocol (MCP) Atlassian integration is an open-source implementation that bridges Atlassian products (Jira and Confluence) with AI language models following Anthropic's MCP specification. This project enables secure, contextual AI interactions with Atlassian tools while maintaining data privacy and security. Key features include:",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_atlassian_voyah-0.21.2.tar.gz",
-  "download_time": "2026-03-31T11:36:24.720398",
+  "download_filename": "mcp_atlassian_voyah-0.21.3.tar.gz",
+  "download_time": "2026-04-10T08:53:19.316019",
   "package_url": "https://pypi.org/project/mcp-atlassian-voyah/"
 }

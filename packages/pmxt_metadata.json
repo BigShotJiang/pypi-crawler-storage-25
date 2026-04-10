@@ -1,11 +1,11 @@
 {
   "name": "pmxt",
-  "version": "2.27.5",
+  "version": "2.27.7",
   "summary": "Unified prediction market data API - The ccxt for prediction markets",
   "author": "PMXT Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pmxt-2.27.5.tar.gz",
-  "download_time": "2026-04-09T14:57:44.359076",
+  "download_filename": "pmxt-2.27.7.tar.gz",
+  "download_time": "2026-04-10T08:52:58.116778",
   "package_url": "https://pypi.org/project/pmxt/"
 }

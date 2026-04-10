@@ -1,11 +1,11 @@
 {
   "name": "treadstone-cli",
-  "version": "0.8.5",
+  "version": "0.8.21",
   "summary": "CLI for the Treadstone sandbox service.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "treadstone_cli-0.8.5.tar.gz",
-  "download_time": "2026-04-02T00:04:14.757316",
+  "download_filename": "treadstone_cli-0.8.21.tar.gz",
+  "download_time": "2026-04-10T08:52:57.569622",
   "package_url": "https://pypi.org/project/treadstone-cli/"
 }

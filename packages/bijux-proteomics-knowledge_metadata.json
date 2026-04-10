@@ -1,11 +1,11 @@
 {
   "name": "bijux-proteomics-knowledge",
-  "version": "0.3.0",
-  "summary": "Evidence models for Bijux Proteomics",
+  "version": "0.3.2",
+  "summary": "Evidence, trust, and contradiction-resolution models for auditable proteomics decision knowledge graphs",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "bijux_proteomics_knowledge-0.3.0.tar.gz",
-  "download_time": "2026-04-06T12:04:16.013670",
+  "download_filename": "bijux_proteomics_knowledge-0.3.2.tar.gz",
+  "download_time": "2026-04-10T08:52:46.688929",
   "package_url": "https://pypi.org/project/bijux-proteomics-knowledge/"
 }

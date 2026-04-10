@@ -1,11 +1,11 @@
 {
   "name": "csaq-quant",
-  "version": "0.2.6",
-  "summary": "Causal Salience-Aware Quantization — gradient×activation-informed interaction-graph LLM weight quantization with self-speculative decoding",
+  "version": "0.3.2",
+  "summary": "Causal Salience-Aware Quantization - Mixed precision LLM weights with self-speculative decoding",
   "author": "Omdeep Borkar",
   "license": null,
-  "home_page": "https://github.com/omdeepb69/csaq-quant",
-  "download_filename": "csaq_quant-0.2.6.tar.gz",
-  "download_time": "2026-04-07T18:03:16.439045",
+  "home_page": "https://github.com/Omdeepb69/csaq-quant",
+  "download_filename": "csaq_quant-0.3.2-py3-none-any.whl",
+  "download_time": "2026-04-10T08:53:32.184288",
   "package_url": "https://pypi.org/project/csaq-quant/"
 }

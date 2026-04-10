@@ -1,0 +1,11 @@
+{
+  "name": "baiducloud-python-sdk-vpc",
+  "version": "0.0.8",
+  "summary": "Baidu Cloud vpcApi SDK Library for Python",
+  "author": "Baidu Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/baidubce/baiducloud-python-sdk",
+  "download_filename": "baiducloud_python_sdk_vpc-0.0.8.tar.gz",
+  "download_time": "2026-04-10T08:52:42.290714",
+  "package_url": "https://pypi.org/project/baiducloud-python-sdk-vpc/"
+}

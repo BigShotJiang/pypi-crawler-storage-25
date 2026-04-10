@@ -1,0 +1,11 @@
+{
+  "name": "janus-core",
+  "version": "0.9.1",
+  "summary": "Tools for machine learnt interatomic potentials",
+  "author": "Elliott Kasoar, Patrick Austin, Harvey Devereux, Kieran Harris, David Mason, Jacob Wilkins, Federica Zanca, Alin M. Elena",
+  "license": null,
+  "home_page": null,
+  "download_filename": "janus_core-0.9.1.tar.gz",
+  "download_time": "2026-04-10T08:53:20.949296",
+  "package_url": "https://pypi.org/project/janus-core/"
+}

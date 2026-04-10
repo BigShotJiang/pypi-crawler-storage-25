@@ -1,0 +1,11 @@
+{
+  "name": "mineru-translate",
+  "version": "0.1.2",
+  "summary": "PDF layout-preserving translation based on MinerU Online API output",
+  "author": "mineru-tools contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mineru_translate-0.1.2.tar.gz",
+  "download_time": "2026-04-10T08:53:15.000890",
+  "package_url": "https://pypi.org/project/mineru-translate/"
+}
