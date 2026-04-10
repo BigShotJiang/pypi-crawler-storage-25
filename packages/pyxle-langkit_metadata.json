@@ -1,0 +1,11 @@
+{
+  "name": "pyxle-langkit",
+  "version": "0.2.1",
+  "summary": "Language tools for Pyxle: LSP server, linter, and editor integrations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyxle_langkit-0.2.1.tar.gz",
+  "download_time": "2026-04-10T19:46:33.244261",
+  "package_url": "https://pypi.org/project/pyxle-langkit/"
+}

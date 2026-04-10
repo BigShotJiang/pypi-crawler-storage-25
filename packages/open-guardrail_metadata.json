@@ -1,11 +1,11 @@
 {
   "name": "open-guardrail",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "350 guards for LLM safety — prompt injection, PII (26 regions), GDPR, EU AI Act, agent safety, zero API calls, <0.1ms",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "open_guardrail-0.6.0.tar.gz",
-  "download_time": "2026-04-10T15:56:59.147705",
+  "download_filename": "open_guardrail-0.7.0.tar.gz",
+  "download_time": "2026-04-10T19:46:40.891845",
   "package_url": "https://pypi.org/project/open-guardrail/"
 }

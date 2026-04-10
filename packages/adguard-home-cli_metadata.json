@@ -1,0 +1,11 @@
+{
+  "name": "adguard-home-cli",
+  "version": "0.1.1",
+  "summary": "A full-coverage CLI for AdGuard Home, generated from its official OpenAPI spec",
+  "author": "Shivam Rastogi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adguard_home_cli-0.1.1.tar.gz",
+  "download_time": "2026-04-10T19:46:28.885200",
+  "package_url": "https://pypi.org/project/adguard-home-cli/"
+}

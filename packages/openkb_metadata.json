@@ -1,11 +1,11 @@
 {
   "name": "openkb",
-  "version": "0.0.1",
-  "summary": "Open Knowledge Base - coming soon.",
+  "version": "0.1.1",
+  "summary": "OpenKB — Open LLM Knowledge Base, powered by PageIndex",
   "author": "Ray",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "openkb-0.0.1.tar.gz",
-  "download_time": "2026-04-04T08:26:02.720320",
+  "download_filename": "openkb-0.1.1.tar.gz",
+  "download_time": "2026-04-10T19:46:35.430444",
   "package_url": "https://pypi.org/project/openkb/"
 }
