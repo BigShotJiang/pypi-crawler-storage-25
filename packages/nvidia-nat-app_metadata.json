@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-app",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "Framework-agnostic Agent Performance Primitives (APP) providing reusable building blocks that accelerate agentic applications.",
   "author": "NVIDIA Corporation",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nvidia_nat_app-1.5.0-py3-none-any.whl",
-  "download_time": "2026-04-10T02:30:55.464474",
+  "download_filename": "nvidia_nat_app-1.6.0-py3-none-any.whl",
+  "download_time": "2026-04-10T05:16:23.836371",
   "package_url": "https://pypi.org/project/nvidia-nat-app/"
 }

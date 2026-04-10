@@ -1,11 +1,11 @@
 {
   "name": "ipp-lang",
-  "version": "1.5.4.2",
+  "version": "1.5.4.5",
   "summary": "A beginner-friendly scripting language for game development",
   "author": "authorss81",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ipp_lang-1.5.4.2.tar.gz",
-  "download_time": "2026-04-09T09:10:53.169862",
+  "download_filename": "ipp_lang-1.5.4.5.tar.gz",
+  "download_time": "2026-04-10T05:16:14.652777",
   "package_url": "https://pypi.org/project/ipp-lang/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "home-assistant-agent",
+  "version": "0.2.0",
+  "summary": "Agent for interacting with Home Assistant REST API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "home_assistant_agent-0.2.0.tar.gz",
+  "download_time": "2026-04-10T05:16:38.221190",
+  "package_url": "https://pypi.org/project/home-assistant-agent/"
+}

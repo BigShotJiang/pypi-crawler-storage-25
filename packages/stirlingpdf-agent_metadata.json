@@ -1,0 +1,11 @@
+{
+  "name": "stirlingpdf-agent",
+  "version": "0.1.29",
+  "summary": "Agent package for communicating with Stirling PDF via REST APIs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stirlingpdf_agent-0.1.29.tar.gz",
+  "download_time": "2026-04-10T05:16:34.764523",
+  "package_url": "https://pypi.org/project/stirlingpdf-agent/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "byquant-ctp",
+  "version": "2.6.4.10",
+  "summary": "byquant库由ByQuant.com 提供支持，可以回测及策略交易。ByQuant.com官网提供系列策略课程《量化策略百战案例》；ByQuant智能决策分析系统提供通过客户端方式调用该库功能！",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "byquant_ctp-2.6.4.10.tar.gz",
+  "download_time": "2026-04-10T05:16:39.517747",
+  "package_url": "https://pypi.org/project/byquant-ctp/"
+}

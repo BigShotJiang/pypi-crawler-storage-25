@@ -1,11 +1,11 @@
 {
   "name": "rqmd",
-  "version": "0.1.0rc3",
+  "version": "0.2.3",
   "summary": "Requirements Markdown manager CLI tool, `rqmd`. GitHub Copilot AI integration supported via `rqmd-ai init`.",
   "author": "RQMD Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "rqmd-0.1.0rc3.tar.gz",
-  "download_time": "2026-04-02T14:44:20.014703",
+  "download_filename": "rqmd-0.2.3.tar.gz",
+  "download_time": "2026-04-10T05:16:44.160661",
   "package_url": "https://pypi.org/project/rqmd/"
 }

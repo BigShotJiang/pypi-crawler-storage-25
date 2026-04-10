@@ -1,0 +1,11 @@
+{
+  "name": "audio-transcriber",
+  "version": "0.6.54",
+  "summary": "Transcribe your .wav .mp4 .mp3 .flac files to text or record your own audio!",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "audio_transcriber-0.6.54.tar.gz",
+  "download_time": "2026-04-10T05:16:25.513947",
+  "package_url": "https://pypi.org/project/audio-transcriber/"
+}

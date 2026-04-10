@@ -1,11 +1,11 @@
 {
   "name": "sshmirror",
-  "version": "0.1.13",
+  "version": "0.1.23",
   "summary": "SSH directory synchronization library and CLI",
   "author": "FellowCode",
   "license": null,
   "home_page": null,
-  "download_filename": "sshmirror-0.1.13.tar.gz",
-  "download_time": "2026-04-09T06:14:43.892097",
+  "download_filename": "sshmirror-0.1.23.tar.gz",
+  "download_time": "2026-04-10T05:16:46.461770",
   "package_url": "https://pypi.org/project/sshmirror/"
 }
