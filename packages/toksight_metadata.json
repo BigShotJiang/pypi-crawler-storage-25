@@ -1,0 +1,11 @@
+{
+  "name": "toksight",
+  "version": "0.2.0",
+  "summary": "Tokenizer analysis toolkit. Compare vocabulary coverage, compression ratios, and token boundaries across GPT-4o, Llama 3, Mistral, and any HuggingFace tokenizer.",
+  "author": "Zacharie Bhatti",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "toksight-0.2.0.tar.gz",
+  "download_time": "2026-04-10T16:54:35.511270",
+  "package_url": "https://pypi.org/project/toksight/"
+}

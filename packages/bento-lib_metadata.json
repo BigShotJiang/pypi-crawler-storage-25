@@ -1,0 +1,11 @@
+{
+  "name": "bento-lib",
+  "version": "15.0.0",
+  "summary": "A set of common utilities and helpers for Bento platform services.",
+  "author": "David Lougheed",
+  "license": "LGPL-3.0",
+  "home_page": null,
+  "download_filename": "bento_lib-15.0.0.tar.gz",
+  "download_time": "2026-04-10T16:54:48.867294",
+  "package_url": "https://pypi.org/project/bento-lib/"
+}

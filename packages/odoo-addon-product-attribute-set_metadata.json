@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-attribute-set",
+  "version": "19.0.1.0.0.3",
+  "summary": "Product Attribute Set",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/odoo-pim",
+  "download_filename": "odoo_addon_product_attribute_set-19.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-04-10T16:54:44.235638",
+  "package_url": "https://pypi.org/project/odoo-addon-product-attribute-set/"
+}

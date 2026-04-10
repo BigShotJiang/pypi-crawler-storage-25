@@ -1,0 +1,11 @@
+{
+  "name": "novyx",
+  "version": "3.3.1",
+  "summary": "Agent memory infrastructure — store, recall, rollback, eval, and audit for AI agents.",
+  "author": "Novyx Labs",
+  "license": null,
+  "home_page": "https://novyxlabs.com",
+  "download_filename": "novyx-3.3.1.tar.gz",
+  "download_time": "2026-04-10T16:54:37.556024",
+  "package_url": "https://pypi.org/project/novyx/"
+}

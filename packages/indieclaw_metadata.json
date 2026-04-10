@@ -1,11 +1,11 @@
 {
   "name": "indieclaw",
-  "version": "0.1.30",
+  "version": "0.1.39",
   "summary": "Self-hosted Telegram AI agent. 10 tools, skills, subconscious, CLI learning.",
   "author": "IndieClaw Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "indieclaw-0.1.30.tar.gz",
-  "download_time": "2026-04-05T02:56:45.568738",
+  "download_filename": "indieclaw-0.1.39.tar.gz",
+  "download_time": "2026-04-10T16:54:23.669673",
   "package_url": "https://pypi.org/project/indieclaw/"
 }

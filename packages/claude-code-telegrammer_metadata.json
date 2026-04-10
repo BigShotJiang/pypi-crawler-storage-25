@@ -1,11 +1,11 @@
 {
   "name": "claude-code-telegrammer",
-  "version": "0.2.0",
-  "summary": "Screen-based auto-responder watchdog for Claude Code TUI",
+  "version": "0.4.2",
+  "summary": "Custom Telegram MCP server + TUI auto-responder for running Claude Code as an autonomous Telegram agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claude_code_telegrammer-0.2.0.tar.gz",
-  "download_time": "2026-04-07T11:42:16.975870",
+  "download_filename": "claude_code_telegrammer-0.4.2.tar.gz",
+  "download_time": "2026-04-10T16:54:19.504326",
   "package_url": "https://pypi.org/project/claude-code-telegrammer/"
 }

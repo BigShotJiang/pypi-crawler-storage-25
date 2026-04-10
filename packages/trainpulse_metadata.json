@@ -1,0 +1,11 @@
+{
+  "name": "trainpulse",
+  "version": "0.2.0",
+  "summary": "Lightweight training health monitor. Detect loss spikes, gradient explosions, and NaN — 2 lines of code, no server, no signup.",
+  "author": "Zacharie Bhatti",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "trainpulse-0.2.0.tar.gz",
+  "download_time": "2026-04-10T16:54:36.020657",
+  "package_url": "https://pypi.org/project/trainpulse/"
+}

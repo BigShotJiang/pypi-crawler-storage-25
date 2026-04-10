@@ -1,0 +1,11 @@
+{
+  "name": "wmoutils",
+  "version": "0.2.0",
+  "summary": "Collection of Python utility functions to interact with WMO APIs, incl. OSCAR and WDQMS.",
+  "author": "F.P.A Vogt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wmoutils-0.2.0.tar.gz",
+  "download_time": "2026-04-10T16:54:46.809167",
+  "package_url": "https://pypi.org/project/wmoutils/"
+}

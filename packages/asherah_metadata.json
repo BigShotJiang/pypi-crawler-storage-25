@@ -1,11 +1,11 @@
 {
   "name": "asherah",
-  "version": "0.5.28",
-  "summary": "Python bindings for Asherah envelope encryption",
-  "author": "Asherah Maintainers",
+  "version": "0.5.33",
+  "summary": "Asherah application-layer encryption for Python with automatic key rotation, powered by the native Rust implementation.",
+  "author": "Jay Gowdy, Bo Thompson, Michael Micco, Dalibor Nasevic",
   "license": "Apache-2.0",
   "home_page": "https://github.com/godaddy/asherah-ffi",
-  "download_filename": "asherah-0.5.28.tar.gz",
-  "download_time": "2026-03-29T04:46:58.265521",
+  "download_filename": "asherah-0.5.33.tar.gz",
+  "download_time": "2026-04-10T16:54:17.440838",
   "package_url": "https://pypi.org/project/asherah/"
 }

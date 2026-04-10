@@ -1,0 +1,11 @@
+{
+  "name": "breez-sdk-spark",
+  "version": "0.12.2",
+  "summary": "Python language bindings for the Breez Spark SDK",
+  "author": "Breez <contact@breez.technology>",
+  "license": "MIT",
+  "home_page": "https://github.com/breez/spark-sdk",
+  "download_filename": "breez_sdk_spark-0.12.2-cp310-cp310-manylinux_2_31_x86_64.whl",
+  "download_time": "2026-04-10T16:54:27.696434",
+  "package_url": "https://pypi.org/project/breez-sdk-spark/"
+}

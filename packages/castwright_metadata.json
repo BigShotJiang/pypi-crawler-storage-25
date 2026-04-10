@@ -1,0 +1,11 @@
+{
+  "name": "castwright",
+  "version": "0.2.0",
+  "summary": "Generate high-quality synthetic instruction-tuning data from seed examples. Simple API, built-in quality filtering, cost-aware.",
+  "author": "Zacharie Bhatti",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "castwright-0.2.0.tar.gz",
+  "download_time": "2026-04-10T16:54:37.043908",
+  "package_url": "https://pypi.org/project/castwright/"
+}
