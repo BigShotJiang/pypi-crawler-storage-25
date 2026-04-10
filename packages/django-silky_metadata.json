@@ -1,11 +1,11 @@
 {
   "name": "django-silky",
-  "version": "1.0.6",
+  "version": "1.1.2",
   "summary": "Silky smooth profiling for the Django Framework — modernized UI fork of django-silk",
-  "author": "Michael Ford",
+  "author": "Vaishnav Ghenge",
   "license": "MIT License",
   "home_page": "https://github.com/VaishnavGhenge/django-silky",
-  "download_filename": "django_silky-1.0.6.tar.gz",
-  "download_time": "2026-04-06T13:44:36.178775",
+  "download_filename": "django_silky-1.1.2.tar.gz",
+  "download_time": "2026-04-10T11:17:55.033237",
   "package_url": "https://pypi.org/project/django-silky/"
 }

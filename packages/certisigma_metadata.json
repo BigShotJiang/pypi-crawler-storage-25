@@ -1,0 +1,11 @@
+{
+  "name": "certisigma",
+  "version": "1.10.0",
+  "summary": "Official Python SDK for the CertiSigma attestation & verification API",
+  "author": "CertiSigma",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "certisigma-1.10.0.tar.gz",
+  "download_time": "2026-04-10T11:17:41.860567",
+  "package_url": "https://pypi.org/project/certisigma/"
+}

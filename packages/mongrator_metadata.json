@@ -1,0 +1,11 @@
+{
+  "name": "mongrator",
+  "version": "0.3.0",
+  "summary": "Lightweight MongoDB schema migration tool",
+  "author": "Sasha Gerrand",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mongrator-0.3.0.tar.gz",
+  "download_time": "2026-04-10T11:17:52.942803",
+  "package_url": "https://pypi.org/project/mongrator/"
+}

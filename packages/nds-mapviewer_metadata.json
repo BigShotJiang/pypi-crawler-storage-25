@@ -1,0 +1,11 @@
+{
+  "name": "nds-mapviewer",
+  "version": "2026.1.2",
+  "summary": "CLI to run the NDS MapViewer Docker container for visualizing map data (NDS.Live, GeoJSON, and more)",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "nds_mapviewer-2026.1.2.tar.gz",
+  "download_time": "2026-04-10T11:17:57.145626",
+  "package_url": "https://pypi.org/project/nds-mapviewer/"
+}

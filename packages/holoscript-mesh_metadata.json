@@ -1,0 +1,11 @@
+{
+  "name": "holoscript-mesh",
+  "version": "0.1.0",
+  "summary": "Persistent memory and team sync for AI agents. Your agent dies every session. HoloMesh remembers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "holoscript_mesh-0.1.0.tar.gz",
+  "download_time": "2026-04-10T11:18:02.793570",
+  "package_url": "https://pypi.org/project/holoscript-mesh/"
+}

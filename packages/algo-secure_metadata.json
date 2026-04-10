@@ -1,0 +1,11 @@
+{
+  "name": "algo-secure",
+  "version": "0.1.2",
+  "summary": "Semantic security scanner for Algorand smart contracts and workflows",
+  "author": "Algosec Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "algo_secure-0.1.2.tar.gz",
+  "download_time": "2026-04-10T11:18:01.260867",
+  "package_url": "https://pypi.org/project/algo-secure/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gitraze",
+  "version": "0.0.1",
+  "summary": "A CLI and Python library for GitHub reconnaissance, search, and analysis",
+  "author": "AK Pandey",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitraze-0.0.1.tar.gz",
+  "download_time": "2026-04-10T11:18:11.552043",
+  "package_url": "https://pypi.org/project/gitraze/"
+}

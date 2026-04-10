@@ -1,0 +1,11 @@
+{
+  "name": "slowai",
+  "version": "0.3.0",
+  "summary": "One command to find why your PyTorch model is slow — and fix it.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slowai-0.3.0.tar.gz",
+  "download_time": "2026-04-10T11:17:51.855625",
+  "package_url": "https://pypi.org/project/slowai/"
+}
