@@ -1,0 +1,11 @@
+{
+  "name": "selenium",
+  "version": "4.43.0",
+  "summary": "Official Python bindings for Selenium WebDriver",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://www.selenium.dev",
+  "download_filename": "selenium-4.43.0.tar.gz",
+  "download_time": "2026-04-10T07:06:29.661588",
+  "package_url": "https://pypi.org/project/selenium/"
+}

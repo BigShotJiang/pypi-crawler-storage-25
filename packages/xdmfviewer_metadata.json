@@ -1,0 +1,11 @@
+{
+  "name": "xdmfviewer",
+  "version": "0.1.6",
+  "summary": "Standalone PyVista/Qt viewer for XDMF result files",
+  "author": "xdmfviewer contributors",
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "xdmfviewer-0.1.6.tar.gz",
+  "download_time": "2026-04-10T07:06:16.271341",
+  "package_url": "https://pypi.org/project/xdmfviewer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pdnsbackup",
+  "version": "1.0.7",
+  "summary": "Backup tool for PowerDNS database",
+  "author": "Denis MACHARD",
+  "license": null,
+  "home_page": "https://github.com/dmachard/python-pdnsbackup",
+  "download_filename": "pdnsbackup-1.0.7.tar.gz",
+  "download_time": "2026-04-10T07:05:47.925029",
+  "package_url": "https://pypi.org/project/pdnsbackup/"
+}

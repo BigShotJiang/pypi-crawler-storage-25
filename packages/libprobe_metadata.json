@@ -1,0 +1,11 @@
+{
+  "name": "libprobe",
+  "version": "2.0.6",
+  "summary": "Library for building InfraSonar probes",
+  "author": "Cesbit",
+  "license": null,
+  "home_page": "https://github.com/infrasonar/python-libprobe",
+  "download_filename": "libprobe-2.0.6.tar.gz",
+  "download_time": "2026-04-10T07:05:58.842985",
+  "package_url": "https://pypi.org/project/libprobe/"
+}

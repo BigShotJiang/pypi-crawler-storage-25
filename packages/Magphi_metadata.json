@@ -1,0 +1,11 @@
+{
+  "name": "Magphi",
+  "version": "2.1.0",
+  "summary": "A bioinformatics tool allowing for examnination and extraction of genomic features using seed sequences.",
+  "author": "Magnus Ganer Jespersen",
+  "license": "MIT license",
+  "home_page": "https://github.com/milnus/Magphi",
+  "download_filename": "magphi-2.1.0.tar.gz",
+  "download_time": "2026-04-10T07:06:12.691781",
+  "package_url": "https://pypi.org/project/Magphi/"
+}

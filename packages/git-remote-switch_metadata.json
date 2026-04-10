@@ -1,0 +1,11 @@
+{
+  "name": "git-remote-switch",
+  "version": "0.0.2",
+  "summary": "Switch git remote URLs between HTTPS and SSH with ease",
+  "author": "ponponon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_remote_switch-0.0.2.tar.gz",
+  "download_time": "2026-04-10T07:06:04.991257",
+  "package_url": "https://pypi.org/project/git-remote-switch/"
+}

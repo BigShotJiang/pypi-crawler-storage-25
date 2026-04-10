@@ -1,0 +1,11 @@
+{
+  "name": "nxstools",
+  "version": "4.47.0",
+  "summary": "Configuration tools for NeXDaTaS Tango Servers",
+  "author": "Jan Kotanski, Eugen Wintersberger , Halil Pasic",
+  "license": "GNU GENERAL PUBLIC LICENSE version 3",
+  "home_page": "http://github.com/nexdatas/nxstools",
+  "download_filename": "nxstools-4.47.0.tar.gz",
+  "download_time": "2026-04-10T07:06:00.385955",
+  "package_url": "https://pypi.org/project/nxstools/"
+}

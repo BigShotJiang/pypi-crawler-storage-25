@@ -1,0 +1,11 @@
+{
+  "name": "pydifact",
+  "version": "0.2.3",
+  "summary": "Pydifact is a library that aims to provide complete support for reading and writing EDIFACT files. These file format, despite being old, is still a standard in many business cases. In Austria e.g., it is used for the transfer of medical reports between medical doctors.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydifact-0.2.3.tar.gz",
+  "download_time": "2026-04-10T07:05:47.412022",
+  "package_url": "https://pypi.org/project/pydifact/"
+}
