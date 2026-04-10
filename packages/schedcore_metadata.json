@@ -1,0 +1,11 @@
+{
+  "name": "schedcore",
+  "version": "0.1.0",
+  "summary": "A lightweight, thread-safe, and zero-dependency concurrent task scheduling engine for Python.",
+  "author": "ckalandk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "schedcore-0.1.0.tar.gz",
+  "download_time": "2026-04-10T17:51:30.642469",
+  "package_url": "https://pypi.org/project/schedcore/"
+}

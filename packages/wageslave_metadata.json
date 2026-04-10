@@ -1,0 +1,11 @@
+{
+  "name": "wageslave",
+  "version": "0.1.0",
+  "summary": "Run git/gh with personal GitHub credentials inside Docker containers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wageslave-0.1.0.tar.gz",
+  "download_time": "2026-04-10T17:51:10.771678",
+  "package_url": "https://pypi.org/project/wageslave/"
+}

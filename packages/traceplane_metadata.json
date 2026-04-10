@@ -1,0 +1,11 @@
+{
+  "name": "traceplane",
+  "version": "0.2.0",
+  "summary": "Streaming dataloader for robotics trajectory datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "traceplane-0.2.0.tar.gz",
+  "download_time": "2026-04-10T17:51:12.349467",
+  "package_url": "https://pypi.org/project/traceplane/"
+}

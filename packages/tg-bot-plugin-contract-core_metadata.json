@@ -1,0 +1,11 @@
+{
+  "name": "tg-bot-plugin-contract-core",
+  "version": "0.1.1",
+  "summary": "TG-BOT 插件的共享 manifest、bundle、digest 与 signer 校验合同层。",
+  "author": "Fire Dragons",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tg_bot_plugin_contract_core-0.1.1.tar.gz",
+  "download_time": "2026-04-10T17:51:02.880837",
+  "package_url": "https://pypi.org/project/tg-bot-plugin-contract-core/"
+}

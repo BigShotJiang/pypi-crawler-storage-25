@@ -1,0 +1,11 @@
+{
+  "name": "scrubbers",
+  "version": "0.1.1",
+  "summary": "High-throughput secret redaction for Python, backed by Rust.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/zmackie/ScrubbeRS",
+  "download_filename": "scrubbers-0.1.1.tar.gz",
+  "download_time": "2026-04-10T17:51:34.805759",
+  "package_url": "https://pypi.org/project/scrubbers/"
+}

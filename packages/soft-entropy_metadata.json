@@ -1,0 +1,11 @@
+{
+  "name": "soft-entropy",
+  "version": "0.1.2",
+  "summary": "GPU Accelerated soft entropy and mutual information estimator for embeddings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "soft_entropy-0.1.2.tar.gz",
+  "download_time": "2026-04-10T17:51:01.330472",
+  "package_url": "https://pypi.org/project/soft-entropy/"
+}

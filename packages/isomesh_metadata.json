@@ -1,0 +1,11 @@
+{
+  "name": "isomesh",
+  "version": "0.1.0.dev3",
+  "summary": "Fast, robust isosurface extraction from arbitrary implicit functions using adaptive octree and Manifold Dual Contouring",
+  "author": "Mason Seo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "isomesh-0.1.0.dev3.tar.gz",
+  "download_time": "2026-04-10T17:51:08.665489",
+  "package_url": "https://pypi.org/project/isomesh/"
+}

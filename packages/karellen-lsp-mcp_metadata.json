@@ -1,11 +1,11 @@
 {
   "name": "karellen-lsp-mcp",
-  "version": "0.1.6",
+  "version": "0.1.9",
   "summary": "MCP Server bridging to LSP servers for structured code introspection",
   "author": "Karellen, Inc.",
   "license": "Apache-2.0",
   "home_page": "https://github.com/karellen/karellen-lsp-mcp",
-  "download_filename": "karellen_lsp_mcp-0.1.6.tar.gz",
-  "download_time": "2026-03-29T19:22:24.730496",
+  "download_filename": "karellen_lsp_mcp-0.1.9.tar.gz",
+  "download_time": "2026-04-10T17:51:21.785705",
   "package_url": "https://pypi.org/project/karellen-lsp-mcp/"
 }
