@@ -1,0 +1,11 @@
+{
+  "name": "lambdarunner",
+  "version": "0.6.1",
+  "summary": "Run AWS Lambda handlers locally. No Docker, no SAM, no AWS connection required.",
+  "author": "buziraku",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lambdarunner-0.6.1.tar.gz",
+  "download_time": "2026-04-10T22:40:14.926547",
+  "package_url": "https://pypi.org/project/lambdarunner/"
+}

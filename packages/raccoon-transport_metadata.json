@@ -1,0 +1,11 @@
+{
+  "name": "raccoon-transport",
+  "version": "0.1.33",
+  "summary": "Shared LCM transport library with channel definitions and optional reliable delivery",
+  "author": "Tobias Madlberger",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "raccoon_transport-0.1.33-py3-none-any.whl",
+  "download_time": "2026-04-10T22:39:45.129590",
+  "package_url": "https://pypi.org/project/raccoon-transport/"
+}

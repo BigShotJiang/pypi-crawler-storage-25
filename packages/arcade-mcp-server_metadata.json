@@ -1,0 +1,11 @@
+{
+  "name": "arcade-mcp-server",
+  "version": "1.19.2",
+  "summary": "Model Context Protocol (MCP) server framework for Arcade.dev",
+  "author": "Arcade.dev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arcade_mcp_server-1.19.2.tar.gz",
+  "download_time": "2026-04-10T22:40:10.030867",
+  "package_url": "https://pypi.org/project/arcade-mcp-server/"
+}

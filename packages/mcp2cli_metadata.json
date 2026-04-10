@@ -1,11 +1,11 @@
 {
   "name": "mcp2cli",
-  "version": "2.6.1",
+  "version": "3.0.2",
   "summary": "Turn any MCP server or OpenAPI spec into a CLI",
   "author": "Stephan Fitzpatrick",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp2cli-2.6.1.tar.gz",
-  "download_time": "2026-04-05T21:34:03.233941",
+  "download_filename": "mcp2cli-3.0.2.tar.gz",
+  "download_time": "2026-04-10T22:40:04.830973",
   "package_url": "https://pypi.org/project/mcp2cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "crewai-forge",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Forge Verify tools and guardrails for CrewAI — verify every agent action before execution",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "crewai_forge-0.1.0.tar.gz",
-  "download_time": "2026-04-10T21:58:42.213839",
+  "download_filename": "crewai_forge-0.1.1.tar.gz",
+  "download_time": "2026-04-10T22:40:02.090878",
   "package_url": "https://pypi.org/project/crewai-forge/"
 }

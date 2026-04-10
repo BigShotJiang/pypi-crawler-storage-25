@@ -1,11 +1,11 @@
 {
   "name": "forge-openai",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Forge Verify guardrail for OpenAI Agents SDK — verify every tool call before execution",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "forge_openai-0.1.0.tar.gz",
-  "download_time": "2026-04-10T21:58:43.258034",
+  "download_filename": "forge_openai-0.1.1.tar.gz",
+  "download_time": "2026-04-10T22:40:03.168106",
   "package_url": "https://pypi.org/project/forge-openai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "langchain-forge",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Forge Verify middleware for LangGraph/LangChain — verify every tool call before execution",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_forge-0.1.0.tar.gz",
-  "download_time": "2026-04-10T21:58:42.738730",
+  "download_filename": "langchain_forge-0.1.1.tar.gz",
+  "download_time": "2026-04-10T22:40:02.622503",
   "package_url": "https://pypi.org/project/langchain-forge/"
 }

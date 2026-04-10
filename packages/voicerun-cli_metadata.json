@@ -1,11 +1,11 @@
 {
   "name": "voicerun-cli",
-  "version": "1.3.8",
+  "version": "1.4.0",
   "summary": "VoiceRun command-line interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "voicerun_cli-1.3.8.tar.gz",
-  "download_time": "2026-04-05T17:59:24.961128",
+  "download_filename": "voicerun_cli-1.4.0.tar.gz",
+  "download_time": "2026-04-10T22:39:54.694560",
   "package_url": "https://pypi.org/project/voicerun-cli/"
 }
