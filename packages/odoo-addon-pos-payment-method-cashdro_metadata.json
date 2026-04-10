@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-payment-method-cashdro",
+  "version": "18.0.1.0.1",
+  "summary": "Allows to pay with CashDro Terminals on the Point of Sale",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_payment_method_cashdro-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2026-04-10T10:13:16.956511",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-payment-method-cashdro/"
+}

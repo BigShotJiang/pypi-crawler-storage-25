@@ -1,11 +1,11 @@
 {
   "name": "degiro-portfolio",
-  "version": "0.4.1",
+  "version": "0.4.4",
   "summary": "DEGIRO portfolio tracking and visualization application",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "degiro_portfolio-0.4.1.tar.gz",
-  "download_time": "2026-04-09T23:57:31.816638",
+  "download_filename": "degiro_portfolio-0.4.4.tar.gz",
+  "download_time": "2026-04-10T10:12:56.636063",
   "package_url": "https://pypi.org/project/degiro-portfolio/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "kensa",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "The open source agent evals harness",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kensa-0.2.0.tar.gz",
-  "download_time": "2026-04-08T20:28:14.139942",
+  "download_filename": "kensa-0.3.0.tar.gz",
+  "download_time": "2026-04-10T10:13:19.592061",
   "package_url": "https://pypi.org/project/kensa/"
 }

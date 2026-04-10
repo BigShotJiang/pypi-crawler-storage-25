@@ -1,11 +1,11 @@
 {
   "name": "reportportal-client",
-  "version": "5.7.2",
+  "version": "5.7.4",
   "summary": "Python client for ReportPortal v5.",
   "author": "ReportPortal Team",
   "license": "Apache-2.0",
   "home_page": "https://github.com/reportportal/client-Python",
-  "download_filename": "reportportal_client-5.7.2.tar.gz",
-  "download_time": "2026-04-06T20:26:06.139669",
+  "download_filename": "reportportal_client-5.7.4.tar.gz",
+  "download_time": "2026-04-10T10:12:49.251326",
   "package_url": "https://pypi.org/project/reportportal-client/"
 }

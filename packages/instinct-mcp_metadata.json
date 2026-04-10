@@ -1,11 +1,11 @@
 {
   "name": "instinct-mcp",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Self-learning memory for AI coding agents — pattern detection, confidence scoring, auto-promotion via MCP",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "instinct_mcp-0.1.1.tar.gz",
-  "download_time": "2026-04-04T19:22:53.177197",
+  "download_filename": "instinct_mcp-0.1.5-py3-none-any.whl",
+  "download_time": "2026-04-10T10:13:33.054799",
   "package_url": "https://pypi.org/project/instinct-mcp/"
 }

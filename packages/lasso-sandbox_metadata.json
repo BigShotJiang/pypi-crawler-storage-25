@@ -1,0 +1,11 @@
+{
+  "name": "lasso-sandbox",
+  "version": "1.4.1",
+  "summary": "Run AI coding agents (Claude Code, OpenCode) safely inside sandboxed Docker containers with audit logging",
+  "author": "LASSO Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lasso_sandbox-1.4.1.tar.gz",
+  "download_time": "2026-04-10T10:13:28.904460",
+  "package_url": "https://pypi.org/project/lasso-sandbox/"
+}

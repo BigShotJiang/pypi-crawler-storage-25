@@ -1,11 +1,11 @@
 {
   "name": "smplkit-sdk",
-  "version": "2.4.7",
+  "version": "2.4.17",
   "summary": "Official Python SDK for the smplkit platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smplkit_sdk-2.4.7.tar.gz",
-  "download_time": "2026-04-08T11:19:19.038829",
+  "download_filename": "smplkit_sdk-2.4.17.tar.gz",
+  "download_time": "2026-04-10T10:12:51.900858",
   "package_url": "https://pypi.org/project/smplkit-sdk/"
 }

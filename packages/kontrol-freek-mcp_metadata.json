@@ -1,0 +1,11 @@
+{
+  "name": "kontrol-freek-mcp",
+  "version": "1.2.0",
+  "summary": "AI assumption firewall for MCP agents — intercepts risky decisions, detects contradictions, and gates human approval via Telegram or Slack.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kontrol_freek_mcp-1.2.0.tar.gz",
+  "download_time": "2026-04-10T10:13:01.315911",
+  "package_url": "https://pypi.org/project/kontrol-freek-mcp/"
+}

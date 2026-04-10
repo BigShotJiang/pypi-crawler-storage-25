@@ -1,11 +1,11 @@
 {
   "name": "Vertex2D",
-  "version": "1.1.7",
+  "version": "1.2.5",
   "summary": "Simple and fast 2D game engine based on pygame-ce and SDL2.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vertex2d-1.1.7.tar.gz",
-  "download_time": "2026-03-28T21:36:54.907572",
+  "download_filename": "vertex2d-1.2.5.tar.gz",
+  "download_time": "2026-04-10T10:13:03.497660",
   "package_url": "https://pypi.org/project/Vertex2D/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "disvortilo",
-  "version": "0.7.9",
+  "version": "0.7.11",
   "summary": "Disvortilo is a simple tool that breaks Esperanto words into roots and affixes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "disvortilo-0.7.9.tar.gz",
-  "download_time": "2026-04-04T10:34:47.586394",
+  "download_filename": "disvortilo-0.7.11.tar.gz",
+  "download_time": "2026-04-10T10:13:01.886195",
   "package_url": "https://pypi.org/project/disvortilo/"
 }

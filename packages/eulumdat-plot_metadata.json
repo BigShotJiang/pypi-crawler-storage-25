@@ -1,0 +1,11 @@
+{
+  "name": "eulumdat-plot",
+  "version": "1.0.3",
+  "summary": "Photometric polar diagram generator for EULUMDAT (.ldt) files — extension to eulumdat-py",
+  "author": "123VincentB",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eulumdat_plot-1.0.3.tar.gz",
+  "download_time": "2026-04-10T10:12:52.477746",
+  "package_url": "https://pypi.org/project/eulumdat-plot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cci-facet-scanner",
+  "version": "0.7.2",
+  "summary": "Extracts facets from datasets to add to elasticsearch.",
+  "author": "Daniel Westwood",
+  "license": "BSD 3",
+  "home_page": null,
+  "download_filename": "cci_facet_scanner-0.7.2.tar.gz",
+  "download_time": "2026-04-10T10:13:32.028512",
+  "package_url": "https://pypi.org/project/cci-facet-scanner/"
+}

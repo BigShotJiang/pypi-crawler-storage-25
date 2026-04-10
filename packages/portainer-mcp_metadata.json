@@ -1,11 +1,11 @@
 {
   "name": "portainer-mcp",
-  "version": "0.1.0",
-  "summary": "MCP server that gives AI assistants 37 tools to manage Portainer: deploy stacks, manage containers, volumes, networks, exec commands, pull images, inspect endpoints, monitor resources",
+  "version": "0.2.0",
+  "summary": "MCP server that gives AI assistants 41 tools to manage Portainer: deploy stacks, manage containers, volumes, networks, exec commands, pull images, inspect endpoints, monitor resources, analyze logs, debug Laravel apps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "portainer_mcp-0.1.0.tar.gz",
-  "download_time": "2026-04-02T08:07:33.154218",
+  "download_filename": "portainer_mcp-0.2.0.tar.gz",
+  "download_time": "2026-04-10T10:12:54.066316",
   "package_url": "https://pypi.org/project/portainer-mcp/"
 }

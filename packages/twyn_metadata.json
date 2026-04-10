@@ -1,0 +1,11 @@
+{
+  "name": "twyn",
+  "version": "6.1.2",
+  "summary": "Security tool against dependency typosquatting attacks",
+  "author": "Ludo van Orden, Dmitrii Fedotov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "twyn-6.1.2.tar.gz",
+  "download_time": "2026-04-10T10:13:11.236971",
+  "package_url": "https://pypi.org/project/twyn/"
+}

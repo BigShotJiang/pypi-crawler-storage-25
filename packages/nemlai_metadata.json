@@ -1,0 +1,11 @@
+{
+  "name": "nemlai",
+  "version": "0.6.0",
+  "summary": "CLI and Python SDK for automated grocery replenishment on Nemlig.com (Denmark). Built for OpenClaw and other agents.",
+  "author": "NemlAI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nemlai-0.6.0.tar.gz",
+  "download_time": "2026-04-10T10:13:34.076463",
+  "package_url": "https://pypi.org/project/nemlai/"
+}
