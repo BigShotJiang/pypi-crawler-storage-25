@@ -1,0 +1,11 @@
+{
+  "name": "commandman",
+  "version": "1.0.0",
+  "summary": "Console utility for working with command packages. Storage, execution, autorun.",
+  "author": "Alexander Suvorov",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/smartlegionlab/commandman/",
+  "download_filename": "commandman-1.0.0.tar.gz",
+  "download_time": "2026-04-10T02:30:54.419036",
+  "package_url": "https://pypi.org/project/commandman/"
+}

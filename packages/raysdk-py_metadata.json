@@ -1,0 +1,11 @@
+{
+  "name": "raysdk-py",
+  "version": "0.1.0",
+  "summary": "Python SDK for the RaySearch personal API service.",
+  "author": "Radiata Labs",
+  "license": null,
+  "home_page": "https://github.com/radiata-labs/raysearch-sdk-py",
+  "download_filename": "raysdk_py-0.1.0.tar.gz",
+  "download_time": "2026-04-10T02:30:44.217349",
+  "package_url": "https://pypi.org/project/raysdk-py/"
+}

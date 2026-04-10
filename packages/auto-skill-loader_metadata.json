@@ -1,0 +1,11 @@
+{
+  "name": "auto-skill-loader",
+  "version": "1.0.0",
+  "summary": "MCP server that auto-loads approved skills into agent sessions and provides MiniMax vision + search proxy tools",
+  "author": "divitkashyap",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auto_skill_loader-1.0.0.tar.gz",
+  "download_time": "2026-04-10T02:30:48.556991",
+  "package_url": "https://pypi.org/project/auto-skill-loader/"
+}

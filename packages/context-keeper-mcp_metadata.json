@@ -1,0 +1,11 @@
+{
+  "name": "context-keeper-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server that maintains project context (decisions, pipelines, constraints) across Claude conversations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "context_keeper_mcp-0.1.0.tar.gz",
+  "download_time": "2026-04-10T02:30:24.321833",
+  "package_url": "https://pypi.org/project/context-keeper-mcp/"
+}
