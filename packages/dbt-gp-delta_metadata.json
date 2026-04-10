@@ -1,11 +1,11 @@
 {
   "name": "dbt-gp-delta",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "summary": "Greenplum adapter for dbt with exchange_partition incremental strategy",
   "author": "Alexey Fadeev",
   "license": null,
   "home_page": "https://github.com/folknik/dbt-gp-delta",
-  "download_filename": "dbt_gp_delta-1.2.0.tar.gz",
-  "download_time": "2026-04-10T10:13:05.540921",
+  "download_filename": "dbt_gp_delta-1.4.0.tar.gz",
+  "download_time": "2026-04-10T12:04:15.532539",
   "package_url": "https://pypi.org/project/dbt-gp-delta/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Gefyra",
+  "version": "2.4.1",
+  "summary": "Gefyra runs all developer machine side components of Gefyra's Kubernetes-based development infrastructure",
+  "author": "Michael Schilonka",
+  "license": null,
+  "home_page": "https://gefyra.dev",
+  "download_filename": "gefyra-2.4.1.tar.gz",
+  "download_time": "2026-04-10T12:04:21.407518",
+  "package_url": "https://pypi.org/project/Gefyra/"
+}

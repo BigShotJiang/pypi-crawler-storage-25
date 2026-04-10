@@ -1,0 +1,11 @@
+{
+  "name": "pytransform3d",
+  "version": "3.15.0",
+  "summary": "3D transformations for Python",
+  "author": "Alexander Fabisch",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/dfki-ric/pytransform3d",
+  "download_filename": "pytransform3d-3.15.0.tar.gz",
+  "download_time": "2026-04-10T12:04:50.171672",
+  "package_url": "https://pypi.org/project/pytransform3d/"
+}

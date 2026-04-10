@@ -1,0 +1,11 @@
+{
+  "name": "llm-watchdog",
+  "version": "1.0.0",
+  "summary": "Production-grade silent failure detection for LLM applications — hallucination alerts, PII leak detection, semantic drift, topic guard, and real-time observability",
+  "author": "Mahesh Makvana",
+  "license": null,
+  "home_page": "https://github.com/MaheshMakvana1/llm-watchdog",
+  "download_filename": "llm_watchdog-1.0.0.tar.gz",
+  "download_time": "2026-04-10T12:04:24.597213",
+  "package_url": "https://pypi.org/project/llm-watchdog/"
+}

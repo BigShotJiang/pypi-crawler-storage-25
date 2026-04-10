@@ -1,11 +1,11 @@
 {
   "name": "sirius-chat",
-  "version": "0.12.1",
+  "version": "0.14.1",
   "summary": "A multi-user RPG dialogue LLM framework compatible with OpenAI providers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sirius_chat-0.12.1.tar.gz",
-  "download_time": "2026-04-09T10:40:31.951931",
+  "download_filename": "sirius_chat-0.14.1.tar.gz",
+  "download_time": "2026-04-10T12:04:56.954654",
   "package_url": "https://pypi.org/project/sirius-chat/"
 }

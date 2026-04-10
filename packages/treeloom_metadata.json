@@ -1,0 +1,11 @@
+{
+  "name": "treeloom",
+  "version": "0.7.0",
+  "summary": "Language-agnostic Code Property Graph library — weave syntax trees into queryable, analyzable graphs",
+  "author": "Will Jackson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "treeloom-0.7.0.tar.gz",
+  "download_time": "2026-04-10T12:04:49.103011",
+  "package_url": "https://pypi.org/project/treeloom/"
+}

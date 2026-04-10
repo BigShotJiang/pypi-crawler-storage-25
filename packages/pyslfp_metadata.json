@@ -1,0 +1,11 @@
+{
+  "name": "pyslfp",
+  "version": "1.1.7",
+  "summary": "Package for computing elastic sea level fingerprints",
+  "author": "David Al-Attar and Dan Heathcote",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pyslfp-1.1.7.tar.gz",
+  "download_time": "2026-04-10T12:04:55.910379",
+  "package_url": "https://pypi.org/project/pyslfp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "psgscoring",
-  "version": "0.2.3",
-  "summary": "AASM 2.6-compliant respiratory event scoring for polysomnography",
+  "version": "0.2.6",
+  "summary": "Open-source Python library for AASM 2.6-compliant automated polysomnography scoring",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "psgscoring-0.2.3.tar.gz",
-  "download_time": "2026-04-04T09:56:42.556422",
+  "download_filename": "psgscoring-0.2.6.tar.gz",
+  "download_time": "2026-04-10T12:04:11.387945",
   "package_url": "https://pypi.org/project/psgscoring/"
 }

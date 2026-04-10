@@ -1,0 +1,11 @@
+{
+  "name": "edge-agent",
+  "version": "0.3.0",
+  "summary": "Small stdlib-only agent framework with tools, MCP, chains, and modern agent types",
+  "author": "danieldagot",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "edge_agent-0.3.0.tar.gz",
+  "download_time": "2026-04-10T12:04:12.927669",
+  "package_url": "https://pypi.org/project/edge-agent/"
+}

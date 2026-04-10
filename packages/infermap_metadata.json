@@ -1,11 +1,11 @@
 {
   "name": "infermap",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Inference-driven schema mapping engine",
-  "author": "Ben Severn",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "infermap-0.3.0.tar.gz",
-  "download_time": "2026-04-10T11:17:47.193780",
+  "download_filename": "infermap-0.3.1.tar.gz",
+  "download_time": "2026-04-10T12:04:23.022027",
   "package_url": "https://pypi.org/project/infermap/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hubvault",
+  "version": "0.0.2",
+  "summary": "API-first embedded versioned storage for local ML artifacts",
+  "author": "HansBug, narugo1992",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/hansbug/hubvault",
+  "download_filename": "hubvault-0.0.2.tar.gz",
+  "download_time": "2026-04-10T12:04:51.739350",
+  "package_url": "https://pypi.org/project/hubvault/"
+}
