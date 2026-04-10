@@ -1,0 +1,11 @@
+{
+  "name": "cyberscorecard",
+  "version": "1.2.2",
+  "summary": "SMB cybersecurity governance scorecard — CIS Controls v8, Zero Trust scoring, IR playbook generation, threat intelligence feed, attack surface mapping, compliance gap analysis",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cyberscorecard-py/cyberscorecard",
+  "download_filename": "cyberscorecard-1.2.2.tar.gz",
+  "download_time": "2026-04-10T15:56:52.933168",
+  "package_url": "https://pypi.org/project/cyberscorecard/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cherrypick-ml",
+  "version": "0.1.3",
+  "summary": "A lightweight ML orchestration library with preprocessing, anomaly detection, and explainability tools",
+  "author": "Sujal G Sanyasi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cherrypick_ml-0.1.3.tar.gz",
+  "download_time": "2026-04-10T15:57:16.108542",
+  "package_url": "https://pypi.org/project/cherrypick-ml/"
+}

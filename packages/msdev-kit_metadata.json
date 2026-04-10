@@ -1,11 +1,11 @@
 {
   "name": "msdev-kit",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Microsoft developer toolkit: Fabric, MS Graph, and SharePoint",
   "author": "Bernardo Rufino",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "msdev_kit-0.1.5.tar.gz",
-  "download_time": "2026-04-07T21:09:06.080007",
+  "download_filename": "msdev_kit-0.1.6.tar.gz",
+  "download_time": "2026-04-10T15:57:03.285914",
   "package_url": "https://pypi.org/project/msdev-kit/"
 }

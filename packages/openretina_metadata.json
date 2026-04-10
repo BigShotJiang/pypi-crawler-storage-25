@@ -1,11 +1,11 @@
 {
   "name": "openretina",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Open source retina model architectures and training setups",
   "author": "Federico D'Agostino, Thomas Zenkel, Larissa Höfling",
   "license": null,
   "home_page": null,
-  "download_filename": "openretina-1.1.0.tar.gz",
-  "download_time": "2026-04-10T14:50:52.110003",
+  "download_filename": "openretina-1.1.1.tar.gz",
+  "download_time": "2026-04-10T15:57:19.704285",
   "package_url": "https://pypi.org/project/openretina/"
 }

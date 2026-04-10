@@ -1,0 +1,11 @@
+{
+  "name": "weightederm",
+  "version": "0.1.1",
+  "summary": "Scikit-learn-style weighted empirical risk minimization for changepoint detection",
+  "author": "Gabriel Arpino",
+  "license": null,
+  "home_page": null,
+  "download_filename": "weightederm-0.1.1.tar.gz",
+  "download_time": "2026-04-10T15:57:23.296897",
+  "package_url": "https://pypi.org/project/weightederm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lm-saes",
-  "version": "2.0.0b24",
+  "version": "2.0.0b25",
   "summary": "For OpenMOSS Mechanistic Interpretability Team's Sparse Autoencoder (SAE) research. Open-sourced and constantly updated.",
   "author": "Xuyang Ge, Zhengfu He, Wentao Shu, Fukang Zhu, Lingjie Chen, Junxuan Wang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lm_saes-2.0.0b24.tar.gz",
-  "download_time": "2026-04-04T14:54:40.714803",
+  "download_filename": "lm_saes-2.0.0b25.tar.gz",
+  "download_time": "2026-04-10T15:57:00.702011",
   "package_url": "https://pypi.org/project/lm-saes/"
 }

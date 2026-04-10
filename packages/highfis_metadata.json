@@ -1,11 +1,11 @@
 {
   "name": "highfis",
-  "version": "0.1.0a0",
+  "version": "0.1.0a1",
   "summary": "highFIS is a comprehensive Python package for training and evaluating high-dimensional TSK fuzzy systems, built on PyTorch and compatible with the scikit-learn API.",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "highfis-0.1.0a0.tar.gz",
-  "download_time": "2026-04-09T21:47:49.763963",
+  "download_filename": "highfis-0.1.0a1.tar.gz",
+  "download_time": "2026-04-10T15:56:51.378252",
   "package_url": "https://pypi.org/project/highfis/"
 }

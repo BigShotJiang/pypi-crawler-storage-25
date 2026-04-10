@@ -1,0 +1,11 @@
+{
+  "name": "imap-reader",
+  "version": "1.0.2",
+  "summary": "Simple Python library for reading verification emails via IMAP — OTP extraction, link parsing, auto IMAP detection.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "imap_reader-1.0.2.tar.gz",
+  "download_time": "2026-04-10T15:57:22.786033",
+  "package_url": "https://pypi.org/project/imap-reader/"
+}

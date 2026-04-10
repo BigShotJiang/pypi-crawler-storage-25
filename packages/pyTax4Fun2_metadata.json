@@ -1,0 +1,11 @@
+{
+  "name": "pyTax4Fun2",
+  "version": "1.2.0",
+  "summary": "A Python Implementation of pyTax4Fun2 for Functional Profiling and Redundancy Analysis of Bacterial Communities via 16S rRNA Gene Sequences, Featuring Polars for Efficient Processing of Large Genomic Datasets",
+  "author": "Maulana Malik Nashrulloh",
+  "license": null,
+  "home_page": "https://gitlab.com/biomikalab/pyTax4Fun2",
+  "download_filename": "pytax4fun2-1.2.0-py3-none-any.whl",
+  "download_time": "2026-04-10T15:57:06.351402",
+  "package_url": "https://pypi.org/project/pyTax4Fun2/"
+}

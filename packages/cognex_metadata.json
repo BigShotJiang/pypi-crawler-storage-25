@@ -1,11 +1,11 @@
 {
   "name": "cognex",
-  "version": "0.1.4",
-  "summary": "Persistent memory layer for AI agents — survives sessions, learns patterns, enables continuity",
-  "author": "Cognex Contributors",
+  "version": "0.1.5",
+  "summary": "Your AI forgets everything. Cognex doesn't.",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cognex-0.1.4.tar.gz",
-  "download_time": "2026-04-06T11:16:13.441463",
+  "download_filename": "cognex-0.1.5.tar.gz",
+  "download_time": "2026-04-10T15:57:21.251261",
   "package_url": "https://pypi.org/project/cognex/"
 }

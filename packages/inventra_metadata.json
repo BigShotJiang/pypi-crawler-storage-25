@@ -1,0 +1,11 @@
+{
+  "name": "inventra",
+  "version": "1.2.2",
+  "summary": "Multi-channel inventory sync for eCommerce — real-time conflict resolution, reorder point calculation, ABC/XYZ inventory analysis, demand forecasting, oversell prevention",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/inventra-py/inventra",
+  "download_filename": "inventra-1.2.2.tar.gz",
+  "download_time": "2026-04-10T15:56:48.818173",
+  "package_url": "https://pypi.org/project/inventra/"
+}

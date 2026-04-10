@@ -1,0 +1,11 @@
+{
+  "name": "bddrest",
+  "version": "6.3.3",
+  "summary": "A toolchain for testing REST APIs in BDD manner.",
+  "author": "Vahid Mardani",
+  "license": "MIT",
+  "home_page": "https://github.com/pylover/bddrest",
+  "download_filename": "bddrest-6.3.3.tar.gz",
+  "download_time": "2026-04-10T15:56:58.636298",
+  "package_url": "https://pypi.org/project/bddrest/"
+}

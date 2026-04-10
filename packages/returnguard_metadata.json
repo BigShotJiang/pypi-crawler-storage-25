@@ -1,0 +1,11 @@
+{
+  "name": "returnguard",
+  "version": "1.2.2",
+  "summary": "Returns fraud detection for retail and eCommerce — wardrobing, serial returner, refund anomaly detection, behavioral fingerprinting, policy simulation",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/returnguard-py/returnguard",
+  "download_filename": "returnguard-1.2.2.tar.gz",
+  "download_time": "2026-04-10T15:56:54.008398",
+  "package_url": "https://pypi.org/project/returnguard/"
+}
