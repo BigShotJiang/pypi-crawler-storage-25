@@ -1,11 +1,11 @@
 {
   "name": "semantic-transformers",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Machine-file extractors and transformers for semantic schema pipelines",
   "author": "Semantic Dataspace contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "semantic_transformers-0.1.4.tar.gz",
-  "download_time": "2026-04-09T23:58:10.961968",
+  "download_filename": "semantic_transformers-0.1.5.tar.gz",
+  "download_time": "2026-04-10T13:54:01.164983",
   "package_url": "https://pypi.org/project/semantic-transformers/"
 }

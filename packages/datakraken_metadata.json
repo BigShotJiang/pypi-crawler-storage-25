@@ -1,0 +1,11 @@
+{
+  "name": "datakraken",
+  "version": "1.6.1",
+  "summary": "Kraken is a convenience package that orchestrates data extraction by integrating SQL with Python, while managing safe storage and recall of sensitive connection credentials.",
+  "author": "Cai Davis, Michael George, Faizan Hemotra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datakraken-1.6.1.tar.gz",
+  "download_time": "2026-04-10T13:54:03.728198",
+  "package_url": "https://pypi.org/project/datakraken/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "prsm-network",
-  "version": "0.35.0",
-  "summary": "Protocol for Recursive Scientific Modeling - A decentralized AI-powered scientific research platform",
+  "version": "1.6.1",
+  "summary": "Protocol for Recursive Scientific Modeling - A P2P infrastructure protocol for open-source collaboration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prsm_network-0.35.0.tar.gz",
-  "download_time": "2026-04-07T12:47:22.740481",
+  "download_filename": "prsm_network-1.6.1.tar.gz",
+  "download_time": "2026-04-10T13:54:12.050617",
   "package_url": "https://pypi.org/project/prsm-network/"
 }

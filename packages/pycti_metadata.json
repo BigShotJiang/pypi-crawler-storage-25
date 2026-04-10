@@ -1,11 +1,11 @@
 {
   "name": "pycti",
-  "version": "7.260401.0",
+  "version": "7.260409.0",
   "summary": "Python API client for OpenCTI.",
   "author": "Filigran",
   "license": "Apache",
   "home_page": "https://github.com/OpenCTI-Platform/opencti/client-python",
-  "download_filename": "pycti-7.260401.0.tar.gz",
-  "download_time": "2026-04-07T18:03:22.283290",
+  "download_filename": "pycti-7.260409.0.tar.gz",
+  "download_time": "2026-04-10T13:54:07.338811",
   "package_url": "https://pypi.org/project/pycti/"
 }

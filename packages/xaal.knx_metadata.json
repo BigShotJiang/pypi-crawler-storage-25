@@ -1,11 +1,11 @@
 {
   "name": "xaal.knx",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "xAAL devices for KNX bus",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xaal_knx-0.2.3.tar.gz",
-  "download_time": "2026-04-01T10:43:30.780848",
+  "download_filename": "xaal_knx-0.2.4.tar.gz",
+  "download_time": "2026-04-10T13:54:44.938560",
   "package_url": "https://pypi.org/project/xaal.knx/"
 }

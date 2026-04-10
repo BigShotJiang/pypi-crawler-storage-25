@@ -1,0 +1,11 @@
+{
+  "name": "volgrids",
+  "version": "0.6.0",
+  "summary": "Framework for volumetric calculations, with emphasis in biological molecular systems.",
+  "author": "DiegoBarMor",
+  "license": "MIT",
+  "home_page": "https://github.com/diegobarmor/volgrids",
+  "download_filename": "volgrids-0.6.0.tar.gz",
+  "download_time": "2026-04-10T13:54:23.353881",
+  "package_url": "https://pypi.org/project/volgrids/"
+}

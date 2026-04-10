@@ -1,0 +1,11 @@
+{
+  "name": "alephprover",
+  "version": "0.1.0",
+  "summary": "CLI tool for submitting Lean proof requests to the Aleph Prover API",
+  "author": "Logical Intelligence",
+  "license": null,
+  "home_page": null,
+  "download_filename": "alephprover-0.1.0.tar.gz",
+  "download_time": "2026-04-10T13:54:13.590644",
+  "package_url": "https://pypi.org/project/alephprover/"
+}

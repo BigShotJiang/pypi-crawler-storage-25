@@ -1,0 +1,11 @@
+{
+  "name": "xdjango-postgres-extra",
+  "version": "2.0.9rc6",
+  "summary": "Bringing all of PostgreSQL's awesomeness to Django.",
+  "author": "Sector Labs",
+  "license": "MIT License",
+  "home_page": "https://github.com/SectorLabs/django-postgres-extra",
+  "download_filename": "xdjango_postgres_extra-2.0.9rc6.tar.gz",
+  "download_time": "2026-04-10T13:54:42.374593",
+  "package_url": "https://pypi.org/project/xdjango-postgres-extra/"
+}

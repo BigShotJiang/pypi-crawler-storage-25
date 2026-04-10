@@ -1,0 +1,11 @@
+{
+  "name": "dvm-leanix",
+  "version": "0.3.0",
+  "summary": "SAP LeanIX GraphQL proxy with browser token extraction via Playwright",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dvm_leanix-0.3.0.tar.gz",
+  "download_time": "2026-04-10T13:54:13.078885",
+  "package_url": "https://pypi.org/project/dvm-leanix/"
+}

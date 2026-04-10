@@ -1,11 +1,11 @@
 {
   "name": "pyrung",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "Write ladder logic in Python. Simulate it. Test it. Deploy it -- Currently targets AutomationDirect CLICK PLC and CircuitPython ProductivityOpen P1AM-200.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyrung-0.4.0.tar.gz",
-  "download_time": "2026-04-09T18:43:08.533805",
+  "download_filename": "pyrung-0.5.1.tar.gz",
+  "download_time": "2026-04-10T13:54:31.045264",
   "package_url": "https://pypi.org/project/pyrung/"
 }
