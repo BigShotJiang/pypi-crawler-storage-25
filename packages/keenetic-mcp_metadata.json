@@ -1,11 +1,11 @@
 {
   "name": "keenetic-mcp",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "MCP server for Keenetic routers — manage interfaces, clients, routes and system via Claude",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "keenetic_mcp-0.2.0.tar.gz",
-  "download_time": "2026-04-10T14:51:08.683723",
+  "download_filename": "keenetic_mcp-0.3.0.tar.gz",
+  "download_time": "2026-04-10T21:58:46.963423",
   "package_url": "https://pypi.org/project/keenetic-mcp/"
 }

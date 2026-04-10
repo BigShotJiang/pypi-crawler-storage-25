@@ -1,0 +1,11 @@
+{
+  "name": "intentiai",
+  "version": "1.0.0",
+  "summary": "IntentiAI — The AI Safety Gate. Intent routing, OOS detection, injection blocking, and output validation in one package.",
+  "author": "Nishan Poudel",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "intentiai-1.0.0.tar.gz",
+  "download_time": "2026-04-10T21:58:53.808549",
+  "package_url": "https://pypi.org/project/intentiai/"
+}

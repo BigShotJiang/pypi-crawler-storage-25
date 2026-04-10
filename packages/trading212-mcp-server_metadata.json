@@ -1,0 +1,11 @@
+{
+  "name": "trading212-mcp-server",
+  "version": "0.2.1",
+  "summary": "MCP server for Trading 212 - 32 tools for portfolio management, trading, pies, dividends, and analytics. Works with Claude, ChatGPT, Cursor, and any MCP client.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trading212_mcp_server-0.2.1.tar.gz",
+  "download_time": "2026-04-10T21:58:20.607426",
+  "package_url": "https://pypi.org/project/trading212-mcp-server/"
+}

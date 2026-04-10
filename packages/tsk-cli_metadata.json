@@ -1,0 +1,11 @@
+{
+  "name": "tsk-cli",
+  "version": "0.1.5",
+  "summary": "CLI for TSK — pull projects and things for editor agents",
+  "author": "Rob Crosby",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tsk_cli-0.1.5.tar.gz",
+  "download_time": "2026-04-10T21:58:36.349939",
+  "package_url": "https://pypi.org/project/tsk-cli/"
+}

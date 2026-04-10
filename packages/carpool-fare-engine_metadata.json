@@ -1,0 +1,11 @@
+{
+  "name": "carpool-fare-engine",
+  "version": "0.1.0",
+  "summary": "Dynamic fare calculation engine for carpool platforms",
+  "author": "Smart Rental Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "carpool_fare_engine-0.1.0.tar.gz",
+  "download_time": "2026-04-10T21:58:55.897925",
+  "package_url": "https://pypi.org/project/carpool-fare-engine/"
+}

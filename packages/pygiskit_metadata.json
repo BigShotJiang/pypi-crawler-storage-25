@@ -1,0 +1,11 @@
+{
+  "name": "pygiskit",
+  "version": "0.1.8",
+  "summary": "Recipe-driven spatial data downloader for Dutch geo-data",
+  "author": "Sander Boer",
+  "license": "MIT",
+  "home_page": "https://github.com/maucworks/py-giskit",
+  "download_filename": "pygiskit-0.1.8.tar.gz",
+  "download_time": "2026-04-10T21:59:03.431267",
+  "package_url": "https://pypi.org/project/pygiskit/"
+}

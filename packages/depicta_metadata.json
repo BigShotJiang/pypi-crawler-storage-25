@@ -1,11 +1,11 @@
 {
   "name": "depicta",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Depicta CLI — AI image generation from the terminal",
-  "author": "30ohm L.P. (E.E.)",
+  "author": "30ohm",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "depicta-1.0.0.tar.gz",
-  "download_time": "2026-04-02T21:03:54.504550",
+  "download_filename": "depicta-1.1.1.tar.gz",
+  "download_time": "2026-04-10T21:58:50.164812",
   "package_url": "https://pypi.org/project/depicta/"
 }

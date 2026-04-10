@@ -1,0 +1,11 @@
+{
+  "name": "dbt-review-assistant",
+  "version": "2.2.0",
+  "summary": "Pre-commit hooks for dbt projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_review_assistant-2.2.0.tar.gz",
+  "download_time": "2026-04-10T21:58:51.205711",
+  "package_url": "https://pypi.org/project/dbt-review-assistant/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "toolgate-ai",
+  "version": "1.0.4",
+  "summary": "Optimistic execution middleware for autonomous agents — let reads pass, intercept actions, approve at the end.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toolgate_ai-1.0.4.tar.gz",
+  "download_time": "2026-04-10T21:58:30.078135",
+  "package_url": "https://pypi.org/project/toolgate-ai/"
+}

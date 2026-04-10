@@ -1,11 +1,11 @@
 {
   "name": "graqle",
-  "version": "0.46.9",
+  "version": "0.47.0",
   "summary": "Give your AI tools architecture-aware reasoning. Build a knowledge graph from any codebase — dependency analysis, impact analysis, governed AI answers with confidence scores. Works with Claude Code, Cursor, VS Code Copilot. 14 LLM backends, fully offline capable.",
   "author": null,
   "license": "Proprietary — see LICENSE",
   "home_page": null,
-  "download_filename": "graqle-0.46.9.tar.gz",
-  "download_time": "2026-04-10T20:24:04.355404",
+  "download_filename": "graqle-0.47.0.tar.gz",
+  "download_time": "2026-04-10T21:58:44.331727",
   "package_url": "https://pypi.org/project/graqle/"
 }
