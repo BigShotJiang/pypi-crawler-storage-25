@@ -1,0 +1,11 @@
+{
+  "name": "psgdemos",
+  "version": "6.0",
+  "summary": "Installs the full set of PySimpleGUI Demo Programs and the Demo Browser.",
+  "author": "PySimpleGUI",
+  "license": "GNU Lesser General Public License v3 (LGPLv3)",
+  "home_page": "https://github.com/PySimpleGUI/psgdemos",
+  "download_filename": "psgdemos-6.0.tar.gz",
+  "download_time": "2026-04-10T21:07:30.356225",
+  "package_url": "https://pypi.org/project/psgdemos/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "helix-context",
-  "version": "0.3.0b3",
+  "version": "0.3.0b5",
   "summary": "Genome-based context compression for local LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "helix_context-0.3.0b3-py3-none-any.whl",
-  "download_time": "2026-04-10T08:53:19.849972",
+  "download_filename": "helix_context-0.3.0b5-py3-none-any.whl",
+  "download_time": "2026-04-10T21:07:14.532002",
   "package_url": "https://pypi.org/project/helix-context/"
 }

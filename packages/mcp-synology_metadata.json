@@ -1,0 +1,11 @@
+{
+  "name": "mcp-synology",
+  "version": "0.5.0",
+  "summary": "MCP server for Synology NAS — manage files on your NAS via Claude",
+  "author": "Chris Means",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_synology-0.5.0.tar.gz",
+  "download_time": "2026-04-10T21:07:15.581959",
+  "package_url": "https://pypi.org/project/mcp-synology/"
+}

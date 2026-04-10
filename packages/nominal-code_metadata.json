@@ -1,0 +1,11 @@
+{
+  "name": "nominal-code",
+  "version": "0.15.0",
+  "summary": "A bot that monitors GitHub PRs and GitLab MRs for review comments, then uses AI agents to respond, review code, and push changes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nominal_code-0.15.0-py3-none-any.whl",
+  "download_time": "2026-04-10T21:07:20.828949",
+  "package_url": "https://pypi.org/project/nominal-code/"
+}

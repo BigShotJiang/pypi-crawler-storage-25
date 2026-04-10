@@ -1,11 +1,11 @@
 {
   "name": "limbicdb",
-  "version": "2.1.1",
+  "version": "3.0.0",
   "summary": "Debuggable memory layer for AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "limbicdb-2.1.1.tar.gz",
-  "download_time": "2026-04-03T13:03:42.223643",
+  "download_filename": "limbicdb-3.0.0.tar.gz",
+  "download_time": "2026-04-10T21:07:13.476672",
   "package_url": "https://pypi.org/project/limbicdb/"
 }
