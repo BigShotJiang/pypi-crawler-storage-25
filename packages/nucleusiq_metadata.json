@@ -1,11 +1,11 @@
 {
   "name": "nucleusiq",
-  "version": "0.7.2",
+  "version": "0.7.6",
   "summary": "NucleusIQ – open-source framework for building autonomous AI agents with advanced prompt engineering, flexible execution modes, and modular architecture.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nucleusiq-0.7.2.tar.gz",
-  "download_time": "2026-03-31T20:28:23.423253",
+  "download_filename": "nucleusiq-0.7.6.tar.gz",
+  "download_time": "2026-04-10T14:51:09.213713",
   "package_url": "https://pypi.org/project/nucleusiq/"
 }

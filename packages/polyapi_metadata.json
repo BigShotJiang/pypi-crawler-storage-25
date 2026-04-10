@@ -1,0 +1,11 @@
+{
+  "name": "polyapi",
+  "version": "5.9.21",
+  "summary": "Wrapper for Polymatica API",
+  "author": "Polymatica Rus LLC",
+  "license": "MIT",
+  "home_page": "https://polymatica.ru/",
+  "download_filename": "polyapi-5.9.21.tar.gz",
+  "download_time": "2026-04-10T14:50:43.983040",
+  "package_url": "https://pypi.org/project/polyapi/"
+}

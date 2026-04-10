@@ -1,11 +1,11 @@
 {
   "name": "nucleusiq-gemini",
-  "version": "0.1.0",
+  "version": "0.2.4",
   "summary": "Google Gemini provider for the NucleusIQ AI agent framework.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nucleusiq_gemini-0.1.0.tar.gz",
-  "download_time": "2026-03-28T19:19:10.207242",
+  "download_filename": "nucleusiq_gemini-0.2.4.tar.gz",
+  "download_time": "2026-04-10T14:50:48.302741",
   "package_url": "https://pypi.org/project/nucleusiq-gemini/"
 }

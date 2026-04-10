@@ -1,0 +1,11 @@
+{
+  "name": "pinginstaller",
+  "version": "2.1.10",
+  "summary": "Light-weight interface for running PING ecosystem (PINGMapper, etc.)",
+  "author": "Cameron Bodine",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pinginstaller-2.1.10.tar.gz",
+  "download_time": "2026-04-10T14:51:18.341752",
+  "package_url": "https://pypi.org/project/pinginstaller/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "libcuopt-cu13",
+  "version": "26.4.0",
+  "summary": "cuOpt - GPU Optimizer (C++)",
+  "author": "NVIDIA Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libcuopt_cu13-26.4.0.tar.gz",
+  "download_time": "2026-04-10T14:50:53.169833",
+  "package_url": "https://pypi.org/project/libcuopt-cu13/"
+}

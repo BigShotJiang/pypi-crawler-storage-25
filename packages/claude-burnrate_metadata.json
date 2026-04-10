@@ -1,0 +1,11 @@
+{
+  "name": "claude-burnrate",
+  "version": "0.3.0",
+  "summary": "Track your Claude session + weekly usage. Never waste limits again.",
+  "author": "Aravind Kurapati",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_burnrate-0.3.0.tar.gz",
+  "download_time": "2026-04-10T14:51:19.948579",
+  "package_url": "https://pypi.org/project/claude-burnrate/"
+}

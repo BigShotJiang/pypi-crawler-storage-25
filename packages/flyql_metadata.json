@@ -1,11 +1,11 @@
 {
   "name": "flyql",
-  "version": "0.0.32",
+  "version": "0.0.36",
   "summary": "A lightweight, injection-proof query language for multi-dialect SQL generation",
   "author": "Ilia (HumanUser) Khomutov",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "flyql-0.0.32.tar.gz",
-  "download_time": "2026-04-08T21:13:54.551404",
+  "download_filename": "flyql-0.0.36.tar.gz",
+  "download_time": "2026-04-10T14:50:56.891772",
   "package_url": "https://pypi.org/project/flyql/"
 }
