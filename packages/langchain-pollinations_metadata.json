@@ -1,0 +1,11 @@
+{
+  "name": "langchain-pollinations",
+  "version": "0.3.0b2",
+  "summary": "LangChain provider for Pollinations unified API (OpenAI-compatible chat completions + image endpoint).",
+  "author": "onatrain",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_pollinations-0.3.0b2.tar.gz",
+  "download_time": "2026-04-10T23:25:37.775442",
+  "package_url": "https://pypi.org/project/langchain-pollinations/"
+}

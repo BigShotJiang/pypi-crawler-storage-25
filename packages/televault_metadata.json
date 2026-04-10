@@ -1,11 +1,11 @@
 {
   "name": "televault",
-  "version": "2.5.0",
+  "version": "2.6.1",
   "summary": "Unlimited cloud storage using Telegram MTProto. No local DB - everything on Telegram.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "televault-2.5.0.tar.gz",
-  "download_time": "2026-04-10T21:07:08.295496",
+  "download_filename": "televault-2.6.1.tar.gz",
+  "download_time": "2026-04-10T23:25:29.077087",
   "package_url": "https://pypi.org/project/televault/"
 }

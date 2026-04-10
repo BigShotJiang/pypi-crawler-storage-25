@@ -1,0 +1,11 @@
+{
+  "name": "claude-codex-local",
+  "version": "0.3.0",
+  "summary": "Local backend bridge for Claude Code and Codex.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_codex_local-0.3.0.tar.gz",
+  "download_time": "2026-04-10T23:25:35.777453",
+  "package_url": "https://pypi.org/project/claude-codex-local/"
+}

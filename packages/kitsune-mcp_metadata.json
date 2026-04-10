@@ -1,0 +1,11 @@
+{
+  "name": "kitsune-mcp",
+  "version": "0.8.1",
+  "summary": "The shape-shifting MCP hub — shapeshift() into any MCP server at runtime. 7 registries. No restart.",
+  "author": "Kitsune MCP Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kitsune_mcp-0.8.1.tar.gz",
+  "download_time": "2026-04-10T23:25:44.013366",
+  "package_url": "https://pypi.org/project/kitsune-mcp/"
+}

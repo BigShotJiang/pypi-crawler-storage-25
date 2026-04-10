@@ -1,0 +1,11 @@
+{
+  "name": "slatedb",
+  "version": "0.12.0",
+  "summary": "A cloud native embedded storage engine built on object storage.",
+  "author": null,
+  "license": null,
+  "home_page": "https://slatedb.io",
+  "download_filename": "slatedb-0.12.0.tar.gz",
+  "download_time": "2026-04-10T23:25:11.772620",
+  "package_url": "https://pypi.org/project/slatedb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pivotal-lang",
+  "version": "0.2.0",
+  "summary": "A pipeline-oriented data transformation DSL for Python and Jupyter",
+  "author": "Hugh Evans",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pivotal_lang-0.2.0.tar.gz",
+  "download_time": "2026-04-10T23:25:48.624454",
+  "package_url": "https://pypi.org/project/pivotal-lang/"
+}

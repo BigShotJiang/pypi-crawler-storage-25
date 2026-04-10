@@ -1,11 +1,11 @@
 {
   "name": "hypertopos-mcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "MCP server for hypertopos geometric data sphere",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hypertopos_mcp-0.2.0.tar.gz",
-  "download_time": "2026-04-10T20:23:54.983209",
+  "download_filename": "hypertopos_mcp-0.2.1.tar.gz",
+  "download_time": "2026-04-10T23:25:42.470193",
   "package_url": "https://pypi.org/project/hypertopos-mcp/"
 }

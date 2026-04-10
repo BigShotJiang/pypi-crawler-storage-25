@@ -1,11 +1,11 @@
 {
   "name": "treestamps",
-  "version": "2.5.1",
+  "version": "2.5.2",
   "summary": "Create timestamp records for recursive operations on directory trees.",
   "author": "AJ Slater",
   "license": null,
   "home_page": null,
-  "download_filename": "treestamps-2.5.1.tar.gz",
-  "download_time": "2026-04-10T02:30:56.531476",
+  "download_filename": "treestamps-2.5.2.tar.gz",
+  "download_time": "2026-04-10T23:25:46.571787",
   "package_url": "https://pypi.org/project/treestamps/"
 }

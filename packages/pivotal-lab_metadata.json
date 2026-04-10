@@ -1,0 +1,11 @@
+{
+  "name": "pivotal-lab",
+  "version": "0.2.0",
+  "summary": "JupyterLab extension for the Pivotal data transformation DSL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pivotal_lab-0.2.0.tar.gz",
+  "download_time": "2026-04-10T23:25:48.109990",
+  "package_url": "https://pypi.org/project/pivotal-lab/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "roxels-mcp",
-  "version": "0.5.0",
+  "version": "0.6.1",
   "summary": "MCP server for Roxels — let AI agents create interview templates, configure webhooks, embed widgets, and run interviews via voice conversation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "roxels_mcp-0.5.0.tar.gz",
-  "download_time": "2026-04-08T21:13:57.454345",
+  "download_filename": "roxels_mcp-0.6.1-py3-none-any.whl",
+  "download_time": "2026-04-10T23:25:38.801021",
   "package_url": "https://pypi.org/project/roxels-mcp/"
 }

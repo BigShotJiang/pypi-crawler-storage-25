@@ -1,11 +1,11 @@
 {
   "name": "stv",
-  "version": "0.10.0",
-  "summary": "Talk to your TV. Control any smart TV with natural language.",
+  "version": "1.0.1",
+  "summary": "Talk to your TV. Play Netflix, Disney+, and 20+ streaming platforms by name on any smart TV.",
   "author": "Yunsu Kim",
   "license": null,
   "home_page": null,
-  "download_filename": "stv-0.10.0-py3-none-any.whl",
-  "download_time": "2026-04-08T21:13:45.590277",
+  "download_filename": "stv-1.0.1-py3-none-any.whl",
+  "download_time": "2026-04-10T23:25:40.852832",
   "package_url": "https://pypi.org/project/stv/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-weasyprint",
+  "version": "2.5.0",
+  "summary": "Django WeasyPrint integration",
+  "author": "Jeroen Dekkers",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "django_weasyprint-2.5.0.tar.gz",
+  "download_time": "2026-04-10T23:25:55.767728",
+  "package_url": "https://pypi.org/project/django-weasyprint/"
+}
