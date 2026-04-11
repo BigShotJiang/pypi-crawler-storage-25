@@ -1,11 +1,11 @@
 {
   "name": "dbt-gizmosql",
-  "version": "1.11.13",
+  "version": "1.11.15",
   "summary": "The GizmoSQL adapter plugin for dbt",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_gizmosql-1.11.13.tar.gz",
-  "download_time": "2026-04-11T14:40:38.684316",
+  "download_filename": "dbt_gizmosql-1.11.15.tar.gz",
+  "download_time": "2026-04-11T16:41:07.984694",
   "package_url": "https://pypi.org/project/dbt-gizmosql/"
 }

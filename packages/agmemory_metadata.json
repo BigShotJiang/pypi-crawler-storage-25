@@ -1,11 +1,11 @@
 {
   "name": "agmemory",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "summary": "Persistent memory system for AI agents — session notes, rolling state, and RAG search",
   "author": "RK0429",
   "license": null,
   "home_page": null,
-  "download_filename": "agmemory-0.17.0.tar.gz",
-  "download_time": "2026-04-11T13:59:44.473548",
+  "download_filename": "agmemory-0.18.0.tar.gz",
+  "download_time": "2026-04-11T16:41:05.919973",
   "package_url": "https://pypi.org/project/agmemory/"
 }

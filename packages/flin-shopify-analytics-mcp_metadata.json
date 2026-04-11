@@ -1,11 +1,11 @@
 {
   "name": "flin-shopify-analytics-mcp",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Read-only MCP server for Shopify analytics with client credentials or static token auth.",
   "author": "flin agency",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flin_shopify_analytics_mcp-0.2.1.tar.gz",
-  "download_time": "2026-04-10T12:04:16.584577",
+  "download_filename": "flin_shopify_analytics_mcp-0.3.0.tar.gz",
+  "download_time": "2026-04-11T16:40:54.573179",
   "package_url": "https://pypi.org/project/flin-shopify-analytics-mcp/"
 }

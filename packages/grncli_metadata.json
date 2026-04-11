@@ -1,11 +1,11 @@
 {
   "name": "grncli",
-  "version": "0.1.2",
-  "summary": "Universal Command Line Interface for Greenode (VNG Cloud)",
-  "author": "VNG Cloud",
+  "version": "0.2.0",
+  "summary": "Universal Command Line Interface for Green Node",
+  "author": "Green Node",
   "license": "Apache License 2.0",
-  "home_page": "https://github.com/vngcloud/greenode-cli",
-  "download_filename": "grncli-0.1.2.tar.gz",
-  "download_time": "2026-04-11T10:01:39.466964",
+  "home_page": "https://github.com/vngcloud/greennode-cli",
+  "download_filename": "grncli-0.2.0.tar.gz",
+  "download_time": "2026-04-11T16:41:13.623302",
   "package_url": "https://pypi.org/project/grncli/"
 }

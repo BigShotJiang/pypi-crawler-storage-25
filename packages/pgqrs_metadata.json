@@ -1,0 +1,11 @@
+{
+  "name": "pgqrs",
+  "version": "0.15.3",
+  "summary": "PostgreSQL-backed job queue with Rust and Python bindings",
+  "author": "Rajat Venkatesh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgqrs-0.15.3.tar.gz",
+  "download_time": "2026-04-11T16:40:41.696514",
+  "package_url": "https://pypi.org/project/pgqrs/"
+}

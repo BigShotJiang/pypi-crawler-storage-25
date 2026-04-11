@@ -1,0 +1,11 @@
+{
+  "name": "sqliter-lochan",
+  "version": "0.1.1",
+  "summary": "A simple, clean SQLite database wrapper for Python",
+  "author": "Lochan Jangid",
+  "license": null,
+  "home_page": "https://github.com/LochanJangid/sqliter-lochan",
+  "download_filename": "sqliter_lochan-0.1.1.tar.gz",
+  "download_time": "2026-04-11T16:40:36.049420",
+  "package_url": "https://pypi.org/project/sqliter-lochan/"
+}
