@@ -1,11 +1,11 @@
 {
   "name": "nvhive",
-  "version": "0.6.0",
+  "version": "0.12.0",
   "summary": "NVHive — Multi-LLM orchestration platform with intelligent routing, hive consensus, and auto-agent generation",
   "author": "NVHive Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "nvhive-0.6.0.tar.gz",
-  "download_time": "2026-04-08T22:04:29.614365",
+  "download_filename": "nvhive-0.12.0.tar.gz",
+  "download_time": "2026-04-11T23:38:58.840405",
   "package_url": "https://pypi.org/project/nvhive/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "moviebox-api",
-  "version": "0.4.0.post1",
+  "version": "0.5.0",
   "summary": "Unofficial wrapper for moviebox.ph - search, discover and download movies, tv-series and their subtitles.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moviebox_api-0.4.0.post1.tar.gz",
-  "download_time": "2026-03-29T17:49:03.405683",
+  "download_filename": "moviebox_api-0.5.0.tar.gz",
+  "download_time": "2026-04-11T23:38:28.825087",
   "package_url": "https://pypi.org/project/moviebox-api/"
 }

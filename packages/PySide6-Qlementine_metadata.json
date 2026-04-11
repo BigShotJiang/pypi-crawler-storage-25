@@ -1,11 +1,11 @@
 {
   "name": "PySide6-Qlementine",
-  "version": "1.4.3.0rc6",
+  "version": "1.4.3.0rc7",
   "summary": "PySide6 bindings for Qlementine, a modern QStyle for desktop Qt6 applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyside6_qlementine-1.4.3.0rc6-cp310-abi3-macosx_11_0_arm64.whl",
-  "download_time": "2026-04-03T15:04:13.316228",
+  "download_filename": "pyside6_qlementine-1.4.3.0rc7-cp310-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-11T23:38:34.019244",
   "package_url": "https://pypi.org/project/PySide6-Qlementine/"
 }

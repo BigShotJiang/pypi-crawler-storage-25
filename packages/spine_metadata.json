@@ -1,11 +1,11 @@
 {
   "name": "spine",
-  "version": "0.10.8",
+  "version": "0.10.9",
   "summary": "SPINE: Scalable Particle Imaging with Neural Embeddings for 3D high energy physics data analysis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spine-0.10.8.tar.gz",
-  "download_time": "2026-04-07T06:55:34.326393",
+  "download_filename": "spine-0.10.9.tar.gz",
+  "download_time": "2026-04-11T23:38:58.327253",
   "package_url": "https://pypi.org/project/spine/"
 }

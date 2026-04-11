@@ -1,11 +1,11 @@
 {
   "name": "ollama-profiler",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "CLI + TUI tool for benchmarking Ollama models side-by-side",
   "author": "Pierce Cohen",
   "license": "MIT",
   "home_page": "https://github.com/piercecohen1/ollama-profiler",
-  "download_filename": "ollama_profiler-0.2.0-py3-none-macosx_10_9_x86_64.whl",
-  "download_time": "2026-04-08T01:07:52.467776",
+  "download_filename": "ollama_profiler-0.4.0-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-04-11T23:38:55.757439",
   "package_url": "https://pypi.org/project/ollama-profiler/"
 }

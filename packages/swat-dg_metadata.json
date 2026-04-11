@@ -1,0 +1,11 @@
+{
+  "name": "swat-dg",
+  "version": "0.6.1",
+  "summary": "Python wrapper and automation tools for SWAT2012 hydrological model",
+  "author": "SWAT-DG Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "swat_dg-0.6.1.tar.gz",
+  "download_time": "2026-04-11T23:38:55.182306",
+  "package_url": "https://pypi.org/project/swat-dg/"
+}

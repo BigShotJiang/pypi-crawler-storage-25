@@ -1,11 +1,11 @@
 {
   "name": "postcraftin",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "summary": "AI-powered LinkedIn post generator using local LLMs via Ollama",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "postcraftin-2.4.1.tar.gz",
-  "download_time": "2026-04-11T22:56:30.225678",
+  "download_filename": "postcraftin-2.4.2.tar.gz",
+  "download_time": "2026-04-11T23:38:51.554149",
   "package_url": "https://pypi.org/project/postcraftin/"
 }

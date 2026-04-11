@@ -1,11 +1,11 @@
 {
   "name": "cesiumkit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Object-oriented Python interface for CesiumJS 3D geospatial visualization",
   "author": "Jacob Neel",
   "license": null,
   "home_page": null,
-  "download_filename": "cesiumkit-0.1.0.tar.gz",
-  "download_time": "2026-04-08T23:57:20.276244",
+  "download_filename": "cesiumkit-0.2.0.tar.gz",
+  "download_time": "2026-04-11T23:38:20.031453",
   "package_url": "https://pypi.org/project/cesiumkit/"
 }

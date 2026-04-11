@@ -1,0 +1,11 @@
+{
+  "name": "notebooklm-enterprise-mcp",
+  "version": "1.0.4",
+  "summary": "Unified CLI and MCP server for Google NotebookLM (Enterprise + Personal)",
+  "author": "Jacob Ben-David, Brian Worrell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "notebooklm_enterprise_mcp-1.0.4.tar.gz",
+  "download_time": "2026-04-11T23:38:32.977697",
+  "package_url": "https://pypi.org/project/notebooklm-enterprise-mcp/"
+}

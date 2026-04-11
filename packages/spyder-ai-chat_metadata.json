@@ -1,11 +1,11 @@
 {
   "name": "spyder-ai-chat",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "OpenAI-compatible AI chat pane + FIM completion for Spyder 6",
   "author": "Maciej Piecko",
   "license": null,
   "home_page": null,
-  "download_filename": "spyder_ai_chat-0.8.0.tar.gz",
-  "download_time": "2026-04-11T16:40:48.896270",
+  "download_filename": "spyder_ai_chat-0.8.1.tar.gz",
+  "download_time": "2026-04-11T23:38:36.590454",
   "package_url": "https://pypi.org/project/spyder-ai-chat/"
 }

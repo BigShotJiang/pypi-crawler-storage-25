@@ -1,11 +1,11 @@
 {
   "name": "dynamodb-local",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "DynamoDB local downloader",
   "author": null,
   "license": "Apache-2.0 AND MIT",
   "home_page": null,
-  "download_filename": "dynamodb_local-1.1.0.tar.gz",
-  "download_time": "2026-04-11T22:56:24.802478",
+  "download_filename": "dynamodb_local-1.1.1.tar.gz",
+  "download_time": "2026-04-11T23:38:57.812842",
   "package_url": "https://pypi.org/project/dynamodb-local/"
 }

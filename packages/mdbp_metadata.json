@@ -1,11 +1,11 @@
 {
   "name": "mdbp",
-  "version": "0.3.4.5",
-  "summary": "Model Database Protocol — intent-based, secure data access for AI systems",
+  "version": "0.3.4.9",
+  "summary": "Model Database Protocol — intent-based, secure database access for LLMs with schema validation, policy engine, data masking, and MCP server support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mdbp-0.3.4.5.tar.gz",
-  "download_time": "2026-04-10T23:25:14.471842",
+  "download_filename": "mdbp-0.3.4.9.tar.gz",
+  "download_time": "2026-04-11T23:38:21.574141",
   "package_url": "https://pypi.org/project/mdbp/"
 }
