@@ -1,11 +1,11 @@
 {
   "name": "earlyseo-blog",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Drop-in blog integration for Django & Flask — powered by EarlySEO. Articles are served from EarlySEO's CDN. Just add your site ID and go.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "earlyseo_blog-1.0.2.tar.gz",
-  "download_time": "2026-04-09T11:41:17.574313",
+  "download_filename": "earlyseo_blog-1.0.4.tar.gz",
+  "download_time": "2026-04-11T12:59:52.070681",
   "package_url": "https://pypi.org/project/earlyseo-blog/"
 }

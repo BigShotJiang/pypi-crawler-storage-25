@@ -1,11 +1,11 @@
 {
   "name": "lcl-choice",
-  "version": "0.1.18",
+  "version": "0.1.20",
   "summary": "A high-performance Python package for estimating latent-class conditional logit models.",
   "author": "Anna Jeffries",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lcl_choice-0.1.18.tar.gz",
-  "download_time": "2026-04-05T22:03:59.420881",
+  "download_filename": "lcl_choice-0.1.20.tar.gz",
+  "download_time": "2026-04-11T13:00:08.285395",
   "package_url": "https://pypi.org/project/lcl-choice/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "slide2vec",
+  "version": "4.1.1",
+  "summary": "Embedding of whole slide images with Foundation Models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slide2vec-4.1.1.tar.gz",
+  "download_time": "2026-04-11T12:59:31.121349",
+  "package_url": "https://pypi.org/project/slide2vec/"
+}

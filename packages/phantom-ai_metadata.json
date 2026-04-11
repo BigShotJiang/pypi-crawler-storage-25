@@ -1,0 +1,11 @@
+{
+  "name": "phantom-ai",
+  "version": "0.2.0",
+  "summary": "Sandboxed data analysis with LLMs, powered by DuckDB",
+  "author": "James Wirth",
+  "license": null,
+  "home_page": null,
+  "download_filename": "phantom_ai-0.2.0.tar.gz",
+  "download_time": "2026-04-11T12:59:43.174415",
+  "package_url": "https://pypi.org/project/phantom-ai/"
+}

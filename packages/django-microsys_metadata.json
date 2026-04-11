@@ -1,11 +1,11 @@
 {
   "name": "django-microsys",
-  "version": "1.18.15",
+  "version": "1.19.1",
   "summary": "Django microSYS (System Integration Service) - Multilingual Django Starter Pack, Packed with Features.",
-  "author": "DeBeski",
-  "license": "MIT",
-  "home_page": "https://github.com/debeski/django-microsys",
-  "download_filename": "django_microsys-1.18.15.tar.gz",
-  "download_time": "2026-04-04T09:56:47.701598",
+  "author": null,
+  "license": "NON-COMMERCIAL",
+  "home_page": null,
+  "download_filename": "django_microsys-1.19.1.tar.gz",
+  "download_time": "2026-04-11T13:00:05.660649",
   "package_url": "https://pypi.org/project/django-microsys/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aivibe-mcp",
-  "version": "0.2.3",
+  "version": "0.3.1",
   "summary": "MCP server for read-only access to AIVibe platform data — designed for Claude Desktop and Cowork.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aivibe_mcp-0.2.3.tar.gz",
-  "download_time": "2026-04-11T11:57:21.506231",
+  "download_filename": "aivibe_mcp-0.3.1.tar.gz",
+  "download_time": "2026-04-11T13:00:00.443414",
   "package_url": "https://pypi.org/project/aivibe-mcp/"
 }

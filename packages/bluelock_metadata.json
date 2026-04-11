@@ -1,0 +1,11 @@
+{
+  "name": "bluelock",
+  "version": "0.4.2",
+  "summary": "Lock and unlock your KDE session based on Bluetooth device proximity.",
+  "author": "Doncho Nikolaev Gunchev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bluelock-0.4.2.tar.gz",
+  "download_time": "2026-04-11T12:59:54.190174",
+  "package_url": "https://pypi.org/project/bluelock/"
+}

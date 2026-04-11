@@ -1,0 +1,11 @@
+{
+  "name": "github-shell",
+  "version": "2.2.0",
+  "summary": "A GitHub simulation shell with automatic update feature",
+  "author": "wjr-2015",
+  "license": null,
+  "home_page": "https://github.com/wjr-2015/github-shell",
+  "download_filename": "github_shell-2.2.0-py3-none-any.whl",
+  "download_time": "2026-04-11T13:00:00.962714",
+  "package_url": "https://pypi.org/project/github-shell/"
+}

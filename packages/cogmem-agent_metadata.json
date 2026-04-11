@@ -1,11 +1,11 @@
 {
   "name": "cogmem-agent",
-  "version": "0.22.0",
+  "version": "0.23.0",
   "summary": "Human-like cognitive memory for AI agents — emotion-gated recall with adaptive forgetting",
   "author": "Akira Honjo",
   "license": null,
   "home_page": null,
-  "download_filename": "cogmem_agent-0.22.0.tar.gz",
-  "download_time": "2026-04-08T11:18:58.680317",
+  "download_filename": "cogmem_agent-0.23.0.tar.gz",
+  "download_time": "2026-04-11T13:00:12.447113",
   "package_url": "https://pypi.org/project/cogmem-agent/"
 }
