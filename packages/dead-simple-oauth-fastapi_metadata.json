@@ -1,0 +1,11 @@
+{
+  "name": "dead-simple-oauth-fastapi",
+  "version": "0.1.0",
+  "summary": "Dead simple Google + GitHub OAuth for FastAPI with built-in security (state + PKCE) and Redis support",
+  "author": "Kamronbek Atajanov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dead_simple_oauth_fastapi-0.1.0.tar.gz",
+  "download_time": "2026-04-11T16:00:30.392473",
+  "package_url": "https://pypi.org/project/dead-simple-oauth-fastapi/"
+}

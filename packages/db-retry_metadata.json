@@ -1,0 +1,11 @@
+{
+  "name": "db-retry",
+  "version": "0.4.1",
+  "summary": "PostgreSQL and SQLAlchemy Tools",
+  "author": "Artur Shiriev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "db_retry-0.4.1.tar.gz",
+  "download_time": "2026-04-11T16:00:28.295461",
+  "package_url": "https://pypi.org/project/db-retry/"
+}

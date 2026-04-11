@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-hr-expense-account-reimbursement",
+  "version": "14.0.1.4.0",
+  "summary": "Employee Expense Account - Reimbursement Integration",
+  "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_hr_expense_account_reimbursement-14.0.1.4.0-py3-none-any.whl",
+  "download_time": "2026-04-11T16:00:44.274296",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-hr-expense-account-reimbursement/"
+}

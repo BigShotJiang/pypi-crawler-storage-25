@@ -1,11 +1,11 @@
 {
   "name": "entrix",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "summary": "A Harness Engineering tool for turning quality rules, architecture constraints, and validation steps into executable guardrails.",
   "author": "Phodal",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "entrix-0.1.16.tar.gz",
-  "download_time": "2026-03-30T11:34:15.845276",
+  "download_filename": "entrix-0.1.17.tar.gz",
+  "download_time": "2026-04-11T16:00:09.784970",
   "package_url": "https://pypi.org/project/entrix/"
 }

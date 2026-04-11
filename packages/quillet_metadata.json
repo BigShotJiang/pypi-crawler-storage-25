@@ -1,0 +1,11 @@
+{
+  "name": "quillet",
+  "version": "0.1.0",
+  "summary": "Flask newsletter + microblog package. Importable Blueprint, standalone web app, or headless API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quillet-0.1.0.tar.gz",
+  "download_time": "2026-04-11T16:00:26.142269",
+  "package_url": "https://pypi.org/project/quillet/"
+}
