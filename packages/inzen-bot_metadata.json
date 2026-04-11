@@ -1,11 +1,11 @@
 {
   "name": "inzen-bot",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Multi-provider AI chatbot for the terminal",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "inzen_bot-0.1.1.tar.gz",
-  "download_time": "2026-03-28T21:37:26.646371",
+  "download_filename": "inzen_bot-0.2.1.tar.gz",
+  "download_time": "2026-04-11T15:22:29.913390",
   "package_url": "https://pypi.org/project/inzen-bot/"
 }

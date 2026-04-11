@@ -1,0 +1,11 @@
+{
+  "name": "remote-http-launcher",
+  "version": "0.2.0",
+  "summary": "Launch, supervise, and reconnect to long-running HTTP services locally or over SSH, with optional tunneling.",
+  "author": "Sjoerd de Vries",
+  "license": null,
+  "home_page": null,
+  "download_filename": "remote_http_launcher-0.2.0.tar.gz",
+  "download_time": "2026-04-11T15:22:28.342386",
+  "package_url": "https://pypi.org/project/remote-http-launcher/"
+}

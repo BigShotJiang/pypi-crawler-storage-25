@@ -1,11 +1,11 @@
 {
   "name": "dj-queue",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Database-backed task queue backend for Django's django.tasks framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dj_queue-0.2.2.tar.gz",
-  "download_time": "2026-04-11T08:07:31.032242",
+  "download_filename": "dj_queue-0.2.3.tar.gz",
+  "download_time": "2026-04-11T15:22:21.023472",
   "package_url": "https://pypi.org/project/dj-queue/"
 }

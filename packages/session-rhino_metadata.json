@@ -1,11 +1,11 @@
 {
   "name": "session-rhino",
-  "version": "0.13.0",
+  "version": "0.15.0",
   "summary": "RhinoCommon converters for session_py geometry",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "session_rhino-0.13.0.tar.gz",
-  "download_time": "2026-04-05T19:36:41.294695",
+  "download_filename": "session_rhino-0.15.0.tar.gz",
+  "download_time": "2026-04-11T15:22:38.800825",
   "package_url": "https://pypi.org/project/session-rhino/"
 }

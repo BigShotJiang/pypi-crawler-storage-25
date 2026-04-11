@@ -1,0 +1,11 @@
+{
+  "name": "vfbquery",
+  "version": "1.8.1",
+  "summary": "Wrapper for querying VirtualFlyBrain knowledge graph.",
+  "author": "VirtualFlyBrain",
+  "license": "GPL-3.0 License",
+  "home_page": "https://github.com/VirtualFlyBrain/VFBquery",
+  "download_filename": "vfbquery-1.8.1.tar.gz",
+  "download_time": "2026-04-11T15:22:23.641926",
+  "package_url": "https://pypi.org/project/vfbquery/"
+}

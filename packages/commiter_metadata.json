@@ -1,11 +1,11 @@
 {
   "name": "commiter",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "AI-powered git commit grouping — intelligently splits messy changes into atomic, well-described commits.",
   "author": "Adarsh AS",
   "license": null,
   "home_page": null,
-  "download_filename": "commiter-0.1.0.tar.gz",
-  "download_time": "2026-04-11T07:22:56.571155",
+  "download_filename": "commiter-0.1.2.tar.gz",
+  "download_time": "2026-04-11T15:22:11.393251",
   "package_url": "https://pypi.org/project/commiter/"
 }

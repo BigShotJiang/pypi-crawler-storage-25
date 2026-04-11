@@ -1,0 +1,11 @@
+{
+  "name": "django-eveuniverse",
+  "version": "1.6.1",
+  "summary": "Complete set of Eve Universe models with on-demand loading from ESI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_eveuniverse-1.6.1.tar.gz",
+  "download_time": "2026-04-11T15:22:43.498947",
+  "package_url": "https://pypi.org/project/django-eveuniverse/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-code-review",
+  "version": "0.3.0",
+  "summary": "MCP server for LLM-powered code review — GitHub PRs, GitLab MRs, local diffs",
+  "author": "Maurizio Mocci",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_code_review-0.3.0.tar.gz",
+  "download_time": "2026-04-11T15:22:24.161549",
+  "package_url": "https://pypi.org/project/mcp-code-review/"
+}

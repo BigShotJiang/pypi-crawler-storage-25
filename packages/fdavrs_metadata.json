@@ -1,0 +1,11 @@
+{
+  "name": "fdavrs",
+  "version": "0.2.0",
+  "summary": "A self-healing SDK that detects and fixes data drift in deployed computer vision models using federated learning",
+  "author": "Srivandhi S",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fdavrs-0.2.0.tar.gz",
+  "download_time": "2026-04-11T15:22:49.779432",
+  "package_url": "https://pypi.org/project/fdavrs/"
+}

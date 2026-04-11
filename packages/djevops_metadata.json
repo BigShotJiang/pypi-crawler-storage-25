@@ -1,0 +1,11 @@
+{
+  "name": "djevops",
+  "version": "0.0.7",
+  "summary": "Host Django without Docker",
+  "author": "Michael Herrmann",
+  "license": null,
+  "home_page": null,
+  "download_filename": "djevops-0.0.7.tar.gz",
+  "download_time": "2026-04-11T15:22:36.196986",
+  "package_url": "https://pypi.org/project/djevops/"
+}
