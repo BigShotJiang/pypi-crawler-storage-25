@@ -1,11 +1,11 @@
 {
   "name": "luthien-cli",
-  "version": "0.1.21",
+  "version": "0.1.23",
   "summary": "CLI tool for managing luthien-proxy gateways",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "luthien_cli-0.1.21.tar.gz",
-  "download_time": "2026-04-10T07:06:09.101304",
+  "download_filename": "luthien_cli-0.1.23.tar.gz",
+  "download_time": "2026-04-11T09:07:51.712264",
   "package_url": "https://pypi.org/project/luthien-cli/"
 }

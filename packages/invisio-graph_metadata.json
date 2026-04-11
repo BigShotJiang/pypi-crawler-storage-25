@@ -1,11 +1,11 @@
 {
   "name": "invisio-graph",
-  "version": "0.0.64",
+  "version": "0.0.65",
   "summary": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "invisio_graph-0.0.64.tar.gz",
-  "download_time": "2026-03-31T08:09:02.847808",
+  "download_filename": "invisio_graph-0.0.65.tar.gz",
+  "download_time": "2026-04-11T09:07:55.859475",
   "package_url": "https://pypi.org/project/invisio-graph/"
 }

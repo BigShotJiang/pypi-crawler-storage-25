@@ -1,0 +1,11 @@
+{
+  "name": "slsa-battleground",
+  "version": "0.0.1",
+  "summary": "Minimal package for testing SLSA provenance in GitHub Actions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slsa_battleground-0.0.1.tar.gz",
+  "download_time": "2026-04-11T09:07:35.571244",
+  "package_url": "https://pypi.org/project/slsa-battleground/"
+}

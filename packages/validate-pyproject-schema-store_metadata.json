@@ -1,11 +1,11 @@
 {
   "name": "validate-pyproject-schema-store",
-  "version": "2026.3.29",
+  "version": "2026.4.11",
   "summary": "A plugin set for validate-pyproject and schema-store.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "validate_pyproject_schema_store-2026.3.29.tar.gz",
-  "download_time": "2026-03-29T08:59:24.074018",
+  "download_filename": "validate_pyproject_schema_store-2026.4.11.tar.gz",
+  "download_time": "2026-04-11T09:07:18.109213",
   "package_url": "https://pypi.org/project/validate-pyproject-schema-store/"
 }

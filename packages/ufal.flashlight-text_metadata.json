@@ -1,0 +1,11 @@
+{
+  "name": "ufal.flashlight-text",
+  "version": "0.0.7.1",
+  "summary": "Custom-build wheels of Flashlight Text from https://github.com/flashlight/text",
+  "author": "Milan Straka",
+  "license": "BSD licensed, as found in the LICENSE file",
+  "home_page": "https://github.com/flashlight/text",
+  "download_filename": "ufal_flashlight_text-0.0.7.1-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-04-11T09:07:44.487547",
+  "package_url": "https://pypi.org/project/ufal.flashlight-text/"
+}

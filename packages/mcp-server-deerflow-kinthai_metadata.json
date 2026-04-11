@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-deerflow-kinthai",
+  "version": "0.1.0",
+  "summary": "MCP Server that exposes DeerFlow deep capabilities (research, analysis, visualization) via standard Model Context Protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_deerflow_kinthai-0.1.0.tar.gz",
+  "download_time": "2026-04-11T09:07:49.161327",
+  "package_url": "https://pypi.org/project/mcp-server-deerflow-kinthai/"
+}

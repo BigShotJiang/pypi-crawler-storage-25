@@ -1,11 +1,11 @@
 {
   "name": "detectkit",
-  "version": "0.3.9",
+  "version": "0.3.17",
   "summary": "Metric monitoring with automatic anomaly detection",
   "author": "detectkit team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "detectkit-0.3.9.tar.gz",
-  "download_time": "2026-04-07T12:47:04.440735",
+  "download_filename": "detectkit-0.3.17.tar.gz",
+  "download_time": "2026-04-11T09:07:48.069196",
   "package_url": "https://pypi.org/project/detectkit/"
 }

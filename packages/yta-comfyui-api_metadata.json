@@ -1,11 +1,11 @@
 {
   "name": "yta-comfyui-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Youtube Autonomous ComfyUI API Module",
   "author": "danialcala94",
   "license": null,
   "home_page": null,
-  "download_filename": "yta_comfyui_api-0.0.2.tar.gz",
-  "download_time": "2026-04-10T21:58:52.767435",
+  "download_filename": "yta_comfyui_api-0.0.3.tar.gz",
+  "download_time": "2026-04-11T09:07:41.262774",
   "package_url": "https://pypi.org/project/yta-comfyui-api/"
 }

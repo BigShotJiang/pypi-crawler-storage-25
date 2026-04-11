@@ -1,0 +1,11 @@
+{
+  "name": "unraid-api",
+  "version": "1.9.0",
+  "summary": "Python client library for Unraid's official GraphQL API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unraid_api-1.9.0.tar.gz",
+  "download_time": "2026-04-11T09:07:50.184474",
+  "package_url": "https://pypi.org/project/unraid-api/"
+}

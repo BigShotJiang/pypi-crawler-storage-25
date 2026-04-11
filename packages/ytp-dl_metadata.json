@@ -1,11 +1,11 @@
 {
   "name": "ytp-dl",
-  "version": "2026.4.11.4",
+  "version": "2026.4.11.8",
   "summary": "Privacy-focused media downloader API: yt-dlp + Mullvad VPN + SSE streaming",
   "author": "dumgum82",
   "license": null,
   "home_page": "https://github.com/dumgum84/ytp-dl",
-  "download_filename": "ytp_dl-2026.4.11.4.tar.gz",
-  "download_time": "2026-04-11T08:07:57.847922",
+  "download_filename": "ytp_dl-2026.4.11.8.tar.gz",
+  "download_time": "2026-04-11T09:07:26.815099",
   "package_url": "https://pypi.org/project/ytp-dl/"
 }

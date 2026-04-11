@@ -1,11 +1,11 @@
 {
   "name": "lore-review",
-  "version": "0.4.4",
+  "version": "0.5.0",
   "summary": "The code reviewer that knows your codebase — and gets smarter every time it's wrong",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lore_review-0.4.4-py3-none-any.whl",
-  "download_time": "2026-04-11T06:08:19.134654",
+  "download_filename": "lore_review-0.5.0-py3-none-any.whl",
+  "download_time": "2026-04-11T09:07:36.087437",
   "package_url": "https://pypi.org/project/lore-review/"
 }
