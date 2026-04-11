@@ -1,0 +1,11 @@
+{
+  "name": "5bb-yaml",
+  "version": "4.45.1",
+  "summary": "yamlquery – a portable command-line YAML, JSON, XML, CSV, TOML and properties processor, packaged for easy installation via pip/uv",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "5bb_yaml-4.45.1.tar.gz",
+  "download_time": "2026-04-11T11:20:11.051418",
+  "package_url": "https://pypi.org/project/5bb-yaml/"
+}

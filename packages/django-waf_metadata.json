@@ -1,11 +1,11 @@
 {
   "name": "django-waf",
-  "version": "0.8.1",
+  "version": "0.9.0",
   "summary": "Self-hosted request filtering, bot management, and WAF middleware for Django — rate limiting, UA anomaly scoring, JS challenges, nginx blocklist generation, and collective threat feed.",
   "author": "Nigel Copley",
   "license": null,
   "home_page": null,
-  "download_filename": "django_waf-0.8.1.tar.gz",
-  "download_time": "2026-04-11T10:43:28.968859",
+  "download_filename": "django_waf-0.9.0.tar.gz",
+  "download_time": "2026-04-11T11:20:04.209896",
   "package_url": "https://pypi.org/project/django-waf/"
 }

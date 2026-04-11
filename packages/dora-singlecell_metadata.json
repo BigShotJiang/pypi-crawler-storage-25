@@ -1,0 +1,11 @@
+{
+  "name": "dora-singlecell",
+  "version": "0.1.0",
+  "summary": "DORA: latent trajectory model for single-cell drug response (PyTorch).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dora_singlecell-0.1.0.tar.gz",
+  "download_time": "2026-04-11T11:19:38.520518",
+  "package_url": "https://pypi.org/project/dora-singlecell/"
+}

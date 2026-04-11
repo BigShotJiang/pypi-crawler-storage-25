@@ -1,0 +1,11 @@
+{
+  "name": "cdk-simplewebsite-deploy",
+  "version": "2.2.2",
+  "summary": "This is an AWS CDK v2 Construct to simplify deploying a single-page website use CloudFront distributions.",
+  "author": "Thon Becker<thon.becker@gmail.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/SnapPetal/cdk-simplewebsite-deploy",
+  "download_filename": "cdk_simplewebsite_deploy-2.2.2.tar.gz",
+  "download_time": "2026-04-11T11:19:42.745426",
+  "package_url": "https://pypi.org/project/cdk-simplewebsite-deploy/"
+}

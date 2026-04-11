@@ -1,11 +1,11 @@
 {
   "name": "smart-aj",
-  "version": "0.5",
+  "version": "0.7",
   "summary": "Indian festivals and holidays detection using Panchang & Hijri calendar. Hindus festivals are based on Panchang, Islamic festivals are based on Hijri calendar & holidays are based on common month and day.",
   "author": "Ajay Sah",
   "license": null,
   "home_page": null,
-  "download_filename": "smart_aj-0.5.tar.gz",
-  "download_time": "2026-04-11T10:43:16.476822",
+  "download_filename": "smart_aj-0.7.tar.gz",
+  "download_time": "2026-04-11T11:19:44.338500",
   "package_url": "https://pypi.org/project/smart-aj/"
 }

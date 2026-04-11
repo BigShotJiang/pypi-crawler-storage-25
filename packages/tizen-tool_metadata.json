@@ -1,0 +1,11 @@
+{
+  "name": "tizen-tool",
+  "version": "0.2.1",
+  "summary": "Small CLI for building, re-signing, and installing Tizen web packages through a Dockerized Tizen Studio environment",
+  "author": "Ruslan Khasanshin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tizen_tool-0.2.1.tar.gz",
+  "download_time": "2026-04-11T11:19:52.245806",
+  "package_url": "https://pypi.org/project/tizen-tool/"
+}

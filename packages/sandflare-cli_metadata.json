@@ -1,11 +1,11 @@
 {
   "name": "sandflare-cli",
-  "version": "2.0.3",
+  "version": "2.0.6",
   "summary": "Sandflare CLI — manage Firecracker microVM sandboxes",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sandflare_cli-2.0.3.tar.gz",
-  "download_time": "2026-04-11T10:01:43.093618",
+  "download_filename": "sandflare_cli-2.0.6.tar.gz",
+  "download_time": "2026-04-11T11:19:46.979177",
   "package_url": "https://pypi.org/project/sandflare-cli/"
 }

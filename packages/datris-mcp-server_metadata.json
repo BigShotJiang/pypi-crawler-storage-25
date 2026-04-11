@@ -1,11 +1,11 @@
 {
   "name": "datris-mcp-server",
-  "version": "1.5.6",
+  "version": "1.5.9",
   "summary": "MCP server for AI-driven data pipeline operations — ingest, validate, transform, analyze, and query data. 32 tools covering ETL, AI data quality, vector search, PostgreSQL, MongoDB, Kafka, S3/MinIO, HashiCorp Vault, Qdrant, Weaviate, Milvus, Chroma, pgvector.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "datris_mcp_server-1.5.6.tar.gz",
-  "download_time": "2026-04-08T23:57:16.170458",
+  "download_filename": "datris_mcp_server-1.5.9.tar.gz",
+  "download_time": "2026-04-11T11:19:51.714683",
   "package_url": "https://pypi.org/project/datris-mcp-server/"
 }

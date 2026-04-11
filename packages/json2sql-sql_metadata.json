@@ -1,0 +1,11 @@
+{
+  "name": "json2sql-sql",
+  "version": "0.1.2",
+  "summary": "Convert JSON data into SQL queries",
+  "author": "NaveenKumar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "json2sql_sql-0.1.2.tar.gz",
+  "download_time": "2026-04-11T11:19:57.037962",
+  "package_url": "https://pypi.org/project/json2sql-sql/"
+}
