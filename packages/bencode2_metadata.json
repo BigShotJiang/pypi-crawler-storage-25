@@ -1,0 +1,11 @@
+{
+  "name": "bencode2",
+  "version": "0.3.30",
+  "summary": "A fast and correct bencode serialize/deserialize library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bencode2-0.3.30-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-11T19:38:47.954678",
+  "package_url": "https://pypi.org/project/bencode2/"
+}

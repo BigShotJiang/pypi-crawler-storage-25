@@ -1,11 +1,11 @@
 {
   "name": "sssom_curator",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Tools for predicting and curating semantic mappings",
   "author": "Charles Tapley Hoyt",
   "license": null,
   "home_page": null,
-  "download_filename": "sssom_curator-0.3.0.tar.gz",
-  "download_time": "2026-04-11T18:56:54.608047",
+  "download_filename": "sssom_curator-0.3.1.tar.gz",
+  "download_time": "2026-04-11T19:38:44.333616",
   "package_url": "https://pypi.org/project/sssom_curator/"
 }

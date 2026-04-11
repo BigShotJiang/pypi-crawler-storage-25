@@ -1,0 +1,11 @@
+{
+  "name": "pycyphal2",
+  "version": "2.0.0.dev0",
+  "summary": "Pure-Python implementation of Cyphal -- a simple and robust real-time publish/subscribe stack that runs anywhere.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pycyphal2-2.0.0.dev0.tar.gz",
+  "download_time": "2026-04-11T19:38:26.770639",
+  "package_url": "https://pypi.org/project/pycyphal2/"
+}

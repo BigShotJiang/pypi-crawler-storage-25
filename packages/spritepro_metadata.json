@@ -1,11 +1,11 @@
 {
   "name": "spritepro",
-  "version": "3.5.0",
+  "version": "3.8.0",
   "summary": "A high-level cross-platform 2D game framework for Python with desktop, web, and mobile workflows.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spritepro-3.5.0.tar.gz",
-  "download_time": "2026-04-11T16:41:15.695852",
+  "download_filename": "spritepro-3.8.0.tar.gz",
+  "download_time": "2026-04-11T19:39:00.358969",
   "package_url": "https://pypi.org/project/spritepro/"
 }

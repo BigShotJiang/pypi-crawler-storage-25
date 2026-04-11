@@ -1,0 +1,11 @@
+{
+  "name": "gnuhealth-who-essential-medicines",
+  "version": "5.0.4",
+  "summary": "Essential List of Medicines package for GNU Health HIS",
+  "author": "GNU Solidario",
+  "license": null,
+  "home_page": "https://www.gnuhealth.org",
+  "download_filename": "gnuhealth_who_essential_medicines-5.0.4.tar.gz",
+  "download_time": "2026-04-11T19:39:07.601664",
+  "package_url": "https://pypi.org/project/gnuhealth-who-essential-medicines/"
+}

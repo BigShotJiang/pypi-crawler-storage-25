@@ -1,0 +1,11 @@
+{
+  "name": "llmcortex-agent",
+  "version": "0.1.0",
+  "summary": "Active memory and executive control for AI coding agents. Classifies user prompts against a curated tripwire store, injects the matched lessons into the agent's working context via a Claude Code UserPromptSubmit hook, before the agent reasons about the task.",
+  "author": "Cortex contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmcortex_agent-0.1.0.tar.gz",
+  "download_time": "2026-04-11T19:38:55.697815",
+  "package_url": "https://pypi.org/project/llmcortex-agent/"
+}

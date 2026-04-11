@@ -1,11 +1,11 @@
 {
   "name": "chumicro-runner-experimental",
-  "version": "0.1.12",
+  "version": "0.1.20",
   "summary": "Tick-based task runner for CircuitPython, MicroPython, and CPython — non-blocking check/handle scheduling without async.",
-  "author": "Chumicro",
+  "author": "ChuMicro",
   "license": null,
   "home_page": null,
-  "download_filename": "chumicro_runner_experimental-0.1.12.tar.gz",
-  "download_time": "2026-04-06T22:38:49.842566",
+  "download_filename": "chumicro_runner_experimental-0.1.20.tar.gz",
+  "download_time": "2026-04-11T19:38:58.298399",
   "package_url": "https://pypi.org/project/chumicro-runner-experimental/"
 }

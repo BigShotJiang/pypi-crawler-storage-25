@@ -1,11 +1,11 @@
 {
   "name": "code-review-graph",
-  "version": "2.2.2",
+  "version": "2.2.4",
   "summary": "Persistent incremental knowledge graph for token-efficient, context-aware code reviews with Claude Code",
   "author": "Tirth",
   "license": null,
   "home_page": null,
-  "download_filename": "code_review_graph-2.2.2.tar.gz",
-  "download_time": "2026-04-08T19:45:42.783997",
+  "download_filename": "code_review_graph-2.2.4.tar.gz",
+  "download_time": "2026-04-11T19:38:33.453078",
   "package_url": "https://pypi.org/project/code-review-graph/"
 }
