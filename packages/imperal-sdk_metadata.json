@@ -1,11 +1,11 @@
 {
   "name": "imperal-sdk",
-  "version": "0.4.0",
+  "version": "1.0.0",
   "summary": "SDK for building Imperal Cloud extensions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "imperal_sdk-0.4.0.tar.gz",
-  "download_time": "2026-04-08T11:19:15.909075",
+  "download_filename": "imperal_sdk-1.0.0.tar.gz",
+  "download_time": "2026-04-11T00:05:10.050347",
   "package_url": "https://pypi.org/project/imperal-sdk/"
 }

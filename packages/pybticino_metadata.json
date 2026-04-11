@@ -1,11 +1,11 @@
 {
   "name": "pybticino",
-  "version": "1.5.3",
+  "version": "1.7.0",
   "summary": "Simple API to access BTicino/Legrand Classe 100X/300X devices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pybticino-1.5.3.tar.gz",
-  "download_time": "2026-03-29T20:32:38.386063",
+  "download_filename": "pybticino-1.7.0.tar.gz",
+  "download_time": "2026-04-11T00:05:09.024375",
   "package_url": "https://pypi.org/project/pybticino/"
 }

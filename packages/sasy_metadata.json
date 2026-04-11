@@ -1,11 +1,11 @@
 {
   "name": "sasy",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Policy enforcement for LLM-based agent systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sasy-0.4.1.tar.gz",
-  "download_time": "2026-04-09T14:57:49.742596",
+  "download_filename": "sasy-0.4.2.tar.gz",
+  "download_time": "2026-04-11T00:04:54.104001",
   "package_url": "https://pypi.org/project/sasy/"
 }
