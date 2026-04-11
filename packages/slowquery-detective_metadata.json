@@ -1,0 +1,11 @@
+{
+  "name": "slowquery-detective",
+  "version": "0.1.0",
+  "summary": "Drop-in FastAPI + SQLAlchemy middleware that fingerprints slow Postgres queries, runs EXPLAIN asynchronously, and suggests indexes via a rules engine with LLM fallback.",
+  "author": "Abdul-Muizz Anwar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slowquery_detective-0.1.0.tar.gz",
+  "download_time": "2026-04-11T14:40:55.789627",
+  "package_url": "https://pypi.org/project/slowquery-detective/"
+}

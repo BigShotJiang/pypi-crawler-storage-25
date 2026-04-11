@@ -1,0 +1,11 @@
+{
+  "name": "import-mend",
+  "version": "0.1.1",
+  "summary": "Detect and repair broken Python imports after refactoring, with zero runtime cost",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "import_mend-0.1.1.tar.gz",
+  "download_time": "2026-04-11T14:41:04.513889",
+  "package_url": "https://pypi.org/project/import-mend/"
+}

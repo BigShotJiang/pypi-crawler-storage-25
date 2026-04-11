@@ -1,0 +1,11 @@
+{
+  "name": "whydep",
+  "version": "0.1.2",
+  "summary": "Show why a Python package is installed by tracing its lock file dependency graph",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whydep-0.1.2.tar.gz",
+  "download_time": "2026-04-11T14:41:05.603101",
+  "package_url": "https://pypi.org/project/whydep/"
+}

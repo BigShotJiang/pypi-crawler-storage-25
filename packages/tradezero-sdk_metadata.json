@@ -1,0 +1,11 @@
+{
+  "name": "tradezero-sdk",
+  "version": "1.0.1",
+  "summary": "A production-ready Python SDK for the TradeZero REST API.",
+  "author": "Shady Emad",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tradezero_sdk-1.0.1.tar.gz",
+  "download_time": "2026-04-11T14:41:02.327528",
+  "package_url": "https://pypi.org/project/tradezero-sdk/"
+}

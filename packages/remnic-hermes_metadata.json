@@ -1,11 +1,11 @@
 {
   "name": "remnic-hermes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Remnic MemoryProvider plugin for Hermes Agent",
   "author": "Joshua Warren",
   "license": null,
   "home_page": null,
-  "download_filename": "remnic_hermes-1.0.0.tar.gz",
-  "download_time": "2026-04-11T14:00:00.997619",
+  "download_filename": "remnic_hermes-1.0.1.tar.gz",
+  "download_time": "2026-04-11T14:41:11.652109",
   "package_url": "https://pypi.org/project/remnic-hermes/"
 }

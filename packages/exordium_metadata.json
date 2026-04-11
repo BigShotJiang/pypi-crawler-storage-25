@@ -1,11 +1,11 @@
 {
   "name": "exordium",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "summary": "Collection of utility tools and deep learning methods for multimodal feature extraction.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "exordium-2.3.0-py3-none-any.whl",
-  "download_time": "2026-04-11T10:43:12.360441",
+  "download_filename": "exordium-2.3.1-py3-none-any.whl",
+  "download_time": "2026-04-11T14:40:47.448198",
   "package_url": "https://pypi.org/project/exordium/"
 }
