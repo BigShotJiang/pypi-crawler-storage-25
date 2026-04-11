@@ -1,0 +1,11 @@
+{
+  "name": "bijux-canon-runtime",
+  "version": "0.3.4",
+  "summary": "Governed runtime execution, replay policy, and auditable non-determinism for the bijux-canon package family from Bijux.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bijux_canon_runtime-0.3.4.tar.gz",
+  "download_time": "2026-04-11T21:36:25.856153",
+  "package_url": "https://pypi.org/project/bijux-canon-runtime/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "spotify-overlay",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "summary": "A Spotify overlay widget for KDE/Linux",
   "author": "Lukas",
   "license": null,
   "home_page": null,
-  "download_filename": "spotify_overlay-1.0.2.tar.gz",
-  "download_time": "2026-04-07T09:38:28.372250",
+  "download_filename": "spotify_overlay-1.0.5.tar.gz",
+  "download_time": "2026-04-11T21:36:40.479815",
   "package_url": "https://pypi.org/project/spotify-overlay/"
 }

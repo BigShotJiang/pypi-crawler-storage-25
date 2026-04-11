@@ -1,11 +1,11 @@
 {
   "name": "tarnished-cli",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "Agent-first CLI for Tarnished",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tarnished_cli-0.1.4.tar.gz",
-  "download_time": "2026-04-09T19:54:00.439357",
+  "download_filename": "tarnished_cli-0.1.7.tar.gz",
+  "download_time": "2026-04-11T21:36:30.017110",
   "package_url": "https://pypi.org/project/tarnished-cli/"
 }

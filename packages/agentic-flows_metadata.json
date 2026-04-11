@@ -1,0 +1,11 @@
+{
+  "name": "agentic-flows",
+  "version": "0.3.4",
+  "summary": "Compatibility bridge for the legacy agentic-flows PyPI package. Preserves installs, imports, and the agentic-flows command while installing bijux-canon-runtime from the bijux-canon family at the same version.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agentic_flows-0.3.4.tar.gz",
+  "download_time": "2026-04-11T21:36:22.206717",
+  "package_url": "https://pypi.org/project/agentic-flows/"
+}

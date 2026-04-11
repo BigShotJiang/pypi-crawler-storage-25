@@ -1,0 +1,11 @@
+{
+  "name": "policythread",
+  "version": "0.3.0",
+  "summary": "Define what your AI must always do and never do. PolicyThread watches every live interaction and tells you when it breaks the rules.",
+  "author": "Eugene Dayne Mawuli",
+  "license": null,
+  "home_page": "https://github.com/eugene001dayne/policy-thread",
+  "download_filename": "policythread-0.3.0.tar.gz",
+  "download_time": "2026-04-11T21:36:36.309683",
+  "package_url": "https://pypi.org/project/policythread/"
+}

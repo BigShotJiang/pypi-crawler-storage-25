@@ -1,11 +1,11 @@
 {
   "name": "chumicro-compat-experimental",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "summary": "Cross-runtime compatibility polyfills for CircuitPython, MicroPython, and CPython — functools.partial and more.",
   "author": "ChuMicro",
   "license": null,
   "home_page": null,
-  "download_filename": "chumicro_compat_experimental-0.1.20.tar.gz",
-  "download_time": "2026-04-11T19:38:59.328852",
+  "download_filename": "chumicro_compat_experimental-0.1.21.tar.gz",
+  "download_time": "2026-04-11T21:36:29.497211",
   "package_url": "https://pypi.org/project/chumicro-compat-experimental/"
 }

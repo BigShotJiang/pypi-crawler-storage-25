@@ -1,11 +1,11 @@
 {
   "name": "llm-web-crawler",
-  "version": "2.0.3",
+  "version": "2.0.6",
   "summary": "LLM data collection and synthetic fine-tuning dataset pipeline",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_web_crawler-2.0.3.tar.gz",
-  "download_time": "2026-04-11T18:56:44.125646",
+  "download_filename": "llm_web_crawler-2.0.6.tar.gz",
+  "download_time": "2026-04-11T21:36:45.163714",
   "package_url": "https://pypi.org/project/llm-web-crawler/"
 }

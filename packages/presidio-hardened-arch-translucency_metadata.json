@@ -1,0 +1,11 @@
+{
+  "name": "presidio-hardened-arch-translucency",
+  "version": "0.6.0",
+  "summary": "MVP implementation of architectural translucency for Docker/Kubernetes replication layer analysis",
+  "author": "Vladimir Stantchev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "presidio_hardened_arch_translucency-0.6.0.tar.gz",
+  "download_time": "2026-04-11T21:36:37.874908",
+  "package_url": "https://pypi.org/project/presidio-hardened-arch-translucency/"
+}

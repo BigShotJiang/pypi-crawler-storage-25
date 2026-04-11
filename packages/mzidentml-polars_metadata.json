@@ -1,0 +1,11 @@
+{
+  "name": "mzidentml-polars",
+  "version": "0.1.3",
+  "summary": "A fast Rust-based writer for mzIdentML 1.3 files using Polars",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mzidentml_polars-0.1.3.tar.gz",
+  "download_time": "2026-04-11T21:36:02.815212",
+  "package_url": "https://pypi.org/project/mzidentml-polars/"
+}
