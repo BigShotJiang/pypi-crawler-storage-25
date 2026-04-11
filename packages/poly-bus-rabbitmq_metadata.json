@@ -1,0 +1,11 @@
+{
+  "name": "poly-bus-rabbitmq",
+  "version": "0.4.2",
+  "summary": "The RabbitMQ transport for PolyBus.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "poly_bus_rabbitmq-0.4.2.tar.gz",
+  "download_time": "2026-04-11T20:55:45.467393",
+  "package_url": "https://pypi.org/project/poly-bus-rabbitmq/"
+}

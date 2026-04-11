@@ -1,0 +1,11 @@
+{
+  "name": "bronzebeard",
+  "version": "0.3.0",
+  "summary": "Minimal ecosystem for bare-metal RISC-V development",
+  "author": "Andrew Dailey",
+  "license": null,
+  "home_page": "https://github.com/theandrew168/bronzebeard",
+  "download_filename": "bronzebeard-0.3.0.tar.gz",
+  "download_time": "2026-04-11T20:55:40.292529",
+  "package_url": "https://pypi.org/project/bronzebeard/"
+}

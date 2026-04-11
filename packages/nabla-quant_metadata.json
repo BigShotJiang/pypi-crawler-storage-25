@@ -1,11 +1,11 @@
 {
   "name": "nabla-quant",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "High-performance PDE option pricing engine with AAD Greeks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nabla_quant-0.1.0.tar.gz",
-  "download_time": "2026-04-11T19:38:24.673559",
+  "download_filename": "nabla_quant-0.1.1.tar.gz",
+  "download_time": "2026-04-11T20:56:01.798454",
   "package_url": "https://pypi.org/project/nabla-quant/"
 }

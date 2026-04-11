@@ -1,0 +1,11 @@
+{
+  "name": "adbnik",
+  "version": "0.2.2",
+  "summary": "Adbnik — one desktop app for ADB, SSH, serial, device files, and USB screen control.",
+  "author": "Adbnik contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adbnik-0.2.2.tar.gz",
+  "download_time": "2026-04-11T20:55:52.686773",
+  "package_url": "https://pypi.org/project/adbnik/"
+}

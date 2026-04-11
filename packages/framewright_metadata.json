@@ -1,0 +1,11 @@
+{
+  "name": "framewright",
+  "version": "0.1.0",
+  "summary": "Color-correct video I/O — drop-in replacement for OpenCV VideoCapture/VideoWriter",
+  "author": "Kevin Blackburn-Matzen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "framewright-0.1.0.tar.gz",
+  "download_time": "2026-04-11T20:55:19.766044",
+  "package_url": "https://pypi.org/project/framewright/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "alloy-runtime-cli",
-  "version": "0.2.49",
+  "version": "0.2.56",
   "summary": "Alloy Runtime CLI - Command-line interface for Alloy Runtime server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alloy_runtime_cli-0.2.49.tar.gz",
-  "download_time": "2026-04-03T20:37:31.358961",
+  "download_filename": "alloy_runtime_cli-0.2.56.tar.gz",
+  "download_time": "2026-04-11T20:55:29.717392",
   "package_url": "https://pypi.org/project/alloy-runtime-cli/"
 }

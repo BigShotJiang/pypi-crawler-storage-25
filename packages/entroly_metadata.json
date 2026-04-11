@@ -1,11 +1,11 @@
 {
   "name": "entroly",
-  "version": "0.6.4",
-  "summary": "Information-theoretic context optimization for AI coding agents. Knapsack-optimal token budgeting, Shannon entropy scoring, SimHash dedup, predictive pre-fetch. MCP server.",
+  "version": "0.6.5",
+  "summary": "The token saving proxy and context compression engine for AI coding agents. Reduce LLM API costs by 80% while providing full codebase context to Cursor, Claude Code, and Copilot.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "entroly-0.6.4-py3-none-any.whl",
-  "download_time": "2026-04-05T15:09:13.479924",
+  "download_filename": "entroly-0.6.5.tar.gz",
+  "download_time": "2026-04-11T20:55:59.906122",
   "package_url": "https://pypi.org/project/entroly/"
 }

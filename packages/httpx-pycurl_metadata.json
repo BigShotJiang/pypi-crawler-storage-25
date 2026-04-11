@@ -1,11 +1,11 @@
 {
   "name": "httpx-pycurl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "An httpx transport powered by pycurl",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "httpx_pycurl-0.0.1.tar.gz",
-  "download_time": "2026-04-11T16:41:01.256729",
+  "download_filename": "httpx_pycurl-0.0.2.tar.gz",
+  "download_time": "2026-04-11T20:55:12.737233",
   "package_url": "https://pypi.org/project/httpx-pycurl/"
 }
