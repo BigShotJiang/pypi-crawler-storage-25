@@ -1,11 +1,11 @@
 {
   "name": "axm-mcp",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "AXM MCP Server — Runtime execution for the axm-protocols ecosystem",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "axm_mcp-0.2.0.tar.gz",
-  "download_time": "2026-03-30T08:49:36.078281",
+  "download_filename": "axm_mcp-0.3.0.tar.gz",
+  "download_time": "2026-04-11T18:56:27.940045",
   "package_url": "https://pypi.org/project/axm-mcp/"
 }

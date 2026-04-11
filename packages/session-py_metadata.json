@@ -1,11 +1,11 @@
 {
   "name": "session-py",
-  "version": "0.64.0",
+  "version": "0.65.0",
   "summary": "A minimal Python geometry library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "session_py-0.64.0.tar.gz",
-  "download_time": "2026-04-11T18:01:28.668131",
+  "download_filename": "session_py-0.65.0.tar.gz",
+  "download_time": "2026-04-11T18:57:03.492456",
   "package_url": "https://pypi.org/project/session-py/"
 }

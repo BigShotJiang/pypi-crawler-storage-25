@@ -1,0 +1,11 @@
+{
+  "name": "gmailsorter",
+  "version": "0.1.9",
+  "summary": "Assign labels to emails in Google Mail based on their similarity to other emails assigned to the same label.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gmailsorter-0.1.9.tar.gz",
+  "download_time": "2026-04-11T18:56:33.691589",
+  "package_url": "https://pypi.org/project/gmailsorter/"
+}

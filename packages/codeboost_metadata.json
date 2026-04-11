@@ -1,0 +1,11 @@
+{
+  "name": "codeboost",
+  "version": "0.2.0",
+  "summary": "External reasoning framework for LLMs. Cognitive drift + fieldmap knowledge injection. Qwen 7B +10% on HumanEval, zero training.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codeboost-0.2.0.tar.gz",
+  "download_time": "2026-04-11T18:56:46.777308",
+  "package_url": "https://pypi.org/project/codeboost/"
+}

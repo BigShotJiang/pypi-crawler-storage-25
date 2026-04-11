@@ -1,0 +1,11 @@
+{
+  "name": "pyvista-zstd",
+  "version": "0.2.1",
+  "summary": "VTK zstandard compression library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyvista_zstd-0.2.1.tar.gz",
+  "download_time": "2026-04-11T18:56:26.891933",
+  "package_url": "https://pypi.org/project/pyvista-zstd/"
+}

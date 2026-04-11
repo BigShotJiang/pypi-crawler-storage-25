@@ -1,11 +1,11 @@
 {
   "name": "phoenix-os",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Phoenix -- modular AI agent operating system",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "phoenix_os-0.1.0.tar.gz",
-  "download_time": "2026-04-11T11:20:14.171227",
+  "download_filename": "phoenix_os-0.1.1.tar.gz",
+  "download_time": "2026-04-11T18:56:23.251854",
   "package_url": "https://pypi.org/project/phoenix-os/"
 }

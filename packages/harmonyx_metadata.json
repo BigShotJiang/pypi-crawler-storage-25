@@ -1,0 +1,11 @@
+{
+  "name": "harmonyx",
+  "version": "0.1.0",
+  "summary": "Fully-differentiable tensor spherical harmonics in JAX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "harmonyx-0.1.0.tar.gz",
+  "download_time": "2026-04-11T18:56:25.331858",
+  "package_url": "https://pypi.org/project/harmonyx/"
+}

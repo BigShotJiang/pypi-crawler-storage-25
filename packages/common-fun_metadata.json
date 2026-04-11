@@ -1,0 +1,11 @@
+{
+  "name": "common-fun",
+  "version": "0.2.0",
+  "summary": "A production-ready utility library with numeric, string, array, validation, converter, file, and CLI helpers.",
+  "author": "Amit Saini",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "common_fun-0.2.0.tar.gz",
+  "download_time": "2026-04-11T18:56:34.211693",
+  "package_url": "https://pypi.org/project/common-fun/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "notte-integrations",
-  "version": "1.8.11",
+  "version": "1.8.12",
   "summary": "The integrations for Notte",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "notte_integrations-1.8.11.tar.gz",
-  "download_time": "2026-03-30T10:17:05.332130",
+  "download_filename": "notte_integrations-1.8.12.tar.gz",
+  "download_time": "2026-04-11T18:56:40.475002",
   "package_url": "https://pypi.org/project/notte-integrations/"
 }

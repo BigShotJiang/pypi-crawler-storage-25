@@ -1,11 +1,11 @@
 {
   "name": "zorto",
-  "version": "0.20.3",
+  "version": "0.21.0",
   "summary": "The AI-native static site generator (SSG) with executable code blocks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zorto-0.20.3.tar.gz",
-  "download_time": "2026-04-05T15:50:13.988831",
+  "download_filename": "zorto-0.21.0.tar.gz",
+  "download_time": "2026-04-11T18:56:22.730849",
   "package_url": "https://pypi.org/project/zorto/"
 }

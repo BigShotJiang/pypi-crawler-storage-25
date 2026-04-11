@@ -1,11 +1,11 @@
 {
   "name": "raccoon-cli",
-  "version": "0.1.96",
+  "version": "0.1.99",
   "summary": "Toolchain CLI for Botball robot development on Raspberry Pi (Wombat)",
   "author": "Tobias Madlberger",
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "raccoon_cli-0.1.96-py3-none-any.whl",
-  "download_time": "2026-04-11T16:40:47.873901",
+  "download_filename": "raccoon_cli-0.1.99-py3-none-any.whl",
+  "download_time": "2026-04-11T18:56:20.082227",
   "package_url": "https://pypi.org/project/raccoon-cli/"
 }

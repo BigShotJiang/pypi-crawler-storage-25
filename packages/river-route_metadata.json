@@ -1,0 +1,11 @@
+{
+  "name": "river-route",
+  "version": "2.1.0",
+  "summary": "Perform river routing computations on large river networks",
+  "author": "Riley Hales PhD",
+  "license": null,
+  "home_page": "https://github.com/rileyhales/river-route",
+  "download_filename": "river_route-2.1.0-py3-none-any.whl",
+  "download_time": "2026-04-11T18:57:01.406951",
+  "package_url": "https://pypi.org/project/river-route/"
+}

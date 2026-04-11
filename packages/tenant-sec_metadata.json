@@ -1,0 +1,11 @@
+{
+  "name": "tenant-sec",
+  "version": "0.0.1",
+  "summary": "Open-source framework for evaluating cloud provider security capabilities at the tenant level",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tenant_sec-0.0.1.tar.gz",
+  "download_time": "2026-04-11T18:56:57.756896",
+  "package_url": "https://pypi.org/project/tenant-sec/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nixagent",
+  "version": "1.22",
+  "summary": "A sophisticated AI agent toolkit supporting multiple AI providers with tool calling capabilities, enterprise state management, HITL, Graph routing, LangChain support, and structured outputs.",
+  "author": "TechnicalHeist",
+  "license": "MIT",
+  "home_page": "https://technicalheist.com",
+  "download_filename": "nixagent-1.22.tar.gz",
+  "download_time": "2026-04-11T18:56:45.166128",
+  "package_url": "https://pypi.org/project/nixagent/"
+}
