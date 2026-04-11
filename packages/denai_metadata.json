@@ -1,11 +1,11 @@
 {
   "name": "denai",
-  "version": "0.19.0",
+  "version": "0.21.0",
   "summary": "🐺 Your private AI den. Local LLM assistant with tools, memory and zero cloud dependency.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "denai-0.19.0.tar.gz",
-  "download_time": "2026-04-02T23:04:46.459192",
+  "download_filename": "denai-0.21.0.tar.gz",
+  "download_time": "2026-04-11T03:01:08.575002",
   "package_url": "https://pypi.org/project/denai/"
 }

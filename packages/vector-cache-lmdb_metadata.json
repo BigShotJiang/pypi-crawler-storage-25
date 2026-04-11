@@ -1,0 +1,11 @@
+{
+  "name": "vector-cache-lmdb",
+  "version": "0.1.7",
+  "summary": "Fast LMDB-backed vector cache with Python bindings and embedding helpers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vector_cache_lmdb-0.1.7.tar.gz",
+  "download_time": "2026-04-11T03:01:45.905775",
+  "package_url": "https://pypi.org/project/vector-cache-lmdb/"
+}

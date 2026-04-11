@@ -1,0 +1,11 @@
+{
+  "name": "ai-roundtable",
+  "version": "0.0.65",
+  "summary": "A terminal UI that runs Claude, Gemini, and Codex side-by-side in parallel deliberation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_roundtable-0.0.65.tar.gz",
+  "download_time": "2026-04-11T03:01:21.578873",
+  "package_url": "https://pypi.org/project/ai-roundtable/"
+}

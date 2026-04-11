@@ -1,0 +1,11 @@
+{
+  "name": "bls-oews-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for the BLS Occupational Employment and Wage Statistics (OEWS) API. Market wage data for IGCEs and price analysis.",
+  "author": "James Jenrette / 1102tools",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bls_oews_mcp-0.1.1.tar.gz",
+  "download_time": "2026-04-11T03:01:17.459295",
+  "package_url": "https://pypi.org/project/bls-oews-mcp/"
+}

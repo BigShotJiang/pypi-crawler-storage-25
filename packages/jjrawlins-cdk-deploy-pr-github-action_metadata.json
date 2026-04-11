@@ -1,0 +1,11 @@
+{
+  "name": "jjrawlins-cdk-deploy-pr-github-action",
+  "version": "0.0.34",
+  "summary": "A projen construct that generates GitHub Actions workflows for CDK deployments with GitHub Environments, parallel stages, versioned assemblies, and manual rollback.",
+  "author": "Jayson Rawlins<JaysonJ.Rawlins@gmail.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/JaysonRawlins/cdk-deploy-pr-github-action.git",
+  "download_filename": "jjrawlins_cdk_deploy_pr_github_action-0.0.34.tar.gz",
+  "download_time": "2026-04-11T03:01:14.349078",
+  "package_url": "https://pypi.org/project/jjrawlins-cdk-deploy-pr-github-action/"
+}

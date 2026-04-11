@@ -1,11 +1,11 @@
 {
   "name": "gitterApp",
-  "version": "0.1.13",
+  "version": "0.1.16",
   "summary": "Git repo manager get status of multiple git repos in one place",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gitterapp-0.1.13.tar.gz",
-  "download_time": "2026-04-10T23:25:53.715895",
+  "download_filename": "gitterapp-0.1.16.tar.gz",
+  "download_time": "2026-04-11T03:01:09.630925",
   "package_url": "https://pypi.org/project/gitterApp/"
 }

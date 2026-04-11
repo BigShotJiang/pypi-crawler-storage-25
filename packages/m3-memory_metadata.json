@@ -1,11 +1,11 @@
 {
   "name": "m3-memory",
-  "version": "2026.4.7",
+  "version": "2026.4.8",
   "summary": "Local-first agentic memory layer for MCP agents — 25 tools, hybrid search, GDPR, no cloud",
-  "author": "skynetcmd",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "m3_memory-2026.4.7.tar.gz",
-  "download_time": "2026-04-11T00:05:17.727601",
+  "download_filename": "m3_memory-2026.4.8.tar.gz",
+  "download_time": "2026-04-11T03:01:10.142856",
   "package_url": "https://pypi.org/project/m3-memory/"
 }

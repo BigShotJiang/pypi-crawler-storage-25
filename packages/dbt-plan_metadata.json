@@ -1,11 +1,11 @@
 {
   "name": "dbt-plan",
-  "version": "0.3.0",
+  "version": "0.3.5",
   "summary": "Static analysis tool that warns about risky DDL changes before dbt run",
   "author": "ab180",
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_plan-0.3.0.tar.gz",
-  "download_time": "2026-04-08T10:10:21.500344",
+  "download_filename": "dbt_plan-0.3.5.tar.gz",
+  "download_time": "2026-04-11T03:01:38.721080",
   "package_url": "https://pypi.org/project/dbt-plan/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "jjrawlins-cdk-diff-pr-github-action",
+  "version": "1.10.7",
+  "summary": "A GitHub Action that creates a CDK diff for a pull request.",
+  "author": "Jayson Rawlins<JaysonJ.Rawlins@gmail.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://jjrawlins@github.com/JaysonRawlins/cdk-diff-pr-github-action.git",
+  "download_filename": "jjrawlins_cdk_diff_pr_github_action-1.10.7.tar.gz",
+  "download_time": "2026-04-11T03:01:12.277074",
+  "package_url": "https://pypi.org/project/jjrawlins-cdk-diff-pr-github-action/"
+}
