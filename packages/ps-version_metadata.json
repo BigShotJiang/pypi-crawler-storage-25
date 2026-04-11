@@ -1,11 +1,11 @@
 {
   "name": "ps-version",
-  "version": "0.2.8",
-  "summary": null,
-  "author": null,
-  "license": null,
+  "version": "0.2.10",
+  "summary": "Parse, compare, and format version numbers across PEP 440, SemVer, NuGet, CalVer, and loose formats",
+  "author": "ztBlackGad",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "ps_version-0.2.8.tar.gz",
-  "download_time": "2026-04-11T17:22:42.546200",
+  "download_filename": "ps_version-0.2.10.tar.gz",
+  "download_time": "2026-04-11T18:01:39.038858",
   "package_url": "https://pypi.org/project/ps-version/"
 }

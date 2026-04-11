@@ -1,0 +1,11 @@
+{
+  "name": "fakecloud",
+  "version": "0.7.0",
+  "summary": "Python SDK for fakecloud — local AWS cloud emulator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fakecloud-0.7.0.tar.gz",
+  "download_time": "2026-04-11T18:01:15.734552",
+  "package_url": "https://pypi.org/project/fakecloud/"
+}

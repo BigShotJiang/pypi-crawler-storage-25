@@ -1,11 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-04-11T17:22:43.564169
-- **Total Packages**: 91
-- **Total Size**: 32.65 MB
+- **Download Time**: 2026-04-11T18:02:08.825834
+- **Total Packages**: 95
+- **Total Size**: 22.31 MB
 
 ## Packages List
+- rewind-agent
+- fakecloud
+- bcify
+- micromech
+- whisper-gui
+- riff-kg-kit
+- arandu
+- venvstudio
+- genaiforgenews
+- PMichrophone
+- sinan-captcha
+- augint-tools
+- topiary
+- ps-plugin-module-check
+- ps-dependency-injection
+- augint-shell
+- tollbooth-dpyc
+- django-silk-mcp
+- catai-linux
+- argus-testing
+- matrix-toolkit
+- coolname
+- session-py
+- session-rhino
+- openseppo
+- uitk
+- meridian-vpn
+- gdrive-organizer
+- atct
+- pythontk
+- xandikos
+- sandwitches
+- siat
+- qualito
+- netcloak
+- ps-plugin-module-delivery
+- ps-plugin-core
+- ps-plugin-sdk
+- ps-token-expressions
+- ps-version
+- zhihu-tui
+- filebackup
+- zotero-headless
+- cad-widgets
 - TNLang
 - ctboost
 - pyverse2d
@@ -40,13 +84,11 @@
 - skore-mcp
 - wppm
 - clawagents
-- catai-linux
 - caliclaw
 - deezergw
 - openrewrite-static-analysis
 - ros-cdk-searchengine
 - yuragi
-- qualito
 - Newn
 - turboquant-engine
 - k8s-l2-tunneler
@@ -56,44 +98,6 @@
 - axonpush
 - olav
 - comet-wifi-communicator
-- argus-testing
 - phim
 - devcommit
 - openrewrite-migrate-python
-- ytp-dl
-- novelscribe
-- spyllm
-- pmxt
-- lestash
-- the-agency-cli
-- p40-flowbase
-- tsujikiri
-- hangeul
-- codex-django
-- lakefront
-- fertimap-data
-- ptuploader
-- shoal-cli
-- drf-pyseto
-- observational-memory
-- phaethon
-- agenttel
-- captain-nemo
-- clawdex
-- agent-knowledge-cli
-- vaultspec-core
-- infoblox-ddi-mcp
-- aiohttp-mcp-client
-- dynolayer
-- expready
-- rocketchat-API
-- ruyiPage
-- mlpclassifier
-- quonfig
-- zenon-nebula
-- meta-reasoning
-- ps-plugin-module-delivery
-- ps-plugin-core
-- ps-plugin-sdk
-- ps-version
-- ps-token-expressions

@@ -1,11 +1,11 @@
 {
   "name": "ps-plugin-core",
-  "version": "0.2.8",
-  "summary": null,
-  "author": null,
-  "license": null,
+  "version": "0.2.10",
+  "summary": "Core Poetry application plugin: module discovery, dependency injection, and lifecycle management",
+  "author": "ztBlackGad",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "ps_plugin_core-0.2.8.tar.gz",
-  "download_time": "2026-04-11T17:22:41.507714",
+  "download_filename": "ps_plugin_core-0.2.10.tar.gz",
+  "download_time": "2026-04-11T18:01:37.281966",
   "package_url": "https://pypi.org/project/ps-plugin-core/"
 }

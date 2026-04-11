@@ -1,0 +1,11 @@
+{
+  "name": "genaiforgenews",
+  "version": "0.1.0",
+  "summary": "AI-driven news aggregation: multi-source fetch, AI scoring, bilingual summaries (EN/HI), MCP server.",
+  "author": "Vikas Maurya",
+  "license": null,
+  "home_page": null,
+  "download_filename": "genaiforgenews-0.1.0.tar.gz",
+  "download_time": "2026-04-11T18:01:20.401617",
+  "package_url": "https://pypi.org/project/genaiforgenews/"
+}

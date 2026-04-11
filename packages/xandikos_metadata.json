@@ -1,11 +1,11 @@
 {
   "name": "xandikos",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "Lightweight CalDAV/CardDAV server",
   "author": null,
   "license": "GNU GPLv3 or later",
   "home_page": null,
-  "download_filename": "xandikos-0.3.6.tar.gz",
-  "download_time": "2026-04-09T23:14:04.348649",
+  "download_filename": "xandikos-0.3.7.tar.gz",
+  "download_time": "2026-04-11T18:01:33.336182",
   "package_url": "https://pypi.org/project/xandikos/"
 }

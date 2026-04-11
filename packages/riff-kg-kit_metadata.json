@@ -1,0 +1,11 @@
+{
+  "name": "riff-kg-kit",
+  "version": "0.7.1",
+  "summary": "Opinionated knowledge-graph ingest, staged proposals, and retrieval for Riff (FastAPI) apps",
+  "author": "Ellen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "riff_kg_kit-0.7.1.tar.gz",
+  "download_time": "2026-04-11T18:01:18.620799",
+  "package_url": "https://pypi.org/project/riff-kg-kit/"
+}

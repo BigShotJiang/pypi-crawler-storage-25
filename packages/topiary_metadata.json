@@ -1,11 +1,11 @@
 {
   "name": "topiary",
-  "version": "4.8.0",
+  "version": "4.10.0",
   "summary": "Predict cancer epitopes from cancer sequence data",
   "author": "Alex Rubinsteyn, Tavi Nathanson",
   "license": null,
   "home_page": null,
-  "download_filename": "topiary-4.8.0.tar.gz",
-  "download_time": "2026-04-10T11:18:03.305941",
+  "download_filename": "topiary-4.10.0.tar.gz",
+  "download_time": "2026-04-11T18:01:22.697021",
   "package_url": "https://pypi.org/project/topiary/"
 }

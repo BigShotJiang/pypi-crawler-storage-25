@@ -1,11 +1,11 @@
 {
   "name": "meridian-vpn",
-  "version": "3.12.0",
+  "version": "3.17.0",
   "summary": "Deploy a censorship-resistant proxy server — hardened by default, shared via QR code",
   "author": "uburuntu",
   "license": null,
   "home_page": null,
-  "download_filename": "meridian_vpn-3.12.0-py3-none-any.whl",
-  "download_time": "2026-04-07T17:02:25.497209",
+  "download_filename": "meridian_vpn-3.17.0.tar.gz",
+  "download_time": "2026-04-11T18:01:30.965761",
   "package_url": "https://pypi.org/project/meridian-vpn/"
 }
