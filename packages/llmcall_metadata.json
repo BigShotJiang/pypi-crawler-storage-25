@@ -1,0 +1,11 @@
+{
+  "name": "llmcall",
+  "version": "0.1.0rc3",
+  "summary": "A lite abstraction layer for LLM calls",
+  "author": "Ndamulelo Nemakhavhani",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llmcall-0.1.0rc3.tar.gz",
+  "download_time": "2026-04-11T05:02:10.770652",
+  "package_url": "https://pypi.org/project/llmcall/"
+}

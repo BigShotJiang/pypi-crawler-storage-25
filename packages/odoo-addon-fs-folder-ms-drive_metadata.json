@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-fs-folder-ms-drive",
+  "version": "18.0.2.0.0.2",
+  "summary": "Display and manage your files from Microsoft drives from within Odoo",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/storage",
+  "download_filename": "odoo_addon_fs_folder_ms_drive-18.0.2.0.0.2-py3-none-any.whl",
+  "download_time": "2026-04-11T05:02:46.400663",
+  "package_url": "https://pypi.org/project/odoo-addon-fs-folder-ms-drive/"
+}

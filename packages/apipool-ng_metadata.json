@@ -1,11 +1,11 @@
 {
   "name": "apipool-ng",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "Multiple API Key Manager (Next Generation, sqlalchemy_mate free)",
   "author": "apipool-ng Contributors",
   "license": "MIT",
   "home_page": "https://github.com/apipool-ng/apipool-project",
-  "download_filename": "apipool_ng-1.0.5.tar.gz",
-  "download_time": "2026-04-11T03:01:42.825508",
+  "download_filename": "apipool_ng-1.0.7.tar.gz",
+  "download_time": "2026-04-11T05:02:05.908433",
   "package_url": "https://pypi.org/project/apipool-ng/"
 }
