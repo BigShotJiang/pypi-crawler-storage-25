@@ -1,11 +1,11 @@
 {
   "name": "nautilus-orm-darwin-arm64",
-  "version": "0.1.6",
+  "version": "1.0.0",
   "summary": "Nautilus ORM binary for darwin-arm64",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "nautilus_orm_darwin_arm64-0.1.6-py3-none-any.whl",
-  "download_time": "2026-04-05T14:37:50.351213",
+  "download_filename": "nautilus_orm_darwin_arm64-1.0.0-py3-none-any.whl",
+  "download_time": "2026-04-11T22:56:50.453473",
   "package_url": "https://pypi.org/project/nautilus-orm-darwin-arm64/"
 }

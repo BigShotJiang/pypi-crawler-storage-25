@@ -1,0 +1,11 @@
+{
+  "name": "kayba-tracing",
+  "version": "0.9.7",
+  "summary": "Kayba tracing SDK — instrument your AI agents and send traces to Kayba",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kayba_tracing-0.9.7.tar.gz",
+  "download_time": "2026-04-11T22:56:22.083268",
+  "package_url": "https://pypi.org/project/kayba-tracing/"
+}

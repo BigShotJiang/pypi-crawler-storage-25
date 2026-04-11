@@ -1,0 +1,11 @@
+{
+  "name": "slowlane",
+  "version": "0.2.5",
+  "summary": "Python CLI tool for Apple service automation - fastlane-compatible authentication and App Store Connect/Developer Portal operations",
+  "author": "Slowlane Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slowlane-0.2.5.tar.gz",
+  "download_time": "2026-04-11T22:56:36.672781",
+  "package_url": "https://pypi.org/project/slowlane/"
+}

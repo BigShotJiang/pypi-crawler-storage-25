@@ -1,11 +1,11 @@
 {
   "name": "adk-tool-search",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Dynamic tool search for Google ADK — load tools on demand instead of all at once",
   "author": "ADK Tool Search Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "adk_tool_search-0.2.0.tar.gz",
-  "download_time": "2026-04-11T21:36:15.948324",
+  "download_filename": "adk_tool_search-0.2.1.tar.gz",
+  "download_time": "2026-04-11T22:56:43.094498",
   "package_url": "https://pypi.org/project/adk-tool-search/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "recombinase",
-  "version": "0.1.12",
+  "version": "0.1.15",
   "summary": "Template-guided document synthesis: extract structured content from source pptx files and recombine into a canonical template",
   "author": "Terry Li",
   "license": null,
   "home_page": null,
-  "download_filename": "recombinase-0.1.12.tar.gz",
-  "download_time": "2026-04-11T09:07:09.154505",
+  "download_filename": "recombinase-0.1.15.tar.gz",
+  "download_time": "2026-04-11T22:56:19.315435",
   "package_url": "https://pypi.org/project/recombinase/"
 }

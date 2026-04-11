@@ -1,0 +1,11 @@
+{
+  "name": "sprig-config",
+  "version": "1.4.7",
+  "summary": "Spring-like deep merge configuration loader for Python",
+  "author": "Derik G. Wilson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sprig_config-1.4.7.tar.gz",
+  "download_time": "2026-04-11T22:56:42.541926",
+  "package_url": "https://pypi.org/project/sprig-config/"
+}

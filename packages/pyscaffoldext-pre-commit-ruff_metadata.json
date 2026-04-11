@@ -1,0 +1,11 @@
+{
+  "name": "pyscaffoldext-pre-commit-ruff",
+  "version": "1.1.1",
+  "summary": "PyScaffold extension to use Ruff with pre-commit.",
+  "author": "John D. Fisher",
+  "license": "MIT",
+  "home_page": "https://github.com/jfishe/pyscaffoldext-pre-commit-ruff",
+  "download_filename": "pyscaffoldext_pre_commit_ruff-1.1.1.tar.gz",
+  "download_time": "2026-04-11T22:56:17.711757",
+  "package_url": "https://pypi.org/project/pyscaffoldext-pre-commit-ruff/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fastapi-alertengine",
-  "version": "1.0.6",
-  "summary": "FastAPI AlertEngine: fintech-grade request monitoring (p95 latency + error rate) without Prometheus.",
-  "author": "Tandem Media",
-  "license": null,
+  "version": "1.1.4",
+  "summary": "Production-grade request metrics middleware and SLO alert engine for FastAPI + Redis Streams",
+  "author": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_alertengine-1.0.6.tar.gz",
-  "download_time": "2026-04-08T19:45:39.650183",
+  "download_filename": "fastapi_alertengine-1.1.4.tar.gz",
+  "download_time": "2026-04-11T22:56:47.496518",
   "package_url": "https://pypi.org/project/fastapi-alertengine/"
 }

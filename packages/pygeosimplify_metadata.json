@@ -1,0 +1,11 @@
+{
+  "name": "pygeosimplify",
+  "version": "0.0.19",
+  "summary": "Python package for automatic, cell-based inference of clash-free simplified detector geometry.",
+  "author": "Joshua Falco Beirer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygeosimplify-0.0.19.tar.gz",
+  "download_time": "2026-04-11T22:56:08.998097",
+  "package_url": "https://pypi.org/project/pygeosimplify/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nautilus-orm-win-amd64",
-  "version": "0.1.6",
+  "version": "1.0.0",
   "summary": "Nautilus ORM binary for win-amd64",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "nautilus_orm_win_amd64-0.1.6-py3-none-any.whl",
-  "download_time": "2026-04-05T14:37:47.617572",
+  "download_filename": "nautilus_orm_win_amd64-1.0.0-py3-none-any.whl",
+  "download_time": "2026-04-11T22:56:48.095254",
   "package_url": "https://pypi.org/project/nautilus-orm-win-amd64/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "antkeeper",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "Workflow engine with handler registration, channel-based I/O, and remote execution",
   "author": "Adrian Mowat",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "antkeeper-0.1.5.tar.gz",
-  "download_time": "2026-04-05T09:59:03.755884",
+  "download_filename": "antkeeper-0.1.8.tar.gz",
+  "download_time": "2026-04-11T22:56:38.278101",
   "package_url": "https://pypi.org/project/antkeeper/"
 }

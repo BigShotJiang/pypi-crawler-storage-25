@@ -1,11 +1,11 @@
 {
   "name": "clickup-cli",
-  "version": "1.2.0",
+  "version": "1.5.0",
   "summary": "The missing ClickUp CLI. Built for developers and AI agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clickup_cli-1.2.0.tar.gz",
-  "download_time": "2026-03-29T14:05:39.119866",
+  "download_filename": "clickup_cli-1.5.0.tar.gz",
+  "download_time": "2026-04-11T22:56:46.940210",
   "package_url": "https://pypi.org/project/clickup-cli/"
 }

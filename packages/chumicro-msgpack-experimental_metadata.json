@@ -1,11 +1,11 @@
 {
   "name": "chumicro-msgpack-experimental",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "summary": "Compact MessagePack serialization for CircuitPython, MicroPython, and CPython — delegates to the native C module when available.",
   "author": "ChuMicro",
   "license": null,
   "home_page": null,
-  "download_filename": "chumicro_msgpack_experimental-0.1.21.tar.gz",
-  "download_time": "2026-04-11T22:06:38.540716",
+  "download_filename": "chumicro_msgpack_experimental-0.1.22.tar.gz",
+  "download_time": "2026-04-11T22:56:45.871593",
   "package_url": "https://pypi.org/project/chumicro-msgpack-experimental/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "truva",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "summary": "Data curation engine for LLM fine-tuning",
   "author": "Turing Spark",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "truva-0.1.3.tar.gz",
-  "download_time": "2026-04-05T23:35:13.101676",
+  "download_filename": "truva-0.2.0.tar.gz",
+  "download_time": "2026-04-11T22:56:31.291693",
   "package_url": "https://pypi.org/project/truva/"
 }
