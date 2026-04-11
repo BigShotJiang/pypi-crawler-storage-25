@@ -1,0 +1,11 @@
+{
+  "name": "cfi-decoder",
+  "version": "0.1.1",
+  "summary": "Offline decoder for ISO 10962 CFI (Classification of Financial Instruments) codes",
+  "author": "Arian Šajina",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cfi_decoder-0.1.1.tar.gz",
+  "download_time": "2026-04-11T08:08:05.153535",
+  "package_url": "https://pypi.org/project/cfi-decoder/"
+}

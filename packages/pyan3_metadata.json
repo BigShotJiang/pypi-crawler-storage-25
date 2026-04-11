@@ -1,11 +1,11 @@
 {
   "name": "pyan3",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "summary": "Generate approximate call graphs for Python programs",
   "author": null,
   "license": "GPL-2.0-or-later",
   "home_page": null,
-  "download_filename": "pyan3-2.4.0.tar.gz",
-  "download_time": "2026-04-03T10:29:28.454919",
+  "download_filename": "pyan3-2.4.1.tar.gz",
+  "download_time": "2026-04-11T08:07:33.160831",
   "package_url": "https://pypi.org/project/pyan3/"
 }

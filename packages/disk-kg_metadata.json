@@ -1,0 +1,11 @@
+{
+  "name": "disk-kg",
+  "version": "1.2.0",
+  "summary": "DISK (Domain Incremental conStruction of Knowledge graph) - A tool for distilling text from documents, extracting entities and relations, and building domain knowledge graphs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "disk_kg-1.2.0.tar.gz",
+  "download_time": "2026-04-11T08:08:03.074538",
+  "package_url": "https://pypi.org/project/disk-kg/"
+}

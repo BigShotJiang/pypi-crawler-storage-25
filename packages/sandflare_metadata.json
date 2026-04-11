@@ -1,11 +1,11 @@
 {
   "name": "sandflare",
-  "version": "2.1.4",
+  "version": "2.1.7",
   "summary": "Sandflare Python SDK — Firecracker microVM sandboxes for AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sandflare-2.1.4.tar.gz",
-  "download_time": "2026-04-10T18:59:00.895944",
+  "download_filename": "sandflare-2.1.7.tar.gz",
+  "download_time": "2026-04-11T08:07:38.389504",
   "package_url": "https://pypi.org/project/sandflare/"
 }

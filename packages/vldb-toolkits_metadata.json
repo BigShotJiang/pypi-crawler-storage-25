@@ -1,11 +1,11 @@
 {
   "name": "vldb-toolkits",
-  "version": "1.0.2",
-  "summary": "Paper Management Platform for VLDB - Python wrapper for desktop application",
+  "version": "1.0.4",
+  "summary": "Installer downloader",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vldb_toolkits-1.0.2.tar.gz",
-  "download_time": "2026-04-11T07:22:31.404706",
+  "download_filename": "vldb_toolkits-1.0.4.tar.gz",
+  "download_time": "2026-04-11T08:07:41.548367",
   "package_url": "https://pypi.org/project/vldb-toolkits/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "py-async-log",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A high-performance multiprocess-safe asynchronous logging tool.一个支持多进程多线程的日志封装库",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "py_async_log-0.0.2.tar.gz",
-  "download_time": "2026-04-11T07:22:54.455404",
+  "download_filename": "py_async_log-0.0.3.tar.gz",
+  "download_time": "2026-04-11T08:08:14.647398",
   "package_url": "https://pypi.org/project/py-async-log/"
 }

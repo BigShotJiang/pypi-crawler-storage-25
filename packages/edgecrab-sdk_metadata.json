@@ -1,11 +1,11 @@
 {
   "name": "edgecrab-sdk",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Python SDK for EdgeCrab — a Rust-native autonomous coding agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edgecrab_sdk-0.3.1.tar.gz",
-  "download_time": "2026-04-11T07:22:20.448787",
+  "download_filename": "edgecrab_sdk-0.3.3.tar.gz",
+  "download_time": "2026-04-11T08:07:48.393793",
   "package_url": "https://pypi.org/project/edgecrab-sdk/"
 }

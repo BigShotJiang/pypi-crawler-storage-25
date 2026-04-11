@@ -1,11 +1,11 @@
 {
   "name": "logseq-cli",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "A Unix-composable CLI for the Logseq local HTTP API",
   "author": "Jonathan Wolf",
   "license": null,
   "home_page": null,
-  "download_filename": "logseq_cli-0.2.4.tar.gz",
-  "download_time": "2026-04-11T07:22:16.823357",
+  "download_filename": "logseq_cli-0.2.6.tar.gz",
+  "download_time": "2026-04-11T08:07:51.598843",
   "package_url": "https://pypi.org/project/logseq-cli/"
 }
