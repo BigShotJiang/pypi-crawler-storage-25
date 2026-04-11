@@ -1,11 +1,11 @@
 {
   "name": "carta-cc",
-  "version": "0.3.11",
+  "version": "0.3.15",
   "summary": "Semantic memory sidecar for Claude Code projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "carta_cc-0.3.11.tar.gz",
-  "download_time": "2026-04-07T22:51:53.156008",
+  "download_filename": "carta_cc-0.3.15.tar.gz",
+  "download_time": "2026-04-11T07:22:47.304308",
   "package_url": "https://pypi.org/project/carta-cc/"
 }

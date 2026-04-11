@@ -1,11 +1,11 @@
 {
   "name": "smongo",
-  "version": "1.1.3",
+  "version": "1.1.6",
   "summary": "Small MongoDB, big ambitions -- a local-first document engine (redb + Rust) with Atlas sync",
   "author": "smongo contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "smongo-1.1.3.tar.gz",
-  "download_time": "2026-04-11T06:07:59.168293",
+  "download_filename": "smongo-1.1.6.tar.gz",
+  "download_time": "2026-04-11T07:22:52.403284",
   "package_url": "https://pypi.org/project/smongo/"
 }

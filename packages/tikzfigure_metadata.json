@@ -1,11 +1,11 @@
 {
   "name": "tikzfigure",
-  "version": "0.1.6",
+  "version": "0.2.1",
   "summary": "Python interface to generate (readable) Tikz figures.",
   "author": "Max",
   "license": null,
   "home_page": null,
-  "download_filename": "tikzfigure-0.1.6.tar.gz",
-  "download_time": "2026-03-30T21:58:49.137382",
+  "download_filename": "tikzfigure-0.2.1.tar.gz",
+  "download_time": "2026-04-11T07:22:41.110815",
   "package_url": "https://pypi.org/project/tikzfigure/"
 }

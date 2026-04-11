@@ -1,0 +1,11 @@
+{
+  "name": "beav3r-sdk-langchain",
+  "version": "0.1.2",
+  "summary": "LangChain middleware for routing sensitive tool calls through Beav3r approvals.",
+  "author": "Beav3r",
+  "license": null,
+  "home_page": null,
+  "download_filename": "beav3r_sdk_langchain-0.1.2.tar.gz",
+  "download_time": "2026-04-11T07:22:33.952788",
+  "package_url": "https://pypi.org/project/beav3r-sdk-langchain/"
+}

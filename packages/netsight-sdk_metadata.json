@@ -1,11 +1,11 @@
 {
   "name": "netsight-sdk",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Read-only multi-vendor network device query SDK (core library)",
   "author": "NetSight contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "netsight_sdk-1.1.0.tar.gz",
-  "download_time": "2026-04-11T06:07:43.728360",
+  "download_filename": "netsight_sdk-1.1.1.tar.gz",
+  "download_time": "2026-04-11T07:22:42.655002",
   "package_url": "https://pypi.org/project/netsight-sdk/"
 }

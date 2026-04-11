@@ -1,0 +1,11 @@
+{
+  "name": "ha-customapps",
+  "version": "0.3.0",
+  "summary": "Shared framework for Home Assistant custom integrations, add-ons, and dashboard panels",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ha_customapps-0.3.0.tar.gz",
+  "download_time": "2026-04-11T07:22:39.069330",
+  "package_url": "https://pypi.org/project/ha-customapps/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "destripe",
+  "version": "0.1.1",
+  "summary": "PDHG-based universal stripe-noise removal for images, backed by PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "destripe-0.1.1.tar.gz",
+  "download_time": "2026-04-11T07:22:32.427293",
+  "package_url": "https://pypi.org/project/destripe/"
+}

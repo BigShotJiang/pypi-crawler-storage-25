@@ -1,11 +1,11 @@
 {
   "name": "depsly",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Local-first dependency decision CLI for JS/TS projects",
   "author": "Sabri Shiraz",
   "license": null,
   "home_page": null,
-  "download_filename": "depsly-0.1.1.tar.gz",
-  "download_time": "2026-04-10T07:06:02.942130",
+  "download_filename": "depsly-0.1.4.tar.gz",
+  "download_time": "2026-04-11T07:22:28.830173",
   "package_url": "https://pypi.org/project/depsly/"
 }

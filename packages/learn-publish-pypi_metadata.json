@@ -1,0 +1,11 @@
+{
+  "name": "learn-publish-pypi",
+  "version": "4.0.5",
+  "summary": "A minimal sample package with automated PyPI publishing from GitHub Actions.",
+  "author": "ridwaanhall",
+  "license": null,
+  "home_page": null,
+  "download_filename": "learn_publish_pypi-4.0.5.tar.gz",
+  "download_time": "2026-04-11T07:22:31.914110",
+  "package_url": "https://pypi.org/project/learn-publish-pypi/"
+}
