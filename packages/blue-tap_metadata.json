@@ -1,11 +1,11 @@
 {
   "name": "blue-tap",
-  "version": "2.2.0",
+  "version": "2.5.0",
   "summary": "Bluetooth/BLE Penetration Testing Toolkit for Automotive IVI Systems",
   "author": "Santhosh Ballikonda",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "blue_tap-2.2.0.tar.gz",
-  "download_time": "2026-04-03T20:37:19.352399",
+  "download_filename": "blue_tap-2.5.0.tar.gz",
+  "download_time": "2026-04-11T10:01:38.947523",
   "package_url": "https://pypi.org/project/blue-tap/"
 }

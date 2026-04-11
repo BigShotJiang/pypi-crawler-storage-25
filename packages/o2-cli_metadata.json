@@ -1,11 +1,11 @@
 {
   "name": "o2-cli",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "CLI for O2 DEX Trading Platform",
   "author": "Dylan Wu",
   "license": null,
   "home_page": null,
-  "download_filename": "o2_cli-0.1.0.tar.gz",
-  "download_time": "2026-04-11T09:07:11.260967",
+  "download_filename": "o2_cli-0.1.2.tar.gz",
+  "download_time": "2026-04-11T10:01:55.020515",
   "package_url": "https://pypi.org/project/o2-cli/"
 }

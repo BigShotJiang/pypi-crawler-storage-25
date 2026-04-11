@@ -1,11 +1,11 @@
 {
   "name": "agent-aegis",
-  "version": "0.6.1",
+  "version": "0.9.4",
   "summary": "Auto-instrument AI agent frameworks with runtime security. One line to govern LangChain, CrewAI, OpenAI, Anthropic — injection blocking, PII masking, action policy, audit trail. Zero code changes.",
   "author": "Acacian",
   "license": null,
   "home_page": null,
-  "download_filename": "agent_aegis-0.6.1.tar.gz",
-  "download_time": "2026-03-29T17:07:03.310627",
+  "download_filename": "agent_aegis-0.9.4.tar.gz",
+  "download_time": "2026-04-11T10:01:25.909784",
   "package_url": "https://pypi.org/project/agent-aegis/"
 }

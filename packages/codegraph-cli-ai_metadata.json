@@ -1,11 +1,11 @@
 {
   "name": "codegraph-cli-ai",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "summary": "CLI tool to analyze codebases and visualize knowledge graphs using AST",
   "author": "Aditya Jogdand",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codegraph_cli_ai-0.1.8.tar.gz",
-  "download_time": "2026-04-10T21:58:50.686760",
+  "download_filename": "codegraph_cli_ai-0.2.0.tar.gz",
+  "download_time": "2026-04-11T10:01:46.205769",
   "package_url": "https://pypi.org/project/codegraph-cli-ai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "msopmodeling",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "昇腾算子性能建模工具",
   "author": "MindStudio",
   "license": "MulanPSL-2.0",
   "home_page": null,
-  "download_filename": "msopmodeling-1.0.5-py3-none-any.whl",
-  "download_time": "2026-04-11T05:02:27.424946",
+  "download_filename": "msopmodeling-1.0.6-py3-none-any.whl",
+  "download_time": "2026-04-11T10:01:21.565807",
   "package_url": "https://pypi.org/project/msopmodeling/"
 }

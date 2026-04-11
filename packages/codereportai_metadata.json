@@ -1,11 +1,11 @@
 {
   "name": "codereportai",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "summary": "Terminal-based codebase analysis tool powered by Google Gemini",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codereportai-1.0.3.tar.gz",
-  "download_time": "2026-04-11T09:07:15.548648",
+  "download_filename": "codereportai-1.0.6.tar.gz",
+  "download_time": "2026-04-11T10:01:27.467151",
   "package_url": "https://pypi.org/project/codereportai/"
 }

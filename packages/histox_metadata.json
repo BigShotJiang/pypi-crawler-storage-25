@@ -1,11 +1,11 @@
 {
   "name": "histox",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Deep learning tools for digital histology",
   "author": "Lei Cao",
   "license": null,
   "home_page": "https://github.com/leicaohmu/histox",
-  "download_filename": "histox-0.1.0.tar.gz",
-  "download_time": "2026-04-11T09:07:24.253613",
+  "download_filename": "histox-0.1.2-py3-none-any.whl",
+  "download_time": "2026-04-11T10:01:51.387525",
   "package_url": "https://pypi.org/project/histox/"
 }

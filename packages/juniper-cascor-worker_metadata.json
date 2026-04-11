@@ -1,0 +1,11 @@
+{
+  "name": "juniper-cascor-worker",
+  "version": "0.3.0",
+  "summary": "Remote candidate training worker for the JuniperCascor neural network service",
+  "author": "Paul Calnon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "juniper_cascor_worker-0.3.0.tar.gz",
+  "download_time": "2026-04-11T10:01:56.058267",
+  "package_url": "https://pypi.org/project/juniper-cascor-worker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "axion-hdl",
+  "version": "1.2.0",
+  "summary": "Automated AXI4-Lite Register Interface Generator for VHDL modules",
+  "author": "Bugra Tufan",
+  "license": "MIT",
+  "home_page": "https://github.com/bugratufan/axion-hdl",
+  "download_filename": "axion_hdl-1.2.0.tar.gz",
+  "download_time": "2026-04-11T10:01:37.384046",
+  "package_url": "https://pypi.org/project/axion-hdl/"
+}

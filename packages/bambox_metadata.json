@@ -1,11 +1,11 @@
 {
   "name": "bambox",
-  "version": "0.2.2",
+  "version": "0.3.5",
   "summary": "Package plain G-code into Bambu Lab .gcode.3mf files",
   "author": "estampo contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "bambox-0.2.2.tar.gz",
-  "download_time": "2026-04-09T21:48:19.404524",
+  "download_filename": "bambox-0.3.5.tar.gz",
+  "download_time": "2026-04-11T10:01:59.693172",
   "package_url": "https://pypi.org/project/bambox/"
 }
