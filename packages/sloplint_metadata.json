@@ -1,11 +1,11 @@
 {
   "name": "sloplint",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "A linter to detect AI-generated markdown prose",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sloplint-0.7.0.tar.gz",
-  "download_time": "2026-04-11T21:36:26.896755",
+  "download_filename": "sloplint-0.8.0.tar.gz",
+  "download_time": "2026-04-11T22:06:42.181627",
   "package_url": "https://pypi.org/project/sloplint/"
 }

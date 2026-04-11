@@ -1,11 +1,11 @@
 {
   "name": "openroom",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "openroom protocol SDK for Python — envelopes, Ed25519 signing, JCS canonicalization, and an async client for the openroom relay.",
   "author": "Dhruv Yadav",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openroom-0.0.3.tar.gz",
-  "download_time": "2026-04-11T16:00:19.258048",
+  "download_filename": "openroom-0.0.4.tar.gz",
+  "download_time": "2026-04-11T22:06:06.512183",
   "package_url": "https://pypi.org/project/openroom/"
 }

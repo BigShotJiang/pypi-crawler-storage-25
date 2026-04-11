@@ -1,0 +1,11 @@
+{
+  "name": "sky-prompt",
+  "version": "0.2.2",
+  "summary": "Minimal terminal CLI to prompt browser chat UIs through a local browser or Sky MCP.",
+  "author": "SkyPrompt contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sky_prompt-0.2.2.tar.gz",
+  "download_time": "2026-04-11T22:06:12.309110",
+  "package_url": "https://pypi.org/project/sky-prompt/"
+}

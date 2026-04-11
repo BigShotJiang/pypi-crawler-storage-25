@@ -1,11 +1,11 @@
 {
   "name": "allratestoday",
-  "version": "1.0.0",
-  "summary": "Official Python SDK for AllRatesToday exchange rate API",
+  "version": "1.3.4",
+  "summary": "The most elegant way to access real-time mid-market exchange rates in Python. 160+ currencies, Reuters/Refinitiv data, zero dependencies.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "allratestoday-1.0.0.tar.gz",
-  "download_time": "2026-04-05T17:59:52.763567",
+  "download_filename": "allratestoday-1.3.4.tar.gz",
+  "download_time": "2026-04-11T22:06:36.982362",
   "package_url": "https://pypi.org/project/allratestoday/"
 }

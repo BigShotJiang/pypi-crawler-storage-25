@@ -1,11 +1,11 @@
 {
   "name": "riptoken",
-  "version": "0.1.0",
+  "version": "0.2.3",
   "summary": "Fast BPE tokenizer for LLMs — a faster, drop-in compatible reimplementation of tiktoken",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/daechoi/riptoken",
-  "download_filename": "riptoken-0.1.0.tar.gz",
-  "download_time": "2026-04-11T14:41:08.359719",
+  "download_filename": "riptoken-0.2.3.tar.gz",
+  "download_time": "2026-04-11T22:06:39.060165",
   "package_url": "https://pypi.org/project/riptoken/"
 }

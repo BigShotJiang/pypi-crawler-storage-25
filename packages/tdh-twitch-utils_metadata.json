@@ -1,0 +1,11 @@
+{
+  "name": "tdh-twitch-utils",
+  "version": "1.8.4",
+  "summary": "Record, concatenate and synchronize Twitch live streams",
+  "author": "Dmitry Karikh",
+  "license": null,
+  "home_page": "https://github.com/TheDrHax/Twitch-Utils",
+  "download_filename": "tdh_twitch_utils-1.8.4.tar.gz",
+  "download_time": "2026-04-11T22:06:27.513659",
+  "package_url": "https://pypi.org/project/tdh-twitch-utils/"
+}

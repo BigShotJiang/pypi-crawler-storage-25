@@ -1,0 +1,11 @@
+{
+  "name": "megalap",
+  "version": "0.1.1",
+  "summary": "Native dense LAP and windowed cleanup kernels for point-to-grid assignment.",
+  "author": "Kyle McDonald",
+  "license": null,
+  "home_page": null,
+  "download_filename": "megalap-0.1.1.tar.gz",
+  "download_time": "2026-04-11T22:06:07.616423",
+  "package_url": "https://pypi.org/project/megalap/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "neural-trees",
+  "version": "0.1.1",
+  "summary": "Implementations of algorithms from Prof. Dr. Ethem Alpaydın's research papers and ML textbook (MIT Press).",
+  "author": "Cagri Temel",
+  "license": null,
+  "home_page": "https://github.com/cgrtml/neural-trees",
+  "download_filename": "neural_trees-0.1.1.tar.gz",
+  "download_time": "2026-04-11T22:06:26.476158",
+  "package_url": "https://pypi.org/project/neural-trees/"
+}

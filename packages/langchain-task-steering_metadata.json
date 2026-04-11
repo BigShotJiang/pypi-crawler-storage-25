@@ -1,11 +1,11 @@
 {
   "name": "langchain-task-steering",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Implicit state machine middleware for LangChain v1 agents. Ordered task pipelines with per-task tool scoping, prompt injection, and composable validation.",
   "author": "Edvin Hallvaxhiu",
   "license": null,
   "home_page": null,
-  "download_filename": "langchain_task_steering-0.1.2.tar.gz",
-  "download_time": "2026-04-08T16:50:07.015387",
+  "download_filename": "langchain_task_steering-0.1.5.tar.gz",
+  "download_time": "2026-04-11T22:06:43.229866",
   "package_url": "https://pypi.org/project/langchain-task-steering/"
 }

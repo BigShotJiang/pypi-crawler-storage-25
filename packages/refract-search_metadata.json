@@ -1,11 +1,11 @@
 {
   "name": "refract-search",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Context-aware similarity search. Dynamic metric routing that understands your query and your data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "refract_search-0.1.1.tar.gz",
-  "download_time": "2026-04-10T20:23:51.795984",
+  "download_filename": "refract_search-0.2.0.tar.gz",
+  "download_time": "2026-04-11T22:06:29.592402",
   "package_url": "https://pypi.org/project/refract-search/"
 }

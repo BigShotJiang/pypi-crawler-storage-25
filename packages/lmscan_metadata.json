@@ -1,11 +1,11 @@
 {
   "name": "lmscan",
-  "version": "0.1.0",
+  "version": "0.6.1",
   "summary": "Detect AI-generated text and fingerprint which LLM wrote it. Open-source GPTZero alternative. Zero dependencies, works offline.",
   "author": "Zacharie B",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lmscan-0.1.0.tar.gz",
-  "download_time": "2026-04-10T18:58:33.247563",
+  "download_filename": "lmscan-0.6.1.tar.gz",
+  "download_time": "2026-04-11T22:06:13.897947",
   "package_url": "https://pypi.org/project/lmscan/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pybit",
+  "version": "5.15.0",
+  "summary": "Python3 Bybit HTTP/WebSocket API Connector",
+  "author": "Dexter Dickinson",
+  "license": "MIT License",
+  "home_page": "https://github.com/bybit-exchange/pybit",
+  "download_filename": "pybit-5.15.0.tar.gz",
+  "download_time": "2026-04-11T22:06:39.579288",
+  "package_url": "https://pypi.org/project/pybit/"
+}

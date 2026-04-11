@@ -1,0 +1,11 @@
+{
+  "name": "ramets",
+  "version": "0.4.0",
+  "summary": "Per-branch AI coding context — delta-encoded knowledge graphs, decision tracking, and Obsidian visualization. Your codebase is one organism. Each branch is a ramet.",
+  "author": "Harish Panneer Selvam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ramets-0.4.0.tar.gz",
+  "download_time": "2026-04-11T22:06:18.618227",
+  "package_url": "https://pypi.org/project/ramets/"
+}
