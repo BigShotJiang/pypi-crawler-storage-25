@@ -1,11 +1,11 @@
 {
   "name": "qualito",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Quality metrics for AI-assisted development — measure and improve your Claude Code sessions",
   "author": "Mattia Papa",
   "license": null,
   "home_page": null,
-  "download_filename": "qualito-0.1.3.tar.gz",
-  "download_time": "2026-04-11T08:07:50.041131",
+  "download_filename": "qualito-0.1.5.tar.gz",
+  "download_time": "2026-04-11T17:22:16.922344",
   "package_url": "https://pypi.org/project/qualito/"
 }

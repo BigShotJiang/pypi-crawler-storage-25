@@ -1,0 +1,11 @@
+{
+  "name": "drf-pyseto",
+  "version": "0.1.1",
+  "summary": "Django REST Framework authentication using PASETO (pyseto)",
+  "author": "Pravin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "drf_pyseto-0.1.1.tar.gz",
+  "download_time": "2026-04-11T17:22:31.585202",
+  "package_url": "https://pypi.org/project/drf-pyseto/"
+}

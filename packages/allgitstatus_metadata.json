@@ -1,11 +1,11 @@
 {
   "name": "allgitstatus",
-  "version": "0.13.0",
+  "version": "0.14.1",
   "summary": "Checks the git status for all repositories found under the specified directory.",
   "author": "David Brownell",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "allgitstatus-0.13.0.tar.gz",
-  "download_time": "2026-04-08T19:45:45.856452",
+  "download_filename": "allgitstatus-0.14.1.tar.gz",
+  "download_time": "2026-04-11T17:22:02.856253",
   "package_url": "https://pypi.org/project/allgitstatus/"
 }

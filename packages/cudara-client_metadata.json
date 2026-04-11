@@ -1,0 +1,11 @@
+{
+  "name": "cudara-client",
+  "version": "0.0.3",
+  "summary": "Python client for Cudara inference server with prompt engineering utilities",
+  "author": "Julio Galindo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cudara_client-0.0.3.tar.gz",
+  "download_time": "2026-04-11T17:21:58.163919",
+  "package_url": "https://pypi.org/project/cudara-client/"
+}

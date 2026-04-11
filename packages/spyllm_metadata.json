@@ -1,11 +1,11 @@
 {
   "name": "spyllm",
-  "version": "0.2.0",
-  "summary": "Two-line automatic LLM tracing. Works with OpenAI, Anthropic, and more.",
+  "version": "0.3.2",
+  "summary": "Framework-agnostic agent observability & LLM tracing. Supports OpenAI, Anthropic, CrewAI, AutoGen, LangGraph, and OpenTelemetry.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spyllm-0.2.0.tar.gz",
-  "download_time": "2026-04-10T23:25:45.039121",
+  "download_filename": "spyllm-0.3.2.tar.gz",
+  "download_time": "2026-04-11T17:22:25.256794",
   "package_url": "https://pypi.org/project/spyllm/"
 }

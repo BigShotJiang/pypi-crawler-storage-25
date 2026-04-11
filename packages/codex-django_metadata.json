@@ -1,11 +1,11 @@
 {
   "name": "codex-django",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "Django runtime utilities, mixins, adapters, and reusable modules for Codex projects",
   "author": "CodexDLC",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "codex_django-0.4.0.tar.gz",
-  "download_time": "2026-04-10T21:58:29.034328",
+  "download_filename": "codex_django-0.4.2.tar.gz",
+  "download_time": "2026-04-11T17:22:28.935492",
   "package_url": "https://pypi.org/project/codex-django/"
 }

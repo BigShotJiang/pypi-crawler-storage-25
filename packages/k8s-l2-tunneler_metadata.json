@@ -1,0 +1,11 @@
+{
+  "name": "k8s-l2-tunneler",
+  "version": "0.1.0",
+  "summary": "Layer-2 TAP tunnel into a Kubernetes cluster via pod NAD bridge",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "k8s_l2_tunneler-0.1.0.tar.gz",
+  "download_time": "2026-04-11T17:22:18.480426",
+  "package_url": "https://pypi.org/project/k8s-l2-tunneler/"
+}

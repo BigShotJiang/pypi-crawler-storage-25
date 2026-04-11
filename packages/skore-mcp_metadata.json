@@ -1,0 +1,11 @@
+{
+  "name": "skore-mcp",
+  "version": "0.1.1",
+  "summary": "Model Context Protocol server for Skore (experiment tracking and model evaluation)",
+  "author": "François Goupil",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skore_mcp-0.1.1.tar.gz",
+  "download_time": "2026-04-11T17:22:12.217577",
+  "package_url": "https://pypi.org/project/skore-mcp/"
+}
