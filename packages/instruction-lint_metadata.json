@@ -1,11 +1,11 @@
 {
   "name": "instruction-lint",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "The ESLint of AI coding assistant instructions — audit, validate, and fix instruction files for GitHub Copilot, Cursor, Windsurf, Aider, Continue.dev, Claude Code, and Gemini CLI.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "instruction_lint-0.6.0.tar.gz",
-  "download_time": "2026-04-11T05:02:29.292618",
+  "download_filename": "instruction_lint-0.6.1.tar.gz",
+  "download_time": "2026-04-11T14:00:13.892560",
   "package_url": "https://pypi.org/project/instruction-lint/"
 }

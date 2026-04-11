@@ -1,0 +1,11 @@
+{
+  "name": "solarc-eclipse",
+  "version": "0.6.2",
+  "summary": "ECLIPSE: Emission Calculation and Line Prediction for SOLAR-C EUVST",
+  "author": "James McKevitt",
+  "license": "Contact for permission",
+  "home_page": "https://github.com/jamesmckevitt/eclipse",
+  "download_filename": "solarc_eclipse-0.6.2.tar.gz",
+  "download_time": "2026-04-11T14:00:11.321345",
+  "package_url": "https://pypi.org/project/solarc-eclipse/"
+}

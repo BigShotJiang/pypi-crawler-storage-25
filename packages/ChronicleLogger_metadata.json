@@ -1,0 +1,11 @@
+{
+  "name": "ChronicleLogger",
+  "version": "1.3.0",
+  "summary": "Privilege-aware, auto-rotating daily logger for Linux daemons & CLI tools",
+  "author": "Wilgat Wong",
+  "license": "MIT",
+  "home_page": "https://github.com/Wilgat/ChronicleLogger",
+  "download_filename": "chroniclelogger-1.3.0.tar.gz",
+  "download_time": "2026-04-11T13:59:48.120911",
+  "package_url": "https://pypi.org/project/ChronicleLogger/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "coding-proxy",
-  "version": "0.2.0",
-  "summary": "A High-Availability, Transparent, and Smart Multi-Vendor Proxy for Claude Code. Support Claude Plans, GitHub Copilot, Google Antigravity, ZAI/GLM.",
+  "version": "0.2.1",
+  "summary": "A High-Availability, Transparent, and Smart Multi-Vendor Proxy for Claude Code. Support Claude Plans, GitHub Copilot, Google Antigravity, ZAI/GLM, MiniMax, Qwen, Xiaomi, Kimi, Doubao...",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "coding_proxy-0.2.0.tar.gz",
-  "download_time": "2026-04-11T11:57:58.248513",
+  "download_filename": "coding_proxy-0.2.1.tar.gz",
+  "download_time": "2026-04-11T14:00:21.094986",
   "package_url": "https://pypi.org/project/coding-proxy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "raccoon-stubs",
-  "version": "1.0.147",
+  "version": "1.0.149",
   "summary": "Type stubs for raccoon (IDE support, type hinting, codegen — no runtime code)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "raccoon_stubs-1.0.147-py3-none-any.whl",
-  "download_time": "2026-04-11T09:07:13.498966",
+  "download_filename": "raccoon_stubs-1.0.149-py3-none-any.whl",
+  "download_time": "2026-04-11T13:59:46.580849",
   "package_url": "https://pypi.org/project/raccoon-stubs/"
 }

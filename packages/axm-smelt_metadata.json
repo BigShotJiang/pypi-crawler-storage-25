@@ -1,11 +1,11 @@
 {
   "name": "axm-smelt",
-  "version": "0.0.1.dev0",
-  "summary": "Package name reserved — implementation coming soon",
+  "version": "0.1.0",
+  "summary": "Deterministic token compaction for LLM inputs",
   "author": null,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "axm_smelt-0.0.1.dev0.tar.gz",
-  "download_time": "2026-04-11T10:43:28.456790",
+  "download_filename": "axm_smelt-0.1.0.tar.gz",
+  "download_time": "2026-04-11T14:00:12.857060",
   "package_url": "https://pypi.org/project/axm-smelt/"
 }

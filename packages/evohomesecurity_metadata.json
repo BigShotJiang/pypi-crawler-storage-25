@@ -1,0 +1,11 @@
+{
+  "name": "evohomesecurity",
+  "version": "0.0.1",
+  "summary": "A Python wrapper for the evohome Security API, used by the Home Assistant integration.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evohomesecurity-0.0.1.tar.gz",
+  "download_time": "2026-04-11T13:59:42.327174",
+  "package_url": "https://pypi.org/project/evohomesecurity/"
+}

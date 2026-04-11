@@ -1,11 +1,11 @@
 {
   "name": "notebooklm-mcp-cli",
-  "version": "0.5.20",
+  "version": "0.5.21",
   "summary": "Unified CLI and MCP server for Google NotebookLM",
   "author": "Jacob Ben-David",
   "license": null,
   "home_page": null,
-  "download_filename": "notebooklm_mcp_cli-0.5.20.tar.gz",
-  "download_time": "2026-04-10T16:54:39.607271",
+  "download_filename": "notebooklm_mcp_cli-0.5.21.tar.gz",
+  "download_time": "2026-04-11T14:00:12.344890",
   "package_url": "https://pypi.org/project/notebooklm-mcp-cli/"
 }

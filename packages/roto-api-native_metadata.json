@@ -1,0 +1,11 @@
+{
+  "name": "roto-api-native",
+  "version": "0.2.1",
+  "summary": "Python-native bindings for roto-api longest-prefix lookups",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "roto_api_native-0.2.1.tar.gz",
+  "download_time": "2026-04-11T13:59:55.316424",
+  "package_url": "https://pypi.org/project/roto-api-native/"
+}

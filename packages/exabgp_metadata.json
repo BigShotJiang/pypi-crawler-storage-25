@@ -1,11 +1,11 @@
 {
   "name": "exabgp",
-  "version": "5.0.6",
+  "version": "5.0.9",
   "summary": "BGP swiss army knife",
   "author": "Thomas Mangin",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/Exa-Networks/exabgp",
-  "download_filename": "exabgp-5.0.6.tar.gz",
-  "download_time": "2026-04-03T13:03:26.999193",
+  "download_filename": "exabgp-5.0.9.tar.gz",
+  "download_time": "2026-04-11T14:00:09.763554",
   "package_url": "https://pypi.org/project/exabgp/"
 }

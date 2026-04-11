@@ -1,0 +1,11 @@
+{
+  "name": "vmware-avi",
+  "version": "1.4.9",
+  "summary": "AVI (NSX Advanced Load Balancer) management and AKO Kubernetes operations tool",
+  "author": "Wei Zhou / 周崴",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vmware_avi-1.4.9.tar.gz",
+  "download_time": "2026-04-11T14:00:27.777533",
+  "package_url": "https://pypi.org/project/vmware-avi/"
+}

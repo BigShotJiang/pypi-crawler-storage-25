@@ -1,11 +1,11 @@
 {
   "name": "music-genie",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Search YouTube for music, identify songs, download as tagged MP3s",
   "author": "j23n",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "music_genie-0.2.0.tar.gz",
-  "download_time": "2026-04-05T09:10:00.813385",
+  "download_filename": "music_genie-0.4.0.tar.gz",
+  "download_time": "2026-04-11T14:00:08.736008",
   "package_url": "https://pypi.org/project/music-genie/"
 }

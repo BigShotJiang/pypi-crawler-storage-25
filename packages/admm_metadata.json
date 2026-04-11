@@ -1,11 +1,11 @@
 {
   "name": "admm",
-  "version": "1.0.2604112036",
+  "version": "1.0.2604112129",
   "summary": "ADMM - Automatic Decomposition Method by MindOpt",
   "author": "MindOpt Team",
   "license": "MIT",
   "home_page": "https://github.com/alibaba-damo-academy/admm",
-  "download_filename": "admm-1.0.2604112036.tar.gz",
-  "download_time": "2026-04-11T12:59:44.223716",
+  "download_filename": "admm-1.0.2604112129.tar.gz",
+  "download_time": "2026-04-11T14:00:03.051870",
   "package_url": "https://pypi.org/project/admm/"
 }

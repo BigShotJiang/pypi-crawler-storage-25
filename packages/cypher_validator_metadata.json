@@ -1,0 +1,11 @@
+{
+  "name": "cypher_validator",
+  "version": "0.12.0",
+  "summary": "Rust-accelerated Cypher query validator, generator, and NL-to-Cypher pipeline via GLiNER2",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cypher_validator-0.12.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2026-04-11T13:59:42.854920",
+  "package_url": "https://pypi.org/project/cypher_validator/"
+}

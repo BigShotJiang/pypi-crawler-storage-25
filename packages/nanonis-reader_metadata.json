@@ -1,11 +1,11 @@
 {
   "name": "nanonis-reader",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "A Python package for reading STM experimental data files obtained from Nanonis, based on nanonispy",
   "author": "Dowook Kim",
   "license": null,
   "home_page": "https://github.com/D-gitt/nanonis_reader",
-  "download_filename": "nanonis_reader-0.2.0.tar.gz",
-  "download_time": "2026-04-11T11:20:13.661721",
+  "download_filename": "nanonis_reader-0.2.2.tar.gz",
+  "download_time": "2026-04-11T13:59:43.940987",
   "package_url": "https://pypi.org/project/nanonis-reader/"
 }

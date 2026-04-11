@@ -1,0 +1,11 @@
+{
+  "name": "sanicode",
+  "version": "0.12.2",
+  "summary": "AI-assisted code sanitization scanner with OWASP ASVS, NIST 800-53, and ASD STIG compliance mapping.",
+  "author": "Sanicode Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sanicode-0.12.2.tar.gz",
+  "download_time": "2026-04-11T13:59:56.898200",
+  "package_url": "https://pypi.org/project/sanicode/"
+}

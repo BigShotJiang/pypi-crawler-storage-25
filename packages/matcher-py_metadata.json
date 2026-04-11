@@ -1,0 +1,11 @@
+{
+  "name": "matcher-py",
+  "version": "0.15.2",
+  "summary": "A high-performance matcher designed to solve LOGICAL and TEXT VARIATIONS problems in word matching, implemented in Rust.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/Lips7/Matcher",
+  "download_filename": "matcher_py-0.15.2.tar.gz",
+  "download_time": "2026-04-11T14:00:20.069215",
+  "package_url": "https://pypi.org/project/matcher-py/"
+}
