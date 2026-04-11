@@ -1,11 +1,11 @@
 {
   "name": "qig-compute",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "summary": "Fast compute engine for QIG geometry — analytical QFI, GPU contractions, observable governance",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qig_compute-0.1.2.tar.gz",
-  "download_time": "2026-04-11T05:02:07.208222",
+  "download_filename": "qig_compute-0.2.1.tar.gz",
+  "download_time": "2026-04-11T06:08:05.787585",
   "package_url": "https://pypi.org/project/qig-compute/"
 }

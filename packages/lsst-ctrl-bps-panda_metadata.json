@@ -1,0 +1,11 @@
+{
+  "name": "lsst-ctrl-bps-panda",
+  "version": "30.2026.1400",
+  "summary": "PanDA plugin for lsst-ctrl-bps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsst_ctrl_bps_panda-30.2026.1400.tar.gz",
+  "download_time": "2026-04-11T06:07:52.407114",
+  "package_url": "https://pypi.org/project/lsst-ctrl-bps-panda/"
+}

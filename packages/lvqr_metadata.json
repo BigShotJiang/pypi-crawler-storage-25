@@ -1,11 +1,11 @@
 {
   "name": "lvqr",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "LVQR client for Python - Live Video QUIC Relay admin and monitoring",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "lvqr-0.2.0.tar.gz",
-  "download_time": "2026-04-11T03:01:24.739679",
+  "download_filename": "lvqr-0.3.1.tar.gz",
+  "download_time": "2026-04-11T06:07:38.770984",
   "package_url": "https://pypi.org/project/lvqr/"
 }

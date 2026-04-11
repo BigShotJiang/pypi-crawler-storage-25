@@ -1,0 +1,11 @@
+{
+  "name": "py-async-log",
+  "version": "0.1.0",
+  "summary": "一个支持多进程多线程的日志封装库",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "py_async_log-0.1.0.tar.gz",
+  "download_time": "2026-04-11T06:07:43.166735",
+  "package_url": "https://pypi.org/project/py-async-log/"
+}

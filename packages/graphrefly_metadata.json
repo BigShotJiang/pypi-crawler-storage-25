@@ -1,11 +1,11 @@
 {
   "name": "graphrefly",
-  "version": "0.14.0",
+  "version": "0.20.0",
   "summary": "Reactive harness layer for agent workflows. Describe automations in plain language, trace every decision, enforce policies, persist checkpoints. Zero dependencies.",
   "author": "David Chen",
   "license": null,
   "home_page": null,
-  "download_filename": "graphrefly-0.14.0.tar.gz",
-  "download_time": "2026-04-07T15:58:11.680113",
+  "download_filename": "graphrefly-0.20.0.tar.gz",
+  "download_time": "2026-04-11T06:08:04.138415",
   "package_url": "https://pypi.org/project/graphrefly/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "equation-maths-helper",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "summary": "ENG: A class that allows you to solve quadratic and linear equations. | RU: Класс, позволяющий решать квадратные и линейные уравнения.",
   "author": "Danil1310",
   "license": null,
   "home_page": "https://github.com/Danil1310/Equation_library.git",
-  "download_filename": "equation_maths_helper-0.0.1.tar.gz",
-  "download_time": "2026-04-10T17:51:31.158617",
+  "download_filename": "equation_maths_helper-0.0.4.tar.gz",
+  "download_time": "2026-04-11T06:08:09.214174",
   "package_url": "https://pypi.org/project/equation-maths-helper/"
 }

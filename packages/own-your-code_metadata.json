@@ -1,0 +1,11 @@
+{
+  "name": "own-your-code",
+  "version": "0.1.9",
+  "summary": "MCP server & web UI: intent ledger for your codebase — record why each function exists (Cursor, Claude, SQLite, FastAPI).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "own_your_code-0.1.9.tar.gz",
+  "download_time": "2026-04-11T06:08:20.731779",
+  "package_url": "https://pypi.org/project/own-your-code/"
+}

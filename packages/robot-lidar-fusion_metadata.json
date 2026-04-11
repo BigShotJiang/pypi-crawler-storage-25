@@ -1,11 +1,11 @@
 {
   "name": "robot-lidar-fusion",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "The open-source control stack for autonomous robots with LiDAR-camera sensor fusion.",
   "author": "iceccarelli",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "robot_lidar_fusion-0.1.0.tar.gz",
-  "download_time": "2026-04-10T21:58:35.309573",
+  "download_filename": "robot_lidar_fusion-0.2.1.tar.gz",
+  "download_time": "2026-04-11T06:07:42.097931",
   "package_url": "https://pypi.org/project/robot-lidar-fusion/"
 }

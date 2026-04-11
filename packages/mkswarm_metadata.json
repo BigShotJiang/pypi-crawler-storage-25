@@ -1,0 +1,11 @@
+{
+  "name": "mkswarm",
+  "version": "0.1.1",
+  "summary": "CLI tool for bootstrapping and managing Docker Swarm clusters",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mkswarm-0.1.1.tar.gz",
+  "download_time": "2026-04-11T06:08:14.956344",
+  "package_url": "https://pypi.org/project/mkswarm/"
+}
