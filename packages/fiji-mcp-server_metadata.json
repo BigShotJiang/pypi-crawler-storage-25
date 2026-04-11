@@ -1,0 +1,11 @@
+{
+  "name": "fiji-mcp-server",
+  "version": "0.1.1",
+  "summary": "Model Context Protocol (MCP) server for Fiji/ImageJ: macros, discovery, screenshots, and workflows via PyImageJ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fiji_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-04-11T20:05:57.848228",
+  "package_url": "https://pypi.org/project/fiji-mcp-server/"
+}

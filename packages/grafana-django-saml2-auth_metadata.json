@@ -1,0 +1,11 @@
+{
+  "name": "grafana-django-saml2-auth",
+  "version": "3.21.0",
+  "summary": "Deprecated compatibility package. Install django-saml2-auth-community instead.",
+  "author": "Mostafa Moradian",
+  "license": null,
+  "home_page": null,
+  "download_filename": "grafana_django_saml2_auth-3.21.0.tar.gz",
+  "download_time": "2026-04-11T20:05:46.966357",
+  "package_url": "https://pypi.org/project/grafana-django-saml2-auth/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "semicolonfmt",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "The SemiColon Style — a PostgreSQL SQL formatter",
   "author": null,
   "license": "Apache",
   "home_page": null,
-  "download_filename": "semicolonfmt-0.1.2.tar.gz",
-  "download_time": "2026-04-11T18:56:21.677499",
+  "download_filename": "semicolonfmt-0.1.3.tar.gz",
+  "download_time": "2026-04-11T20:06:17.506228",
   "package_url": "https://pypi.org/project/semicolonfmt/"
 }

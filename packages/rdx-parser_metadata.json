@@ -1,11 +1,11 @@
 {
   "name": "rdx-parser",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "RDX parser for Python — parse .rdx documents at Rust speed",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "rdx_parser-0.1.1.tar.gz",
-  "download_time": "2026-04-11T18:56:23.772168",
+  "download_filename": "rdx_parser-0.1.2.tar.gz",
+  "download_time": "2026-04-11T20:06:35.585028",
   "package_url": "https://pypi.org/project/rdx-parser/"
 }

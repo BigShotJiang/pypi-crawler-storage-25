@@ -1,0 +1,11 @@
+{
+  "name": "pretty-good-trader",
+  "version": "0.1.0",
+  "summary": "The LLM-native trading framework. Write a prompt. Backtest it. Ship it live.",
+  "author": "PrettyGoodTrader Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pretty_good_trader-0.1.0.tar.gz",
+  "download_time": "2026-04-11T20:06:08.481008",
+  "package_url": "https://pypi.org/project/pretty-good-trader/"
+}

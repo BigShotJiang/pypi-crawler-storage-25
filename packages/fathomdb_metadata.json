@@ -1,0 +1,11 @@
+{
+  "name": "fathomdb",
+  "version": "0.2.6",
+  "summary": "Local datastore for persistent AI agents — graph, vector, and full-text search on SQLite",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fathomdb-0.2.6-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-11T20:06:26.147978",
+  "package_url": "https://pypi.org/project/fathomdb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "assgen",
+  "version": "0.3.0",
+  "summary": "Game asset generation CLI — client/server pipeline for AI-driven 3D game asset production",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "assgen-0.3.0.tar.gz",
+  "download_time": "2026-04-11T20:05:55.732738",
+  "package_url": "https://pypi.org/project/assgen/"
+}

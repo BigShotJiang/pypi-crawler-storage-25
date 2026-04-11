@@ -1,11 +1,11 @@
 {
   "name": "cern-sso-cli",
-  "version": "0.31.0",
+  "version": "0.31.1",
   "summary": "CERN SSO CLI",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": "https://github.com/clelange/cern-sso-cli",
-  "download_filename": "cern_sso_cli-0.31.0-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-03-31T23:07:35.115299",
+  "download_filename": "cern_sso_cli-0.31.1-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-11T20:06:33.436677",
   "package_url": "https://pypi.org/project/cern-sso-cli/"
 }
