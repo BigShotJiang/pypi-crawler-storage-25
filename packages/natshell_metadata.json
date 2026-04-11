@@ -1,11 +1,11 @@
 {
   "name": "natshell",
-  "version": "1.0.23",
+  "version": "1.0.27",
   "summary": "Natural language shell interface — a local-first agentic TUI powered by a bundled LLM",
   "author": "Nicholas B Considine",
   "license": null,
   "home_page": null,
-  "download_filename": "natshell-1.0.23.tar.gz",
-  "download_time": "2026-04-08T23:06:36.325876",
+  "download_filename": "natshell-1.0.27.tar.gz",
+  "download_time": "2026-04-11T11:57:48.760224",
   "package_url": "https://pypi.org/project/natshell/"
 }

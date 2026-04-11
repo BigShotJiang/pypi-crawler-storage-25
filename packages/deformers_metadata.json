@@ -1,11 +1,11 @@
 {
   "name": "deformers",
-  "version": "0.2.5",
+  "version": "0.3.0",
   "summary": "Reverse engineer transformer models.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deformers-0.2.5.tar.gz",
-  "download_time": "2026-04-11T10:01:29.026713",
+  "download_filename": "deformers-0.3.0.tar.gz",
+  "download_time": "2026-04-11T11:57:31.280492",
   "package_url": "https://pypi.org/project/deformers/"
 }

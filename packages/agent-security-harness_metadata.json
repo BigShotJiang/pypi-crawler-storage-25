@@ -1,0 +1,11 @@
+{
+  "name": "agent-security-harness",
+  "version": "4.1.0",
+  "summary": "440 security tests for AI agent systems - MCP, A2A, L402, x402 wire-protocol testing, decision governance, AIUC-1 compliance, NIST AI 800-2 aligned",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agent_security_harness-4.1.0.tar.gz",
+  "download_time": "2026-04-11T11:57:42.099428",
+  "package_url": "https://pypi.org/project/agent-security-harness/"
+}

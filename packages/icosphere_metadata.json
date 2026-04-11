@@ -1,0 +1,11 @@
+{
+  "name": "icosphere",
+  "version": "0.2.0",
+  "summary": "Creates a geodesic icosahedron given a subdivision frequency.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "icosphere-0.2.0.tar.gz",
+  "download_time": "2026-04-11T11:58:03.458995",
+  "package_url": "https://pypi.org/project/icosphere/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "frequency-anomaly-reporter",
+  "version": "1.0.0",
+  "summary": "Sliding-window event-frequency monitors that detect anomalous rates — both excessive and insufficient — via configurable thresholds and callbacks. Zero dependencies.",
+  "author": "Ori Cohen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "frequency_anomaly_reporter-1.0.0.tar.gz",
+  "download_time": "2026-04-11T11:57:23.046260",
+  "package_url": "https://pypi.org/project/frequency-anomaly-reporter/"
+}
