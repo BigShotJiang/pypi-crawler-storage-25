@@ -1,0 +1,11 @@
+{
+  "name": "infimum-core",
+  "version": "1.2.20",
+  "summary": "Infimum core library: base, engine, database, AI (LLM/VLM/speech), utils",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "infimum_core-1.2.20.tar.gz",
+  "download_time": "2026-04-11T10:43:36.157215",
+  "package_url": "https://pypi.org/project/infimum-core/"
+}

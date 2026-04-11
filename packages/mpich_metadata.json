@@ -1,0 +1,11 @@
+{
+  "name": "mpich",
+  "version": "5.0.1",
+  "summary": "A high performance implementation of MPI",
+  "author": "MPICH Team",
+  "license": "LicenseRef-MPICH",
+  "home_page": "https://www.mpich.org",
+  "download_filename": "mpich-5.0.1-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-11T10:43:01.100242",
+  "package_url": "https://pypi.org/project/mpich/"
+}

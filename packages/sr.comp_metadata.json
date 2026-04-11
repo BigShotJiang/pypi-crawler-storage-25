@@ -1,11 +1,11 @@
 {
   "name": "sr.comp",
-  "version": "1.14.1",
+  "version": "1.15.0",
   "summary": "Reliable software for running robotics competitions",
   "author": "Student Robotics Competition Software SIG",
   "license": null,
   "home_page": "https://github.com/PeterJCLaw/srcomp/wiki",
-  "download_filename": "sr_comp-1.14.1.tar.gz",
-  "download_time": "2026-03-29T21:47:58.034902",
+  "download_filename": "sr_comp-1.15.0.tar.gz",
+  "download_time": "2026-04-11T10:43:14.922232",
   "package_url": "https://pypi.org/project/sr.comp/"
 }

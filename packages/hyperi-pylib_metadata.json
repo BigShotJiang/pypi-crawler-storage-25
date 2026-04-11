@@ -1,11 +1,11 @@
 {
   "name": "hyperi-pylib",
-  "version": "2.25.2",
+  "version": "2.27.0",
   "summary": "Enterprise infrastructure for containerized Python applications - configuration, logging, timeouts, database, metrics, and application framework",
   "author": "HyperI Team",
   "license": null,
   "home_page": "https://github.com/hyperi-io/hyperi-pylib",
-  "download_filename": "hyperi_pylib-2.25.2.tar.gz",
-  "download_time": "2026-04-09T23:57:46.462047",
+  "download_filename": "hyperi_pylib-2.27.0.tar.gz",
+  "download_time": "2026-04-11T10:43:29.482688",
   "package_url": "https://pypi.org/project/hyperi-pylib/"
 }

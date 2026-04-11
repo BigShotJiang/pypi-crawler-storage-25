@@ -1,11 +1,11 @@
 {
   "name": "mdtomd",
-  "version": "0.1.0",
-  "summary": "Markdown/MDX translation CLI",
+  "version": "0.1.5",
+  "summary": "Markdown and MDX translation CLI with token estimation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mdtomd-0.1.0.tar.gz",
-  "download_time": "2026-04-10T08:53:21.481517",
+  "download_filename": "mdtomd-0.1.5.tar.gz",
+  "download_time": "2026-04-11T10:42:56.442777",
   "package_url": "https://pypi.org/project/mdtomd/"
 }

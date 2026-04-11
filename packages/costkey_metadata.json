@@ -1,11 +1,11 @@
 {
   "name": "costkey",
-  "version": "0.2.1",
+  "version": "0.4.0",
   "summary": "AI cost observability. Track every LLM call's cost, tokens, and latency with one line of code.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "costkey-0.2.1.tar.gz",
-  "download_time": "2026-04-02T06:49:23.188826",
+  "download_filename": "costkey-0.4.0.tar.gz",
+  "download_time": "2026-04-11T10:43:04.167682",
   "package_url": "https://pypi.org/project/costkey/"
 }

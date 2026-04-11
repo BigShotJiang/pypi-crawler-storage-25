@@ -1,0 +1,11 @@
+{
+  "name": "mdview-tui",
+  "version": "0.0.1a1",
+  "summary": "CLI tool to view markdown files in the terminal.",
+  "author": "Shunichiro Nomura",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdview_tui-0.0.1a1.tar.gz",
+  "download_time": "2026-04-11T10:43:16.986672",
+  "package_url": "https://pypi.org/project/mdview-tui/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agent-evaluator",
-  "version": "0.7.7",
+  "version": "0.7.8",
   "summary": "Production-ready evaluation framework for AI agents — 25 metrics across task completion, accuracy, hallucination, latency, security, and agentic behavior",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_evaluator-0.7.7.tar.gz",
-  "download_time": "2026-04-11T08:08:11.459815",
+  "download_filename": "agent_evaluator-0.7.8.tar.gz",
+  "download_time": "2026-04-11T10:43:11.338003",
   "package_url": "https://pypi.org/project/agent-evaluator/"
 }
