@@ -1,11 +1,11 @@
 {
   "name": "vantageai-agent",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "AI coding agent with per-tool permissions, cost tracking, and token optimization",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vantageai_agent-0.1.0.tar.gz",
-  "download_time": "2026-04-08T10:10:28.460761",
+  "download_filename": "vantageai_agent-0.2.1.tar.gz",
+  "download_time": "2026-04-12T10:05:32.049480",
   "package_url": "https://pypi.org/project/vantageai-agent/"
 }

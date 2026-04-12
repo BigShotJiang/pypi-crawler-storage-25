@@ -1,0 +1,11 @@
+{
+  "name": "TBurn",
+  "version": "2.0.3",
+  "summary": "Cross-platform serial firmware burn tool with modern TUI interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tburn-2.0.3.tar.gz",
+  "download_time": "2026-04-12T10:05:38.504426",
+  "package_url": "https://pypi.org/project/TBurn/"
+}

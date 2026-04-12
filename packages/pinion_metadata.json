@@ -1,0 +1,11 @@
+{
+  "name": "pinion",
+  "version": "0.4.0",
+  "summary": "Create interactive pinout diagrams for KiCAD PCBs",
+  "author": "Jan Mrázek",
+  "license": null,
+  "home_page": "https://github.com/yaqwsx/Pinion",
+  "download_filename": "pinion-0.4.0.tar.gz",
+  "download_time": "2026-04-12T10:05:37.435165",
+  "package_url": "https://pypi.org/project/pinion/"
+}

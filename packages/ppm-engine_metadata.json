@@ -1,0 +1,11 @@
+{
+  "name": "ppm-engine",
+  "version": "0.3.0",
+  "summary": "Binary analysis engine -- reconstruct architecture from compiled binaries in seconds",
+  "author": "chen0430tw",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ppm_engine-0.3.0.tar.gz",
+  "download_time": "2026-04-12T10:05:51.372003",
+  "package_url": "https://pypi.org/project/ppm-engine/"
+}

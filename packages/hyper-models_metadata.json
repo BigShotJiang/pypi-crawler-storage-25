@@ -1,0 +1,11 @@
+{
+  "name": "hyper-models",
+  "version": "0.2.0",
+  "summary": "A model zoo for non-Euclidean embedding models (hyperbolic, spherical, product manifolds)",
+  "author": "hyper3labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hyper_models-0.2.0.tar.gz",
+  "download_time": "2026-04-12T10:05:32.582578",
+  "package_url": "https://pypi.org/project/hyper-models/"
+}

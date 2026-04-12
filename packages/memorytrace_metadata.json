@@ -1,0 +1,11 @@
+{
+  "name": "memorytrace",
+  "version": "0.1.0",
+  "summary": "AI agent memory system with SQLite+FTS5, MCP integration, and quality gates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "memorytrace-0.1.0.tar.gz",
+  "download_time": "2026-04-12T10:05:46.558296",
+  "package_url": "https://pypi.org/project/memorytrace/"
+}

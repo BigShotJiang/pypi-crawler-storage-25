@@ -1,0 +1,11 @@
+{
+  "name": "greennode.vks-mcp-server",
+  "version": "0.1.0",
+  "summary": "A GreenNode MCP server for VKS (VNG Kubernetes Service)",
+  "author": "Green Node",
+  "license": null,
+  "home_page": null,
+  "download_filename": "greennode_vks_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-04-12T10:05:18.690531",
+  "package_url": "https://pypi.org/project/greennode.vks-mcp-server/"
+}

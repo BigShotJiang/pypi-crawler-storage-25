@@ -1,11 +1,11 @@
 {
   "name": "lestash",
-  "version": "1.49.0",
+  "version": "1.51.0",
   "summary": "Personal knowledge base CLI - aggregate content from multiple sources",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lestash-1.49.0.tar.gz",
-  "download_time": "2026-04-11T17:22:26.313547",
+  "download_filename": "lestash-1.51.0.tar.gz",
+  "download_time": "2026-04-12T10:05:41.715635",
   "package_url": "https://pypi.org/project/lestash/"
 }

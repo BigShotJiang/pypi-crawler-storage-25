@@ -1,11 +1,11 @@
 {
   "name": "promptree",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Type-safe Jinja prompt trees with runtime validation and generated Python stubs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "promptree-0.1.2.tar.gz",
-  "download_time": "2026-04-12T09:10:12.701324",
+  "download_filename": "promptree-0.2.0.tar.gz",
+  "download_time": "2026-04-12T10:05:29.911525",
   "package_url": "https://pypi.org/project/promptree/"
 }
