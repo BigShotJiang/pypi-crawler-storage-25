@@ -1,0 +1,11 @@
+{
+  "name": "notoriosti-env-manager",
+  "version": "0.2.3",
+  "summary": "Environment-aware configuration loader with GCP Secret Manager support",
+  "author": "Bastian Ibañez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "notoriosti_env_manager-0.2.3.tar.gz",
+  "download_time": "2026-04-12T21:21:57.297935",
+  "package_url": "https://pypi.org/project/notoriosti-env-manager/"
+}

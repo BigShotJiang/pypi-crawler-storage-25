@@ -1,11 +1,11 @@
 {
   "name": "unstructured-ingest",
-  "version": "1.4.19",
+  "version": "1.4.24",
   "summary": "Local ETL data pipeline to get data RAG ready",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unstructured_ingest-1.4.19.tar.gz",
-  "download_time": "2026-04-06T15:35:24.720108",
+  "download_filename": "unstructured_ingest-1.4.24.tar.gz",
+  "download_time": "2026-04-12T21:21:47.466251",
   "package_url": "https://pypi.org/project/unstructured-ingest/"
 }

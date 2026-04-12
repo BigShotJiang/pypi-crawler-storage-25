@@ -1,11 +1,11 @@
 {
   "name": "xwchat",
-  "version": "0.0.1.5",
+  "version": "0.0.1.8",
   "summary": "Convenience wrapper for exonware-xwchat - provides 'import xwchat' alias",
   "author": "eXonware Backend Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "xwchat-0.0.1.5.tar.gz",
-  "download_time": "2026-04-11T00:05:31.596639",
+  "download_filename": "xwchat-0.0.1.8.tar.gz",
+  "download_time": "2026-04-12T21:22:09.825668",
   "package_url": "https://pypi.org/project/xwchat/"
 }

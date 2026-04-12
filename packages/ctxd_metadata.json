@@ -1,11 +1,11 @@
 {
   "name": "ctxd",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Public Python SDK and CLI for the ctxd platform.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ctxd-0.1.4.tar.gz",
-  "download_time": "2026-04-12T20:39:42.669228",
+  "download_filename": "ctxd-0.1.6.tar.gz",
+  "download_time": "2026-04-12T21:21:57.833710",
   "package_url": "https://pypi.org/project/ctxd/"
 }

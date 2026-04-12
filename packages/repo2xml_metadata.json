@@ -1,0 +1,11 @@
+{
+  "name": "repo2xml",
+  "version": "2026.4.12.0",
+  "summary": "Bundle a repository into a single XML file for LLMs.",
+  "author": "rbroderi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "repo2xml-2026.4.12.0.tar.gz",
+  "download_time": "2026-04-12T21:22:26.625275",
+  "package_url": "https://pypi.org/project/repo2xml/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nhc",
+  "version": "0.8.0",
+  "summary": "SDK for Niko Home Control",
+  "author": "Vandeuren Glenn",
+  "license": "MIT",
+  "home_page": "https://github.com/vandeurenglenn/nhc",
+  "download_filename": "nhc-0.8.0.tar.gz",
+  "download_time": "2026-04-12T21:22:15.826960",
+  "package_url": "https://pypi.org/project/nhc/"
+}

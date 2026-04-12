@@ -1,11 +1,11 @@
 {
   "name": "xwmodels",
-  "version": "0.6.0.10",
+  "version": "0.6.0.13",
   "summary": "Convenience wrapper for exonware-xwmodels - provides 'import xwmodels' alias",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "xwmodels-0.6.0.10.tar.gz",
-  "download_time": "2026-04-09T21:47:58.060955",
+  "download_filename": "xwmodels-0.6.0.13.tar.gz",
+  "download_time": "2026-04-12T21:22:17.471079",
   "package_url": "https://pypi.org/project/xwmodels/"
 }

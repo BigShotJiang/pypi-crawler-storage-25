@@ -1,11 +1,11 @@
 {
   "name": "exonware-xwnode",
-  "version": "0.9.0.21",
+  "version": "0.9.0.25",
   "summary": "Node-based data processing and graph computation library",
   "author": null,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "exonware_xwnode-0.9.0.21.tar.gz",
-  "download_time": "2026-04-04T15:32:37.354820",
+  "download_filename": "exonware_xwnode-0.9.0.25.tar.gz",
+  "download_time": "2026-04-12T21:22:28.787681",
   "package_url": "https://pypi.org/project/exonware-xwnode/"
 }

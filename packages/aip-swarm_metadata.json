@@ -1,11 +1,11 @@
 {
   "name": "aip-swarm",
-  "version": "1.0.0",
-  "summary": "A decentralized communication layer for multi-agent AI swarms.",
+  "version": "1.1.1",
+  "summary": "Industrial-grade Decentralized AI Communication Protocol",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aip_swarm-1.0.0.tar.gz",
-  "download_time": "2026-04-12T20:40:14.123032",
+  "download_filename": "aip_swarm-1.1.1.tar.gz",
+  "download_time": "2026-04-12T21:21:44.669750",
   "package_url": "https://pypi.org/project/aip-swarm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "exonware-xwlazy",
-  "version": "1.0.1.68",
-  "summary": "Automation tool for missing-import dependency resolution with lazy install/loading across the eXonware suite.",
+  "version": "1.0.1.81",
+  "summary": "Mapping-aware lazy install and lazy load: import→PyPI table, per-package scope, PEP 668 defaults, optional audit/lockfile (eXonware stack + standalone). Not the only auto-install-on-import tool—see README for prior art.",
   "author": null,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "exonware_xwlazy-1.0.1.68.tar.gz",
-  "download_time": "2026-04-04T14:07:41.197279",
+  "download_filename": "exonware_xwlazy-1.0.1.81.tar.gz",
+  "download_time": "2026-04-12T21:22:28.248636",
   "package_url": "https://pypi.org/project/exonware-xwlazy/"
 }

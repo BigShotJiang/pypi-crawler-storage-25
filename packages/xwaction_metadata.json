@@ -1,11 +1,11 @@
 {
   "name": "xwaction",
-  "version": "0.9.0.9",
+  "version": "0.9.0.12",
   "summary": "Convenience wrapper for exonware-xwaction - provides 'import xwaction' alias",
   "author": "eXonware Backend Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "xwaction-0.9.0.9.tar.gz",
-  "download_time": "2026-04-09T21:48:28.762290",
+  "download_filename": "xwaction-0.9.0.12.tar.gz",
+  "download_time": "2026-04-12T21:22:23.372816",
   "package_url": "https://pypi.org/project/xwaction/"
 }

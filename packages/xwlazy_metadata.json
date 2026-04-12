@@ -1,11 +1,11 @@
 {
   "name": "xwlazy",
-  "version": "1.0.1.68",
+  "version": "1.0.1.81",
   "summary": "Convenience wrapper for exonware-xwlazy - provides 'import xwlazy' alias",
   "author": null,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "xwlazy-1.0.1.68.tar.gz",
-  "download_time": "2026-04-04T14:07:40.623338",
+  "download_filename": "xwlazy-1.0.1.81.tar.gz",
+  "download_time": "2026-04-12T21:22:27.711080",
   "package_url": "https://pypi.org/project/xwlazy/"
 }
