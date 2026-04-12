@@ -1,0 +1,11 @@
+{
+  "name": "ndvi2gif",
+  "version": "1.2.2",
+  "summary": "Multi-seasonal remote sensing analysis suite: composites, SAR preprocessing, time series analytics, and land cover classification with Google Earth Engine",
+  "author": "Diego García Díaz",
+  "license": "MIT",
+  "home_page": "https://github.com/Digdgeo/Ndvi2Gif",
+  "download_filename": "ndvi2gif-1.2.2.tar.gz",
+  "download_time": "2026-04-12T16:42:30.734662",
+  "package_url": "https://pypi.org/project/ndvi2gif/"
+}

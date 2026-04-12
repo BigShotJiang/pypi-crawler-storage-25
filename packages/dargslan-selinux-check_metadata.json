@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-selinux-check",
+  "version": "1.0.0",
+  "summary": "SELinux status checker — mode detection, boolean audit, context verification, and denial analysis.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_selinux_check-1.0.0.tar.gz",
+  "download_time": "2026-04-12T16:42:25.413949",
+  "package_url": "https://pypi.org/project/dargslan-selinux-check/"
+}

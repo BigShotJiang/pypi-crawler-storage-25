@@ -1,11 +1,11 @@
 {
   "name": "ironrace",
-  "version": "0.2.3",
+  "version": "0.6.1",
   "summary": "Rust-powered context engine for AI agent pipelines",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ironrace-0.2.3.tar.gz",
-  "download_time": "2026-04-06T18:15:36.800627",
+  "download_filename": "ironrace-0.6.1.tar.gz",
+  "download_time": "2026-04-12T16:42:12.713528",
   "package_url": "https://pypi.org/project/ironrace/"
 }

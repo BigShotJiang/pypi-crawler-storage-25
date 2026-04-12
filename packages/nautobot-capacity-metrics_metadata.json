@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-capacity-metrics",
+  "version": "4.1.1",
+  "summary": "App to improve the instrumentation of Nautobot and expose additional metrics (Application Metrics, RQ Worker).",
+  "author": "Network to Code, LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nautobot_capacity_metrics-4.1.1.tar.gz",
+  "download_time": "2026-04-12T16:42:13.315021",
+  "package_url": "https://pypi.org/project/nautobot-capacity-metrics/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyisolate",
+  "version": "0.10.2",
+  "summary": "A Python library for dividing execution across multiple virtual environments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyisolate-0.10.2.tar.gz",
+  "download_time": "2026-04-12T16:42:10.552993",
+  "package_url": "https://pypi.org/project/pyisolate/"
+}

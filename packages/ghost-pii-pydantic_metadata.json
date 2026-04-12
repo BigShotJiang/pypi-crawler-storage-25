@@ -1,0 +1,11 @@
+{
+  "name": "ghost-pii-pydantic",
+  "version": "0.1.2",
+  "summary": "Enterprise-Grade PII Redaction for Pydantic Models.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ghost_pii_pydantic-0.1.2.tar.gz",
+  "download_time": "2026-04-12T16:42:21.106525",
+  "package_url": "https://pypi.org/project/ghost-pii-pydantic/"
+}

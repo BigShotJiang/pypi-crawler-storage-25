@@ -1,0 +1,11 @@
+{
+  "name": "tmf-mock",
+  "version": "0.1.1",
+  "summary": "Smart TMForum Open API mock server with domain-aware seed data, cross-API referential integrity, and lifecycle state machine enforcement",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tmf_mock-0.1.1.tar.gz",
+  "download_time": "2026-04-12T16:42:50.536915",
+  "package_url": "https://pypi.org/project/tmf-mock/"
+}

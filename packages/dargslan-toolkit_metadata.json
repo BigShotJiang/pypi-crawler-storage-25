@@ -1,11 +1,11 @@
 {
   "name": "dargslan-toolkit",
-  "version": "1.6.0",
-  "summary": "Complete Linux sysadmin toolkit — 42 CLI tools for monitoring, security, networking, storage, and DevOps. One install, all tools.",
+  "version": "1.9.0",
+  "summary": "Complete Linux sysadmin toolkit — 60 CLI tools for monitoring, security, networking, storage, and DevOps. One install, all tools.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dargslan_toolkit-1.6.0.tar.gz",
-  "download_time": "2026-04-12T15:56:53.757796",
+  "download_filename": "dargslan_toolkit-1.9.0.tar.gz",
+  "download_time": "2026-04-12T16:42:22.720049",
   "package_url": "https://pypi.org/project/dargslan-toolkit/"
 }

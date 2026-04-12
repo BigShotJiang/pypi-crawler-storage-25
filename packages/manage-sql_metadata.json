@@ -1,0 +1,11 @@
+{
+  "name": "manage-sql",
+  "version": "1.2.0",
+  "summary": "Python library for managing SQLite, MySQL, and PostgreSQL databases with greater efficiency.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "manage_sql-1.2.0.tar.gz",
+  "download_time": "2026-04-12T16:42:04.268636",
+  "package_url": "https://pypi.org/project/manage-sql/"
+}

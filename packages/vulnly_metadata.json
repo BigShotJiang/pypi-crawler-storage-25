@@ -1,0 +1,11 @@
+{
+  "name": "vulnly",
+  "version": "1.0.0b8",
+  "summary": "Generate self-contained HTML vulnerability reports from Cloudsmith, Trivy, and Grype scan output",
+  "author": "Colin Moynes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vulnly-1.0.0b8.tar.gz",
+  "download_time": "2026-04-12T16:42:47.636994",
+  "package_url": "https://pypi.org/project/vulnly/"
+}
