@@ -1,11 +1,11 @@
 {
   "name": "hedwig-cg",
-  "version": "0.11.2",
+  "version": "0.11.5",
   "summary": "Local-first code graph builder with hybrid vector + graph search",
   "author": "labyu",
   "license": null,
   "home_page": null,
-  "download_filename": "hedwig_cg-0.11.2.tar.gz",
-  "download_time": "2026-04-12T18:05:05.029033",
+  "download_filename": "hedwig_cg-0.11.5.tar.gz",
+  "download_time": "2026-04-12T19:13:15.180323",
   "package_url": "https://pypi.org/project/hedwig-cg/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "run-with-coverage",
+  "version": "0.1.0a7",
+  "summary": "Run a Python script with coverage tracking and allow the user to specify the coverage data file.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "run_with_coverage-0.1.0a7.tar.gz",
+  "download_time": "2026-04-12T19:13:08.914934",
+  "package_url": "https://pypi.org/project/run-with-coverage/"
+}

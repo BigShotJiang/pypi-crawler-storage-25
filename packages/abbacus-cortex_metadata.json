@@ -1,11 +1,11 @@
 {
   "name": "abbacus-cortex",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Cognitive knowledge system with formal ontology, reasoning, and intelligence serving",
   "author": "Fabrizzio Silveira",
   "license": null,
   "home_page": null,
-  "download_filename": "abbacus_cortex-0.2.1.tar.gz",
-  "download_time": "2026-04-10T18:58:50.237525",
+  "download_filename": "abbacus_cortex-0.2.3.tar.gz",
+  "download_time": "2026-04-12T19:13:03.150632",
   "package_url": "https://pypi.org/project/abbacus-cortex/"
 }

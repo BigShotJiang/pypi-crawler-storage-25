@@ -1,11 +1,11 @@
 {
   "name": "paragon-engine",
-  "version": "0.1.1",
+  "version": "0.1.7",
   "summary": "High-performance parallel graph processing engine (C++ + Python)",
   "author": "Saket Jha",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "paragon_engine-0.1.1.tar.gz",
-  "download_time": "2026-04-12T12:07:54.940225",
+  "download_filename": "paragon_engine-0.1.7.tar.gz",
+  "download_time": "2026-04-12T19:13:23.043933",
   "package_url": "https://pypi.org/project/paragon-engine/"
 }

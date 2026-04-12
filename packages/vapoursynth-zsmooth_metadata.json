@@ -1,11 +1,11 @@
 {
   "name": "vapoursynth-zsmooth",
-  "version": "0.15.1",
+  "version": "0.15.2",
   "summary": "Cross-platform, cross-architecture video smoothing functions for Vapoursynth, written in Zig",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vapoursynth_zsmooth-0.15.1.tar.gz",
-  "download_time": "2026-04-12T18:04:56.475209",
+  "download_filename": "vapoursynth_zsmooth-0.15.2.tar.gz",
+  "download_time": "2026-04-12T19:12:46.818487",
   "package_url": "https://pypi.org/project/vapoursynth-zsmooth/"
 }

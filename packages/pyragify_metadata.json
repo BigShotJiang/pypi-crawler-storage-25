@@ -1,0 +1,11 @@
+{
+  "name": "pyragify",
+  "version": "0.2.0",
+  "summary": "A tool for processing code repositories into semantic chunks for analysis with LLMs, especiallyNotebookLM.",
+  "author": "ThomasBury",
+  "license": "The Unlicense",
+  "home_page": null,
+  "download_filename": "pyragify-0.2.0.tar.gz",
+  "download_time": "2026-04-12T19:13:06.827367",
+  "package_url": "https://pypi.org/project/pyragify/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "interactive-dependency-resolver",
+  "version": "0.1.0a2",
+  "summary": "A tool to interactively resolve Python wheel dependencies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "interactive_dependency_resolver-0.1.0a2.tar.gz",
+  "download_time": "2026-04-12T19:13:14.133918",
+  "package_url": "https://pypi.org/project/interactive-dependency-resolver/"
+}

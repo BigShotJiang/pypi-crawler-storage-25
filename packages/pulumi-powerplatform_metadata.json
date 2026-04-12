@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-powerplatform",
+  "version": "0.1.0",
+  "summary": "Pulumi SDK for Microsoft Power Platform",
+  "author": "Raphael Pothin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pulumi_powerplatform-0.1.0.tar.gz",
+  "download_time": "2026-04-12T19:12:44.215706",
+  "package_url": "https://pypi.org/project/pulumi-powerplatform/"
+}

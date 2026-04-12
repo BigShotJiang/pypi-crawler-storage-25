@@ -1,0 +1,11 @@
+{
+  "name": "bio-logic-compiler",
+  "version": "0.1.0",
+  "summary": "A Python MVP for a Bio-Logic Compiler that models neural circuits as graphs, analyzes neuron firing thresholds, and reverse-engineers Boolean logic gates from biological connectivity.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bio_logic_compiler-0.1.0.tar.gz",
+  "download_time": "2026-04-12T19:13:18.315065",
+  "package_url": "https://pypi.org/project/bio-logic-compiler/"
+}

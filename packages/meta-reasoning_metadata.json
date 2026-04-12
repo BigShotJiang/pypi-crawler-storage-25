@@ -1,11 +1,11 @@
 {
   "name": "meta-reasoning",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "summary": "Reasoning is not a property of the model — it is an emergent dynamic of external control.",
   "author": "Tommaso Bredariol",
-  "license": "MIT",
+  "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "meta_reasoning-0.0.1.tar.gz",
-  "download_time": "2026-04-11T17:22:40.470829",
+  "download_filename": "meta_reasoning-0.0.4.tar.gz",
+  "download_time": "2026-04-12T19:13:25.196324",
   "package_url": "https://pypi.org/project/meta-reasoning/"
 }
