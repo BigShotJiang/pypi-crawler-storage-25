@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-microsoft-winrm",
-  "version": "3.14.1",
+  "version": "3.14.2",
   "summary": "Provider package apache-airflow-providers-microsoft-winrm for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_microsoft_winrm-3.14.1.tar.gz",
-  "download_time": "2026-03-28T11:04:45.447997",
+  "download_filename": "apache_airflow_providers_microsoft_winrm-3.14.2.tar.gz",
+  "download_time": "2026-04-12T14:29:45.089364",
   "package_url": "https://pypi.org/project/apache-airflow-providers-microsoft-winrm/"
 }

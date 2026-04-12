@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-hashicorp",
-  "version": "4.5.1",
+  "version": "4.5.2",
   "summary": "Provider package apache-airflow-providers-hashicorp for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_hashicorp-4.5.1.tar.gz",
-  "download_time": "2026-03-28T11:04:51.088955",
+  "download_filename": "apache_airflow_providers_hashicorp-4.5.2.tar.gz",
+  "download_time": "2026-04-12T14:29:51.684663",
   "package_url": "https://pypi.org/project/apache-airflow-providers-hashicorp/"
 }

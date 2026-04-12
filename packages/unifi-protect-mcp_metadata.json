@@ -1,11 +1,11 @@
 {
   "name": "unifi-protect-mcp",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "UniFi Protect MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unifi_protect_mcp-0.3.0.tar.gz",
-  "download_time": "2026-04-07T00:01:34.335879",
+  "download_filename": "unifi_protect_mcp-0.3.1.tar.gz",
+  "download_time": "2026-04-12T14:30:04.766152",
   "package_url": "https://pypi.org/project/unifi-protect-mcp/"
 }

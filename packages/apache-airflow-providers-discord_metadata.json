@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-discord",
-  "version": "3.12.1",
+  "version": "3.12.2",
   "summary": "Provider package apache-airflow-providers-discord for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_discord-3.12.1.tar.gz",
-  "download_time": "2026-03-28T11:04:57.262908",
+  "download_filename": "apache_airflow_providers_discord-3.12.2.tar.gz",
+  "download_time": "2026-04-12T14:29:58.962202",
   "package_url": "https://pypi.org/project/apache-airflow-providers-discord/"
 }

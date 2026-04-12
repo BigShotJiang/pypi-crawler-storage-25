@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-atlassian-jira",
+  "version": "3.3.3",
+  "summary": "Provider package apache-airflow-providers-atlassian-jira for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_atlassian_jira-3.3.3.tar.gz",
+  "download_time": "2026-04-12T14:30:04.169025",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-atlassian-jira/"
+}

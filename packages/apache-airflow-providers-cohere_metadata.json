@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-cohere",
+  "version": "1.6.5",
+  "summary": "Provider package apache-airflow-providers-cohere for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_cohere-1.6.5.tar.gz",
+  "download_time": "2026-04-12T14:30:01.999741",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-cohere/"
+}

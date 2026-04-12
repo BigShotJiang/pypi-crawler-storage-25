@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-asana",
+  "version": "2.11.3",
+  "summary": "Provider package apache-airflow-providers-asana for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_asana-2.11.3.tar.gz",
+  "download_time": "2026-04-12T14:30:05.292216",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-asana/"
+}

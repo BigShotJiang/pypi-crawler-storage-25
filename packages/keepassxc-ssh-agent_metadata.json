@@ -1,0 +1,11 @@
+{
+  "name": "keepassxc-ssh-agent",
+  "version": "1.1.2",
+  "summary": "SSH IdentityAgent proxy that triggers KeePassXC database unlock via TouchID",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "keepassxc_ssh_agent-1.1.2.tar.gz",
+  "download_time": "2026-04-12T14:29:27.987302",
+  "package_url": "https://pypi.org/project/keepassxc-ssh-agent/"
+}

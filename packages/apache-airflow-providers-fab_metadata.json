@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-fab",
-  "version": "3.6.0",
+  "version": "3.6.1",
   "summary": "Provider package apache-airflow-providers-fab for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_fab-3.6.0.tar.gz",
-  "download_time": "2026-03-28T11:04:54.691043",
+  "download_filename": "apache_airflow_providers_fab-3.6.1.tar.gz",
+  "download_time": "2026-04-12T14:29:55.808032",
   "package_url": "https://pypi.org/project/apache-airflow-providers-fab/"
 }

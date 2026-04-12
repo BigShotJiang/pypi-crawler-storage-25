@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-arangodb",
+  "version": "2.9.4",
+  "summary": "Provider package apache-airflow-providers-arangodb for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_arangodb-2.9.4.tar.gz",
+  "download_time": "2026-04-12T14:30:06.400084",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-arangodb/"
+}
