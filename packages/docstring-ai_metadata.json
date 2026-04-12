@@ -1,0 +1,11 @@
+{
+  "name": "docstring-ai",
+  "version": "1.0.0",
+  "summary": "AI-powered docstring generator for Python codebases. Batch-generates Google, NumPy, or Sphinx docstrings. Preserves existing docs. CI-ready.",
+  "author": "Linda Oraegbunam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docstring_ai-1.0.0.tar.gz",
+  "download_time": "2026-04-12T23:23:24.415765",
+  "package_url": "https://pypi.org/project/docstring-ai/"
+}

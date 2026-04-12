@@ -1,0 +1,11 @@
+{
+  "name": "tool-registry-py",
+  "version": "1.0.0",
+  "summary": "Typed tool catalogue for LLM agents. Register, discover, validate, and export tools to Anthropic/OpenAI format. Zero dependencies.",
+  "author": "Linda Oraegbunam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tool_registry_py-1.0.0.tar.gz",
+  "download_time": "2026-04-12T23:23:14.611537",
+  "package_url": "https://pypi.org/project/tool-registry-py/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vaultak",
-  "version": "0.1.0",
+  "version": "0.6.0",
   "summary": "Real-time behavioral kill switch for AI agents",
   "author": "Samuel Oladji",
   "license": null,
   "home_page": "https://github.com/samueloladji-beep/Agentbreaker-",
-  "download_filename": "vaultak-0.1.0.tar.gz",
-  "download_time": "2026-04-04T09:09:15.043399",
+  "download_filename": "vaultak-0.6.0.tar.gz",
+  "download_time": "2026-04-12T23:23:33.099980",
   "package_url": "https://pypi.org/project/vaultak/"
 }

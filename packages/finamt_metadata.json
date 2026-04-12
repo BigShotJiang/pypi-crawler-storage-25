@@ -1,11 +1,11 @@
 {
   "name": "finamt",
-  "version": "0.14.1",
+  "version": "0.15.0",
   "summary": "An agentic Python library for extracting key information from receipts and preparing essential German tax return statements.",
   "author": "Yauheniya Varabyova",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "finamt-0.14.1.tar.gz",
-  "download_time": "2026-04-06T18:15:47.660027",
+  "download_filename": "finamt-0.15.0.tar.gz",
+  "download_time": "2026-04-12T23:23:13.551584",
   "package_url": "https://pypi.org/project/finamt/"
 }

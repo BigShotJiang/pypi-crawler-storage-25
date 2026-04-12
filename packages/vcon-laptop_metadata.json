@@ -1,0 +1,11 @@
+{
+  "name": "vcon-laptop",
+  "version": "0.1.0",
+  "summary": "Record laptop activity (screenshots, audio, webcam) into spec-compliant vCon objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vcon_laptop-0.1.0.tar.gz",
+  "download_time": "2026-04-12T23:23:28.164307",
+  "package_url": "https://pypi.org/project/vcon-laptop/"
+}

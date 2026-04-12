@@ -1,11 +1,11 @@
 {
   "name": "blackswan",
-  "version": "0.1.1",
+  "version": "0.4.0",
   "summary": "Stress-test mathematical and financial logic in Python code — find the exact line where models break.",
   "author": "Ryan Qi",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "blackswan-0.1.1.tar.gz",
-  "download_time": "2026-04-09T02:15:40.946972",
+  "download_filename": "blackswan-0.4.0.tar.gz",
+  "download_time": "2026-04-12T23:22:52.970769",
   "package_url": "https://pypi.org/project/blackswan/"
 }

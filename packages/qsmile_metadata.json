@@ -1,11 +1,11 @@
 {
   "name": "qsmile",
-  "version": "0.0.1rc2",
+  "version": "0.0.1rc4",
   "summary": "Volatility Smile Modelling",
   "author": "Mark Richardson",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qsmile-0.0.1rc2.tar.gz",
-  "download_time": "2026-03-28T10:31:15.982810",
+  "download_filename": "qsmile-0.0.1rc4.tar.gz",
+  "download_time": "2026-04-12T23:23:32.577412",
   "package_url": "https://pypi.org/project/qsmile/"
 }

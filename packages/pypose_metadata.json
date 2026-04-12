@@ -1,0 +1,11 @@
+{
+  "name": "pypose",
+  "version": "0.9.5",
+  "summary": "A library for differentiable robotics on manifolds.",
+  "author": "Chen Wang and PyPose Team",
+  "license": "Apache License 2.0",
+  "home_page": "https://pypose.org",
+  "download_filename": "pypose-0.9.5.tar.gz",
+  "download_time": "2026-04-12T23:23:19.434298",
+  "package_url": "https://pypi.org/project/pypose/"
+}

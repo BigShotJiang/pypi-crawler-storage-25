@@ -1,0 +1,11 @@
+{
+  "name": "amifuse",
+  "version": "0.5.0",
+  "summary": "Mount Amiga filesystem images via FUSE using native AmigaOS handlers",
+  "author": "Stefan Reinauer",
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "amifuse-0.5.0.tar.gz",
+  "download_time": "2026-04-12T23:23:17.815055",
+  "package_url": "https://pypi.org/project/amifuse/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "djust",
+  "version": "0.4.1",
+  "summary": "Phoenix LiveView-style reactive components for Django with Rust-powered performance. Real-time UI updates over WebSocket, no JavaScript build step required.",
+  "author": "djust contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "djust-0.4.1.tar.gz",
+  "download_time": "2026-04-12T23:23:21.135940",
+  "package_url": "https://pypi.org/project/djust/"
+}

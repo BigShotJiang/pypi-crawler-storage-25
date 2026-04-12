@@ -1,0 +1,11 @@
+{
+  "name": "synthetic-dataset-gen",
+  "version": "1.0.0",
+  "summary": "Generate synthetic training data for ML pipelines. Q&A pairs, classification examples, tabular data, and instruction-following datasets. Anthropic-powered.",
+  "author": "Linda Oraegbunam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "synthetic_dataset_gen-1.0.0.tar.gz",
+  "download_time": "2026-04-12T23:23:04.293699",
+  "package_url": "https://pypi.org/project/synthetic-dataset-gen/"
+}

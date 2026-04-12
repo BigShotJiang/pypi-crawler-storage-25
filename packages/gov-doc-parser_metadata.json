@@ -1,0 +1,11 @@
+{
+  "name": "gov-doc-parser",
+  "version": "1.0.0",
+  "summary": "Parse and extract structured data from UK government documents — GOV.UK, Hansard, ICO, FCA, BAILII, and ATRS. Research and governance analysis toolkit.",
+  "author": "Linda Oraegbunam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gov_doc_parser-1.0.0.tar.gz",
+  "download_time": "2026-04-12T23:23:00.215729",
+  "package_url": "https://pypi.org/project/gov-doc-parser/"
+}

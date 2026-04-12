@@ -1,0 +1,11 @@
+{
+  "name": "llm-agent-bench",
+  "version": "1.0.0",
+  "summary": "Benchmark autonomous AI agents on task completion, tool use, goal adherence, and safety. Works with any agent — just provide a callable.",
+  "author": "Linda Oraegbunam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_agent_bench-1.0.0.tar.gz",
+  "download_time": "2026-04-12T23:23:30.368312",
+  "package_url": "https://pypi.org/project/llm-agent-bench/"
+}

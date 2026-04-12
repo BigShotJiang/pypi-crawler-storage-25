@@ -1,11 +1,11 @@
 {
   "name": "smriti-memcore",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A neuro-inspired memory architecture for AI agents — combines a Semantic Palace graph, capacity-bounded Working Memory, and asynchronous consolidation.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "smriti_memcore-1.0.3.tar.gz",
-  "download_time": "2026-04-12T22:45:33.582709",
+  "download_filename": "smriti_memcore-1.0.4.tar.gz",
+  "download_time": "2026-04-12T23:23:02.673747",
   "package_url": "https://pypi.org/project/smriti-memcore/"
 }

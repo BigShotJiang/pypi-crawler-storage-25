@@ -1,0 +1,11 @@
+{
+  "name": "meetscribe-offline",
+  "version": "0.3.3",
+  "summary": "Fully local meeting transcription with speaker diarization, AI summaries, and PDF output",
+  "author": "pretyflaco",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "meetscribe_offline-0.3.3.tar.gz",
+  "download_time": "2026-04-12T23:23:31.494285",
+  "package_url": "https://pypi.org/project/meetscribe-offline/"
+}

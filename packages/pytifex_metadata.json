@@ -1,0 +1,11 @@
+{
+  "name": "pytifex",
+  "version": "0.1.5",
+  "summary": "Automated mutation-based differential testing for Python type checkers",
+  "author": "Benedek Kaibas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytifex-0.1.5.tar.gz",
+  "download_time": "2026-04-12T23:23:39.924119",
+  "package_url": "https://pypi.org/project/pytifex/"
+}
