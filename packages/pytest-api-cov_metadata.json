@@ -1,11 +1,11 @@
 {
   "name": "pytest-api-cov",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "summary": "Pytest Plugin to provide API Coverage statistics for Python Web Frameworks",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pytest_api_cov-1.3.4.tar.gz",
-  "download_time": "2026-04-12T22:02:44.229669",
+  "download_filename": "pytest_api_cov-1.3.5.tar.gz",
+  "download_time": "2026-04-12T22:45:46.708081",
   "package_url": "https://pypi.org/project/pytest-api-cov/"
 }

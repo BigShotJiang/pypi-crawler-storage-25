@@ -1,0 +1,11 @@
+{
+  "name": "rpi-display-core",
+  "version": "1.1.2",
+  "summary": "Python display framework for Raspberry Pi, currently focused on SSD1306 and SH1106 OLEDs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rpi_display_core-1.1.2.tar.gz",
+  "download_time": "2026-04-12T22:45:20.783864",
+  "package_url": "https://pypi.org/project/rpi-display-core/"
+}

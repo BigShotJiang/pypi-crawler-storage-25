@@ -1,0 +1,11 @@
+{
+  "name": "devharness",
+  "version": "0.1.0",
+  "summary": "Control plane for long-running coding and ops agents",
+  "author": "Colt Mercer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "devharness-0.1.0.tar.gz",
+  "download_time": "2026-04-12T22:45:22.881655",
+  "package_url": "https://pypi.org/project/devharness/"
+}

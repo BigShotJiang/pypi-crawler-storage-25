@@ -1,11 +1,11 @@
 {
   "name": "hexchess-zero",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Glinski hexagonal chess engine with AlphaZero-style training",
   "author": "Kevin Zhang",
   "license": null,
   "home_page": null,
-  "download_filename": "hexchess_zero-0.0.2.tar.gz",
-  "download_time": "2026-04-07T06:55:19.393583",
+  "download_filename": "hexchess_zero-0.0.3.tar.gz",
+  "download_time": "2026-04-12T22:45:39.332389",
   "package_url": "https://pypi.org/project/hexchess-zero/"
 }

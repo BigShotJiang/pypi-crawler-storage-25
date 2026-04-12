@@ -1,0 +1,11 @@
+{
+  "name": "corpus-quality",
+  "version": "1.0.0",
+  "summary": "Document quality profiler for ML pipelines. Score, deduplicate, and validate your corpus before embedding. Zero mandatory dependencies.",
+  "author": "Linda Oraegbunam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "corpus_quality-1.0.0.tar.gz",
+  "download_time": "2026-04-12T22:45:07.063823",
+  "package_url": "https://pypi.org/project/corpus-quality/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-super-model",
+  "version": "2.0.0",
+  "summary": "Lightweight mixin for generic introspection and Annotated field lookup",
+  "author": "Julien Kmec",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pydantic_super_model-2.0.0.tar.gz",
+  "download_time": "2026-04-12T22:45:05.499763",
+  "package_url": "https://pypi.org/project/pydantic-super-model/"
+}

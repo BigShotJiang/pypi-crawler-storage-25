@@ -1,0 +1,11 @@
+{
+  "name": "caido-sdk-client",
+  "version": "0.2.0",
+  "summary": "Client SDK for interacting with a Caido instance",
+  "author": "Caido Labs Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "caido_sdk_client-0.2.0.tar.gz",
+  "download_time": "2026-04-12T22:45:35.153592",
+  "package_url": "https://pypi.org/project/caido-sdk-client/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyworkflow-engine",
-  "version": "0.2.11",
+  "version": "0.2.13",
   "summary": "A Python implementation of durable, event-sourced workflows inspired by Vercel Workflow",
   "author": "PyWorkflow Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyworkflow_engine-0.2.11.tar.gz",
-  "download_time": "2026-04-08T19:46:07.881230",
+  "download_filename": "pyworkflow_engine-0.2.13.tar.gz",
+  "download_time": "2026-04-12T22:45:11.790264",
   "package_url": "https://pypi.org/project/pyworkflow-engine/"
 }

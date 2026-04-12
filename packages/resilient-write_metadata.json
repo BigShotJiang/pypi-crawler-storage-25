@@ -1,0 +1,11 @@
+{
+  "name": "resilient-write",
+  "version": "0.1.1",
+  "summary": "MCP server providing a durable, fault-tolerant write surface for coding agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "resilient_write-0.1.1.tar.gz",
+  "download_time": "2026-04-12T22:45:03.274440",
+  "package_url": "https://pypi.org/project/resilient-write/"
+}

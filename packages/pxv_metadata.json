@@ -1,0 +1,11 @@
+{
+  "name": "pxv",
+  "version": "1.0.0",
+  "summary": "A Python clone of the classic Unix xv image viewer",
+  "author": "Sean Reifschneider",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pxv-1.0.0.tar.gz",
+  "download_time": "2026-04-12T22:45:42.507720",
+  "package_url": "https://pypi.org/project/pxv/"
+}

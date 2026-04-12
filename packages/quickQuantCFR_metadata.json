@@ -1,11 +1,11 @@
 {
   "name": "quickQuantCFR",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "A simple quantitative finance library for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quickquantcfr-1.1.1.tar.gz",
-  "download_time": "2026-04-12T00:08:33.277136",
+  "download_filename": "quickquantcfr-1.2.0.tar.gz",
+  "download_time": "2026-04-12T22:45:38.809565",
   "package_url": "https://pypi.org/project/quickQuantCFR/"
 }
