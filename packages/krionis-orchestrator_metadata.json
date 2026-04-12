@@ -1,0 +1,11 @@
+{
+  "name": "krionis-orchestrator",
+  "version": "1.0.2",
+  "summary": "Krionis Orchestrator - agent lifecycle, routing, and telemetry on top of Krionis Pipeline",
+  "author": "pkbythebay29",
+  "license": null,
+  "home_page": "https://github.com/pkbythebay29/krionis-platform",
+  "download_filename": "krionis_orchestrator-1.0.2.tar.gz",
+  "download_time": "2026-04-12T07:17:55.387096",
+  "package_url": "https://pypi.org/project/krionis-orchestrator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lektor-rst",
+  "version": "0.4.0",
+  "summary": "Adds reStructuredText support to Lektor.",
+  "author": "Florian Schulze",
+  "license": "MIT",
+  "home_page": "http://github.com/fschulze/lektor-rst",
+  "download_filename": "lektor_rst-0.4.0-py3-none-any.whl",
+  "download_time": "2026-04-12T07:17:48.689016",
+  "package_url": "https://pypi.org/project/lektor-rst/"
+}

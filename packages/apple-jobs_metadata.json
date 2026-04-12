@@ -1,0 +1,11 @@
+{
+  "name": "apple-jobs",
+  "version": "0.1.1",
+  "summary": "A clean Python client for Apple's career job listings. No API key, no headless browser, no scraping service.",
+  "author": "Michael Danylchuk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apple_jobs-0.1.1.tar.gz",
+  "download_time": "2026-04-12T07:17:58.121808",
+  "package_url": "https://pypi.org/project/apple-jobs/"
+}

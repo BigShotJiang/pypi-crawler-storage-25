@@ -1,0 +1,11 @@
+{
+  "name": "krionis-pipeline",
+  "version": "1.0.2",
+  "summary": "Krionis Pipeline - multimodal RAG pipeline for low-compute, local, real-world deployment",
+  "author": "pkbythebay29",
+  "license": null,
+  "home_page": "https://github.com/pkbythebay29/krionis-platform",
+  "download_filename": "krionis_pipeline-1.0.2.tar.gz",
+  "download_time": "2026-04-12T07:17:55.956787",
+  "package_url": "https://pypi.org/project/krionis-pipeline/"
+}

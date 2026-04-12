@@ -1,0 +1,11 @@
+{
+  "name": "synaptic-memory",
+  "version": "0.12.0",
+  "summary": "Brain-inspired knowledge graph for LLM agents — PPR, evidence chain, auto-ontology (rule/embedding/LLM), Hebbian learning, memory consolidation.",
+  "author": "Son Seongjun",
+  "license": null,
+  "home_page": null,
+  "download_filename": "synaptic_memory-0.12.0.tar.gz",
+  "download_time": "2026-04-12T07:18:16.037531",
+  "package_url": "https://pypi.org/project/synaptic-memory/"
+}

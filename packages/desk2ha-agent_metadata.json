@@ -1,11 +1,11 @@
 {
   "name": "desk2ha-agent",
-  "version": "0.8.3",
+  "version": "0.9.0",
   "summary": "Multi-vendor desktop telemetry agent for Home Assistant",
   "author": "maximusIIxII",
   "license": null,
   "home_page": null,
-  "download_filename": "desk2ha_agent-0.8.3.tar.gz",
-  "download_time": "2026-04-09T21:48:07.487609",
+  "download_filename": "desk2ha_agent-0.9.0.tar.gz",
+  "download_time": "2026-04-12T07:17:48.180256",
   "package_url": "https://pypi.org/project/desk2ha-agent/"
 }
