@@ -1,11 +1,11 @@
 {
   "name": "swt3-ai",
-  "version": "0.2.6",
+  "version": "0.2.8",
   "summary": "SWT3 AI Witness SDK: cryptographic attestation for AI inference",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "swt3_ai-0.2.6.tar.gz",
-  "download_time": "2026-04-11T20:55:50.853675",
+  "download_filename": "swt3_ai-0.2.8.tar.gz",
+  "download_time": "2026-04-12T12:07:53.252764",
   "package_url": "https://pypi.org/project/swt3-ai/"
 }

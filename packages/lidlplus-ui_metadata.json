@@ -1,0 +1,11 @@
+{
+  "name": "lidlplus-ui",
+  "version": "0.0.3",
+  "summary": "Desktop version of the Lidl Plus mobile app using my own implementation of the Lidl Plus api.",
+  "author": "Zsombor Kalmar",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "lidlplus_ui-0.0.3.tar.gz",
+  "download_time": "2026-04-12T12:08:13.023205",
+  "package_url": "https://pypi.org/project/lidlplus-ui/"
+}

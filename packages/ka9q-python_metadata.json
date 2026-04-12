@@ -1,0 +1,11 @@
+{
+  "name": "ka9q-python",
+  "version": "3.7.0",
+  "summary": "Python interface for ka9q-radio control and monitoring",
+  "author": "Michael Hauan AC0G",
+  "license": "MIT",
+  "home_page": "https://github.com/mijahauan/ka9q-python",
+  "download_filename": "ka9q_python-3.7.0.tar.gz",
+  "download_time": "2026-04-12T12:07:50.347072",
+  "package_url": "https://pypi.org/project/ka9q-python/"
+}

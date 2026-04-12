@@ -1,11 +1,11 @@
 {
   "name": "file-size-splitter",
-  "version": "0.1.1",
+  "version": "0.1.8",
   "summary": "ファイルを指定されたサイズで分割し、分割したファイルを復元するツール",
   "author": "momoandbanana22",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "file_size_splitter-0.1.1.tar.gz",
-  "download_time": "2026-04-12T10:05:21.902591",
+  "download_filename": "file_size_splitter-0.1.8.tar.gz",
+  "download_time": "2026-04-12T12:07:52.669347",
   "package_url": "https://pypi.org/project/file-size-splitter/"
 }

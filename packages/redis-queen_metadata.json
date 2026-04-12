@@ -1,0 +1,11 @@
+{
+  "name": "redis-queen",
+  "version": "0.2.1",
+  "summary": "Redis schema migration tool with Pydantic model tracking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "redis_queen-0.2.1.tar.gz",
+  "download_time": "2026-04-12T12:08:11.246949",
+  "package_url": "https://pypi.org/project/redis-queen/"
+}

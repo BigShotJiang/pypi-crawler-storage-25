@@ -1,11 +1,11 @@
 {
   "name": "PMichrophone",
-  "version": "0.1.3",
-  "summary": "Microphone utilities using sounddevice",
+  "version": "0.1.8",
+  "summary": "Microphone utilities using sounddevice and soundfile",
   "author": "cradzy",
   "license": null,
   "home_page": null,
-  "download_filename": "pmichrophone-0.1.3.tar.gz",
-  "download_time": "2026-04-12T10:05:24.043658",
+  "download_filename": "pmichrophone-0.1.8.tar.gz",
+  "download_time": "2026-04-12T12:08:02.488055",
   "package_url": "https://pypi.org/project/PMichrophone/"
 }

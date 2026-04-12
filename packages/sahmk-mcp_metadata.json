@@ -1,0 +1,11 @@
+{
+  "name": "sahmk-mcp",
+  "version": "0.1.1",
+  "summary": "Official MCP server for Sahmk — AI agent access to Saudi market data, company profiles, and historical market data.",
+  "author": "Sahmk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sahmk_mcp-0.1.1.tar.gz",
+  "download_time": "2026-04-12T12:08:03.066876",
+  "package_url": "https://pypi.org/project/sahmk-mcp/"
+}

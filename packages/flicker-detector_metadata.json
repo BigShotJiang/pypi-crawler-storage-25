@@ -1,0 +1,11 @@
+{
+  "name": "flicker-detector",
+  "version": "1.0.0",
+  "summary": "Flicker / flash anomaly detector. Use extra [cpu] for the Windows x64 CPU backend; [gpu] will be added when flicker-detector-gpu is published.",
+  "author": "internal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flicker_detector-1.0.0.tar.gz",
+  "download_time": "2026-04-12T12:08:16.735198",
+  "package_url": "https://pypi.org/project/flicker-detector/"
+}

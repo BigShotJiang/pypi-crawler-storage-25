@@ -1,0 +1,11 @@
+{
+  "name": "vnstock-mcp-advanced",
+  "version": "0.2.3",
+  "summary": "MCP server exposing Vietnamese stock market data via vnstock libraries",
+  "author": "pqhung3007",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vnstock_mcp_advanced-0.2.3.tar.gz",
+  "download_time": "2026-04-12T12:08:19.134517",
+  "package_url": "https://pypi.org/project/vnstock-mcp-advanced/"
+}

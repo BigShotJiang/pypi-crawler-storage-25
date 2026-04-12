@@ -1,11 +1,11 @@
 {
   "name": "boosty-downloader",
-  "version": "2.1.2",
+  "version": "2.2.0",
   "summary": "Download any type of content from boosty.to",
   "author": "Roman Berezkin",
   "license": null,
   "home_page": null,
-  "download_filename": "boosty_downloader-2.1.2.tar.gz",
-  "download_time": "2026-04-11T16:41:01.770362",
+  "download_filename": "boosty_downloader-2.2.0.tar.gz",
+  "download_time": "2026-04-12T12:07:48.360314",
   "package_url": "https://pypi.org/project/boosty-downloader/"
 }

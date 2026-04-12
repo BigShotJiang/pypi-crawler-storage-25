@@ -1,0 +1,11 @@
+{
+  "name": "xraylib-mcp-server",
+  "version": "0.1.3",
+  "summary": "Model Context Protocol server for xraylib X-ray interaction data",
+  "author": "Tom Schoonjans",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "xraylib_mcp_server-0.1.3.tar.gz",
+  "download_time": "2026-04-12T12:07:56.043334",
+  "package_url": "https://pypi.org/project/xraylib-mcp-server/"
+}
