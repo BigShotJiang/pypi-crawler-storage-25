@@ -1,11 +1,11 @@
 {
   "name": "cc-guardian",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "Security gateway for Claude Code traffic",
   "author": "Kun Yuan",
   "license": null,
   "home_page": null,
-  "download_filename": "cc_guardian-0.0.5.tar.gz",
-  "download_time": "2026-04-10T10:13:07.660343",
+  "download_filename": "cc_guardian-0.0.7.tar.gz",
+  "download_time": "2026-04-12T15:56:52.729251",
   "package_url": "https://pypi.org/project/cc-guardian/"
 }

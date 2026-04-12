@@ -1,11 +1,11 @@
 {
   "name": "phoenix-os",
-  "version": "0.3.3",
+  "version": "0.3.5",
   "summary": "An AI that feels like it knows you -- cognitive architecture with memory as the nervous system.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "phoenix_os-0.3.3.tar.gz",
-  "download_time": "2026-04-12T15:08:53.758674",
+  "download_filename": "phoenix_os-0.3.5.tar.gz",
+  "download_time": "2026-04-12T15:56:50.683507",
   "package_url": "https://pypi.org/project/phoenix-os/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-dns-resolver",
+  "version": "1.0.0",
+  "summary": "DNS resolver tester — measure resolution time, test DNSSEC, compare resolvers, and detect DNS issues",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_dns_resolver-1.0.0.tar.gz",
+  "download_time": "2026-04-12T15:56:54.268491",
+  "package_url": "https://pypi.org/project/dargslan-dns-resolver/"
+}

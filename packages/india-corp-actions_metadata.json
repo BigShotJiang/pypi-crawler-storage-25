@@ -1,0 +1,11 @@
+{
+  "name": "india-corp-actions",
+  "version": "0.2.0",
+  "summary": "Fetch Indian stock market corporate actions from NSE and BSE India. Free, no API keys required.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "india_corp_actions-0.2.0.tar.gz",
+  "download_time": "2026-04-12T15:56:57.889565",
+  "package_url": "https://pypi.org/project/india-corp-actions/"
+}

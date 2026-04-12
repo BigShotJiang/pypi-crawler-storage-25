@@ -1,0 +1,11 @@
+{
+  "name": "asmdetect",
+  "version": "1.0.0",
+  "summary": "Assembly-level malware detection using fine-tuned CodeBERT",
+  "author": "Swarnadharshini S",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "asmdetect-1.0.0.tar.gz",
+  "download_time": "2026-04-12T15:56:54.781704",
+  "package_url": "https://pypi.org/project/asmdetect/"
+}

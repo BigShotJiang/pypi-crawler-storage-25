@@ -1,11 +1,11 @@
 {
   "name": "varity",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Recursive self-checking for LLM hallucination reduction via Verdict Stability Score (VSS)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "varity-0.1.6.tar.gz",
-  "download_time": "2026-04-12T15:09:11.086884",
+  "download_filename": "varity-0.1.8.tar.gz",
+  "download_time": "2026-04-12T15:56:57.375153",
   "package_url": "https://pypi.org/project/varity/"
 }

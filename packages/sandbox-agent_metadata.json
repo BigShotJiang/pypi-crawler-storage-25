@@ -1,11 +1,11 @@
 {
   "name": "sandbox-agent",
-  "version": "0.0.3",
+  "version": "0.0.8",
   "summary": "Run LLM agents inside disposable Docker sandboxes.",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "sandbox_agent-0.0.3.tar.gz",
-  "download_time": "2026-04-07T09:38:51.983522",
+  "download_filename": "sandbox_agent-0.0.8.tar.gz",
+  "download_time": "2026-04-12T15:56:47.058305",
   "package_url": "https://pypi.org/project/sandbox-agent/"
 }

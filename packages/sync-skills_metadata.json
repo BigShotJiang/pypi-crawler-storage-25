@@ -1,11 +1,11 @@
 {
   "name": "sync-skills",
-  "version": "0.5.20260412.1",
+  "version": "0.5.20260412.2",
   "summary": "自定义 Skill 生命周期管理器 — 基于 git + symlink 管理 AI coding agent skills",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sync_skills-0.5.20260412.1.tar.gz",
-  "download_time": "2026-04-12T15:08:29.163806",
+  "download_filename": "sync_skills-0.5.20260412.2.tar.gz",
+  "download_time": "2026-04-12T15:57:29.844252",
   "package_url": "https://pypi.org/project/sync-skills/"
 }

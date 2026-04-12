@@ -1,0 +1,11 @@
+{
+  "name": "spectral-model-explainer",
+  "version": "0.1.1",
+  "summary": "A python library for spectral-zone-level explanations in machine learning models trained on spectral data (XRF, GRSm Raman, etc.)",
+  "author": "Ribeiro Jose Vinicius",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spectral_model_explainer-0.1.1.tar.gz",
+  "download_time": "2026-04-12T15:57:12.267805",
+  "package_url": "https://pypi.org/project/spectral-model-explainer/"
+}
