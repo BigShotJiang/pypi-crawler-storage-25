@@ -1,11 +1,11 @@
 {
   "name": "summary-stack-mcp-core",
-  "version": "2026.4.10.1900",
+  "version": "2026.4.12.1756",
   "summary": "Core MCP tools for Summary Stack search and discovery",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "summary_stack_mcp_core-2026.4.10.1900.tar.gz",
-  "download_time": "2026-04-12T17:24:45.118975",
+  "download_filename": "summary_stack_mcp_core-2026.4.12.1756.tar.gz",
+  "download_time": "2026-04-12T18:05:13.458543",
   "package_url": "https://pypi.org/project/summary-stack-mcp-core/"
 }

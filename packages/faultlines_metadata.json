@@ -1,11 +1,11 @@
 {
   "name": "faultlines",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Map features in any codebase from git history alone. No Jira required.",
   "author": "Faultlines",
   "license": null,
   "home_page": null,
-  "download_filename": "faultlines-0.3.0.tar.gz",
-  "download_time": "2026-04-11T16:40:49.408524",
+  "download_filename": "faultlines-0.4.0.tar.gz",
+  "download_time": "2026-04-12T18:05:07.975118",
   "package_url": "https://pypi.org/project/faultlines/"
 }

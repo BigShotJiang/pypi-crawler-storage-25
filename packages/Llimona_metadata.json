@@ -1,11 +1,11 @@
 {
   "name": "Llimona",
-  "version": "0.1.0.dev0",
+  "version": "0.1.0b2",
   "summary": "Open and modular framework for building observable LLM gateways with OpenAI-compatible APIs and pluggable providers.",
   "author": "Alfred",
   "license": null,
   "home_page": null,
-  "download_filename": "llimona-0.1.0.dev0.tar.gz",
-  "download_time": "2026-04-12T17:24:55.093780",
+  "download_filename": "llimona-0.1.0b2.tar.gz",
+  "download_time": "2026-04-12T18:04:55.892374",
   "package_url": "https://pypi.org/project/Llimona/"
 }

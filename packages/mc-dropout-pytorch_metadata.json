@@ -1,11 +1,11 @@
 {
   "name": "mc-dropout-pytorch",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MC Dropout (Gal & Ghahramani, 2016) - Pytorch",
-  "author": "lucidrains",
+  "author": "MohamedFarag21",
   "license": "MIT",
   "home_page": "https://github.com/lucidrains/mc-dropout-pytorch",
-  "download_filename": "mc_dropout_pytorch-0.1.1.tar.gz",
-  "download_time": "2026-04-11T14:40:51.938592",
+  "download_filename": "mc_dropout_pytorch-0.1.2.tar.gz",
+  "download_time": "2026-04-12T18:05:34.460626",
   "package_url": "https://pypi.org/project/mc-dropout-pytorch/"
 }

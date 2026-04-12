@@ -1,11 +1,11 @@
 {
   "name": "fem2geo",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Physics-based Modeling to Structural Geology and Seismology",
   "author": "Felipe Sáez, Muriel Gerbault, Cécile Massiot, Javiera Ruz, Gabriela Zañartu, Diego Torres, José Cembrano",
   "license": null,
   "home_page": null,
-  "download_filename": "fem2geo-0.4.0.tar.gz",
-  "download_time": "2026-04-11T19:39:02.458926",
+  "download_filename": "fem2geo-0.4.1.tar.gz",
+  "download_time": "2026-04-12T18:05:39.173748",
   "package_url": "https://pypi.org/project/fem2geo/"
 }

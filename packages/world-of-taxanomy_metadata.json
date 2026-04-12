@@ -1,0 +1,11 @@
+{
+  "name": "world-of-taxanomy",
+  "version": "0.2.0",
+  "summary": "36-system open taxonomy knowledge graph: industry, geography, product, occupation, education, health, regulation - all connected by crosswalk edges.",
+  "author": "ramdhanyk",
+  "license": "MIT",
+  "home_page": "https://github.com/colaberry/WorldOfTaxanomy",
+  "download_filename": "world_of_taxanomy-0.2.0.tar.gz",
+  "download_time": "2026-04-12T18:05:44.945229",
+  "package_url": "https://pypi.org/project/world-of-taxanomy/"
+}

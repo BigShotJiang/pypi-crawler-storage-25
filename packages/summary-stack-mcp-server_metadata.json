@@ -1,11 +1,11 @@
 {
   "name": "summary-stack-mcp-server",
-  "version": "0.1.0",
+  "version": "2026.4.12.1756",
   "summary": "MCP server exposing Summary Stack core tools",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "summary_stack_mcp_server-0.1.0.tar.gz",
-  "download_time": "2026-04-12T17:24:44.578980",
+  "download_filename": "summary_stack_mcp_server-2026.4.12.1756.tar.gz",
+  "download_time": "2026-04-12T18:05:12.899051",
   "package_url": "https://pypi.org/project/summary-stack-mcp-server/"
 }

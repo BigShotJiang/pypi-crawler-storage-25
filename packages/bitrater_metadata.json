@@ -1,0 +1,11 @@
+{
+  "name": "bitrater",
+  "version": "0.1.4",
+  "summary": "Audio quality analysis and bitrate detection, with optional beets plugin",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bitrater-0.1.4.tar.gz",
+  "download_time": "2026-04-12T18:05:19.626510",
+  "package_url": "https://pypi.org/project/bitrater/"
+}

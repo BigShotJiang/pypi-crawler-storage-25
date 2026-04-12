@@ -1,0 +1,11 @@
+{
+  "name": "faststream-redis-timers",
+  "version": "0.1.1",
+  "summary": "FastStream broker integration for Redis-backed distributed timer scheduling",
+  "author": "Artur Shiriev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "faststream_redis_timers-0.1.1.tar.gz",
+  "download_time": "2026-04-12T18:05:27.827103",
+  "package_url": "https://pypi.org/project/faststream-redis-timers/"
+}

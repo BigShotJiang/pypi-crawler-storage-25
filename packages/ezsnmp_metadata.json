@@ -1,0 +1,11 @@
+{
+  "name": "ezsnmp",
+  "version": "2.2.0",
+  "summary": "A blazingly fast and Pythonic SNMP library based on the official Net-SNMP bindings. We use SWIG to generate the wrapper code for us.",
+  "author": "Carlos Santos",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/carlkidcrypto/ezsnmp",
+  "download_filename": "ezsnmp-2.2.0.tar.gz",
+  "download_time": "2026-04-12T18:05:31.683701",
+  "package_url": "https://pypi.org/project/ezsnmp/"
+}

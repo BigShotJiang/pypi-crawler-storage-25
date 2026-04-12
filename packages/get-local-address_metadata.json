@@ -1,0 +1,11 @@
+{
+  "name": "get-local-address",
+  "version": "0.1.0a1",
+  "summary": "A simple utility to determine the local IP address that would be used to communicate with a specified remote UDP server.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "get_local_address-0.1.0a1.tar.gz",
+  "download_time": "2026-04-12T18:04:57.035632",
+  "package_url": "https://pypi.org/project/get-local-address/"
+}
