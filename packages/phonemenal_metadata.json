@@ -1,0 +1,11 @@
+{
+  "name": "phonemenal",
+  "version": "0.2.0",
+  "summary": "General-purpose phonetic similarity detection — homophones, near-homophones, and sound-alike analysis",
+  "author": "Justin Ibarra (br0k3ns0und)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "phonemenal-0.2.0.tar.gz",
+  "download_time": "2026-04-12T20:40:11.000520",
+  "package_url": "https://pypi.org/project/phonemenal/"
+}

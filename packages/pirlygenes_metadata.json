@@ -1,11 +1,11 @@
 {
   "name": "pirlygenes",
-  "version": "3.17.0",
+  "version": "3.20.1",
   "summary": "Gene lists for cancer immunotherapy expression analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pirlygenes-3.17.0.tar.gz",
-  "download_time": "2026-04-10T11:17:39.628369",
+  "download_filename": "pirlygenes-3.20.1.tar.gz",
+  "download_time": "2026-04-12T20:39:59.265094",
   "package_url": "https://pypi.org/project/pirlygenes/"
 }

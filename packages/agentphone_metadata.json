@@ -1,11 +1,11 @@
 {
   "name": "agentphone",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "AgentPhone Python SDK — give your AI agents phone numbers, SMS, and voice calls",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentphone-0.3.0.tar.gz",
-  "download_time": "2026-03-31T17:41:49.969659",
+  "download_filename": "agentphone-0.5.0.tar.gz",
+  "download_time": "2026-04-12T20:39:37.412078",
   "package_url": "https://pypi.org/project/agentphone/"
 }

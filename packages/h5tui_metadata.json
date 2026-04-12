@@ -1,0 +1,11 @@
+{
+  "name": "h5tui",
+  "version": "1.0.1",
+  "summary": "Vim-style terminal UI for browsing, plotting, and inspecting HDF5 files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "h5tui-1.0.1.tar.gz",
+  "download_time": "2026-04-12T20:39:38.519899",
+  "package_url": "https://pypi.org/project/h5tui/"
+}

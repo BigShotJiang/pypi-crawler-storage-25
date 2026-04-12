@@ -1,0 +1,11 @@
+{
+  "name": "mcp-coder-utils",
+  "version": "0.1.3",
+  "summary": "Shared low-level Python helpers (subprocess, logging, fs) for the mcp-coder family of repos",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_coder_utils-0.1.3.tar.gz",
+  "download_time": "2026-04-12T20:39:45.855661",
+  "package_url": "https://pypi.org/project/mcp-coder-utils/"
+}

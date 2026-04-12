@@ -1,11 +1,11 @@
 {
   "name": "varcode",
-  "version": "1.3.2",
+  "version": "2.1.0",
   "summary": "Variant annotation in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "varcode-1.3.2.tar.gz",
-  "download_time": "2026-04-11T22:06:26.995331",
+  "download_filename": "varcode-2.1.0.tar.gz",
+  "download_time": "2026-04-12T20:39:52.950885",
   "package_url": "https://pypi.org/project/varcode/"
 }

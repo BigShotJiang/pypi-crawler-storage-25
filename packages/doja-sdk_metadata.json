@@ -1,11 +1,11 @@
 {
   "name": "doja-sdk",
-  "version": "0.4.8",
+  "version": "0.5.1",
   "summary": "Official Python SDK for DoJa Chatbots and WhatsApp Business Integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "doja_sdk-0.4.8.tar.gz",
-  "download_time": "2026-04-05T16:38:26.497586",
+  "download_filename": "doja_sdk-0.5.1.tar.gz",
+  "download_time": "2026-04-12T20:40:09.974841",
   "package_url": "https://pypi.org/project/doja-sdk/"
 }
