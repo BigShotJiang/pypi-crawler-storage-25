@@ -1,11 +1,11 @@
 {
   "name": "templatefox",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "summary": "Official TemplateFox Python SDK - Generate PDFs from HTML templates",
   "author": "TemplateFox",
   "license": "MIT",
   "home_page": "https://github.com/TemplateFoxPDF/pythonsdk",
-  "download_filename": "templatefox-1.8.0.tar.gz",
-  "download_time": "2026-04-12T18:05:30.572581",
+  "download_filename": "templatefox-1.9.0.tar.gz",
+  "download_time": "2026-04-12T19:58:08.843358",
   "package_url": "https://pypi.org/project/templatefox/"
 }

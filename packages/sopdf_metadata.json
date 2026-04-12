@@ -1,11 +1,11 @@
 {
   "name": "sopdf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A high-performance PDF processing library with a permissive license.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "sopdf-0.1.0.tar.gz",
-  "download_time": "2026-04-11T08:07:56.810313",
+  "download_filename": "sopdf-0.1.1.tar.gz",
+  "download_time": "2026-04-12T19:58:04.454745",
   "package_url": "https://pypi.org/project/sopdf/"
 }

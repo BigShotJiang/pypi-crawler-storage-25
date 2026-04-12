@@ -1,11 +1,11 @@
 {
   "name": "chartlibrary-mcp",
-  "version": "1.1.2",
-  "summary": "Chart Library MCP Server — 19 tools for chart pattern intelligence, regime analysis, and trading signals for AI agents",
+  "version": "1.2.0",
+  "summary": "Chart Library MCP Server — 23 tools for context-aware chart pattern intelligence, market regime analysis, and agent-first trading signals",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chartlibrary_mcp-1.1.2.tar.gz",
-  "download_time": "2026-04-08T12:08:56.281161",
+  "download_filename": "chartlibrary_mcp-1.2.0.tar.gz",
+  "download_time": "2026-04-12T19:57:48.490007",
   "package_url": "https://pypi.org/project/chartlibrary-mcp/"
 }

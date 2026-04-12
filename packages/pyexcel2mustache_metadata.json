@@ -1,0 +1,11 @@
+{
+  "name": "pyexcel2mustache",
+  "version": "0.1.1",
+  "summary": "Convert Excel files to Mustache templates based on a defined schema.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyexcel2mustache-0.1.1.tar.gz",
+  "download_time": "2026-04-12T19:57:41.949318",
+  "package_url": "https://pypi.org/project/pyexcel2mustache/"
+}

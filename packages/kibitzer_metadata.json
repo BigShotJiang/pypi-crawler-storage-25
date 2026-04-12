@@ -1,11 +1,11 @@
 {
   "name": "kibitzer",
-  "version": "0.1.5",
+  "version": "0.3.2",
   "summary": "Claude Code extension that watches agent tool calls and suggests structured alternatives",
   "author": "Teague Sterling",
   "license": null,
   "home_page": null,
-  "download_filename": "kibitzer-0.1.5.tar.gz",
-  "download_time": "2026-03-30T05:12:18.038837",
+  "download_filename": "kibitzer-0.3.2.tar.gz",
+  "download_time": "2026-04-12T19:57:32.144667",
   "package_url": "https://pypi.org/project/kibitzer/"
 }

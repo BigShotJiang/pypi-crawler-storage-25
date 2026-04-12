@@ -1,0 +1,11 @@
+{
+  "name": "mtgdata",
+  "version": "0.3.1",
+  "summary": "MTG image dataset with automatic image scraping and conversion.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtgdata-0.3.1.tar.gz",
+  "download_time": "2026-04-12T19:57:40.862029",
+  "package_url": "https://pypi.org/project/mtgdata/"
+}

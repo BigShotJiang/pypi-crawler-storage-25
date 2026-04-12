@@ -1,0 +1,11 @@
+{
+  "name": "cagoule-pass",
+  "version": "1.0.0",
+  "summary": "Gestionnaire de mots de passe chiffré avec CAGOULE",
+  "author": "Slim Issa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cagoule_pass-1.0.0.tar.gz",
+  "download_time": "2026-04-12T19:58:06.089513",
+  "package_url": "https://pypi.org/project/cagoule-pass/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gsbparse",
+  "version": "0.5.0",
+  "summary": "Parse Grisbi .gsb files into typed domain objects and pandas DataFrames",
+  "author": "Étienne Boisseau-Sierra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gsbparse-0.5.0.tar.gz",
+  "download_time": "2026-04-12T19:57:33.300002",
+  "package_url": "https://pypi.org/project/gsbparse/"
+}

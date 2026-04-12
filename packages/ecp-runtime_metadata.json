@@ -1,0 +1,11 @@
+{
+  "name": "ecp-runtime",
+  "version": "0.2.4",
+  "summary": "The reference runtime for the Evaluation Context Protocol (ECP).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ecp_runtime-0.2.4.tar.gz",
+  "download_time": "2026-04-12T19:57:55.124817",
+  "package_url": "https://pypi.org/project/ecp-runtime/"
+}

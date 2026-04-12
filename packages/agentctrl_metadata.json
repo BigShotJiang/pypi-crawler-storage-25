@@ -1,11 +1,11 @@
 {
   "name": "agentctrl",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Institutional control layer for AI agent actions — authority, policy, risk, and audit before execution.",
   "author": "MoeIntel",
   "license": null,
   "home_page": null,
-  "download_filename": "agentctrl-0.2.1.tar.gz",
-  "download_time": "2026-04-11T10:01:49.824710",
+  "download_filename": "agentctrl-0.2.2.tar.gz",
+  "download_time": "2026-04-12T19:57:52.311027",
   "package_url": "https://pypi.org/project/agentctrl/"
 }

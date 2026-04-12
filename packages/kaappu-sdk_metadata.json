@@ -1,0 +1,11 @@
+{
+  "name": "kaappu-sdk",
+  "version": "0.1.0",
+  "summary": "JWT authentication and permission-based authorization for Python services",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kaappu_sdk-0.1.0.tar.gz",
+  "download_time": "2026-04-12T19:57:49.032525",
+  "package_url": "https://pypi.org/project/kaappu-sdk/"
+}

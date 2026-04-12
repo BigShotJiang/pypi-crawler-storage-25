@@ -1,11 +1,11 @@
 {
   "name": "micromech",
-  "version": "0.0.7",
+  "version": "0.0.10",
   "summary": "Lightweight OLAS mech runtime",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "micromech-0.0.7.tar.gz",
-  "download_time": "2026-04-11T18:01:17.447879",
+  "download_filename": "micromech-0.0.10.tar.gz",
+  "download_time": "2026-04-12T19:57:44.708201",
   "package_url": "https://pypi.org/project/micromech/"
 }

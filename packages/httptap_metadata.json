@@ -1,11 +1,11 @@
 {
   "name": "httptap",
-  "version": "0.4.7",
+  "version": "0.5.0",
   "summary": "HTTP request visualizer with detailed timing breakdown (DNS → TCP → TLS → HTTP)",
   "author": "Sergei Ozeranskii",
   "license": null,
   "home_page": null,
-  "download_filename": "httptap-0.4.7.tar.gz",
-  "download_time": "2026-03-30T19:42:32.805311",
+  "download_filename": "httptap-0.5.0.tar.gz",
+  "download_time": "2026-04-12T19:57:54.008882",
   "package_url": "https://pypi.org/project/httptap/"
 }
