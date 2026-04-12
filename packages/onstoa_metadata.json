@@ -1,11 +1,11 @@
 {
   "name": "onstoa",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Usage-based billing SDK for AI applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "onstoa-0.2.0.tar.gz",
-  "download_time": "2026-04-11T22:56:38.813305",
+  "download_filename": "onstoa-0.2.1.tar.gz",
+  "download_time": "2026-04-12T00:08:41.935428",
   "package_url": "https://pypi.org/project/onstoa/"
 }

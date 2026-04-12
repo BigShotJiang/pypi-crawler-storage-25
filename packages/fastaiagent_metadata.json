@@ -1,11 +1,11 @@
 {
   "name": "fastaiagent",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "Build, debug, evaluate, and operate AI agents. The only SDK with fork-and-rerun Agent Replay.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "fastaiagent-0.1.4.tar.gz",
-  "download_time": "2026-04-05T21:33:29.480331",
+  "download_filename": "fastaiagent-0.1.7.tar.gz",
+  "download_time": "2026-04-12T00:08:39.675361",
   "package_url": "https://pypi.org/project/fastaiagent/"
 }

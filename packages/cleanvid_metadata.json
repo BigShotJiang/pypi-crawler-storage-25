@@ -1,0 +1,11 @@
+{
+  "name": "cleanvid",
+  "version": "1.7.1",
+  "summary": "cleanvid is a little script to mute profanity in video files.",
+  "author": "Seth Grover",
+  "license": null,
+  "home_page": "https://github.com/mmguero/cleanvid",
+  "download_filename": "cleanvid-1.7.1.tar.gz",
+  "download_time": "2026-04-12T00:08:28.035875",
+  "package_url": "https://pypi.org/project/cleanvid/"
+}

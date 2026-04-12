@@ -1,11 +1,11 @@
 {
   "name": "wrap-torch2jax",
-  "version": "0.7.2",
+  "version": "0.8.0",
   "summary": "Wrap your PyTorch for JAX! This package allows no-copy PyTorch calling from JAX under both eager execution and JIT.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wrap_torch2jax-0.7.2-py3-none-any.whl",
-  "download_time": "2026-04-11T23:38:43.311421",
+  "download_filename": "wrap_torch2jax-0.8.0-py3-none-any.whl",
+  "download_time": "2026-04-12T00:08:34.363958",
   "package_url": "https://pypi.org/project/wrap-torch2jax/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ladam",
-  "version": "0.4.0",
-  "summary": "LAdam: Laplacian Adam optimizer + physics-inspired ML toolkit (WaveNorm, ChiAnnealScheduler, neuron reordering)",
+  "version": "0.4.1",
+  "summary": "LAdam: Laplacian Adam — Adam with spatially-coupled variance estimates via discrete Laplacian",
   "author": "Greg Partin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ladam-0.4.0.tar.gz",
-  "download_time": "2026-04-07T22:52:03.674266",
+  "download_filename": "ladam-0.4.1.tar.gz",
+  "download_time": "2026-04-12T00:09:10.385501",
   "package_url": "https://pypi.org/project/ladam/"
 }
