@@ -1,0 +1,11 @@
+{
+  "name": "dokis",
+  "version": "0.1.2",
+  "summary": "Trust reporting and provenance enforcement for RAG pipelines. Audits claim grounding, source allowlists, and trust failures without an LLM call.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dokis-0.1.2.tar.gz",
+  "download_time": "2026-04-12T05:59:12.270414",
+  "package_url": "https://pypi.org/project/dokis/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "checkagent",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "The open-source testing framework for AI agents",
   "author": "CheckAgent Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "checkagent-0.1.2.tar.gz",
-  "download_time": "2026-04-11T00:05:33.694913",
+  "download_filename": "checkagent-0.2.0.tar.gz",
+  "download_time": "2026-04-12T05:59:22.790128",
   "package_url": "https://pypi.org/project/checkagent/"
 }

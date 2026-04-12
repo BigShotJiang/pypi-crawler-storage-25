@@ -1,0 +1,11 @@
+{
+  "name": "rlwatch",
+  "version": "0.3.1",
+  "summary": "Real-time GRPO/PPO training instability detection for ML teams",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rlwatch-0.3.1.tar.gz",
+  "download_time": "2026-04-12T05:59:08.083789",
+  "package_url": "https://pypi.org/project/rlwatch/"
+}

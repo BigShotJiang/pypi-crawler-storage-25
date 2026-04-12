@@ -1,11 +1,11 @@
 {
   "name": "pytest-homeassistant-custom-component",
-  "version": "0.13.322",
+  "version": "0.13.323",
   "summary": "Experimental package to automatically extract test plugins for Home Assistant custom components",
   "author": "Matthew Flamm",
   "license": "MIT license",
   "home_page": "https://github.com/MatthewFlamm/pytest-homeassistant-custom-component",
-  "download_filename": "pytest_homeassistant_custom_component-0.13.322.tar.gz",
-  "download_time": "2026-04-04T05:42:38.893367",
+  "download_filename": "pytest_homeassistant_custom_component-0.13.323.tar.gz",
+  "download_time": "2026-04-12T05:59:16.967604",
   "package_url": "https://pypi.org/project/pytest-homeassistant-custom-component/"
 }

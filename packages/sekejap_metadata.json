@@ -1,0 +1,11 @@
+{
+  "name": "sekejap",
+  "version": "0.6.4",
+  "summary": "A graph-first, embedded multi-model database engine",
+  "author": null,
+  "license": null,
+  "home_page": "https://db.sekejap.life",
+  "download_filename": "sekejap-0.6.4.tar.gz",
+  "download_time": "2026-04-12T05:58:55.946773",
+  "package_url": "https://pypi.org/project/sekejap/"
+}

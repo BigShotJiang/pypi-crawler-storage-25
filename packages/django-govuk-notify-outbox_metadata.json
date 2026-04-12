@@ -1,11 +1,11 @@
 {
   "name": "django-govuk-notify-outbox",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "A reusable Django app to send emails via GOV.UK notify robustly and with good observability",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_govuk_notify_outbox-1.0.0.tar.gz",
-  "download_time": "2026-04-11T08:07:59.949798",
+  "download_filename": "django_govuk_notify_outbox-1.1.0.tar.gz",
+  "download_time": "2026-04-12T05:59:02.810968",
   "package_url": "https://pypi.org/project/django-govuk-notify-outbox/"
 }

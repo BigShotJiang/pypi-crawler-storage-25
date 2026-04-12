@@ -1,0 +1,11 @@
+{
+  "name": "aport-agent-guardrails-crewai",
+  "version": "1.0.21",
+  "summary": "APort Agent Guardrail for CrewAI — before_tool_call hook for AI agent and multi-agent crews",
+  "author": "APort Technologies Inc.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aport_agent_guardrails_crewai-1.0.21.tar.gz",
+  "download_time": "2026-04-12T05:59:10.189281",
+  "package_url": "https://pypi.org/project/aport-agent-guardrails-crewai/"
+}
