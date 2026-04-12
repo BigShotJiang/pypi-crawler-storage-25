@@ -1,11 +1,11 @@
 {
   "name": "ara-sdk",
-  "version": "0.1.35",
+  "version": "0.1.36",
   "summary": "Public Python SDK for building and running Ara apps.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "ara_sdk-0.1.35.tar.gz",
-  "download_time": "2026-04-12T05:59:11.752152",
+  "download_filename": "ara_sdk-0.1.36.tar.gz",
+  "download_time": "2026-04-12T13:39:47.857142",
   "package_url": "https://pypi.org/project/ara-sdk/"
 }

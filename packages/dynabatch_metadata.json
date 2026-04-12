@@ -1,11 +1,11 @@
 {
   "name": "dynabatch",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "PyTorch DataLoader with dynamic batch sizing guided by a pre-trained GPU memory regressor.",
   "author": "Bendang",
   "license": null,
   "home_page": null,
-  "download_filename": "dynabatch-0.2.1.tar.gz",
-  "download_time": "2026-04-11T20:05:46.430390",
+  "download_filename": "dynabatch-0.2.2.tar.gz",
+  "download_time": "2026-04-12T13:39:23.316910",
   "package_url": "https://pypi.org/project/dynabatch/"
 }

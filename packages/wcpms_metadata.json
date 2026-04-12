@@ -1,0 +1,11 @@
+{
+  "name": "wcpms",
+  "version": "0.3.4",
+  "summary": "Python Client of the Web Crop Phenological Metrics Service for Earth Observation Data Cubes",
+  "author": "Brazil Data Cube Team",
+  "license": null,
+  "home_page": "https://github.com/brazil-data-cube/wcpms.py",
+  "download_filename": "wcpms-0.3.4.tar.gz",
+  "download_time": "2026-04-12T13:39:57.733110",
+  "package_url": "https://pypi.org/project/wcpms/"
+}

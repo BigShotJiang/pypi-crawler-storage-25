@@ -1,0 +1,11 @@
+{
+  "name": "cryptg",
+  "version": "0.6.0",
+  "summary": "Cryptographic utilities for Telegram.",
+  "author": "Dmitry D. Chernov; Lonami E",
+  "license": "CC0",
+  "home_page": "https://github.com/cher-nov/cryptg",
+  "download_filename": "cryptg-0.6.0.tar.gz",
+  "download_time": "2026-04-12T13:39:43.762616",
+  "package_url": "https://pypi.org/project/cryptg/"
+}
