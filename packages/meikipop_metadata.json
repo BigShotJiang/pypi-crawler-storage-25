@@ -1,11 +1,11 @@
 {
   "name": "meikipop",
-  "version": "2.0.0rc1",
+  "version": "2.0.1",
   "summary": "Universal Japanese OCR popup dictionary",
   "author": "rtr46",
   "license": null,
   "home_page": null,
-  "download_filename": "meikipop-2.0.0rc1.tar.gz",
-  "download_time": "2026-03-31T10:35:32.011934",
+  "download_filename": "meikipop-2.0.1.tar.gz",
+  "download_time": "2026-04-12T08:13:50.149108",
   "package_url": "https://pypi.org/project/meikipop/"
 }

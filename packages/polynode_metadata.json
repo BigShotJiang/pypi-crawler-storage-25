@@ -1,11 +1,11 @@
 {
   "name": "polynode",
-  "version": "0.6.0",
+  "version": "0.7.3",
   "summary": "Python SDK for the PolyNode real-time prediction market data platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "polynode-0.6.0.tar.gz",
-  "download_time": "2026-03-29T13:21:46.501076",
+  "download_filename": "polynode-0.7.3.tar.gz",
+  "download_time": "2026-04-12T08:13:22.879968",
   "package_url": "https://pypi.org/project/polynode/"
 }

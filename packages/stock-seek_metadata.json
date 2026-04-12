@@ -1,0 +1,11 @@
+{
+  "name": "stock-seek",
+  "version": "1.0.6",
+  "summary": "股票搜索工具 - 支持中国A股和美股的搜索，具有本地缓存和增量更新功能",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stock_seek-1.0.6.tar.gz",
+  "download_time": "2026-04-12T08:13:45.952865",
+  "package_url": "https://pypi.org/project/stock-seek/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "seashell-cli",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Seashell — Genomic data, compressed and queryable",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "seashell_cli-0.1.8.tar.gz",
-  "download_time": "2026-04-12T07:17:39.226137",
+  "download_filename": "seashell_cli-0.1.9.tar.gz",
+  "download_time": "2026-04-12T08:13:49.629479",
   "package_url": "https://pypi.org/project/seashell-cli/"
 }

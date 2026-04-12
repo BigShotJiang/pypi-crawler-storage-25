@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-sagemaker",
-  "version": "0.56.0",
+  "version": "0.58.1",
   "summary": "OpenTelemetry SageMaker instrumentation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_sagemaker-0.56.0.tar.gz",
-  "download_time": "2026-03-30T08:50:11.363154",
+  "download_filename": "opentelemetry_instrumentation_sagemaker-0.58.1.tar.gz",
+  "download_time": "2026-04-12T08:13:28.100046",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-sagemaker/"
 }

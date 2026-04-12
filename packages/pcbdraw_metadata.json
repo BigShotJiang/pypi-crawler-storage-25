@@ -1,0 +1,11 @@
+{
+  "name": "pcbdraw",
+  "version": "1.2.0",
+  "summary": "Utility to produce nice looking drawings of KiCAD boards",
+  "author": "Jan Mrázek",
+  "license": null,
+  "home_page": "https://github.com/yaqwsx/PcbDraw",
+  "download_filename": "pcbdraw-1.2.0.tar.gz",
+  "download_time": "2026-04-12T08:13:17.108393",
+  "package_url": "https://pypi.org/project/pcbdraw/"
+}
