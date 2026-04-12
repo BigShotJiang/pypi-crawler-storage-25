@@ -1,0 +1,11 @@
+{
+  "name": "claude-session-sync",
+  "version": "0.2.0",
+  "summary": "Sync Claude Code sessions across Windows, macOS, and Linux",
+  "author": "tsubome",
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_session_sync-0.2.0.tar.gz",
+  "download_time": "2026-04-12T22:02:26.113580",
+  "package_url": "https://pypi.org/project/claude-session-sync/"
+}

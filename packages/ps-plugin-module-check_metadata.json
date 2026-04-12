@@ -1,11 +1,11 @@
 {
   "name": "ps-plugin-module-check",
-  "version": "0.2.10",
+  "version": "0.2.22",
   "summary": "Check module for ps-poetry: configurable quality checks including ruff, pyright, pytest, and more",
   "author": "ztBlackGad",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ps_plugin_module_check-0.2.10.tar.gz",
-  "download_time": "2026-04-11T18:01:23.280396",
+  "download_filename": "ps_plugin_module_check-0.2.22.tar.gz",
+  "download_time": "2026-04-12T22:02:40.122387",
   "package_url": "https://pypi.org/project/ps-plugin-module-check/"
 }

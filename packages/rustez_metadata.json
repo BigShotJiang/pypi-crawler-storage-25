@@ -1,0 +1,11 @@
+{
+  "name": "rustez",
+  "version": "0.8.2",
+  "summary": "Python bindings for rustEZ — Junos device automation built on Rust",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rustez-0.8.2-cp312-cp312-manylinux_2_38_x86_64.whl",
+  "download_time": "2026-04-12T22:02:46.827287",
+  "package_url": "https://pypi.org/project/rustez/"
+}

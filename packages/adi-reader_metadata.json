@@ -1,0 +1,11 @@
+{
+  "name": "adi-reader",
+  "version": "0.1.15",
+  "summary": "Reading LabChart recorded data",
+  "author": "Jim Hokanson",
+  "license": null,
+  "home_page": "https://github.com/JimHokanson/adinstruments_sdk_python/",
+  "download_filename": "adi_reader-0.1.15.tar.gz",
+  "download_time": "2026-04-12T22:03:04.971423",
+  "package_url": "https://pypi.org/project/adi-reader/"
+}

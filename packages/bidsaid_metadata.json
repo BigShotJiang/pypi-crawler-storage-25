@@ -1,0 +1,11 @@
+{
+  "name": "bidsaid",
+  "version": "0.21.0",
+  "summary": "A toolkit for creating and managing BIDS-compliant fMRI datasets without original DICOMs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bidsaid-0.21.0.tar.gz",
+  "download_time": "2026-04-12T22:02:18.308873",
+  "package_url": "https://pypi.org/project/bidsaid/"
+}

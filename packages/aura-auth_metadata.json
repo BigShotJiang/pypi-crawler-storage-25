@@ -1,11 +1,11 @@
 {
   "name": "aura-auth",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Pluggable authentication framework for FastAPI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aura_auth-0.1.0.tar.gz",
-  "download_time": "2026-04-12T19:12:44.738470",
+  "download_filename": "aura_auth-0.1.1.tar.gz",
+  "download_time": "2026-04-12T22:03:03.913497",
   "package_url": "https://pypi.org/project/aura-auth/"
 }
