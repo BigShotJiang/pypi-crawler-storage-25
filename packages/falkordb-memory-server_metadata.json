@@ -1,0 +1,11 @@
+{
+  "name": "falkordb-memory-server",
+  "version": "0.1.1",
+  "summary": "Cross-platform, cross-agent memory system using FalkorDB graph database",
+  "author": "OMC Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "falkordb_memory_server-0.1.1.tar.gz",
+  "download_time": "2026-04-12T03:50:27.262246",
+  "package_url": "https://pypi.org/project/falkordb-memory-server/"
+}

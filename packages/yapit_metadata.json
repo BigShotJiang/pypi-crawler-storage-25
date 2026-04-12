@@ -1,11 +1,11 @@
 {
   "name": "yapit",
-  "version": "0.3.1",
+  "version": "0.3.4",
   "summary": "CLI for yapit.md — fetch clean markdown from URLs and documents",
   "author": "Maximilian Wolf",
   "license": null,
   "home_page": null,
-  "download_filename": "yapit-0.3.1.tar.gz",
-  "download_time": "2026-04-11T20:55:59.106553",
+  "download_filename": "yapit-0.3.4.tar.gz",
+  "download_time": "2026-04-12T03:50:57.485714",
   "package_url": "https://pypi.org/project/yapit/"
 }

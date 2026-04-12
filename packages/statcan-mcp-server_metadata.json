@@ -1,0 +1,11 @@
+{
+  "name": "statcan-mcp-server",
+  "version": "0.7.2",
+  "summary": "MCP Server for interacting with Statistics Canada Web Data Services API",
+  "author": "Aryan Jhaveri",
+  "license": null,
+  "home_page": null,
+  "download_filename": "statcan_mcp_server-0.7.2.tar.gz",
+  "download_time": "2026-04-12T03:50:50.149692",
+  "package_url": "https://pypi.org/project/statcan-mcp-server/"
+}

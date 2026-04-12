@@ -1,0 +1,11 @@
+{
+  "name": "mcp-embedding-daemon",
+  "version": "1.0.0b3",
+  "summary": "Shared ONNX/GGUF embedding server for the n24q02m MCP ecosystem",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_embedding_daemon-1.0.0b3.tar.gz",
+  "download_time": "2026-04-12T03:50:26.023447",
+  "package_url": "https://pypi.org/project/mcp-embedding-daemon/"
+}

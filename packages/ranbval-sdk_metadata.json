@@ -1,11 +1,11 @@
 {
   "name": "ranbval-sdk",
-  "version": "0.4.0",
-  "summary": "Ranbval Runtime Blind Decryption Python SDK (no vendor SDK dependencies)",
+  "version": "0.4.4",
+  "summary": "Keep API secrets out of plaintext config: layered .ranbval* env files, decrypt vault tokens only when used, optional usage telemetry—minimal deps, your own HTTP/SDK stack.",
   "author": "Ahsan Tariq",
   "license": null,
   "home_page": null,
-  "download_filename": "ranbval_sdk-0.4.0.tar.gz",
-  "download_time": "2026-04-10T14:51:16.740072",
+  "download_filename": "ranbval_sdk-0.4.4.tar.gz",
+  "download_time": "2026-04-12T03:50:38.289860",
   "package_url": "https://pypi.org/project/ranbval-sdk/"
 }
