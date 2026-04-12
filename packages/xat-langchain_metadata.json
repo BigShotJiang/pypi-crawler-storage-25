@@ -1,0 +1,11 @@
+{
+  "name": "xat-langchain",
+  "version": "0.1.0",
+  "summary": "XAT signing for LangChain -- every tool call gets an Agent-Signature header. OpenAPI x-agent-trust.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "xat_langchain-0.1.0.tar.gz",
+  "download_time": "2026-04-12T11:45:51.732607",
+  "package_url": "https://pypi.org/project/xat-langchain/"
+}

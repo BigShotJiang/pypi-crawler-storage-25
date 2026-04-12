@@ -1,11 +1,11 @@
 {
   "name": "fly-djangox",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Django + DRF 通用扩展库，提供统一响应、全局异常处理、分页、软删除模型、中间件等功能",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fly_djangox-0.1.4.tar.gz",
-  "download_time": "2026-04-12T10:05:47.091166",
+  "download_filename": "fly_djangox-0.1.6.tar.gz",
+  "download_time": "2026-04-12T11:45:52.243977",
   "package_url": "https://pypi.org/project/fly-djangox/"
 }

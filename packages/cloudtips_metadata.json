@@ -1,0 +1,11 @@
+{
+  "name": "cloudtips",
+  "version": "0.1.0",
+  "summary": "Неофициальная Python-библиотека для CloudTips (получение донатов, поллинг, обновление токенов)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cloudtips-0.1.0.tar.gz",
+  "download_time": "2026-04-12T11:45:34.690954",
+  "package_url": "https://pypi.org/project/cloudtips/"
+}
