@@ -1,11 +1,11 @@
 {
   "name": "claude-arcade",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Play games while Claude thinks — a collection of terminal mini-games that hook into Claude Code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_arcade-0.6.0.tar.gz",
-  "download_time": "2026-04-12T16:42:45.852663",
+  "download_filename": "claude_arcade-0.7.0.tar.gz",
+  "download_time": "2026-04-12T17:24:56.192194",
   "package_url": "https://pypi.org/project/claude-arcade/"
 }

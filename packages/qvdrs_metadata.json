@@ -1,11 +1,11 @@
 {
   "name": "qvdrs",
-  "version": "0.6.2",
+  "version": "0.7.0",
   "summary": "High-performance Qlik QVD file reader/writer with Parquet/Arrow/DataFusion support — Rust-powered Python bindings (PyArrow, pandas, Polars)",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/bintocher/qvdrs",
-  "download_filename": "qvdrs-0.6.2.tar.gz",
-  "download_time": "2026-04-10T12:04:32.386098",
+  "download_filename": "qvdrs-0.7.0.tar.gz",
+  "download_time": "2026-04-12T17:24:35.019611",
   "package_url": "https://pypi.org/project/qvdrs/"
 }

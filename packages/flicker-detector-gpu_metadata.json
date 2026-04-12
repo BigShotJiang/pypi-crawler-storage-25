@@ -1,0 +1,11 @@
+{
+  "name": "flicker-detector-gpu",
+  "version": "0.1.1",
+  "summary": "GPU flicker detection via PredNet SavedModel (dvdface/next-frame-predict): CLI, web server, HTTP client.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flicker_detector_gpu-0.1.1.tar.gz",
+  "download_time": "2026-04-12T17:25:10.759013",
+  "package_url": "https://pypi.org/project/flicker-detector-gpu/"
+}

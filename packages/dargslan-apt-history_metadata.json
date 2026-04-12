@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-apt-history",
+  "version": "1.0.0",
+  "summary": "Package install history analyzer -- track installations, upgrades, removals, and security updates.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_apt_history-1.0.0.tar.gz",
+  "download_time": "2026-04-12T17:25:11.302342",
+  "package_url": "https://pypi.org/project/dargslan-apt-history/"
+}

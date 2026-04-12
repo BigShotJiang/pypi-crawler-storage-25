@@ -1,0 +1,11 @@
+{
+  "name": "lvkit",
+  "version": "0.2.0",
+  "summary": "Understand and convert LabVIEW VIs to Python without a LabVIEW license",
+  "author": "Pragmatest",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lvkit-0.2.0.tar.gz",
+  "download_time": "2026-04-12T17:24:50.648369",
+  "package_url": "https://pypi.org/project/lvkit/"
+}

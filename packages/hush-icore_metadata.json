@@ -1,11 +1,11 @@
 {
   "name": "hush-icore",
-  "version": "0.5.1",
+  "version": "0.5.4",
   "summary": "Hush workflow engine core - A powerful async workflow orchestration framework",
   "author": "Hush Team",
   "license": null,
   "home_page": null,
-  "download_filename": "hush_icore-0.5.1.tar.gz",
-  "download_time": "2026-04-11T22:06:33.839818",
+  "download_filename": "hush_icore-0.5.4.tar.gz",
+  "download_time": "2026-04-12T17:24:28.478469",
   "package_url": "https://pypi.org/project/hush-icore/"
 }

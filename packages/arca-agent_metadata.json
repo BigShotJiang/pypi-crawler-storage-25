@@ -1,11 +1,11 @@
 {
   "name": "arca-agent",
-  "version": "0.1.1",
+  "version": "0.2.6",
   "summary": "ARCA — Local RL-powered Autonomous Cyber Pentesting Agent with LangGraph",
   "author": "Dipayan Dasgupta",
   "license": "MIT",
   "home_page": "https://github.com/dipayandasgupta/arca",
-  "download_filename": "arca_agent-0.1.1.tar.gz",
-  "download_time": "2026-04-11T20:55:44.817571",
+  "download_filename": "arca_agent-0.2.6.tar.gz",
+  "download_time": "2026-04-12T17:24:40.212402",
   "package_url": "https://pypi.org/project/arca-agent/"
 }

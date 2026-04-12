@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-crontab-backup",
+  "version": "1.0.0",
+  "summary": "Crontab backup manager -- export, restore, and diff user crontabs with timestamped backups.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_crontab_backup-1.0.0.tar.gz",
+  "download_time": "2026-04-12T17:25:00.007600",
+  "package_url": "https://pypi.org/project/dargslan-crontab-backup/"
+}

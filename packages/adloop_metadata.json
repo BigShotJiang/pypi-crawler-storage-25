@@ -1,11 +1,11 @@
 {
   "name": "adloop",
-  "version": "0.4.2",
+  "version": "0.5.1",
   "summary": "Stop switching between Google Ads, GA4, and your code editor to figure out why conversions dropped.",
   "author": "Daniel Klose",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "adloop-0.4.2.tar.gz",
-  "download_time": "2026-04-07T12:46:59.753780",
+  "download_filename": "adloop-0.5.1.tar.gz",
+  "download_time": "2026-04-12T17:24:56.780244",
   "package_url": "https://pypi.org/project/adloop/"
 }

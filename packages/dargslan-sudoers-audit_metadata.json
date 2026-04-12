@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-sudoers-audit",
+  "version": "1.0.0",
+  "summary": "Sudoers configuration auditor -- check sudo rules, NOPASSWD entries, user privileges, and syntax.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_sudoers_audit-1.0.0.tar.gz",
+  "download_time": "2026-04-12T17:24:33.929443",
+  "package_url": "https://pypi.org/project/dargslan-sudoers-audit/"
+}
