@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-iptables-export",
+  "version": "1.0.0",
+  "summary": "Firewall rule exporter and documenter — export iptables/nftables rules to readable, shareable formats",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_iptables_export-1.0.0.tar.gz",
+  "download_time": "2026-04-12T15:09:06.025073",
+  "package_url": "https://pypi.org/project/dargslan-iptables-export/"
+}

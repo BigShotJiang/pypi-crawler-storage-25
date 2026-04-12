@@ -1,11 +1,11 @@
 {
   "name": "crypto-bs",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Python library for pricing coin-settled crypto options",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crypto_bs-0.7.0.tar.gz",
-  "download_time": "2026-04-12T14:29:04.650889",
+  "download_filename": "crypto_bs-0.8.0.tar.gz",
+  "download_time": "2026-04-12T15:09:16.538445",
   "package_url": "https://pypi.org/project/crypto-bs/"
 }

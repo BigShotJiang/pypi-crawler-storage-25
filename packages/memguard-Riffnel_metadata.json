@@ -1,0 +1,11 @@
+{
+  "name": "memguard-Riffnel",
+  "version": "0.1.1",
+  "summary": "State Firewall for AI Agent Memory — detect and block memory poisoning, privilege escalation, and semantic drift attacks. LLM-free, sub-5ms latency.",
+  "author": "SafePatch Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "memguard_riffnel-0.1.1.tar.gz",
+  "download_time": "2026-04-12T15:08:51.959007",
+  "package_url": "https://pypi.org/project/memguard-Riffnel/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "regent-sdk",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "LLM regression testing — route your LLM calls through Regent's proxy",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "regent_sdk-0.1.2.tar.gz",
-  "download_time": "2026-04-12T13:39:42.229614",
+  "download_filename": "regent_sdk-0.1.3.tar.gz",
+  "download_time": "2026-04-12T15:08:29.690234",
   "package_url": "https://pypi.org/project/regent-sdk/"
 }

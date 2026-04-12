@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-systemd-analyze",
+  "version": "1.0.0",
+  "summary": "Systemd boot time analyzer — measure service startup times, find slow units, and optimize boot performance",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_systemd_analyze-1.0.0.tar.gz",
+  "download_time": "2026-04-12T15:08:38.023952",
+  "package_url": "https://pypi.org/project/dargslan-systemd-analyze/"
+}

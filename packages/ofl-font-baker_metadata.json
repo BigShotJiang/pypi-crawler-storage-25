@@ -1,0 +1,11 @@
+{
+  "name": "ofl-font-baker",
+  "version": "0.1.1",
+  "summary": "Font merge engine — combine two font files into one via cmap-based glyph replacement",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ofl_font_baker-0.1.1.tar.gz",
+  "download_time": "2026-04-12T15:08:58.722133",
+  "package_url": "https://pypi.org/project/ofl-font-baker/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "promptry",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Regression protection for LLM pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "promptry-0.5.0.tar.gz",
-  "download_time": "2026-04-12T07:18:03.613571",
+  "download_filename": "promptry-0.6.0.tar.gz",
+  "download_time": "2026-04-12T15:08:32.173550",
   "package_url": "https://pypi.org/project/promptry/"
 }

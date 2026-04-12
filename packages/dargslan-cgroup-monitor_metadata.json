@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-cgroup-monitor",
+  "version": "1.0.0",
+  "summary": "Linux cgroup resource monitor — track CPU, memory, and I/O limits for containers and system slices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_cgroup_monitor-1.0.0.tar.gz",
+  "download_time": "2026-04-12T15:09:08.766313",
+  "package_url": "https://pypi.org/project/dargslan-cgroup-monitor/"
+}

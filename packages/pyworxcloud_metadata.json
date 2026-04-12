@@ -1,11 +1,11 @@
 {
   "name": "pyworxcloud",
-  "version": "6.3.0",
+  "version": "6.3.2",
   "summary": "Landroid cloud (Positec) API library",
   "author": "Malene Trab",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyworxcloud-6.3.0.tar.gz",
-  "download_time": "2026-03-30T16:42:41.029520",
+  "download_filename": "pyworxcloud-6.3.2.tar.gz",
+  "download_time": "2026-04-12T15:08:32.756178",
   "package_url": "https://pypi.org/project/pyworxcloud/"
 }

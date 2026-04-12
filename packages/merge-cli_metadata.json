@@ -1,11 +1,11 @@
 {
   "name": "merge-cli",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "summary": "MERGE 变异致病性预测 CLI（服务器固定，集成模型内嵌，无需手动配置）",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "merge_cli-3.0.0.tar.gz",
-  "download_time": "2026-04-12T14:29:11.854048",
+  "download_filename": "merge_cli-3.0.1.tar.gz",
+  "download_time": "2026-04-12T15:08:48.947716",
   "package_url": "https://pypi.org/project/merge-cli/"
 }

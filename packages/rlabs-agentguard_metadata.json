@@ -1,11 +1,11 @@
 {
   "name": "rlabs-agentguard",
-  "version": "0.11.1",
+  "version": "0.12.1",
   "summary": "A quality-assurance engine for LLM-generated code",
   "author": "AgentGuard Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rlabs_agentguard-0.11.1.tar.gz",
-  "download_time": "2026-04-10T14:50:57.956567",
+  "download_filename": "rlabs_agentguard-0.12.1.tar.gz",
+  "download_time": "2026-04-12T15:08:52.543140",
   "package_url": "https://pypi.org/project/rlabs-agentguard/"
 }

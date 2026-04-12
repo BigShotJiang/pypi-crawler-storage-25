@@ -1,11 +1,11 @@
 {
   "name": "soothe",
-  "version": "0.2.4",
+  "version": "0.2.8",
   "summary": "Multi-agent harness built on deepagents and langchain/langgraph.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "soothe-0.2.4.tar.gz",
-  "download_time": "2026-04-11T18:57:02.968491",
+  "download_filename": "soothe-0.2.8.tar.gz",
+  "download_time": "2026-04-12T15:09:17.199351",
   "package_url": "https://pypi.org/project/soothe/"
 }

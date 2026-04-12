@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-tcp-monitor",
+  "version": "1.0.0",
+  "summary": "TCP connection monitor — track ESTABLISHED, TIME_WAIT, connection states, and per-IP statistics",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_tcp_monitor-1.0.0.tar.gz",
+  "download_time": "2026-04-12T15:08:36.806361",
+  "package_url": "https://pypi.org/project/dargslan-tcp-monitor/"
+}

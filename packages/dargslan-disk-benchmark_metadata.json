@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-disk-benchmark",
+  "version": "1.0.0",
+  "summary": "Linux disk I/O benchmark tool — measure read/write speed, IOPS, and latency for any block device or filesystem",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_disk_benchmark-1.0.0.tar.gz",
+  "download_time": "2026-04-12T15:08:38.605193",
+  "package_url": "https://pypi.org/project/dargslan-disk-benchmark/"
+}

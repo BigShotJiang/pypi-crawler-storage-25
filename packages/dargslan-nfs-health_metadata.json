@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-nfs-health",
+  "version": "1.0.0",
+  "summary": "NFS mount health checker — detect stale mounts, measure latency, audit exports, and monitor NFS statistics",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_nfs_health-1.0.0.tar.gz",
+  "download_time": "2026-04-12T15:09:07.134874",
+  "package_url": "https://pypi.org/project/dargslan-nfs-health/"
+}

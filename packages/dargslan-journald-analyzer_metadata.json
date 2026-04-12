@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-journald-analyzer",
+  "version": "1.0.0",
+  "summary": "Systemd journal log analyzer — find boot errors, service failures, kernel warnings, and security events",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_journald_analyzer-1.0.0.tar.gz",
+  "download_time": "2026-04-12T15:09:08.242203",
+  "package_url": "https://pypi.org/project/dargslan-journald-analyzer/"
+}

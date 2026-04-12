@@ -1,0 +1,11 @@
+{
+  "name": "st-chatbar-media",
+  "version": "0.2.0",
+  "summary": "A Streamlit chat input bar with text, audio, and photo upload/camera support.",
+  "author": "Austin Hagerty",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "st_chatbar_media-0.2.0.tar.gz",
+  "download_time": "2026-04-12T15:09:14.906459",
+  "package_url": "https://pypi.org/project/st-chatbar-media/"
+}
