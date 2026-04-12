@@ -1,11 +1,11 @@
 {
   "name": "hedwig-cg",
-  "version": "0.10.3",
-  "summary": "Code graph builder with LLM semantic enrichment and 5-signal hybrid search",
+  "version": "0.11.1",
+  "summary": "Local-first code graph builder with hybrid vector + graph search",
   "author": "labyu",
   "license": null,
   "home_page": null,
-  "download_filename": "hedwig_cg-0.10.3.tar.gz",
-  "download_time": "2026-04-12T07:17:53.796015",
+  "download_filename": "hedwig_cg-0.11.1.tar.gz",
+  "download_time": "2026-04-12T09:10:22.113634",
   "package_url": "https://pypi.org/project/hedwig-cg/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dataset-cli-tool",
+  "version": "0.1.1",
+  "summary": "A reusable CLI tool for dataset operations — filter, transform, validate, and migrate data with simple commands.",
+  "author": "Hemil",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataset_cli_tool-0.1.1.tar.gz",
+  "download_time": "2026-04-12T09:10:15.005010",
+  "package_url": "https://pypi.org/project/dataset-cli-tool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-firewall-audit",
+  "version": "1.0.0",
+  "summary": "Linux firewall audit tool — check iptables/nftables rules, detect open ports, and generate security reports",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_firewall_audit-1.0.0.tar.gz",
+  "download_time": "2026-04-12T09:10:17.195532",
+  "package_url": "https://pypi.org/project/dargslan-firewall-audit/"
+}

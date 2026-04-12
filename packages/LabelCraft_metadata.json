@@ -1,11 +1,11 @@
 {
   "name": "LabelCraft",
-  "version": "1.8.9",
+  "version": "1.8.14",
   "summary": "LabelCraft - A modern graphical image annotation tool based on labelImg",
-  "author": "TzuTa Lin (Original labelImg), LabelCraft Contributors",
+  "author": "LabelCraft Contributors",
   "license": "MIT license",
   "home_page": "https://github.com/syd168/LabelCraft",
-  "download_filename": "labelcraft-1.8.9.tar.gz",
-  "download_time": "2026-04-12T05:59:01.757604",
+  "download_filename": "labelcraft-1.8.14.tar.gz",
+  "download_time": "2026-04-12T09:10:01.221528",
   "package_url": "https://pypi.org/project/LabelCraft/"
 }

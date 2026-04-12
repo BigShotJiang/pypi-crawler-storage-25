@@ -1,11 +1,11 @@
 {
   "name": "astrocyte-pgvector",
-  "version": "0.7.7",
+  "version": "0.7.9",
   "summary": "PostgreSQL pgvector VectorStore adapter for Astrocyte",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "astrocyte_pgvector-0.7.7.tar.gz",
-  "download_time": "2026-04-12T08:13:38.606589",
+  "download_filename": "astrocyte_pgvector-0.7.9.tar.gz",
+  "download_time": "2026-04-12T09:10:22.655504",
   "package_url": "https://pypi.org/project/astrocyte-pgvector/"
 }

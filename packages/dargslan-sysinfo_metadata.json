@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-sysinfo",
+  "version": "1.0.0",
+  "summary": "Linux system information tool — CPU, memory, disk, network, and process monitoring for sysadmins",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_sysinfo-1.0.0.tar.gz",
+  "download_time": "2026-04-12T09:10:18.822542",
+  "package_url": "https://pypi.org/project/dargslan-sysinfo/"
+}
