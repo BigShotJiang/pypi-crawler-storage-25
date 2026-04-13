@@ -1,0 +1,11 @@
+{
+  "name": "fws-daemon",
+  "version": "3.2.1",
+  "summary": "FWS scan daemon and analysis tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fws_daemon-3.2.1.tar.gz",
+  "download_time": "2026-04-13T14:53:04.041054",
+  "package_url": "https://pypi.org/project/fws-daemon/"
+}

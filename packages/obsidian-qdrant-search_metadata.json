@@ -1,11 +1,11 @@
 {
   "name": "obsidian-qdrant-search",
-  "version": "0.4.0",
+  "version": "0.4.3",
   "summary": "MCP server for semantic search and file management over Obsidian vaults using Qdrant and local embeddings",
   "author": "Marco Oliveri",
   "license": null,
   "home_page": null,
-  "download_filename": "obsidian_qdrant_search-0.4.0.tar.gz",
-  "download_time": "2026-04-13T12:52:19.462203",
+  "download_filename": "obsidian_qdrant_search-0.4.3.tar.gz",
+  "download_time": "2026-04-13T14:52:59.412808",
   "package_url": "https://pypi.org/project/obsidian-qdrant-search/"
 }

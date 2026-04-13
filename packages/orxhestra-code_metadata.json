@@ -1,11 +1,11 @@
 {
   "name": "orxhestra-code",
-  "version": "0.0.16",
+  "version": "0.0.38",
   "summary": "AI coding agent powered by orxhestra — reads, writes, edits code and runs commands",
   "author": "Nicolai M. T. Lassen",
   "license": null,
   "home_page": null,
-  "download_filename": "orxhestra_code-0.0.16.tar.gz",
-  "download_time": "2026-04-10T07:05:44.340714",
+  "download_filename": "orxhestra_code-0.0.38.tar.gz",
+  "download_time": "2026-04-13T14:52:21.437308",
   "package_url": "https://pypi.org/project/orxhestra-code/"
 }

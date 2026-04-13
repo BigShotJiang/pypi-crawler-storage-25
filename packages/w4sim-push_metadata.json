@@ -1,0 +1,11 @@
+{
+  "name": "w4sim-push",
+  "version": "0.1.0",
+  "summary": "A command-line tool to push project directories to GitHub with minimal input.",
+  "author": "w4sim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "w4sim_push-0.1.0.tar.gz",
+  "download_time": "2026-04-13T14:53:00.956097",
+  "package_url": "https://pypi.org/project/w4sim-push/"
+}

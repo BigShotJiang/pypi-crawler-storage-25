@@ -1,0 +1,11 @@
+{
+  "name": "satdeploy",
+  "version": "0.3.3",
+  "summary": "Deployment tool for embedded Linux satellites — push, track, rollback over SSH and CSP",
+  "author": "Mahmood Seoud",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "satdeploy-0.3.3.tar.gz",
+  "download_time": "2026-04-13T14:52:20.923853",
+  "package_url": "https://pypi.org/project/satdeploy/"
+}

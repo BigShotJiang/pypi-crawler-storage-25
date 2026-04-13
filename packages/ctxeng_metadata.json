@@ -1,11 +1,11 @@
 {
   "name": "ctxeng",
-  "version": "0.1.2",
+  "version": "0.1.8",
   "summary": "Build perfect LLM context from your Python codebase — automatically.",
-  "author": "ctxeng contributors",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ctxeng-0.1.2.tar.gz",
-  "download_time": "2026-04-05T12:57:59.188040",
+  "download_filename": "ctxeng-0.1.8.tar.gz",
+  "download_time": "2026-04-13T14:52:37.153732",
   "package_url": "https://pypi.org/project/ctxeng/"
 }

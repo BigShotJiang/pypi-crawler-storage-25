@@ -1,0 +1,11 @@
+{
+  "name": "uprobe",
+  "version": "0.1.1",
+  "summary": "Web server for U-Probe",
+  "author": "Qian Zhang, Weize Xu",
+  "license": "MIT",
+  "home_page": "https://github.com/UFISH-Team/U-Probe",
+  "download_filename": "uprobe-0.1.1.tar.gz",
+  "download_time": "2026-04-13T14:53:01.468444",
+  "package_url": "https://pypi.org/project/uprobe/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iron-gql",
+  "version": "0.5.1",
+  "summary": "iron_gql generates typed async GraphQL clients and runtime helpers from schemas for Python services",
+  "author": "Ilia Ablamonov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iron_gql-0.5.1.tar.gz",
+  "download_time": "2026-04-13T14:52:42.819915",
+  "package_url": "https://pypi.org/project/iron-gql/"
+}
