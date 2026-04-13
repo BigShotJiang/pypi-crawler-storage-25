@@ -1,0 +1,11 @@
+{
+  "name": "Avalara",
+  "version": "26.4.0",
+  "summary": "Avalara Tax Python SDK.",
+  "author": "Han Bao, Adrienne Karnoski, Robert Bronson, Philip Werner, Genevieve Conty",
+  "license": null,
+  "home_page": "https://github.com/avadev/AvaTax-REST-V2-Python-SDK",
+  "download_filename": "avalara-26.4.0.tar.gz",
+  "download_time": "2026-04-13T17:28:11.568596",
+  "package_url": "https://pypi.org/project/Avalara/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "trellis-datamodel",
-  "version": "0.11.3",
+  "version": "0.13.4",
   "summary": "Visual data model editor for dbt projects",
   "author": "Tim Hiebenthal",
   "license": null,
   "home_page": null,
-  "download_filename": "trellis_datamodel-0.11.3.tar.gz",
-  "download_time": "2026-04-01T15:54:47.689594",
+  "download_filename": "trellis_datamodel-0.13.4.tar.gz",
+  "download_time": "2026-04-13T17:27:37.862295",
   "package_url": "https://pypi.org/project/trellis-datamodel/"
 }

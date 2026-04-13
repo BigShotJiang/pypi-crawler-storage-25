@@ -1,0 +1,11 @@
+{
+  "name": "khipu-reader",
+  "version": "0.1.0",
+  "summary": "Open-source framework for reading Andean khipus — numerical (Locke) and textual (ALBA syllabary) channels.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "khipu_reader-0.1.0.tar.gz",
+  "download_time": "2026-04-13T17:28:00.214712",
+  "package_url": "https://pypi.org/project/khipu-reader/"
+}

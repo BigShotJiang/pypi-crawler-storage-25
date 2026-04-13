@@ -1,11 +1,11 @@
 {
   "name": "assemblyline-service-client",
-  "version": "4.7.2.3",
+  "version": "4.7.2.4",
   "summary": "Assemblyline 4 - Service client",
   "author": "CCCS Assemblyline development team",
   "license": "MIT",
   "home_page": "https://github.com/CybercentreCanada/assemblyline-service-client/",
-  "download_filename": "assemblyline_service_client-4.7.2.3-py3-none-any.whl",
-  "download_time": "2026-03-30T20:28:15.061905",
+  "download_filename": "assemblyline_service_client-4.7.2.4-py3-none-any.whl",
+  "download_time": "2026-04-13T17:28:14.967834",
   "package_url": "https://pypi.org/project/assemblyline-service-client/"
 }

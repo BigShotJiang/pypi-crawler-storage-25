@@ -1,11 +1,11 @@
 {
   "name": "cobra-array",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "summary": "A backend-agnostic array utility library that unifies array conversion, context control, and cross-library operations across `NumPy`/`PyTorch`-style ecosystems.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cobra_array-0.1.5.tar.gz",
-  "download_time": "2026-04-11T08:08:07.255270",
+  "download_filename": "cobra_array-0.2.0.tar.gz",
+  "download_time": "2026-04-13T17:27:59.704876",
   "package_url": "https://pypi.org/project/cobra-array/"
 }

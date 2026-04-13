@@ -1,11 +1,11 @@
 {
   "name": "sqlalchemy-events-lib",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Event-driven extension for SQLAlchemy that enables listening to database CUD events. This library allows you to react to database changes in real time using a clean, declarative API.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sqlalchemy_events_lib-0.1.0.tar.gz",
-  "download_time": "2026-04-11T16:40:38.092408",
+  "download_filename": "sqlalchemy_events_lib-0.2.0.tar.gz",
+  "download_time": "2026-04-13T17:27:55.493165",
   "package_url": "https://pypi.org/project/sqlalchemy-events-lib/"
 }

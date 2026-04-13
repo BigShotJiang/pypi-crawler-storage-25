@@ -1,0 +1,11 @@
+{
+  "name": "code-is-magic-markers",
+  "version": "0.2.0",
+  "summary": "Lightweight class introspection toolkit — define typed markers, annotate fields and methods, collect metadata via MRO-walking descriptors.",
+  "author": "Richie",
+  "license": null,
+  "home_page": null,
+  "download_filename": "code_is_magic_markers-0.2.0.tar.gz",
+  "download_time": "2026-04-13T17:27:39.588581",
+  "package_url": "https://pypi.org/project/code-is-magic-markers/"
+}

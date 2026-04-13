@@ -1,0 +1,11 @@
+{
+  "name": "aceteam-workflow-engine",
+  "version": "2.0.0rc9",
+  "summary": "A powerful workflow orchestration engine for composing complex computational tasks from modular, type-safe nodes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aceteam_workflow_engine-2.0.0rc9.tar.gz",
+  "download_time": "2026-04-13T17:27:42.046970",
+  "package_url": "https://pypi.org/project/aceteam-workflow-engine/"
+}

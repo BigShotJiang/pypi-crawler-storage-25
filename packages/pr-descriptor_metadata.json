@@ -1,11 +1,11 @@
 {
   "name": "pr-descriptor",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "AI-powered PR description generator using Claude",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pr_descriptor-0.1.2.tar.gz",
-  "download_time": "2026-04-12T11:45:47.598023",
+  "download_filename": "pr_descriptor-0.1.4.tar.gz",
+  "download_time": "2026-04-13T17:27:25.467601",
   "package_url": "https://pypi.org/project/pr-descriptor/"
 }

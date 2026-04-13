@@ -1,0 +1,11 @@
+{
+  "name": "mcp-external-memory",
+  "version": "0.1.2",
+  "summary": "An MCP server that gives LLMs persistent, searchable semantic memory",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_external_memory-0.1.2.tar.gz",
+  "download_time": "2026-04-13T17:27:46.763621",
+  "package_url": "https://pypi.org/project/mcp-external-memory/"
+}

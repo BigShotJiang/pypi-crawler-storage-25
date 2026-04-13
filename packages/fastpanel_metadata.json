@@ -1,0 +1,11 @@
+{
+  "name": "fastpanel",
+  "version": "0.2.1",
+  "summary": "A developer debug toolbar for FastAPI — inspect SQL, requests, performance, logs, and cache in real time.",
+  "author": "officialalkenes",
+  "license": "MIT",
+  "home_page": "https://github.com/officialalkenes/fastpanel",
+  "download_filename": "fastpanel-0.2.1.tar.gz",
+  "download_time": "2026-04-13T17:27:52.144870",
+  "package_url": "https://pypi.org/project/fastpanel/"
+}
