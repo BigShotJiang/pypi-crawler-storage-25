@@ -1,0 +1,11 @@
+{
+  "name": "mongospec",
+  "version": "0.3.2",
+  "summary": "Async MongoDB ODM with msgspec integration and automatic collection binding",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mongospec-0.3.2.tar.gz",
+  "download_time": "2026-04-13T10:40:47.860139",
+  "package_url": "https://pypi.org/project/mongospec/"
+}

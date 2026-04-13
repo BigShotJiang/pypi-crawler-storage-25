@@ -1,11 +1,11 @@
 {
   "name": "stqry",
-  "version": "0.5.0",
+  "version": "0.6.1",
   "summary": "Python SDK for the STQRY API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stqry-0.5.0.tar.gz",
-  "download_time": "2026-04-13T03:58:43.089507",
+  "download_filename": "stqry-0.6.1.tar.gz",
+  "download_time": "2026-04-13T10:40:29.041327",
   "package_url": "https://pypi.org/project/stqry/"
 }

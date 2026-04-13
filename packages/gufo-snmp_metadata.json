@@ -1,0 +1,11 @@
+{
+  "name": "gufo-snmp",
+  "version": "0.12.0",
+  "summary": "The accelerated Python SNMP client library",
+  "author": "Gufo Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gufo_snmp-0.12.0.tar.gz",
+  "download_time": "2026-04-13T10:40:11.902107",
+  "package_url": "https://pypi.org/project/gufo-snmp/"
+}

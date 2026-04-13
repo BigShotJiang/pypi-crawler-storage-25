@@ -1,0 +1,11 @@
+{
+  "name": "django-activity-audit",
+  "version": "1.2.7",
+  "summary": "A Django package for easy CRUD operation logging and container logs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_activity_audit-1.2.7.tar.gz",
+  "download_time": "2026-04-13T10:40:37.352314",
+  "package_url": "https://pypi.org/project/django-activity-audit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "horizon-sdk",
-  "version": "0.7.3",
+  "version": "0.8.7",
   "summary": "Prediction market trading SDK. Rust core, Python interface. Build and deploy strategies across Polymarket and Kalshi.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "horizon_sdk-0.7.3.tar.gz",
-  "download_time": "2026-04-09T11:41:18.097689",
+  "download_filename": "horizon_sdk-0.8.7.tar.gz",
+  "download_time": "2026-04-13T10:40:53.977419",
   "package_url": "https://pypi.org/project/horizon-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cap-client",
+  "version": "1.4",
+  "summary": "CAP client",
+  "author": "CAP",
+  "license": null,
+  "home_page": "https://github.com/cernanalysispreservation/cap-client",
+  "download_filename": "cap_client-1.4.tar.gz",
+  "download_time": "2026-04-13T10:40:10.110424",
+  "package_url": "https://pypi.org/project/cap-client/"
+}

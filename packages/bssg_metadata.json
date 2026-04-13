@@ -1,0 +1,11 @@
+{
+  "name": "bssg",
+  "version": "0.1.0",
+  "summary": "Static site generator based on staticjinja with support for templates (Jinja), translations (pyBabel), optimized thumbnail generation (Pillow), and build size minimization by excluding unreferenced files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bssg-0.1.0.tar.gz",
+  "download_time": "2026-04-13T10:40:27.235660",
+  "package_url": "https://pypi.org/project/bssg/"
+}
