@@ -1,11 +1,11 @@
 {
   "name": "delfhos",
-  "version": "0.6.4",
+  "version": "0.6.7",
   "summary": "Delfhos — AI agent SDK with typed connections and tool orchestration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "delfhos-0.6.4.tar.gz",
-  "download_time": "2026-04-11T14:41:01.784870",
+  "download_filename": "delfhos-0.6.7.tar.gz",
+  "download_time": "2026-04-13T21:13:28.557581",
   "package_url": "https://pypi.org/project/delfhos/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "interpretablefa",
-  "version": "6.0.7",
+  "version": "6.0.9",
   "summary": "A package for interpretable factor analysis",
   "author": "Justin Philip Tuazon, Gia Mizrane Abubo",
   "license": "GNU General Public License 3.0",
   "home_page": null,
-  "download_filename": "interpretablefa-6.0.7.tar.gz",
-  "download_time": "2026-04-08T11:19:26.880055",
+  "download_filename": "interpretablefa-6.0.9.tar.gz",
+  "download_time": "2026-04-13T21:14:03.846076",
   "package_url": "https://pypi.org/project/interpretablefa/"
 }

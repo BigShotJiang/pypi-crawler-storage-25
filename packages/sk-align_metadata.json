@@ -1,0 +1,11 @@
+{
+  "name": "sk-align",
+  "version": "0.2.1",
+  "summary": "Standalone forced alignment for Scottish Gaelic — no Kaldi/PyKaldi dependency",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sk_align-0.2.1.tar.gz",
+  "download_time": "2026-04-13T21:13:25.959978",
+  "package_url": "https://pypi.org/project/sk-align/"
+}

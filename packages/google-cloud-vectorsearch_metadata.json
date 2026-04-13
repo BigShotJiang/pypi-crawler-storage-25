@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-vectorsearch",
+  "version": "0.10.0",
+  "summary": "Google Cloud Vectorsearch API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-vectorsearch",
+  "download_filename": "google_cloud_vectorsearch-0.10.0.tar.gz",
+  "download_time": "2026-04-13T21:14:01.264905",
+  "package_url": "https://pypi.org/project/google-cloud-vectorsearch/"
+}

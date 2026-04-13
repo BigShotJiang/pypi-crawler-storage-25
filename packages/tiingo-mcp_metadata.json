@@ -1,0 +1,11 @@
+{
+  "name": "tiingo-mcp",
+  "version": "1.0.0",
+  "summary": "A production-grade MCP server for the Tiingo financial data API",
+  "author": "Seth Hobson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiingo_mcp-1.0.0.tar.gz",
+  "download_time": "2026-04-13T21:13:38.403661",
+  "package_url": "https://pypi.org/project/tiingo-mcp/"
+}

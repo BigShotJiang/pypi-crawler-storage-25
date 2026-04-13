@@ -1,11 +1,11 @@
 {
   "name": "belgie-sso",
-  "version": "0.14.3",
+  "version": "0.15.2",
   "summary": "Enterprise OIDC SSO for Belgie",
   "author": "Matt LeMay",
   "license": null,
   "home_page": null,
-  "download_filename": "belgie_sso-0.14.3.tar.gz",
-  "download_time": "2026-04-10T18:59:23.384227",
+  "download_filename": "belgie_sso-0.15.2.tar.gz",
+  "download_time": "2026-04-13T21:13:33.213783",
   "package_url": "https://pypi.org/project/belgie-sso/"
 }

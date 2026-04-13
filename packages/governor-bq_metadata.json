@@ -1,11 +1,11 @@
 {
   "name": "governor-bq",
-  "version": "0.4.34",
+  "version": "0.4.42",
   "summary": "BigQuery cost optimization platform — detect opportunities, generate solutions, create PRs or apply local fixes",
   "author": "Simple Machines",
   "license": null,
   "home_page": null,
-  "download_filename": "governor_bq-0.4.34.tar.gz",
-  "download_time": "2026-04-13T03:58:28.627419",
+  "download_filename": "governor_bq-0.4.42.tar.gz",
+  "download_time": "2026-04-13T21:13:36.836325",
   "package_url": "https://pypi.org/project/governor-bq/"
 }

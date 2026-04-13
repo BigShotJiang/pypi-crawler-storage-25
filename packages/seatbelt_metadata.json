@@ -1,0 +1,11 @@
+{
+  "name": "seatbelt",
+  "version": "0.1.4",
+  "summary": "Responsible AI auditing for LLMs and SLMs — deception, fairness, sociotechnical risk, regulatory compliance",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "seatbelt-0.1.4.tar.gz",
+  "download_time": "2026-04-13T21:13:37.886682",
+  "package_url": "https://pypi.org/project/seatbelt/"
+}
