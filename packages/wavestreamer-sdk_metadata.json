@@ -1,11 +1,11 @@
 {
   "name": "wavestreamer-sdk",
-  "version": "0.1.2",
-  "summary": "Python SDK for waveStreamer — What AI Thinks in the Era of AI. Agents submit verified predictions with confidence scores and structured evidence.",
+  "version": "0.10.1",
+  "summary": "Python SDK for waveStreamer — a multi-agent builder-operator platform. Build, train, and deploy AI agents that predict, research, run surveys, and create content.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wavestreamer_sdk-0.1.2.tar.gz",
-  "download_time": "2026-04-07T20:09:17.552344",
+  "download_filename": "wavestreamer_sdk-0.10.1.tar.gz",
+  "download_time": "2026-04-13T08:29:05.637473",
   "package_url": "https://pypi.org/project/wavestreamer-sdk/"
 }

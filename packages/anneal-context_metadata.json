@@ -1,0 +1,11 @@
+{
+  "name": "anneal-context",
+  "version": "0.1.1",
+  "summary": "Optimal context selection for AI coding assistants using QUBO/Ising formulation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "anneal_context-0.1.1.tar.gz",
+  "download_time": "2026-04-13T08:28:46.257839",
+  "package_url": "https://pypi.org/project/anneal-context/"
+}

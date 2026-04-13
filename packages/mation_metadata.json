@@ -1,11 +1,11 @@
 {
   "name": "mation",
-  "version": "0.4.8",
+  "version": "0.4.17",
   "summary": "CC Worker orchestration CLI — adopt, monitor, and drive Claude Code agents via cmux",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mation-0.4.8.tar.gz",
-  "download_time": "2026-04-13T03:58:38.920991",
+  "download_filename": "mation-0.4.17.tar.gz",
+  "download_time": "2026-04-13T08:28:29.402832",
   "package_url": "https://pypi.org/project/mation/"
 }

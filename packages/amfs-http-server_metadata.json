@@ -1,0 +1,11 @@
+{
+  "name": "amfs-http-server",
+  "version": "0.3.2",
+  "summary": "AMFS HTTP/REST API server with SSE support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "amfs_http_server-0.3.2.tar.gz",
+  "download_time": "2026-04-13T08:28:53.123087",
+  "package_url": "https://pypi.org/project/amfs-http-server/"
+}

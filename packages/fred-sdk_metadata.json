@@ -1,0 +1,11 @@
+{
+  "name": "fred-sdk",
+  "version": "0.1.4",
+  "summary": "Authoring SDK for Fred agents — graph, ReAct, and team agent primitives.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fred_sdk-0.1.4.tar.gz",
+  "download_time": "2026-04-13T08:29:07.192634",
+  "package_url": "https://pypi.org/project/fred-sdk/"
+}

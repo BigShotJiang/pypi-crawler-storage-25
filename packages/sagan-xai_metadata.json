@@ -1,11 +1,11 @@
 {
   "name": "sagan-xai",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Explainable probabilistic ensemble for mean-reversion trading using PINN + TFT + XAI-RL",
   "author": "Sagan Labs",
   "license": "MIT",
   "home_page": "https://github.com/sagan-labs/sagan-xai",
-  "download_filename": "sagan_xai-0.1.1.tar.gz",
-  "download_time": "2026-04-13T06:19:06.578994",
+  "download_filename": "sagan_xai-0.1.2.tar.gz",
+  "download_time": "2026-04-13T08:28:57.275536",
   "package_url": "https://pypi.org/project/sagan-xai/"
 }

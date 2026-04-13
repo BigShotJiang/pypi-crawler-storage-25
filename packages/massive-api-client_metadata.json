@@ -1,11 +1,11 @@
 {
   "name": "massive-api-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A Python async wrapper for massive.com API",
   "author": "Casey Vu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "massive_api_client-0.0.1.tar.gz",
-  "download_time": "2026-04-07T03:23:26.851839",
+  "download_filename": "massive_api_client-0.0.2.tar.gz",
+  "download_time": "2026-04-13T08:29:02.522172",
   "package_url": "https://pypi.org/project/massive-api-client/"
 }

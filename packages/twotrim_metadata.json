@@ -1,0 +1,11 @@
+{
+  "name": "twotrim",
+  "version": "0.1.1",
+  "summary": "Universal token compression fabric for LLM applications",
+  "author": "TwoTrim Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "twotrim-0.1.1.tar.gz",
+  "download_time": "2026-04-13T08:28:51.539053",
+  "package_url": "https://pypi.org/project/twotrim/"
+}

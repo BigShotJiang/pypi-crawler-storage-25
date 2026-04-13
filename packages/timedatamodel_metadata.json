@@ -1,0 +1,11 @@
+{
+  "name": "timedatamodel",
+  "version": "0.2.0",
+  "summary": "A lightweight data model for time series data with pandas, numpy, and polars support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "timedatamodel-0.2.0.tar.gz",
+  "download_time": "2026-04-13T08:28:49.445363",
+  "package_url": "https://pypi.org/project/timedatamodel/"
+}

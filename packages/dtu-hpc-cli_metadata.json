@@ -1,0 +1,11 @@
+{
+  "name": "dtu-hpc-cli",
+  "version": "1.5.1",
+  "summary": "CLI to make it easier to work with the HPC cluster at the Technical University of Denmark (DTU).",
+  "author": "Christoffer Koo Øhrstrøm",
+  "license": "MIT",
+  "home_page": "https://github.com/ChrisFugl/DTU-HPC-CLI",
+  "download_filename": "dtu_hpc_cli-1.5.1.tar.gz",
+  "download_time": "2026-04-13T08:28:30.439189",
+  "package_url": "https://pypi.org/project/dtu-hpc-cli/"
+}

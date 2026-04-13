@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-apparmor-check",
+  "version": "1.0.0",
+  "summary": "AppArmor profile status checker",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_apparmor_check-1.0.0.tar.gz",
+  "download_time": "2026-04-13T08:29:06.674750",
+  "package_url": "https://pypi.org/project/dargslan-apparmor-check/"
+}

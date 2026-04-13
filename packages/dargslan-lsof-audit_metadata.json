@@ -1,0 +1,11 @@
+{
+  "name": "dargslan-lsof-audit",
+  "version": "1.0.0",
+  "summary": "Open files and ports auditor",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dargslan_lsof_audit-1.0.0.tar.gz",
+  "download_time": "2026-04-13T08:29:06.156868",
+  "package_url": "https://pypi.org/project/dargslan-lsof-audit/"
+}
