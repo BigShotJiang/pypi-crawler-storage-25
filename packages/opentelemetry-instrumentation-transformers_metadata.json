@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-transformers",
-  "version": "0.58.1",
+  "version": "0.59.0",
   "summary": "OpenTelemetry transformers instrumentation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_transformers-0.58.1.tar.gz",
-  "download_time": "2026-04-12T08:13:26.536952",
+  "download_filename": "opentelemetry_instrumentation_transformers-0.59.0.tar.gz",
+  "download_time": "2026-04-13T06:19:46.070893",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-transformers/"
 }

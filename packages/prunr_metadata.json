@@ -1,0 +1,11 @@
+{
+  "name": "prunr",
+  "version": "0.1.1",
+  "summary": "Scan your Elasticsearch/OpenSearch cluster. Find dead indices, wasted storage, and cost savings.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prunr-0.1.1.tar.gz",
+  "download_time": "2026-04-13T06:19:09.215943",
+  "package_url": "https://pypi.org/project/prunr/"
+}

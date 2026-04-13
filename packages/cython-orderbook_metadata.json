@@ -1,0 +1,11 @@
+{
+  "name": "cython-orderbook",
+  "version": "0.1.1",
+  "summary": "A high-performance order book implementation using Cython",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cython_orderbook-0.1.1.tar.gz",
+  "download_time": "2026-04-13T06:19:35.264171",
+  "package_url": "https://pypi.org/project/cython-orderbook/"
+}

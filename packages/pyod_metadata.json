@@ -1,0 +1,11 @@
+{
+  "name": "pyod",
+  "version": "3.0.0",
+  "summary": "A Python library for anomaly detection across tabular, time series, graph, text, and image data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyod-3.0.0.tar.gz",
+  "download_time": "2026-04-13T06:19:37.337172",
+  "package_url": "https://pypi.org/project/pyod/"
+}

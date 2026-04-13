@@ -1,11 +1,11 @@
 {
   "name": "tfdocs",
-  "version": "1.5.2",
+  "version": "1.6.1",
   "summary": "Documentation generator for Terraform modules",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tfdocs-1.5.2.tar.gz",
-  "download_time": "2026-04-11T21:36:01.230087",
+  "download_filename": "tfdocs-1.6.1.tar.gz",
+  "download_time": "2026-04-13T06:19:12.459051",
   "package_url": "https://pypi.org/project/tfdocs/"
 }

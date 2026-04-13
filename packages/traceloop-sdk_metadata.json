@@ -1,11 +1,11 @@
 {
   "name": "traceloop-sdk",
-  "version": "0.56.0",
+  "version": "0.59.0",
   "summary": "Traceloop Software Development Kit (SDK) for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "traceloop_sdk-0.56.0.tar.gz",
-  "download_time": "2026-03-30T08:49:39.735000",
+  "download_filename": "traceloop_sdk-0.59.0.tar.gz",
+  "download_time": "2026-04-13T06:19:22.766484",
   "package_url": "https://pypi.org/project/traceloop-sdk/"
 }

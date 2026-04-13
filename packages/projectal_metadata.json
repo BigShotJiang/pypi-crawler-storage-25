@@ -1,0 +1,11 @@
+{
+  "name": "projectal",
+  "version": "6.0.0",
+  "summary": "Python bindings for the Projectal API",
+  "author": "Projectal",
+  "license": "MIT",
+  "home_page": "https://projectal.com/resources/developer",
+  "download_filename": "projectal-6.0.0.tar.gz",
+  "download_time": "2026-04-13T06:19:31.166468",
+  "package_url": "https://pypi.org/project/projectal/"
+}

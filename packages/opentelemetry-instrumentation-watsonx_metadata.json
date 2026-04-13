@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-watsonx",
-  "version": "0.58.1",
+  "version": "0.59.0",
   "summary": "OpenTelemetry IBM Watsonx Instrumentation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_watsonx-0.58.1.tar.gz",
-  "download_time": "2026-04-12T08:13:24.971126",
+  "download_filename": "opentelemetry_instrumentation_watsonx-0.59.0.tar.gz",
+  "download_time": "2026-04-13T06:19:44.534846",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-watsonx/"
 }

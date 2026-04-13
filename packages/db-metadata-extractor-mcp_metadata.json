@@ -1,11 +1,11 @@
 {
   "name": "db-metadata-extractor-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python MCP stdio server for database metadata extraction.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "db_metadata_extractor_mcp-0.1.0.tar.gz",
-  "download_time": "2026-04-08T10:10:26.316886",
+  "download_filename": "db_metadata_extractor_mcp-0.1.1.tar.gz",
+  "download_time": "2026-04-13T06:19:29.071175",
   "package_url": "https://pypi.org/project/db-metadata-extractor-mcp/"
 }
