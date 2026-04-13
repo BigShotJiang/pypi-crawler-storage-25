@@ -1,11 +1,11 @@
 {
   "name": "chivel",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "summary": "Computer vision, OCR, and input automation toolkit",
   "author": "CHIVEL",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chivel-0.7.0.tar.gz",
-  "download_time": "2026-04-01T05:13:50.227456",
+  "download_filename": "chivel-0.7.2.tar.gz",
+  "download_time": "2026-04-13T22:08:08.485465",
   "package_url": "https://pypi.org/project/chivel/"
 }

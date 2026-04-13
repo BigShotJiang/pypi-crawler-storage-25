@@ -1,0 +1,11 @@
+{
+  "name": "talon-bridge",
+  "version": "0.0.2",
+  "summary": "TALON Bridge: PyTorch export, import, and runtime for Talon IR graphs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "talon_bridge-0.0.2-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-13T22:08:09.623140",
+  "package_url": "https://pypi.org/project/talon-bridge/"
+}

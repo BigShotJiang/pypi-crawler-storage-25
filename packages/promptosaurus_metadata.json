@@ -1,0 +1,11 @@
+{
+  "name": "promptosaurus",
+  "version": "0.6.0",
+  "summary": "Build AI coding assistant configs from a shared prompt library",
+  "author": "john@snoodleboot.io",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "promptosaurus-0.6.0.tar.gz",
+  "download_time": "2026-04-13T22:08:06.785137",
+  "package_url": "https://pypi.org/project/promptosaurus/"
+}

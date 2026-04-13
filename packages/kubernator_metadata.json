@@ -1,0 +1,11 @@
+{
+  "name": "kubernator",
+  "version": "1.0.23",
+  "summary": "Kubernator is the a pluggable framework for K8S provisioning",
+  "author": "Express Systems USA, Inc.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/karellen/kubernator",
+  "download_filename": "kubernator-1.0.23.tar.gz",
+  "download_time": "2026-04-13T22:08:22.076518",
+  "package_url": "https://pypi.org/project/kubernator/"
+}

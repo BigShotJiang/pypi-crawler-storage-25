@@ -1,0 +1,11 @@
+{
+  "name": "watchdog-ai",
+  "version": "0.1.1",
+  "summary": "Runtime verification for AI-built systems. Catch silent failures, contradictions, and stale data before they cost you.",
+  "author": "Soul Automation",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "watchdog_ai-0.1.1.tar.gz",
+  "download_time": "2026-04-13T22:07:56.268846",
+  "package_url": "https://pypi.org/project/watchdog-ai/"
+}

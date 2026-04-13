@@ -1,11 +1,11 @@
 {
   "name": "cjm-fasthtml-workflow-session-management",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A workflow-agnostic FastHTML library for managing multiple in-progress workflow sessions with list, resume, create, delete, and rename sessions stored in a cjm-workflow-state state database.",
   "author": "Christian J. Mills",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cj-mills/cjm-fasthtml-workflow-session-management",
-  "download_filename": "cjm_fasthtml_workflow_session_management-0.0.3.tar.gz",
-  "download_time": "2026-04-09T04:46:11.381868",
+  "download_filename": "cjm_fasthtml_workflow_session_management-0.0.4.tar.gz",
+  "download_time": "2026-04-13T22:08:26.642057",
   "package_url": "https://pypi.org/project/cjm-fasthtml-workflow-session-management/"
 }

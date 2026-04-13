@@ -1,11 +1,11 @@
 {
   "name": "pktron",
-  "version": "2.9.6",
-  "summary": "PKTron — #1 South Asia | #3 Asia | #9 Global — The First Truly AI-Native, End-to-End Quantum + ML + Simulation Platform",
-  "author": null,
-  "license": "MIT",
+  "version": "3.0.3",
+  "summary": "PKTron - Pakistan's 1st Quantum AI Powered Simulation Framework",
+  "author": "CETQAP",
+  "license": null,
   "home_page": null,
-  "download_filename": "pktron-2.9.6.tar.gz",
-  "download_time": "2026-04-08T12:09:01.473793",
+  "download_filename": "pktron-3.0.3.tar.gz",
+  "download_time": "2026-04-13T22:08:14.817429",
   "package_url": "https://pypi.org/project/pktron/"
 }

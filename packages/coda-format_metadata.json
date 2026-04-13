@@ -1,11 +1,11 @@
 {
   "name": "coda-format",
-  "version": "2.1.1",
+  "version": "2.2.2",
   "summary": "Python bindings for the Coda configuration format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "coda_format-2.1.1-py3-none-manylinux_2_17_aarch64.whl",
-  "download_time": "2026-04-13T18:50:23.230657",
+  "download_filename": "coda_format-2.2.2-py3-none-manylinux_2_17_aarch64.whl",
+  "download_time": "2026-04-13T22:08:10.730648",
   "package_url": "https://pypi.org/project/coda-format/"
 }

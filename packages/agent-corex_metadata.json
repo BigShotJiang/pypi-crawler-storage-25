@@ -1,11 +1,11 @@
 {
   "name": "agent-corex",
-  "version": "3.0.3",
-  "summary": "Fast, accurate MCP tool retrieval engine for LLMs — with pack manager, MCP gateway, and uvx support",
+  "version": "4.2.0",
+  "summary": "Thin CLI + MCP client for Agent-CoreX — execute any task with a single query",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_corex-3.0.3.tar.gz",
-  "download_time": "2026-04-10T11:18:13.149594",
+  "download_filename": "agent_corex-4.2.0.tar.gz",
+  "download_time": "2026-04-13T22:08:29.431380",
   "package_url": "https://pypi.org/project/agent-corex/"
 }

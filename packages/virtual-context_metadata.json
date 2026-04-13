@@ -1,11 +1,11 @@
 {
   "name": "virtual-context",
-  "version": "0.2.8",
+  "version": "0.3.7",
   "summary": "OS-style virtual memory for LLM session context management",
   "author": "Y. Ahmed Kidwai",
   "license": null,
   "home_page": null,
-  "download_filename": "virtual_context-0.2.8.tar.gz",
-  "download_time": "2026-03-28T21:59:55.640071",
+  "download_filename": "virtual_context-0.3.7.tar.gz",
+  "download_time": "2026-04-13T22:08:33.266596",
   "package_url": "https://pypi.org/project/virtual-context/"
 }

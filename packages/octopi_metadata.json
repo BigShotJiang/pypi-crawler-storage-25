@@ -1,0 +1,11 @@
+{
+  "name": "octopi",
+  "version": "1.5.0",
+  "summary": "Model architecture exploration for cryoET particle picking",
+  "author": "Jonathan Schwartz, Kevin Zhao, Daniel Ji, Utz Ermel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "octopi-1.5.0-py3-none-any.whl",
+  "download_time": "2026-04-13T22:08:29.977008",
+  "package_url": "https://pypi.org/project/octopi/"
+}
