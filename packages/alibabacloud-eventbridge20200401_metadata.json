@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-eventbridge20200401",
+  "version": "8.0.8",
+  "summary": "Alibaba Cloud eventbridge (20200401) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_eventbridge20200401-8.0.8.tar.gz",
+  "download_time": "2026-04-13T18:50:26.894100",
+  "package_url": "https://pypi.org/project/alibabacloud-eventbridge20200401/"
+}

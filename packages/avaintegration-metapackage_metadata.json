@@ -1,11 +1,11 @@
 {
   "name": "avaintegration-metapackage",
-  "version": "6.0.4.3",
+  "version": "6.0.4.10",
   "summary": "Meta-pacote para projetos Django",
   "author": "IFRN - DEAD",
   "license": null,
   "home_page": "https://github.com/IFRN/ava-metapackage",
-  "download_filename": "avaintegration_metapackage-6.0.4.3.tar.gz",
-  "download_time": "2026-04-09T14:57:40.598728",
+  "download_filename": "avaintegration_metapackage-6.0.4.10.tar.gz",
+  "download_time": "2026-04-13T18:50:05.003482",
   "package_url": "https://pypi.org/project/avaintegration-metapackage/"
 }

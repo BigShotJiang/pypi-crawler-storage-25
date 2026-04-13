@@ -1,11 +1,11 @@
 {
   "name": "cdk-tweet-queue",
-  "version": "2.0.944",
+  "version": "2.0.946",
   "summary": "Defines an SQS queue with tweet stream from a search",
   "author": "Amazon Web Services<aws-cdk-dev@amazon.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cdklabs/cdk-tweet-queue",
-  "download_filename": "cdk_tweet_queue-2.0.944.tar.gz",
-  "download_time": "2026-03-30T18:40:36.124435",
+  "download_filename": "cdk_tweet_queue-2.0.946.tar.gz",
+  "download_time": "2026-04-13T18:50:42.171639",
   "package_url": "https://pypi.org/project/cdk-tweet-queue/"
 }

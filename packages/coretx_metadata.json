@@ -1,11 +1,11 @@
 {
   "name": "coretx",
-  "version": "0.5.1",
+  "version": "0.7.2",
   "summary": "Structured memory for AI that persists, attributes, and connects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "coretx-0.5.1.tar.gz",
-  "download_time": "2026-04-12T19:57:35.066970",
+  "download_filename": "coretx-0.7.2.tar.gz",
+  "download_time": "2026-04-13T18:50:26.372796",
   "package_url": "https://pypi.org/project/coretx/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aiovban-pyaudio",
-  "version": "0.2.2",
+  "version": "0.2.6",
   "summary": "A PyAudio wrapper for aiovban",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiovban_pyaudio-0.2.2.tar.gz",
-  "download_time": "2026-04-07T18:03:40.217130",
+  "download_filename": "aiovban_pyaudio-0.2.6.tar.gz",
+  "download_time": "2026-04-13T18:50:23.750151",
   "package_url": "https://pypi.org/project/aiovban-pyaudio/"
 }

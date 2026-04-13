@@ -1,0 +1,11 @@
+{
+  "name": "plone.restapi",
+  "version": "9.15.4",
+  "summary": "plone.restapi is a RESTful hypermedia API for Plone.",
+  "author": "Timo Stollenwerk (kitconcept GmbH)",
+  "license": "gpl",
+  "home_page": "https://github.com/plone/plone.restapi/",
+  "download_filename": "plone_restapi-9.15.4.tar.gz",
+  "download_time": "2026-04-13T18:50:27.455583",
+  "package_url": "https://pypi.org/project/plone.restapi/"
+}
