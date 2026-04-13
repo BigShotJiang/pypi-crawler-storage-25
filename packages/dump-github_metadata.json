@@ -1,0 +1,11 @@
+{
+  "name": "dump-github",
+  "version": "0.1.8",
+  "summary": "This tool can be used to back up users' GitHub repositories in case they need them later.",
+  "author": "core2002",
+  "license": "MIT",
+  "home_page": "https://github.com/core2002/dump_github",
+  "download_filename": "dump_github-0.1.8-py3-none-any.whl",
+  "download_time": "2026-04-13T11:48:42.214571",
+  "package_url": "https://pypi.org/project/dump-github/"
+}

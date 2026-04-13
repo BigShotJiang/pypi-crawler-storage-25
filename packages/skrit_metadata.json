@@ -1,11 +1,11 @@
 {
   "name": "skrit",
-  "version": "0.3.1",
+  "version": "0.4.2",
   "summary": "Serbian street-slang text transformations: satrovacki, utrovacki and leetrovacki.",
   "author": null,
-  "license": null,
+  "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "skrit-0.3.1.tar.gz",
-  "download_time": "2026-04-12T23:23:22.225163",
+  "download_filename": "skrit-0.4.2.tar.gz",
+  "download_time": "2026-04-13T11:49:06.918670",
   "package_url": "https://pypi.org/project/skrit/"
 }

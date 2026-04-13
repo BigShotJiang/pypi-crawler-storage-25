@@ -1,0 +1,11 @@
+{
+  "name": "k8s-debug-tool",
+  "version": "0.1.0",
+  "summary": "CLI to inspect Kubernetes pods and common failure states in a namespace.",
+  "author": "Sanket Gawali",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "k8s_debug_tool-0.1.0.tar.gz",
+  "download_time": "2026-04-13T11:48:49.116001",
+  "package_url": "https://pypi.org/project/k8s-debug-tool/"
+}

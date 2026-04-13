@@ -1,11 +1,11 @@
 {
   "name": "plotastrodata",
-  "version": "1.8.14",
+  "version": "1.8.15",
   "summary": "plotastrodata is a tool for astronomers to create figures from FITS files and perform fundamental data analyses with ease.",
   "author": "yusukeaso-astron",
   "license": "GNU General Public License Version 3",
   "home_page": "https://github.com/yusukeaso-astron/plotastrodata",
-  "download_filename": "plotastrodata-1.8.14.tar.gz",
-  "download_time": "2026-04-12T13:39:37.063264",
+  "download_filename": "plotastrodata-1.8.15.tar.gz",
+  "download_time": "2026-04-13T11:48:33.222530",
   "package_url": "https://pypi.org/project/plotastrodata/"
 }

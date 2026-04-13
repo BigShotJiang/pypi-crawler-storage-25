@@ -1,0 +1,11 @@
+{
+  "name": "uuid_utils",
+  "version": "0.14.1",
+  "summary": "Fast, drop-in replacement for Python's uuid module, powered by Rust.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uuid_utils-0.14.1.tar.gz",
+  "download_time": "2026-04-13T11:48:35.907092",
+  "package_url": "https://pypi.org/project/uuid_utils/"
+}

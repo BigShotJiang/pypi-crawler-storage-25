@@ -1,11 +1,11 @@
 {
   "name": "nj-py",
-  "version": "0.0.15",
+  "version": "0.0.19",
   "summary": "Neighbor-Joining phylogenetic tree inference. Auto-detects DNA/protein, supports multiple substitution models and bootstrap.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nj_py-0.0.15.tar.gz",
-  "download_time": "2026-04-02T08:07:38.411635",
+  "download_filename": "nj_py-0.0.19.tar.gz",
+  "download_time": "2026-04-13T11:49:11.750653",
   "package_url": "https://pypi.org/project/nj-py/"
 }

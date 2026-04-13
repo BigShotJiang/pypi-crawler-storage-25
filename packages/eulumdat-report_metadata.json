@@ -1,0 +1,11 @@
+{
+  "name": "eulumdat-report",
+  "version": "1.1.0",
+  "summary": "Photometric datasheet generator (HTML + PDF) from EULUMDAT .ldt files",
+  "author": "123VincentB",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eulumdat_report-1.1.0.tar.gz",
+  "download_time": "2026-04-13T11:49:00.447412",
+  "package_url": "https://pypi.org/project/eulumdat-report/"
+}

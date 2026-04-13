@@ -1,11 +1,11 @@
 {
   "name": "bht-mcp",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "MCP server for the BHt (Biblia Hebraica transcripta) Hebrew Bible database",
   "author": "Kyuhyun Han",
   "license": null,
   "home_page": null,
-  "download_filename": "bht_mcp-0.3.0.tar.gz",
-  "download_time": "2026-04-13T10:40:13.813061",
+  "download_filename": "bht_mcp-0.3.2.tar.gz",
+  "download_time": "2026-04-13T11:49:05.387152",
   "package_url": "https://pypi.org/project/bht-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "botversion-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "BotVersion AI Agent SDK for FastAPI, Flask, and Django",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "botversion_sdk-1.0.1.tar.gz",
-  "download_time": "2026-04-12T12:08:00.633132",
+  "download_filename": "botversion_sdk-1.0.2.tar.gz",
+  "download_time": "2026-04-13T11:49:06.410054",
   "package_url": "https://pypi.org/project/botversion-sdk/"
 }

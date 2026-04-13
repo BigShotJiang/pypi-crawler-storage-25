@@ -1,11 +1,11 @@
 {
   "name": "late-sdk",
-  "version": "1.3.44",
+  "version": "1.3.52",
   "summary": "The official Python library for the Zernio API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "late_sdk-1.3.44.tar.gz",
-  "download_time": "2026-04-08T08:49:12.811674",
+  "download_filename": "late_sdk-1.3.52.tar.gz",
+  "download_time": "2026-04-13T11:49:03.022472",
   "package_url": "https://pypi.org/project/late-sdk/"
 }
