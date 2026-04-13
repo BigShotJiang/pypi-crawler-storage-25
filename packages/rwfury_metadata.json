@@ -1,0 +1,11 @@
+{
+  "name": "rwfury",
+  "version": "0.3.1",
+  "summary": "Python library for reading and writing GTA RenderWare DFF, TXD, IMG, COL, and SA path files",
+  "author": "Hancapo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rwfury-0.3.1.tar.gz",
+  "download_time": "2026-04-13T23:10:14.312917",
+  "package_url": "https://pypi.org/project/rwfury/"
+}

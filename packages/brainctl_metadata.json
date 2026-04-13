@@ -1,11 +1,11 @@
 {
   "name": "brainctl",
-  "version": "1.1.1",
-  "summary": "Persistent memory for AI agents. One SQLite file. No server, no API keys, no LLM calls. MCP server included.",
+  "version": "1.3.0",
+  "summary": "Context engineering for AI agents — persistent memory, knowledge graph, affect tracking, and MCP server. Single SQLite file, zero LLM cost.",
   "author": "Terrence Schonleber",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "brainctl-1.1.1.tar.gz",
-  "download_time": "2026-04-10T21:07:02.552665",
+  "download_filename": "brainctl-1.3.0.tar.gz",
+  "download_time": "2026-04-13T23:09:34.457203",
   "package_url": "https://pypi.org/project/brainctl/"
 }

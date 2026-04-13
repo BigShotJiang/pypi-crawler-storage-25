@@ -1,11 +1,11 @@
 {
   "name": "mipiti-mcp",
-  "version": "0.23.0",
+  "version": "0.27.0",
   "summary": "MCP server for Mipiti — AI-powered security posture platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mipiti_mcp-0.23.0.tar.gz",
-  "download_time": "2026-04-08T22:04:35.353607",
+  "download_filename": "mipiti_mcp-0.27.0.tar.gz",
+  "download_time": "2026-04-13T23:09:41.680708",
   "package_url": "https://pypi.org/project/mipiti-mcp/"
 }

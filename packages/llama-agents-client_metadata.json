@@ -1,0 +1,11 @@
+{
+  "name": "llama-agents-client",
+  "version": "0.3.4",
+  "summary": "HTTP client for connecting to and interacting with LlamaIndex workflow servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_agents_client-0.3.4.tar.gz",
+  "download_time": "2026-04-13T23:10:01.942472",
+  "package_url": "https://pypi.org/project/llama-agents-client/"
+}

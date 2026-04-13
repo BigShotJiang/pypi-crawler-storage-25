@@ -1,0 +1,11 @@
+{
+  "name": "spooky-connect4",
+  "version": "0.7.0",
+  "summary": "High-performance Connect4 library with board sizes from 4x4 to 32x32",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spooky_connect4-0.7.0.tar.gz",
+  "download_time": "2026-04-13T23:09:37.010186",
+  "package_url": "https://pypi.org/project/spooky-connect4/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "achem",
-  "version": "1.0.4",
-  "summary": "Deep Web Research Tool - Aggregates 100+ sources, scrapes content, generates AI summaries",
-  "author": "ACHEM Contributors",
+  "version": "1.1.0",
+  "summary": "Deep Web Research Tool with Structural Positional Search - AI-powered synthesis using Ordinal Distance algorithm",
+  "author": "Sarok",
   "license": null,
   "home_page": null,
-  "download_filename": "achem-1.0.4.tar.gz",
-  "download_time": "2026-04-04T21:43:18.212453",
+  "download_filename": "achem-1.1.0.tar.gz",
+  "download_time": "2026-04-13T23:10:11.244820",
   "package_url": "https://pypi.org/project/achem/"
 }

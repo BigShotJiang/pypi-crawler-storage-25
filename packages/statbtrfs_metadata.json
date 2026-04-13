@@ -1,0 +1,11 @@
+{
+  "name": "statbtrfs",
+  "version": "0.27",
+  "summary": "Query Btrfs filesystem status",
+  "author": "Yufei Pan",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/yufei-pan/statbtrfs",
+  "download_filename": "statbtrfs-0.27.tar.gz",
+  "download_time": "2026-04-13T23:10:10.222914",
+  "package_url": "https://pypi.org/project/statbtrfs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "running_process",
-  "version": "3.0.7",
+  "version": "3.0.16",
   "summary": "A Rust-backed subprocess wrapper with split stdout/stderr streaming",
   "author": null,
   "license": "BSD 3-Clause License",
   "home_page": "https://github.com/zackees/running-process",
-  "download_filename": "running_process-3.0.7.tar.gz",
-  "download_time": "2026-04-10T22:40:28.267077",
+  "download_filename": "running_process-3.0.16.tar.gz",
+  "download_time": "2026-04-13T23:10:10.734564",
   "package_url": "https://pypi.org/project/running_process/"
 }

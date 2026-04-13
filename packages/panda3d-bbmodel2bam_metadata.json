@@ -1,0 +1,11 @@
+{
+  "name": "panda3d-bbmodel2bam",
+  "version": "0.1.0",
+  "summary": "Convert Blockbench .bbmodel files to Panda3D .bam files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "panda3d_bbmodel2bam-0.1.0.tar.gz",
+  "download_time": "2026-04-13T23:10:08.176980",
+  "package_url": "https://pypi.org/project/panda3d-bbmodel2bam/"
+}

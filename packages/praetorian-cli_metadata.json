@@ -1,0 +1,11 @@
+{
+  "name": "praetorian-cli",
+  "version": "2.4.2",
+  "summary": "For interacting with the Guard API",
+  "author": "Praetorian",
+  "license": null,
+  "home_page": "https://github.com/praetorian-inc/praetorian-cli",
+  "download_filename": "praetorian_cli-2.4.2.tar.gz",
+  "download_time": "2026-04-13T23:10:04.528421",
+  "package_url": "https://pypi.org/project/praetorian-cli/"
+}

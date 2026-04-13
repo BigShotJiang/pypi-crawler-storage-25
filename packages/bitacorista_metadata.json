@@ -1,11 +1,11 @@
 {
   "name": "bitacorista",
-  "version": "2.1.2",
+  "version": "2.2.0",
   "summary": "Structured memory for AI conversations. Mechanical event detection + semantic search, no LLM required.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bitacorista-2.1.2.tar.gz",
-  "download_time": "2026-04-13T21:14:04.361453",
+  "download_filename": "bitacorista-2.2.0.tar.gz",
+  "download_time": "2026-04-13T23:10:03.478468",
   "package_url": "https://pypi.org/project/bitacorista/"
 }

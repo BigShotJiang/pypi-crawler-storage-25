@@ -1,0 +1,11 @@
+{
+  "name": "pyfragment",
+  "version": "2026.2.0",
+  "summary": "Async Python client for the Fragment API — a unified toolkit to manage Telegram assets: purchase Stars and Premium, top up TON and Ads balances, run giveaways, manage anonymous numbers, and explore the marketplace for usernames, numbers, and gifts.",
+  "author": "bohd4nx",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyfragment-2026.2.0.tar.gz",
+  "download_time": "2026-04-13T23:09:39.632425",
+  "package_url": "https://pypi.org/project/pyfragment/"
+}

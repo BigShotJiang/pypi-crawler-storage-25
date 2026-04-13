@@ -1,11 +1,11 @@
 {
   "name": "sphinxcontrib-nexus",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "summary": "Unified code + documentation knowledge graph from Sphinx builds and Python AST analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sphinxcontrib_nexus-0.8.1.tar.gz",
-  "download_time": "2026-04-13T22:08:31.612120",
+  "download_filename": "sphinxcontrib_nexus-0.8.2.tar.gz",
+  "download_time": "2026-04-13T23:09:35.482129",
   "package_url": "https://pypi.org/project/sphinxcontrib-nexus/"
 }

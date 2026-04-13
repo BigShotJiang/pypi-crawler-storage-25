@@ -1,0 +1,11 @@
+{
+  "name": "rlbot_flatbuffers",
+  "version": "0.18.7",
+  "summary": "A Python module implemented in Rust for serializing and deserializing RLBot's flatbuffers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rlbot_flatbuffers-0.18.7.tar.gz",
+  "download_time": "2026-04-13T23:09:41.170001",
+  "package_url": "https://pypi.org/project/rlbot_flatbuffers/"
+}

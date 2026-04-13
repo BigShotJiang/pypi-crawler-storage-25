@@ -1,0 +1,11 @@
+{
+  "name": "ninia",
+  "version": "0.0.87",
+  "summary": "A small Python wrapper for Quantum Espresso - still in development",
+  "author": "Alex Summers",
+  "license": null,
+  "home_page": "https://github.com/ajsummers/ninia",
+  "download_filename": "ninia-0.0.87.tar.gz",
+  "download_time": "2026-04-13T23:09:32.917194",
+  "package_url": "https://pypi.org/project/ninia/"
+}
