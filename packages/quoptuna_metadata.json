@@ -1,0 +1,11 @@
+{
+  "name": "quoptuna",
+  "version": "0.0.4",
+  "summary": "quoptuna is a proposed open-source project that combines quantum computing with Optuna's hyperparameter optimization framework.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "quoptuna-0.0.4.tar.gz",
+  "download_time": "2026-04-13T20:10:20.747990",
+  "package_url": "https://pypi.org/project/quoptuna/"
+}

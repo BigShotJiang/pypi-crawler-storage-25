@@ -1,11 +1,11 @@
 {
   "name": "mcp-tools-py",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "An MCP server for running python code checks (pylint, pytest and mypy)",
   "author": "Marcus Jellinghaus",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_tools_py-0.1.5.tar.gz",
-  "download_time": "2026-03-31T08:08:52.003071",
+  "download_filename": "mcp_tools_py-0.1.7.tar.gz",
+  "download_time": "2026-04-13T20:09:47.371715",
   "package_url": "https://pypi.org/project/mcp-tools-py/"
 }

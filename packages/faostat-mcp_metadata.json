@@ -1,0 +1,11 @@
+{
+  "name": "faostat-mcp",
+  "version": "1.2.2",
+  "summary": "MCP server exposing the full FAOSTAT API to AI assistants",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "faostat_mcp-1.2.2.tar.gz",
+  "download_time": "2026-04-13T20:10:27.246642",
+  "package_url": "https://pypi.org/project/faostat-mcp/"
+}

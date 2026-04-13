@@ -1,0 +1,11 @@
+{
+  "name": "taskcluster-taskgraph",
+  "version": "21.0.0",
+  "summary": "Build taskcluster taskgraphs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "taskcluster_taskgraph-21.0.0.tar.gz",
+  "download_time": "2026-04-13T20:10:17.782122",
+  "package_url": "https://pypi.org/project/taskcluster-taskgraph/"
+}

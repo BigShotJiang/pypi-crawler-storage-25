@@ -1,11 +1,11 @@
 {
   "name": "finchge",
-  "version": "1.0.1b8",
+  "version": "1.0.1b9",
   "summary": "FinchGE is a grammatical evolution library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "finchge-1.0.1b8.tar.gz",
-  "download_time": "2026-04-10T20:23:49.147453",
+  "download_filename": "finchge-1.0.1b9.tar.gz",
+  "download_time": "2026-04-13T20:10:18.317075",
   "package_url": "https://pypi.org/project/finchge/"
 }

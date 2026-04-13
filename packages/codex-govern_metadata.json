@@ -1,0 +1,11 @@
+{
+  "name": "codex-govern",
+  "version": "1.0.0",
+  "summary": "Govern any AI call in 2 lines. Drop-in governance SDK for OpenAI, Anthropic, Google, and any LLM — policy evaluation, evidence generation, and audit-ready compliance metadata on every request.",
+  "author": "Jermaine Merritt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codex_govern-1.0.0.tar.gz",
+  "download_time": "2026-04-13T20:09:49.536201",
+  "package_url": "https://pypi.org/project/codex-govern/"
+}

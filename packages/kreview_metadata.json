@@ -1,11 +1,11 @@
 {
   "name": "kreview",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Evaluate cfDNA fragmentomics features for ctDNA detection",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "kreview-0.0.6.tar.gz",
-  "download_time": "2026-04-10T20:24:20.056298",
+  "download_filename": "kreview-0.0.7.tar.gz",
+  "download_time": "2026-04-13T20:10:15.642492",
   "package_url": "https://pypi.org/project/kreview/"
 }
