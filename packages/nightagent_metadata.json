@@ -1,0 +1,11 @@
+{
+  "name": "nightagent",
+  "version": "0.0.0",
+  "summary": "Automatically Detect and Repair Common Firewall Issues",
+  "author": "Daniel J. Dufour",
+  "license": null,
+  "home_page": "https://github.com/gocarta/nightagent",
+  "download_filename": "nightagent-0.0.0.tar.gz",
+  "download_time": "2026-04-13T00:06:35.558146",
+  "package_url": "https://pypi.org/project/nightagent/"
+}

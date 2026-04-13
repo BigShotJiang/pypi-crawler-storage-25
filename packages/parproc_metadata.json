@@ -1,11 +1,11 @@
 {
   "name": "parproc",
-  "version": "0.6.2",
+  "version": "0.6.4",
   "summary": "Process Parallelization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "parproc-0.6.2.tar.gz",
-  "download_time": "2026-03-28T14:40:00.011938",
+  "download_filename": "parproc-0.6.4.tar.gz",
+  "download_time": "2026-04-13T00:06:54.408377",
   "package_url": "https://pypi.org/project/parproc/"
 }

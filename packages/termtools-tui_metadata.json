@@ -1,0 +1,11 @@
+{
+  "name": "termtools-tui",
+  "version": "0.2.0",
+  "summary": "A beautiful TUI to browse the CLI tools you have installed.",
+  "author": "Max Tillinger",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "termtools_tui-0.2.0.tar.gz",
+  "download_time": "2026-04-13T00:06:21.881619",
+  "package_url": "https://pypi.org/project/termtools-tui/"
+}

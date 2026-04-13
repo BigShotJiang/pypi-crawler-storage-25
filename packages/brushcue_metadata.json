@@ -1,11 +1,11 @@
 {
   "name": "brushcue",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Python bindings for the Matisse graph computation system",
   "author": "Dito Technologies LLC",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "brushcue-0.0.3-cp311-abi3-macosx_11_0_arm64.whl",
-  "download_time": "2026-04-12T22:02:26.670758",
+  "download_filename": "brushcue-0.0.4-cp311-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-13T00:06:35.049444",
   "package_url": "https://pypi.org/project/brushcue/"
 }

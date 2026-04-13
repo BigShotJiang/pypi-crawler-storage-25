@@ -1,0 +1,11 @@
+{
+  "name": "macos-smi",
+  "version": "0.1.1",
+  "summary": "nvidia-smi equivalent for Apple Silicon — real-time GPU/CPU/RAM monitor",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "macos_smi-0.1.1.tar.gz",
+  "download_time": "2026-04-13T00:06:41.218416",
+  "package_url": "https://pypi.org/project/macos-smi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "prodigy-teams-pam-sdk",
-  "version": "13.0.3",
+  "version": "13.0.4",
   "summary": "Ellf Annotation Manager SDK",
   "author": "ExplosionAI GmbH",
   "license": "All rights reserved",
   "home_page": "https://github.com/explosion/prodigy-teams",
-  "download_filename": "prodigy_teams_pam_sdk-13.0.3.tar.gz",
-  "download_time": "2026-04-12T22:45:00.126033",
+  "download_filename": "prodigy_teams_pam_sdk-13.0.4.tar.gz",
+  "download_time": "2026-04-13T00:06:31.136759",
   "package_url": "https://pypi.org/project/prodigy-teams-pam-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vaultak-sentry",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Vaultak Sentry — monitor any AI agent with zero code changes",
   "author": "Vaultak",
   "license": null,
   "home_page": "https://vaultak.com",
-  "download_filename": "vaultak_sentry-0.6.0-py3-none-any.whl",
-  "download_time": "2026-04-12T23:23:21.673899",
+  "download_filename": "vaultak_sentry-0.6.1-py3-none-any.whl",
+  "download_time": "2026-04-13T00:06:18.187604",
   "package_url": "https://pypi.org/project/vaultak-sentry/"
 }

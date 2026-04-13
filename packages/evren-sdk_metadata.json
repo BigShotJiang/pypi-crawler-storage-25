@@ -1,11 +1,11 @@
 {
   "name": "evren-sdk",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "EVREN MLOps Platform — Python inference SDK for object detection, classification, and segmentation models.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evren_sdk-0.6.0.tar.gz",
-  "download_time": "2026-04-12T23:23:09.192001",
+  "download_filename": "evren_sdk-0.7.0.tar.gz",
+  "download_time": "2026-04-13T00:06:28.057906",
   "package_url": "https://pypi.org/project/evren-sdk/"
 }
