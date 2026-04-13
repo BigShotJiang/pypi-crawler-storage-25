@@ -1,0 +1,11 @@
+{
+  "name": "calendar-mcp",
+  "version": "1.0.0",
+  "summary": "Provider-agnostic CalDAV calendar MCP server for AI assistants",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "calendar_mcp-1.0.0.tar.gz",
+  "download_time": "2026-04-13T12:52:43.760835",
+  "package_url": "https://pypi.org/project/calendar-mcp/"
+}

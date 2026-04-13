@@ -1,0 +1,11 @@
+{
+  "name": "rsi-explorer-jtac",
+  "version": "1.5.2",
+  "summary": "RSI (Request Support Information) parser and Junos CLI simulator",
+  "author": "Ying Wang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rsi_explorer_jtac-1.5.2-py3-none-any.whl",
+  "download_time": "2026-04-13T12:52:10.868537",
+  "package_url": "https://pypi.org/project/rsi-explorer-jtac/"
+}

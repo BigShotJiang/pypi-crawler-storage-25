@@ -1,0 +1,11 @@
+{
+  "name": "impectPy",
+  "version": "2.5.10",
+  "summary": "A Python package to facilitate interaction with the Impect customer API",
+  "author": "Impect",
+  "license": "MIT",
+  "home_page": "https://github.com/ImpectAPI/impectPy",
+  "download_filename": "impectpy-2.5.10.tar.gz",
+  "download_time": "2026-04-13T12:52:09.263875",
+  "package_url": "https://pypi.org/project/impectPy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spindle-token",
+  "version": "2.0.0",
+  "summary": "PySpark implementation of the Open Privacy Preserving Record Linkage protocol.",
+  "author": "Eddie Pantridge",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spindle_token-2.0.0.tar.gz",
+  "download_time": "2026-04-13T12:52:32.913508",
+  "package_url": "https://pypi.org/project/spindle-token/"
+}

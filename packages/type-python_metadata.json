@@ -1,11 +1,11 @@
 {
   "name": "type-python",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A statically-typed authoring language that compiles to standard Python",
   "author": "unadlib",
   "license": null,
   "home_page": null,
-  "download_filename": "type_python-0.1.0.tar.gz",
-  "download_time": "2026-04-11T16:40:44.280174",
+  "download_filename": "type_python-0.2.0.tar.gz",
+  "download_time": "2026-04-13T12:52:39.410346",
   "package_url": "https://pypi.org/project/type-python/"
 }

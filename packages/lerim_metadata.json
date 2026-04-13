@@ -1,11 +1,11 @@
 {
   "name": "lerim",
-  "version": "0.1.70",
+  "version": "0.1.71",
   "summary": "Continual learning layer for coding agents and software projects.",
   "author": null,
   "license": "BSL-1.1",
   "home_page": null,
-  "download_filename": "lerim-0.1.70.tar.gz",
-  "download_time": "2026-03-28T07:34:28.820482",
+  "download_filename": "lerim-0.1.71.tar.gz",
+  "download_time": "2026-04-13T12:52:49.647015",
   "package_url": "https://pypi.org/project/lerim/"
 }

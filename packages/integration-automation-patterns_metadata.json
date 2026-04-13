@@ -1,11 +1,11 @@
 {
   "name": "integration-automation-patterns",
-  "version": "0.5.4",
+  "version": "0.20.0",
   "summary": "Reference patterns for reliable enterprise integration, workflow automation, and system-of-record synchronization.",
   "author": "Ashutosh Rana",
   "license": null,
   "home_page": null,
-  "download_filename": "integration_automation_patterns-0.5.4.tar.gz",
-  "download_time": "2026-04-13T03:58:50.521910",
+  "download_filename": "integration_automation_patterns-0.20.0.tar.gz",
+  "download_time": "2026-04-13T12:52:18.925536",
   "package_url": "https://pypi.org/project/integration-automation-patterns/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "llm-chunk-optimizer",
+  "version": "0.1.1",
+  "summary": "Semantic-aware chunking with provenance tracking for production RAG and LLM data pipelines",
+  "author": "chunkops contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_chunk_optimizer-0.1.1.tar.gz",
+  "download_time": "2026-04-13T12:52:17.855887",
+  "package_url": "https://pypi.org/project/llm-chunk-optimizer/"
+}

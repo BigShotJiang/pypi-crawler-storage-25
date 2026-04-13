@@ -1,11 +1,11 @@
 {
   "name": "5mghost-rover",
-  "version": "0.0.10",
+  "version": "0.0.13",
   "summary": "Reddit MCP server — access Reddit data through MCP protocol",
   "author": "mkterswingman",
   "license": null,
   "home_page": null,
-  "download_filename": "5mghost_rover-0.0.10.tar.gz",
-  "download_time": "2026-04-13T10:40:07.716933",
+  "download_filename": "5mghost_rover-0.0.13.tar.gz",
+  "download_time": "2026-04-13T12:52:37.263683",
   "package_url": "https://pypi.org/project/5mghost-rover/"
 }

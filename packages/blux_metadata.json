@@ -1,11 +1,11 @@
 {
   "name": "blux",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "面向 Bilibili 场景的无状态工具库。",
   "author": "Hansimov",
   "license": null,
   "home_page": null,
-  "download_filename": "blux-0.5.1.tar.gz",
-  "download_time": "2026-04-12T19:13:11.525597",
+  "download_filename": "blux-0.5.2.tar.gz",
+  "download_time": "2026-04-13T12:52:45.369677",
   "package_url": "https://pypi.org/project/blux/"
 }

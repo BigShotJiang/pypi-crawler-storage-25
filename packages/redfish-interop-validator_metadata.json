@@ -1,0 +1,11 @@
+{
+  "name": "redfish-interop-validator",
+  "version": "2.3.4",
+  "summary": "Redfish Interop Validator",
+  "author": "DMTF, https://www.dmtf.org/standards/feedback",
+  "license": "BSD 3-clause \"New\" or \"Revised License\"",
+  "home_page": "https://github.com/DMTF/Redfish-Interop-Validator",
+  "download_filename": "redfish_interop_validator-2.3.4.tar.gz",
+  "download_time": "2026-04-13T12:52:24.869777",
+  "package_url": "https://pypi.org/project/redfish-interop-validator/"
+}
