@@ -1,0 +1,11 @@
+{
+  "name": "morning-email-brief",
+  "version": "1.0.1",
+  "summary": "AI-powered CLI tool that reads your Gmail, summarizes every email with AI, and tells you what to reply to first",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "morning_email_brief-1.0.1.tar.gz",
+  "download_time": "2026-04-13T16:16:31.548125",
+  "package_url": "https://pypi.org/project/morning-email-brief/"
+}

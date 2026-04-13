@@ -1,11 +1,11 @@
 {
   "name": "wuwei",
-  "version": "0.1.0a1",
+  "version": "0.1.2",
   "summary": "Wuwei - 无为而治的 AI 智能体框架",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wuwei-0.1.0a1.tar.gz",
-  "download_time": "2026-04-07T08:15:51.477598",
+  "download_filename": "wuwei-0.1.2.tar.gz",
+  "download_time": "2026-04-13T16:16:53.598667",
   "package_url": "https://pypi.org/project/wuwei/"
 }

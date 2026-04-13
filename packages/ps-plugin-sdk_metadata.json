@@ -1,11 +1,11 @@
 {
   "name": "ps-plugin-sdk",
-  "version": "0.2.22",
+  "version": "0.2.25",
   "summary": "SDK for ps-poetry plugin modules: shared abstractions, models, protocols, and pyproject.toml utilities",
   "author": "ztBlackGad",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ps_plugin_sdk-0.2.22.tar.gz",
-  "download_time": "2026-04-12T22:02:40.635481",
+  "download_filename": "ps_plugin_sdk-0.2.25.tar.gz",
+  "download_time": "2026-04-13T16:16:56.910137",
   "package_url": "https://pypi.org/project/ps-plugin-sdk/"
 }

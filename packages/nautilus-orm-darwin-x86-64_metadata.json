@@ -1,11 +1,11 @@
 {
   "name": "nautilus-orm-darwin-x86-64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Nautilus ORM binary for darwin-x86_64",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "nautilus_orm_darwin_x86_64-1.0.0-py3-none-any.whl",
-  "download_time": "2026-04-11T22:56:49.869851",
+  "download_filename": "nautilus_orm_darwin_x86_64-1.0.1-py3-none-any.whl",
+  "download_time": "2026-04-13T16:16:44.846875",
   "package_url": "https://pypi.org/project/nautilus-orm-darwin-x86-64/"
 }

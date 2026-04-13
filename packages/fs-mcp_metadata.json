@@ -1,11 +1,11 @@
 {
   "name": "fs-mcp",
-  "version": "1.46.2",
+  "version": "1.47.2",
   "summary": "A secure MCP filesystem server with Stdio and Web UI modes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fs_mcp-1.46.2.tar.gz",
-  "download_time": "2026-04-10T13:54:02.191696",
+  "download_filename": "fs_mcp-1.47.2.tar.gz",
+  "download_time": "2026-04-13T16:17:00.720913",
   "package_url": "https://pypi.org/project/fs-mcp/"
 }

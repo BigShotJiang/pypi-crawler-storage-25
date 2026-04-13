@@ -1,0 +1,11 @@
+{
+  "name": "kubeagent-cli",
+  "version": "1.0.0",
+  "summary": "A natural language CLI agent for Kubernetes cluster management",
+  "author": "KubeAgent Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kubeagent_cli-1.0.0.tar.gz",
+  "download_time": "2026-04-13T16:16:28.216210",
+  "package_url": "https://pypi.org/project/kubeagent-cli/"
+}

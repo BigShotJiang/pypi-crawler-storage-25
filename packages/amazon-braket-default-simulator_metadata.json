@@ -1,0 +1,11 @@
+{
+  "name": "amazon-braket-default-simulator",
+  "version": "1.36.1",
+  "summary": "An open source quantum program simulator to be run locally with the Amazon Braket SDK",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/amazon-braket/amazon-braket-default-simulator-python",
+  "download_filename": "amazon_braket_default_simulator-1.36.1.tar.gz",
+  "download_time": "2026-04-13T16:16:31.006264",
+  "package_url": "https://pypi.org/project/amazon-braket-default-simulator/"
+}

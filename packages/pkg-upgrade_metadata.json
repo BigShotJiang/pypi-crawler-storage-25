@@ -1,11 +1,11 @@
 {
   "name": "pkg-upgrade",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "A cross-platform TUI that upgrades every package manager on your system",
   "author": "Lukasz Lis",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pkg_upgrade-1.4.0.tar.gz",
-  "download_time": "2026-04-13T12:52:49.112139",
+  "download_filename": "pkg_upgrade-1.5.0.tar.gz",
+  "download_time": "2026-04-13T16:16:23.648105",
   "package_url": "https://pypi.org/project/pkg-upgrade/"
 }

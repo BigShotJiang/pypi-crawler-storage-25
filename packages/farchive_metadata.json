@@ -1,0 +1,11 @@
+{
+  "name": "farchive",
+  "version": "3.1.0",
+  "summary": "Local content-addressed archive with locator-scoped history for opaque bytes.",
+  "author": "Elias Kunnas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "farchive-3.1.0.tar.gz",
+  "download_time": "2026-04-13T16:16:35.379100",
+  "package_url": "https://pypi.org/project/farchive/"
+}

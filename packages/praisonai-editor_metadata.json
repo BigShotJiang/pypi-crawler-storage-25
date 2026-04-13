@@ -1,0 +1,11 @@
+{
+  "name": "praisonai-editor",
+  "version": "0.1.7",
+  "summary": "Protocol-driven audio & video editor for PraisonAI — transcribe, clean, and edit media with AI",
+  "author": "Mervin Praison",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "praisonai_editor-0.1.7.tar.gz",
+  "download_time": "2026-04-13T16:16:25.427962",
+  "package_url": "https://pypi.org/project/praisonai-editor/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sandai-operator-client",
-  "version": "0.4.13",
+  "version": "0.5.0",
   "summary": "Client library for the Sandai Operator SDK",
   "author": "Sandai Team",
   "license": null,
   "home_page": "https://github.com/world-sim-dev/sandai-data-project",
-  "download_filename": "sandai_operator_client-0.4.13.tar.gz",
-  "download_time": "2026-04-03T19:02:55.531107",
+  "download_filename": "sandai_operator_client-0.5.0.tar.gz",
+  "download_time": "2026-04-13T16:16:37.013641",
   "package_url": "https://pypi.org/project/sandai-operator-client/"
 }

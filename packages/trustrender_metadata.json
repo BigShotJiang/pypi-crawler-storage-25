@@ -1,11 +1,11 @@
 {
   "name": "trustrender",
-  "version": "0.1.8",
-  "summary": "Fast, code-first PDF generation from structured data. No browser, no Chromium.",
+  "version": "0.3.0",
+  "summary": "Validate and normalize Stripe, Shopify, and custom billing data for Factur-X/ZUGFeRD",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trustrender-0.1.8.tar.gz",
-  "download_time": "2026-04-12T03:51:05.420902",
+  "download_filename": "trustrender-0.3.0.tar.gz",
+  "download_time": "2026-04-13T16:17:14.379934",
   "package_url": "https://pypi.org/project/trustrender/"
 }

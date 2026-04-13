@@ -1,11 +1,11 @@
 {
   "name": "stigmer-protos",
-  "version": "0.0.82",
+  "version": "0.0.85",
   "summary": "Generated Python stubs for Stigmer APIs",
   "author": "Stigmer",
   "license": null,
   "home_page": null,
-  "download_filename": "stigmer_protos-0.0.82.tar.gz",
-  "download_time": "2026-04-12T15:08:43.567693",
+  "download_filename": "stigmer_protos-0.0.85.tar.gz",
+  "download_time": "2026-04-13T16:17:08.314548",
   "package_url": "https://pypi.org/project/stigmer-protos/"
 }
