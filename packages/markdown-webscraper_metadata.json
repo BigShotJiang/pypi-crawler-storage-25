@@ -1,0 +1,11 @@
+{
+  "name": "markdown-webscraper",
+  "version": "0.1.3",
+  "summary": "Scrape websites to raw HTML with Botasaurus and convert to Markdown with markitdown.",
+  "author": "markdown_webscraper contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "markdown_webscraper-0.1.3.tar.gz",
+  "download_time": "2026-04-13T03:58:29.139009",
+  "package_url": "https://pypi.org/project/markdown-webscraper/"
+}

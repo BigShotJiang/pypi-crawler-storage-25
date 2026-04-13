@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-configurator",
+  "version": "18.0.1.0.0.7",
+  "summary": "Base for product configuration interface modules",
+  "author": "Pledra, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/product-configurator",
+  "download_filename": "odoo_addon_product_configurator-18.0.1.0.0.7-py3-none-any.whl",
+  "download_time": "2026-04-13T03:58:57.925245",
+  "package_url": "https://pypi.org/project/odoo-addon-product-configurator/"
+}

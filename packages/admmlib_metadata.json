@@ -1,11 +1,11 @@
 {
   "name": "admmlib",
-  "version": "2026.4.11.1016",
+  "version": "2026.4.13.1140",
   "summary": "admm c++ core library",
   "author": "MindOpt Team",
   "license": null,
   "home_page": null,
-  "download_filename": "admmlib-2026.4.11.1016-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-04-11T15:22:19.445358",
+  "download_filename": "admmlib-2026.4.13.1140-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-13T03:59:05.584854",
   "package_url": "https://pypi.org/project/admmlib/"
 }

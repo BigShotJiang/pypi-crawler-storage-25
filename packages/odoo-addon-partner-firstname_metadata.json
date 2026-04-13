@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-firstname",
+  "version": "19.0.1.0.0.2",
+  "summary": "Split first name and last name for non company partners",
+  "author": "=?utf-8?q?Camptocamp=2C_Grupo_ESOC_Ingenier=C3=ADa_de_Servicios=2C_Tecnativa=2C_LasLabs=2C_ACSONE_SA/NV=2C_DynApps_NV=2C_GRAP=2C_Odoo_Community_Association_=28OCA=29?=",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_partner_firstname-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-04-13T03:59:07.698598",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-firstname/"
+}

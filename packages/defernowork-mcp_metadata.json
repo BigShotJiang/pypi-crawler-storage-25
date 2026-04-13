@@ -1,11 +1,11 @@
 {
   "name": "defernowork-mcp",
-  "version": "0.1.0",
+  "version": "0.1.11",
   "summary": "Model Context Protocol server for the Deferno task manager backend.",
   "author": "Kyle Falconer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "defernowork_mcp-0.1.0.tar.gz",
-  "download_time": "2026-04-12T20:39:53.461120",
+  "download_filename": "defernowork_mcp-0.1.11.tar.gz",
+  "download_time": "2026-04-13T03:58:47.375491",
   "package_url": "https://pypi.org/project/defernowork-mcp/"
 }

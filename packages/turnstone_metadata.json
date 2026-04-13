@@ -1,11 +1,11 @@
 {
   "name": "turnstone",
-  "version": "1.1.1",
+  "version": "1.2.2",
   "summary": "Multi-node AI orchestration platform with tool use, agent routing, and cluster simulation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "turnstone-1.1.1.tar.gz",
-  "download_time": "2026-04-06T11:16:09.322472",
+  "download_filename": "turnstone-1.2.2.tar.gz",
+  "download_time": "2026-04-13T03:58:49.490873",
   "package_url": "https://pypi.org/project/turnstone/"
 }

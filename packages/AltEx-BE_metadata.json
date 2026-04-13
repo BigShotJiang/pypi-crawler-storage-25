@@ -1,0 +1,11 @@
+{
+  "name": "AltEx-BE",
+  "version": "1.1.0",
+  "summary": "automatically design sgRNA for exon skipping with many base editors",
+  "author": "Kinari Matsumoto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "altex_be-1.1.0.tar.gz",
+  "download_time": "2026-04-13T03:59:10.846906",
+  "package_url": "https://pypi.org/project/AltEx-BE/"
+}

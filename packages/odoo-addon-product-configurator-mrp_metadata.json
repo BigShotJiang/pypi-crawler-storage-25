@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-configurator-mrp",
+  "version": "18.0.1.0.0.5",
+  "summary": "BOM Support for configurable products",
+  "author": "Pledra, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/product-configurator",
+  "download_filename": "odoo_addon_product_configurator_mrp-18.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2026-04-13T03:58:57.386129",
+  "package_url": "https://pypi.org/project/odoo-addon-product-configurator-mrp/"
+}

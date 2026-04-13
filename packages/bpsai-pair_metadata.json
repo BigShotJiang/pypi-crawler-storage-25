@@ -1,11 +1,11 @@
 {
   "name": "bpsai-pair",
-  "version": "2.19.0",
+  "version": "2.23.0",
   "summary": "AI-augmented pair programming framework with 200+ CLI commands for planning, orchestration, Trello/GitHub integration, and autonomous workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bpsai_pair-2.19.0.tar.gz",
-  "download_time": "2026-03-30T05:12:25.805493",
+  "download_filename": "bpsai_pair-2.23.0.tar.gz",
+  "download_time": "2026-04-13T03:59:09.758009",
   "package_url": "https://pypi.org/project/bpsai-pair/"
 }

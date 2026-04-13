@@ -1,0 +1,11 @@
+{
+  "name": "fly-common",
+  "version": "0.1.4",
+  "summary": "轻量级 Python 公共工具库：JWT 认证、密码加密、单例模式、Redis 分布式锁与缓存、阿里云短信、阿里云 OSS",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fly_common-0.1.4.tar.gz",
+  "download_time": "2026-04-13T03:58:55.215534",
+  "package_url": "https://pypi.org/project/fly-common/"
+}
