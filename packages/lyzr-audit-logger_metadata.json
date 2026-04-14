@@ -1,11 +1,11 @@
 {
   "name": "lyzr-audit-logger",
-  "version": "0.1.11",
+  "version": "0.1.13",
   "summary": "Audit logging library for microservices",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lyzr_audit_logger-0.1.11.tar.gz",
-  "download_time": "2026-04-14T09:10:54.791306",
+  "download_filename": "lyzr_audit_logger-0.1.13.tar.gz",
+  "download_time": "2026-04-14T12:53:38.082844",
   "package_url": "https://pypi.org/project/lyzr-audit-logger/"
 }

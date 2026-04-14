@@ -1,0 +1,11 @@
+{
+  "name": "tensorearch",
+  "version": "1.1.0",
+  "summary": "Architecture inspection toolkit for slice topology, throughput, and bottleneck analysis",
+  "author": "chen0430tw",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensorearch-1.1.0.tar.gz",
+  "download_time": "2026-04-14T12:53:37.043887",
+  "package_url": "https://pypi.org/project/tensorearch/"
+}

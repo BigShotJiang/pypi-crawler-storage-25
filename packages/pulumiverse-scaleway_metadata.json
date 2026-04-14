@@ -1,0 +1,11 @@
+{
+  "name": "pulumiverse-scaleway",
+  "version": "1.46.0",
+  "summary": "A Pulumi package for creating and managing Scaleway cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumiverse_scaleway-1.46.0.tar.gz",
+  "download_time": "2026-04-14T12:54:17.518500",
+  "package_url": "https://pypi.org/project/pulumiverse-scaleway/"
+}

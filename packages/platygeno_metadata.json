@@ -1,11 +1,11 @@
 {
   "name": "platygeno",
-  "version": "0.1.0",
+  "version": "1.0.2",
   "summary": "Unsupervised Gene Discovery via Evo 2 & SAE Interpretability",
   "author": "Khoa Tu Tran",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "platygeno-0.1.0.tar.gz",
-  "download_time": "2026-04-11T06:08:16.510139",
+  "download_filename": "platygeno-1.0.2.tar.gz",
+  "download_time": "2026-04-14T12:54:20.662784",
   "package_url": "https://pypi.org/project/platygeno/"
 }

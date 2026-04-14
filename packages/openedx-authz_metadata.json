@@ -1,11 +1,11 @@
 {
   "name": "openedx-authz",
-  "version": "1.2.0",
+  "version": "1.6.0",
   "summary": "Open edX AuthZ provides the architecture and foundations of the authorization framework.",
   "author": "Open edX Project",
   "license": "AGPL 3.0",
   "home_page": "https://github.com/openedx/openedx-authz",
-  "download_filename": "openedx_authz-1.2.0.tar.gz",
-  "download_time": "2026-03-31T11:36:19.073739",
+  "download_filename": "openedx_authz-1.6.0.tar.gz",
+  "download_time": "2026-04-14T12:53:34.406038",
   "package_url": "https://pypi.org/project/openedx-authz/"
 }

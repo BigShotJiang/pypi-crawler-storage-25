@@ -1,0 +1,11 @@
+{
+  "name": "smellscapy",
+  "version": "0.2.5",
+  "summary": "A python library for analysing and representing indoor smellscape perceptual data.",
+  "author": "Giulia Torriani, Olga Somova",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smellscapy-0.2.5.tar.gz",
+  "download_time": "2026-04-14T12:53:49.252798",
+  "package_url": "https://pypi.org/project/smellscapy/"
+}

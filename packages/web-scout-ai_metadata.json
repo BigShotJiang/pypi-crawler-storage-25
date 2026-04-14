@@ -1,11 +1,11 @@
 {
   "name": "web-scout-ai",
-  "version": "0.9.3",
+  "version": "1.0.2",
   "summary": "Agentic web research tool — smarter than search, faster than deep research. Search, scrape, and synthesize web content using LLMs.",
   "author": "Riccardo Soldan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "web_scout_ai-0.9.3.tar.gz",
-  "download_time": "2026-04-10T08:52:41.755893",
+  "download_filename": "web_scout_ai-1.0.2.tar.gz",
+  "download_time": "2026-04-14T12:53:34.925380",
   "package_url": "https://pypi.org/project/web-scout-ai/"
 }

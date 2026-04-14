@@ -1,11 +1,11 @@
 {
   "name": "mathmore",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": "The extension of the math module.",
   "author": "HZY",
   "license": null,
   "home_page": null,
-  "download_filename": "mathmore-1.1.3.tar.gz",
-  "download_time": "2026-04-08T10:09:55.180805",
+  "download_filename": "mathmore-1.1.4.tar.gz",
+  "download_time": "2026-04-14T12:53:31.136445",
   "package_url": "https://pypi.org/project/mathmore/"
 }

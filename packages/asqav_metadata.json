@@ -1,11 +1,11 @@
 {
   "name": "asqav",
-  "version": "0.2.9",
+  "version": "0.2.13",
   "summary": "AI agent governance - audit trails, policy enforcement, compliance",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "asqav-0.2.9.tar.gz",
-  "download_time": "2026-04-10T17:51:15.507234",
+  "download_filename": "asqav-0.2.13.tar.gz",
+  "download_time": "2026-04-14T12:54:02.843871",
   "package_url": "https://pypi.org/project/asqav/"
 }

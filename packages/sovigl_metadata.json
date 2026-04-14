@@ -1,11 +1,11 @@
 {
   "name": "sovigl",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "SOVIGL returns approved, pending, or blocked for any action.",
   "author": "Ritesh Kumar",
   "license": null,
   "home_page": null,
-  "download_filename": "sovigl-0.1.2.tar.gz",
-  "download_time": "2026-04-14T07:34:49.650073",
+  "download_filename": "sovigl-0.1.4.tar.gz",
+  "download_time": "2026-04-14T12:53:43.506417",
   "package_url": "https://pypi.org/project/sovigl/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "polaris-data",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Polaris market data API",
+  "author": "Polaris",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polaris_data-0.1.0.tar.gz",
+  "download_time": "2026-04-14T12:53:57.652636",
+  "package_url": "https://pypi.org/project/polaris-data/"
+}
