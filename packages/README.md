@@ -1,16 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-04-14T20:10:32.507413
-- **Total Packages**: 95
-- **Total Size**: 66.68 MB
+- **Download Time**: 2026-04-14T21:13:00.564208
+- **Total Packages**: 89
+- **Total Size**: 22.78 MB
 
 ## Packages List
+- bruno-mcp
+- receipt-parser-ocr
+- sssom-curator
+- Products.EasyNewsletter
+- redcaplite
+- pyverse2d
+- mipiti-verify
+- TgrEzLi
+- rag-forge-observability
+- musicviz
+- torrensearch
+- remoteRF-server-testing
+- imperal-sdk
+- rag-forge-evaluator
+- web-novel-scraper
+- rag-forge-core
+- universal-test-framework
+- limexhub
+- youtube-summariser
+- senoquant
+- python-opn
+- perplexity-web-mcp-cli
+- giantcontext
+- 7z.py
+- bm-processing
+- qa-mcp
+- zs-config
+- perch-tui
+- loan-eligibility-engine
+- dazzle-dsl
+- okto-pulse
+- okto-pulse-core
+- fluidattacks_cloudflare_sdk
+- cuda-pathfinder
+- langchain-ai-skills-framework
+- kryptoexpress-sdk
+- gentiq
+- viva-genicam
+- cairn-ai
+- canonhq
+- medimgkit
+- mcp-memory-service
+- widemem-ai
+- majec
+- riskbands
+- flashinfer-python
+- prismer
+- polaris-data
+- pycivil
+- biosteam
 - oda-api
 - fiberwise-common
 - cloud-chat-karuna
 - spragkit
-- torrensearch
 - altergo
 - ezpanos
 - huey
@@ -36,9 +85,7 @@
 - tm-devices
 - memorized
 - espark-core
-- pyverse2d
 - extirpation
-- riskbands
 - vmlx
 - pydebflow
 - checking-health
@@ -48,56 +95,3 @@
 - tusk-drift-python-sdk
 - boxmot
 - exoclaw-executor-dbos
-- bb-integrations-library
-- pkgxray
-- bambox
-- tonpo
-- solace-agent-mesh
-- deeprepo
-- mbo_utilities
-- opencrew
-- lakefront
-- sssom_pydantic
-- jup
-- task-recorder-cui
-- tollbooth-dpyc
-- augint-tools
-- reader-integration-kit-windows-x86-64
-- reader-integration-kit-linux-x86-64
-- bellamem
-- xrayscatteringtools
-- platygeno
-- sirius-chat
-- fprime-tools
-- fury-sdk
-- diffct
-- gfal
-- remoteRF-server-testing
-- copy-template
-- 7z.py
-- 5mghost-rover
-- cybersecify
-- agent-signature
-- x-agent-trust-sdk
-- x-agent-trust
-- lightcone-prism
-- shoreguard
-- squarenet
-- pptx-mcp
-- ethyca-fides
-- roxels-mcp
-- remoteRF-server
-- pw-agent
-- GenTS
-- omega-walls
-- symbol-memory
-- nextcloud-mcp-server
-- cycronet
-- ministack
-- arches-search
-- pyacts
-- sajax
-- lobsterdata
-- yhttp-media
-- fprime-gds
-- casambi-bt-skk

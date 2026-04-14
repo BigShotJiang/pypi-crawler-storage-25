@@ -1,11 +1,11 @@
 {
   "name": "cairn-ai",
-  "version": "0.1.1",
+  "version": "0.3.4",
   "summary": "Runtime signal capture and distillation for AI-assisted Python development",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "cairn_ai-0.1.1.tar.gz",
-  "download_time": "2026-04-14T05:55:33.782976",
+  "download_filename": "cairn_ai-0.3.4.tar.gz",
+  "download_time": "2026-04-14T21:12:29.774556",
   "package_url": "https://pypi.org/project/cairn-ai/"
 }

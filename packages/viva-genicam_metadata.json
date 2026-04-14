@@ -1,0 +1,11 @@
+{
+  "name": "viva-genicam",
+  "version": "0.2.4",
+  "summary": "Pure-Rust GenICam stack for Python: discover, control, and stream GigE Vision / USB3 Vision cameras",
+  "author": "Vitaly Vorobyev",
+  "license": "MIT",
+  "home_page": "https://github.com/VitalyVorobyev/viva-genicam",
+  "download_filename": "viva_genicam-0.2.4.tar.gz",
+  "download_time": "2026-04-14T21:12:29.185434",
+  "package_url": "https://pypi.org/project/viva-genicam/"
+}

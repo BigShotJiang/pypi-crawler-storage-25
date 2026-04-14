@@ -1,0 +1,11 @@
+{
+  "name": "limexhub",
+  "version": "1.16.16",
+  "summary": "A simple API wrapper for Limex DataHub",
+  "author": "Limex",
+  "license": "MIT",
+  "home_page": "https://github.com/Limex-com/limexhub-python",
+  "download_filename": "limexhub-1.16.16.tar.gz",
+  "download_time": "2026-04-14T21:12:15.819009",
+  "package_url": "https://pypi.org/project/limexhub/"
+}
