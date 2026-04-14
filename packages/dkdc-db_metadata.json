@@ -1,11 +1,11 @@
 {
   "name": "dkdc-db",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "summary": "HTAP embedded database",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dkdc_db-0.2.1.tar.gz",
-  "download_time": "2026-04-05T12:57:46.755258",
+  "download_filename": "dkdc_db-0.3.1.tar.gz",
+  "download_time": "2026-04-14T00:04:35.919007",
   "package_url": "https://pypi.org/project/dkdc-db/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyackett",
+  "version": "0.3.0",
+  "summary": "Python clean room implementation of a Torznab-compatible indexer proxy",
+  "author": "David Markey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyackett-0.3.0.tar.gz",
+  "download_time": "2026-04-14T00:04:55.203031",
+  "package_url": "https://pypi.org/project/pyackett/"
+}

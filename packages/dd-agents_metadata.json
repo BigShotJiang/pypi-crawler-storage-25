@@ -1,11 +1,11 @@
 {
   "name": "dd-agents",
-  "version": "1.0.2",
+  "version": "1.1.1",
   "summary": "Find what gets buried in the data room — open-source integrated M&A due diligence across legal, financial, commercial, and technical domains",
   "author": "Zohar Babin",
   "license": null,
   "home_page": null,
-  "download_filename": "dd_agents-1.0.2.tar.gz",
-  "download_time": "2026-04-10T15:57:17.143812",
+  "download_filename": "dd_agents-1.1.1.tar.gz",
+  "download_time": "2026-04-14T00:05:10.650492",
   "package_url": "https://pypi.org/project/dd-agents/"
 }

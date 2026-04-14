@@ -1,11 +1,11 @@
 {
   "name": "tensormesh",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "Tensormesh Python SDK with CLI support.",
   "author": "Tensormesh",
   "license": null,
   "home_page": null,
-  "download_filename": "tensormesh-0.1.7.tar.gz",
-  "download_time": "2026-04-09T23:14:03.318607",
+  "download_filename": "tensormesh-0.1.9.tar.gz",
+  "download_time": "2026-04-14T00:04:29.872752",
   "package_url": "https://pypi.org/project/tensormesh/"
 }

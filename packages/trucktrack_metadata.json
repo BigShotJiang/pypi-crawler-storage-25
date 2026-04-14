@@ -1,11 +1,11 @@
 {
   "name": "trucktrack",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "High-performance trajectory splitting and analysis, powered by Rust",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trucktrack-0.1.8.tar.gz",
-  "download_time": "2026-04-13T17:27:59.196097",
+  "download_filename": "trucktrack-0.1.10.tar.gz",
+  "download_time": "2026-04-14T00:05:12.801180",
   "package_url": "https://pypi.org/project/trucktrack/"
 }

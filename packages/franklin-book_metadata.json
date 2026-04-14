@@ -1,11 +1,11 @@
 {
   "name": "franklin-book",
-  "version": "0.3.0",
+  "version": "0.4.2",
   "summary": "Turn technical books into Claude Code plugins using an Opus-advises, Sonnet-executes pipeline",
   "author": "Matt Rundo",
   "license": null,
   "home_page": null,
-  "download_filename": "franklin_book-0.3.0.tar.gz",
-  "download_time": "2026-04-12T19:57:43.578758",
+  "download_filename": "franklin_book-0.4.2.tar.gz",
+  "download_time": "2026-04-14T00:04:52.864201",
   "package_url": "https://pypi.org/project/franklin-book/"
 }
