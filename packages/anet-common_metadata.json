@@ -1,0 +1,11 @@
+{
+  "name": "anet-common",
+  "version": "0.1.6",
+  "summary": "Common utilities, settings, and contracts for Anet Microservices (Django/DRF)",
+  "author": "Murodali Narzullaev",
+  "license": "MIT",
+  "home_page": "https://github.com/murodalidev/anet-common/",
+  "download_filename": "anet_common-0.1.6.tar.gz",
+  "download_time": "2026-04-14T07:34:43.958561",
+  "package_url": "https://pypi.org/project/anet-common/"
+}

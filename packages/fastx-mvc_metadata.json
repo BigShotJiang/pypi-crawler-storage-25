@@ -1,0 +1,11 @@
+{
+  "name": "fastx-mvc",
+  "version": "1.6.1",
+  "summary": "Production-grade MVC Framework for FastAPI - Generate projects, entities, and migrations with a single command",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastx_mvc-1.6.1.tar.gz",
+  "download_time": "2026-04-14T07:34:46.551697",
+  "package_url": "https://pypi.org/project/fastx-mvc/"
+}

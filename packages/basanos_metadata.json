@@ -1,11 +1,11 @@
 {
   "name": "basanos",
-  "version": "0.6.1",
+  "version": "0.6.3",
   "summary": "Correlation-aware portfolio optimization and analytics for Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "basanos-0.6.1.tar.gz",
-  "download_time": "2026-04-02T08:07:44.173394",
+  "download_filename": "basanos-0.6.3.tar.gz",
+  "download_time": "2026-04-14T07:34:37.807910",
   "package_url": "https://pypi.org/project/basanos/"
 }

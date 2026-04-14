@@ -1,11 +1,11 @@
 {
   "name": "clipassman",
-  "version": "2.2.2",
+  "version": "3.0.1",
   "summary": "Terminal-based smart password manager with deterministic password generation. Generate, manage, and retrieve passwords without storing them - all from your command line.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clipassman-2.2.2.tar.gz",
-  "download_time": "2026-04-08T06:02:37.742807",
+  "download_filename": "clipassman-3.0.1.tar.gz",
+  "download_time": "2026-04-14T07:34:18.187220",
   "package_url": "https://pypi.org/project/clipassman/"
 }

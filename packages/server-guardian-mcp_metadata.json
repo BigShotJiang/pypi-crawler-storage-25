@@ -1,0 +1,11 @@
+{
+  "name": "server-guardian-mcp",
+  "version": "0.4.1",
+  "summary": "MCP server to monitor and manage remote Linux servers via SSH. 47 tools: health checks, anomaly detection, auto-remediation playbooks, live dashboard, compliance reports, team RBAC, PagerDuty/Telegram/OpsGenie integrations.",
+  "author": "Md Nazish Arman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "server_guardian_mcp-0.4.1.tar.gz",
+  "download_time": "2026-04-14T07:34:24.895232",
+  "package_url": "https://pypi.org/project/server-guardian-mcp/"
+}

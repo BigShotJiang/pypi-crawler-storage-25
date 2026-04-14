@@ -1,0 +1,11 @@
+{
+  "name": "primedefender-fastapi",
+  "version": "0.1.0",
+  "summary": "PrimeDefender security middleware for FastAPI: WAF-style detection, blocking, and incident reporting to the PrimeDefender bridge.",
+  "author": "PrimeDefender contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "primedefender_fastapi-0.1.0.tar.gz",
+  "download_time": "2026-04-14T07:34:09.393236",
+  "package_url": "https://pypi.org/project/primedefender-fastapi/"
+}

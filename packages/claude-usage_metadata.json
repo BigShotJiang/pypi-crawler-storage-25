@@ -1,11 +1,11 @@
 {
   "name": "claude-usage",
-  "version": "0.0.1",
+  "version": "0.0.15",
   "summary": "macOS menu bar app for Anthropic API usage and cost tracking",
-  "author": null,
-  "license": null,
+  "author": "Anders Latif",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_usage-0.0.1.tar.gz",
-  "download_time": "2026-04-05T07:40:01.844750",
+  "download_filename": "claude_usage-0.0.15.tar.gz",
+  "download_time": "2026-04-14T07:34:43.447455",
   "package_url": "https://pypi.org/project/claude-usage/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "heims",
-  "version": "1.0.9",
+  "version": "1.0.19",
   "summary": "基础后端管理框架",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "heims-1.0.9.tar.gz",
-  "download_time": "2026-04-07T06:54:51.267464",
+  "download_filename": "heims-1.0.19.tar.gz",
+  "download_time": "2026-04-14T07:34:17.676118",
   "package_url": "https://pypi.org/project/heims/"
 }

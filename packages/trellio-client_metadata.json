@@ -1,11 +1,11 @@
 {
   "name": "trellio-client",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Async Trello API client for Python",
   "author": "scaratec",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "trellio_client-1.2.0.tar.gz",
-  "download_time": "2026-04-12T21:22:07.141532",
+  "download_filename": "trellio_client-1.2.1.tar.gz",
+  "download_time": "2026-04-14T07:34:06.224111",
   "package_url": "https://pypi.org/project/trellio-client/"
 }
