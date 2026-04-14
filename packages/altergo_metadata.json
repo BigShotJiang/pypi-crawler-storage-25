@@ -1,11 +1,11 @@
 {
   "name": "altergo",
-  "version": "0.35.2",
+  "version": "0.35.3",
   "summary": "Switch AI identities. Keep your context. — N-account session manager for Claude Code, Gemini CLI, Codex, and Copilot",
   "author": "thepixelabs",
   "license": null,
   "home_page": null,
-  "download_filename": "altergo-0.35.2.tar.gz",
-  "download_time": "2026-04-14T21:12:41.430345",
+  "download_filename": "altergo-0.35.3.tar.gz",
+  "download_time": "2026-04-14T22:11:03.876206",
   "package_url": "https://pypi.org/project/altergo/"
 }

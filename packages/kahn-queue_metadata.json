@@ -1,0 +1,11 @@
+{
+  "name": "kahn-queue",
+  "version": "0.1.0",
+  "summary": "Kahn-style ready-queue for dependency scheduling",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kahn_queue-0.1.0.tar.gz",
+  "download_time": "2026-04-14T22:10:56.113694",
+  "package_url": "https://pypi.org/project/kahn-queue/"
+}

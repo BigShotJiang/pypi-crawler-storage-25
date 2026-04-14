@@ -1,11 +1,11 @@
 {
   "name": "sonara",
-  "version": "0.1.5",
-  "summary": "High-performance drop-in replacement for librosa — audio analysis and music information retrieval in Rust",
+  "version": "0.1.6",
+  "summary": "High-performance audio analysis and music information retrieval in Rust",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sonara-0.1.5.tar.gz",
-  "download_time": "2026-04-14T12:53:59.200740",
+  "download_filename": "sonara-0.1.6.tar.gz",
+  "download_time": "2026-04-14T22:11:09.039663",
   "package_url": "https://pypi.org/project/sonara/"
 }

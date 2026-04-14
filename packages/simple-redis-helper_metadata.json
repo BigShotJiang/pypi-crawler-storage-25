@@ -1,0 +1,11 @@
+{
+  "name": "simple-redis-helper",
+  "version": "0.1.7",
+  "summary": "Command-line utilities to for sending/receiving data to/from a Redis backend.",
+  "author": "Peter Reutemann",
+  "license": "MIT License",
+  "home_page": "https://github.com/fracpete/redis_helper",
+  "download_filename": "simple_redis_helper-0.1.7.tar.gz",
+  "download_time": "2026-04-14T22:11:20.968565",
+  "package_url": "https://pypi.org/project/simple-redis-helper/"
+}

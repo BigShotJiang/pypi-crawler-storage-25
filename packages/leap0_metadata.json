@@ -1,11 +1,11 @@
 {
   "name": "leap0",
-  "version": "0.3.0",
+  "version": "0.7.0",
   "summary": "Python SDK for the Leap0 API",
   "author": "Leap0",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "leap0-0.3.0.tar.gz",
-  "download_time": "2026-04-01T22:47:29.085946",
+  "download_filename": "leap0-0.7.0.tar.gz",
+  "download_time": "2026-04-14T22:10:50.477950",
   "package_url": "https://pypi.org/project/leap0/"
 }

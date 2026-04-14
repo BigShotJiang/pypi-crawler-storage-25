@@ -1,0 +1,11 @@
+{
+  "name": "pystatar",
+  "version": "0.4.2",
+  "summary": "[DEPRECATED] PyStataR has been superseded by StatsPAI (pip install statspai). All functionality has been migrated and extended; see https://github.com/brycewang-stanford/StatsPAI/blob/main/MIGRATION.md for the API mapping. This final release exists only to notify users of the migration.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pystatar-0.4.2.tar.gz",
+  "download_time": "2026-04-14T22:11:16.286242",
+  "package_url": "https://pypi.org/project/pystatar/"
+}

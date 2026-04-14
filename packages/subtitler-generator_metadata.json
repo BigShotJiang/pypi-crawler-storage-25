@@ -1,0 +1,11 @@
+{
+  "name": "subtitler-generator",
+  "version": "0.1.0",
+  "summary": "Generate and translate subtitles from audio/video files using Whisper.",
+  "author": "subtitler contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "subtitler_generator-0.1.0.tar.gz",
+  "download_time": "2026-04-14T22:10:59.758040",
+  "package_url": "https://pypi.org/project/subtitler-generator/"
+}

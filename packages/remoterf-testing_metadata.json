@@ -1,0 +1,11 @@
+{
+  "name": "remoterf-testing",
+  "version": "0.0.4",
+  "summary": "A python API to remotely access signal centric hardware. Client-side only! Courtesy of Wireless Lab @ UCLA & Prof. Ian Roberts.",
+  "author": "Ethan Ge",
+  "license": null,
+  "home_page": null,
+  "download_filename": "remoterf_testing-0.0.4.tar.gz",
+  "download_time": "2026-04-14T22:10:44.265203",
+  "package_url": "https://pypi.org/project/remoterf-testing/"
+}
