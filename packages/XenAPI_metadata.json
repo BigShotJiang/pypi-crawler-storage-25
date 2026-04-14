@@ -1,0 +1,11 @@
+{
+  "name": "XenAPI",
+  "version": "26.9.0",
+  "summary": "XenAPI SDK, for communication with XenServer.",
+  "author": "Xapi project developers and maintainers",
+  "license": "BSD-2-Clause",
+  "home_page": "https://xapi-project.github.io/",
+  "download_filename": "xenapi-26.9.0.tar.gz",
+  "download_time": "2026-04-14T03:39:11.768535",
+  "package_url": "https://pypi.org/project/XenAPI/"
+}

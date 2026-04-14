@@ -1,0 +1,11 @@
+{
+  "name": "coze-coding-dev-sdk",
+  "version": "0.5.14",
+  "summary": "Coze Coding Dev SDK - 优雅的多功能 AI SDK，支持图片生成、视频生成、语音合成、语音识别、大语言模型、联网搜索和文本/多模态 Embedding。包含命令行工具 coze-coding-ai，支持 Context 上下文追踪",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "coze_coding_dev_sdk-0.5.14.tar.gz",
+  "download_time": "2026-04-14T03:39:04.549943",
+  "package_url": "https://pypi.org/project/coze-coding-dev-sdk/"
+}

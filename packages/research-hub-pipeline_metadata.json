@@ -1,11 +1,11 @@
 {
   "name": "research-hub-pipeline",
-  "version": "0.13.0",
+  "version": "0.23.1",
   "summary": "Zotero -> Obsidian -> NotebookLM research pipeline",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "research_hub_pipeline-0.13.0.tar.gz",
-  "download_time": "2026-04-13T03:58:31.375253",
+  "download_filename": "research_hub_pipeline-0.23.1.tar.gz",
+  "download_time": "2026-04-14T03:39:07.636484",
   "package_url": "https://pypi.org/project/research-hub-pipeline/"
 }

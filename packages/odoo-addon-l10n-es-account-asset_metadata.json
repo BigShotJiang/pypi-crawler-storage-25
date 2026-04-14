@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-es-account-asset",
+  "version": "18.0.2.0.0.2",
+  "summary": "=?utf-8?q?Gesti=C3=B3n_de_activos_fijos_para_Espa=C3=B1a?=",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-spain",
+  "download_filename": "odoo_addon_l10n_es_account_asset-18.0.2.0.0.2-py3-none-any.whl",
+  "download_time": "2026-04-14T03:39:23.140497",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-es-account-asset/"
+}

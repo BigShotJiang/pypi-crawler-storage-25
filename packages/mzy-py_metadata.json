@@ -1,0 +1,11 @@
+{
+  "name": "mzy-py",
+  "version": "0.2.7",
+  "summary": "This is a simple open-source Python toolkit. It is currently in the testing phase and only implements simplified handling of a few specific pandas commands, as well as the ability to set up a basic Flask server with one click.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mzy_py-0.2.7.tar.gz",
+  "download_time": "2026-04-14T03:39:06.095052",
+  "package_url": "https://pypi.org/project/mzy-py/"
+}

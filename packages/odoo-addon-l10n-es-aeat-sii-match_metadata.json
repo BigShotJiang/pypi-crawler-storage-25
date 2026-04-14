@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-es-aeat-sii-match",
+  "version": "18.0.1.0.1.1",
+  "summary": "=?utf-8?q?Sistema_de_comprobaci=C3=B3n_y_contraste_de_facturas_enviadas_al_SII?=",
+  "author": "Studio73, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-spain",
+  "download_filename": "odoo_addon_l10n_es_aeat_sii_match-18.0.1.0.1.1-py3-none-any.whl",
+  "download_time": "2026-04-14T03:39:33.987079",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-es-aeat-sii-match/"
+}

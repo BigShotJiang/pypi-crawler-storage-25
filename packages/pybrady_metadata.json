@@ -1,0 +1,11 @@
+{
+  "name": "pybrady",
+  "version": "0.1.4",
+  "summary": "Python library for Brady label printers (USB, TCP, Bluetooth Classic, BLE)",
+  "author": "ggiesen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybrady-0.1.4.tar.gz",
+  "download_time": "2026-04-14T03:39:05.580009",
+  "package_url": "https://pypi.org/project/pybrady/"
+}
