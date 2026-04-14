@@ -1,11 +1,11 @@
 {
   "name": "stele-context",
-  "version": "1.0.8",
-  "summary": "Local context cache for LLM agents with semantic chunking and vector search",
+  "version": "1.1.1",
+  "summary": "Give your AI coding agent persistent memory — stop re-reading files every conversation. MCP server for Claude Code, Claude Desktop, Cursor, and other AI coding tools.",
   "author": "Stele Context Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "stele_context-1.0.8.tar.gz",
-  "download_time": "2026-03-31T08:09:09.536683",
+  "download_filename": "stele_context-1.1.1.tar.gz",
+  "download_time": "2026-04-14T23:09:36.314117",
   "package_url": "https://pypi.org/project/stele-context/"
 }

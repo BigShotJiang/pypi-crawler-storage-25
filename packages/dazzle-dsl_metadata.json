@@ -1,11 +1,11 @@
 {
   "name": "dazzle-dsl",
-  "version": "0.55.3",
+  "version": "0.55.4",
   "summary": "DAZZLE — declarative SaaS framework with built-in compliance (SOC 2, ISO 27001), provable RBAC, and graph features",
   "author": "DAZZLE Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dazzle_dsl-0.55.3.tar.gz",
-  "download_time": "2026-04-14T21:12:23.060730",
+  "download_filename": "dazzle_dsl-0.55.4.tar.gz",
+  "download_time": "2026-04-14T23:09:29.100638",
   "package_url": "https://pypi.org/project/dazzle-dsl/"
 }

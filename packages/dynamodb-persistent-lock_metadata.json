@@ -1,0 +1,11 @@
+{
+  "name": "dynamodb-persistent-lock",
+  "version": "0.0.5",
+  "summary": "DynamoDB Persistent Lock",
+  "author": null,
+  "license": "Apache-2.0 AND MIT",
+  "home_page": null,
+  "download_filename": "dynamodb_persistent_lock-0.0.5.tar.gz",
+  "download_time": "2026-04-14T23:10:01.192294",
+  "package_url": "https://pypi.org/project/dynamodb-persistent-lock/"
+}

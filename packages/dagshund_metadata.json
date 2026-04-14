@@ -1,0 +1,11 @@
+{
+  "name": "dagshund",
+  "version": "0.8.0",
+  "summary": "Diff visualizer for Databricks bundle plans — resources and job DAGs",
+  "author": "Max Lautner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagshund-0.8.0.tar.gz",
+  "download_time": "2026-04-14T23:09:57.598401",
+  "package_url": "https://pypi.org/project/dagshund/"
+}

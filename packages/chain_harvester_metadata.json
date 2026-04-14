@@ -1,11 +1,11 @@
 {
   "name": "chain_harvester",
-  "version": "2.15.0",
+  "version": "2.19.1",
   "summary": "A Python library designed to interface with various blockchain networks, enabling the retrieval of data.",
   "author": "0xCommanderKeen",
   "license": null,
   "home_page": null,
-  "download_filename": "chain_harvester-2.15.0.tar.gz",
-  "download_time": "2026-04-08T22:04:20.281186",
+  "download_filename": "chain_harvester-2.19.1.tar.gz",
+  "download_time": "2026-04-14T23:09:36.828291",
   "package_url": "https://pypi.org/project/chain_harvester/"
 }

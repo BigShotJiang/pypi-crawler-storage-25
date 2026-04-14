@@ -1,0 +1,11 @@
+{
+  "name": "nbdctools",
+  "version": "1.0.1",
+  "summary": "Python version of NBDCtools, a collection of tools for handling datasets in the NBDC DataHub.",
+  "author": "Le Zhang, Janosch Linkersdoerfer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nbdctools-1.0.1.tar.gz",
+  "download_time": "2026-04-14T23:10:07.857372",
+  "package_url": "https://pypi.org/project/nbdctools/"
+}

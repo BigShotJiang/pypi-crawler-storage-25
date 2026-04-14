@@ -1,0 +1,11 @@
+{
+  "name": "gemini-skill-install",
+  "version": "0.1.5",
+  "summary": "Bootstrap installer for the gemini Claude Code skill",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/reshinto/gemini-skill",
+  "download_filename": "gemini_skill_install-0.1.5.tar.gz",
+  "download_time": "2026-04-14T23:09:34.262213",
+  "package_url": "https://pypi.org/project/gemini-skill-install/"
+}

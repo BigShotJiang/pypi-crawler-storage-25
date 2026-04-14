@@ -1,11 +1,11 @@
 {
   "name": "stqry",
-  "version": "0.6.1",
-  "summary": "Python SDK for the STQRY API",
+  "version": "0.9.2",
+  "summary": "STQRY CLI - manage collections, screens, media, and content",
   "author": null,
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "stqry-0.6.1.tar.gz",
-  "download_time": "2026-04-13T10:40:29.041327",
+  "home_page": "https://github.com/mytours/stqry-cli",
+  "download_filename": "stqry-0.9.2-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-04-14T23:09:40.950068",
   "package_url": "https://pypi.org/project/stqry/"
 }

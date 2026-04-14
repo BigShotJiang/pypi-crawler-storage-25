@@ -1,0 +1,11 @@
+{
+  "name": "exodus-helper",
+  "version": "1.5.8",
+  "summary": "A package for manipulating ExodusII databases",
+  "author": "Coleman Alleman",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/sandialabs/exodus_helper",
+  "download_filename": "exodus_helper-1.5.8.tar.gz",
+  "download_time": "2026-04-14T23:09:42.488207",
+  "package_url": "https://pypi.org/project/exodus-helper/"
+}

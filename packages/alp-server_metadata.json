@@ -1,0 +1,11 @@
+{
+  "name": "alp-server",
+  "version": "0.7.0",
+  "summary": "Agent Load Protocol — drop-in MCP/SSE middleware for any Python server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alp_server-0.7.0.tar.gz",
+  "download_time": "2026-04-14T23:10:15.033869",
+  "package_url": "https://pypi.org/project/alp-server/"
+}

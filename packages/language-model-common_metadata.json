@@ -1,11 +1,11 @@
 {
   "name": "language-model-common",
-  "version": "2.0.11",
+  "version": "2.0.17",
   "summary": "Provides the underlying framework to enhance langchain and add loading configurations",
   "author": "Imran",
   "license": null,
   "home_page": "https://github.com/icanbwell/language-model-common",
-  "download_filename": "language_model_common-2.0.11.tar.gz",
-  "download_time": "2026-04-12T19:13:00.044041",
+  "download_filename": "language_model_common-2.0.17.tar.gz",
+  "download_time": "2026-04-14T23:10:12.986856",
   "package_url": "https://pypi.org/project/language-model-common/"
 }

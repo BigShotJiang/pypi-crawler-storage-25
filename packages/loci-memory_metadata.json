@@ -1,11 +1,11 @@
 {
   "name": "loci-memory",
-  "version": "0.0.5",
+  "version": "0.0.8",
   "summary": "Chroma based MCP Server - Provide memory capabilities using Vector Database for LLM Applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "loci_memory-0.0.5.tar.gz",
-  "download_time": "2026-04-14T17:58:45.916805",
+  "download_filename": "loci_memory-0.0.8.tar.gz",
+  "download_time": "2026-04-14T23:09:38.356565",
   "package_url": "https://pypi.org/project/loci-memory/"
 }

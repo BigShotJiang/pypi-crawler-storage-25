@@ -1,0 +1,11 @@
+{
+  "name": "YurMail",
+  "version": "0.1.0",
+  "summary": "Async email scheduling, drafting, and Microsoft Graph mail integration.",
+  "author": "José Luis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yurmail-0.1.0.tar.gz",
+  "download_time": "2026-04-14T23:09:33.238205",
+  "package_url": "https://pypi.org/project/YurMail/"
+}
