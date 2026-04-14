@@ -1,11 +1,11 @@
 {
   "name": "quantglide-ibkr",
-  "version": "1.1.5",
+  "version": "1.1.9",
   "summary": "QuantGlide IBKR relay — polls for trade signals and places orders via IB Gateway",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "quantglide_ibkr-1.1.5.tar.gz",
-  "download_time": "2026-04-11T20:55:30.361085",
+  "download_filename": "quantglide_ibkr-1.1.9.tar.gz",
+  "download_time": "2026-04-14T18:56:42.282471",
   "package_url": "https://pypi.org/project/quantglide-ibkr/"
 }

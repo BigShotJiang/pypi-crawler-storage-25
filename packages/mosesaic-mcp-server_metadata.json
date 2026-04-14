@@ -1,11 +1,11 @@
 {
   "name": "mosesaic-mcp-server",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "MCP server — expose Mosesaic agents as tools for Claude Code, Cursor, and any MCP client",
   "author": "Alexander Sultan-Shakh",
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "mosesaic_mcp_server-0.2.4.tar.gz",
-  "download_time": "2026-04-14T15:01:01.172897",
+  "download_filename": "mosesaic_mcp_server-0.2.6.tar.gz",
+  "download_time": "2026-04-14T18:56:32.564582",
   "package_url": "https://pypi.org/project/mosesaic-mcp-server/"
 }

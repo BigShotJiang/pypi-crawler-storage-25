@@ -1,0 +1,11 @@
+{
+  "name": "hcom",
+  "version": "0.7.11",
+  "summary": "Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode.",
+  "author": "aannoo",
+  "license": null,
+  "home_page": "https://github.com/aannoo/hcom",
+  "download_filename": "hcom-0.7.11-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-14T18:56:29.216976",
+  "package_url": "https://pypi.org/project/hcom/"
+}

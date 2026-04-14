@@ -1,11 +1,11 @@
 {
   "name": "mosesaic",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "Mosesaic — AI agent orchestration framework and virtual agile sprint team",
   "author": "Alexander Sultan-Shakh",
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "mosesaic-0.2.4.tar.gz",
-  "download_time": "2026-04-14T15:00:58.505330",
+  "download_filename": "mosesaic-0.2.6.tar.gz",
+  "download_time": "2026-04-14T18:56:31.406001",
   "package_url": "https://pypi.org/project/mosesaic/"
 }

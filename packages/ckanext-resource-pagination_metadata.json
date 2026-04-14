@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-resource-pagination",
+  "version": "0.2.0",
+  "summary": "Paginate resources on CKAN dataset pages",
+  "author": "Tanmay Agrawal",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/tanmayagrawal21/ckanext-resource-pagination",
+  "download_filename": "ckanext_resource_pagination-0.2.0.tar.gz",
+  "download_time": "2026-04-14T18:56:42.794479",
+  "package_url": "https://pypi.org/project/ckanext-resource-pagination/"
+}

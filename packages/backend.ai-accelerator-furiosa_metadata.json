@@ -1,0 +1,11 @@
+{
+  "name": "backend.ai-accelerator-furiosa",
+  "version": "26.4.2",
+  "summary": "Backend.AI Accelerator Plugin for Furiosa NPUs",
+  "author": "Lablup Inc. and contributors",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/lablup/backend.ai",
+  "download_filename": "backend_ai_accelerator_furiosa-26.4.2.tar.gz",
+  "download_time": "2026-04-14T18:57:03.690284",
+  "package_url": "https://pypi.org/project/backend.ai-accelerator-furiosa/"
+}

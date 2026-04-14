@@ -1,0 +1,11 @@
+{
+  "name": "sovereign-engine",
+  "version": "1.0.6",
+  "summary": "Procedural Game Engine powered by IntentShield and LogicShield (BSL 1.1)",
+  "author": "SovereignShield",
+  "license": null,
+  "home_page": "https://github.com/sovereign-shield/sovereign-engine",
+  "download_filename": "sovereign_engine-1.0.6.tar.gz",
+  "download_time": "2026-04-14T18:56:54.139512",
+  "package_url": "https://pypi.org/project/sovereign-engine/"
+}

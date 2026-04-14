@@ -1,0 +1,11 @@
+{
+  "name": "sciwrite-lint",
+  "version": "0.2.2",
+  "summary": "A linter for scientific manuscripts — reference verification, consistency checking, and structural validation.",
+  "author": "Sergey Samsonau",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sciwrite_lint-0.2.2.tar.gz",
+  "download_time": "2026-04-14T18:56:41.259174",
+  "package_url": "https://pypi.org/project/sciwrite-lint/"
+}
