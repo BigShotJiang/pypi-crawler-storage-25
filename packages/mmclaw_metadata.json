@@ -1,11 +1,11 @@
 {
   "name": "mmclaw",
-  "version": "0.0.83",
+  "version": "0.0.85",
   "summary": "⚡ MMClaw: Ultra-Lightweight, Pure Python Multimodal Agent.",
   "author": "Jun Hu",
   "license": null,
   "home_page": "https://github.com/CrawlScript/MMClaw",
-  "download_filename": "mmclaw-0.0.83.tar.gz",
-  "download_time": "2026-04-02T12:00:25.506760",
+  "download_filename": "mmclaw-0.0.85.tar.gz",
+  "download_time": "2026-04-14T09:11:30.854819",
   "package_url": "https://pypi.org/project/mmclaw/"
 }

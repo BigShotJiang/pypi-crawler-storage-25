@@ -1,11 +1,11 @@
 {
   "name": "eidet-sdk",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Python client SDK for Eidet — long-term memory for AI coding agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eidet_sdk-0.4.0.tar.gz",
-  "download_time": "2026-04-13T21:13:51.434586",
+  "download_filename": "eidet_sdk-0.4.1.tar.gz",
+  "download_time": "2026-04-14T09:10:58.997063",
   "package_url": "https://pypi.org/project/eidet-sdk/"
 }

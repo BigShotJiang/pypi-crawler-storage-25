@@ -1,0 +1,11 @@
+{
+  "name": "swh.graph.libs",
+  "version": "13.0.0",
+  "summary": "Rust libraries for the Software Heritage graph service (Luigi tasks)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swh_graph_libs-13.0.0.tar.gz",
+  "download_time": "2026-04-14T09:11:15.144743",
+  "package_url": "https://pypi.org/project/swh.graph.libs/"
+}

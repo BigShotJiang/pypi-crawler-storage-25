@@ -1,0 +1,11 @@
+{
+  "name": "fastkpcv",
+  "version": "0.1.1",
+  "summary": "High-performance kernelized parallel coordinates visualization tool in Python",
+  "author": "fastkpcv-group",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastkpcv-0.1.1.tar.gz",
+  "download_time": "2026-04-14T09:11:29.829407",
+  "package_url": "https://pypi.org/project/fastkpcv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "invenio-records-lom",
+  "version": "0.20.1",
+  "summary": "\"Invenio data model for Learning Object Metadata.\"",
+  "author": "\"Graz University of Technology\"",
+  "license": "MIT",
+  "home_page": "https://github.com/tu-graz-library/invenio-records-lom",
+  "download_filename": "invenio_records_lom-0.20.1.tar.gz",
+  "download_time": "2026-04-14T09:11:32.895691",
+  "package_url": "https://pypi.org/project/invenio-records-lom/"
+}

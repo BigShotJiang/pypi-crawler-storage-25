@@ -1,0 +1,11 @@
+{
+  "name": "mv-hikcamera",
+  "version": "0.1.0",
+  "summary": "海康威视工业相机Python控制库",
+  "author": "Static2D Code",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/hikcamera",
+  "download_filename": "mv_hikcamera-0.1.0.tar.gz",
+  "download_time": "2026-04-14T09:11:17.854351",
+  "package_url": "https://pypi.org/project/mv-hikcamera/"
+}

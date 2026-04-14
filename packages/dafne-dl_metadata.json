@@ -1,0 +1,11 @@
+{
+  "name": "dafne-dl",
+  "version": "2.0.1b2",
+  "summary": "Deep Learning module for Dafne",
+  "author": "Francesco Santini",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://github.com/dafne-imaging/dafne-dl",
+  "download_filename": "dafne_dl-2.0.1b2.tar.gz",
+  "download_time": "2026-04-14T09:11:31.364029",
+  "package_url": "https://pypi.org/project/dafne-dl/"
+}

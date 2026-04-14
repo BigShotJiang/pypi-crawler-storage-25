@@ -1,11 +1,11 @@
 {
   "name": "argus-redact",
-  "version": "0.4.2",
+  "version": "0.4.13",
   "summary": "Encrypt PII, not meaning. Locally.",
   "author": "Wang Yu",
   "license": null,
   "home_page": null,
-  "download_filename": "argus_redact-0.4.2.tar.gz",
-  "download_time": "2026-04-04T22:51:50.823325",
+  "download_filename": "argus_redact-0.4.13.tar.gz",
+  "download_time": "2026-04-14T09:11:15.798935",
   "package_url": "https://pypi.org/project/argus-redact/"
 }

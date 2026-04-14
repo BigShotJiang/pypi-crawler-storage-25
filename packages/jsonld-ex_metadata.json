@@ -1,0 +1,11 @@
+{
+  "name": "jsonld-ex",
+  "version": "0.7.2",
+  "summary": "JSON-LD 1.2 extensions for AI/ML: confidence algebra (Subjective Logic), FHIR R4 interoperability (31 resource types), provenance, and security hardening",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jsonld_ex-0.7.2.tar.gz",
+  "download_time": "2026-04-14T09:11:21.942397",
+  "package_url": "https://pypi.org/project/jsonld-ex/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pinarkive-sdk-py",
+  "version": "3.1.1",
+  "summary": "Python SDK for PinArkive API v3 – minimal client (upload, pin, remove, users/me, uploads, tokens, status, allocations). See https://pinarkive.com/docs.php",
+  "author": "PinArkive, Joel_da",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pinarkive_sdk_py-3.1.1.tar.gz",
+  "download_time": "2026-04-14T09:11:03.670011",
+  "package_url": "https://pypi.org/project/pinarkive-sdk-py/"
+}

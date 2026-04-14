@@ -1,11 +1,11 @@
 {
   "name": "lucent-codex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "System for defining, validating, and resolving naming conventions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lucent_codex-0.0.1.tar.gz",
-  "download_time": "2026-04-11T14:00:06.660236",
+  "download_filename": "lucent_codex-0.0.2.tar.gz",
+  "download_time": "2026-04-14T09:11:33.404314",
   "package_url": "https://pypi.org/project/lucent-codex/"
 }

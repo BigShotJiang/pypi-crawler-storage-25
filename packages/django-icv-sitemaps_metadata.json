@@ -1,0 +1,11 @@
+{
+  "name": "django-icv-sitemaps",
+  "version": "0.4.0",
+  "summary": "Scalable sitemap generation and web discovery infrastructure for Django — background XML sitemaps (standard/image/video/news), robots.txt, llms.txt, ads.txt, security.txt, humans.txt.",
+  "author": "Nigel Copley",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_icv_sitemaps-0.4.0.tar.gz",
+  "download_time": "2026-04-14T09:10:53.773575",
+  "package_url": "https://pypi.org/project/django-icv-sitemaps/"
+}
