@@ -1,0 +1,11 @@
+{
+  "name": "torch-tilt-series",
+  "version": "0.5.0",
+  "summary": "Tomogram reconstruction, subtomogram reconstruction, and subtilt extraction for cryo-ET.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "torch_tilt_series-0.5.0.tar.gz",
+  "download_time": "2026-04-14T16:11:39.339087",
+  "package_url": "https://pypi.org/project/torch-tilt-series/"
+}

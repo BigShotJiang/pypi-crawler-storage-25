@@ -1,0 +1,11 @@
+{
+  "name": "torch-motion-correction",
+  "version": "0.5.0",
+  "summary": "Motion estimation and correction in PyTorch",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "torch_motion_correction-0.5.0.tar.gz",
+  "download_time": "2026-04-14T16:11:46.136452",
+  "package_url": "https://pypi.org/project/torch-motion-correction/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "saltx",
+  "version": "0.6.0",
+  "summary": "using Saltstack with Bitwarden/Vaultwarden credential management - locally or via salt-ssh",
+  "author": "Dirk Henrici",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://www.github.com/towalink/saltx",
+  "download_filename": "saltx-0.6.0.tar.gz",
+  "download_time": "2026-04-14T16:11:44.578601",
+  "package_url": "https://pypi.org/project/saltx/"
+}

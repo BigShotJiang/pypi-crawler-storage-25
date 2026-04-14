@@ -1,0 +1,11 @@
+{
+  "name": "torch-transform-image",
+  "version": "0.5.0",
+  "summary": "Real space transformations of 2D/3D images in PyTorch",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "torch_transform_image-0.5.0.tar.gz",
+  "download_time": "2026-04-14T16:11:41.989009",
+  "package_url": "https://pypi.org/project/torch-transform-image/"
+}

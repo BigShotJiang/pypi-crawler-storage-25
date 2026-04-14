@@ -1,0 +1,11 @@
+{
+  "name": "xfinlink",
+  "version": "0.2.1",
+  "summary": "Validate and fix financial data merges. Catches silent identifier errors that corrupt research datasets.",
+  "author": "xfinlink",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xfinlink-0.2.1.tar.gz",
+  "download_time": "2026-04-14T16:12:24.377569",
+  "package_url": "https://pypi.org/project/xfinlink/"
+}

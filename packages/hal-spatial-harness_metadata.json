@@ -1,11 +1,11 @@
 {
   "name": "hal-spatial-harness",
-  "version": "0.1.467",
+  "version": "0.1.472",
   "summary": "A lightweight framework for benchmarking multimodal AI agents with parallel execution, prompt variation, and automated evaluation.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hal_spatial_harness-0.1.467.tar.gz",
-  "download_time": "2026-04-12T20:40:15.672311",
+  "download_filename": "hal_spatial_harness-0.1.472.tar.gz",
+  "download_time": "2026-04-14T16:12:23.801734",
   "package_url": "https://pypi.org/project/hal-spatial-harness/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mpss-tools-36",
+  "version": "2026.4",
+  "summary": "Sharing Python objects, Numpy arrays, and progress bars for Python's multiprocessing",
+  "author": "Eric Debreuve",
+  "license": "CeCILL-2.1",
+  "home_page": "https://src.koda.cnrs.fr/eric.debreuve/mpss-tools-36/",
+  "download_filename": "mpss_tools_36-2026.4.tar.gz",
+  "download_time": "2026-04-14T16:11:36.722114",
+  "package_url": "https://pypi.org/project/mpss-tools-36/"
+}

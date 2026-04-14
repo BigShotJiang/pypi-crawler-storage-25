@@ -1,0 +1,11 @@
+{
+  "name": "torch-refine-tilt-axis-angle",
+  "version": "0.5.0",
+  "summary": "Tilt-axis angle optimization for tilt series using common lines in PyTorch",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "torch_refine_tilt_axis_angle-0.5.0.tar.gz",
+  "download_time": "2026-04-14T16:11:47.695359",
+  "package_url": "https://pypi.org/project/torch-refine-tilt-axis-angle/"
+}

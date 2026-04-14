@@ -1,0 +1,11 @@
+{
+  "name": "yt-audio-cli",
+  "version": "0.2.2",
+  "summary": "A simple command-line tool for downloading audio from YouTube and other sites",
+  "author": "pyyupsk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yt_audio_cli-0.2.2.tar.gz",
+  "download_time": "2026-04-14T16:11:38.819082",
+  "package_url": "https://pypi.org/project/yt-audio-cli/"
+}

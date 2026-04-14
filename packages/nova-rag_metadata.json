@@ -1,11 +1,11 @@
 {
   "name": "nova-rag",
-  "version": "0.3.5",
+  "version": "0.3.9",
   "summary": "Local code intelligence MCP server — semantic search + code graph + impact analysis. Ask code in plain language.",
   "author": "Vladimir Pronevic",
   "license": null,
   "home_page": null,
-  "download_filename": "nova_rag-0.3.5.tar.gz",
-  "download_time": "2026-04-14T10:45:53.012242",
+  "download_filename": "nova_rag-0.3.9.tar.gz",
+  "download_time": "2026-04-14T16:11:56.037047",
   "package_url": "https://pypi.org/project/nova-rag/"
 }
