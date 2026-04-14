@@ -1,11 +1,11 @@
 {
   "name": "chesserp-api",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "summary": "Python client library for ChessERP API",
   "author": "Nahuel",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chesserp_api-0.1.5.tar.gz",
-  "download_time": "2026-04-11T20:06:28.399784",
+  "download_filename": "chesserp_api-0.2.0.tar.gz",
+  "download_time": "2026-04-14T17:58:18.888013",
   "package_url": "https://pypi.org/project/chesserp-api/"
 }

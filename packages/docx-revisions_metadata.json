@@ -1,0 +1,11 @@
+{
+  "name": "docx-revisions",
+  "version": "0.1.5",
+  "summary": "Track changes (revisions) support for python-docx: read, write and manipulate <w:ins> and <w:del> elements",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docx_revisions-0.1.5.tar.gz",
+  "download_time": "2026-04-14T17:58:32.742531",
+  "package_url": "https://pypi.org/project/docx-revisions/"
+}

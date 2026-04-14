@@ -1,11 +1,11 @@
 {
   "name": "5mghost-shared-client",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Shared client utilities for MCP local clients (auth, registration, launcher)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "5mghost_shared_client-0.0.2.tar.gz",
-  "download_time": "2026-04-14T09:10:52.247476",
+  "download_filename": "5mghost_shared_client-0.0.4.tar.gz",
+  "download_time": "2026-04-14T17:58:18.244676",
   "package_url": "https://pypi.org/project/5mghost-shared-client/"
 }

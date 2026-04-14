@@ -1,11 +1,11 @@
 {
   "name": "kauri",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "Hopf algebras, B-series, and Runge-Kutta methods on rooted trees",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "kauri-2.0.0.tar.gz",
-  "download_time": "2026-04-02T21:54:42.134999",
+  "download_filename": "kauri-2.1.0.tar.gz",
+  "download_time": "2026-04-14T17:58:27.650458",
   "package_url": "https://pypi.org/project/kauri/"
 }

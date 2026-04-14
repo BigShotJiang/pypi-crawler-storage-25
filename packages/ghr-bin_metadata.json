@@ -1,11 +1,11 @@
 {
   "name": "ghr-bin",
-  "version": "0.1.0.dev10",
+  "version": "0.1.0.dev12",
   "summary": "Install tools from GitHub releases",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/cataggar/ghr",
-  "download_filename": "ghr_bin-0.1.0.dev10-py3-none-macosx_10_9_x86_64.whl",
-  "download_time": "2026-04-14T11:49:03.979872",
+  "download_filename": "ghr_bin-0.1.0.dev12-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-04-14T17:58:47.209366",
   "package_url": "https://pypi.org/project/ghr-bin/"
 }

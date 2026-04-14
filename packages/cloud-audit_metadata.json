@@ -1,0 +1,11 @@
+{
+  "name": "cloud-audit",
+  "version": "2.0.0",
+  "summary": "Open-source AWS security scanner with IAM escalation detection, What-If simulator, security trends, AI-SPM (Bedrock/SageMaker), 6 compliance frameworks, 31 attack chain rules, breach cost estimation, and MCP server. 94 checks across 23 services. Every finding includes CLI + Terraform remediation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloud_audit-2.0.0.tar.gz",
+  "download_time": "2026-04-14T17:58:27.007019",
+  "package_url": "https://pypi.org/project/cloud-audit/"
+}

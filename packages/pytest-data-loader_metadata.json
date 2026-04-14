@@ -1,0 +1,11 @@
+{
+  "name": "pytest-data-loader",
+  "version": "0.8.0",
+  "summary": "Pytest plugin for loading test data for data-driven testing (DDT)",
+  "author": "Yugo Kato",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_data_loader-0.8.0.tar.gz",
+  "download_time": "2026-04-14T17:58:29.587580",
+  "package_url": "https://pypi.org/project/pytest-data-loader/"
+}

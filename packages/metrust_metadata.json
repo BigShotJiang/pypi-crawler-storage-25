@@ -1,11 +1,11 @@
 {
   "name": "metrust",
-  "version": "0.4.3",
+  "version": "0.4.7",
   "summary": "Rust-powered MetPy-compatible calculation layer with optional GPU acceleration",
   "author": "Fahrenheit Research",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metrust-0.4.3.tar.gz",
-  "download_time": "2026-04-01T05:14:09.892116",
+  "download_filename": "metrust-0.4.7.tar.gz",
+  "download_time": "2026-04-14T17:58:01.635556",
   "package_url": "https://pypi.org/project/metrust/"
 }

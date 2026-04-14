@@ -1,11 +1,11 @@
 {
   "name": "exosphere-cli",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "summary": "CLI/TUI driven patch reporting for remote Unix-like systems.",
   "author": "Alexandre Gauthier",
   "license": null,
   "home_page": null,
-  "download_filename": "exosphere_cli-2.4.1.tar.gz",
-  "download_time": "2026-04-06T05:54:15.762595",
+  "download_filename": "exosphere_cli-2.4.2.tar.gz",
+  "download_time": "2026-04-14T17:58:05.367778",
   "package_url": "https://pypi.org/project/exosphere-cli/"
 }

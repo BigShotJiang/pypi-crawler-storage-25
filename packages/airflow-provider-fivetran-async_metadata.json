@@ -1,0 +1,11 @@
+{
+  "name": "airflow-provider-fivetran-async",
+  "version": "2.3.0",
+  "summary": "A Fivetran async provider for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "airflow_provider_fivetran_async-2.3.0.tar.gz",
+  "download_time": "2026-04-14T17:59:02.641042",
+  "package_url": "https://pypi.org/project/airflow-provider-fivetran-async/"
+}

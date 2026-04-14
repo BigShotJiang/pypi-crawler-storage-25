@@ -1,0 +1,11 @@
+{
+  "name": "coders2iamc",
+  "version": "1.1.7",
+  "summary": "Scripts that pull data from the CODERS database and format it for use in the IAMC format",
+  "author": null,
+  "license": null,
+  "home_page": "https://gitlab.com/sesit/coders-to-iamc",
+  "download_filename": "coders2iamc-1.1.7.tar.gz",
+  "download_time": "2026-04-14T17:58:37.653595",
+  "package_url": "https://pypi.org/project/coders2iamc/"
+}

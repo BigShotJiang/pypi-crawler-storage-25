@@ -1,11 +1,11 @@
 {
   "name": "the-agency-cli",
-  "version": "1.13.0",
-  "summary": "The Virtual IT Team in Your Pocket. A multi-agent runtime with 50+ AI Personas for enterprise software development.",
+  "version": "1.15.0",
+  "summary": "Virtual teams in your terminal. Multi-agent runtime with 50+ AI Personas, organized by blueprint (IT by default; startup, enterprise, or custom).",
   "author": "flegare",
   "license": null,
   "home_page": null,
-  "download_filename": "the_agency_cli-1.13.0.tar.gz",
-  "download_time": "2026-04-13T20:09:51.150320",
+  "download_filename": "the_agency_cli-1.15.0.tar.gz",
+  "download_time": "2026-04-14T17:58:54.995421",
   "package_url": "https://pypi.org/project/the-agency-cli/"
 }
