@@ -1,0 +1,11 @@
+{
+  "name": "mosesaic-core",
+  "version": "0.2.4",
+  "summary": "Mosesaic actor runtime — the core of the Mosesaic agent framework",
+  "author": "Alexander Sultan-Shakh",
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "mosesaic_core-0.2.4.tar.gz",
+  "download_time": "2026-04-14T15:01:08.653483",
+  "package_url": "https://pypi.org/project/mosesaic-core/"
+}

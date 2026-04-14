@@ -1,0 +1,11 @@
+{
+  "name": "mosesaic-workflow",
+  "version": "0.2.4",
+  "summary": "Mosesaic workflow DSL — step, parallel, verify, human_gate",
+  "author": "Alexander Sultan-Shakh",
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "mosesaic_workflow-0.2.4.tar.gz",
+  "download_time": "2026-04-14T15:01:02.774948",
+  "package_url": "https://pypi.org/project/mosesaic-workflow/"
+}

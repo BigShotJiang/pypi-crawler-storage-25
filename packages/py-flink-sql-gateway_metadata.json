@@ -1,0 +1,11 @@
+{
+  "name": "py-flink-sql-gateway",
+  "version": "0.1.5",
+  "summary": "A lightweight Python driver for the Apache Flink SQL Gateway, implementing PEP 249 (DB-API 2.0).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_flink_sql_gateway-0.1.5.tar.gz",
+  "download_time": "2026-04-14T15:00:51.521437",
+  "package_url": "https://pypi.org/project/py-flink-sql-gateway/"
+}

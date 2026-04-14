@@ -1,11 +1,11 @@
 {
   "name": "webycash-sdk",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Webcash cross-platform SDK — Python bindings",
   "author": "Webycash Developers",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "webycash_sdk-0.1.1.tar.gz",
-  "download_time": "2026-04-14T12:54:16.473030",
+  "download_filename": "webycash_sdk-0.1.5.tar.gz",
+  "download_time": "2026-04-14T15:00:52.544644",
   "package_url": "https://pypi.org/project/webycash-sdk/"
 }

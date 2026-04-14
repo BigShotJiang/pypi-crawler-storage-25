@@ -1,0 +1,11 @@
+{
+  "name": "mosesaic-mcp",
+  "version": "0.2.4",
+  "summary": "MCP (Model Context Protocol) client integration for Mosesaic",
+  "author": "Alexander Sultan-Shakh",
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "mosesaic_mcp-0.2.4.tar.gz",
+  "download_time": "2026-04-14T15:01:03.307657",
+  "package_url": "https://pypi.org/project/mosesaic-mcp/"
+}

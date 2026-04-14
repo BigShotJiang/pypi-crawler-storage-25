@@ -1,11 +1,11 @@
 {
   "name": "farc-hd",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "summary": "Fuzzy Association Rule-based Classification Model for High-Dimensional problems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "farc_hd-0.1.2.tar.gz",
-  "download_time": "2026-04-14T11:49:09.854415",
+  "download_filename": "farc_hd-1.0.0.tar.gz",
+  "download_time": "2026-04-14T15:01:10.790623",
   "package_url": "https://pypi.org/project/farc-hd/"
 }

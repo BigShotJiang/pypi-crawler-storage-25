@@ -1,11 +1,11 @@
 {
   "name": "paradime-io",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "summary": "Paradime - Python SDK",
-  "author": "Bhuvan Singla",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "paradime_io-5.0.0.tar.gz",
-  "download_time": "2026-04-08T10:10:40.420167",
+  "download_filename": "paradime_io-5.1.0.tar.gz",
+  "download_time": "2026-04-14T15:01:16.268596",
   "package_url": "https://pypi.org/project/paradime-io/"
 }

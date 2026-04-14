@@ -1,11 +1,11 @@
 {
   "name": "dtach-sessions",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "dtach session manager — local, SSH, and container sessions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dtach_sessions-0.5.0.tar.gz",
-  "download_time": "2026-04-14T12:54:02.324522",
+  "download_filename": "dtach_sessions-0.5.1.tar.gz",
+  "download_time": "2026-04-14T15:00:39.051219",
   "package_url": "https://pypi.org/project/dtach-sessions/"
 }

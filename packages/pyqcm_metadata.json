@@ -1,11 +1,11 @@
 {
   "name": "pyqcm",
-  "version": "2.22.1",
+  "version": "2.22.4",
   "summary": "Quantum cluster methods for the physics of strongly correlated systems.",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pyqcm-2.22.1.tar.gz",
-  "download_time": "2026-04-04T02:05:03.844434",
+  "download_filename": "pyqcm-2.22.4.tar.gz",
+  "download_time": "2026-04-14T15:01:19.108926",
   "package_url": "https://pypi.org/project/pyqcm/"
 }

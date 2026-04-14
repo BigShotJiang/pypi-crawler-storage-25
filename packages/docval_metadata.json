@@ -1,0 +1,11 @@
+{
+  "name": "docval",
+  "version": "0.1.5",
+  "summary": "Validate and refactor Markdown documentation against source code using heuristics + LLM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docval-0.1.5.tar.gz",
+  "download_time": "2026-04-14T15:00:54.339048",
+  "package_url": "https://pypi.org/project/docval/"
+}

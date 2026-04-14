@@ -1,0 +1,11 @@
+{
+  "name": "mosesaic-cli",
+  "version": "0.2.4",
+  "summary": "Mosesaic CLI — run, inspect, replay, and manage agents from the terminal",
+  "author": "Alexander Sultan-Shakh",
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "mosesaic_cli-0.2.4.tar.gz",
+  "download_time": "2026-04-14T15:01:08.118502",
+  "package_url": "https://pypi.org/project/mosesaic-cli/"
+}

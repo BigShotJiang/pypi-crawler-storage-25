@@ -1,0 +1,11 @@
+{
+  "name": "codereview-local",
+  "version": "0.1.2",
+  "summary": "Local RAG-based code review CLI. No API keys. Runs fully on your machine.",
+  "author": "Muhammad",
+  "license": "MIT",
+  "home_page": "https://github.com/Muhammad-NSQ/codereview",
+  "download_filename": "codereview_local-0.1.2.tar.gz",
+  "download_time": "2026-04-14T15:00:48.281129",
+  "package_url": "https://pypi.org/project/codereview-local/"
+}

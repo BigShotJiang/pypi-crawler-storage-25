@@ -1,0 +1,11 @@
+{
+  "name": "codeastra",
+  "version": "1.5.1",
+  "summary": "Blind Agent SDK — drop-in middleware for LangChain, CrewAI, AutoGPT. Two lines makes any agent blind to real data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "codeastra-1.5.1.tar.gz",
+  "download_time": "2026-04-14T15:00:44.001633",
+  "package_url": "https://pypi.org/project/codeastra/"
+}

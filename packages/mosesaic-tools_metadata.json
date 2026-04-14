@@ -1,0 +1,11 @@
+{
+  "name": "mosesaic-tools",
+  "version": "0.2.4",
+  "summary": "Mosesaic tool layer — @tool decorator, ToolRegistry, MCP adapter, ctx.tools",
+  "author": "Alexander Sultan-Shakh",
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "mosesaic_tools-0.2.4.tar.gz",
+  "download_time": "2026-04-14T15:01:05.448658",
+  "package_url": "https://pypi.org/project/mosesaic-tools/"
+}
