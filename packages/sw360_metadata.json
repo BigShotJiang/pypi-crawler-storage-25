@@ -1,0 +1,11 @@
+{
+  "name": "sw360",
+  "version": "1.11.0",
+  "summary": "Python interface to the SW360 software component catalogue",
+  "author": "Thomas Graf",
+  "license": "MIT",
+  "home_page": "https://github.com/sw360/sw360python",
+  "download_filename": "sw360-1.11.0.tar.gz",
+  "download_time": "2026-04-14T05:55:46.213415",
+  "package_url": "https://pypi.org/project/sw360/"
+}

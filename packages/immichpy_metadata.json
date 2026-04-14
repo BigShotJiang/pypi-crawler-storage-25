@@ -1,0 +1,11 @@
+{
+  "name": "immichpy",
+  "version": "4.1.3",
+  "summary": "The stable, typed Python API layer for Immich automation and integrations.",
+  "author": "Timon Rieger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "immichpy-4.1.3.tar.gz",
+  "download_time": "2026-04-14T05:55:31.082930",
+  "package_url": "https://pypi.org/project/immichpy/"
+}

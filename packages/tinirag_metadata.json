@@ -1,0 +1,11 @@
+{
+  "name": "tinirag",
+  "version": "0.3.0",
+  "summary": "Privacy-first RAG CLI — local LLM + SearXNG, zero cloud, zero Docker",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinirag-0.3.0.tar.gz",
+  "download_time": "2026-04-14T05:55:02.502308",
+  "package_url": "https://pypi.org/project/tinirag/"
+}

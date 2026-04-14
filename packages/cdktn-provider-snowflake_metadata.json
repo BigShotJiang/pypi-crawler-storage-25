@@ -1,0 +1,11 @@
+{
+  "name": "cdktn-provider-snowflake",
+  "version": "16.2.0",
+  "summary": "Prebuilt snowflake Provider for CDK Terrain (cdktn)",
+  "author": "CDK Terrain Maintainers",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktn-io/cdktn-provider-snowflake.git",
+  "download_filename": "cdktn_provider_snowflake-16.2.0.tar.gz",
+  "download_time": "2026-04-14T05:55:46.789285",
+  "package_url": "https://pypi.org/project/cdktn-provider-snowflake/"
+}

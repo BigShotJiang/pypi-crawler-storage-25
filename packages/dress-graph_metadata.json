@@ -1,11 +1,11 @@
 {
   "name": "dress-graph",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "summary": "DRESS is a deterministic, parameter-free framework for continuous structural graph refinement. It iterates a nonlinear dynamical system on real-valued edge similarities and produces a graph fingerprint as a sorted edge-value vector once the iteration reaches a prescribed stopping criterion.",
   "author": "Eduar Castrillo Velilla",
   "license": null,
   "home_page": null,
-  "download_filename": "dress_graph-0.8.1.tar.gz",
-  "download_time": "2026-04-03T09:39:48.321592",
+  "download_filename": "dress_graph-0.8.2.tar.gz",
+  "download_time": "2026-04-14T05:55:05.973170",
   "package_url": "https://pypi.org/project/dress-graph/"
 }

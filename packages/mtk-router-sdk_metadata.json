@@ -1,0 +1,11 @@
+{
+  "name": "mtk-router-sdk",
+  "version": "0.1.4",
+  "summary": "MTK Router Automation Platform — Python SDK and CLI for MikroTik RouterOS (multi-slot VPN, discovery, bootstrap, optional mtk-serve HTTP API).",
+  "author": "MTK Router Automation Platform contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtk_router_sdk-0.1.4.tar.gz",
+  "download_time": "2026-04-14T05:55:39.693402",
+  "package_url": "https://pypi.org/project/mtk-router-sdk/"
+}

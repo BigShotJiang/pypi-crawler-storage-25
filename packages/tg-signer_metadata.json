@@ -1,0 +1,11 @@
+{
+  "name": "tg-signer",
+  "version": "0.8.6",
+  "summary": "Automated Telegram tasks (check-ins, sending messages, keyboard clicks, AI replies, etc.); monitoring, forwarding, and auto-replying to private, group, and channel messages.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tg_signer-0.8.6.tar.gz",
+  "download_time": "2026-04-14T05:55:35.939729",
+  "package_url": "https://pypi.org/project/tg-signer/"
+}

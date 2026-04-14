@@ -1,11 +1,11 @@
 {
   "name": "agentbreeder",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "Define Once. Deploy Anywhere. Govern Automatically.",
   "author": "AgentBreeder Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "agentbreeder-1.4.0.tar.gz",
-  "download_time": "2026-04-12T18:05:01.056895",
+  "download_filename": "agentbreeder-1.5.0.tar.gz",
+  "download_time": "2026-04-14T05:55:31.624995",
   "package_url": "https://pypi.org/project/agentbreeder/"
 }

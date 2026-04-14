@@ -1,0 +1,11 @@
+{
+  "name": "flask-nginx",
+  "version": "0.9.1",
+  "summary": "install flask websites into nginx",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_nginx-0.9.1.tar.gz",
+  "download_time": "2026-04-14T05:55:28.422958",
+  "package_url": "https://pypi.org/project/flask-nginx/"
+}

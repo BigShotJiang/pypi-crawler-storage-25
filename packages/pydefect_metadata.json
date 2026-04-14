@@ -1,0 +1,11 @@
+{
+  "name": "pydefect",
+  "version": "0.9.12",
+  "summary": "Integrated environment for first-principles point-defect calculations",
+  "author": "Yu Kumagai",
+  "license": "MIT license",
+  "home_page": "https://github.com/kumagai-group/pydefect",
+  "download_filename": "pydefect-0.9.12.tar.gz",
+  "download_time": "2026-04-14T05:55:18.741429",
+  "package_url": "https://pypi.org/project/pydefect/"
+}

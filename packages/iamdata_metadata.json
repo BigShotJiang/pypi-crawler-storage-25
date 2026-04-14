@@ -1,11 +1,11 @@
 {
   "name": "iamdata",
-  "version": "0.1.202604071",
+  "version": "0.1.202604141",
   "summary": "IAM data for AWS actions, resources, and conditions based on IAM policy documents. Checked for updates daily.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iamdata-0.1.202604071.tar.gz",
-  "download_time": "2026-04-07T05:27:42.461695",
+  "download_filename": "iamdata-0.1.202604141.tar.gz",
+  "download_time": "2026-04-14T05:55:47.335740",
   "package_url": "https://pypi.org/project/iamdata/"
 }

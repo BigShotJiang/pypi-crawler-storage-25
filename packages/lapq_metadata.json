@@ -1,0 +1,11 @@
+{
+  "name": "lapq",
+  "version": "1.0.6.1",
+  "summary": "LAP Technologies Python SDK for the QPU-1 quantum processor — 170+ algorithms, full gate set with auto-decomposition. ECC Shor now uses Cuccaro RCA adder (~100x fewer gates).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lapq-1.0.6.1.tar.gz",
+  "download_time": "2026-04-14T05:55:12.753195",
+  "package_url": "https://pypi.org/project/lapq/"
+}
