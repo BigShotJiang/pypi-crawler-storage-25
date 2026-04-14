@@ -1,11 +1,11 @@
 {
   "name": "vectorvein-sdk",
-  "version": "0.3.79",
+  "version": "0.3.84",
   "summary": "VectorVein API SDK and workflow designer",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vectorvein_sdk-0.3.79.tar.gz",
-  "download_time": "2026-04-13T06:19:34.754822",
+  "download_filename": "vectorvein_sdk-0.3.84.tar.gz",
+  "download_time": "2026-04-14T10:46:32.254739",
   "package_url": "https://pypi.org/project/vectorvein-sdk/"
 }

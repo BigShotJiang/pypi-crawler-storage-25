@@ -1,0 +1,11 @@
+{
+  "name": "lol-html-py",
+  "version": "0.1.1",
+  "summary": "Async streaming Python bindings for lol_html, a low-output-latency HTML rewriter",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/lmmx/lol-html",
+  "download_filename": "lol_html_py-0.1.1.tar.gz",
+  "download_time": "2026-04-14T10:46:03.907152",
+  "package_url": "https://pypi.org/project/lol-html-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wyckoff-transformer",
+  "version": "1.0.4",
+  "summary": "Wyckoff Transformer is a machine learning model for generating crystal structures which are symmetric by design.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wyckoff_transformer-1.0.4.tar.gz",
+  "download_time": "2026-04-14T10:46:20.376560",
+  "package_url": "https://pypi.org/project/wyckoff-transformer/"
+}
