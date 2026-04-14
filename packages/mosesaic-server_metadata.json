@@ -1,11 +1,11 @@
 {
   "name": "mosesaic-server",
-  "version": "0.2.6",
+  "version": "0.3.0",
   "summary": "Mosesaic standalone REST API server — run agents and workflows over HTTP",
   "author": "Alexander Sultan-Shakh",
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "mosesaic_server-0.2.6.tar.gz",
-  "download_time": "2026-04-14T18:56:33.145314",
+  "download_filename": "mosesaic_server-0.3.0.tar.gz",
+  "download_time": "2026-04-14T20:09:48.710647",
   "package_url": "https://pypi.org/project/mosesaic-server/"
 }

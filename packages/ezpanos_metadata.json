@@ -1,0 +1,11 @@
+{
+  "name": "ezpanos",
+  "version": "1.0.3",
+  "summary": "A lightweight PanOS (Palo Alto Networks) Firewall Management utility.",
+  "author": "Noah Black",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezpanos-1.0.3.tar.gz",
+  "download_time": "2026-04-14T20:09:45.113658",
+  "package_url": "https://pypi.org/project/ezpanos/"
+}

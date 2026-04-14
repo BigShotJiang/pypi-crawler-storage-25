@@ -1,0 +1,11 @@
+{
+  "name": "tm-devices",
+  "version": "3.6.1",
+  "summary": "Manage connections and interactions with Test & Measurement devices.",
+  "author": "Nicholas Felt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tm_devices-3.6.1.tar.gz",
+  "download_time": "2026-04-14T20:09:55.962840",
+  "package_url": "https://pypi.org/project/tm-devices/"
+}

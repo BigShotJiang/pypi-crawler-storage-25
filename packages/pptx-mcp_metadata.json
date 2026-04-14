@@ -1,0 +1,11 @@
+{
+  "name": "pptx-mcp",
+  "version": "0.11.0",
+  "summary": "AI-powered PowerPoint (.pptx) generation, editing, and review via MCP — 42 tools, 40 slide types (incl. SCR executive summary, RAG scorecard, testimonial, pricing table, logo wall, full-bleed hero, before/after, references), 12 chart types, 8 diagrams, 12 brand presets, 27 deck archetypes, and a 28-rule review engine with WCAG accessibility, action-title enforcement, data-provenance checks, and auto-fix",
+  "author": "swak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pptx_mcp-0.11.0.tar.gz",
+  "download_time": "2026-04-14T20:10:22.135594",
+  "package_url": "https://pypi.org/project/pptx-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ngcsdk",
+  "version": "4.17.0",
+  "summary": "NVIDIA GPU Cloud SDK",
+  "author": "NVIDIA CORPORATION",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ngcsdk-4.17.0-py3-none-any.whl",
+  "download_time": "2026-04-14T20:09:49.759003",
+  "package_url": "https://pypi.org/project/ngcsdk/"
+}

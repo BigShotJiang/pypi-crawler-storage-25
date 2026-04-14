@@ -1,0 +1,11 @@
+{
+  "name": "x-agent-trust",
+  "version": "0.1.0",
+  "summary": "Reference implementation of the x-agent-trust signing scheme (ECDSA P-256). OpenAPI Extensions Registry registered. IETF draft-sharif-agent-payment-trust.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "x_agent_trust-0.1.0.tar.gz",
+  "download_time": "2026-04-14T20:10:20.081087",
+  "package_url": "https://pypi.org/project/x-agent-trust/"
+}

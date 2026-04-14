@@ -1,0 +1,11 @@
+{
+  "name": "mdx-to-pd-fast",
+  "version": "0.0.1",
+  "summary": "MDX querie(s) to pandas DataFrame. Builds on the work of Peter Kazmir.",
+  "author": "Olivier Cloutier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdx_to_pd_fast-0.0.1.tar.gz",
+  "download_time": "2026-04-14T20:10:01.121917",
+  "package_url": "https://pypi.org/project/mdx-to-pd-fast/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pkgxray",
+  "version": "0.1.0",
+  "summary": "Analyze PyPI packages for suspicious behavior before installing them",
+  "author": "pkgxray contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pkgxray-0.1.0.tar.gz",
+  "download_time": "2026-04-14T20:10:04.483331",
+  "package_url": "https://pypi.org/project/pkgxray/"
+}
