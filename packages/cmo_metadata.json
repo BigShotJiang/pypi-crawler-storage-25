@@ -1,0 +1,11 @@
+{
+  "name": "cmo",
+  "version": "0.1.9",
+  "summary": "Constrained multiobjective benchmark suites and indicators",
+  "author": "Jordan Nicholas Cork",
+  "license": "GPLv3",
+  "home_page": "https://github.com/jsi-ci/cmo",
+  "download_filename": "cmo-0.1.9.tar.gz",
+  "download_time": "2026-04-14T11:49:14.254309",
+  "package_url": "https://pypi.org/project/cmo/"
+}

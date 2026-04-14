@@ -1,11 +1,11 @@
 {
   "name": "choregraph",
-  "version": "1.0.1",
-  "summary": "Data processing engine for the NVEIL SDK. Install via: pip install nveil",
+  "version": "1.1.0",
+  "summary": "Data processing engine for the NVEIL Toolkit. Install via: pip install nveil",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "choregraph-1.0.1-cp311-cp311-win_amd64.whl",
-  "download_time": "2026-04-10T08:52:41.172905",
+  "download_filename": "choregraph-1.1.0-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-04-14T11:49:06.187126",
   "package_url": "https://pypi.org/project/choregraph/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "adp-agent-anchor",
+  "version": "0.1.0",
+  "summary": "Neo3 blockchain anchor for ADP calibration snapshots. Optional extension to adp-agent (Python runtime) that periodically commits signed calibration snapshots to a Neo3-compatible chain.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adp_agent_anchor-0.1.0.tar.gz",
+  "download_time": "2026-04-14T11:48:53.719919",
+  "package_url": "https://pypi.org/project/adp-agent-anchor/"
+}

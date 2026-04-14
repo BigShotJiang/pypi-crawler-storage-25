@@ -1,0 +1,11 @@
+{
+  "name": "pip2conda",
+  "version": "0.10.0",
+  "summary": "Translate pip requirements into conda requirements",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pip2conda-0.10.0.tar.gz",
+  "download_time": "2026-04-14T11:48:52.630667",
+  "package_url": "https://pypi.org/project/pip2conda/"
+}

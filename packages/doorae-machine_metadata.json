@@ -1,0 +1,11 @@
+{
+  "name": "doorae-machine",
+  "version": "0.1.0",
+  "summary": "Machine daemon for Doorae agent orchestration",
+  "author": "Changyong Um",
+  "license": null,
+  "home_page": null,
+  "download_filename": "doorae_machine-0.1.0.tar.gz",
+  "download_time": "2026-04-14T11:49:26.593327",
+  "package_url": "https://pypi.org/project/doorae-machine/"
+}

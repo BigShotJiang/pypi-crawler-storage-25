@@ -1,0 +1,11 @@
+{
+  "name": "filemgr",
+  "version": "0.1.0",
+  "summary": "Web file manager for Linux with PAM auth, per-user privilege isolation via setuid, and bioinformatics-friendly previews",
+  "author": "Lings01",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "filemgr-0.1.0.tar.gz",
+  "download_time": "2026-04-14T11:49:07.814519",
+  "package_url": "https://pypi.org/project/filemgr/"
+}

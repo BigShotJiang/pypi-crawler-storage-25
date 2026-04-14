@@ -1,0 +1,11 @@
+{
+  "name": "mcp-video-preview",
+  "version": "1.0.0",
+  "summary": "MCP server that lets Claude visually inspect video files — extract frames, check overlays, karaoke subtitles and more",
+  "author": "MrBlue0003",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_video_preview-1.0.0.tar.gz",
+  "download_time": "2026-04-14T11:49:19.403743",
+  "package_url": "https://pypi.org/project/mcp-video-preview/"
+}

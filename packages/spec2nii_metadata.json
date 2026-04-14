@@ -1,0 +1,11 @@
+{
+  "name": "spec2nii",
+  "version": "0.8.8",
+  "summary": "Multi-format in vivo MR spectroscopy conversion to NIFTI",
+  "author": "Will Clarke",
+  "license": null,
+  "home_page": "https://github.com/wtclarke/spec2nii",
+  "download_filename": "spec2nii-0.8.8.tar.gz",
+  "download_time": "2026-04-14T11:49:25.063305",
+  "package_url": "https://pypi.org/project/spec2nii/"
+}

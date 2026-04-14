@@ -1,0 +1,11 @@
+{
+  "name": "hasql",
+  "version": "0.9.13",
+  "summary": "hasql is a module for acquiring actual connections with masters and replicas",
+  "author": null,
+  "license": "Apache 2",
+  "home_page": null,
+  "download_filename": "hasql-0.9.13.tar.gz",
+  "download_time": "2026-04-14T11:49:30.747451",
+  "package_url": "https://pypi.org/project/hasql/"
+}

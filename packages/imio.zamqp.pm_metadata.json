@@ -1,0 +1,11 @@
+{
+  "name": "imio.zamqp.pm",
+  "version": "0.21",
+  "summary": "PloneMeeting specific methods to use amqp",
+  "author": "IMIO",
+  "license": "GPL",
+  "home_page": "https://github.com/imio/",
+  "download_filename": "imio_zamqp_pm-0.21.tar.gz",
+  "download_time": "2026-04-14T11:48:46.635437",
+  "package_url": "https://pypi.org/project/imio.zamqp.pm/"
+}

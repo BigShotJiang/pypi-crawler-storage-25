@@ -1,11 +1,11 @@
 {
   "name": "collective.iconifiedcategory",
-  "version": "0.73",
+  "version": "0.74",
   "summary": "An add-on for Plone",
   "author": "IMIO",
   "license": "GPL version 2",
   "home_page": "https://pypi.python.org/pypi/collective.iconifiedcategory",
-  "download_filename": "collective_iconifiedcategory-0.73.tar.gz",
-  "download_time": "2026-04-01T11:40:03.236895",
+  "download_filename": "collective_iconifiedcategory-0.74.tar.gz",
+  "download_time": "2026-04-14T11:48:56.340224",
   "package_url": "https://pypi.org/project/collective.iconifiedcategory/"
 }

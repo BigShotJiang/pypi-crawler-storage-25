@@ -1,11 +1,11 @@
 {
   "name": "imio.helpers",
-  "version": "1.3.13",
+  "version": "1.3.14",
   "summary": "Various helper methods for development.",
   "author": "Simon Delcourt",
   "license": "GPL",
   "home_page": "https://github.com/imio/imio.helpers",
-  "download_filename": "imio_helpers-1.3.13.tar.gz",
-  "download_time": "2026-04-01T11:39:43.197239",
+  "download_filename": "imio_helpers-1.3.14.tar.gz",
+  "download_time": "2026-04-14T11:48:50.955970",
   "package_url": "https://pypi.org/project/imio.helpers/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "xontrib-zoxide",
+  "version": "1.2.0",
+  "summary": "Zoxide integration for xonsh",
+  "author": "Gyuri Horak",
+  "license": "MIT",
+  "home_page": "https://github.com/dyuri/xontrib-zoxide",
+  "download_filename": "xontrib_zoxide-1.2.0.tar.gz",
+  "download_time": "2026-04-14T11:48:47.212876",
+  "package_url": "https://pypi.org/project/xontrib-zoxide/"
+}
