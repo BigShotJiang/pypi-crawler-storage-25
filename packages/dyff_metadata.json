@@ -1,0 +1,11 @@
+{
+  "name": "dyff",
+  "version": "0.37.1",
+  "summary": "Meta-package to install the local SDK for the Dyff AI auditing platform.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dyff-0.37.1.tar.gz",
+  "download_time": "2026-04-15T15:54:33.469671",
+  "package_url": "https://pypi.org/project/dyff/"
+}

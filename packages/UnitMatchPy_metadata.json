@@ -1,0 +1,11 @@
+{
+  "name": "UnitMatchPy",
+  "version": "3.3.1",
+  "summary": "Automatic matching of neurons across sessions",
+  "author": "Enny van Beest, Célian Bimbard, Suyash Agarwal, Wentao Qiu",
+  "license": "CC BY-NC-SA 4.0 International",
+  "home_page": null,
+  "download_filename": "unitmatchpy-3.3.1.tar.gz",
+  "download_time": "2026-04-15T15:53:59.232750",
+  "package_url": "https://pypi.org/project/UnitMatchPy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "polars-gw",
+  "version": "0.1.1",
+  "summary": "Native Polars computation engine for Graphic Walker — translates GW workflow payloads directly to Polars operations",
+  "author": "Edward van Eechoud",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polars_gw-0.1.1.tar.gz",
+  "download_time": "2026-04-15T15:54:16.841711",
+  "package_url": "https://pypi.org/project/polars-gw/"
+}

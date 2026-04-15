@@ -1,11 +1,11 @@
 {
   "name": "memocode",
-  "version": "0.3.7",
+  "version": "0.4.1",
   "summary": "Personal AI coding agent with memory, tool execution, and safety controls",
   "author": "AssassinCHN",
   "license": null,
   "home_page": null,
-  "download_filename": "memocode-0.3.7.tar.gz",
-  "download_time": "2026-04-13T16:16:38.641762",
+  "download_filename": "memocode-0.4.1.tar.gz",
+  "download_time": "2026-04-15T15:54:21.651081",
   "package_url": "https://pypi.org/project/memocode/"
 }

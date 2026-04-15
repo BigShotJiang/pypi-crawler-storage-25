@@ -1,0 +1,11 @@
+{
+  "name": "constrained-sdd",
+  "version": "0.1.9",
+  "summary": "A Python package for working with constrained Stanford Drone Dataset.",
+  "author": "Leander Kurscheidt",
+  "license": null,
+  "home_page": "https://github.com/april-tools/constrained-sdd",
+  "download_filename": "constrained_sdd-0.1.9.tar.gz",
+  "download_time": "2026-04-15T15:54:25.822031",
+  "package_url": "https://pypi.org/project/constrained-sdd/"
+}

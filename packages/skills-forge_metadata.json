@@ -1,11 +1,11 @@
 {
   "name": "skills-forge",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "summary": "A clean-architecture toolkit for crafting, linting, packing, and sharing Claude Code skills",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "skills_forge-0.2.0.tar.gz",
-  "download_time": "2026-04-09T07:59:18.562967",
+  "download_filename": "skills_forge-1.0.0.tar.gz",
+  "download_time": "2026-04-15T15:54:38.092809",
   "package_url": "https://pypi.org/project/skills-forge/"
 }

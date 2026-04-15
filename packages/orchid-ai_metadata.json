@@ -1,11 +1,11 @@
 {
   "name": "orchid-ai",
-  "version": "1.2.10",
+  "version": "1.2.14",
   "summary": "Orchid — platform-agnostic multi-agent AI framework (LangGraph + RAG)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orchid_ai-1.2.10.tar.gz",
-  "download_time": "2026-04-14T10:46:30.201132",
+  "download_filename": "orchid_ai-1.2.14.tar.gz",
+  "download_time": "2026-04-15T15:53:58.148507",
   "package_url": "https://pypi.org/project/orchid-ai/"
 }

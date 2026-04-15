@@ -1,11 +1,11 @@
 {
   "name": "dirplot",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Nested treemap visualizations for directory trees and archives",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dirplot-0.4.1.tar.gz",
-  "download_time": "2026-04-03T20:37:36.369572",
+  "download_filename": "dirplot-0.4.2.tar.gz",
+  "download_time": "2026-04-15T15:53:59.812743",
   "package_url": "https://pypi.org/project/dirplot/"
 }
