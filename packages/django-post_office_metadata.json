@@ -1,0 +1,11 @@
+{
+  "name": "django-post_office",
+  "version": "3.11.1",
+  "summary": "A Django app to monitor and send mail asynchronously, complete with template support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_post_office-3.11.1.tar.gz",
+  "download_time": "2026-04-15T11:45:37.280976",
+  "package_url": "https://pypi.org/project/django-post_office/"
+}

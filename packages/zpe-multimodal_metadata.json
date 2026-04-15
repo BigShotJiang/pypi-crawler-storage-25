@@ -1,0 +1,11 @@
+{
+  "name": "zpe-multimodal",
+  "version": "3.0.1",
+  "summary": "ZPE Integrated Modality Codec with text/emoji/diagram/image/music/voice/mental/touch/smell+BPE",
+  "author": "Zer0paGlyph",
+  "license": "LicenseRef-Zer0pa-SAL-6.2",
+  "home_page": null,
+  "download_filename": "zpe_multimodal-3.0.1.tar.gz",
+  "download_time": "2026-04-15T11:45:33.678733",
+  "package_url": "https://pypi.org/project/zpe-multimodal/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vidura",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Universal agent orchestrator - skill-driven AI agents for software development workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vidura-0.2.2.tar.gz",
-  "download_time": "2026-04-15T10:46:24.128954",
+  "download_filename": "vidura-0.2.3.tar.gz",
+  "download_time": "2026-04-15T11:45:20.236301",
   "package_url": "https://pypi.org/project/vidura/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "django-codenerix",
-  "version": "5.0.76",
+  "version": "5.0.78",
   "summary": "Codenerix it is a framework that goes on top of Django so it makes easier development and building of ERPs.",
   "author": "Juanmi Taboada",
   "license": "Apache License Version 2.0",
   "home_page": "https://github.com/codenerix/django-codenerix",
-  "download_filename": "django_codenerix-5.0.76.tar.gz",
-  "download_time": "2026-04-13T08:28:33.676469",
+  "download_filename": "django_codenerix-5.0.78.tar.gz",
+  "download_time": "2026-04-15T11:45:21.800658",
   "package_url": "https://pypi.org/project/django-codenerix/"
 }

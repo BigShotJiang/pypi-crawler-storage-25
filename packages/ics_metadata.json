@@ -1,0 +1,11 @@
+{
+  "name": "ics",
+  "version": "0.7.3",
+  "summary": "Python icalendar (rfc5545) parser",
+  "author": "Nikita Marchant",
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://github.com/C4ptainCrunch/ics.py",
+  "download_filename": "ics-0.7.3.tar.gz",
+  "download_time": "2026-04-15T11:45:23.879799",
+  "package_url": "https://pypi.org/project/ics/"
+}

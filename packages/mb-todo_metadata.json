@@ -1,11 +1,11 @@
 {
   "name": "mb-todo",
-  "version": "0.0.7",
+  "version": "0.1.2",
   "summary": "CLI-first todo manager with local SQLite storage",
   "author": "mcbarinov",
   "license": null,
   "home_page": null,
-  "download_filename": "mb_todo-0.0.7.tar.gz",
-  "download_time": "2026-04-02T08:07:32.003393",
+  "download_filename": "mb_todo-0.1.2.tar.gz",
+  "download_time": "2026-04-15T11:45:12.010719",
   "package_url": "https://pypi.org/project/mb-todo/"
 }

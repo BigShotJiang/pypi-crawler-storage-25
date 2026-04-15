@@ -1,11 +1,11 @@
 {
   "name": "aion-clinical",
-  "version": "1.0.4",
-  "summary": "Formal temporal and causal structure for consistent clinical data.",
+  "version": "1.0.5",
+  "summary": "Formal temporal and causal structure for consistent clinical data across systems.",
   "author": null,
   "license": "EUPL-1.2",
   "home_page": null,
-  "download_filename": "aion_clinical-1.0.4.tar.gz",
-  "download_time": "2026-04-15T10:46:53.496381",
+  "download_filename": "aion_clinical-1.0.5.tar.gz",
+  "download_time": "2026-04-15T11:45:17.660613",
   "package_url": "https://pypi.org/project/aion-clinical/"
 }

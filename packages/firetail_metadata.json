@@ -1,0 +1,11 @@
+{
+  "name": "firetail",
+  "version": "1.1.2",
+  "summary": "Firetail - API first applications with OpenAPI/Swagger and Flask",
+  "author": "FireTail International (TM)",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/FireTail-io/firetail-py-lib",
+  "download_filename": "firetail-1.1.2.tar.gz",
+  "download_time": "2026-04-15T11:45:01.597823",
+  "package_url": "https://pypi.org/project/firetail/"
+}

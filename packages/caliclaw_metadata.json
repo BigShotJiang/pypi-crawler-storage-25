@@ -1,11 +1,11 @@
 {
   "name": "caliclaw",
-  "version": "0.3.9",
+  "version": "0.4.6",
   "summary": "Personal AI assistant that lives in Telegram. Agents with memory, souls, and autonomous loops.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "caliclaw-0.3.9.tar.gz",
-  "download_time": "2026-04-13T12:52:48.578497",
+  "download_filename": "caliclaw-0.4.6.tar.gz",
+  "download_time": "2026-04-15T11:44:59.000575",
   "package_url": "https://pypi.org/project/caliclaw/"
 }

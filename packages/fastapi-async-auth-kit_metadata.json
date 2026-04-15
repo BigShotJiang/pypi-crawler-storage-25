@@ -1,11 +1,11 @@
 {
   "name": "fastapi-async-auth-kit",
-  "version": "0.5.0",
+  "version": "0.8.0",
   "summary": "Production-ready FastAPI auth system with JWT, refresh tokens, and async DB support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_async_auth_kit-0.5.0.tar.gz",
-  "download_time": "2026-04-01T10:43:43.663395",
+  "download_filename": "fastapi_async_auth_kit-0.8.0.tar.gz",
+  "download_time": "2026-04-15T11:45:28.015872",
   "package_url": "https://pypi.org/project/fastapi-async-auth-kit/"
 }
