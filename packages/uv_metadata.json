@@ -1,11 +1,11 @@
 {
   "name": "uv",
-  "version": "0.11.3",
+  "version": "0.11.7",
   "summary": "An extremely fast Python package and project manager, written in Rust.",
   "author": null,
   "license": null,
   "home_page": "https://pypi.org/project/uv/",
-  "download_filename": "uv-0.11.3.tar.gz",
-  "download_time": "2026-04-01T21:59:39.023556",
+  "download_filename": "uv-0.11.7.tar.gz",
+  "download_time": "2026-04-15T21:43:37.429394",
   "package_url": "https://pypi.org/project/uv/"
 }

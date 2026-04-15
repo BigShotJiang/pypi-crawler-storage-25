@@ -1,11 +1,11 @@
 {
   "name": "policyengine-uk",
-  "version": "2.86.4",
+  "version": "2.86.10",
   "summary": "PolicyEngine tax and benefit system for the UK.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "policyengine_uk-2.86.4.tar.gz",
-  "download_time": "2026-04-15T19:56:56.414859",
+  "download_filename": "policyengine_uk-2.86.10.tar.gz",
+  "download_time": "2026-04-15T21:43:53.817488",
   "package_url": "https://pypi.org/project/policyengine-uk/"
 }

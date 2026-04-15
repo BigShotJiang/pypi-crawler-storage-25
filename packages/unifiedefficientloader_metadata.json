@@ -1,11 +1,11 @@
 {
   "name": "unifiedefficientloader",
-  "version": "0.2.2",
+  "version": "0.3.2",
   "summary": "A unified interface for memory efficient per tensor loading of safetensors files as raw bytes from offset, handling CPU/GPU pinned transfers, and converting between tensors and dicts.",
   "author": "silveroxides",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "unifiedefficientloader-0.2.2.tar.gz",
-  "download_time": "2026-04-12T15:56:48.629089",
+  "download_filename": "unifiedefficientloader-0.3.2-cp39-abi3-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl",
+  "download_time": "2026-04-15T21:43:49.917198",
   "package_url": "https://pypi.org/project/unifiedefficientloader/"
 }

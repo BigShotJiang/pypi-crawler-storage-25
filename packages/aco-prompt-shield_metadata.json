@@ -1,0 +1,11 @@
+{
+  "name": "aco-prompt-shield",
+  "version": "0.1.4",
+  "summary": "A Local-First, Zero-Cost Prompt Injection Detection Server for the Model Context Protocol.",
+  "author": "Aniket Karne",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aco_prompt_shield-0.1.4.tar.gz",
+  "download_time": "2026-04-15T21:44:03.172274",
+  "package_url": "https://pypi.org/project/aco-prompt-shield/"
+}

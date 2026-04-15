@@ -1,11 +1,11 @@
 {
   "name": "oaipmh",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "summary": "Python implementation of the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oaipmh-3.0.0.tar.gz",
-  "download_time": "2026-04-15T20:53:15.715742",
+  "download_filename": "oaipmh-3.0.1.tar.gz",
+  "download_time": "2026-04-15T21:43:55.949223",
   "package_url": "https://pypi.org/project/oaipmh/"
 }

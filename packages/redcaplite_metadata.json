@@ -1,11 +1,11 @@
 {
   "name": "redcaplite",
-  "version": "2.2.3",
+  "version": "2.3.0",
   "summary": "A Python client for REDCap with integrated CLI support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "redcaplite-2.2.3.tar.gz",
-  "download_time": "2026-04-14T21:12:07.992839",
+  "download_filename": "redcaplite-2.3.0.tar.gz",
+  "download_time": "2026-04-15T21:43:44.520234",
   "package_url": "https://pypi.org/project/redcaplite/"
 }

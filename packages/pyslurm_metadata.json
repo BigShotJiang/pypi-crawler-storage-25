@@ -1,0 +1,11 @@
+{
+  "name": "pyslurm",
+  "version": "25.11.2",
+  "summary": "Python Interface for Slurm",
+  "author": "Mark Roberts, Giovanni Torres, Toni Harzendorf",
+  "license": "GPL-2.0-only",
+  "home_page": null,
+  "download_filename": "pyslurm-25.11.2.tar.gz",
+  "download_time": "2026-04-15T21:44:09.528235",
+  "package_url": "https://pypi.org/project/pyslurm/"
+}
