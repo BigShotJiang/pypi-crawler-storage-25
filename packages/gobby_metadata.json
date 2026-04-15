@@ -1,11 +1,11 @@
 {
   "name": "gobby",
-  "version": "0.3.6",
-  "summary": "A local-first daemon to unify your AI coding tools. Session tracking and handoffs across Claude Code, Gemini CLI, and Codex. An MCP proxy that discovers tools without flooding context. Task management with dependencies, validation, and TDD expansion. Agent spawning and worktree orchestration. Persistent memory, extensible workflows, and hooks.",
+  "version": "0.3.7",
+  "summary": "A local-first daemon to unify your AI coding tools. Session tracking and handoffs across Claude Code, Gemini CLI, Qwen CLI, and Codex. An MCP proxy that discovers tools without flooding context. Task management with dependencies, validation, and TDD expansion. Agent spawning and worktree orchestration. Persistent memory, extensible workflows, and hooks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gobby-0.3.6.tar.gz",
-  "download_time": "2026-04-13T23:10:07.147058",
+  "download_filename": "gobby-0.3.7.tar.gz",
+  "download_time": "2026-04-15T22:33:31.669007",
   "package_url": "https://pypi.org/project/gobby/"
 }

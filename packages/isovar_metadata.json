@@ -1,0 +1,11 @@
+{
+  "name": "isovar",
+  "version": "1.4.2",
+  "summary": "Determine mutant protein sequences from RNA using assembly around variants",
+  "author": "Alex Rubinsteyn, Arman Aksoy, Julia Kodysh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "isovar-1.4.2.tar.gz",
+  "download_time": "2026-04-15T22:33:11.227694",
+  "package_url": "https://pypi.org/project/isovar/"
+}

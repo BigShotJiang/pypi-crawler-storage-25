@@ -1,0 +1,11 @@
+{
+  "name": "pluginserver",
+  "version": "0.10.0",
+  "summary": "Plugin-driven API server",
+  "author": "Nicole Stevens",
+  "license": "Apache2.0",
+  "home_page": "https://github.com/nicciniamh/pluginserver",
+  "download_filename": "pluginserver-0.10.0.tar.gz",
+  "download_time": "2026-04-15T22:33:28.522986",
+  "package_url": "https://pypi.org/project/pluginserver/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-shopify",
+  "version": "3.3.0",
+  "summary": "Source CDK implementation for Shopify.",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_shopify-3.3.0.tar.gz",
+  "download_time": "2026-04-15T22:33:32.744994",
+  "package_url": "https://pypi.org/project/airbyte-source-shopify/"
+}

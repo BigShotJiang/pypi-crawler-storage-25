@@ -1,11 +1,11 @@
 {
   "name": "entropy-tracker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A Code Aging & Decay Tracker - measures software entropy per module using git analysis, dependency drift, churn ratios, and knowledge decay signals.",
   "author": "Hari om Singh",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "entropy_tracker-1.0.3.tar.gz",
-  "download_time": "2026-04-15T21:43:54.349928",
+  "download_filename": "entropy_tracker-1.0.4.tar.gz",
+  "download_time": "2026-04-15T22:33:34.285039",
   "package_url": "https://pypi.org/project/entropy-tracker/"
 }
