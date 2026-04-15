@@ -1,0 +1,11 @@
+{
+  "name": "duh-cli",
+  "version": "0.5.2",
+  "summary": "D.U.H. — Duh is a Universal Harness. Provider-agnostic AI coding agent.",
+  "author": "Nikhil Vallishayee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "duh_cli-0.5.2.tar.gz",
+  "download_time": "2026-04-15T23:18:03.190185",
+  "package_url": "https://pypi.org/project/duh-cli/"
+}

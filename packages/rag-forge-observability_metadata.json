@@ -1,11 +1,11 @@
 {
   "name": "rag-forge-observability",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Observability stack: OpenTelemetry tracing, Langfuse integration, and drift detection",
   "author": "Femi Adedayo",
   "license": null,
   "home_page": null,
-  "download_filename": "rag_forge_observability-0.2.1.tar.gz",
-  "download_time": "2026-04-14T21:12:10.466181",
+  "download_filename": "rag_forge_observability-0.2.2.tar.gz",
+  "download_time": "2026-04-15T23:17:53.275709",
   "package_url": "https://pypi.org/project/rag-forge-observability/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-defang-aws",
+  "version": "2.0.0a17",
+  "summary": "Deploy containerized services to AWS with Pulumi.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/DefangLabs/pulumi-defang",
+  "download_filename": "pulumi_defang_aws-2.0.0a17.tar.gz",
+  "download_time": "2026-04-15T23:17:45.760457",
+  "package_url": "https://pypi.org/project/pulumi-defang-aws/"
+}

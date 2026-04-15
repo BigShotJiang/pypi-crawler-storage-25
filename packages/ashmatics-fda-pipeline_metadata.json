@@ -1,0 +1,11 @@
+{
+  "name": "ashmatics-fda-pipeline",
+  "version": "0.1.1",
+  "summary": "FDA 510(k) and De Novo document extraction, enrichment, and structuring pipeline",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "ashmatics_fda_pipeline-0.1.1.tar.gz",
+  "download_time": "2026-04-15T23:18:09.713569",
+  "package_url": "https://pypi.org/project/ashmatics-fda-pipeline/"
+}

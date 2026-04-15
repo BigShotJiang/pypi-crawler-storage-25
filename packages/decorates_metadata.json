@@ -1,0 +1,11 @@
+{
+  "name": "decorates",
+  "version": "4.0.0",
+  "summary": "Decorator-driven persistence registry for Pydantic models and CLI tooling",
+  "author": "Charles DeFreese",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "decorates-4.0.0.tar.gz",
+  "download_time": "2026-04-15T23:18:24.015672",
+  "package_url": "https://pypi.org/project/decorates/"
+}

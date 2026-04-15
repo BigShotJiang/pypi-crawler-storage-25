@@ -1,0 +1,11 @@
+{
+  "name": "raindrop-openai-agents",
+  "version": "0.0.3",
+  "summary": "Raindrop integration for OpenAI Agents SDK — automatic tracing of agent runs, LLM generations, tool calls, and handoffs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "raindrop_openai_agents-0.0.3.tar.gz",
+  "download_time": "2026-04-15T23:17:59.607559",
+  "package_url": "https://pypi.org/project/raindrop-openai-agents/"
+}

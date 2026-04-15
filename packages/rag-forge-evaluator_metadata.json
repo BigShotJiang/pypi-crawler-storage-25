@@ -1,11 +1,11 @@
 {
   "name": "rag-forge-evaluator",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Evaluation engine: RAGAS, DeepEval, LLM-as-Judge, and audit report generation",
   "author": "Femi Adedayo",
   "license": null,
   "home_page": null,
-  "download_filename": "rag_forge_evaluator-0.2.1.tar.gz",
-  "download_time": "2026-04-14T21:12:13.452475",
+  "download_filename": "rag_forge_evaluator-0.2.2.tar.gz",
+  "download_time": "2026-04-15T23:17:55.501587",
   "package_url": "https://pypi.org/project/rag-forge-evaluator/"
 }

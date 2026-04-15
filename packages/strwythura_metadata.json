@@ -1,0 +1,11 @@
+{
+  "name": "strwythura",
+  "version": "2.1.1",
+  "summary": "Construct an entity-resolved knowledge graph from structured data sources and unstructured content sources, implementing an ontology pipeline, plus context engineering for optimizing AI application outcomes within a specific domain.",
+  "author": "Paco Nathan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "strwythura-2.1.1.tar.gz",
+  "download_time": "2026-04-15T23:18:22.386656",
+  "package_url": "https://pypi.org/project/strwythura/"
+}

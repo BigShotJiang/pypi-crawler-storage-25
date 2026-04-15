@@ -1,11 +1,11 @@
 {
   "name": "langchain-agentkit",
-  "version": "0.21.3",
+  "version": "0.21.4",
   "summary": "Composable extension framework for LangGraph agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langchain_agentkit-0.21.3.tar.gz",
-  "download_time": "2026-04-15T22:33:31.144308",
+  "download_filename": "langchain_agentkit-0.21.4.tar.gz",
+  "download_time": "2026-04-15T23:18:04.344046",
   "package_url": "https://pypi.org/project/langchain-agentkit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "agentegrity",
+  "version": "0.3.0",
+  "summary": "The open standard for AI agent integrity. Evaluate, enforce, and prove that autonomous agents are adversarially coherent, environmentally portable, and verifiably assured.",
+  "author": "Cogensec Research",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentegrity-0.3.0.tar.gz",
+  "download_time": "2026-04-15T23:18:06.079762",
+  "package_url": "https://pypi.org/project/agentegrity/"
+}

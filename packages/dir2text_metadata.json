@@ -1,0 +1,11 @@
+{
+  "name": "dir2text",
+  "version": "3.2.1",
+  "summary": "A Python library and command-line tool for expressing directory structures and file contents in formats suitable for Large Language Models (LLMs). It combines directory tree visualization with file contents in a memory-efficient, streaming format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dir2text-3.2.1.tar.gz",
+  "download_time": "2026-04-15T23:18:26.200542",
+  "package_url": "https://pypi.org/project/dir2text/"
+}
