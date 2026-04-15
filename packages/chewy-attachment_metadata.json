@@ -1,0 +1,11 @@
+{
+  "name": "chewy-attachment",
+  "version": "0.5.0",
+  "summary": "通用图片/附件管理插件，支持 Django 和 FastAPI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chewy_attachment-0.5.0.tar.gz",
+  "download_time": "2026-04-15T09:12:14.237455",
+  "package_url": "https://pypi.org/project/chewy-attachment/"
+}

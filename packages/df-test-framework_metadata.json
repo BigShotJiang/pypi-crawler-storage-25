@@ -1,11 +1,11 @@
 {
   "name": "df-test-framework",
-  "version": "4.2.1",
+  "version": "4.2.2",
   "summary": "基于交互模式的现代化测试自动化框架，支持多种测试场景",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "df_test_framework-4.2.1.tar.gz",
-  "download_time": "2026-04-15T03:38:27.017798",
+  "download_filename": "df_test_framework-4.2.2.tar.gz",
+  "download_time": "2026-04-15T09:12:20.893298",
   "package_url": "https://pypi.org/project/df-test-framework/"
 }

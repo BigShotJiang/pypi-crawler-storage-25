@@ -1,0 +1,11 @@
+{
+  "name": "onflow-location-platform",
+  "version": "1.0.4",
+  "summary": "OnFlow Location Platform for parsing, converting, and standardizing Vietnamese administrative units",
+  "author": "OnFlow",
+  "license": null,
+  "home_page": "https://github.com/N-H-Logistics/onflow-location-platform",
+  "download_filename": "onflow_location_platform-1.0.4.tar.gz",
+  "download_time": "2026-04-15T09:12:23.465400",
+  "package_url": "https://pypi.org/project/onflow-location-platform/"
+}

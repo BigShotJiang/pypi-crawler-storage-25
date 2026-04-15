@@ -1,11 +1,11 @@
 {
   "name": "feishu-bridge",
-  "version": "2026.4.13",
+  "version": "2026.4.15.3",
   "summary": "Feishu ↔ Claude Code / Codex bridge — remote AI agent control + 80+ Feishu API commands",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "feishu_bridge-2026.4.13.tar.gz",
-  "download_time": "2026-04-12T16:42:07.674952",
+  "download_filename": "feishu_bridge-2026.4.15.3.tar.gz",
+  "download_time": "2026-04-15T09:12:00.312018",
   "package_url": "https://pypi.org/project/feishu-bridge/"
 }

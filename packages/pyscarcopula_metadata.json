@@ -1,11 +1,11 @@
 {
   "name": "pyscarcopula",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "summary": "Stochastic copula models with Ornstein-Uhlenbeck latent process",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyscarcopula-0.5.1.tar.gz",
-  "download_time": "2026-04-05T16:38:58.619109",
+  "download_filename": "pyscarcopula-0.6.0.tar.gz",
+  "download_time": "2026-04-15T09:12:06.495558",
   "package_url": "https://pypi.org/project/pyscarcopula/"
 }

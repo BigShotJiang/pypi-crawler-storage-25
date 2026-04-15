@@ -1,0 +1,11 @@
+{
+  "name": "neuroencoder",
+  "version": "1.0.0",
+  "summary": "EEG model embeddings - distilled EPI-250k",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "neuroencoder-1.0.0.tar.gz",
+  "download_time": "2026-04-15T09:12:35.797815",
+  "package_url": "https://pypi.org/project/neuroencoder/"
+}

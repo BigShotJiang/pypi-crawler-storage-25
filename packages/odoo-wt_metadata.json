@@ -1,11 +1,11 @@
 {
   "name": "odoo-wt",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "summary": "Modern TUI-driven Odoo Worktree Manager",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "odoo_wt-1.1.0.tar.gz",
-  "download_time": "2026-04-04T13:23:29.667699",
+  "download_filename": "odoo_wt-1.2.1.tar.gz",
+  "download_time": "2026-04-15T09:12:27.572509",
   "package_url": "https://pypi.org/project/odoo-wt/"
 }
