@@ -1,11 +1,11 @@
 {
   "name": "vaal-code",
-  "version": "0.6.860",
-  "summary": "AI coding agent CLI — local LLMs via Ollama or cloud models via API",
+  "version": "0.7.0",
+  "summary": "AI coding agent CLI — local LLMs via Ollama, AirLLM, or cloud models via API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vaal_code-0.6.860.tar.gz",
-  "download_time": "2026-04-03T02:12:09.560473",
+  "download_filename": "vaal_code-0.7.0.tar.gz",
+  "download_time": "2026-04-15T00:05:09.184526",
   "package_url": "https://pypi.org/project/vaal-code/"
 }

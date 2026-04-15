@@ -1,0 +1,11 @@
+{
+  "name": "smartnoise-sql",
+  "version": "1.0.10",
+  "summary": "Differentially Private SQL Queries",
+  "author": "SmartNoise Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smartnoise_sql-1.0.10.tar.gz",
+  "download_time": "2026-04-15T00:04:50.828816",
+  "package_url": "https://pypi.org/project/smartnoise-sql/"
+}

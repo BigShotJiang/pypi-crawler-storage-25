@@ -1,0 +1,11 @@
+{
+  "name": "mydot",
+  "version": "0.9.2",
+  "summary": "Manage and edit $HOME dotfiles using Python + git = <3",
+  "author": "Mikey Garcia",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/gikeymarcia/mydot",
+  "download_filename": "mydot-0.9.2.tar.gz",
+  "download_time": "2026-04-15T00:04:44.051082",
+  "package_url": "https://pypi.org/project/mydot/"
+}

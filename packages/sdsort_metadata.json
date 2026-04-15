@@ -1,11 +1,11 @@
 {
   "name": "sdsort",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "Sorts functions and class methods according to the step-down rule",
   "author": "Eiríkur Fannar Torfason",
   "license": null,
   "home_page": null,
-  "download_filename": "sdsort-0.4.3.tar.gz",
-  "download_time": "2026-04-09T16:20:47.311976",
+  "download_filename": "sdsort-0.4.4.tar.gz",
+  "download_time": "2026-04-15T00:05:04.176111",
   "package_url": "https://pypi.org/project/sdsort/"
 }

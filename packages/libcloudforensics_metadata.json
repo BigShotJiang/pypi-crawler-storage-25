@@ -1,0 +1,11 @@
+{
+  "name": "libcloudforensics",
+  "version": "20260109",
+  "summary": "libcloudforensics is a set of tools to help acquire forensic evidence from Cloud platforms.",
+  "author": "cloud-forensics-utils development team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "libcloudforensics-20260109.tar.gz",
+  "download_time": "2026-04-15T00:05:29.653308",
+  "package_url": "https://pypi.org/project/libcloudforensics/"
+}

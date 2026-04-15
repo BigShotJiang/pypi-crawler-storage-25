@@ -1,0 +1,11 @@
+{
+  "name": "tts-seq",
+  "version": "0.3.6",
+  "summary": "Library and tooling for manipulating flight sequences in Python.",
+  "author": "muszynsk",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tts_seq-0.3.6.tar.gz",
+  "download_time": "2026-04-15T00:04:47.045257",
+  "package_url": "https://pypi.org/project/tts-seq/"
+}
