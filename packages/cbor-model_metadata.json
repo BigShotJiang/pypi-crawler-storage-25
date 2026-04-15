@@ -1,0 +1,11 @@
+{
+  "name": "cbor-model",
+  "version": "0.2.0",
+  "summary": "CBOR Model: Add CBOR and CDDL support to Pydantic models",
+  "author": "William Häggqvist",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cbor_model-0.2.0.tar.gz",
+  "download_time": "2026-04-15T20:53:25.585913",
+  "package_url": "https://pypi.org/project/cbor-model/"
+}

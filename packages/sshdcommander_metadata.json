@@ -1,11 +1,11 @@
 {
   "name": "sshdcommander",
-  "version": "4.0.0",
+  "version": "4.0.2",
   "summary": "Persistent SSH daemon for AI agents — session pooling, SHA-256 verified SFTP, deploy manifests, certificate auth, and OS keyring credential storage. Built for Claude Code, Cursor, GitHub Copilot, and any AI agent with shell access.",
   "author": "Veniatis",
   "license": null,
   "home_page": null,
-  "download_filename": "sshdcommander-4.0.0-cp314-cp314-win_amd64.whl",
-  "download_time": "2026-04-11T00:04:56.920913",
+  "download_filename": "sshdcommander-4.0.2-cp314-cp314-win_amd64.whl",
+  "download_time": "2026-04-15T20:53:29.929183",
   "package_url": "https://pypi.org/project/sshdcommander/"
 }

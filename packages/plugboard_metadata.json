@@ -1,0 +1,11 @@
+{
+  "name": "plugboard",
+  "version": "0.7.0",
+  "summary": "Plugboard is an event driven modelling and orchestration framework for simulating and driving complex processes with many interconnected stateful components.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plugboard-0.7.0.tar.gz",
+  "download_time": "2026-04-15T20:53:13.875583",
+  "package_url": "https://pypi.org/project/plugboard/"
+}

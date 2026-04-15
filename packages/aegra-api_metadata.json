@@ -1,11 +1,11 @@
 {
   "name": "aegra-api",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "summary": "Aegra core API - Self-hosted Agent Protocol server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aegra_api-0.9.3.tar.gz",
-  "download_time": "2026-04-12T17:24:58.408103",
+  "download_filename": "aegra_api-0.9.4.tar.gz",
+  "download_time": "2026-04-15T20:53:01.583608",
   "package_url": "https://pypi.org/project/aegra-api/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "molbo",
+  "version": "0.1.0",
+  "summary": "Inspect PDB/CIF molecular structures from the command line",
+  "author": "molbo contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "molbo-0.1.0.tar.gz",
+  "download_time": "2026-04-15T20:52:55.277679",
+  "package_url": "https://pypi.org/project/molbo/"
+}

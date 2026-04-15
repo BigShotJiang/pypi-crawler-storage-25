@@ -1,0 +1,11 @@
+{
+  "name": "banktamer",
+  "version": "0.1.1",
+  "summary": "A CLI tool to categorize and analyze bank transaction exports (XLS/XLSX).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "banktamer-0.1.1.tar.gz",
+  "download_time": "2026-04-15T20:52:46.522681",
+  "package_url": "https://pypi.org/project/banktamer/"
+}

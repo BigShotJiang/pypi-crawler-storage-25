@@ -1,0 +1,11 @@
+{
+  "name": "diffuse-hub",
+  "version": "0.4.36",
+  "summary": "Python SDK and command-line interface for the Diffuse research data platform.",
+  "author": "Diffuse Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "diffuse_hub-0.4.36.tar.gz",
+  "download_time": "2026-04-15T20:53:20.672299",
+  "package_url": "https://pypi.org/project/diffuse-hub/"
+}

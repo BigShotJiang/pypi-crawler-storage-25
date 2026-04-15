@@ -1,0 +1,11 @@
+{
+  "name": "tmi-client",
+  "version": "1.4.0",
+  "summary": "TMI (Threat Modeling Improved) API",
+  "author": "TMI Development Team",
+  "license": null,
+  "home_page": "https://github.com/ericfitz/tmi-clients",
+  "download_filename": "tmi_client-1.4.0.tar.gz",
+  "download_time": "2026-04-15T20:52:57.508588",
+  "package_url": "https://pypi.org/project/tmi-client/"
+}

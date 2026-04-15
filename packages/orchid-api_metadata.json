@@ -1,11 +1,11 @@
 {
   "name": "orchid-api",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "summary": "Orchid API — FastAPI server for the Orchid agent framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orchid_api-1.0.9.tar.gz",
-  "download_time": "2026-04-14T10:46:25.541530",
+  "download_filename": "orchid_api-1.0.11.tar.gz",
+  "download_time": "2026-04-15T20:53:21.838731",
   "package_url": "https://pypi.org/project/orchid-api/"
 }

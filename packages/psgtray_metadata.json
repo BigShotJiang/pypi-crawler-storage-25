@@ -1,0 +1,11 @@
+{
+  "name": "psgtray",
+  "version": "6.0",
+  "summary": "A System Tray Icon that works with the PySimpleGUI tkinter port.  Uses pystray to supply the system tray.  Works well under Windows.",
+  "author": "PySimpleGUI",
+  "license": "GNU Lesser General Public License v3 (LGPLv3)",
+  "home_page": "https://github.com/PySimpleGUI/psgtray",
+  "download_filename": "psgtray-6.0.tar.gz",
+  "download_time": "2026-04-15T20:53:26.672467",
+  "package_url": "https://pypi.org/project/psgtray/"
+}

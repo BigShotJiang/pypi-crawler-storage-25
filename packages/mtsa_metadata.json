@@ -1,11 +1,11 @@
 {
   "name": "mtsa",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Multiple Time Series Analysis",
   "author": "Diego Pinheiro",
   "license": "BSD 3-Clause License",
   "home_page": "https://github.com/diegompin/mtsa",
-  "download_filename": "mtsa-0.2.5-py3-none-any.whl",
-  "download_time": "2026-03-28T19:52:38.829322",
+  "download_filename": "mtsa-0.2.6-py3-none-any.whl",
+  "download_time": "2026-04-15T20:53:26.129260",
   "package_url": "https://pypi.org/project/mtsa/"
 }

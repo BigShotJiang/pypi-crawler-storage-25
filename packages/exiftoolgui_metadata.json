@@ -1,0 +1,11 @@
+{
+  "name": "exiftoolgui",
+  "version": "0.1.8",
+  "summary": "A GUI application for ExifTool built with Claude 3.5 Sonnet, designed to work on Linux and macOS.",
+  "author": "Claude 3.5 Sonnet",
+  "license": null,
+  "home_page": null,
+  "download_filename": "exiftoolgui-0.1.8.tar.gz",
+  "download_time": "2026-04-15T20:53:03.716220",
+  "package_url": "https://pypi.org/project/exiftoolgui/"
+}

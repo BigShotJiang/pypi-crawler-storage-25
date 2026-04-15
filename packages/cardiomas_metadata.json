@@ -1,0 +1,11 @@
+{
+  "name": "cardiomas",
+  "version": "0.13.0",
+  "summary": "CardioMAS — Cardio Multi-Agent System for reproducible ECG dataset splits",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cardiomas-0.13.0.tar.gz",
+  "download_time": "2026-04-15T20:52:51.937697",
+  "package_url": "https://pypi.org/project/cardiomas/"
+}
