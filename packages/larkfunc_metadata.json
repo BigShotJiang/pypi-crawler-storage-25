@@ -1,0 +1,11 @@
+{
+  "name": "larkfunc",
+  "version": "0.1.1",
+  "summary": "一个轻量级的 Python 实用函数工具库，涵盖文件读写、文本处理、JSON 解析、网络响应处理和 LLM 调用。",
+  "author": "lark",
+  "license": null,
+  "home_page": null,
+  "download_filename": "larkfunc-0.1.1.tar.gz",
+  "download_time": "2026-04-15T05:57:02.610928",
+  "package_url": "https://pypi.org/project/larkfunc/"
+}

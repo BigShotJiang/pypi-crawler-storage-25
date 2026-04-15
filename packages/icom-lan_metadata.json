@@ -1,11 +1,11 @@
 {
   "name": "icom-lan",
-  "version": "0.15.0",
+  "version": "0.16.2",
   "summary": "Python library for controlling Icom transceivers over LAN (UDP) — no wfview/hamlib required",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "icom_lan-0.15.0.tar.gz",
-  "download_time": "2026-04-10T21:07:14.011061",
+  "download_filename": "icom_lan-0.16.2.tar.gz",
+  "download_time": "2026-04-15T05:57:06.301700",
   "package_url": "https://pypi.org/project/icom-lan/"
 }

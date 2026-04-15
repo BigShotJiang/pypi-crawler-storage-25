@@ -1,0 +1,11 @@
+{
+  "name": "postgresql-audit",
+  "version": "0.18.0",
+  "summary": "Versioning and auditing extension for PostgreSQL and SQLAlchemy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "postgresql_audit-0.18.0.tar.gz",
+  "download_time": "2026-04-15T05:57:14.019391",
+  "package_url": "https://pypi.org/project/postgresql-audit/"
+}

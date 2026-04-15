@@ -1,11 +1,11 @@
 {
   "name": "lakesense",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Intelligent ML data observability for the lakehouse — sketch-based profiling with LLM interpretation",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lakesense-0.2.0.tar.gz",
-  "download_time": "2026-03-31T00:00:35.572925",
+  "download_filename": "lakesense-0.2.2.tar.gz",
+  "download_time": "2026-04-15T05:56:54.224341",
   "package_url": "https://pypi.org/project/lakesense/"
 }

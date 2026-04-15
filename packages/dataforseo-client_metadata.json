@@ -1,11 +1,11 @@
 {
   "name": "dataforseo-client",
-  "version": "2.0.22",
+  "version": "2.0.23",
   "summary": "DataForSEO API documentation",
   "author": "DataForSeo",
   "license": null,
   "home_page": "https://github.com/dataforseo/PythonClient",
-  "download_filename": "dataforseo_client-2.0.22.tar.gz",
-  "download_time": "2026-03-30T11:34:25.700071",
+  "download_filename": "dataforseo_client-2.0.23.tar.gz",
+  "download_time": "2026-04-15T05:57:12.491851",
   "package_url": "https://pypi.org/project/dataforseo-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "llm-relay",
+  "version": "0.3.0",
+  "summary": "Unified LLM usage management — API proxy, session diagnostics, multi-CLI orchestration. Mirror Agent open-network DLC.",
+  "author": "QuartzUnit",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_relay-0.3.0.tar.gz",
+  "download_time": "2026-04-15T05:56:57.865195",
+  "package_url": "https://pypi.org/project/llm-relay/"
+}

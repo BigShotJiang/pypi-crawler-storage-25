@@ -1,0 +1,11 @@
+{
+  "name": "oduit",
+  "version": "0.4.1",
+  "summary": "Library for controlling odoo-bin for run, update, install and test modules",
+  "author": "The oduit Authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oduit-0.4.1.tar.gz",
+  "download_time": "2026-04-15T05:57:13.004941",
+  "package_url": "https://pypi.org/project/oduit/"
+}

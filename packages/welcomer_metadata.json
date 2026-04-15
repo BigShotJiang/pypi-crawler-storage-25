@@ -1,0 +1,11 @@
+{
+  "name": "welcomer",
+  "version": "0.4.3",
+  "summary": "Send personalised welcome emails to guests loaded from iCal calendar URLs",
+  "author": "Pavel Dostál",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "welcomer-0.4.3.tar.gz",
+  "download_time": "2026-04-15T05:57:23.403314",
+  "package_url": "https://pypi.org/project/welcomer/"
+}

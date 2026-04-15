@@ -1,0 +1,11 @@
+{
+  "name": "npc-ephys",
+  "version": "0.1.46",
+  "summary": "Tools for accessing and processing raw ephys data, compatible with data in the cloud.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "npc_ephys-0.1.46.tar.gz",
+  "download_time": "2026-04-15T05:56:48.382915",
+  "package_url": "https://pypi.org/project/npc-ephys/"
+}

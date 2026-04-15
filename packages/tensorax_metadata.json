@@ -1,0 +1,11 @@
+{
+  "name": "tensorax",
+  "version": "0.2.1",
+  "summary": "A high-performance tensor library with CUDA acceleration",
+  "author": "Shrirang Mahajan",
+  "license": null,
+  "home_page": "https://github.com/NotShrirang/tensorax",
+  "download_filename": "tensorax-0.2.1.tar.gz",
+  "download_time": "2026-04-15T05:57:29.549693",
+  "package_url": "https://pypi.org/project/tensorax/"
+}
