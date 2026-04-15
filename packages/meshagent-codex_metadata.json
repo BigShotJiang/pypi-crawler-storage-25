@@ -1,11 +1,11 @@
 {
   "name": "meshagent-codex",
-  "version": "0.36.1",
+  "version": "0.37.2",
   "summary": "Codex app-server adapter and chatbot for Meshagent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshagent_codex-0.36.1.tar.gz",
-  "download_time": "2026-04-07T18:03:08.566060",
+  "download_filename": "meshagent_codex-0.37.2.tar.gz",
+  "download_time": "2026-04-15T03:38:10.011407",
   "package_url": "https://pypi.org/project/meshagent-codex/"
 }

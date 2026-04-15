@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-document-page-product",
+  "version": "18.0.1.0.0.4",
+  "summary": "This module links document pages to products",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/knowledge",
+  "download_filename": "odoo_addon_document_page_product-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-04-15T03:38:51.303998",
+  "package_url": "https://pypi.org/project/odoo-addon-document-page-product/"
+}

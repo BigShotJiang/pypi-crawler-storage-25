@@ -1,0 +1,11 @@
+{
+  "name": "openbtmixing",
+  "version": "1.1.3",
+  "summary": "Model mixing using Bayesian Additive Regression Trees",
+  "author": "John Yannotty",
+  "license": "MIT",
+  "home_page": "https://github.com/jcyannotty/OpenBT",
+  "download_filename": "openbtmixing-1.1.3.tar.gz",
+  "download_time": "2026-04-15T03:38:30.746160",
+  "package_url": "https://pypi.org/project/openbtmixing/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "abxpkg",
-  "version": "1.10.5",
+  "version": "1.10.6",
   "summary": "System package manager interfaces with Python type hints",
   "author": "Nick Sweeting, ArchiveBox",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "abxpkg-1.10.5.tar.gz",
-  "download_time": "2026-04-15T00:05:21.786860",
+  "download_filename": "abxpkg-1.10.6.tar.gz",
+  "download_time": "2026-04-15T03:38:44.997657",
   "package_url": "https://pypi.org/project/abxpkg/"
 }

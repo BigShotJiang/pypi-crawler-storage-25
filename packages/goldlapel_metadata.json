@@ -1,11 +1,11 @@
 {
   "name": "goldlapel",
-  "version": "0.1.0rc19",
+  "version": "0.1.0rc21",
   "summary": "Self-optimizing Postgres proxy — automatic materialized views and indexes",
   "author": "Stephen Gibson",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "goldlapel-0.1.0rc19-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-04-07T20:08:54.148155",
+  "download_filename": "goldlapel-0.1.0rc21-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-15T03:38:20.778927",
   "package_url": "https://pypi.org/project/goldlapel/"
 }

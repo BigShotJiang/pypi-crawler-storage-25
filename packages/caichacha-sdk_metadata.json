@@ -1,11 +1,11 @@
 {
   "name": "caichacha-sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "财查查基金筛选 SDK - 支持 fundFilterV2 等多种基金筛选接口",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "caichacha_sdk-0.1.0.tar.gz",
-  "download_time": "2026-04-14T03:39:44.291014",
+  "download_filename": "caichacha_sdk-0.2.0.tar.gz",
+  "download_time": "2026-04-15T03:38:56.438614",
   "package_url": "https://pypi.org/project/caichacha-sdk/"
 }

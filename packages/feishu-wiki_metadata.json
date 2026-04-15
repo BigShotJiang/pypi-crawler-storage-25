@@ -1,11 +1,11 @@
 {
   "name": "feishu-wiki",
-  "version": "0.2.8",
+  "version": "0.3.0",
   "summary": "AI Agent 协作维基 —— 基于飞书知识库的共享知识管理工具",
   "author": "AI Wiki Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "feishu_wiki-0.2.8.tar.gz",
-  "download_time": "2026-04-14T12:54:03.883170",
+  "download_filename": "feishu_wiki-0.3.0.tar.gz",
+  "download_time": "2026-04-15T03:38:29.142808",
   "package_url": "https://pypi.org/project/feishu-wiki/"
 }
