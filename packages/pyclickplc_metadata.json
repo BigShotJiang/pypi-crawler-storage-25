@@ -1,0 +1,11 @@
+{
+  "name": "pyclickplc",
+  "version": "0.3.2",
+  "summary": "Utilities for AutomationDirect CLICK PLCs: Modbus TCP client/server, address helpers, nickname CSV I/O, and DataView CDV I/O.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyclickplc-0.3.2.tar.gz",
+  "download_time": "2026-04-15T12:53:11.278439",
+  "package_url": "https://pypi.org/project/pyclickplc/"
+}

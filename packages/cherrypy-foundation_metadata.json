@@ -1,11 +1,11 @@
 {
   "name": "cherrypy-foundation",
-  "version": "1.3.2",
+  "version": "1.5.0",
   "summary": "Cherrypy-foundation",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "cherrypy_foundation-1.3.2.tar.gz",
-  "download_time": "2026-04-02T15:48:23.812242",
+  "download_filename": "cherrypy_foundation-1.5.0.tar.gz",
+  "download_time": "2026-04-15T12:52:39.971695",
   "package_url": "https://pypi.org/project/cherrypy-foundation/"
 }

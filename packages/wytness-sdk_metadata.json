@@ -1,11 +1,11 @@
 {
   "name": "wytness-sdk",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "Python SDK for Wytness — audit logging for AI agents with cryptographic signing and chain integrity",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wytness_sdk-0.2.3.tar.gz",
-  "download_time": "2026-04-15T11:45:31.101662",
+  "download_filename": "wytness_sdk-0.3.0.tar.gz",
+  "download_time": "2026-04-15T12:52:46.782239",
   "package_url": "https://pypi.org/project/wytness-sdk/"
 }

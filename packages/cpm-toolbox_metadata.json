@@ -1,0 +1,11 @@
+{
+  "name": "cpm-toolbox",
+  "version": "0.25.6",
+  "summary": "A fundamental scientific toolbox for computational psychiatry and psychology.",
+  "author": "Lenard Dome, Frank Hezemans, Ben J. Wagner, Andrew Webb, Marc Carrera, Tobias Hauser",
+  "license": "AGPLv3",
+  "home_page": null,
+  "download_filename": "cpm_toolbox-0.25.6.tar.gz",
+  "download_time": "2026-04-15T12:52:29.078082",
+  "package_url": "https://pypi.org/project/cpm-toolbox/"
+}

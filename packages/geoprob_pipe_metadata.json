@@ -1,0 +1,11 @@
+{
+  "name": "geoprob_pipe",
+  "version": "2.0.1",
+  "summary": "Execute probabilistic piping calculations using the Deltares probabilic library.",
+  "author": "Chris Pitzalis",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/kkpdata/GeoProb-Pipe",
+  "download_filename": "geoprob_pipe-2.0.1.tar.gz",
+  "download_time": "2026-04-15T12:52:40.490940",
+  "package_url": "https://pypi.org/project/geoprob_pipe/"
+}

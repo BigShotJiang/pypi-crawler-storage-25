@@ -1,11 +1,11 @@
 {
   "name": "glmhmmt",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "GLM-HMM and GLM-HMMT tooling for behavioural task analysis.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "glmhmmt-0.1.9.tar.gz",
-  "download_time": "2026-04-15T10:46:55.091354",
+  "download_filename": "glmhmmt-0.1.11.tar.gz",
+  "download_time": "2026-04-15T12:52:59.906833",
   "package_url": "https://pypi.org/project/glmhmmt/"
 }

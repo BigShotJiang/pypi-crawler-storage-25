@@ -1,11 +1,11 @@
 {
   "name": "openclimatedata",
-  "version": "0.32",
+  "version": "0.32.1",
   "summary": "Library to help download and locally cache climate data",
   "author": "Robert Gieseke",
   "license": "BSD-2-Clause",
   "home_page": null,
-  "download_filename": "openclimatedata-0.32.tar.gz",
-  "download_time": "2026-04-14T15:00:50.983749",
+  "download_filename": "openclimatedata-0.32.1.tar.gz",
+  "download_time": "2026-04-15T12:52:44.726515",
   "package_url": "https://pypi.org/project/openclimatedata/"
 }
