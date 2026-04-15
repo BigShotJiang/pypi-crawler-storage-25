@@ -1,11 +1,11 @@
 {
   "name": "komputer-ai-sdk",
-  "version": "0.11.3",
+  "version": "0.11.4",
   "summary": "Python SDK for the komputer.ai platform",
   "author": "kontroloop-ai",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "komputer_ai_sdk-0.11.3.tar.gz",
-  "download_time": "2026-04-13T18:50:48.600148",
+  "download_filename": "komputer_ai_sdk-0.11.4.tar.gz",
+  "download_time": "2026-04-15T14:24:19.465668",
   "package_url": "https://pypi.org/project/komputer-ai-sdk/"
 }

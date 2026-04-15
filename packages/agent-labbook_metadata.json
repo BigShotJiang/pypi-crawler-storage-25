@@ -1,11 +1,11 @@
 {
   "name": "agent-labbook",
-  "version": "0.14.6",
-  "summary": "Notion auth and project binding for Codex, Claude Code, and other MCP clients.",
+  "version": "0.18.0",
+  "summary": "Notion Internal Integration binding for Codex, Claude Code, and other MCP clients.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_labbook-0.14.6.tar.gz",
-  "download_time": "2026-04-05T17:59:13.394290",
+  "download_filename": "agent_labbook-0.18.0.tar.gz",
+  "download_time": "2026-04-15T14:24:39.277391",
   "package_url": "https://pypi.org/project/agent-labbook/"
 }

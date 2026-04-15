@@ -1,11 +1,11 @@
 {
   "name": "classyclick",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Class-based definitions of click commands",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "classyclick-1.0.0.tar.gz",
-  "download_time": "2026-03-31T00:00:27.810976",
+  "download_filename": "classyclick-1.0.2.tar.gz",
+  "download_time": "2026-04-15T14:24:30.325566",
   "package_url": "https://pypi.org/project/classyclick/"
 }

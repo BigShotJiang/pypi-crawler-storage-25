@@ -1,0 +1,11 @@
+{
+  "name": "pennylane-maestro",
+  "version": "0.2.0",
+  "summary": "PennyLane plugin for the Maestro quantum simulator by Qoro Quantum",
+  "author": "Qoro Quantum",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/QoroQuantum/pennylane-maestro",
+  "download_filename": "pennylane_maestro-0.2.0.tar.gz",
+  "download_time": "2026-04-15T14:24:21.126795",
+  "package_url": "https://pypi.org/project/pennylane-maestro/"
+}

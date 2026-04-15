@@ -1,0 +1,11 @@
+{
+  "name": "dafne-torch-trainer",
+  "version": "1.0.0b1",
+  "summary": "Deep Learning pytorch models module for Dafne",
+  "author": "Giuseppe Timpano",
+  "license": null,
+  "home_page": "https://github.com/dafne-imaging/dafne-torch-trainer",
+  "download_filename": "dafne_torch_trainer-1.0.0b1.tar.gz",
+  "download_time": "2026-04-15T14:24:50.619719",
+  "package_url": "https://pypi.org/project/dafne-torch-trainer/"
+}

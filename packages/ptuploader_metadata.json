@@ -1,11 +1,11 @@
 {
   "name": "ptuploader",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": null,
   "author": "Penterep",
   "license": "GPLv3",
   "home_page": "https://www.penterep.com/",
-  "download_filename": "ptuploader-0.0.3.tar.gz",
-  "download_time": "2026-04-11T17:22:30.515840",
+  "download_filename": "ptuploader-0.0.4.tar.gz",
+  "download_time": "2026-04-15T14:24:14.626500",
   "package_url": "https://pypi.org/project/ptuploader/"
 }

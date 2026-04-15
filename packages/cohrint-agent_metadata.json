@@ -1,0 +1,11 @@
+{
+  "name": "cohrint-agent",
+  "version": "0.2.5",
+  "summary": "AI coding agent with per-tool permissions, cost tracking, and token optimization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cohrint_agent-0.2.5.tar.gz",
+  "download_time": "2026-04-15T14:24:54.723838",
+  "package_url": "https://pypi.org/project/cohrint-agent/"
+}

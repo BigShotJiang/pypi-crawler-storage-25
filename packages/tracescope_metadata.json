@@ -1,0 +1,11 @@
+{
+  "name": "tracescope",
+  "version": "0.1.2",
+  "summary": "Embed, cluster, and visualize any text collection in 3D semantic space with learned flow fields",
+  "author": "Wiktor Tomasik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tracescope-0.1.2.tar.gz",
+  "download_time": "2026-04-15T14:25:01.466350",
+  "package_url": "https://pypi.org/project/tracescope/"
+}
