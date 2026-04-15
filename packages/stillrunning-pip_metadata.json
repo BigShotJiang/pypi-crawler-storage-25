@@ -1,0 +1,11 @@
+{
+  "name": "stillrunning-pip",
+  "version": "1.0.0",
+  "summary": "Secure pip wrapper with supply chain attack protection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stillrunning_pip-1.0.0.tar.gz",
+  "download_time": "2026-04-15T19:56:48.302990",
+  "package_url": "https://pypi.org/project/stillrunning-pip/"
+}

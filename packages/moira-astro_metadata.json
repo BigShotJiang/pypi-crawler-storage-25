@@ -1,11 +1,11 @@
 {
   "name": "moira-astro",
-  "version": "2.0.0",
+  "version": "2.0.4",
   "summary": "Pure Python ephemeris and astrology engine built on JPL DE441 and SPK kernels.",
   "author": "Moira contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "moira_astro-2.0.0.tar.gz",
-  "download_time": "2026-04-10T21:06:52.545057",
+  "download_filename": "moira_astro-2.0.4.tar.gz",
+  "download_time": "2026-04-15T19:57:06.049209",
   "package_url": "https://pypi.org/project/moira-astro/"
 }

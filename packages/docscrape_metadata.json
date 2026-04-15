@@ -1,11 +1,11 @@
 {
   "name": "docscrape",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Scrape any documentation site to Markdown in seconds",
   "author": "Abdulrahman Elsmmany",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "docscrape-0.4.0.tar.gz",
-  "download_time": "2026-04-11T13:59:49.653830",
+  "download_filename": "docscrape-0.5.0.tar.gz",
+  "download_time": "2026-04-15T19:56:43.508496",
   "package_url": "https://pypi.org/project/docscrape/"
 }

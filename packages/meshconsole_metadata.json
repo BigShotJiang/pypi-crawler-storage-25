@@ -1,11 +1,11 @@
 {
   "name": "meshconsole",
-  "version": "3.11.11",
+  "version": "3.13.6",
   "summary": "A powerful CLI and web interface for Meshtastic and MeshCore mesh networking devices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshconsole-3.11.11.tar.gz",
-  "download_time": "2026-04-13T14:52:26.579215",
+  "download_filename": "meshconsole-3.13.6.tar.gz",
+  "download_time": "2026-04-15T19:56:26.600703",
   "package_url": "https://pypi.org/project/meshconsole/"
 }

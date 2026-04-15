@@ -1,0 +1,11 @@
+{
+  "name": "stillrunning-pre-commit",
+  "version": "1.0.0",
+  "summary": "Pre-commit hook for scanning dependencies against supply chain attacks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stillrunning_pre_commit-1.0.0.tar.gz",
+  "download_time": "2026-04-15T19:56:52.668115",
+  "package_url": "https://pypi.org/project/stillrunning-pre-commit/"
+}

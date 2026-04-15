@@ -1,0 +1,11 @@
+{
+  "name": "edgegemma-8gb",
+  "version": "0.1.0",
+  "summary": "A 4-bit quantized local inference wrapper for Gemma-2B optimized for 8GB VRAM.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "edgegemma_8gb-0.1.0.tar.gz",
+  "download_time": "2026-04-15T19:56:36.157300",
+  "package_url": "https://pypi.org/project/edgegemma-8gb/"
+}

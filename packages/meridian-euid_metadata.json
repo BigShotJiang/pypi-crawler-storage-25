@@ -1,0 +1,11 @@
+{
+  "name": "meridian-euid",
+  "version": "0.4.2",
+  "summary": "Non-normative reference implementation of Meridian Enterprise Unique Identifiers (EUIDs).",
+  "author": "Meridian contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meridian_euid-0.4.2.tar.gz",
+  "download_time": "2026-04-15T19:56:23.964152",
+  "package_url": "https://pypi.org/project/meridian-euid/"
+}

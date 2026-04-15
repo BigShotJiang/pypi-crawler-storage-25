@@ -1,11 +1,11 @@
 {
   "name": "ethisyscore-plugin-sdk",
-  "version": "1.0.0a36",
+  "version": "1.0.0a44",
   "summary": "EthisysCore Plugin SDK for Python — build container-hosted plugins",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ethisyscore_plugin_sdk-1.0.0a36.tar.gz",
-  "download_time": "2026-04-10T20:23:49.681150",
+  "download_filename": "ethisyscore_plugin_sdk-1.0.0a44.tar.gz",
+  "download_time": "2026-04-15T19:57:13.935584",
   "package_url": "https://pypi.org/project/ethisyscore-plugin-sdk/"
 }

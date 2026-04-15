@@ -1,0 +1,11 @@
+{
+  "name": "mstransfer",
+  "version": "0.2.3",
+  "summary": "Transfer mass spectrometry files (mzML/MSZ) between endpoints using mscompress",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mstransfer-0.2.3.tar.gz",
+  "download_time": "2026-04-15T19:56:31.971122",
+  "package_url": "https://pypi.org/project/mstransfer/"
+}
