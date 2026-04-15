@@ -1,11 +1,11 @@
 {
   "name": "macspoofer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A command-line tool to spoof your network interface's MAC address on Linux systems.",
   "author": "Daniel Kirshner",
   "license": null,
   "home_page": null,
-  "download_filename": "macspoofer-1.0.3.tar.gz",
-  "download_time": "2026-04-03T19:03:07.182948",
+  "download_filename": "macspoofer-1.0.4.tar.gz",
+  "download_time": "2026-04-15T10:46:19.692483",
   "package_url": "https://pypi.org/project/macspoofer/"
 }

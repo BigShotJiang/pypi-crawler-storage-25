@@ -1,0 +1,11 @@
+{
+  "name": "zopyx.llm-moonshot",
+  "version": "0.3.1",
+  "summary": "Run prompts against LLMs hosted by Moonshot",
+  "author": "NickMystic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zopyx_llm_moonshot-0.3.1.tar.gz",
+  "download_time": "2026-04-15T10:46:09.022041",
+  "package_url": "https://pypi.org/project/zopyx.llm-moonshot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ultraclick",
+  "version": "0.2.3",
+  "summary": "Thin wrapper around the Python 'click' library to allow building class based CLIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ultraclick-0.2.3.tar.gz",
+  "download_time": "2026-04-15T10:46:20.711465",
+  "package_url": "https://pypi.org/project/ultraclick/"
+}

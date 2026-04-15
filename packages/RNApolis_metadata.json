@@ -1,11 +1,11 @@
 {
   "name": "RNApolis",
-  "version": "0.16.0",
+  "version": "0.16.2",
   "summary": "A Python library containing RNA-related bioinformatics functions and classes",
   "author": "Tomasz Zok",
   "license": null,
   "home_page": null,
-  "download_filename": "rnapolis-0.16.0.tar.gz",
-  "download_time": "2026-04-15T09:12:09.615408",
+  "download_filename": "rnapolis-0.16.2.tar.gz",
+  "download_time": "2026-04-15T10:46:10.110417",
   "package_url": "https://pypi.org/project/RNApolis/"
 }

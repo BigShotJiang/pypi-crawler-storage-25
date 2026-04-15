@@ -1,11 +1,11 @@
 {
   "name": "quartermaster-sdk",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Quartermaster — modular AI agent orchestration framework. Install this to get all packages.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quartermaster_sdk-0.1.1.tar.gz",
-  "download_time": "2026-04-15T07:49:04.475795",
+  "download_filename": "quartermaster_sdk-0.1.4.tar.gz",
+  "download_time": "2026-04-15T10:46:28.291409",
   "package_url": "https://pypi.org/project/quartermaster-sdk/"
 }

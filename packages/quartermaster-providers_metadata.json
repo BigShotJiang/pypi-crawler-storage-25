@@ -1,11 +1,11 @@
 {
   "name": "quartermaster-providers",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Unified multi-LLM provider abstraction supporting OpenAI, Anthropic, Google, Groq, xAI and more",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quartermaster_providers-0.1.1.tar.gz",
-  "download_time": "2026-04-15T07:49:09.887435",
+  "download_filename": "quartermaster_providers-0.1.4.tar.gz",
+  "download_time": "2026-04-15T10:46:32.962381",
   "package_url": "https://pypi.org/project/quartermaster-providers/"
 }

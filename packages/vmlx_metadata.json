@@ -1,11 +1,11 @@
 {
   "name": "vmlx",
-  "version": "1.3.54",
+  "version": "1.3.55",
   "summary": "Local AI inference for Apple Silicon — Text, Image, Video & Audio generation on Mac",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "vmlx-1.3.54.tar.gz",
-  "download_time": "2026-04-15T09:12:04.423277",
+  "download_filename": "vmlx-1.3.55.tar.gz",
+  "download_time": "2026-04-15T10:46:19.173809",
   "package_url": "https://pypi.org/project/vmlx/"
 }

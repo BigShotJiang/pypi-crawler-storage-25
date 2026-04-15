@@ -1,0 +1,11 @@
+{
+  "name": "aipm-backend",
+  "version": "0.2.1",
+  "summary": "AI Project Manager Server - REST API backend for project and task management with notification support",
+  "author": "AIPM Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aipm_backend-0.2.1.tar.gz",
+  "download_time": "2026-04-15T10:46:55.599662",
+  "package_url": "https://pypi.org/project/aipm-backend/"
+}

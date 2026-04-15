@@ -1,0 +1,11 @@
+{
+  "name": "ssot-registry",
+  "version": "0.2.1",
+  "summary": "Portable single-source-of-truth registry for features, tests, claims, evidence, issues, risks, boundaries, releases, ADRs, and specs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ssot_registry-0.2.1.tar.gz",
+  "download_time": "2026-04-15T10:46:23.041970",
+  "package_url": "https://pypi.org/project/ssot-registry/"
+}

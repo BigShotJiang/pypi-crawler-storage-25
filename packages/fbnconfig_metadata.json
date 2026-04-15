@@ -1,11 +1,11 @@
 {
   "name": "fbnconfig",
-  "version": "0.1.230",
+  "version": "0.1.235",
   "summary": "fbnconfig is a python library (and commandline tool) to allow a declarative description of a LUSID environment",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fbnconfig-0.1.230.tar.gz",
-  "download_time": "2026-04-08T10:10:41.590756",
+  "download_filename": "fbnconfig-0.1.235.tar.gz",
+  "download_time": "2026-04-15T10:46:18.149255",
   "package_url": "https://pypi.org/project/fbnconfig/"
 }
