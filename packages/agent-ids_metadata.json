@@ -1,0 +1,11 @@
+{
+  "name": "agent-ids",
+  "version": "0.1.0",
+  "summary": "Agent identity primitives for AGTP-compliant systems",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agent_ids-0.1.0.tar.gz",
+  "download_time": "2026-04-15T17:08:28.420836",
+  "package_url": "https://pypi.org/project/agent-ids/"
+}

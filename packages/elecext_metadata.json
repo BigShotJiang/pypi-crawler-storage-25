@@ -1,11 +1,11 @@
 {
   "name": "elecext",
-  "version": "1.0.3",
+  "version": "1.0.9",
   "summary": "Python wrappers for interfacing Gaussian with external quantum chemistry programs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "elecext-1.0.3.tar.gz",
-  "download_time": "2026-03-31T10:35:10.938139",
+  "download_filename": "elecext-1.0.9.tar.gz",
+  "download_time": "2026-04-15T17:08:21.732681",
   "package_url": "https://pypi.org/project/elecext/"
 }

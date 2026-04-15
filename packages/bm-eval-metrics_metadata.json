@@ -1,11 +1,11 @@
 {
   "name": "bm-eval-metrics",
-  "version": "1.5.5",
+  "version": "1.5.9",
   "summary": "Python package providing easy-to-use evaluation metrics and utilities for Machine Learning",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bm_eval_metrics-1.5.5.tar.gz",
-  "download_time": "2026-04-14T17:58:02.219793",
+  "download_filename": "bm_eval_metrics-1.5.9.tar.gz",
+  "download_time": "2026-04-15T17:07:47.547194",
   "package_url": "https://pypi.org/project/bm-eval-metrics/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "app-platform",
+  "version": "0.7.0",
+  "summary": "Generic web app infrastructure: PostgreSQL pooling, structured logging, rate limiting, FastAPI middleware, auth service, gateway proxy",
+  "author": "Henry Chien",
+  "license": null,
+  "home_page": null,
+  "download_filename": "app_platform-0.7.0.tar.gz",
+  "download_time": "2026-04-15T17:07:48.060226",
+  "package_url": "https://pypi.org/project/app-platform/"
+}

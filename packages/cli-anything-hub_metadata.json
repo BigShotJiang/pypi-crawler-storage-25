@@ -1,0 +1,11 @@
+{
+  "name": "cli-anything-hub",
+  "version": "0.2.0",
+  "summary": "Package manager for CLI-Anything — browse, install, and manage 40+ agent-native CLI interfaces for GUI applications",
+  "author": "HKUDS",
+  "license": "MIT",
+  "home_page": "https://github.com/HKUDS/CLI-Anything",
+  "download_filename": "cli_anything_hub-0.2.0.tar.gz",
+  "download_time": "2026-04-15T17:07:49.597537",
+  "package_url": "https://pypi.org/project/cli-anything-hub/"
+}

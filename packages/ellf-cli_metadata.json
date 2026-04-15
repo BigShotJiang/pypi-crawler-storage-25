@@ -1,11 +1,11 @@
 {
   "name": "ellf-cli",
-  "version": "4.0.16",
+  "version": "4.0.17",
   "summary": "Ellf Command Line Interface",
   "author": "ExplosionAI GmbH",
   "license": "All rights reserved",
   "home_page": "https://prodi.gy",
-  "download_filename": "ellf_cli-4.0.16.tar.gz",
-  "download_time": "2026-04-15T15:54:02.108944",
+  "download_filename": "ellf_cli-4.0.17.tar.gz",
+  "download_time": "2026-04-15T17:08:26.367455",
   "package_url": "https://pypi.org/project/ellf-cli/"
 }

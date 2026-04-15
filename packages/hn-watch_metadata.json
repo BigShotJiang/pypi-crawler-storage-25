@@ -1,0 +1,11 @@
+{
+  "name": "hn-watch",
+  "version": "0.1.0",
+  "summary": "Watch a URL for new comments and likes with cross-platform desktop notifications.",
+  "author": "HN-Watch",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hn_watch-0.1.0.tar.gz",
+  "download_time": "2026-04-15T17:08:15.031362",
+  "package_url": "https://pypi.org/project/hn-watch/"
+}

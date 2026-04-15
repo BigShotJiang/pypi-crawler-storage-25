@@ -1,0 +1,11 @@
+{
+  "name": "tompo-mcp",
+  "version": "0.1.0",
+  "summary": "TOMPo — Power BI & Fabric Lineage Intelligence MCP Server. Trace lineage from semantic models to reports to visuals. Impact analysis for every column and measure.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tompo_mcp-0.1.0.tar.gz",
+  "download_time": "2026-04-15T17:07:52.176558",
+  "package_url": "https://pypi.org/project/tompo-mcp/"
+}

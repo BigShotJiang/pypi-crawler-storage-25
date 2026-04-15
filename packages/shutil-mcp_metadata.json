@@ -1,0 +1,11 @@
+{
+  "name": "shutil-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for asynchronous shell utilities using aioshutil",
+  "author": "Chaiwat Suttipongsakul",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shutil_mcp-0.1.0.tar.gz",
+  "download_time": "2026-04-15T17:08:32.022597",
+  "package_url": "https://pypi.org/project/shutil-mcp/"
+}

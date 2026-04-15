@@ -1,11 +1,11 @@
 {
   "name": "bm-preprocessing",
-  "version": "1.4.8",
+  "version": "1.5.8",
   "summary": "A package to preprocess text data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bm_preprocessing-1.4.8.tar.gz",
-  "download_time": "2026-04-12T17:24:42.418262",
+  "download_filename": "bm_preprocessing-1.5.8.tar.gz",
+  "download_time": "2026-04-15T17:07:50.112557",
   "package_url": "https://pypi.org/project/bm-preprocessing/"
 }

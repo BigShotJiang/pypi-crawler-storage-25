@@ -1,11 +1,11 @@
 {
   "name": "opensdmx",
-  "version": "0.3.27",
+  "version": "0.3.32",
   "summary": "Simple Python interface to any SDMX 2.1 REST API (Eurostat, ISTAT, and more)",
   "author": "Andrea Borruso",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opensdmx-0.3.27.tar.gz",
-  "download_time": "2026-04-10T08:52:49.456091",
+  "download_filename": "opensdmx-0.3.32.tar.gz",
+  "download_time": "2026-04-15T17:07:58.906780",
   "package_url": "https://pypi.org/project/opensdmx/"
 }
