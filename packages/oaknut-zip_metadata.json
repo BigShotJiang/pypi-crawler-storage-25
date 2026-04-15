@@ -1,11 +1,11 @@
 {
   "name": "oaknut-zip",
-  "version": "10.0.4",
+  "version": "10.1.0",
   "summary": "Work with ZIP files containing Acorn computer metadata.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oaknut_zip-10.0.4.tar.gz",
-  "download_time": "2026-04-12T22:02:32.891818",
+  "download_filename": "oaknut_zip-10.1.0.tar.gz",
+  "download_time": "2026-04-15T07:48:51.152227",
   "package_url": "https://pypi.org/project/oaknut-zip/"
 }

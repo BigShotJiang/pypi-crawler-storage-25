@@ -1,11 +1,11 @@
 {
   "name": "oaknut-adfs",
-  "version": "10.0.4",
+  "version": "10.1.0",
   "summary": "Acorn ADFS disc image support for Archimedes, RISC OS, and BBC Master",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oaknut_adfs-10.0.4.tar.gz",
-  "download_time": "2026-04-12T22:02:35.972741",
+  "download_filename": "oaknut_adfs-10.1.0.tar.gz",
+  "download_time": "2026-04-15T07:48:54.747042",
   "package_url": "https://pypi.org/project/oaknut-adfs/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pycan-send",
+  "version": "0.0.1",
+  "summary": "Command line tool that quickly lets you send a can frame using the message and signal names encoded in a KCD",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycan_send-0.0.1.tar.gz",
+  "download_time": "2026-04-15T07:49:11.107134",
+  "package_url": "https://pypi.org/project/pycan-send/"
+}

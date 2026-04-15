@@ -1,0 +1,11 @@
+{
+  "name": "json-decode-streaming",
+  "version": "0.1.6",
+  "summary": "Strict-prefix JSON repair utility for streaming AI output.",
+  "author": "json_decode_streaming contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "json_decode_streaming-0.1.6.tar.gz",
+  "download_time": "2026-04-15T07:49:16.710351",
+  "package_url": "https://pypi.org/project/json-decode-streaming/"
+}

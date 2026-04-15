@@ -1,0 +1,11 @@
+{
+  "name": "quartermaster-engine",
+  "version": "0.1.1",
+  "summary": "Execution engine for AI agent graphs — traversal, branching, merging, memory, message passing, and error handling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quartermaster_engine-0.1.1.tar.gz",
+  "download_time": "2026-04-15T07:49:06.334563",
+  "package_url": "https://pypi.org/project/quartermaster-engine/"
+}

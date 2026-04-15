@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-sysom20231230",
-  "version": "1.15.0",
+  "version": "1.16.0",
   "summary": "Alibaba Cloud SysOM (20231230) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_sysom20231230-1.15.0.tar.gz",
-  "download_time": "2026-04-14T18:57:15.209834",
+  "download_filename": "alibabacloud_sysom20231230-1.16.0.tar.gz",
+  "download_time": "2026-04-15T07:49:03.949251",
   "package_url": "https://pypi.org/project/alibabacloud-sysom20231230/"
 }

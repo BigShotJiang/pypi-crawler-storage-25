@@ -1,11 +1,11 @@
 {
   "name": "oaknut-discimage",
-  "version": "10.0.4",
+  "version": "10.1.0",
   "summary": "Disc image sector abstractions shared by Acorn filesystem packages",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oaknut_discimage-10.0.4.tar.gz",
-  "download_time": "2026-04-12T22:02:36.489941",
+  "download_filename": "oaknut_discimage-10.1.0.tar.gz",
+  "download_time": "2026-04-15T07:48:54.165786",
   "package_url": "https://pypi.org/project/oaknut-discimage/"
 }

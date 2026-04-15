@@ -1,0 +1,11 @@
+{
+  "name": "mygramdb-client",
+  "version": "1.0.0",
+  "summary": "Python client for MygramDB - high-performance in-memory full-text search engine with MySQL replication support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mygramdb_client-1.0.0.tar.gz",
+  "download_time": "2026-04-15T07:48:43.802955",
+  "package_url": "https://pypi.org/project/mygramdb-client/"
+}

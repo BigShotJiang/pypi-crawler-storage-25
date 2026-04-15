@@ -1,0 +1,11 @@
+{
+  "name": "neural-topic-models",
+  "version": "0.1.0",
+  "summary": "PyTorch neural topic models (GSM, WTM, ETM, GMNTM, BATM) with an importable ntm API.",
+  "author": "ZhangLeilan",
+  "license": null,
+  "home_page": "https://github.com/zll17/Neural_Topic_Models",
+  "download_filename": "neural_topic_models-0.1.0.tar.gz",
+  "download_time": "2026-04-15T07:49:22.319639",
+  "package_url": "https://pypi.org/project/neural-topic-models/"
+}
