@@ -1,0 +1,11 @@
+{
+  "name": "gimbal-regression",
+  "version": "0.1.2",
+  "summary": "A Python package for Gimbal Regression, a deterministic local linear regression framework with explicit diagnostics.",
+  "author": "Yuichiro Otani",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "gimbal_regression-0.1.2-py3-none-any.whl",
+  "download_time": "2026-04-16T22:30:43.733607",
+  "package_url": "https://pypi.org/project/gimbal-regression/"
+}

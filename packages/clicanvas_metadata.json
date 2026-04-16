@@ -1,11 +1,11 @@
 {
   "name": "clicanvas",
-  "version": "0.3.0.1",
+  "version": "0.3.1",
   "summary": "A python library that deals with terminal-based user input. From a TUI framework to custom input functions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clicanvas-0.3.0.1.tar.gz",
-  "download_time": "2026-04-05T20:53:11.415405",
+  "download_filename": "clicanvas-0.3.1.tar.gz",
+  "download_time": "2026-04-16T22:31:17.933337",
   "package_url": "https://pypi.org/project/clicanvas/"
 }

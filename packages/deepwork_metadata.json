@@ -1,11 +1,11 @@
 {
   "name": "deepwork",
-  "version": "0.13.5",
+  "version": "0.13.9",
   "summary": "Framework for enabling AI agents to perform complex, multi-step work tasks",
   "author": "DeepWork Contributors",
   "license": "Business Source License 1.1",
   "home_page": null,
-  "download_filename": "deepwork-0.13.5.tar.gz",
-  "download_time": "2026-04-13T00:06:51.299702",
+  "download_filename": "deepwork-0.13.9.tar.gz",
+  "download_time": "2026-04-16T22:31:11.160971",
   "package_url": "https://pypi.org/project/deepwork/"
 }

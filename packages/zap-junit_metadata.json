@@ -1,11 +1,11 @@
 {
   "name": "zap-junit",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Convert OWASP ZAP JSON output to JUnit XML format",
   "author": "Mikke Schirén",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zap_junit-0.1.2.tar.gz",
-  "download_time": "2026-04-15T23:18:18.505690",
+  "download_filename": "zap_junit-0.1.3.tar.gz",
+  "download_time": "2026-04-16T22:31:11.673300",
   "package_url": "https://pypi.org/project/zap-junit/"
 }

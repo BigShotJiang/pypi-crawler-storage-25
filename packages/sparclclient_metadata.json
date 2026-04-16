@@ -1,0 +1,11 @@
+{
+  "name": "sparclclient",
+  "version": "1.2.8",
+  "summary": "A client for getting spectra and meta-data from NOIRLab.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sparclclient-1.2.8.tar.gz",
+  "download_time": "2026-04-16T22:30:54.546063",
+  "package_url": "https://pypi.org/project/sparclclient/"
+}

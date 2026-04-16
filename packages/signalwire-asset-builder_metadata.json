@@ -1,11 +1,11 @@
 {
   "name": "signalwire-asset-builder",
-  "version": "1.0.14",
+  "version": "1.0.26",
   "summary": "SignalWire branded asset builder: slide decks and landing pages from DTCG design tokens",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "signalwire_asset_builder-1.0.14.tar.gz",
-  "download_time": "2026-04-14T23:09:49.782651",
+  "download_filename": "signalwire_asset_builder-1.0.26.tar.gz",
+  "download_time": "2026-04-16T22:30:56.601606",
   "package_url": "https://pypi.org/project/signalwire-asset-builder/"
 }
