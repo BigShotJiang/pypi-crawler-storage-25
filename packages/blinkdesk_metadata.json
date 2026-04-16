@@ -1,11 +1,11 @@
 {
   "name": "blinkdesk",
-  "version": "0.6.0",
+  "version": "0.10.0",
   "summary": "A lightweight ticketing system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blinkdesk-0.6.0.tar.gz",
-  "download_time": "2026-04-05T06:23:25.463157",
+  "download_filename": "blinkdesk-0.10.0.tar.gz",
+  "download_time": "2026-04-16T21:47:51.681212",
   "package_url": "https://pypi.org/project/blinkdesk/"
 }

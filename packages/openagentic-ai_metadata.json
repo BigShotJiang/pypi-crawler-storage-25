@@ -1,11 +1,11 @@
 {
   "name": "openagentic-ai",
-  "version": "0.1.0",
+  "version": "0.2.5",
   "summary": "Powerful claude code open source alternative. AI coding assistant powered by Abdel-Hazim Lawani — use it in any folder",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "openagentic_ai-0.1.0.tar.gz",
-  "download_time": "2026-04-01T05:13:58.976354",
+  "download_filename": "openagentic_ai-0.2.5.tar.gz",
+  "download_time": "2026-04-16T21:47:52.194205",
   "package_url": "https://pypi.org/project/openagentic-ai/"
 }

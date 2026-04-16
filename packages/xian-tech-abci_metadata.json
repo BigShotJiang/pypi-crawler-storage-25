@@ -1,11 +1,11 @@
 {
   "name": "xian-tech-abci",
-  "version": "0.8.8",
+  "version": "0.8.9",
   "summary": "Python-based ABCI server for CometBFT",
   "author": "Xian Core Team",
   "license": null,
   "home_page": null,
-  "download_filename": "xian_tech_abci-0.8.8.tar.gz",
-  "download_time": "2026-04-12T00:08:46.033618",
+  "download_filename": "xian_tech_abci-0.8.9.tar.gz",
+  "download_time": "2026-04-16T21:47:13.355039",
   "package_url": "https://pypi.org/project/xian-tech-abci/"
 }

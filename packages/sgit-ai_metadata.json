@@ -1,11 +1,11 @@
 {
   "name": "sgit-ai",
-  "version": "0.9.12",
+  "version": "0.10.11",
   "summary": "CLI tool for syncing encrypted vaults with SGit-AI",
   "author": "The Cyber Boardroom",
   "license": "Apache-2.0",
   "home_page": "https://github.com/SGit-AI/SGit-AI__CLI",
-  "download_filename": "sgit_ai-0.9.12.tar.gz",
-  "download_time": "2026-03-29T23:49:36.859589",
+  "download_filename": "sgit_ai-0.10.11.tar.gz",
+  "download_time": "2026-04-16T21:47:43.373353",
   "package_url": "https://pypi.org/project/sgit-ai/"
 }

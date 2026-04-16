@@ -1,11 +1,11 @@
 {
   "name": "cattorch",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Export PyTorch modules to Scratch sprites",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cattorch-0.2.1.tar.gz",
-  "download_time": "2026-04-10T20:24:21.614323",
+  "download_filename": "cattorch-0.3.0.tar.gz",
+  "download_time": "2026-04-16T21:47:20.595473",
   "package_url": "https://pypi.org/project/cattorch/"
 }

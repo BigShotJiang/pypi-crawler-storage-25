@@ -1,11 +1,11 @@
 {
   "name": "talus_python",
-  "version": "0.3.0",
-  "summary": null,
+  "version": "0.3.1",
+  "summary": "Rust-powered computational topology",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "talus_python-0.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-  "download_time": "2026-04-11T20:06:07.969066",
+  "download_filename": "talus_python-0.3.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2026-04-16T21:47:28.358974",
   "package_url": "https://pypi.org/project/talus_python/"
 }

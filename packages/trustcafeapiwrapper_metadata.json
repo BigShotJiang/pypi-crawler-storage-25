@@ -1,11 +1,11 @@
 {
   "name": "trustcafeapiwrapper",
-  "version": "0.1.0.9",
+  "version": "0.1.0.13",
   "summary": "Wraps the Trust Cafe API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trustcafeapiwrapper-0.1.0.9.tar.gz",
-  "download_time": "2026-04-13T17:27:48.433017",
+  "download_filename": "trustcafeapiwrapper-0.1.0.13.tar.gz",
+  "download_time": "2026-04-16T21:47:39.743911",
   "package_url": "https://pypi.org/project/trustcafeapiwrapper/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lexicont",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Policy-driven agent for real-time text moderation",
   "author": "corefrg",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "lexicont-0.1.1.tar.gz",
-  "download_time": "2026-03-28T19:52:25.670865",
+  "download_filename": "lexicont-0.1.5.tar.gz",
+  "download_time": "2026-04-16T21:47:49.617724",
   "package_url": "https://pypi.org/project/lexicont/"
 }

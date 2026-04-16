@@ -1,11 +1,11 @@
 {
   "name": "resonance-layer",
-  "version": "1.0.33",
-  "summary": "The emotional memory layer for AI.",
+  "version": "2.0.1",
+  "summary": "Emotional intelligence layer for AI â€” detects emotion, tracks wellbeing, and gives any LLM the context to respond to how people actually feel.",
   "author": "William Ferrell",
   "license": null,
   "home_page": null,
-  "download_filename": "resonance_layer-1.0.33.tar.gz",
-  "download_time": "2026-04-04T21:01:51.240284",
+  "download_filename": "resonance_layer-2.0.1-py3-none-any.whl",
+  "download_time": "2026-04-16T21:47:15.408959",
   "package_url": "https://pypi.org/project/resonance-layer/"
 }

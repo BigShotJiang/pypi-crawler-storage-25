@@ -1,11 +1,11 @@
 {
   "name": "chitta-bridge",
-  "version": "0.11.2",
+  "version": "0.11.7",
   "summary": "MCP server for multi-model AI discussions — cloud, agentic CLIs, local GPU models, soul memory",
   "author": "Antonio Fernandez-Guerra",
   "license": null,
   "home_page": null,
-  "download_filename": "chitta_bridge-0.11.2.tar.gz",
-  "download_time": "2026-04-04T21:43:33.950029",
+  "download_filename": "chitta_bridge-0.11.7.tar.gz",
+  "download_time": "2026-04-16T21:47:47.565295",
   "package_url": "https://pypi.org/project/chitta-bridge/"
 }
