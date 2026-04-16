@@ -1,11 +1,11 @@
 {
   "name": "loremem-ai",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Persistent AI memory for LLMs and AI agents. Local-first. Learns from every interaction.",
   "author": "Lore Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "loremem_ai-1.0.6.tar.gz",
-  "download_time": "2026-04-15T20:53:02.659280",
+  "download_filename": "loremem_ai-1.0.7.tar.gz",
+  "download_time": "2026-04-16T18:48:26.163430",
   "package_url": "https://pypi.org/project/loremem-ai/"
 }

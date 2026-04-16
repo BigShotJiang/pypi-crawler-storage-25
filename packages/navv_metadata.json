@@ -1,0 +1,11 @@
+{
+  "name": "navv",
+  "version": "3.4.2",
+  "summary": "Generate a spreadsheet for network traffic analysis from PCAP data and Zeek logs",
+  "author": "Seth Grover",
+  "license": null,
+  "home_page": "https://github.com/cisagov/network-architecture-verification-and-validation",
+  "download_filename": "navv-3.4.2.tar.gz",
+  "download_time": "2026-04-16T18:48:25.572948",
+  "package_url": "https://pypi.org/project/navv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "graphpop-cli",
+  "version": "0.1.1",
+  "summary": "Graph database-native population genomics CLI with O(V*K) complexity",
+  "author": "Jianfeng Mao",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graphpop_cli-0.1.1.tar.gz",
+  "download_time": "2026-04-16T18:47:55.285063",
+  "package_url": "https://pypi.org/project/graphpop-cli/"
+}

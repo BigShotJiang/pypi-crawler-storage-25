@@ -1,0 +1,11 @@
+{
+  "name": "async-batch-llm",
+  "version": "0.7.0",
+  "summary": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and intelligent validation recovery.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "async_batch_llm-0.7.0.tar.gz",
+  "download_time": "2026-04-16T18:48:32.161507",
+  "package_url": "https://pypi.org/project/async-batch-llm/"
+}

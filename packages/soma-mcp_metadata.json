@@ -1,0 +1,11 @@
+{
+  "name": "soma-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server exposing Apple Health, Location, and Activity data from a local Soma SQLite replica",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "soma_mcp-0.2.0.tar.gz",
+  "download_time": "2026-04-16T18:48:11.119183",
+  "package_url": "https://pypi.org/project/soma-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "unicorn-binance-trailing-stop-loss",
+  "version": "1.3.0",
+  "summary": "A Python library with a command line interface for a trailing stop loss and smart entry on the Binance exchange.",
+  "author": "Oliver Zehentleitner",
+  "license": "MIT",
+  "home_page": "https://github.com/oliver-zehentleitner/unicorn-binance-trailing-stop-loss",
+  "download_filename": "unicorn_binance_trailing_stop_loss-1.3.0.tar.gz",
+  "download_time": "2026-04-16T18:47:41.634478",
+  "package_url": "https://pypi.org/project/unicorn-binance-trailing-stop-loss/"
+}

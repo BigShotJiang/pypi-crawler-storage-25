@@ -1,11 +1,11 @@
 {
   "name": "fiberhmm",
-  "version": "2.6.4",
+  "version": "2.6.8",
   "summary": "Hidden Markov Model for calling chromatin footprints from fiber-seq and DAF-seq data",
   "author": "FiberHMM Authors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fiberhmm-2.6.4-py3-none-any.whl",
-  "download_time": "2026-04-14T05:55:40.778580",
+  "download_filename": "fiberhmm-2.6.8.tar.gz",
+  "download_time": "2026-04-16T18:47:50.939350",
   "package_url": "https://pypi.org/project/fiberhmm/"
 }

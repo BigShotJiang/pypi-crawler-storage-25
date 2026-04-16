@@ -1,11 +1,11 @@
 {
   "name": "pg-heartbeat",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A simple way for Python applications to push heartbeat info to a SQL database",
   "author": "Craig",
   "license": null,
   "home_page": null,
-  "download_filename": "pg_heartbeat-0.3.0.tar.gz",
-  "download_time": "2026-04-15T23:17:46.957101",
+  "download_filename": "pg_heartbeat-0.4.0.tar.gz",
+  "download_time": "2026-04-16T18:47:42.288648",
   "package_url": "https://pypi.org/project/pg-heartbeat/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vynfi",
-  "version": "1.1.0",
+  "version": "1.4.0",
   "summary": "Python SDK for the VynFi synthetic financial data API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vynfi-1.1.0.tar.gz",
-  "download_time": "2026-04-11T11:20:14.682502",
+  "download_filename": "vynfi-1.4.0.tar.gz",
+  "download_time": "2026-04-16T18:48:36.009870",
   "package_url": "https://pypi.org/project/vynfi/"
 }
