@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-highs",
+  "version": "10.8.3",
+  "summary": "passagemath: Linear and mixed integer linear optimization backend using HiGHS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_highs-10.8.3.tar.gz",
+  "download_time": "2026-04-16T06:06:22.863471",
+  "package_url": "https://pypi.org/project/passagemath-highs/"
+}

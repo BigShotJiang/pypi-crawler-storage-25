@@ -1,11 +1,11 @@
 {
   "name": "path2success",
-  "version": "5.0",
+  "version": "5.3",
   "summary": "The \"path2success\" library, is a multi-OS compatible python library, that includes advanced path-related functions.",
   "author": "Joel Horensma",
   "license": null,
   "home_page": null,
-  "download_filename": "path2success-5.0.tar.gz",
-  "download_time": "2026-04-16T03:52:46.671138",
+  "download_filename": "path2success-5.3.tar.gz",
+  "download_time": "2026-04-16T06:06:05.379831",
   "package_url": "https://pypi.org/project/path2success/"
 }

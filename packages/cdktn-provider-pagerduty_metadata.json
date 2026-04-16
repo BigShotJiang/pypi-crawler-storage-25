@@ -1,0 +1,11 @@
+{
+  "name": "cdktn-provider-pagerduty",
+  "version": "15.1.2",
+  "summary": "Prebuilt pagerduty Provider for CDK Terrain (cdktn)",
+  "author": "CDK Terrain Maintainers",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktn-io/cdktn-provider-pagerduty.git",
+  "download_filename": "cdktn_provider_pagerduty-15.1.2.tar.gz",
+  "download_time": "2026-04-16T06:06:39.816028",
+  "package_url": "https://pypi.org/project/cdktn-provider-pagerduty/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pycaldera",
+  "version": "0.1.2",
+  "summary": "Unofficial Python client for Caldera Spa API",
+  "author": "Mark Watson",
+  "license": "MIT",
+  "home_page": "https://github.com/mwatson2/pycaldera",
+  "download_filename": "pycaldera-0.1.2.tar.gz",
+  "download_time": "2026-04-16T06:06:39.101152",
+  "package_url": "https://pypi.org/project/pycaldera/"
+}

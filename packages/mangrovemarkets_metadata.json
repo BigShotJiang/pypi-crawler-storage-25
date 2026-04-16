@@ -1,0 +1,11 @@
+{
+  "name": "mangrovemarkets",
+  "version": "0.1.0",
+  "summary": "Python SDK for MangroveMarkets — DEX aggregation, wallet management, and portfolio analytics for agents",
+  "author": "Mangrove Technologies Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mangrovemarkets-0.1.0.tar.gz",
+  "download_time": "2026-04-16T06:06:14.299938",
+  "package_url": "https://pypi.org/project/mangrovemarkets/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "commiter-cli",
+  "version": "0.3.0",
+  "summary": "Commiter CLI — scan repositories and enrich architecture snapshots on commiter.dev",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "commiter_cli-0.3.0.tar.gz",
+  "download_time": "2026-04-16T06:06:36.492895",
+  "package_url": "https://pypi.org/project/commiter-cli/"
+}

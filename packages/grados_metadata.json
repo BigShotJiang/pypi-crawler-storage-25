@@ -1,11 +1,11 @@
 {
   "name": "grados",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "summary": "Academic research MCP server — search, extract, and manage papers",
   "author": "macfish",
   "license": null,
   "home_page": null,
-  "download_filename": "grados-0.6.6.tar.gz",
-  "download_time": "2026-04-07T06:55:09.028066",
+  "download_filename": "grados-0.6.7.tar.gz",
+  "download_time": "2026-04-16T06:05:46.052908",
   "package_url": "https://pypi.org/project/grados/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "agentguardproxy",
+  "version": "0.4.0",
+  "summary": "Python SDK for AgentGuard — the firewall for AI agents",
+  "author": "AgentGuard Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentguardproxy-0.4.0.tar.gz",
+  "download_time": "2026-04-16T06:06:33.223619",
+  "package_url": "https://pypi.org/project/agentguardproxy/"
+}

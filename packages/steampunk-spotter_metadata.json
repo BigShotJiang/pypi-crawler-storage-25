@@ -1,0 +1,11 @@
+{
+  "name": "steampunk-spotter",
+  "version": "5.12.0",
+  "summary": "Ansible Playbook Platform that scans, analyzes, enhances, and provides insights for your playbooks.",
+  "author": "XLAB d.o.o.",
+  "license": null,
+  "home_page": "https://spotter.steampunk.si/",
+  "download_filename": "steampunk_spotter-5.12.0-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-04-16T06:06:09.219776",
+  "package_url": "https://pypi.org/project/steampunk-spotter/"
+}
