@@ -1,0 +1,11 @@
+{
+  "name": "cdx-manager",
+  "version": "0.4.0",
+  "summary": "Terminal session manager for Codex and Claude accounts.",
+  "author": "Alexandre Agostini",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cdx_manager-0.4.0.tar.gz",
+  "download_time": "2026-04-16T11:07:23.718323",
+  "package_url": "https://pypi.org/project/cdx-manager/"
+}

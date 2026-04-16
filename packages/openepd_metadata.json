@@ -1,0 +1,11 @@
+{
+  "name": "openepd",
+  "version": "7.26.1",
+  "summary": "Python library to work with OpenEPD format",
+  "author": "C-Change Labs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cchangelabs/openepd",
+  "download_filename": "openepd-7.26.1.tar.gz",
+  "download_time": "2026-04-16T11:07:42.778574",
+  "package_url": "https://pypi.org/project/openepd/"
+}

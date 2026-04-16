@@ -1,11 +1,11 @@
 {
   "name": "cmlxc",
-  "version": "0.8.1",
+  "version": "0.9.0",
   "summary": "Local LXC/Incus container management for chatmail relay development and testing",
   "author": null,
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "cmlxc-0.8.1.tar.gz",
-  "download_time": "2026-04-15T17:08:10.386288",
+  "download_filename": "cmlxc-0.9.0.tar.gz",
+  "download_time": "2026-04-16T11:07:21.666850",
   "package_url": "https://pypi.org/project/cmlxc/"
 }

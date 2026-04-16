@@ -1,11 +1,11 @@
 {
   "name": "ya-agent-sdk",
-  "version": "0.52.1",
+  "version": "0.58.2",
   "summary": "Application framework for building AI agents with Pydantic AI - environment abstractions, session management, and hierarchical agent patterns",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ya_agent_sdk-0.52.1.tar.gz",
-  "download_time": "2026-04-05T15:50:37.778997",
+  "download_filename": "ya_agent_sdk-0.58.2.tar.gz",
+  "download_time": "2026-04-16T11:07:32.477038",
   "package_url": "https://pypi.org/project/ya-agent-sdk/"
 }

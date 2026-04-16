@@ -1,11 +1,11 @@
 {
   "name": "matrix-for-agents",
-  "version": "0.6.9.21",
+  "version": "0.6.9.43",
   "summary": "An intelligent agent framework with pluggable skills and LLM integrations",
   "author": "Agent-Matrix Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "matrix_for_agents-0.6.9.21.tar.gz",
-  "download_time": "2026-04-08T11:19:21.146506",
+  "download_filename": "matrix_for_agents-0.6.9.43.tar.gz",
+  "download_time": "2026-04-16T11:08:06.918494",
   "package_url": "https://pypi.org/project/matrix-for-agents/"
 }

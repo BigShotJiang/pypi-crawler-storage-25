@@ -1,0 +1,11 @@
+{
+  "name": "py-a2lfile",
+  "version": "0.0.5",
+  "summary": "Parse-only Python bindings for the a2lfile Rust crate",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_a2lfile-0.0.5.tar.gz",
+  "download_time": "2026-04-16T11:07:57.675758",
+  "package_url": "https://pypi.org/project/py-a2lfile/"
+}

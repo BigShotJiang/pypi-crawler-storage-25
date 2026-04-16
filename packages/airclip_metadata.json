@@ -1,11 +1,11 @@
 {
   "name": "airclip",
-  "version": "0.1.0",
-  "summary": "Convert any video to an ultra-lightweight WebM that blends seamlessly into web pages.",
+  "version": "0.2.0",
+  "summary": "Convert any video to ultra-lightweight WebM or transparent animated WebP for seamless web embedding.",
   "author": "Akash Chekka",
   "license": null,
   "home_page": null,
-  "download_filename": "airclip-0.1.0.tar.gz",
-  "download_time": "2026-04-15T11:44:56.433432",
+  "download_filename": "airclip-0.2.0.tar.gz",
+  "download_time": "2026-04-16T11:07:38.666374",
   "package_url": "https://pypi.org/project/airclip/"
 }

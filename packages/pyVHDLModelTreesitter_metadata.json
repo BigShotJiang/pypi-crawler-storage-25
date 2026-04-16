@@ -1,0 +1,11 @@
+{
+  "name": "pyVHDLModelTreesitter",
+  "version": "0.2.0",
+  "summary": "An implementation of pyVHDLModel using treesitter",
+  "author": "Dominic Adam Walters",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyvhdlmodeltreesitter-0.2.0.tar.gz",
+  "download_time": "2026-04-16T11:07:45.350167",
+  "package_url": "https://pypi.org/project/pyVHDLModelTreesitter/"
+}

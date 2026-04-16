@@ -1,11 +1,11 @@
 {
   "name": "openmd",
-  "version": "1.4.27",
-  "summary": "Fast popup Markdown viewer with sidebar TOC, multi-file tabs, css themes, mermaid, katex, obsidian yaml show/hide, keyboard-based",
+  "version": "1.5.0",
+  "summary": "Fast popup Markdown viewer with sidebar TOC, multi-file tabs, css themes, mermaid, katex, obsidian yaml show/hide, keyboard-based, stdio pipes",
   "author": "RufusLin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openmd-1.4.27.tar.gz",
-  "download_time": "2026-04-15T07:49:31.619331",
+  "download_filename": "openmd-1.5.0.tar.gz",
+  "download_time": "2026-04-16T11:07:55.113554",
   "package_url": "https://pypi.org/project/openmd/"
 }

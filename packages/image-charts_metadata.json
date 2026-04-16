@@ -1,11 +1,11 @@
 {
   "name": "image-charts",
-  "version": "6.1.64",
+  "version": "6.1.72",
   "summary": "Official Image-Charts.com API client library",
   "author": "Francois-Guillaume Ribreau",
   "license": "MIT",
   "home_page": "https://github.com/image-charts/python",
-  "download_filename": "image_charts-6.1.64.tar.gz",
-  "download_time": "2026-03-28T06:40:36.829378",
+  "download_filename": "image_charts-6.1.72.tar.gz",
+  "download_time": "2026-04-16T11:07:27.831694",
   "package_url": "https://pypi.org/project/image-charts/"
 }
