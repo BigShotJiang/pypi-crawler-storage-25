@@ -1,11 +1,11 @@
 {
   "name": "pomlight",
-  "version": "0.1.2",
+  "version": "0.1.8",
   "summary": "Lightweight Python library for parsing and rendering POML prompts",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pomlight-0.1.2.tar.gz",
-  "download_time": "2026-04-15T21:43:41.752381",
+  "download_filename": "pomlight-0.1.8.tar.gz",
+  "download_time": "2026-04-16T20:51:16.779124",
   "package_url": "https://pypi.org/project/pomlight/"
 }

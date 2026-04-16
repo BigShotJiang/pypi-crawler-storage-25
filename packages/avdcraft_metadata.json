@@ -1,0 +1,11 @@
+{
+  "name": "avdcraft",
+  "version": "1.0.0",
+  "summary": "Automated Android Virtual Device (AVD) setup and management tool — streamlines emulator configuration and creation for Android developers using Android Studio",
+  "author": "Nandhan K",
+  "license": null,
+  "home_page": "https://github.com/Nandhan-KA/avdcraft",
+  "download_filename": "avdcraft-1.0.0.tar.gz",
+  "download_time": "2026-04-16T20:51:19.917808",
+  "package_url": "https://pypi.org/project/avdcraft/"
+}

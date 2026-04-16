@@ -1,0 +1,11 @@
+{
+  "name": "ucndata",
+  "version": "4.5.5",
+  "summary": "Python class for reading UCN runs converted to ROOT with midas2root",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ucndata-4.5.5.tar.gz",
+  "download_time": "2026-04-16T20:51:43.682048",
+  "package_url": "https://pypi.org/project/ucndata/"
+}

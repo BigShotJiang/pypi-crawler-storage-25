@@ -1,11 +1,11 @@
 {
   "name": "conscribe",
-  "version": "0.7.0",
+  "version": "1.0.0",
   "summary": "Automatic class registration and config typing stub generation for layered Python architectures",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "conscribe-0.7.0.tar.gz",
-  "download_time": "2026-04-12T23:23:08.108261",
+  "download_filename": "conscribe-1.0.0.tar.gz",
+  "download_time": "2026-04-16T20:51:46.895066",
   "package_url": "https://pypi.org/project/conscribe/"
 }

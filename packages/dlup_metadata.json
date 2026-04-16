@@ -1,0 +1,11 @@
+{
+  "name": "dlup",
+  "version": "0.9.1",
+  "summary": "Deep Learning Utilities for Pathology",
+  "author": "dlup contributors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/NKI-AI/dlup",
+  "download_filename": "dlup-0.9.1-cp310-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-04-16T20:51:24.753383",
+  "package_url": "https://pypi.org/project/dlup/"
+}

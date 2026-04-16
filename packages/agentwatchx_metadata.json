@@ -1,0 +1,11 @@
+{
+  "name": "agentwatchx",
+  "version": "0.2.2",
+  "summary": "Observability SDK for AI Agent Execution — catches hallucinations, silent failures, and missing executions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentwatchx-0.2.2.tar.gz",
+  "download_time": "2026-04-16T20:51:20.965440",
+  "package_url": "https://pypi.org/project/agentwatchx/"
+}

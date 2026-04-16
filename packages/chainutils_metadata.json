@@ -1,0 +1,11 @@
+{
+  "name": "chainutils",
+  "version": "1.0.0",
+  "summary": "Python toolkit for blockchain automation — async requester, Web3 helpers, multi-process runner.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chainutils-1.0.0.tar.gz",
+  "download_time": "2026-04-16T20:51:50.075221",
+  "package_url": "https://pypi.org/project/chainutils/"
+}
