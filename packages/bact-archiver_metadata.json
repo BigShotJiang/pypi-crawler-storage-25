@@ -1,0 +1,11 @@
+{
+  "name": "bact-archiver",
+  "version": "0.4.0",
+  "summary": "EPICS archiver appliance access using google protobuf",
+  "author": null,
+  "license": "GNU General Public License (GPL)",
+  "home_page": null,
+  "download_filename": "bact_archiver-0.4.0.tar.gz",
+  "download_time": "2026-04-16T08:10:33.790535",
+  "package_url": "https://pypi.org/project/bact-archiver/"
+}

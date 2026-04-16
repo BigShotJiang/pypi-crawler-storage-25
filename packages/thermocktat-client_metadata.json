@@ -1,0 +1,11 @@
+{
+  "name": "thermocktat-client",
+  "version": "0.2.0",
+  "summary": "A python client for the Thermocktat, a lightweight, multi-protocol thermostat emulator.",
+  "author": "guidon1",
+  "license": null,
+  "home_page": null,
+  "download_filename": "thermocktat_client-0.2.0.tar.gz",
+  "download_time": "2026-04-16T08:10:31.674943",
+  "package_url": "https://pypi.org/project/thermocktat-client/"
+}

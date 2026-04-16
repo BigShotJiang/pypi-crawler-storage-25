@@ -1,0 +1,11 @@
+{
+  "name": "ai-nd-co-agent-tools",
+  "version": "0.5.0",
+  "summary": "Codex/Claude-backed text transformation and Kokoro TTS command-line tools.",
+  "author": "ai-nd-co",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ai_nd_co_agent_tools-0.5.0.tar.gz",
+  "download_time": "2026-04-16T08:10:07.903452",
+  "package_url": "https://pypi.org/project/ai-nd-co-agent-tools/"
+}

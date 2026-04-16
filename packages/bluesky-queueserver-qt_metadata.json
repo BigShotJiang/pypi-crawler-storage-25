@@ -1,0 +1,11 @@
+{
+  "name": "bluesky-queueserver-qt",
+  "version": "0.1.1",
+  "summary": "A PyQt interface for the Bluesky Queue Server",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "bluesky_queueserver_qt-0.1.1.tar.gz",
+  "download_time": "2026-04-16T08:10:06.162440",
+  "package_url": "https://pypi.org/project/bluesky-queueserver-qt/"
+}

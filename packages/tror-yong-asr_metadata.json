@@ -1,11 +1,11 @@
 {
   "name": "tror-yong-asr",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "summary": "Automatic Speech Recoginition Model",
   "author": "KHUN Kimang",
   "license": null,
   "home_page": "https://github.com/kimang18/KrorngAI",
-  "download_filename": "tror_yong_asr-0.0.7.tar.gz",
-  "download_time": "2026-04-15T09:12:29.621253",
+  "download_filename": "tror_yong_asr-0.0.9.tar.gz",
+  "download_time": "2026-04-16T08:10:42.228358",
   "package_url": "https://pypi.org/project/tror-yong-asr/"
 }

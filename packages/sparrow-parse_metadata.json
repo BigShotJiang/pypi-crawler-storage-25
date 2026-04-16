@@ -1,0 +1,11 @@
+{
+  "name": "sparrow-parse",
+  "version": "1.4.7",
+  "summary": "Sparrow Parse is a Python package (part of Sparrow) for parsing and extracting information from documents.",
+  "author": "Andrej Baranovskij",
+  "license": null,
+  "home_page": "https://github.com/katanaml/sparrow/tree/main/sparrow-data/parse",
+  "download_filename": "sparrow_parse-1.4.7.tar.gz",
+  "download_time": "2026-04-16T08:10:30.657172",
+  "package_url": "https://pypi.org/project/sparrow-parse/"
+}

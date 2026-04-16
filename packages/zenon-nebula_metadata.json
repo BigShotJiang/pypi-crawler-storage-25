@@ -1,11 +1,11 @@
 {
   "name": "zenon-nebula",
-  "version": "0.6.9",
+  "version": "0.6.16",
   "summary": "Autonomous intelligence platform for the Zenon Network",
   "author": "ZenonOrg",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zenon_nebula-0.6.9.tar.gz",
-  "download_time": "2026-04-11T17:22:39.951812",
+  "download_filename": "zenon_nebula-0.6.16.tar.gz",
+  "download_time": "2026-04-16T08:10:47.928528",
   "package_url": "https://pypi.org/project/zenon-nebula/"
 }

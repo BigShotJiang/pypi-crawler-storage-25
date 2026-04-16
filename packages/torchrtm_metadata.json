@@ -1,0 +1,11 @@
+{
+  "name": "torchrtm",
+  "version": "1.4.4",
+  "summary": "Torch-based Vegetation Radiative Transfer Model library (PROSPECT, SAIL, SMAC)",
+  "author": "Peng Sun, Marco D. Visser",
+  "license": "MIT",
+  "home_page": "https://github.com/Schimasuperbra/torchrtm",
+  "download_filename": "torchrtm-1.4.4.tar.gz",
+  "download_time": "2026-04-16T08:10:37.562035",
+  "package_url": "https://pypi.org/project/torchrtm/"
+}

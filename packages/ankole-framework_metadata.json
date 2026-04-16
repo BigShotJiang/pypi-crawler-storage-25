@@ -1,0 +1,11 @@
+{
+  "name": "ankole-framework",
+  "version": "1.0.0",
+  "summary": "Multi-driver E2E test framework: Playwright, pywinauto, httpx, subprocess — with full observability stack",
+  "author": "mikbalt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ankole_framework-1.0.0.tar.gz",
+  "download_time": "2026-04-16T08:10:16.929443",
+  "package_url": "https://pypi.org/project/ankole-framework/"
+}

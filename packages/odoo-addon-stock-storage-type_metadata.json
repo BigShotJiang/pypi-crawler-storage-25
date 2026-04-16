@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-storage-type",
+  "version": "18.0.1.6.1.1",
+  "summary": "Manage packages and locations storage types",
+  "author": "Camptocamp, BCIM, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-putaway",
+  "download_filename": "odoo_addon_stock_storage_type-18.0.1.6.1.1-py3-none-any.whl",
+  "download_time": "2026-04-16T08:10:32.757107",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-storage-type/"
+}

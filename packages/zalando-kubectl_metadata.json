@@ -1,11 +1,11 @@
 {
   "name": "zalando-kubectl",
-  "version": "1.35.3.386",
+  "version": "1.35.3.392",
   "summary": "Kubectl wrapper in Python with OAuth token auth",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zalando_kubectl-1.35.3.386.tar.gz",
-  "download_time": "2026-04-03T07:40:03.887507",
+  "download_filename": "zalando_kubectl-1.35.3.392.tar.gz",
+  "download_time": "2026-04-16T08:10:10.148478",
   "package_url": "https://pypi.org/project/zalando-kubectl/"
 }
