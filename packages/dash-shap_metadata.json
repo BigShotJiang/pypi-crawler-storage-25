@@ -1,0 +1,11 @@
+{
+  "name": "dash-shap",
+  "version": "0.2.0",
+  "summary": "Stable feature importance explanations under collinearity — works with any model and attribution method",
+  "author": "Drake Caraker, Bryan Arnold, David Rhoads",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dash_shap-0.2.0.tar.gz",
+  "download_time": "2026-04-16T00:05:54.398926",
+  "package_url": "https://pypi.org/project/dash-shap/"
+}

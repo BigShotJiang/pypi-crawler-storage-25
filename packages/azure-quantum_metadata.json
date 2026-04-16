@@ -1,0 +1,11 @@
+{
+  "name": "azure-quantum",
+  "version": "3.8.2",
+  "summary": "Python client for Azure Quantum",
+  "author": "Microsoft",
+  "license": "MIT License",
+  "home_page": "https://github.com/microsoft/azure-quantum-python",
+  "download_filename": "azure_quantum-3.8.2.tar.gz",
+  "download_time": "2026-04-16T00:06:08.878249",
+  "package_url": "https://pypi.org/project/azure-quantum/"
+}

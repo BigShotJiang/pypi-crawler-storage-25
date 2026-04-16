@@ -1,0 +1,11 @@
+{
+  "name": "aacode",
+  "version": "1.6.1",
+  "summary": "AI Coding Assistant based on ReAct architecture with file-based context management",
+  "author": "xiefujin",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "aacode-1.6.1.tar.gz",
+  "download_time": "2026-04-16T00:06:08.285301",
+  "package_url": "https://pypi.org/project/aacode/"
+}

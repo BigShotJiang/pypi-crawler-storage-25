@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-ubuntu-images",
+  "version": "0.2.0",
+  "summary": "A Sphinx extension for generating Ubuntu image download lists.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_ubuntu_images-0.2.0.tar.gz",
+  "download_time": "2026-04-16T00:05:57.564534",
+  "package_url": "https://pypi.org/project/sphinx-ubuntu-images/"
+}

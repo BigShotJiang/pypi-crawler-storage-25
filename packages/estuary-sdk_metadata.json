@@ -1,11 +1,11 @@
 {
   "name": "estuary-sdk",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "summary": "Python SDK for the Estuary real-time AI conversation platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "estuary_sdk-0.3.8.tar.gz",
-  "download_time": "2026-04-09T09:10:46.902606",
+  "download_filename": "estuary_sdk-0.3.9.tar.gz",
+  "download_time": "2026-04-16T00:05:56.311392",
   "package_url": "https://pypi.org/project/estuary-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "brimley",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "A lightweight, file-based function execution engine.",
   "author": "Bill Spratley",
   "license": null,
   "home_page": null,
-  "download_filename": "brimley-0.9.0.tar.gz",
-  "download_time": "2026-04-01T22:47:41.249031",
+  "download_filename": "brimley-0.9.1.tar.gz",
+  "download_time": "2026-04-16T00:06:02.289158",
   "package_url": "https://pypi.org/project/brimley/"
 }

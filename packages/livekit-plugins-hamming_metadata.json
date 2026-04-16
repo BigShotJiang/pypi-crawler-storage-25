@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-hamming",
+  "version": "1.5.3",
+  "summary": "Monitoring plugin for exporting LiveKit AgentSession call review payloads to Hamming",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_hamming-1.5.3.tar.gz",
+  "download_time": "2026-04-16T00:06:45.066719",
+  "package_url": "https://pypi.org/project/livekit-plugins-hamming/"
+}

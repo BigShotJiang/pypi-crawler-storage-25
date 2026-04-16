@@ -1,11 +1,11 @@
 {
   "name": "cc-statusline",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "summary": "Powerline-style statusline for ClaudeCode",
   "author": "j",
   "license": null,
   "home_page": null,
-  "download_filename": "cc_statusline-0.0.1.tar.gz",
-  "download_time": "2026-04-12T18:05:25.126185",
+  "download_filename": "cc_statusline-0.0.4.tar.gz",
+  "download_time": "2026-04-16T00:06:11.132971",
   "package_url": "https://pypi.org/project/cc-statusline/"
 }
