@@ -1,0 +1,11 @@
+{
+  "name": "omero-browser-qt",
+  "version": "0.2.0",
+  "summary": "Reusable PyQt6 dialog for browsing and retrieving images from OMERO via ICE",
+  "author": "Ron Hoebe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "omero_browser_qt-0.2.0.tar.gz",
+  "download_time": "2026-04-16T14:18:41.622430",
+  "package_url": "https://pypi.org/project/omero-browser-qt/"
+}

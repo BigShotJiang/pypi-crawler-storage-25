@@ -1,0 +1,11 @@
+{
+  "name": "clt-requirements",
+  "version": "2.3",
+  "summary": "Helper module for Cloud Language Tools, additional dependencies",
+  "author": "Luc",
+  "license": "GPL",
+  "home_page": "https://github.com/Vocab-Apps/cloud-language-tools-core",
+  "download_filename": "clt_requirements-2.3.tar.gz",
+  "download_time": "2026-04-16T14:18:56.539235",
+  "package_url": "https://pypi.org/project/clt-requirements/"
+}

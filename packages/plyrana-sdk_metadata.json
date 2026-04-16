@@ -1,0 +1,11 @@
+{
+  "name": "plyrana-sdk",
+  "version": "0.1.0",
+  "summary": "Plyrana REST API Client — Python SDK auto-generated from OpenAPI spec. Connect to any self-hosted Plyrana instance.",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "plyrana_sdk-0.1.0.tar.gz",
+  "download_time": "2026-04-16T14:18:39.033648",
+  "package_url": "https://pypi.org/project/plyrana-sdk/"
+}

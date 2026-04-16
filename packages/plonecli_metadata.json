@@ -1,0 +1,11 @@
+{
+  "name": "plonecli",
+  "version": "3.0",
+  "summary": "A Plone CLI for creating Plone packages",
+  "author": "Maik Derstappen",
+  "license": "BSD License",
+  "home_page": "https://github.com/plone/plonecli",
+  "download_filename": "plonecli-3.0-py2.py3-none-any.whl",
+  "download_time": "2026-04-16T14:18:30.284809",
+  "package_url": "https://pypi.org/project/plonecli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mlx-ash-kv",
+  "version": "8.3.1",
+  "summary": "Asynchronous Self-Healing KV Cache for Silicon-Native LLMs by GDI Nexus",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mlx_ash_kv-8.3.1.tar.gz",
+  "download_time": "2026-04-16T14:19:12.598549",
+  "package_url": "https://pypi.org/project/mlx-ash-kv/"
+}

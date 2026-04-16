@@ -1,11 +1,11 @@
 {
   "name": "pybaseballstats",
-  "version": "0.5.3",
+  "version": "0.6.0",
   "summary": "A Python package for scraping baseball data.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pybaseballstats-0.5.3.tar.gz",
-  "download_time": "2026-04-12T18:05:48.268855",
+  "download_filename": "pybaseballstats-0.6.0.tar.gz",
+  "download_time": "2026-04-16T14:19:14.150374",
   "package_url": "https://pypi.org/project/pybaseballstats/"
 }

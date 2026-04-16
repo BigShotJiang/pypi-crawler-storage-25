@@ -1,0 +1,11 @@
+{
+  "name": "pysap2000",
+  "version": "2.0.17",
+  "summary": "Python wrapper for SAP2000 via comtypes COM automation",
+  "author": "JIANGYAO-AISA",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pysap2000-2.0.17.tar.gz",
+  "download_time": "2026-04-16T14:18:46.751277",
+  "package_url": "https://pypi.org/project/pysap2000/"
+}

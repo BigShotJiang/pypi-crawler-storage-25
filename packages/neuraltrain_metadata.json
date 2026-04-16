@@ -1,0 +1,11 @@
+{
+  "name": "neuraltrain",
+  "version": "0.0.3",
+  "summary": "A lightweight deep learning library for learning on M/EEG and other neuroimaging modalities.",
+  "author": "Meta FAIR",
+  "license": null,
+  "home_page": null,
+  "download_filename": "neuraltrain-0.0.3.tar.gz",
+  "download_time": "2026-04-16T14:19:10.548854",
+  "package_url": "https://pypi.org/project/neuraltrain/"
+}

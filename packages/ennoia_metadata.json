@@ -1,0 +1,11 @@
+{
+  "name": "ennoia",
+  "version": "0.2.1",
+  "summary": "Declarative Document Indexing (DDI) Schemas for RAG — LLM-powered pre-indexing and hybrid retrieval.",
+  "author": "Ennoia contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ennoia-0.2.1.tar.gz",
+  "download_time": "2026-04-16T14:19:03.767850",
+  "package_url": "https://pypi.org/project/ennoia/"
+}

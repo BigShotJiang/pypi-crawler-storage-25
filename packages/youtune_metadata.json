@@ -1,11 +1,11 @@
 {
   "name": "youtune",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "The smartest YouTube → MP3 downloader. Auto-tags with MusicBrainz, embeds album art, fetches lyrics, upgrades quality via Soulseek.",
   "author": "Jack Schofield",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "youtune-1.0.0.tar.gz",
-  "download_time": "2026-04-15T15:53:52.162401",
+  "download_filename": "youtune-1.2.0.tar.gz",
+  "download_time": "2026-04-16T14:18:55.510191",
   "package_url": "https://pypi.org/project/youtune/"
 }

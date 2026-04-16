@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-deprecated-column",
+  "version": "0.1.0",
+  "summary": "Utility to mark SQLAlchemy ORM columns as deprecated to allow removing them in a backwards compatible manner.",
+  "author": "Jakub Bacic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlalchemy_deprecated_column-0.1.0.tar.gz",
+  "download_time": "2026-04-16T14:18:45.732764",
+  "package_url": "https://pypi.org/project/sqlalchemy-deprecated-column/"
+}
