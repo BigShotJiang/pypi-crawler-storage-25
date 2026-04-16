@@ -1,11 +1,11 @@
 {
   "name": "passagemath-singular",
-  "version": "10.8.2",
+  "version": "10.8.3",
   "summary": "passagemath: Computer algebra, algebraic geometry, singularity theory with Singular",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_singular-10.8.2.tar.gz",
-  "download_time": "2026-03-28T17:05:09.278408",
+  "download_filename": "passagemath_singular-10.8.3.tar.gz",
+  "download_time": "2026-04-16T17:24:45.304448",
   "package_url": "https://pypi.org/project/passagemath-singular/"
 }

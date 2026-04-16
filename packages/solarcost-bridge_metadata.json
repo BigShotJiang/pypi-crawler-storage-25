@@ -1,0 +1,11 @@
+{
+  "name": "solarcost-bridge",
+  "version": "0.1.1",
+  "summary": "SolarCost bridge para capturar Totales de Solar Assistant y publicarlos por HTTP.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "solarcost_bridge-0.1.1.tar.gz",
+  "download_time": "2026-04-16T17:24:39.845419",
+  "package_url": "https://pypi.org/project/solarcost-bridge/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vivarium",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "summary": "vivarium is a microsimulation framework built on top of the standard scientific python stack.",
   "author": "The vivarium developers",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/ihmeuw/vivarium",
-  "download_filename": "vivarium-4.0.2.tar.gz",
-  "download_time": "2026-04-15T22:33:12.299531",
+  "download_filename": "vivarium-4.0.3.tar.gz",
+  "download_time": "2026-04-16T17:24:36.241410",
   "package_url": "https://pypi.org/project/vivarium/"
 }

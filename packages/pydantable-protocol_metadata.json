@@ -1,11 +1,11 @@
 {
   "name": "pydantable-protocol",
-  "version": "1.14.1",
+  "version": "1.18.0",
   "summary": "Execution engine protocols for pydantable (zero runtime dependencies).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pydantable_protocol-1.14.1.tar.gz",
-  "download_time": "2026-04-03T23:08:11.068125",
+  "download_filename": "pydantable_protocol-1.18.0.tar.gz",
+  "download_time": "2026-04-16T17:24:02.848068",
   "package_url": "https://pypi.org/project/pydantable-protocol/"
 }

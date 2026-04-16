@@ -1,0 +1,11 @@
+{
+  "name": "brickflows",
+  "version": "1.7.1",
+  "summary": "Deploy scalable workflows to databricks using python",
+  "author": "Ashok Singamaneni, Sriharsha Tikkireddy",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "brickflows-1.7.1.tar.gz",
+  "download_time": "2026-04-16T17:24:25.763459",
+  "package_url": "https://pypi.org/project/brickflows/"
+}

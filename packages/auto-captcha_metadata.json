@@ -1,0 +1,11 @@
+{
+  "name": "auto-captcha",
+  "version": "0.1.1",
+  "summary": "Universal captcha solver for Playwright automation — hCaptcha + reCAPTCHA v2 via NopeCHA API",
+  "author": "Suhaas Chitturi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auto_captcha-0.1.1.tar.gz",
+  "download_time": "2026-04-16T17:24:25.248954",
+  "package_url": "https://pypi.org/project/auto-captcha/"
+}

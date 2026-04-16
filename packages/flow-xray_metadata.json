@@ -1,0 +1,11 @@
+{
+  "name": "flow-xray",
+  "version": "0.2.1",
+  "summary": "Execution graph debugger — see what your agent / pipeline actually does.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flow_xray-0.2.1.tar.gz",
+  "download_time": "2026-04-16T17:24:38.819684",
+  "package_url": "https://pypi.org/project/flow-xray/"
+}

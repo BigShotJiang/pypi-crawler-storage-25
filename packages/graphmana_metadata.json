@@ -1,11 +1,11 @@
 {
   "name": "graphmana",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Graph-native data management platform for population genomics",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "graphmana-1.0.0.tar.gz",
-  "download_time": "2026-04-08T14:06:36.426390",
+  "download_filename": "graphmana-1.1.0.tar.gz",
+  "download_time": "2026-04-16T17:24:34.122011",
   "package_url": "https://pypi.org/project/graphmana/"
 }

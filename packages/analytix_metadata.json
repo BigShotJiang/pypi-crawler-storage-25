@@ -1,0 +1,11 @@
+{
+  "name": "analytix",
+  "version": "5.5.1",
+  "summary": "A simple yet powerful SDK for the YouTube Analytics API.",
+  "author": "Ethan Henderson",
+  "license": "BSD 3-Clause 'New' or 'Revised' License",
+  "home_page": "https://github.com/parafoxia/analytix",
+  "download_filename": "analytix-5.5.1.tar.gz",
+  "download_time": "2026-04-16T17:24:14.405600",
+  "package_url": "https://pypi.org/project/analytix/"
+}

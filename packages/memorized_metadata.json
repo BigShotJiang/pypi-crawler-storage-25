@@ -1,11 +1,11 @@
 {
   "name": "memorized",
-  "version": "0.2.3",
+  "version": "0.2.10",
   "summary": "Shared append-only chat log for collaborating multi-agent systems",
   "author": "memorized contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memorized-0.2.3.tar.gz",
-  "download_time": "2026-04-14T20:09:56.476377",
+  "download_filename": "memorized-0.2.10.tar.gz",
+  "download_time": "2026-04-16T17:24:49.027949",
   "package_url": "https://pypi.org/project/memorized/"
 }

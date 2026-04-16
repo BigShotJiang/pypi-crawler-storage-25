@@ -1,0 +1,11 @@
+{
+  "name": "agent-elves",
+  "version": "0.1.2",
+  "summary": "ASCII art office animation plugin for Claude Code — watch your AI agents work in a tmux pane",
+  "author": "Nickdevlab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_elves-0.1.2.tar.gz",
+  "download_time": "2026-04-16T17:24:24.220224",
+  "package_url": "https://pypi.org/project/agent-elves/"
+}

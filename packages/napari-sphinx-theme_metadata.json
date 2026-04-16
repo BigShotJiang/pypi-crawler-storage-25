@@ -1,11 +1,11 @@
 {
   "name": "napari-sphinx-theme",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Bootstrap-based Sphinx theme from the napari community",
   "author": "napari team",
   "license": null,
   "home_page": null,
-  "download_filename": "napari_sphinx_theme-1.1.0.tar.gz",
-  "download_time": "2026-04-09T23:13:59.694304",
+  "download_filename": "napari_sphinx_theme-1.1.1.tar.gz",
+  "download_time": "2026-04-16T17:24:39.331655",
   "package_url": "https://pypi.org/project/napari-sphinx-theme/"
 }
