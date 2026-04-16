@@ -1,11 +1,11 @@
 {
   "name": "ubdcc-mgmt",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "summary": "UBDCC Management Service — orchestrates the UNICORN DepthCache Cluster for Binance",
   "author": "Oliver Zehentleitner",
   "license": "MIT",
   "home_page": "https://github.com/oliver-zehentleitner/unicorn-binance-depth-cache-cluster",
-  "download_filename": "ubdcc_mgmt-0.2.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-  "download_time": "2026-04-13T16:17:02.896837",
+  "download_filename": "ubdcc_mgmt-0.5.0.tar.gz",
+  "download_time": "2026-04-16T16:02:57.460909",
   "package_url": "https://pypi.org/project/ubdcc-mgmt/"
 }

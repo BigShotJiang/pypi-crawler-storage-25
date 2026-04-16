@@ -1,0 +1,11 @@
+{
+  "name": "pyrcmip",
+  "version": "2.0.6",
+  "summary": "Tools for accessing RCMIP data",
+  "author": "Zeb Nicholls, Jared Lewis, Alejandro Romero Prieto",
+  "license": "3-Clause BSD License",
+  "home_page": "https://gitlab.com/rcmip/pyrcmip",
+  "download_filename": "pyrcmip-2.0.6.tar.gz",
+  "download_time": "2026-04-16T16:03:06.238626",
+  "package_url": "https://pypi.org/project/pyrcmip/"
+}

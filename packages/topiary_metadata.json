@@ -1,11 +1,11 @@
 {
   "name": "topiary",
-  "version": "5.0.1",
+  "version": "5.9.0",
   "summary": "Predict, filter, and rank MHC-presented peptides from any antigen source",
   "author": "Alex Rubinsteyn, Tavi Nathanson",
   "license": null,
   "home_page": null,
-  "download_filename": "topiary-5.0.1.tar.gz",
-  "download_time": "2026-04-12T21:22:09.288916",
+  "download_filename": "topiary-5.9.0.tar.gz",
+  "download_time": "2026-04-16T16:03:18.682188",
   "package_url": "https://pypi.org/project/topiary/"
 }

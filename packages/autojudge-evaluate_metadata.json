@@ -1,0 +1,11 @@
+{
+  "name": "autojudge-evaluate",
+  "version": "0.3.12",
+  "summary": "Evaluation tools for TREC AutoJudge: meta-evaluate, qrel-evaluate, leaderboard statistics",
+  "author": "TREC AutoJudge Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autojudge_evaluate-0.3.12.tar.gz",
+  "download_time": "2026-04-16T16:02:59.516970",
+  "package_url": "https://pypi.org/project/autojudge-evaluate/"
+}

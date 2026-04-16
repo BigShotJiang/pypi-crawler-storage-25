@@ -1,11 +1,11 @@
 {
   "name": "trip-planner-mcp",
-  "version": "2.2.2",
+  "version": "2.2.5",
   "summary": "여행 숙소, 항공편, 관광지 검색 + 구조화 활동 관리 MCP 서버 (20개 도구)",
   "author": "idean3885",
   "license": null,
   "home_page": null,
-  "download_filename": "trip_planner_mcp-2.2.2.tar.gz",
-  "download_time": "2026-04-16T06:05:59.735801",
+  "download_filename": "trip_planner_mcp-2.2.5.tar.gz",
+  "download_time": "2026-04-16T16:03:01.060659",
   "package_url": "https://pypi.org/project/trip-planner-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pyx2cscope",
-  "version": "0.6.2",
+  "version": "0.7.0",
   "summary": "python implementation of X2Cscope",
-  "author": "Yash Agarwal",
-  "license": "Proprietary",
-  "home_page": "https://x2cscope.github.io/",
-  "download_filename": "pyx2cscope-0.6.2.tar.gz",
-  "download_time": "2026-03-30T16:42:12.465467",
+  "author": "Yash Agarwal, Christoph Baumgartner, Mark Wendler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyx2cscope-0.7.0.tar.gz",
+  "download_time": "2026-04-16T16:02:40.347775",
   "package_url": "https://pypi.org/project/pyx2cscope/"
 }

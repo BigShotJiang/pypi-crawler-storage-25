@@ -1,0 +1,11 @@
+{
+  "name": "cc-tap",
+  "version": "0.1.0",
+  "summary": "MCP server that bridges Claude Desktop to Claude Code sessions",
+  "author": "Enrico Santagati",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cc_tap-0.1.0.tar.gz",
+  "download_time": "2026-04-16T16:03:00.547512",
+  "package_url": "https://pypi.org/project/cc-tap/"
+}

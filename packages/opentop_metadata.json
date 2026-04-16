@@ -1,11 +1,11 @@
 {
   "name": "opentop",
-  "version": "2.0.0",
+  "version": "2.2.0",
   "summary": "Trajectory OPtimizer based on OpenAP model",
   "author": null,
   "license": "GNU LGPL v3",
   "home_page": null,
-  "download_filename": "opentop-2.0.0.tar.gz",
-  "download_time": "2026-04-13T22:08:11.978766",
+  "download_filename": "opentop-2.2.0.tar.gz",
+  "download_time": "2026-04-16T16:03:15.555905",
   "package_url": "https://pypi.org/project/opentop/"
 }

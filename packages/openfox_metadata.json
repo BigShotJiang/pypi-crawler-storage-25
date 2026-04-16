@@ -1,0 +1,11 @@
+{
+  "name": "openfox",
+  "version": "2026.4.16.post5",
+  "summary": "Self-hosted personal AI assistant with Feishu integration, a built-in web console, and LiteLLM multi-model support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openfox-2026.4.16.post5-py3-none-any.whl",
+  "download_time": "2026-04-16T16:03:16.085099",
+  "package_url": "https://pypi.org/project/openfox/"
+}

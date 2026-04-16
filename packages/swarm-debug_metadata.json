@@ -1,11 +1,11 @@
 {
   "name": "swarm-debug",
-  "version": "0.1.22",
+  "version": "0.1.39",
   "summary": "A colorized, toggleable debug logger with a web GUI",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "swarm_debug-0.1.22.tar.gz",
-  "download_time": "2026-04-16T12:15:16.834405",
+  "download_filename": "swarm_debug-0.1.39.tar.gz",
+  "download_time": "2026-04-16T16:02:36.094623",
   "package_url": "https://pypi.org/project/swarm-debug/"
 }

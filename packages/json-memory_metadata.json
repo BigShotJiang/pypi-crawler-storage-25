@@ -1,0 +1,11 @@
+{
+  "name": "json-memory",
+  "version": "0.1.3",
+  "summary": "Hierarchical associative memory for AI agents — compress, structure, and navigate agent memory like a human brain",
+  "author": "Alice",
+  "license": "MIT",
+  "home_page": "https://github.com/dioncx/json-memory",
+  "download_filename": "json_memory-0.1.3.tar.gz",
+  "download_time": "2026-04-16T16:02:46.092767",
+  "package_url": "https://pypi.org/project/json-memory/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-ntfy",
+  "version": "0.1.7",
+  "summary": "Cross-platform notification system for AI agents (Claude Code, Gemini CLI) with ntfy.sh support",
+  "author": "David Frazer <david.frazer336@gmail.com>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_ntfy-0.1.7.tar.gz",
+  "download_time": "2026-04-16T16:02:51.267700",
+  "package_url": "https://pypi.org/project/agent-ntfy/"
+}

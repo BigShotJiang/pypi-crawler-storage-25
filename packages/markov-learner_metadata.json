@@ -1,0 +1,11 @@
+{
+  "name": "markov-learner",
+  "version": "1.0.0",
+  "summary": "A simple Markov chain library that learns from URLs.",
+  "author": "Atsuki.Y",
+  "license": null,
+  "home_page": null,
+  "download_filename": "markov_learner-1.0.0.tar.gz",
+  "download_time": "2026-04-16T16:02:50.237782",
+  "package_url": "https://pypi.org/project/markov-learner/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "edfi-api-client",
+  "version": "0.4.0",
+  "summary": "Ed-Fi API client and tools",
+  "author": "Erik Joranlien, Jay Kaiser, Alex Chen",
+  "license": null,
+  "home_page": "https://github.com/edanalytics/edfi_api_client",
+  "download_filename": "edfi_api_client-0.4.0.tar.gz",
+  "download_time": "2026-04-16T16:03:03.654437",
+  "package_url": "https://pypi.org/project/edfi-api-client/"
+}

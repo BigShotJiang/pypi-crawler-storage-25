@@ -1,0 +1,11 @@
+{
+  "name": "plotstyle",
+  "version": "1.1.0",
+  "summary": "Matplotlib/seaborn style presets matching scientific journal requirements, with validation, export safety, and preview capabilities.",
+  "author": "Rahul Kaushal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plotstyle-1.1.0.tar.gz",
+  "download_time": "2026-04-16T16:02:45.580165",
+  "package_url": "https://pypi.org/project/plotstyle/"
+}

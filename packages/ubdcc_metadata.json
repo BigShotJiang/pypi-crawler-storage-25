@@ -1,0 +1,11 @@
+{
+  "name": "ubdcc",
+  "version": "0.5.0",
+  "summary": "UNICORN Binance DepthCache Cluster — cluster manager and meta-package",
+  "author": "Oliver Zehentleitner",
+  "license": "MIT",
+  "home_page": "https://github.com/oliver-zehentleitner/unicorn-binance-depth-cache-cluster",
+  "download_filename": "ubdcc-0.5.0.tar.gz",
+  "download_time": "2026-04-16T16:02:48.159854",
+  "package_url": "https://pypi.org/project/ubdcc/"
+}

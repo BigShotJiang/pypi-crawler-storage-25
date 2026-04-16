@@ -1,0 +1,11 @@
+{
+  "name": "ubdcc-restapi",
+  "version": "0.5.0",
+  "summary": "UBDCC REST API — public REST interface for the UNICORN DepthCache Cluster for Binance",
+  "author": "Oliver Zehentleitner",
+  "license": "MIT",
+  "home_page": "https://github.com/oliver-zehentleitner/unicorn-binance-depth-cache-cluster",
+  "download_filename": "ubdcc_restapi-0.5.0.tar.gz",
+  "download_time": "2026-04-16T16:02:55.896922",
+  "package_url": "https://pypi.org/project/ubdcc-restapi/"
+}
