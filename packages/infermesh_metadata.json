@@ -1,0 +1,11 @@
+{
+  "name": "infermesh",
+  "version": "0.2.0",
+  "summary": "Run large LLM batches from notebooks and scripts without rewriting concurrency or rate-limit glue.",
+  "author": "Franklin Ogidi",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "infermesh-0.2.0.tar.gz",
+  "download_time": "2026-04-16T19:55:15.402659",
+  "package_url": "https://pypi.org/project/infermesh/"
+}

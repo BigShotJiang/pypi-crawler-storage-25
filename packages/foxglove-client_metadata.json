@@ -1,0 +1,11 @@
+{
+  "name": "foxglove-client",
+  "version": "0.19.2",
+  "summary": "Client library for the Foxglove API.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/foxglove/foxglove-python",
+  "download_filename": "foxglove_client-0.19.2.tar.gz",
+  "download_time": "2026-04-16T19:55:21.601030",
+  "package_url": "https://pypi.org/project/foxglove-client/"
+}

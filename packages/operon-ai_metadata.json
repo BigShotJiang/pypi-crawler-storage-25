@@ -1,11 +1,11 @@
 {
   "name": "operon-ai",
-  "version": "0.33.0",
+  "version": "0.34.3",
   "summary": "Biomimetic wiring diagrams for robust agentic systems.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "operon_ai-0.33.0.tar.gz",
-  "download_time": "2026-04-13T14:52:36.090705",
+  "download_filename": "operon_ai-0.34.3.tar.gz",
+  "download_time": "2026-04-16T19:55:49.597907",
   "package_url": "https://pypi.org/project/operon-ai/"
 }

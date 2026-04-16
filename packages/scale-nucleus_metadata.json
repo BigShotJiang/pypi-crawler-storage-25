@@ -1,0 +1,11 @@
+{
+  "name": "scale-nucleus",
+  "version": "0.17.14",
+  "summary": "The official Python client library for Nucleus, the Data Platform for AI",
+  "author": "Scale AI Nucleus Team",
+  "license": "MIT",
+  "home_page": "https://scale.com/nucleus",
+  "download_filename": "scale_nucleus-0.17.14.tar.gz",
+  "download_time": "2026-04-16T19:55:02.802013",
+  "package_url": "https://pypi.org/project/scale-nucleus/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "futuresearch-mcp",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": "MCP server for futuresearch: a researcher for every row",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "futuresearch_mcp-0.8.3.tar.gz",
-  "download_time": "2026-04-06T12:04:10.223503",
+  "download_filename": "futuresearch_mcp-0.8.4.tar.gz",
+  "download_time": "2026-04-16T19:55:16.941046",
   "package_url": "https://pypi.org/project/futuresearch-mcp/"
 }

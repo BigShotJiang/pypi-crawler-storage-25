@@ -1,0 +1,11 @@
+{
+  "name": "overdrive-db",
+  "version": "1.4.0",
+  "summary": "OverDrive-DB — High-performance embeddable hybrid SQL+NoSQL document database. ACID-compliant with 6 storage engines (Disk, RAM, Vector, Time-Series, Graph, Streaming). Features password-based encryption, auto-table creation, transaction callbacks, watchdog monitoring, and RAM engine caching.",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "overdrive_db-1.4.0.tar.gz",
+  "download_time": "2026-04-16T19:55:19.000398",
+  "package_url": "https://pypi.org/project/overdrive-db/"
+}

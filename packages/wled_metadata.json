@@ -1,0 +1,11 @@
+{
+  "name": "wled",
+  "version": "0.22.0",
+  "summary": "Asynchronous Python client for WLED.",
+  "author": "Franck Nijhof",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wled-0.22.0.tar.gz",
+  "download_time": "2026-04-16T19:55:27.334222",
+  "package_url": "https://pypi.org/project/wled/"
+}

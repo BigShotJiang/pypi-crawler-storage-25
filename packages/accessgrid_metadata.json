@@ -1,0 +1,11 @@
+{
+  "name": "accessgrid",
+  "version": "0.4.0",
+  "summary": "Python SDK for the AccessGrid API",
+  "author": "Auston Bunsen",
+  "license": null,
+  "home_page": "https://github.com/access-grid/accessgrid-py",
+  "download_filename": "accessgrid-0.4.0.tar.gz",
+  "download_time": "2026-04-16T19:55:34.668659",
+  "package_url": "https://pypi.org/project/accessgrid/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mtr2mqtt",
+  "version": "0.6.5",
+  "summary": "MTR receiver readings to MQTT server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtr2mqtt-0.6.5.tar.gz",
+  "download_time": "2026-04-16T19:55:36.217066",
+  "package_url": "https://pypi.org/project/mtr2mqtt/"
+}

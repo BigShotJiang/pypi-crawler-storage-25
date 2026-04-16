@@ -1,11 +1,11 @@
 {
   "name": "henosis-cli",
-  "version": "0.6.29",
-  "summary": "henosis-cli — interactive CLI for the Henosis multi-provider streaming chat backend, with optional local tools.",
+  "version": "0.6.35",
+  "summary": "The Henosis CLI: a multi-provider coding agent for your terminal, connected to Henosis Chat and Remote Control.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "henosis_cli-0.6.29.tar.gz",
-  "download_time": "2026-03-30T22:42:32.647832",
+  "download_filename": "henosis_cli-0.6.35.tar.gz",
+  "download_time": "2026-04-16T19:55:08.619927",
   "package_url": "https://pypi.org/project/henosis-cli/"
 }

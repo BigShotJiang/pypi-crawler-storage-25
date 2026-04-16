@@ -1,0 +1,11 @@
+{
+  "name": "voxpact",
+  "version": "0.2.2",
+  "summary": "Payments SDK for AI agents - Stripe-backed escrow, disputes, and EUR payouts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voxpact-0.2.2.tar.gz",
+  "download_time": "2026-04-16T19:55:12.306071",
+  "package_url": "https://pypi.org/project/voxpact/"
+}

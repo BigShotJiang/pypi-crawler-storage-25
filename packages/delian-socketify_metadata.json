@@ -1,11 +1,11 @@
 {
   "name": "delian-socketify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Bringing WebSockets, Http/Https High Performance servers for PyPy3 and Python3",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "delian_socketify-0.1.0.tar.gz",
-  "download_time": "2026-04-16T18:47:59.125426",
+  "download_filename": "delian_socketify-0.1.1.tar.gz",
+  "download_time": "2026-04-16T19:55:26.295384",
   "package_url": "https://pypi.org/project/delian-socketify/"
 }
