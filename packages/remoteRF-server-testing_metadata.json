@@ -1,11 +1,11 @@
 {
   "name": "remoteRF-server-testing",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "summary": "RemoteRF server-side control package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "remoterf_server_testing-0.0.8.tar.gz",
-  "download_time": "2026-04-16T00:06:13.445899",
+  "download_filename": "remoterf_server_testing-0.0.10.tar.gz",
+  "download_time": "2026-04-16T03:52:10.177919",
   "package_url": "https://pypi.org/project/remoteRF-server-testing/"
 }

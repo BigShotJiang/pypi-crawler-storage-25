@@ -1,0 +1,11 @@
+{
+  "name": "datus-sqlalchemy",
+  "version": "0.1.5",
+  "summary": "SQLAlchemy base connector for Datus database adapters",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "datus_sqlalchemy-0.1.5.tar.gz",
+  "download_time": "2026-04-16T03:52:18.404480",
+  "package_url": "https://pypi.org/project/datus-sqlalchemy/"
+}

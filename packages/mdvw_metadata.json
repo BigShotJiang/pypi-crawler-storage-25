@@ -1,11 +1,11 @@
 {
   "name": "mdvw",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "Fast, portable, fully offline Markdown viewer/editor for Windows.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mdvw-0.4.0.tar.gz",
-  "download_time": "2026-04-15T15:54:11.722189",
+  "download_filename": "mdvw-0.5.1.tar.gz",
+  "download_time": "2026-04-16T03:52:40.149180",
   "package_url": "https://pypi.org/project/mdvw/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-oca-website",
+  "version": "18.0.1.0.0.1",
+  "summary": "OCA Website Theme",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/oca-custom",
+  "download_filename": "odoo_addon_oca_website-18.0.1.0.0.1-py3-none-any.whl",
+  "download_time": "2026-04-16T03:52:45.035915",
+  "package_url": "https://pypi.org/project/odoo-addon-oca-website/"
+}

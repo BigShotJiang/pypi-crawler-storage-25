@@ -1,0 +1,11 @@
+{
+  "name": "datus-trino",
+  "version": "0.1.1",
+  "summary": "Trino database adapter for Datus",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "datus_trino-0.1.1.tar.gz",
+  "download_time": "2026-04-16T03:52:17.333237",
+  "package_url": "https://pypi.org/project/datus-trino/"
+}

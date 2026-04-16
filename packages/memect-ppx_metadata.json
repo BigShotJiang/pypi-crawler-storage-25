@@ -1,0 +1,11 @@
+{
+  "name": "memect-ppx",
+  "version": "0.0.1",
+  "summary": "memect-ppx 是一个 PDF / 图片文档解析工具，将输入文件转换为结构化的 Markdown、JSON。支持本地模型（默认）和多种 LLM 后端（DeepSeek、PaddleOCR、GLM等），适用于高精度文档理解场景。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "memect_ppx-0.0.1.tar.gz",
+  "download_time": "2026-04-16T03:52:24.341842",
+  "package_url": "https://pypi.org/project/memect-ppx/"
+}

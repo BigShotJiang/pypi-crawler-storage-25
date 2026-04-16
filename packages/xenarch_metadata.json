@@ -1,11 +1,11 @@
 {
   "name": "xenarch",
-  "version": "0.1.0",
-  "summary": "Python SDK for Xenarch — payment middleware for AI agents and publishers",
+  "version": "0.1.2",
+  "summary": "Python SDK for Xenarch — x402 payment middleware for AI agents and publishers. FastAPI-native HTTP 402 pay-per-request with USDC micropayments on Base L2. Non-custodial, 0% fee. A pay-per-crawl alternative to Cloudflare.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xenarch-0.1.0.tar.gz",
-  "download_time": "2026-04-10T05:16:36.493300",
+  "download_filename": "xenarch-0.1.2.tar.gz",
+  "download_time": "2026-04-16T03:52:14.012633",
   "package_url": "https://pypi.org/project/xenarch/"
 }

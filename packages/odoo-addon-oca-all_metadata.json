@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-oca-all",
+  "version": "18.0.0.0.2.6",
+  "summary": "All oca modules dependencies",
+  "author": "Pierre Verkest <pierre@verkest.fr>, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/oca-custom",
+  "download_filename": "odoo_addon_oca_all-18.0.0.0.2.6-py3-none-any.whl",
+  "download_time": "2026-04-16T03:52:44.506604",
+  "package_url": "https://pypi.org/project/odoo-addon-oca-all/"
+}

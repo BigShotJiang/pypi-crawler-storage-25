@@ -1,11 +1,11 @@
 {
   "name": "task-recorder-cui",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "summary": "Minimal, no-friction CUI time tracker with weekly and monthly summaries",
-  "author": "Yumeno Yuuka",
+  "author": "Proletariat Yuuka",
   "license": null,
   "home_page": null,
-  "download_filename": "task_recorder_cui-1.0.0.tar.gz",
-  "download_time": "2026-04-14T20:10:09.737106",
+  "download_filename": "task_recorder_cui-1.1.2.tar.gz",
+  "download_time": "2026-04-16T03:52:51.892286",
   "package_url": "https://pypi.org/project/task-recorder-cui/"
 }

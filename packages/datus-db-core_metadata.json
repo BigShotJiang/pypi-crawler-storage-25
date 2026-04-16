@@ -1,0 +1,11 @@
+{
+  "name": "datus-db-core",
+  "version": "0.1.2",
+  "summary": "Core database abstractions for Datus adapters",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "datus_db_core-0.1.2.tar.gz",
+  "download_time": "2026-04-16T03:52:22.726232",
+  "package_url": "https://pypi.org/project/datus-db-core/"
+}

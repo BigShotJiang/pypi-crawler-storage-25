@@ -1,0 +1,11 @@
+{
+  "name": "datus-greenplum",
+  "version": "0.1.1rc1",
+  "summary": "Greenplum database adapter for Datus",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "datus_greenplum-0.1.1rc1.tar.gz",
+  "download_time": "2026-04-16T03:52:22.182520",
+  "package_url": "https://pypi.org/project/datus-greenplum/"
+}
