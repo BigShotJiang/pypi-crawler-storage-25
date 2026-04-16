@@ -1,11 +1,11 @@
 {
   "name": "cyscale",
-  "version": "0.1.11",
+  "version": "0.2.2",
   "summary": "Cython SCALE Codec Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cyscale-0.1.11-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2026-04-11T11:19:34.279600",
+  "download_filename": "cyscale-0.2.2.tar.gz",
+  "download_time": "2026-04-16T12:15:19.788612",
   "package_url": "https://pypi.org/project/cyscale/"
 }

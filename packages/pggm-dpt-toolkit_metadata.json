@@ -1,0 +1,11 @@
+{
+  "name": "pggm-dpt-toolkit",
+  "version": "1.0.1",
+  "summary": "Data Platform Toolkit (DPT) — SQL magic for Jupyter notebooks with Snowflake, and a DBT compile CLI.",
+  "author": "Bela Stamenkovits",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pggm_dpt_toolkit-1.0.1.tar.gz",
+  "download_time": "2026-04-16T12:14:42.259517",
+  "package_url": "https://pypi.org/project/pggm-dpt-toolkit/"
+}

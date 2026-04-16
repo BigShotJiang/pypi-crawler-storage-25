@@ -1,11 +1,11 @@
 {
   "name": "process-reporting",
-  "version": "1.0.2",
+  "version": "1.1.5",
   "summary": "BPMN reporting decorator for Azure Functions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "process_reporting-1.0.2.tar.gz",
-  "download_time": "2026-04-15T14:24:33.426235",
+  "download_filename": "process_reporting-1.1.5.tar.gz",
+  "download_time": "2026-04-16T12:14:55.328035",
   "package_url": "https://pypi.org/project/process-reporting/"
 }

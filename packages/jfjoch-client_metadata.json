@@ -1,11 +1,11 @@
 {
   "name": "jfjoch-client",
-  "version": "1.0.0rc134",
+  "version": "1.0.0rc135",
   "summary": "Jungfraujoch",
   "author": "Filip Leonarski (Paul Scherrer Institute)",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "jfjoch_client-1.0.0rc134.tar.gz",
-  "download_time": "2026-04-09T12:50:52.281349",
+  "download_filename": "jfjoch_client-1.0.0rc135.tar.gz",
+  "download_time": "2026-04-16T12:14:45.117811",
   "package_url": "https://pypi.org/project/jfjoch-client/"
 }

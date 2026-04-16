@@ -1,11 +1,11 @@
 {
   "name": "minimal-sqlite-browser",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "A Minimal SQLite Browser",
   "author": "Danilo Tardioli",
   "license": null,
   "home_page": "https://github.com/dantard/minimal-sqlite-browser",
-  "download_filename": "minimal_sqlite_browser-0.0.5.tar.gz",
-  "download_time": "2026-04-15T10:46:13.345912",
+  "download_filename": "minimal_sqlite_browser-0.0.7.tar.gz",
+  "download_time": "2026-04-16T12:14:51.068279",
   "package_url": "https://pypi.org/project/minimal-sqlite-browser/"
 }

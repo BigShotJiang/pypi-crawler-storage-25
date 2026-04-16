@@ -1,0 +1,11 @@
+{
+  "name": "rtms",
+  "version": "1.1.0",
+  "summary": "Python bindings for the Zoom RTMS C SDK - Real-Time Media Streaming",
+  "author": "Zoom Communications, Inc.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rtms-1.1.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-16T12:15:25.951578",
+  "package_url": "https://pypi.org/project/rtms/"
+}

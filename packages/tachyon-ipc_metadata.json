@@ -1,0 +1,11 @@
+{
+  "name": "tachyon-ipc",
+  "version": "0.3.1",
+  "summary": "Low-latency bare-metal IPC with SPSC ring buffer over POSIX shared memory. Install as 'tachyon-ipc', import as 'tachyon'.",
+  "author": "Riyane El Qoqui",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tachyon_ipc-0.3.1.tar.gz",
+  "download_time": "2026-04-16T12:15:20.364243",
+  "package_url": "https://pypi.org/project/tachyon-ipc/"
+}

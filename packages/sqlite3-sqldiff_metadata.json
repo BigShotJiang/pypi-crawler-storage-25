@@ -1,0 +1,11 @@
+{
+  "name": "sqlite3-sqldiff",
+  "version": "3.54.0",
+  "summary": "Python bindings for the SQLite sqldiff utility",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlite3_sqldiff-3.54.0-cp310-cp310-musllinux_1_2_x86_64.whl",
+  "download_time": "2026-04-16T12:15:15.567083",
+  "package_url": "https://pypi.org/project/sqlite3-sqldiff/"
+}
