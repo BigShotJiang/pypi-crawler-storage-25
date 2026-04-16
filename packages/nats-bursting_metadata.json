@@ -1,0 +1,11 @@
+{
+  "name": "nats-bursting",
+  "version": "0.1.0",
+  "summary": "Cloud bursting for AI workloads over a NATS bus — Python client + IPython %%burst magic",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nats_bursting-0.1.0.tar.gz",
+  "download_time": "2026-04-16T23:15:03.705139",
+  "package_url": "https://pypi.org/project/nats-bursting/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agent-passport-system",
-  "version": "0.11.0",
+  "version": "0.14.0",
   "summary": "Python SDK for the Agent Passport System — identity, delegation, governance, data source registration, training attribution, settlement. 8 core layers + data modules.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_passport_system-0.11.0.tar.gz",
-  "download_time": "2026-04-11T05:02:25.882515",
+  "download_filename": "agent_passport_system-0.14.0.tar.gz",
+  "download_time": "2026-04-16T23:15:15.566707",
   "package_url": "https://pypi.org/project/agent-passport-system/"
 }

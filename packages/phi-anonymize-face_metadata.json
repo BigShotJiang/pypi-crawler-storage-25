@@ -1,0 +1,11 @@
+{
+  "name": "phi-anonymize-face",
+  "version": "0.2.1",
+  "summary": "HIPAA-compliant face de-identification for medical images",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phi_anonymize_face-0.2.1.tar.gz",
+  "download_time": "2026-04-16T23:15:00.076803",
+  "package_url": "https://pypi.org/project/phi-anonymize-face/"
+}

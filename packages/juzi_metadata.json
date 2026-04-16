@@ -1,11 +1,11 @@
 {
   "name": "juzi",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Detecting and analyzing recurrent gene programs in single-cell data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "juzi-0.3.1.tar.gz",
-  "download_time": "2026-04-16T16:02:38.766665",
+  "download_filename": "juzi-0.3.3.tar.gz",
+  "download_time": "2026-04-16T23:15:17.105082",
   "package_url": "https://pypi.org/project/juzi/"
 }

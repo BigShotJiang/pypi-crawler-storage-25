@@ -1,11 +1,11 @@
 {
   "name": "consumo",
-  "version": "0.10.0",
+  "version": "0.12.0",
   "summary": "Content consumption analyzer CLI",
   "author": "Gabriel Santos de Souza",
   "license": null,
   "home_page": null,
-  "download_filename": "consumo-0.10.0.tar.gz",
-  "download_time": "2026-04-09T23:57:37.120236",
+  "download_filename": "consumo-0.12.0.tar.gz",
+  "download_time": "2026-04-16T23:15:03.192440",
   "package_url": "https://pypi.org/project/consumo/"
 }

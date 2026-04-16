@@ -1,11 +1,11 @@
 {
   "name": "backend.ai-kernel",
-  "version": "26.4.2",
+  "version": "26.4.3",
   "summary": "Backend.AI Kernel Runner",
   "author": "Lablup Inc. and contributors",
   "license": "LGPLv3",
   "home_page": "https://github.com/lablup/backend.ai",
-  "download_filename": "backend_ai_kernel-26.4.2.tar.gz",
-  "download_time": "2026-04-14T18:56:50.354607",
+  "download_filename": "backend_ai_kernel-26.4.3-py3-none-any.whl",
+  "download_time": "2026-04-16T23:14:39.838585",
   "package_url": "https://pypi.org/project/backend.ai-kernel/"
 }

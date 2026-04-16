@@ -1,0 +1,11 @@
+{
+  "name": "document-adapter",
+  "version": "0.8.1",
+  "summary": "LLM-friendly document template editing (DOCX/PPTX/HWPX) with MCP server and Claude API tool-use support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "document_adapter-0.8.1.tar.gz",
+  "download_time": "2026-04-16T23:15:11.463898",
+  "package_url": "https://pypi.org/project/document-adapter/"
+}

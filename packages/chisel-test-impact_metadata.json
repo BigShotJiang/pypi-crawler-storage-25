@@ -1,11 +1,11 @@
 {
   "name": "chisel-test-impact",
-  "version": "0.8.3",
+  "version": "0.9.1",
   "summary": "Test impact analysis and code intelligence for LLM agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chisel_test_impact-0.8.3.tar.gz",
-  "download_time": "2026-04-14T12:54:19.099878",
+  "download_filename": "chisel_test_impact-0.9.1.tar.gz",
+  "download_time": "2026-04-16T23:15:09.922065",
   "package_url": "https://pypi.org/project/chisel-test-impact/"
 }
