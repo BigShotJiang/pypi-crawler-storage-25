@@ -1,0 +1,11 @@
+{
+  "name": "csv-inspector-tool",
+  "version": "0.1.0",
+  "summary": "Read CSV files and report title, headers, and per-column row counts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "csv_inspector_tool-0.1.0.tar.gz",
+  "download_time": "2026-04-16T09:54:36.188929",
+  "package_url": "https://pypi.org/project/csv-inspector-tool/"
+}

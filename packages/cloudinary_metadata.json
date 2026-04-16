@@ -1,0 +1,11 @@
+{
+  "name": "cloudinary",
+  "version": "1.44.2",
+  "summary": "Python and Django SDK for Cloudinary",
+  "author": null,
+  "license": "Released under the MIT license.  Contains MIT licensed code from https://bitbucket.org/chrisatlee/poster   ",
+  "home_page": null,
+  "download_filename": "cloudinary-1.44.2.tar.gz",
+  "download_time": "2026-04-16T09:54:17.623890",
+  "package_url": "https://pypi.org/project/cloudinary/"
+}

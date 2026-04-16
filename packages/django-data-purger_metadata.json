@@ -1,0 +1,11 @@
+{
+  "name": "django-data-purger",
+  "version": "0.2.10",
+  "summary": "Periodically remove data from your Django app.",
+  "author": "Eirik Martiniussen Sylliaas",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_data_purger-0.2.10.tar.gz",
+  "download_time": "2026-04-16T09:54:04.491701",
+  "package_url": "https://pypi.org/project/django-data-purger/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yadisk",
+  "version": "3.4.1",
+  "summary": "Библиотека-клиент REST API Яндекс.Диска / Yandex.Disk REST API client library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yadisk-3.4.1.tar.gz",
+  "download_time": "2026-04-16T09:54:37.213307",
+  "package_url": "https://pypi.org/project/yadisk/"
+}

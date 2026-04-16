@@ -1,0 +1,11 @@
+{
+  "name": "zenoh-grpc",
+  "version": "1.7.2.dev2026041624",
+  "summary": "Python bindings for zenoh-plugin-grpc",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zenoh_grpc-1.7.2.dev2026041624.tar.gz",
+  "download_time": "2026-04-16T09:54:27.385593",
+  "package_url": "https://pypi.org/project/zenoh-grpc/"
+}

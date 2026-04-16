@@ -1,11 +1,11 @@
 {
   "name": "deisa-ray",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "In Situ Analytics with Ray backend",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deisa_ray-0.1.1.tar.gz",
-  "download_time": "2026-04-14T09:11:37.486688",
+  "download_filename": "deisa_ray-0.1.2.tar.gz",
+  "download_time": "2026-04-16T09:54:28.930884",
   "package_url": "https://pypi.org/project/deisa-ray/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vantage-x",
+  "version": "1.0.0",
+  "summary": "VANTAGE X — Static code analysis pipeline. METEOR → NOVA → ECLIPSE → PULSAR → AURORA. Returns APPROVED/REJECTED verdict with scored breakdown.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vantage_x-1.0.0.tar.gz",
+  "download_time": "2026-04-16T09:54:01.358897",
+  "package_url": "https://pypi.org/project/vantage-x/"
+}

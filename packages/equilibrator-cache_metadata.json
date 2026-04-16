@@ -1,0 +1,11 @@
+{
+  "name": "equilibrator-cache",
+  "version": "0.7.0",
+  "summary": "Cache application for compounds, reactions, and enzymes",
+  "author": "Elad Noor, Moritz E. Beber",
+  "license": null,
+  "home_page": null,
+  "download_filename": "equilibrator_cache-0.7.0.tar.gz",
+  "download_time": "2026-04-16T09:54:05.657737",
+  "package_url": "https://pypi.org/project/equilibrator-cache/"
+}

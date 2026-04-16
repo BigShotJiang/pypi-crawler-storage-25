@@ -1,0 +1,11 @@
+{
+  "name": "essdiffraction",
+  "version": "26.4.1",
+  "summary": "Diffraction data reduction for the European Spallation Source",
+  "author": "Scipp contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "essdiffraction-26.4.1.tar.gz",
+  "download_time": "2026-04-16T09:54:25.337328",
+  "package_url": "https://pypi.org/project/essdiffraction/"
+}

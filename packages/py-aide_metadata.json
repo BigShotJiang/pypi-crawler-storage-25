@@ -1,11 +1,11 @@
 {
   "name": "py-aide",
-  "version": "0.12.0",
+  "version": "0.12.3",
   "summary": "Modern Python 3.11+ Framework: Flask/FastAPI orchestration, and strict runtime enforcement.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py_aide-0.12.0.tar.gz",
-  "download_time": "2026-04-15T11:45:39.333831",
+  "download_filename": "py_aide-0.12.3.tar.gz",
+  "download_time": "2026-04-16T09:54:19.696389",
   "package_url": "https://pypi.org/project/py-aide/"
 }
