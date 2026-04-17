@@ -1,11 +1,11 @@
 {
   "name": "xwschema",
-  "version": "0.4.0.12",
+  "version": "0.4.0.18",
   "summary": "Convenience wrapper for exonware-xwschema - provides 'import xwschema' alias",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "xwschema-0.4.0.12.tar.gz",
-  "download_time": "2026-04-12T21:22:19.617694",
+  "download_filename": "xwschema-0.4.0.18.tar.gz",
+  "download_time": "2026-04-17T23:07:13.679840",
   "package_url": "https://pypi.org/project/xwschema/"
 }

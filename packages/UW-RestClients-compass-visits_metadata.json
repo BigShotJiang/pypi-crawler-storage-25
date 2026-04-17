@@ -1,0 +1,11 @@
+{
+  "name": "UW-RestClients-compass-visits",
+  "version": "0.2",
+  "summary": "A library for connecting to Compass visits service at the University of Washington",
+  "author": "UW-IT Student & Educational Technology Services",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/uw-it-aca/uw-restclients-compass-visits",
+  "download_filename": "uw_restclients_compass_visits-0.2.tar.gz",
+  "download_time": "2026-04-17T23:07:24.551117",
+  "package_url": "https://pypi.org/project/UW-RestClients-compass-visits/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llm-lens-web",
+  "version": "0.2.4",
+  "summary": "Local web UI for browsing and managing LLM CLI conversation history (currently: Claude Code).",
+  "author": "janet",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_lens_web-0.2.4.tar.gz",
+  "download_time": "2026-04-17T23:07:27.625758",
+  "package_url": "https://pypi.org/project/llm-lens-web/"
+}

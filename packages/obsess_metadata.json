@@ -1,0 +1,11 @@
+{
+  "name": "obsess",
+  "version": "0.1.0",
+  "summary": "A memory system for LLM multi-agent pipelines. Relationship-shaped memory topology across per-agent minds.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "obsess-0.1.0.tar.gz",
+  "download_time": "2026-04-17T23:07:34.849347",
+  "package_url": "https://pypi.org/project/obsess/"
+}

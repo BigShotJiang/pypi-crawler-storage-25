@@ -1,11 +1,11 @@
 {
   "name": "dragonfly-grasshopper",
-  "version": "1.69.3",
+  "version": "1.69.4",
   "summary": "Dragonfly plugin for Grasshopper.",
   "author": "Ladybug Tools",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/ladybug-tools/dragonfly-grasshopper",
-  "download_filename": "dragonfly_grasshopper-1.69.3.tar.gz",
-  "download_time": "2026-04-17T17:15:57.571441",
+  "download_filename": "dragonfly_grasshopper-1.69.4.tar.gz",
+  "download_time": "2026-04-17T23:07:19.377979",
   "package_url": "https://pypi.org/project/dragonfly-grasshopper/"
 }

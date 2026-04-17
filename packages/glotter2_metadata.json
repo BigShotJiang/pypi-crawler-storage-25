@@ -1,0 +1,11 @@
+{
+  "name": "glotter2",
+  "version": "0.16.0",
+  "summary": "An execution library for scripts written in any language. This is a fork of https://github.com/auroq/glotter",
+  "author": "auroq, rzuckerm",
+  "license": "LICENSE.txt",
+  "home_page": null,
+  "download_filename": "glotter2-0.16.0.tar.gz",
+  "download_time": "2026-04-17T23:07:40.580914",
+  "package_url": "https://pypi.org/project/glotter2/"
+}

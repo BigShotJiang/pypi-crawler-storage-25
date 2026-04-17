@@ -1,0 +1,11 @@
+{
+  "name": "cooperbench",
+  "version": "0.0.9",
+  "summary": "Multi-agent coordination benchmark for collaborative code generation",
+  "author": "Arpandeep Khatua, Hao Zhu, Peter Tran, Arya Prabhudesai, Frederic Sadrieh, Johann K. Lieberwirth, Xinkai Yu, Yicheng Fu, Michael J. Ryan, Jiaxin Pei, Diyi Yang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cooperbench-0.0.9.tar.gz",
+  "download_time": "2026-04-17T23:07:18.342350",
+  "package_url": "https://pypi.org/project/cooperbench/"
+}

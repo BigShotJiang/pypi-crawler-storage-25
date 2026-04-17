@@ -1,11 +1,11 @@
 {
   "name": "yarutsk",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A YAML round-trip library that preserves comments and insertion order",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yarutsk-0.5.0.tar.gz",
-  "download_time": "2026-04-17T22:07:36.713670",
+  "download_filename": "yarutsk-0.5.1.tar.gz",
+  "download_time": "2026-04-17T23:07:45.219454",
   "package_url": "https://pypi.org/project/yarutsk/"
 }
