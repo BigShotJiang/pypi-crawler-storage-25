@@ -1,0 +1,11 @@
+{
+  "name": "keord",
+  "version": "0.1.3.post1",
+  "summary": "A tiny educational Discord bot framework without discord.py/disnake",
+  "author": "keord contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "keord-0.1.3.post1.tar.gz",
+  "download_time": "2026-04-17T09:01:04.361799",
+  "package_url": "https://pypi.org/project/keord/"
+}

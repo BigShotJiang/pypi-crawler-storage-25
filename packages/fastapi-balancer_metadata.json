@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-balancer",
+  "version": "0.1.0",
+  "summary": "Auto throughput probing and admission control for FastAPI endpoints",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_balancer-0.1.0.tar.gz",
+  "download_time": "2026-04-17T09:00:33.580654",
+  "package_url": "https://pypi.org/project/fastapi-balancer/"
+}

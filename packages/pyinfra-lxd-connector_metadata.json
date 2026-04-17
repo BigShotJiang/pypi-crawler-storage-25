@@ -1,0 +1,11 @@
+{
+  "name": "pyinfra-lxd-connector",
+  "version": "0.1.2",
+  "summary": "The @lxd connector allows you to run commands on LXD containers on a remote machine (via SSH).",
+  "author": "Spirkop",
+  "license": "MIT",
+  "home_page": "https://codeberg.org/spirkop/pyinfra-lxd-connector",
+  "download_filename": "pyinfra_lxd_connector-0.1.2.tar.gz",
+  "download_time": "2026-04-17T09:00:46.501835",
+  "package_url": "https://pypi.org/project/pyinfra-lxd-connector/"
+}

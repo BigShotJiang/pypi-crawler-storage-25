@@ -1,0 +1,11 @@
+{
+  "name": "shieldpi-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for ShieldPi Watchtower — query 27,000+ LLM attack techniques, run scans, fetch breach forensics from any MCP-compatible client (Claude Desktop, Claude Code, Cursor).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shieldpi_mcp-0.1.1.tar.gz",
+  "download_time": "2026-04-17T09:00:42.478380",
+  "package_url": "https://pypi.org/project/shieldpi-mcp/"
+}

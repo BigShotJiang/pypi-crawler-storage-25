@@ -1,0 +1,11 @@
+{
+  "name": "mcp-airflow-api",
+  "version": "3.6.3",
+  "summary": "Model Context Protocol (MCP) server for Apache Airflow API integration. Provides comprehensive tools for managing Airflow clusters including service operations, configuration management, status monitoring, and request tracking.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_airflow_api-3.6.3.tar.gz",
+  "download_time": "2026-04-17T09:01:22.781808",
+  "package_url": "https://pypi.org/project/mcp-airflow-api/"
+}

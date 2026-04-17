@@ -1,0 +1,11 @@
+{
+  "name": "sifts",
+  "version": "1.3.1",
+  "summary": "Simple full-text search library with SQL backend",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sifts-1.3.1.tar.gz",
+  "download_time": "2026-04-17T09:01:04.933597",
+  "package_url": "https://pypi.org/project/sifts/"
+}

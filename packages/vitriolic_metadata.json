@@ -1,11 +1,11 @@
 {
   "name": "vitriolic",
-  "version": "4.9.1",
+  "version": "4.12.1",
   "summary": "A suite of packages for the Django framework to provide integrated Content Management and Sports Administration functionality for sporting associations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vitriolic-4.9.1.tar.gz",
-  "download_time": "2026-03-30T07:02:57.935574",
+  "download_filename": "vitriolic-4.12.1.tar.gz",
+  "download_time": "2026-04-17T09:01:03.213002",
   "package_url": "https://pypi.org/project/vitriolic/"
 }

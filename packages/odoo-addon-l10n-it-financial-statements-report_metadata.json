@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-it-financial-statements-report",
+  "version": "18.0.1.1.0",
+  "summary": "Rendicontazione .pdf e .xls per stato patrimoniale e conto economico a sezioni contrapposte",
+  "author": "Odoo Community Association (OCA), Openforce",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-italy",
+  "download_filename": "odoo_addon_l10n_it_financial_statements_report-18.0.1.1.0-py3-none-any.whl",
+  "download_time": "2026-04-17T09:01:26.612254",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-it-financial-statements-report/"
+}

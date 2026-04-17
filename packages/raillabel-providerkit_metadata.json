@@ -1,0 +1,11 @@
+{
+  "name": "raillabel-providerkit",
+  "version": "1.4.2",
+  "summary": "A devkit for working with recorded and annotated train ride data from Deutsche Bahn.",
+  "author": "DB InfraGO AG",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "raillabel_providerkit-1.4.2.tar.gz",
+  "download_time": "2026-04-17T09:01:27.696554",
+  "package_url": "https://pypi.org/project/raillabel-providerkit/"
+}

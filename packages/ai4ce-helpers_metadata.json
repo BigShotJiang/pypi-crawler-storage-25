@@ -1,0 +1,11 @@
+{
+  "name": "ai4ce-helpers",
+  "version": "0.20.0",
+  "summary": "Functions to help interact with the AI4CE backend",
+  "author": "Alexander Salge",
+  "license": "LICENSE",
+  "home_page": "https://gitlab.com/ai4ce/public-info",
+  "download_filename": "ai4ce_helpers-0.20.0.tar.gz",
+  "download_time": "2026-04-17T09:00:37.554409",
+  "package_url": "https://pypi.org/project/ai4ce-helpers/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tif1",
+  "version": "0.2.0",
+  "summary": "A faster alternative to fastf1 with the same bindings. Access Formula 1 timing data from TracingInsights Github cache (2018-current)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tif1-0.2.0.tar.gz",
+  "download_time": "2026-04-17T09:00:38.994798",
+  "package_url": "https://pypi.org/project/tif1/"
+}
