@@ -1,0 +1,11 @@
+{
+  "name": "iron-thread",
+  "version": "0.3.0",
+  "summary": "Open-source middleware that validates AI outputs before they reach your database.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "iron_thread-0.3.0.tar.gz",
+  "download_time": "2026-04-17T15:08:04.903154",
+  "package_url": "https://pypi.org/project/iron-thread/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sunwaee",
-  "version": "1.3.1",
+  "version": "1.4.0",
   "summary": "SUNWÆE gen — multi-provider LLM engine library.",
   "author": "David NAISSE",
   "license": null,
   "home_page": null,
-  "download_filename": "sunwaee-1.3.1.tar.gz",
-  "download_time": "2026-04-11T17:22:09.103208",
+  "download_filename": "sunwaee-1.4.0.tar.gz",
+  "download_time": "2026-04-17T15:08:23.372824",
   "package_url": "https://pypi.org/project/sunwaee/"
 }

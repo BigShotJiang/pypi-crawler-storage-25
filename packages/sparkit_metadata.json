@@ -1,0 +1,11 @@
+{
+  "name": "sparkit",
+  "version": "0.0.4",
+  "summary": "A lightweight runtime SDK for executing Python sparkit scripts",
+  "author": "kelwSagashi",
+  "license": "MIT",
+  "home_page": "https://github.com/kelwSagashi/Sparkit",
+  "download_filename": "sparkit-0.0.4.tar.gz",
+  "download_time": "2026-04-17T15:08:07.555576",
+  "package_url": "https://pypi.org/project/sparkit/"
+}

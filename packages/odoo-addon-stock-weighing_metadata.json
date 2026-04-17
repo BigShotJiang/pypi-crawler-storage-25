@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-weighing",
+  "version": "18.0.1.0.1",
+  "summary": "Weighing assistant for stock operations",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-weighing",
+  "download_filename": "odoo_addon_stock_weighing-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2026-04-17T15:08:05.439113",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-weighing/"
+}

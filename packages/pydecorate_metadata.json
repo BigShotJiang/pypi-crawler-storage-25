@@ -1,0 +1,11 @@
+{
+  "name": "pydecorate",
+  "version": "0.5.1",
+  "summary": "Decorating PIL images: logos, texts, pallettes",
+  "author": "Hrobjartur Thorsteinsson",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/pytroll/pydecorate",
+  "download_filename": "pydecorate-0.5.1.tar.gz",
+  "download_time": "2026-04-17T15:08:12.827673",
+  "package_url": "https://pypi.org/project/pydecorate/"
+}

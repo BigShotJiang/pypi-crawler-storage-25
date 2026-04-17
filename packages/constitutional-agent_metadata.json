@@ -1,11 +1,11 @@
 {
   "name": "constitutional-agent",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "WHY-layer constitutional governance for autonomous AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "constitutional_agent-0.4.1.tar.gz",
-  "download_time": "2026-04-12T11:45:28.511564",
+  "download_filename": "constitutional_agent-0.5.0.tar.gz",
+  "download_time": "2026-04-17T15:08:18.146480",
   "package_url": "https://pypi.org/project/constitutional-agent/"
 }

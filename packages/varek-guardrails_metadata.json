@@ -1,0 +1,11 @@
+{
+  "name": "varek-guardrails",
+  "version": "0.1.0",
+  "summary": "Deterministic AST static analysis boundaries for LLM code execution.",
+  "author": "VAREK Security Command",
+  "license": null,
+  "home_page": "https://github.com/kwdoug63/varek",
+  "download_filename": "varek_guardrails-0.1.0.tar.gz",
+  "download_time": "2026-04-17T15:08:29.667580",
+  "package_url": "https://pypi.org/project/varek-guardrails/"
+}

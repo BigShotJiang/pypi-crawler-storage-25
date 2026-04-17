@@ -1,0 +1,11 @@
+{
+  "name": "ai-autodev",
+  "version": "0.1.0",
+  "summary": "Multi-agent orchestrator with tournament-based self-refinement for Claude Code, Cursor, and any LLM-assisted IDE",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "ai_autodev-0.1.0.tar.gz",
+  "download_time": "2026-04-17T15:08:34.360351",
+  "package_url": "https://pypi.org/project/ai-autodev/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "triton-runner",
+  "version": "0.3.7",
+  "summary": "Multi-Level Triton Runner supporting Python, IR, PTX, and cubin.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "triton_runner-0.3.7-py3-none-any.whl",
+  "download_time": "2026-04-17T15:08:30.191342",
+  "package_url": "https://pypi.org/project/triton-runner/"
+}

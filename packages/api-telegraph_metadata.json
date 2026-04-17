@@ -1,0 +1,11 @@
+{
+  "name": "api-telegraph",
+  "version": "1.0.7",
+  "summary": "Python SDK for Telegraph (telegra.ph) API with sync and async support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "api_telegraph-1.0.7.tar.gz",
+  "download_time": "2026-04-17T15:08:38.557240",
+  "package_url": "https://pypi.org/project/api-telegraph/"
+}
