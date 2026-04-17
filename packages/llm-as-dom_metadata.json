@@ -1,11 +1,11 @@
 {
   "name": "llm-as-dom",
-  "version": "0.10.0",
-  "summary": "AI browser pilot — test your app 60x cheaper. (Alias for menot-you-mcp-lad)",
+  "version": "0.13.1",
+  "summary": "AI browser pilot — test your app 60x cheaper. MCP server binary wrapper.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_as_dom-0.10.0.tar.gz",
-  "download_time": "2026-04-08T22:05:01.896432",
+  "download_filename": "llm_as_dom-0.13.1.tar.gz",
+  "download_time": "2026-04-17T14:04:48.200898",
   "package_url": "https://pypi.org/project/llm-as-dom/"
 }

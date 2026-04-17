@@ -1,11 +1,11 @@
 {
   "name": "acryl-datahub-airflow-plugin",
-  "version": "1.5.0.6",
+  "version": "1.5.0.9",
   "summary": "Datahub Airflow plugin to capture executions and send to Datahub",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://docs.datahub.com/",
-  "download_filename": "acryl_datahub_airflow_plugin-1.5.0.6.tar.gz",
-  "download_time": "2026-04-10T02:30:19.007978",
+  "download_filename": "acryl_datahub_airflow_plugin-1.5.0.9.tar.gz",
+  "download_time": "2026-04-17T14:05:01.976089",
   "package_url": "https://pypi.org/project/acryl-datahub-airflow-plugin/"
 }

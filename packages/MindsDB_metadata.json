@@ -1,0 +1,11 @@
+{
+  "name": "MindsDB",
+  "version": "26.0.1",
+  "summary": "MindsDB's AI SQL Server enables developers to build AI tools that need access to real-time data to perform their tasks",
+  "author": "MindsDB Inc",
+  "license": "Elastic License 2.0",
+  "home_page": "https://github.com/mindsdb/mindsdb",
+  "download_filename": "mindsdb-26.0.1.tar.gz",
+  "download_time": "2026-04-17T14:04:36.008507",
+  "package_url": "https://pypi.org/project/MindsDB/"
+}

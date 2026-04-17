@@ -1,11 +1,11 @@
 {
   "name": "wexample-file",
-  "version": "0.0.53",
+  "version": "0.0.63",
   "summary": "Package that allows you to manage the state of files and directories using YAML configuration files.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wexample_file-0.0.53.tar.gz",
-  "download_time": "2026-03-30T15:43:47.821984",
+  "download_filename": "wexample_file-0.0.63.tar.gz",
+  "download_time": "2026-04-17T14:04:39.694207",
   "package_url": "https://pypi.org/project/wexample-file/"
 }

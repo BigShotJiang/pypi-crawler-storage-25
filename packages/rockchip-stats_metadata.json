@@ -1,11 +1,11 @@
 {
   "name": "rockchip-stats",
-  "version": "0.1.2",
+  "version": "0.1.7",
   "summary": "Interactive system-monitor and process viewer for Rockchip SoC devices [RK3588, RK3588S, RK3568, RK3566, RK3399]",
-  "author": null,
+  "author": "Batuhan Berkay Aydın",
   "license": null,
-  "home_page": null,
-  "download_filename": "rockchip_stats-0.1.2.tar.gz",
-  "download_time": "2026-04-17T09:00:56.521650",
+  "home_page": "https://github.com/batuhanberkayaydin/rockchip_stats",
+  "download_filename": "rockchip_stats-0.1.7.tar.gz",
+  "download_time": "2026-04-17T14:04:57.214290",
   "package_url": "https://pypi.org/project/rockchip-stats/"
 }

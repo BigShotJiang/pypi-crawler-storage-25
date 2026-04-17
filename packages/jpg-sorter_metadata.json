@@ -1,0 +1,11 @@
+{
+  "name": "jpg-sorter",
+  "version": "3.1.0",
+  "summary": "Python GUI tool that allows EXIF data change.",
+  "author": "Zbigniew Kurzynski",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/zbij/jpgSorter",
+  "download_filename": "jpg_sorter-3.1.0-py3-none-any.whl",
+  "download_time": "2026-04-17T14:04:30.032419",
+  "package_url": "https://pypi.org/project/jpg-sorter/"
+}

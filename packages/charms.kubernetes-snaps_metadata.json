@@ -1,0 +1,11 @@
+{
+  "name": "charms.kubernetes-snaps",
+  "version": "1.35.post1314",
+  "summary": "Charm library for installing and configuring Kubernetes snaps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "charms_kubernetes_snaps-1.35.post1314.tar.gz",
+  "download_time": "2026-04-17T14:04:34.432716",
+  "package_url": "https://pypi.org/project/charms.kubernetes-snaps/"
+}
