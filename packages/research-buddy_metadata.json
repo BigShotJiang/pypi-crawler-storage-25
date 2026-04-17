@@ -1,11 +1,11 @@
 {
   "name": "research-buddy",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Structured AI research collaborator — generates high-fidelity HTML from versioned JSON research documents.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "research_buddy-1.0.0.tar.gz",
-  "download_time": "2026-04-16T23:14:58.009164",
+  "download_filename": "research_buddy-1.0.2.tar.gz",
+  "download_time": "2026-04-17T00:04:02.981953",
   "package_url": "https://pypi.org/project/research-buddy/"
 }

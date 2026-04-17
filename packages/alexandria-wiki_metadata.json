@@ -1,0 +1,11 @@
+{
+  "name": "alexandria-wiki",
+  "version": "0.1.0",
+  "summary": "Local-first single-user knowledge engine — accumulates gathered knowledge and exposes it via MCP to connected agents like Claude Code.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alexandria_wiki-0.1.0.tar.gz",
+  "download_time": "2026-04-17T00:03:55.496051",
+  "package_url": "https://pypi.org/project/alexandria-wiki/"
+}

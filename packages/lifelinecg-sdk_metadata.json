@@ -1,0 +1,11 @@
+{
+  "name": "lifelinecg-sdk",
+  "version": "0.1.3",
+  "summary": "Official Python SDK for the Lifeline ECG Vision API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lifelinecg_sdk-0.1.3.tar.gz",
+  "download_time": "2026-04-17T00:04:32.991427",
+  "package_url": "https://pypi.org/project/lifelinecg-sdk/"
+}

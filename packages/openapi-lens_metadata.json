@@ -1,0 +1,11 @@
+{
+  "name": "openapi-lens",
+  "version": "1.0.2",
+  "summary": "Automatically generate versioned API snapshots on every merge. Explore changes in a UI with color-coded diff highlighting. Built for FastAPI + TypeScript teams.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openapi_lens-1.0.2.tar.gz",
+  "download_time": "2026-04-17T00:04:03.502838",
+  "package_url": "https://pypi.org/project/openapi-lens/"
+}

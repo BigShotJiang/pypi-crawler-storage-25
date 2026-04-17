@@ -1,0 +1,11 @@
+{
+  "name": "veratum",
+  "version": "2.5.0",
+  "summary": "Litigation-grade evidence infrastructure for EU AI Act compliance",
+  "author": "Ali Ashkir",
+  "license": "MIT",
+  "home_page": "https://veratum.ai",
+  "download_filename": "veratum-2.5.0.tar.gz",
+  "download_time": "2026-04-17T00:04:18.893022",
+  "package_url": "https://pypi.org/project/veratum/"
+}

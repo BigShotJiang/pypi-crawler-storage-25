@@ -1,0 +1,11 @@
+{
+  "name": "sagemaker-hyperpod",
+  "version": "3.8.0",
+  "summary": "Amazon SageMaker HyperPod SDK and CLI",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aws/sagemaker-hyperpod-cli",
+  "download_filename": "sagemaker_hyperpod-3.8.0.tar.gz",
+  "download_time": "2026-04-17T00:04:17.842141",
+  "package_url": "https://pypi.org/project/sagemaker-hyperpod/"
+}

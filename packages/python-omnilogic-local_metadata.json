@@ -1,0 +1,11 @@
+{
+  "name": "python-omnilogic-local",
+  "version": "0.25.2",
+  "summary": "A library for local control of Hayward OmniHub/OmniLogic pool controllers using their local API",
+  "author": "Chris Jowett, djtimca, garionphx",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_omnilogic_local-0.25.2.tar.gz",
+  "download_time": "2026-04-17T00:04:04.028683",
+  "package_url": "https://pypi.org/project/python-omnilogic-local/"
+}

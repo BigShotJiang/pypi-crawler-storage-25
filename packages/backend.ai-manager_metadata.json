@@ -1,11 +1,11 @@
 {
   "name": "backend.ai-manager",
-  "version": "26.4.2",
+  "version": "26.4.3",
   "summary": "Backend.AI Manager",
   "author": "Lablup Inc. and contributors",
   "license": "LGPLv3",
   "home_page": "https://github.com/lablup/backend.ai",
-  "download_filename": "backend_ai_manager-26.4.2-py3-none-any.whl",
-  "download_time": "2026-04-14T18:56:47.192590",
+  "download_filename": "backend_ai_manager-26.4.3.tar.gz",
+  "download_time": "2026-04-17T00:03:59.248139",
   "package_url": "https://pypi.org/project/backend.ai-manager/"
 }
