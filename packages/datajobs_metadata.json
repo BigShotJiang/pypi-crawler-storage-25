@@ -1,11 +1,11 @@
 {
   "name": "datajobs",
-  "version": "0.3.1.4",
+  "version": "0.3.2.1",
   "summary": "Python ETL framework with Business Rule Validator for Databricks and PostgreSQL",
   "author": "Complere Infosystem",
   "license": null,
   "home_page": null,
-  "download_filename": "datajobs-0.3.1.4.tar.gz",
-  "download_time": "2026-04-17T05:46:36.322999",
+  "download_filename": "datajobs-0.3.2.1.tar.gz",
+  "download_time": "2026-04-17T12:12:41.563819",
   "package_url": "https://pypi.org/project/datajobs/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lib4sbom",
+  "version": "0.10.4",
+  "summary": "Software Bill of Material (SBOM) generator and consumer library",
+  "author": "Anthony Harrison",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/anthonyharrison/lib4sbom",
+  "download_filename": "lib4sbom-0.10.4-py3-none-any.whl",
+  "download_time": "2026-04-17T12:12:19.504911",
+  "package_url": "https://pypi.org/project/lib4sbom/"
+}

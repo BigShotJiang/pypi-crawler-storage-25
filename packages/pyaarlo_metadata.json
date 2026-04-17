@@ -1,0 +1,11 @@
+{
+  "name": "pyaarlo",
+  "version": "0.8.0.19",
+  "summary": "PyAarlo is a library that provides asynchronous access to Arlo security cameras.",
+  "author": "Steve Herrell",
+  "license": "LGPLv3+",
+  "home_page": "https://github.com/twrecked/pyaarlo.git",
+  "download_filename": "pyaarlo-0.8.0.19.tar.gz",
+  "download_time": "2026-04-17T12:12:29.554009",
+  "package_url": "https://pypi.org/project/pyaarlo/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "marketgoblin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Market data platform for downloading and storing financial OHLCV data",
   "author": "Antônio Salomão",
   "license": null,
   "home_page": null,
-  "download_filename": "marketgoblin-0.1.1.tar.gz",
-  "download_time": "2026-04-16T19:55:37.240557",
+  "download_filename": "marketgoblin-0.1.2.tar.gz",
+  "download_time": "2026-04-17T12:12:30.592522",
   "package_url": "https://pypi.org/project/marketgoblin/"
 }

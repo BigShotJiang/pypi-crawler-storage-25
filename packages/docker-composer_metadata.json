@@ -1,0 +1,11 @@
+{
+  "name": "docker-composer",
+  "version": "5.1.3",
+  "summary": "Use docker-compose (V2) from within Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docker_composer-5.1.3.tar.gz",
+  "download_time": "2026-04-17T12:12:43.642183",
+  "package_url": "https://pypi.org/project/docker-composer/"
+}

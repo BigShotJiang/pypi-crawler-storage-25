@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-th-account-tax",
+  "version": "18.0.1.5.4",
+  "summary": "Thai Localization - VAT and Withholding Tax",
+  "author": "Ecosoft, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-thailand",
+  "download_filename": "odoo_addon_l10n_th_account_tax-18.0.1.5.4-py3-none-any.whl",
+  "download_time": "2026-04-17T12:12:02.478952",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-th-account-tax/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "foehn",
-  "version": "0.2.12",
-  "summary": "Download MeteoSwiss Open Government Data and convert to Parquet / Delta tables",
+  "version": "0.2.17",
+  "summary": "Python toolkit for Swiss weather data — download, query, and analyse MeteoSwiss Open Government Data",
   "author": "Kay Hendriksen",
   "license": null,
   "home_page": null,
-  "download_filename": "foehn-0.2.12.tar.gz",
-  "download_time": "2026-04-04T13:23:11.072990",
+  "download_filename": "foehn-0.2.17.tar.gz",
+  "download_time": "2026-04-17T12:12:28.499595",
   "package_url": "https://pypi.org/project/foehn/"
 }
