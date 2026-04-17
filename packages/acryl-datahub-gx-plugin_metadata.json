@@ -1,11 +1,11 @@
 {
   "name": "acryl-datahub-gx-plugin",
-  "version": "1.5.0.6",
+  "version": "1.5.0.10",
   "summary": "Datahub GX plugin to capture executions and send to Datahub",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://docs.datahub.com/",
-  "download_filename": "acryl_datahub_gx_plugin-1.5.0.6.tar.gz",
-  "download_time": "2026-04-10T02:30:17.921990",
+  "download_filename": "acryl_datahub_gx_plugin-1.5.0.10.tar.gz",
+  "download_time": "2026-04-17T16:21:25.505511",
   "package_url": "https://pypi.org/project/acryl-datahub-gx-plugin/"
 }

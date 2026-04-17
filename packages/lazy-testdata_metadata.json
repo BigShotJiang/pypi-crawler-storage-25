@@ -1,0 +1,11 @@
+{
+  "name": "lazy-testdata",
+  "version": "1.1.36",
+  "summary": "testdata include chinese personal four element and offen use datetime 测试数据包含随机生成的中国公民四要素，及常用的日期时间 根据swagger文档生成规则用例 用于性能测试摸高，并生成统一测试报告",
+  "author": "YuWeiPeng",
+  "license": null,
+  "home_page": "https://www.cnblogs.com/yicaifeitian",
+  "download_filename": "lazy_testdata-1.1.36.tar.gz",
+  "download_time": "2026-04-17T16:21:28.163577",
+  "package_url": "https://pypi.org/project/lazy-testdata/"
+}

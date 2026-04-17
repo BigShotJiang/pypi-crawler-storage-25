@@ -1,11 +1,11 @@
 {
   "name": "prefect-datahub",
-  "version": "1.5.0.6",
+  "version": "1.5.0.9",
   "summary": "Datahub prefect block to capture executions and send to Datahub",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://docs.datahub.com/",
-  "download_filename": "prefect_datahub-1.5.0.6.tar.gz",
-  "download_time": "2026-04-10T02:30:16.854586",
+  "download_filename": "prefect_datahub-1.5.0.9.tar.gz",
+  "download_time": "2026-04-17T16:21:26.549406",
   "package_url": "https://pypi.org/project/prefect-datahub/"
 }

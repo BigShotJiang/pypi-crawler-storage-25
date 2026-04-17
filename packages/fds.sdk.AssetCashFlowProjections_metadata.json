@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.AssetCashFlowProjections",
+  "version": "0.12.0",
+  "summary": "Asset Cash Flow Projections client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/AssetCashFlowProjections/v0",
+  "download_filename": "fds_sdk_assetcashflowprojections-0.12.0.tar.gz",
+  "download_time": "2026-04-17T16:21:09.538537",
+  "package_url": "https://pypi.org/project/fds.sdk.AssetCashFlowProjections/"
+}

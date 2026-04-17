@@ -1,0 +1,11 @@
+{
+  "name": "jnav",
+  "version": "1.0.0",
+  "summary": "Interactive JSON log viewer with jq filtering for the terminal",
+  "author": "Tibo Clausen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jnav-1.0.0.tar.gz",
+  "download_time": "2026-04-17T16:21:04.843007",
+  "package_url": "https://pypi.org/project/jnav/"
+}

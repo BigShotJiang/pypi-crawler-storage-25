@@ -1,11 +1,11 @@
 {
   "name": "tickerdb",
-  "version": "0.1.9",
-  "summary": "Python SDK for the TickerDB financial data API",
+  "version": "0.1.11",
+  "summary": "Pre-computed market data that improves agent reasoning, reduces token usage, and replaces data pipelines.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tickerdb-0.1.9.tar.gz",
-  "download_time": "2026-04-14T22:11:13.204220",
+  "download_filename": "tickerdb-0.1.11.tar.gz",
+  "download_time": "2026-04-17T16:21:18.162867",
   "package_url": "https://pypi.org/project/tickerdb/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "biocutils",
+  "version": "0.4.0",
+  "summary": "Utilities to use across the biocpy packages.",
+  "author": "Aaron Lun",
+  "license": "MIT",
+  "home_page": "https://github.com/biocpy/biocutils",
+  "download_filename": "biocutils-0.4.0.tar.gz",
+  "download_time": "2026-04-17T16:21:49.931586",
+  "package_url": "https://pypi.org/project/biocutils/"
+}

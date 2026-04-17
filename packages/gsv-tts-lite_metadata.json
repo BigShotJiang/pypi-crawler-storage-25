@@ -1,11 +1,11 @@
 {
   "name": "gsv-tts-lite",
-  "version": "0.3.10",
+  "version": "0.3.12",
   "summary": "A high-performance inference engine specifically designed for the GPT-SoVITS text-to-speech model",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gsv_tts_lite-0.3.10.tar.gz",
-  "download_time": "2026-04-05T10:36:55.885825",
+  "download_filename": "gsv_tts_lite-0.3.12.tar.gz",
+  "download_time": "2026-04-17T16:21:22.838588",
   "package_url": "https://pypi.org/project/gsv-tts-lite/"
 }
