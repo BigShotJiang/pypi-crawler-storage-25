@@ -1,11 +1,11 @@
 {
   "name": "pskit-mcp",
-  "version": "0.2.1",
-  "summary": "Neural-safe PowerShell automation for AI agents via MCP",
+  "version": "0.3.1",
+  "summary": "Neural-safe cross-platform PowerShell automation for AI agents via MCP (Windows / Linux / macOS)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pskit_mcp-0.2.1.tar.gz",
-  "download_time": "2026-04-06T23:25:41.880501",
+  "download_filename": "pskit_mcp-0.3.1.tar.gz",
+  "download_time": "2026-04-17T18:11:26.467467",
   "package_url": "https://pypi.org/project/pskit-mcp/"
 }

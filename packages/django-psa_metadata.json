@@ -1,11 +1,11 @@
 {
   "name": "django-psa",
-  "version": "0.27.0a0",
+  "version": "0.28.0a0",
   "summary": "Django app for working with various PSA REST API. Defines models (tickets, companies, etc.) and callbacks.",
   "author": "TopLeft Technologies Ltd.",
   "license": "MIT",
   "home_page": "https://github.com/topleft-team/django-psa",
-  "download_filename": "django_psa-0.27.0a0.tar.gz",
-  "download_time": "2026-04-02T21:54:12.035056",
+  "download_filename": "django_psa-0.28.0a0.tar.gz",
+  "download_time": "2026-04-17T18:11:42.753677",
   "package_url": "https://pypi.org/project/django-psa/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "instavm",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "summary": "Official Python SDK and CLI for InstaVM APIs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "instavm-0.17.0.tar.gz",
-  "download_time": "2026-04-15T14:24:52.156417",
+  "download_filename": "instavm-0.18.0.tar.gz",
+  "download_time": "2026-04-17T18:11:33.428585",
   "package_url": "https://pypi.org/project/instavm/"
 }

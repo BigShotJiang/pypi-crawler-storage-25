@@ -1,0 +1,11 @@
+{
+  "name": "makemkv-headless",
+  "version": "0.0.3",
+  "summary": "Python wrapper-server built around makemkvcli and with built-in organization features for Jellyfin servers",
+  "author": "enigma0z",
+  "license": null,
+  "home_page": null,
+  "download_filename": "makemkv_headless-0.0.3.tar.gz",
+  "download_time": "2026-04-17T18:12:02.245029",
+  "package_url": "https://pypi.org/project/makemkv-headless/"
+}

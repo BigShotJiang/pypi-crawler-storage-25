@@ -1,0 +1,11 @@
+{
+  "name": "scripthut",
+  "version": "0.3.16",
+  "summary": "Web interface to start and track jobs on remote systems (Slurm, ECS, AWS Batch)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scripthut-0.3.16.tar.gz",
+  "download_time": "2026-04-17T18:11:16.460187",
+  "package_url": "https://pypi.org/project/scripthut/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ictonyx",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "summary": "Ictonyx: Iteration Comparison Testing Over N-runs: Yield eXamination",
   "author": "Stephen Kizlik",
   "license": "MIT",
   "home_page": "https://github.com/skizlik/ictonyx",
-  "download_filename": "ictonyx-0.4.1.tar.gz",
-  "download_time": "2026-04-15T14:24:33.935611",
+  "download_filename": "ictonyx-0.4.3.tar.gz",
+  "download_time": "2026-04-17T18:11:19.390228",
   "package_url": "https://pypi.org/project/ictonyx/"
 }

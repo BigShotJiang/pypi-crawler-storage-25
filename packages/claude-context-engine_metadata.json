@@ -1,0 +1,11 @@
+{
+  "name": "claude-context-engine",
+  "version": "0.1.0",
+  "summary": "Local context engine for Claude Code — indexes projects, compresses context, reduces token cost",
+  "author": "Fazle Elahee",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_context_engine-0.1.0.tar.gz",
+  "download_time": "2026-04-17T18:11:30.594046",
+  "package_url": "https://pypi.org/project/claude-context-engine/"
+}

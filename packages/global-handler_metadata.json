@@ -1,0 +1,11 @@
+{
+  "name": "global-handler",
+  "version": "1.0.2",
+  "summary": "Global Handler es una librería Python diseñada para facilitar el manejo de errores, validaciones de requests y métricas en aplicaciones web",
+  "author": "Damian Gonzalez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "global_handler-1.0.2.tar.gz",
+  "download_time": "2026-04-17T18:11:19.968024",
+  "package_url": "https://pypi.org/project/global-handler/"
+}

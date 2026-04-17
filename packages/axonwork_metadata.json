@@ -1,11 +1,11 @@
 {
   "name": "axonwork",
-  "version": "0.2.2",
+  "version": "0.2.8",
   "summary": "Axon mining CLI for the Proof of Useful Work platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "axonwork-0.2.2.tar.gz",
-  "download_time": "2026-04-12T22:45:39.852838",
+  "download_filename": "axonwork-0.2.8.tar.gz",
+  "download_time": "2026-04-17T18:12:00.549970",
   "package_url": "https://pypi.org/project/axonwork/"
 }
