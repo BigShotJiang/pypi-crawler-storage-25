@@ -1,11 +1,11 @@
 {
   "name": "edgellm-bench",
-  "version": "0.1.5",
+  "version": "0.1.9",
   "summary": "TensorRT Edge-LLM Benchmark CLI Tool",
   "author": "Ruocheng Jia",
   "license": null,
   "home_page": null,
-  "download_filename": "edgellm_bench-0.1.5.tar.gz",
-  "download_time": "2026-04-14T09:11:11.951166",
+  "download_filename": "edgellm_bench-0.1.9.tar.gz",
+  "download_time": "2026-04-17T05:46:01.880751",
   "package_url": "https://pypi.org/project/edgellm-bench/"
 }

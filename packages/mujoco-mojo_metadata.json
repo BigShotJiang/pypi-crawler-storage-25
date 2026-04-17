@@ -1,0 +1,11 @@
+{
+  "name": "mujoco-mojo",
+  "version": "1.7.5",
+  "summary": "A complete MJCF lifecycle and trial orchestration suite for MuJoCo, powered by Pydantic v2.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mujoco_mojo-1.7.5.tar.gz",
+  "download_time": "2026-04-17T05:46:40.545315",
+  "package_url": "https://pypi.org/project/mujoco-mojo/"
+}

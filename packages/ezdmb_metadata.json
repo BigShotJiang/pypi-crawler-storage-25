@@ -1,0 +1,11 @@
+{
+  "name": "ezdmb",
+  "version": "1.0.2",
+  "summary": "A dead-simple digital menu board configurator and display.",
+  "author": "Justin Vieira",
+  "license": "LGPL-3.0-only",
+  "home_page": "https://github.com/justinmichaelvieira/ezdmb",
+  "download_filename": "ezdmb-1.0.2.tar.gz",
+  "download_time": "2026-04-17T05:46:43.644099",
+  "package_url": "https://pypi.org/project/ezdmb/"
+}

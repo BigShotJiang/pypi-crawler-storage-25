@@ -1,11 +1,11 @@
 {
   "name": "research-hub-pipeline",
-  "version": "0.23.1",
-  "summary": "Zotero -> Obsidian -> NotebookLM research pipeline",
+  "version": "0.31.1",
+  "summary": "CLI + MCP server for Zotero + Obsidian + NotebookLM research pipelines. Run `research-hub init` after install.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "research_hub_pipeline-0.23.1.tar.gz",
-  "download_time": "2026-04-14T03:39:07.636484",
+  "download_filename": "research_hub_pipeline-0.31.1.tar.gz",
+  "download_time": "2026-04-17T05:46:48.272834",
   "package_url": "https://pypi.org/project/research-hub-pipeline/"
 }
