@@ -1,11 +1,11 @@
 {
   "name": "gwaspeek",
-  "version": "0.3.0",
+  "version": "0.4.2",
   "summary": "gwaspeek: interactive terminal viewer for GWAS summary statistics",
   "author": "Yunye He",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gwaspeek-0.3.0.tar.gz",
-  "download_time": "2026-04-17T05:46:38.992970",
+  "download_filename": "gwaspeek-0.4.2.tar.gz",
+  "download_time": "2026-04-17T07:18:27.651458",
   "package_url": "https://pypi.org/project/gwaspeek/"
 }

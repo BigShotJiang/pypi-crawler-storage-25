@@ -1,0 +1,11 @@
+{
+  "name": "snakemake-executor-plugin-slurm",
+  "version": "2.6.1",
+  "summary": "A Snakemake executor plugin for submitting jobs to a SLURM cluster.",
+  "author": "Christian Meesters",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snakemake_executor_plugin_slurm-2.6.1.tar.gz",
+  "download_time": "2026-04-17T07:18:09.938155",
+  "package_url": "https://pypi.org/project/snakemake-executor-plugin-slurm/"
+}

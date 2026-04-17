@@ -1,0 +1,11 @@
+{
+  "name": "stackprinter",
+  "version": "0.2.13",
+  "summary": "Debug-friendly stack traces, with variable values and semantic highlighting",
+  "author": "cknd",
+  "license": null,
+  "home_page": "https://github.com/cknd/stackprinter",
+  "download_filename": "stackprinter-0.2.13.tar.gz",
+  "download_time": "2026-04-17T07:18:14.647243",
+  "package_url": "https://pypi.org/project/stackprinter/"
+}

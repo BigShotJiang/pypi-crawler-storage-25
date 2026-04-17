@@ -1,0 +1,11 @@
+{
+  "name": "ck-prism",
+  "version": "1.5.0",
+  "summary": "CLI authentication for AWS credential exchange",
+  "author": "Aditya Ajay",
+  "license": "Apache License 2.0",
+  "home_page": "https://www.cloudkeeper.com/",
+  "download_filename": "ck_prism-1.5.0.tar.gz",
+  "download_time": "2026-04-17T07:18:13.625327",
+  "package_url": "https://pypi.org/project/ck-prism/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-responsive",
+  "version": "19.0.1.0.1",
+  "summary": "Responsive web client, community-supported",
+  "author": "LasLabs, Tecnativa, ITerra, Onestein, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/web",
+  "download_filename": "odoo_addon_web_responsive-19.0.1.0.1-py3-none-any.whl",
+  "download_time": "2026-04-17T07:18:29.352444",
+  "package_url": "https://pypi.org/project/odoo-addon-web-responsive/"
+}

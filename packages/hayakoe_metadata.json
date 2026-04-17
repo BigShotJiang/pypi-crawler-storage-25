@@ -1,11 +1,11 @@
 {
   "name": "hayakoe",
-  "version": "0.0.9",
+  "version": "0.0.11",
   "summary": "HayaKoe — Fast ONNX-optimized Japanese TTS based on Style-Bert-VITS2",
   "author": "LemonDouble",
   "license": null,
   "home_page": null,
-  "download_filename": "hayakoe-0.0.9.tar.gz",
-  "download_time": "2026-04-17T03:32:47.323693",
+  "download_filename": "hayakoe-0.0.11.tar.gz",
+  "download_time": "2026-04-17T07:18:25.533080",
   "package_url": "https://pypi.org/project/hayakoe/"
 }

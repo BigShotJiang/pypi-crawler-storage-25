@@ -1,11 +1,11 @@
 {
   "name": "systems-manager",
-  "version": "1.2.53",
+  "version": "1.2.54",
   "summary": "Systems Manager will update your system and install/upgrade applications. Additionally, as allow AI to perform these activities as an MCP Server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "systems_manager-1.2.53.tar.gz",
-  "download_time": "2026-04-10T05:16:07.806462",
+  "download_filename": "systems_manager-1.2.54.tar.gz",
+  "download_time": "2026-04-17T07:17:58.111122",
   "package_url": "https://pypi.org/project/systems-manager/"
 }
