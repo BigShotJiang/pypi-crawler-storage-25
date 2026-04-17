@@ -1,0 +1,11 @@
+{
+  "name": "md2pdf-py",
+  "version": "0.2.0",
+  "summary": "Convert Markdown files to beautifully styled PDFs using WeasyPrint.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "md2pdf_py-0.2.0.tar.gz",
+  "download_time": "2026-04-17T19:37:42.807288",
+  "package_url": "https://pypi.org/project/md2pdf-py/"
+}

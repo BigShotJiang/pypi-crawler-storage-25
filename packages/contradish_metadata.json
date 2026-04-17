@@ -1,0 +1,11 @@
+{
+  "name": "contradish",
+  "version": "0.7.0",
+  "summary": "CAI testing for LLM apps. Consistency scoring, failure fingerprinting, pytest plugin, GitHub Actions, SARIF output, integration exporters (Langfuse, Phoenix), audit export, regression gating, and prompt repair.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contradish-0.7.0.tar.gz",
+  "download_time": "2026-04-17T19:37:46.408313",
+  "package_url": "https://pypi.org/project/contradish/"
+}

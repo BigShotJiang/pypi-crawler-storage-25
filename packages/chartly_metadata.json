@@ -1,0 +1,11 @@
+{
+  "name": "chartly",
+  "version": "1.1.1",
+  "summary": "A Python package for chartly multiple plots.",
+  "author": "Elizabeth Consulting International Inc.",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/ec-intl/chartly",
+  "download_filename": "chartly-1.1.1.tar.gz",
+  "download_time": "2026-04-17T19:37:51.125460",
+  "package_url": "https://pypi.org/project/chartly/"
+}

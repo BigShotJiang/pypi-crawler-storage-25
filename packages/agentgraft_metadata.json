@@ -1,11 +1,11 @@
 {
   "name": "agentgraft",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "summary": "Python SDK for AgentGraft — define your chat config in code, sync to the hosted service.",
   "author": "AgentGraft",
   "license": null,
   "home_page": null,
-  "download_filename": "agentgraft-0.0.7.tar.gz",
-  "download_time": "2026-04-15T11:45:20.749521",
+  "download_filename": "agentgraft-0.1.0.tar.gz",
+  "download_time": "2026-04-17T19:37:30.849443",
   "package_url": "https://pypi.org/project/agentgraft/"
 }

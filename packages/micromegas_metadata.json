@@ -1,0 +1,11 @@
+{
+  "name": "micromegas",
+  "version": "0.24.0",
+  "summary": "Python analytics client for the Micromegas observability platform",
+  "author": "Marc-Antoine Desroches",
+  "license": null,
+  "home_page": null,
+  "download_filename": "micromegas-0.24.0.tar.gz",
+  "download_time": "2026-04-17T19:37:08.987149",
+  "package_url": "https://pypi.org/project/micromegas/"
+}

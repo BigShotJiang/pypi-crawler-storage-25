@@ -1,11 +1,11 @@
 {
   "name": "tickerdb",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Pre-computed market data that improves agent reasoning, reduces token usage, and replaces data pipelines.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tickerdb-0.1.11.tar.gz",
-  "download_time": "2026-04-17T16:21:18.162867",
+  "download_filename": "tickerdb-0.1.12.tar.gz",
+  "download_time": "2026-04-17T19:37:14.141447",
   "package_url": "https://pypi.org/project/tickerdb/"
 }
