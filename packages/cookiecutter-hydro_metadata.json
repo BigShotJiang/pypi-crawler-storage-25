@@ -1,0 +1,11 @@
+{
+  "name": "cookiecutter-hydro",
+  "version": "0.1.1",
+  "summary": "A cookiecutter template for scientific Python projects in the field of hydrology.",
+  "author": "Mateusz Zawadzki",
+  "license": null,
+  "home_page": "https://github.com/zawadzkim/cookiecutter-hydro",
+  "download_filename": "cookiecutter_hydro-0.1.1.tar.gz",
+  "download_time": "2026-04-17T11:20:12.079386",
+  "package_url": "https://pypi.org/project/cookiecutter-hydro/"
+}

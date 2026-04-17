@@ -1,0 +1,11 @@
+{
+  "name": "symbolic",
+  "version": "12.18.1",
+  "summary": "A python library for dealing with symbol files and more.",
+  "author": "Sentry",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "symbolic-12.18.1.tar.gz",
+  "download_time": "2026-04-17T11:20:34.186193",
+  "package_url": "https://pypi.org/project/symbolic/"
+}

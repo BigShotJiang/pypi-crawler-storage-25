@@ -1,0 +1,11 @@
+{
+  "name": "valkey-redis-compat",
+  "version": "0.1.1",
+  "summary": "Drop-in redis-py replacement backed by valkey-py — migrate from Redis to Valkey without changing application code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "valkey_redis_compat-0.1.1.tar.gz",
+  "download_time": "2026-04-17T11:20:26.041105",
+  "package_url": "https://pypi.org/project/valkey-redis-compat/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "beetcamp",
-  "version": "0.24.2",
+  "version": "0.24.3",
   "summary": "Bandcamp autotagger source for beets (http://beets.io).",
   "author": "Šarūnas Nejus",
   "license": null,
   "home_page": null,
-  "download_filename": "beetcamp-0.24.2.tar.gz",
-  "download_time": "2026-04-12T09:09:57.899174",
+  "download_filename": "beetcamp-0.24.3.tar.gz",
+  "download_time": "2026-04-17T11:20:03.523400",
   "package_url": "https://pypi.org/project/beetcamp/"
 }
