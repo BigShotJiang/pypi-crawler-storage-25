@@ -1,11 +1,11 @@
 {
   "name": "agv",
-  "version": "0.1.0",
+  "version": "0.3.2",
   "summary": "AgentEnv Cloud CLI and Python SDK for sandboxes, notebooks, clusters, and AI workloads",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agv-0.1.0.tar.gz",
-  "download_time": "2026-03-30T05:12:37.188528",
+  "download_filename": "agv-0.3.2.tar.gz",
+  "download_time": "2026-04-17T03:32:54.550020",
   "package_url": "https://pypi.org/project/agv/"
 }

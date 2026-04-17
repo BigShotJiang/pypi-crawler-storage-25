@@ -1,0 +1,11 @@
+{
+  "name": "cpiextract",
+  "version": "0.1.4",
+  "summary": "CPIExtract is a software package to collect and harmonize small molecule and protein interactions with support for stereoisomer matching.",
+  "author": "Michael Sebek, Andrea Piras, Shi Chenghao, Gordana Ispirova",
+  "license": "MIT",
+  "home_page": "https://github.com/menicgiulia/CPIExtract",
+  "download_filename": "cpiextract-0.1.4.tar.gz",
+  "download_time": "2026-04-17T03:32:52.910944",
+  "package_url": "https://pypi.org/project/cpiextract/"
+}

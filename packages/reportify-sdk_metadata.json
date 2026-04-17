@@ -1,11 +1,11 @@
 {
   "name": "reportify-sdk",
-  "version": "0.3.39",
+  "version": "0.3.45",
   "summary": "Python SDK for Reportify API - Financial data and document search",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reportify_sdk-0.3.39.tar.gz",
-  "download_time": "2026-04-09T12:50:27.046390",
+  "download_filename": "reportify_sdk-0.3.45.tar.gz",
+  "download_time": "2026-04-17T03:32:42.198476",
   "package_url": "https://pypi.org/project/reportify-sdk/"
 }

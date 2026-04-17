@@ -1,0 +1,11 @@
+{
+  "name": "crudclient",
+  "version": "0.9.0",
+  "summary": "A flexible CRUD client for RESTful APIs",
+  "author": "leikaab",
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "crudclient-0.9.0.tar.gz",
+  "download_time": "2026-04-17T03:32:47.874990",
+  "package_url": "https://pypi.org/project/crudclient/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sahlnlp",
-  "version": "0.4.0",
+  "version": "1.1.0",
   "summary": "A zero-dependency, ultra-fast Arabic NLP toolkit for text preprocessing, normalization, and advanced analysis.",
   "author": "SahlNLP Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sahlnlp-0.4.0.tar.gz",
-  "download_time": "2026-04-16T00:06:10.031049",
+  "download_filename": "sahlnlp-1.1.0.tar.gz",
+  "download_time": "2026-04-17T03:32:32.139676",
   "package_url": "https://pypi.org/project/sahlnlp/"
 }

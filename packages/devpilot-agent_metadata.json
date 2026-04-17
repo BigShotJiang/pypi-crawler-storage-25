@@ -1,0 +1,11 @@
+{
+  "name": "devpilot-agent",
+  "version": "0.4.0",
+  "summary": "A lightweight agent runtime that turns any machine into an AI-agent-ready compute target",
+  "author": "Joe Robinson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "devpilot_agent-0.4.0.tar.gz",
+  "download_time": "2026-04-17T03:32:31.048324",
+  "package_url": "https://pypi.org/project/devpilot-agent/"
+}

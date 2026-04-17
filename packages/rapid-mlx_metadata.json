@@ -1,0 +1,11 @@
+{
+  "name": "rapid-mlx",
+  "version": "0.5.2",
+  "summary": "Rapid-MLX — AI inference for Apple Silicon. Drop-in OpenAI API, 2-4x faster than Ollama.",
+  "author": "vllm-mlx contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rapid_mlx-0.5.2.tar.gz",
+  "download_time": "2026-04-17T03:33:07.260766",
+  "package_url": "https://pypi.org/project/rapid-mlx/"
+}

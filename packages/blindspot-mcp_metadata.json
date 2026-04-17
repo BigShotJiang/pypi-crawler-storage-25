@@ -1,11 +1,11 @@
 {
   "name": "blindspot-mcp",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "The External Brain for AI Coding Agents — see what your LLM can't see. Provides instant, structured intelligence about your entire codebase without reading files into the AI's context window.",
   "author": "Umut Erdal",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "blindspot_mcp-0.1.4.tar.gz",
-  "download_time": "2026-03-29T22:30:30.296878",
+  "download_filename": "blindspot_mcp-0.2.0.tar.gz",
+  "download_time": "2026-04-17T03:33:08.349603",
   "package_url": "https://pypi.org/project/blindspot-mcp/"
 }
