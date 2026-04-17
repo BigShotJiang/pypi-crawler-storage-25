@@ -1,11 +1,11 @@
 {
   "name": "tokstat",
-  "version": "1.0.2",
-  "summary": "Aggregate and analyze Claude Code token consumption from local JSONL transcripts",
+  "version": "1.4.0",
+  "summary": "Aggregate and analyze AI coding assistant token consumption (Claude, Codex, Cursor, Kiro, Gemini)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tokstat-1.0.2.tar.gz",
-  "download_time": "2026-04-14T10:46:01.810227",
+  "download_filename": "tokstat-1.4.0.tar.gz",
+  "download_time": "2026-04-17T20:32:02.389503",
   "package_url": "https://pypi.org/project/tokstat/"
 }

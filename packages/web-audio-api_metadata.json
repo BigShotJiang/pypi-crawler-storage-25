@@ -1,0 +1,11 @@
+{
+  "name": "web-audio-api",
+  "version": "0.3.1",
+  "summary": "A Rust/Python implementation of the Web Audio API, for use in non-browser contexts",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "web_audio_api-0.3.1.tar.gz",
+  "download_time": "2026-04-17T20:31:53.509754",
+  "package_url": "https://pypi.org/project/web-audio-api/"
+}

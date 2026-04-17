@@ -1,11 +1,11 @@
 {
   "name": "plain.redirection",
-  "version": "0.35.0",
+  "version": "0.35.3",
   "summary": "A flexible URL redirection system with admin interface and logging.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_redirection-0.35.0.tar.gz",
-  "download_time": "2026-03-28T19:52:55.820014",
+  "download_filename": "plain_redirection-0.35.3.tar.gz",
+  "download_time": "2026-04-17T20:32:25.675048",
   "package_url": "https://pypi.org/project/plain.redirection/"
 }

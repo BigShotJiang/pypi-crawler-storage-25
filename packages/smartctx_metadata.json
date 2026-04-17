@@ -1,0 +1,11 @@
+{
+  "name": "smartctx",
+  "version": "0.2.0",
+  "summary": "Smart context manager for AI coding assistants — saves millions of tokens by building a local memory of your project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smartctx-0.2.0.tar.gz",
+  "download_time": "2026-04-17T20:32:12.692122",
+  "package_url": "https://pypi.org/project/smartctx/"
+}

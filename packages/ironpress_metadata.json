@@ -1,0 +1,11 @@
+{
+  "name": "ironpress",
+  "version": "1.4.2",
+  "summary": "Pure Rust HTML/CSS/Markdown to PDF converter. No browser, no system dependencies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ironpress-1.4.2.tar.gz",
+  "download_time": "2026-04-17T20:32:09.099315",
+  "package_url": "https://pypi.org/project/ironpress/"
+}

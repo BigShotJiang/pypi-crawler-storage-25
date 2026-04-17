@@ -1,11 +1,11 @@
 {
   "name": "plain.cache",
-  "version": "0.27.0",
+  "version": "0.27.4",
   "summary": "A simple database-backed cache for storing JSON-serializable values with optional expiration.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_cache-0.27.0.tar.gz",
-  "download_time": "2026-03-28T19:53:02.576459",
+  "download_filename": "plain_cache-0.27.4.tar.gz",
+  "download_time": "2026-04-17T20:32:32.375071",
   "package_url": "https://pypi.org/project/plain.cache/"
 }

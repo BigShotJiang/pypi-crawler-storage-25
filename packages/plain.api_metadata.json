@@ -1,11 +1,11 @@
 {
   "name": "plain.api",
-  "version": "0.29.0",
+  "version": "0.29.3",
   "summary": "Build APIs using class-based views.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_api-0.29.0.tar.gz",
-  "download_time": "2026-03-28T19:53:03.216384",
+  "download_filename": "plain_api-0.29.3.tar.gz",
+  "download_time": "2026-04-17T20:32:33.408148",
   "package_url": "https://pypi.org/project/plain.api/"
 }
