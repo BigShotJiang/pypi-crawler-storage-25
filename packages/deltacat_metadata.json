@@ -1,0 +1,11 @@
+{
+  "name": "deltacat",
+  "version": "2.0.0.post4",
+  "summary": "DeltaCAT is a portable Pythonic Data Lakehouse powered by Ray.",
+  "author": "Ray Team",
+  "license": null,
+  "home_page": "https://github.com/ray-project/deltacat",
+  "download_filename": "deltacat-2.0.0.post4.tar.gz",
+  "download_time": "2026-04-17T21:16:22.088343",
+  "package_url": "https://pypi.org/project/deltacat/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyspark-fluvius",
+  "version": "0.2.2",
+  "summary": "PySpark custom data source for Fluvius Energy API",
+  "author": "Ward Schodts",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyspark_fluvius-0.2.2.tar.gz",
+  "download_time": "2026-04-17T21:16:09.659139",
+  "package_url": "https://pypi.org/project/pyspark-fluvius/"
+}

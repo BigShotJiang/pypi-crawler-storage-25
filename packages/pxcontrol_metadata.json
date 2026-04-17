@@ -1,0 +1,11 @@
+{
+  "name": "pxcontrol",
+  "version": "0.1.1",
+  "summary": "PXControl SDK and middleware for Python web frameworks (FastAPI, Starlette, Flask, Django).",
+  "author": "PXControl",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pxcontrol-0.1.1.tar.gz",
+  "download_time": "2026-04-17T21:16:06.967362",
+  "package_url": "https://pypi.org/project/pxcontrol/"
+}

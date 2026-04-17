@@ -1,11 +1,11 @@
 {
   "name": "vox-runtime",
-  "version": "0.2.10",
+  "version": "0.2.12",
   "summary": "Universal local runtime for STT and TTS models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vox_runtime-0.2.10.tar.gz",
-  "download_time": "2026-04-17T19:37:53.774669",
+  "download_filename": "vox_runtime-0.2.12.tar.gz",
+  "download_time": "2026-04-17T21:15:47.029447",
   "package_url": "https://pypi.org/project/vox-runtime/"
 }

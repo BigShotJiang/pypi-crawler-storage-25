@@ -1,0 +1,11 @@
+{
+  "name": "oas2mcp",
+  "version": "0.1.10",
+  "summary": "Turn OpenAPI specs into MCP-friendly catalogs, exports, and FastMCP bootstrap artifacts.",
+  "author": "Will",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oas2mcp-0.1.10.tar.gz",
+  "download_time": "2026-04-17T21:16:10.693281",
+  "package_url": "https://pypi.org/project/oas2mcp/"
+}

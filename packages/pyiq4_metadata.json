@@ -1,11 +1,11 @@
 {
   "name": "pyiq4",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Async Python client for the Rain Bird IQ4 cloud API",
   "author": "Tiago Mota",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyiq4-0.1.1.tar.gz",
-  "download_time": "2026-04-17T07:18:08.402612",
+  "download_filename": "pyiq4-0.1.2.tar.gz",
+  "download_time": "2026-04-17T21:16:21.055703",
   "package_url": "https://pypi.org/project/pyiq4/"
 }

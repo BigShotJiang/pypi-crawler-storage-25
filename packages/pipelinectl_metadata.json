@@ -1,11 +1,11 @@
 {
   "name": "pipelinectl",
-  "version": "0.3.1",
+  "version": "0.4.1",
   "summary": "CLI wrapper to trigger and tail Azure DevOps pipelines",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pipelinectl-0.3.1.tar.gz",
-  "download_time": "2026-04-16T20:51:36.819891",
+  "download_filename": "pipelinectl-0.4.1.tar.gz",
+  "download_time": "2026-04-17T21:16:21.568291",
   "package_url": "https://pypi.org/project/pipelinectl/"
 }

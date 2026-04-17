@@ -1,11 +1,11 @@
 {
   "name": "axonpush",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Python SDK for AxonPush — real-time event infrastructure for AI agent systems",
   "author": "AxonPush",
   "license": null,
   "home_page": null,
-  "download_filename": "axonpush-0.0.6.tar.gz",
-  "download_time": "2026-04-17T18:11:27.578906",
+  "download_filename": "axonpush-0.0.7.tar.gz",
+  "download_time": "2026-04-17T21:16:17.463052",
   "package_url": "https://pypi.org/project/axonpush/"
 }

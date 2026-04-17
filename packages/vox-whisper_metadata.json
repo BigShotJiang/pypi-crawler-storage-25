@@ -1,0 +1,11 @@
+{
+  "name": "vox-whisper",
+  "version": "0.2.4",
+  "summary": "faster-whisper / CTranslate2 Whisper adapter for Vox",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vox_whisper-0.2.4.tar.gz",
+  "download_time": "2026-04-17T21:15:51.681237",
+  "package_url": "https://pypi.org/project/vox-whisper/"
+}

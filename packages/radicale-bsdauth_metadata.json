@@ -1,0 +1,11 @@
+{
+  "name": "radicale-bsdauth",
+  "version": "1.1.0",
+  "summary": "Login to Radicale with your native OpenBSD accounts.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "radicale_bsdauth-1.1.0.tar.gz",
+  "download_time": "2026-04-17T21:15:57.447847",
+  "package_url": "https://pypi.org/project/radicale-bsdauth/"
+}

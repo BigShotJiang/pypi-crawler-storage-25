@@ -1,11 +1,11 @@
 {
   "name": "mcp-stdio",
-  "version": "0.4.6",
+  "version": "0.4.9",
   "summary": "Stdio-to-HTTP gateway — connects MCP clients to remote HTTP MCP servers",
   "author": "Shigechika AIKAWA",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_stdio-0.4.6.tar.gz",
-  "download_time": "2026-04-15T14:25:01.978689",
+  "download_filename": "mcp_stdio-0.4.9.tar.gz",
+  "download_time": "2026-04-17T21:16:32.971264",
   "package_url": "https://pypi.org/project/mcp-stdio/"
 }

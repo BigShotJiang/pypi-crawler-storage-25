@@ -1,11 +1,11 @@
 {
   "name": "usematcha",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "GPU energy observability for AI training workloads",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "usematcha-0.2.1.tar.gz",
-  "download_time": "2026-04-17T20:32:38.094360",
+  "download_filename": "usematcha-0.2.2.tar.gz",
+  "download_time": "2026-04-17T21:15:59.564482",
   "package_url": "https://pypi.org/project/usematcha/"
 }

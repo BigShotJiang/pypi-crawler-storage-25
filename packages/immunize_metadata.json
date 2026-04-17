@@ -1,11 +1,11 @@
 {
   "name": "immunize",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A curated pattern library that stops AI coding assistants from repeating common runtime errors — offline, no API key required.",
   "author": "Vidit Bhatnagar",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "immunize-0.1.0.tar.gz",
-  "download_time": "2026-04-17T20:32:00.817964",
+  "download_filename": "immunize-0.1.1.tar.gz",
+  "download_time": "2026-04-17T21:16:28.348336",
   "package_url": "https://pypi.org/project/immunize/"
 }

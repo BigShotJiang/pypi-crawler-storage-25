@@ -1,0 +1,11 @@
+{
+  "name": "bombcell",
+  "version": "0.88",
+  "summary": "Python port of bombcell. Automated quality control, curation and neuron classification of spike-sorted electrophysiology data.",
+  "author": "Julie Fabre, Sam Dodgson, Maxime Beau",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "bombcell-0.88.tar.gz",
+  "download_time": "2026-04-17T21:15:56.935597",
+  "package_url": "https://pypi.org/project/bombcell/"
+}
