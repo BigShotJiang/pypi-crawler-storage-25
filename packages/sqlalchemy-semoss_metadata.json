@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-semoss",
+  "version": "0.1.2",
+  "summary": "SQLAlchemy dialect and Active Record ORM for SEMOSS databases",
+  "author": "Joseph Hillhouse",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlalchemy_semoss-0.1.2.tar.gz",
+  "download_time": "2026-04-17T17:15:28.461008",
+  "package_url": "https://pypi.org/project/sqlalchemy-semoss/"
+}

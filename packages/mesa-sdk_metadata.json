@@ -1,11 +1,11 @@
 {
   "name": "mesa-sdk",
-  "version": "0.22.0",
+  "version": "0.23.0",
   "summary": "Official Mesa Python SDK",
   "author": "Mesa",
   "license": "Apache-2.0",
   "home_page": "https://mesa.dev",
-  "download_filename": "mesa_sdk-0.22.0-py3-none-any.whl",
-  "download_time": "2026-04-11T20:55:47.624829",
+  "download_filename": "mesa_sdk-0.23.0-py3-none-any.whl",
+  "download_time": "2026-04-17T17:16:03.883086",
   "package_url": "https://pypi.org/project/mesa-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "codeledger-ai",
-  "version": "0.1.6",
+  "version": "0.3.3",
   "summary": "Persistent memory, code provenance, and quality verification for AI coding agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codeledger_ai-0.1.6.tar.gz",
-  "download_time": "2026-04-16T21:47:30.424387",
+  "download_filename": "codeledger_ai-0.3.3.tar.gz",
+  "download_time": "2026-04-17T17:15:49.071466",
   "package_url": "https://pypi.org/project/codeledger-ai/"
 }

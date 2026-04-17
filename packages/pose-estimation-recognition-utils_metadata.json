@@ -1,11 +1,11 @@
 {
   "name": "pose-estimation-recognition-utils",
-  "version": "0.4.0",
+  "version": "0.4.3",
   "summary": "Classes for AI recognition on pose estimation data",
   "author": "Jonas David Stephan, Chanyut Boonkhamsaen, Nathalie Dollmann",
   "license": "Apache 2.0",
   "home_page": "https://github.com/cobtras/pose-estimation-recognition-utils",
-  "download_filename": "pose_estimation_recognition_utils-0.4.0.tar.gz",
-  "download_time": "2026-04-04T17:58:54.686140",
+  "download_filename": "pose_estimation_recognition_utils-0.4.3.tar.gz",
+  "download_time": "2026-04-17T17:15:37.222351",
   "package_url": "https://pypi.org/project/pose-estimation-recognition-utils/"
 }

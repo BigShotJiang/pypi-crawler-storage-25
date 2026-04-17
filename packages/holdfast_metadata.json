@@ -1,11 +1,11 @@
 {
   "name": "holdfast",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "summary": "Governed evolution for prompts and skills — learn from runs, propose bounded improvements, stay within contracts.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "holdfast-0.1.0.tar.gz",
-  "download_time": "2026-04-11T22:06:44.795419",
+  "download_filename": "holdfast-0.4.0.tar.gz",
+  "download_time": "2026-04-17T17:15:40.299379",
   "package_url": "https://pypi.org/project/holdfast/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "elitea-sdk",
-  "version": "0.5.35",
+  "version": "0.5.38",
   "summary": "SDK for building langchain agents using resources from EliteA",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "elitea_sdk-0.5.35.tar.gz",
-  "download_time": "2026-04-17T15:08:09.127153",
+  "download_filename": "elitea_sdk-0.5.38.tar.gz",
+  "download_time": "2026-04-17T17:15:30.926271",
   "package_url": "https://pypi.org/project/elitea-sdk/"
 }

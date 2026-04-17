@@ -1,11 +1,11 @@
 {
   "name": "rag007",
-  "version": "0.5.0",
+  "version": "0.6.2",
   "summary": "rag007 — multi-backend retrieval-augmented generation with LangGraph",
   "author": "Dominik Peter",
   "license": null,
   "home_page": null,
-  "download_filename": "rag007-0.5.0.tar.gz",
-  "download_time": "2026-04-17T11:20:11.550077",
+  "download_filename": "rag007-0.6.2.tar.gz",
+  "download_time": "2026-04-17T17:15:50.094671",
   "package_url": "https://pypi.org/project/rag007/"
 }
