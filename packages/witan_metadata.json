@@ -1,0 +1,11 @@
+{
+  "name": "witan",
+  "version": "0.9.0",
+  "summary": "Witan spreadsheet CLI for coding agents",
+  "author": "Witan Labs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/witanlabs/witan-cli",
+  "download_filename": "witan-0.9.0-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-04-17T10:19:16.110372",
+  "package_url": "https://pypi.org/project/witan/"
+}

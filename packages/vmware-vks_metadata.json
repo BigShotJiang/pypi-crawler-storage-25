@@ -1,11 +1,11 @@
 {
   "name": "vmware-vks",
-  "version": "1.5.11",
+  "version": "1.5.12",
   "summary": "MCP Skill + CLI for managing vSphere with Tanzu (VKS) — Supervisor, Namespaces, and TanzuKubernetesCluster lifecycle",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vmware_vks-1.5.11.tar.gz",
-  "download_time": "2026-04-17T00:04:38.860109",
+  "download_filename": "vmware_vks-1.5.12.tar.gz",
+  "download_time": "2026-04-17T10:19:49.593961",
   "package_url": "https://pypi.org/project/vmware-vks/"
 }

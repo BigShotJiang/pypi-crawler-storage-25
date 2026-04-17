@@ -1,11 +1,11 @@
 {
   "name": "openstef-models",
-  "version": "4.0.0a31",
+  "version": "4.0.0a33",
   "summary": "Core models for OpenSTEF",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openstef_models-4.0.0a31.tar.gz",
-  "download_time": "2026-04-10T13:54:26.431407",
+  "download_filename": "openstef_models-4.0.0a33.tar.gz",
+  "download_time": "2026-04-17T10:19:42.424508",
   "package_url": "https://pypi.org/project/openstef-models/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vmware-monitor",
-  "version": "1.5.6",
+  "version": "1.5.12",
   "summary": "VMware vCenter/ESXi read-only monitoring tool. No destructive operations — code-level enforced.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vmware_monitor-1.5.6.tar.gz",
-  "download_time": "2026-04-15T00:05:14.158289",
+  "download_filename": "vmware_monitor-1.5.12.tar.gz",
+  "download_time": "2026-04-17T10:19:50.616920",
   "package_url": "https://pypi.org/project/vmware-monitor/"
 }

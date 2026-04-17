@@ -1,11 +1,11 @@
 {
   "name": "neural-long-memory",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Neural Long Memory — hybrid long-term memory for AI agents",
   "author": "Vitalii Halak",
   "license": "Apache-2.0",
   "home_page": "https://github.com/pulseallstars/nlm",
-  "download_filename": "neural_long_memory-1.0.0.tar.gz",
-  "download_time": "2026-04-15T12:53:07.705923",
+  "download_filename": "neural_long_memory-1.1.1.tar.gz",
+  "download_time": "2026-04-17T10:19:38.780584",
   "package_url": "https://pypi.org/project/neural-long-memory/"
 }

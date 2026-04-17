@@ -1,0 +1,11 @@
+{
+  "name": "fzf-ai",
+  "version": "1.0.0",
+  "summary": "Fuzzy-find and resume any AI coding session across multiple AI assistants",
+  "author": "tuxcanfly",
+  "license": "MIT",
+  "home_page": "https://github.com/tuxcanfly/fzf-ai",
+  "download_filename": "fzf_ai-1.0.0.tar.gz",
+  "download_time": "2026-04-17T10:19:33.660242",
+  "package_url": "https://pypi.org/project/fzf-ai/"
+}

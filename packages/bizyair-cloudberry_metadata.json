@@ -1,11 +1,11 @@
 {
   "name": "bizyair-cloudberry",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "ComfyUI custom node for cloud-based workflow execution via BizyAir API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bizyair_cloudberry-0.2.3.tar.gz",
-  "download_time": "2026-04-17T03:32:28.873940",
+  "download_filename": "bizyair_cloudberry-0.2.4.tar.gz",
+  "download_time": "2026-04-17T10:20:00.925197",
   "package_url": "https://pypi.org/project/bizyair-cloudberry/"
 }

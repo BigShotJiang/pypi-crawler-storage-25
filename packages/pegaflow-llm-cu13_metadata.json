@@ -1,0 +1,11 @@
+{
+  "name": "pegaflow-llm-cu13",
+  "version": "0.20.0",
+  "summary": "High-performance key-value storage engine with Python bindings",
+  "author": "PegaFlow Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pegaflow_llm_cu13-0.20.0-cp310-cp310-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-04-17T10:19:32.601378",
+  "package_url": "https://pypi.org/project/pegaflow-llm-cu13/"
+}

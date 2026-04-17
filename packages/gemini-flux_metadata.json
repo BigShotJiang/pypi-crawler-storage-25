@@ -1,0 +1,11 @@
+{
+  "name": "gemini-flux",
+  "version": "1.0.0",
+  "summary": "Smart Gemini API key manager with token-aware sliding window scheduling",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gemini_flux-1.0.0.tar.gz",
+  "download_time": "2026-04-17T10:19:30.004002",
+  "package_url": "https://pypi.org/project/gemini-flux/"
+}

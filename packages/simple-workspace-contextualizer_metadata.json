@@ -1,0 +1,11 @@
+{
+  "name": "simple-workspace-contextualizer",
+  "version": "0.1.0",
+  "summary": "Serialize a repository into XML-like workspace context for LLM input",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_workspace_contextualizer-0.1.0.tar.gz",
+  "download_time": "2026-04-17T10:19:57.846478",
+  "package_url": "https://pypi.org/project/simple-workspace-contextualizer/"
+}

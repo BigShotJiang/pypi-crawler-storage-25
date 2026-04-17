@@ -1,0 +1,11 @@
+{
+  "name": "oceanval",
+  "version": "0.3.0",
+  "summary": "A Python package for ocean model validation and analysis",
+  "author": "Robert Wilson",
+  "license": null,
+  "home_page": "https://github.com/pmlmodelling/oceanVal",
+  "download_filename": "oceanval-0.3.0.tar.gz",
+  "download_time": "2026-04-17T10:19:53.223564",
+  "package_url": "https://pypi.org/project/oceanval/"
+}

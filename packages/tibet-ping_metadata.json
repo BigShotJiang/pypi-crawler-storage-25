@@ -1,0 +1,11 @@
+{
+  "name": "tibet-ping",
+  "version": "0.3.0",
+  "summary": "Intent-based ping with TIBET provenance — protocol, UDP transport, LAN discovery, ClusterMux diagnostics, and full stack health checks.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tibet_ping-0.3.0.tar.gz",
+  "download_time": "2026-04-17T10:19:20.740448",
+  "package_url": "https://pypi.org/project/tibet-ping/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ontoink",
+  "version": "0.5.2",
+  "summary": "Interactive ontology visualization, SHACL validation, and live TTL editing plugin for MkDocs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ontoink-0.5.2.tar.gz",
+  "download_time": "2026-04-17T10:19:32.051129",
+  "package_url": "https://pypi.org/project/ontoink/"
+}
