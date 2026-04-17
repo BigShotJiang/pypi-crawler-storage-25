@@ -1,11 +1,11 @@
 {
   "name": "api-anything",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "summary": "Auto-generate Python APIs from any software. Beyond CLI-Anything.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "api_anything-0.2.1.tar.gz",
-  "download_time": "2026-04-17T12:12:15.831359",
+  "download_filename": "api_anything-0.3.1.tar.gz",
+  "download_time": "2026-04-17T22:07:41.866752",
   "package_url": "https://pypi.org/project/api-anything/"
 }

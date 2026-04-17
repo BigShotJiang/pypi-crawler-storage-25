@@ -1,0 +1,11 @@
+{
+  "name": "codevira",
+  "version": "1.7.0",
+  "summary": "Persistent adaptive memory for AI coding agents — MCP server with context graph, semantic search, adaptive learning, roadmap tracking, and cross-tool continuity.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codevira-1.7.0.tar.gz",
+  "download_time": "2026-04-17T22:07:23.290401",
+  "package_url": "https://pypi.org/project/codevira/"
+}

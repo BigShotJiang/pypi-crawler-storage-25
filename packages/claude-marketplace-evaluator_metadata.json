@@ -1,0 +1,11 @@
+{
+  "name": "claude-marketplace-evaluator",
+  "version": "0.2.1",
+  "summary": "CLI for Claude Code marketplace health — routing evals, coverage checks, and semantic collision detection",
+  "author": "IceRhymers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_marketplace_evaluator-0.2.1.tar.gz",
+  "download_time": "2026-04-17T22:07:27.440767",
+  "package_url": "https://pypi.org/project/claude-marketplace-evaluator/"
+}

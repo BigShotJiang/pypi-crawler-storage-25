@@ -1,11 +1,11 @@
 {
   "name": "data-designer-engine",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "summary": "Generation engine for DataDesigner synthetic data generation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "data_designer_engine-0.5.6.tar.gz",
-  "download_time": "2026-04-17T20:32:12.177688",
+  "download_filename": "data_designer_engine-0.5.7.tar.gz",
+  "download_time": "2026-04-17T22:07:20.210763",
   "package_url": "https://pypi.org/project/data-designer-engine/"
 }

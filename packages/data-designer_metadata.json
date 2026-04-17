@@ -1,11 +1,11 @@
 {
   "name": "data-designer",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "summary": "General framework for synthetic data generation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "data_designer-0.5.6.tar.gz",
-  "download_time": "2026-04-17T20:32:11.661034",
+  "download_filename": "data_designer-0.5.7.tar.gz",
+  "download_time": "2026-04-17T22:07:19.691309",
   "package_url": "https://pypi.org/project/data-designer/"
 }

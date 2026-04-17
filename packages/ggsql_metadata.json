@@ -1,11 +1,11 @@
 {
   "name": "ggsql",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "SQL extension for declarative data visualization",
   "author": null,
   "license": "MIT",
   "home_page": "https://ggsql.org",
-  "download_filename": "ggsql-0.2.2.tar.gz",
-  "download_time": "2026-04-17T17:15:27.884952",
+  "download_filename": "ggsql-0.2.5.tar.gz",
+  "download_time": "2026-04-17T22:07:37.229676",
   "package_url": "https://pypi.org/project/ggsql/"
 }

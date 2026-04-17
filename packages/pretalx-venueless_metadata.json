@@ -1,0 +1,11 @@
+{
+  "name": "pretalx-venueless",
+  "version": "1.8.0",
+  "summary": "Venueless integration for pretalx, pushing schedule updates and providing speaker join links.",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "pretalx_venueless-1.8.0.tar.gz",
+  "download_time": "2026-04-17T22:07:44.943846",
+  "package_url": "https://pypi.org/project/pretalx-venueless/"
+}
