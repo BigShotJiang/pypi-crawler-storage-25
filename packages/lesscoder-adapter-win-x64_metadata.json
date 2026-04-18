@@ -1,11 +1,11 @@
 {
   "name": "lesscoder-adapter-win-x64",
-  "version": "0.1.8",
+  "version": "0.1.11",
   "summary": "Windows x64 adapter binary package for lesscoder.",
   "author": "lesscoder team",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "lesscoder_adapter_win_x64-0.1.8.tar.gz",
-  "download_time": "2026-04-18T05:01:04.716765",
+  "download_filename": "lesscoder_adapter_win_x64-0.1.11.tar.gz",
+  "download_time": "2026-04-18T11:08:31.859407",
   "package_url": "https://pypi.org/project/lesscoder-adapter-win-x64/"
 }

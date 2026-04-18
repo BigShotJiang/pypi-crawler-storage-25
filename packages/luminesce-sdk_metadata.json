@@ -1,11 +1,11 @@
 {
   "name": "luminesce-sdk",
-  "version": "2.4.62",
+  "version": "2.4.64",
   "summary": "FINBOURNE Luminesce Web API",
   "author": "FINBOURNE Technology",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "luminesce_sdk-2.4.62.tar.gz",
-  "download_time": "2026-04-10T20:23:58.192259",
+  "download_filename": "luminesce_sdk-2.4.64.tar.gz",
+  "download_time": "2026-04-18T11:08:55.083261",
   "package_url": "https://pypi.org/project/luminesce-sdk/"
 }

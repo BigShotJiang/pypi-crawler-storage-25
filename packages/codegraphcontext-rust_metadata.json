@@ -1,0 +1,11 @@
+{
+  "name": "codegraphcontext-rust",
+  "version": "0.6.2",
+  "summary": "Rust-accelerated code indexing engine for CodeGraphContext. 19 languages, 5-18x faster parsing via tree-sitter + rayon.",
+  "author": "tinhthanh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codegraphcontext_rust-0.6.2-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-18T11:08:33.779570",
+  "package_url": "https://pypi.org/project/codegraphcontext-rust/"
+}

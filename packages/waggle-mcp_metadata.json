@@ -1,11 +1,11 @@
 {
   "name": "waggle-mcp",
-  "version": "0.1.0",
+  "version": "0.1.6",
   "summary": "MCP server that gives LLMs persistent graph-structured memory",
   "author": "Abhigyan Shekhar",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "waggle_mcp-0.1.0.tar.gz",
-  "download_time": "2026-04-12T08:13:20.759560",
+  "download_filename": "waggle_mcp-0.1.6.tar.gz",
+  "download_time": "2026-04-18T11:09:01.636467",
   "package_url": "https://pypi.org/project/waggle-mcp/"
 }

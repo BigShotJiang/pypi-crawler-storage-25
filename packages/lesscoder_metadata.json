@@ -1,11 +1,11 @@
 {
   "name": "lesscoder",
-  "version": "0.1.8",
+  "version": "0.1.11",
   "summary": "Code-Native Engine MVP CLI (Java-focused) with local orchestrator and adapter workflow.",
   "author": "lesscoder team",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "lesscoder-0.1.8.tar.gz",
-  "download_time": "2026-04-18T05:01:05.235822",
+  "download_filename": "lesscoder-0.1.11.tar.gz",
+  "download_time": "2026-04-18T11:08:32.432102",
   "package_url": "https://pypi.org/project/lesscoder/"
 }

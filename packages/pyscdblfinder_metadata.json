@@ -1,0 +1,11 @@
+{
+  "name": "pyscdblfinder",
+  "version": "0.1.0",
+  "summary": "Pure-Python scDblFinder — fast doublet detection in scRNA-seq via artificial-doublet xgboost classification, AnnData-native.",
+  "author": null,
+  "license": "GNU GENERAL PUBLIC LICENSE\n                               Version 3, 29 June 2007\n        \n        This Python port is released under the same GPL-3 license as the\n        upstream R scDblFinder package (https://github.com/plger/scDblFinder).\n        \n        For the full text see https://www.gnu.org/licenses/gpl-3.0.en.html\n        ",
+  "home_page": null,
+  "download_filename": "pyscdblfinder-0.1.0.tar.gz",
+  "download_time": "2026-04-18T11:08:45.275911",
+  "package_url": "https://pypi.org/project/pyscdblfinder/"
+}

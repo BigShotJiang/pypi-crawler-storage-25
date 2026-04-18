@@ -1,0 +1,11 @@
+{
+  "name": "configtype",
+  "version": "0.0.9",
+  "summary": "Configtype bridges json configuration to python.",
+  "author": "Lars van de Kerkhof",
+  "license": "GPLv3",
+  "home_page": "https://github.com/specialunderwear/configtype",
+  "download_filename": "configtype-0.0.9.tar.gz",
+  "download_time": "2026-04-18T11:09:10.299679",
+  "package_url": "https://pypi.org/project/configtype/"
+}

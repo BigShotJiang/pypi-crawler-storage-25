@@ -1,0 +1,11 @@
+{
+  "name": "axiomtradeapi",
+  "version": "1.1.1",
+  "summary": "A comprehensive Python client for the AxiomTrade API with automatic token management, secure authentication, and extensive trading analytics for Solana meme tokens.",
+  "author": "ChipaDevTeam",
+  "license": null,
+  "home_page": "https://github.com/ChipaDevTeam/AxiomTradeAPI-py",
+  "download_filename": "axiomtradeapi-1.1.1.tar.gz",
+  "download_time": "2026-04-18T11:08:28.946950",
+  "package_url": "https://pypi.org/project/axiomtradeapi/"
+}

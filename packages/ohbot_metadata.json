@@ -1,0 +1,11 @@
+{
+  "name": "ohbot",
+  "version": "4.0.18",
+  "summary": "Python library for controlling an Ohbot Robot",
+  "author": "ohbot",
+  "license": null,
+  "home_page": "https://github.com/ohbot/ohbot-python",
+  "download_filename": "ohbot-4.0.18.tar.gz",
+  "download_time": "2026-04-18T11:08:52.897848",
+  "package_url": "https://pypi.org/project/ohbot/"
+}
