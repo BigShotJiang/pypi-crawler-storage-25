@@ -1,11 +1,11 @@
 {
   "name": "trnrand",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Random number generation for AWS Trainium via NKI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trnrand-0.4.0.tar.gz",
-  "download_time": "2026-04-18T21:39:39.993349",
+  "download_filename": "trnrand-0.4.1.tar.gz",
+  "download_time": "2026-04-18T22:10:43.900745",
   "package_url": "https://pypi.org/project/trnrand/"
 }

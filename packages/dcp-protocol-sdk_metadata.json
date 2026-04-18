@@ -1,0 +1,11 @@
+{
+  "name": "dcp-protocol-sdk",
+  "version": "1.0.0",
+  "summary": "DCP Protocol SDK — 9-layer zero-knowledge AES-256-GCM encryption",
+  "author": "D.N.A Ecosystem",
+  "license": "MIT",
+  "home_page": "https://dcprotocol.link",
+  "download_filename": "dcp_protocol_sdk-1.0.0.tar.gz",
+  "download_time": "2026-04-18T22:10:51.197550",
+  "package_url": "https://pypi.org/project/dcp-protocol-sdk/"
+}

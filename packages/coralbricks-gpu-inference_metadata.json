@@ -1,0 +1,11 @@
+{
+  "name": "coralbricks-gpu-inference",
+  "version": "0.1.0",
+  "summary": "Production-grade gRPC GPU embedding inference server with token-bucket batching, backpressure, and torch.compile support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "coralbricks_gpu_inference-0.1.0.tar.gz",
+  "download_time": "2026-04-18T22:11:09.999875",
+  "package_url": "https://pypi.org/project/coralbricks-gpu-inference/"
+}

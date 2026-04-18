@@ -1,0 +1,11 @@
+{
+  "name": "coralbricks-context-prep",
+  "version": "0.1.0",
+  "summary": "Build-time context preparation for agentic AI: clean, chunk, embed, enrich, hydrate. No orchestrator, no parser layer — just primitives over records.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "coralbricks_context_prep-0.1.0.tar.gz",
+  "download_time": "2026-04-18T22:11:11.030370",
+  "package_url": "https://pypi.org/project/coralbricks-context-prep/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "caronashow-api",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Python client for CaronaShow APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "caronashow_api-0.2.0.tar.gz",
-  "download_time": "2026-04-18T17:11:25.790127",
+  "download_filename": "caronashow_api-0.2.2.tar.gz",
+  "download_time": "2026-04-18T22:11:06.875428",
   "package_url": "https://pypi.org/project/caronashow-api/"
 }

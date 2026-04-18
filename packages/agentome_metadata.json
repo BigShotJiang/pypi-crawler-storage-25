@@ -1,11 +1,11 @@
 {
   "name": "agentome",
-  "version": "0.3.0b3",
-  "summary": "Genome-based context compression for AI agents — thin wrapper around Helix Context",
+  "version": "0.4.0b1",
+  "summary": "Agentome — coordinate index layer for agent context, powered by Helix Context",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentome-0.3.0b3.tar.gz",
-  "download_time": "2026-04-10T08:53:14.468434",
+  "download_filename": "agentome-0.4.0b1.tar.gz",
+  "download_time": "2026-04-18T22:11:06.363263",
   "package_url": "https://pypi.org/project/agentome/"
 }

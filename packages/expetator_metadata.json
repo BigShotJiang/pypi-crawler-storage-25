@@ -1,0 +1,11 @@
+{
+  "name": "expetator",
+  "version": "0.3.32",
+  "summary": "A framework for monitoring HPC applications using DVFS",
+  "author": "Georges Da Costa",
+  "license": null,
+  "home_page": "https://gitlab.irit.fr/sepia-pub/expetator",
+  "download_filename": "expetator-0.3.32.tar.gz",
+  "download_time": "2026-04-18T22:10:57.960660",
+  "package_url": "https://pypi.org/project/expetator/"
+}

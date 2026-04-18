@@ -1,11 +1,11 @@
 {
   "name": "cctree",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Personal Claude Code session browser, fork-from-message tool, and history navigator.",
   "author": "tinytim",
   "license": "BUSL-1.1",
   "home_page": null,
-  "download_filename": "cctree-0.4.0.tar.gz",
-  "download_time": "2026-04-18T21:39:38.854735",
+  "download_filename": "cctree-0.4.1.tar.gz",
+  "download_time": "2026-04-18T22:10:34.025856",
   "package_url": "https://pypi.org/project/cctree/"
 }

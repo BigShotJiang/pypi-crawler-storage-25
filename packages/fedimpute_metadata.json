@@ -1,0 +1,11 @@
+{
+  "name": "fedimpute",
+  "version": "0.3.0",
+  "summary": "fedimpute is a benchmarking tool for federated imputation",
+  "author": "Sitao Min (idlsa Rutgers University)",
+  "license": "GPL GNU v3.0",
+  "home_page": null,
+  "download_filename": "fedimpute-0.3.0.tar.gz",
+  "download_time": "2026-04-18T22:11:16.199143",
+  "package_url": "https://pypi.org/project/fedimpute/"
+}
