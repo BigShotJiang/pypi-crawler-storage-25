@@ -1,0 +1,11 @@
+{
+  "name": "oopz-sdk",
+  "version": "0.5.0",
+  "summary": "Oopz 平台 Python SDK，提供 HTTP API、文件上传与 WebSocket 事件能力。",
+  "author": "Oopzbot Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oopz_sdk-0.5.0.tar.gz",
+  "download_time": "2026-04-18T18:00:42.466419",
+  "package_url": "https://pypi.org/project/oopz-sdk/"
+}

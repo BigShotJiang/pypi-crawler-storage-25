@@ -1,11 +1,11 @@
 {
   "name": "linkbreakers",
-  "version": "1.46.3",
+  "version": "1.46.4",
   "summary": "Linkbreakers API",
   "author": "Linkbreakers",
   "license": null,
   "home_page": "https://linkbreakers.com",
-  "download_filename": "linkbreakers-1.46.3.tar.gz",
-  "download_time": "2026-04-03T09:39:44.715264",
+  "download_filename": "linkbreakers-1.46.4.tar.gz",
+  "download_time": "2026-04-18T18:00:39.333273",
   "package_url": "https://pypi.org/project/linkbreakers/"
 }

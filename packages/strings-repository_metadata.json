@@ -1,0 +1,11 @@
+{
+  "name": "strings-repository",
+  "version": "1.1.0",
+  "summary": "Simple commandline tool for pulling data from strings repository (https://github.com/HereTrix/strings_repository)",
+  "author": "HereTrix",
+  "license": "MIT",
+  "home_page": "https://github.com/HereTrix/strings_repository_cli",
+  "download_filename": "strings_repository-1.1.0.tar.gz",
+  "download_time": "2026-04-18T18:00:50.448719",
+  "package_url": "https://pypi.org/project/strings-repository/"
+}

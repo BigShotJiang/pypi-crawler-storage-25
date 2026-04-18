@@ -1,0 +1,11 @@
+{
+  "name": "nsys2prv",
+  "version": "0.5.8",
+  "summary": "Translate a NVIDIA Nsight System trace to a Paraver trace",
+  "author": "Marc Clascà",
+  "license": "GPL-3.0-only",
+  "home_page": "https://pm.bsc.es/gitlab/beppp/nsys2prv",
+  "download_filename": "nsys2prv-0.5.8.tar.gz",
+  "download_time": "2026-04-18T18:00:59.583794",
+  "package_url": "https://pypi.org/project/nsys2prv/"
+}

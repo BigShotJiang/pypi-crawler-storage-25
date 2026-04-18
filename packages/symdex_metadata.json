@@ -1,0 +1,11 @@
+{
+  "name": "symdex",
+  "version": "0.1.25",
+  "summary": "Repo-local code intelligence for AI coding agents - symbols, semantic search, call graphs, routes, and token savings",
+  "author": "Muhammad Husnain",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "symdex-0.1.25.tar.gz",
+  "download_time": "2026-04-18T18:00:45.661505",
+  "package_url": "https://pypi.org/project/symdex/"
+}

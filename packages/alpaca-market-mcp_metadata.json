@@ -1,11 +1,11 @@
 {
   "name": "alpaca-market-mcp",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "summary": "MCP server for technical analysis with Alpaca market data - Bollinger Bands, Moving Averages, Stochastics, and 11 trading strategies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "alpaca_market_mcp-0.1.9.tar.gz",
-  "download_time": "2026-04-18T00:04:29.288844",
+  "download_filename": "alpaca_market_mcp-0.2.0.tar.gz",
+  "download_time": "2026-04-18T18:00:28.856457",
   "package_url": "https://pypi.org/project/alpaca-market-mcp/"
 }

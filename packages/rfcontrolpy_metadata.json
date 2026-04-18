@@ -1,0 +1,11 @@
+{
+  "name": "rfcontrolpy",
+  "version": "0.0.11",
+  "summary": "Library with protocol support for different 433MHz switches and weather stations for the RFControl Arduino library.",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "rfcontrolpy-0.0.11.tar.gz",
+  "download_time": "2026-04-18T18:00:53.574908",
+  "package_url": "https://pypi.org/project/rfcontrolpy/"
+}

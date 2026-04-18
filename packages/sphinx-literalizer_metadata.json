@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-literalizer",
+  "version": "2026.4.18",
+  "summary": "Sphinx extension for literalizer — convert JSON, YAML, TOML, and JSON5 to native language literals",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_literalizer-2026.4.18.tar.gz",
+  "download_time": "2026-04-18T18:00:57.881282",
+  "package_url": "https://pypi.org/project/sphinx-literalizer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "echostash",
+  "version": "1.2.0",
+  "summary": "The universal prompt SDK. Fetch prompts from any PLP-compliant library and use them with any AI provider.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "echostash-1.2.0.tar.gz",
+  "download_time": "2026-04-18T18:00:42.985415",
+  "package_url": "https://pypi.org/project/echostash/"
+}

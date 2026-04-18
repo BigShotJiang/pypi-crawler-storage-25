@@ -1,0 +1,11 @@
+{
+  "name": "trajex",
+  "version": "0.3.0",
+  "summary": "The open format for AI agent execution traces — assert what your agent DID, not just what it said",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trajex-0.3.0.tar.gz",
+  "download_time": "2026-04-18T18:00:22.957701",
+  "package_url": "https://pypi.org/project/trajex/"
+}
