@@ -1,0 +1,11 @@
+{
+  "name": "omd",
+  "version": "0.2.0",
+  "summary": "One More Dimension — lightweight LLM agent framework with tool-calling, skills, and file tools",
+  "author": "mrYush",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omd-0.2.0.tar.gz",
+  "download_time": "2026-04-18T16:27:31.517754",
+  "package_url": "https://pypi.org/project/omd/"
+}

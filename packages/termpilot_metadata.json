@@ -1,11 +1,11 @@
 {
   "name": "termpilot",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A terminal AI coding assistant implemented in Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "termpilot-0.1.5.tar.gz",
-  "download_time": "2026-04-18T15:04:16.651414",
+  "download_filename": "termpilot-0.1.6.tar.gz",
+  "download_time": "2026-04-18T16:27:39.864828",
   "package_url": "https://pypi.org/project/termpilot/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyturboquant",
+  "version": "0.1.1",
+  "summary": "High-performance implementation of Google's TurboQuant: online vector quantization with near-optimal distortion rates",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyturboquant-0.1.1.tar.gz",
+  "download_time": "2026-04-18T16:27:32.588494",
+  "package_url": "https://pypi.org/project/pyturboquant/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ndastro-engine",
+  "version": "0.21.0",
+  "summary": "A modern Vedic astrology calculation engine for Python, providing accurate astronomical calculations for birth charts, planetary positions, and ayanamsa systems.",
+  "author": "Jaganathan, B",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ndastro_engine-0.21.0.tar.gz",
+  "download_time": "2026-04-18T16:27:43.078512",
+  "package_url": "https://pypi.org/project/ndastro-engine/"
+}

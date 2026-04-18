@@ -1,11 +1,11 @@
 {
   "name": "claude-smart-compact",
-  "version": "0.1.2",
+  "version": "0.1.8",
   "summary": "Claude Code hooks that preserve task state and user preferences across auto-compaction",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_smart_compact-0.1.2.tar.gz",
-  "download_time": "2026-04-18T13:06:04.958710",
+  "download_filename": "claude_smart_compact-0.1.8.tar.gz",
+  "download_time": "2026-04-18T16:27:23.777958",
   "package_url": "https://pypi.org/project/claude-smart-compact/"
 }

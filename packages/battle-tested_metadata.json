@@ -1,0 +1,11 @@
+{
+  "name": "battle-tested",
+  "version": "2026.4.18",
+  "summary": "automated function and api fuzzer for easy testing of production code",
+  "author": "Cody Kochmann",
+  "license": null,
+  "home_page": "https://github.com/CodyKochmann/battle_tested",
+  "download_filename": "battle_tested-2026.4.18-py3-none-any.whl",
+  "download_time": "2026-04-18T16:27:28.096436",
+  "package_url": "https://pypi.org/project/battle-tested/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "boundaryai",
+  "version": "0.6.9",
+  "summary": "Universal AI Firewall SDK — prevents PII, credentials, and sensitive data from leaking through ANY AI tool.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boundaryai-0.6.9.tar.gz",
+  "download_time": "2026-04-18T16:27:36.514395",
+  "package_url": "https://pypi.org/project/boundaryai/"
+}

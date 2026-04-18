@@ -1,11 +1,11 @@
 {
   "name": "atlast-ecp",
-  "version": "0.31.1",
+  "version": "0.32.3",
   "summary": "ATLAST Evidence Chain Protocol — trust infrastructure for AI Agents",
   "author": "ATLAST Protocol Working Group",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "atlast_ecp-0.31.1.tar.gz",
-  "download_time": "2026-04-17T15:08:33.318546",
+  "download_filename": "atlast_ecp-0.32.3.tar.gz",
+  "download_time": "2026-04-18T16:27:28.646963",
   "package_url": "https://pypi.org/project/atlast-ecp/"
 }

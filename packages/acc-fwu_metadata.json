@@ -1,0 +1,11 @@
+{
+  "name": "acc-fwu",
+  "version": "0.2.3",
+  "summary": "A tool to update Linode/ACC firewall rules with your current IP address.",
+  "author": "John Bradshaw",
+  "license": null,
+  "home_page": "https://github.com/johnybradshaw/acc-firewall_updater",
+  "download_filename": "acc_fwu-0.2.3.tar.gz",
+  "download_time": "2026-04-18T16:27:24.320906",
+  "package_url": "https://pypi.org/project/acc-fwu/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "unicorn-fy",
-  "version": "0.17.1",
-  "summary": "A Python SDK to convert received raw data from crypto exchange API endpoints into well-formed python dictionaries.",
+  "version": "0.17.2",
+  "summary": "Normalizes raw responses from crypto exchange APIs (Binance & co.) into consistent, cleanly-typed Python dictionaries. A transformation layer that makes exchange data interchangeable instead of exchange-specific.",
   "author": "Oliver Zehentleitner",
   "license": "MIT",
   "home_page": "https://github.com/oliver-zehentleitner/unicorn-fy",
-  "download_filename": "unicorn_fy-0.17.1.tar.gz",
-  "download_time": "2026-04-14T11:48:51.536923",
+  "download_filename": "unicorn_fy-0.17.2.tar.gz",
+  "download_time": "2026-04-18T16:27:27.553885",
   "package_url": "https://pypi.org/project/unicorn-fy/"
 }

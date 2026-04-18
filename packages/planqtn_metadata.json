@@ -1,0 +1,11 @@
+{
+  "name": "planqtn",
+  "version": "0.2.0",
+  "summary": "PlanqTN is a tensor network quantum error correction library implementation of the quantum LEGO framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "planqtn-0.2.0.tar.gz",
+  "download_time": "2026-04-18T16:27:54.273343",
+  "package_url": "https://pypi.org/project/planqtn/"
+}

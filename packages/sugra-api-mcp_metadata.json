@@ -1,11 +1,11 @@
 {
   "name": "sugra-api-mcp",
-  "version": "0.1.4",
+  "version": "0.3.0",
   "summary": "Connector between LLM agents and world data. 518+ endpoints aggregating 55+ primary sources across financial markets, macroeconomics, company fundamentals, government, physical world, and news. Works with Anthropic Claude, OpenAI GPT, Google Gemini, xAI, and any MCP-enabled IDE.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sugra_api_mcp-0.1.4.tar.gz",
-  "download_time": "2026-04-17T17:15:38.753515",
+  "download_filename": "sugra_api_mcp-0.3.0.tar.gz",
+  "download_time": "2026-04-18T16:27:55.360916",
   "package_url": "https://pypi.org/project/sugra-api-mcp/"
 }

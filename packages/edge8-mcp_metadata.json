@@ -1,11 +1,11 @@
 {
   "name": "edge8-mcp",
-  "version": "0.1.7",
+  "version": "0.1.12",
   "summary": "Edge8 MCP server — Lark, Zernio, and agent setup tools for Claude Code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "edge8_mcp-0.1.7-py3-none-any.whl",
-  "download_time": "2026-04-18T10:12:48.768128",
+  "download_filename": "edge8_mcp-0.1.12-py3-none-any.whl",
+  "download_time": "2026-04-18T16:27:42.022743",
   "package_url": "https://pypi.org/project/edge8-mcp/"
 }
