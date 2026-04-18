@@ -1,11 +1,11 @@
 {
   "name": "awid-service",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "awid.ai identity registry service and shared awid primitives package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "awid_service-0.2.6.tar.gz",
-  "download_time": "2026-04-18T10:13:03.953655",
+  "download_filename": "awid_service-0.2.7.tar.gz",
+  "download_time": "2026-04-18T11:56:19.131425",
   "package_url": "https://pypi.org/project/awid-service/"
 }

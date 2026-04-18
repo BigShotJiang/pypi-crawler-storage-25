@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-spectrum-stravision",
-  "version": "2.0.9",
+  "version": "2.0.12",
   "summary": "Enhanced Spectrum MCP Server for Stravision IoT Platform with real-time MQTT data acquisition and historical data tracking",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_spectrum_stravision-2.0.9.tar.gz",
-  "download_time": "2026-04-16T08:10:10.718968",
+  "download_filename": "mcp_server_spectrum_stravision-2.0.12.tar.gz",
+  "download_time": "2026-04-18T11:56:00.844432",
   "package_url": "https://pypi.org/project/mcp-server-spectrum-stravision/"
 }

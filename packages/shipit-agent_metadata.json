@@ -1,11 +1,11 @@
 {
   "name": "shipit-agent",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "A clean, powerful agent runtime with tools, MCP support, profiles, and streaming events.",
   "author": "Rahul Raj",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shipit_agent-1.0.4.tar.gz",
-  "download_time": "2026-04-12T17:24:51.255988",
+  "download_filename": "shipit_agent-1.0.5.tar.gz",
+  "download_time": "2026-04-18T11:56:04.474336",
   "package_url": "https://pypi.org/project/shipit-agent/"
 }

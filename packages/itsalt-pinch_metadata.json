@@ -1,0 +1,11 @@
+{
+  "name": "itsalt-pinch",
+  "version": "0.1.1",
+  "summary": "Architecturally-capped pacing for parallel claude -p calls. Automate yourself, not around Anthropic.",
+  "author": "ITSalt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "itsalt_pinch-0.1.1.tar.gz",
+  "download_time": "2026-04-18T11:55:49.020786",
+  "package_url": "https://pypi.org/project/itsalt-pinch/"
+}

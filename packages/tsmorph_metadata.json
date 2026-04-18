@@ -1,0 +1,11 @@
+{
+  "name": "tsmorph",
+  "version": "0.2.0",
+  "summary": "A package for generating semi-synthetic time series using morphing techniques.",
+  "author": "Moisés Santos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsmorph-0.2.0.tar.gz",
+  "download_time": "2026-04-18T11:56:19.643868",
+  "package_url": "https://pypi.org/project/tsmorph/"
+}

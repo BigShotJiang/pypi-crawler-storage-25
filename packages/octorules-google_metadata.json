@@ -1,11 +1,11 @@
 {
   "name": "octorules-google",
-  "version": "0.8.5",
+  "version": "0.9.2",
   "summary": "Google Cloud Armor provider for octorules",
   "author": "Martin Simon, Doctena S.A.",
   "license": null,
   "home_page": null,
-  "download_filename": "octorules_google-0.8.5.tar.gz",
-  "download_time": "2026-04-09T11:41:48.493617",
+  "download_filename": "octorules_google-0.9.2.tar.gz",
+  "download_time": "2026-04-18T11:56:17.594714",
   "package_url": "https://pypi.org/project/octorules-google/"
 }

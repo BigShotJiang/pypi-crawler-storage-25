@@ -1,11 +1,11 @@
 {
   "name": "prettyid",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "Pretty cool IDs for your APIs",
   "author": "Alexander Pushkov",
   "license": null,
   "home_page": null,
-  "download_filename": "prettyid-0.3.5.tar.gz",
-  "download_time": "2026-04-17T19:37:13.631218",
+  "download_filename": "prettyid-0.3.6.tar.gz",
+  "download_time": "2026-04-18T11:55:45.883975",
   "package_url": "https://pypi.org/project/prettyid/"
 }

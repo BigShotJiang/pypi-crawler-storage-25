@@ -1,0 +1,11 @@
+{
+  "name": "tokenmap",
+  "version": "0.1.0",
+  "summary": "GitHub-style contribution heatmap for your AI coding tool usage. Supports Claude Code, Codex, OpenCode & Cursor.",
+  "author": "Akshat Shaw @akshatshaw & Harsh Kedia @harshkedia177",
+  "license": null,
+  "home_page": "https://github.com/akshatshaw/tokenmap-python",
+  "download_filename": "tokenmap-0.1.0.tar.gz",
+  "download_time": "2026-04-18T11:56:12.929499",
+  "package_url": "https://pypi.org/project/tokenmap/"
+}
