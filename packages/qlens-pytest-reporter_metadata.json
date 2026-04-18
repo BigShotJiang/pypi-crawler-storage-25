@@ -1,0 +1,11 @@
+{
+  "name": "qlens-pytest-reporter",
+  "version": "0.1.0",
+  "summary": "pytest plugin that posts run summaries to QualityPilot (qlens.dev) CI ingest.",
+  "author": "IK Lab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qlens_pytest_reporter-0.1.0.tar.gz",
+  "download_time": "2026-04-18T00:04:00.732748",
+  "package_url": "https://pypi.org/project/qlens-pytest-reporter/"
+}

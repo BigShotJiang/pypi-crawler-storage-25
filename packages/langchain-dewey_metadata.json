@@ -1,11 +1,11 @@
 {
   "name": "langchain-dewey",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "LangChain integration for Dewey — retriever, vector store, and research tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langchain_dewey-0.1.0.tar.gz",
-  "download_time": "2026-04-04T05:42:45.232615",
+  "download_filename": "langchain_dewey-0.2.0.tar.gz",
+  "download_time": "2026-04-18T00:04:36.979759",
   "package_url": "https://pypi.org/project/langchain-dewey/"
 }

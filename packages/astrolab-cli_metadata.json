@@ -1,0 +1,11 @@
+{
+  "name": "astrolab-cli",
+  "version": "1.0.2",
+  "summary": "AstroLab: A Space-themed study CLI tool using real NASA data and Google Gemini AI.",
+  "author": "EngThi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "astrolab_cli-1.0.2.tar.gz",
+  "download_time": "2026-04-18T00:04:05.343513",
+  "package_url": "https://pypi.org/project/astrolab-cli/"
+}

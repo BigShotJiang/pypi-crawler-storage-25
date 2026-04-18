@@ -1,0 +1,11 @@
+{
+  "name": "tempest-rw",
+  "version": "0.0.1",
+  "summary": "GPU-accelerated temporal random walks on streaming graphs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tempest_rw-0.0.1-cp310-cp310-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-04-18T00:04:35.959558",
+  "package_url": "https://pypi.org/project/tempest-rw/"
+}

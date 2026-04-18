@@ -1,0 +1,11 @@
+{
+  "name": "trading-mcp-backtest",
+  "version": "0.1.0",
+  "summary": "Backtest MCP server — strategy backtesting in isolated Docker sandbox",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trading_mcp_backtest-0.1.0.tar.gz",
+  "download_time": "2026-04-18T00:03:59.199813",
+  "package_url": "https://pypi.org/project/trading-mcp-backtest/"
+}

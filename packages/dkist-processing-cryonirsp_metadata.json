@@ -1,11 +1,11 @@
 {
   "name": "dkist-processing-cryonirsp",
-  "version": "1.18.2",
+  "version": "1.18.6",
   "summary": "Science processing code for the Cryo-NIRSP instrument on DKIST",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "dkist_processing_cryonirsp-1.18.2.tar.gz",
-  "download_time": "2026-04-07T22:52:01.958325",
+  "download_filename": "dkist_processing_cryonirsp-1.18.6.tar.gz",
+  "download_time": "2026-04-18T00:04:33.385871",
   "package_url": "https://pypi.org/project/dkist-processing-cryonirsp/"
 }
