@@ -1,0 +1,11 @@
+{
+  "name": "vqe-pennylane",
+  "version": "0.3.15",
+  "summary": "Quantum Simulation Suite with VQE, QPE, and QITE modules (PennyLane-based)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vqe_pennylane-0.3.15.tar.gz",
+  "download_time": "2026-04-18T02:30:37.724996",
+  "package_url": "https://pypi.org/project/vqe-pennylane/"
+}

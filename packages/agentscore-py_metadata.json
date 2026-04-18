@@ -1,11 +1,11 @@
 {
   "name": "agentscore-py",
-  "version": "1.4.2",
+  "version": "1.5.0",
   "summary": "Python client for the AgentScore trust and reputation API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentscore_py-1.4.2.tar.gz",
-  "download_time": "2026-04-08T16:50:19.189998",
+  "download_filename": "agentscore_py-1.5.0.tar.gz",
+  "download_time": "2026-04-18T02:31:19.495107",
   "package_url": "https://pypi.org/project/agentscore-py/"
 }

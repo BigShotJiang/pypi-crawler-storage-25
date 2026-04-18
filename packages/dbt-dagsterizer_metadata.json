@@ -1,11 +1,11 @@
 {
   "name": "dbt-dagsterizer",
-  "version": "0.1.10",
+  "version": "0.1.13",
   "summary": "Dagster automation driven by dbt metadata (Luban CI)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_dagsterizer-0.1.10.tar.gz",
-  "download_time": "2026-04-16T03:52:01.367539",
+  "download_filename": "dbt_dagsterizer-0.1.13.tar.gz",
+  "download_time": "2026-04-18T02:31:00.311239",
   "package_url": "https://pypi.org/project/dbt-dagsterizer/"
 }

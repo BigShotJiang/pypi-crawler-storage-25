@@ -1,11 +1,11 @@
 {
   "name": "burmesegpt",
-  "version": "0.1.5",
+  "version": "0.1.9",
   "summary": "BurmeseGPT is a Burmese-first AI ecosystem package, including Padauk, an agentic small language model built for tool use, function calling, and local deployment.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "burmesegpt-0.1.5.tar.gz",
-  "download_time": "2026-04-18T00:04:12.035368",
+  "download_filename": "burmesegpt-0.1.9.tar.gz",
+  "download_time": "2026-04-18T02:30:58.282199",
   "package_url": "https://pypi.org/project/burmesegpt/"
 }

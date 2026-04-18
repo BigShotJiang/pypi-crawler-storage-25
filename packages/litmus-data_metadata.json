@@ -1,11 +1,11 @@
 {
   "name": "litmus-data",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "BDD-style metric definitions with built-in data trust checks",
   "author": "Litmus Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "litmus_data-0.1.1.tar.gz",
-  "download_time": "2026-04-18T00:04:31.843026",
+  "download_filename": "litmus_data-0.1.2.tar.gz",
+  "download_time": "2026-04-18T02:31:08.176839",
   "package_url": "https://pypi.org/project/litmus-data/"
 }

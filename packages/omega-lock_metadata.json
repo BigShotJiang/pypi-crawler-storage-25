@@ -1,0 +1,11 @@
+{
+  "name": "omega-lock",
+  "version": "0.1.1",
+  "summary": "Sensitivity-driven coordinate descent calibration framework (stress → top-K unlock → grid → walk-forward)",
+  "author": "hibou",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omega_lock-0.1.1.tar.gz",
+  "download_time": "2026-04-18T02:30:45.127756",
+  "package_url": "https://pypi.org/project/omega-lock/"
+}

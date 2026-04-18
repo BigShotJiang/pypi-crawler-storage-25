@@ -1,11 +1,11 @@
 {
   "name": "xwbots",
-  "version": "0.0.1.10",
+  "version": "0.0.1.11",
   "summary": "Convenience wrapper for exonware-xwbots - provides 'import xwbots' alias",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "xwbots-0.0.1.10.tar.gz",
-  "download_time": "2026-04-17T23:07:41.092387",
+  "download_filename": "xwbots-0.0.1.11.tar.gz",
+  "download_time": "2026-04-18T02:31:14.574461",
   "package_url": "https://pypi.org/project/xwbots/"
 }

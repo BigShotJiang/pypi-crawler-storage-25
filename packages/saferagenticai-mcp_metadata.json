@@ -1,0 +1,11 @@
+{
+  "name": "saferagenticai-mcp",
+  "version": "0.3.0",
+  "summary": "MCP server exposing the SaferAgenticAI safety framework (canonical criteria + Implementation Patterns layer) to coding assistants.",
+  "author": "Nell Watson, Agentic AI Safety Community of Practice",
+  "license": "CC-BY-4.0",
+  "home_page": null,
+  "download_filename": "saferagenticai_mcp-0.3.0.tar.gz",
+  "download_time": "2026-04-18T02:30:52.277757",
+  "package_url": "https://pypi.org/project/saferagenticai-mcp/"
+}

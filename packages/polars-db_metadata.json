@@ -1,0 +1,11 @@
+{
+  "name": "polars-db",
+  "version": "0.1.0",
+  "summary": "Query databases using Polars syntax — the Python equivalent of R's dbplyr",
+  "author": "b-trout",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polars_db-0.1.0.tar.gz",
+  "download_time": "2026-04-18T02:30:44.483545",
+  "package_url": "https://pypi.org/project/polars-db/"
+}

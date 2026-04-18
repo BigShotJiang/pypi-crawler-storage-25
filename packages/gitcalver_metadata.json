@@ -1,0 +1,11 @@
+{
+  "name": "gitcalver",
+  "version": "20260418.5",
+  "summary": "Deterministic calendar versioning from git history",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitcalver-20260418.5.tar.gz",
+  "download_time": "2026-04-18T02:30:34.434188",
+  "package_url": "https://pypi.org/project/gitcalver/"
+}
