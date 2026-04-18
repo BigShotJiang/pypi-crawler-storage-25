@@ -1,11 +1,11 @@
 {
   "name": "nomyo",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "OpenAI-compatible secure chat client with end-to-end encryption for NOMYO Inference Endpoints",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nomyo-0.2.6.tar.gz",
-  "download_time": "2026-04-15T10:46:25.660048",
+  "download_filename": "nomyo-0.2.7.tar.gz",
+  "download_time": "2026-04-18T14:10:45.305434",
   "package_url": "https://pypi.org/project/nomyo/"
 }

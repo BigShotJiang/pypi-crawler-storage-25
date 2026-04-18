@@ -1,11 +1,11 @@
 {
   "name": "prefig",
-  "version": "0.5.14",
+  "version": "0.6.0",
   "summary": "An authoring system for mathematical diagrams",
   "author": "David Austin",
   "license": "GPL-3.0-or-later",
   "home_page": "https://prefigure.org",
-  "download_filename": "prefig-0.5.14.tar.gz",
-  "download_time": "2026-04-04T14:07:59.302861",
+  "download_filename": "prefig-0.6.0.tar.gz",
+  "download_time": "2026-04-18T14:10:19.097531",
   "package_url": "https://pypi.org/project/prefig/"
 }

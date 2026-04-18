@@ -1,0 +1,11 @@
+{
+  "name": "weixin-channel-sdk",
+  "version": "0.1.0",
+  "summary": "Unofficial Python SDK for the Weixin ClawBot/iLink channel protocol.",
+  "author": "weixin-channel-sdk contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "weixin_channel_sdk-0.1.0.tar.gz",
+  "download_time": "2026-04-18T14:10:27.408225",
+  "package_url": "https://pypi.org/project/weixin-channel-sdk/"
+}

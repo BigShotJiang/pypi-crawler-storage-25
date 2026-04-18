@@ -1,11 +1,11 @@
 {
   "name": "ox",
-  "version": "3.0.31",
+  "version": "3.0.32",
   "summary": "python-ox - the web in a dict",
   "author": "0x2620",
   "license": "GPLv3",
   "home_page": "https://code.0x2620.org/0x2620/python-ox",
-  "download_filename": "ox-3.0.31.tar.gz",
-  "download_time": "2026-04-08T21:13:43.854791",
+  "download_filename": "ox-3.0.32.tar.gz",
+  "download_time": "2026-04-18T14:10:17.172624",
   "package_url": "https://pypi.org/project/ox/"
 }

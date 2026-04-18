@@ -1,0 +1,11 @@
+{
+  "name": "bibtex-verifier",
+  "version": "0.1.1",
+  "summary": "Verify BibTeX references against OpenAlex & CrossRef APIs to detect errors and AI hallucinations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bibtex_verifier-0.1.1.tar.gz",
+  "download_time": "2026-04-18T14:10:42.730768",
+  "package_url": "https://pypi.org/project/bibtex-verifier/"
+}

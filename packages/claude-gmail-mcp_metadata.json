@@ -1,11 +1,11 @@
 {
   "name": "claude-gmail-mcp",
-  "version": "0.1.2",
-  "summary": "Gmail SMTP MCP server for Claude CLI",
+  "version": "0.2.0",
+  "summary": "Gmail MCP server for Claude CLI — API (OAuth) and SMTP/IMAP backends",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claude_gmail_mcp-0.1.2.tar.gz",
-  "download_time": "2026-04-01T10:43:49.816757",
+  "download_filename": "claude_gmail_mcp-0.2.0.tar.gz",
+  "download_time": "2026-04-18T14:10:04.531570",
   "package_url": "https://pypi.org/project/claude-gmail-mcp/"
 }

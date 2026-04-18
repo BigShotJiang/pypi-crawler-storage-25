@@ -1,0 +1,11 @@
+{
+  "name": "gpgwrap",
+  "version": "1.2.1",
+  "summary": "Linux desktop GUI wrapper for system GPG text and file encryption, decryption, signing and verification.",
+  "author": "Hoek",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gpgwrap-1.2.1.tar.gz",
+  "download_time": "2026-04-18T14:10:33.692639",
+  "package_url": "https://pypi.org/project/gpgwrap/"
+}

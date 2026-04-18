@@ -1,0 +1,11 @@
+{
+  "name": "pibooth-pcloud",
+  "version": "1.0.0",
+  "summary": "Pibooth plugin to upload photos to pCloud and display a QR code",
+  "author": "Christophe",
+  "license": "MIT license",
+  "home_page": "https://github.com/ceeeeb/pibooth-pcloud",
+  "download_filename": "pibooth_pcloud-1.0.0.tar.gz",
+  "download_time": "2026-04-18T14:10:17.812141",
+  "package_url": "https://pypi.org/project/pibooth-pcloud/"
+}
