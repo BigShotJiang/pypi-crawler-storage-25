@@ -1,0 +1,11 @@
+{
+  "name": "filekor",
+  "version": "0.1.1",
+  "summary": "PDF metadata extraction CLI using PyExifTool",
+  "author": "filekor maintainer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "filekor-0.1.1.tar.gz",
+  "download_time": "2026-04-18T21:02:18.656130",
+  "package_url": "https://pypi.org/project/filekor/"
+}

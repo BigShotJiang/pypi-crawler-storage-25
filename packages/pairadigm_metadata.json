@@ -1,0 +1,11 @@
+{
+  "name": "pairadigm",
+  "version": "1.0.1",
+  "summary": "Concept-Guided Chain-of-Thought (CGCoT) pairwise annotation using Large Language Models",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pairadigm-1.0.1.tar.gz",
+  "download_time": "2026-04-18T21:01:53.004057",
+  "package_url": "https://pypi.org/project/pairadigm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dspy-qwen-adapter",
+  "version": "0.0.1",
+  "summary": "A drop-in DSPy adapter for reliable tool calling across the Qwen 3+ family.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dspy_qwen_adapter-0.0.1.tar.gz",
+  "download_time": "2026-04-18T21:01:51.982433",
+  "package_url": "https://pypi.org/project/dspy-qwen-adapter/"
+}

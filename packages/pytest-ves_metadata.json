@@ -1,0 +1,11 @@
+{
+  "name": "pytest-ves",
+  "version": "0.2.1",
+  "summary": "pytest fixtures and builders for ONAP VES 7.x events (fault, heartbeat, measurement, and more).",
+  "author": "thc1006",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_ves-0.2.1.tar.gz",
+  "download_time": "2026-04-18T21:02:13.541149",
+  "package_url": "https://pypi.org/project/pytest-ves/"
+}

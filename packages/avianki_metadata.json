@@ -1,11 +1,11 @@
 {
   "name": "avianki",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Build Anki flashcard decks for bird identification from allaboutbirds.org",
   "author": "Ian Costa",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "avianki-0.3.0.tar.gz",
-  "download_time": "2026-04-18T18:56:45.746744",
+  "download_filename": "avianki-0.4.0.tar.gz",
+  "download_time": "2026-04-18T21:02:05.815818",
   "package_url": "https://pypi.org/project/avianki/"
 }

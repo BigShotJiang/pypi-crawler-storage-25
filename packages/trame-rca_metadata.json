@@ -1,11 +1,11 @@
 {
   "name": "trame-rca",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "summary": "Remote Controlled Area widget for trame",
   "author": "Kitware Inc.",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "trame_rca-2.4.1.tar.gz",
-  "download_time": "2026-04-07T00:02:16.403332",
+  "download_filename": "trame_rca-2.4.2.tar.gz",
+  "download_time": "2026-04-18T21:02:24.866709",
   "package_url": "https://pypi.org/project/trame-rca/"
 }

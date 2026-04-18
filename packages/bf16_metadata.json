@@ -1,11 +1,11 @@
 {
   "name": "bf16",
-  "version": "1.0.0",
-  "summary": "A package for converting floats to BFloat16 using optimized assembly.",
+  "version": "1.0.3",
+  "summary": "High-performance BFloat16 conversion powered by x64 Assembly.",
   "author": "Kent",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "bf16-1.0.0.tar.gz",
-  "download_time": "2026-04-04T18:46:16.542565",
+  "download_filename": "bf16-1.0.3-py3-none-any.whl",
+  "download_time": "2026-04-18T21:02:14.575527",
   "package_url": "https://pypi.org/project/bf16/"
 }

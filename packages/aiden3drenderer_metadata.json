@@ -1,11 +1,11 @@
 {
   "name": "aiden3drenderer",
-  "version": "1.12.8",
+  "version": "1.12.9",
   "summary": "A real-time 3D function visualizer with a plug-and-play GPU pipeline—write simple compute shaders to create custom effects without dealing with complex rendering internals.",
   "author": "Aiden",
   "license": null,
   "home_page": "https://github.com/AidenKielby/3D-mesh-Renderer",
-  "download_filename": "aiden3drenderer-1.12.8.tar.gz",
-  "download_time": "2026-04-18T17:11:41.817283",
+  "download_filename": "aiden3drenderer-1.12.9.tar.gz",
+  "download_time": "2026-04-18T21:01:59.135413",
   "package_url": "https://pypi.org/project/aiden3drenderer/"
 }

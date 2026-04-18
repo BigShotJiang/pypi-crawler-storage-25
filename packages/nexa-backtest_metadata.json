@@ -1,11 +1,11 @@
 {
   "name": "nexa-backtest",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Backtesting framework for European power markets",
   "author": "Phase Nexa",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nexa_backtest-0.7.0.tar.gz",
-  "download_time": "2026-04-14T16:11:41.469735",
+  "download_filename": "nexa_backtest-0.8.0.tar.gz",
+  "download_time": "2026-04-18T21:02:17.127228",
   "package_url": "https://pypi.org/project/nexa-backtest/"
 }
