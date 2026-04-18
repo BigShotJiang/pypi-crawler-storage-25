@@ -1,11 +1,11 @@
 {
   "name": "girsh",
-  "version": "0.1.33",
+  "version": "0.1.34",
   "summary": "This tool downloads and installs release binaries from GitHub repositories.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "girsh-0.1.33.tar.gz",
-  "download_time": "2026-04-16T18:47:48.449804",
+  "download_filename": "girsh-0.1.34.tar.gz",
+  "download_time": "2026-04-18T10:13:09.633475",
   "package_url": "https://pypi.org/project/girsh/"
 }

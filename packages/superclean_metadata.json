@@ -1,11 +1,11 @@
 {
   "name": "superclean",
-  "version": "0.2.1",
+  "version": "0.7.0",
   "summary": "A universal CLI tool to clean development caches and reclaim disk space.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "superclean-0.2.1.tar.gz",
-  "download_time": "2026-04-18T06:18:34.898339",
+  "download_filename": "superclean-0.7.0.tar.gz",
+  "download_time": "2026-04-18T10:12:44.614816",
   "package_url": "https://pypi.org/project/superclean/"
 }

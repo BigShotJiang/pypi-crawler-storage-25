@@ -1,0 +1,11 @@
+{
+  "name": "nb-cmd",
+  "version": "0.1.0",
+  "summary": "万能接口生成器——你写一个 Python class，自动获得 CLI + REST API + Web UI 三种操作方式，堪称python界低代码平台",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nb_cmd-0.1.0.tar.gz",
+  "download_time": "2026-04-18T10:12:42.497065",
+  "package_url": "https://pypi.org/project/nb-cmd/"
+}

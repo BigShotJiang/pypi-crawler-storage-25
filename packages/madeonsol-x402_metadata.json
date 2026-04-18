@@ -1,11 +1,11 @@
 {
   "name": "madeonsol-x402",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "x402 client SDK for MadeOnSol Solana KOL intelligence API. Works with LangChain, CrewAI, and standalone.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "madeonsol_x402-0.4.1.tar.gz",
-  "download_time": "2026-04-16T18:48:10.533982",
+  "download_filename": "madeonsol_x402-0.5.0.tar.gz",
+  "download_time": "2026-04-18T10:12:49.289728",
   "package_url": "https://pypi.org/project/madeonsol-x402/"
 }

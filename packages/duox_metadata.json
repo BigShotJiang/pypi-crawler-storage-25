@@ -1,0 +1,11 @@
+{
+  "name": "duox",
+  "version": "0.2.1",
+  "summary": "DuoX — multi-peer AI CLI orchestrator (Claude + Codex + Ollama + OpenClaw). Shared transcript, parallel swarms, cross-checking, credit fallback, MCP, headless mode. By AbteeX AI Labs.",
+  "author": "AbteeX AI Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "duox-0.2.1.tar.gz",
+  "download_time": "2026-04-18T10:12:43.543855",
+  "package_url": "https://pypi.org/project/duox/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "v7capital-mcp",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "V7 Capital MCP Server — manage cap tables, portfolio, and financials through conversation",
   "author": "Robert Radoslav",
   "license": null,
   "home_page": null,
-  "download_filename": "v7capital_mcp-0.2.0.tar.gz",
-  "download_time": "2026-04-18T08:33:38.982212",
+  "download_filename": "v7capital_mcp-0.3.0.tar.gz",
+  "download_time": "2026-04-18T10:12:38.808892",
   "package_url": "https://pypi.org/project/v7capital-mcp/"
 }

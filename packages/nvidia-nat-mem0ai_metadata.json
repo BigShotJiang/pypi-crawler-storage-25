@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-mem0ai",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "Subpackage for Mem0 integration in NeMo Agent Toolkit",
   "author": "NVIDIA Corporation",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nvidia_nat_mem0ai-1.5.0-py3-none-any.whl",
-  "download_time": "2026-04-01T09:47:15.333242",
+  "download_filename": "nvidia_nat_mem0ai-1.6.0-py3-none-any.whl",
+  "download_time": "2026-04-18T10:12:52.404174",
   "package_url": "https://pypi.org/project/nvidia-nat-mem0ai/"
 }

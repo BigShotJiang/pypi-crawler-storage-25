@@ -1,0 +1,11 @@
+{
+  "name": "crashprobe",
+  "version": "0.3.0",
+  "summary": "Python error reporter that generates detailed HTML/TXT crash reports.",
+  "author": "Andrey Egupov (11-year-old-developer)",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crashprobe-0.3.0-py3-none-any.whl",
+  "download_time": "2026-04-18T10:13:11.172266",
+  "package_url": "https://pypi.org/project/crashprobe/"
+}

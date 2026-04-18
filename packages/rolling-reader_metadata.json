@@ -1,0 +1,11 @@
+{
+  "name": "rolling-reader",
+  "version": "0.6.8",
+  "summary": "Local-first web scraper that automatically rolls through HTTP → browser → JS state extraction",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rolling_reader-0.6.8.tar.gz",
+  "download_time": "2026-04-18T10:13:08.064181",
+  "package_url": "https://pypi.org/project/rolling-reader/"
+}

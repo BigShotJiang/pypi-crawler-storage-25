@@ -1,11 +1,11 @@
 {
   "name": "clawd-buddy",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Animated terminal pet that sits on your taskbar and reacts to AI coding assistant events",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clawd_buddy-0.1.1.tar.gz",
-  "download_time": "2026-04-12T21:21:58.961991",
+  "download_filename": "clawd_buddy-0.1.5.tar.gz",
+  "download_time": "2026-04-18T10:12:43.024459",
   "package_url": "https://pypi.org/project/clawd-buddy/"
 }

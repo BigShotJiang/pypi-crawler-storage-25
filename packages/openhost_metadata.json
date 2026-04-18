@@ -1,0 +1,11 @@
+{
+  "name": "openhost",
+  "version": "0.2.0",
+  "summary": "Run local LLMs from Python. LangChain-compatible. llama.cpp + MLX backends.",
+  "author": "OpenHost",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openhost-0.2.0.tar.gz",
+  "download_time": "2026-04-18T10:12:41.436927",
+  "package_url": "https://pypi.org/project/openhost/"
+}
