@@ -1,11 +1,11 @@
 {
   "name": "edgar-analytics",
-  "version": "0.6.0",
+  "version": "1.0.5",
   "summary": "A library and CLI tool for analyzing SEC EDGAR filings with financial metrics and forecasting.",
   "author": "Zohar Babin",
   "license": null,
   "home_page": "https://github.com/zoharbabin/edgar_analytics",
-  "download_filename": "edgar_analytics-0.6.0.tar.gz",
-  "download_time": "2026-04-17T18:11:25.890365",
+  "download_filename": "edgar_analytics-1.0.5.tar.gz",
+  "download_time": "2026-04-18T07:43:19.017640",
   "package_url": "https://pypi.org/project/edgar-analytics/"
 }

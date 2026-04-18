@@ -1,11 +1,11 @@
 {
   "name": "half-orm",
-  "version": "0.18.11",
+  "version": "0.18.13",
   "summary": "A simple PostgreSQL to Python mapper.",
   "author": "Joël Maïzi",
   "license": "GPLv3",
   "home_page": "https://github.com/half-orm/half-orm",
-  "download_filename": "half_orm-0.18.11.tar.gz",
-  "download_time": "2026-04-04T07:39:58.183388",
+  "download_filename": "half_orm-0.18.13.tar.gz",
+  "download_time": "2026-04-18T07:43:46.953230",
   "package_url": "https://pypi.org/project/half-orm/"
 }

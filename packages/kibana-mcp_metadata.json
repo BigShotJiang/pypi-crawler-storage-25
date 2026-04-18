@@ -1,0 +1,11 @@
+{
+  "name": "kibana-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for Kibana / Elasticsearch — log search, aggregations, index discovery, dashboards.",
+  "author": "Mikhail Shchegolev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kibana_mcp-0.1.1.tar.gz",
+  "download_time": "2026-04-18T07:43:34.032935",
+  "package_url": "https://pypi.org/project/kibana-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "puvinoise-sdk",
-  "version": "0.3.11",
+  "version": "0.3.13",
   "summary": "Independent OpenTelemetry SDK for AI agents (Anthropic, OpenAI, Ollama)",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "puvinoise_sdk-0.3.11.tar.gz",
-  "download_time": "2026-04-16T06:06:40.939000",
+  "download_filename": "puvinoise_sdk-0.3.13.tar.gz",
+  "download_time": "2026-04-18T07:43:14.944925",
   "package_url": "https://pypi.org/project/puvinoise-sdk/"
 }

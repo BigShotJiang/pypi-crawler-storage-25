@@ -1,0 +1,11 @@
+{
+  "name": "step-distill",
+  "version": "0.1.4",
+  "summary": "Distill verifiable chain-of-thought reasoning into small language models via hierarchical step supervision",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "step_distill-0.1.4.tar.gz",
+  "download_time": "2026-04-18T07:43:27.230955",
+  "package_url": "https://pypi.org/project/step-distill/"
+}

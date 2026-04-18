@@ -1,0 +1,11 @@
+{
+  "name": "argobeast",
+  "version": "2.1.4",
+  "summary": "A Python-based test automation framework for Behave with a clean Page Object architecture and CLI scaffolding.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "argobeast-2.1.4.tar.gz",
+  "download_time": "2026-04-18T07:43:44.333595",
+  "package_url": "https://pypi.org/project/argobeast/"
+}

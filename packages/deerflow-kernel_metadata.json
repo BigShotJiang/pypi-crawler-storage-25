@@ -1,11 +1,11 @@
 {
   "name": "deerflow-kernel",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Standalone DeerFlow harness kernel package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deerflow_kernel-0.1.0.tar.gz",
-  "download_time": "2026-04-18T06:18:38.551014",
+  "download_filename": "deerflow_kernel-0.1.2.tar.gz",
+  "download_time": "2026-04-18T07:43:08.233426",
   "package_url": "https://pypi.org/project/deerflow-kernel/"
 }
