@@ -1,11 +1,11 @@
 {
   "name": "pdfreading-app",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A PDF reader desktop app",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pdfreading_app-0.2.0.tar.gz",
-  "download_time": "2026-04-18T13:06:22.507528",
+  "download_filename": "pdfreading_app-0.2.1.tar.gz",
+  "download_time": "2026-04-18T17:11:24.250564",
   "package_url": "https://pypi.org/project/pdfreading-app/"
 }

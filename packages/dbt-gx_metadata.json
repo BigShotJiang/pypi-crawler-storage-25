@@ -1,0 +1,11 @@
+{
+  "name": "dbt-gx",
+  "version": "0.1.0",
+  "summary": "Run your dbt tests using Great Expectations as the execution engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_gx-0.1.0.tar.gz",
+  "download_time": "2026-04-18T17:11:23.738728",
+  "package_url": "https://pypi.org/project/dbt-gx/"
+}

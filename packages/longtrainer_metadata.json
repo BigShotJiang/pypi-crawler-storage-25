@@ -1,0 +1,11 @@
+{
+  "name": "longtrainer",
+  "version": "1.2.2",
+  "summary": "Production-ready RAG framework built on LangChain — multi-tenant chatbots with streaming, tool calling, agent mode, FAISS vector search, and persistent MongoDB memory",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "longtrainer-1.2.2.tar.gz",
+  "download_time": "2026-04-18T17:11:30.419020",
+  "package_url": "https://pypi.org/project/longtrainer/"
+}

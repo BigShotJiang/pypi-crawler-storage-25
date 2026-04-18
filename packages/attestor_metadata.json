@@ -1,0 +1,11 @@
+{
+  "name": "attestor",
+  "version": "3.0.0",
+  "summary": "Production-grade memory infrastructure for multi-agent systems. Namespace isolation, RBAC, provenance, ranked retrieval.",
+  "author": "aarjay",
+  "license": null,
+  "home_page": null,
+  "download_filename": "attestor-3.0.0.tar.gz",
+  "download_time": "2026-04-18T17:11:19.601779",
+  "package_url": "https://pypi.org/project/attestor/"
+}

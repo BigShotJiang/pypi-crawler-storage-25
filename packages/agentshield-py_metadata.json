@@ -1,0 +1,11 @@
+{
+  "name": "agentshield-py",
+  "version": "0.1.0",
+  "summary": "Alias package — installs agentshield-guard, the official AgentShield Python SDK.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentshield_py-0.1.0.tar.gz",
+  "download_time": "2026-04-18T17:11:29.391614",
+  "package_url": "https://pypi.org/project/agentshield-py/"
+}

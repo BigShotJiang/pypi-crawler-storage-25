@@ -1,0 +1,11 @@
+{
+  "name": "sentisift",
+  "version": "0.1.0",
+  "summary": "Official Python client for the SentiSift comment-moderation and intelligence API.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "sentisift-0.1.0.tar.gz",
+  "download_time": "2026-04-18T17:11:38.174659",
+  "package_url": "https://pypi.org/project/sentisift/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "scitex-browser",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "Browser automation for scholarly paper access in the SciTeX ecosystem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scitex_browser-0.1.1.tar.gz",
-  "download_time": "2026-04-04T05:42:43.157849",
+  "download_filename": "scitex_browser-0.1.6.tar.gz",
+  "download_time": "2026-04-18T17:11:13.865661",
   "package_url": "https://pypi.org/project/scitex-browser/"
 }

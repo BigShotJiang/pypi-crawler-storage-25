@@ -1,0 +1,11 @@
+{
+  "name": "py-cymbal",
+  "version": "0.1.2",
+  "summary": "Python bindings for Cymbal code indexing and symbol discovery",
+  "author": "Cymbal Contributors",
+  "license": null,
+  "home_page": "https://github.com/dwash/py-cymbal",
+  "download_filename": "py_cymbal-0.1.2.tar.gz",
+  "download_time": "2026-04-18T17:11:19.085447",
+  "package_url": "https://pypi.org/project/py-cymbal/"
+}

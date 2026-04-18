@@ -1,11 +1,11 @@
 {
   "name": "swx-core",
-  "version": "2.3.11",
+  "version": "2.3.15",
   "summary": "Production-ready FastAPI framework with RBAC, OAuth, JWT, billing, modular architecture, and base class patterns. Create projects with 'swx new', scaffold with 'swx make:resource --base'.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "swx_core-2.3.11.tar.gz",
-  "download_time": "2026-03-31T11:36:24.205231",
+  "download_filename": "swx_core-2.3.15.tar.gz",
+  "download_time": "2026-04-18T17:11:18.541913",
   "package_url": "https://pypi.org/project/swx-core/"
 }

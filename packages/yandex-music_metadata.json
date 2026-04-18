@@ -1,0 +1,11 @@
+{
+  "name": "yandex-music",
+  "version": "3.0.0",
+  "summary": "Неофициальная Python библиотека для работы с API сервиса Яндекс.Музыка.",
+  "author": "Ilya (Marshal)",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/MarshalX/yandex-music-api/",
+  "download_filename": "yandex_music-3.0.0.tar.gz",
+  "download_time": "2026-04-18T17:11:03.513110",
+  "package_url": "https://pypi.org/project/yandex-music/"
+}
