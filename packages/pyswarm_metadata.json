@@ -1,0 +1,11 @@
+{
+  "name": "pyswarm",
+  "version": "0.7.0",
+  "summary": "Particle swarm optimization (PSO) with constraint support",
+  "author": "Abraham Lee",
+  "license": "BSD License",
+  "home_page": "https://github.com/tisimst/pyswarm",
+  "download_filename": "pyswarm-0.7.0.tar.gz",
+  "download_time": "2026-04-18T08:33:19.323572",
+  "package_url": "https://pypi.org/project/pyswarm/"
+}

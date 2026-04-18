@@ -1,0 +1,11 @@
+{
+  "name": "shutilspy",
+  "version": "0.1.1",
+  "summary": "Common Python utilities including DAG task framework, caching, rate limiting, RW locks, and parameter helpers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shutilspy-0.1.1-py3-none-any.whl",
+  "download_time": "2026-04-18T08:33:32.003089",
+  "package_url": "https://pypi.org/project/shutilspy/"
+}

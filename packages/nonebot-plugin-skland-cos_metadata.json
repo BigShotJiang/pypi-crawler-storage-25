@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-skland-cos",
-  "version": "0.2.1",
+  "version": "0.2.7",
   "summary": "从森空岛社区获取明日方舟COS图并随机发送",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nonebot_plugin_skland_cos-0.2.1.tar.gz",
-  "download_time": "2026-04-11T08:07:44.162320",
+  "download_filename": "nonebot_plugin_skland_cos-0.2.7.tar.gz",
+  "download_time": "2026-04-18T08:33:19.887172",
   "package_url": "https://pypi.org/project/nonebot-plugin-skland-cos/"
 }

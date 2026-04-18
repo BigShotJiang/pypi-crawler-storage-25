@@ -1,11 +1,11 @@
 {
   "name": "VidChain",
-  "version": "0.2.0",
-  "summary": "A Lightweight Video RAG Framework for Multimodal Reasoning",
+  "version": "0.4.0",
+  "summary": "Edge-optimized multimodal RAG framework for video understanding",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "vidchain-0.2.0.tar.gz",
-  "download_time": "2026-04-04T05:43:00.266699",
+  "download_filename": "vidchain-0.4.0.tar.gz",
+  "download_time": "2026-04-18T08:33:21.014166",
   "package_url": "https://pypi.org/project/VidChain/"
 }

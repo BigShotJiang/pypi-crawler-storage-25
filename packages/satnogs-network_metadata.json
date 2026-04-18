@@ -1,0 +1,11 @@
+{
+  "name": "satnogs-network",
+  "version": "1.127",
+  "summary": "SatNOGS Network",
+  "author": "SatNOGS project",
+  "license": "AGPLv3",
+  "home_page": "https://gitlab.com/librespacefoundation/satnogs/satnogs-network",
+  "download_filename": "satnogs_network-1.127.tar.gz",
+  "download_time": "2026-04-18T08:33:58.499101",
+  "package_url": "https://pypi.org/project/satnogs-network/"
+}

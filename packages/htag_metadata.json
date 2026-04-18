@@ -1,11 +1,11 @@
 {
   "name": "htag",
-  "version": "2.0.21",
+  "version": "2.0.25",
   "summary": "Python3 GUI toolkit for building 'beautiful' applications for mobile, web, and desktop from a single codebase",
   "author": "manatlan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "htag-2.0.21.tar.gz",
-  "download_time": "2026-04-03T17:21:04.125137",
+  "download_filename": "htag-2.0.25.tar.gz",
+  "download_time": "2026-04-18T08:33:26.721702",
   "package_url": "https://pypi.org/project/htag/"
 }

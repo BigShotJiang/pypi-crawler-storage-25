@@ -1,0 +1,11 @@
+{
+  "name": "predacore",
+  "version": "0.1.0",
+  "summary": "PredaCore — the apex autonomous agent. Hybrid Rust memory kernel, topped LongMemEval R@5 = 0.9574.",
+  "author": "Shubham Pingle",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "predacore-0.1.0.tar.gz",
+  "download_time": "2026-04-18T08:33:15.765475",
+  "package_url": "https://pypi.org/project/predacore/"
+}

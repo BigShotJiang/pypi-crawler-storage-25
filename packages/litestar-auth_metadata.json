@@ -1,11 +1,11 @@
 {
   "name": "litestar-auth",
-  "version": "1.5.0",
+  "version": "1.9.0",
   "summary": "Litestar Auth",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "litestar_auth-1.5.0.tar.gz",
-  "download_time": "2026-04-10T21:59:02.386153",
+  "download_filename": "litestar_auth-1.9.0.tar.gz",
+  "download_time": "2026-04-18T08:33:57.788211",
   "package_url": "https://pypi.org/project/litestar-auth/"
 }

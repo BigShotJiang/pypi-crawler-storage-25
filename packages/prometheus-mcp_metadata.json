@@ -1,0 +1,11 @@
+{
+  "name": "prometheus-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for Prometheus — query metrics, inspect alerts, and explore scrape targets (read-only).",
+  "author": "Mikhail Shchegolev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prometheus_mcp-0.1.0.tar.gz",
+  "download_time": "2026-04-18T08:33:23.957075",
+  "package_url": "https://pypi.org/project/prometheus-mcp/"
+}

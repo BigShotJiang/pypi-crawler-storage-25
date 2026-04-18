@@ -1,11 +1,11 @@
 {
   "name": "vox-voxtral",
-  "version": "0.2.13",
+  "version": "0.2.15",
   "summary": "Mistral Voxtral STT/TTS adapter for Vox",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vox_voxtral-0.2.13.tar.gz",
-  "download_time": "2026-04-18T07:43:37.667313",
+  "download_filename": "vox_voxtral-0.2.15-py3-none-any.whl",
+  "download_time": "2026-04-18T08:33:10.622575",
   "package_url": "https://pypi.org/project/vox-voxtral/"
 }

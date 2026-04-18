@@ -1,0 +1,11 @@
+{
+  "name": "vault-health-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for Obsidian vault structural health checks. Find broken links, orphaned notes, missing frontmatter — and auto-repair them.",
+  "author": "Toygar Ermin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vault_health_mcp-0.1.0.tar.gz",
+  "download_time": "2026-04-18T08:33:11.273477",
+  "package_url": "https://pypi.org/project/vault-health-mcp/"
+}
