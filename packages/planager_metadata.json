@@ -1,0 +1,11 @@
+{
+  "name": "planager",
+  "version": "0.2.0",
+  "summary": "Feature plans for LLM-assisted development. One command sets up your project so coding agents automatically create, follow, and maintain structured plans.",
+  "author": "forest-d",
+  "license": null,
+  "home_page": null,
+  "download_filename": "planager-0.2.0.tar.gz",
+  "download_time": "2026-04-18T23:40:23.389112",
+  "package_url": "https://pypi.org/project/planager/"
+}

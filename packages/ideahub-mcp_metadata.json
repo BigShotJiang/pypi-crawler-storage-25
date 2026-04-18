@@ -1,11 +1,11 @@
 {
   "name": "ideahub-mcp",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "summary": "Agent-first MCP server for capturing and recalling ideas — the agent's and their human's.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ideahub_mcp-0.1.2.tar.gz",
-  "download_time": "2026-04-18T17:10:58.894257",
+  "download_filename": "ideahub_mcp-0.2.1.tar.gz",
+  "download_time": "2026-04-18T23:40:13.528486",
   "package_url": "https://pypi.org/project/ideahub-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "color-match-tools",
-  "version": "6.2.0",
+  "version": "6.4.0",
   "summary": "Comprehensive color science library for accurate color space conversions, perceptual color distance metrics (Delta E), and color matching with CSS and 3D printing filament databases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "color_match_tools-6.2.0.tar.gz",
-  "download_time": "2026-04-12T23:23:38.196242",
+  "download_filename": "color_match_tools-6.4.0.tar.gz",
+  "download_time": "2026-04-18T23:40:21.827716",
   "package_url": "https://pypi.org/project/color-match-tools/"
 }

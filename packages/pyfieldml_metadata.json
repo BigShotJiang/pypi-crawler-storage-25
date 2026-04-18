@@ -1,11 +1,11 @@
 {
   "name": "pyfieldml",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "A modern pure-Python implementation of FieldML 0.5 with evaluation engine and biomechanics model zoo.",
   "author": "Francis Chemorion",
   "license": null,
   "home_page": null,
-  "download_filename": "pyfieldml-0.0.1.tar.gz",
-  "download_time": "2026-04-18T22:10:30.405264",
+  "download_filename": "pyfieldml-0.1.0.tar.gz",
+  "download_time": "2026-04-18T23:40:10.947522",
   "package_url": "https://pypi.org/project/pyfieldml/"
 }

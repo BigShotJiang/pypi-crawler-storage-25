@@ -1,11 +1,11 @@
 {
   "name": "declaw",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "Secure runtime for AI agents with built-in guardrails -- PII scanning, prompt injection defense, network isolation, and egress filtering.",
   "author": "Declaw",
-  "license": null,
-  "home_page": null,
-  "download_filename": "declaw-1.0.1.tar.gz",
-  "download_time": "2026-04-16T20:52:00.094846",
+  "license": "Apache-2.0",
+  "home_page": "https://declaw.ai",
+  "download_filename": "declaw-1.0.4.tar.gz",
+  "download_time": "2026-04-18T23:40:39.350896",
   "package_url": "https://pypi.org/project/declaw/"
 }

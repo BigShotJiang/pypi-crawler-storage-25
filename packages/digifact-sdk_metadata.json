@@ -1,11 +1,11 @@
 {
   "name": "digifact-sdk",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "summary": "Python SDK for Digifact FEL Guatemala e-invoicing API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "digifact_sdk-2.2.2.tar.gz",
-  "download_time": "2026-04-17T22:07:42.381127",
+  "download_filename": "digifact_sdk-2.2.3.tar.gz",
+  "download_time": "2026-04-18T23:40:18.734157",
   "package_url": "https://pypi.org/project/digifact-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "onecode-cli",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Multi-agent codebase evaluation, analysis and refactoring in natural language.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "onecode_cli-0.1.4.tar.gz",
-  "download_time": "2026-04-18T21:39:44.851677",
+  "download_filename": "onecode_cli-0.1.5-py3-none-any.whl",
+  "download_time": "2026-04-18T23:40:34.196800",
   "package_url": "https://pypi.org/project/onecode-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "torch-tk",
+  "version": "1.1.1",
+  "summary": "Streamlines training, checkpoint management, and diagnostics of PyTorch models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torch_tk-1.1.1.tar.gz",
+  "download_time": "2026-04-18T23:40:35.223824",
+  "package_url": "https://pypi.org/project/torch-tk/"
+}
