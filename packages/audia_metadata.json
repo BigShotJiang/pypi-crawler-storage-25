@@ -1,11 +1,11 @@
 {
   "name": "audia",
-  "version": "0.4.4",
+  "version": "0.5.1",
   "summary": "An agentic Python package that converts ideas and documents into audio – PDF papers, reports, and regulations turned into podcast-style audio files.",
   "author": "Yauheniya Varabyova",
   "license": null,
   "home_page": null,
-  "download_filename": "audia-0.4.4.tar.gz",
-  "download_time": "2026-04-02T21:54:12.548048",
+  "download_filename": "audia-0.5.1.tar.gz",
+  "download_time": "2026-04-18T23:02:01.667366",
   "package_url": "https://pypi.org/project/audia/"
 }

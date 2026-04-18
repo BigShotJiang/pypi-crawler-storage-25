@@ -1,11 +1,11 @@
 {
   "name": "pyfulgur",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Python bindings for fulgur — offline HTML/CSS to PDF conversion",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": "https://github.com/mitsuru/fulgur",
-  "download_filename": "pyfulgur-0.5.1.tar.gz",
-  "download_time": "2026-04-18T11:55:39.009598",
+  "download_filename": "pyfulgur-0.5.2.tar.gz",
+  "download_time": "2026-04-18T23:02:03.219593",
   "package_url": "https://pypi.org/project/pyfulgur/"
 }

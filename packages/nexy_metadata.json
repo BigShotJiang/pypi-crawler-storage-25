@@ -1,11 +1,11 @@
 {
   "name": "nexy",
-  "version": "0.1.8",
-  "summary": "Nexy a Python framework designed to combine simplicity, performance, and the joy of development.",
+  "version": "2.0.0",
+  "summary": "The Modern Fullstack Python Meta-Framework: Build high-performance web apps .",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nexy-0.1.8.tar.gz",
-  "download_time": "2026-04-11T12:59:57.318267",
+  "download_filename": "nexy-2.0.0.tar.gz",
+  "download_time": "2026-04-18T23:01:35.223609",
   "package_url": "https://pypi.org/project/nexy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pysdm",
+  "version": "2.131",
+  "summary": "Pythonic particle-based (super-droplet) warm-rain/aqueous-chemistry cloud microphysics package with box, parcel & 1D/2D prescribed-flow examples in Python, Julia and Matlab",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysdm-2.131.tar.gz",
+  "download_time": "2026-04-18T23:02:05.516765",
+  "package_url": "https://pypi.org/project/pysdm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "winebox",
-  "version": "0.7.42",
+  "version": "0.7.43",
   "summary": "Wine Cellar Management Application with OCR label scanning",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "winebox-0.7.42.tar.gz",
-  "download_time": "2026-04-14T10:46:27.634450",
+  "download_filename": "winebox-0.7.43.tar.gz",
+  "download_time": "2026-04-18T23:01:46.154631",
   "package_url": "https://pypi.org/project/winebox/"
 }

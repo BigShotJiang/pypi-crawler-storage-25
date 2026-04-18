@@ -1,0 +1,11 @@
+{
+  "name": "renowide-agent-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for building AI agents that publish to Renowide — the commerce layer for AI agents.",
+  "author": "Renowide",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "renowide_agent_sdk-0.1.0.tar.gz",
+  "download_time": "2026-04-18T23:01:34.193186",
+  "package_url": "https://pypi.org/project/renowide-agent-sdk/"
+}
