@@ -1,11 +1,11 @@
 {
   "name": "gemiterm",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "summary": "A Python CLI tool that bridges Playwright-based Google authentication with the gemini-webapi library",
   "author": "gemiterm contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gemiterm-1.0.4.tar.gz",
-  "download_time": "2026-04-18T05:00:51.098907",
+  "download_filename": "gemiterm-1.0.7.tar.gz",
+  "download_time": "2026-04-18T06:19:10.482774",
   "package_url": "https://pypi.org/project/gemiterm/"
 }

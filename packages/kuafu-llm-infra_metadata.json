@@ -1,0 +1,11 @@
+{
+  "name": "kuafu-llm-infra",
+  "version": "0.2.3",
+  "summary": "LLM infrastructure layer with multi-provider fallback, health monitoring, speed probing, and alerting.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kuafu_llm_infra-0.2.3.tar.gz",
+  "download_time": "2026-04-18T06:18:31.264127",
+  "package_url": "https://pypi.org/project/kuafu-llm-infra/"
+}

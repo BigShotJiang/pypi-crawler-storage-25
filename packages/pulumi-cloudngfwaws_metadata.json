@@ -1,11 +1,11 @@
 {
   "name": "pulumi-cloudngfwaws",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A Pulumi package for creating and managing Cloud NGFW for AWS resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_cloudngfwaws-1.0.2.tar.gz",
-  "download_time": "2026-04-09T23:57:38.674137",
+  "download_filename": "pulumi_cloudngfwaws-1.0.3.tar.gz",
+  "download_time": "2026-04-18T06:19:03.194750",
   "package_url": "https://pypi.org/project/pulumi-cloudngfwaws/"
 }

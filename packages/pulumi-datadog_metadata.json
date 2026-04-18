@@ -1,11 +1,11 @@
 {
   "name": "pulumi-datadog",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "summary": "A Pulumi package for creating and managing Datadog resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_datadog-5.0.0.tar.gz",
-  "download_time": "2026-04-01T21:59:10.823260",
+  "download_filename": "pulumi_datadog-5.1.0.tar.gz",
+  "download_time": "2026-04-18T06:18:29.702151",
   "package_url": "https://pypi.org/project/pulumi-datadog/"
 }

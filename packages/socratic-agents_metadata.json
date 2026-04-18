@@ -1,11 +1,11 @@
 {
   "name": "socratic-agents",
-  "version": "0.2.3",
+  "version": "0.2.7",
   "summary": "Multi-agent orchestration system with 18 specialized agents for AI workflows. Built-in integrations with Openclaw and LangChain.",
   "author": "Socratic Agents Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "socratic_agents-0.2.3.tar.gz",
-  "download_time": "2026-03-28T19:52:41.385435",
+  "download_filename": "socratic_agents-0.2.7.tar.gz",
+  "download_time": "2026-04-18T06:19:06.315714",
   "package_url": "https://pypi.org/project/socratic-agents/"
 }

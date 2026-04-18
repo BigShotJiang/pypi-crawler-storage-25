@@ -1,0 +1,11 @@
+{
+  "name": "ai4burmese",
+  "version": "1.0.0",
+  "summary": "AI4Burmese is an open Burmese-first AI ecosystem package, including Padauk and local GGUF releases for practical tool use, function calling, and accessible deployment.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai4burmese-1.0.0.tar.gz",
+  "download_time": "2026-04-18T06:18:40.640621",
+  "package_url": "https://pypi.org/project/ai4burmese/"
+}

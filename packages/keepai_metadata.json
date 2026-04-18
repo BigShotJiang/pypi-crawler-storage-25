@@ -1,11 +1,11 @@
 {
   "name": "keepai",
-  "version": "0.7.2",
+  "version": "0.7.4",
   "summary": "CC Worker orchestration CLI — adopt, monitor, and drive Claude Code agents via cmux",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "keepai-0.7.2.tar.gz",
-  "download_time": "2026-04-17T16:21:07.252319",
+  "download_filename": "keepai-0.7.4.tar.gz",
+  "download_time": "2026-04-18T06:18:34.380037",
   "package_url": "https://pypi.org/project/keepai/"
 }
