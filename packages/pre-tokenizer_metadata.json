@@ -1,11 +1,11 @@
 {
   "name": "pre-tokenizer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A simple tokenizer library",
   "author": "Prachi Kushwaha",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pre_tokenizer-0.1.1.tar.gz",
-  "download_time": "2026-04-18T19:47:23.347653",
+  "download_filename": "pre_tokenizer-0.1.2.tar.gz",
+  "download_time": "2026-04-18T20:13:39.472696",
   "package_url": "https://pypi.org/project/pre-tokenizer/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sentisift-mcp",
+  "version": "0.1.2",
+  "summary": "Official Model Context Protocol (MCP) server for SentiSift. Lets Claude Desktop, Cursor, VS Code, Continue, and other MCP-compatible AI hosts call the SentiSift comment-moderation and intelligence API as a native tool.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "sentisift_mcp-0.1.2.tar.gz",
+  "download_time": "2026-04-18T20:13:58.311057",
+  "package_url": "https://pypi.org/project/sentisift-mcp/"
+}

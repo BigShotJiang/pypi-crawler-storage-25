@@ -1,11 +1,11 @@
 {
   "name": "suneord",
-  "version": "0.5.0",
-  "summary": "Async-first Discord bot framework over raw Discord HTTP and Gateway APIs with cogs, slash options, checks, permissions, and moderation helpers.",
-  "author": "suneord contributors",
+  "version": "1.0.1",
+  "summary": "A lightweight Discord bot library built on the raw Discord API.",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "suneord-0.5.0.tar.gz",
-  "download_time": "2026-04-18T11:08:33.003467",
+  "download_filename": "suneord-1.0.1.tar.gz",
+  "download_time": "2026-04-18T20:13:50.463971",
   "package_url": "https://pypi.org/project/suneord/"
 }

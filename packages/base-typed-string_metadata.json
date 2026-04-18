@@ -1,0 +1,11 @@
+{
+  "name": "base-typed-string",
+  "version": "0.1.2",
+  "summary": "Strict typed string base class with exact runtime subtype preservation and optional Pydantic v2 support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "base_typed_string-0.1.2.tar.gz",
+  "download_time": "2026-04-18T20:13:56.247272",
+  "package_url": "https://pypi.org/project/base-typed-string/"
+}

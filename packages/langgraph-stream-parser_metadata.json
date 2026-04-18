@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-stream-parser",
+  "version": "0.1.7",
+  "summary": "Universal parser for LangGraph streaming outputs",
+  "author": "Kedar Dabhadkar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langgraph_stream_parser-0.1.7.tar.gz",
+  "download_time": "2026-04-18T20:13:48.878932",
+  "package_url": "https://pypi.org/project/langgraph-stream-parser/"
+}

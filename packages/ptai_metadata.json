@@ -1,0 +1,11 @@
+{
+  "name": "ptai",
+  "version": "0.9.1",
+  "summary": "Autonomous AI pentesting with 150+ tools, exploit chaining, and PoC validation",
+  "author": "0xSteph",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ptai-0.9.1.tar.gz",
+  "download_time": "2026-04-18T20:13:50.977417",
+  "package_url": "https://pypi.org/project/ptai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "clud",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "summary": "Fast Rust CLI for running Claude Code and Codex in YOLO mode",
   "author": "Zach Vorhies",
   "license": "BSD 3-Clause License",
   "home_page": "https://github.com/zackees/clud",
-  "download_filename": "clud-2.0.5.tar.gz",
-  "download_time": "2026-04-16T23:14:32.081078",
+  "download_filename": "clud-2.0.6.tar.gz",
+  "download_time": "2026-04-18T20:13:54.147143",
   "package_url": "https://pypi.org/project/clud/"
 }

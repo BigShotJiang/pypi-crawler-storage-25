@@ -1,11 +1,11 @@
 {
   "name": "pii-shield-wasi",
-  "version": "1.3.7",
+  "version": "1.4.0",
   "summary": "High-performance PII redaction scanner using Go WASM (WASI)",
   "author": "Aragossa",
   "license": null,
   "home_page": null,
-  "download_filename": "pii_shield_wasi-1.3.7.tar.gz",
-  "download_time": "2026-04-18T19:46:57.587355",
+  "download_filename": "pii_shield_wasi-1.4.0.tar.gz",
+  "download_time": "2026-04-18T20:13:45.576324",
   "package_url": "https://pypi.org/project/pii-shield-wasi/"
 }
