@@ -1,0 +1,11 @@
+{
+  "name": "loongclaw-devkit",
+  "version": "0.3.0",
+  "summary": "LoongClaw MCP 开发者工具包 — 一键创建、加密、打包、发布 MCP 插件",
+  "author": "LoongClaw Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "loongclaw_devkit-0.3.0-py3-none-any.whl",
+  "download_time": "2026-04-18T09:31:16.094326",
+  "package_url": "https://pypi.org/project/loongclaw-devkit/"
+}

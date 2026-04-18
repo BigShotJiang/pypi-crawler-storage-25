@@ -1,0 +1,11 @@
+{
+  "name": "remex-cli",
+  "version": "1.0.0",
+  "summary": "Local-first RAG library — ingest files and SQLite, query semantically, pipe results into any AI agent",
+  "author": "adm-crow",
+  "license": null,
+  "home_page": null,
+  "download_filename": "remex_cli-1.0.0.tar.gz",
+  "download_time": "2026-04-18T09:30:52.173517",
+  "package_url": "https://pypi.org/project/remex-cli/"
+}

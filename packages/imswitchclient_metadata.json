@@ -1,0 +1,11 @@
+{
+  "name": "imswitchclient",
+  "version": "0.1.7",
+  "summary": "This is a package that connects ImSwitch's REST API to the rest of the world (e.g. jupyter lab)",
+  "author": "Benedict Diederich",
+  "license": "MIT license",
+  "home_page": "https://github.com/openuc2/imswitchclient",
+  "download_filename": "imswitchclient-0.1.7.tar.gz",
+  "download_time": "2026-04-18T09:31:25.914233",
+  "package_url": "https://pypi.org/project/imswitchclient/"
+}

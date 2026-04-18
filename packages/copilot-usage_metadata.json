@@ -1,11 +1,11 @@
 {
   "name": "copilot-usage",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "summary": "Local-first Copilot usage analytics — token tracking, premium estimates, and dashboard",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "copilot_usage-0.2.1.tar.gz",
-  "download_time": "2026-04-18T08:33:10.058154",
+  "download_filename": "copilot_usage-0.2.4.tar.gz",
+  "download_time": "2026-04-18T09:30:43.958595",
   "package_url": "https://pypi.org/project/copilot-usage/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "plugin-kit-ai-runtime",
+  "version": "1.1.0",
+  "summary": "Official Python runtime helpers for plugin-kit-ai executable plugins",
+  "author": "plugin-kit-ai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plugin_kit_ai_runtime-1.1.0.tar.gz",
+  "download_time": "2026-04-18T09:31:26.940678",
+  "package_url": "https://pypi.org/project/plugin-kit-ai-runtime/"
+}

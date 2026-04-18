@@ -1,0 +1,11 @@
+{
+  "name": "tortoise-passkey",
+  "version": "0.1.0",
+  "summary": "WebAuthn passkey support for Tortoise ORM.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tortoise_passkey-0.1.0.tar.gz",
+  "download_time": "2026-04-18T09:30:58.366531",
+  "package_url": "https://pypi.org/project/tortoise-passkey/"
+}

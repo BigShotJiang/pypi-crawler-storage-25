@@ -1,11 +1,11 @@
 {
   "name": "pigsydust",
-  "version": "0.1.4",
+  "version": "0.2.1",
   "summary": "Python library for controlling SAL Pixie BLE mesh wall switches",
   "author": "Tim Slater",
   "license": null,
   "home_page": null,
-  "download_filename": "pigsydust-0.1.4.tar.gz",
-  "download_time": "2026-04-12T23:23:15.152204",
+  "download_filename": "pigsydust-0.2.1.tar.gz",
+  "download_time": "2026-04-18T09:31:05.275909",
   "package_url": "https://pypi.org/project/pigsydust/"
 }

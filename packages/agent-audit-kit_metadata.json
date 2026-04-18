@@ -1,0 +1,11 @@
+{
+  "name": "agent-audit-kit",
+  "version": "0.3.0",
+  "summary": "Security scanner for MCP-connected AI agent pipelines",
+  "author": "AgentAuditKit Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_audit_kit-0.3.0.tar.gz",
+  "download_time": "2026-04-18T09:31:03.730086",
+  "package_url": "https://pypi.org/project/agent-audit-kit/"
+}

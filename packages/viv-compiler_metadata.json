@@ -1,11 +1,11 @@
 {
   "name": "viv-compiler",
-  "version": "0.11.2",
+  "version": "0.12.0",
   "summary": "Compiler for Viv, a DSL for emergent narrative in games and simulations.",
   "author": "James Ryan",
   "license": null,
   "home_page": null,
-  "download_filename": "viv_compiler-0.11.2.tar.gz",
-  "download_time": "2026-04-17T20:32:02.902423",
+  "download_filename": "viv_compiler-0.12.0.tar.gz",
+  "download_time": "2026-04-18T09:31:15.072189",
   "package_url": "https://pypi.org/project/viv-compiler/"
 }

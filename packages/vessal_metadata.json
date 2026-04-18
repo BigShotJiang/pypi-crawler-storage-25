@@ -1,11 +1,11 @@
 {
   "name": "vessal",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Vessal — Agent Runtime",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vessal-0.0.1.tar.gz",
-  "download_time": "2026-04-16T06:06:12.544368",
+  "download_filename": "vessal-0.0.3.tar.gz",
+  "download_time": "2026-04-18T09:31:14.045416",
   "package_url": "https://pypi.org/project/vessal/"
 }

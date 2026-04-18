@@ -1,11 +1,11 @@
 {
   "name": "agentspec-alpibru",
-  "version": "0.3.3",
+  "version": "0.4.1",
   "summary": "Universal agent manifest standard with resolver, signed profiles, and Noether composition — the missing layer between agent definitions and runtimes. (Import as `agentspec`.)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentspec_alpibru-0.3.3.tar.gz",
-  "download_time": "2026-04-16T21:47:24.233985",
+  "download_filename": "agentspec_alpibru-0.4.1.tar.gz",
+  "download_time": "2026-04-18T09:31:19.179727",
   "package_url": "https://pypi.org/project/agentspec-alpibru/"
 }

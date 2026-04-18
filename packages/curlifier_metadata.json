@@ -1,0 +1,11 @@
+{
+  "name": "curlifier",
+  "version": "1.0.7",
+  "summary": "Converts Request objects to curl string",
+  "author": "Timur Valiev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "curlifier-1.0.7.tar.gz",
+  "download_time": "2026-04-18T09:30:44.470976",
+  "package_url": "https://pypi.org/project/curlifier/"
+}

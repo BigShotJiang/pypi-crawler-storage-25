@@ -1,0 +1,11 @@
+{
+  "name": "bilibili-subtitle-fetch",
+  "version": "0.3.0",
+  "summary": "An MCP (Model Context Protocol) server that allows you to fetch subtitles for Bilibili videos.",
+  "author": "Initsnow",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "bilibili_subtitle_fetch-0.3.0.tar.gz",
+  "download_time": "2026-04-18T09:31:04.242512",
+  "package_url": "https://pypi.org/project/bilibili-subtitle-fetch/"
+}

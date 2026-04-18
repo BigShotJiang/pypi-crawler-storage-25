@@ -1,11 +1,11 @@
 {
   "name": "cognex",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Your AI forgets everything. Cognex doesn't.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cognex-0.1.5.tar.gz",
-  "download_time": "2026-04-10T15:57:21.251261",
+  "download_filename": "cognex-0.1.6.tar.gz",
+  "download_time": "2026-04-18T09:31:14.558860",
   "package_url": "https://pypi.org/project/cognex/"
 }
