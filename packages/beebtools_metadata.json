@@ -1,11 +1,11 @@
 {
   "name": "beebtools",
-  "version": "0.1.1",
-  "summary": "BBC Micro DFS disc image tool - detokenizer and pretty-printer for BBC BASIC",
-  "author": "beebtools contributors",
+  "version": "0.11.0",
+  "summary": "BBC Micro disc image tool - DFS and ADFS catalogue, extract, create, and build with BBC BASIC tokenizer and detokenizer",
+  "author": "acscpt",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "beebtools-0.1.1.tar.gz",
-  "download_time": "2026-03-29T22:30:21.974475",
+  "download_filename": "beebtools-0.11.0.tar.gz",
+  "download_time": "2026-04-18T19:46:49.279768",
   "package_url": "https://pypi.org/project/beebtools/"
 }

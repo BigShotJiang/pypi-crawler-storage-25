@@ -1,11 +1,11 @@
 {
   "name": "dltaf",
-  "version": "0.2.3",
+  "version": "0.2.6",
   "summary": "Manifest-driven data loading framework with canonical SQLDB manifests, Airflow helpers, and pluggable private integrations.",
   "author": "Pavel Kovalev",
   "license": null,
   "home_page": null,
-  "download_filename": "dltaf-0.2.3.tar.gz",
-  "download_time": "2026-04-17T22:07:28.986341",
+  "download_filename": "dltaf-0.2.6.tar.gz",
+  "download_time": "2026-04-18T19:47:01.747106",
   "package_url": "https://pypi.org/project/dltaf/"
 }

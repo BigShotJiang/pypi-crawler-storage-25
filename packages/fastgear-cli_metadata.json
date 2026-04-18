@@ -1,0 +1,11 @@
+{
+  "name": "fastgear-cli",
+  "version": "0.4.4",
+  "summary": "CLI tool for generating FastAPI boilerplate code using the Fastgear library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastgear_cli-0.4.4.tar.gz",
+  "download_time": "2026-04-18T19:46:46.716953",
+  "package_url": "https://pypi.org/project/fastgear-cli/"
+}

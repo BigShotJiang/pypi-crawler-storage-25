@@ -1,0 +1,11 @@
+{
+  "name": "everyfile",
+  "version": "2026.4.20",
+  "summary": "Zero-dependency Python CLI for Voidtools Everything search. Pure Python IPC via ctypes — no DLL required.",
+  "author": "LouisGameDev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "everyfile-2026.4.20.tar.gz",
+  "download_time": "2026-04-18T19:46:53.421481",
+  "package_url": "https://pypi.org/project/everyfile/"
+}

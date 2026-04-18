@@ -1,0 +1,11 @@
+{
+  "name": "fast-agent-acp",
+  "version": "0.6.19",
+  "summary": "Convenience launcher that pulls in fast-agent-mcp and exposes the ACP CLI entrypoint.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fast_agent_acp-0.6.19.tar.gz",
+  "download_time": "2026-04-18T19:46:56.540328",
+  "package_url": "https://pypi.org/project/fast-agent-acp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mpdsp",
-  "version": "0.4.1.post1",
+  "version": "0.4.1.post2",
   "summary": "Python integration layer for the mixed-precision DSP library",
   "author": "Stillwater Supercomputing, Inc.",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mpdsp-0.4.1.post1.tar.gz",
-  "download_time": "2026-04-18T18:56:56.618060",
+  "download_filename": "mpdsp-0.4.1.post2.tar.gz",
+  "download_time": "2026-04-18T19:47:12.980287",
   "package_url": "https://pypi.org/project/mpdsp/"
 }

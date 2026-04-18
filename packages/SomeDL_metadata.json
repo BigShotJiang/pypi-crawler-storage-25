@@ -1,11 +1,11 @@
 {
   "name": "SomeDL",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "summary": "A command line utility to download songs from YouTube with metadata from different APIs without the need for API-tokens or login.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "somedl-1.3.1.tar.gz",
-  "download_time": "2026-04-14T22:11:25.127418",
+  "download_filename": "somedl-1.3.2.tar.gz",
+  "download_time": "2026-04-18T19:47:02.260046",
   "package_url": "https://pypi.org/project/SomeDL/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pptrain",
+  "version": "0.2.0",
+  "summary": "Lean PyTorch tooling for pre-pre-training language models on synthetic upstream tasks.",
+  "author": "Davide Wiest",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pptrain-0.2.0.tar.gz",
+  "download_time": "2026-04-18T19:47:05.425978",
+  "package_url": "https://pypi.org/project/pptrain/"
+}

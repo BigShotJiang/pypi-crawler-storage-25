@@ -1,0 +1,11 @@
+{
+  "name": "bentu-downloader",
+  "version": "0.1.2",
+  "summary": "A standalone Python video downloader toolkit for public platform media and direct streams.",
+  "author": "Bentu Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bentu_downloader-0.1.2.tar.gz",
+  "download_time": "2026-04-18T19:46:42.059473",
+  "package_url": "https://pypi.org/project/bentu-downloader/"
+}

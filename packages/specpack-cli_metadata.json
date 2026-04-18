@@ -1,11 +1,11 @@
 {
   "name": "specpack-cli",
-  "version": "0.8.0.dev0",
+  "version": "0.8.1",
   "summary": "SpecPack CLI — Spec-Driven Development for greenfield and brownfield projects. Forked from GitHub Spec Kit. Adds brownfield profiling (codebase/performance/customer) and progressive parallel validation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "specpack_cli-0.8.0.dev0.tar.gz",
-  "download_time": "2026-04-18T18:56:27.902453",
+  "download_filename": "specpack_cli-0.8.1.tar.gz",
+  "download_time": "2026-04-18T19:47:01.200925",
   "package_url": "https://pypi.org/project/specpack-cli/"
 }

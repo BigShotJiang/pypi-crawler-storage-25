@@ -1,11 +1,11 @@
 {
   "name": "datafrey-api",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Shared Pydantic models for the datafrey API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datafrey_api-0.1.0.tar.gz",
-  "download_time": "2026-03-31T20:28:30.782860",
+  "download_filename": "datafrey_api-0.3.0.tar.gz",
+  "download_time": "2026-04-18T19:46:45.691169",
   "package_url": "https://pypi.org/project/datafrey-api/"
 }
