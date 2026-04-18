@@ -1,11 +1,11 @@
 {
   "name": "nmp-protocol",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "NMP (NeuroMessage Protocol) — Open communication protocol for multi-agent systems with behavioral modulation signals.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nmp_protocol-1.0.0.tar.gz",
-  "download_time": "2026-04-12T00:08:57.270710",
+  "download_filename": "nmp_protocol-1.1.0.tar.gz",
+  "download_time": "2026-04-18T18:56:26.804414",
   "package_url": "https://pypi.org/project/nmp-protocol/"
 }

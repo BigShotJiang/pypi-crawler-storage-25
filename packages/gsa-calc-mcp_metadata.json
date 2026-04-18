@@ -1,11 +1,11 @@
 {
   "name": "gsa-calc-mcp",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "MCP server for the GSA CALC+ Labor Ceiling Rates API. GSA MAS schedule rate benchmarking for IGCEs and price analysis.",
   "author": "James Jenrette / 1102tools",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gsa_calc_mcp-0.1.1.tar.gz",
-  "download_time": "2026-04-11T03:01:16.948428",
+  "download_filename": "gsa_calc_mcp-0.2.0.tar.gz",
+  "download_time": "2026-04-18T18:56:52.783729",
   "package_url": "https://pypi.org/project/gsa-calc-mcp/"
 }

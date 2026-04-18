@@ -1,0 +1,11 @@
+{
+  "name": "pyTelegramOIDC",
+  "version": "1.0.0",
+  "summary": "Async Python library for Telegram OpenID Connect (OIDC) login",
+  "author": "S1qwy",
+  "license": null,
+  "home_page": "https://github.com/S1qwy/pyTelegramOIDC",
+  "download_filename": "pytelegramoidc-1.0.0.tar.gz",
+  "download_time": "2026-04-18T18:56:25.193493",
+  "package_url": "https://pypi.org/project/pyTelegramOIDC/"
+}
