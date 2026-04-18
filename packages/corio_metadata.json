@@ -1,11 +1,11 @@
 {
   "name": "corio",
-  "version": "2.0.15",
+  "version": "2.0.18",
   "summary": "Collection of high-level tools to simplify everyday development tasks, with a focus on AI/ML",
   "author": "Frontmatter AI",
   "license": "Copyright © 2026 Frontmatter AI. All rights reserved.",
   "home_page": "https://github.com/fmtr/corio",
-  "download_filename": "corio-2.0.15.tar.gz",
-  "download_time": "2026-04-11T16:40:41.183945",
+  "download_filename": "corio-2.0.18.tar.gz",
+  "download_time": "2026-04-18T13:06:16.343259",
   "package_url": "https://pypi.org/project/corio/"
 }

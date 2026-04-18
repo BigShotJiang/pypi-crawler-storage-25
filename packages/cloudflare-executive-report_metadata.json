@@ -1,11 +1,11 @@
 {
   "name": "cloudflare-executive-report",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "Cloudflare Executive Report - CLI for multi-zone reporting and cache",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cloudflare_executive_report-0.8.0.tar.gz",
-  "download_time": "2026-04-15T20:53:09.341362",
+  "download_filename": "cloudflare_executive_report-0.9.0.tar.gz",
+  "download_time": "2026-04-18T13:06:54.781641",
   "package_url": "https://pypi.org/project/cloudflare-executive-report/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "acumatica-mcp",
+  "version": "0.8.1",
+  "summary": "MCP server for Acumatica ERP — 25 tools for queries, mutations, Generic Inquiries, inventory, shipments, reports, and file attachments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acumatica_mcp-0.8.1.tar.gz",
+  "download_time": "2026-04-18T13:06:25.175409",
+  "package_url": "https://pypi.org/project/acumatica-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytest-regtest",
+  "version": "2.3.8",
+  "summary": "pytest plugin for snapshot regression testing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_regtest-2.3.8-py3-none-any.whl",
+  "download_time": "2026-04-18T13:06:50.329152",
+  "package_url": "https://pypi.org/project/pytest-regtest/"
+}

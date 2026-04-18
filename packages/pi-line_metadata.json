@@ -1,11 +1,11 @@
 {
   "name": "pi-line",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Zero-dependency parallel script runner.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pi_line-1.0.0.tar.gz",
-  "download_time": "2026-04-18T11:09:06.501902",
+  "download_filename": "pi_line-1.1.0.tar.gz",
+  "download_time": "2026-04-18T13:06:40.707339",
   "package_url": "https://pypi.org/project/pi-line/"
 }

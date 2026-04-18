@@ -1,0 +1,11 @@
+{
+  "name": "efootball-result-analyzer",
+  "version": "0.2.1",
+  "summary": "OCR-only eFootball screenshot analyzer with scoreboard-region detection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "efootball_result_analyzer-0.2.1.tar.gz",
+  "download_time": "2026-04-18T13:06:24.528651",
+  "package_url": "https://pypi.org/project/efootball-result-analyzer/"
+}

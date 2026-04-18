@@ -1,0 +1,11 @@
+{
+  "name": "nagi-cli",
+  "version": "0.0.2",
+  "summary": "A reconciliation engine that declaratively defines the desired state of data and automatically converges toward that state",
+  "author": "The Nagi Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nagi_cli-0.0.2.tar.gz",
+  "download_time": "2026-04-18T13:06:13.267604",
+  "package_url": "https://pypi.org/project/nagi-cli/"
+}

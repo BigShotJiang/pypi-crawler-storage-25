@@ -1,0 +1,11 @@
+{
+  "name": "paralabelgen",
+  "version": "0.2.3",
+  "summary": "A Python library for generating discrete paragraph labels from concept extraction, graph communities, and interpretable assignment rules, with heuristic, spaCy, and provider-backed LLM extraction modes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "paralabelgen-0.2.3.tar.gz",
+  "download_time": "2026-04-18T13:06:09.783884",
+  "package_url": "https://pypi.org/project/paralabelgen/"
+}

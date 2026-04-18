@@ -1,0 +1,11 @@
+{
+  "name": "signet-auth-sdk",
+  "version": "0.1.1",
+  "summary": "Lightweight client SDK for consuming Signet credentials",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "signet_auth_sdk-0.1.1.tar.gz",
+  "download_time": "2026-04-18T13:06:36.100939",
+  "package_url": "https://pypi.org/project/signet-auth-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vox-microsoft",
-  "version": "0.2.11",
+  "version": "0.2.13",
   "summary": "Microsoft SpeechT5 and VibeVoice STT/TTS adapters for Vox",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vox_microsoft-0.2.11-py3-none-any.whl",
-  "download_time": "2026-04-18T08:33:12.402543",
+  "download_filename": "vox_microsoft-0.2.13.tar.gz",
+  "download_time": "2026-04-18T13:06:21.219832",
   "package_url": "https://pypi.org/project/vox-microsoft/"
 }

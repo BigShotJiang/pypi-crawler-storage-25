@@ -1,0 +1,11 @@
+{
+  "name": "sandflare-llamaindex",
+  "version": "0.1.2",
+  "summary": "LlamaIndex tool for Sandflare Firecracker microVM sandboxes — run agent-generated code safely",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sandflare_llamaindex-0.1.2.tar.gz",
+  "download_time": "2026-04-18T13:06:33.083159",
+  "package_url": "https://pypi.org/project/sandflare-llamaindex/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ftexplore",
+  "version": "2.6.0",
+  "summary": "ft-Explore allows to control motors and to check inputs by GUI and user-provided Python code",
+  "author": "Dirk Henrici",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://www.henrici.name/projects/ftexplore.html",
+  "download_filename": "ftexplore-2.6.0.tar.gz",
+  "download_time": "2026-04-18T13:06:29.842660",
+  "package_url": "https://pypi.org/project/ftexplore/"
+}

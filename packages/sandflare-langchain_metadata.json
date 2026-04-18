@@ -1,0 +1,11 @@
+{
+  "name": "sandflare-langchain",
+  "version": "0.1.4",
+  "summary": "LangChain tool for Sandflare Firecracker microVM sandboxes — run agent-generated code safely",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sandflare_langchain-0.1.4.tar.gz",
+  "download_time": "2026-04-18T13:06:31.805803",
+  "package_url": "https://pypi.org/project/sandflare-langchain/"
+}

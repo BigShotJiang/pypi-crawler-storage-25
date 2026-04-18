@@ -1,11 +1,11 @@
 {
   "name": "chartlibrary-mcp",
-  "version": "2.0.0",
-  "summary": "Chart Library MCP Server — 8 canonical tools (search, cohort, analyze, context, explain, portfolio, anchor_fetch, report_feedback) for grounded historical pattern intelligence. Conditional distributions with conformal-calibrated quantile bands, 7 regime filters, and a session-handle edge-mining loop for AI agents.",
+  "version": "3.0.0",
+  "summary": "Chart Library MCP Server — intelligence layer for stock pattern agents. 11 tools: search, cohort, analyze, context, explain, portfolio, anchor_fetch, decompose (conditional slice discovery), clusters (K-means on intraday resolution), live_search (raw-bars → historical matches), report_feedback. Conditional distributions with conformal-calibrated quantile bands, catalyst-aware metadata, and per-cohort decomposition + clustering for SMB/prop-trader-style conditional analysis.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chartlibrary_mcp-2.0.0.tar.gz",
-  "download_time": "2026-04-17T12:12:35.274480",
+  "download_filename": "chartlibrary_mcp-3.0.0.tar.gz",
+  "download_time": "2026-04-18T13:06:09.146334",
   "package_url": "https://pypi.org/project/chartlibrary-mcp/"
 }

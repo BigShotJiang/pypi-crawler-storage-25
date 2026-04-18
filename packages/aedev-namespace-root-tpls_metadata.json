@@ -1,0 +1,11 @@
+{
+  "name": "aedev-namespace-root-tpls",
+  "version": "0.3.29",
+  "summary": "aedev namespace package portion namespace_root_tpls: templates (managed files) for namespace root projects.",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/aedev-group/aedev_namespace_root_tpls",
+  "download_filename": "aedev_namespace_root_tpls-0.3.29.tar.gz",
+  "download_time": "2026-04-18T13:06:44.072429",
+  "package_url": "https://pypi.org/project/aedev-namespace-root-tpls/"
+}
