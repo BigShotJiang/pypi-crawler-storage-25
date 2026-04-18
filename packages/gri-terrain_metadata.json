@@ -1,11 +1,11 @@
 {
   "name": "gri-terrain",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "Terrain elevation data access for geolocation applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gri_terrain-0.2.2.tar.gz",
-  "download_time": "2026-04-04T17:17:55.830766",
+  "download_filename": "gri_terrain-0.2.4.tar.gz",
+  "download_time": "2026-04-18T05:01:03.682633",
   "package_url": "https://pypi.org/project/gri-terrain/"
 }

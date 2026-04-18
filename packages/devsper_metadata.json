@@ -1,11 +1,11 @@
 {
   "name": "devsper",
-  "version": "3.1.0",
+  "version": "3.1.2",
   "summary": "Devsper — self-evolving AI workflow engine",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://devsper.com",
-  "download_filename": "devsper-3.1.0-cp39-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2026-04-17T17:16:02.280116",
+  "download_filename": "devsper-3.1.2-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-18T05:00:53.709537",
   "package_url": "https://pypi.org/project/devsper/"
 }

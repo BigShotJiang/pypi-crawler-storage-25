@@ -1,0 +1,11 @@
+{
+  "name": "authentica",
+  "version": "0.2.1",
+  "summary": "AI content authenticity detection: C2PA metadata, passive watermarks, and image forensics with heatmap visualization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "authentica-0.2.1.tar.gz",
+  "download_time": "2026-04-18T05:00:53.181212",
+  "package_url": "https://pypi.org/project/authentica/"
+}

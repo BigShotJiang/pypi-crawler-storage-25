@@ -1,0 +1,11 @@
+{
+  "name": "voxis",
+  "version": "0.0.7",
+  "summary": "Voxis is a hybrid Python + C++ audio DSP library for fast, modular effect pipelines.",
+  "author": "SpiralRbx",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voxis-0.0.7.tar.gz",
+  "download_time": "2026-04-18T05:00:56.359166",
+  "package_url": "https://pypi.org/project/voxis/"
+}

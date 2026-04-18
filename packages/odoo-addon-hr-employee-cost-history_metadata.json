@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-employee-cost-history",
+  "version": "18.0.1.0.0.4",
+  "summary": "Adds an history to employee's costs.",
+  "author": "Moduon, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/timesheet",
+  "download_filename": "odoo_addon_hr_employee_cost_history-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-04-18T05:01:16.214908",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-employee-cost-history/"
+}

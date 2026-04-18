@@ -1,0 +1,11 @@
+{
+  "name": "gri-tropo",
+  "version": "0.2.3",
+  "summary": "Tropospheric delay and angular corrections based on ITU-R 2019 and ERA5 data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gri_tropo-0.2.3-py3-none-any.whl",
+  "download_time": "2026-04-18T05:01:03.163119",
+  "package_url": "https://pypi.org/project/gri-tropo/"
+}

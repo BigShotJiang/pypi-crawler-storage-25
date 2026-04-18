@@ -1,11 +1,11 @@
 {
   "name": "treeship-sdk",
-  "version": "0.6.0",
+  "version": "0.8.0",
   "summary": "Python SDK for Treeship - portable trust receipts for agent workflows",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "treeship_sdk-0.6.0.tar.gz",
-  "download_time": "2026-04-04T06:42:19.239633",
+  "download_filename": "treeship_sdk-0.8.0.tar.gz",
+  "download_time": "2026-04-18T05:00:45.832247",
   "package_url": "https://pypi.org/project/treeship-sdk/"
 }

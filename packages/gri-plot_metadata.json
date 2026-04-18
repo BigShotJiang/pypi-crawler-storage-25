@@ -1,11 +1,11 @@
 {
   "name": "gri-plot",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "3D geolocation visualization and 2D plotting utilities built on Plotly",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gri_plot-0.2.3.tar.gz",
-  "download_time": "2026-04-15T21:44:17.956490",
+  "download_filename": "gri_plot-0.2.4.tar.gz",
+  "download_time": "2026-04-18T05:01:09.411733",
   "package_url": "https://pypi.org/project/gri-plot/"
 }

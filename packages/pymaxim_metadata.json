@@ -1,11 +1,11 @@
 {
   "name": "pymaxim",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Bio-inspired cognitive architecture with adaptive planning, biological memory systems, and local LLM inference. Works headless, with simulation, or connected to robots.",
   "author": "Denny Schaedig",
   "license": null,
   "home_page": null,
-  "download_filename": "pymaxim-0.2.1.tar.gz",
-  "download_time": "2026-04-10T07:05:55.727181",
+  "download_filename": "pymaxim-0.3.0.tar.gz",
+  "download_time": "2026-04-18T05:01:02.111073",
   "package_url": "https://pypi.org/project/pymaxim/"
 }

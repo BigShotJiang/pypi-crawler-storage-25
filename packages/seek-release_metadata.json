@@ -1,0 +1,11 @@
+{
+  "name": "seek-release",
+  "version": "0.1.1",
+  "summary": "Standalone IP threat scanner using local blocklists — no API required",
+  "author": "DEMEJI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "seek_release-0.1.1.tar.gz",
+  "download_time": "2026-04-18T05:00:43.752039",
+  "package_url": "https://pypi.org/project/seek-release/"
+}

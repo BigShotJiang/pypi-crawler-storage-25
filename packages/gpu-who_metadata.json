@@ -1,0 +1,11 @@
+{
+  "name": "gpu-who",
+  "version": "0.2.3",
+  "summary": "GPU process monitor — see who's using the GPU with full process details",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpu_who-0.2.3.tar.gz",
+  "download_time": "2026-04-18T05:00:58.971704",
+  "package_url": "https://pypi.org/project/gpu-who/"
+}

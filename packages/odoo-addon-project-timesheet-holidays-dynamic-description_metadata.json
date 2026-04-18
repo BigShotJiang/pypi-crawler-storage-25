@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-project-timesheet-holidays-dynamic-description",
+  "version": "18.0.1.0.0.3",
+  "summary": "Use the time off description for the generated timesheet lines.",
+  "author": "=?utf-8?q?Solvos_Consultor=C3=ADa_Inform=C3=A1tica=2C_Odoo_Community_Association_=28OCA=29?=",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/timesheet",
+  "download_filename": "odoo_addon_project_timesheet_holidays_dynamic_description-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-04-18T05:01:14.136786",
+  "package_url": "https://pypi.org/project/odoo-addon-project-timesheet-holidays-dynamic-description/"
+}
