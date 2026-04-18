@@ -1,11 +1,11 @@
 {
   "name": "robot-md",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "ROBOT.md — a single self-describing file so Claude can safely operate your robot.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "robot_md-0.2.1.tar.gz",
-  "download_time": "2026-04-18T14:10:11.469785",
+  "download_filename": "robot_md-0.2.3.tar.gz",
+  "download_time": "2026-04-18T15:04:09.470952",
   "package_url": "https://pypi.org/project/robot-md/"
 }

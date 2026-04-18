@@ -1,11 +1,11 @@
 {
   "name": "sqz",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Universal context intelligence layer — compresses LLM context across CLI, MCP, browser, and IDE",
   "author": null,
   "license": "Elastic License 2.0 (ELv2)",
   "home_page": null,
-  "download_filename": "sqz-0.6.0.tar.gz",
-  "download_time": "2026-04-18T07:43:45.350063",
+  "download_filename": "sqz-0.7.0.tar.gz",
+  "download_time": "2026-04-18T15:04:14.105039",
   "package_url": "https://pypi.org/project/sqz/"
 }

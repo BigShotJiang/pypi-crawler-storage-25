@@ -1,0 +1,11 @@
+{
+  "name": "pymemtrace",
+  "version": "0.4.0",
+  "summary": "Python memory tracing.",
+  "author": "Paul Ross",
+  "license": "MIT license",
+  "home_page": "https://github.com/paulross/pymemtrace",
+  "download_filename": "pymemtrace-0.4.0.tar.gz",
+  "download_time": "2026-04-18T15:04:45.979579",
+  "package_url": "https://pypi.org/project/pymemtrace/"
+}

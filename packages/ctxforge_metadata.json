@@ -1,0 +1,11 @@
+{
+  "name": "ctxforge",
+  "version": "1.4.8",
+  "summary": "AI role-matrix context manager — define AI profiles and inject context into any AI CLI.",
+  "author": "lijihangmk2",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctxforge-1.4.8.tar.gz",
+  "download_time": "2026-04-18T15:04:34.095457",
+  "package_url": "https://pypi.org/project/ctxforge/"
+}

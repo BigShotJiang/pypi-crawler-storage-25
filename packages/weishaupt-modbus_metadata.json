@@ -1,11 +1,11 @@
 {
   "name": "weishaupt-modbus",
-  "version": "0.4.0",
-  "summary": "Async communication library for Weishaupt heating systems (Modbus TCP + WCM-COM HTTP + ebusd)",
+  "version": "0.6.0",
+  "summary": "Async communication library for Weishaupt heating systems (Modbus TCP + ebusd)",
   "author": "Tim van Wasen",
   "license": null,
   "home_page": null,
-  "download_filename": "weishaupt_modbus-0.4.0.tar.gz",
-  "download_time": "2026-04-18T10:13:18.434983",
+  "download_filename": "weishaupt_modbus-0.6.0.tar.gz",
+  "download_time": "2026-04-18T15:04:26.902670",
   "package_url": "https://pypi.org/project/weishaupt-modbus/"
 }

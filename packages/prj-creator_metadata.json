@@ -1,11 +1,11 @@
 {
   "name": "prj-creator",
-  "version": "2.0.0",
+  "version": "2.1.2",
   "summary": "A CLI tool for rapid project scaffolding",
   "author": "DevX-Dragon",
   "license": null,
   "home_page": null,
-  "download_filename": "prj_creator-2.0.0.tar.gz",
-  "download_time": "2026-04-17T12:12:32.155579",
+  "download_filename": "prj_creator-2.1.2.tar.gz",
+  "download_time": "2026-04-18T15:04:09.981644",
   "package_url": "https://pypi.org/project/prj-creator/"
 }

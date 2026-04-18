@@ -1,11 +1,11 @@
 {
   "name": "pw-agent",
-  "version": "1.50.4",
+  "version": "1.50.12",
   "summary": "CLI coding assistant powered by your Ollama GPUs via PastaWater",
   "author": "PastaWater",
   "license": null,
   "home_page": "https://pastawater.io",
-  "download_filename": "pw_agent-1.50.4.tar.gz",
-  "download_time": "2026-04-18T13:06:43.431291",
+  "download_filename": "pw_agent-1.50.12.tar.gz",
+  "download_time": "2026-04-18T15:04:07.415231",
   "package_url": "https://pypi.org/project/pw-agent/"
 }

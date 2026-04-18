@@ -1,11 +1,11 @@
 {
   "name": "zzshare",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "A股量化数据接口 SDK - 免费、开箱即用的量化数据接口",
   "author": "zzquant",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "zzshare-0.3.1.tar.gz",
-  "download_time": "2026-04-17T12:12:27.438544",
+  "download_filename": "zzshare-0.3.3.tar.gz",
+  "download_time": "2026-04-18T15:04:42.786080",
   "package_url": "https://pypi.org/project/zzshare/"
 }

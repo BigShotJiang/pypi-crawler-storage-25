@@ -1,11 +1,11 @@
 {
   "name": "pragmatiks-supabase-provider",
-  "version": "0.14.0",
+  "version": "0.17.0",
   "summary": "Supabase provider for Pragmatiks",
   "author": "Pragmatiks",
   "license": null,
   "home_page": null,
-  "download_filename": "pragmatiks_supabase_provider-0.14.0.tar.gz",
-  "download_time": "2026-04-18T10:12:58.268553",
+  "download_filename": "pragmatiks_supabase_provider-0.17.0.tar.gz",
+  "download_time": "2026-04-18T15:04:36.662632",
   "package_url": "https://pypi.org/project/pragmatiks-supabase-provider/"
 }
