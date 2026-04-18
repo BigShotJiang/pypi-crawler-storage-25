@@ -1,11 +1,11 @@
 {
   "name": "api-anything",
-  "version": "0.3.1",
-  "summary": "Auto-generate Python APIs from any software. Beyond CLI-Anything.",
+  "version": "0.3.2",
+  "summary": "DEPRECATED — renamed to invoco. Install invoco instead: pip install invoco",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "api_anything-0.3.1.tar.gz",
-  "download_time": "2026-04-17T22:07:41.866752",
+  "download_filename": "api_anything-0.3.2.tar.gz",
+  "download_time": "2026-04-18T15:48:17.350441",
   "package_url": "https://pypi.org/project/api-anything/"
 }

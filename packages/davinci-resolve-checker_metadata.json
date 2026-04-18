@@ -1,0 +1,11 @@
+{
+  "name": "davinci-resolve-checker",
+  "version": "0.1.0",
+  "summary": "Check system configuration for DaVinci Resolve compatibility on Arch-based Linux",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "davinci_resolve_checker-0.1.0.tar.gz",
+  "download_time": "2026-04-18T15:48:22.503989",
+  "package_url": "https://pypi.org/project/davinci-resolve-checker/"
+}

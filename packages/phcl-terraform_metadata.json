@@ -1,0 +1,11 @@
+{
+  "name": "phcl-terraform",
+  "version": "0.1.2",
+  "summary": "Terraform-native authoring layer for PHCL.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phcl_terraform-0.1.2.tar.gz",
+  "download_time": "2026-04-18T15:48:16.840361",
+  "package_url": "https://pypi.org/project/phcl-terraform/"
+}

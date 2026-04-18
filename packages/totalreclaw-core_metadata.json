@@ -1,11 +1,11 @@
 {
   "name": "totalreclaw-core",
-  "version": "1.5.0",
+  "version": "2.0.0",
   "summary": "TotalReclaw crypto core — E2EE, LSH, blind indices, protobuf encoding (Rust)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "totalreclaw_core-1.5.0.tar.gz",
-  "download_time": "2026-04-16T09:54:07.196609",
+  "download_filename": "totalreclaw_core-2.0.0.tar.gz",
+  "download_time": "2026-04-18T15:48:24.548444",
   "package_url": "https://pypi.org/project/totalreclaw-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "acaua",
+  "version": "0.1.0.dev0",
+  "summary": "Apache-2.0 PyTorch-native computer vision library. One API for detection, segmentation, and (soon) OBB/OCR/VLM/zero-shot.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "acaua-0.1.0.dev0.tar.gz",
+  "download_time": "2026-04-18T15:48:15.303454",
+  "package_url": "https://pypi.org/project/acaua/"
+}

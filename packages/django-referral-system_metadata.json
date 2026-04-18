@@ -1,11 +1,11 @@
 {
   "name": "django-referral-system",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A Django app for managing referral programs, promoters, referrals, and tracking referral performance with advanced features like commission setting, invitation management, and Wise payouts.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_referral_system-0.3.0.tar.gz",
-  "download_time": "2026-04-18T15:04:28.942979",
+  "download_filename": "django_referral_system-0.3.1.tar.gz",
+  "download_time": "2026-04-18T15:48:33.793206",
   "package_url": "https://pypi.org/project/django-referral-system/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cludev",
-  "version": "1.9.1",
+  "version": "1.13.0",
   "summary": "Intent-oriented code review for AI-assisted development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cludev-1.9.1.tar.gz",
-  "download_time": "2026-04-18T14:10:47.993411",
+  "download_filename": "cludev-1.13.0.tar.gz",
+  "download_time": "2026-04-18T15:48:11.193156",
   "package_url": "https://pypi.org/project/cludev/"
 }

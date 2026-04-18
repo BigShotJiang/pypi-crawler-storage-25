@@ -1,0 +1,11 @@
+{
+  "name": "si-units",
+  "version": "0.11.2",
+  "summary": "Representation of quantites, i.e. of unit valued scalars and arrays.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/itt-ustutt/quantity/tree/master/si-units",
+  "download_filename": "si_units-0.11.2-cp310-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-18T15:48:11.706755",
+  "package_url": "https://pypi.org/project/si-units/"
+}

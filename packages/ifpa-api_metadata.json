@@ -1,0 +1,11 @@
+{
+  "name": "ifpa-api",
+  "version": "0.4.5",
+  "summary": "Typed Python client for the IFPA (International Flipper Pinball Association) API",
+  "author": "John Sosoka",
+  "license": "MIT",
+  "home_page": "https://github.com/johnsosoka/ifpa-api-python",
+  "download_filename": "ifpa_api-0.4.5.tar.gz",
+  "download_time": "2026-04-18T15:47:58.355810",
+  "package_url": "https://pypi.org/project/ifpa-api/"
+}

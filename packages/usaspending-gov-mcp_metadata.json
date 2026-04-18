@@ -1,11 +1,11 @@
 {
   "name": "usaspending-gov-mcp",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "summary": "MCP server for USASpending.gov federal contract and award data",
   "author": "James Jenrette / 1102tools",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "usaspending_gov_mcp-0.1.3.tar.gz",
-  "download_time": "2026-04-11T03:01:20.026172",
+  "download_filename": "usaspending_gov_mcp-0.2.0.tar.gz",
+  "download_time": "2026-04-18T15:48:07.551129",
   "package_url": "https://pypi.org/project/usaspending-gov-mcp/"
 }

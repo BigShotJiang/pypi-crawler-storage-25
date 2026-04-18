@@ -1,11 +1,11 @@
 {
   "name": "humane-proxy",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Lightweight, plug-and-play AI safety middleware that protects humans.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "humane_proxy-0.3.1.tar.gz",
-  "download_time": "2026-04-03T18:02:36.886724",
+  "download_filename": "humane_proxy-0.4.0.tar.gz",
+  "download_time": "2026-04-18T15:48:34.815804",
   "package_url": "https://pypi.org/project/humane-proxy/"
 }

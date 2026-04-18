@@ -1,11 +1,11 @@
 {
   "name": "xgen-harness",
-  "version": "0.8.21",
+  "version": "0.8.24",
   "summary": "XGEN Harness Pipeline Library — 12-stage dual-abstraction agent pipeline",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xgen_harness-0.8.21.tar.gz",
-  "download_time": "2026-04-18T15:04:03.768866",
+  "download_filename": "xgen_harness-0.8.24.tar.gz",
+  "download_time": "2026-04-18T15:48:12.216852",
   "package_url": "https://pypi.org/project/xgen-harness/"
 }
