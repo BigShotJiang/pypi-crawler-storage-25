@@ -1,0 +1,11 @@
+{
+  "name": "django-suap-auth",
+  "version": "1.0.1",
+  "summary": "Django OAuth2 authentication backend for SUAP (IFRN academic management system)",
+  "author": "kelsoncm",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_suap_auth-1.0.1.tar.gz",
+  "download_time": "2026-04-18T21:39:43.671773",
+  "package_url": "https://pypi.org/project/django-suap-auth/"
+}
