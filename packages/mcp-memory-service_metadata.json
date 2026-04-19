@@ -1,11 +1,11 @@
 {
   "name": "mcp-memory-service",
-  "version": "10.38.1",
+  "version": "10.39.0",
   "summary": "Semantic memory layer for AI applications. REST API + MCP transport + knowledge graph + autonomous consolidation. Works with 14+ AI clients. Self-host, zero cloud cost.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mcp_memory_service-10.38.1-py3-none-any.whl",
-  "download_time": "2026-04-15T11:45:32.140112",
+  "download_filename": "mcp_memory_service-10.39.0-py3-none-any.whl",
+  "download_time": "2026-04-19T20:18:37.673284",
   "package_url": "https://pypi.org/project/mcp-memory-service/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "py-apple-books",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "summary": "Python library for Apple Books",
   "author": "Vignesh Iyer",
   "license": "MIT",
   "home_page": "https://github.com/vgnshiyer/py-apple-books",
-  "download_filename": "py_apple_books-1.7.0.tar.gz",
-  "download_time": "2026-04-19T18:59:37.610380",
+  "download_filename": "py_apple_books-1.7.1.tar.gz",
+  "download_time": "2026-04-19T20:18:31.672983",
   "package_url": "https://pypi.org/project/py-apple-books/"
 }

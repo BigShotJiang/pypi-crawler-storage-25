@@ -1,0 +1,11 @@
+{
+  "name": "voidly-pay",
+  "version": "1.0.0",
+  "summary": "Python SDK for Voidly Pay — the off-chain credit ledger + hire marketplace for AI agents. Lets any Python agent bootstrap, pay, hire, and settle with other agents via Ed25519-signed envelopes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voidly_pay-1.0.0.tar.gz",
+  "download_time": "2026-04-19T20:18:17.626174",
+  "package_url": "https://pypi.org/project/voidly-pay/"
+}

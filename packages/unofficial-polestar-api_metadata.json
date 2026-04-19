@@ -1,11 +1,11 @@
 {
   "name": "unofficial-polestar-api",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Unofficial async Python client for Polestar vehicle APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unofficial_polestar_api-0.1.0.tar.gz",
-  "download_time": "2026-04-12T20:39:34.545241",
+  "download_filename": "unofficial_polestar_api-0.2.0.tar.gz",
+  "download_time": "2026-04-19T20:18:36.579821",
   "package_url": "https://pypi.org/project/unofficial-polestar-api/"
 }

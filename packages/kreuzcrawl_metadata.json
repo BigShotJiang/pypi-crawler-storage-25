@@ -1,11 +1,11 @@
 {
   "name": "kreuzcrawl",
-  "version": "0.1.0rc7",
+  "version": "0.1.0rc9",
   "summary": "High-performance web crawling engine",
   "author": "Kreuzberg Team",
   "license": null,
   "home_page": null,
-  "download_filename": "kreuzcrawl-0.1.0rc7.tar.gz",
-  "download_time": "2026-04-19T16:29:53.363022",
+  "download_filename": "kreuzcrawl-0.1.0rc9.tar.gz",
+  "download_time": "2026-04-19T20:18:29.120443",
   "package_url": "https://pypi.org/project/kreuzcrawl/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "GLFWSocketWindow",
+  "version": "0.0.3",
+  "summary": "GLFW window that listens on a UNIX socket for a stream of RGBA pixels",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glfwsocketwindow-0.0.3.tar.gz",
+  "download_time": "2026-04-19T20:18:21.955683",
+  "package_url": "https://pypi.org/project/GLFWSocketWindow/"
+}

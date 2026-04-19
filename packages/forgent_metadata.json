@@ -1,0 +1,11 @@
+{
+  "name": "forgent",
+  "version": "0.4.0",
+  "summary": "Planning + knowledge layer for AI coding agents. Routes any task to the best of 60+ curated specialists, returns a structured PlanCard (steps, gotchas, success criteria) with progressive memory, and ships an optional Claude Code status line.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "forgent-0.4.0.tar.gz",
+  "download_time": "2026-04-19T20:18:34.396243",
+  "package_url": "https://pypi.org/project/forgent/"
+}

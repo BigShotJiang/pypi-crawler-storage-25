@@ -1,11 +1,11 @@
 {
   "name": "claude-code-generator",
-  "version": "0.4.3",
+  "version": "0.4.7",
   "summary": "Orchestrator CLI that drives Claude Code end-to-end to generate whole projects from a requirements.md file.",
   "author": "Silvio Baratto",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_code_generator-0.4.3.tar.gz",
-  "download_time": "2026-04-18T09:31:03.194406",
+  "download_filename": "claude_code_generator-0.4.7.tar.gz",
+  "download_time": "2026-04-19T20:18:04.554604",
   "package_url": "https://pypi.org/project/claude-code-generator/"
 }

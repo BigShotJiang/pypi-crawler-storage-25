@@ -1,0 +1,11 @@
+{
+  "name": "cindra",
+  "version": "1.0.0",
+  "summary": "Provides pipelines for processing neural imaging data and tracking Regions of Interest across multiple recordings.",
+  "author": "Ivan Kondratyev, Natalie Yeung",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cindra-1.0.0.tar.gz",
+  "download_time": "2026-04-19T20:18:00.918782",
+  "package_url": "https://pypi.org/project/cindra/"
+}

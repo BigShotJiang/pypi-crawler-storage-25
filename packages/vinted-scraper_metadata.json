@@ -1,0 +1,11 @@
+{
+  "name": "vinted-scraper",
+  "version": "3.1.0",
+  "summary": "A very simple Python package for scraping Vinted. Supports both synchronous and asynchronous operations with automatic cookie management and typed responses.",
+  "author": "Giglium",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vinted_scraper-3.1.0.tar.gz",
+  "download_time": "2026-04-19T20:18:22.462682",
+  "package_url": "https://pypi.org/project/vinted-scraper/"
+}

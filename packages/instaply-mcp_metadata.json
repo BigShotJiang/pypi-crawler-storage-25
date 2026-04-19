@@ -1,0 +1,11 @@
+{
+  "name": "instaply-mcp",
+  "version": "0.3.1",
+  "summary": "Instaply MCP server — local-first agentic job applications inside Claude Desktop / Claude Code / Codex and other local MCP clients. Runs Playwright on your residential IP so captcha and rate-limit walls disappear.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "instaply_mcp-0.3.1.tar.gz",
+  "download_time": "2026-04-19T20:18:32.858523",
+  "package_url": "https://pypi.org/project/instaply-mcp/"
+}
