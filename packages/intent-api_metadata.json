@@ -1,11 +1,11 @@
 {
   "name": "intent-api",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "A constraint-driven API framework for Python. One endpoint. Typed intents. Zero boilerplate.",
   "author": "Chris Bora",
   "license": null,
   "home_page": null,
-  "download_filename": "intent_api-0.2.0.tar.gz",
-  "download_time": "2026-04-19T16:29:57.210794",
+  "download_filename": "intent_api-0.4.0.tar.gz",
+  "download_time": "2026-04-19T22:19:21.673754",
   "package_url": "https://pypi.org/project/intent-api/"
 }

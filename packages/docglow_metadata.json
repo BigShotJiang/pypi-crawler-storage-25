@@ -1,11 +1,11 @@
 {
   "name": "docglow",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Next-generation dbt documentation site generator",
   "author": "Josh",
   "license": null,
   "home_page": null,
-  "download_filename": "docglow-0.7.0.tar.gz",
-  "download_time": "2026-04-16T16:02:42.492961",
+  "download_filename": "docglow-0.7.1.tar.gz",
+  "download_time": "2026-04-19T22:19:49.684852",
   "package_url": "https://pypi.org/project/docglow/"
 }

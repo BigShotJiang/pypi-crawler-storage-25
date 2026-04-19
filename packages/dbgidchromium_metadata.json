@@ -1,11 +1,11 @@
 {
   "name": "dbgidchromium",
-  "version": "1.1.2",
+  "version": "1.1.5",
   "summary": "Android-focused browser automation toolkit",
   "author": "dbgid",
   "license": "MIT",
   "home_page": "https://github.com/dbgid/dbgidchromium",
-  "download_filename": "dbgidchromium-1.1.2.tar.gz",
-  "download_time": "2026-04-19T00:11:35.487429",
+  "download_filename": "dbgidchromium-1.1.5.tar.gz",
+  "download_time": "2026-04-19T22:19:48.661468",
   "package_url": "https://pypi.org/project/dbgidchromium/"
 }

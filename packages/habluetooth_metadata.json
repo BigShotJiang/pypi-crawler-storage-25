@@ -1,11 +1,11 @@
 {
   "name": "habluetooth",
-  "version": "6.0.1",
+  "version": "6.1.0",
   "summary": "High availability Bluetooth",
   "author": "J. Nick Koston",
   "license": null,
   "home_page": null,
-  "download_filename": "habluetooth-6.0.1.tar.gz",
-  "download_time": "2026-04-17T23:07:39.539430",
+  "download_filename": "habluetooth-6.1.0.tar.gz",
+  "download_time": "2026-04-19T22:19:25.300226",
   "package_url": "https://pypi.org/project/habluetooth/"
 }

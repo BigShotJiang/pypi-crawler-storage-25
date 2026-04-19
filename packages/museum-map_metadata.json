@@ -1,11 +1,11 @@
 {
   "name": "museum-map",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Interpretable clustering and graph-based visualization of painting collections",
-  "author": "Your Name",
-  "license": null,
+  "author": "Anna Chizhik, Katarina Čokrlić",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "museum_map-0.1.0.tar.gz",
-  "download_time": "2026-04-19T21:42:17.778761",
+  "download_filename": "museum_map-0.1.2.tar.gz",
+  "download_time": "2026-04-19T22:19:18.105322",
   "package_url": "https://pypi.org/project/museum-map/"
 }

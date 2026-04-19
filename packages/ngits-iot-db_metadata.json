@@ -1,0 +1,11 @@
+{
+  "name": "ngits-iot-db",
+  "version": "0.8.4",
+  "summary": "SQLAlchemy models for IoT sensor data storage with Alembic migrations",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "ngits_iot_db-0.8.4.tar.gz",
+  "download_time": "2026-04-19T22:19:19.631605",
+  "package_url": "https://pypi.org/project/ngits-iot-db/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "graflo",
-  "version": "1.7.17",
+  "version": "1.7.20",
   "summary": "A framework for transforming tabular (CSV, SQL) and hierarchical data (JSON, XML) into property graphs and ingesting them into graph databases (ArangoDB, Neo4j, TigerGraph, FalkorDB, Memgraph, NebulaGraph). Features automatic PostgreSQL schema inference.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "graflo-1.7.17.tar.gz",
-  "download_time": "2026-04-13T00:06:14.585817",
+  "download_filename": "graflo-1.7.20.tar.gz",
+  "download_time": "2026-04-19T22:19:42.939516",
   "package_url": "https://pypi.org/project/graflo/"
 }

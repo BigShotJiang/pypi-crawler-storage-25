@@ -1,11 +1,11 @@
 {
   "name": "radia-mcp",
-  "version": "0.22.4",
-  "summary": "MCP servers for the Radia CAE ecosystem. 0.22.0 adds mcp-server-radia-interop (universal CAD-MCP mesh backend): any_step_to_cubit_hex + OpenSCAD/FreeCAD adapters so any upstream CAD MCP (FreeCAD/OpenSCAD/Blender/Onshape/...) can dispatch to cubit_mesh_auto. First-and-only public MCP for Gmsh + Cubit + mesh generators.",
+  "version": "0.24.1",
+  "summary": "MCP servers for the Radia CAE ecosystem. 0.24.0 adds parallel races: cubit_mesh_race (N recipes batch-parallel, first hex-success wins, replay live GUI) + build123d_try_race (parameter-sweep N variants in subprocess pool, valid+largest-volume winner) + freecad_exec_safely (Cubit-style checkpoint→batch→commit safety pattern for FreeCAD). 0.23.x base: YouTube + training pack + GitHub .jou search.",
   "author": "Kengo Sugahara",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "radia_mcp-0.22.4.tar.gz",
-  "download_time": "2026-04-19T17:11:18.374581",
+  "download_filename": "radia_mcp-0.24.1.tar.gz",
+  "download_time": "2026-04-19T22:19:10.912351",
   "package_url": "https://pypi.org/project/radia-mcp/"
 }
