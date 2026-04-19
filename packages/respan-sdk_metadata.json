@@ -1,11 +1,11 @@
 {
   "name": "respan-sdk",
-  "version": "2.6.24",
+  "version": "2.6.26",
   "summary": "Respan SDK allows you to interact with the Respan API smoothly",
   "author": "Respan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "respan_sdk-2.6.24.tar.gz",
-  "download_time": "2026-04-09T21:47:51.314075",
+  "download_filename": "respan_sdk-2.6.26.tar.gz",
+  "download_time": "2026-04-19T06:04:32.002593",
   "package_url": "https://pypi.org/project/respan-sdk/"
 }

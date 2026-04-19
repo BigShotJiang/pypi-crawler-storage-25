@@ -1,11 +1,11 @@
 {
   "name": "knoten",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "summary": "Standalone CLI zettelkasten with a local markdown vault and SQLite FTS5 index; optionally plugs into a remote backend for multi-device sync",
   "author": "Alice Voland",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "knoten-0.2.4.tar.gz",
-  "download_time": "2026-04-15T21:43:40.674560",
+  "download_filename": "knoten-0.3.0.tar.gz",
+  "download_time": "2026-04-19T06:04:19.172525",
   "package_url": "https://pypi.org/project/knoten/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "trackloom",
+  "version": "0.1.0",
+  "summary": "Safe CLI for comparing and merging music libraries",
+  "author": "Dan Getz, Jr.",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "trackloom-0.1.0.tar.gz",
+  "download_time": "2026-04-19T06:04:52.646576",
+  "package_url": "https://pypi.org/project/trackloom/"
+}

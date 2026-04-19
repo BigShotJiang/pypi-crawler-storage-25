@@ -1,11 +1,11 @@
 {
   "name": "pyhwpxlib",
-  "version": "0.7.3",
+  "version": "0.8.1",
   "summary": "Python library for creating and editing HWPX (Hancom Office) documents without Hancom Office",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyhwpxlib-0.7.3.tar.gz",
-  "download_time": "2026-04-19T00:11:49.041488",
+  "download_filename": "pyhwpxlib-0.8.1.tar.gz",
+  "download_time": "2026-04-19T06:04:08.348135",
   "package_url": "https://pypi.org/project/pyhwpxlib/"
 }

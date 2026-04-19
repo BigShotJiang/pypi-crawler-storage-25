@@ -1,0 +1,11 @@
+{
+  "name": "scikit-rec-agent",
+  "version": "0.0.1",
+  "summary": "Conversational AI agent that drives scikit-rec via tool use",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scikit_rec_agent-0.0.1.tar.gz",
+  "download_time": "2026-04-19T06:04:15.562197",
+  "package_url": "https://pypi.org/project/scikit-rec-agent/"
+}

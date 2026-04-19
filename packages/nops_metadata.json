@@ -1,11 +1,11 @@
 {
   "name": "nops",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "nops: Neural Operators made simple — with physics-informed losses for FNO, DeepONet, and GNO",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nops-0.2.0.tar.gz",
-  "download_time": "2026-04-19T03:56:24.476890",
+  "download_filename": "nops-0.3.0.tar.gz",
+  "download_time": "2026-04-19T06:04:48.994144",
   "package_url": "https://pypi.org/project/nops/"
 }

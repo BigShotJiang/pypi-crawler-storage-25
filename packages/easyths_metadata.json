@@ -1,11 +1,11 @@
 {
   "name": "easyths",
-  "version": "1.6.5",
+  "version": "1.7.0",
   "summary": "同花顺交易自动化系统",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easyths-1.6.5.tar.gz",
-  "download_time": "2026-04-14T11:48:58.581172",
+  "download_filename": "easyths-1.7.0.tar.gz",
+  "download_time": "2026-04-19T06:04:37.176487",
   "package_url": "https://pypi.org/project/easyths/"
 }

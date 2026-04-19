@@ -1,0 +1,11 @@
+{
+  "name": "web-rpc-sdk",
+  "version": "1.0.0",
+  "summary": "A lightweight Python SDK for calling browser-side JavaScript methods through a WebSocket relay.",
+  "author": "tf",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "web_rpc_sdk-1.0.0.tar.gz",
+  "download_time": "2026-04-19T06:04:29.938156",
+  "package_url": "https://pypi.org/project/web-rpc-sdk/"
+}

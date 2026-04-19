@@ -1,0 +1,11 @@
+{
+  "name": "worthless",
+  "version": "0.3.0",
+  "summary": "Split-key reverse proxy that makes leaked API keys worthless",
+  "author": "Shachar Mendelowitz",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "worthless-0.3.0.tar.gz",
+  "download_time": "2026-04-19T06:04:25.827965",
+  "package_url": "https://pypi.org/project/worthless/"
+}

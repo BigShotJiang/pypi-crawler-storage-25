@@ -1,0 +1,11 @@
+{
+  "name": "touchgrass-sdk",
+  "version": "0.2.0",
+  "summary": "Python SDK for the TouchGrass protocol — delegate tasks to World ID-verified humans",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "touchgrass_sdk-0.2.0.tar.gz",
+  "download_time": "2026-04-19T06:04:41.802355",
+  "package_url": "https://pypi.org/project/touchgrass-sdk/"
+}

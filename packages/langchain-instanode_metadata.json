@@ -1,0 +1,11 @@
+{
+  "name": "langchain-instanode",
+  "version": "0.2.0",
+  "summary": "LangChain tools for instanode.dev — let AI agents provision ephemeral Postgres databases and webhook receivers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_instanode-0.2.0.tar.gz",
+  "download_time": "2026-04-19T06:04:22.239786",
+  "package_url": "https://pypi.org/project/langchain-instanode/"
+}

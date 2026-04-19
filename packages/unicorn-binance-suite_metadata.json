@@ -1,0 +1,11 @@
+{
+  "name": "unicorn-binance-suite",
+  "version": "2.1.1",
+  "summary": "The UNICORN Binance Suite is a comprehensive collection of open-source Python packages designed for building sophisticated automated trading systems. Tailored for Python developers, this suite offers seamless integration with the Binance API, enabling the creation of advanced and professional trading bots for streamlined and efficient cryptocurrency trading.",
+  "author": "Oliver Zehentleitner",
+  "license": "MIT",
+  "home_page": "https://github.com/oliver-zehentleitner/unicorn-binance-suite",
+  "download_filename": "unicorn_binance_suite-2.1.1.tar.gz",
+  "download_time": "2026-04-19T06:04:43.338164",
+  "package_url": "https://pypi.org/project/unicorn-binance-suite/"
+}

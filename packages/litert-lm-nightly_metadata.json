@@ -1,11 +1,11 @@
 {
   "name": "litert-lm-nightly",
-  "version": "0.10.0.dev20260406",
+  "version": "0.11.0.dev20260418",
   "summary": "LiteRT-LM command line tool",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://github.com/google-ai-edge/LiteRT-LM",
-  "download_filename": "litert_lm_nightly-0.10.0.dev20260406-py3-none-any.whl",
-  "download_time": "2026-04-07T05:28:03.359786",
+  "download_filename": "litert_lm_nightly-0.11.0.dev20260418-py3-none-any.whl",
+  "download_time": "2026-04-19T06:04:49.508094",
   "package_url": "https://pypi.org/project/litert-lm-nightly/"
 }
