@@ -1,11 +1,11 @@
 {
   "name": "epubchapterize",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A Python package for parsing chapters from EPUBs.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "epubchapterize-0.2.0.tar.gz",
-  "download_time": "2026-04-19T14:08:53.573696",
+  "download_filename": "epubchapterize-0.2.1.tar.gz",
+  "download_time": "2026-04-19T21:42:11.253936",
   "package_url": "https://pypi.org/project/epubchapterize/"
 }

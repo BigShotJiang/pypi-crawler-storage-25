@@ -1,11 +1,11 @@
 {
   "name": "kenboard",
-  "version": "0.1.66",
+  "version": "0.1.67",
   "summary": "Project management dashboard with kanban boards, burndown charts, and category-based organization. Flask API backend with MySQL storage and static HTML generation.",
   "author": "Q",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kenboard-0.1.66.tar.gz",
-  "download_time": "2026-04-19T21:01:00.358497",
+  "download_filename": "kenboard-0.1.67.tar.gz",
+  "download_time": "2026-04-19T21:41:54.818109",
   "package_url": "https://pypi.org/project/kenboard/"
 }

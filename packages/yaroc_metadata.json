@@ -1,11 +1,11 @@
 {
   "name": "yaroc",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "Yet Another ROC, radio online control",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "yaroc-0.1.18-cp311-abi3-linux_armv6l.whl",
-  "download_time": "2026-03-28T20:58:40.438515",
+  "download_filename": "yaroc-0.1.19-cp311-abi3-linux_armv6l.whl",
+  "download_time": "2026-04-19T21:41:43.787546",
   "package_url": "https://pypi.org/project/yaroc/"
 }

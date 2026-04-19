@@ -1,0 +1,11 @@
+{
+  "name": "nanny-sdk",
+  "version": "0.1.6",
+  "summary": "Python SDK for the Nanny execution boundary — @tool, @rule, @agent decorators",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nanny_sdk-0.1.6.tar.gz",
+  "download_time": "2026-04-19T21:42:00.291465",
+  "package_url": "https://pypi.org/project/nanny-sdk/"
+}

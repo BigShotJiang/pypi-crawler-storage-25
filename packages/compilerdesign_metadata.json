@@ -1,0 +1,11 @@
+{
+  "name": "compilerdesign",
+  "version": "1.0.2",
+  "summary": "A teaching Python library for compiler-design topics: lexer, grammar transforms, FIRST/FOLLOW, LL(1), shift-reduce, LR(0), symbol table, 3AC, DAG, and expression conversion.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "compilerdesign-1.0.2.tar.gz",
+  "download_time": "2026-04-19T21:41:42.686680",
+  "package_url": "https://pypi.org/project/compilerdesign/"
+}

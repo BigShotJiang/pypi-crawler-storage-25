@@ -1,11 +1,11 @@
 {
   "name": "easydot",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Tiny browser-side Graphviz DOT rendering helpers for notebooks and web views",
   "author": "Pablo Rodriguez Mier",
   "license": null,
   "home_page": null,
-  "download_filename": "easydot-0.1.2.tar.gz",
-  "download_time": "2026-04-19T00:11:41.726249",
+  "download_filename": "easydot-0.1.3.tar.gz",
+  "download_time": "2026-04-19T21:42:12.343846",
   "package_url": "https://pypi.org/project/easydot/"
 }

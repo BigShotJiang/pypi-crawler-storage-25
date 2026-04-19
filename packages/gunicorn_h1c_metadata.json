@@ -1,0 +1,11 @@
+{
+  "name": "gunicorn_h1c",
+  "version": "0.6.4",
+  "summary": "Fast HTTP/1.1 parser for Gunicorn using picohttpparser",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gunicorn_h1c-0.6.4.tar.gz",
+  "download_time": "2026-04-19T21:41:47.108049",
+  "package_url": "https://pypi.org/project/gunicorn_h1c/"
+}

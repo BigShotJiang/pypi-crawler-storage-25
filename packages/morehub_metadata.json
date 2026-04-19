@@ -1,11 +1,11 @@
 {
   "name": "morehub",
-  "version": "0.1.2",
-  "summary": "GUI model hub for managing local model setups and embeddings.",
+  "version": "0.1.9",
+  "summary": "GUI and CLI hub for managing local chemistry model setups and embeddings targetting learned molecular representation and embeddings.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "morehub-0.1.2.tar.gz",
-  "download_time": "2026-04-07T03:22:53.082623",
+  "download_filename": "morehub-0.1.9.tar.gz",
+  "download_time": "2026-04-19T21:42:10.709299",
   "package_url": "https://pypi.org/project/morehub/"
 }

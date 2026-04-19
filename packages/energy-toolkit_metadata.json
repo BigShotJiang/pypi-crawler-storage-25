@@ -1,0 +1,11 @@
+{
+  "name": "energy-toolkit",
+  "version": "1.0.7",
+  "summary": "Provides functionality to benchmark a program and measure time and energy during execution.",
+  "author": "Maximilian Krebs, Ben Hermann",
+  "license": null,
+  "home_page": "https://github.com/printerboi/energy-toolkit",
+  "download_filename": "energy_toolkit-1.0.7.tar.gz",
+  "download_time": "2026-04-19T21:42:15.052040",
+  "package_url": "https://pypi.org/project/energy-toolkit/"
+}

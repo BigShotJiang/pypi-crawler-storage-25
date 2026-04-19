@@ -1,11 +1,11 @@
 {
   "name": "reincarnation",
-  "version": "1.1.1",
+  "version": "1.1.5",
   "summary": "Python package made for better PIP access",
   "author": "Andrew Sergeevich",
   "license": null,
   "home_page": "https://github.com/CyberPlugger/reincarnation",
-  "download_filename": "reincarnation-1.1.1.tar.gz",
-  "download_time": "2026-04-16T18:48:19.160454",
+  "download_filename": "reincarnation-1.1.5.tar.gz",
+  "download_time": "2026-04-19T21:41:53.179019",
   "package_url": "https://pypi.org/project/reincarnation/"
 }

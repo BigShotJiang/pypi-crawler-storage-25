@@ -1,0 +1,11 @@
+{
+  "name": "pydsscodec",
+  "version": "0.1.4",
+  "summary": "Python bindings for the dss-codec Rust decoder",
+  "author": "Kieran Hirpara, Gaspard Petit",
+  "license": "MIT",
+  "home_page": "https://github.com/gaspardpetit/pydsscodec",
+  "download_filename": "pydsscodec-0.1.4.tar.gz",
+  "download_time": "2026-04-19T21:42:16.143492",
+  "package_url": "https://pypi.org/project/pydsscodec/"
+}

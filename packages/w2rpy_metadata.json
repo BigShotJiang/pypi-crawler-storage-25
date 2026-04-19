@@ -1,11 +1,11 @@
 {
   "name": "w2rpy",
-  "version": "0.3.30",
+  "version": "0.3.31",
   "summary": "Geospatial and Hydraulic Functions For Analysis of River Systems",
   "author": "Luke Russell",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "w2rpy-0.3.30.tar.gz",
-  "download_time": "2026-04-19T21:01:12.090195",
+  "download_filename": "w2rpy-0.3.31.tar.gz",
+  "download_time": "2026-04-19T21:42:11.799124",
   "package_url": "https://pypi.org/project/w2rpy/"
 }

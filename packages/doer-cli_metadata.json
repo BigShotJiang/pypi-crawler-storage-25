@@ -1,0 +1,11 @@
+{
+  "name": "doer-cli",
+  "version": "0.3.0",
+  "summary": "doer — one-file pipe-native agent. strands-agents + ollama only.",
+  "author": "cagataycali",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "doer_cli-0.3.0.tar.gz",
+  "download_time": "2026-04-19T21:41:57.019375",
+  "package_url": "https://pypi.org/project/doer-cli/"
+}
