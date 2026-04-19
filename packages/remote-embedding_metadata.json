@@ -1,11 +1,11 @@
 {
   "name": "remote-embedding",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A shared FastAPI embedding service and LangChain-compatible remote client for reusing one embedding model across multiple applications and lowering VRAM usage on limited GPUs.",
   "author": "Meshkat Shariat Bagheri",
   "license": null,
   "home_page": null,
-  "download_filename": "remote_embedding-0.2.0.tar.gz",
-  "download_time": "2026-04-19T10:30:55.489583",
+  "download_filename": "remote_embedding-0.2.1.tar.gz",
+  "download_time": "2026-04-19T11:13:25.892294",
   "package_url": "https://pypi.org/project/remote-embedding/"
 }

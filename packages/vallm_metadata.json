@@ -1,11 +1,11 @@
 {
   "name": "vallm",
-  "version": "0.1.68",
+  "version": "0.1.75",
   "summary": "A complete toolkit for validating LLM-generated code",
   "author": "semcod",
   "license": null,
   "home_page": null,
-  "download_filename": "vallm-0.1.68.tar.gz",
-  "download_time": "2026-03-31T06:49:45.618794",
+  "download_filename": "vallm-0.1.75.tar.gz",
+  "download_time": "2026-04-19T11:12:46.649135",
   "package_url": "https://pypi.org/project/vallm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "clawcu",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "ClawCU: a local multi-agent lifecycle manager for OpenClaw and Hermes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clawcu-0.2.9.tar.gz",
-  "download_time": "2026-04-19T10:30:44.693096",
+  "download_filename": "clawcu-0.2.10.tar.gz",
+  "download_time": "2026-04-19T11:12:45.606294",
   "package_url": "https://pypi.org/project/clawcu/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lovstudio-activate",
+  "version": "0.1.1",
+  "summary": "Activate and run paid Lovstudio skills locally. Decryption keys never touch disk.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lovstudio_activate-0.1.1.tar.gz",
+  "download_time": "2026-04-19T11:13:19.156335",
+  "package_url": "https://pypi.org/project/lovstudio-activate/"
+}

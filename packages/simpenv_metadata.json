@@ -1,0 +1,11 @@
+{
+  "name": "simpenv",
+  "version": "1.0.0",
+  "summary": "Minimalist environment variable access: env.VAR or env('VAR', default=...)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simpenv-1.0.0.tar.gz",
+  "download_time": "2026-04-19T11:12:49.337295",
+  "package_url": "https://pypi.org/project/simpenv/"
+}

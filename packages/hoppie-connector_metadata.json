@@ -1,0 +1,11 @@
+{
+  "name": "hoppie-connector",
+  "version": "0.2.1",
+  "summary": "Python connector for Hoppie's ACARS service ",
+  "author": "islandc_",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "hoppie_connector-0.2.1.tar.gz",
+  "download_time": "2026-04-19T11:12:54.530053",
+  "package_url": "https://pypi.org/project/hoppie-connector/"
+}

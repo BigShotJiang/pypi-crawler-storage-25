@@ -1,0 +1,11 @@
+{
+  "name": "project-mind",
+  "version": "0.1.2",
+  "summary": "Persistent AI context management for multi-tool development — syncs Claude, Gemini, Cursor, Codex and Copilot transcripts into a single LLM-tuning file.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "project_mind-0.1.2.tar.gz",
+  "download_time": "2026-04-19T11:12:55.048484",
+  "package_url": "https://pypi.org/project/project-mind/"
+}

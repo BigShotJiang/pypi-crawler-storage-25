@@ -1,0 +1,11 @@
+{
+  "name": "lmrunner",
+  "version": "0.1.0",
+  "summary": "CLI to manage local LLM inference endpoints",
+  "author": "Julian Schweigert",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lmrunner-0.1.0.tar.gz",
+  "download_time": "2026-04-19T11:12:58.740860",
+  "package_url": "https://pypi.org/project/lmrunner/"
+}

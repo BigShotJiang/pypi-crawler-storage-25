@@ -1,11 +1,11 @@
 {
   "name": "kglite",
-  "version": "0.8.0",
+  "version": "0.8.4",
   "summary": "A high-performance graph database library with Python bindings written in Rust",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kglite-0.8.0-cp310-cp310-macosx_10_12_x86_64.whl",
-  "download_time": "2026-04-18T13:06:28.616817",
+  "download_filename": "kglite-0.8.4-cp310-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-19T11:12:48.298785",
   "package_url": "https://pypi.org/project/kglite/"
 }

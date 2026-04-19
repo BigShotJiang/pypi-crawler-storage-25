@@ -1,11 +1,11 @@
 {
   "name": "pip-boy",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "Personal assistant agent with persistent memory and configurable persona",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pip_boy-0.3.5.tar.gz",
-  "download_time": "2026-04-19T10:30:59.220864",
+  "download_filename": "pip_boy-0.3.6.tar.gz",
+  "download_time": "2026-04-19T11:13:01.909877",
   "package_url": "https://pypi.org/project/pip-boy/"
 }

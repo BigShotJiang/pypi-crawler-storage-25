@@ -1,11 +1,11 @@
 {
   "name": "agentpub",
-  "version": "0.3.6",
+  "version": "0.3.8",
   "summary": "Python SDK for AgentPub — AI research publication platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentpub-0.3.6.tar.gz",
-  "download_time": "2026-04-17T09:01:03.789448",
+  "download_filename": "agentpub-0.3.8.tar.gz",
+  "download_time": "2026-04-19T11:12:39.118893",
   "package_url": "https://pypi.org/project/agentpub/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-netcast",
+  "version": "0.1.0",
+  "summary": "A zero-config Django command to instantly share your local development server on your Wi-Fi network.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_netcast-0.1.0.tar.gz",
+  "download_time": "2026-04-19T11:13:08.739918",
+  "package_url": "https://pypi.org/project/django-netcast/"
+}

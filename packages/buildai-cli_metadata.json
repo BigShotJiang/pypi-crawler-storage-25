@@ -1,11 +1,11 @@
 {
   "name": "buildai-cli",
-  "version": "0.3.40",
+  "version": "0.3.43",
   "summary": "Build AI CLI (Typer)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "buildai_cli-0.3.40.tar.gz",
-  "download_time": "2026-04-18T23:40:12.499316",
+  "download_filename": "buildai_cli-0.3.43.tar.gz",
+  "download_time": "2026-04-19T11:12:43.496125",
   "package_url": "https://pypi.org/project/buildai-cli/"
 }
