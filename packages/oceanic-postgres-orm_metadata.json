@@ -1,0 +1,11 @@
+{
+  "name": "oceanic-postgres-orm",
+  "version": "1.0.0",
+  "summary": "A production-grade async PostgreSQL ORM with LoopBack-style nested relation queries, typed model instances, and zero N+1.",
+  "author": "Mahesh Pulivarthi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oceanic_postgres_orm-1.0.0.tar.gz",
+  "download_time": "2026-04-19T11:56:58.133807",
+  "package_url": "https://pypi.org/project/oceanic-postgres-orm/"
+}

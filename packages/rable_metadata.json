@@ -1,11 +1,11 @@
 {
   "name": "rable",
-  "version": "0.1.13",
+  "version": "0.2.0",
   "summary": "A Rust implementation of the Parable bash parser",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rable-0.1.13-cp313-cp313-macosx_10_12_x86_64.whl",
-  "download_time": "2026-04-12T12:08:05.888945",
+  "download_filename": "rable-0.2.0-cp313-cp313-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-19T11:57:18.468283",
   "package_url": "https://pypi.org/project/rable/"
 }

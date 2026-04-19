@@ -1,0 +1,11 @@
+{
+  "name": "dinterpol",
+  "version": "0.3.6",
+  "summary": "data interpolation templating engine",
+  "author": "João Pinto",
+  "license": "Apache-2",
+  "home_page": "https://github.com/Openpipe/dinterpol",
+  "download_filename": "dinterpol-0.3.6.tar.gz",
+  "download_time": "2026-04-19T11:56:41.829894",
+  "package_url": "https://pypi.org/project/dinterpol/"
+}

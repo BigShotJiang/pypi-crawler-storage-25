@@ -1,11 +1,11 @@
 {
   "name": "azure-ai-agentserver-responses",
-  "version": "1.0.0b2",
+  "version": "1.0.0b3",
   "summary": "Python SDK for building servers implementing the Azure AI Responses protocol",
   "author": "Microsoft Corporation License-Expression: MIT",
   "license": null,
   "home_page": null,
-  "download_filename": "azure_ai_agentserver_responses-1.0.0b2.tar.gz",
-  "download_time": "2026-04-19T10:30:43.067354",
+  "download_filename": "azure_ai_agentserver_responses-1.0.0b3.tar.gz",
+  "download_time": "2026-04-19T11:57:04.375281",
   "package_url": "https://pypi.org/project/azure-ai-agentserver-responses/"
 }

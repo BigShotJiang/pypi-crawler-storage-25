@@ -1,0 +1,11 @@
+{
+  "name": "pallas-forge",
+  "version": "0.1.0",
+  "summary": "Lightweight auto-tuning framework for Pallas kernels on Google TPU",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pallas_forge-0.1.0.tar.gz",
+  "download_time": "2026-04-19T11:57:00.733193",
+  "package_url": "https://pypi.org/project/pallas-forge/"
+}

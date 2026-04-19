@@ -1,11 +1,11 @@
 {
   "name": "acpremote",
-  "version": "0.1.0",
-  "summary": "silence is golden",
+  "version": "0.8.2",
+  "summary": "Generic remote WebSocket transport for ACP agents and clients.",
   "author": null,
-  "license": null,
+  "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "acpremote-0.1.0.tar.gz",
-  "download_time": "2026-04-18T23:40:22.872719",
+  "download_filename": "acpremote-0.8.2.tar.gz",
+  "download_time": "2026-04-19T11:57:11.176818",
   "package_url": "https://pypi.org/project/acpremote/"
 }

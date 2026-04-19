@@ -1,0 +1,11 @@
+{
+  "name": "dataready",
+  "version": "0.2.0",
+  "summary": "ML dataset quality scanner, scorer, and auto-fixer",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dataready-0.2.0.tar.gz",
+  "download_time": "2026-04-19T11:56:59.695413",
+  "package_url": "https://pypi.org/project/dataready/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "binance-datatool",
+  "version": "0.1.1",
+  "summary": "A non-official Python toolkit for managing historical market data from data.binance.vision",
+  "author": "lostleaf",
+  "license": null,
+  "home_page": null,
+  "download_filename": "binance_datatool-0.1.1.tar.gz",
+  "download_time": "2026-04-19T11:56:44.468451",
+  "package_url": "https://pypi.org/project/binance-datatool/"
+}

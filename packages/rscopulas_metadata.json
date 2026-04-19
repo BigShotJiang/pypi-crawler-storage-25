@@ -1,0 +1,11 @@
+{
+  "name": "rscopulas",
+  "version": "0.1.0",
+  "summary": "Copula modeling for Python (NumPy) and Rust: vines, pair copulas, and reference-tested pseudo-observation workflows",
+  "author": "alwo",
+  "license": null,
+  "home_page": "https://github.com/alexwox/rscopulas",
+  "download_filename": "rscopulas-0.1.0.tar.gz",
+  "download_time": "2026-04-19T11:57:05.414426",
+  "package_url": "https://pypi.org/project/rscopulas/"
+}

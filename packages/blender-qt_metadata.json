@@ -1,11 +1,11 @@
 {
   "name": "blender-qt",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "Qt integration for Blender",
   "author": "Alex Telford",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "blender_qt-0.4.0.tar.gz",
-  "download_time": "2026-04-18T11:08:56.168118",
+  "download_filename": "blender_qt-0.4.2.tar.gz",
+  "download_time": "2026-04-19T11:57:09.053928",
   "package_url": "https://pypi.org/project/blender-qt/"
 }

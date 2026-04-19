@@ -1,11 +1,11 @@
 {
   "name": "scrivai",
-  "version": "0.1.5",
-  "summary": "Claude Agent 编排框架 — 文档审核 / 生成场景",
+  "version": "0.1.6",
+  "summary": "Configurable document generation & audit framework built on Claude Agent SDK",
   "author": null,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "scrivai-0.1.5.tar.gz",
-  "download_time": "2026-04-19T09:38:05.960378",
+  "download_filename": "scrivai-0.1.6.tar.gz",
+  "download_time": "2026-04-19T11:57:08.531902",
   "package_url": "https://pypi.org/project/scrivai/"
 }
