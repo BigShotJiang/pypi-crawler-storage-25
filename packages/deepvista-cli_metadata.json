@@ -1,11 +1,11 @@
 {
   "name": "deepvista-cli",
-  "version": "0.1.0a12",
-  "summary": "CLI for DeepVista — chat, notes, recipes, and memory from your terminal.",
+  "version": "0.1.0a26",
+  "summary": "CLI for DeepVista — chat, notes, skills, and memory from your terminal.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "deepvista_cli-0.1.0a12.tar.gz",
-  "download_time": "2026-04-09T04:46:29.697248",
+  "download_filename": "deepvista_cli-0.1.0a26.tar.gz",
+  "download_time": "2026-04-19T18:59:49.321636",
   "package_url": "https://pypi.org/project/deepvista-cli/"
 }

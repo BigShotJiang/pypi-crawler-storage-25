@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-acp",
+  "version": "0.1.1",
+  "summary": "Wrap openclaw acp into a standard stdio ACP server.",
+  "author": "Clawdboz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openclaw_acp-0.1.1.tar.gz",
+  "download_time": "2026-04-19T18:59:17.745472",
+  "package_url": "https://pypi.org/project/openclaw-acp/"
+}

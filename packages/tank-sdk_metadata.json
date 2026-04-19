@@ -1,0 +1,11 @@
+{
+  "name": "tank-sdk",
+  "version": "0.14.0",
+  "summary": "Official Python SDK for the Tank registry — search, download, and read AI agent skills programmatically, with security built in",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tank_sdk-0.14.0.tar.gz",
+  "download_time": "2026-04-19T18:59:44.633645",
+  "package_url": "https://pypi.org/project/tank-sdk/"
+}

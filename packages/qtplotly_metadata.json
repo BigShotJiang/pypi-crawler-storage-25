@@ -1,11 +1,11 @@
 {
   "name": "qtplotly",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "Qt widget for embedding interactive Plotly charts in PySide6 and PyQt applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qtplotly-0.1.7.tar.gz",
-  "download_time": "2026-04-19T18:00:02.244202",
+  "download_filename": "qtplotly-0.1.9.tar.gz",
+  "download_time": "2026-04-19T18:59:30.177091",
   "package_url": "https://pypi.org/project/qtplotly/"
 }

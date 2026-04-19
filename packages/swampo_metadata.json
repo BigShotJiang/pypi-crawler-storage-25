@@ -1,11 +1,11 @@
 {
   "name": "swampo",
-  "version": "1.4.3",
+  "version": "1.4.5",
   "summary": "The most complete skill pack for Claude Code — 42 curated skills for security, pentest, productivity & files + 23 slash commands",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "swampo-1.4.3.tar.gz",
-  "download_time": "2026-04-19T18:00:28.282073",
+  "download_filename": "swampo-1.4.5.tar.gz",
+  "download_time": "2026-04-19T18:59:50.544855",
   "package_url": "https://pypi.org/project/swampo/"
 }

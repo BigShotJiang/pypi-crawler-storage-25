@@ -1,11 +1,11 @@
 {
   "name": "honeybee-REVIVE",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A Honeybee Extension for Phius REVIVE Modeling.",
   "author": null,
   "license": "GNU",
   "home_page": null,
-  "download_filename": "honeybee_revive-0.1.4.tar.gz",
-  "download_time": "2026-03-28T20:29:17.745786",
+  "download_filename": "honeybee_revive-0.1.6.tar.gz",
+  "download_time": "2026-04-19T18:59:42.635585",
   "package_url": "https://pypi.org/project/honeybee-REVIVE/"
 }

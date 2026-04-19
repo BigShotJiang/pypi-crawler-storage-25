@@ -1,11 +1,11 @@
 {
   "name": "synapsys",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Modern Python control systems framework with distributed multi-agent simulation",
   "author": "synapsys contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synapsys-0.2.1-py3-none-any.whl",
-  "download_time": "2026-04-18T23:40:28.039276",
+  "download_filename": "synapsys-0.2.2-py3-none-any.whl",
+  "download_time": "2026-04-19T18:59:05.164226",
   "package_url": "https://pypi.org/project/synapsys/"
 }

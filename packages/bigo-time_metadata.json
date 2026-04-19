@@ -1,0 +1,11 @@
+{
+  "name": "bigo-time",
+  "version": "0.1.1",
+  "summary": "Auto Time Complexity Estimator — empirically measure Big-O with one line",
+  "author": "Soumyapriya Goswami",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bigo_time-0.1.1.tar.gz",
+  "download_time": "2026-04-19T18:59:30.817214",
+  "package_url": "https://pypi.org/project/bigo-time/"
+}

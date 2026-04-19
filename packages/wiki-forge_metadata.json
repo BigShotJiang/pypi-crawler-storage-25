@@ -1,11 +1,11 @@
 {
   "name": "wiki-forge",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "LLM Wiki — Auto-generate knowledge base from code & docs. CGC code intelligence, Q&A chat, knowledge graph, drift detection.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wiki_forge-1.0.0-py3-none-any.whl",
-  "download_time": "2026-04-17T03:32:42.787913",
+  "download_filename": "wiki_forge-1.2.0-py3-none-any.whl",
+  "download_time": "2026-04-19T18:59:19.159466",
   "package_url": "https://pypi.org/project/wiki-forge/"
 }

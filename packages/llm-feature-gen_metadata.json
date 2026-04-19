@@ -1,0 +1,11 @@
+{
+  "name": "llm-feature-gen",
+  "version": "0.1.12",
+  "summary": "Generate interpretable feature schemas and tabular exports from text, images, tabular data, and video with LLMs",
+  "author": "Julija Jeršova",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_feature_gen-0.1.12.tar.gz",
+  "download_time": "2026-04-19T18:59:20.413886",
+  "package_url": "https://pypi.org/project/llm-feature-gen/"
+}

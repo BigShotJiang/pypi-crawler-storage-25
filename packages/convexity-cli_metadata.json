@@ -1,11 +1,11 @@
 {
   "name": "convexity-cli",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "summary": "Convexity CLI - command-line interface for the Convexity platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "convexity_cli-0.10.0.tar.gz",
-  "download_time": "2026-04-15T05:57:03.654724",
+  "download_filename": "convexity_cli-0.11.0.tar.gz",
+  "download_time": "2026-04-19T18:59:52.942624",
   "package_url": "https://pypi.org/project/convexity-cli/"
 }

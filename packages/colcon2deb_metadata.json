@@ -1,11 +1,11 @@
 {
   "name": "colcon2deb",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Build Debian packages for Autoware in isolated Docker containers",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "colcon2deb-0.4.0.tar.gz",
-  "download_time": "2026-03-29T21:47:51.203817",
+  "download_filename": "colcon2deb-0.4.1.tar.gz",
+  "download_time": "2026-04-19T18:59:32.042742",
   "package_url": "https://pypi.org/project/colcon2deb/"
 }
