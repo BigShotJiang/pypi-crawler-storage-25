@@ -1,0 +1,11 @@
+{
+  "name": "testrift-server",
+  "version": "0.6.0",
+  "summary": "TestRift real-time test run server: live logs, results storage, and web UI for browsing and analysis.",
+  "author": "Andreas Anderberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "testrift_server-0.6.0.tar.gz",
+  "download_time": "2026-04-19T16:30:00.660123",
+  "package_url": "https://pypi.org/project/testrift-server/"
+}

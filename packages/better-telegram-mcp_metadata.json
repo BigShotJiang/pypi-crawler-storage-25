@@ -1,11 +1,11 @@
 {
   "name": "better-telegram-mcp",
-  "version": "4.5.3",
+  "version": "4.6.0",
   "summary": "Production-grade MCP server for Telegram — dual-mode Bot API + MTProto, domain-separated tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "better_telegram_mcp-4.5.3.tar.gz",
-  "download_time": "2026-04-18T15:48:08.126852",
+  "download_filename": "better_telegram_mcp-4.6.0.tar.gz",
+  "download_time": "2026-04-19T16:30:06.749815",
   "package_url": "https://pypi.org/project/better-telegram-mcp/"
 }

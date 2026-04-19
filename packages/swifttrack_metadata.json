@@ -1,11 +1,11 @@
 {
   "name": "swifttrack",
-  "version": "0.1.3.dev83",
+  "version": "0.1.3.dev87",
   "summary": "A Python SDK for the SwiftTrack logistics platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "swifttrack-0.1.3.dev83.tar.gz",
-  "download_time": "2026-04-14T07:34:14.070317",
+  "download_filename": "swifttrack-0.1.3.dev87.tar.gz",
+  "download_time": "2026-04-19T16:30:29.166181",
   "package_url": "https://pypi.org/project/swifttrack/"
 }

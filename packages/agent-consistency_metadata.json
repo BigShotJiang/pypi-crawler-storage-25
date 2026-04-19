@@ -1,0 +1,11 @@
+{
+  "name": "agent-consistency",
+  "version": "0.1.1",
+  "summary": "Consistency receipts for multi-agent workflows: state snapshots, handoff packets, outcome checks, and run diffs.",
+  "author": "Karim Baidar - karimbaidar@yahoo.com",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_consistency-0.1.1.tar.gz",
+  "download_time": "2026-04-19T16:29:58.876900",
+  "package_url": "https://pypi.org/project/agent-consistency/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "radia-mcp",
-  "version": "0.19.0",
-  "summary": "MCP servers for the Radia CAE ecosystem. 0.19.0 fills build123d depth gaps: bundled auto-generated API reference (142 classes + 65 functions, 1673 lines inspected), plane_axis_location_cookbook, builder_vs_algebra_rosetta (Builder↔Algebra side-by-side), build123d_api tool (API-focused tf-idf). 0.18.0 base: Radia templates + inspect_step + heal.",
+  "version": "0.21.0",
+  "summary": "MCP servers for the Radia CAE ecosystem. 0.21.0 adds gmsh community scrape: gitlab.onelab.info gmsh/gmsh issues (3000+) + StackOverflow/SciComp.SE [gmsh], unioned via FAMILIES['gmsh']. New tools gmsh_examples / gmsh_examples_refresh. 0.20.0 base: auto-gmsh API reference (651 entries), view_data + physical_groups cookbooks, 4 post tools.",
   "author": "Kengo Sugahara",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "radia_mcp-0.19.0.tar.gz",
-  "download_time": "2026-04-19T13:04:54.482545",
+  "download_filename": "radia_mcp-0.21.0.tar.gz",
+  "download_time": "2026-04-19T16:29:56.090955",
   "package_url": "https://pypi.org/project/radia-mcp/"
 }

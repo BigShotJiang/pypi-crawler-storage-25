@@ -1,0 +1,11 @@
+{
+  "name": "django-forgekit",
+  "version": "1.0.1",
+  "summary": "⚡ One command Django project setup with DRF, CORS, dotenv & more",
+  "author": "Manish Dange",
+  "license": null,
+  "home_page": "https://github.com/manish780386/djangoforge.git",
+  "download_filename": "django_forgekit-1.0.1.tar.gz",
+  "download_time": "2026-04-19T16:30:07.292838",
+  "package_url": "https://pypi.org/project/django-forgekit/"
+}

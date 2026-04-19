@@ -1,0 +1,11 @@
+{
+  "name": "prova-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for Prova — let any AI agent verify its own reasoning before answering.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prova_mcp-0.1.0.tar.gz",
+  "download_time": "2026-04-19T16:29:44.867695",
+  "package_url": "https://pypi.org/project/prova-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sleuth-rlm",
+  "version": "0.0.1",
+  "summary": "Sleuth: use an RLM to figure out your log files. Git bisect for production incidents.",
+  "author": "chandu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sleuth_rlm-0.0.1.tar.gz",
+  "download_time": "2026-04-19T16:29:49.972319",
+  "package_url": "https://pypi.org/project/sleuth-rlm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tiaga",
-  "version": "0.2.0",
+  "version": "0.2.10",
   "summary": "A CLI tool",
   "author": "Seems kushwaha",
   "license": null,
   "home_page": null,
-  "download_filename": "tiaga-0.2.0.tar.gz",
-  "download_time": "2026-04-18T08:33:49.766141",
+  "download_filename": "tiaga-0.2.10.tar.gz",
+  "download_time": "2026-04-19T16:30:29.707157",
   "package_url": "https://pypi.org/project/tiaga/"
 }
