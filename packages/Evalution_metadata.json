@@ -1,11 +1,11 @@
 {
   "name": "Evalution",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "summary": "Modern LLM model evaluation for Transformers, SGLang, vLLM, TensorRT-LLM, llama.cpp, GPTQModel, OpenAI-compatible HTTP backends, and OpenVINO.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evalution-0.0.3.tar.gz",
-  "download_time": "2026-04-11T22:06:35.944817",
+  "download_filename": "evalution-0.0.7.tar.gz",
+  "download_time": "2026-04-19T08:41:20.678830",
   "package_url": "https://pypi.org/project/Evalution/"
 }

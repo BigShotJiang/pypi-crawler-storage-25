@@ -1,11 +1,11 @@
 {
   "name": "neuronum",
-  "version": "2026.4.5",
+  "version": "2026.4.6",
   "summary": "Neuronum SDK",
   "author": "Neuronum Cybernetics",
   "license": null,
   "home_page": "https://neuronum.net",
-  "download_filename": "neuronum-2026.4.5.tar.gz",
-  "download_time": "2026-04-18T05:01:11.522816",
+  "download_filename": "neuronum-2026.4.6.tar.gz",
+  "download_time": "2026-04-19T08:41:09.461694",
   "package_url": "https://pypi.org/project/neuronum/"
 }

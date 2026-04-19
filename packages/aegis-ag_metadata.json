@@ -1,11 +1,11 @@
 {
   "name": "aegis-ag",
-  "version": "1.0.0.dev20260418161521",
+  "version": "1.0.0.dev20260419081308",
   "summary": "Aegis CLI-first persistent agent runtime.",
   "author": "Agentic Intelligence Lab",
   "license": null,
   "home_page": null,
-  "download_filename": "aegis_ag-1.0.0.dev20260418161521.tar.gz",
-  "download_time": "2026-04-18T16:27:35.971274",
+  "download_filename": "aegis_ag-1.0.0.dev20260419081308.tar.gz",
+  "download_time": "2026-04-19T08:41:15.345690",
   "package_url": "https://pypi.org/project/aegis-ag/"
 }

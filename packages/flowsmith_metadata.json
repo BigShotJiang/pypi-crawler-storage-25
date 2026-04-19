@@ -1,0 +1,11 @@
+{
+  "name": "flowsmith",
+  "version": "0.6.0",
+  "summary": "Lightweight durable workflow execution for Python backends",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flowsmith-0.6.0.tar.gz",
+  "download_time": "2026-04-19T08:40:41.521529",
+  "package_url": "https://pypi.org/project/flowsmith/"
+}

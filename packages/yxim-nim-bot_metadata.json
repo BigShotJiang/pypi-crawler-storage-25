@@ -1,0 +1,11 @@
+{
+  "name": "yxim-nim-bot",
+  "version": "10.9.81.1b1",
+  "summary": "Python packaging wrapper for the vendored @yxim/nim-bot Node.js SDK",
+  "author": "OpenAI Codex",
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "yxim_nim_bot-10.9.81.1b1.tar.gz",
+  "download_time": "2026-04-19T08:41:07.854279",
+  "package_url": "https://pypi.org/project/yxim-nim-bot/"
+}

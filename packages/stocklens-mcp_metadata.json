@@ -1,0 +1,11 @@
+{
+  "name": "stocklens-mcp",
+  "version": "0.3.0",
+  "summary": "StockLens — AI가 진짜 데이터로 분석합니다. 한국(네이버)·미국(Yahoo) 주식 + ETF MCP 서버 (차트, 수급, 재무, 실적, 배당, 스크리닝, Excel)",
+  "author": "Johnhyeon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stocklens_mcp-0.3.0-py3-none-any.whl",
+  "download_time": "2026-04-19T08:41:02.450618",
+  "package_url": "https://pypi.org/project/stocklens-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "algovoi-mcp",
+  "version": "1.1.1",
+  "summary": "MCP server for AlgoVoi — create crypto payment links, verify payments, and generate MPP / x402 challenges from any MCP client (Claude Desktop, Claude Code, Cursor, Windsurf). Supports all 16 AlgoVoi networks: USDC on Algorand/VOI/Hedera/Stellar (mainnet + testnet) and native ALGO/VOI/HBAR/XLM.",
+  "author": "AlgoVoi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "algovoi_mcp-1.1.1.tar.gz",
+  "download_time": "2026-04-19T08:40:56.551397",
+  "package_url": "https://pypi.org/project/algovoi-mcp/"
+}

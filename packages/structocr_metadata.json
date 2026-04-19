@@ -1,0 +1,11 @@
+{
+  "name": "structocr",
+  "version": "1.1.6",
+  "summary": "The official Python SDK for StructOCR API - Passport, ID card, Driver License OCR, Invoice, VIN and Container OCR.",
+  "author": "StructOCR Team",
+  "license": null,
+  "home_page": "https://structocr.com",
+  "download_filename": "structocr-1.1.6.tar.gz",
+  "download_time": "2026-04-19T08:40:46.377288",
+  "package_url": "https://pypi.org/project/structocr/"
+}
