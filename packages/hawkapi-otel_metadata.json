@@ -1,0 +1,11 @@
+{
+  "name": "hawkapi-otel",
+  "version": "0.1.0",
+  "summary": "OpenTelemetry integration for HawkAPI — plugin + middleware",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hawkapi_otel-0.1.0.tar.gz",
+  "download_time": "2026-04-19T13:04:50.593170",
+  "package_url": "https://pypi.org/project/hawkapi-otel/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "janito",
-  "version": "4.1.0",
+  "version": "4.2.1",
   "summary": "OpenAI CLI with Function Calling, MCP Support, and Extensible Tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "janito-4.1.0.tar.gz",
-  "download_time": "2026-03-30T11:34:18.424588",
+  "download_filename": "janito-4.2.1.tar.gz",
+  "download_time": "2026-04-19T13:05:04.478947",
   "package_url": "https://pypi.org/project/janito/"
 }

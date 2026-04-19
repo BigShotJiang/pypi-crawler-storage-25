@@ -1,0 +1,11 @@
+{
+  "name": "aki-risk",
+  "version": "0.1.2",
+  "summary": "This is a AKI(Acute Kideny Injury) risk calculator. It will take vitals from patients and then use them to create a risk score value between 0 to 9. You can use it as a Python module or call it by using aki-risk.exe",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aki_risk-0.1.2.tar.gz",
+  "download_time": "2026-04-19T13:05:10.488818",
+  "package_url": "https://pypi.org/project/aki-risk/"
+}

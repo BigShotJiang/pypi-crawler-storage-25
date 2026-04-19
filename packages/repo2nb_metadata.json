@@ -1,0 +1,11 @@
+{
+  "name": "repo2nb",
+  "version": "0.1.0",
+  "summary": "Convert a local code repository into a Kaggle-ready Jupyter notebook",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "repo2nb-0.1.0.tar.gz",
+  "download_time": "2026-04-19T13:04:45.353466",
+  "package_url": "https://pypi.org/project/repo2nb/"
+}

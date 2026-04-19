@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-milvus",
-  "version": "0.58.1",
+  "version": "0.60.0",
   "summary": "OpenTelemetry Milvus instrumentation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_milvus-0.58.1.tar.gz",
-  "download_time": "2026-04-12T08:13:32.863400",
+  "download_filename": "opentelemetry_instrumentation_milvus-0.60.0.tar.gz",
+  "download_time": "2026-04-19T13:05:30.285854",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-milvus/"
 }

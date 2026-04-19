@@ -1,11 +1,11 @@
 {
   "name": "pulse-engine",
-  "version": "0.2.0.dev20260419105232",
+  "version": "0.2.0.dev20260419125408",
   "summary": "Pulse Engine — Hybrid framework for building Pulse products",
   "author": "Pulse Team",
   "license": null,
   "home_page": null,
-  "download_filename": "pulse_engine-0.2.0.dev20260419105232.tar.gz",
-  "download_time": "2026-04-19T11:13:20.708688",
+  "download_filename": "pulse_engine-0.2.0.dev20260419125408.tar.gz",
+  "download_time": "2026-04-19T13:05:02.293371",
   "package_url": "https://pypi.org/project/pulse-engine/"
 }

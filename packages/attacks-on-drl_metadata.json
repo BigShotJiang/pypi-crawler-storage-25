@@ -1,0 +1,11 @@
+{
+  "name": "attacks-on-drl",
+  "version": "0.1.0",
+  "summary": "Framework for existing attacks on trained StableBaselines3 DRL policies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "attacks_on_drl-0.1.0.tar.gz",
+  "download_time": "2026-04-19T13:04:52.221603",
+  "package_url": "https://pypi.org/project/attacks-on-drl/"
+}

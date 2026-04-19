@@ -1,0 +1,11 @@
+{
+  "name": "magicbind",
+  "version": "0.1.1",
+  "summary": "Automatically build and install Python extension modules from C++ headers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "magicbind-0.1.1.tar.gz",
+  "download_time": "2026-04-19T13:05:03.934076",
+  "package_url": "https://pypi.org/project/magicbind/"
+}

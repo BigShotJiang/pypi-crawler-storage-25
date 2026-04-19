@@ -1,0 +1,11 @@
+{
+  "name": "ha-automation",
+  "version": "1.0.6",
+  "summary": "Python CLI and library for managing Home Assistant automations",
+  "author": "Home Assistant Automation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ha_automation-1.0.6.tar.gz",
+  "download_time": "2026-04-19T13:05:17.650049",
+  "package_url": "https://pypi.org/project/ha-automation/"
+}

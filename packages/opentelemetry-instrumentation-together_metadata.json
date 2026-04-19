@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-together",
-  "version": "0.59.0",
+  "version": "0.60.0",
   "summary": "OpenTelemetry Together AI instrumentation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_together-0.59.0.tar.gz",
-  "download_time": "2026-04-13T06:19:46.644175",
+  "download_filename": "opentelemetry_instrumentation_together-0.60.0.tar.gz",
+  "download_time": "2026-04-19T13:05:25.345717",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-together/"
 }
