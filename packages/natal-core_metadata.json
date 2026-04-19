@@ -1,11 +1,11 @@
 {
   "name": "natal-core",
-  "version": "0.1.0rc1",
+  "version": "0.1.0",
   "summary": "Numba-Accelerated Toolkit for Analysis of Lifecycle-based population genetic dynamics",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "natal_core-0.1.0rc1.tar.gz",
-  "download_time": "2026-04-17T16:21:53.532256",
+  "download_filename": "natal_core-0.1.0.tar.gz",
+  "download_time": "2026-04-19T09:37:52.132722",
   "package_url": "https://pypi.org/project/natal-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "t2md",
+  "version": "0.2.1",
+  "summary": "CLI that turns raw transcripts into study-ready Markdown, DOCX, or LaTeX using OpenAI or Claude.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "t2md-0.2.1.tar.gz",
+  "download_time": "2026-04-19T09:38:16.258769",
+  "package_url": "https://pypi.org/project/t2md/"
+}

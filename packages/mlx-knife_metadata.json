@@ -1,0 +1,11 @@
+{
+  "name": "mlx-knife",
+  "version": "2.0.5",
+  "summary": "HuggingFace model management for MLX on Apple Silicon",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlx_knife-2.0.5.tar.gz",
+  "download_time": "2026-04-19T09:38:13.175183",
+  "package_url": "https://pypi.org/project/mlx-knife/"
+}

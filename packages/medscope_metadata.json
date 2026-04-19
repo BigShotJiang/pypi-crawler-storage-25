@@ -1,11 +1,11 @@
 {
   "name": "medscope",
-  "version": "0.1.14",
+  "version": "0.1.18",
   "summary": "Medical Intraoperative Real-time Visualization System.",
   "author": "GGN_2015",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "medscope-0.1.14.tar.gz",
-  "download_time": "2026-04-13T17:27:34.602815",
+  "download_filename": "medscope-0.1.18.tar.gz",
+  "download_time": "2026-04-19T09:38:11.131820",
   "package_url": "https://pypi.org/project/medscope/"
 }

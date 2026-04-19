@@ -1,0 +1,11 @@
+{
+  "name": "agentic-swarm-bench",
+  "version": "3.4.0",
+  "summary": "Open-source benchmark for LLM inference on agentic scenarios",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agentic_swarm_bench-3.4.0.tar.gz",
+  "download_time": "2026-04-19T09:38:06.510075",
+  "package_url": "https://pypi.org/project/agentic-swarm-bench/"
+}
