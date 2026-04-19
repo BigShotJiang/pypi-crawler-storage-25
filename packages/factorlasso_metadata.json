@@ -1,11 +1,11 @@
 {
   "name": "factorlasso",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "Sparse factor model estimation with sign-constrained LASSO, prior-centered regularisation, and hierarchical group LASSO (HCGL)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "factorlasso-0.2.2.tar.gz",
-  "download_time": "2026-04-18T07:43:23.632940",
+  "download_filename": "factorlasso-0.3.0.tar.gz",
+  "download_time": "2026-04-19T23:45:06.639590",
   "package_url": "https://pypi.org/project/factorlasso/"
 }

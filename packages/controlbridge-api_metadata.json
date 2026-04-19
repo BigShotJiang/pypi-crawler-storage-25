@@ -1,0 +1,11 @@
+{
+  "name": "controlbridge-api",
+  "version": "0.4.0",
+  "summary": "FastAPI REST server + bundled React web UI for ControlBridge",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "controlbridge_api-0.4.0.tar.gz",
+  "download_time": "2026-04-19T23:44:42.332823",
+  "package_url": "https://pypi.org/project/controlbridge-api/"
+}

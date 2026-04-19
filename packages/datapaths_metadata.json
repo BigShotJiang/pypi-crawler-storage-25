@@ -1,11 +1,11 @@
 {
   "name": "datapaths",
-  "version": "0.0.4",
-  "summary": "Python wrapper for datapaths",
+  "version": "1.0.0",
+  "summary": "Python bindings for DataPaths SQL engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datapaths-0.0.4-cp311-cp311-win_amd64.whl",
-  "download_time": "2026-04-04T23:31:53.921320",
+  "download_filename": "datapaths-1.0.0-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-04-19T23:45:08.715768",
   "package_url": "https://pypi.org/project/datapaths/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "messagekit",
+  "version": "0.1.0",
+  "summary": "Universal event infrastructure with transactional outbox and Kafka integration",
+  "author": "GridFlow Team",
+  "license": "MIT",
+  "home_page": "https://github.com/firstunicorn/messagekit",
+  "download_filename": "messagekit-0.1.0.tar.gz",
+  "download_time": "2026-04-19T23:44:34.589052",
+  "package_url": "https://pypi.org/project/messagekit/"
+}

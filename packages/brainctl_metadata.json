@@ -1,11 +1,11 @@
 {
   "name": "brainctl",
-  "version": "2.4.2",
+  "version": "2.4.6",
   "summary": "Context engineering for AI agents — persistent memory, knowledge graph, affect tracking, and MCP server. Single SQLite file, zero LLM cost.",
   "author": "Terrence Schonleber",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "brainctl-2.4.2.tar.gz",
-  "download_time": "2026-04-18T08:33:36.704080",
+  "download_filename": "brainctl-2.4.6.tar.gz",
+  "download_time": "2026-04-19T23:44:36.642646",
   "package_url": "https://pypi.org/project/brainctl/"
 }

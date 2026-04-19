@@ -1,11 +1,11 @@
 {
   "name": "controlbridge-collectors",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Evidence collection agents for AWS, Azure, GCP, GitHub, and Okta",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "controlbridge_collectors-0.3.1.tar.gz",
-  "download_time": "2026-04-19T15:51:10.422555",
+  "download_filename": "controlbridge_collectors-0.4.0.tar.gz",
+  "download_time": "2026-04-19T23:44:41.818683",
   "package_url": "https://pypi.org/project/controlbridge-collectors/"
 }

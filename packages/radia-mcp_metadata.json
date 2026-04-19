@@ -1,11 +1,11 @@
 {
   "name": "radia-mcp",
-  "version": "0.24.1",
-  "summary": "MCP servers for the Radia CAE ecosystem. 0.24.0 adds parallel races: cubit_mesh_race (N recipes batch-parallel, first hex-success wins, replay live GUI) + build123d_try_race (parameter-sweep N variants in subprocess pool, valid+largest-volume winner) + freecad_exec_safely (Cubit-style checkpoint→batch→commit safety pattern for FreeCAD). 0.23.x base: YouTube + training pack + GitHub .jou search.",
+  "version": "0.30.0",
+  "summary": "MCP servers for the Radia CAE ecosystem. 0.27.0: cubit_mesh_race_review (wait-all + shortlist sorted by min-Jacobian + persisted history) + cubit_mesh_apply_choice (human picks from shortlist) + quality_summary probe. Pivots from auto-commit to human-decides. 0.26.0 base: cubit_mesh_race_smart auto-generates N candidates from geometry.",
   "author": "Kengo Sugahara",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "radia_mcp-0.24.1.tar.gz",
-  "download_time": "2026-04-19T22:19:10.912351",
+  "download_filename": "radia_mcp-0.30.0.tar.gz",
+  "download_time": "2026-04-19T23:44:35.612767",
   "package_url": "https://pypi.org/project/radia-mcp/"
 }

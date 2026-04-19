@@ -1,11 +1,11 @@
 {
   "name": "AgenticBlocks.IO",
-  "version": "0.8.8",
+  "version": "0.8.11",
   "summary": "A building block library for composed agent workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agenticblocks_io-0.8.8.tar.gz",
-  "download_time": "2026-04-19T14:08:54.104742",
+  "download_filename": "agenticblocks_io-0.8.11.tar.gz",
+  "download_time": "2026-04-19T23:44:45.921461",
   "package_url": "https://pypi.org/project/AgenticBlocks.IO/"
 }

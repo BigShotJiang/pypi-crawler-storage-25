@@ -1,11 +1,11 @@
 {
   "name": "moonbit-locale-compat",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Locale compatibility helpers for CJK environments in MoonBit toolchain",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "moonbit_locale_compat-0.2.3.tar.gz",
-  "download_time": "2026-04-19T23:04:55.177840",
+  "download_filename": "moonbit_locale_compat-0.2.4.tar.gz",
+  "download_time": "2026-04-19T23:45:08.204257",
   "package_url": "https://pypi.org/project/moonbit-locale-compat/"
 }
