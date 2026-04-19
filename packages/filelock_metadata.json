@@ -1,11 +1,11 @@
 {
   "name": "filelock",
-  "version": "3.28.0",
+  "version": "3.29.0",
   "summary": "A platform independent file lock.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "filelock-3.28.0.tar.gz",
-  "download_time": "2026-04-14T23:09:58.619462",
+  "download_filename": "filelock-3.29.0.tar.gz",
+  "download_time": "2026-04-19T15:51:02.551395",
   "package_url": "https://pypi.org/project/filelock/"
 }

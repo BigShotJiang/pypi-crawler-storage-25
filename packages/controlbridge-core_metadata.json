@@ -1,0 +1,11 @@
+{
+  "name": "controlbridge-core",
+  "version": "0.3.1",
+  "summary": "Core data models, catalog loading, and gap analysis engine for ControlBridge GRC tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "controlbridge_core-0.3.1.tar.gz",
+  "download_time": "2026-04-19T15:51:09.903068",
+  "package_url": "https://pypi.org/project/controlbridge-core/"
+}

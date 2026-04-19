@@ -1,11 +1,11 @@
 {
   "name": "openDAGent",
-  "version": "0.2.9",
+  "version": "0.3.6",
   "summary": "DAG artifact/task oriented for agentic AI workflows.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opendagent-0.2.9.tar.gz",
-  "download_time": "2026-04-19T15:04:31.998788",
+  "download_filename": "opendagent-0.3.6.tar.gz",
+  "download_time": "2026-04-19T15:50:40.074582",
   "package_url": "https://pypi.org/project/openDAGent/"
 }

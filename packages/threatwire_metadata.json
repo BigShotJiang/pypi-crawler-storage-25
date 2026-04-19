@@ -1,0 +1,11 @@
+{
+  "name": "threatwire",
+  "version": "1.0.0",
+  "summary": "Real-time network packet inspection and threat signature matching for Python-based IDS/IPS pipelines",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "threatwire-1.0.0.tar.gz",
+  "download_time": "2026-04-19T15:51:06.220680",
+  "package_url": "https://pypi.org/project/threatwire/"
+}

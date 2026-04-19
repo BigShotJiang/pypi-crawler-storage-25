@@ -1,0 +1,11 @@
+{
+  "name": "outreply",
+  "version": "1.1.0",
+  "summary": "Official OutReply Python SDK — schedule posts, moderate comments, and subscribe to signed webhooks.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "outreply-1.1.0.tar.gz",
+  "download_time": "2026-04-19T15:50:44.826770",
+  "package_url": "https://pypi.org/project/outreply/"
+}

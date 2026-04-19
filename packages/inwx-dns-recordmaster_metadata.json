@@ -1,0 +1,11 @@
+{
+  "name": "inwx-dns-recordmaster",
+  "version": "1.0.5",
+  "summary": "Manage DNS nameserver records of INWX domains via YAML files and API requests. Lightweight, version-control ready",
+  "author": "Max Mehl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "inwx_dns_recordmaster-1.0.5.tar.gz",
+  "download_time": "2026-04-19T15:50:56.273768",
+  "package_url": "https://pypi.org/project/inwx-dns-recordmaster/"
+}

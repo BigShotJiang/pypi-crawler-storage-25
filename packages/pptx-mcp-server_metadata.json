@@ -1,0 +1,11 @@
+{
+  "name": "pptx-mcp-server",
+  "version": "0.3.1",
+  "summary": "Content-aware PPTX layout engine with Japanese-aware text metrics, CSS-flex-like primitives, and structural validator for agent-generated consulting decks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pptx_mcp_server-0.3.1.tar.gz",
+  "download_time": "2026-04-19T15:51:04.649343",
+  "package_url": "https://pypi.org/project/pptx-mcp-server/"
+}

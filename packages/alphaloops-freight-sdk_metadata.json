@@ -1,0 +1,11 @@
+{
+  "name": "alphaloops-freight-sdk",
+  "version": "0.2.2",
+  "summary": "AlphaLoops Freight SDK — Python client for the FMCSA carrier data API",
+  "author": "AlphaLoops, Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "alphaloops_freight_sdk-0.2.2.tar.gz",
+  "download_time": "2026-04-19T15:50:34.819272",
+  "package_url": "https://pypi.org/project/alphaloops-freight-sdk/"
+}

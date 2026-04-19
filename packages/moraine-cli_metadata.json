@@ -1,11 +1,11 @@
 {
   "name": "moraine-cli",
-  "version": "0.4.2rc4",
+  "version": "0.4.3",
   "summary": "Unified realtime agent trace database & search MCP",
   "author": "Moraine Maintainers",
   "license": "Apache-2.0",
   "home_page": "https://github.com/eric-tramel/moraine",
-  "download_filename": "moraine_cli-0.4.2rc4.tar.gz",
-  "download_time": "2026-04-19T06:04:10.947095",
+  "download_filename": "moraine_cli-0.4.3.tar.gz",
+  "download_time": "2026-04-19T15:50:37.943285",
   "package_url": "https://pypi.org/project/moraine-cli/"
 }

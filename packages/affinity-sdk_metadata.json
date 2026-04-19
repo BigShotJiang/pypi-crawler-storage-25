@@ -1,0 +1,11 @@
+{
+  "name": "affinity-sdk",
+  "version": "1.11.0",
+  "summary": "A modern, strongly-typed Python SDK for the Affinity CRM API",
+  "author": "Yaniv Golan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "affinity_sdk-1.11.0.tar.gz",
+  "download_time": "2026-04-19T15:51:05.176615",
+  "package_url": "https://pypi.org/project/affinity-sdk/"
+}

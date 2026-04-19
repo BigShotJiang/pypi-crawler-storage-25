@@ -1,0 +1,11 @@
+{
+  "name": "skytraq-datalog",
+  "version": "0.1.0",
+  "summary": "Python driver for SkyTraq Venus GPS data loggers — download, decode and export datalog flash",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skytraq_datalog-0.1.0.tar.gz",
+  "download_time": "2026-04-19T15:50:43.260169",
+  "package_url": "https://pypi.org/project/skytraq-datalog/"
+}

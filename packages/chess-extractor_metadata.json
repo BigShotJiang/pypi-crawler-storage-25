@@ -1,0 +1,11 @@
+{
+  "name": "chess-extractor",
+  "version": "0.2.0",
+  "summary": "FIDE rating and game data extractor",
+  "author": "Karamazov2007",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chess_extractor-0.2.0.tar.gz",
+  "download_time": "2026-04-19T15:50:38.462410",
+  "package_url": "https://pypi.org/project/chess-extractor/"
+}
