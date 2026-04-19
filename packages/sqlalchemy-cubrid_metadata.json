@@ -1,11 +1,11 @@
 {
   "name": "sqlalchemy-cubrid",
-  "version": "0.8.0",
+  "version": "1.2.1",
   "summary": "CUBRID dialect for SQLAlchemy",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sqlalchemy_cubrid-0.8.0.tar.gz",
-  "download_time": "2026-04-04T15:32:54.953260",
+  "download_filename": "sqlalchemy_cubrid-1.2.1.tar.gz",
+  "download_time": "2026-04-19T00:11:40.689609",
   "package_url": "https://pypi.org/project/sqlalchemy-cubrid/"
 }

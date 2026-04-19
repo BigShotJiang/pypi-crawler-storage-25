@@ -1,11 +1,11 @@
 {
   "name": "tilde-sdk",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Official Python SDK for Tilde: an agent-native data platform that combines versioned object storage with sandboxed compute",
   "author": "Treeverse Inc.",
   "license": null,
   "home_page": null,
-  "download_filename": "tilde_sdk-0.4.0.tar.gz",
-  "download_time": "2026-04-18T20:14:00.971315",
+  "download_filename": "tilde_sdk-0.5.0.tar.gz",
+  "download_time": "2026-04-19T00:12:04.301531",
   "package_url": "https://pypi.org/project/tilde-sdk/"
 }

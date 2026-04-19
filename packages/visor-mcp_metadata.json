@@ -1,11 +1,11 @@
 {
   "name": "visor-mcp",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "summary": "Skill-Orchestrated Context Intelligence Engine for AI coding agents",
   "author": "Arunav Mandal",
   "license": null,
   "home_page": null,
-  "download_filename": "visor_mcp-1.0.8.tar.gz",
-  "download_time": "2026-04-18T23:40:10.435375",
+  "download_filename": "visor_mcp-1.1.0.tar.gz",
+  "download_time": "2026-04-19T00:11:51.659155",
   "package_url": "https://pypi.org/project/visor-mcp/"
 }

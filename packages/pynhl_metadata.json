@@ -1,0 +1,11 @@
+{
+  "name": "pynhl",
+  "version": "0.6.6",
+  "summary": "Python wrapper for NHL API used in Home Assistant",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pynhl-0.6.6.tar.gz",
+  "download_time": "2026-04-19T00:11:36.518141",
+  "package_url": "https://pypi.org/project/pynhl/"
+}
