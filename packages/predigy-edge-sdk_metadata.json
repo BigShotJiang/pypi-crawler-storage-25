@@ -1,11 +1,11 @@
 {
   "name": "predigy-edge-sdk",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Official Python SDK for the EDGE by Predigy prediction market API (retail, parlay, compliance/MICS, LP)",
   "author": "Predigy LLC",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "predigy_edge_sdk-2.0.1.tar.gz",
-  "download_time": "2026-04-18T14:10:56.926620",
+  "download_filename": "predigy_edge_sdk-2.0.2.tar.gz",
+  "download_time": "2026-04-19T23:04:51.869048",
   "package_url": "https://pypi.org/project/predigy-edge-sdk/"
 }

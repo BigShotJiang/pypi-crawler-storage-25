@@ -1,0 +1,11 @@
+{
+  "name": "cpu-loader",
+  "version": "0.8.3",
+  "summary": "A tool to generate CPU load on a system with runtime configuration through a WebUI and REST API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cpu_loader-0.8.3.tar.gz",
+  "download_time": "2026-04-19T23:05:05.724107",
+  "package_url": "https://pypi.org/project/cpu-loader/"
+}

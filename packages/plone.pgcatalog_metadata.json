@@ -1,11 +1,11 @@
 {
   "name": "plone.pgcatalog",
-  "version": "1.0.0b45",
+  "version": "1.0.0b55",
   "summary": "PostgreSQL-backed catalog for Plone replacing ZCatalog BTrees indexes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plone_pgcatalog-1.0.0b45.tar.gz",
-  "download_time": "2026-04-03T15:03:51.186421",
+  "download_filename": "plone_pgcatalog-1.0.0b55.tar.gz",
+  "download_time": "2026-04-19T23:05:22.458709",
   "package_url": "https://pypi.org/project/plone.pgcatalog/"
 }

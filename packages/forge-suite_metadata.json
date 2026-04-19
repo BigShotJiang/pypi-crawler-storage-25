@@ -1,11 +1,11 @@
 {
   "name": "forge-suite",
-  "version": "0.1.11",
-  "summary": "Forge framework + management UI — single installable package",
+  "version": "0.1.13",
+  "summary": "Forge framework + management UI — single installable package. After installing, run: forge-suite quickstart",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "forge_suite-0.1.11-py3-none-any.whl",
-  "download_time": "2026-04-19T21:41:31.714801",
+  "download_filename": "forge_suite-0.1.13-py3-none-any.whl",
+  "download_time": "2026-04-19T23:05:01.771551",
   "package_url": "https://pypi.org/project/forge-suite/"
 }

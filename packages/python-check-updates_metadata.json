@@ -1,0 +1,11 @@
+{
+  "name": "python-check-updates",
+  "version": "0.2.0",
+  "summary": "Check and upgrade Python dependency versions in pyproject.toml and requirements.txt",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_check_updates-0.2.0.tar.gz",
+  "download_time": "2026-04-19T23:05:32.811725",
+  "package_url": "https://pypi.org/project/python-check-updates/"
+}

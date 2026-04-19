@@ -1,0 +1,11 @@
+{
+  "name": "agent-style",
+  "version": "0.1.0",
+  "summary": "The Elements of Agent Style: a literature-backed English technical-prose writing ruleset for AI agents, with CLI install/enable/disable for 8 primary agent surfaces.",
+  "author": null,
+  "license": "MIT AND CC-BY-4.0",
+  "home_page": null,
+  "download_filename": "agent_style-0.1.0.tar.gz",
+  "download_time": "2026-04-19T23:05:29.028437",
+  "package_url": "https://pypi.org/project/agent-style/"
+}

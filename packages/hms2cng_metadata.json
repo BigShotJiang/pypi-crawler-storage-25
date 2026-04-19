@@ -1,11 +1,11 @@
 {
   "name": "hms2cng",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "HMS to Cloud Native GIS — CLI for exporting HEC-HMS results to GeoParquet, PMTiles, DuckDB, and PostGIS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hms2cng-0.1.1.tar.gz",
-  "download_time": "2026-04-19T21:41:34.560555",
+  "download_filename": "hms2cng-0.1.3.tar.gz",
+  "download_time": "2026-04-19T23:05:03.441651",
   "package_url": "https://pypi.org/project/hms2cng/"
 }

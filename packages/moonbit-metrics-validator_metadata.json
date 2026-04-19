@@ -1,0 +1,11 @@
+{
+  "name": "moonbit-metrics-validator",
+  "version": "1.0.0",
+  "summary": "Schema validation for MoonBit dashboard metric snapshots",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "moonbit_metrics_validator-1.0.0.tar.gz",
+  "download_time": "2026-04-19T23:04:48.569126",
+  "package_url": "https://pypi.org/project/moonbit-metrics-validator/"
+}

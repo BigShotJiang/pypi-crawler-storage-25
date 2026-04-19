@@ -1,11 +1,11 @@
 {
   "name": "passagemath-rankwidth",
-  "version": "10.8.3",
+  "version": "10.8.4",
   "summary": "passagemath: Rankwidth and rank decompositions of graphs with rw",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_rankwidth-10.8.3.tar.gz",
-  "download_time": "2026-04-16T06:06:16.578521",
+  "download_filename": "passagemath_rankwidth-10.8.4-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-04-19T23:05:08.128435",
   "package_url": "https://pypi.org/project/passagemath-rankwidth/"
 }
