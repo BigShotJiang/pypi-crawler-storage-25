@@ -1,11 +1,11 @@
 {
   "name": "thinking-machine",
-  "version": "0.0.25",
-  "summary": "A Machine that thinks.",
+  "version": "0.0.26",
+  "summary": "Thinking-Machine does thinking.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "thinking_machine-0.0.25.tar.gz",
-  "download_time": "2026-04-17T14:04:58.284784",
+  "download_filename": "thinking_machine-0.0.26.tar.gz",
+  "download_time": "2026-04-19T21:01:29.229423",
   "package_url": "https://pypi.org/project/thinking-machine/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "kd-cli",
-  "version": "2.5.1",
+  "version": "2.5.2",
   "summary": "Knowledge Dispatcher for issue trackers and knowledge bases",
   "author": "Sergiy Gladkyy",
   "license": null,
   "home_page": null,
-  "download_filename": "kd_cli-2.5.1.tar.gz",
-  "download_time": "2026-04-19T18:59:21.634724",
+  "download_filename": "kd_cli-2.5.2.tar.gz",
+  "download_time": "2026-04-19T21:01:19.917452",
   "package_url": "https://pypi.org/project/kd-cli/"
 }

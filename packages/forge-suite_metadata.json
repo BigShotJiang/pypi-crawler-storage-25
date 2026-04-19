@@ -1,11 +1,11 @@
 {
   "name": "forge-suite",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "summary": "Forge framework + management UI — single installable package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "forge_suite-0.1.4.tar.gz",
-  "download_time": "2026-04-19T13:05:16.012838",
+  "download_filename": "forge_suite-0.1.8-py3-none-any.whl",
+  "download_time": "2026-04-19T21:01:02.614690",
   "package_url": "https://pypi.org/project/forge-suite/"
 }
