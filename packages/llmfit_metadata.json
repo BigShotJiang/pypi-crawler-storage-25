@@ -1,11 +1,11 @@
 {
   "name": "llmfit",
-  "version": "0.9.3",
+  "version": "0.9.10",
   "summary": "Unofficial PyPI distribution of llmfit – the LLM model management CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llmfit-0.9.3-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2026-04-09T19:54:38.840391",
+  "download_filename": "llmfit-0.9.10-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-19T07:33:36.636577",
   "package_url": "https://pypi.org/project/llmfit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "plugin-jm-server",
+  "version": "0.2.2",
+  "summary": "plugin_jm_server, a plugin for jmcomic that can be used to view comics in a web browser.",
+  "author": "hect0x7",
+  "license": null,
+  "home_page": "https://github.com/hect0x7/plugin-jm-server",
+  "download_filename": "plugin_jm_server-0.2.2.tar.gz",
+  "download_time": "2026-04-19T07:33:27.066758",
+  "package_url": "https://pypi.org/project/plugin-jm-server/"
+}

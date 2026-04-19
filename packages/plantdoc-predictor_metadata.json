@@ -1,0 +1,11 @@
+{
+  "name": "plantdoc-predictor",
+  "version": "1.0.0",
+  "summary": "A Python library for predicting plant diseases from leaf images using trained deep learning models.",
+  "author": "Subham Divakar",
+  "license": null,
+  "home_page": "https://github.com/shubham10divakar/plantdoc-predictor",
+  "download_filename": "plantdoc_predictor-1.0.0.tar.gz",
+  "download_time": "2026-04-19T07:33:21.401580",
+  "package_url": "https://pypi.org/project/plantdoc-predictor/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ph-civic-data-mcp",
-  "version": "0.1.0",
+  "version": "0.1.7",
   "summary": "MCP server for Philippine government data — earthquakes, weather, typhoons, procurement, population, air quality",
   "author": "Xavier Puspus",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ph_civic_data_mcp-0.1.0.tar.gz",
-  "download_time": "2026-04-19T00:11:40.176155",
+  "download_filename": "ph_civic_data_mcp-0.1.7.tar.gz",
+  "download_time": "2026-04-19T07:33:44.223686",
   "package_url": "https://pypi.org/project/ph-civic-data-mcp/"
 }

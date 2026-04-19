@@ -1,11 +1,11 @@
 {
   "name": "specterqa-ios",
-  "version": "13.1.0",
+  "version": "14.0.1",
   "summary": "SpecterQA iOS Simulator Driver — AI-driven iOS testing via Claude Computer Use",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "specterqa_ios-13.1.0.tar.gz",
-  "download_time": "2026-04-17T18:11:49.655931",
+  "download_filename": "specterqa_ios-14.0.1.tar.gz",
+  "download_time": "2026-04-19T07:33:38.715384",
   "package_url": "https://pypi.org/project/specterqa-ios/"
 }

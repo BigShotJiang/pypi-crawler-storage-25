@@ -1,11 +1,11 @@
 {
   "name": "kiro-settings-manager",
-  "version": "0.5.3",
+  "version": "0.6.0",
   "summary": "CLI tool for managing Kiro IDE configuration bundles",
   "author": "Tom Stanley",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "kiro_settings_manager-0.5.3.tar.gz",
-  "download_time": "2026-04-19T06:04:48.481592",
+  "download_filename": "kiro_settings_manager-0.6.0.tar.gz",
+  "download_time": "2026-04-19T07:33:58.493917",
   "package_url": "https://pypi.org/project/kiro-settings-manager/"
 }
