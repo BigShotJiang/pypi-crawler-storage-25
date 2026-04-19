@@ -1,0 +1,11 @@
+{
+  "name": "skaty",
+  "version": "0.1.0",
+  "summary": "An extensible Skat implementation with reference implementation for International Skat Order",
+  "author": "Luis M. Lindner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skaty-0.1.0.tar.gz",
+  "download_time": "2026-04-19T17:12:04.928210",
+  "package_url": "https://pypi.org/project/skaty/"
+}

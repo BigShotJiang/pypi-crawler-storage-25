@@ -1,11 +1,11 @@
 {
   "name": "odsbox-jaquel-mcp",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "summary": "ASAM ODS MCP Server - Query and analyze measurement data from ASAM ODS servers in AI agent systems.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "odsbox_jaquel_mcp-1.7.1.tar.gz",
-  "download_time": "2026-04-19T16:30:11.614452",
+  "download_filename": "odsbox_jaquel_mcp-1.7.2.tar.gz",
+  "download_time": "2026-04-19T17:11:35.210734",
   "package_url": "https://pypi.org/project/odsbox-jaquel-mcp/"
 }

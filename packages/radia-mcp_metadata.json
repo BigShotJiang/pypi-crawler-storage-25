@@ -1,11 +1,11 @@
 {
   "name": "radia-mcp",
-  "version": "0.21.0",
-  "summary": "MCP servers for the Radia CAE ecosystem. 0.21.0 adds gmsh community scrape: gitlab.onelab.info gmsh/gmsh issues (3000+) + StackOverflow/SciComp.SE [gmsh], unioned via FAMILIES['gmsh']. New tools gmsh_examples / gmsh_examples_refresh. 0.20.0 base: auto-gmsh API reference (651 entries), view_data + physical_groups cookbooks, 4 post tools.",
+  "version": "0.22.4",
+  "summary": "MCP servers for the Radia CAE ecosystem. 0.22.0 adds mcp-server-radia-interop (universal CAD-MCP mesh backend): any_step_to_cubit_hex + OpenSCAD/FreeCAD adapters so any upstream CAD MCP (FreeCAD/OpenSCAD/Blender/Onshape/...) can dispatch to cubit_mesh_auto. First-and-only public MCP for Gmsh + Cubit + mesh generators.",
   "author": "Kengo Sugahara",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "radia_mcp-0.21.0.tar.gz",
-  "download_time": "2026-04-19T16:29:56.090955",
+  "download_filename": "radia_mcp-0.22.4.tar.gz",
+  "download_time": "2026-04-19T17:11:18.374581",
   "package_url": "https://pypi.org/project/radia-mcp/"
 }

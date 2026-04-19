@@ -1,29 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-04-19T16:30:32.422584
-- **Total Packages**: 84
-- **Total Size**: 28.48 MB
+- **Download Time**: 2026-04-19T17:12:10.451206
+- **Total Packages**: 87
+- **Total Size**: 21.77 MB
 
 ## Packages List
-- prova-mcp
-- kstd
-- agentclub
-- getbased-agent-stack
-- neural-memory
-- cloudmesh-ai-common
-- encutils
-- finanfut-sdk
-- html-compose
-- sleuth-rlm
-- swampo
-- pymongosql
-- pixelml-av
-- paybridge-np
-- huimei
-- kreuzcrawl
-- broccoli-ml
-- asset-allocation-contracts
 - deekb-packaging-test
 - radia-mcp
 - vcti-nputils
@@ -50,11 +32,14 @@
 - cogmeta-talon
 - genesis-ai
 - prismhr-mcp
+- agentclub
 - manager-for-ynab
 - persona-dsl
 - odsbox-jaquel-mcp
 - trip-planner-mcp
+- asset-allocation-contracts
 - tilemap-tools
+- kstd
 - fluff-cutter
 - honeybee-ph
 - linkarchivetools
@@ -67,6 +52,7 @@
 - qqmail-cli
 - autx-client
 - codepathfinder
+- swampo
 - mahanai
 - doql
 - ojhunt
@@ -74,6 +60,7 @@
 - skytraq-ui
 - cz-light-conventional-gitmoji
 - agentchanti
+- getbased-agent-stack
 - getbased-dashboard
 - getbased-rag
 - aegis-ag
@@ -90,3 +77,19 @@
 - plugin-scanner
 - hol-guard
 - brokerpackage
+- Imervue
+- tgup
+- ai-rulez
+- orionbelt-semantic-layer
+- nord-config-generator
+- orange-jumpsuit-federicovareika
+- django-jazzy-tabler
+- gitto-cli
+- skaty
+- featuremind
+- bernstein
+- pytest-openapi
+- dsap-cli
+- aiconfigsync
+- horus-flow-mcp
+- KohakuTerrarium
