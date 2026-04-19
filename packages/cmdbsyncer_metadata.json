@@ -1,0 +1,11 @@
+{
+  "name": "cmdbsyncer",
+  "version": "3.12.7",
+  "summary": "Rule-based modular synchronizer for Checkmk, Netbox, Ansible, I-DOIT, Jira CMDB and 15+ other CMDB/monitoring systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cmdbsyncer-3.12.7.tar.gz",
+  "download_time": "2026-04-19T15:04:51.543387",
+  "package_url": "https://pypi.org/project/cmdbsyncer/"
+}

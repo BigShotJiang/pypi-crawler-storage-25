@@ -1,11 +1,11 @@
 {
   "name": "taskfile",
-  "version": "0.3.91",
+  "version": "0.3.92",
   "summary": "Universal Taskfile runner with multi-environment deploy support. CI/CD agnostic — run locally or from any pipeline.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "taskfile-0.3.91.tar.gz",
-  "download_time": "2026-04-19T11:13:11.341182",
+  "download_filename": "taskfile-0.3.92.tar.gz",
+  "download_time": "2026-04-19T15:04:28.658532",
   "package_url": "https://pypi.org/project/taskfile/"
 }

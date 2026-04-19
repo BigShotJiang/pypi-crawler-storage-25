@@ -1,11 +1,11 @@
 {
   "name": "exoclaw-subagent",
-  "version": "0.9.0",
+  "version": "0.10.1",
   "summary": "Subagent manager and LLM-facing spawn tool for exoclaw",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "exoclaw_subagent-0.9.0.tar.gz",
-  "download_time": "2026-04-15T19:56:37.728665",
+  "download_filename": "exoclaw_subagent-0.10.1.tar.gz",
+  "download_time": "2026-04-19T15:04:26.392539",
   "package_url": "https://pypi.org/project/exoclaw-subagent/"
 }

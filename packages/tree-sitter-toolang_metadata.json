@@ -1,11 +1,11 @@
 {
   "name": "tree-sitter-toolang",
-  "version": "0.0.9",
+  "version": "0.0.11",
   "summary": "Toolang grammar for tree-sitter",
   "author": "Brice Yan",
   "license": null,
   "home_page": null,
-  "download_filename": "tree_sitter_toolang-0.0.9.tar.gz",
-  "download_time": "2026-04-16T11:07:34.040203",
+  "download_filename": "tree_sitter_toolang-0.0.11.tar.gz",
+  "download_time": "2026-04-19T15:04:35.383392",
   "package_url": "https://pypi.org/project/tree-sitter-toolang/"
 }

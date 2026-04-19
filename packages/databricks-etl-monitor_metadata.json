@@ -1,11 +1,11 @@
 {
   "name": "databricks-etl-monitor",
-  "version": "0.1.0a21",
+  "version": "0.1.0",
   "summary": "Metadata-driven ETL Process Monitoring Framework for Databricks / Delta Lake",
   "author": "Nitin Mathew George",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "databricks_etl_monitor-0.1.0a21.tar.gz",
-  "download_time": "2026-04-19T14:08:29.294579",
+  "download_filename": "databricks_etl_monitor-0.1.0.tar.gz",
+  "download_time": "2026-04-19T15:04:30.855540",
   "package_url": "https://pypi.org/project/databricks-etl-monitor/"
 }

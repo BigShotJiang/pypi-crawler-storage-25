@@ -1,0 +1,11 @@
+{
+  "name": "dwe-hub-superset-plugin",
+  "version": "0.1.0a1",
+  "summary": "DWE Hub plugin for Apache Superset — browse the Hub gallery, validate datasets and import dashboards into any environment",
+  "author": "Hipposys",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dwe_hub_superset_plugin-0.1.0a1.tar.gz",
+  "download_time": "2026-04-19T15:04:50.995968",
+  "package_url": "https://pypi.org/project/dwe-hub-superset-plugin/"
+}

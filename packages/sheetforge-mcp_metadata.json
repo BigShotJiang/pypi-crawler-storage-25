@@ -1,11 +1,11 @@
 {
   "name": "sheetforge-mcp",
-  "version": "0.4.2",
-  "summary": "Excel MCP server for reading, writing, formatting, and automating .xlsx workbooks with Model Context Protocol and openpyxl",
+  "version": "0.6.1",
+  "summary": "Excel MCP server for AI agents, spreadsheet automation, workbook inspection, and .xlsx reporting with Model Context Protocol and openpyxl",
   "author": "SheetForge",
   "license": null,
   "home_page": null,
-  "download_filename": "sheetforge_mcp-0.4.2.tar.gz",
-  "download_time": "2026-04-11T10:43:37.179094",
+  "download_filename": "sheetforge_mcp-0.6.1.tar.gz",
+  "download_time": "2026-04-19T15:04:58.278512",
   "package_url": "https://pypi.org/project/sheetforge-mcp/"
 }

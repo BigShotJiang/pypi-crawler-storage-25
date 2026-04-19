@@ -1,11 +1,11 @@
 {
   "name": "nexo-database",
-  "version": "0.1.46",
+  "version": "0.1.47",
   "summary": "Database package for Nexo",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nexo_database-0.1.46.tar.gz",
-  "download_time": "2026-04-19T13:04:51.679662",
+  "download_filename": "nexo_database-0.1.47.tar.gz",
+  "download_time": "2026-04-19T15:05:06.667176",
   "package_url": "https://pypi.org/project/nexo-database/"
 }
