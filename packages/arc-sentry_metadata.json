@@ -1,11 +1,11 @@
 {
   "name": "arc-sentry",
-  "version": "3.0.0",
-  "summary": "Arc Sentry — prompt injection detection for LLMs. DR=100%, FPR=0% on Mistral-7B. Geometric detection via Fisher manifold (Nine 2026).",
+  "version": "3.1.1",
+  "summary": "Arc Sentry — prompt injection detection for LLMs. 100% detection, 0% false positives across Mistral 7B, Qwen 2.5 7B, Llama 3.1 8B. Geometric detection via Fisher-Rao manifold (Nine 2026).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arc_sentry-3.0.0.tar.gz",
-  "download_time": "2026-04-16T23:14:39.321713",
+  "download_filename": "arc_sentry-3.1.1.tar.gz",
+  "download_time": "2026-04-19T03:56:23.954191",
   "package_url": "https://pypi.org/project/arc-sentry/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "arxlang",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "summary": "Arx is a compiler built with llvm",
   "author": "Ivan Ogasawara",
   "license": null,
   "home_page": null,
-  "download_filename": "arxlang-0.10.0.tar.gz",
-  "download_time": "2026-04-18T23:01:38.867848",
+  "download_filename": "arxlang-0.11.0.tar.gz",
+  "download_time": "2026-04-19T03:56:50.645291",
   "package_url": "https://pypi.org/project/arxlang/"
 }

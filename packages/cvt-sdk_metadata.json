@@ -1,0 +1,11 @@
+{
+  "name": "cvt-sdk",
+  "version": "0.6.0",
+  "summary": "Contract Validator Toolkit - Python SDK for validating HTTP interactions against OpenAPI schemas",
+  "author": "sahina",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cvt_sdk-0.6.0.tar.gz",
+  "download_time": "2026-04-19T03:56:22.914768",
+  "package_url": "https://pypi.org/project/cvt-sdk/"
+}

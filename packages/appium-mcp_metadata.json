@@ -1,0 +1,11 @@
+{
+  "name": "appium-mcp",
+  "version": "1.0.5",
+  "summary": "AI-driven mobile test automation framework with Appium MCP server, Page Object Model, and AWS Bedrock integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "appium_mcp-1.0.5.tar.gz",
+  "download_time": "2026-04-19T03:56:53.261209",
+  "package_url": "https://pypi.org/project/appium-mcp/"
+}

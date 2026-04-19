@@ -1,11 +1,11 @@
 {
   "name": "aten-thoth-mcp-proxy",
-  "version": "0.1.14",
+  "version": "0.1.17",
   "summary": "Thoth governance proxy for Claude Desktop / MCP servers",
   "author": "Aten Engineering",
   "license": null,
   "home_page": null,
-  "download_filename": "aten_thoth_mcp_proxy-0.1.14.tar.gz",
-  "download_time": "2026-04-15T05:57:15.582555",
+  "download_filename": "aten_thoth_mcp_proxy-0.1.17.tar.gz",
+  "download_time": "2026-04-19T03:56:44.356260",
   "package_url": "https://pypi.org/project/aten-thoth-mcp-proxy/"
 }

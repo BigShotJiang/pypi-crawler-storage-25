@@ -1,0 +1,11 @@
+{
+  "name": "CTFscan",
+  "version": "0.1.2",
+  "summary": "A web path scanner for CTF",
+  "author": "p7e4",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "ctfscan-0.1.2.tar.gz",
+  "download_time": "2026-04-19T03:56:57.963206",
+  "package_url": "https://pypi.org/project/CTFscan/"
+}

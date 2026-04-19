@@ -1,0 +1,11 @@
+{
+  "name": "moraine-cli",
+  "version": "0.4.2rc2",
+  "summary": "Moraine — unified trace indexer and MCP server for Claude Code / Codex",
+  "author": "Moraine Maintainers",
+  "license": "MIT",
+  "home_page": "https://github.com/eric-tramel/moraine",
+  "download_filename": "moraine_cli-0.4.2rc2.tar.gz",
+  "download_time": "2026-04-19T03:56:24.996172",
+  "package_url": "https://pypi.org/project/moraine-cli/"
+}

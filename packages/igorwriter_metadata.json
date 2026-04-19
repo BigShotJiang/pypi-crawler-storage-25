@@ -1,0 +1,11 @@
+{
+  "name": "igorwriter",
+  "version": "0.7.1",
+  "summary": "Write IGOR binary (.ibw) or text (.itx) files from numpy array",
+  "author": "t-onoz",
+  "license": "MIT",
+  "home_page": "https://github.com/t-onoz/igorwriter",
+  "download_filename": "igorwriter-0.7.1.tar.gz",
+  "download_time": "2026-04-19T03:56:54.300653",
+  "package_url": "https://pypi.org/project/igorwriter/"
+}

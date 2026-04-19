@@ -1,0 +1,11 @@
+{
+  "name": "sagan-trade",
+  "version": "0.2.6",
+  "summary": "Strategic Symbolic Trading Engine with iterative R2 fitting and FunctionGemma discovery.",
+  "author": "Sagan Labs",
+  "license": "MIT",
+  "home_page": "https://github.com/sagan-labs/sagan-xai",
+  "download_filename": "sagan_trade-0.2.6.tar.gz",
+  "download_time": "2026-04-19T03:56:28.642440",
+  "package_url": "https://pypi.org/project/sagan-trade/"
+}

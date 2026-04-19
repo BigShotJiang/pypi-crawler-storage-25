@@ -1,11 +1,11 @@
 {
   "name": "iris-vector-rag",
-  "version": "0.7.0",
+  "version": "0.10.1",
   "summary": "Enterprise RAG pipelines with native IRIS vector search. 6 production implementations with RAGAS evaluation, LangChain, AWS/Azure configs. No external VectorDB required.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "iris_vector_rag-0.7.0.tar.gz",
-  "download_time": "2026-04-05T16:38:47.566590",
+  "download_filename": "iris_vector_rag-0.10.1.tar.gz",
+  "download_time": "2026-04-19T03:56:48.540370",
   "package_url": "https://pypi.org/project/iris-vector-rag/"
 }
