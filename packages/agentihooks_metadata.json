@@ -1,11 +1,11 @@
 {
   "name": "agentihooks",
-  "version": "1.2.0",
+  "version": "1.7.0",
   "summary": "Hook system and MCP tool server for Claude Code agents",
-  "author": "The Cloud Clock Work",
+  "author": "The Cloud Clockwork",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentihooks-1.2.0.tar.gz",
-  "download_time": "2026-04-03T11:55:56.187376",
+  "download_filename": "agentihooks-1.7.0.tar.gz",
+  "download_time": "2026-04-19T10:30:45.766160",
   "package_url": "https://pypi.org/project/agentihooks/"
 }

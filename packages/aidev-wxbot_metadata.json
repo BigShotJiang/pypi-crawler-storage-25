@@ -1,0 +1,11 @@
+{
+  "name": "aidev-wxbot",
+  "version": "1.0.10",
+  "summary": "A Django app for WeChat AI bot integration with BK AI Dev platform",
+  "author": "tencentblueking",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aidev_wxbot-1.0.10.tar.gz",
+  "download_time": "2026-04-19T10:30:38.737715",
+  "package_url": "https://pypi.org/project/aidev-wxbot/"
+}

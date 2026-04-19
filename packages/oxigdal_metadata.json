@@ -1,0 +1,11 @@
+{
+  "name": "oxigdal",
+  "version": "0.1.4",
+  "summary": "Pure Rust geospatial data abstraction library - Python bindings",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cool-japan/oxigdal",
+  "download_filename": "oxigdal-0.1.4.tar.gz",
+  "download_time": "2026-04-19T10:30:29.039758",
+  "package_url": "https://pypi.org/project/oxigdal/"
+}

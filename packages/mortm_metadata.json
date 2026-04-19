@@ -1,0 +1,11 @@
+{
+  "name": "mortm",
+  "version": "4.7",
+  "summary": "旋律生成、コード推定、マルチタスクな音楽生成を行うライブラリ",
+  "author": "Nagoshi Takaaki",
+  "license": null,
+  "home_page": "https://github.com/Ayato964",
+  "download_filename": "mortm-4.7.tar.gz",
+  "download_time": "2026-04-19T10:30:34.989158",
+  "package_url": "https://pypi.org/project/mortm/"
+}

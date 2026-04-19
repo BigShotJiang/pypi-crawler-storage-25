@@ -1,11 +1,11 @@
 {
   "name": "decaf-tax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "De-CAF: Italian tax report generator for foreign investments. Modello Redditi PF — no commercialista needed.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "decaf_tax-0.2.0.tar.gz",
-  "download_time": "2026-04-19T08:41:14.268474",
+  "download_filename": "decaf_tax-0.3.0.tar.gz",
+  "download_time": "2026-04-19T10:30:53.883268",
   "package_url": "https://pypi.org/project/decaf-tax/"
 }

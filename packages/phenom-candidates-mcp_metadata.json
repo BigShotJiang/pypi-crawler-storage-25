@@ -1,11 +1,11 @@
 {
   "name": "phenom-candidates-mcp",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "MCP server for Phenom HR candidate APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phenom_candidates_mcp-0.1.0.tar.gz",
-  "download_time": "2026-04-18T09:30:42.907715",
+  "download_filename": "phenom_candidates_mcp-0.1.2.tar.gz",
+  "download_time": "2026-04-19T10:30:56.025446",
   "package_url": "https://pypi.org/project/phenom-candidates-mcp/"
 }

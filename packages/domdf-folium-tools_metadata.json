@@ -1,11 +1,11 @@
 {
   "name": "domdf-folium-tools",
-  "version": "0.1.0b3",
+  "version": "0.1.0b9",
   "summary": "Miscellaneous utilities for folium/leaflet.",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/domdfcoding/domdf-folium-tools",
-  "download_filename": "domdf_folium_tools-0.1.0b3.tar.gz",
-  "download_time": "2026-04-06T19:33:37.313693",
+  "download_filename": "domdf_folium_tools-0.1.0b9.tar.gz",
+  "download_time": "2026-04-19T10:30:52.728727",
   "package_url": "https://pypi.org/project/domdf-folium-tools/"
 }

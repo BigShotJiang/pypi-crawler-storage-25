@@ -1,0 +1,11 @@
+{
+  "name": "paperlm",
+  "version": "0.1.0",
+  "summary": "Scientific PDFs → Markdown, built for LLMs. A MarkItDown plugin that replaces the built-in PDF converter with Docling-powered layout analysis and local OCR (PaddleOCR) for scanned documents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "paperlm-0.1.0.tar.gz",
+  "download_time": "2026-04-19T10:30:52.193927",
+  "package_url": "https://pypi.org/project/paperlm/"
+}

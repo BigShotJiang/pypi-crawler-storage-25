@@ -1,0 +1,11 @@
+{
+  "name": "diffpose-video",
+  "version": "0.1.0",
+  "summary": "3D human pose estimation from video using DiffPose + MixSTE",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "diffpose_video-0.1.0.tar.gz",
+  "download_time": "2026-04-19T10:30:48.981546",
+  "package_url": "https://pypi.org/project/diffpose-video/"
+}

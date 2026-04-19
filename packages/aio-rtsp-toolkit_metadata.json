@@ -1,0 +1,11 @@
+{
+  "name": "aio-rtsp-toolkit",
+  "version": "0.1.2",
+  "summary": "Async RTSP client with protocol timing, RTP and frame events, plus a lightweight RTSP/TCP file server",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aio_rtsp_toolkit-0.1.2.tar.gz",
+  "download_time": "2026-04-19T10:30:20.348627",
+  "package_url": "https://pypi.org/project/aio-rtsp-toolkit/"
+}

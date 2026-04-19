@@ -1,0 +1,11 @@
+{
+  "name": "proxio",
+  "version": "0.0.4",
+  "summary": "A wrapper for the proxmox api",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "proxio-0.0.4.tar.gz",
+  "download_time": "2026-04-19T10:30:20.884170",
+  "package_url": "https://pypi.org/project/proxio/"
+}

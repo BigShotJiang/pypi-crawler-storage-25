@@ -1,11 +1,11 @@
 {
   "name": "umeairt-comfyui-installer",
-  "version": "5.1.17",
+  "version": "5.1.18",
   "summary": "Cross-platform automated installer for ComfyUI",
   "author": "UmeAiRT",
   "license": null,
   "home_page": null,
-  "download_filename": "umeairt_comfyui_installer-5.1.17.tar.gz",
-  "download_time": "2026-04-19T09:38:02.900620",
+  "download_filename": "umeairt_comfyui_installer-5.1.18.tar.gz",
+  "download_time": "2026-04-19T10:30:25.803692",
   "package_url": "https://pypi.org/project/umeairt-comfyui-installer/"
 }

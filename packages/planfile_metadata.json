@@ -1,11 +1,11 @@
 {
   "name": "planfile",
-  "version": "0.1.52",
+  "version": "0.1.59",
   "summary": "SDLC automation platform - strategic project management with CI/CD integration and automated bug-fix loops",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "planfile-0.1.52.tar.gz",
-  "download_time": "2026-03-29T19:55:20.293944",
+  "download_filename": "planfile-0.1.59.tar.gz",
+  "download_time": "2026-04-19T10:30:29.576387",
   "package_url": "https://pypi.org/project/planfile/"
 }
