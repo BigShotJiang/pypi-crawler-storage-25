@@ -1,11 +1,11 @@
 {
   "name": "renogy-ble",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "summary": "A library for parsing Renogy BLE data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "renogy_ble-2.3.0.tar.gz",
-  "download_time": "2026-04-03T21:58:53.241460",
+  "download_filename": "renogy_ble-2.3.1.tar.gz",
+  "download_time": "2026-04-19T18:00:08.525246",
   "package_url": "https://pypi.org/project/renogy-ble/"
 }

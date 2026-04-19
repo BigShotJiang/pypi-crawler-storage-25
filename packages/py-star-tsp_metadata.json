@@ -1,0 +1,11 @@
+{
+  "name": "py-star-tsp",
+  "version": "1.1.0",
+  "summary": "Python SDK for Star TSP100 Graphic Mode thermal printers",
+  "author": "Pavel Kim",
+  "license": null,
+  "home_page": "https://github.com/printer-stream/py-star-tsp",
+  "download_filename": "py_star_tsp-1.1.0.tar.gz",
+  "download_time": "2026-04-19T18:00:29.309992",
+  "package_url": "https://pypi.org/project/py-star-tsp/"
+}

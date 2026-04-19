@@ -1,0 +1,11 @@
+{
+  "name": "tubeframes",
+  "version": "0.3.4",
+  "summary": "A Python package for retrieving YouTube data, including video statistics, captions, and channel information. TubeFrames outputs results in a user-friendly pandas DataFrame format, making it ideal for data analysis workflows — especially in Jupyter Notebooks.",
+  "author": "Luiz P.",
+  "license": null,
+  "home_page": "https://github.com/umLu/tubeframes",
+  "download_filename": "tubeframes-0.3.4.tar.gz",
+  "download_time": "2026-04-19T18:00:37.533822",
+  "package_url": "https://pypi.org/project/tubeframes/"
+}

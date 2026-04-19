@@ -1,11 +1,11 @@
 {
   "name": "pydantic-monty",
-  "version": "0.0.14",
+  "version": "0.0.16",
   "summary": "Python bindings for the Monty sandboxed Python interpreter",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/pydantic/monty/",
-  "download_filename": "pydantic_monty-0.0.14.tar.gz",
-  "download_time": "2026-04-17T16:21:19.193293",
+  "download_filename": "pydantic_monty-0.0.16.tar.gz",
+  "download_time": "2026-04-19T18:00:21.554025",
   "package_url": "https://pypi.org/project/pydantic-monty/"
 }

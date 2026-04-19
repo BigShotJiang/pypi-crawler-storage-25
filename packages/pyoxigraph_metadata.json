@@ -1,0 +1,11 @@
+{
+  "name": "pyoxigraph",
+  "version": "0.5.7",
+  "summary": "Python bindings of Oxigraph, a SPARQL database and RDF toolkit",
+  "author": "Tpt <thomas@pellissier-tanon.fr>",
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://pyoxigraph.readthedocs.io/",
+  "download_filename": "pyoxigraph-0.5.7.tar.gz",
+  "download_time": "2026-04-19T18:00:03.828097",
+  "package_url": "https://pypi.org/project/pyoxigraph/"
+}

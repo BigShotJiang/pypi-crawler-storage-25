@@ -1,0 +1,11 @@
+{
+  "name": "qemu-compose",
+  "version": "0.9.0",
+  "summary": "docker-compose style composer for qemu",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qemu_compose-0.9.0.tar.gz",
+  "download_time": "2026-04-19T18:00:16.280532",
+  "package_url": "https://pypi.org/project/qemu-compose/"
+}

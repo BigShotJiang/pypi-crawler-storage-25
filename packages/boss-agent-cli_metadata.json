@@ -1,11 +1,11 @@
 {
   "name": "boss-agent-cli",
-  "version": "1.8.0",
+  "version": "1.8.5",
   "summary": "AI Agent 专用的 BOSS 直聘求职 CLI 工具",
   "author": "can4hou6joeng4",
   "license": null,
   "home_page": null,
-  "download_filename": "boss_agent_cli-1.8.0.tar.gz",
-  "download_time": "2026-04-19T11:12:39.691768",
+  "download_filename": "boss_agent_cli-1.8.5.tar.gz",
+  "download_time": "2026-04-19T17:59:55.560256",
   "package_url": "https://pypi.org/project/boss-agent-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ciphyrs",
+  "version": "2.2.0",
+  "summary": "Official Ciphyrs SDK for Python — agent tracing, observability, and PII detection",
+  "author": "Ciphyrs",
+  "license": null,
+  "home_page": "https://github.com/ciphyrs/ciphyrs-python",
+  "download_filename": "ciphyrs-2.2.0.tar.gz",
+  "download_time": "2026-04-19T18:00:27.762791",
+  "package_url": "https://pypi.org/project/ciphyrs/"
+}

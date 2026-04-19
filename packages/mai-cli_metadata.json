@@ -1,0 +1,11 @@
+{
+  "name": "mai-cli",
+  "version": "1.2.0",
+  "summary": "Multi-Agent Collaboration CLI with flock-based locking and event-driven workflow",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mai_cli-1.2.0.tar.gz",
+  "download_time": "2026-04-19T18:00:10.067930",
+  "package_url": "https://pypi.org/project/mai-cli/"
+}

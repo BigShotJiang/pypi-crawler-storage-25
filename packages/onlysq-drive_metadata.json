@@ -1,0 +1,11 @@
+{
+  "name": "onlysq-drive",
+  "version": "1.1.1",
+  "summary": "CLI tool and virtual filesystem that mounts OnlySQ Cloud as a Windows drive or Linux mountpoint",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "onlysq_drive-1.1.1.tar.gz",
+  "download_time": "2026-04-19T18:00:11.606180",
+  "package_url": "https://pypi.org/project/onlysq-drive/"
+}

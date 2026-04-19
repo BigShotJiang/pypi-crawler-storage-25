@@ -1,0 +1,11 @@
+{
+  "name": "seec",
+  "version": "0.0.2",
+  "summary": "Schema-driven LLM extraction pipeline for metadata, classifications, entities, and relations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seec-0.0.2.tar.gz",
+  "download_time": "2026-04-19T18:00:17.305723",
+  "package_url": "https://pypi.org/project/seec/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "BioFF",
-  "version": "0.2.7",
+  "version": "1.0.0",
   "summary": "基于Forward-Forward算法的生物信息学分类工具（适配基因/蛋白质表达数据）",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bioff-0.2.7.tar.gz",
-  "download_time": "2026-04-19T15:04:23.491416",
+  "download_filename": "bioff-1.0.0.tar.gz",
+  "download_time": "2026-04-19T18:00:20.002778",
   "package_url": "https://pypi.org/project/BioFF/"
 }

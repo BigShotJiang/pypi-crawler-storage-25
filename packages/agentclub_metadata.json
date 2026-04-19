@@ -1,11 +1,11 @@
 {
   "name": "agentclub",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "A Slack-like chat server for humans and AI agents.",
   "author": "Dante Zhu",
   "license": null,
   "home_page": null,
-  "download_filename": "agentclub-0.1.13.tar.gz",
-  "download_time": "2026-04-19T17:11:33.396346",
+  "download_filename": "agentclub-0.1.14.tar.gz",
+  "download_time": "2026-04-19T18:00:28.797544",
   "package_url": "https://pypi.org/project/agentclub/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "clickstate",
+  "version": "0.0.1",
+  "summary": "Declarative schema management for streaming SQL pipelines in ClickHouse.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clickstate-0.0.1.tar.gz",
+  "download_time": "2026-04-19T18:00:40.738677",
+  "package_url": "https://pypi.org/project/clickstate/"
+}
