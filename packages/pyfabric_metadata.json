@@ -1,11 +1,11 @@
 {
   "name": "pyfabric",
-  "version": "0.1.0a3",
+  "version": "0.1.0b6",
   "summary": "Python libraries helping AI coding assistants create and locally validate Microsoft Fabric items compatible with Fabric git sync.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyfabric-0.1.0a3.tar.gz",
-  "download_time": "2026-04-15T00:05:01.399657",
+  "download_filename": "pyfabric-0.1.0b6.tar.gz",
+  "download_time": "2026-04-19T19:46:53.601848",
   "package_url": "https://pypi.org/project/pyfabric/"
 }

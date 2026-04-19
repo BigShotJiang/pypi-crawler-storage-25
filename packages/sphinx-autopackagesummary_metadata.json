@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-autopackagesummary",
+  "version": "1.4",
+  "summary": "Sphinx extension to automatically generate autosummary tables for Python packages",
+  "author": "rdb",
+  "license": null,
+  "home_page": "https://github.com/rdb/sphinx-autopackagesummary",
+  "download_filename": "sphinx_autopackagesummary-1.4.tar.gz",
+  "download_time": "2026-04-19T19:47:16.823602",
+  "package_url": "https://pypi.org/project/sphinx-autopackagesummary/"
+}

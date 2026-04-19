@@ -1,11 +1,11 @@
 {
   "name": "memforge",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "Local external memory system for LLM agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memforge-0.1.0.tar.gz",
-  "download_time": "2026-04-19T15:50:57.848750",
+  "download_filename": "memforge-0.1.4.tar.gz",
+  "download_time": "2026-04-19T19:47:17.337940",
   "package_url": "https://pypi.org/project/memforge/"
 }

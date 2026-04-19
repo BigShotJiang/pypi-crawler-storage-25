@@ -1,0 +1,11 @@
+{
+  "name": "llmai",
+  "version": "0.1.2",
+  "summary": "Unified Python client for OpenAI, Azure OpenAI, Vertex AI, Anthropic, Gemini, DeepSeek, Bedrock, and ChatGPT.",
+  "author": "sauravniraula",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmai-0.1.2.tar.gz",
+  "download_time": "2026-04-19T19:46:58.770026",
+  "package_url": "https://pypi.org/project/llmai/"
+}

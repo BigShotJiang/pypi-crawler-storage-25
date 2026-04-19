@@ -1,11 +1,11 @@
 {
   "name": "mkio",
-  "version": "0.1.16",
+  "version": "0.1.18",
   "summary": "Config-driven microservice framework with WebSocket, SQLite, and expression language",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mkio-0.1.16.tar.gz",
-  "download_time": "2026-04-19T18:00:13.668121",
+  "download_filename": "mkio-0.1.18.tar.gz",
+  "download_time": "2026-04-19T19:47:31.295513",
   "package_url": "https://pypi.org/project/mkio/"
 }

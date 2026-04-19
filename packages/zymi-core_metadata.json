@@ -1,11 +1,11 @@
 {
   "name": "zymi-core",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Event-sourced agent engine — CLI and Python bindings for auditable AI workflows",
   "author": "metravod",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zymi_core-0.2.0.tar.gz",
-  "download_time": "2026-04-18T19:47:09.019089",
+  "download_filename": "zymi_core-0.2.1.tar.gz",
+  "download_time": "2026-04-19T19:46:56.694062",
   "package_url": "https://pypi.org/project/zymi-core/"
 }

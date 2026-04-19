@@ -1,0 +1,11 @@
+{
+  "name": "parentsquare-mcp",
+  "version": "0.1.5",
+  "summary": "MCP server that gives Claude AI access to ParentSquare, the school-parent communication platform — browse feeds, calendar events, messages, directories, and more",
+  "author": "thehesiod",
+  "license": null,
+  "home_page": null,
+  "download_filename": "parentsquare_mcp-0.1.5.tar.gz",
+  "download_time": "2026-04-19T19:47:10.093405",
+  "package_url": "https://pypi.org/project/parentsquare-mcp/"
+}

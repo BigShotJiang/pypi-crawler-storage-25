@@ -1,0 +1,11 @@
+{
+  "name": "wetherspoons-api-python",
+  "version": "1.2.1",
+  "summary": "A Python package for accessing JD Wetherspoon's venue and menu data",
+  "author": "Ported from original by Joss Bird",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wetherspoons_api_python-1.2.1.tar.gz",
+  "download_time": "2026-04-19T19:46:53.089718",
+  "package_url": "https://pypi.org/project/wetherspoons-api-python/"
+}

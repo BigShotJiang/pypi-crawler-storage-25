@@ -1,0 +1,11 @@
+{
+  "name": "pipelock-verify",
+  "version": "0.1.1",
+  "summary": "Verify Pipelock action receipts (Ed25519-signed, chain-linked).",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pipelock_verify-0.1.1.tar.gz",
+  "download_time": "2026-04-19T19:47:14.767742",
+  "package_url": "https://pypi.org/project/pipelock-verify/"
+}

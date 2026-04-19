@@ -1,0 +1,11 @@
+{
+  "name": "logwick",
+  "version": "1.0.0",
+  "summary": "Audit logging for AI agents — official Python SDK",
+  "author": "Logwick",
+  "license": "MIT",
+  "home_page": "https://logwick.io",
+  "download_filename": "logwick-1.0.0.tar.gz",
+  "download_time": "2026-04-19T19:47:26.109959",
+  "package_url": "https://pypi.org/project/logwick/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "semantic-state-machine-graphable",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A library for visualizing semantic-state-machine structures and AuditContext execution paths as graphs using graphable.",
   "author": "Richard West",
   "license": null,
   "home_page": null,
-  "download_filename": "semantic_state_machine_graphable-0.2.0.tar.gz",
-  "download_time": "2026-04-14T00:04:51.765663",
+  "download_filename": "semantic_state_machine_graphable-0.3.0.tar.gz",
+  "download_time": "2026-04-19T19:47:32.835031",
   "package_url": "https://pypi.org/project/semantic-state-machine-graphable/"
 }

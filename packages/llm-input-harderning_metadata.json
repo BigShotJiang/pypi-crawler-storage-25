@@ -1,0 +1,11 @@
+{
+  "name": "llm-input-harderning",
+  "version": "1.0.5",
+  "summary": "Deterministic Unicode-aware input hardening for LLM applications.",
+  "author": "David Webster",
+  "license": "MIT",
+  "home_page": "https://github.com/davidwebstar34/llm-input-harderning",
+  "download_filename": "llm_input_harderning-1.0.5.tar.gz",
+  "download_time": "2026-04-19T19:47:21.970454",
+  "package_url": "https://pypi.org/project/llm-input-harderning/"
+}

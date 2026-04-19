@@ -1,0 +1,11 @@
+{
+  "name": "markdown-heading-numbering",
+  "version": "0.1.1",
+  "summary": "CLI and pre-commit hook to add hierarchical numbering to Markdown headings.",
+  "author": "jsh9",
+  "license": null,
+  "home_page": null,
+  "download_filename": "markdown_heading_numbering-0.1.1.tar.gz",
+  "download_time": "2026-04-19T19:47:20.418579",
+  "package_url": "https://pypi.org/project/markdown-heading-numbering/"
+}
