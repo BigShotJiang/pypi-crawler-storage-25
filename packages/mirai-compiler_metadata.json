@@ -1,0 +1,11 @@
+{
+  "name": "mirai-compiler",
+  "version": "0.1.1",
+  "summary": "Compile PyTorch models into TensorFlow custom ops backed by Triton PTX kernels",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mirai_compiler-0.1.1.tar.gz",
+  "download_time": "2026-04-19T14:08:37.431871",
+  "package_url": "https://pypi.org/project/mirai-compiler/"
+}

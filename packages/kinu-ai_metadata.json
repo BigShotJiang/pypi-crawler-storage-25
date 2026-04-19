@@ -1,11 +1,11 @@
 {
   "name": "kinu-ai",
-  "version": "1.8.0",
-  "summary": "Local AI assistant with screen awareness, document reading, web search, voice, and persistent memory",
+  "version": "1.9.0",
+  "summary": "Local AI assistant with camera vision, screen awareness, document reading, web search, voice, and persistent memory",
   "author": "Alex Kinuthia",
   "license": null,
   "home_page": "https://github.com/bettalex33-prog/ai-cli-chatbot",
-  "download_filename": "kinu_ai-1.8.0.tar.gz",
-  "download_time": "2026-04-11T22:06:36.464059",
+  "download_filename": "kinu_ai-1.9.0.tar.gz",
+  "download_time": "2026-04-19T14:08:43.858520",
   "package_url": "https://pypi.org/project/kinu-ai/"
 }

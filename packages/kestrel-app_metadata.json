@@ -1,11 +1,11 @@
 {
   "name": "kestrel-app",
-  "version": "0.1.0",
+  "version": "0.5.2",
   "summary": "AI-powered job search platform. Self-hosted, open-source, privacy-first.",
-  "author": null,
-  "license": null,
+  "author": "Kestrel Contributors",
+  "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "kestrel_app-0.1.0.tar.gz",
-  "download_time": "2026-04-08T21:14:14.157141",
+  "download_filename": "kestrel_app-0.5.2.tar.gz",
+  "download_time": "2026-04-19T14:09:05.302242",
   "package_url": "https://pypi.org/project/kestrel-app/"
 }

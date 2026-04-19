@@ -1,0 +1,11 @@
+{
+  "name": "logmap",
+  "version": "0.2.0",
+  "summary": "A hierarchical, context-manager logger utility with multiprocess mapping capabilities",
+  "author": "Ryan Heuser",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/quadrismegistus/logmap",
+  "download_filename": "logmap-0.2.0.tar.gz",
+  "download_time": "2026-04-19T14:09:00.492261",
+  "package_url": "https://pypi.org/project/logmap/"
+}

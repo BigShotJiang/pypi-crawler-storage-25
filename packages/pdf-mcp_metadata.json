@@ -1,0 +1,11 @@
+{
+  "name": "pdf-mcp",
+  "version": "1.9.0",
+  "summary": "Production-ready MCP server for PDF processing with intelligent caching. Extract text, search, and analyze PDFs with AI agents.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdf_mcp-1.9.0.tar.gz",
+  "download_time": "2026-04-19T14:08:36.900527",
+  "package_url": "https://pypi.org/project/pdf-mcp/"
+}

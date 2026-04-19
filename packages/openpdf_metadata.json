@@ -1,0 +1,11 @@
+{
+  "name": "openpdf",
+  "version": "0.0.2",
+  "summary": "A professional text-to-PDF compiler with AES-128 encryption",
+  "author": "Fjord Enzo Bertrand-Helmgens",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "openpdf-0.0.2.tar.gz",
+  "download_time": "2026-04-19T14:08:49.316167",
+  "package_url": "https://pypi.org/project/openpdf/"
+}

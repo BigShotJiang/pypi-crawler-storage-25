@@ -1,11 +1,11 @@
 {
   "name": "markcrawl",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Fast Python web crawler for AI & RAG ingestion — crawl, extract, and embed website content with one tool.",
   "author": "iD8 (AIMLPM)",
   "license": null,
   "home_page": null,
-  "download_filename": "markcrawl-0.6.0.tar.gz",
-  "download_time": "2026-04-18T09:31:21.754053",
+  "download_filename": "markcrawl-0.7.0.tar.gz",
+  "download_time": "2026-04-19T14:08:42.261332",
   "package_url": "https://pypi.org/project/markcrawl/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "bambootex",
+  "version": "0.1.0",
+  "summary": "Convert pandas DataFrames into publication-quality LaTeX/PDF tables",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bambootex-0.1.0.tar.gz",
+  "download_time": "2026-04-19T14:08:58.891978",
+  "package_url": "https://pypi.org/project/bambootex/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dwyeapi",
-  "version": "0.4.0",
+  "version": "0.5.2",
   "summary": "Lightweight FastAPI infrastructure — exceptions, database, config, security, cache, pagination, logger",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dwyeapi-0.4.0.tar.gz",
-  "download_time": "2026-04-19T08:40:46.911465",
+  "download_filename": "dwyeapi-0.5.2.tar.gz",
+  "download_time": "2026-04-19T14:08:17.818124",
   "package_url": "https://pypi.org/project/dwyeapi/"
 }
