@@ -1,11 +1,11 @@
 {
   "name": "cc-sentiment",
-  "version": "0.2.63",
+  "version": "0.2.66",
   "summary": "Local Claude Code session scorer that contributes metrics to sentiments.cc",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cc_sentiment-0.2.63.tar.gz",
-  "download_time": "2026-04-20T11:04:52.517479",
+  "download_filename": "cc_sentiment-0.2.66.tar.gz",
+  "download_time": "2026-04-20T12:15:41.136395",
   "package_url": "https://pypi.org/project/cc-sentiment/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "synth-pdb",
-  "version": "1.28.0",
+  "version": "1.29.0",
   "summary": "Generate realistic PDB files with mixed secondary structures for bioinformatics testing, education, and tool development",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synth_pdb-1.28.0.tar.gz",
-  "download_time": "2026-04-04T20:32:33.070728",
+  "download_filename": "synth_pdb-1.29.0.tar.gz",
+  "download_time": "2026-04-20T12:15:20.985662",
   "package_url": "https://pypi.org/project/synth-pdb/"
 }

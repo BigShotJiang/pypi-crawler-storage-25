@@ -1,0 +1,11 @@
+{
+  "name": "same-fim",
+  "version": "0.7.3",
+  "summary": "Similarity-Adaptive Monotonic Entropy: frequent-itemset mining with FWER-controlled rules.",
+  "author": "Hamid Necir, Massyl Benarab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "same_fim-0.7.3.tar.gz",
+  "download_time": "2026-04-20T12:15:37.009759",
+  "package_url": "https://pypi.org/project/same-fim/"
+}

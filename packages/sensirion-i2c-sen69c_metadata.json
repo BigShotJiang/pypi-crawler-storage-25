@@ -1,0 +1,11 @@
+{
+  "name": "sensirion-i2c-sen69c",
+  "version": "1.0.0",
+  "summary": "I2C driver for the Sensirion SEN69C sensor family",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sensirion_i2c_sen69c-1.0.0.tar.gz",
+  "download_time": "2026-04-20T12:15:06.832906",
+  "package_url": "https://pypi.org/project/sensirion-i2c-sen69c/"
+}

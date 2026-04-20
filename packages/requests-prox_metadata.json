@@ -1,0 +1,11 @@
+{
+  "name": "requests-prox",
+  "version": "0.1.0",
+  "summary": "Proxy-aware drop-in wrapper around requests with rotation and session support.",
+  "author": "Wajd Dev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "requests_prox-0.1.0.tar.gz",
+  "download_time": "2026-04-20T12:15:42.161424",
+  "package_url": "https://pypi.org/project/requests-prox/"
+}

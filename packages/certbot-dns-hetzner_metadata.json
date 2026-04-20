@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-hetzner",
+  "version": "3.0.0",
+  "summary": "This certbot plugin for dns-01 challenge for Hetzner.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "certbot_dns_hetzner-3.0.0.tar.gz",
+  "download_time": "2026-04-20T12:15:30.858048",
+  "package_url": "https://pypi.org/project/certbot-dns-hetzner/"
+}
