@@ -1,11 +1,11 @@
 {
   "name": "easyfasta",
-  "version": "1.2.5",
+  "version": "1.2.9",
   "summary": "A lightweight Python library for efficient FASTA file parsing and DNA sequence manipulation.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "easyfasta-1.2.5.tar.gz",
-  "download_time": "2026-04-17T14:04:14.651766",
+  "download_filename": "easyfasta-1.2.9.tar.gz",
+  "download_time": "2026-04-20T23:10:08.603927",
   "package_url": "https://pypi.org/project/easyfasta/"
 }

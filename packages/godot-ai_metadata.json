@@ -1,11 +1,11 @@
 {
   "name": "godot-ai",
-  "version": "1.2.3",
+  "version": "1.2.5",
   "summary": "Production-grade MCP server and AI tools for the Godot engine",
   "author": "Godot AI contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "godot_ai-1.2.3.tar.gz",
-  "download_time": "2026-04-20T22:10:30.194688",
+  "download_filename": "godot_ai-1.2.5.tar.gz",
+  "download_time": "2026-04-20T23:09:56.887164",
   "package_url": "https://pypi.org/project/godot-ai/"
 }

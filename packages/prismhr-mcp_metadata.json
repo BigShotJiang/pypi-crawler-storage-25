@@ -1,11 +1,11 @@
 {
   "name": "prismhr-mcp",
-  "version": "0.1.0.dev47",
+  "version": "0.1.0.dev50",
   "summary": "Open-source Model Context Protocol server for PrismHR — PEO workflow tools + Microsoft 365 connectors for Claude and other MCP-aware agents.",
   "author": "Nihar Kulkarni",
   "license": null,
   "home_page": null,
-  "download_filename": "prismhr_mcp-0.1.0.dev47.tar.gz",
-  "download_time": "2026-04-20T20:14:11.184055",
+  "download_filename": "prismhr_mcp-0.1.0.dev50.tar.gz",
+  "download_time": "2026-04-20T23:10:24.892947",
   "package_url": "https://pypi.org/project/prismhr-mcp/"
 }

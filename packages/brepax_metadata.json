@@ -1,11 +1,11 @@
 {
   "name": "brepax",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "Differentiable rasterizer for CAD Boolean operations — JAX-native B-Rep kernel with stratum-aware gradients.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "brepax-0.4.1.tar.gz",
-  "download_time": "2026-04-19T07:33:55.326770",
+  "download_filename": "brepax-0.5.0.tar.gz",
+  "download_time": "2026-04-20T23:10:09.153801",
   "package_url": "https://pypi.org/project/brepax/"
 }

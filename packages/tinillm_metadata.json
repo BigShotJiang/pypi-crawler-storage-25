@@ -1,11 +1,11 @@
 {
   "name": "tinillm",
-  "version": "1.6.1",
+  "version": "2.4.0",
   "summary": "Hardware LLM capability scanner — know what runs on your machine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tinillm-1.6.1.tar.gz",
-  "download_time": "2026-04-15T09:12:22.433176",
+  "download_filename": "tinillm-2.4.0.tar.gz",
+  "download_time": "2026-04-20T23:10:23.324832",
   "package_url": "https://pypi.org/project/tinillm/"
 }

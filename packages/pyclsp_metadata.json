@@ -1,11 +1,11 @@
 {
   "name": "pyclsp",
-  "version": "2.1.0",
+  "version": "2.3.0",
   "summary": "Modular Two-Step Convex Optimization Estimator for Ill-Posed Problems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyclsp-2.1.0.tar.gz",
-  "download_time": "2026-04-13T06:19:20.199325",
+  "download_filename": "pyclsp-2.3.0.tar.gz",
+  "download_time": "2026-04-20T23:10:01.160009",
   "package_url": "https://pypi.org/project/pyclsp/"
 }

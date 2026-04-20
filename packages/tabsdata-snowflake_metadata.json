@@ -1,0 +1,11 @@
+{
+  "name": "tabsdata-snowflake",
+  "version": "1.9.1",
+  "summary": "Tabsdata plugin to access Snowflake data.",
+  "author": "Tabs Data Inc.",
+  "license": "Tabsdata License",
+  "home_page": null,
+  "download_filename": "tabsdata_snowflake-1.9.1-cp312-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-20T23:09:47.398688",
+  "package_url": "https://pypi.org/project/tabsdata-snowflake/"
+}

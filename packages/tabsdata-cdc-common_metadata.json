@@ -1,0 +1,11 @@
+{
+  "name": "tabsdata-cdc-common",
+  "version": "1.9.1",
+  "summary": "Tabsdata plugin of common components to process change data capture (cdc) data.",
+  "author": "Tabs Data Inc.",
+  "license": "Tabsdata License",
+  "home_page": null,
+  "download_filename": "tabsdata_cdc_common-1.9.1-cp312-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-20T23:09:52.659002",
+  "package_url": "https://pypi.org/project/tabsdata-cdc-common/"
+}

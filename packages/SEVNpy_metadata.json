@@ -1,0 +1,11 @@
+{
+  "name": "SEVNpy",
+  "version": "0.4.3",
+  "summary": "A Python companion module for SEVN (Stellar EVolution N-body)",
+  "author": "Giuliano Iorio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sevnpy-0.4.3.tar.gz",
+  "download_time": "2026-04-20T23:10:03.792025",
+  "package_url": "https://pypi.org/project/SEVNpy/"
+}
