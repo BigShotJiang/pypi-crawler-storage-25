@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-langchain",
-  "version": "1.5.3",
+  "version": "1.5.5",
   "summary": "LangChain/LangGraph plugin for LiveKit agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_langchain-1.5.3.tar.gz",
-  "download_time": "2026-04-16T00:06:42.005327",
+  "download_filename": "livekit_plugins_langchain-1.5.5.tar.gz",
+  "download_time": "2026-04-20T19:14:17.971394",
   "package_url": "https://pypi.org/project/livekit-plugins-langchain/"
 }

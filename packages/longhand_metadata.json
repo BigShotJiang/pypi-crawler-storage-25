@@ -1,11 +1,11 @@
 {
   "name": "longhand",
-  "version": "0.5.9",
+  "version": "0.5.13",
   "summary": "Persistent local memory for Claude Code. Total recall from your session files — no API calls, no summaries, no AI deciding what matters.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "longhand-0.5.9.tar.gz",
-  "download_time": "2026-04-16T19:55:25.751014",
+  "download_filename": "longhand-0.5.13.tar.gz",
+  "download_time": "2026-04-20T19:14:38.311556",
   "package_url": "https://pypi.org/project/longhand/"
 }

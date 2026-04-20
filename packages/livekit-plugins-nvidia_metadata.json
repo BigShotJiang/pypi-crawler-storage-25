@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-nvidia",
-  "version": "1.5.3",
+  "version": "1.5.5",
   "summary": "LiveKit Agents Plugin for services from nvidia",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_nvidia-1.5.3.tar.gz",
-  "download_time": "2026-04-16T00:06:34.673409",
+  "download_filename": "livekit_plugins_nvidia-1.5.5.tar.gz",
+  "download_time": "2026-04-20T19:14:12.764438",
   "package_url": "https://pypi.org/project/livekit-plugins-nvidia/"
 }

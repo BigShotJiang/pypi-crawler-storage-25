@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-fal",
+  "version": "1.5.5",
+  "summary": "fal plugin template for LiveKit Agents",
+  "author": "LiveKit",
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_fal-1.5.5.tar.gz",
+  "download_time": "2026-04-20T19:14:26.322442",
+  "package_url": "https://pypi.org/project/livekit-plugins-fal/"
+}

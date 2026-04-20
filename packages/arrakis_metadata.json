@@ -1,11 +1,11 @@
 {
   "name": "arrakis",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "summary": "Arrakis Python client library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arrakis-0.10.0.tar.gz",
-  "download_time": "2026-04-02T23:04:57.995516",
+  "download_filename": "arrakis-0.11.0.tar.gz",
+  "download_time": "2026-04-20T19:14:39.883402",
   "package_url": "https://pypi.org/project/arrakis/"
 }

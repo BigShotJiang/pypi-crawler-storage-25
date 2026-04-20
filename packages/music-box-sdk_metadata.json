@@ -1,0 +1,11 @@
+{
+  "name": "music-box-sdk",
+  "version": "0.2.0b1",
+  "summary": "Python SDK for the state-space-music-box HTTP API. Generate procedural music, manage sessions, evaluate outputs, and control the Agentic DJ stack.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "music_box_sdk-0.2.0b1.tar.gz",
+  "download_time": "2026-04-20T19:14:45.095153",
+  "package_url": "https://pypi.org/project/music-box-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-mail-panel",
+  "version": "4.1.1",
+  "summary": "A panel for django-debug-toolbar that allows for viewing of recently sent email.",
+  "author": "Stephen Mitchell",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/scuml/django-mail-panel",
+  "download_filename": "django_mail_panel-4.1.1.tar.gz",
+  "download_time": "2026-04-20T19:14:44.058025",
+  "package_url": "https://pypi.org/project/django-mail-panel/"
+}

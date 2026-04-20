@@ -1,0 +1,11 @@
+{
+  "name": "certbox",
+  "version": "1.1.4",
+  "summary": "X.509 Certificate Management Service",
+  "author": "GISCE-TI",
+  "license": null,
+  "home_page": "https://github.com/gisce/certbox",
+  "download_filename": "certbox-1.1.4.tar.gz",
+  "download_time": "2026-04-20T19:14:02.308578",
+  "package_url": "https://pypi.org/project/certbox/"
+}

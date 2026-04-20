@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-krisp",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Krisp VIVA noise reduction plugin for LiveKit Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_krisp-0.1.1.tar.gz",
-  "download_time": "2026-04-16T00:06:07.706772",
+  "download_filename": "livekit_plugins_krisp-0.1.3.tar.gz",
+  "download_time": "2026-04-20T19:14:19.003017",
   "package_url": "https://pypi.org/project/livekit-plugins-krisp/"
 }
