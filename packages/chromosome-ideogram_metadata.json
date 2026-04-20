@@ -1,11 +1,11 @@
 {
   "name": "chromosome-ideogram",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A python package for drawing genome-wide data on idiograms.",
   "author": "Wenlin Xu",
   "license": "MIT",
   "home_page": "https://github.com/wenlinXu-njfu/ChromosomeIdeogram",
-  "download_filename": "chromosome_ideogram-0.0.1.tar.gz",
-  "download_time": "2026-04-16T11:07:37.642470",
+  "download_filename": "chromosome_ideogram-0.0.2.tar.gz",
+  "download_time": "2026-04-20T09:08:11.947503",
   "package_url": "https://pypi.org/project/chromosome-ideogram/"
 }

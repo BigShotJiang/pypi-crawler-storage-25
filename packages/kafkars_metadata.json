@@ -1,0 +1,11 @@
+{
+  "name": "kafkars",
+  "version": "0.0.6",
+  "summary": "Rust based, Arrow powered, python kafka client",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kafkars-0.0.6.tar.gz",
+  "download_time": "2026-04-20T09:08:21.255563",
+  "package_url": "https://pypi.org/project/kafkars/"
+}

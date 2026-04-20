@@ -1,0 +1,11 @@
+{
+  "name": "tarxemo-django-authz",
+  "version": "0.3.1",
+  "summary": "A comprehensive, reusable Django authorization framework supporting RBAC and PBAC",
+  "author": "TarXemo",
+  "license": null,
+  "home_page": "https://github.com/tarxemo/tarxemo-django-authz",
+  "download_filename": "tarxemo_django_authz-0.3.1.tar.gz",
+  "download_time": "2026-04-20T09:08:13.998828",
+  "package_url": "https://pypi.org/project/tarxemo-django-authz/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gis-cli",
+  "version": "4.0.0",
+  "summary": "GIS — Autonomous GitHub Issue Solver. RAG-powered CLI agent that ingests repos, analyzes issues, generates patches, and creates PRs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gis_cli-4.0.0.tar.gz",
+  "download_time": "2026-04-20T09:07:51.932537",
+  "package_url": "https://pypi.org/project/gis-cli/"
+}

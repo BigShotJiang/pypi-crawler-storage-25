@@ -1,11 +1,11 @@
 {
   "name": "kuauth",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Unified Python client for Kyoto University SSO services (KULASIS / KULMS / MyKULINE / PandA).",
   "author": "Yosei Ushida",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kuauth-0.1.0.tar.gz",
-  "download_time": "2026-04-18T14:10:36.085989",
+  "download_filename": "kuauth-0.2.1.tar.gz",
+  "download_time": "2026-04-20T09:08:10.923711",
   "package_url": "https://pypi.org/project/kuauth/"
 }

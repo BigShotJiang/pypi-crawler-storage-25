@@ -1,11 +1,11 @@
 {
   "name": "tank-core",
-  "version": "0.14.2",
+  "version": "0.14.3",
   "summary": "Native Rust primitives for the Tank SDK — integrity verification, tarball extraction, version resolution, permission checks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tank_core-0.14.2.tar.gz",
-  "download_time": "2026-04-19T21:42:17.235861",
+  "download_filename": "tank_core-0.14.3.tar.gz",
+  "download_time": "2026-04-20T09:07:46.581157",
   "package_url": "https://pypi.org/project/tank-core/"
 }

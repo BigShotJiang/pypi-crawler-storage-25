@@ -1,0 +1,11 @@
+{
+  "name": "turbomemory",
+  "version": "0.5.1",
+  "summary": "Lightweight semantic storage engine with compressed embedding archives",
+  "author": "Kubenew",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "turbomemory-0.5.1.tar.gz",
+  "download_time": "2026-04-20T09:08:34.656859",
+  "package_url": "https://pypi.org/project/turbomemory/"
+}

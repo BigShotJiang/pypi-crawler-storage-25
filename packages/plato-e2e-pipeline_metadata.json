@@ -1,0 +1,11 @@
+{
+  "name": "plato-e2e-pipeline",
+  "version": "0.1.0",
+  "summary": "End-to-end tile pipeline — mint, validate, score, store, search, dedup",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plato_e2e_pipeline-0.1.0.tar.gz",
+  "download_time": "2026-04-20T09:08:04.219374",
+  "package_url": "https://pypi.org/project/plato-e2e-pipeline/"
+}

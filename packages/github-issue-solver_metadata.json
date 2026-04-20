@@ -1,0 +1,11 @@
+{
+  "name": "github-issue-solver",
+  "version": "4.0.0",
+  "summary": "Autonomous CLI agent that resolves GitHub issues end-to-end: RAG ingestion, analysis, patch generation, and PR creation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "github_issue_solver-4.0.0.tar.gz",
+  "download_time": "2026-04-20T09:08:31.051106",
+  "package_url": "https://pypi.org/project/github-issue-solver/"
+}

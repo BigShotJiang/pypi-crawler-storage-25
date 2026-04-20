@@ -1,0 +1,11 @@
+{
+  "name": "markcraft",
+  "version": "1.0.2",
+  "summary": "A fast, extensible Markdown parser in pure Python.",
+  "author": "niu2x",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "markcraft-1.0.2.tar.gz",
+  "download_time": "2026-04-20T09:08:07.287663",
+  "package_url": "https://pypi.org/project/markcraft/"
+}

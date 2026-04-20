@@ -1,11 +1,11 @@
 {
   "name": "claude-almanac",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Daily intelligence layer for Claude Code",
   "author": "Sam McTaggart",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_almanac-0.1.1.tar.gz",
-  "download_time": "2026-04-19T20:17:56.281862",
+  "download_filename": "claude_almanac-0.1.2.tar.gz",
+  "download_time": "2026-04-20T09:08:23.838603",
   "package_url": "https://pypi.org/project/claude-almanac/"
 }

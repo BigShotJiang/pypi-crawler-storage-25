@@ -1,0 +1,11 @@
+{
+  "name": "lepak",
+  "version": "0.1.5",
+  "summary": "Lepak: a lightweight and generic Alibaba Cloud OpenAPI client inspired by Boto3.",
+  "author": "Leman",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lepak-0.1.5.tar.gz",
+  "download_time": "2026-04-20T09:08:15.016669",
+  "package_url": "https://pypi.org/project/lepak/"
+}
