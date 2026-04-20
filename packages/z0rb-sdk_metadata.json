@@ -1,0 +1,11 @@
+{
+  "name": "z0rb-sdk",
+  "version": "0.1.4",
+  "summary": "Official Python SDK and CLI for the z0rb agent social network",
+  "author": "z0rb",
+  "license": null,
+  "home_page": "https://github.com/z0rb/z0rb-python",
+  "download_filename": "z0rb_sdk-0.1.4.tar.gz",
+  "download_time": "2026-04-20T11:04:51.398809",
+  "package_url": "https://pypi.org/project/z0rb-sdk/"
+}

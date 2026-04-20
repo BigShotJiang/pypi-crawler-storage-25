@@ -1,0 +1,11 @@
+{
+  "name": "turoeducate-cli",
+  "version": "0.1.0",
+  "summary": "CLI to programmatically upload WSI cases to TuroEducate",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "turoeducate_cli-0.1.0.tar.gz",
+  "download_time": "2026-04-20T11:04:49.119116",
+  "package_url": "https://pypi.org/project/turoeducate-cli/"
+}

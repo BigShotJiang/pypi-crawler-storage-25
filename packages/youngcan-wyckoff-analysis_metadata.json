@@ -1,11 +1,11 @@
 {
   "name": "youngcan-wyckoff-analysis",
-  "version": "0.1.15",
+  "version": "0.1.30",
   "summary": "Wyckoff method quantitative analysis system for A-shares",
   "author": "youngcan",
   "license": null,
   "home_page": null,
-  "download_filename": "youngcan_wyckoff_analysis-0.1.15.tar.gz",
-  "download_time": "2026-04-20T06:40:23.339899",
+  "download_filename": "youngcan_wyckoff_analysis-0.1.30.tar.gz",
+  "download_time": "2026-04-20T11:04:50.312484",
   "package_url": "https://pypi.org/project/youngcan-wyckoff-analysis/"
 }

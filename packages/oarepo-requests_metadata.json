@@ -1,11 +1,11 @@
 {
   "name": "oarepo-requests",
-  "version": "4.0.0",
+  "version": "5.1.0",
   "summary": "Extra requests for InvenioRDM ecosystem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oarepo_requests-4.0.0.tar.gz",
-  "download_time": "2026-04-02T14:44:47.049635",
+  "download_filename": "oarepo_requests-5.1.0.tar.gz",
+  "download_time": "2026-04-20T11:05:20.869541",
   "package_url": "https://pypi.org/project/oarepo-requests/"
 }

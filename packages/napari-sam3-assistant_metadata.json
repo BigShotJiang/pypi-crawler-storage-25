@@ -1,11 +1,11 @@
 {
   "name": "napari-sam3-assistant",
-  "version": "2.0.0",
-  "summary": "A napari plugin for interactive Segment Anything Model 3 (SAM3) segmentation using text, points, boxes, exemplar prompts, point-based refinement, and 3D/video-like propagation",
+  "version": "3.0.0",
+  "summary": "A napari plugin for interactive Segment Anything Model 3 (SAM3) segmentation using text, points, boxes, exemplar prompts, large-image ROI inference, mask operations, and 3D/video-like propagation",
   "author": "Wulin Teo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "napari_sam3_assistant-2.0.0.tar.gz",
-  "download_time": "2026-04-18T19:47:07.990408",
+  "download_filename": "napari_sam3_assistant-3.0.0.tar.gz",
+  "download_time": "2026-04-20T11:04:48.578119",
   "package_url": "https://pypi.org/project/napari-sam3-assistant/"
 }

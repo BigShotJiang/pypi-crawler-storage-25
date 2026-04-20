@@ -1,0 +1,11 @@
+{
+  "name": "omero-figure",
+  "version": "7.4.1",
+  "summary": "OMERO figure creation app",
+  "author": "The Open Microscopy Team",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ome/omero-figure",
+  "download_filename": "omero_figure-7.4.1.tar.gz",
+  "download_time": "2026-04-20T11:05:08.727537",
+  "package_url": "https://pypi.org/project/omero-figure/"
+}

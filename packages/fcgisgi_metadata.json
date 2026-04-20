@@ -1,11 +1,11 @@
 {
   "name": "fcgisgi",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "A FastCGI to ASGI/WSGI adapter using asyncio",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fcgisgi-0.2.0.tar.gz",
-  "download_time": "2026-04-13T14:52:22.979276",
+  "download_filename": "fcgisgi-0.2.2.tar.gz",
+  "download_time": "2026-04-20T11:05:26.286143",
   "package_url": "https://pypi.org/project/fcgisgi/"
 }

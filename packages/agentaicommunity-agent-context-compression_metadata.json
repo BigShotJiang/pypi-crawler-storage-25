@@ -1,0 +1,11 @@
+{
+  "name": "agentaicommunity-agent-context-compression",
+  "version": "0.1.0",
+  "summary": "Context compression middleware for AI agent frameworks — automatically summarizes conversation history when token limits are approached",
+  "author": "Agent AI Community",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentaicommunity_agent_context_compression-0.1.0.tar.gz",
+  "download_time": "2026-04-20T11:05:22.508181",
+  "package_url": "https://pypi.org/project/agentaicommunity-agent-context-compression/"
+}
