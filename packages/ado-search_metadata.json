@@ -1,11 +1,11 @@
 {
   "name": "ado-search",
-  "version": "0.10.0",
+  "version": "1.2.0",
   "summary": "Sync and search Azure DevOps work items and wiki pages for AI agents",
   "author": "Samuel Hurley",
   "license": null,
   "home_page": null,
-  "download_filename": "ado_search-0.10.0.tar.gz",
-  "download_time": "2026-04-15T20:53:22.381980",
+  "download_filename": "ado_search-1.2.0.tar.gz",
+  "download_time": "2026-04-20T21:13:45.672848",
   "package_url": "https://pypi.org/project/ado-search/"
 }

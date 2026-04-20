@@ -1,11 +1,11 @@
 {
   "name": "msgflux",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Messages and Dynamic AI Systems in Python powered by pretrained models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "msgflux-0.1.0.tar.gz",
-  "download_time": "2026-04-09T06:15:00.041565",
+  "download_filename": "msgflux-0.3.0.tar.gz",
+  "download_time": "2026-04-20T21:13:30.536494",
   "package_url": "https://pypi.org/project/msgflux/"
 }

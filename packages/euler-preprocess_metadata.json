@@ -1,0 +1,11 @@
+{
+  "name": "euler-preprocess",
+  "version": "1.8.0",
+  "summary": "Physics-based preprocessing (fog, etc.) for RGB+depth datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "euler_preprocess-1.8.0.tar.gz",
+  "download_time": "2026-04-20T21:13:42.104176",
+  "package_url": "https://pypi.org/project/euler-preprocess/"
+}

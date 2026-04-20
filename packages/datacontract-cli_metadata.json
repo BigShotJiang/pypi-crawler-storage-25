@@ -1,11 +1,11 @@
 {
   "name": "datacontract-cli",
-  "version": "0.11.8",
+  "version": "0.12.0",
   "summary": "The datacontract CLI is an open source command-line tool for working with Data Contracts. It uses data contract YAML files to lint the data contract, connect to data sources and execute schema and quality tests, detect breaking changes, and export to different formats. The tool is written in Python. It can be used as a standalone CLI tool, in a CI/CD pipeline, or directly as a Python library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datacontract_cli-0.11.8.tar.gz",
-  "download_time": "2026-04-10T11:17:46.169630",
+  "download_filename": "datacontract_cli-0.12.0.tar.gz",
+  "download_time": "2026-04-20T21:13:34.431496",
   "package_url": "https://pypi.org/project/datacontract-cli/"
 }

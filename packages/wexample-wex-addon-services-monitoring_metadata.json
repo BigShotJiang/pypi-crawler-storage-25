@@ -1,0 +1,11 @@
+{
+  "name": "wexample-wex-addon-services-monitoring",
+  "version": "7.0.3",
+  "summary": "Monitoring services (grafana, matomo...) for wex",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wexample_wex_addon_services_monitoring-7.0.3.tar.gz",
+  "download_time": "2026-04-20T21:14:07.055735",
+  "package_url": "https://pypi.org/project/wexample-wex-addon-services-monitoring/"
+}

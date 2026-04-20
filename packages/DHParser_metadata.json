@@ -1,0 +1,11 @@
+{
+  "name": "DHParser",
+  "version": "1.9.6",
+  "summary": "Parser Generator and DSL-construction-kit",
+  "author": "Eckhart Arnold",
+  "license": "Apache-2.0",
+  "home_page": "https://gitlab.lrz.de/badw-it/DHParser",
+  "download_filename": "dhparser-1.9.6.tar.gz",
+  "download_time": "2026-04-20T21:13:57.796014",
+  "package_url": "https://pypi.org/project/DHParser/"
+}

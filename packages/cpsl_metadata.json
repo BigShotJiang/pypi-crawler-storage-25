@@ -1,11 +1,11 @@
 {
   "name": "cpsl",
-  "version": "0.3.9",
+  "version": "0.3.16",
   "summary": "Capsule SDK and CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cpsl-0.3.9.tar.gz",
-  "download_time": "2026-04-20T18:03:51.436698",
+  "download_filename": "cpsl-0.3.16.tar.gz",
+  "download_time": "2026-04-20T21:13:37.498136",
   "package_url": "https://pypi.org/project/cpsl/"
 }

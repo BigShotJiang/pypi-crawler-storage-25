@@ -1,0 +1,11 @@
+{
+  "name": "pitedgar",
+  "version": "0.3.0",
+  "summary": "Point-in-time SEC EDGAR financial data pipeline",
+  "author": "Ariel Nacamulli",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pitedgar-0.3.0.tar.gz",
+  "download_time": "2026-04-20T21:14:07.564969",
+  "package_url": "https://pypi.org/project/pitedgar/"
+}

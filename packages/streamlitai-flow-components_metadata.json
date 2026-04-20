@@ -1,11 +1,11 @@
 {
   "name": "streamlitai-flow-components",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A collection of Streamlit components for building AI workflows.",
   "author": "Anne Aguirre",
   "license": null,
   "home_page": null,
-  "download_filename": "streamlitai_flow_components-0.1.4.tar.gz",
-  "download_time": "2026-04-13T22:07:57.419431",
+  "download_filename": "streamlitai_flow_components-0.1.5.tar.gz",
+  "download_time": "2026-04-20T21:14:10.123472",
   "package_url": "https://pypi.org/project/streamlitai-flow-components/"
 }

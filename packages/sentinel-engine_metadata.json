@@ -1,11 +1,11 @@
 {
   "name": "sentinel-engine",
-  "version": "2.3.0",
-  "summary": "Production-ready smart contract security auditing platform",
+  "version": "3.1.3",
+  "summary": "Smart contract security auditing platform with Pro features",
   "author": "Sentinel Engine Team",
   "license": null,
   "home_page": null,
-  "download_filename": "sentinel_engine-2.3.0.tar.gz",
-  "download_time": "2026-04-20T01:16:26.688960",
+  "download_filename": "sentinel_engine-3.1.3.tar.gz",
+  "download_time": "2026-04-20T21:13:33.915525",
   "package_url": "https://pypi.org/project/sentinel-engine/"
 }
