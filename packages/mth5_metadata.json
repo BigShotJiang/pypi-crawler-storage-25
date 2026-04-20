@@ -1,0 +1,11 @@
+{
+  "name": "mth5",
+  "version": "0.6.6",
+  "summary": "Archivable and exchangeable format for magnetotelluric data",
+  "author": "Karl Kappler, MTH5 Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mth5-0.6.6-py3-none-any.whl",
+  "download_time": "2026-04-20T04:36:26.301130",
+  "package_url": "https://pypi.org/project/mth5/"
+}

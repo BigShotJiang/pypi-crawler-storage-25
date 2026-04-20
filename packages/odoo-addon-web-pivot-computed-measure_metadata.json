@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-pivot-computed-measure",
+  "version": "18.0.1.0.5.3",
+  "summary": "Web Pivot Computed Measure",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/web",
+  "download_filename": "odoo_addon_web_pivot_computed_measure-18.0.1.0.5.3-py3-none-any.whl",
+  "download_time": "2026-04-20T04:36:23.159159",
+  "package_url": "https://pypi.org/project/odoo-addon-web-pivot-computed-measure/"
+}

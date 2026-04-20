@@ -1,11 +1,11 @@
 {
   "name": "sprintest",
-  "version": "0.1.2",
+  "version": "1.0.2",
   "summary": "A C/S architecture test runner for heavy AI projects.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sprintest-0.1.2.tar.gz",
-  "download_time": "2026-04-19T11:12:50.883453",
+  "download_filename": "sprintest-1.0.2.tar.gz",
+  "download_time": "2026-04-20T04:36:54.518720",
   "package_url": "https://pypi.org/project/sprintest/"
 }

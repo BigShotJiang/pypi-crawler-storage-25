@@ -1,0 +1,11 @@
+{
+  "name": "sparkid",
+  "version": "2.1.1",
+  "summary": "Fast, time-sortable, 21-char Base58 unique ID generator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sparkid-2.1.1.tar.gz",
+  "download_time": "2026-04-20T04:36:52.467093",
+  "package_url": "https://pypi.org/project/sparkid/"
+}

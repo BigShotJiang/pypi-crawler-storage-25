@@ -1,0 +1,11 @@
+{
+  "name": "runch",
+  "version": "1.11.0",
+  "summary": "Runch: refined munch. Attribute-style access for python dicts, with generic typing support. Help handle your configs, data, and more.",
+  "author": "XieJiSS",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/XieJiSS/runch.git",
+  "download_filename": "runch-1.11.0.tar.gz",
+  "download_time": "2026-04-20T04:36:47.056178",
+  "package_url": "https://pypi.org/project/runch/"
+}

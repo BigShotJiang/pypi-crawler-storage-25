@@ -1,0 +1,11 @@
+{
+  "name": "overleaf-mcp-plus",
+  "version": "0.1.1",
+  "summary": "The most comprehensive MCP server for Overleaf — full CRUD, compile, PDF download, git history, diff, and more. (The `overleaf-mcp` name on PyPI is taken by a smaller read-only project, hence the `-plus` suffix; the CLI command is still `overleaf-mcp`.)",
+  "author": "rangehow",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "overleaf_mcp_plus-0.1.1.tar.gz",
+  "download_time": "2026-04-20T04:36:31.500717",
+  "package_url": "https://pypi.org/project/overleaf-mcp-plus/"
+}

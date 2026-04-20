@@ -1,0 +1,11 @@
+{
+  "name": "lynxes",
+  "version": "1.0.0",
+  "summary": "A graph analytics engine built directly on Apache Arrow",
+  "author": "Lynxes",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lynxes-1.0.0.tar.gz",
+  "download_time": "2026-04-20T04:37:01.740397",
+  "package_url": "https://pypi.org/project/lynxes/"
+}

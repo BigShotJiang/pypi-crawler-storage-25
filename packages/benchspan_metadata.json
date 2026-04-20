@@ -1,11 +1,11 @@
 {
   "name": "benchspan",
-  "version": "0.1.0",
-  "summary": "Run agentic benchmarks end-to-end",
+  "version": "0.2.0",
+  "summary": "Prompt injection firewall for LLM agents. Scan tool outputs and user messages before they reach your model.",
   "author": null,
-  "license": "Proprietary",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "benchspan-0.1.0.tar.gz",
-  "download_time": "2026-03-31T05:25:30.139601",
+  "download_filename": "benchspan-0.2.0.tar.gz",
+  "download_time": "2026-04-20T04:37:03.270152",
   "package_url": "https://pypi.org/project/benchspan/"
 }

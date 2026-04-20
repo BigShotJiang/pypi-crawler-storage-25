@@ -1,11 +1,11 @@
 {
   "name": "clodius",
-  "version": "0.22.1",
+  "version": "0.22.2",
   "summary": "Tile generation for big data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clodius-0.22.1-py3-none-any.whl",
-  "download_time": "2026-04-19T16:30:30.284629",
+  "download_filename": "clodius-0.22.2-py3-none-any.whl",
+  "download_time": "2026-04-20T04:36:50.933780",
   "package_url": "https://pypi.org/project/clodius/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "zush",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "Zush is a CLI framework for building nested CLI applications.",
   "author": "ZackaryW",
   "license": null,
   "home_page": null,
-  "download_filename": "zush-0.4.1.tar.gz",
-  "download_time": "2026-04-16T19:55:19.512145",
+  "download_filename": "zush-0.5.0.tar.gz",
+  "download_time": "2026-04-20T04:36:43.482580",
   "package_url": "https://pypi.org/project/zush/"
 }

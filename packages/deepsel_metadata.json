@@ -1,11 +1,11 @@
 {
   "name": "deepsel",
-  "version": "0.10.11",
+  "version": "0.12.1",
   "summary": "Database utilities, ORM framework, and authentication for SQLAlchemy, FastAPI Python applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "deepsel-0.10.11.tar.gz",
-  "download_time": "2026-04-01T06:56:36.612818",
+  "download_filename": "deepsel-0.12.1.tar.gz",
+  "download_time": "2026-04-20T04:36:43.992700",
   "package_url": "https://pypi.org/project/deepsel/"
 }

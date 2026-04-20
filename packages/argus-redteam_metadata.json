@@ -1,11 +1,11 @@
 {
   "name": "argus-redteam",
-  "version": "0.3.0",
-  "summary": "ARGUS — Autonomous AI Red Team Platform. 13 specialized agents attack AI systems, MCP servers, and multi-agent workflows in parallel.",
-  "author": "Odingard Security",
-  "license": "BSL-1.1",
+  "version": "0.3.1",
+  "summary": "Autonomous AI Red Team Platform - Core Engine",
+  "author": null,
+  "license": null,
   "home_page": null,
-  "download_filename": "argus_redteam-0.3.0.tar.gz",
-  "download_time": "2026-04-19T10:30:35.525479",
+  "download_filename": "argus_redteam-0.3.1.tar.gz",
+  "download_time": "2026-04-20T04:37:02.761587",
   "package_url": "https://pypi.org/project/argus-redteam/"
 }

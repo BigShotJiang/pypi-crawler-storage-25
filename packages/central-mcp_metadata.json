@@ -1,11 +1,11 @@
 {
   "name": "central-mcp",
-  "version": "0.4.1",
+  "version": "0.5.2",
   "summary": "Orchestrator-agnostic MCP hub for managing and dispatching to multiple coding agents.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "central_mcp-0.4.1.tar.gz",
-  "download_time": "2026-04-17T20:32:08.051471",
+  "download_filename": "central_mcp-0.5.2.tar.gz",
+  "download_time": "2026-04-20T04:36:21.495047",
   "package_url": "https://pypi.org/project/central-mcp/"
 }
