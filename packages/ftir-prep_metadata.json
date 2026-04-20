@@ -1,11 +1,11 @@
 {
   "name": "ftir-prep",
-  "version": "0.2.2",
+  "version": "0.3.1",
   "summary": "A framework for designing and evaluating optimal preprocessing pipelines for FTIR spectral data used in classification tasks. It provides modular implementations of common preprocessing techniques and allows automated exploration of preprocessing combinations to enhance model performance.",
   "author": "Lucas Mendonça",
   "license": null,
   "home_page": "https://github.com/username/ftir-preprocessing-framework",
-  "download_filename": "ftir_prep-0.2.2.tar.gz",
-  "download_time": "2026-04-19T15:04:18.155696",
+  "download_filename": "ftir_prep-0.3.1.tar.gz",
+  "download_time": "2026-04-20T18:03:36.628334",
   "package_url": "https://pypi.org/project/ftir-prep/"
 }

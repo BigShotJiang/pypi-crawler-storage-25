@@ -1,0 +1,11 @@
+{
+  "name": "z3rno-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server exposing Z3rno memory operations as tools for Claude Desktop, Cursor, and other MCP clients.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "z3rno_mcp-0.1.0.tar.gz",
+  "download_time": "2026-04-20T18:03:54.268538",
+  "package_url": "https://pypi.org/project/z3rno-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "seqchromloader",
+  "version": "0.12.4",
+  "summary": "Utilities for training DL models using DNA sequence and chromatin inputs",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/yztxwd/seqchromloader",
+  "download_filename": "seqchromloader-0.12.4.tar.gz",
+  "download_time": "2026-04-20T18:03:51.985614",
+  "package_url": "https://pypi.org/project/seqchromloader/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "logiclayer-merge",
+  "version": "0.1.6",
+  "summary": "Allows to merge the results of other LogicLayer modules in a single response.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logiclayer_merge-0.1.6.tar.gz",
+  "download_time": "2026-04-20T18:03:33.243184",
+  "package_url": "https://pypi.org/project/logiclayer-merge/"
+}

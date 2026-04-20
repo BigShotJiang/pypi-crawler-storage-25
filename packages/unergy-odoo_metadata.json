@@ -1,11 +1,11 @@
 {
   "name": "unergy-odoo",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Lightweight Odoo XML-RPC client with buit-in payroll novedades support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unergy_odoo-0.6.0.tar.gz",
-  "download_time": "2026-04-13T16:16:49.233613",
+  "download_filename": "unergy_odoo-0.7.0.tar.gz",
+  "download_time": "2026-04-20T18:04:12.402265",
   "package_url": "https://pypi.org/project/unergy-odoo/"
 }

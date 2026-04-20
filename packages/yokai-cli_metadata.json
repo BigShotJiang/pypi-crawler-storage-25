@@ -1,11 +1,11 @@
 {
   "name": "yokai-cli",
-  "version": "0.2.0a4",
+  "version": "0.2.0a6",
   "summary": "From issue tracker stories to pull requests via coding agents. A spirit that works while you sleep.",
   "author": "yokai contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yokai_cli-0.2.0a4.tar.gz",
-  "download_time": "2026-04-17T10:20:00.413618",
+  "download_filename": "yokai_cli-0.2.0a6.tar.gz",
+  "download_time": "2026-04-20T18:03:44.624251",
   "package_url": "https://pypi.org/project/yokai-cli/"
 }

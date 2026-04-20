@@ -1,0 +1,11 @@
+{
+  "name": "EGLKeepalive",
+  "version": "1.0.0",
+  "summary": "Keep a GPU from sleeping by nudging an EGL context",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eglkeepalive-1.0.0.tar.gz",
+  "download_time": "2026-04-20T18:03:29.298199",
+  "package_url": "https://pypi.org/project/EGLKeepalive/"
+}

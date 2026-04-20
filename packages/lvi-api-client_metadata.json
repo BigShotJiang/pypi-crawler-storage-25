@@ -1,11 +1,11 @@
 {
   "name": "lvi-api-client",
-  "version": "0.1.6",
+  "version": "0.1.11",
   "summary": "LogicVein API Client Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lvi_api_client-0.1.6.tar.gz",
-  "download_time": "2026-04-17T17:16:14.106579",
+  "download_filename": "lvi_api_client-0.1.11.tar.gz",
+  "download_time": "2026-04-20T18:03:42.944403",
   "package_url": "https://pypi.org/project/lvi-api-client/"
 }

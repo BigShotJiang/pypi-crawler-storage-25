@@ -1,11 +1,11 @@
 {
   "name": "aweb",
-  "version": "1.8.3",
+  "version": "1.12.0",
   "summary": "Agent Web: self-hostable coordination server for AI agents (identity, presence, mail, chat, tasks, locks)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aweb-1.8.3.tar.gz",
-  "download_time": "2026-04-15T19:56:27.654256",
+  "download_filename": "aweb-1.12.0.tar.gz",
+  "download_time": "2026-04-20T18:04:09.035348",
   "package_url": "https://pypi.org/project/aweb/"
 }

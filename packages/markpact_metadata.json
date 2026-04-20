@@ -1,0 +1,11 @@
+{
+  "name": "markpact",
+  "version": "0.1.38",
+  "summary": "Executable Markdown Runtime – run and manage entire projects directly from a single README.md file using specialized markpact code blocks and isolated Docker sandboxes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "markpact-0.1.38.tar.gz",
+  "download_time": "2026-04-20T18:04:01.185439",
+  "package_url": "https://pypi.org/project/markpact/"
+}
