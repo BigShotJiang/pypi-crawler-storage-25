@@ -1,0 +1,11 @@
+{
+  "name": "ensemble-kalman-smoother",
+  "version": "4.6.0",
+  "summary": "Ensembling and kalman smoothing for pose estimation",
+  "author": "Cole Hurwitz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ensemble_kalman_smoother-4.6.0.tar.gz",
+  "download_time": "2026-04-20T20:14:50.993030",
+  "package_url": "https://pypi.org/project/ensemble-kalman-smoother/"
+}

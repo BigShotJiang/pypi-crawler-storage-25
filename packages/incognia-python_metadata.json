@@ -1,0 +1,11 @@
+{
+  "name": "incognia-python",
+  "version": "3.5.1",
+  "summary": "Python lightweight client library for Incognia APIs",
+  "author": "Incognia",
+  "license": "MIT",
+  "home_page": "https://github.com/inloco/incognia-python",
+  "download_filename": "incognia_python-3.5.1.tar.gz",
+  "download_time": "2026-04-20T20:14:10.150095",
+  "package_url": "https://pypi.org/project/incognia-python/"
+}

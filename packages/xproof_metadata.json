@@ -1,11 +1,11 @@
 {
   "name": "xproof",
-  "version": "0.2.3",
+  "version": "0.2.7",
   "summary": "Python SDK for xProof — blockchain-anchored proof-of-existence for AI agents on MultiversX",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xproof-0.2.3.tar.gz",
-  "download_time": "2026-04-04T21:02:00.595888",
+  "download_filename": "xproof-0.2.7.tar.gz",
+  "download_time": "2026-04-20T20:14:28.224657",
   "package_url": "https://pypi.org/project/xproof/"
 }

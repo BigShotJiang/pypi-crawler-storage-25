@@ -1,11 +1,11 @@
 {
   "name": "sysgraph",
-  "version": "0.0.15",
+  "version": "0.0.19",
   "summary": "Visualizer for processes and their interconnections",
-  "author": "Eugene Gubenkov",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/gubenkoved/sysgraph",
-  "download_filename": "sysgraph-0.0.15.tar.gz",
-  "download_time": "2026-04-14T20:10:00.610777",
+  "home_page": null,
+  "download_filename": "sysgraph-0.0.19.tar.gz",
+  "download_time": "2026-04-20T20:14:19.487888",
   "package_url": "https://pypi.org/project/sysgraph/"
 }

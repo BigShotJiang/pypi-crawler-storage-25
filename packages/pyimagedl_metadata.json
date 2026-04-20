@@ -1,11 +1,11 @@
 {
   "name": "pyimagedl",
-  "version": "0.4.3",
+  "version": "0.4.6",
   "summary": "Imagedl: Search and download images from specific websites",
   "author": "Zhenchao Jin",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/CharlesPikachu/imagedl",
-  "download_filename": "pyimagedl-0.4.3.tar.gz",
-  "download_time": "2026-04-04T19:56:25.344919",
+  "download_filename": "pyimagedl-0.4.6.tar.gz",
+  "download_time": "2026-04-20T20:14:37.518377",
   "package_url": "https://pypi.org/project/pyimagedl/"
 }

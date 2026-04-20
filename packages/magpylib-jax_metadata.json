@@ -1,0 +1,11 @@
+{
+  "name": "magpylib-jax",
+  "version": "1.0.1",
+  "summary": "Differentiable JAX-native magnetic field modeling with Magpylib-compatible APIs",
+  "author": "uwplasma",
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "magpylib_jax-1.0.1.tar.gz",
+  "download_time": "2026-04-20T20:14:26.685610",
+  "package_url": "https://pypi.org/project/magpylib-jax/"
+}

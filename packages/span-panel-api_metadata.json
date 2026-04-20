@@ -1,11 +1,11 @@
 {
   "name": "span-panel-api",
-  "version": "2.6.1",
+  "version": "2.6.3",
   "summary": "A client library for SPAN Panel API",
   "author": "SpanPanel",
   "license": null,
   "home_page": null,
-  "download_filename": "span_panel_api-2.6.1.tar.gz",
-  "download_time": "2026-04-16T22:30:38.026323",
+  "download_filename": "span_panel_api-2.6.3.tar.gz",
+  "download_time": "2026-04-20T20:14:43.742632",
   "package_url": "https://pypi.org/project/span-panel-api/"
 }

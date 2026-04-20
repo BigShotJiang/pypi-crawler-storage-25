@@ -1,11 +1,11 @@
 {
   "name": "condash",
-  "version": "0.14.1",
+  "version": "0.16.0",
   "summary": "Standalone desktop dashboard for markdown-based conception items (projects, incidents, documents) under a unified projects/YYYY-MM/ tree.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "condash-0.14.1.tar.gz",
-  "download_time": "2026-04-19T07:33:22.086661",
+  "download_filename": "condash-0.16.0.tar.gz",
+  "download_time": "2026-04-20T20:14:51.533394",
   "package_url": "https://pypi.org/project/condash/"
 }

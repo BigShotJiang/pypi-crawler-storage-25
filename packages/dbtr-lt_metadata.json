@@ -1,0 +1,11 @@
+{
+  "name": "dbtr-lt",
+  "version": "0.3.5",
+  "summary": "An extension for the dbt CLI that allows deploying and running jobs remotely",
+  "author": "Alexis VIALARET",
+  "license": "Apache2.0",
+  "home_page": null,
+  "download_filename": "dbtr_lt-0.3.5.tar.gz",
+  "download_time": "2026-04-20T20:14:46.359035",
+  "package_url": "https://pypi.org/project/dbtr-lt/"
+}
