@@ -1,0 +1,11 @@
+{
+  "name": "sipg",
+  "version": "2.1.4",
+  "summary": "SIPG (Shodan IP Grabber) — search and collect IPs, domains, and subdomains via Shodan (API and free modes).",
+  "author": "Mahbob Alam",
+  "license": null,
+  "home_page": "https://github.com/emptymahbob/sipg",
+  "download_filename": "sipg-2.1.4.tar.gz",
+  "download_time": "2026-04-20T14:18:28.829101",
+  "package_url": "https://pypi.org/project/sipg/"
+}

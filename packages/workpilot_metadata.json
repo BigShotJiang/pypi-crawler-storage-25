@@ -1,11 +1,11 @@
 {
   "name": "workpilot",
-  "version": "0.16.7",
+  "version": "0.16.8",
   "summary": "Enterprise AI assistant — internal preview only",
   "author": "WorkPilot Team",
   "license": null,
   "home_page": null,
-  "download_filename": "workpilot-0.16.7.tar.gz",
-  "download_time": "2026-04-19T15:51:12.510472",
+  "download_filename": "workpilot-0.16.8.tar.gz",
+  "download_time": "2026-04-20T14:19:03.540139",
   "package_url": "https://pypi.org/project/workpilot/"
 }

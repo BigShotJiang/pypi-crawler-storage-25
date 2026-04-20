@@ -1,0 +1,11 @@
+{
+  "name": "redeploy",
+  "version": "0.1.6",
+  "summary": "Infrastructure migration toolkit: detect → plan → apply",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "redeploy-0.1.6.tar.gz",
+  "download_time": "2026-04-20T14:18:20.988858",
+  "package_url": "https://pypi.org/project/redeploy/"
+}

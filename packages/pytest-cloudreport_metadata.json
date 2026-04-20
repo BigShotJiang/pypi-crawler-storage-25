@@ -1,0 +1,11 @@
+{
+  "name": "pytest-cloudreport",
+  "version": "0.1.1",
+  "summary": "pytest plugin for test analytics and flaky-test detection. Free local HTML reports out of the box, or upload to cloudreport.dev for cloud history and team dashboards.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_cloudreport-0.1.1.tar.gz",
+  "download_time": "2026-04-20T14:19:01.557170",
+  "package_url": "https://pypi.org/project/pytest-cloudreport/"
+}

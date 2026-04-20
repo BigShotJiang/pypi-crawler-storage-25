@@ -1,0 +1,11 @@
+{
+  "name": "openwakeword-ubuntu-deps",
+  "version": "0.0.3",
+  "summary": "Fork of OpenWakeWord: An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity",
+  "author": "g-armand",
+  "license": null,
+  "home_page": "https://github.com/g-armand/openWakeWord_ubuntu_deps",
+  "download_filename": "openwakeword_ubuntu_deps-0.0.3.tar.gz",
+  "download_time": "2026-04-20T14:18:19.700465",
+  "package_url": "https://pypi.org/project/openwakeword-ubuntu-deps/"
+}

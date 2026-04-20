@@ -1,0 +1,11 @@
+{
+  "name": "monkeyble",
+  "version": "1.6.0",
+  "summary": "End-to-end testing framework for Ansible",
+  "author": "Nicolas Marcq",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://hewlettpackard.github.io/monkeyble/",
+  "download_filename": "monkeyble-1.6.0.tar.gz",
+  "download_time": "2026-04-20T14:18:34.413993",
+  "package_url": "https://pypi.org/project/monkeyble/"
+}

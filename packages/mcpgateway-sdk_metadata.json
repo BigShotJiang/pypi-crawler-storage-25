@@ -1,11 +1,11 @@
 {
   "name": "mcpgateway-sdk",
-  "version": "0.25.1",
+  "version": "0.27.0",
   "summary": "Python SDK for MCP Gateway — manage MCP servers, tools, skills, and sandboxes programmatically",
   "author": "Kinetic Solutions Group",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcpgateway_sdk-0.25.1.tar.gz",
-  "download_time": "2026-04-14T17:58:59.538306",
+  "download_filename": "mcpgateway_sdk-0.27.0.tar.gz",
+  "download_time": "2026-04-20T14:18:49.906242",
   "package_url": "https://pypi.org/project/mcpgateway-sdk/"
 }

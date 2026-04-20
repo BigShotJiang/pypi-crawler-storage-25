@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-base-ubl",
+  "version": "19.0.1.0.0.2",
+  "summary": "Base module for Universal Business Language (UBL)",
+  "author": "Akretion,Onestein,Camptocamp,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/edi",
+  "download_filename": "odoo_addon_base_ubl-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-04-20T14:18:22.990477",
+  "package_url": "https://pypi.org/project/odoo-addon-base-ubl/"
+}

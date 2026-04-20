@@ -1,11 +1,11 @@
 {
   "name": "persona-vectors",
-  "version": "0.1.2",
+  "version": "0.3.0",
   "summary": "Library for extracting and analyzing persona vectors",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "persona_vectors-0.1.2.tar.gz",
-  "download_time": "2026-04-09T10:40:17.114078",
+  "download_filename": "persona_vectors-0.3.0.tar.gz",
+  "download_time": "2026-04-20T14:18:24.210215",
   "package_url": "https://pypi.org/project/persona-vectors/"
 }

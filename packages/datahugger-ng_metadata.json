@@ -1,0 +1,11 @@
+{
+  "name": "datahugger-ng",
+  "version": "0.5.6",
+  "summary": "python binding of datahugger -- rust tool for fetching data and metadata from DOI or URL.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/EOSC-Data-Commons/datahugger-ng",
+  "download_filename": "datahugger_ng-0.5.6-cp310-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-20T14:18:54.041255",
+  "package_url": "https://pypi.org/project/datahugger-ng/"
+}

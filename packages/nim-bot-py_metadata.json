@@ -1,0 +1,11 @@
+{
+  "name": "nim-bot-py",
+  "version": "0.1.0b2",
+  "summary": "Thin Python wrapper around @yxim/nim-bot via a local Node bridge",
+  "author": "xumengxiang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nim_bot_py-0.1.0b2.tar.gz",
+  "download_time": "2026-04-20T14:19:15.450560",
+  "package_url": "https://pypi.org/project/nim-bot-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lcdp-deployment-manager",
+  "version": "1.3.3",
+  "summary": "High level utilities to get/set AWS infrastructure items on prod",
+  "author": "Géry THRASIBULE",
+  "license": "MIT",
+  "home_page": "https://github.com/LeComptoirDesPharmacies/lcdp-deployment-manager",
+  "download_filename": "lcdp_deployment_manager-1.3.3.tar.gz",
+  "download_time": "2026-04-20T14:18:30.069120",
+  "package_url": "https://pypi.org/project/lcdp-deployment-manager/"
+}

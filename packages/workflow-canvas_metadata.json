@@ -1,11 +1,11 @@
 {
   "name": "workflow-canvas",
-  "version": "0.2.6",
+  "version": "0.2.10",
   "summary": "Process Manager MVP — DB + pm CLI + Snakemake execution",
   "author": "Dante",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "workflow_canvas-0.2.6.tar.gz",
-  "download_time": "2026-04-19T23:44:53.737759",
+  "download_filename": "workflow_canvas-0.2.10.tar.gz",
+  "download_time": "2026-04-20T14:18:22.403682",
   "package_url": "https://pypi.org/project/workflow-canvas/"
 }
