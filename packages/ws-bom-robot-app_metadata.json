@@ -1,0 +1,11 @@
+{
+  "name": "ws-bom-robot-app",
+  "version": "0.0.123",
+  "summary": "A FastAPI application serving ws bom/robot/llm platform ai.",
+  "author": "Websolute Spa",
+  "license": "MIT",
+  "home_page": "https://github.com/websolutespa/bom",
+  "download_filename": "ws_bom_robot_app-0.0.123.tar.gz",
+  "download_time": "2026-04-20T06:40:45.203641",
+  "package_url": "https://pypi.org/project/ws-bom-robot-app/"
+}

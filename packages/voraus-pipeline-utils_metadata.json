@@ -1,11 +1,11 @@
 {
   "name": "voraus-pipeline-utils",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "A library containing pipeline utils for both, local usage and usage in Jenkins.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "voraus_pipeline_utils-0.7.0.tar.gz",
-  "download_time": "2026-04-17T12:12:21.676685",
+  "download_filename": "voraus_pipeline_utils-0.7.1.tar.gz",
+  "download_time": "2026-04-20T06:40:36.994960",
   "package_url": "https://pypi.org/project/voraus-pipeline-utils/"
 }

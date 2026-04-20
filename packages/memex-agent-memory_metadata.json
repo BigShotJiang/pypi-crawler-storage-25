@@ -1,11 +1,11 @@
 {
   "name": "memex-agent-memory",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "summary": "Agent 记忆系统 — 轻量级本地向量数据库 + CLI + Agent Skill",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memex_agent_memory-0.1.7.tar.gz",
-  "download_time": "2026-04-14T16:11:43.539269",
+  "download_filename": "memex_agent_memory-0.2.0.tar.gz",
+  "download_time": "2026-04-20T06:41:02.610476",
   "package_url": "https://pypi.org/project/memex-agent-memory/"
 }

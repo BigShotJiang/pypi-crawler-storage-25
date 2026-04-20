@@ -1,11 +1,11 @@
 {
   "name": "is-crawler",
-  "version": "1.4.3",
-  "summary": "Fast, regex-free crawler detection from user agents. Zero deps, ReDoS-safe heuristics, ~40× faster than alternatives.",
+  "version": "1.4.8",
+  "summary": "Fast, regex-free crawler detection from user agents. Zero deps, ReDoS-safe heuristics, ~100× faster than alternatives.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "is_crawler-1.4.3.tar.gz",
-  "download_time": "2026-04-19T18:59:09.504163",
+  "download_filename": "is_crawler-1.4.8.tar.gz",
+  "download_time": "2026-04-20T06:40:45.712882",
   "package_url": "https://pypi.org/project/is-crawler/"
 }

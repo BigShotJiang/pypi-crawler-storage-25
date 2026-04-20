@@ -1,0 +1,11 @@
+{
+  "name": "agency-cli",
+  "version": "0.1.2",
+  "summary": "A modular AI coding agent framework with multi-LLM support, MCP plugins, and team collaboration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agency_cli-0.1.2.tar.gz",
+  "download_time": "2026-04-20T06:40:33.397956",
+  "package_url": "https://pypi.org/project/agency-cli/"
+}

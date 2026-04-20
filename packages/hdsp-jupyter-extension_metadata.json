@@ -1,11 +1,11 @@
 {
   "name": "hdsp-jupyter-extension",
-  "version": "2.1.16",
+  "version": "2.1.21",
   "summary": "HDSP Agent JupyterLab Extension - Thin client for Agent Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hdsp_jupyter_extension-2.1.16-py3-none-any.whl",
-  "download_time": "2026-04-13T08:28:52.603250",
+  "download_filename": "hdsp_jupyter_extension-2.1.21-py3-none-any.whl",
+  "download_time": "2026-04-20T06:40:26.260514",
   "package_url": "https://pypi.org/project/hdsp-jupyter-extension/"
 }

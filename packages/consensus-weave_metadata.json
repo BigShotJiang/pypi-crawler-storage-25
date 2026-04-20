@@ -1,0 +1,11 @@
+{
+  "name": "consensus-weave",
+  "version": "0.1.0",
+  "summary": "Multi-agent consensus protocol — weave votes into fleet decisions with quorum and veto",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "consensus_weave-0.1.0.tar.gz",
+  "download_time": "2026-04-20T06:40:51.338033",
+  "package_url": "https://pypi.org/project/consensus-weave/"
+}
