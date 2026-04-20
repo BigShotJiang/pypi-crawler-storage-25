@@ -1,0 +1,11 @@
+{
+  "name": "ades-tool",
+  "version": "0.2.3",
+  "summary": "Local-first semantic enrichment service and Python library.",
+  "author": "Bekir Dag",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ades_tool-0.2.3.tar.gz",
+  "download_time": "2026-04-20T16:53:38.342235",
+  "package_url": "https://pypi.org/project/ades-tool/"
+}

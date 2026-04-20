@@ -1,0 +1,11 @@
+{
+  "name": "tetrad-port",
+  "version": "0.3.1",
+  "summary": "C++ port of CMU's Tetrad causal discovery library with Python bindings",
+  "author": "Kelvin Lim",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tetrad_port-0.3.1.tar.gz",
+  "download_time": "2026-04-20T16:53:22.129285",
+  "package_url": "https://pypi.org/project/tetrad-port/"
+}

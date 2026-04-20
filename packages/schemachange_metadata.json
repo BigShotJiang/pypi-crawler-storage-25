@@ -1,0 +1,11 @@
+{
+  "name": "schemachange",
+  "version": "4.3.3",
+  "summary": "A Database Change Management tool for Snowflake",
+  "author": "jamesweakley/jeremiahhansen",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "schemachange-4.3.3.tar.gz",
+  "download_time": "2026-04-20T16:54:11.029815",
+  "package_url": "https://pypi.org/project/schemachange/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vllm-tpu",
+  "version": "0.18.0",
+  "summary": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+  "author": "vLLM Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vllm_tpu-0.18.0-py3-none-any.whl",
+  "download_time": "2026-04-20T16:53:36.075849",
+  "package_url": "https://pypi.org/project/vllm-tpu/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-cost-diff",
+  "version": "0.1.3",
+  "summary": "Compare OpenClaw token usage and API cost across time windows, agents, models, and channels.",
+  "author": "Paul Frederiksen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openclaw_cost_diff-0.1.3.tar.gz",
+  "download_time": "2026-04-20T16:53:23.261104",
+  "package_url": "https://pypi.org/project/openclaw-cost-diff/"
+}

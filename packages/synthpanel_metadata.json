@@ -1,11 +1,11 @@
 {
   "name": "synthpanel",
-  "version": "0.9.0",
-  "summary": "Run synthetic focus groups and user research panels using AI personas. CLI tool, Python library, any LLM.",
+  "version": "0.9.4",
+  "summary": "Run synthetic focus groups using AI personas, with an MCP server for Claude Code / Cursor / Windsurf. CLI tool, Python library, any LLM.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synthpanel-0.9.0.tar.gz",
-  "download_time": "2026-04-15T05:57:18.732198",
+  "download_filename": "synthpanel-0.9.4.tar.gz",
+  "download_time": "2026-04-20T16:54:01.361073",
   "package_url": "https://pypi.org/project/synthpanel/"
 }

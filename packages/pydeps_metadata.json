@@ -1,0 +1,11 @@
+{
+  "name": "pydeps",
+  "version": "3.0.3",
+  "summary": "Display module dependencies",
+  "author": "bjorn",
+  "license": "BSD",
+  "home_page": "https://github.com/thebjorn/pydeps",
+  "download_filename": "pydeps-3.0.3.tar.gz",
+  "download_time": "2026-04-20T16:53:43.437497",
+  "package_url": "https://pypi.org/project/pydeps/"
+}
