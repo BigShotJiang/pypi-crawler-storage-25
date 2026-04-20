@@ -1,0 +1,11 @@
+{
+  "name": "koios-model-utils",
+  "version": "1.0.0",
+  "summary": "Utilities for exporting and annotating ONNX models for the Koios IoT platform",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "koios_model_utils-1.0.0.tar.gz",
+  "download_time": "2026-04-20T22:09:52.850741",
+  "package_url": "https://pypi.org/project/koios-model-utils/"
+}

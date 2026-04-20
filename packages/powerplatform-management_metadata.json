@@ -1,11 +1,11 @@
 {
   "name": "powerplatform-management",
-  "version": "2.0.3390.235",
+  "version": "2.0.3396.243",
   "summary": "Microsoft Power Platform Management SDK",
   "author": "Microsoft Corporation License-Expression: MIT",
   "license": null,
   "home_page": null,
-  "download_filename": "powerplatform_management-2.0.3390.235.tar.gz",
-  "download_time": "2026-04-14T17:58:56.871082",
+  "download_filename": "powerplatform_management-2.0.3396.243.tar.gz",
+  "download_time": "2026-04-20T22:10:32.642291",
   "package_url": "https://pypi.org/project/powerplatform-management/"
 }

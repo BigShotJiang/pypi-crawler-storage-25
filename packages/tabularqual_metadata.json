@@ -1,0 +1,11 @@
+{
+  "name": "tabularqual",
+  "version": "0.1.4",
+  "summary": "Converter for logical models: spreadsheets (XLSX, CSV) <--> SBML-qual.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tabularqual-0.1.4.tar.gz",
+  "download_time": "2026-04-20T22:10:40.276140",
+  "package_url": "https://pypi.org/project/tabularqual/"
+}

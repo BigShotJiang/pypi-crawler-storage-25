@@ -1,11 +1,11 @@
 {
   "name": "runwhen-platform-mcp",
-  "version": "2026.3.30.4",
+  "version": "2026.4.20.1",
   "summary": "RunWhen Platform MCP Server — exposes workspace chat, issues, SLXs, run sessions, and Tool Builder (script run/commit) to MCP clients (Cursor, Claude Desktop, etc.)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "runwhen_platform_mcp-2026.3.30.4.tar.gz",
-  "download_time": "2026-03-31T00:00:24.699059",
+  "download_filename": "runwhen_platform_mcp-2026.4.20.1.tar.gz",
+  "download_time": "2026-04-20T22:10:00.197738",
   "package_url": "https://pypi.org/project/runwhen-platform-mcp/"
 }

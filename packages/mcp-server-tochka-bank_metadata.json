@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-tochka-bank",
+  "version": "0.4.0",
+  "summary": "MCP server for Tochka Bank API — balance, payments, invoices, UPD",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_tochka_bank-0.4.0.tar.gz",
+  "download_time": "2026-04-20T22:10:03.160594",
+  "package_url": "https://pypi.org/project/mcp-server-tochka-bank/"
+}

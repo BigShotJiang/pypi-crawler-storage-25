@@ -1,11 +1,11 @@
 {
   "name": "rtecommon",
-  "version": "3.0.0",
+  "version": "3.3.0",
   "summary": "Common tools/utilities/configurations used in the RealTime Events echo system.",
   "author": "Hendrik du Toit",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "rtecommon-3.0.0.tar.gz",
-  "download_time": "2026-04-12T03:50:49.564704",
+  "download_filename": "rtecommon-3.3.0.tar.gz",
+  "download_time": "2026-04-20T22:10:27.064826",
   "package_url": "https://pypi.org/project/rtecommon/"
 }

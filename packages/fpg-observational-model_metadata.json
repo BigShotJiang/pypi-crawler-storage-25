@@ -1,0 +1,11 @@
+{
+  "name": "fpg-observational-model",
+  "version": "1.0.2",
+  "summary": "Observational model for EMOD's Full Parasite Genetics output to convert modeled results into recapitulative sampling for genomic surveillance",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fpg_observational_model-1.0.2-py3-none-any.whl",
+  "download_time": "2026-04-20T22:10:36.852704",
+  "package_url": "https://pypi.org/project/fpg-observational-model/"
+}

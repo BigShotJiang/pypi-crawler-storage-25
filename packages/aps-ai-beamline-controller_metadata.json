@@ -1,11 +1,11 @@
 {
   "name": "aps-ai-beamline-controller",
-  "version": "0.0.21",
+  "version": "0.0.31",
   "summary": "AI-driven Beamline Controller",
   "author": "Luca Rebuffi",
   "license": "BSD-3",
   "home_page": "https://github.com/APS-XSD-OPT-Group/AI-Beamline-Controller",
-  "download_filename": "aps_ai_beamline_controller-0.0.21.tar.gz",
-  "download_time": "2026-04-15T15:54:28.885352",
+  "download_filename": "aps_ai_beamline_controller-0.0.31.tar.gz",
+  "download_time": "2026-04-20T22:10:30.835292",
   "package_url": "https://pypi.org/project/aps-ai-beamline-controller/"
 }
