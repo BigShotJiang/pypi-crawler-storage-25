@@ -1,11 +1,11 @@
 {
   "name": "rss2podcast",
-  "version": "0.15.0",
+  "version": "0.17.0",
   "summary": "Turn an RSS feed into a podcast by synthesizing entries with Piper TTS",
   "author": "nbr23",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rss2podcast-0.15.0.tar.gz",
-  "download_time": "2026-04-19T20:18:27.594026",
+  "download_filename": "rss2podcast-0.17.0.tar.gz",
+  "download_time": "2026-04-20T01:16:52.452282",
   "package_url": "https://pypi.org/project/rss2podcast/"
 }

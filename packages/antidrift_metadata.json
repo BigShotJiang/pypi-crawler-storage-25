@@ -1,11 +1,11 @@
 {
   "name": "antidrift",
-  "version": "0.20.44",
+  "version": "0.20.45",
   "summary": "Company brain for AI agents. One repo your whole team shares — context, skills, and connected services.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "antidrift-0.20.44.tar.gz",
-  "download_time": "2026-04-18T18:56:49.000816",
+  "download_filename": "antidrift-0.20.45.tar.gz",
+  "download_time": "2026-04-20T01:16:29.897515",
   "package_url": "https://pypi.org/project/antidrift/"
 }

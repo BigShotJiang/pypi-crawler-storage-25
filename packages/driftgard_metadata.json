@@ -1,11 +1,11 @@
 {
   "name": "driftgard",
-  "version": "1.8.0",
-  "summary": "Official Driftgard Python SDK — evaluate LLM interactions against your compliance policy",
+  "version": "1.11.0",
+  "summary": "Official DriftGard Python SDK — evaluate LLM interactions against your compliance policy",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "driftgard-1.8.0.tar.gz",
-  "download_time": "2026-04-16T23:15:12.998303",
+  "download_filename": "driftgard-1.11.0.tar.gz",
+  "download_time": "2026-04-20T01:16:35.201851",
   "package_url": "https://pypi.org/project/driftgard/"
 }

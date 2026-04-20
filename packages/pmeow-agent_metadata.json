@@ -1,0 +1,11 @@
+{
+  "name": "pmeow-agent",
+  "version": "1.0.2",
+  "summary": "PMEOW GPU cluster monitoring agent",
+  "author": "huan-yp",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "pmeow_agent-1.0.2.tar.gz",
+  "download_time": "2026-04-20T01:16:38.825127",
+  "package_url": "https://pypi.org/project/pmeow-agent/"
+}

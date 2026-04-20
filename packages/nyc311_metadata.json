@@ -1,11 +1,11 @@
 {
   "name": "nyc311",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "summary": "Python toolkit for reproducible NYC 311 complaint analysis via a typed SDK and CLI.",
   "author": "Blaise Albis-Burdige",
   "license": null,
   "home_page": null,
-  "download_filename": "nyc311-0.3.0-py3-none-any.whl",
-  "download_time": "2026-04-12T19:57:27.526770",
+  "download_filename": "nyc311-1.0.0-py3-none-any.whl",
+  "download_time": "2026-04-20T01:16:31.448754",
   "package_url": "https://pypi.org/project/nyc311/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-session-grep",
+  "version": "0.1.2",
+  "summary": "Fast local search for OpenClaw session transcript JSONL files.",
+  "author": "OpenClaw contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openclaw_session_grep-0.1.2.tar.gz",
+  "download_time": "2026-04-20T01:17:07.550387",
+  "package_url": "https://pypi.org/project/openclaw-session-grep/"
+}

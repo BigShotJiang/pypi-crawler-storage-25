@@ -1,0 +1,11 @@
+{
+  "name": "voicecheck",
+  "version": "0.1.0",
+  "summary": "E2E testing framework for voice agents — tests the full audio loop",
+  "author": "Sujit Noronha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "voicecheck-0.1.0.tar.gz",
+  "download_time": "2026-04-20T01:16:33.076885",
+  "package_url": "https://pypi.org/project/voicecheck/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "IP2Proxy",
+  "version": "3.6.1",
+  "summary": "Python API for IP2Proxy database. It can be used to query an IP address if it was being used as open proxy, web proxy, VPN anonymizer and TOR exits.",
+  "author": "IP2Location",
+  "license": null,
+  "home_page": "https://github.com/ip2location/ip2proxy-python",
+  "download_filename": "ip2proxy-3.6.1.tar.gz",
+  "download_time": "2026-04-20T01:16:55.050693",
+  "package_url": "https://pypi.org/project/IP2Proxy/"
+}
