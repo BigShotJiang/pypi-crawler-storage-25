@@ -1,11 +1,11 @@
 {
   "name": "belgie-core",
-  "version": "0.15.2",
+  "version": "0.16.2",
   "summary": "Core authentication logic for Belgie",
   "author": "Matt LeMay",
   "license": null,
   "home_page": null,
-  "download_filename": "belgie_core-0.15.2.tar.gz",
-  "download_time": "2026-04-13T21:13:31.149102",
+  "download_filename": "belgie_core-0.16.2.tar.gz",
+  "download_time": "2026-04-21T21:12:33.845250",
   "package_url": "https://pypi.org/project/belgie-core/"
 }

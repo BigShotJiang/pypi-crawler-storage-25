@@ -1,0 +1,11 @@
+{
+  "name": "xformers",
+  "version": "0.0.35",
+  "summary": "XFormers: A collection of composable Transformer building blocks.",
+  "author": "Facebook AI Research",
+  "license": null,
+  "home_page": "https://facebookresearch.github.io/xformers/",
+  "download_filename": "xformers-0.0.35.tar.gz",
+  "download_time": "2026-04-21T21:12:11.611498",
+  "package_url": "https://pypi.org/project/xformers/"
+}

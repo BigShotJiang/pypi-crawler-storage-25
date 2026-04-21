@@ -1,11 +1,11 @@
 {
   "name": "pulumi",
-  "version": "3.230.0",
+  "version": "3.231.0",
   "summary": "Pulumi's Python SDK",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi-3.230.0-py3-none-any.whl",
-  "download_time": "2026-04-08T23:57:05.613710",
+  "download_filename": "pulumi-3.231.0-py3-none-any.whl",
+  "download_time": "2026-04-21T21:11:58.111660",
   "package_url": "https://pypi.org/project/pulumi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ffiec-data-connect",
+  "version": "2.0.5",
+  "summary": "Secure, thread-safe Python wrapper for FFIEC webservice API with async support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ffiec_data_connect-2.0.5.tar.gz",
+  "download_time": "2026-04-21T21:12:19.834624",
+  "package_url": "https://pypi.org/project/ffiec-data-connect/"
+}

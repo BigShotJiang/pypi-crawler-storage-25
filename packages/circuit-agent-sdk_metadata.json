@@ -1,0 +1,11 @@
+{
+  "name": "circuit-agent-sdk",
+  "version": "2.6.0",
+  "summary": "Official Python SDK for building and deploying agents on the Circuit platform",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "circuit_agent_sdk-2.6.0.tar.gz",
+  "download_time": "2026-04-21T21:12:02.249338",
+  "package_url": "https://pypi.org/project/circuit-agent-sdk/"
+}

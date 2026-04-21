@@ -1,0 +1,11 @@
+{
+  "name": "meds-evaluation",
+  "version": "0.0.6",
+  "summary": "A module for evaluating the predictions of the models trained on MEDS datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meds_evaluation-0.0.6.tar.gz",
+  "download_time": "2026-04-21T21:12:37.999890",
+  "package_url": "https://pypi.org/project/meds-evaluation/"
+}

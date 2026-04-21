@@ -1,0 +1,11 @@
+{
+  "name": "uc-mcp-proxy",
+  "version": "0.2.0",
+  "summary": "MCP stdio-to-Streamable-HTTP proxy with Databricks OAuth",
+  "author": "Tanner Wendland",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uc_mcp_proxy-0.2.0.tar.gz",
+  "download_time": "2026-04-21T21:12:12.127951",
+  "package_url": "https://pypi.org/project/uc-mcp-proxy/"
+}

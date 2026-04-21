@@ -1,0 +1,11 @@
+{
+  "name": "sniffcell",
+  "version": "0.9.1",
+  "summary": "SniffCell annotates structural variants using long-read methylation evidence and ctDMR signals.",
+  "author": "Yilei Fu",
+  "license": "MIT",
+  "home_page": "https://github.com/Fu-Yilei/SniffCell",
+  "download_filename": "sniffcell-0.9.1.tar.gz",
+  "download_time": "2026-04-21T21:12:40.052223",
+  "package_url": "https://pypi.org/project/sniffcell/"
+}

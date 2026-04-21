@@ -1,0 +1,11 @@
+{
+  "name": "hbb2obb",
+  "version": "1.2.0",
+  "summary": "Toolkit for converting horizontal bounding boxes to oriented bounding boxes using segmentation models and evaluation of the conversion against ground truth.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hbb2obb-1.2.0.tar.gz",
+  "download_time": "2026-04-21T21:12:30.249833",
+  "package_url": "https://pypi.org/project/hbb2obb/"
+}
