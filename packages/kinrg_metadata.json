@@ -1,0 +1,11 @@
+{
+  "name": "kinrg",
+  "version": "1.0.3",
+  "summary": "Persistent incremental knowledge graph for token-efficient, context-aware code reviews with Claude Code",
+  "author": "kindy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kinrg-1.0.3.tar.gz",
+  "download_time": "2026-04-21T03:39:56.437246",
+  "package_url": "https://pypi.org/project/kinrg/"
+}

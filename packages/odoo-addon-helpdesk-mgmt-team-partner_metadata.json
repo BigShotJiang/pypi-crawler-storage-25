@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-helpdesk-mgmt-team-partner",
+  "version": "17.0.1.0.0.3",
+  "summary": "Allows dynamic control over which contact (partner_id) on ticket, based on the configuration of the assigned Helpdesk Team (team_id)",
+  "author": "Solvosci, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/helpdesk",
+  "download_filename": "odoo_addon_helpdesk_mgmt_team_partner-17.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-04-21T03:39:32.631471",
+  "package_url": "https://pypi.org/project/odoo-addon-helpdesk-mgmt-team-partner/"
+}

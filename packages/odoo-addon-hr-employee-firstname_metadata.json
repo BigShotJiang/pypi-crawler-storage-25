@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-employee-firstname",
+  "version": "19.0.1.1.0.2",
+  "summary": "Adds First Name to Employee",
+  "author": "Savoir-faire Linux, Fekete Mihai (Forest and Biomass Services Romania), Onestein, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/hr",
+  "download_filename": "odoo_addon_hr_employee_firstname-19.0.1.1.0.2-py3-none-any.whl",
+  "download_time": "2026-04-21T03:39:27.868331",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-employee-firstname/"
+}

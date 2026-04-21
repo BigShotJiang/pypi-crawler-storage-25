@@ -1,0 +1,11 @@
+{
+  "name": "nuguard",
+  "version": "0.3.0",
+  "summary": "AI application security — SBOM generation, vulnerability scanning, behavioral validation, and adversarial red-teaming for AI Agents",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nuguard-0.3.0.tar.gz",
+  "download_time": "2026-04-21T03:39:17.809417",
+  "package_url": "https://pypi.org/project/nuguard/"
+}

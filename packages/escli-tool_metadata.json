@@ -1,0 +1,11 @@
+{
+  "name": "escli-tool",
+  "version": "0.2.5",
+  "summary": "Elastic command line tool",
+  "author": "Li Wang",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/Potabk/elastic-tool",
+  "download_filename": "escli_tool-0.2.5.tar.gz",
+  "download_time": "2026-04-21T03:39:40.973790",
+  "package_url": "https://pypi.org/project/escli-tool/"
+}

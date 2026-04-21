@@ -1,11 +1,11 @@
 {
   "name": "nudge-mcp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "MCP server for Claude Code and GitHub Copilot CLI session token usage and cost data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nudge_mcp-0.1.0.tar.gz",
-  "download_time": "2026-04-21T00:05:55.306555",
+  "download_filename": "nudge_mcp-0.2.0.tar.gz",
+  "download_time": "2026-04-21T03:39:19.871533",
   "package_url": "https://pypi.org/project/nudge-mcp/"
 }

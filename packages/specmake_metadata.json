@@ -1,11 +1,11 @@
 {
   "name": "specmake",
-  "version": "1.1.19",
+  "version": "1.2.1",
   "summary": "Provides utilities to build packages.",
   "author": "The specmake Authors",
   "license": null,
   "home_page": null,
-  "download_filename": "specmake-1.1.19.tar.gz",
-  "download_time": "2026-04-06T11:15:48.125558",
+  "download_filename": "specmake-1.2.1.tar.gz",
+  "download_time": "2026-04-21T03:39:37.849679",
   "package_url": "https://pypi.org/project/specmake/"
 }

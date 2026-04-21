@@ -1,11 +1,11 @@
 {
   "name": "MultiFactor",
-  "version": "0.2.1",
+  "version": "0.2.6",
   "summary": "멀티팩터 기반 주식 데이터 수집 패키지",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "multifactor-0.2.1.tar.gz",
-  "download_time": "2026-04-15T19:56:49.975981",
+  "download_filename": "multifactor-0.2.6.tar.gz",
+  "download_time": "2026-04-21T03:39:54.870573",
   "package_url": "https://pypi.org/project/MultiFactor/"
 }

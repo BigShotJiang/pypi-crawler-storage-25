@@ -1,11 +1,11 @@
 {
   "name": "hf-mcp",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Standalone Hack Forums MCP launch surface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hf_mcp-0.1.4.tar.gz",
-  "download_time": "2026-04-19T15:05:06.105582",
+  "download_filename": "hf_mcp-0.1.5.tar.gz",
+  "download_time": "2026-04-21T03:39:09.834341",
   "package_url": "https://pypi.org/project/hf-mcp/"
 }

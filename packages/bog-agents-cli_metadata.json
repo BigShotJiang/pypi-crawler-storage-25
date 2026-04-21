@@ -1,11 +1,11 @@
 {
   "name": "bog-agents-cli",
-  "version": "0.6.4",
+  "version": "0.7.1",
   "summary": "A coding agent in your terminal. 50+ commands, any LLM provider, persistent memory, git workflow, code review, plan mode, remote sandboxes, and CI/CD automation. One install, no code required.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bog_agents_cli-0.6.4.tar.gz",
-  "download_time": "2026-03-29T21:05:15.544936",
+  "download_filename": "bog_agents_cli-0.7.1.tar.gz",
+  "download_time": "2026-04-21T03:39:11.945642",
   "package_url": "https://pypi.org/project/bog-agents-cli/"
 }

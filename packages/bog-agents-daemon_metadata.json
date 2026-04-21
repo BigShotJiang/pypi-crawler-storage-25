@@ -1,0 +1,11 @@
+{
+  "name": "bog-agents-daemon",
+  "version": "0.7.1",
+  "summary": "Ambient agent daemon for bog-agents — run agents on schedules, file-change triggers, webhooks, and git pushes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bog_agents_daemon-0.7.1.tar.gz",
+  "download_time": "2026-04-21T03:39:14.546662",
+  "package_url": "https://pypi.org/project/bog-agents-daemon/"
+}
