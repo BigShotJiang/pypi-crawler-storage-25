@@ -1,0 +1,11 @@
+{
+  "name": "karellen-rr-mcp",
+  "version": "0.2.4",
+  "summary": "MCP Server for rr Reverse Debugging",
+  "author": "Karellen, Inc.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/karellen/karellen-rr-mcp",
+  "download_filename": "karellen_rr_mcp-0.2.4.tar.gz",
+  "download_time": "2026-04-21T23:41:23.958210",
+  "package_url": "https://pypi.org/project/karellen-rr-mcp/"
+}

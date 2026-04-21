@@ -1,11 +1,11 @@
 {
   "name": "anolis-workbench",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Anolis commissioning workbench with handoff export tooling.",
   "author": null,
-  "license": "MIT",
+  "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "anolis_workbench-0.2.0.tar.gz",
-  "download_time": "2026-04-19T22:19:40.890834",
+  "download_filename": "anolis_workbench-0.3.0.tar.gz",
+  "download_time": "2026-04-21T23:41:28.627557",
   "package_url": "https://pypi.org/project/anolis-workbench/"
 }

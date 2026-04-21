@@ -1,11 +1,11 @@
 {
   "name": "topdown-profiler",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "CPU Top-Down Microarchitecture Analysis (Intel & ARM Neoverse) collector with MCP server, label-based querying, and pluggable SQL backends.",
   "author": "redis-performance",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "topdown_profiler-0.3.0.tar.gz",
-  "download_time": "2026-04-21T16:48:31.464153",
+  "download_filename": "topdown_profiler-0.3.1.tar.gz",
+  "download_time": "2026-04-21T23:41:22.393763",
   "package_url": "https://pypi.org/project/topdown-profiler/"
 }

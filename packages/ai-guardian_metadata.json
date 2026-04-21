@@ -1,0 +1,11 @@
+{
+  "name": "ai-guardian",
+  "version": "1.4.1",
+  "summary": "AI IDE security hook: blocks directories, scans secrets, and protects AI interactions",
+  "author": "itdove team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ai_guardian-1.4.1.tar.gz",
+  "download_time": "2026-04-21T23:41:07.152681",
+  "package_url": "https://pypi.org/project/ai-guardian/"
+}

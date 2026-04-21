@@ -1,0 +1,11 @@
+{
+  "name": "TSVZ",
+  "version": "3.37",
+  "summary": "An simple in memory wrapper around a TSV file to function as a database",
+  "author": "Yufei Pan",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/yufei-pan/TSVZ",
+  "download_filename": "tsvz-3.37.tar.gz",
+  "download_time": "2026-04-21T23:41:11.881574",
+  "package_url": "https://pypi.org/project/TSVZ/"
+}

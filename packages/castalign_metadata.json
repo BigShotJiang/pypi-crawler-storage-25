@@ -1,0 +1,11 @@
+{
+  "name": "castalign",
+  "version": "0.3.1",
+  "summary": "Coppafish, Antibody Staining, and Two-photon alignment: 3D alignment framework for microscopy and in vivo imaging",
+  "author": "Max Shinn",
+  "license": "MIT",
+  "home_page": "https://github.com/mwshinn/castalign",
+  "download_filename": "castalign-0.3.1.tar.gz",
+  "download_time": "2026-04-21T23:41:40.033402",
+  "package_url": "https://pypi.org/project/castalign/"
+}

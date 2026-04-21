@@ -1,0 +1,11 @@
+{
+  "name": "dkist-inventory",
+  "version": "1.11.5",
+  "summary": "A shared library for dataset inventory and asdf generation.",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "dkist_inventory-1.11.5.tar.gz",
+  "download_time": "2026-04-21T23:41:20.836231",
+  "package_url": "https://pypi.org/project/dkist-inventory/"
+}

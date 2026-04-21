@@ -1,0 +1,11 @@
+{
+  "name": "tee-logger",
+  "version": "6.38",
+  "summary": "A simple wrapper for python logger that also selectively tee logs to stdout",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "tee_logger-6.38.tar.gz",
+  "download_time": "2026-04-21T23:41:12.397239",
+  "package_url": "https://pypi.org/project/tee-logger/"
+}

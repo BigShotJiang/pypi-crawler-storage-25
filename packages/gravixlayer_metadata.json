@@ -1,11 +1,11 @@
 {
   "name": "gravixlayer",
-  "version": "0.1.46",
+  "version": "0.1.51",
   "summary": "Gravix Layer Python SDK — agent runtimes and templates (Alpha; API may evolve). See docs.gravixlayer.ai.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "gravixlayer-0.1.46.tar.gz",
-  "download_time": "2026-04-21T14:12:17.004460",
+  "download_filename": "gravixlayer-0.1.51.tar.gz",
+  "download_time": "2026-04-21T23:41:20.300873",
   "package_url": "https://pypi.org/project/gravixlayer/"
 }

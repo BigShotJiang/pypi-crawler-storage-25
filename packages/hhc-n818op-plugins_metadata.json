@@ -1,11 +1,11 @@
 {
   "name": "hhc-n818op-plugins",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Plugins devices IOT for Server HHC-N818OP Standalone with Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hhc_n818op_plugins-0.1.2.tar.gz",
-  "download_time": "2026-04-21T18:52:59.481336",
+  "download_filename": "hhc_n818op_plugins-0.1.3.tar.gz",
+  "download_time": "2026-04-21T23:41:26.034302",
   "package_url": "https://pypi.org/project/hhc-n818op-plugins/"
 }

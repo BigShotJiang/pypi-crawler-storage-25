@@ -1,0 +1,11 @@
+{
+  "name": "fastpubsub",
+  "version": "0.9.6",
+  "summary": "FastPubSub: A high-performance, asyncio-native framework for Google Cloud Pub/Sub applications",
+  "author": "Sandro Matheus Vila Nova Marques",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastpubsub-0.9.6.tar.gz",
+  "download_time": "2026-04-21T23:41:19.273023",
+  "package_url": "https://pypi.org/project/fastpubsub/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "complexheatmap-python",
+  "version": "2.25.3",
+  "summary": "Python port of the R ComplexHeatmap package on a grid_py backend (tracks R ComplexHeatmap 2.25.3)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "complexheatmap_python-2.25.3.tar.gz",
+  "download_time": "2026-04-21T23:41:12.935329",
+  "package_url": "https://pypi.org/project/complexheatmap-python/"
+}

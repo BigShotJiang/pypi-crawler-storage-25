@@ -1,11 +1,11 @@
 {
   "name": "pretorin",
-  "version": "0.15.1",
+  "version": "0.16.0",
   "summary": "CLI and MCP server for Pretorin Compliance API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pretorin-0.15.1.tar.gz",
-  "download_time": "2026-04-17T23:07:49.923853",
+  "download_filename": "pretorin-0.16.0.tar.gz",
+  "download_time": "2026-04-21T23:41:11.369617",
   "package_url": "https://pypi.org/project/pretorin/"
 }

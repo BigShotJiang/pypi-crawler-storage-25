@@ -1,11 +1,11 @@
 {
   "name": "aileron-datahub-manager",
-  "version": "0.2.0",
+  "version": "0.2.6",
   "summary": "Aileron 공통 DataHub Python 클라이언트 — 마이크로서비스용 엔티티·리니지 관리",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aileron_datahub_manager-0.2.0.tar.gz",
-  "download_time": "2026-04-19T23:44:48.505938",
+  "download_filename": "aileron_datahub_manager-0.2.6.tar.gz",
+  "download_time": "2026-04-21T23:41:25.518020",
   "package_url": "https://pypi.org/project/aileron-datahub-manager/"
 }

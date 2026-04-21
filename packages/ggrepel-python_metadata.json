@@ -1,0 +1,11 @@
+{
+  "name": "ggrepel-python",
+  "version": "0.9.8.9999",
+  "summary": "Python port of the R ggrepel package: non-overlapping text/label layout for ggplot2_py (tracks R ggrepel 0.9.8.9999)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ggrepel_python-0.9.8.9999.tar.gz",
+  "download_time": "2026-04-21T23:41:04.488616",
+  "package_url": "https://pypi.org/project/ggrepel-python/"
+}
