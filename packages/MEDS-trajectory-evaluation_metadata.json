@@ -1,0 +1,11 @@
+{
+  "name": "MEDS-trajectory-evaluation",
+  "version": "0.0.6",
+  "summary": "Utilities for evaluating autoregressive generated trajectories over MEDS datasets, including temporal AUC computation and zero-shot ACES task labeling.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meds_trajectory_evaluation-0.0.6.tar.gz",
+  "download_time": "2026-04-21T23:02:10.448191",
+  "package_url": "https://pypi.org/project/MEDS-trajectory-evaluation/"
+}

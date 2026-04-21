@@ -1,0 +1,11 @@
+{
+  "name": "whoop-mcp",
+  "version": "0.8.0",
+  "summary": "Read-only WHOOP v2 API access for MCP clients — direct OAuth, local SQLite cache, CSV/JSONL/Parquet exports",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whoop_mcp-0.8.0.tar.gz",
+  "download_time": "2026-04-21T23:02:26.753479",
+  "package_url": "https://pypi.org/project/whoop-mcp/"
+}

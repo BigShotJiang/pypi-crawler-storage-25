@@ -1,11 +1,11 @@
 {
   "name": "reflexio-ai",
-  "version": "0.2.10",
+  "version": "0.2.14",
   "summary": "A Python library for the Reflexio",
   "author": "Reflexio Team",
   "license": null,
   "home_page": null,
-  "download_filename": "reflexio_ai-0.2.10.tar.gz",
-  "download_time": "2026-04-14T03:39:01.466569",
+  "download_filename": "reflexio_ai-0.2.14.tar.gz",
+  "download_time": "2026-04-21T23:02:44.009554",
   "package_url": "https://pypi.org/project/reflexio-ai/"
 }

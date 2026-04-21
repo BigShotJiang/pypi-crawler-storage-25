@@ -1,11 +1,11 @@
 {
   "name": "keba-keenergy-api",
-  "version": "2.10.2",
+  "version": "2.11.0",
   "summary": "A Python wrapper for the KEBA KeEnergy API used by the Web HMI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "keba_keenergy_api-2.10.2.tar.gz",
-  "download_time": "2026-04-12T07:17:47.671375",
+  "download_filename": "keba_keenergy_api-2.11.0.tar.gz",
+  "download_time": "2026-04-21T23:02:13.057694",
   "package_url": "https://pypi.org/project/keba-keenergy-api/"
 }

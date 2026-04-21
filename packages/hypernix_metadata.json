@@ -1,0 +1,11 @@
+{
+  "name": "hypernix",
+  "version": "0.32.0",
+  "summary": "Download and quantize the HyperNix PyTorch model to GGUF (fp32/fp16/Q8_0/Q6_K/Q4_K_M).",
+  "author": "HyperNix contributors",
+  "license": null,
+  "home_page": "https://github.com/minerofthesoal/hypernix-pip",
+  "download_filename": "hypernix-0.32.0.tar.gz",
+  "download_time": "2026-04-21T23:02:31.959427",
+  "package_url": "https://pypi.org/project/hypernix/"
+}

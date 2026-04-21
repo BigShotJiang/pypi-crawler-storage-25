@@ -1,11 +1,11 @@
 {
   "name": "ao3downloader",
-  "version": "2026.4.7",
+  "version": "2026.4.8",
   "summary": "Utility for downloading fanfiction in bulk from the Archive of Our Own",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ao3downloader-2026.4.7.tar.gz",
-  "download_time": "2026-04-18T21:40:20.270508",
+  "download_filename": "ao3downloader-2026.4.8.tar.gz",
+  "download_time": "2026-04-21T23:02:07.225524",
   "package_url": "https://pypi.org/project/ao3downloader/"
 }

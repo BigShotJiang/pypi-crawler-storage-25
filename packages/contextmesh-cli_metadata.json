@@ -1,0 +1,11 @@
+{
+  "name": "contextmesh-cli",
+  "version": "0.1.0",
+  "summary": "Change Data Capture for AI-assisted codebases. Keeps context files alive as your code evolves.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "contextmesh_cli-0.1.0.tar.gz",
+  "download_time": "2026-04-21T23:02:28.800725",
+  "package_url": "https://pypi.org/project/contextmesh-cli/"
+}

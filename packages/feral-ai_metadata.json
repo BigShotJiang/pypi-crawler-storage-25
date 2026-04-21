@@ -1,11 +1,11 @@
 {
   "name": "feral-ai",
-  "version": "2026.4.12",
+  "version": "2026.4.22",
   "summary": "FERAL — Open-source AI agent with computer use, GenUI, voice, hardware control, and persistent memory.",
   "author": "Mahmoud Omar",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "feral_ai-2026.4.12.tar.gz",
-  "download_time": "2026-04-18T22:10:43.380247",
+  "download_filename": "feral_ai-2026.4.22.tar.gz",
+  "download_time": "2026-04-21T23:02:03.446058",
   "package_url": "https://pypi.org/project/feral-ai/"
 }

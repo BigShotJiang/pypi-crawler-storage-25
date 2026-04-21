@@ -1,11 +1,11 @@
 {
   "name": "fluid-labels",
-  "version": "6.2.1",
+  "version": "6.3.0",
   "summary": "Fluid Attacks SBOM Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fluid_labels-6.2.1.tar.gz",
-  "download_time": "2026-04-21T16:49:09.259353",
+  "download_filename": "fluid_labels-6.3.0.tar.gz",
+  "download_time": "2026-04-21T23:02:18.953799",
   "package_url": "https://pypi.org/project/fluid-labels/"
 }

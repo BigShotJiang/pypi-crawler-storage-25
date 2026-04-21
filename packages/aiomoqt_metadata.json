@@ -1,11 +1,11 @@
 {
   "name": "aiomoqt",
-  "version": "0.6.2",
+  "version": "0.8.1",
   "summary": "Python asyncio implementation of the MoQT protocol",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiomoqt-0.6.2.tar.gz",
-  "download_time": "2026-04-09T23:58:05.916693",
+  "download_filename": "aiomoqt-0.8.1.tar.gz",
+  "download_time": "2026-04-21T23:02:47.187755",
   "package_url": "https://pypi.org/project/aiomoqt/"
 }

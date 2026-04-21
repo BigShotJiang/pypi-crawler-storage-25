@@ -1,0 +1,11 @@
+{
+  "name": "marimo-flow",
+  "version": "0.3.0",
+  "summary": "Reactive marimo notebooks for ML with MLflow tracking, PINA physics-informed neural networks, and a multi-agent team on pydantic-graph + Ollama Cloud.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "marimo_flow-0.3.0.tar.gz",
+  "download_time": "2026-04-21T23:02:45.573801",
+  "package_url": "https://pypi.org/project/marimo-flow/"
+}

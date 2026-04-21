@@ -1,0 +1,11 @@
+{
+  "name": "jira-aie-mcp",
+  "version": "0.1.5",
+  "summary": "MCP server for the AI Engineering Jira project — rich ADF issue creation and working-day gantt scheduling.",
+  "author": "Sindre Tellevik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jira_aie_mcp-0.1.5.tar.gz",
+  "download_time": "2026-04-21T23:02:11.984050",
+  "package_url": "https://pypi.org/project/jira-aie-mcp/"
+}

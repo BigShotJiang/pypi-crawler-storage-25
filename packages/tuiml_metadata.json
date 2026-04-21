@@ -1,0 +1,11 @@
+{
+  "name": "tuiml",
+  "version": "0.1.2",
+  "summary": "An open-source agentic ML ecosystem with a clean Python API, MCP server for AI agents, and a community Hub for sharing algorithms, datasets, and models",
+  "author": "Nilesh Verma, Albert Bifet, Bernhard Pfahringer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tuiml-0.1.2.tar.gz",
+  "download_time": "2026-04-21T23:02:14.236514",
+  "package_url": "https://pypi.org/project/tuiml/"
+}

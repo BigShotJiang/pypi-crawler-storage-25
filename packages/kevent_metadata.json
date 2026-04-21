@@ -1,0 +1,11 @@
+{
+  "name": "kevent",
+  "version": "1.0.0",
+  "summary": "Typed event system for small Python applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kevent-1.0.0.tar.gz",
+  "download_time": "2026-04-21T23:02:08.794775",
+  "package_url": "https://pypi.org/project/kevent/"
+}

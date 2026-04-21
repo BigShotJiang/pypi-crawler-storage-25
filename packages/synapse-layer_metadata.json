@@ -1,11 +1,11 @@
 {
   "name": "synapse-layer",
-  "version": "1.1.5",
+  "version": "1.2.0",
   "summary": "Zero-Knowledge Memory Layer for AI Agents — Cognitive Security Protocol with 4 proprietary seals. Giving Agents a Past. Giving Models a Soul.",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "synapse_layer-1.1.5.tar.gz",
-  "download_time": "2026-04-12T11:45:36.254361",
+  "download_filename": "synapse_layer-1.2.0.tar.gz",
+  "download_time": "2026-04-21T23:02:04.471410",
   "package_url": "https://pypi.org/project/synapse-layer/"
 }
