@@ -1,0 +1,11 @@
+{
+  "name": "qobuz-dl-ultimate",
+  "version": "1.6.0",
+  "summary": "The Ultimate Lossless and Hi-Res music downloader for Qobuz with ReplayGain and Classical metadata",
+  "author": "Riccardo (Sei969)",
+  "license": null,
+  "home_page": "https://github.com/Sei969/qobuz-dl",
+  "download_filename": "qobuz_dl_ultimate-1.6.0.tar.gz",
+  "download_time": "2026-04-21T09:31:54.367199",
+  "package_url": "https://pypi.org/project/qobuz-dl-ultimate/"
+}

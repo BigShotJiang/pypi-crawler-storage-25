@@ -1,11 +1,11 @@
 {
   "name": "pyatr",
-  "version": "0.2.2",
-  "summary": "Python reference engine for Agent Threat Rules (ATR) - Layer 1 regex detection",
+  "version": "0.2.4",
+  "summary": "Python engine for Agent Threat Rules (ATR) -- the open detection standard for AI agents (like Sigma, but for prompt injection, tool poisoning, and MCP attacks). 311 rules, Cisco AI Defense shipped, 97.1% garak recall.",
   "author": "ATR Community",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyatr-0.2.2.tar.gz",
-  "download_time": "2026-04-17T00:03:52.823048",
+  "download_filename": "pyatr-0.2.4.tar.gz",
+  "download_time": "2026-04-21T09:32:36.572074",
   "package_url": "https://pypi.org/project/pyatr/"
 }

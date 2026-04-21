@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-config-optimizer",
-  "version": "1.6.0rc1",
+  "version": "1.6.0",
   "summary": "Workflow config and prompt optimizer for NVIDIA NeMo Agent Toolkit",
   "author": "NVIDIA Corporation",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nvidia_nat_config_optimizer-1.6.0rc1-py3-none-any.whl",
-  "download_time": "2026-04-08T23:06:26.537923",
+  "download_filename": "nvidia_nat_config_optimizer-1.6.0-py3-none-any.whl",
+  "download_time": "2026-04-21T09:32:08.846109",
   "package_url": "https://pypi.org/project/nvidia-nat-config-optimizer/"
 }

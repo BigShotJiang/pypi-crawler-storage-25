@@ -1,0 +1,11 @@
+{
+  "name": "transformers-mlinter",
+  "version": "0.1.0",
+  "summary": "Lint modeling, modular, and configuration files for Hugging Face Transformers structural conventions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "transformers_mlinter-0.1.0.tar.gz",
+  "download_time": "2026-04-21T09:32:18.698776",
+  "package_url": "https://pypi.org/project/transformers-mlinter/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "beachcomber",
-  "version": "0.2.0",
+  "version": "0.5.1",
   "summary": "Install the beachcomber (comb) shell-state daemon. Downloads the correct binary for your platform from GitHub Releases.",
   "author": "NavistAu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "beachcomber-0.2.0.tar.gz",
-  "download_time": "2026-04-05T08:26:10.570230",
+  "download_filename": "beachcomber-0.5.1.tar.gz",
+  "download_time": "2026-04-21T09:32:34.497966",
   "package_url": "https://pypi.org/project/beachcomber/"
 }

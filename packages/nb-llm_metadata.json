@@ -1,0 +1,11 @@
+{
+  "name": "nb-llm",
+  "version": "0.2.0",
+  "summary": "Powerful LLM framework — 3 lines of code to do what LangChain takes 30. Chat, Tools, RAG, Agents, Streaming.",
+  "author": "ydf0509",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nb_llm-0.2.0.tar.gz",
+  "download_time": "2026-04-21T09:32:04.746953",
+  "package_url": "https://pypi.org/project/nb-llm/"
+}

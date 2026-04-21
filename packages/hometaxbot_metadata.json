@@ -1,0 +1,11 @@
+{
+  "name": "hometaxbot",
+  "version": "0.2.26",
+  "summary": "홈택스에 로그인해서 여러 가지 정보를 requests로 수집해오는 봇입니다.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hometaxbot-0.2.26.tar.gz",
+  "download_time": "2026-04-21T09:31:48.136331",
+  "package_url": "https://pypi.org/project/hometaxbot/"
+}

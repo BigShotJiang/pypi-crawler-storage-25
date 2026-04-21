@@ -1,11 +1,11 @@
 {
   "name": "glab-discussion",
-  "version": "0.1.6",
+  "version": "0.2.1",
   "summary": "CLI wrapper around GitLab Discussions REST API for listing, creating, and managing MR discussions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "glab_discussion-0.1.6.tar.gz",
-  "download_time": "2026-03-31T21:05:07.120277",
+  "download_filename": "glab_discussion-0.2.1.tar.gz",
+  "download_time": "2026-04-21T09:32:32.433500",
   "package_url": "https://pypi.org/project/glab-discussion/"
 }

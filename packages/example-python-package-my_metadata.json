@@ -1,0 +1,11 @@
+{
+  "name": "example-python-package-my",
+  "version": "0.1.0",
+  "summary": "一个示例 Python 包，用于演示 PyPI 发布",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "example_python_package_my-0.1.0.tar.gz",
+  "download_time": "2026-04-21T09:32:19.215056",
+  "package_url": "https://pypi.org/project/example-python-package-my/"
+}
