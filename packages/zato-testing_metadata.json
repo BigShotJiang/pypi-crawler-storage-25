@@ -1,0 +1,11 @@
+{
+  "name": "zato-testing",
+  "version": "4.1.2",
+  "summary": "Testing framework for Zato services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zato_testing-4.1.2.tar.gz",
+  "download_time": "2026-04-21T18:00:50.140998",
+  "package_url": "https://pypi.org/project/zato-testing/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rb-deeplearning-lib",
-  "version": "0.5.5",
+  "version": "1.0.0",
   "summary": "This is a machine learning--more specifically deep learning--library from my independent study on deep learning. This library is both a result of my learning and a tool for AI development.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rb_deeplearning_lib-0.5.5.tar.gz",
-  "download_time": "2026-04-16T18:48:16.615547",
+  "download_filename": "rb_deeplearning_lib-1.0.0.tar.gz",
+  "download_time": "2026-04-21T18:01:04.733673",
   "package_url": "https://pypi.org/project/rb-deeplearning-lib/"
 }

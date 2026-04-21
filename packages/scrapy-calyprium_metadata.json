@@ -1,11 +1,11 @@
 {
   "name": "scrapy-calyprium",
-  "version": "1.11.5",
+  "version": "1.15.0",
   "summary": "Anti-detection Scrapy middleware — proxy routing and browser rendering for web scraping",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scrapy_calyprium-1.11.5.tar.gz",
-  "download_time": "2026-04-11T16:40:53.032491",
+  "download_filename": "scrapy_calyprium-1.15.0.tar.gz",
+  "download_time": "2026-04-21T18:00:54.447536",
   "package_url": "https://pypi.org/project/scrapy-calyprium/"
 }

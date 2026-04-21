@@ -1,11 +1,11 @@
 {
   "name": "django-components-lite",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Lightweight reusable template components for Django. An exploratory fork of django-components.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_components_lite-0.3.0.tar.gz",
-  "download_time": "2026-04-21T14:12:36.084038",
+  "download_filename": "django_components_lite-0.4.0.tar.gz",
+  "download_time": "2026-04-21T18:00:57.700864",
   "package_url": "https://pypi.org/project/django-components-lite/"
 }

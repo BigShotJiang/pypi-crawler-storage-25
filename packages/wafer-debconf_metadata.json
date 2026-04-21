@@ -1,0 +1,11 @@
+{
+  "name": "wafer-debconf",
+  "version": "0.19.1",
+  "summary": "Wafer extensions used by DebConf",
+  "author": "DebConf Team",
+  "license": "ISC",
+  "home_page": "https://salsa.debian.org/debconf-team/public/websites/wafer-debconf",
+  "download_filename": "wafer_debconf-0.19.1.tar.gz",
+  "download_time": "2026-04-21T18:01:11.228946",
+  "package_url": "https://pypi.org/project/wafer-debconf/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nginx-set-conf",
+  "version": "1.10.2",
+  "summary": "Python library for generating nginx reverse proxy configurations for Docker applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nginx_set_conf-1.10.2.tar.gz",
+  "download_time": "2026-04-21T18:01:17.196572",
+  "package_url": "https://pypi.org/project/nginx-set-conf/"
+}

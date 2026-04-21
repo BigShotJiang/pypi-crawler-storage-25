@@ -1,0 +1,11 @@
+{
+  "name": "mvar-security",
+  "version": "1.5.2",
+  "summary": "MVAR: Information Flow Control for LLM Agent Runtimes",
+  "author": "Shawn Cohen",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/mvar-security/mvar",
+  "download_filename": "mvar_security-1.5.2.tar.gz",
+  "download_time": "2026-04-21T18:01:19.899834",
+  "package_url": "https://pypi.org/project/mvar-security/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "statsig-python-core",
-  "version": "0.18.1",
+  "version": "0.19.2",
   "summary": "Statsig Python bindings for the Statsig Core SDK.",
   "author": "Statsig, Daniel Loomb <daniel@statsig.com>",
   "license": "ISC",
   "home_page": "https://statsig.com/",
-  "download_filename": "statsig_python_core-0.18.1.tar.gz",
-  "download_time": "2026-04-08T01:08:03.380622",
+  "download_filename": "statsig_python_core-0.19.2.tar.gz",
+  "download_time": "2026-04-21T18:00:34.877867",
   "package_url": "https://pypi.org/project/statsig-python-core/"
 }

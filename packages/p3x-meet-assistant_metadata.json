@@ -1,11 +1,11 @@
 {
   "name": "p3x-meet-assistant",
-  "version": "2026.4.117",
+  "version": "2026.4.121",
   "summary": "Real-time AI speech-to-text for meetings with GPT-4o Transcribe and GPU speaker diarization",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "p3x_meet_assistant-2026.4.117.tar.gz",
-  "download_time": "2026-04-19T15:50:35.340690",
+  "download_filename": "p3x_meet_assistant-2026.4.121.tar.gz",
+  "download_time": "2026-04-21T18:01:10.091942",
   "package_url": "https://pypi.org/project/p3x-meet-assistant/"
 }
