@@ -1,11 +1,11 @@
 {
   "name": "cloud-governance",
-  "version": "1.1.419",
+  "version": "1.1.423",
   "summary": "Cloud Governance Tool",
   "author": "Red Hat",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/redhat-performance/cloud-governance",
-  "download_filename": "cloud_governance-1.1.419.tar.gz",
-  "download_time": "2026-04-10T07:05:56.780383",
+  "download_filename": "cloud_governance-1.1.423.tar.gz",
+  "download_time": "2026-04-21T07:57:31.164345",
   "package_url": "https://pypi.org/project/cloud-governance/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "velox-mcp-audit",
+  "version": "0.2.0",
+  "summary": "Security scanner for Model Context Protocol (MCP) servers",
+  "author": "Velox Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "velox_mcp_audit-0.2.0.tar.gz",
+  "download_time": "2026-04-21T07:57:12.595223",
+  "package_url": "https://pypi.org/project/velox-mcp-audit/"
+}

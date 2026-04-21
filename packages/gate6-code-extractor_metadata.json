@@ -1,0 +1,11 @@
+{
+  "name": "gate6-code-extractor",
+  "version": "0.1.1",
+  "summary": "Extract a Flask-RESTful module from a Python monolith by removing all unreachable code",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gate6_code_extractor-0.1.1.tar.gz",
+  "download_time": "2026-04-21T07:57:44.505091",
+  "package_url": "https://pypi.org/project/gate6-code-extractor/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nrev-lite",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "nrev-lite — agent-native GTM execution platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nrev_lite-1.0.0.tar.gz",
-  "download_time": "2026-04-16T08:10:27.544643",
+  "download_filename": "nrev_lite-2.0.0.tar.gz",
+  "download_time": "2026-04-21T07:57:22.525217",
   "package_url": "https://pypi.org/project/nrev-lite/"
 }

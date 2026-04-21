@@ -1,11 +1,11 @@
 {
   "name": "mkpipe-loader-mongodb",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "MongoDB loader for mkpipe.",
   "author": "Metin Karakus",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "mkpipe_loader_mongodb-0.8.0.tar.gz",
-  "download_time": "2026-04-20T16:53:27.234312",
+  "download_filename": "mkpipe_loader_mongodb-0.9.0.tar.gz",
+  "download_time": "2026-04-21T07:58:00.014043",
   "package_url": "https://pypi.org/project/mkpipe-loader-mongodb/"
 }

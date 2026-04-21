@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-public-apis",
+  "version": "0.2.31",
+  "summary": "Source implementation for Public Apis.",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_public_apis-0.2.31.tar.gz",
+  "download_time": "2026-04-21T07:57:19.711077",
+  "package_url": "https://pypi.org/project/airbyte-source-public-apis/"
+}

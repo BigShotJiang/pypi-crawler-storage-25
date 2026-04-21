@@ -1,0 +1,11 @@
+{
+  "name": "ansys-geometry-core",
+  "version": "0.15.2",
+  "summary": "A python wrapper for Ansys Geometry service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_geometry_core-0.15.2.tar.gz",
+  "download_time": "2026-04-21T07:57:43.935440",
+  "package_url": "https://pypi.org/project/ansys-geometry-core/"
+}

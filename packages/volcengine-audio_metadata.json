@@ -1,0 +1,11 @@
+{
+  "name": "volcengine-audio",
+  "version": "0.2.1",
+  "summary": "Python SDK for Volcengine Audio Services (TTS, STT, and Realtime Dialogue)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "volcengine_audio-0.2.1.tar.gz",
+  "download_time": "2026-04-21T07:57:55.465577",
+  "package_url": "https://pypi.org/project/volcengine-audio/"
+}

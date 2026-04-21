@@ -1,0 +1,11 @@
+{
+  "name": "pyjwt-rs",
+  "version": "1.2.0",
+  "summary": "Rust-backed PyJWT-compatible JWT library for Python",
+  "author": "statpan",
+  "license": "MIT",
+  "home_page": "https://github.com/StatPan/pyjwt-rs",
+  "download_filename": "pyjwt_rs-1.2.0.tar.gz",
+  "download_time": "2026-04-21T07:57:40.464642",
+  "package_url": "https://pypi.org/project/pyjwt-rs/"
+}

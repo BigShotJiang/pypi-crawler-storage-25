@@ -1,11 +1,11 @@
 {
   "name": "hf-inference-acp",
-  "version": "0.6.19",
+  "version": "0.6.21",
   "summary": "Hugging Face inference agent with ACP support, powered by fast-agent-mcp",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "hf_inference_acp-0.6.19.tar.gz",
-  "download_time": "2026-04-18T19:46:58.101438",
+  "download_filename": "hf_inference_acp-0.6.21.tar.gz",
+  "download_time": "2026-04-21T07:57:50.336601",
   "package_url": "https://pypi.org/project/hf-inference-acp/"
 }

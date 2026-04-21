@@ -1,0 +1,11 @@
+{
+  "name": "gazoo-device",
+  "version": "1.151.0",
+  "summary": "Gazoo Device Manager",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/google/gazoo-device",
+  "download_filename": "gazoo_device-1.151.0.tar.gz",
+  "download_time": "2026-04-21T07:57:36.994703",
+  "package_url": "https://pypi.org/project/gazoo-device/"
+}
