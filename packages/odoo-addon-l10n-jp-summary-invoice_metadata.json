@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-jp-summary-invoice",
+  "version": "18.0.1.4.0",
+  "summary": "Japan Summary Invoice",
+  "author": "Quartile, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-japan",
+  "download_filename": "odoo_addon_l10n_jp_summary_invoice-18.0.1.4.0-py3-none-any.whl",
+  "download_time": "2026-04-21T05:59:24.152841",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-jp-summary-invoice/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fanfu",
+  "version": "0.1.2",
+  "summary": "Bidirectional converter between GGUF and HuggingFace formats with weight verification",
+  "author": "FanFu Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fanfu-0.1.2.tar.gz",
+  "download_time": "2026-04-21T05:59:40.298896",
+  "package_url": "https://pypi.org/project/fanfu/"
+}

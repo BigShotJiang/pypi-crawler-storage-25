@@ -1,0 +1,11 @@
+{
+  "name": "holiday-rlag",
+  "version": "1.0.0",
+  "summary": "Fetches holiday information from https://github.com/vacanza/holidays and applies reverse lagging (that is, future indicators) for time series training.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "holiday_rlag-1.0.0.tar.gz",
+  "download_time": "2026-04-21T05:59:17.402135",
+  "package_url": "https://pypi.org/project/holiday-rlag/"
+}

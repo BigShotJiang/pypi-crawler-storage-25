@@ -1,11 +1,11 @@
 {
   "name": "sentric",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Open-source trajectory logging for LLM agents. Two lines of code to structured, replayable records of every agent run.",
   "author": "Sentric Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "sentric-0.1.1.tar.gz",
-  "download_time": "2026-04-13T23:09:36.500148",
+  "download_filename": "sentric-0.2.0.tar.gz",
+  "download_time": "2026-04-21T05:59:23.116174",
   "package_url": "https://pypi.org/project/sentric/"
 }

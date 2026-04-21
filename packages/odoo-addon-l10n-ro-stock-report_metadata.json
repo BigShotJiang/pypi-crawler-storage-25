@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-ro-stock-report",
+  "version": "19.0.2.3.0",
+  "summary": "=?utf-8?q?Romania_-_Stock_Report_=28Fi=C8=99=C4=83_Magazie=29?=",
+  "author": "Terrabit,NextERP Romania,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-romania",
+  "download_filename": "odoo_addon_l10n_ro_stock_report-19.0.2.3.0-py3-none-any.whl",
+  "download_time": "2026-04-21T05:59:14.222313",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-ro-stock-report/"
+}

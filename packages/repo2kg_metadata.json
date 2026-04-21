@@ -1,11 +1,11 @@
 {
   "name": "repo2kg",
-  "version": "0.5.4",
+  "version": "0.5.13",
   "summary": "Build a code Knowledge Graph from any repository (Python/JS/TS/Java/Go/Rust/C/C++/Ruby/C#) for token-efficient AI agent context. Supports JSON and TOON output formats. Agent-friendly: generates CLAUDE.md, CODEBASE.md, and supports zero-dep queries.",
   "author": "repo2kg contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "repo2kg-0.5.4.tar.gz",
-  "download_time": "2026-04-17T05:46:23.699416",
+  "download_filename": "repo2kg-0.5.13.tar.gz",
+  "download_time": "2026-04-21T05:59:22.076588",
   "package_url": "https://pypi.org/project/repo2kg/"
 }

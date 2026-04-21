@@ -1,11 +1,11 @@
 {
   "name": "seektalent",
-  "version": "0.4.4",
+  "version": "0.4.9",
   "summary": "Local CLI Agent for deterministic multi-round resume matching with Pydantic AI",
   "author": "frankqdwang",
   "license": "GNU Affero General Public License v3.0",
   "home_page": null,
-  "download_filename": "seektalent-0.4.4.tar.gz",
-  "download_time": "2026-04-19T08:41:01.381799",
+  "download_filename": "seektalent-0.4.9.tar.gz",
+  "download_time": "2026-04-21T05:59:20.514926",
   "package_url": "https://pypi.org/project/seektalent/"
 }

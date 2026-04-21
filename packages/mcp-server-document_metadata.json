@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-document",
+  "version": "0.2.0",
+  "summary": "MCP server for academic document authoring: grant proposals (科研費/JSPS), journal papers (IEEE/IEEJ/APS/Elsevier), research-talk slides + a raster-to-Excalidraw diagram pipeline. Diagnostic tools + knowledge base distilled from 14 classical Japanese/English writing-technique books (木下/本多/Wallwork/Sato et al.).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_document-0.2.0.tar.gz",
+  "download_time": "2026-04-21T05:59:27.289667",
+  "package_url": "https://pypi.org/project/mcp-server-document/"
+}

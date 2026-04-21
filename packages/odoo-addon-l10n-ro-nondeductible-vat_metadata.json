@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-ro-nondeductible-vat",
+  "version": "19.0.0.3.0",
+  "summary": "Romania - Nondeductible VAT",
+  "author": "Dakai Soft SRL,NextERP Romania,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-romania",
+  "download_filename": "odoo_addon_l10n_ro_nondeductible_vat-19.0.0.3.0-py3-none-any.whl",
+  "download_time": "2026-04-21T05:59:13.172905",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-ro-nondeductible-vat/"
+}

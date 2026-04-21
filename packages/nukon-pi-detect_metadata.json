@@ -1,0 +1,11 @@
+{
+  "name": "nukon-pi-detect",
+  "version": "0.1.0",
+  "summary": "Tiny, fast, deterministic prompt-injection detector. CLI + Python library. No LLM calls.",
+  "author": "NukonAI",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nukon_pi_detect-0.1.0.tar.gz",
+  "download_time": "2026-04-21T05:59:24.670615",
+  "package_url": "https://pypi.org/project/nukon-pi-detect/"
+}
