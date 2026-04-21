@@ -1,0 +1,11 @@
+{
+  "name": "scalr-ngine",
+  "version": "0.24.0",
+  "summary": "Autoscaling for Clouds.",
+  "author": "René Moser",
+  "license": "MIT",
+  "home_page": "https://github.com/ngine-io/scalr",
+  "download_filename": "scalr_ngine-0.24.0.tar.gz",
+  "download_time": "2026-04-21T15:50:07.629902",
+  "package_url": "https://pypi.org/project/scalr-ngine/"
+}

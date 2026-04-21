@@ -1,11 +1,11 @@
 {
   "name": "clampd",
-  "version": "0.12.0",
+  "version": "0.13.2",
   "summary": "Runtime security SDK for AI agents — guard tool calls in 1 line",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "clampd-0.12.0.tar.gz",
-  "download_time": "2026-04-19T21:42:18.321769",
+  "download_filename": "clampd-0.13.2.tar.gz",
+  "download_time": "2026-04-21T15:50:00.324590",
   "package_url": "https://pypi.org/project/clampd/"
 }

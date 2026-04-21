@@ -1,0 +1,11 @@
+{
+  "name": "bloom",
+  "version": "0.14.2",
+  "summary": "Bloom is a release automation tool.",
+  "author": "Tully Foote, William Woodall",
+  "license": "BSD",
+  "home_page": "http://www.ros.org/wiki/bloom",
+  "download_filename": "bloom-0.14.2.tar.gz",
+  "download_time": "2026-04-21T15:49:43.786277",
+  "package_url": "https://pypi.org/project/bloom/"
+}

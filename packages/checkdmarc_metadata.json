@@ -1,0 +1,11 @@
+{
+  "name": "checkdmarc",
+  "version": "5.14.3",
+  "summary": "A Python module and command line parser for SPF and DMARC records",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "checkdmarc-5.14.3.tar.gz",
+  "download_time": "2026-04-21T15:49:25.050809",
+  "package_url": "https://pypi.org/project/checkdmarc/"
+}

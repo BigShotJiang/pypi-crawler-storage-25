@@ -1,0 +1,11 @@
+{
+  "name": "coopstorage",
+  "version": "1.9",
+  "summary": "Package for embedded storage systems",
+  "author": "tburns",
+  "license": "MIT",
+  "home_page": "https://github.com/tylertjburns/coopstorage",
+  "download_filename": "coopstorage-1.9.tar.gz",
+  "download_time": "2026-04-21T15:49:52.733991",
+  "package_url": "https://pypi.org/project/coopstorage/"
+}

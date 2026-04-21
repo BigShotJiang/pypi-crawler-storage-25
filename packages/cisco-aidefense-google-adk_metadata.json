@@ -1,0 +1,11 @@
+{
+  "name": "cisco-aidefense-google-adk",
+  "version": "1.0.0",
+  "summary": "Cisco AI Defense plugin for Google ADK — native callback-based LLM and MCP inspection",
+  "author": "Cisco AI Defense",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cisco_aidefense_google_adk-1.0.0.tar.gz",
+  "download_time": "2026-04-21T15:49:30.431207",
+  "package_url": "https://pypi.org/project/cisco-aidefense-google-adk/"
+}

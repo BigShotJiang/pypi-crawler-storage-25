@@ -1,0 +1,11 @@
+{
+  "name": "tap-shopify",
+  "version": "3.10.0",
+  "summary": "Singer.io tap for extracting Shopify data",
+  "author": "Stitch",
+  "license": null,
+  "home_page": "http://github.com/singer-io/tap-shopify",
+  "download_filename": "tap_shopify-3.10.0.tar.gz",
+  "download_time": "2026-04-21T15:49:46.403680",
+  "package_url": "https://pypi.org/project/tap-shopify/"
+}

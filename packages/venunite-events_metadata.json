@@ -1,0 +1,11 @@
+{
+  "name": "venunite-events",
+  "version": "0.2.0",
+  "summary": "MCP client for VenuNite — hyperlocal event search across 50 states. Thin stdio↔HTTPS proxy for Claude Desktop and other stdio-only MCP clients.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "venunite_events-0.2.0.tar.gz",
+  "download_time": "2026-04-21T15:49:57.005542",
+  "package_url": "https://pypi.org/project/venunite-events/"
+}

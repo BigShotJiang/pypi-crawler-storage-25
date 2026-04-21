@@ -1,11 +1,11 @@
 {
   "name": "pmcp",
-  "version": "1.9.2",
+  "version": "1.9.4",
   "summary": "PMCP - Progressive MCP: Minimal context bloat with on-demand tool discovery",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pmcp-1.9.2.tar.gz",
-  "download_time": "2026-04-14T03:39:44.804103",
+  "download_filename": "pmcp-1.9.4.tar.gz",
+  "download_time": "2026-04-21T15:50:05.362850",
   "package_url": "https://pypi.org/project/pmcp/"
 }

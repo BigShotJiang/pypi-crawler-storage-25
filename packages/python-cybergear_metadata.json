@@ -1,0 +1,11 @@
+{
+  "name": "python-cybergear",
+  "version": "0.1.1",
+  "summary": "Python driver for the Xiaomi CyberGear brushless motor over CAN bus",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_cybergear-0.1.1.tar.gz",
+  "download_time": "2026-04-21T15:50:08.737114",
+  "package_url": "https://pypi.org/project/python-cybergear/"
+}
