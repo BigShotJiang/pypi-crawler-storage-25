@@ -1,0 +1,11 @@
+{
+  "name": "cuti",
+  "version": "0.1.71",
+  "summary": "Production-ready Claude Code utilities with command queuing, prompt aliases, web interface, and monitoring.",
+  "author": "claude-code, nociza",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cuti-0.1.71.tar.gz",
+  "download_time": "2026-04-21T22:09:57.898973",
+  "package_url": "https://pypi.org/project/cuti/"
+}

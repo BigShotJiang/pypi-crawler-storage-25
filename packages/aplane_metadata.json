@@ -1,11 +1,11 @@
 {
   "name": "aplane",
-  "version": "0.5.1",
+  "version": "0.6.3",
   "summary": "Python SDK for APlane transaction signing",
-  "author": "APlane Developers",
+  "author": "APlane Project LLC",
   "license": null,
   "home_page": null,
-  "download_filename": "aplane-0.5.1.tar.gz",
-  "download_time": "2026-04-20T18:03:35.469221",
+  "download_filename": "aplane-0.6.3.tar.gz",
+  "download_time": "2026-04-21T22:10:11.896490",
   "package_url": "https://pypi.org/project/aplane/"
 }

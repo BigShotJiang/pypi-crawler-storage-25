@@ -1,11 +1,11 @@
 {
   "name": "asub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Generate and translate subtitles from audio/video files using Whisper.",
   "author": "asub contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "asub-1.0.0.tar.gz",
-  "download_time": "2026-04-15T10:46:50.186501",
+  "download_filename": "asub-1.0.1.tar.gz",
+  "download_time": "2026-04-21T22:10:19.096672",
   "package_url": "https://pypi.org/project/asub/"
 }

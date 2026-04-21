@@ -1,0 +1,11 @@
+{
+  "name": "toptl-ptb",
+  "version": "0.1.0",
+  "summary": "python-telegram-bot plugin for TOP.TL — autopost bot stats, gate commands behind votes, handle vote webhooks.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "toptl_ptb-0.1.0.tar.gz",
+  "download_time": "2026-04-21T22:10:08.215909",
+  "package_url": "https://pypi.org/project/toptl-ptb/"
+}

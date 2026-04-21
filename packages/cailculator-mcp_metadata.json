@@ -1,11 +1,11 @@
 {
   "name": "cailculator-mcp",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "CAILculator MCP Server - High-dimensional data analysis with dual algebra frameworks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cailculator_mcp-2.0.1.tar.gz",
-  "download_time": "2026-04-21T00:05:35.770043",
+  "download_filename": "cailculator_mcp-2.0.2.tar.gz",
+  "download_time": "2026-04-21T22:09:45.990173",
   "package_url": "https://pypi.org/project/cailculator-mcp/"
 }

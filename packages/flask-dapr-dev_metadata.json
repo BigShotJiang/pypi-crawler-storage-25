@@ -1,11 +1,11 @@
 {
   "name": "flask-dapr-dev",
-  "version": "1.17.0.dev103",
+  "version": "1.17.0.dev107",
   "summary": "The developmental release for Dapr Python SDK Flask.",
   "author": "Dapr Authors",
   "license": "Apache",
   "home_page": "https://dapr.io/",
-  "download_filename": "flask_dapr_dev-1.17.0.dev103.tar.gz",
-  "download_time": "2026-04-16T06:05:50.914531",
+  "download_filename": "flask_dapr_dev-1.17.0.dev107.tar.gz",
+  "download_time": "2026-04-21T22:09:51.688197",
   "package_url": "https://pypi.org/project/flask-dapr-dev/"
 }

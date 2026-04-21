@@ -1,0 +1,11 @@
+{
+  "name": "haon-agent",
+  "version": "0.2.0",
+  "summary": "HAON PowerHub — miner agent: rent out idle GPU time on a decentralized compute marketplace.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "haon_agent-0.2.0.tar.gz",
+  "download_time": "2026-04-21T22:10:01.498907",
+  "package_url": "https://pypi.org/project/haon-agent/"
+}

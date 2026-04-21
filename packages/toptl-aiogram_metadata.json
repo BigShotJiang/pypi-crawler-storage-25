@@ -1,0 +1,11 @@
+{
+  "name": "toptl-aiogram",
+  "version": "0.1.0",
+  "summary": "aiogram plugin for TOP.TL — autopost bot stats, gate handlers behind votes, handle vote webhooks.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "toptl_aiogram-0.1.0.tar.gz",
+  "download_time": "2026-04-21T22:10:07.194062",
+  "package_url": "https://pypi.org/project/toptl-aiogram/"
+}

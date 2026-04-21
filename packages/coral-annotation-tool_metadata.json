@@ -1,0 +1,11 @@
+{
+  "name": "coral-annotation-tool",
+  "version": "1.0.30",
+  "summary": "CAT: Coral Annotation Tool. A file-based(JSON) Structure from Motion (SfM) orthomosaic annotation tool for coral reef research",
+  "author": "Michael Akridge",
+  "license": "MIT",
+  "home_page": "https://github.com/MichaelAkridge-NOAA/cat",
+  "download_filename": "coral_annotation_tool-1.0.30.tar.gz",
+  "download_time": "2026-04-21T22:09:44.953449",
+  "package_url": "https://pypi.org/project/coral-annotation-tool/"
+}

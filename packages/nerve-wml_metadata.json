@@ -1,0 +1,11 @@
+{
+  "name": "nerve-wml",
+  "version": "1.7.0",
+  "summary": "Substrate-agnostic nerve protocol for inter-WML communication",
+  "author": "Clément Saillant",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nerve_wml-1.7.0-py3-none-any.whl",
+  "download_time": "2026-04-21T22:10:21.145382",
+  "package_url": "https://pypi.org/project/nerve-wml/"
+}

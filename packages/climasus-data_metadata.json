@@ -1,11 +1,11 @@
 {
   "name": "climasus-data",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "Shared metadata catalog for climasus4r (R) and climasus4py (Python)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "climasus_data-0.1.0.tar.gz",
-  "download_time": "2026-04-19T00:12:12.148732",
+  "download_filename": "climasus_data-0.1.4.tar.gz",
+  "download_time": "2026-04-21T22:10:06.678610",
   "package_url": "https://pypi.org/project/climasus-data/"
 }

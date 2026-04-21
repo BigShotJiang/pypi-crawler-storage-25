@@ -1,0 +1,11 @@
+{
+  "name": "wasm-tools",
+  "version": "1.0.2",
+  "summary": "A pure-Python WebAssembly binary parser, disassembler, and structured analysis library",
+  "author": "Team AppThreat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wasm_tools-1.0.2.tar.gz",
+  "download_time": "2026-04-21T22:10:20.120871",
+  "package_url": "https://pypi.org/project/wasm-tools/"
+}

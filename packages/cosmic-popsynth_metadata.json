@@ -1,0 +1,11 @@
+{
+  "name": "cosmic-popsynth",
+  "version": "3.7.6",
+  "summary": "a Python-interfaced binary population synthesis suite",
+  "author": "Scott Coughlin, Michael Zevin, Carl L. Rodriguez, Tom Wagg",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "cosmic_popsynth-3.7.6.tar.gz",
+  "download_time": "2026-04-21T22:10:05.657987",
+  "package_url": "https://pypi.org/project/cosmic-popsynth/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reclaim-sdk",
+  "version": "0.7.0",
+  "summary": "Unofficial Reclaim.ai Python API",
+  "author": "Laurence Lars Labusch",
+  "license": "MIT",
+  "home_page": "https://github.com/llabusch93/reclaim-sdk",
+  "download_filename": "reclaim_sdk-0.7.0.tar.gz",
+  "download_time": "2026-04-21T22:10:05.104006",
+  "package_url": "https://pypi.org/project/reclaim-sdk/"
+}
