@@ -1,0 +1,11 @@
+{
+  "name": "etg-heroku-oneso-runtime-20260421",
+  "version": "0.1.1",
+  "summary": "Pure-Python wheel carrying the native runtime blob for the ExteraGram Heroku OneSO plugin.",
+  "author": "openclaw",
+  "license": null,
+  "home_page": null,
+  "download_filename": "etg_heroku_oneso_runtime_20260421-0.1.1.tar.gz",
+  "download_time": "2026-04-21T10:57:34.464372",
+  "package_url": "https://pypi.org/project/etg-heroku-oneso-runtime-20260421/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gemstone-py",
+  "version": "0.2.0",
+  "summary": "Direct Python-to-GemStone GCI bridge and translated persistence helpers.",
+  "author": "gemstone-py contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gemstone_py-0.2.0.tar.gz",
+  "download_time": "2026-04-21T10:57:12.899695",
+  "package_url": "https://pypi.org/project/gemstone-py/"
+}

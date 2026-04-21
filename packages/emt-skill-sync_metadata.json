@@ -1,11 +1,11 @@
 {
   "name": "emt-skill-sync",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Sync skills from a private Azure DevOps Git repository into Claude Code or GitHub Copilot",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "emt_skill_sync-0.1.0.tar.gz",
-  "download_time": "2026-04-20T06:40:25.740391",
+  "download_filename": "emt_skill_sync-0.3.0.tar.gz",
+  "download_time": "2026-04-21T10:57:16.100559",
   "package_url": "https://pypi.org/project/emt-skill-sync/"
 }

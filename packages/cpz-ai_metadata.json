@@ -1,11 +1,11 @@
 {
   "name": "cpz-ai",
-  "version": "3.1.9",
-  "summary": "CPZAI Python SDK — strategy framework, backtest engine, risk guards, execution algorithms, and multi-broker trading",
+  "version": "4.0.0",
+  "summary": "CPZAI Python SDK — strategy framework, backtest engine, risk guards, execution algorithms, and multi-broker trading (polars-native)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cpz_ai-3.1.9.tar.gz",
-  "download_time": "2026-04-14T17:58:20.894220",
+  "download_filename": "cpz_ai-4.0.0.tar.gz",
+  "download_time": "2026-04-21T10:57:55.549710",
   "package_url": "https://pypi.org/project/cpz-ai/"
 }

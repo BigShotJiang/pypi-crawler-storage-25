@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.healthimaging-mcp-server",
+  "version": "0.0.5",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for HealthImaging",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_healthimaging_mcp_server-0.0.5.tar.gz",
+  "download_time": "2026-04-21T10:57:48.347856",
+  "package_url": "https://pypi.org/project/awslabs.healthimaging-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pvfit5",
+  "version": "1.1.3",
+  "summary": "Estimate PV single-diode model parameters from module datasheet values",
+  "author": "Valerio Lo Brano",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pvfit5-1.1.3.tar.gz",
+  "download_time": "2026-04-21T10:57:21.259537",
+  "package_url": "https://pypi.org/project/pvfit5/"
+}
