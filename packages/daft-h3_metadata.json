@@ -1,11 +1,11 @@
 {
   "name": "daft-h3",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "H3 geospatial indexing functions for Daft",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "daft_h3-0.1.0.tar.gz",
-  "download_time": "2026-04-17T18:11:54.694384",
+  "download_filename": "daft_h3-0.2.0.tar.gz",
+  "download_time": "2026-04-21T20:15:11.663754",
   "package_url": "https://pypi.org/project/daft-h3/"
 }

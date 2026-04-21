@@ -1,0 +1,11 @@
+{
+  "name": "agentmesh-mesh",
+  "version": "0.5.0",
+  "summary": "Agent security mesh: 27-endpoint proxy + 12 framework SDKs + coding-agent hooks, composing 54 Tessera modules with SPIRE, agentgateway, and OpenTelemetry.",
+  "author": "Kenith Philip",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "agentmesh_mesh-0.5.0.tar.gz",
+  "download_time": "2026-04-21T20:15:33.914250",
+  "package_url": "https://pypi.org/project/agentmesh-mesh/"
+}

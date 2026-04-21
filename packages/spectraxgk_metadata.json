@@ -1,0 +1,11 @@
+{
+  "name": "spectraxgk",
+  "version": "1.2.0",
+  "summary": "JAX gyrokinetic solver with Hermite-Laguerre velocity space",
+  "author": "SPECTRAX-GK team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spectraxgk-1.2.0-py3-none-any.whl",
+  "download_time": "2026-04-21T20:15:24.880895",
+  "package_url": "https://pypi.org/project/spectraxgk/"
+}

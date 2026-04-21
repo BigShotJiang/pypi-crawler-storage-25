@@ -1,0 +1,11 @@
+{
+  "name": "easier-openai",
+  "version": "7.1.5",
+  "summary": "Utilities for orchestrating OpenAI chat, tool calling, search, audio, and images from one helper package.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "easier_openai-7.1.5.tar.gz",
+  "download_time": "2026-04-21T20:15:23.326405",
+  "package_url": "https://pypi.org/project/easier-openai/"
+}

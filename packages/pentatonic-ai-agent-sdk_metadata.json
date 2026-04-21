@@ -1,11 +1,11 @@
 {
   "name": "pentatonic-ai-agent-sdk",
-  "version": "0.4.2",
+  "version": "0.5.2",
   "summary": "AI Agent SDK — observability, memory, and analytics for LLM applications. Provider-agnostic. Tracks token usage, tool calls, conversations, and enables shared team memory.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pentatonic_ai_agent_sdk-0.4.2.tar.gz",
-  "download_time": "2026-04-15T07:49:27.223759",
+  "download_filename": "pentatonic_ai_agent_sdk-0.5.2.tar.gz",
+  "download_time": "2026-04-21T20:15:37.092823",
   "package_url": "https://pypi.org/project/pentatonic-ai-agent-sdk/"
 }

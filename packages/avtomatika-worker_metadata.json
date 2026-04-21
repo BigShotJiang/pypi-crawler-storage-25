@@ -1,11 +1,11 @@
 {
   "name": "avtomatika-worker",
-  "version": "1.0b12",
+  "version": "1.0b14",
   "summary": "Worker SDK for the Avtomatika orchestrator.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "avtomatika_worker-1.0b12.tar.gz",
-  "download_time": "2026-03-29T19:55:25.520621",
+  "download_filename": "avtomatika_worker-1.0b14.tar.gz",
+  "download_time": "2026-04-21T20:15:20.698396",
   "package_url": "https://pypi.org/project/avtomatika-worker/"
 }

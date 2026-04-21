@@ -1,11 +1,11 @@
 {
   "name": "thaw-vllm",
-  "version": "0.2.1",
-  "summary": "Fast snapshot/restore for LLM inference. 17x faster cold starts, multi-GPU tensor parallel, KV cache snapshots. Supports vLLM and SGLang.",
+  "version": "0.4.0",
+  "summary": "The fork primitive for LLM inference. Snapshot a running session — weights + KV cache + scheduler state — and hydrate it into N divergent children that skip prefill. For RL rollouts, parallel coding agents, agent branching. Supports vLLM and SGLang.",
   "author": "Nils Matteson",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "thaw_vllm-0.2.1.tar.gz",
-  "download_time": "2026-04-18T00:03:56.056313",
+  "download_filename": "thaw_vllm-0.4.0.tar.gz",
+  "download_time": "2026-04-21T20:15:22.784053",
   "package_url": "https://pypi.org/project/thaw-vllm/"
 }

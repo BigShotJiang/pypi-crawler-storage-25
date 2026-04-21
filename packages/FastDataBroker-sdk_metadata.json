@@ -1,11 +1,11 @@
 {
   "name": "FastDataBroker-sdk",
-  "version": "0.4.0",
+  "version": "0.1.16",
   "summary": "FastDataBroker SDK for Python - Advanced messaging system with multi-channel notifications",
   "author": "FastDataBroker Team",
-  "license": "MIT",
-  "home_page": "https://github.com/suraj202923/rst_queue_FastDataBroker",
-  "download_filename": "fastdatabroker_sdk-0.4.0.tar.gz",
-  "download_time": "2026-04-08T15:47:44.146305",
+  "license": "LicenseRef-FDB-DevTest-Only",
+  "home_page": "https://github.com/suraj202923/FastDataBroker",
+  "download_filename": "fastdatabroker_sdk-0.1.16.tar.gz",
+  "download_time": "2026-04-21T20:15:30.704284",
   "package_url": "https://pypi.org/project/FastDataBroker-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "eea.dexterity.indicators",
+  "version": "15.3",
+  "summary": "Dexterity Indicators",
+  "author": "European Environment Agency: IDM2 A-Team",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/eea/eea.dexterity.indicators",
+  "download_filename": "eea_dexterity_indicators-15.3.tar.gz",
+  "download_time": "2026-04-21T20:15:10.557178",
+  "package_url": "https://pypi.org/project/eea.dexterity.indicators/"
+}

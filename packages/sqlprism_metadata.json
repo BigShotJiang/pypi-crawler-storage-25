@@ -1,0 +1,11 @@
+{
+  "name": "sqlprism",
+  "version": "1.2.2",
+  "summary": "SQL codebase indexer with column-level lineage, impact analysis, and MCP server support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlprism-1.2.2.tar.gz",
+  "download_time": "2026-04-21T20:15:25.400353",
+  "package_url": "https://pypi.org/project/sqlprism/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spicekit",
+  "version": "0.1.0",
+  "summary": "Python bindings for spicekit: pure-Rust NAIF kernel readers (DAF/SPK/PCK/text kernels).",
+  "author": "Asteroid Institute",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spicekit-0.1.0.tar.gz",
+  "download_time": "2026-04-21T20:15:32.279235",
+  "package_url": "https://pypi.org/project/spicekit/"
+}

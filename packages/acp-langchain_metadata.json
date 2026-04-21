@@ -1,0 +1,11 @@
+{
+  "name": "acp-langchain",
+  "version": "0.1.0",
+  "summary": "Agentic Control Plane governance for LangChain / LangGraph agents. Wrap any tool with @governed; ACP decides allow/deny/redact.",
+  "author": "David Crowe",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "acp_langchain-0.1.0.tar.gz",
+  "download_time": "2026-04-21T20:15:48.076865",
+  "package_url": "https://pypi.org/project/acp-langchain/"
+}

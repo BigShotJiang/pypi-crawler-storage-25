@@ -1,0 +1,11 @@
+{
+  "name": "acp-crewai",
+  "version": "0.1.0",
+  "summary": "Agentic Control Plane governance for CrewAI agents. Wrap any tool with @governed; ACP decides allow/deny/redact.",
+  "author": "David Crowe",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "acp_crewai-0.1.0.tar.gz",
+  "download_time": "2026-04-21T20:15:48.598309",
+  "package_url": "https://pypi.org/project/acp-crewai/"
+}
