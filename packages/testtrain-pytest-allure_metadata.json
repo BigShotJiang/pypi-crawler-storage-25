@@ -1,11 +1,11 @@
 {
   "name": "testtrain-pytest-allure",
-  "version": "1.0.0b20",
+  "version": "1.0.0b24",
   "summary": "Pytest plugin that streams Allure test results to Testtrain in real time",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "testtrain_pytest_allure-1.0.0b20.tar.gz",
-  "download_time": "2026-04-15T10:46:34.500246",
+  "download_filename": "testtrain_pytest_allure-1.0.0b24.tar.gz",
+  "download_time": "2026-04-21T12:07:50.249757",
   "package_url": "https://pypi.org/project/testtrain-pytest-allure/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "snapvec",
-  "version": "0.7.0",
-  "summary": "Fast compressed ANN search via randomized Hadamard transform and optimal Gaussian scalar quantization. Pure NumPy, no heavy dependencies.",
+  "version": "0.11.0",
+  "summary": "Fast compressed ANN search via randomized Hadamard transform and optimal Gaussian scalar quantization. NumPy + Cython compiled kernels.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "snapvec-0.7.0.tar.gz",
-  "download_time": "2026-04-15T12:52:20.712649",
+  "download_filename": "snapvec-0.11.0.tar.gz",
+  "download_time": "2026-04-21T12:07:50.798443",
   "package_url": "https://pypi.org/project/snapvec/"
 }

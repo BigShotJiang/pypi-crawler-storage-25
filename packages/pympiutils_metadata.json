@@ -1,0 +1,11 @@
+{
+  "name": "pympiutils",
+  "version": "1.1.0",
+  "summary": "Python package for parallelized (via MPI) NumPy functions and scatter/gather operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pympiutils-1.1.0.tar.gz",
+  "download_time": "2026-04-21T12:08:04.121136",
+  "package_url": "https://pypi.org/project/pympiutils/"
+}

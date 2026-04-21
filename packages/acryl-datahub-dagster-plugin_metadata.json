@@ -1,11 +1,11 @@
 {
   "name": "acryl-datahub-dagster-plugin",
-  "version": "1.5.0.11",
+  "version": "1.5.0.14",
   "summary": "Datahub Dagster plugin to capture executions and send to Datahub",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://docs.datahub.com/",
-  "download_filename": "acryl_datahub_dagster_plugin-1.5.0.11.tar.gz",
-  "download_time": "2026-04-19T19:47:04.006380",
+  "download_filename": "acryl_datahub_dagster_plugin-1.5.0.14.tar.gz",
+  "download_time": "2026-04-21T12:08:20.642616",
   "package_url": "https://pypi.org/project/acryl-datahub-dagster-plugin/"
 }
