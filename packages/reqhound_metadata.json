@@ -1,0 +1,11 @@
+{
+  "name": "reqhound",
+  "version": "0.1.1",
+  "summary": "Track what your Python script imports at runtime",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reqhound-0.1.1.tar.gz",
+  "download_time": "2026-04-21T00:06:11.358756",
+  "package_url": "https://pypi.org/project/reqhound/"
+}

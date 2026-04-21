@@ -1,11 +1,11 @@
 {
   "name": "cua-computer-server",
-  "version": "0.3.32",
+  "version": "0.3.37",
   "summary": "Server component for the Computer-Use Interface (CUI) framework powering Cua",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cua_computer_server-0.3.32.tar.gz",
-  "download_time": "2026-04-03T04:41:06.136717",
+  "download_filename": "cua_computer_server-0.3.37.tar.gz",
+  "download_time": "2026-04-21T00:05:32.618718",
   "package_url": "https://pypi.org/project/cua-computer-server/"
 }

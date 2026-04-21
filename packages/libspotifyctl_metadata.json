@@ -1,0 +1,11 @@
+{
+  "name": "libspotifyctl",
+  "version": "0.3.3",
+  "summary": "Offline (no Web API) library for reading from and controlling Spotify on Windows",
+  "author": "ColdMeekly",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "libspotifyctl-0.3.3.tar.gz",
+  "download_time": "2026-04-21T00:05:42.116006",
+  "package_url": "https://pypi.org/project/libspotifyctl/"
+}

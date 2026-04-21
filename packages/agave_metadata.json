@@ -1,11 +1,11 @@
 {
   "name": "agave",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "summary": "Rest_api",
   "author": "Cuenca",
   "license": null,
   "home_page": "https://github.com/cuenca-mx/agave",
-  "download_filename": "agave-1.5.2.tar.gz",
-  "download_time": "2026-04-15T22:33:19.603218",
+  "download_filename": "agave-1.5.3.tar.gz",
+  "download_time": "2026-04-21T00:06:05.634211",
   "package_url": "https://pypi.org/project/agave/"
 }

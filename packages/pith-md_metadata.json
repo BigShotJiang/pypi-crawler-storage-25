@@ -1,11 +1,11 @@
 {
   "name": "pith-md",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Visual markdown workspace — hierarchy editor, prose analysis, live preview",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pith_md-0.1.3.tar.gz",
-  "download_time": "2026-04-20T23:10:18.044993",
+  "download_filename": "pith_md-0.1.4.tar.gz",
+  "download_time": "2026-04-21T00:05:39.522331",
   "package_url": "https://pypi.org/project/pith-md/"
 }

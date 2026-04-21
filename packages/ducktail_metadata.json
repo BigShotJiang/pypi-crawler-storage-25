@@ -1,0 +1,11 @@
+{
+  "name": "ducktail",
+  "version": "1.0.2",
+  "summary": "Tail DuckLake tables via CDC",
+  "author": "Jakob Homan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ducktail-1.0.2.tar.gz",
+  "download_time": "2026-04-21T00:05:33.655238",
+  "package_url": "https://pypi.org/project/ducktail/"
+}
