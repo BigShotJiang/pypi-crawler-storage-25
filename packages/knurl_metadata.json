@@ -1,0 +1,11 @@
+{
+  "name": "knurl",
+  "version": "0.1.0",
+  "summary": "Rock-solid primitives for content-addressable hashing, chain fingerprinting, and config diffing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "knurl-0.1.0.tar.gz",
+  "download_time": "2026-04-21T18:53:14.469303",
+  "package_url": "https://pypi.org/project/knurl/"
+}

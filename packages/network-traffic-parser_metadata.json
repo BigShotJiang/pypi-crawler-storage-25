@@ -1,0 +1,11 @@
+{
+  "name": "network-traffic-parser",
+  "version": "0.1.0",
+  "summary": "PCAP validation for telecom control-plane protocols (HTTP/2, PFCP, NGAP, Diameter, …) via pyshark",
+  "author": "http2_parser contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "network_traffic_parser-0.1.0.tar.gz",
+  "download_time": "2026-04-21T18:53:05.159550",
+  "package_url": "https://pypi.org/project/network-traffic-parser/"
+}

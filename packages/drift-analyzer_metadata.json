@@ -1,11 +1,11 @@
 {
   "name": "drift-analyzer",
-  "version": "2.26.2",
+  "version": "2.27.2",
   "summary": "Catches structural erosion from AI-generated code — the bugs that pass all your tests",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "drift_analyzer-2.26.2.tar.gz",
-  "download_time": "2026-04-21T14:12:32.478397",
+  "download_filename": "drift_analyzer-2.27.2.tar.gz",
+  "download_time": "2026-04-21T18:53:06.198373",
   "package_url": "https://pypi.org/project/drift-analyzer/"
 }

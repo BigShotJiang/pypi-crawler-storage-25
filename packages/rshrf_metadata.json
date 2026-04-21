@@ -1,0 +1,11 @@
+{
+  "name": "rshrf",
+  "version": "1.6.4",
+  "summary": "BIDs App to retrieve the haemodynamic response function from resting state fMRI data",
+  "author": "Madhur Tandon, Amogh Johri",
+  "license": "MIT",
+  "home_page": "https://github.com/BIDS-Apps/rsHRF",
+  "download_filename": "rshrf-1.6.4.tar.gz",
+  "download_time": "2026-04-21T18:53:12.395452",
+  "package_url": "https://pypi.org/project/rshrf/"
+}

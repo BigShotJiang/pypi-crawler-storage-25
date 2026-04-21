@@ -1,11 +1,11 @@
 {
   "name": "sumd",
-  "version": "0.3.18",
+  "version": "0.3.19",
   "summary": "SUMD - Structured Unified Markdown Descriptor for AI-aware project documentation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sumd-0.3.18.tar.gz",
-  "download_time": "2026-04-20T16:53:57.434692",
+  "download_filename": "sumd-0.3.19.tar.gz",
+  "download_time": "2026-04-21T18:52:51.190855",
   "package_url": "https://pypi.org/project/sumd/"
 }

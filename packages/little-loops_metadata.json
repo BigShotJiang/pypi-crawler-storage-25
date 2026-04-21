@@ -1,11 +1,11 @@
 {
   "name": "little-loops",
-  "version": "1.82.0",
+  "version": "1.86.0",
   "summary": "Development workflow toolkit for Claude Code with issue management, code quality commands, and automated processing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "little_loops-1.82.0.tar.gz",
-  "download_time": "2026-04-14T05:55:32.712100",
+  "download_filename": "little_loops-1.86.0.tar.gz",
+  "download_time": "2026-04-21T18:52:48.111779",
   "package_url": "https://pypi.org/project/little-loops/"
 }

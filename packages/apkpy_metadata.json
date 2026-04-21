@@ -1,11 +1,11 @@
 {
   "name": "apkpy",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "A simple framework to build Android apps using Python and CSS-like styling",
   "author": "Martim",
   "license": null,
   "home_page": "https://github.com/teu-usuario/apkpy",
-  "download_filename": "apkpy-0.4.0.tar.gz",
-  "download_time": "2026-04-19T18:59:31.399429",
+  "download_filename": "apkpy-0.6.0.tar.gz",
+  "download_time": "2026-04-21T18:53:25.010682",
   "package_url": "https://pypi.org/project/apkpy/"
 }

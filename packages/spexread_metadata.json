@@ -1,0 +1,11 @@
+{
+  "name": "spexread",
+  "version": "0.2.2",
+  "summary": "A module for reading Princeton Instruments SPE files (version 2.x and 3.0) captured by WinSpec or LightField",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spexread-0.2.2.tar.gz",
+  "download_time": "2026-04-21T18:53:23.474788",
+  "package_url": "https://pypi.org/project/spexread/"
+}
