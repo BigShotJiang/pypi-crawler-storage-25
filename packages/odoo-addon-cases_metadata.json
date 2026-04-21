@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-cases",
+  "version": "16.0.2.3.0",
+  "summary": "Custom Cases Management Module for ESK",
+  "author": "Coopdevs",
+  "license": "AGPL-3",
+  "home_page": "https://git.coopdevs.org/talaios/addons/cases#",
+  "download_filename": "odoo_addon_cases-16.0.2.3.0.tar.gz",
+  "download_time": "2026-04-21T14:12:25.255865",
+  "package_url": "https://pypi.org/project/odoo-addon-cases/"
+}

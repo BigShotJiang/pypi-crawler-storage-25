@@ -1,11 +1,11 @@
 {
   "name": "datalex-cli",
-  "version": "0.2.2",
+  "version": "0.5.0",
   "summary": "Git-native data modeling for dbt users",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datalex_cli-0.2.2.tar.gz",
-  "download_time": "2026-04-20T22:10:06.563673",
+  "download_filename": "datalex_cli-0.5.0.tar.gz",
+  "download_time": "2026-04-21T14:12:18.577044",
   "package_url": "https://pypi.org/project/datalex-cli/"
 }

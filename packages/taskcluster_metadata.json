@@ -1,11 +1,11 @@
 {
   "name": "taskcluster",
-  "version": "99.0.3",
+  "version": "99.1.1",
   "summary": "Python client for Taskcluster",
   "author": null,
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "taskcluster-99.0.3.tar.gz",
-  "download_time": "2026-04-07T15:58:41.227028",
+  "download_filename": "taskcluster-99.1.1.tar.gz",
+  "download_time": "2026-04-21T14:12:20.117650",
   "package_url": "https://pypi.org/project/taskcluster/"
 }

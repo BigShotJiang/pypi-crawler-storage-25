@@ -1,11 +1,11 @@
 {
   "name": "pragmatiks-qdrant-provider",
-  "version": "0.49.0",
+  "version": "0.54.0",
   "summary": "Qdrant provider for Pragmatiks",
   "author": "Pragmatiks",
   "license": null,
   "home_page": null,
-  "download_filename": "pragmatiks_qdrant_provider-0.49.0.tar.gz",
-  "download_time": "2026-04-18T15:04:25.882419",
+  "download_filename": "pragmatiks_qdrant_provider-0.54.0.tar.gz",
+  "download_time": "2026-04-21T14:12:03.090076",
   "package_url": "https://pypi.org/project/pragmatiks-qdrant-provider/"
 }

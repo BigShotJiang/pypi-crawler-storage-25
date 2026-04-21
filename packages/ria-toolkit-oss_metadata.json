@@ -1,0 +1,11 @@
+{
+  "name": "ria-toolkit-oss",
+  "version": "0.1.5",
+  "summary": "An open-source version of the RIA Toolkit, including the fundamental tools to get started developing, testing, and deploying radio intelligence applications",
+  "author": "Qoherent Inc.",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "ria_toolkit_oss-0.1.5-py3-none-any.whl",
+  "download_time": "2026-04-21T14:12:32.992629",
+  "package_url": "https://pypi.org/project/ria-toolkit-oss/"
+}

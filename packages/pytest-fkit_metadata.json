@@ -1,11 +1,11 @@
 {
   "name": "pytest-fkit",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "summary": "A pytest plugin that prevents crashes from killing your test suite",
   "author": "Cemberk",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytest_fkit-0.10.0.tar.gz",
-  "download_time": "2026-04-19T15:04:29.774721",
+  "download_filename": "pytest_fkit-0.11.0.tar.gz",
+  "download_time": "2026-04-21T14:12:15.986076",
   "package_url": "https://pypi.org/project/pytest-fkit/"
 }

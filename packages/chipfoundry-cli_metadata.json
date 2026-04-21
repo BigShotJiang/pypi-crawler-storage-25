@@ -1,11 +1,11 @@
 {
   "name": "chipfoundry-cli",
-  "version": "2.4.0",
+  "version": "2.4.5",
   "summary": "CLI tool to automate ChipFoundry project submission to SFTP server",
   "author": "ChipFoundry",
   "license": "Apache-2.0",
   "home_page": "https://chipfoundry.io",
-  "download_filename": "chipfoundry_cli-2.4.0.tar.gz",
-  "download_time": "2026-04-20T23:10:22.802559",
+  "download_filename": "chipfoundry_cli-2.4.5.tar.gz",
+  "download_time": "2026-04-21T14:12:34.024919",
   "package_url": "https://pypi.org/project/chipfoundry-cli/"
 }

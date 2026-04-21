@@ -1,0 +1,11 @@
+{
+  "name": "wagent-framework",
+  "version": "1.4.0",
+  "summary": "Python enterprise agent framework with AOP, IOC, and sandbox security",
+  "author": "LuckyStar2456",
+  "license": "MIT",
+  "home_page": "https://github.com/LuckyStar2456/W-Agent-FrameWork",
+  "download_filename": "wagent_framework-1.4.0-py3-none-any.whl",
+  "download_time": "2026-04-21T14:12:46.515646",
+  "package_url": "https://pypi.org/project/wagent-framework/"
+}

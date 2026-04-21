@@ -1,0 +1,11 @@
+{
+  "name": "sql-error-categorizer",
+  "version": "0.2.4",
+  "summary": "This project analyses SQL statements and labels possible errors or complications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sql_error_categorizer-0.2.4.tar.gz",
+  "download_time": "2026-04-21T14:12:38.196942",
+  "package_url": "https://pypi.org/project/sql-error-categorizer/"
+}
