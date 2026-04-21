@@ -1,0 +1,11 @@
+{
+  "name": "arcgis-mapping",
+  "version": "5.0.0",
+  "summary": "Leverage Python for ArcGIS! This package provides classes for building both interactive 2D maps and immersive 3D scenes.",
+  "author": null,
+  "license": "Esri Master License Agreement",
+  "home_page": null,
+  "download_filename": "arcgis_mapping-5.0.0-py3-none-any.whl",
+  "download_time": "2026-04-21T16:48:33.560428",
+  "package_url": "https://pypi.org/project/arcgis-mapping/"
+}

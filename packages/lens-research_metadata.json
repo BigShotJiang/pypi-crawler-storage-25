@@ -1,11 +1,11 @@
 {
   "name": "lens-research",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "LLM Engineering Navigation System — discovers recurring solution patterns from LLM research papers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lens_research-0.9.0.tar.gz",
-  "download_time": "2026-04-12T15:56:53.244457",
+  "download_filename": "lens_research-0.9.1.tar.gz",
+  "download_time": "2026-04-21T16:49:10.299537",
   "package_url": "https://pypi.org/project/lens-research/"
 }

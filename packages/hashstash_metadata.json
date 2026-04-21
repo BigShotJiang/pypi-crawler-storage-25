@@ -1,0 +1,11 @@
+{
+  "name": "hashstash",
+  "version": "0.4.0",
+  "summary": "A simple file-based caching system using hash-based file names",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hashstash-0.4.0.tar.gz",
+  "download_time": "2026-04-21T16:48:41.415689",
+  "package_url": "https://pypi.org/project/hashstash/"
+}

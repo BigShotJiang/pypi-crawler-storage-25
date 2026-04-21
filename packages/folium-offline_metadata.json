@@ -1,0 +1,11 @@
+{
+  "name": "folium-offline",
+  "version": "0.20.0.0",
+  "summary": "Offline version of folium with web resources embedded. All credit lies with Rob Story, creator of folium.",
+  "author": "Sandia National Laboratories",
+  "license": "MIT",
+  "home_page": "https://github.com/python-visualization/folium",
+  "download_filename": "folium_offline-0.20.0.0.tar.gz",
+  "download_time": "2026-04-21T16:48:38.265271",
+  "package_url": "https://pypi.org/project/folium-offline/"
+}

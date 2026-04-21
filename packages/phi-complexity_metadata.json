@@ -1,11 +1,11 @@
 {
   "name": "phi-complexity",
-  "version": "0.1.1",
+  "version": "0.2.2",
   "summary": "Code quality metrics based on Golden Ratio (φ) mathematical invariants",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "phi_complexity-0.1.1.tar.gz",
-  "download_time": "2026-04-08T23:07:07.098136",
+  "download_filename": "phi_complexity-0.2.2.tar.gz",
+  "download_time": "2026-04-21T16:49:00.497676",
   "package_url": "https://pypi.org/project/phi-complexity/"
 }

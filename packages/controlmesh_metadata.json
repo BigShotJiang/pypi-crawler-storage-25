@@ -1,0 +1,11 @@
+{
+  "name": "controlmesh",
+  "version": "0.19.0",
+  "summary": "ControlMesh brings official coding CLIs into Telegram, Matrix, and Feishu with persistent workspaces, long-running jobs, and production-friendly bot operations.",
+  "author": "muqiao215",
+  "license": null,
+  "home_page": null,
+  "download_filename": "controlmesh-0.19.0.tar.gz",
+  "download_time": "2026-04-21T16:48:37.220659",
+  "package_url": "https://pypi.org/project/controlmesh/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fmql",
+  "version": "0.2.3",
+  "summary": "A schemaless query engine and editor for directories of frontmatter files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fmql-0.2.3.tar.gz",
+  "download_time": "2026-04-21T16:48:54.828225",
+  "package_url": "https://pypi.org/project/fmql/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "augint-tools",
-  "version": "5.19.0",
+  "version": "5.20.1",
   "summary": "CLI for AI-assisted repository and workspace workflows",
   "author": "svange",
   "license": null,
   "home_page": null,
-  "download_filename": "augint_tools-5.19.0.tar.gz",
-  "download_time": "2026-04-21T07:57:38.146728",
+  "download_filename": "augint_tools-5.20.1.tar.gz",
+  "download_time": "2026-04-21T16:49:11.331219",
   "package_url": "https://pypi.org/project/augint-tools/"
 }
