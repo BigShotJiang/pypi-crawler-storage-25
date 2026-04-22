@@ -1,11 +1,11 @@
 {
   "name": "BmorricalDjangoWorkflows",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "summary": "Reusable Django Workflows",
   "author": "Bradley Morrical",
   "license": null,
   "home_page": "https://github.com/Bmorrical/django-workflows",
-  "download_filename": "bmorricaldjangoworkflows-2.1.4.tar.gz",
-  "download_time": "2026-04-13T10:40:51.114752",
+  "download_filename": "bmorricaldjangoworkflows-2.1.5.tar.gz",
+  "download_time": "2026-04-22T20:18:03.745081",
   "package_url": "https://pypi.org/project/BmorricalDjangoWorkflows/"
 }

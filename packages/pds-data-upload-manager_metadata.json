@@ -1,0 +1,11 @@
+{
+  "name": "pds-data-upload-manager",
+  "version": "2.5.5",
+  "summary": "Planetary Data Service Data Delivery Manager",
+  "author": "PDS",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/NASA-PDS/data-upload-manager",
+  "download_filename": "pds_data_upload_manager-2.5.5-py3-none-any.whl",
+  "download_time": "2026-04-22T20:18:22.354808",
+  "package_url": "https://pypi.org/project/pds-data-upload-manager/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deephaven-plugin-ui",
+  "version": "0.35.0",
+  "summary": "deephaven.ui plugin",
+  "author": "Deephaven Data Labs",
+  "license": null,
+  "home_page": "https://github.com/deephaven/deephaven-plugins",
+  "download_filename": "deephaven_plugin_ui-0.35.0.tar.gz",
+  "download_time": "2026-04-22T20:18:30.594526",
+  "package_url": "https://pypi.org/project/deephaven-plugin-ui/"
+}

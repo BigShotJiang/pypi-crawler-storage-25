@@ -1,11 +1,11 @@
 {
   "name": "m3serve",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "High-throughput BGE-M3 inference engine with dense + sparse embeddings",
   "author": "MauroCE",
   "license": null,
   "home_page": null,
-  "download_filename": "m3serve-0.1.4.tar.gz",
-  "download_time": "2026-04-22T16:49:40.597499",
+  "download_filename": "m3serve-0.1.6.tar.gz",
+  "download_time": "2026-04-22T20:18:16.087315",
   "package_url": "https://pypi.org/project/m3serve/"
 }

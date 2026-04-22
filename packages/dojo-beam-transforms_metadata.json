@@ -1,0 +1,11 @@
+{
+  "name": "dojo-beam-transforms",
+  "version": "3.1.1.post1",
+  "summary": "Apache Beam 2.72.0 transforms and utilities for Python 3.12",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/DOJO-Smart-Ways/DOJO-Beam-Transforms",
+  "download_filename": "dojo_beam_transforms-3.1.1.post1.tar.gz",
+  "download_time": "2026-04-22T20:18:21.253556",
+  "package_url": "https://pypi.org/project/dojo-beam-transforms/"
+}

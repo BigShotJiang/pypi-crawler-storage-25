@@ -1,11 +1,11 @@
 {
   "name": "anipy-api",
-  "version": "3.8.5",
+  "version": "3.8.7",
   "summary": "api for anipy-cli",
   "author": "sdaqo",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "anipy_api-3.8.5.tar.gz",
-  "download_time": "2026-04-05T18:52:01.707751",
+  "download_filename": "anipy_api-3.8.7.tar.gz",
+  "download_time": "2026-04-22T20:18:20.655766",
   "package_url": "https://pypi.org/project/anipy-api/"
 }

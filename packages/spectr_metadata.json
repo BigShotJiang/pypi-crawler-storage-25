@@ -1,0 +1,11 @@
+{
+  "name": "spectr",
+  "version": "0.6.0",
+  "summary": "A TUI for browsing Analyzer4D data stream files",
+  "author": "Ossmos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spectr-0.6.0.tar.gz",
+  "download_time": "2026-04-22T20:18:44.067118",
+  "package_url": "https://pypi.org/project/spectr/"
+}

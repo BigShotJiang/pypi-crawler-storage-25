@@ -1,0 +1,11 @@
+{
+  "name": "napari-fenestra",
+  "version": "0.2.2",
+  "summary": "FenestRA: A Napari plugin for LSEC AFM Super-Resolution & Fenestration Analysis.",
+  "author": "Arkajyoti Sarkar",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/LIVR-VUB/FenestRA",
+  "download_filename": "napari_fenestra-0.2.2.tar.gz",
+  "download_time": "2026-04-22T20:18:08.483632",
+  "package_url": "https://pypi.org/project/napari-fenestra/"
+}

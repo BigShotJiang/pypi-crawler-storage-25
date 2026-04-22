@@ -1,11 +1,11 @@
 {
   "name": "agentmemory-rrs",
-  "version": "4.3.0",
+  "version": "4.4.2",
   "summary": "Persistent memory for AI coding agents. Correct once, remembered forever. Every design decision validated by experiment before shipping to production.",
   "author": "robotrocketscience",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentmemory_rrs-4.3.0.tar.gz",
-  "download_time": "2026-04-21T18:53:11.878761",
+  "download_filename": "agentmemory_rrs-4.4.2.tar.gz",
+  "download_time": "2026-04-22T20:18:19.119621",
   "package_url": "https://pypi.org/project/agentmemory-rrs/"
 }

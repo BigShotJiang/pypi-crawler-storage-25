@@ -1,11 +1,11 @@
 {
   "name": "openagentmesh",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "summary": "Python SDK for agent-to-agent communication based on the Open Agent Mesh Protocol",
   "author": "Luca Sorgiacomo",
   "license": null,
   "home_page": null,
-  "download_filename": "openagentmesh-0.1.6.tar.gz",
-  "download_time": "2026-04-21T21:11:53.893028",
+  "download_filename": "openagentmesh-0.2.0.tar.gz",
+  "download_time": "2026-04-22T20:18:25.345002",
   "package_url": "https://pypi.org/project/openagentmesh/"
 }

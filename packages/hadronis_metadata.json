@@ -1,11 +1,11 @@
 {
   "name": "hadronis",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "summary": "High-performance Geometric GNN Engine",
   "author": "Louis Chereau",
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "hadronis-0.6.1.tar.gz",
-  "download_time": "2026-04-03T19:03:23.251731",
+  "download_filename": "hadronis-0.7.0.tar.gz",
+  "download_time": "2026-04-22T20:18:45.089893",
   "package_url": "https://pypi.org/project/hadronis/"
 }
