@@ -1,11 +1,11 @@
 {
   "name": "acong-tech-xiangqin",
-  "version": "0.3.0.dev202604221416",
-  "summary": "相亲平台 CLI — 付费置顶曝光商业模式（xq 命令 + xiangqin skill 配套）",
+  "version": "0.4.0",
+  "summary": "相亲平台 CLI — 虚拟信封私信商业模式（xq 命令 + xiangqin skill 配套）",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "acong_tech_xiangqin-0.3.0.dev202604221416.tar.gz",
-  "download_time": "2026-04-22T06:26:04.135786",
+  "download_filename": "acong_tech_xiangqin-0.4.0.tar.gz",
+  "download_time": "2026-04-22T23:14:10.802744",
   "package_url": "https://pypi.org/project/acong-tech-xiangqin/"
 }

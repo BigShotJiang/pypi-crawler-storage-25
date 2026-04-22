@@ -1,0 +1,11 @@
+{
+  "name": "sima-cli",
+  "version": "2.1.1",
+  "summary": "CLI tool for SiMa Developer Portal to download models, firmware, and apps.",
+  "author": "SiMa.ai",
+  "license": null,
+  "home_page": "https://developer.sima.ai/",
+  "download_filename": "sima_cli-2.1.1-py3-none-any.whl",
+  "download_time": "2026-04-22T23:14:18.499311",
+  "package_url": "https://pypi.org/project/sima-cli/"
+}

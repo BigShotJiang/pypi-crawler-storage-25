@@ -1,11 +1,11 @@
 {
   "name": "fastpyxl",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "summary": "A high-performance Python library to read/write Excel 2010 xlsx/xlsm files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastpyxl-1.0.7.tar.gz",
-  "download_time": "2026-03-31T00:00:13.419655",
+  "download_filename": "fastpyxl-1.0.9.tar.gz",
+  "download_time": "2026-04-22T23:14:06.703392",
   "package_url": "https://pypi.org/project/fastpyxl/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "kvbm",
+  "version": "1.0.2",
+  "summary": "Dynamo KVBM",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ai-dynamo/dynamo",
+  "download_filename": "kvbm-1.0.2-cp310-abi3-manylinux_2_28_aarch64.whl",
+  "download_time": "2026-04-22T23:13:57.385324",
+  "package_url": "https://pypi.org/project/kvbm/"
+}

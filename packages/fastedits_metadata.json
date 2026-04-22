@@ -1,11 +1,11 @@
 {
   "name": "fastedits",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "summary": "AST-aware code editing — 45% fewer output tokens than unified diffs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastedits-0.1.2.tar.gz",
-  "download_time": "2026-04-21T14:12:05.203922",
+  "download_filename": "fastedits-0.2.1.tar.gz",
+  "download_time": "2026-04-22T23:14:19.017000",
   "package_url": "https://pypi.org/project/fastedits/"
 }

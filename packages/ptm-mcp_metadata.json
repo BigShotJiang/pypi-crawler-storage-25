@@ -1,11 +1,11 @@
 {
   "name": "ptm-mcp",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "MCP stdio server for the Prompt Test Manager API",
   "author": "PTM Team",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "ptm_mcp-0.2.0.tar.gz",
-  "download_time": "2026-04-21T16:48:44.495086",
+  "download_filename": "ptm_mcp-0.3.0.tar.gz",
+  "download_time": "2026-04-22T23:13:40.552625",
   "package_url": "https://pypi.org/project/ptm-mcp/"
 }

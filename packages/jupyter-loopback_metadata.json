@@ -1,11 +1,11 @@
 {
   "name": "jupyter-loopback",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Make kernel-local HTTP/WS servers reachable from the notebook browser with zero user config.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jupyter_loopback-0.3.0.tar.gz",
-  "download_time": "2026-04-22T20:18:49.718091",
+  "download_filename": "jupyter_loopback-0.3.1.tar.gz",
+  "download_time": "2026-04-22T23:13:48.360222",
   "package_url": "https://pypi.org/project/jupyter-loopback/"
 }

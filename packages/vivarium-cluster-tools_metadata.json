@@ -1,0 +1,11 @@
+{
+  "name": "vivarium-cluster-tools",
+  "version": "3.1.1",
+  "summary": "A set of tools for running simulation using vivarium on cluster.",
+  "author": "The vivarium developers",
+  "license": null,
+  "home_page": "https://github.com/ihmeuw/vivarium_cluster_tools",
+  "download_filename": "vivarium_cluster_tools-3.1.1.tar.gz",
+  "download_time": "2026-04-22T23:13:59.434450",
+  "package_url": "https://pypi.org/project/vivarium-cluster-tools/"
+}

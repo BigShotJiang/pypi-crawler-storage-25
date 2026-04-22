@@ -1,0 +1,11 @@
+{
+  "name": "openwisp-users",
+  "version": "1.2.1",
+  "summary": "Provides basic multi-tenancy features for OpenWISP (using the Django web-framework)",
+  "author": "OpenWISP",
+  "license": "BSD",
+  "home_page": "http://openwisp.org",
+  "download_filename": "openwisp_users-1.2.1.tar.gz",
+  "download_time": "2026-04-22T23:14:13.870414",
+  "package_url": "https://pypi.org/project/openwisp-users/"
+}

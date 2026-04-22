@@ -1,0 +1,11 @@
+{
+  "name": "rulesync",
+  "version": "1.0.0",
+  "summary": "One source of truth for all your AI coding agent rule files. Sync AGENTS.md, CLAUDE.md, .cursorrules, copilot-instructions.md, GEMINI.md, and .windsurfrules from a single canonical file.",
+  "author": "Linda Oraegbunam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rulesync-1.0.0.tar.gz",
+  "download_time": "2026-04-22T23:14:15.921501",
+  "package_url": "https://pypi.org/project/rulesync/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dmx-compress",
-  "version": "0.3.0",
-  "summary": "DMX — Delta Multiplexed Model Format. Near-lossless neural network weight compression.",
+  "version": "1.5.2",
+  "summary": "Lossless compression for neural network weights. Bit-exact storage, content-addressable deltas, embedded provenance.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dmx_compress-0.3.0.tar.gz",
-  "download_time": "2026-04-04T04:27:56.610591",
+  "download_filename": "dmx_compress-1.5.2-cp310-cp310-manylinux_2_35_x86_64.whl",
+  "download_time": "2026-04-22T23:13:41.582795",
   "package_url": "https://pypi.org/project/dmx-compress/"
 }

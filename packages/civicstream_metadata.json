@@ -1,0 +1,11 @@
+{
+  "name": "civicstream",
+  "version": "1.2.1",
+  "summary": "CivicAlert Streaming Data Capture and Visualization Tool",
+  "author": "Will Hedgecock",
+  "license": null,
+  "home_page": "https://github.com/vu-civic/tools",
+  "download_filename": "civicstream-1.2.1.tar.gz",
+  "download_time": "2026-04-22T23:13:43.699792",
+  "package_url": "https://pypi.org/project/civicstream/"
+}

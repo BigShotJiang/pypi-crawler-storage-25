@@ -1,11 +1,11 @@
 {
   "name": "buzur",
-  "version": "1.0.1",
-  "summary": "AI prompt injection defense scanner for agents. 19 phases covering HTML obfuscation, encoding attacks, semantic similarity, behavioral anomaly detection, multi-step attack chains, and more.",
+  "version": "1.1.0",
+  "summary": "AI prompt injection defense scanner for agents. 24 phases covering HTML obfuscation, encoding attacks, semantic similarity, behavioral anomaly detection, multi-step attack chains, and more.",
   "author": "SummSolutions",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "buzur-1.0.1.tar.gz",
-  "download_time": "2026-04-14T22:11:05.939404",
+  "download_filename": "buzur-1.1.0.tar.gz",
+  "download_time": "2026-04-22T23:13:53.133738",
   "package_url": "https://pypi.org/project/buzur/"
 }
