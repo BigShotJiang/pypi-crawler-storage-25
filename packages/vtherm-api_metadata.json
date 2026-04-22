@@ -1,0 +1,11 @@
+{
+  "name": "vtherm-api",
+  "version": "0.3.0",
+  "summary": "The API of the Versatile Thermostat integration for Home Assistant",
+  "author": "Jean-Marc Collin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vtherm_api-0.3.0.tar.gz",
+  "download_time": "2026-04-22T18:54:34.157605",
+  "package_url": "https://pypi.org/project/vtherm-api/"
+}

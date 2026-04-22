@@ -1,11 +1,11 @@
 {
   "name": "xfinlink",
-  "version": "0.5.2",
+  "version": "0.5.7",
   "summary": "Free financial data API client — prices, fundamentals, entity resolution for all US equities",
   "author": "xfinlink team",
   "license": null,
   "home_page": null,
-  "download_filename": "xfinlink-0.5.2.tar.gz",
-  "download_time": "2026-04-20T16:54:10.459718",
+  "download_filename": "xfinlink-0.5.7.tar.gz",
+  "download_time": "2026-04-22T18:54:11.696493",
   "package_url": "https://pypi.org/project/xfinlink/"
 }

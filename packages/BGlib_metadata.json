@@ -1,0 +1,11 @@
+{
+  "name": "BGlib",
+  "version": "0.0.6",
+  "summary": "Band Excitation and General Mode analysis and visualization codes",
+  "author": "Suhas Somnath, Chris R. Smith, Rama K. Vasudevan, Stephen Jesse, Anton Ievlev, and contributors",
+  "license": "MIT",
+  "home_page": "https://pycroscopy.github.io/BGlib/about.html",
+  "download_filename": "bglib-0.0.6.tar.gz",
+  "download_time": "2026-04-22T18:54:50.537531",
+  "package_url": "https://pypi.org/project/BGlib/"
+}

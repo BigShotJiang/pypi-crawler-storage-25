@@ -1,11 +1,11 @@
 {
   "name": "imperal-sdk",
-  "version": "1.5.12",
+  "version": "1.5.24",
   "summary": "SDK for building Imperal Cloud extensions",
   "author": "Valentin Scerbacov, Imperal, Inc.",
   "license": null,
   "home_page": null,
-  "download_filename": "imperal_sdk-1.5.12.tar.gz",
-  "download_time": "2026-04-18T22:10:51.713710",
+  "download_filename": "imperal_sdk-1.5.24.tar.gz",
+  "download_time": "2026-04-22T18:54:50.018154",
   "package_url": "https://pypi.org/project/imperal-sdk/"
 }

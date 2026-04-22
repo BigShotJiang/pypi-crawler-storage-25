@@ -1,0 +1,11 @@
+{
+  "name": "hierocode",
+  "version": "0.3.3",
+  "summary": "A local-first hierarchical coding orchestrator for delegating tasks to local or self-hosted models.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hierocode-0.3.3.tar.gz",
+  "download_time": "2026-04-22T18:54:18.526360",
+  "package_url": "https://pypi.org/project/hierocode/"
+}

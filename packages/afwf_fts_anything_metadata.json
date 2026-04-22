@@ -1,0 +1,11 @@
+{
+  "name": "afwf_fts_anything",
+  "version": "2.0.2",
+  "summary": "Allows you to do full-text search on your own dataset, and use the result to open url, open file, run script, or basically do anything.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "afwf_fts_anything-2.0.2.tar.gz",
+  "download_time": "2026-04-22T18:54:26.871089",
+  "package_url": "https://pypi.org/project/afwf_fts_anything/"
+}

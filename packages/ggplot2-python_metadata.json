@@ -1,11 +1,11 @@
 {
   "name": "ggplot2-python",
-  "version": "4.0.2.9000",
+  "version": "4.0.2.9000.post1",
   "summary": "Python port of the R ggplot2 package (tracks R ggplot2 4.0.2.9000)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ggplot2_python-4.0.2.9000.tar.gz",
-  "download_time": "2026-04-21T23:41:10.247996",
+  "download_filename": "ggplot2_python-4.0.2.9000.post1.tar.gz",
+  "download_time": "2026-04-22T18:54:53.717847",
   "package_url": "https://pypi.org/project/ggplot2-python/"
 }
