@@ -1,0 +1,11 @@
+{
+  "name": "goofish-cli",
+  "version": "0.2.0",
+  "summary": "闲鱼 CLI — 支持 MCP，未来支持 Claude Skills。为 AI Agent 提供闲鱼自动化基础能力。",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "goofish_cli-0.2.0.tar.gz",
+  "download_time": "2026-04-22T04:25:55.070497",
+  "package_url": "https://pypi.org/project/goofish-cli/"
+}

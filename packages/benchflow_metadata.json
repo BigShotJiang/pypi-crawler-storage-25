@@ -1,11 +1,11 @@
 {
   "name": "benchflow",
-  "version": "0.2.3",
+  "version": "0.3.1",
   "summary": "Multi-turn agent benchmarking with ACP — run any agent, any model, any provider.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "benchflow-0.2.3.tar.gz",
-  "download_time": "2026-04-20T11:05:17.601758",
+  "download_filename": "benchflow-0.3.1.tar.gz",
+  "download_time": "2026-04-22T04:26:00.195668",
   "package_url": "https://pypi.org/project/benchflow/"
 }

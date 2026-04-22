@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-auth-oauth-multi-token",
+  "version": "19.0.1.0.0.3",
+  "summary": "Allow multiple connection with the same OAuth account",
+  "author": "Florent de Labarre, Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-auth",
+  "download_filename": "odoo_addon_auth_oauth_multi_token-19.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-04-22T04:26:11.959577",
+  "package_url": "https://pypi.org/project/odoo-addon-auth-oauth-multi-token/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "advanced-agent",
+  "version": "0.1.1",
+  "summary": "MCP server and CLI for researching developer tools using Firecrawl, LangGraph, and Ollama",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "advanced_agent-0.1.1.tar.gz",
+  "download_time": "2026-04-22T04:26:02.240110",
+  "package_url": "https://pypi.org/project/advanced-agent/"
+}

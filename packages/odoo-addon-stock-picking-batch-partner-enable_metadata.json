@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-picking-batch-partner-enable",
+  "version": "19.0.1.0.0.4",
+  "summary": "Control the Automatic Batches grouping per partner",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_picking_batch_partner_enable-19.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-04-22T04:25:37.632744",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-picking-batch-partner-enable/"
+}

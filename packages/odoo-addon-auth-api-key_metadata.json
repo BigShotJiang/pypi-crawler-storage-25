@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-auth-api-key",
+  "version": "19.0.1.0.1.3",
+  "summary": "Authenticate http requests from an API key",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/server-auth",
+  "download_filename": "odoo_addon_auth_api_key-19.0.1.0.1.3-py3-none-any.whl",
+  "download_time": "2026-04-22T04:26:12.980478",
+  "package_url": "https://pypi.org/project/odoo-addon-auth-api-key/"
+}

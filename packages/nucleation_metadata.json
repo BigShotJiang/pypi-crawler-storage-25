@@ -1,11 +1,11 @@
 {
   "name": "nucleation",
-  "version": "0.1.183",
+  "version": "0.1.184",
   "summary": "A high-performance Minecraft schematic parser and utility library",
   "author": null,
   "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "nucleation-0.1.183.tar.gz",
-  "download_time": "2026-04-21T07:57:43.360870",
+  "download_filename": "nucleation-0.1.184.tar.gz",
+  "download_time": "2026-04-22T04:25:43.841994",
   "package_url": "https://pypi.org/project/nucleation/"
 }

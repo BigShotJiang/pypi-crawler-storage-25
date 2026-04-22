@@ -1,11 +1,11 @@
 {
   "name": "fastmcp-gateway",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "Progressive tool discovery gateway for MCP, built on FastMCP",
   "author": "Ultrathink Solutions",
   "license": null,
   "home_page": null,
-  "download_filename": "fastmcp_gateway-0.9.0.tar.gz",
-  "download_time": "2026-04-21T23:02:07.768699",
+  "download_filename": "fastmcp_gateway-0.10.0.tar.gz",
+  "download_time": "2026-04-22T04:25:52.009780",
   "package_url": "https://pypi.org/project/fastmcp-gateway/"
 }

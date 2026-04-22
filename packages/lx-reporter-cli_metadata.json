@@ -1,0 +1,11 @@
+{
+  "name": "lx-reporter-cli",
+  "version": "1.0.2",
+  "summary": "灵犀埋点CLI工具 - 自动安装脚本",
+  "author": "Meituan",
+  "license": null,
+  "home_page": "https://github.com/meituan/lx-reporter-cli",
+  "download_filename": "lx_reporter_cli-1.0.2.tar.gz",
+  "download_time": "2026-04-22T04:26:16.597282",
+  "package_url": "https://pypi.org/project/lx-reporter-cli/"
+}

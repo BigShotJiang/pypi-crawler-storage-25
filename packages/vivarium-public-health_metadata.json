@@ -1,0 +1,11 @@
+{
+  "name": "vivarium-public-health",
+  "version": "5.1.2",
+  "summary": "Components for modelling diseases, risks, and interventions with ``vivarium``",
+  "author": "The vivarium developers",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/ihmeuw/vivarium_public_health",
+  "download_filename": "vivarium_public_health-5.1.2.tar.gz",
+  "download_time": "2026-04-22T04:25:51.498346",
+  "package_url": "https://pypi.org/project/vivarium-public-health/"
+}

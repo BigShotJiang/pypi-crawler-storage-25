@@ -1,0 +1,11 @@
+{
+  "name": "bca-mcp",
+  "version": "0.2.3",
+  "summary": "Blockchain Academics MCP server + `bca` CLI — crypto news, entity dossiers, market data, proprietary indicators, and academy explainers for AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bca_mcp-0.2.3.tar.gz",
+  "download_time": "2026-04-22T04:26:05.814168",
+  "package_url": "https://pypi.org/project/bca-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-auth-oidc",
+  "version": "19.0.1.0.0.3",
+  "summary": "Allow users to login through OpenID Connect Provider",
+  "author": "=?utf-8?q?ICTSTUDIO=2C_Andr=C3=A9_Schenkels=2C_ACSONE_SA/NV=2C_Odoo_Community_Association_=28OCA=29?=",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-auth",
+  "download_filename": "odoo_addon_auth_oidc-19.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-04-22T04:26:10.429950",
+  "package_url": "https://pypi.org/project/odoo-addon-auth-oidc/"
+}

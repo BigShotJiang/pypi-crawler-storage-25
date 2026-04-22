@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail-debranding",
+  "version": "19.0.1.0.0.6",
+  "summary": "Remove Odoo branding in sent emails Removes anchor <a href odoo.com togheder with it's parent ( for powerd by) form all the templates removes any 'odoo' that are in tempalte texts > 20characters",
+  "author": "Tecnativa, ForgeFlow, Onestein, Sodexis, Nexterp Romania, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-brand",
+  "download_filename": "odoo_addon_mail_debranding-19.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2026-04-22T04:26:06.325059",
+  "package_url": "https://pypi.org/project/odoo-addon-mail-debranding/"
+}

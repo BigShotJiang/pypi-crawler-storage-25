@@ -1,11 +1,11 @@
 {
   "name": "hospital-vuln-mcp",
-  "version": "1.1.2",
+  "version": "1.1.8",
   "summary": "Hospital Vulnerability Scanner MCP Server - Security scanning for healthcare systems",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hospital_vuln_mcp-1.1.2.tar.gz",
-  "download_time": "2026-04-21T16:48:45.522845",
+  "download_filename": "hospital_vuln_mcp-1.1.8.tar.gz",
+  "download_time": "2026-04-22T04:25:46.903349",
   "package_url": "https://pypi.org/project/hospital-vuln-mcp/"
 }
