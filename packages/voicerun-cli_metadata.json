@@ -1,11 +1,11 @@
 {
   "name": "voicerun-cli",
-  "version": "1.5.13",
+  "version": "1.5.14",
   "summary": "VoiceRun command-line interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "voicerun_cli-1.5.13.tar.gz",
-  "download_time": "2026-04-21T22:10:24.798484",
+  "download_filename": "voicerun_cli-1.5.14.tar.gz",
+  "download_time": "2026-04-22T15:55:50.470226",
   "package_url": "https://pypi.org/project/voicerun-cli/"
 }

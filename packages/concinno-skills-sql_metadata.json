@@ -1,0 +1,11 @@
+{
+  "name": "concinno-skills-sql",
+  "version": "0.1.0",
+  "summary": "Remote SQL database agent skills (Postgres + MySQL + SQLite) for Concinno — SQLAlchemy + psycopg + pymysql. DuckDbQuery (local files) in concinno core remains separate.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "concinno_skills_sql-0.1.0.tar.gz",
+  "download_time": "2026-04-22T15:56:02.875710",
+  "package_url": "https://pypi.org/project/concinno-skills-sql/"
+}

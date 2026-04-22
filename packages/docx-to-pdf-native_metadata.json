@@ -1,0 +1,11 @@
+{
+  "name": "docx-to-pdf-native",
+  "version": "0.1.10",
+  "summary": "A zero-dependency DOCX to PDF converter using only the Python Standard Library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docx_to_pdf_native-0.1.10.tar.gz",
+  "download_time": "2026-04-22T15:55:54.635175",
+  "package_url": "https://pypi.org/project/docx-to-pdf-native/"
+}

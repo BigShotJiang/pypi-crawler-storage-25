@@ -1,0 +1,11 @@
+{
+  "name": "tag-validate",
+  "version": "1.0.2",
+  "summary": "GitHub tag validation tool with cryptographic signature verification and GitHub key registry checks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tag_validate-1.0.2.tar.gz",
+  "download_time": "2026-04-22T15:55:15.476001",
+  "package_url": "https://pypi.org/project/tag-validate/"
+}

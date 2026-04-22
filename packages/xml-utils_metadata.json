@@ -1,0 +1,11 @@
+{
+  "name": "xml-utils",
+  "version": "1.23.1",
+  "summary": "XML utils for the curator core project",
+  "author": "NIST IT Lab",
+  "license": null,
+  "home_page": "https://github.com/usnistgov/xml_utils",
+  "download_filename": "xml_utils-1.23.1.tar.gz",
+  "download_time": "2026-04-22T15:55:14.935212",
+  "package_url": "https://pypi.org/project/xml-utils/"
+}

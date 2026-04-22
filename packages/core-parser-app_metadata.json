@@ -1,0 +1,11 @@
+{
+  "name": "core-parser-app",
+  "version": "2.21.1",
+  "summary": "XSD parser tools for the curator core project",
+  "author": "NIST IT Lab",
+  "license": null,
+  "home_page": "https://github.com/usnistgov/core_parser_app",
+  "download_filename": "core_parser_app-2.21.1.tar.gz",
+  "download_time": "2026-04-22T15:55:17.053307",
+  "package_url": "https://pypi.org/project/core-parser-app/"
+}

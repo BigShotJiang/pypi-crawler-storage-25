@@ -1,0 +1,11 @@
+{
+  "name": "ctx2doc",
+  "version": "0.2.0",
+  "summary": "Create portable Markdown snapshots from Codex CLI and Claude Code sessions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctx2doc-0.2.0.tar.gz",
+  "download_time": "2026-04-22T15:55:18.604940",
+  "package_url": "https://pypi.org/project/ctx2doc/"
+}
