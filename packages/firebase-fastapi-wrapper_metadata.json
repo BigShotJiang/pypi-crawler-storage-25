@@ -1,0 +1,11 @@
+{
+  "name": "firebase-fastapi-wrapper",
+  "version": "0.2.0",
+  "summary": "Run FastAPI apps inside Firebase Functions with full HTTP forwarding",
+  "author": "Mohamed Emam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "firebase_fastapi_wrapper-0.2.0.tar.gz",
+  "download_time": "2026-04-22T01:12:45.988022",
+  "package_url": "https://pypi.org/project/firebase-fastapi-wrapper/"
+}

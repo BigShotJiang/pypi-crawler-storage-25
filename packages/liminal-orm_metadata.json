@@ -1,0 +1,11 @@
+{
+  "name": "liminal-orm",
+  "version": "4.4.8",
+  "summary": "An ORM and toolkit that builds on top of Benchling's platform to keep your schemas and downstream code dependencies in sync.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "liminal_orm-4.4.8.tar.gz",
+  "download_time": "2026-04-22T01:12:27.270002",
+  "package_url": "https://pypi.org/project/liminal-orm/"
+}

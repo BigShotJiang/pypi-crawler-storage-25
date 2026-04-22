@@ -1,0 +1,11 @@
+{
+  "name": "esprima2",
+  "version": "6.0.0",
+  "summary": "high-performance javascript parser, tokenizer and lexical analyser",
+  "author": "Somdev Sangwan (s0md3v)",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/s0md3v/esprima2",
+  "download_filename": "esprima2-6.0.0.tar.gz",
+  "download_time": "2026-04-22T01:12:30.370913",
+  "package_url": "https://pypi.org/project/esprima2/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "super-memory-mcp",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "summary": "A semantic memory storage and retrieval system using LanceDB and sentence transformers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "super_memory_mcp-0.4.2.tar.gz",
-  "download_time": "2026-04-21T20:15:51.193223",
+  "download_filename": "super_memory_mcp-0.5.0.tar.gz",
+  "download_time": "2026-04-22T01:12:41.298736",
   "package_url": "https://pypi.org/project/super-memory-mcp/"
 }

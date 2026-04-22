@@ -1,0 +1,11 @@
+{
+  "name": "migadu-mcp",
+  "version": "3.6.1",
+  "summary": "MCP server for Migadu email hosting — manage domains, mailboxes, aliases, identities, forwardings, and rewrites.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "migadu_mcp-3.6.1.tar.gz",
+  "download_time": "2026-04-22T01:12:56.396067",
+  "package_url": "https://pypi.org/project/migadu-mcp/"
+}

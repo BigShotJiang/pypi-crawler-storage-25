@@ -1,11 +1,11 @@
 {
   "name": "pipu-cli",
-  "version": "1.1.8",
+  "version": "1.2.0",
   "summary": "A cute Python package updater",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pipu_cli-1.1.8-py3-none-any.whl",
-  "download_time": "2026-04-18T05:01:01.053183",
+  "download_filename": "pipu_cli-1.2.0-py3-none-any.whl",
+  "download_time": "2026-04-22T01:12:57.419796",
   "package_url": "https://pypi.org/project/pipu-cli/"
 }

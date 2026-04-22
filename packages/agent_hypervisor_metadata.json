@@ -1,0 +1,11 @@
+{
+  "name": "agent_hypervisor",
+  "version": "3.2.0",
+  "summary": "Public Preview — Agent Hypervisor: Runtime supervisor for multi-agent Shared Sessions with Execution Rings, Joint Liability, Saga Orchestration, and hash-chained audit trails",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_hypervisor-3.2.0.tar.gz",
+  "download_time": "2026-04-22T01:13:04.766292",
+  "package_url": "https://pypi.org/project/agent_hypervisor/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vijil-mcp",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "MCP server for the Vijil AI trust platform CLI",
   "author": "Vijil AI",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "vijil_mcp-0.1.11.tar.gz",
-  "download_time": "2026-04-21T00:06:00.488734",
+  "download_filename": "vijil_mcp-0.1.12.tar.gz",
+  "download_time": "2026-04-22T01:12:31.438477",
   "package_url": "https://pypi.org/project/vijil-mcp/"
 }
