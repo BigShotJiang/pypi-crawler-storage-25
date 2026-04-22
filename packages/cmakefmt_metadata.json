@@ -1,11 +1,11 @@
 {
   "name": "cmakefmt",
-  "version": "0.8.0",
+  "version": "1.1.0",
   "summary": "A fast, correct CMake formatter",
   "author": null,
   "license": null,
   "home_page": "https://github.com/cmakefmt/cmakefmt",
-  "download_filename": "cmakefmt-0.8.0.tar.gz",
-  "download_time": "2026-04-11T22:56:30.758527",
+  "download_filename": "cmakefmt-1.1.0.tar.gz",
+  "download_time": "2026-04-22T12:16:28.436471",
   "package_url": "https://pypi.org/project/cmakefmt/"
 }

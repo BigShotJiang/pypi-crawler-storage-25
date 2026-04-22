@@ -1,0 +1,11 @@
+{
+  "name": "swimlane",
+  "version": "10.19.1",
+  "summary": "Python driver for the Swimlane API",
+  "author": "Swimlane",
+  "license": "AGPLv3",
+  "home_page": "https://github.com/swimlane/swimlane-python",
+  "download_filename": "swimlane-10.19.1.tar.gz",
+  "download_time": "2026-04-22T12:16:21.751066",
+  "package_url": "https://pypi.org/project/swimlane/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "belgian-deduce",
+  "version": "4.1.0",
+  "summary": "Rule-based de-identification for Belgian clinical text",
+  "author": "Vincent Menger",
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "belgian_deduce-4.1.0.tar.gz",
+  "download_time": "2026-04-22T12:16:22.784923",
+  "package_url": "https://pypi.org/project/belgian-deduce/"
+}

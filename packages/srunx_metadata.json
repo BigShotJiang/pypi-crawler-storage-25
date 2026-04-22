@@ -1,11 +1,11 @@
 {
   "name": "srunx",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Slurm job workflow management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "srunx-1.2.0.tar.gz",
-  "download_time": "2026-04-22T06:25:31.837494",
+  "download_filename": "srunx-1.2.1.tar.gz",
+  "download_time": "2026-04-22T12:16:29.984226",
   "package_url": "https://pypi.org/project/srunx/"
 }

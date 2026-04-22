@@ -1,11 +1,11 @@
 {
   "name": "labops",
-  "version": "0.3.1",
+  "version": "0.4.1",
   "summary": "YAML Based homeLAB",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "labops-0.3.1.tar.gz",
-  "download_time": "2026-04-21T23:41:37.459110",
+  "download_filename": "labops-0.4.1.tar.gz",
+  "download_time": "2026-04-22T12:16:11.878101",
   "package_url": "https://pypi.org/project/labops/"
 }

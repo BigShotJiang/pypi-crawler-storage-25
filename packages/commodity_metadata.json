@@ -1,0 +1,11 @@
+{
+  "name": "commodity",
+  "version": "0.20260422",
+  "summary": "General purpose python utilities library",
+  "author": "David Villa Alises",
+  "license": "GPLv3",
+  "home_page": "https://github.com/UCLM-ARCO/python-commodity.git",
+  "download_filename": "commodity-0.20260422.tar.gz",
+  "download_time": "2026-04-22T12:16:43.934195",
+  "package_url": "https://pypi.org/project/commodity/"
+}

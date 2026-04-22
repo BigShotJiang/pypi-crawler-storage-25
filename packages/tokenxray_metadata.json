@@ -1,11 +1,11 @@
 {
   "name": "tokenxray",
-  "version": "0.1.8",
+  "version": "0.3.6",
   "summary": "See where your AI coding tokens actually go. Analyze Claude Code session costs, find token bombs, and track spending.",
   "author": "Md Niajul Hasan",
   "license": null,
   "home_page": null,
-  "download_filename": "tokenxray-0.1.8.tar.gz",
-  "download_time": "2026-04-19T16:30:02.293894",
+  "download_filename": "tokenxray-0.3.6.tar.gz",
+  "download_time": "2026-04-22T12:16:10.338922",
   "package_url": "https://pypi.org/project/tokenxray/"
 }

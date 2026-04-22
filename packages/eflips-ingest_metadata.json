@@ -1,11 +1,11 @@
 {
   "name": "eflips-ingest",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "A collection of import scripts for converting bus schedule data into the [eflips-model](https://github.com/mpm-tu-berlin/eflips-model) data format.",
   "author": "Ludger Heide",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "eflips_ingest-1.5.0.tar.gz",
-  "download_time": "2026-04-14T16:12:02.792404",
+  "download_filename": "eflips_ingest-1.6.0.tar.gz",
+  "download_time": "2026-04-22T12:16:26.896973",
   "package_url": "https://pypi.org/project/eflips-ingest/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "itd-sdk",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "summary": "ITD client for python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "itd_sdk-1.8.2.tar.gz",
-  "download_time": "2026-04-18T14:10:56.285404",
+  "download_filename": "itd_sdk-1.8.3.tar.gz",
+  "download_time": "2026-04-22T12:16:40.820545",
   "package_url": "https://pypi.org/project/itd-sdk/"
 }

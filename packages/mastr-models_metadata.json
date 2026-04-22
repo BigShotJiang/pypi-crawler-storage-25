@@ -1,0 +1,11 @@
+{
+  "name": "mastr-models",
+  "version": "0.3.2",
+  "summary": "Read MaStR XML files and map them to Pydantic models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mastr_models-0.3.2.tar.gz",
+  "download_time": "2026-04-22T12:16:20.210558",
+  "package_url": "https://pypi.org/project/mastr-models/"
+}

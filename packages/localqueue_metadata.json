@@ -1,0 +1,11 @@
+{
+  "name": "localqueue",
+  "version": "0.1.1",
+  "summary": "Durable local queues for Python, with persistent retry state powered by Tenacity.",
+  "author": "Bruno Portis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "localqueue-0.1.1.tar.gz",
+  "download_time": "2026-04-22T12:16:14.949045",
+  "package_url": "https://pypi.org/project/localqueue/"
+}
