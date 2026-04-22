@@ -1,0 +1,11 @@
+{
+  "name": "concinno-skills-vector",
+  "version": "0.2.0",
+  "summary": "Remote vector database agent skills (Pinecone + Chroma + Weaviate) for Concinno — thin adapters for agent upsert/query. Concinno core's ZIQRetrieval + FTRL remains the full retrieval stack; this is the outbound-to-vendor slot.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "concinno_skills_vector-0.2.0.tar.gz",
+  "download_time": "2026-04-22T16:49:10.104236",
+  "package_url": "https://pypi.org/project/concinno-skills-vector/"
+}

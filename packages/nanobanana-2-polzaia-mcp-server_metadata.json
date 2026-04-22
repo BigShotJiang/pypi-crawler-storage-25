@@ -1,11 +1,11 @@
 {
   "name": "nanobanana-2-polzaia-mcp-server",
-  "version": "0.4.7",
+  "version": "0.5.0",
   "summary": "An MCP server for Nano Banana image generation through the Polza media API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nanobanana_2_polzaia_mcp_server-0.4.7.tar.gz",
-  "download_time": "2026-04-21T18:53:10.814994",
+  "download_filename": "nanobanana_2_polzaia_mcp_server-0.5.0.tar.gz",
+  "download_time": "2026-04-22T16:49:14.218704",
   "package_url": "https://pypi.org/project/nanobanana-2-polzaia-mcp-server/"
 }

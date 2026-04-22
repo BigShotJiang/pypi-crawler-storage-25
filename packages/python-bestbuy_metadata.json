@@ -1,11 +1,11 @@
 {
   "name": "python-bestbuy",
-  "version": "0.2.0",
+  "version": "0.2.4",
   "summary": "Python client library for Best Buy's Catalog and Commerce APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_bestbuy-0.2.0.tar.gz",
-  "download_time": "2026-04-12T20:39:39.607010",
+  "download_filename": "python_bestbuy-0.2.4.tar.gz",
+  "download_time": "2026-04-22T16:49:19.885957",
   "package_url": "https://pypi.org/project/python-bestbuy/"
 }

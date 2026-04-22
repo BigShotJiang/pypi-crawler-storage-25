@@ -1,0 +1,11 @@
+{
+  "name": "transnext",
+  "version": "1.1.0",
+  "summary": "SDXL helper, searcher, maker, based on SDNext API",
+  "author": "Daniel Balparda",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/balparda/transnext",
+  "download_filename": "transnext-1.1.0.tar.gz",
+  "download_time": "2026-04-22T16:49:12.163098",
+  "package_url": "https://pypi.org/project/transnext/"
+}

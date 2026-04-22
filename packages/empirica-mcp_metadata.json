@@ -1,11 +1,11 @@
 {
   "name": "empirica-mcp",
-  "version": "1.8.8",
+  "version": "1.8.9",
   "summary": "MCP server for Empirica — AI measurement and calibration tools via Model Context Protocol",
   "author": "David S. L. Van Assche",
   "license": null,
   "home_page": null,
-  "download_filename": "empirica_mcp-1.8.8.tar.gz",
-  "download_time": "2026-04-18T09:31:06.816954",
+  "download_filename": "empirica_mcp-1.8.9.tar.gz",
+  "download_time": "2026-04-22T16:49:44.231762",
   "package_url": "https://pypi.org/project/empirica-mcp/"
 }

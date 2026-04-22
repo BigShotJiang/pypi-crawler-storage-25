@@ -1,0 +1,11 @@
+{
+  "name": "typedb-driver",
+  "version": "3.10.0",
+  "summary": "TypeDB Driver for Python",
+  "author": "TypeDB Community",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/typedb/typedb-driver",
+  "download_filename": "typedb_driver-3.10.0-py310-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-22T16:49:32.341748",
+  "package_url": "https://pypi.org/project/typedb-driver/"
+}

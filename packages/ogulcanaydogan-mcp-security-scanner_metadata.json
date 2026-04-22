@@ -1,11 +1,11 @@
 {
   "name": "ogulcanaydogan-mcp-security-scanner",
-  "version": "1.0.30",
+  "version": "1.0.32",
   "summary": "Security scanner for Model Context Protocol (MCP) servers. Detects prompt injection, tool poisoning, capability escalation, and rug-pull attacks.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ogulcanaydogan_mcp_security_scanner-1.0.30.tar.gz",
-  "download_time": "2026-04-17T12:12:44.163514",
+  "download_filename": "ogulcanaydogan_mcp_security_scanner-1.0.32.tar.gz",
+  "download_time": "2026-04-22T16:49:34.400962",
   "package_url": "https://pypi.org/project/ogulcanaydogan-mcp-security-scanner/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "freeotp-vault",
+  "version": "0.1.0.1",
+  "summary": "Encrypted CLI vault for FreeOTP JSON exports with system keyring support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "freeotp_vault-0.1.0.1.tar.gz",
+  "download_time": "2026-04-22T16:49:49.975450",
+  "package_url": "https://pypi.org/project/freeotp-vault/"
+}
