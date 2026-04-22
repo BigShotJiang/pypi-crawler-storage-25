@@ -1,0 +1,11 @@
+{
+  "name": "vmware-vcf",
+  "version": "0.2.1",
+  "summary": "Python SDK for VMware Cloud Foundation (VCF) — SDDC Manager, NSX-T Policy API, and vCenter REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vmware_vcf-0.2.1.tar.gz",
+  "download_time": "2026-04-22T11:11:41.097061",
+  "package_url": "https://pypi.org/project/vmware-vcf/"
+}

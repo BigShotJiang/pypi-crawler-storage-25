@@ -1,0 +1,11 @@
+{
+  "name": "is-burner-email",
+  "version": "1.0.2",
+  "summary": "Fast, offline burner / disposable email detection with three-list (blacklist/whitelist/graylist) classification.",
+  "author": "kristijandraca",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "is_burner_email-1.0.2.tar.gz",
+  "download_time": "2026-04-22T11:11:50.332230",
+  "package_url": "https://pypi.org/project/is-burner-email/"
+}

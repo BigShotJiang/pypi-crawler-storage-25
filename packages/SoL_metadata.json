@@ -1,11 +1,11 @@
 {
   "name": "SoL",
-  "version": "5.18",
+  "version": "5.21",
   "summary": "Carrom tournaments management",
   "author": null,
   "license": "GPLv3+",
   "home_page": null,
-  "download_filename": "sol-5.18.tar.gz",
-  "download_time": "2026-04-09T09:10:47.982529",
+  "download_filename": "sol-5.21.tar.gz",
+  "download_time": "2026-04-22T11:12:16.934438",
   "package_url": "https://pypi.org/project/SoL/"
 }

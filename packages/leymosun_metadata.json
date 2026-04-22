@@ -1,0 +1,11 @@
+{
+  "name": "leymosun",
+  "version": "0.4.14",
+  "summary": "High-Entropy Randomness Research Toolkit. High-Entropy Random Number Generator (HE-RNGs).                 Generation of random matrices in canonical ensembles. Generating of mixed matrix ensembles via                 Mixed Matrix Ensemble Sampling (MMES) algorithm.                 Matrix utilities, spectral analysis, krylov and quantum core, spectral unfolding, nearest-neighbor spacing,                 mean adjacent gap ratio, analytic expressions from theory and                 uncertainty quantification.",
+  "author": "M.Suzen",
+  "license": "GPL-3",
+  "home_page": "https://github.com/msuzen/leymosun",
+  "download_filename": "leymosun-0.4.14.tar.gz",
+  "download_time": "2026-04-22T11:11:59.533005",
+  "package_url": "https://pypi.org/project/leymosun/"
+}

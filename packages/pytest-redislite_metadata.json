@@ -1,0 +1,11 @@
+{
+  "name": "pytest-redislite",
+  "version": "0.2.2",
+  "summary": "Pytest plugin for testing code using Redis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_redislite-0.2.2.tar.gz",
+  "download_time": "2026-04-22T11:12:13.329971",
+  "package_url": "https://pypi.org/project/pytest-redislite/"
+}

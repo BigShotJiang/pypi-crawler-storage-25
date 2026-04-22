@@ -1,0 +1,11 @@
+{
+  "name": "lattics",
+  "version": "0.9.0",
+  "summary": "Lattice-based Cellular Simulation",
+  "author": "Daniel Kiss",
+  "license": "BSD (3-clause)",
+  "home_page": "https://github.com/kissdaniel/lattics",
+  "download_filename": "lattics-0.9.0.tar.gz",
+  "download_time": "2026-04-22T11:11:47.268258",
+  "package_url": "https://pypi.org/project/lattics/"
+}
