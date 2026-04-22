@@ -1,0 +1,11 @@
+{
+  "name": "chio-streaming",
+  "version": "0.1.0",
+  "summary": "Kafka consumer middleware for the Chio protocol -- per-event capability evaluation, transactional receipt commit, and DLQ governance",
+  "author": "Backbay Industries",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chio_streaming-0.1.0-py3-none-any.whl",
+  "download_time": "2026-04-22T08:21:58.479976",
+  "package_url": "https://pypi.org/project/chio-streaming/"
+}

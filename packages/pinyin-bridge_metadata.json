@@ -1,11 +1,11 @@
 {
   "name": "pinyin-bridge",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "summary": "汉字拼音转换工具，支持多进程共享",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pinyin_bridge-0.4.2.tar.gz",
-  "download_time": "2026-04-21T03:39:37.327108",
+  "download_filename": "pinyin_bridge-0.4.4.tar.gz",
+  "download_time": "2026-04-22T08:22:29.340467",
   "package_url": "https://pypi.org/project/pinyin-bridge/"
 }

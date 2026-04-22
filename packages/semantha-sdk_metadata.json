@@ -1,0 +1,11 @@
+{
+  "name": "semantha-sdk",
+  "version": "11.1.0",
+  "summary": "This is a python client sdk for accessing semantha (the semantic platform)",
+  "author": "Sebastian Weigelt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "semantha_sdk-11.1.0.tar.gz",
+  "download_time": "2026-04-22T08:22:11.333116",
+  "package_url": "https://pypi.org/project/semantha-sdk/"
+}

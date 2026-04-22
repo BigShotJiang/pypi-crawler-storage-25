@@ -1,11 +1,11 @@
 {
   "name": "automation-file",
-  "version": "0.0.34",
+  "version": "0.0.35",
   "summary": "JSON-driven file, Drive, and cloud automation framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "automation_file-0.0.34.tar.gz",
-  "download_time": "2026-04-22T06:26:09.871981",
+  "download_filename": "automation_file-0.0.35.tar.gz",
+  "download_time": "2026-04-22T08:21:50.788255",
   "package_url": "https://pypi.org/project/automation-file/"
 }

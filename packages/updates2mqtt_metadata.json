@@ -1,0 +1,11 @@
+{
+  "name": "updates2mqtt",
+  "version": "1.9.3",
+  "summary": "System update and docker image notification and execution over MQTT",
+  "author": "jey burrows",
+  "license": null,
+  "home_page": null,
+  "download_filename": "updates2mqtt-1.9.3.tar.gz",
+  "download_time": "2026-04-22T08:22:26.752184",
+  "package_url": "https://pypi.org/project/updates2mqtt/"
+}

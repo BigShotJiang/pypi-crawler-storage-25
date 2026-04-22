@@ -1,0 +1,11 @@
+{
+  "name": "chio-autogen",
+  "version": "0.1.0",
+  "summary": "AutoGen integration for the Chio protocol -- capability-scoped function registration, GroupChat role scoping, nested chat attenuation",
+  "author": "Backbay Industries",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chio_autogen-0.1.0-py3-none-any.whl",
+  "download_time": "2026-04-22T08:22:06.202637",
+  "package_url": "https://pypi.org/project/chio-autogen/"
+}

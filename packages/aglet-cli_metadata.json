@@ -1,0 +1,11 @@
+{
+  "name": "aglet-cli",
+  "version": "0.1.0a5",
+  "summary": "Aglet command-line interface (init / run / elements / techniques).",
+  "author": "The Aglet Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aglet_cli-0.1.0a5.tar.gz",
+  "download_time": "2026-04-22T08:21:55.408887",
+  "package_url": "https://pypi.org/project/aglet-cli/"
+}

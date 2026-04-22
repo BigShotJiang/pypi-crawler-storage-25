@@ -1,0 +1,11 @@
+{
+  "name": "chio-llamaindex",
+  "version": "0.1.0",
+  "summary": "LlamaIndex integration for the Chio protocol -- capability-scoped FunctionTool and QueryEngineTool with vector-collection scoping",
+  "author": "Backbay Industries",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chio_llamaindex-0.1.0-py3-none-any.whl",
+  "download_time": "2026-04-22T08:22:01.600352",
+  "package_url": "https://pypi.org/project/chio-llamaindex/"
+}

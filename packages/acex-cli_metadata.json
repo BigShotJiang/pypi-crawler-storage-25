@@ -1,0 +1,11 @@
+{
+  "name": "acex-cli",
+  "version": "4.4.2",
+  "summary": "ACE-X CLI - Command-line interface for ACE-X",
+  "author": "Johan Lahti",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "acex_cli-4.4.2.tar.gz",
+  "download_time": "2026-04-22T08:22:10.306183",
+  "package_url": "https://pypi.org/project/acex-cli/"
+}

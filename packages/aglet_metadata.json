@@ -1,11 +1,11 @@
 {
   "name": "aglet",
-  "version": "0.1.0a2",
+  "version": "0.1.0a4",
   "summary": "Aglet core: protocols, runtime, event bus, plugin loader.",
   "author": "The Aglet Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "aglet-0.1.0a2.tar.gz",
-  "download_time": "2026-04-22T04:25:53.029886",
+  "download_filename": "aglet-0.1.0a4.tar.gz",
+  "download_time": "2026-04-22T08:21:57.456262",
   "package_url": "https://pypi.org/project/aglet/"
 }

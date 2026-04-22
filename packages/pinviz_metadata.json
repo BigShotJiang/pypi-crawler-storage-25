@@ -1,0 +1,11 @@
+{
+  "name": "pinviz",
+  "version": "0.17.6",
+  "summary": "Programmatically generate Raspberry Pi GPIO connection diagrams",
+  "author": "Even Nordstad",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pinviz-0.17.6.tar.gz",
+  "download_time": "2026-04-22T08:22:12.872924",
+  "package_url": "https://pypi.org/project/pinviz/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agent-receipts",
-  "version": "0.2.3",
+  "version": "0.4.0",
   "summary": "Python SDK for the Agent Receipts protocol",
   "author": "Otto Jongerius",
   "license": null,
   "home_page": null,
-  "download_filename": "agent_receipts-0.2.3.tar.gz",
-  "download_time": "2026-04-02T09:16:11.436464",
+  "download_filename": "agent_receipts-0.4.0.tar.gz",
+  "download_time": "2026-04-22T08:22:09.273837",
   "package_url": "https://pypi.org/project/agent-receipts/"
 }

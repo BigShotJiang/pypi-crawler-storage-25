@@ -1,0 +1,11 @@
+{
+  "name": "chio-sdk-python",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Chio protocol -- thin HTTP client to the Chio sidecar kernel",
+  "author": "Backbay Industries",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chio_sdk_python-0.1.0-py3-none-any.whl",
+  "download_time": "2026-04-22T08:21:58.990907",
+  "package_url": "https://pypi.org/project/chio-sdk-python/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "inframate",
-  "version": "0.2.2",
+  "version": "0.2.8",
   "summary": "An all-in-one local interface for navigating, operating, and understanding your Terraform infrastructure",
   "author": "Amin Dorostanian",
   "license": null,
   "home_page": null,
-  "download_filename": "inframate-0.2.2.tar.gz",
-  "download_time": "2026-04-20T11:05:13.243819",
+  "download_filename": "inframate-0.2.8.tar.gz",
+  "download_time": "2026-04-22T08:21:49.245672",
   "package_url": "https://pypi.org/project/inframate/"
 }

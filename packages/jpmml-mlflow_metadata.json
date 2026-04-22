@@ -1,0 +1,11 @@
+{
+  "name": "jpmml-mlflow",
+  "version": "0.4.0",
+  "summary": "PMML model flavors for MLflow",
+  "author": "Villu Ruusmann",
+  "license": "GNU Affero General Public License (AGPL) version 3.0",
+  "home_page": "https://github.com/jpmml/jpmml-mlflow",
+  "download_filename": "jpmml_mlflow-0.4.0.tar.gz",
+  "download_time": "2026-04-22T08:22:20.065605",
+  "package_url": "https://pypi.org/project/jpmml-mlflow/"
+}

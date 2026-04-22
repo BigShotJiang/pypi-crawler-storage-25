@@ -1,0 +1,11 @@
+{
+  "name": "android-payload-dumper",
+  "version": "2.3.0",
+  "summary": "Extract partition images from Android OTA payload.bin files — locally, from a URL, or straight from an OTA .zip",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "android_payload_dumper-2.3.0.tar.gz",
+  "download_time": "2026-04-22T08:22:18.012259",
+  "package_url": "https://pypi.org/project/android-payload-dumper/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "django-powercrud",
-  "version": "0.5.43",
+  "version": "0.5.45",
   "summary": "Advanced CRUD for perfectionists with deadlines. An opinionated Neapolitan extension, with sprinkles.",
   "author": "doctor-cornelius",
   "license": null,
   "home_page": null,
-  "download_filename": "django_powercrud-0.5.43.tar.gz",
-  "download_time": "2026-04-20T09:08:25.906267",
+  "download_filename": "django_powercrud-0.5.45.tar.gz",
+  "download_time": "2026-04-22T08:22:33.933718",
   "package_url": "https://pypi.org/project/django-powercrud/"
 }

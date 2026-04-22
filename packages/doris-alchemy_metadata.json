@@ -1,0 +1,11 @@
+{
+  "name": "doris-alchemy",
+  "version": "0.2.13",
+  "summary": "Apache Doris dialect for SQLAlchemy",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "doris_alchemy-0.2.13.tar.gz",
+  "download_time": "2026-04-22T08:22:15.958981",
+  "package_url": "https://pypi.org/project/doris-alchemy/"
+}

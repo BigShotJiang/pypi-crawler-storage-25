@@ -1,0 +1,11 @@
+{
+  "name": "cremdock",
+  "version": "0.3.0",
+  "summary": "CReM-dock: molecule generation and decoration guided by molecular docking",
+  "author": "Guzel Minibaeva, Pavel Polishchuk",
+  "license": null,
+  "home_page": "https://github.com/ci-lab-cz/crem-dock",
+  "download_filename": "cremdock-0.3.0.tar.gz",
+  "download_time": "2026-04-22T08:22:11.844886",
+  "package_url": "https://pypi.org/project/cremdock/"
+}
