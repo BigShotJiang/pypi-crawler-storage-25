@@ -1,11 +1,11 @@
 {
   "name": "azpaddypy",
-  "version": "0.9.87",
+  "version": "1.0.0",
   "summary": "Azure cloud services SDK with Storage (blob, file share, queue), Key Vault, Cosmos DB, AI Foundry Projects (agents, deployments, evaluations), Document Intelligence, Speech, OpenTelemetry tracing, AI Foundry GenAI tracing, and builder patterns.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "azpaddypy-0.9.87.tar.gz",
-  "download_time": "2026-04-12T13:40:01.813335",
+  "download_filename": "azpaddypy-1.0.0.tar.gz",
+  "download_time": "2026-04-22T10:03:20.540305",
   "package_url": "https://pypi.org/project/azpaddypy/"
 }

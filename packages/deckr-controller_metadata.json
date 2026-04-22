@@ -1,0 +1,11 @@
+{
+  "name": "deckr-controller",
+  "version": "0.1.0",
+  "summary": "Deckr controller runtime with config, routing, rendering, and device management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deckr_controller-0.1.0.tar.gz",
+  "download_time": "2026-04-22T10:03:17.476714",
+  "package_url": "https://pypi.org/project/deckr-controller/"
+}

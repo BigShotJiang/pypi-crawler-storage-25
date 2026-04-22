@@ -1,0 +1,11 @@
+{
+  "name": "studex-cli",
+  "version": "1.0.1",
+  "summary": "A command line interface for Studex platform",
+  "author": "itshivams",
+  "license": "MIT",
+  "home_page": "https://github.com/itshivams/Studex-CLI",
+  "download_filename": "studex_cli-1.0.1.tar.gz",
+  "download_time": "2026-04-22T10:03:15.936705",
+  "package_url": "https://pypi.org/project/studex-cli/"
+}

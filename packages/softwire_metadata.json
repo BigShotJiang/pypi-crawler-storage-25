@@ -1,11 +1,11 @@
 {
   "name": "softwire",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Local scripting bridges for controlling professional creative software from a shell agent.",
   "author": "Creative Adapters",
   "license": null,
   "home_page": null,
-  "download_filename": "softwire-0.1.9.tar.gz",
-  "download_time": "2026-04-21T16:48:26.307091",
+  "download_filename": "softwire-0.1.10.tar.gz",
+  "download_time": "2026-04-22T10:03:25.182960",
   "package_url": "https://pypi.org/project/softwire/"
 }

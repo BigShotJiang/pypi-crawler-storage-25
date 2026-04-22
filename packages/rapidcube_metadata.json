@@ -1,11 +1,11 @@
 {
   "name": "rapidcube",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A lightning-fast 2x2 and 3x3 Rubik's Cube simulator for Python, implemented in Rust.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rapidcube-0.1.1.tar.gz",
-  "download_time": "2026-04-16T17:24:20.607606",
+  "download_filename": "rapidcube-0.1.2.tar.gz",
+  "download_time": "2026-04-22T10:03:32.571096",
   "package_url": "https://pypi.org/project/rapidcube/"
 }

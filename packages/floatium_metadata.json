@@ -1,0 +1,11 @@
+{
+  "name": "floatium",
+  "version": "0.11.0",
+  "summary": "Drop-in replacement for CPython float formatting/parsing, backed by {fmt} and fast_float. Demonstrator for a forthcoming CPython PEP.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "floatium-0.11.0.tar.gz",
+  "download_time": "2026-04-22T10:03:24.122142",
+  "package_url": "https://pypi.org/project/floatium/"
+}

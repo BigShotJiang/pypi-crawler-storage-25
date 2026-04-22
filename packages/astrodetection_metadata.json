@@ -1,11 +1,11 @@
 {
   "name": "astrodetection",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "summary": "A Python library for detecting astroturfing (coordinated inauthentic behavior) in social media posts.",
   "author": "Francesco Savatteri",
   "license": "MIT",
   "home_page": "https://github.com/savaij/astrodetection",
-  "download_filename": "astrodetection-0.1.9.tar.gz",
-  "download_time": "2026-04-17T16:21:32.333972",
+  "download_filename": "astrodetection-0.2.0.tar.gz",
+  "download_time": "2026-04-22T10:03:14.918818",
   "package_url": "https://pypi.org/project/astrodetection/"
 }

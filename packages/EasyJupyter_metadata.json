@@ -1,11 +1,11 @@
 {
   "name": "EasyJupyter",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "EasyJupyter allows you to effortlessly integrate your Jupyter Notebook code into any Python project or other notebooks.",
   "author": "Tony Avis",
   "license": null,
   "home_page": null,
-  "download_filename": "easyjupyter-0.1.5.tar.gz",
-  "download_time": "2026-04-14T23:09:44.539152",
+  "download_filename": "easyjupyter-0.1.8.tar.gz",
+  "download_time": "2026-04-22T10:03:12.354875",
   "package_url": "https://pypi.org/project/EasyJupyter/"
 }

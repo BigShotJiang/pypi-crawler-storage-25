@@ -1,11 +1,11 @@
 {
   "name": "codesight",
-  "version": "0.2.0",
-  "summary": "AI-powered code analysis and security review CLI",
+  "version": "0.3.0",
+  "summary": "Code analysis and security review CLI for LLMs",
   "author": "AvixoSec",
   "license": null,
   "home_page": "https://github.com/AvixoSec/codesight",
-  "download_filename": "codesight-0.2.0.tar.gz",
-  "download_time": "2026-04-20T12:15:35.981060",
+  "download_filename": "codesight-0.3.0.tar.gz",
+  "download_time": "2026-04-22T10:03:08.248927",
   "package_url": "https://pypi.org/project/codesight/"
 }
