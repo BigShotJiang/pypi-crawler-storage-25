@@ -1,11 +1,11 @@
 {
   "name": "nomad-hpc",
-  "version": "1.3.2",
+  "version": "1.5.2",
   "summary": "A lightweight HPC monitoring and predictive analytics tool",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "nomad_hpc-1.3.2.tar.gz",
-  "download_time": "2026-04-09T12:50:24.448274",
+  "download_filename": "nomad_hpc-1.5.2.tar.gz",
+  "download_time": "2026-04-22T17:49:57.889708",
   "package_url": "https://pypi.org/project/nomad-hpc/"
 }

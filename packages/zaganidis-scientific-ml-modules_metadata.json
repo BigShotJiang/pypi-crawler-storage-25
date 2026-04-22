@@ -1,0 +1,11 @@
+{
+  "name": "zaganidis-scientific-ml-modules",
+  "version": "0.1.7",
+  "summary": "Scientific, modular machine-learning workflow components for EDA, processing, feature selection, modeling, reporting, and explainability.",
+  "author": "Emmanouil Zaganidis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zaganidis_scientific_ml_modules-0.1.7.tar.gz",
+  "download_time": "2026-04-22T17:50:16.011050",
+  "package_url": "https://pypi.org/project/zaganidis-scientific-ml-modules/"
+}

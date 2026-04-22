@@ -1,0 +1,11 @@
+{
+  "name": "algoliasearch",
+  "version": "4.39.0",
+  "summary": "A fully-featured and blazing-fast Python API client to interact with Algolia.",
+  "author": "Algolia Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "algoliasearch-4.39.0.tar.gz",
+  "download_time": "2026-04-22T17:50:08.910665",
+  "package_url": "https://pypi.org/project/algoliasearch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "device-connect-server",
+  "version": "0.2.2",
+  "summary": "Device Connect — edge device runtime with Zenoh/NATS messaging, D2D communication, and IoT orchestration",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "device_connect_server-0.2.2.tar.gz",
+  "download_time": "2026-04-22T17:50:31.304334",
+  "package_url": "https://pypi.org/project/device-connect-server/"
+}

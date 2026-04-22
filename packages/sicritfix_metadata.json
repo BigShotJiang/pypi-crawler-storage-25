@@ -1,0 +1,11 @@
+{
+  "name": "sicritfix",
+  "version": "0.0.6",
+  "summary": "Python package to detect and correct oscillatory artifacts in mass spectrometry mzML data.",
+  "author": "Maite Gómez del Rio Vinuesa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sicritfix-0.0.6.tar.gz",
+  "download_time": "2026-04-22T17:50:23.125415",
+  "package_url": "https://pypi.org/project/sicritfix/"
+}

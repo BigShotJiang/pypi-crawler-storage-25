@@ -1,0 +1,11 @@
+{
+  "name": "corp-entity-db",
+  "version": "0.5.2",
+  "summary": "Entity database for organizations, people, roles, and locations with embedding search",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "corp_entity_db-0.5.2.tar.gz",
+  "download_time": "2026-04-22T17:50:19.853090",
+  "package_url": "https://pypi.org/project/corp-entity-db/"
+}

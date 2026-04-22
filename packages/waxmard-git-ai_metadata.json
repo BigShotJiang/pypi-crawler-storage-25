@@ -1,11 +1,11 @@
 {
   "name": "waxmard-git-ai",
-  "version": "3.1.0",
-  "summary": "LLM-powered git workflow tools — generate commit messages and MR descriptions using Gemini",
+  "version": "4.1.2",
+  "summary": "Provider-agnostic prompt/styling toolkit for LLM-powered git workflow tools (commit messages, MR descriptions)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "waxmard_git_ai-3.1.0.tar.gz",
-  "download_time": "2026-04-16T17:24:20.091406",
+  "download_filename": "waxmard_git_ai-4.1.2.tar.gz",
+  "download_time": "2026-04-22T17:50:07.277275",
   "package_url": "https://pypi.org/project/waxmard-git-ai/"
 }

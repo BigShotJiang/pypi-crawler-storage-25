@@ -1,0 +1,11 @@
+{
+  "name": "csv2tidal",
+  "version": "0.1.3",
+  "summary": "Transfer CSV playlists to TIDAL with fast and accurate matching modes.",
+  "author": "Chetan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "csv2tidal-0.1.3.tar.gz",
+  "download_time": "2026-04-22T17:50:14.374471",
+  "package_url": "https://pypi.org/project/csv2tidal/"
+}

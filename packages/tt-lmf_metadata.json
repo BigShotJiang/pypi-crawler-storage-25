@@ -1,11 +1,11 @@
 {
   "name": "tt-lmf",
-  "version": "2026.4.16.7",
+  "version": "2026.4.22.9",
   "summary": "Lean LLM fine-tuning toolkit with EC2 orchestration for SFT, DPO, and LoRA training",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tt_lmf-2026.4.16.7.tar.gz",
-  "download_time": "2026-04-16T19:55:13.864924",
+  "download_filename": "tt_lmf-2026.4.22.9.tar.gz",
+  "download_time": "2026-04-22T17:50:22.584073",
   "package_url": "https://pypi.org/project/tt-lmf/"
 }

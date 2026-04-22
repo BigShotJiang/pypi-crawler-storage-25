@@ -1,0 +1,11 @@
+{
+  "name": "pydbsmgr",
+  "version": "1.1.0",
+  "summary": "Python package for database control and DataFrame processing",
+  "author": "J. A. Moreno-Guerra",
+  "license": "MIT",
+  "home_page": "https://github.com/jzsmoreno/pydbsmgr",
+  "download_filename": "pydbsmgr-1.1.0.tar.gz",
+  "download_time": "2026-04-22T17:50:04.514201",
+  "package_url": "https://pypi.org/project/pydbsmgr/"
+}
