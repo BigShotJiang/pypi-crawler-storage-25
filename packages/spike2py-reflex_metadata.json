@@ -1,0 +1,11 @@
+{
+  "name": "spike2py-reflex",
+  "version": "0.0.19",
+  "summary": "\"Extract reflexes from preprocessed data with spike2py.\"",
+  "author": "Martin Heroux",
+  "license": "GPLv3",
+  "home_page": "https://github.com/MartinHeroux/spike2py_reflex",
+  "download_filename": "spike2py_reflex-0.0.19.tar.gz",
+  "download_time": "2026-04-22T06:25:55.307606",
+  "package_url": "https://pypi.org/project/spike2py-reflex/"
+}

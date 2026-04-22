@@ -1,11 +1,11 @@
 {
   "name": "vix11",
-  "version": "1.0.0",
-  "summary": "Vix11 SDK - AI Agent Security",
+  "version": "1.1.0",
+  "summary": "Vix11 SDK - AI Agent Security Platform. KYA passports, 12-layer abuse detection (incl. Response Output Rail), Agent Trust Score.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "vix11-1.0.0.tar.gz",
-  "download_time": "2026-04-10T02:30:34.988908",
+  "download_filename": "vix11-1.1.0.tar.gz",
+  "download_time": "2026-04-22T06:26:03.095139",
   "package_url": "https://pypi.org/project/vix11/"
 }

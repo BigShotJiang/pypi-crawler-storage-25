@@ -1,0 +1,11 @@
+{
+  "name": "qdrant-odmx",
+  "version": "0.3.1",
+  "summary": "A Qdrant-first ODM for typed models, schema sync, and vector search.",
+  "author": "Jeung-SeongYeon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qdrant_odmx-0.3.1.tar.gz",
+  "download_time": "2026-04-22T06:25:41.786735",
+  "package_url": "https://pypi.org/project/qdrant-odmx/"
+}

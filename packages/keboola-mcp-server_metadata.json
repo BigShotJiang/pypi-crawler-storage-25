@@ -1,11 +1,11 @@
 {
   "name": "keboola-mcp-server",
-  "version": "1.55.0",
+  "version": "1.57.1",
   "summary": "MCP server for interacting with Keboola Connection",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "keboola_mcp_server-1.55.0-py3-none-any.whl",
-  "download_time": "2026-04-16T18:47:52.290504",
+  "download_filename": "keboola_mcp_server-1.57.1-py3-none-any.whl",
+  "download_time": "2026-04-22T06:26:17.180228",
   "package_url": "https://pypi.org/project/keboola-mcp-server/"
 }

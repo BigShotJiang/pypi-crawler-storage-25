@@ -1,0 +1,11 @@
+{
+  "name": "moler",
+  "version": "4.10.0",
+  "summary": "Moler is a library for working with terminals, mainly for automated tests",
+  "author": "Nokia",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/nokia/moler",
+  "download_filename": "moler-4.10.0.tar.gz",
+  "download_time": "2026-04-22T06:26:19.262623",
+  "package_url": "https://pypi.org/project/moler/"
+}

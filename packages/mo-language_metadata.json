@@ -1,11 +1,11 @@
 {
   "name": "mo-language",
-  "version": "0.1.0",
+  "version": "0.1.11",
   "summary": "The Mo programming language",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mo_language-0.1.0.tar.gz",
-  "download_time": "2026-04-21T23:41:02.938080",
+  "download_filename": "mo_language-0.1.11.tar.gz",
+  "download_time": "2026-04-22T06:25:43.863846",
   "package_url": "https://pypi.org/project/mo-language/"
 }

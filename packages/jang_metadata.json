@@ -1,0 +1,11 @@
+{
+  "name": "jang",
+  "version": "2.4.2",
+  "summary": "JANG — Adaptive Mixed-Precision Quantization for Apple Silicon. The GGUF equivalent for MLX.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "jang-2.4.2-py3-none-any.whl",
+  "download_time": "2026-04-22T06:26:11.949663",
+  "package_url": "https://pypi.org/project/jang/"
+}

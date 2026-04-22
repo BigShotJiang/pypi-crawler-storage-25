@@ -1,11 +1,11 @@
 {
   "name": "fenliu",
-  "version": "0.12.1",
+  "version": "0.13.0",
   "summary": "Monitor and filter Fediverse hashtags, curate quality content, and distribute via external tools like Zhongli",
   "author": "marvin8",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "fenliu-0.12.1.tar.gz",
-  "download_time": "2026-04-06T08:57:12.760975",
+  "download_filename": "fenliu-0.13.0.tar.gz",
+  "download_time": "2026-04-22T06:26:09.350697",
   "package_url": "https://pypi.org/project/fenliu/"
 }

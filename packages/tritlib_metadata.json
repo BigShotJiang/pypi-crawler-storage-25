@@ -1,11 +1,11 @@
 {
   "name": "tritlib",
-  "version": "1.0.0",
+  "version": "1.2.3",
   "summary": "Balanced ternary arithmetic and multi-valued logic library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tritlib-1.0.0.tar.gz",
-  "download_time": "2026-04-04T11:46:07.885291",
+  "download_filename": "tritlib-1.2.3.tar.gz",
+  "download_time": "2026-04-22T06:25:56.854177",
   "package_url": "https://pypi.org/project/tritlib/"
 }
