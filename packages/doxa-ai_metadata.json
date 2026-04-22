@@ -1,11 +1,11 @@
 {
   "name": "doxa-ai",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Doxa backend engine and CLI",
   "author": "VincenzoManto",
   "license": null,
   "home_page": null,
-  "download_filename": "doxa_ai-0.2.0.tar.gz",
-  "download_time": "2026-04-19T15:04:47.592535",
+  "download_filename": "doxa_ai-0.3.0.tar.gz",
+  "download_time": "2026-04-22T21:17:16.528087",
   "package_url": "https://pypi.org/project/doxa-ai/"
 }

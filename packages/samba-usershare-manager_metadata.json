@@ -1,0 +1,11 @@
+{
+  "name": "samba-usershare-manager",
+  "version": "0.1.0",
+  "summary": "GTK3 GUI for managing Samba user shares",
+  "author": null,
+  "license": "Beerware",
+  "home_page": null,
+  "download_filename": "samba_usershare_manager-0.1.0.tar.gz",
+  "download_time": "2026-04-22T21:17:09.187172",
+  "package_url": "https://pypi.org/project/samba-usershare-manager/"
+}

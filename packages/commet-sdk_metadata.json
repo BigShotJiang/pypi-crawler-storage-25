@@ -1,11 +1,11 @@
 {
   "name": "commet-sdk",
-  "version": "0.2.0",
+  "version": "2.0.0",
   "summary": "Commet SDK for Python - Billing and usage tracking for SaaS",
   "author": "Commet Team",
   "license": null,
   "home_page": null,
-  "download_filename": "commet_sdk-0.2.0.tar.gz",
-  "download_time": "2026-04-07T20:08:45.865831",
+  "download_filename": "commet_sdk-2.0.0.tar.gz",
+  "download_time": "2026-04-22T21:17:17.652708",
   "package_url": "https://pypi.org/project/commet-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "langgraph-kit",
-  "version": "0.5.0",
+  "version": "0.9.3",
   "summary": "Reusable LangGraph agent toolkit with memory, tools, and orchestration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langgraph_kit-0.5.0.tar.gz",
-  "download_time": "2026-04-10T20:24:15.691035",
+  "download_filename": "langgraph_kit-0.9.3.tar.gz",
+  "download_time": "2026-04-22T21:17:14.987784",
   "package_url": "https://pypi.org/project/langgraph-kit/"
 }

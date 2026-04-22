@@ -1,11 +1,11 @@
 {
   "name": "styxx",
-  "version": "3.5.1",
+  "version": "3.6.0",
   "summary": "nothing crosses unseen. the first drop-in cognitive vitals monitor for llm agents.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "styxx-3.5.1.tar.gz",
-  "download_time": "2026-04-22T20:18:31.314078",
+  "download_filename": "styxx-3.6.0.tar.gz",
+  "download_time": "2026-04-22T21:16:48.385604",
   "package_url": "https://pypi.org/project/styxx/"
 }

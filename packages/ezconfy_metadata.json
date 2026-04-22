@@ -1,11 +1,11 @@
 {
   "name": "ezconfy",
-  "version": "0.1.7",
+  "version": "0.1.10",
   "summary": "YAML-based configuration framework with Pydantic validation and dynamic object instantiation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ezconfy-0.1.7-py3-none-any.whl",
-  "download_time": "2026-04-21T05:59:44.502068",
+  "download_filename": "ezconfy-0.1.10.tar.gz",
+  "download_time": "2026-04-22T21:17:07.646494",
   "package_url": "https://pypi.org/project/ezconfy/"
 }

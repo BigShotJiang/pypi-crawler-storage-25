@@ -1,11 +1,11 @@
 {
   "name": "crowdtime-cli",
-  "version": "0.12.0",
+  "version": "0.12.1",
   "summary": "AI-powered time tracking CLI — a modern, developer-friendly alternative to Harvest",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "crowdtime_cli-0.12.0.tar.gz",
-  "download_time": "2026-04-20T23:10:06.442009",
+  "download_filename": "crowdtime_cli-0.12.1.tar.gz",
+  "download_time": "2026-04-22T21:16:33.198351",
   "package_url": "https://pypi.org/project/crowdtime-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pdf-form-tools",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "summary": "Template-aware tools for filling scanned PDF forms with visual verification",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pdf_form_tools-2.0.1.tar.gz",
-  "download_time": "2026-04-11T22:06:38.021684",
+  "download_filename": "pdf_form_tools-2.1.0.tar.gz",
+  "download_time": "2026-04-22T21:17:05.059088",
   "package_url": "https://pypi.org/project/pdf-form-tools/"
 }

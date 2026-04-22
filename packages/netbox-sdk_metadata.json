@@ -1,0 +1,11 @@
+{
+  "name": "netbox-sdk",
+  "version": "0.0.7.post5",
+  "summary": "SDK-first NetBox toolkit with Python SDK, CLI, and Textual TUIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbox_sdk-0.0.7.post5.tar.gz",
+  "download_time": "2026-04-22T21:16:35.796025",
+  "package_url": "https://pypi.org/project/netbox-sdk/"
+}

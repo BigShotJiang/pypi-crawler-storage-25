@@ -1,0 +1,11 @@
+{
+  "name": "pysml",
+  "version": "0.1.6",
+  "summary": "Python library for EDL21 smart meters using Smart Message Language (SML)",
+  "author": "Andreas Oberritter",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pysml-0.1.6.tar.gz",
+  "download_time": "2026-04-22T21:16:42.689610",
+  "package_url": "https://pypi.org/project/pysml/"
+}
