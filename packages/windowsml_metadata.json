@@ -1,0 +1,11 @@
+{
+  "name": "windowsml",
+  "version": "1.8.2192",
+  "summary": "Python bindings for the Windows AI Machine Learning EP Catalog API",
+  "author": null,
+  "license": "Copyright (C) Microsoft Corporation. All rights reserved.",
+  "home_page": null,
+  "download_filename": "windowsml-1.8.2192-py3-none-win_amd64.whl",
+  "download_time": "2026-04-22T22:12:38.280613",
+  "package_url": "https://pypi.org/project/windowsml/"
+}

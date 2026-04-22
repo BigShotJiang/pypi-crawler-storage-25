@@ -1,0 +1,11 @@
+{
+  "name": "t-sql",
+  "version": "4.11.0",
+  "summary": "Safe SQL. SQL queries for python t-strings (PEP 750)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "t_sql-4.11.0.tar.gz",
+  "download_time": "2026-04-22T22:12:18.108296",
+  "package_url": "https://pypi.org/project/t-sql/"
+}

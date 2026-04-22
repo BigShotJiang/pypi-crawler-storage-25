@@ -1,0 +1,11 @@
+{
+  "name": "orbit-db",
+  "version": "1.0.1",
+  "summary": "SQLite-based task and time tracking database for the orbit Claude Code plugin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orbit_db-1.0.1.tar.gz",
+  "download_time": "2026-04-22T22:12:24.802689",
+  "package_url": "https://pypi.org/project/orbit-db/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cortex-recall",
+  "version": "0.5.0",
+  "summary": "Four-layer cognitive memory for AI agents — persistent recall, semantic search, knowledge graph, and learned evolution. No API key required.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cortex_recall-0.5.0.tar.gz",
+  "download_time": "2026-04-22T22:12:39.820896",
+  "package_url": "https://pypi.org/project/cortex-recall/"
+}

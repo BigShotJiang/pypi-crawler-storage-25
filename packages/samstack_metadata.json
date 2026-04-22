@@ -1,11 +1,11 @@
 {
   "name": "samstack",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "Pytest fixtures for testing AWS SAM Lambdas locally with LocalStack",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "samstack-1.0.0.tar.gz",
-  "download_time": "2026-04-17T20:31:57.170425",
+  "download_filename": "samstack-2.0.0.tar.gz",
+  "download_time": "2026-04-22T22:12:34.082031",
   "package_url": "https://pypi.org/project/samstack/"
 }

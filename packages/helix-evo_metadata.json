@@ -1,11 +1,11 @@
 {
   "name": "helix-evo",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Hierarchical Evolution via LLM-Informed eXploration",
   "author": "Karim Elmaaroufi, OMAR",
   "license": null,
   "home_page": null,
-  "download_filename": "helix_evo-0.1.2.tar.gz",
-  "download_time": "2026-04-19T08:40:57.662261",
+  "download_filename": "helix_evo-0.2.0.tar.gz",
+  "download_time": "2026-04-22T22:12:33.558872",
   "package_url": "https://pypi.org/project/helix-evo/"
 }

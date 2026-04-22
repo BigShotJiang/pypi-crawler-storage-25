@@ -1,0 +1,11 @@
+{
+  "name": "bsif-webview2",
+  "version": "2.0.2",
+  "summary": "Microsoft Webview2 for python.",
+  "author": "Blue Sky Infomation Factory",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/Blue-Sky-Infomation-Factory/Python-Webview2",
+  "download_filename": "bsif_webview2-2.0.2.tar.gz",
+  "download_time": "2026-04-22T22:12:18.624761",
+  "package_url": "https://pypi.org/project/bsif-webview2/"
+}

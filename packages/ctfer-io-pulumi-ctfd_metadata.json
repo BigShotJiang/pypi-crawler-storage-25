@@ -1,0 +1,11 @@
+{
+  "name": "ctfer-io-pulumi-ctfd",
+  "version": "2.4.3",
+  "summary": "The CTFd provider for Pulumi, to manage its resources as code.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://ctfer.io",
+  "download_filename": "ctfer_io_pulumi_ctfd-2.4.3.tar.gz",
+  "download_time": "2026-04-22T22:12:31.489491",
+  "package_url": "https://pypi.org/project/ctfer-io-pulumi-ctfd/"
+}

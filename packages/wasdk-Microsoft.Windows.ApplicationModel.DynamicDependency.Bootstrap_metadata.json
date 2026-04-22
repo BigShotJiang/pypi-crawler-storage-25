@@ -1,0 +1,11 @@
+{
+  "name": "wasdk-Microsoft.Windows.ApplicationModel.DynamicDependency.Bootstrap",
+  "version": "1.8.260416003",
+  "summary": "Python projection of Windows Runtime (WinRT) APIs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wasdk_microsoft_windows_applicationmodel_dynamicdependency_bootstrap-1.8.260416003-cp310-cp310-win_amd64.whl",
+  "download_time": "2026-04-22T22:12:39.309268",
+  "package_url": "https://pypi.org/project/wasdk-Microsoft.Windows.ApplicationModel.DynamicDependency.Bootstrap/"
+}
