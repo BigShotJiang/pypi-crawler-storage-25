@@ -1,0 +1,11 @@
+{
+  "name": "d9d",
+  "version": "0.13.1",
+  "summary": "d9d - d[istribute]d - distributed training framework based on PyTorch that tries to be efficient yet hackable",
+  "author": "Maksim Afanasyev",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "d9d-0.13.1.tar.gz",
+  "download_time": "2026-04-23T00:08:24.551965",
+  "package_url": "https://pypi.org/project/d9d/"
+}

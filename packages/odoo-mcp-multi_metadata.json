@@ -1,11 +1,11 @@
 {
   "name": "odoo-mcp-multi",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "MCP server for Odoo — connect Claude, Cursor, VS Code and Antigravity to multiple Odoo instances via Model Context Protocol",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "odoo_mcp_multi-0.5.0.tar.gz",
-  "download_time": "2026-04-22T18:54:37.280745",
+  "download_filename": "odoo_mcp_multi-0.5.2.tar.gz",
+  "download_time": "2026-04-23T00:08:52.726528",
   "package_url": "https://pypi.org/project/odoo-mcp-multi/"
 }

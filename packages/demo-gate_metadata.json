@@ -1,11 +1,11 @@
 {
   "name": "demo-gate",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Lightweight shared-key access gate for FastAPI-based demo apps",
   "author": "Tatsutaka Kanazawa",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "demo_gate-0.2.0.tar.gz",
-  "download_time": "2026-04-22T11:12:22.040494",
+  "download_filename": "demo_gate-0.2.1.tar.gz",
+  "download_time": "2026-04-23T00:08:28.279232",
   "package_url": "https://pypi.org/project/demo-gate/"
 }

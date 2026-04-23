@@ -1,11 +1,11 @@
 {
   "name": "cat-surf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Cython bindings to the CAT-Surface library (libCAT) for cortical surface analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cat_surf-1.0.1-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2026-04-20T09:07:47.180302",
+  "download_filename": "cat_surf-1.0.2-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-04-23T00:08:51.084116",
   "package_url": "https://pypi.org/project/cat-surf/"
 }

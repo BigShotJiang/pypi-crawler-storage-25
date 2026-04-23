@@ -1,11 +1,11 @@
 {
   "name": "sentry-scm",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "A unified interface for source code management providers",
   "author": "Colton Allen",
   "license": null,
   "home_page": null,
-  "download_filename": "sentry_scm-0.5.0.tar.gz",
-  "download_time": "2026-04-21T00:05:58.419463",
+  "download_filename": "sentry_scm-0.6.0.tar.gz",
+  "download_time": "2026-04-23T00:08:24.015969",
   "package_url": "https://pypi.org/project/sentry-scm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ai-cli-utils",
-  "version": "0.4.1",
+  "version": "0.5.2",
   "summary": "Unified AI session manager for Claude Code and Gemini CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_cli_utils-0.4.1.tar.gz",
-  "download_time": "2026-04-20T01:17:05.998310",
+  "download_filename": "ai_cli_utils-0.5.2.tar.gz",
+  "download_time": "2026-04-23T00:08:37.576365",
   "package_url": "https://pypi.org/project/ai-cli-utils/"
 }
