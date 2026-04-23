@@ -1,11 +1,11 @@
 {
   "name": "browserstack-sdk",
-  "version": "1.44.1",
+  "version": "1.45.1",
   "summary": "Python SDK for browserstack selenium-webdriver tests",
   "author": "BrowserStack",
   "license": "BrowserStack Software License Agreement",
   "home_page": null,
-  "download_filename": "browserstack_sdk-1.44.1.tar.gz",
-  "download_time": "2026-04-07T12:47:00.276983",
+  "download_filename": "browserstack_sdk-1.45.1.tar.gz",
+  "download_time": "2026-04-23T14:22:33.328951",
   "package_url": "https://pypi.org/project/browserstack-sdk/"
 }

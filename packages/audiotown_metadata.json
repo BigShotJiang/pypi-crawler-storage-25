@@ -1,11 +1,11 @@
 {
   "name": "audiotown",
-  "version": "1.11.1",
+  "version": "1.11.4",
   "summary": "Convert Flac to Apple '.m4a' files (alac, aac)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "audiotown-1.11.1.tar.gz",
-  "download_time": "2026-04-20T21:13:36.468187",
+  "download_filename": "audiotown-1.11.4.tar.gz",
+  "download_time": "2026-04-23T14:22:31.770940",
   "package_url": "https://pypi.org/project/audiotown/"
 }

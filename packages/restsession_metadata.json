@@ -1,0 +1,11 @@
+{
+  "name": "restsession",
+  "version": "1.0.5",
+  "summary": "RESTful API-friendly implementation of the 'requests' library",
+  "author": "Palmer Sample",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "restsession-1.0.5.tar.gz",
+  "download_time": "2026-04-23T14:22:26.115085",
+  "package_url": "https://pypi.org/project/restsession/"
+}

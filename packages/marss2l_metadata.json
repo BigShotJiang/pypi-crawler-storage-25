@@ -1,0 +1,11 @@
+{
+  "name": "marss2l",
+  "version": "0.2.1",
+  "summary": "MARS-S2L Plume detection, segmentation and quantification of methane plumes in Sentinel-2 and Landsat images",
+  "author": "Gonzalo Mateo-García, Anna Vaughan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "marss2l-0.2.1.tar.gz",
+  "download_time": "2026-04-23T14:22:36.935668",
+  "package_url": "https://pypi.org/project/marss2l/"
+}

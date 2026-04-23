@@ -1,11 +1,11 @@
 {
   "name": "feagi",
-  "version": "2.1.37",
+  "version": "2.1.38",
   "summary": "Complete FEAGI SDK with Brain Visualizer - Framework for Evolutionary Artificial General Intelligence",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "feagi-2.1.37.tar.gz",
-  "download_time": "2026-04-21T00:05:46.748146",
+  "download_filename": "feagi-2.1.38.tar.gz",
+  "download_time": "2026-04-23T14:22:36.425107",
   "package_url": "https://pypi.org/project/feagi/"
 }

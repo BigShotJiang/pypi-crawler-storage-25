@@ -1,11 +1,11 @@
 {
   "name": "django-unfold-fobi",
-  "version": "0.1.8",
+  "version": "0.1.13",
   "summary": "Django Unfold admin integration for django-fobi",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_unfold_fobi-0.1.8.tar.gz",
-  "download_time": "2026-04-01T10:43:14.703090",
+  "download_filename": "django_unfold_fobi-0.1.13.tar.gz",
+  "download_time": "2026-04-23T14:22:15.267998",
   "package_url": "https://pypi.org/project/django-unfold-fobi/"
 }

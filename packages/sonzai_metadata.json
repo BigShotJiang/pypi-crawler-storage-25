@@ -1,11 +1,11 @@
 {
   "name": "sonzai",
-  "version": "1.4.0",
+  "version": "1.4.3",
   "summary": "Python SDK for the Sonzai Mind Layer API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sonzai-1.4.0.tar.gz",
-  "download_time": "2026-04-22T16:49:13.197063",
+  "download_filename": "sonzai-1.4.3.tar.gz",
+  "download_time": "2026-04-23T14:22:20.990381",
   "package_url": "https://pypi.org/project/sonzai/"
 }

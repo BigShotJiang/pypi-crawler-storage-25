@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ssh-multi",
+  "version": "0.3.0",
+  "summary": "MCP SSH Multi - Multi-server SSH access through MCP",
+  "author": "Gilberth",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_ssh_multi-0.3.0.tar.gz",
+  "download_time": "2026-04-23T14:22:07.502957",
+  "package_url": "https://pypi.org/project/mcp-ssh-multi/"
+}

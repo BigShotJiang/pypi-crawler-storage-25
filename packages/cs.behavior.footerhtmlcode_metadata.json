@@ -1,0 +1,11 @@
+{
+  "name": "cs.behavior.footerhtmlcode",
+  "version": "1.1",
+  "summary": "An add-on providing a behavior that allows entering arbitrary HTML code to be shown in a portlet in LRF objects",
+  "author": "Mikel Larreategi",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/codesyntax/cs.behavior.footerhtmlcode",
+  "download_filename": "cs_behavior_footerhtmlcode-1.1.tar.gz",
+  "download_time": "2026-04-23T14:22:38.978319",
+  "package_url": "https://pypi.org/project/cs.behavior.footerhtmlcode/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ip2provider",
+  "version": "0.1.1",
+  "summary": "Python library to detect hosting provider based on IP, FQDN, and network information",
+  "author": "IP2Provider Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ip2provider-0.1.1.tar.gz",
+  "download_time": "2026-04-23T14:22:34.864936",
+  "package_url": "https://pypi.org/project/ip2provider/"
+}

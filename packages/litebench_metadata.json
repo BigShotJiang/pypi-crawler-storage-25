@@ -1,0 +1,11 @@
+{
+  "name": "litebench",
+  "version": "0.3.0",
+  "summary": "A pip-installable benchmark runner for LLMs and agents. 5 minutes to your first eval.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "litebench-0.3.0.tar.gz",
+  "download_time": "2026-04-23T14:22:11.691024",
+  "package_url": "https://pypi.org/project/litebench/"
+}

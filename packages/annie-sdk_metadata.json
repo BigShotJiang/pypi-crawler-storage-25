@@ -1,0 +1,11 @@
+{
+  "name": "annie-sdk",
+  "version": "0.3.2",
+  "summary": "Python SDK for querying databases using natural language via the Annie API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "annie_sdk-0.3.2.tar.gz",
+  "download_time": "2026-04-23T14:22:02.339796",
+  "package_url": "https://pypi.org/project/annie-sdk/"
+}

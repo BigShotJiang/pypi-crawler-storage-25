@@ -1,0 +1,11 @@
+{
+  "name": "pyfish",
+  "version": "1.1.1",
+  "summary": "Plotting tool for evolutionary population dynamics. Creates a Fish (Muller) plot.",
+  "author": "Adam Streck, Tom L. Kaufmann",
+  "license": "MIT",
+  "home_page": "https://github.com/ICCB-Cologne/PyFish",
+  "download_filename": "pyfish-1.1.1.tar.gz",
+  "download_time": "2026-04-23T14:22:18.382046",
+  "package_url": "https://pypi.org/project/pyfish/"
+}

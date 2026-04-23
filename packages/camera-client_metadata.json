@@ -1,11 +1,11 @@
 {
   "name": "camera-client",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Python SDK for camera calibration and projection transformations - handle lens distortion, coordinate transformations, and 3D ray casting with symbolic expressions.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "camera_client-0.2.6.tar.gz",
-  "download_time": "2026-03-31T17:42:06.591394",
+  "download_filename": "camera_client-0.2.7.tar.gz",
+  "download_time": "2026-04-23T14:22:12.201492",
   "package_url": "https://pypi.org/project/camera-client/"
 }
