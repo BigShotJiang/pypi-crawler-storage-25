@@ -1,11 +1,11 @@
 {
   "name": "forte-sdk",
-  "version": "1.0.45",
+  "version": "1.0.55",
   "summary": "Official Python SDK for Forte Platforms",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "forte_sdk-1.0.45.tar.gz",
-  "download_time": "2026-04-19T20:18:00.408150",
+  "download_filename": "forte_sdk-1.0.55.tar.gz",
+  "download_time": "2026-04-23T06:11:59.233057",
   "package_url": "https://pypi.org/project/forte-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sindre-bind",
+  "version": "1.0.0",
+  "summary": "Python与C++混合编程库 - 整合高性能C++模块的Python绑定",
+  "author": "Sindre",
+  "license": "MIT",
+  "home_page": "https://github.com/sindre/sindre_bind",
+  "download_filename": "sindre_bind-1.0.0-py3-none-any.whl",
+  "download_time": "2026-04-23T06:11:46.138289",
+  "package_url": "https://pypi.org/project/sindre-bind/"
+}

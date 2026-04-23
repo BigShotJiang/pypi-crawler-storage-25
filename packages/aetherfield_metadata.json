@@ -1,11 +1,11 @@
 {
   "name": "aetherfield",
-  "version": "0.2.6",
+  "version": "0.3.9",
   "summary": "AetherField runtime ephemeris",
   "author": "WitchMithras",
   "license": "Other/Proprietary License",
   "home_page": null,
-  "download_filename": "aetherfield-0.2.6.tar.gz",
-  "download_time": "2026-04-21T21:12:03.786196",
+  "download_filename": "aetherfield-0.3.9.tar.gz",
+  "download_time": "2026-04-23T06:12:16.065390",
   "package_url": "https://pypi.org/project/aetherfield/"
 }

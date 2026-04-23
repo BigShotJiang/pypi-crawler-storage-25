@@ -1,0 +1,11 @@
+{
+  "name": "fastrecon",
+  "version": "0.3.5",
+  "summary": "High-performance reconciliation engine for SQL tables, queries, CSV, and Parquet using DuckDB, Polars, and Arrow.",
+  "author": "fastrecon contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastrecon-0.3.5.tar.gz",
+  "download_time": "2026-04-23T06:12:31.452386",
+  "package_url": "https://pypi.org/project/fastrecon/"
+}

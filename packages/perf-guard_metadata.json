@@ -1,0 +1,11 @@
+{
+  "name": "perf-guard",
+  "version": "0.2.0",
+  "summary": "Performance regression monitor for ML inference projects",
+  "author": "huxie",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "perf_guard-0.2.0.tar.gz",
+  "download_time": "2026-04-23T06:12:10.872522",
+  "package_url": "https://pypi.org/project/perf-guard/"
+}

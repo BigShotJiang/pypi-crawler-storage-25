@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-gitlab-theme",
+  "version": "0.0.2",
+  "summary": "A GitLab-styled theme for MkDocs",
+  "author": "GitLab",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/gitlab-org/mkdocs-gitlab-theme",
+  "download_filename": "mkdocs_gitlab_theme-0.0.2.tar.gz",
+  "download_time": "2026-04-23T06:12:27.888740",
+  "package_url": "https://pypi.org/project/mkdocs-gitlab-theme/"
+}

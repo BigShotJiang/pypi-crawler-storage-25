@@ -1,0 +1,11 @@
+{
+  "name": "pygjson",
+  "version": "0.0.3",
+  "summary": "Python bindings for gjson.rs - fast JSON path queries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygjson-0.0.3.tar.gz",
+  "download_time": "2026-04-23T06:12:11.969592",
+  "package_url": "https://pypi.org/project/pygjson/"
+}

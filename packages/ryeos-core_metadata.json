@@ -1,11 +1,11 @@
 {
   "name": "ryeos-core",
-  "version": "0.1.41",
+  "version": "0.1.45",
   "summary": "RYE Core Bundle — runtimes, primitives, extractors, and bundler",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ryeos_core-0.1.41-py3-none-any.whl",
-  "download_time": "2026-04-10T02:30:57.081997",
+  "download_filename": "ryeos_core-0.1.45-py3-none-any.whl",
+  "download_time": "2026-04-23T06:12:05.230337",
   "package_url": "https://pypi.org/project/ryeos-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "plato-input-sanitizer",
+  "version": "0.1.0",
+  "summary": "Input validation and auth middleware for PLATO fleet services",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plato_input_sanitizer-0.1.0.tar.gz",
+  "download_time": "2026-04-23T06:11:50.013486",
+  "package_url": "https://pypi.org/project/plato-input-sanitizer/"
+}

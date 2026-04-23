@@ -1,11 +1,11 @@
 {
   "name": "vibe-package-manager",
-  "version": "1.0.8",
+  "version": "1.1.2",
   "summary": "A package manager for managing SKILLs, SubAgents, and MCPs",
   "author": "Vibe Package Manager Team",
   "license": "MIT",
   "home_page": "https://github.com/YOUR_USERNAME/vibe_package_manager",
-  "download_filename": "vibe_package_manager-1.0.8.tar.gz",
-  "download_time": "2026-04-17T10:19:46.517387",
+  "download_filename": "vibe_package_manager-1.1.2.tar.gz",
+  "download_time": "2026-04-23T06:12:28.432180",
   "package_url": "https://pypi.org/project/vibe-package-manager/"
 }

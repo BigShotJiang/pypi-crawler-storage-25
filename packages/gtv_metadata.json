@@ -1,0 +1,11 @@
+{
+  "name": "gtv",
+  "version": "2.3.4",
+  "summary": "Ground Truth Verification System — federated fact verifier for LLM agents",
+  "author": "Ground Truth contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gtv-2.3.4.tar.gz",
+  "download_time": "2026-04-23T06:12:05.846811",
+  "package_url": "https://pypi.org/project/gtv/"
+}

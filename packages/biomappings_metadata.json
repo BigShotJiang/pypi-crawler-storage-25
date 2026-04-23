@@ -1,11 +1,11 @@
 {
   "name": "biomappings",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Curated and predicted mappings between biomedical identifiers in different namespaces",
   "author": "Charles Tapley Hoyt",
   "license": null,
   "home_page": null,
-  "download_filename": "biomappings-0.5.1.tar.gz",
-  "download_time": "2026-04-15T05:57:07.845234",
+  "download_filename": "biomappings-0.5.2.tar.gz",
+  "download_time": "2026-04-23T06:12:11.421460",
   "package_url": "https://pypi.org/project/biomappings/"
 }

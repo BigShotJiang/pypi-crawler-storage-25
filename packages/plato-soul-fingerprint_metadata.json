@@ -1,0 +1,11 @@
+{
+  "name": "plato-soul-fingerprint",
+  "version": "0.3.0",
+  "summary": "Extract a soul vector from a git repository — coding identity compression for the fleet",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plato_soul_fingerprint-0.3.0.tar.gz",
+  "download_time": "2026-04-23T06:11:48.896105",
+  "package_url": "https://pypi.org/project/plato-soul-fingerprint/"
+}

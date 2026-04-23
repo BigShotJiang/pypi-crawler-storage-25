@@ -1,0 +1,11 @@
+{
+  "name": "autogen-payclaw",
+  "version": "0.1.0",
+  "summary": "PayClaw tools for Microsoft AutoGen — give your AssistantAgent a USDC wallet on Base it can actually spend. Gasless via Circle Paymaster.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autogen_payclaw-0.1.0.tar.gz",
+  "download_time": "2026-04-23T06:12:04.683085",
+  "package_url": "https://pypi.org/project/autogen-payclaw/"
+}

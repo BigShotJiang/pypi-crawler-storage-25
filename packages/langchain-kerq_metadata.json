@@ -1,0 +1,11 @@
+{
+  "name": "langchain-kerq",
+  "version": "0.1.1",
+  "summary": "LangChain integration for Kerq trust scoring and telemetry",
+  "author": "Kerq",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_kerq-0.1.1.tar.gz",
+  "download_time": "2026-04-23T06:12:29.751315",
+  "package_url": "https://pypi.org/project/langchain-kerq/"
+}
