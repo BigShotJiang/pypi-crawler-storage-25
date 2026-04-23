@@ -1,11 +1,11 @@
 {
   "name": "pluto-ml",
-  "version": "0.0.18",
+  "version": "0.0.20",
   "summary": "Pluto ML - Machine Learning Operations Framework",
   "author": "jqssun",
   "license": null,
   "home_page": null,
-  "download_filename": "pluto_ml-0.0.18.tar.gz",
-  "download_time": "2026-04-06T08:56:56.273193",
+  "download_filename": "pluto_ml-0.0.20.tar.gz",
+  "download_time": "2026-04-23T11:20:32.405758",
   "package_url": "https://pypi.org/project/pluto-ml/"
 }

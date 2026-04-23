@@ -1,0 +1,11 @@
+{
+  "name": "betterdb-agent-cache",
+  "version": "0.4.1",
+  "summary": "Multi-tier exact-match cache for AI agent workloads backed by Valkey. LLM responses, tool results, and session state with built-in OpenTelemetry and Prometheus instrumentation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "betterdb_agent_cache-0.4.1.tar.gz",
+  "download_time": "2026-04-23T11:20:12.316405",
+  "package_url": "https://pypi.org/project/betterdb-agent-cache/"
+}

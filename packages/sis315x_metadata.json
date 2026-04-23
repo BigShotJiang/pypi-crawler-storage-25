@@ -1,0 +1,11 @@
+{
+  "name": "sis315x",
+  "version": "0.1.0",
+  "summary": "Interface for the SIS315x USB/Ethernet to VME interface card family",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sis315x-0.1.0.tar.gz",
+  "download_time": "2026-04-23T11:20:03.042763",
+  "package_url": "https://pypi.org/project/sis315x/"
+}

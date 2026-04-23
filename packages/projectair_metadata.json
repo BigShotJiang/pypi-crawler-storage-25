@@ -1,0 +1,11 @@
+{
+  "name": "projectair",
+  "version": "0.3.1",
+  "summary": "Project AIR: forensic reconstruction and incident response for AI agents. Turn agent traces into signed forensic records with BLAKE3 + Ed25519.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "projectair-0.3.1.tar.gz",
+  "download_time": "2026-04-23T11:20:43.706716",
+  "package_url": "https://pypi.org/project/projectair/"
+}

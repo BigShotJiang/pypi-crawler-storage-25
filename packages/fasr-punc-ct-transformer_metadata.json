@@ -1,11 +1,11 @@
 {
   "name": "fasr-punc-ct-transformer",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "ct-transformer punctuation model for fasr",
   "author": "osc",
   "license": null,
   "home_page": null,
-  "download_filename": "fasr_punc_ct_transformer-0.4.0.tar.gz",
-  "download_time": "2026-04-01T09:46:44.423900",
+  "download_filename": "fasr_punc_ct_transformer-0.5.1.tar.gz",
+  "download_time": "2026-04-23T11:20:14.362231",
   "package_url": "https://pypi.org/project/fasr-punc-ct-transformer/"
 }

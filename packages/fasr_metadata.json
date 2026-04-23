@@ -1,11 +1,11 @@
 {
   "name": "fasr",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "FASR: Fast Automatic Speech Recognition Pipeline",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fasr-0.4.0.tar.gz",
-  "download_time": "2026-04-01T09:46:43.914972",
+  "download_filename": "fasr-0.5.1.tar.gz",
+  "download_time": "2026-04-23T11:20:17.486727",
   "package_url": "https://pypi.org/project/fasr/"
 }
