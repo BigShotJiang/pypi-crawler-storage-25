@@ -1,0 +1,11 @@
+{
+  "name": "labstep",
+  "version": "3.36.1",
+  "summary": "Python SDK for working with the Labstep API",
+  "author": "Labstep",
+  "license": "MIT",
+  "home_page": "http://github.com/Labstep/labstepPy",
+  "download_filename": "labstep-3.36.1.tar.gz",
+  "download_time": "2026-04-23T12:17:08.167874",
+  "package_url": "https://pypi.org/project/labstep/"
+}

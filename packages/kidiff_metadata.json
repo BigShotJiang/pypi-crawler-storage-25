@@ -1,0 +1,11 @@
+{
+  "name": "kidiff",
+  "version": "2.5.9",
+  "summary": "KiCad PCB/SCH Diff",
+  "author": "Salvador E. Tropea",
+  "license": "GPL-2",
+  "home_page": "https://github.com/INTI-CMNB/KiDiff/",
+  "download_filename": "kidiff-2.5.9.tar.gz",
+  "download_time": "2026-04-23T12:17:20.479200",
+  "package_url": "https://pypi.org/project/kidiff/"
+}

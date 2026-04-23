@@ -1,11 +1,11 @@
 {
   "name": "ogham-mcp",
-  "version": "0.10.4",
+  "version": "0.11.0",
   "summary": "Shared memory MCP server — persistent, searchable, cross-client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ogham_mcp-0.10.4.tar.gz",
-  "download_time": "2026-04-22T10:03:33.590983",
+  "download_filename": "ogham_mcp-0.11.0.tar.gz",
+  "download_time": "2026-04-23T12:17:02.008093",
   "package_url": "https://pypi.org/project/ogham-mcp/"
 }

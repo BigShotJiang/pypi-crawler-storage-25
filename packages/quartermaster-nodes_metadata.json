@@ -1,11 +1,11 @@
 {
   "name": "quartermaster-nodes",
-  "version": "0.1.4",
+  "version": "0.5.1",
   "summary": "Library of composable node types for building AI agent graphs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quartermaster_nodes-0.1.4.tar.gz",
-  "download_time": "2026-04-15T10:46:30.855669",
+  "download_filename": "quartermaster_nodes-0.5.1.tar.gz",
+  "download_time": "2026-04-23T12:17:11.757630",
   "package_url": "https://pypi.org/project/quartermaster-nodes/"
 }

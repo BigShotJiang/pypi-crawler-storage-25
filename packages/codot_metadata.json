@@ -1,11 +1,11 @@
 {
   "name": "codot",
-  "version": "0.1.3",
+  "version": "0.1.9",
   "summary": "CQRS-URL Platform - Commands and Queries as URL-addressable resources",
   "author": "codot contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "codot-0.1.3.tar.gz",
-  "download_time": "2026-04-22T22:12:29.440922",
+  "download_filename": "codot-0.1.9.tar.gz",
+  "download_time": "2026-04-23T12:17:06.626804",
   "package_url": "https://pypi.org/project/codot/"
 }

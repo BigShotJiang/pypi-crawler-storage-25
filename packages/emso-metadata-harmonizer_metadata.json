@@ -1,0 +1,11 @@
+{
+  "name": "emso-metadata-harmonizer",
+  "version": "1.0.3",
+  "summary": "Toolbox for creating/assessing EMSO-compliant NetCDF datasets and integrate them into ERDDAP services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emso_metadata_harmonizer-1.0.3.tar.gz",
+  "download_time": "2026-04-23T12:17:31.261050",
+  "package_url": "https://pypi.org/project/emso-metadata-harmonizer/"
+}

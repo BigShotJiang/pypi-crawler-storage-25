@@ -1,11 +1,11 @@
 {
   "name": "pyhand-core",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "A lightweight toolkit for absolute architectural freedom in Python.",
   "author": "XiaoYi",
   "license": "MIT",
   "home_page": "https://github.com/xiaoyi-2012/pyhand",
-  "download_filename": "pyhand_core-1.0.5.tar.gz",
-  "download_time": "2026-04-23T11:20:25.225243",
+  "download_filename": "pyhand_core-1.0.6.tar.gz",
+  "download_time": "2026-04-23T12:17:44.868558",
   "package_url": "https://pypi.org/project/pyhand-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "kups",
+  "version": "1.0.0.post1",
+  "summary": "A toolkit for building high-performance molecular simulations on JAX.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kups-1.0.0.post1.tar.gz",
+  "download_time": "2026-04-23T12:17:29.206452",
+  "package_url": "https://pypi.org/project/kups/"
+}

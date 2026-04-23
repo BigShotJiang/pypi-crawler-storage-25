@@ -1,0 +1,11 @@
+{
+  "name": "azureml-assets",
+  "version": "1.17.2",
+  "summary": "Utilities for publishing assets to Azure Machine Learning system registries.",
+  "author": "Microsoft Corp",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "azureml_assets-1.17.2.tar.gz",
+  "download_time": "2026-04-23T12:17:34.883316",
+  "package_url": "https://pypi.org/project/azureml-assets/"
+}
