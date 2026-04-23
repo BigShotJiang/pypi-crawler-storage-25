@@ -1,11 +1,11 @@
 {
   "name": "fiscalpy",
-  "version": "0.0.1",
-  "summary": "Paquete del Observatorio",
+  "version": "0.0.5",
+  "summary": "Paquete para la limpieza de datos fiscales en Colombia",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fiscalpy-0.0.1.tar.gz",
-  "download_time": "2026-04-10T14:51:26.408576",
+  "download_filename": "fiscalpy-0.0.5.tar.gz",
+  "download_time": "2026-04-23T22:08:19.544610",
   "package_url": "https://pypi.org/project/fiscalpy/"
 }

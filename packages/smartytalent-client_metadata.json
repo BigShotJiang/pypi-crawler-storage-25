@@ -1,11 +1,11 @@
 {
   "name": "smartytalent-client",
-  "version": "0.1.26",
+  "version": "0.1.32",
   "summary": "SmartyMeet Dev03 API REST",
   "author": "SmartyTalent API Support",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "smartytalent_client-0.1.26.tar.gz",
-  "download_time": "2026-04-18T11:55:38.494156",
+  "download_filename": "smartytalent_client-0.1.32.tar.gz",
+  "download_time": "2026-04-23T22:08:41.902698",
   "package_url": "https://pypi.org/project/smartytalent-client/"
 }

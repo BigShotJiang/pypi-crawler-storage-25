@@ -1,0 +1,11 @@
+{
+  "name": "clostera",
+  "version": "1.0.0",
+  "summary": "Modern Rust rewrite of the original pqkmeans project for large-scale clustering with numpy and parquet workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clostera-1.0.0.tar.gz",
+  "download_time": "2026-04-23T22:08:34.661779",
+  "package_url": "https://pypi.org/project/clostera/"
+}

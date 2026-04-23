@@ -1,11 +1,11 @@
 {
   "name": "mdengine",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "Convert PDF, Office, images, audio, video, text/JSON/XML, ZIP archives, and web URLs to Markdown.",
   "author": "mdengine contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "mdengine-0.3.0.tar.gz",
-  "download_time": "2026-04-20T20:14:43.221045",
+  "download_filename": "mdengine-0.5.0.tar.gz",
+  "download_time": "2026-04-23T22:08:40.869484",
   "package_url": "https://pypi.org/project/mdengine/"
 }

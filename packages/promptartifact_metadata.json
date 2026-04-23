@@ -1,0 +1,11 @@
+{
+  "name": "promptartifact",
+  "version": "0.1.2",
+  "summary": "Helps you store prompts as versioned artifacts, load them from disk, compare revisions, render them with variables, and run lightweight evaluations against expected behaviors.",
+  "author": "Brandon Himpfen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "promptartifact-0.1.2.tar.gz",
+  "download_time": "2026-04-23T22:08:51.229805",
+  "package_url": "https://pypi.org/project/promptartifact/"
+}

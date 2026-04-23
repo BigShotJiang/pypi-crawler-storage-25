@@ -1,0 +1,11 @@
+{
+  "name": "dottie-cli",
+  "version": "0.3.1",
+  "summary": "Token-based CLI for team, conversations, equipment, and absence in Dottie HR",
+  "author": "OpenAI Codex",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dottie_cli-0.3.1.tar.gz",
+  "download_time": "2026-04-23T22:08:46.609146",
+  "package_url": "https://pypi.org/project/dottie-cli/"
+}

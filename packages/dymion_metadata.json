@@ -1,11 +1,11 @@
 {
   "name": "dymion",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "A professional physics library for kinematics and dynamics. Remake of Cinetica.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dymion-0.3.0.tar.gz",
-  "download_time": "2026-04-21T23:02:40.808491",
+  "download_filename": "dymion-0.5.0.tar.gz",
+  "download_time": "2026-04-23T22:09:01.591144",
   "package_url": "https://pypi.org/project/dymion/"
 }

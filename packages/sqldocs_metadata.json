@@ -1,0 +1,11 @@
+{
+  "name": "sqldocs",
+  "version": "0.1.1",
+  "summary": "Generate HTML documentation from SQL queries",
+  "author": "Emiliano Rigueiro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqldocs-0.1.1.tar.gz",
+  "download_time": "2026-04-23T22:08:48.663812",
+  "package_url": "https://pypi.org/project/sqldocs/"
+}

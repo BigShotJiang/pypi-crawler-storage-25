@@ -1,11 +1,11 @@
 {
   "name": "gemini-cli-headless",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "summary": "A resilient, zero-dependency Python wrapper for the official Google Gemini Node.js CLI.",
   "author": "jarek108",
   "license": null,
   "home_page": null,
-  "download_filename": "gemini_cli_headless-5.0.5.tar.gz",
-  "download_time": "2026-04-23T21:15:21.338734",
+  "download_filename": "gemini_cli_headless-5.0.6.tar.gz",
+  "download_time": "2026-04-23T22:08:27.948711",
   "package_url": "https://pypi.org/project/gemini-cli-headless/"
 }

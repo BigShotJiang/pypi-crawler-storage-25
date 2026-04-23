@@ -1,11 +1,11 @@
 {
   "name": "predictorsdk",
-  "version": "0.0.1",
+  "version": "0.3.1",
   "summary": "The official Python client for the PredictorSDK matching markets API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "predictorsdk-0.0.1.tar.gz",
-  "download_time": "2026-04-04T23:59:53.607513",
+  "download_filename": "predictorsdk-0.3.1.tar.gz",
+  "download_time": "2026-04-23T22:08:40.357703",
   "package_url": "https://pypi.org/project/predictorsdk/"
 }

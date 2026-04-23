@@ -1,11 +1,11 @@
 {
   "name": "oaknut",
-  "version": "10.1.0",
+  "version": "10.5.0",
   "summary": "Oaknut family meta-distribution — tools for Acorn computer filesystems, files, and formats.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oaknut-10.1.0.tar.gz",
-  "download_time": "2026-04-15T07:48:55.967834",
+  "download_filename": "oaknut-10.5.0.tar.gz",
+  "download_time": "2026-04-23T22:08:27.436341",
   "package_url": "https://pypi.org/project/oaknut/"
 }

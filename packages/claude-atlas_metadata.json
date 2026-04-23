@@ -1,0 +1,11 @@
+{
+  "name": "claude-atlas",
+  "version": "0.3.0",
+  "summary": "Scan, map, and visualize your Claude Code setup: agents, skills, slash commands, and memory files.",
+  "author": "Gabriel Gripp",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_atlas-0.3.0.tar.gz",
+  "download_time": "2026-04-23T22:08:49.177570",
+  "package_url": "https://pypi.org/project/claude-atlas/"
+}

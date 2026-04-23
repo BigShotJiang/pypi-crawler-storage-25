@@ -1,0 +1,11 @@
+{
+  "name": "pypercache",
+  "version": "0.1.7",
+  "summary": "Durable file-backed caching for JSON-like data with pluggable storage backends",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypercache-0.1.7.tar.gz",
+  "download_time": "2026-04-23T22:09:02.103630",
+  "package_url": "https://pypi.org/project/pypercache/"
+}

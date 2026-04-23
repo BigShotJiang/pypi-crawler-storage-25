@@ -1,11 +1,11 @@
 {
   "name": "autoplay-sdk",
-  "version": "0.5.0",
+  "version": "0.6.5",
   "summary": "Real-time event streaming client for Autoplay connectors",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "autoplay_sdk-0.5.0.tar.gz",
-  "download_time": "2026-04-10T21:07:19.261972",
+  "download_filename": "autoplay_sdk-0.6.5.tar.gz",
+  "download_time": "2026-04-23T22:08:39.330546",
   "package_url": "https://pypi.org/project/autoplay-sdk/"
 }
