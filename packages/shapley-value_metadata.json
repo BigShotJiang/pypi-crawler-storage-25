@@ -1,0 +1,11 @@
+{
+  "name": "shapley-value",
+  "version": "0.0.9",
+  "summary": "A comprehensive Python package for calculating Shapley values in cooperative game theory",
+  "author": "Bowen Song",
+  "license": "MIT",
+  "home_page": "https://github.com/Bowenislandsong/shapley-value",
+  "download_filename": "shapley_value-0.0.9.tar.gz",
+  "download_time": "2026-04-23T23:16:58.252712",
+  "package_url": "https://pypi.org/project/shapley-value/"
+}

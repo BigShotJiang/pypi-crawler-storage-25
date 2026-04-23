@@ -1,0 +1,11 @@
+{
+  "name": "mxframe",
+  "version": "0.1.2",
+  "summary": "GPU-accelerated DataFrame engine: Python ergonomics + Mojo AOT kernels, cross-vendor (NVIDIA/AMD/Apple).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mxframe-0.1.2.tar.gz",
+  "download_time": "2026-04-23T23:17:06.480274",
+  "package_url": "https://pypi.org/project/mxframe/"
+}

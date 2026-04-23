@@ -1,11 +1,11 @@
 {
   "name": "deadline-cloud-for-3ds-max",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "AWS Deadline Cloud for 3ds Max",
   "author": "Amazon Web Services",
   "license": null,
   "home_page": null,
-  "download_filename": "deadline_cloud_for_3ds_max-0.3.0.tar.gz",
-  "download_time": "2026-04-13T21:13:45.695652",
+  "download_filename": "deadline_cloud_for_3ds_max-0.3.1.tar.gz",
+  "download_time": "2026-04-23T23:16:48.036387",
   "package_url": "https://pypi.org/project/deadline-cloud-for-3ds-max/"
 }

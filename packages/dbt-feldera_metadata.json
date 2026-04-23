@@ -1,0 +1,11 @@
+{
+  "name": "dbt-feldera",
+  "version": "0.289.0",
+  "summary": "The dbt adapter for Feldera — DBSP-native incremental view maintenance",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_feldera-0.289.0.tar.gz",
+  "download_time": "2026-04-23T23:16:59.373335",
+  "package_url": "https://pypi.org/project/dbt-feldera/"
+}

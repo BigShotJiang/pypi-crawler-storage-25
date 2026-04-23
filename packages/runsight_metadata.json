@@ -1,11 +1,11 @@
 {
   "name": "runsight",
-  "version": "0.4.1",
+  "version": "0.4.15",
   "summary": "YAML-first workflow engine for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "runsight-0.4.1.tar.gz",
-  "download_time": "2026-04-15T21:43:43.417346",
+  "download_filename": "runsight-0.4.15.tar.gz",
+  "download_time": "2026-04-23T23:17:31.087263",
   "package_url": "https://pypi.org/project/runsight/"
 }

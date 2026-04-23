@@ -1,11 +1,11 @@
 {
   "name": "daimyo",
-  "version": "1.15.0",
+  "version": "1.16.1",
   "summary": "Rules server for agents with REST and MCP interfaces",
   "author": "Jesús Alonso Abad",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "daimyo-1.15.0.tar.gz",
-  "download_time": "2026-04-03T13:03:03.683066",
+  "download_filename": "daimyo-1.16.1.tar.gz",
+  "download_time": "2026-04-23T23:16:43.119992",
   "package_url": "https://pypi.org/project/daimyo/"
 }

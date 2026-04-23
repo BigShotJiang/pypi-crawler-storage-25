@@ -1,0 +1,11 @@
+{
+  "name": "scitex-parallel",
+  "version": "0.1.1",
+  "summary": "Thread/process pool parallel execution utilities",
+  "author": "Yusuke Watanabe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scitex_parallel-0.1.1.tar.gz",
+  "download_time": "2026-04-23T23:16:54.441723",
+  "package_url": "https://pypi.org/project/scitex-parallel/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "randomcoords",
+  "version": "1.0.3",
+  "summary": "The Python client for the RandomCoords API to fetch random geographic coordinates worldwide.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "randomcoords-1.0.3.tar.gz",
+  "download_time": "2026-04-23T23:16:52.172296",
+  "package_url": "https://pypi.org/project/randomcoords/"
+}

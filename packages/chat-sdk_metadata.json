@@ -1,11 +1,11 @@
 {
   "name": "chat-sdk",
-  "version": "0.0.1a8",
+  "version": "0.4.26.1",
   "summary": "Multi-platform async chat SDK for Python — port of Vercel Chat",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chat_sdk-0.0.1a8.tar.gz",
-  "download_time": "2026-04-07T08:15:55.894305",
+  "download_filename": "chat_sdk-0.4.26.1.tar.gz",
+  "download_time": "2026-04-23T23:17:02.633567",
   "package_url": "https://pypi.org/project/chat-sdk/"
 }

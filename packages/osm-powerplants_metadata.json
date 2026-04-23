@@ -1,0 +1,11 @@
+{
+  "name": "osm-powerplants",
+  "version": "0.1.5",
+  "summary": "Extract and process power plant data from OpenStreetMap",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "osm_powerplants-0.1.5.tar.gz",
+  "download_time": "2026-04-23T23:16:43.664885",
+  "package_url": "https://pypi.org/project/osm-powerplants/"
+}

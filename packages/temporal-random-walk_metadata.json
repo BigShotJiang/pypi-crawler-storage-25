@@ -1,0 +1,11 @@
+{
+  "name": "temporal-random-walk",
+  "version": "1.7.5",
+  "summary": "A library to sample temporal random walks from in-memory temporal graphs",
+  "author": "Ashfaq Salehin",
+  "license": null,
+  "home_page": "https://github.com/ashfaq1701/temporal-random-walk",
+  "download_filename": "temporal_random_walk-1.7.5-cp311-cp311-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-04-23T23:16:52.755640",
+  "package_url": "https://pypi.org/project/temporal-random-walk/"
+}

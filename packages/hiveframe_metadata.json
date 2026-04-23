@@ -1,11 +1,11 @@
 {
   "name": "hiveframe",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "Proxmox automation toolkit — define infrastructure as YAML, provision with one command",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hiveframe-0.1.0.tar.gz",
-  "download_time": "2026-04-22T01:13:07.344364",
+  "download_filename": "hiveframe-0.1.4.tar.gz",
+  "download_time": "2026-04-23T23:17:03.179074",
   "package_url": "https://pypi.org/project/hiveframe/"
 }
