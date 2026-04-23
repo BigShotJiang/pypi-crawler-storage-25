@@ -1,11 +1,11 @@
 {
   "name": "claude-usage-widget",
-  "version": "0.2.3",
+  "version": "0.4.6",
   "summary": "Desktop widget and CLI that shows real-time Claude Code usage limits and cost.",
   "author": "Burak",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_usage_widget-0.2.3.tar.gz",
-  "download_time": "2026-04-21T14:12:22.157298",
+  "download_filename": "claude_usage_widget-0.4.6.tar.gz",
+  "download_time": "2026-04-23T10:04:51.312450",
   "package_url": "https://pypi.org/project/claude-usage-widget/"
 }

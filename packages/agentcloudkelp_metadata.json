@@ -1,0 +1,11 @@
+{
+  "name": "agentcloudkelp",
+  "version": "0.1.1",
+  "summary": "YAML-first stress testing for AI agents. Inject faults, catch behavioral drift, enforce cost budgets.",
+  "author": "Aquib Nawab",
+  "license": "Read License File",
+  "home_page": null,
+  "download_filename": "agentcloudkelp-0.1.1.tar.gz",
+  "download_time": "2026-04-23T10:04:56.822666",
+  "package_url": "https://pypi.org/project/agentcloudkelp/"
+}

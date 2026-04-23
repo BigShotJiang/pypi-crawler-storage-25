@@ -1,0 +1,11 @@
+{
+  "name": "aiogram-callback-data",
+  "version": "1.0.0",
+  "summary": "aiogram 3 extension that lifts Telegram's 64-byte callback_data limit by storing payloads in an external storage keyed by a short hash.",
+  "author": "kash1dd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiogram_callback_data-1.0.0.tar.gz",
+  "download_time": "2026-04-23T10:05:26.157084",
+  "package_url": "https://pypi.org/project/aiogram-callback-data/"
+}

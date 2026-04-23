@@ -1,0 +1,11 @@
+{
+  "name": "ydata-quality",
+  "version": "0.1.2",
+  "summary": "YData open-source tools for Data Quality.",
+  "author": "YData",
+  "license": "https://github.com/ydataai/ydata-quality/blob/master/LICENSE",
+  "home_page": "https://github.com/ydataai/ydata-quality",
+  "download_filename": "ydata_quality-0.1.2.tar.gz",
+  "download_time": "2026-04-23T10:05:36.499749",
+  "package_url": "https://pypi.org/project/ydata-quality/"
+}

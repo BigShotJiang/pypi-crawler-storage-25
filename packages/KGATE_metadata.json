@@ -1,0 +1,11 @@
+{
+  "name": "KGATE",
+  "version": "0.3.1",
+  "summary": "Knowledge Graph Autoencoder Training Environment, bridging PyG encoders and TorchKGE decoders.",
+  "author": "Benjamin Loire",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kgate-0.3.1.tar.gz",
+  "download_time": "2026-04-23T10:04:52.435197",
+  "package_url": "https://pypi.org/project/KGATE/"
+}
