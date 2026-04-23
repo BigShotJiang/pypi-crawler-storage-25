@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-dms20250414",
-  "version": "1.10.3",
+  "version": "1.10.5",
   "summary": "Alibaba Cloud Data Management (20250414) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_dms20250414-1.10.3.tar.gz",
-  "download_time": "2026-04-14T18:57:14.186420",
+  "download_filename": "alibabacloud_dms20250414-1.10.5.tar.gz",
+  "download_time": "2026-04-23T17:52:18.416540",
   "package_url": "https://pypi.org/project/alibabacloud-dms20250414/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ipumspy",
+  "version": "0.8.1",
+  "summary": "A collection of tools for working with IPUMS data",
+  "author": "Kevin H. Wilson",
+  "license": "Mozilla Public License 2.0 (MPL 2.0)",
+  "home_page": null,
+  "download_filename": "ipumspy-0.8.1.tar.gz",
+  "download_time": "2026-04-23T17:52:46.762235",
+  "package_url": "https://pypi.org/project/ipumspy/"
+}

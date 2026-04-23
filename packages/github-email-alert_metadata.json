@@ -1,11 +1,11 @@
 {
   "name": "github-email-alert",
-  "version": "0.1.8",
+  "version": "0.1.11",
   "summary": "Reusable GitHub Email Alert package for CI/CD workflows",
   "author": "Pandiyaraj Karuppasamy",
   "license": null,
   "home_page": null,
-  "download_filename": "github_email_alert-0.1.8.tar.gz",
-  "download_time": "2026-03-28T17:05:35.178309",
+  "download_filename": "github_email_alert-0.1.11.tar.gz",
+  "download_time": "2026-04-23T17:52:51.959775",
   "package_url": "https://pypi.org/project/github-email-alert/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vera-anchor",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Local Python SDK for Vera Anchor",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vera_anchor-0.1.1.tar.gz",
-  "download_time": "2026-04-06T18:15:44.579958",
+  "download_filename": "vera_anchor-0.1.4.tar.gz",
+  "download_time": "2026-04-23T17:52:54.043999",
   "package_url": "https://pypi.org/project/vera-anchor/"
 }

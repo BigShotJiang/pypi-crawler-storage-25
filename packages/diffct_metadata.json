@@ -1,11 +1,11 @@
 {
   "name": "diffct",
-  "version": "1.3.0",
+  "version": "1.3.2",
   "summary": "A CUDA-based library for computed tomography (CT) projection and reconstruction with differentiable operators",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "diffct-1.3.0.tar.gz",
-  "download_time": "2026-04-14T20:10:15.457996",
+  "download_filename": "diffct-1.3.2-py2.py3-none-any.whl",
+  "download_time": "2026-04-23T17:52:14.681435",
   "package_url": "https://pypi.org/project/diffct/"
 }

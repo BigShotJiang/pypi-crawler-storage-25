@@ -1,0 +1,11 @@
+{
+  "name": "drift-detector-agent",
+  "version": "2.0.2",
+  "summary": "Behavioral drift detection for LLM agents",
+  "author": "MrPredic",
+  "license": "MIT",
+  "home_page": "https://github.com/MrPredic/drift-detector",
+  "download_filename": "drift_detector_agent-2.0.2.tar.gz",
+  "download_time": "2026-04-23T17:52:17.368047",
+  "package_url": "https://pypi.org/project/drift-detector-agent/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "memkraft",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "summary": "The compound knowledge system for AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memkraft-1.0.1.tar.gz",
-  "download_time": "2026-04-20T16:54:12.162885",
+  "download_filename": "memkraft-2.0.0.tar.gz",
+  "download_time": "2026-04-23T17:52:11.423215",
   "package_url": "https://pypi.org/project/memkraft/"
 }
