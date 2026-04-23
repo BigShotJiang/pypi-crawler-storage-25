@@ -1,11 +1,11 @@
 {
   "name": "kwebsp",
-  "version": "1.5",
+  "version": "1.11",
   "summary": "kwebsp是建立在 kwebs 框架的基础上研发的一套 linux 服务器容器系统",
   "author": "百里",
   "license": "Apache License 2.0",
   "home_page": "https://docs.kwebapp.cn/index/index/3",
-  "download_filename": "kwebsp-1.5.tar.gz",
-  "download_time": "2026-04-18T14:10:09.711943",
+  "download_filename": "kwebsp-1.11.tar.gz",
+  "download_time": "2026-04-23T16:16:32.849947",
   "package_url": "https://pypi.org/project/kwebsp/"
 }

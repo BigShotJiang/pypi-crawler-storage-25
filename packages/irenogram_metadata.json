@@ -1,11 +1,11 @@
 {
   "name": "irenogram",
-  "version": "2.3.70",
-  "summary": "Irenogram is a maintained continuation of PyroFork with latest Telegram API support. Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
+  "version": "2.3.78",
+  "summary": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "irenogram-2.3.70.tar.gz",
-  "download_time": "2026-03-30T05:11:58.291851",
+  "download_filename": "irenogram-2.3.78.tar.gz",
+  "download_time": "2026-04-23T16:16:03.743201",
   "package_url": "https://pypi.org/project/irenogram/"
 }

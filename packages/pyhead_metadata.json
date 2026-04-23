@@ -1,11 +1,11 @@
 {
   "name": "pyhead",
-  "version": "6.0.1",
+  "version": "6.1.0",
   "summary": "A simple python package to generate HTML head tags.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyhead-6.0.1.tar.gz",
-  "download_time": "2026-04-22T21:17:20.290995",
+  "download_filename": "pyhead-6.1.0.tar.gz",
+  "download_time": "2026-04-23T16:16:21.904888",
   "package_url": "https://pypi.org/project/pyhead/"
 }

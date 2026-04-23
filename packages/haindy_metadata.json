@@ -1,11 +1,11 @@
 {
   "name": "haindy",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "Autonomous AI Testing Agent with multi-agent architecture",
   "author": "Federico Keegan",
   "license": null,
   "home_page": null,
-  "download_filename": "haindy-0.4.0.tar.gz",
-  "download_time": "2026-04-21T10:57:27.740910",
+  "download_filename": "haindy-0.4.2.tar.gz",
+  "download_time": "2026-04-23T16:16:31.759965",
   "package_url": "https://pypi.org/project/haindy/"
 }

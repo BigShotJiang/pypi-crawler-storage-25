@@ -1,0 +1,11 @@
+{
+  "name": "genblaze-openai",
+  "version": "0.2.0",
+  "summary": "OpenAI provider adapters for genblaze (Sora, DALL-E, TTS)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genblaze_openai-0.2.0.tar.gz",
+  "download_time": "2026-04-23T16:15:56.938888",
+  "package_url": "https://pypi.org/project/genblaze-openai/"
+}

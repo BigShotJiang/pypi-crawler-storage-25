@@ -1,0 +1,11 @@
+{
+  "name": "bhashini-client-sdk",
+  "version": "0.1.7",
+  "summary": "Python SDK for Bhashini APIs including ASR, NMT, TTS, OCR, NER, and audio language services",
+  "author": "Nidhi Jha",
+  "license": "MIT",
+  "home_page": "https://github.com/bhashini-dibd/Bhashini-client-python-library.git",
+  "download_filename": "bhashini_client_sdk-0.1.7.tar.gz",
+  "download_time": "2026-04-23T16:16:24.506710",
+  "package_url": "https://pypi.org/project/bhashini-client-sdk/"
+}

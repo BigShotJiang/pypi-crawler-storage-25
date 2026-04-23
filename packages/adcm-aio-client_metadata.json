@@ -1,0 +1,11 @@
+{
+  "name": "adcm-aio-client",
+  "version": "0.2.1",
+  "summary": "Asynchronous HTTP Client for ADCM (Arenadata Cluster Manager)",
+  "author": "Aleksandr Alferov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "adcm_aio_client-0.2.1.tar.gz",
+  "download_time": "2026-04-23T16:16:21.387206",
+  "package_url": "https://pypi.org/project/adcm-aio-client/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pybandits",
-  "version": "6.0.1",
+  "version": "6.0.7",
   "summary": "Python Multi-Armed Bandit Library",
   "author": "Dario d'Andrea",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pybandits-6.0.1.tar.gz",
-  "download_time": "2026-03-29T18:41:24.243862",
+  "download_filename": "pybandits-6.0.7.tar.gz",
+  "download_time": "2026-04-23T16:16:29.187730",
   "package_url": "https://pypi.org/project/pybandits/"
 }

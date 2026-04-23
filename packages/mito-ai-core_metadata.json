@@ -1,0 +1,11 @@
+{
+  "name": "mito-ai-core",
+  "version": "0.1.1",
+  "summary": "Pure-Python AI backbone for Mito – providers, models, prompts, and utilities with zero Jupyter Server dependencies.",
+  "author": "Saga Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mito_ai_core-0.1.1.tar.gz",
+  "download_time": "2026-04-23T16:16:05.813684",
+  "package_url": "https://pypi.org/project/mito-ai-core/"
+}

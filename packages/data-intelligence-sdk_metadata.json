@@ -1,0 +1,11 @@
+{
+  "name": "data-intelligence-sdk",
+  "version": "2.0.0",
+  "summary": "A Python SDK for IBM watsonx.data intelligence that provides data quality validation for streaming records and DataFrames, wrapper methods to access Data Product Hub REST API services, ODCS file generation from data catalogs, and data product recommendations from query log analysis.",
+  "author": "IBM",
+  "license": null,
+  "home_page": "https://github.com/IBM/data-intelligence-sdk",
+  "download_filename": "data_intelligence_sdk-2.0.0.tar.gz",
+  "download_time": "2026-04-23T16:15:52.260166",
+  "package_url": "https://pypi.org/project/data-intelligence-sdk/"
+}

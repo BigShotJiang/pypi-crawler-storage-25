@@ -1,0 +1,11 @@
+{
+  "name": "scwrap",
+  "version": "0.1.7",
+  "summary": "Lightweight scraping helpers: wrapped Page/parser APIs (Patchright, Playwright, selectolax), browser presets, CSV/Parquet and logging utilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scwrap-0.1.7.tar.gz",
+  "download_time": "2026-04-23T16:16:40.099742",
+  "package_url": "https://pypi.org/project/scwrap/"
+}

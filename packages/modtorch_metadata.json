@@ -1,0 +1,11 @@
+{
+  "name": "modtorch",
+  "version": "0.1.2",
+  "summary": "A meta-language to build PyTorch networks dynamically",
+  "author": "Stefano Ricci",
+  "license": null,
+  "home_page": null,
+  "download_filename": "modtorch-0.1.2.tar.gz",
+  "download_time": "2026-04-23T16:16:13.045137",
+  "package_url": "https://pypi.org/project/modtorch/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cyver-reporting",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A Python client and wrapper around the Cyver API.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cyver_reporting-0.0.1.tar.gz",
-  "download_time": "2026-04-20T20:14:47.897151",
+  "download_filename": "cyver_reporting-0.0.2.tar.gz",
+  "download_time": "2026-04-23T16:15:51.742214",
   "package_url": "https://pypi.org/project/cyver-reporting/"
 }

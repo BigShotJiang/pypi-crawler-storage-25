@@ -1,11 +1,11 @@
 {
   "name": "iidm-viewer",
-  "version": "0.7.0",
+  "version": "0.8.2",
   "summary": "A Streamlit app to visualize and explore IIDM network topology and data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iidm_viewer-0.7.0-py3-none-any.whl",
-  "download_time": "2026-04-22T08:22:28.824692",
+  "download_filename": "iidm_viewer-0.8.2-py3-none-any.whl",
+  "download_time": "2026-04-23T16:16:32.276302",
   "package_url": "https://pypi.org/project/iidm-viewer/"
 }

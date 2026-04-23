@@ -1,0 +1,11 @@
+{
+  "name": "ringglabs",
+  "version": "0.0.3",
+  "summary": "Production-grade Python SDK for RinggLabs STT over REST and WebSocket.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ringglabs-0.0.3.tar.gz",
+  "download_time": "2026-04-23T16:16:08.382919",
+  "package_url": "https://pypi.org/project/ringglabs/"
+}

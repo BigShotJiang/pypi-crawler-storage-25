@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-shift",
+  "version": "18.0.1.1.0",
+  "summary": "Define shifts for employees",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/shift-planning",
+  "download_filename": "odoo_addon_hr_shift-18.0.1.1.0-py3-none-any.whl",
+  "download_time": "2026-04-23T16:16:26.086710",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-shift/"
+}
