@@ -1,11 +1,11 @@
 {
   "name": "academic-figures-mcp",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "Academic figure agent harness for multi-step planning, generation, and evaluation through MCP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "academic_figures_mcp-0.4.4.tar.gz",
-  "download_time": "2026-04-15T05:57:28.025900",
+  "download_filename": "academic_figures_mcp-0.4.5.tar.gz",
+  "download_time": "2026-04-23T03:54:31.949059",
   "package_url": "https://pypi.org/project/academic-figures-mcp/"
 }

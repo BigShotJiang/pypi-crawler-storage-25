@@ -1,11 +1,11 @@
 {
   "name": "singer-sdk",
-  "version": "0.53.6",
+  "version": "0.53.7",
   "summary": "A framework for building Singer taps and targets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "singer_sdk-0.53.6.tar.gz",
-  "download_time": "2026-03-30T18:40:53.855495",
+  "download_filename": "singer_sdk-0.53.7.tar.gz",
+  "download_time": "2026-04-23T03:54:37.668617",
   "package_url": "https://pypi.org/project/singer-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-loyalty-redeem-payment",
+  "version": "16.0.1.0.2.1",
+  "summary": "Use vouchers as payment method in pos orders",
+  "author": "Odoo Community Association (OCA), FactorLibre",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_loyalty_redeem_payment-16.0.1.0.2.1-py3-none-any.whl",
+  "download_time": "2026-04-23T03:54:22.621182",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-loyalty-redeem-payment/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "roxy-sdk",
-  "version": "0.1.1",
+  "version": "0.1.7",
   "summary": "Python SDK for RoxyAPI. Astrology, tarot, numerology, and more.",
-  "author": "RoxyAPI",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "roxy_sdk-0.1.1.tar.gz",
-  "download_time": "2026-04-22T12:16:37.693572",
+  "download_filename": "roxy_sdk-0.1.7.tar.gz",
+  "download_time": "2026-04-23T03:54:11.249004",
   "package_url": "https://pypi.org/project/roxy-sdk/"
 }

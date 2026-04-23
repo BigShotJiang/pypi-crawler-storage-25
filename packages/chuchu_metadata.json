@@ -1,11 +1,11 @@
 {
   "name": "chuchu",
-  "version": "0.2.9",
+  "version": "0.3.2",
   "summary": "A easy-to-use declarative GUI library built on top of tkinter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chuchu-0.2.9.tar.gz",
-  "download_time": "2026-04-19T20:18:23.995648",
+  "download_filename": "chuchu-0.3.2.tar.gz",
+  "download_time": "2026-04-23T03:54:28.844855",
   "package_url": "https://pypi.org/project/chuchu/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "flow-compute",
-  "version": "3.11.1",
+  "version": "3.13.0",
   "summary": "CLI and SDK for submitting and managing GPU workloads",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "flow_compute-3.11.1.tar.gz",
-  "download_time": "2026-04-23T00:08:45.127644",
+  "download_filename": "flow_compute-3.13.0.tar.gz",
+  "download_time": "2026-04-23T03:54:03.543955",
   "package_url": "https://pypi.org/project/flow-compute/"
 }

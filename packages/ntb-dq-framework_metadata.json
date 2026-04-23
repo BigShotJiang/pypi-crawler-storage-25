@@ -1,0 +1,11 @@
+{
+  "name": "ntb-dq-framework",
+  "version": "0.3.0",
+  "summary": "Data Quality framework for Databricks — rule-based checks across six dimensions with Delta table persistence",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ntb_dq_framework-0.3.0.tar.gz",
+  "download_time": "2026-04-23T03:54:28.332077",
+  "package_url": "https://pypi.org/project/ntb-dq-framework/"
+}

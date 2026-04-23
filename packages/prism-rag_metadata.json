@@ -1,11 +1,11 @@
 {
   "name": "prism-rag",
-  "version": "0.2.3.post1",
+  "version": "0.2.10",
   "summary": "Epistemic Graph RAG with Spreading Activation — retrieval that understands how knowledge relates, not just what it says",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prism_rag-0.2.3.post1.tar.gz",
-  "download_time": "2026-04-20T23:09:45.325581",
+  "download_filename": "prism_rag-0.2.10.tar.gz",
+  "download_time": "2026-04-23T03:54:24.673384",
   "package_url": "https://pypi.org/project/prism-rag/"
 }

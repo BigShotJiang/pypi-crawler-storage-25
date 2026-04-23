@@ -1,11 +1,11 @@
 {
   "name": "kpubdata",
-  "version": "0.2.3",
+  "version": "0.3.1",
   "summary": "Dialect-inspired Python access framework for Korean public data",
   "author": "Yeongseon Choe",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kpubdata-0.2.3.tar.gz",
-  "download_time": "2026-04-19T09:37:55.203578",
+  "download_filename": "kpubdata-0.3.1.tar.gz",
+  "download_time": "2026-04-23T03:54:05.607316",
   "package_url": "https://pypi.org/project/kpubdata/"
 }

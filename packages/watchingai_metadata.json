@@ -1,11 +1,11 @@
 {
   "name": "watchingai",
-  "version": "0.8.1",
+  "version": "0.9.1",
   "summary": "Desktop sprite widget that shows Claude Code's working status",
   "author": "gmlxo76",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "watchingai-0.8.1.tar.gz",
-  "download_time": "2026-04-21T18:00:58.797274",
+  "download_filename": "watchingai-0.9.1.tar.gz",
+  "download_time": "2026-04-23T03:54:27.818444",
   "package_url": "https://pypi.org/project/watchingai/"
 }

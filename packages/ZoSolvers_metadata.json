@@ -1,0 +1,11 @@
+{
+  "name": "ZoSolvers",
+  "version": "0.1.1",
+  "summary": "Zeroth-order optimisation solvers with Gaussian and sphere random oracles",
+  "author": "amirali",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zosolvers-0.1.1.tar.gz",
+  "download_time": "2026-04-23T03:54:06.120035",
+  "package_url": "https://pypi.org/project/ZoSolvers/"
+}

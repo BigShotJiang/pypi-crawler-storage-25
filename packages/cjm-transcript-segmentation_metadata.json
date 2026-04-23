@@ -1,11 +1,11 @@
 {
   "name": "cjm-transcript-segmentation",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "summary": "FastHTML text segmentation component for transcript decomposition with NLTK sentence splitting, interactive split/merge UI with token selector, and card stack navigation.",
-  "author": "Christian J. Mills",
+  "author": null,
   "license": "Apache-2.0",
-  "home_page": "https://github.com/cj-mills/cjm-transcript-segmentation",
-  "download_filename": "cjm_transcript_segmentation-0.0.10.tar.gz",
-  "download_time": "2026-04-01T02:30:30.060572",
+  "home_page": null,
+  "download_filename": "cjm_transcript_segmentation-0.0.12.tar.gz",
+  "download_time": "2026-04-23T03:54:45.901873",
   "package_url": "https://pypi.org/project/cjm-transcript-segmentation/"
 }

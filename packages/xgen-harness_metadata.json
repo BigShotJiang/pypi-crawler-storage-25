@@ -1,11 +1,11 @@
 {
   "name": "xgen-harness",
-  "version": "0.15.3",
-  "summary": "XGEN Harness Pipeline Library — orchestrator_hint 실분기(linear/plan_execute) + Stage-local strategies 디렉토리 자동 스캔",
+  "version": "0.17.0",
+  "summary": "XGEN Harness — 5 트랙 확장: Stage 실동작 스모크 + custom_tools Auto 토글 + Ingress preserve_order + browser_sessions 리소스 타입 + Credential Vault/secret_ref/allowed_domains",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xgen_harness-0.15.3.tar.gz",
-  "download_time": "2026-04-22T12:16:29.467768",
+  "download_filename": "xgen_harness-0.17.0.tar.gz",
+  "download_time": "2026-04-23T03:54:18.005591",
   "package_url": "https://pypi.org/project/xgen-harness/"
 }

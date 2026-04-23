@@ -1,11 +1,11 @@
 {
   "name": "aerospike-py",
-  "version": "0.5.11",
+  "version": "0.6.1",
   "summary": "High-performance Aerospike Python client with sync and async APIs, built with PyO3 and Rust",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aerospike_py-0.5.11.tar.gz",
-  "download_time": "2026-04-19T03:56:18.746136",
+  "download_filename": "aerospike_py-0.6.1.tar.gz",
+  "download_time": "2026-04-23T03:54:15.951641",
   "package_url": "https://pypi.org/project/aerospike-py/"
 }

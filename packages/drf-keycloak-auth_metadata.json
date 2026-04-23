@@ -1,11 +1,11 @@
 {
   "name": "drf-keycloak-auth",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "A convenience libary for authenticating users from Keycloak access tokens",
   "author": "EcoCommons Australia",
   "license": "MIT",
   "home_page": "https://gitlab.com/ecocommons-australia/lib/drf-keycloak-auth",
-  "download_filename": "drf_keycloak_auth-0.5.4.tar.gz",
-  "download_time": "2026-04-22T04:26:04.790655",
+  "download_filename": "drf_keycloak_auth-0.5.5.tar.gz",
+  "download_time": "2026-04-23T03:54:12.788240",
   "package_url": "https://pypi.org/project/drf-keycloak-auth/"
 }

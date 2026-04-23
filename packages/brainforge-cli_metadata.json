@@ -1,11 +1,11 @@
 {
   "name": "brainforge-cli",
-  "version": "1.0.6",
+  "version": "1.0.13",
   "summary": "Command-line interface for Brainforge",
   "author": "Daniel Trinh",
   "license": null,
   "home_page": null,
-  "download_filename": "brainforge_cli-1.0.6.tar.gz",
-  "download_time": "2026-04-16T03:52:05.249424",
+  "download_filename": "brainforge_cli-1.0.13.tar.gz",
+  "download_time": "2026-04-23T03:54:07.656960",
   "package_url": "https://pypi.org/project/brainforge-cli/"
 }

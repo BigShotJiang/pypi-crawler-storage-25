@@ -1,0 +1,11 @@
+{
+  "name": "portprobe",
+  "version": "2.5.1",
+  "summary": "PortProbe 2.5.1 — Advanced Network Reconnaissance & Vulnerability Scanning Tool",
+  "author": "anc.w",
+  "license": "MIT",
+  "home_page": "https://github.com/anc-w/PortProbe",
+  "download_filename": "portprobe-2.5.1.tar.gz",
+  "download_time": "2026-04-23T03:54:48.470430",
+  "package_url": "https://pypi.org/project/portprobe/"
+}
