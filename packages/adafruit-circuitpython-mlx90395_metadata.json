@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-mlx90395",
+  "version": "1.0.20",
+  "summary": "CircuitPython helper library for using the Adafruit MLX90395 tri-Axis magnetometer breakout",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_mlx90395-1.0.20.tar.gz",
+  "download_time": "2026-04-23T21:15:11.861476",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-mlx90395/"
+}

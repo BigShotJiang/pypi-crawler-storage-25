@@ -1,0 +1,11 @@
+{
+  "name": "aamva-parser",
+  "version": "0.1.2",
+  "summary": "Parse AAMVA PDF417 barcode data from US and Canadian driver's licenses and ID cards (Python port of aamva-parser).",
+  "author": "Ashok Modi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aamva_parser-0.1.2.tar.gz",
+  "download_time": "2026-04-23T21:14:54.364460",
+  "package_url": "https://pypi.org/project/aamva-parser/"
+}

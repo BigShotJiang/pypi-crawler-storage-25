@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-pcf8574",
+  "version": "1.0.17",
+  "summary": "Python library for PCF8574 GPIO expander",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_pcf8574-1.0.17.tar.gz",
+  "download_time": "2026-04-23T21:14:46.758802",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-pcf8574/"
+}

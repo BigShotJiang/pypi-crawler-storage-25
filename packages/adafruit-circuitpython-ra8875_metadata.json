@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-ra8875",
+  "version": "3.1.29",
+  "summary": "CircuitPython driver for TFT Touch screens based on RA8875.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_ra8875-3.1.29.tar.gz",
+  "download_time": "2026-04-23T21:14:38.072966",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-ra8875/"
+}

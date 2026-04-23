@@ -1,0 +1,11 @@
+{
+  "name": "jerboapy",
+  "version": "0.4.365",
+  "summary": "Bindings C++ avec pybind11 de Jerboa",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jerboapy-0.4.365-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-04-23T21:15:18.831955",
+  "package_url": "https://pypi.org/project/jerboapy/"
+}

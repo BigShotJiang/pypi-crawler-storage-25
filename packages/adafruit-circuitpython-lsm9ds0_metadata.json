@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-lsm9ds0",
+  "version": "2.2.24",
+  "summary": "CircuitPython library for LSM9DS0 accelerometer, magnetometer, gyroscope.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_lsm9ds0-2.2.24.tar.gz",
+  "download_time": "2026-04-23T21:15:31.870558",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-lsm9ds0/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-neopxl8",
+  "version": "0.3.8",
+  "summary": "PIO-driven 8-way concurrent NeoPixel driver for RP2040",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_neopxl8-0.3.8.tar.gz",
+  "download_time": "2026-04-23T21:14:58.839419",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-neopxl8/"
+}

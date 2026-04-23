@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-ov2640",
+  "version": "1.2.11",
+  "summary": "CircuitPython driver for OV2640 cameras",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_ov2640-1.2.11.tar.gz",
+  "download_time": "2026-04-23T21:14:55.645442",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-ov2640/"
+}

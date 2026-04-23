@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-pcf8523",
+  "version": "2.0.9",
+  "summary": "CircuitPython library for PCF8523 real time clock.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_pcf8523-2.0.9.tar.gz",
+  "download_time": "2026-04-23T21:14:49.243493",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-pcf8523/"
+}

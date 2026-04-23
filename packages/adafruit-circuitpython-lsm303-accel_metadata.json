@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-lsm303-accel",
+  "version": "1.1.28",
+  "summary": "CircuitPython library for LSM303 's 3-axis accelerometer.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_lsm303_accel-1.1.28.tar.gz",
+  "download_time": "2026-04-23T21:15:33.793652",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-lsm303-accel/"
+}

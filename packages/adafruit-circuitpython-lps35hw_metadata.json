@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-lps35hw",
+  "version": "1.2.26",
+  "summary": "A driver for the ST LPS35HW water resistant mems pressure sensor",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_lps35hw-1.2.26.tar.gz",
+  "download_time": "2026-04-23T21:15:34.439835",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-lps35hw/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-mcp9808",
+  "version": "3.3.32",
+  "summary": "CircuitPython library for MCP9808 high accuracy temperature sensor.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_mcp9808-3.3.32.tar.gz",
+  "download_time": "2026-04-23T21:15:13.759136",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-mcp9808/"
+}

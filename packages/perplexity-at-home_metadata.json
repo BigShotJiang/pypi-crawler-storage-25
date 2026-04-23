@@ -1,0 +1,11 @@
+{
+  "name": "perplexity-at-home",
+  "version": "0.1.1",
+  "summary": "Perplexity-style local research agents built with LangGraph and Tavily",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "perplexity_at_home-0.1.1.tar.gz",
+  "download_time": "2026-04-23T21:14:52.442820",
+  "package_url": "https://pypi.org/project/perplexity-at-home/"
+}

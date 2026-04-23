@@ -1,0 +1,11 @@
+{
+  "name": "starkbank-ecdsa",
+  "version": "2.3.1",
+  "summary": "A lightweight and fast pure python ECDSA library",
+  "author": "Stark Bank",
+  "license": "MIT License",
+  "home_page": "https://github.com/starkbank/ecdsa-python.git",
+  "download_filename": "starkbank_ecdsa-2.3.1.tar.gz",
+  "download_time": "2026-04-23T21:15:26.856372",
+  "package_url": "https://pypi.org/project/starkbank-ecdsa/"
+}

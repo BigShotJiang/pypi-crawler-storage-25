@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-mcp2515",
+  "version": "1.1.13",
+  "summary": "A CircuitPython library for working with the MCP2515 CAN bus controller",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_mcp2515-1.1.13.tar.gz",
+  "download_time": "2026-04-23T21:15:22.564216",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-mcp2515/"
+}

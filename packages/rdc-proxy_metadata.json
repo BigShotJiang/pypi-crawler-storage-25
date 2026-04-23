@@ -1,11 +1,11 @@
 {
   "name": "rdc-proxy",
-  "version": "0.2.1",
+  "version": "0.4.1",
   "summary": "Transparent TCP proxy for the Kohler RDC2 generator controller — decodes telemetry, survives Kohler/Rehlko cloud outages.",
   "author": "andrewroydshayes",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rdc_proxy-0.2.1.tar.gz",
-  "download_time": "2026-04-19T22:19:35.765280",
+  "download_filename": "rdc_proxy-0.4.1.tar.gz",
+  "download_time": "2026-04-23T21:15:16.308122",
   "package_url": "https://pypi.org/project/rdc-proxy/"
 }

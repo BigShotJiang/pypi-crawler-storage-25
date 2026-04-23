@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-monsterm4sk",
+  "version": "1.0.9",
+  "summary": "Helper library for the MONSTER M4SK device. Allows usage of screens and other built-in hardware.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_monsterm4sk-1.0.9.tar.gz",
+  "download_time": "2026-04-23T21:15:08.193399",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-monsterm4sk/"
+}

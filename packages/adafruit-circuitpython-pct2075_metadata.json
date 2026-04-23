@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-pct2075",
+  "version": "1.1.28",
+  "summary": "CircuitPython library for the NXP PCT2075 Digital Temperature Sensor",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_pct2075-1.1.28.tar.gz",
+  "download_time": "2026-04-23T21:14:44.099665",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-pct2075/"
+}
