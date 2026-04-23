@@ -1,11 +1,11 @@
 {
   "name": "moviebox-api",
-  "version": "0.5.2.post1",
+  "version": "0.5.3",
   "summary": "Unofficial Python wrapper for Moviebox websites and Android app - download movies and tv series with their subtitles",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moviebox_api-0.5.2.post1.tar.gz",
-  "download_time": "2026-04-14T09:11:23.477833",
+  "download_filename": "moviebox_api-0.5.3.tar.gz",
+  "download_time": "2026-04-23T08:19:10.505736",
   "package_url": "https://pypi.org/project/moviebox-api/"
 }

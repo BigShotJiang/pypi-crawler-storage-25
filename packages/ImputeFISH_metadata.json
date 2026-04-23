@@ -1,0 +1,11 @@
+{
+  "name": "ImputeFISH",
+  "version": "0.0.7",
+  "summary": "ImputeFISH: A Spatially Aware and Scalable Framework for Gene Imputation in Imaging-Based Spatial Transcriptomics",
+  "author": "Asish Kumar Swain",
+  "license": "MIT",
+  "home_page": "https://github.com/swainasish/ImputeFISH",
+  "download_filename": "imputefish-0.0.7.tar.gz",
+  "download_time": "2026-04-23T08:18:53.829799",
+  "package_url": "https://pypi.org/project/ImputeFISH/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pip-audit-html",
-  "version": "0.1.1",
+  "version": "0.1.8",
   "summary": "Convert pip-audit JSON reports into readable HTML reports",
   "author": "pip-audit-html contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pip_audit_html-0.1.1.tar.gz",
-  "download_time": "2026-04-22T11:11:47.777796",
+  "download_filename": "pip_audit_html-0.1.8.tar.gz",
+  "download_time": "2026-04-23T08:19:08.431808",
   "package_url": "https://pypi.org/project/pip-audit-html/"
 }

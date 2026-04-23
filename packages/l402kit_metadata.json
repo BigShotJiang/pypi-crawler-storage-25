@@ -1,11 +1,11 @@
 {
   "name": "l402kit",
-  "version": "0.7.0",
+  "version": "1.1.6",
   "summary": "Add Bitcoin Lightning pay-per-call to any API in 3 lines. L402 protocol for FastAPI and Flask. 0.3% fee, zero config.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "l402kit-0.7.0.tar.gz",
-  "download_time": "2026-04-20T21:13:28.279210",
+  "download_filename": "l402kit-1.1.6.tar.gz",
+  "download_time": "2026-04-23T08:19:11.537160",
   "package_url": "https://pypi.org/project/l402kit/"
 }

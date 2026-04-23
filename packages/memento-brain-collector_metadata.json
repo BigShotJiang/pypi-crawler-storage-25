@@ -1,11 +1,11 @@
 {
   "name": "memento-brain-collector",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "Cross-platform agent that collects AI coding tool memory files and syncs to a central server",
   "author": "ddong8",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memento_brain_collector-0.0.3.tar.gz",
-  "download_time": "2026-04-22T10:02:55.267083",
+  "download_filename": "memento_brain_collector-0.0.5.tar.gz",
+  "download_time": "2026-04-23T08:19:26.008136",
   "package_url": "https://pypi.org/project/memento-brain-collector/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "kleenscan",
+  "version": "0.6.3",
+  "summary": "Kleenscan command line application and API wrapper library.",
+  "author": "Kleenscan",
+  "license": null,
+  "home_page": "https://github.com/ksdev01/kleenscan-cli",
+  "download_filename": "kleenscan-0.6.3.tar.gz",
+  "download_time": "2026-04-23T08:18:51.260803",
+  "package_url": "https://pypi.org/project/kleenscan/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "invenio-vocabularies",
-  "version": "11.0.1",
+  "version": "11.1.0",
   "summary": "Invenio module for managing vocabularies.",
   "author": "CERN",
   "license": "MIT",
   "home_page": "https://github.com/inveniosoftware/invenio-vocabularies",
-  "download_filename": "invenio_vocabularies-11.0.1.tar.gz",
-  "download_time": "2026-04-16T14:18:47.788687",
+  "download_filename": "invenio_vocabularies-11.1.0.tar.gz",
+  "download_time": "2026-04-23T08:19:20.824750",
   "package_url": "https://pypi.org/project/invenio-vocabularies/"
 }

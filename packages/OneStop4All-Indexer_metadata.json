@@ -1,0 +1,11 @@
+{
+  "name": "OneStop4All-Indexer",
+  "version": "2.7.1",
+  "summary": "Library to harvest data from NFDI4Earth-KnowledgeHub to OneStop4All-Index",
+  "author": "Markus Konkol, Arne Vogt, Tom Niers, Ralf Klammer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "onestop4all_indexer-2.7.1.tar.gz",
+  "download_time": "2026-04-23T08:19:18.259609",
+  "package_url": "https://pypi.org/project/OneStop4All-Indexer/"
+}

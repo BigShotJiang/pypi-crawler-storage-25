@@ -1,11 +1,11 @@
 {
   "name": "syncfield",
-  "version": "0.3.19",
+  "version": "0.3.21",
   "summary": "Multi-modal capture orchestration framework with precision sync for Physical AI data collection",
   "author": "OpenGraph Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "syncfield-0.3.19-py3-none-any.whl",
-  "download_time": "2026-04-18T18:00:46.707184",
+  "download_filename": "syncfield-0.3.21-py3-none-any.whl",
+  "download_time": "2026-04-23T08:19:17.747738",
   "package_url": "https://pypi.org/project/syncfield/"
 }

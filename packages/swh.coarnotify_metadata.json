@@ -1,0 +1,11 @@
+{
+  "name": "swh.coarnotify",
+  "version": "0.10.0",
+  "summary": "Software Heritage COAR Notify server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swh_coarnotify-0.10.0.tar.gz",
+  "download_time": "2026-04-23T08:19:21.355369",
+  "package_url": "https://pypi.org/project/swh.coarnotify/"
+}

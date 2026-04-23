@@ -1,0 +1,11 @@
+{
+  "name": "claude-switchboard",
+  "version": "1.0.27",
+  "summary": "claude-switchboard: multi-account manager for Claude Code CLI profiles",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_switchboard-1.0.27.tar.gz",
+  "download_time": "2026-04-23T08:18:52.289655",
+  "package_url": "https://pypi.org/project/claude-switchboard/"
+}
