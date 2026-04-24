@@ -1,0 +1,11 @@
+{
+  "name": "histomicsui",
+  "version": "1.8.1",
+  "summary": "Organize, visualize, and analyze histology images.",
+  "author": "Kitware, Inc.",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/DigitalSlideArchive/histomicsui",
+  "download_filename": "histomicsui-1.8.1.tar.gz",
+  "download_time": "2026-04-24T16:14:53.557241",
+  "package_url": "https://pypi.org/project/histomicsui/"
+}

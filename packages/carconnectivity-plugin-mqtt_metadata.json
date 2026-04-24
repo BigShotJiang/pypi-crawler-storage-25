@@ -1,0 +1,11 @@
+{
+  "name": "carconnectivity-plugin-mqtt",
+  "version": "0.10.3",
+  "summary": "CarConnectivity plugin for publishing data to MQTT",
+  "author": "Till Steinbach",
+  "license": null,
+  "home_page": null,
+  "download_filename": "carconnectivity_plugin_mqtt-0.10.3.tar.gz",
+  "download_time": "2026-04-24T16:15:18.703187",
+  "package_url": "https://pypi.org/project/carconnectivity-plugin-mqtt/"
+}

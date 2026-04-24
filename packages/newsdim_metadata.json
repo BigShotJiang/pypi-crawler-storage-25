@@ -1,0 +1,11 @@
+{
+  "name": "newsdim",
+  "version": "0.9.1",
+  "summary": "轻量级中文财经新闻维度标注器 — BGE embedding + linear head",
+  "author": "junduck",
+  "license": null,
+  "home_page": null,
+  "download_filename": "newsdim-0.9.1.tar.gz",
+  "download_time": "2026-04-24T16:15:21.332534",
+  "package_url": "https://pypi.org/project/newsdim/"
+}

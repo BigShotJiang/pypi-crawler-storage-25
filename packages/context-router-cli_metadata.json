@@ -1,11 +1,11 @@
 {
   "name": "context-router-cli",
-  "version": "3.2.0",
+  "version": "4.1.0",
   "summary": "Local-first CLI and MCP server for AI coding context — minimum useful context, maximum agent performance",
   "author": null,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "context_router_cli-3.2.0-py3-none-any.whl",
-  "download_time": "2026-04-20T01:16:34.686396",
+  "download_filename": "context_router_cli-4.1.0-py3-none-any.whl",
+  "download_time": "2026-04-24T16:15:27.652665",
   "package_url": "https://pypi.org/project/context-router-cli/"
 }

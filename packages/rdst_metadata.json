@@ -1,11 +1,11 @@
 {
   "name": "rdst",
-  "version": "0.1.823",
+  "version": "0.1.858",
   "summary": "Readyset Data and SQL Toolkit - CLI tool for database diagnostics and query optimization",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rdst-0.1.823.tar.gz",
-  "download_time": "2026-04-20T23:10:14.398276",
+  "download_filename": "rdst-0.1.858.tar.gz",
+  "download_time": "2026-04-24T16:14:59.857971",
   "package_url": "https://pypi.org/project/rdst/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lica-gdb",
+  "version": "0.2.1",
+  "summary": "GDB: GraphicDesignBench — benchmark suite for evaluating vision-language models on graphic design tasks",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lica_gdb-0.2.1.tar.gz",
+  "download_time": "2026-04-24T16:14:58.776153",
+  "package_url": "https://pypi.org/project/lica-gdb/"
+}
