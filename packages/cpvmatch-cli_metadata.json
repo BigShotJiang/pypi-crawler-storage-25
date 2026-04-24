@@ -1,0 +1,11 @@
+{
+  "name": "cpvmatch-cli",
+  "version": "0.1.3",
+  "summary": "CPV semantic annotation CLI tool — annotate natural language queries with brand, category, metric, and attribute entities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cpvmatch_cli-0.1.3.tar.gz",
+  "download_time": "2026-04-24T03:58:38.339213",
+  "package_url": "https://pypi.org/project/cpvmatch-cli/"
+}

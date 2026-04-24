@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-external-map",
+  "version": "18.0.2.0.0.1",
+  "summary": "Add Map and Map Routing buttons on partner form to open GMaps, OSM, Bing and others",
+  "author": "Akretion, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_partner_external_map-18.0.2.0.0.1-py3-none-any.whl",
+  "download_time": "2026-04-24T03:58:50.636423",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-external-map/"
+}

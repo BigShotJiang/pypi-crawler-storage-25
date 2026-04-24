@@ -1,0 +1,11 @@
+{
+  "name": "modelswitch",
+  "version": "0.3.2",
+  "summary": "LLM Gateway Proxy with multi-provider fallback",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "modelswitch-0.3.2.tar.gz",
+  "download_time": "2026-04-24T03:58:29.221373",
+  "package_url": "https://pypi.org/project/modelswitch/"
+}

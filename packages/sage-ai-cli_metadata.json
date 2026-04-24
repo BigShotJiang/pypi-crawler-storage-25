@@ -1,11 +1,11 @@
 {
   "name": "sage-ai-cli",
-  "version": "1.13.47",
+  "version": "1.13.96",
   "summary": "Sage — a local-first AI coding CLI (like Claude Code, using free/open models)",
   "author": "Layne Faler",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sage_ai_cli-1.13.47.tar.gz",
-  "download_time": "2026-04-17T22:07:22.778137",
+  "download_filename": "sage_ai_cli-1.13.96.tar.gz",
+  "download_time": "2026-04-24T03:58:17.142164",
   "package_url": "https://pypi.org/project/sage-ai-cli/"
 }

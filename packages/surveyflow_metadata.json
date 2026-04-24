@@ -1,11 +1,11 @@
 {
   "name": "surveyflow",
-  "version": "0.3.0",
+  "version": "0.4.2",
   "summary": "Survey data pipeline: rawdata.csv + metadata.json + datatable.xlsx with sig testing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "surveyflow-0.3.0.tar.gz",
-  "download_time": "2026-04-17T09:00:48.224239",
+  "download_filename": "surveyflow-0.4.2.tar.gz",
+  "download_time": "2026-04-24T03:58:22.738622",
   "package_url": "https://pypi.org/project/surveyflow/"
 }

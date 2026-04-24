@@ -1,11 +1,11 @@
 {
   "name": "doql",
-  "version": "1.0.8",
+  "version": "1.0.27",
   "summary": "Declarative OQL — build complete applications from a single .doql file",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "doql-1.0.8.tar.gz",
-  "download_time": "2026-04-21T18:52:59.994431",
+  "download_filename": "doql-1.0.27.tar.gz",
+  "download_time": "2026-04-24T03:58:13.386187",
   "package_url": "https://pypi.org/project/doql/"
 }

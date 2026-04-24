@@ -1,11 +1,11 @@
 {
   "name": "n24q02m-mcp-core",
-  "version": "1.6.3",
+  "version": "1.7.3",
   "summary": "Unified MCP Streamable HTTP 2025-11-25 transport, OAuth 2.1 AS, lifecycle, install",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "n24q02m_mcp_core-1.6.3.tar.gz",
-  "download_time": "2026-04-22T10:02:56.801099",
+  "download_filename": "n24q02m_mcp_core-1.7.3.tar.gz",
+  "download_time": "2026-04-24T03:58:05.800743",
   "package_url": "https://pypi.org/project/n24q02m-mcp-core/"
 }

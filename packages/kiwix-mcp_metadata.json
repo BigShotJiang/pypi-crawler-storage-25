@@ -1,0 +1,11 @@
+{
+  "name": "kiwix-mcp",
+  "version": "1.4.0",
+  "summary": "MCP server and client library for Kiwix HTTP servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kiwix_mcp-1.4.0.tar.gz",
+  "download_time": "2026-04-24T03:58:33.526625",
+  "package_url": "https://pypi.org/project/kiwix-mcp/"
+}

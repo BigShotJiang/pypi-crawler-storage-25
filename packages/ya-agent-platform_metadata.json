@@ -1,11 +1,11 @@
 {
   "name": "ya-agent-platform",
-  "version": "0.58.3",
-  "summary": "Cloud-ready agent platform built on top of ya-agent-sdk",
+  "version": "0.58.10",
+  "summary": "WIP stateless agent service with TBD scope.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ya_agent_platform-0.58.3.tar.gz",
-  "download_time": "2026-04-16T16:03:14.509977",
+  "download_filename": "ya_agent_platform-0.58.10.tar.gz",
+  "download_time": "2026-04-24T03:58:36.727176",
   "package_url": "https://pypi.org/project/ya-agent-platform/"
 }

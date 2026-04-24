@@ -1,0 +1,11 @@
+{
+  "name": "z4j-core",
+  "version": "1.0.3",
+  "summary": "z4j domain core - models, protocols, transport, redaction, policy (Apache 2.0)",
+  "author": "z4j contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "z4j_core-1.0.3.tar.gz",
+  "download_time": "2026-04-24T03:58:47.964547",
+  "package_url": "https://pypi.org/project/z4j-core/"
+}

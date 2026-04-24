@@ -1,0 +1,11 @@
+{
+  "name": "arangodb-schema-analyzer",
+  "version": "0.6.0",
+  "summary": "Agentic schema analyzer for ArangoDB: conceptual model + conceptual-to-physical mapping for transpilers.",
+  "author": "Arthur Keen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arangodb_schema_analyzer-0.6.0.tar.gz",
+  "download_time": "2026-04-24T03:58:49.561936",
+  "package_url": "https://pypi.org/project/arangodb-schema-analyzer/"
+}

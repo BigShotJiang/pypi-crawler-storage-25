@@ -1,0 +1,11 @@
+{
+  "name": "seacloud-sandbox",
+  "version": "0.1.1",
+  "summary": "SeaCloudAI sandbox SDK for control-plane, build-plane, and runtime CMD APIs.",
+  "author": "SeaCloudAI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "seacloud_sandbox-0.1.1.tar.gz",
+  "download_time": "2026-04-24T03:58:26.559147",
+  "package_url": "https://pypi.org/project/seacloud-sandbox/"
+}

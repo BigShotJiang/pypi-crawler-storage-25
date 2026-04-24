@@ -1,11 +1,11 @@
 {
   "name": "mcp-stdio-proxy",
-  "version": "1.6.3",
+  "version": "1.7.3",
   "summary": "Thin stdio-to-HTTP forwarder for MCP agents lacking HTTP support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_stdio_proxy-1.6.3.tar.gz",
-  "download_time": "2026-04-22T10:02:57.310494",
+  "download_filename": "mcp_stdio_proxy-1.7.3.tar.gz",
+  "download_time": "2026-04-24T03:58:05.269711",
   "package_url": "https://pypi.org/project/mcp-stdio-proxy/"
 }

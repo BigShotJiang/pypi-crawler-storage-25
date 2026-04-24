@@ -1,11 +1,11 @@
 {
   "name": "rapidtest",
-  "version": "0.6.0",
-  "summary": "A comprehensive testing framework for REST APIs with functional and performance testing capabilities",
+  "version": "0.9.0",
+  "summary": "A lightweight library for REST API testing with HTTP, ASGI, and performance testing",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "rapidtest-0.6.0.tar.gz",
-  "download_time": "2026-04-08T23:06:32.748854",
+  "download_filename": "rapidtest-0.9.0.tar.gz",
+  "download_time": "2026-04-24T03:58:42.621731",
   "package_url": "https://pypi.org/project/rapidtest/"
 }
