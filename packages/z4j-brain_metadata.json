@@ -1,11 +1,11 @@
 {
   "name": "z4j-brain",
-  "version": "1.0.10",
+  "version": "1.0.13",
   "summary": "z4j brain - server, dashboard, and API (AGPL v3)",
   "author": "z4j contributors",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "z4j_brain-1.0.10.tar.gz",
-  "download_time": "2026-04-24T03:58:46.899910",
+  "download_filename": "z4j_brain-1.0.13-py3-none-any.whl",
+  "download_time": "2026-04-24T21:45:22.015571",
   "package_url": "https://pypi.org/project/z4j-brain/"
 }

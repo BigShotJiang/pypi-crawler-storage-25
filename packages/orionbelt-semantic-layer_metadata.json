@@ -1,11 +1,11 @@
 {
   "name": "orionbelt-semantic-layer",
-  "version": "1.6.2",
+  "version": "1.8.1",
   "summary": "OrionBelt Semantic Layer - Compiles and executes YAML semantic models as analytical SQL",
   "author": null,
   "license": "BSL-1.1",
   "home_page": null,
-  "download_filename": "orionbelt_semantic_layer-1.6.2.tar.gz",
-  "download_time": "2026-04-19T17:12:01.723891",
+  "download_filename": "orionbelt_semantic_layer-1.8.1.tar.gz",
+  "download_time": "2026-04-24T21:45:33.880436",
   "package_url": "https://pypi.org/project/orionbelt-semantic-layer/"
 }

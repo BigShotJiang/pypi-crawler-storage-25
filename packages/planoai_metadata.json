@@ -1,11 +1,11 @@
 {
   "name": "planoai",
-  "version": "0.4.17",
+  "version": "0.4.21",
   "summary": "Python-based CLI tool to manage Plano.",
   "author": "Katanemo Labs, Inc.",
   "license": null,
   "home_page": null,
-  "download_filename": "planoai-0.4.17-py3-none-any.whl",
-  "download_time": "2026-04-03T17:21:39.513338",
+  "download_filename": "planoai-0.4.21-py3-none-any.whl",
+  "download_time": "2026-04-24T21:45:47.369870",
   "package_url": "https://pypi.org/project/planoai/"
 }

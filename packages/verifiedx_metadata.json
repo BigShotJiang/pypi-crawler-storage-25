@@ -1,11 +1,11 @@
 {
   "name": "verifiedx",
-  "version": "0.1.10",
+  "version": "0.1.15",
   "summary": "VerifiedX Python SDK",
   "author": "VerifiedX",
   "license": null,
   "home_page": null,
-  "download_filename": "verifiedx-0.1.10.tar.gz",
-  "download_time": "2026-04-22T23:13:37.974032",
+  "download_filename": "verifiedx-0.1.15.tar.gz",
+  "download_time": "2026-04-24T21:45:45.775414",
   "package_url": "https://pypi.org/project/verifiedx/"
 }

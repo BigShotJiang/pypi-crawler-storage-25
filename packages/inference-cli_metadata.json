@@ -1,11 +1,11 @@
 {
   "name": "inference-cli",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "With no prior knowledge of machine learning or device-specific deployment, you can deploy a computer vision model to a range of devices and environments using Roboflow Inference CLI.",
   "author": "Roboflow",
   "license": null,
   "home_page": "https://github.com/roboflow/inference",
-  "download_filename": "inference_cli-1.2.4-py3-none-any.whl",
-  "download_time": "2026-04-24T17:06:43.183681",
+  "download_filename": "inference_cli-1.2.5-py3-none-any.whl",
+  "download_time": "2026-04-24T21:45:41.130651",
   "package_url": "https://pypi.org/project/inference-cli/"
 }

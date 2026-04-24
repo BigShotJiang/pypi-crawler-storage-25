@@ -1,0 +1,11 @@
+{
+  "name": "rhai-innovation-mini-trainer",
+  "version": "0.8.0",
+  "summary": "Simple training repo which is used to house reference implementations of emerging training algorithms, such as Orthogonal Subspace Fine Tuning (OSFT).",
+  "author": "Mini Trainer Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rhai_innovation_mini_trainer-0.8.0.tar.gz",
+  "download_time": "2026-04-24T21:45:46.353034",
+  "package_url": "https://pypi.org/project/rhai-innovation-mini-trainer/"
+}

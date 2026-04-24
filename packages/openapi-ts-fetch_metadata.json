@@ -1,11 +1,11 @@
 {
   "name": "openapi-ts-fetch",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Lightweight Python OpenAPI 3.x → TypeScript fetch client generator. Zero Java, zero npm.",
   "author": "Max Health Inc.",
   "license": null,
   "home_page": null,
-  "download_filename": "openapi_ts_fetch-0.2.0.tar.gz",
-  "download_time": "2026-04-19T11:57:17.946798",
+  "download_filename": "openapi_ts_fetch-0.2.1.tar.gz",
+  "download_time": "2026-04-24T21:45:25.144095",
   "package_url": "https://pypi.org/project/openapi-ts-fetch/"
 }

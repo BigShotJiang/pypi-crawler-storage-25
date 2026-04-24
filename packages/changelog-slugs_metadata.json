@@ -1,11 +1,11 @@
 {
   "name": "changelog-slugs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Changelog-aware heading slugs for Python-Markdown’s toc extension",
   "author": "Johann Philipp Gorzny",
   "license": null,
   "home_page": null,
-  "download_filename": "changelog_slugs-0.1.0.tar.gz",
-  "download_time": "2026-04-11T21:36:28.459649",
+  "download_filename": "changelog_slugs-0.2.0.tar.gz",
+  "download_time": "2026-04-24T21:45:28.204671",
   "package_url": "https://pypi.org/project/changelog-slugs/"
 }

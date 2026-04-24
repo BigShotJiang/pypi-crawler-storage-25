@@ -1,11 +1,11 @@
 {
   "name": "servicenow-mcp-agent",
-  "version": "0.2.2",
+  "version": "0.5.0",
   "summary": "Claude-powered agent that manages ServiceNow incidents using MCP and AWS Bedrock",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "servicenow_mcp_agent-0.2.2.tar.gz",
-  "download_time": "2026-04-23T22:08:38.297570",
+  "download_filename": "servicenow_mcp_agent-0.5.0.tar.gz",
+  "download_time": "2026-04-24T21:45:53.049776",
   "package_url": "https://pypi.org/project/servicenow-mcp-agent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-gcp-tasks",
+  "version": "0.1.2",
+  "summary": "Trigger delayed Cloud Tasks from FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_gcp_tasks-0.1.2.tar.gz",
+  "download_time": "2026-04-24T21:45:34.391507",
+  "package_url": "https://pypi.org/project/fastapi-gcp-tasks/"
+}

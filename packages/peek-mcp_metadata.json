@@ -1,11 +1,11 @@
 {
   "name": "peek-mcp",
-  "version": "0.5.12",
+  "version": "0.5.13",
   "summary": "Let AI agents see your UI — point at elements, annotate, and get instant visual context for AI-powered code editing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peek_mcp-0.5.12.tar.gz",
-  "download_time": "2026-04-24T19:59:40.277782",
+  "download_filename": "peek_mcp-0.5.13.tar.gz",
+  "download_time": "2026-04-24T21:45:44.753053",
   "package_url": "https://pypi.org/project/peek-mcp/"
 }

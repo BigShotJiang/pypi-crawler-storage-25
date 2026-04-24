@@ -1,11 +1,11 @@
 {
   "name": "fluidattacks_cloudflare_sdk",
-  "version": "1.0.2",
+  "version": "3.0.0",
   "summary": "cloudflare SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fluidattacks_cloudflare_sdk-1.0.2.tar.gz",
-  "download_time": "2026-04-14T21:12:25.027035",
+  "download_filename": "fluidattacks_cloudflare_sdk-3.0.0.tar.gz",
+  "download_time": "2026-04-24T21:45:19.454699",
   "package_url": "https://pypi.org/project/fluidattacks_cloudflare_sdk/"
 }

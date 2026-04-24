@@ -1,0 +1,11 @@
+{
+  "name": "astrapi-backup",
+  "version": "26.4.6",
+  "summary": "Backup Control – Web-UI für Borg, Rsync, Proxmox",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astrapi_backup-26.4.6.tar.gz",
+  "download_time": "2026-04-24T21:45:26.158859",
+  "package_url": "https://pypi.org/project/astrapi-backup/"
+}
