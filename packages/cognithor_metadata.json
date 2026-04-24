@@ -1,11 +1,11 @@
 {
   "name": "cognithor",
-  "version": "0.92.6",
+  "version": "0.93.0",
   "summary": "Cognithor · Agent OS — Local-first autonomous agent operating system",
   "author": "Alexander Söllner",
   "license": null,
   "home_page": null,
-  "download_filename": "cognithor-0.92.6-py3-none-any.whl",
-  "download_time": "2026-04-23T08:18:45.050019",
+  "download_filename": "cognithor-0.93.0-py3-none-any.whl",
+  "download_time": "2026-04-24T20:52:20.445649",
   "package_url": "https://pypi.org/project/cognithor/"
 }

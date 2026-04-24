@@ -1,11 +1,11 @@
 {
   "name": "precis-mcp",
-  "version": "5.0.0",
+  "version": "5.2.0",
   "summary": "MCP server for structured document access — read, write, search, and annotate DOCX, LaTeX, Markdown, and scientific papers with minimal token usage",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "precis_mcp-5.0.0.tar.gz",
-  "download_time": "2026-04-24T19:02:03.117529",
+  "download_filename": "precis_mcp-5.2.0.tar.gz",
+  "download_time": "2026-04-24T20:52:36.474432",
   "package_url": "https://pypi.org/project/precis-mcp/"
 }

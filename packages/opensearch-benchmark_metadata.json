@@ -1,0 +1,11 @@
+{
+  "name": "opensearch-benchmark",
+  "version": "2.2.0",
+  "summary": "Macrobenchmarking framework for OpenSearch",
+  "author": "Ian Hoang, Govind Kamat, Mingyang Shi, Chinmay Gadgil, Rishabh Singh, Vijayan Balasubramanian",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/opensearch-project/OpenSearch-Benchmark",
+  "download_filename": "opensearch_benchmark-2.2.0.tar.gz",
+  "download_time": "2026-04-24T20:52:37.502918",
+  "package_url": "https://pypi.org/project/opensearch-benchmark/"
+}

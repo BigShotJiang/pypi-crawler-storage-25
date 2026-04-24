@@ -1,11 +1,11 @@
 {
   "name": "il-supermarket-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "python package that implement a scraping for israeli supermarket data",
   "author": "Sefi Erlich",
   "license": "CUSTOM",
   "home_page": "https://github.com/OpenIsraeliSupermarkets/israeli-supermarket-scarpers",
-  "download_filename": "il_supermarket_scraper-1.0.0.tar.gz",
-  "download_time": "2026-04-08T19:45:44.833870",
+  "download_filename": "il_supermarket_scraper-1.0.1.tar.gz",
+  "download_time": "2026-04-24T20:52:29.716560",
   "package_url": "https://pypi.org/project/il-supermarket-scraper/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "memee",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "summary": "Institutional memory for AI agent teams: multi-model, cross-project, token-budgeted.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memee-1.0.4.tar.gz",
-  "download_time": "2026-04-24T19:01:42.230155",
+  "download_filename": "memee-1.0.6.tar.gz",
+  "download_time": "2026-04-24T20:52:38.559767",
   "package_url": "https://pypi.org/project/memee/"
 }

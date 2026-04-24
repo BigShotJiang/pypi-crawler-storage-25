@@ -1,11 +1,11 @@
 {
   "name": "z4j",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "z4j - open-source control plane for Python task infrastructure",
   "author": "z4j contributors",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "z4j-1.0.10.tar.gz",
-  "download_time": "2026-04-24T03:58:46.354036",
+  "download_filename": "z4j-1.0.11.tar.gz",
+  "download_time": "2026-04-24T20:52:54.579423",
   "package_url": "https://pypi.org/project/z4j/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "rpothin-powerplatform",
-  "version": "0.1.35",
+  "version": "0.1.42",
   "summary": "Pulumi SDK for Microsoft Power Platform",
   "author": "Raphael Pothin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rpothin_powerplatform-0.1.35.tar.gz",
-  "download_time": "2026-04-22T12:16:27.408791",
+  "download_filename": "rpothin_powerplatform-0.1.42.tar.gz",
+  "download_time": "2026-04-24T20:52:22.512881",
   "package_url": "https://pypi.org/project/rpothin-powerplatform/"
 }

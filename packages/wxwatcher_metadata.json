@@ -1,0 +1,11 @@
+{
+  "name": "wxwatcher",
+  "version": "1.0.0",
+  "summary": "A file change monitor that pushes notifications via WeChat",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wxwatcher-1.0.0.tar.gz",
+  "download_time": "2026-04-24T20:52:40.616756",
+  "package_url": "https://pypi.org/project/wxwatcher/"
+}

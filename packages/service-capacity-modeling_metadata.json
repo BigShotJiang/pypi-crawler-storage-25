@@ -1,11 +1,11 @@
 {
   "name": "service-capacity-modeling",
-  "version": "0.3.145",
+  "version": "0.3.147",
   "summary": "Contains utilities for modeling capacity for pluggable workloads",
   "author": "Joseph Lynch",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "service_capacity_modeling-0.3.145.tar.gz",
-  "download_time": "2026-04-17T22:07:19.177928",
+  "download_filename": "service_capacity_modeling-0.3.147.tar.gz",
+  "download_time": "2026-04-24T20:52:29.204017",
   "package_url": "https://pypi.org/project/service-capacity-modeling/"
 }

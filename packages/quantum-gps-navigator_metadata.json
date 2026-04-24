@@ -1,0 +1,11 @@
+{
+  "name": "quantum-gps-navigator",
+  "version": "1.0.0",
+  "summary": "Quantum-Inspired GPS Navigator: directional-diffusion GPU pathfinder using a 4-channel (N/E/S/W) amplitude metaphor. 100% classical.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "quantum_gps_navigator-1.0.0.tar.gz",
+  "download_time": "2026-04-24T20:52:18.368415",
+  "package_url": "https://pypi.org/project/quantum-gps-navigator/"
+}

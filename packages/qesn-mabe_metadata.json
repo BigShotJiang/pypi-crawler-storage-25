@@ -1,0 +1,11 @@
+{
+  "name": "qesn-mabe",
+  "version": "1.0.0",
+  "summary": "Quantum-inspired Echo State Network (QESN) — classical energy-diffusion reservoir with complex amplitudes.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qesn_mabe-1.0.0.tar.gz",
+  "download_time": "2026-04-24T20:52:27.144656",
+  "package_url": "https://pypi.org/project/qesn-mabe/"
+}
