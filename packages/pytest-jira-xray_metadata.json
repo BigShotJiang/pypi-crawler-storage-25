@@ -1,0 +1,11 @@
+{
+  "name": "pytest-jira-xray",
+  "version": "0.9.4",
+  "summary": "pytest plugin to integrate tests with JIRA XRAY",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_jira_xray-0.9.4-py3-none-any.whl",
+  "download_time": "2026-04-24T06:14:45.465968",
+  "package_url": "https://pypi.org/project/pytest-jira-xray/"
+}

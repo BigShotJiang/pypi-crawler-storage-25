@@ -1,11 +1,11 @@
 {
   "name": "insightoslog",
-  "version": "1.0.13",
+  "version": "2.0.0",
   "summary": "InsightOS Log SDK - Unified log collection SDK",
   "author": "InsightOS Team",
   "license": null,
-  "home_page": "https://git.insightos.cn/hzh/InsightOSLogSDK",
-  "download_filename": "insightoslog-1.0.13-py3-none-any.whl",
-  "download_time": "2026-04-10T07:05:52.075441",
+  "home_page": "https://git.insightos.cn/hzh/InsightOSLogSDK-Python",
+  "download_filename": "insightoslog-2.0.0-py3-none-any.whl",
+  "download_time": "2026-04-24T06:15:01.919966",
   "package_url": "https://pypi.org/project/insightoslog/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-attendance-machine",
+  "version": "14.0.1.0.1.dev2",
+  "summary": "Attendance Machine",
+  "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_attendance_machine-14.0.1.0.1.dev2-py3-none-any.whl",
+  "download_time": "2026-04-24T06:14:50.087518",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-attendance-machine/"
+}

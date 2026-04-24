@@ -1,11 +1,11 @@
 {
   "name": "seeklink",
-  "version": "0.1.0",
-  "summary": "Hybrid semantic search MCP server for markdown vaults. Four-channel RRF fusion (BM25 + vector + knowledge graph + title), native CJK support, fully local.",
+  "version": "0.3.0",
+  "summary": "Hybrid semantic search CLI for Obsidian-compatible markdown vaults. BM25 + vector + knowledge graph + title, fused via RRF. Native CJK. Fully local.",
   "author": "Siyuan Sun",
   "license": null,
   "home_page": null,
-  "download_filename": "seeklink-0.1.0.tar.gz",
-  "download_time": "2026-04-05T00:00:25.349921",
+  "download_filename": "seeklink-0.3.0.tar.gz",
+  "download_time": "2026-04-24T06:14:52.140735",
   "package_url": "https://pypi.org/project/seeklink/"
 }

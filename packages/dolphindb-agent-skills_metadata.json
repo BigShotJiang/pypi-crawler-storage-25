@@ -1,0 +1,11 @@
+{
+  "name": "dolphindb-agent-skills",
+  "version": "0.2.2",
+  "summary": "DolphinDB Agent Skills installer — install DolphinDB knowledge skills into your AI coding agent (Claude Code, Cursor, Trae, etc.)",
+  "author": "DolphinDB",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dolphindb_agent_skills-0.2.2.tar.gz",
+  "download_time": "2026-04-24T06:15:04.999926",
+  "package_url": "https://pypi.org/project/dolphindb-agent-skills/"
+}

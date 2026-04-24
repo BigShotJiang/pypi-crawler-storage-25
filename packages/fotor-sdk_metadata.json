@@ -1,11 +1,11 @@
 {
   "name": "fotor-sdk",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Lightweight async Python SDK for the Fotor OpenAPI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fotor_sdk-0.1.6.tar.gz",
-  "download_time": "2026-04-01T08:16:34.847646",
+  "download_filename": "fotor_sdk-0.1.7.tar.gz",
+  "download_time": "2026-04-24T06:15:18.482118",
   "package_url": "https://pypi.org/project/fotor-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mo-language",
-  "version": "0.1.11",
-  "summary": "The Mo programming language",
+  "version": "0.4.2",
+  "summary": "Mo - Modern, Expressive, Fast Programming Language",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "mo_language-0.1.11.tar.gz",
-  "download_time": "2026-04-22T06:25:43.863846",
+  "download_filename": "mo_language-0.4.2.tar.gz",
+  "download_time": "2026-04-24T06:15:10.219456",
   "package_url": "https://pypi.org/project/mo-language/"
 }

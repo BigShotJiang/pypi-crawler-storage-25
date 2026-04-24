@@ -1,11 +1,11 @@
 {
   "name": "venvstudio",
-  "version": "1.4.69",
+  "version": "1.4.70",
   "summary": "Lightweight Python Virtual Environment Manager with modern GUI",
   "author": null,
   "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "venvstudio-1.4.69.tar.gz",
-  "download_time": "2026-04-23T22:08:19.028211",
+  "download_filename": "venvstudio-1.4.70.tar.gz",
+  "download_time": "2026-04-24T06:15:11.257184",
   "package_url": "https://pypi.org/project/venvstudio/"
 }

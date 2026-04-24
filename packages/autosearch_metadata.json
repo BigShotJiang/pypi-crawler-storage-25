@@ -1,11 +1,11 @@
 {
   "name": "autosearch",
-  "version": "2026.4.23.9",
-  "summary": "AutoSearch v2 M1 skeleton",
+  "version": "2026.4.24.1",
+  "summary": "MCP research tool supplier for coding agents, with 39 academic, web, developer, and Chinese-source channels",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autosearch-2026.4.23.9.tar.gz",
-  "download_time": "2026-04-23T16:16:14.077582",
+  "download_filename": "autosearch-2026.4.24.1.tar.gz",
+  "download_time": "2026-04-24T06:15:18.993939",
   "package_url": "https://pypi.org/project/autosearch/"
 }

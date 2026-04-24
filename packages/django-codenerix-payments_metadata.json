@@ -1,11 +1,11 @@
 {
   "name": "django-codenerix-payments",
-  "version": "4.0.12",
+  "version": "4.0.14",
   "summary": "Codenerix Payments is a module that enables CODENERIX to manage payments and let clients to pay online.",
   "author": "Juan Miguel Taboada Godoy <juanmi@juanmitaboada.com>, Juan Soler Ruiz <soleronline@gmail.com>",
   "license": "Apache License Version 2.0",
   "home_page": "https://github.com/codenerix/django-codenerix-payments",
-  "download_filename": "django_codenerix_payments-4.0.12.tar.gz",
-  "download_time": "2026-04-22T11:11:51.352981",
+  "download_filename": "django_codenerix_payments-4.0.14.tar.gz",
+  "download_time": "2026-04-24T06:14:52.652099",
   "package_url": "https://pypi.org/project/django-codenerix-payments/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cisco-tsm",
+  "version": "1.0.2",
+  "summary": "Cisco Time Series Model is a pretrained Multi-resolution time series forecasting model.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cisco_tsm-1.0.2.tar.gz",
+  "download_time": "2026-04-24T06:15:21.573884",
+  "package_url": "https://pypi.org/project/cisco-tsm/"
+}

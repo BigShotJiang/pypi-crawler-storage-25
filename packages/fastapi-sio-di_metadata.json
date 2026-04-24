@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-sio-di",
+  "version": "0.5.4",
+  "summary": "FastAPI-SIO-DI is a library tailored for integrating Socket.IO with FastAPI. It allows you to develop real-time WebSocket applications using the familiar FastAPI style (Dependency Injection, Pydantic models).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_sio_di-0.5.4.tar.gz",
+  "download_time": "2026-04-24T06:14:58.826714",
+  "package_url": "https://pypi.org/project/fastapi-sio-di/"
+}

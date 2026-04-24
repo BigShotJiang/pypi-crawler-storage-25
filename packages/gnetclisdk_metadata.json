@@ -1,11 +1,11 @@
 {
   "name": "gnetclisdk",
-  "version": "1.2.19",
+  "version": "1.2.22",
   "summary": "Client for Gnetcli GRPC-server",
   "author": "Alexander Balezin",
   "license": "MIT",
   "home_page": "https://github.com/annetutil/gnetcli",
-  "download_filename": "gnetclisdk-1.2.19.tar.gz",
-  "download_time": "2026-04-09T06:15:14.634986",
+  "download_filename": "gnetclisdk-1.2.22.tar.gz",
+  "download_time": "2026-04-24T06:15:26.169398",
   "package_url": "https://pypi.org/project/gnetclisdk/"
 }

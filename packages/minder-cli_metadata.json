@@ -1,11 +1,11 @@
 {
   "name": "minder-cli",
-  "version": "0.2.0",
-  "summary": "Minder is an AI MCP server for manage your LLM flow development and memory of AI agent.",
+  "version": "0.4.1",
+  "summary": "Minder CLI is the command-line interface for the Minder self-hosted MCP platform.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "minder_cli-0.2.0.tar.gz",
-  "download_time": "2026-04-21T03:39:45.905635",
+  "download_filename": "minder_cli-0.4.1.tar.gz",
+  "download_time": "2026-04-24T06:14:54.196770",
   "package_url": "https://pypi.org/project/minder-cli/"
 }
