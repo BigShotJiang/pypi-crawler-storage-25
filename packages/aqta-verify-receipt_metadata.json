@@ -1,0 +1,11 @@
+{
+  "name": "aqta-verify-receipt",
+  "version": "1.0.1",
+  "summary": "Independent verifier for AqtaCore attestation receipts. Verifies the Ed25519 signature on an attestation receipt without trusting any third-party server. Reference implementation of ATTESTATION-v1.",
+  "author": "Aqta Technologies Ltd",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aqta_verify_receipt-1.0.1.tar.gz",
+  "download_time": "2026-04-24T19:59:15.927679",
+  "package_url": "https://pypi.org/project/aqta-verify-receipt/"
+}

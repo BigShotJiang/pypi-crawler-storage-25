@@ -1,0 +1,11 @@
+{
+  "name": "queuemgr",
+  "version": "1.0.15",
+  "summary": "Full-featured job queue system with multiprocessing support for Linux",
+  "author": "Vasiliy Zdanovskiy",
+  "license": "MIT",
+  "home_page": "https://github.com/vasilyvz/queuemgr",
+  "download_filename": "queuemgr-1.0.15.tar.gz",
+  "download_time": "2026-04-24T19:59:54.941100",
+  "package_url": "https://pypi.org/project/queuemgr/"
+}

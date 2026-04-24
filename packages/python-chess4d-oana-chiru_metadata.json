@@ -1,0 +1,11 @@
+{
+  "name": "python-chess4d-oana-chiru",
+  "version": "0.3.3",
+  "summary": "Python reference implementation of Oana & Chiru (2026) — A Mathematical Framework for Four-Dimensional Chess (DOI 10.3390/appliedmath6030048).",
+  "author": "Steven Kirkland",
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "python_chess4d_oana_chiru-0.3.3.tar.gz",
+  "download_time": "2026-04-24T19:59:48.973894",
+  "package_url": "https://pypi.org/project/python-chess4d-oana-chiru/"
+}

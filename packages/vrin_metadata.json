@@ -1,0 +1,11 @@
+{
+  "name": "vrin",
+  "version": "1.3.3",
+  "summary": "Knowledge reasoning infrastructure for AI — structure documents into a temporal knowledge graph, reason across them, and trace every answer to specific facts",
+  "author": "VRIN Team",
+  "license": null,
+  "home_page": "https://vrin.cloud",
+  "download_filename": "vrin-1.3.3.tar.gz",
+  "download_time": "2026-04-24T19:59:11.449210",
+  "package_url": "https://pypi.org/project/vrin/"
+}

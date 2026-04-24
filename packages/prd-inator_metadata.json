@@ -1,11 +1,11 @@
 {
   "name": "prd-inator",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "An autonomous LangGraph pipeline that generates AI-resistant technical take home assignments.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prd_inator-0.3.0.tar.gz",
-  "download_time": "2026-04-24T17:57:35.644646",
+  "download_filename": "prd_inator-0.3.1.tar.gz",
+  "download_time": "2026-04-24T19:59:13.744522",
   "package_url": "https://pypi.org/project/prd-inator/"
 }

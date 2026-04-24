@@ -1,11 +1,11 @@
 {
   "name": "pypagate",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A simple library for functional reactive programming in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypagate-0.1.0.tar.gz",
-  "download_time": "2026-04-21T23:41:22.905049",
+  "download_filename": "pypagate-0.2.0.tar.gz",
+  "download_time": "2026-04-24T19:59:50.601149",
   "package_url": "https://pypi.org/project/pypagate/"
 }

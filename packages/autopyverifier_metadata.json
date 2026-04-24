@@ -1,0 +1,11 @@
+{
+  "name": "autopyverifier",
+  "version": "0.1.0",
+  "summary": "Search for compact executable verifier sets for LLM outputs.",
+  "author": "Pouya Pezeshkpour",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autopyverifier-0.1.0.tar.gz",
+  "download_time": "2026-04-24T19:59:31.290422",
+  "package_url": "https://pypi.org/project/autopyverifier/"
+}

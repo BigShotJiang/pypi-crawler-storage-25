@@ -1,0 +1,11 @@
+{
+  "name": "oxford-ledge-mcp",
+  "version": "2.0.2",
+  "summary": "MCP server for Oxford Ledge financial terminal — 36 tools for stocks, SEC filings, credit data, bonds, macro indicators, and BDC holdings from Claude Desktop",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oxford_ledge_mcp-2.0.2.tar.gz",
+  "download_time": "2026-04-24T19:59:51.686312",
+  "package_url": "https://pypi.org/project/oxford-ledge-mcp/"
+}

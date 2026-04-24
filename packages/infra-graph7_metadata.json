@@ -1,11 +1,11 @@
 {
   "name": "infra-graph7",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Knowledge graph plugin for Terraform, Kubernetes, GitHub Actions, and Docker Compose infrastructure files",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "infra_graph7-0.1.2.tar.gz",
-  "download_time": "2026-04-22T11:12:15.885574",
+  "download_filename": "infra_graph7-0.2.0.tar.gz",
+  "download_time": "2026-04-24T19:59:11.991541",
   "package_url": "https://pypi.org/project/infra-graph7/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "eneru",
-  "version": "5.1.1",
+  "version": "5.2.1",
   "summary": "Intelligent UPS Monitoring & Shutdown Orchestration for NUT",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eneru-5.1.1.tar.gz",
-  "download_time": "2026-04-22T21:16:32.170582",
+  "download_filename": "eneru-5.2.1.tar.gz",
+  "download_time": "2026-04-24T19:59:22.577748",
   "package_url": "https://pypi.org/project/eneru/"
 }
