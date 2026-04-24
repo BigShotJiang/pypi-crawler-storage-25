@@ -1,11 +1,11 @@
 {
   "name": "pychebyshev",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "summary": "Fast multi-dimensional Chebyshev tensor interpolation with analytical derivatives",
   "author": "Max Zhang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pychebyshev-0.13.0-py3-none-any.whl",
-  "download_time": "2026-04-24T22:40:24.129810",
+  "download_filename": "pychebyshev-0.13.1-py3-none-any.whl",
+  "download_time": "2026-04-24T23:19:09.723879",
   "package_url": "https://pypi.org/project/pychebyshev/"
 }

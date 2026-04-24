@@ -1,11 +1,11 @@
 {
   "name": "because-py",
-  "version": "0.2.5",
+  "version": "0.2.10",
   "summary": "Enriches exceptions with plain-English causal chains at throw time",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "because_py-0.2.5.tar.gz",
-  "download_time": "2026-04-24T19:59:46.247551",
+  "download_filename": "because_py-0.2.10.tar.gz",
+  "download_time": "2026-04-24T23:19:01.373863",
   "package_url": "https://pypi.org/project/because-py/"
 }

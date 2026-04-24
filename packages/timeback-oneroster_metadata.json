@@ -1,11 +1,11 @@
 {
   "name": "timeback-oneroster",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Timeback OneRoster v1.2 client for rostering and gradebook APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "timeback_oneroster-0.2.1.tar.gz",
-  "download_time": "2026-04-24T00:13:27.348060",
+  "download_filename": "timeback_oneroster-0.2.2.tar.gz",
+  "download_time": "2026-04-24T23:19:31.890807",
   "package_url": "https://pypi.org/project/timeback-oneroster/"
 }

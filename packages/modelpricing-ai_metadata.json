@@ -1,0 +1,11 @@
+{
+  "name": "modelpricing-ai",
+  "version": "2026.4.2",
+  "summary": "Python client for ModelPricing.ai cost estimates and tracking",
+  "author": "ModelPricing.ai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "modelpricing_ai-2026.4.2.tar.gz",
+  "download_time": "2026-04-24T23:19:08.047879",
+  "package_url": "https://pypi.org/project/modelpricing-ai/"
+}

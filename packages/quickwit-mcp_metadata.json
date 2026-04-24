@@ -1,0 +1,11 @@
+{
+  "name": "quickwit-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server exposing a curated surface of Quickwit search APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quickwit_mcp-0.1.2.tar.gz",
+  "download_time": "2026-04-24T23:19:10.743413",
+  "package_url": "https://pypi.org/project/quickwit-mcp/"
+}

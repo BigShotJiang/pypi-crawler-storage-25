@@ -1,11 +1,11 @@
 {
   "name": "timeback-clr",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Timeback CLR client for Comprehensive Learner Record operations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "timeback_clr-0.2.1.tar.gz",
-  "download_time": "2026-04-24T00:13:30.141630",
+  "download_filename": "timeback_clr-0.2.2.tar.gz",
+  "download_time": "2026-04-24T23:19:34.446940",
   "package_url": "https://pypi.org/project/timeback-clr/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "timeback-core",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Unified Timeback client for all education APIs (OneRoster, Caliper, Edubridge, QTI, PowerPath, CLR, CASE, Webhooks)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "timeback_core-0.2.1.tar.gz",
-  "download_time": "2026-04-24T00:13:29.104741",
+  "download_filename": "timeback_core-0.2.2.tar.gz",
+  "download_time": "2026-04-24T23:19:33.426548",
   "package_url": "https://pypi.org/project/timeback-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fudgeo",
+  "version": "1.5.9",
+  "summary": "GeoPackage support from Python.  fudgeo is a lightweight package for creating OGC GeoPackages, Feature Classes, and Tables.  Easily read and write geometries and attributes to Feature Classes and Tables using regular Python objects and SQLite syntax.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fudgeo-1.5.9-py3-none-any.whl",
+  "download_time": "2026-04-24T23:19:00.353652",
+  "package_url": "https://pypi.org/project/fudgeo/"
+}
