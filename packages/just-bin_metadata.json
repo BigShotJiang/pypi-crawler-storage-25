@@ -1,0 +1,11 @@
+{
+  "name": "just-bin",
+  "version": "1.50.0",
+  "summary": "A thin wrapper to distribute https://github.com/casey/just via pip.",
+  "author": null,
+  "license": "CC0 1.0 Universal",
+  "home_page": null,
+  "download_filename": "just_bin-1.50.0-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-04-24T17:07:11.714122",
+  "package_url": "https://pypi.org/project/just-bin/"
+}

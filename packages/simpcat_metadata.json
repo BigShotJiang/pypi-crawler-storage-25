@@ -1,11 +1,11 @@
 {
   "name": "simpcat",
-  "version": "0.7.7",
-  "summary": "Self-hosted training metrics platform",
+  "version": "2.1.1",
+  "summary": "ML experiment manager.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simpcat-0.7.7-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-  "download_time": "2026-04-04T18:46:12.706461",
+  "download_filename": "simpcat-2.1.1-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2026-04-24T17:06:47.974125",
   "package_url": "https://pypi.org/project/simpcat/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "agilab",
-  "version": "2026.4.25",
+  "version": "2026.4.26",
   "summary": "AGILAB is an end-to-end experimentation platform linking interactive development with scalable, reproducible execution orchestration.",
   "author": "Jean-Pierre Morard",
   "license": null,
   "home_page": null,
-  "download_filename": "agilab-2026.4.25.tar.gz",
-  "download_time": "2026-04-22T17:50:09.489612",
+  "download_filename": "agilab-2026.4.26.tar.gz",
+  "download_time": "2026-04-24T17:06:58.428848",
   "package_url": "https://pypi.org/project/agilab/"
 }

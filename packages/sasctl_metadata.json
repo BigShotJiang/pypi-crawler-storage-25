@@ -1,0 +1,11 @@
+{
+  "name": "sasctl",
+  "version": "1.11.8",
+  "summary": "SAS Viya Python Client",
+  "author": "SAS",
+  "license": "Apache v2.0",
+  "home_page": "https://github.com/sassoftware/python-sasctl/",
+  "download_filename": "sasctl-1.11.8.tar.gz",
+  "download_time": "2026-04-24T17:07:17.122787",
+  "package_url": "https://pypi.org/project/sasctl/"
+}

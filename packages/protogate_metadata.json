@@ -1,11 +1,11 @@
 {
   "name": "protogate",
-  "version": "0.1.6",
+  "version": "0.1.9",
   "summary": "Migration tool and delegation platform for extracting bounded slices from legacy systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "protogate-0.1.6.tar.gz",
-  "download_time": "2026-04-24T16:14:52.955020",
+  "download_filename": "protogate-0.1.9.tar.gz",
+  "download_time": "2026-04-24T17:07:18.767280",
   "package_url": "https://pypi.org/project/protogate/"
 }

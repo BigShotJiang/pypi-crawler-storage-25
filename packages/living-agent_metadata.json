@@ -1,0 +1,11 @@
+{
+  "name": "living-agent",
+  "version": "1.0.0",
+  "summary": "Autonomous Chess-Grid research agent driven by a local KoboldCPP LLM server.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "living_agent-1.0.0.tar.gz",
+  "download_time": "2026-04-24T17:06:30.272302",
+  "package_url": "https://pypi.org/project/living-agent/"
+}

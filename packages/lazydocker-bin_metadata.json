@@ -1,0 +1,11 @@
+{
+  "name": "lazydocker-bin",
+  "version": "0.25.2",
+  "summary": "A thin wrapper to distribute https://github.com/jesseduffield/lazydocker via pip.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lazydocker_bin-0.25.2-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-04-24T17:07:11.137984",
+  "package_url": "https://pypi.org/project/lazydocker-bin/"
+}

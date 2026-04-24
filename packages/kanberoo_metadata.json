@@ -1,11 +1,11 @@
 {
   "name": "kanberoo",
-  "version": "0.2.0",
-  "summary": "A kanban-style issue tracker with TUI, REST + WebSocket API, CLI, and MCP server. Meta-package.",
+  "version": "0.2.2",
+  "summary": "Renamed to kanbaroo: meta-package (install 'kanbaroo[all]' for the full experience)",
   "author": "Adam Reese",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kanberoo-0.2.0.tar.gz",
-  "download_time": "2026-04-22T23:14:16.441671",
+  "download_filename": "kanberoo-0.2.2.tar.gz",
+  "download_time": "2026-04-24T17:07:00.058548",
   "package_url": "https://pypi.org/project/kanberoo/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pulp-container-client",
-  "version": "2.27.5",
+  "version": "2.27.7",
   "summary": "Pulp 3 API",
   "author": "Pulp Team",
   "license": "GPL-2.0-or-later",
   "home_page": null,
-  "download_filename": "pulp_container_client-2.27.5.tar.gz",
-  "download_time": "2026-04-01T21:04:10.277571",
+  "download_filename": "pulp_container_client-2.27.7.tar.gz",
+  "download_time": "2026-04-24T17:07:12.780418",
   "package_url": "https://pypi.org/project/pulp-container-client/"
 }
