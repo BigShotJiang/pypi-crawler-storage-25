@@ -1,0 +1,11 @@
+{
+  "name": "escrowmint",
+  "version": "0.2.1",
+  "summary": "Python client for exact Redis-backed bounded consumption.",
+  "author": "Biprakanta Pal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "escrowmint-0.2.1.tar.gz",
+  "download_time": "2026-04-24T22:40:29.847775",
+  "package_url": "https://pypi.org/project/escrowmint/"
+}

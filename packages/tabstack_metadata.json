@@ -1,11 +1,11 @@
 {
   "name": "tabstack",
-  "version": "2.4.0",
+  "version": "2.6.0",
   "summary": "The official Python library for the tabstack API",
   "author": "Tabstack",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "tabstack-2.4.0.tar.gz",
-  "download_time": "2026-04-10T23:25:24.870413",
+  "download_filename": "tabstack-2.6.0.tar.gz",
+  "download_time": "2026-04-24T22:40:20.960564",
   "package_url": "https://pypi.org/project/tabstack/"
 }

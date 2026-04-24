@@ -1,0 +1,11 @@
+{
+  "name": "tigrbl_engine_inmemory",
+  "version": "0.1.11.dev1",
+  "summary": "Process-local transactional in-memory engine plugin for Tigrbl with copy-on-write snapshots.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tigrbl_engine_inmemory-0.1.11.dev1.tar.gz",
+  "download_time": "2026-04-24T22:40:30.356741",
+  "package_url": "https://pypi.org/project/tigrbl_engine_inmemory/"
+}

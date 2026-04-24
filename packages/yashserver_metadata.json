@@ -1,0 +1,11 @@
+{
+  "name": "yashserver",
+  "version": "0.1.2",
+  "summary": "Async-first server toolkit with plugins, native WebSocket support, auth/rate limiting, and TLS.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yashserver-0.1.2.tar.gz",
+  "download_time": "2026-04-24T22:40:10.044125",
+  "package_url": "https://pypi.org/project/yashserver/"
+}

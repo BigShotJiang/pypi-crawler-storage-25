@@ -1,0 +1,11 @@
+{
+  "name": "sharepoint-manager",
+  "version": "0.0.7",
+  "summary": "Library for interacting with sharepoint using Microsoft Graph API",
+  "author": "Vinicius Benevides",
+  "license": "MIT",
+  "home_page": "https://github.com/VBenevides/sharepoint-manager",
+  "download_filename": "sharepoint_manager-0.0.7.tar.gz",
+  "download_time": "2026-04-24T22:40:57.620270",
+  "package_url": "https://pypi.org/project/sharepoint-manager/"
+}

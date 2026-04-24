@@ -1,0 +1,11 @@
+{
+  "name": "tigrbl",
+  "version": "0.3.17",
+  "summary": "A modern pure ASGI/WSGI Python framework for building schema-first REST and JSON-RPC APIs with SQLAlchemy models, typed validation, lifecycle hooks, and engine extension support.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tigrbl-0.3.17.tar.gz",
+  "download_time": "2026-04-24T22:40:34.828662",
+  "package_url": "https://pypi.org/project/tigrbl/"
+}

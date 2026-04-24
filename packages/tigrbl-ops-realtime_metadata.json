@@ -1,0 +1,11 @@
+{
+  "name": "tigrbl-ops-realtime",
+  "version": "0.1.11.dev1",
+  "summary": "Realtime, stream, and datagram operation implementations for Tigrbl.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tigrbl_ops_realtime-0.1.11.dev1.tar.gz",
+  "download_time": "2026-04-24T22:40:37.621779",
+  "package_url": "https://pypi.org/project/tigrbl-ops-realtime/"
+}

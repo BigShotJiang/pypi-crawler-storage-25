@@ -1,11 +1,11 @@
 {
   "name": "micropython-stm32-pybv11-stubs",
-  "version": "1.28.0.post1",
+  "version": "1.28.0.post3",
   "summary": "MicroPython stubs",
   "author": "Jos Verlinde",
   "license": null,
   "home_page": null,
-  "download_filename": "micropython_stm32_pybv11_stubs-1.28.0.post1.tar.gz",
-  "download_time": "2026-04-19T21:01:33.570696",
+  "download_filename": "micropython_stm32_pybv11_stubs-1.28.0.post3.tar.gz",
+  "download_time": "2026-04-24T22:40:27.762136",
   "package_url": "https://pypi.org/project/micropython-stm32-pybv11-stubs/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tigrbl_engine_duckdb",
+  "version": "0.1.1",
+  "summary": "DuckDB engine extension for Tigrbl (optional plugin).",
+  "author": null,
+  "license": "Apache License Version 2.0, January 2004 http://www.apache.org/licenses/  TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION  1. Definitions. ... END OF TERMS AND CONDITIONS",
+  "home_page": null,
+  "download_filename": "tigrbl_engine_duckdb-0.1.1.tar.gz",
+  "download_time": "2026-04-24T22:40:51.878914",
+  "package_url": "https://pypi.org/project/tigrbl_engine_duckdb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fastreer",
+  "version": "2.1.6",
+  "summary": "CLI toolkit for phylogenetic trees and distance matrices from VCF and FASTA",
+  "author": "Anestis Gkanogiannis",
+  "license": null,
+  "home_page": "https://github.com/gkanogiannis/fastreeR",
+  "download_filename": "fastreer-2.1.6.tar.gz",
+  "download_time": "2026-04-24T22:40:24.652880",
+  "package_url": "https://pypi.org/project/fastreer/"
+}
