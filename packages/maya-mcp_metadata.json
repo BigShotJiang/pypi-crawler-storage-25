@@ -1,0 +1,11 @@
+{
+  "name": "maya-mcp",
+  "version": "0.4.1",
+  "summary": "MCP server for controlling Autodesk Maya via commandPort",
+  "author": "Maya MCP Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "maya_mcp-0.4.1.tar.gz",
+  "download_time": "2026-04-24T08:33:35.145667",
+  "package_url": "https://pypi.org/project/maya-mcp/"
+}

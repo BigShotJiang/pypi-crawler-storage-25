@@ -1,11 +1,11 @@
 {
   "name": "harness-init",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "CLI tool to initialize Harness Engineering projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "harness_init-1.0.0.tar.gz",
-  "download_time": "2026-04-20T06:40:41.096633",
+  "download_filename": "harness_init-1.1.0.tar.gz",
+  "download_time": "2026-04-24T08:33:37.184914",
   "package_url": "https://pypi.org/project/harness-init/"
 }

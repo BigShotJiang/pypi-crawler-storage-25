@@ -1,11 +1,11 @@
 {
   "name": "predacore-core",
-  "version": "0.1.2",
+  "version": "1.1.1",
   "summary": "Rust-powered intelligence layer for PredaCore",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "predacore_core-0.1.2.tar.gz",
-  "download_time": "2026-04-19T03:56:45.921959",
+  "download_filename": "predacore_core-1.1.1.tar.gz",
+  "download_time": "2026-04-24T08:33:28.948578",
   "package_url": "https://pypi.org/project/predacore-core/"
 }

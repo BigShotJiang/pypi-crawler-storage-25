@@ -1,0 +1,11 @@
+{
+  "name": "mixseek-core",
+  "version": "0.1.0a15",
+  "summary": "Pydantic AI-based multi-agent framework with hierarchical task delegation, round-based evaluation, and workspace CLI",
+  "author": "AlpacaTech Co. Ltd.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mixseek_core-0.1.0a15.tar.gz",
+  "download_time": "2026-04-24T08:33:05.076907",
+  "package_url": "https://pypi.org/project/mixseek-core/"
+}

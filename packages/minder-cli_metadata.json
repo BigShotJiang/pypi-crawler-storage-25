@@ -1,11 +1,11 @@
 {
   "name": "minder-cli",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Minder CLI is the command-line interface for the Minder self-hosted MCP platform.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "minder_cli-0.4.1.tar.gz",
-  "download_time": "2026-04-24T06:14:54.196770",
+  "download_filename": "minder_cli-0.4.2.tar.gz",
+  "download_time": "2026-04-24T08:32:59.427453",
   "package_url": "https://pypi.org/project/minder-cli/"
 }

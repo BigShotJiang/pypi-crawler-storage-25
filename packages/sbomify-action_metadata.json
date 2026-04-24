@@ -1,0 +1,11 @@
+{
+  "name": "sbomify-action",
+  "version": "26.2.0",
+  "summary": "Generate, augment, enrich, and manage SBOMs in your CI/CD pipeline",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sbomify_action-26.2.0.tar.gz",
+  "download_time": "2026-04-24T08:32:59.940935",
+  "package_url": "https://pypi.org/project/sbomify-action/"
+}

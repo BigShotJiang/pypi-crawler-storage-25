@@ -1,11 +1,11 @@
 {
   "name": "mnemostack",
-  "version": "0.1.0a13",
+  "version": "0.2.0a1",
   "summary": "Memory stack for AI agents: BM25 + Qdrant + Memgraph + RRF retrieval, Gemini Flash inference layer, 8-stage recall pipeline.",
   "author": "mnemostack contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mnemostack-0.1.0a13.tar.gz",
-  "download_time": "2026-04-18T10:13:03.434783",
+  "download_filename": "mnemostack-0.2.0a1.tar.gz",
+  "download_time": "2026-04-24T08:33:44.915457",
   "package_url": "https://pypi.org/project/mnemostack/"
 }

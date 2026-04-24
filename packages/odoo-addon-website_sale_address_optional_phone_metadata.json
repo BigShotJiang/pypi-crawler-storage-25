@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-website_sale_address_optional_phone",
+  "version": "18.0.1.0.0",
+  "summary": "Remove phone from list of mandatory address fields.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_website_sale_address_optional_phone-18.0.1.0.0-py3-none-any.whl",
+  "download_time": "2026-04-24T08:33:32.050366",
+  "package_url": "https://pypi.org/project/odoo-addon-website_sale_address_optional_phone/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "engram-peft",
-  "version": "1.0.4",
+  "version": "1.2.3",
   "summary": "Engram-PEFT: Efficient Parameter-Efficient Fine-Tuning with Engram",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "engram_peft-1.0.4.tar.gz",
-  "download_time": "2026-04-14T10:46:31.740914",
+  "download_filename": "engram_peft-1.2.3.tar.gz",
+  "download_time": "2026-04-24T08:33:44.404298",
   "package_url": "https://pypi.org/project/engram-peft/"
 }

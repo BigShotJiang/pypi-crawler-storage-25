@@ -1,0 +1,11 @@
+{
+  "name": "odm-sdk",
+  "version": "1.62.5",
+  "summary": "SDK for interacting with the Open Data Manager",
+  "author": "Genestack Limited",
+  "license": "MIT",
+  "home_page": "https://github.com/genestack/sdk",
+  "download_filename": "odm_sdk-1.62.5.tar.gz",
+  "download_time": "2026-04-24T08:33:19.179012",
+  "package_url": "https://pypi.org/project/odm-sdk/"
+}

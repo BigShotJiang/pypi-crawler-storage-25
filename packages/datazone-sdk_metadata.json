@@ -1,11 +1,11 @@
 {
   "name": "datazone-sdk",
-  "version": "1.0.0",
+  "version": "4.0.2",
   "summary": "Database and Delta storage client library for working with Delta Lake tables",
   "author": "Team Enigma",
   "license": null,
   "home_page": null,
-  "download_filename": "datazone_sdk-1.0.0.tar.gz",
-  "download_time": "2026-04-08T10:10:08.364863",
+  "download_filename": "datazone_sdk-4.0.2.tar.gz",
+  "download_time": "2026-04-24T08:33:10.750769",
   "package_url": "https://pypi.org/project/datazone-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "qlat",
-  "version": "0.96",
+  "version": "0.98",
   "summary": "Qlattice",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "qlat-0.96.tar.gz",
-  "download_time": "2026-04-23T23:17:14.634481",
+  "download_filename": "qlat-0.98.tar.gz",
+  "download_time": "2026-04-24T08:33:33.592650",
   "package_url": "https://pypi.org/project/qlat/"
 }
