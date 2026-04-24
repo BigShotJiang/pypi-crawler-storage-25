@@ -1,11 +1,11 @@
 {
   "name": "Twotuples",
-  "version": "1.6.1",
+  "version": "1.6.3",
   "summary": "Libreria para clasificar texto",
   "author": "Carlos Garcia Vargas y Orlando Toledano",
   "license": "MIT",
   "home_page": "https://github.com/crgv7/TwotuplesClasificator",
-  "download_filename": "twotuples-1.6.1.tar.gz",
-  "download_time": "2026-04-24T16:15:08.951173",
+  "download_filename": "twotuples-1.6.3.tar.gz",
+  "download_time": "2026-04-24T19:01:28.737600",
   "package_url": "https://pypi.org/project/Twotuples/"
 }

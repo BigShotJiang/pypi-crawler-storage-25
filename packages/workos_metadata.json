@@ -1,11 +1,11 @@
 {
   "name": "workos",
-  "version": "6.0.5",
+  "version": "6.0.8",
   "summary": "WorkOS Python Client",
   "author": "WorkOS",
   "license": null,
   "home_page": null,
-  "download_filename": "workos-6.0.5.tar.gz",
-  "download_time": "2026-04-20T21:14:06.546337",
+  "download_filename": "workos-6.0.8.tar.gz",
+  "download_time": "2026-04-24T19:01:53.136706",
   "package_url": "https://pypi.org/project/workos/"
 }

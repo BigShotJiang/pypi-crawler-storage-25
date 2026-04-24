@@ -1,0 +1,11 @@
+{
+  "name": "py-spring-core",
+  "version": "0.2.0",
+  "summary": "PySpring is a Python web framework inspired by Spring Boot, combining FastAPI, and Pydantic for building scalable web applications with auto dependency injection, configuration management, and a web server.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_spring_core-0.2.0.tar.gz",
+  "download_time": "2026-04-24T19:02:09.493841",
+  "package_url": "https://pypi.org/project/py-spring-core/"
+}

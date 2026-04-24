@@ -1,0 +1,11 @@
+{
+  "name": "lilbee",
+  "version": "0.5.4",
+  "summary": "Local knowledge base for documents and code. Search, ask questions, or chat — standalone or as an AI agent backend via MCP. Fully offline with Ollama.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lilbee-0.5.4-py3-none-any.whl",
+  "download_time": "2026-04-24T19:01:59.155498",
+  "package_url": "https://pypi.org/project/lilbee/"
+}

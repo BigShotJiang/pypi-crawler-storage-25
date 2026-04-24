@@ -1,0 +1,11 @@
+{
+  "name": "socialhome-client",
+  "version": "2026.4.24",
+  "summary": "Async HTTP + WebSocket client for Social Home, used by the Home Assistant integration.",
+  "author": null,
+  "license": "Mozilla Public License 2.0",
+  "home_page": null,
+  "download_filename": "socialhome_client-2026.4.24.tar.gz",
+  "download_time": "2026-04-24T19:02:02.604787",
+  "package_url": "https://pypi.org/project/socialhome-client/"
+}

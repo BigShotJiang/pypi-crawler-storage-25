@@ -1,0 +1,11 @@
+{
+  "name": "cloud-volume",
+  "version": "12.13.1",
+  "summary": "A serverless client for reading and writing Neuroglancer Precomputed volumes both locally and on cloud services.",
+  "author": "William Silversmith, Nico Kemnitz, Ignacio Tartavull, and others",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/seung-lab/cloud-volume/",
+  "download_filename": "cloud_volume-12.13.1.tar.gz",
+  "download_time": "2026-04-24T19:01:58.005607",
+  "package_url": "https://pypi.org/project/cloud-volume/"
+}

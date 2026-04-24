@@ -1,0 +1,11 @@
+{
+  "name": "lsp-types",
+  "version": "0.19.0",
+  "summary": "Minimal-dependency Python library for Language Server Protocol types",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsp_types-0.19.0.tar.gz",
+  "download_time": "2026-04-24T19:01:51.457121",
+  "package_url": "https://pypi.org/project/lsp-types/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "oeselect",
-  "version": "1.1.6",
+  "version": "1.2.0",
   "summary": "High-performance PyMOL selection language for OpenEye Toolkits",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oeselect-1.1.6-cp310-abi3-macosx_15_0_arm64.whl",
-  "download_time": "2026-04-17T00:03:51.773552",
+  "download_filename": "oeselect-1.2.0-cp310-abi3-macosx_15_0_arm64.whl",
+  "download_time": "2026-04-24T19:01:41.187331",
   "package_url": "https://pypi.org/project/oeselect/"
 }

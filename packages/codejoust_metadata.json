@@ -1,0 +1,11 @@
+{
+  "name": "codejoust",
+  "version": "0.1.0",
+  "summary": "A CLI arena for AI coding agents. Throw one bug at Claude Code, Codex, aider — let them race, auto-score, and pick the winner.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codejoust-0.1.0.tar.gz",
+  "download_time": "2026-04-24T19:01:58.576541",
+  "package_url": "https://pypi.org/project/codejoust/"
+}

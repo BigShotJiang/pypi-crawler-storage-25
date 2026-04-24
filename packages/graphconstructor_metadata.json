@@ -1,0 +1,11 @@
+{
+  "name": "graphconstructor",
+  "version": "0.3.0",
+  "summary": "Python library for graph construction from similarity or distance metrics",
+  "author": "Florian Huber",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graphconstructor-0.3.0.tar.gz",
+  "download_time": "2026-04-24T19:01:44.844550",
+  "package_url": "https://pypi.org/project/graphconstructor/"
+}

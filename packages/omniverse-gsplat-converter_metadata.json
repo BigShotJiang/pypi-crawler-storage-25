@@ -1,11 +1,11 @@
 {
   "name": "omniverse-gsplat-converter",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "NVIDIA 3D Gaussian Splat to USD Converter",
   "author": "NVIDIA",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "omniverse_gsplat_converter-0.1.1-py3-none-any.whl",
-  "download_time": "2026-04-13T22:08:09.061029",
+  "download_filename": "omniverse_gsplat_converter-0.1.4-py3-none-any.whl",
+  "download_time": "2026-04-24T19:01:52.030638",
   "package_url": "https://pypi.org/project/omniverse-gsplat-converter/"
 }

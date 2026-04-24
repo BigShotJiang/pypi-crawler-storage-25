@@ -1,11 +1,11 @@
 {
   "name": "patent-client-agents",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "summary": "Intellectual property research toolkit for AI agents — patents, trademarks, and prosecution data from USPTO, EPO, JPO, Google Patents, MPEP, and CPC",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "patent_client_agents-0.2.0.tar.gz",
-  "download_time": "2026-04-23T17:52:23.895985",
+  "download_filename": "patent_client_agents-0.5.0.tar.gz",
+  "download_time": "2026-04-24T19:02:08.922911",
   "package_url": "https://pypi.org/project/patent-client-agents/"
 }
