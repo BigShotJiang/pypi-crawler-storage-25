@@ -1,11 +1,11 @@
 {
   "name": "partomatic",
-  "version": "0.4.0",
+  "version": "0.4.3",
   "summary": "build123d Part extended for CI/CD automation",
   "author": "x0pherl",
   "license": null,
   "home_page": null,
-  "download_filename": "partomatic-0.4.0.tar.gz",
-  "download_time": "2026-04-19T15:50:51.592044",
+  "download_filename": "partomatic-0.4.3.tar.gz",
+  "download_time": "2026-04-24T00:13:36.957830",
   "package_url": "https://pypi.org/project/partomatic/"
 }

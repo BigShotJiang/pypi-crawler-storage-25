@@ -1,0 +1,11 @@
+{
+  "name": "cs2cap-sdk",
+  "version": "1.0.1",
+  "summary": "CS2Cap market data API client",
+  "author": "CS2Cap",
+  "license": "MIT",
+  "home_page": "https://cs2cap.com",
+  "download_filename": "cs2cap_sdk-1.0.1.tar.gz",
+  "download_time": "2026-04-24T00:13:35.390894",
+  "package_url": "https://pypi.org/project/cs2cap-sdk/"
+}

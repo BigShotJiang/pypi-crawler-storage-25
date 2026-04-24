@@ -1,11 +1,11 @@
 {
   "name": "hush-engine",
-  "version": "1.10.2",
+  "version": "1.12.0",
   "summary": "Local-first PII detection engine using Presidio and Apple Vision OCR",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "hush_engine-1.10.2.tar.gz",
-  "download_time": "2026-04-21T18:53:19.230185",
+  "download_filename": "hush_engine-1.12.0.tar.gz",
+  "download_time": "2026-04-24T00:13:23.459754",
   "package_url": "https://pypi.org/project/hush-engine/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "xmmpysas",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "summary": "Python wrapper for XMM-Newton SAS.",
-  "author": "Ryan Tanner",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xmmpysas-2.4.1.tar.gz",
-  "download_time": "2026-04-23T22:08:23.209817",
+  "download_filename": "xmmpysas-2.4.2.tar.gz",
+  "download_time": "2026-04-24T00:14:00.289353",
   "package_url": "https://pypi.org/project/xmmpysas/"
 }

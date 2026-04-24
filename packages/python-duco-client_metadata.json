@@ -1,11 +1,11 @@
 {
   "name": "python-duco-client",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Async Python client for the Duco ventilation API",
   "author": "Ronald van der Meer",
   "license": null,
   "home_page": null,
-  "download_filename": "python_duco_client-0.3.4.tar.gz",
-  "download_time": "2026-04-21T21:12:16.244167",
+  "download_filename": "python_duco_client-0.3.5.tar.gz",
+  "download_time": "2026-04-24T00:13:36.439872",
   "package_url": "https://pypi.org/project/python-duco-client/"
 }

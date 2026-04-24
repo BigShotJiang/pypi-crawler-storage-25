@@ -1,0 +1,11 @@
+{
+  "name": "maimai-cat",
+  "version": "0.1.0",
+  "summary": "A Python API wrapper for maimai (脉脉) platform, supporting talent search, profile retrieval, group management, bookmarking, and recruitment workflow automation.",
+  "author": "chandler song",
+  "license": "MIT",
+  "home_page": "https://www.linkedin.com/in/chandlersong/",
+  "download_filename": "maimai_cat-0.1.0.tar.gz",
+  "download_time": "2026-04-24T00:13:13.901127",
+  "package_url": "https://pypi.org/project/maimai-cat/"
+}

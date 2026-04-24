@@ -1,0 +1,11 @@
+{
+  "name": "glm-client",
+  "version": "0.3.0",
+  "summary": "GLM (智谱AI) 大模型 Python 客户端库 - 支持文本生成、OCR 文字识别、视觉理解、图像生成、语音合成、视频生成、文本嵌入等",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glm_client-0.3.0.tar.gz",
+  "download_time": "2026-04-24T00:13:45.943095",
+  "package_url": "https://pypi.org/project/glm-client/"
+}

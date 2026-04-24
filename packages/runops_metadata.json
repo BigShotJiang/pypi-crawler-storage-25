@@ -1,0 +1,11 @@
+{
+  "name": "runops",
+  "version": "0.5.2",
+  "summary": "HPC simulation run management CLI tool for Slurm-based environments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "runops-0.5.2.tar.gz",
+  "download_time": "2026-04-24T00:13:49.658727",
+  "package_url": "https://pypi.org/project/runops/"
+}

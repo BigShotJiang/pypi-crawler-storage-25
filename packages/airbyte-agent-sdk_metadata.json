@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-sdk",
-  "version": "0.1.44",
+  "version": "0.1.59",
   "summary": "Core SDK for Airbyte connectors with declarative YAML execution",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airbyte_agent_sdk-0.1.44-py3-none-any.whl",
-  "download_time": "2026-04-21T16:48:54.294361",
+  "download_filename": "airbyte_agent_sdk-0.1.59-py3-none-any.whl",
+  "download_time": "2026-04-24T00:13:40.181826",
   "package_url": "https://pypi.org/project/airbyte-agent-sdk/"
 }
