@@ -1,11 +1,11 @@
 {
   "name": "dbt-cube-sync",
-  "version": "0.1.0a29",
+  "version": "0.1.0a32",
   "summary": "Synchronization tool for dbt models to Cube.js schemas and BI tools",
   "author": "Ponder",
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_cube_sync-0.1.0a29.tar.gz",
-  "download_time": "2026-04-23T17:52:13.619008",
+  "download_filename": "dbt_cube_sync-0.1.0a32.tar.gz",
+  "download_time": "2026-04-24T10:12:00.536222",
   "package_url": "https://pypi.org/project/dbt-cube-sync/"
 }

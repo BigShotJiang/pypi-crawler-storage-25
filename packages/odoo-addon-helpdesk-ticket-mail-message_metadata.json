@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-helpdesk-ticket-mail-message",
+  "version": "16.0.1.1.10",
+  "summary": "Helpdesk Ticket Mail Message",
+  "author": "Som It Cooperatiu SCCL, Som Connexió SCCL, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://gitlab.com/somitcoop/erp-research/odoo-helpdesk",
+  "download_filename": "odoo_addon_helpdesk_ticket_mail_message-16.0.1.1.10.tar.gz",
+  "download_time": "2026-04-24T10:12:15.913940",
+  "package_url": "https://pypi.org/project/odoo-addon-helpdesk-ticket-mail-message/"
+}

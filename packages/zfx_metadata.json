@@ -1,0 +1,11 @@
+{
+  "name": "zfx",
+  "version": "2.0.133",
+  "summary": "ZFX 是一个中文命名的 Python 多功能工具包，覆盖文本、时间、文件、目录、系统、进程、网络请求、网页提取、数据库、邮件与自动化等常见场景。",
+  "author": "zengfengxiang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zfx-2.0.133.tar.gz",
+  "download_time": "2026-04-24T10:12:18.706368",
+  "package_url": "https://pypi.org/project/zfx/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-agentrun20250910",
-  "version": "5.6.0",
+  "version": "5.6.4",
   "summary": "Alibaba Cloud AgentRun (20250910) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_agentrun20250910-5.6.0.tar.gz",
-  "download_time": "2026-04-14T18:57:13.165671",
+  "download_filename": "alibabacloud_agentrun20250910-5.6.4.tar.gz",
+  "download_time": "2026-04-24T10:11:58.847234",
   "package_url": "https://pypi.org/project/alibabacloud-agentrun20250910/"
 }

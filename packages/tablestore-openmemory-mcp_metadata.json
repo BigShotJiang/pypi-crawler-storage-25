@@ -1,0 +1,11 @@
+{
+  "name": "tablestore-openmemory-mcp",
+  "version": "1.3.1",
+  "summary": "MCP server for retrieving context from a tablestore vector database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tablestore_openmemory_mcp-1.3.1.tar.gz",
+  "download_time": "2026-04-24T10:11:59.415447",
+  "package_url": "https://pypi.org/project/tablestore-openmemory-mcp/"
+}

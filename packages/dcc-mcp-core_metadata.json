@@ -1,11 +1,11 @@
 {
   "name": "dcc-mcp-core",
-  "version": "0.12.22",
+  "version": "0.14.9",
   "summary": "Foundational library for the DCC Model Context Protocol (MCP) ecosystem",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dcc_mcp_core-0.12.22.tar.gz",
-  "download_time": "2026-04-14T05:55:40.237624",
+  "download_filename": "dcc_mcp_core-0.14.9.tar.gz",
+  "download_time": "2026-04-24T10:12:24.161975",
   "package_url": "https://pypi.org/project/dcc-mcp-core/"
 }

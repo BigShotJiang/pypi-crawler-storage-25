@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-helpdesk-ticket-to-lead-outbound",
+  "version": "16.0.1.0.1",
+  "summary": "Forward CRM lead and ticket data to external CRM platforms via outbound webhooks when converting a helpdesk ticket.",
+  "author": "Som IT Cooperatiu SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://gitlab.com/somitcoop/erp-research/odoo-helpdesk",
+  "download_filename": "odoo_addon_helpdesk_ticket_to_lead_outbound-16.0.1.0.1.tar.gz",
+  "download_time": "2026-04-24T10:12:12.569577",
+  "package_url": "https://pypi.org/project/odoo-addon-helpdesk-ticket-to-lead-outbound/"
+}

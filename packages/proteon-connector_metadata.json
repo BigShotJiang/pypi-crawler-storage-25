@@ -1,0 +1,11 @@
+{
+  "name": "proteon-connector",
+  "version": "0.1.2",
+  "summary": "PyO3 bindings for proteon structural bioinformatics tools",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/theGreatHerrLebert/proteon",
+  "download_filename": "proteon_connector-0.1.2.tar.gz",
+  "download_time": "2026-04-24T10:12:02.209201",
+  "package_url": "https://pypi.org/project/proteon-connector/"
+}

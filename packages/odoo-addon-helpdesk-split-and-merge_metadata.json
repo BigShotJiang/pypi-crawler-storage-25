@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-helpdesk-split-and-merge",
+  "version": "16.0.1.0.5",
+  "summary": "Split and Merge Helpdesk Tickets",
+  "author": "Som It Cooperatiu SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://gitlab.com/somitcoop/erp-research/odoo-helpdesk",
+  "download_filename": "odoo_addon_helpdesk_split_and_merge-16.0.1.0.5.tar.gz",
+  "download_time": "2026-04-24T10:12:22.522719",
+  "package_url": "https://pypi.org/project/odoo-addon-helpdesk-split-and-merge/"
+}

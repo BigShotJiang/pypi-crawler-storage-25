@@ -1,11 +1,11 @@
 {
   "name": "syntaqlite",
-  "version": "0.5.3",
+  "version": "0.5.6",
   "summary": "SQLite SQL tools — parser, formatter, validator, and MCP server",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "syntaqlite-0.5.3-py3-none-macosx_10_13_universal2.whl",
-  "download_time": "2026-04-22T01:12:43.933412",
+  "download_filename": "syntaqlite-0.5.6-py3-none-macosx_10_13_universal2.whl",
+  "download_time": "2026-04-24T10:11:39.727577",
   "package_url": "https://pypi.org/project/syntaqlite/"
 }
