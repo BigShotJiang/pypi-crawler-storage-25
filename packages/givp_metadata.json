@@ -1,11 +1,11 @@
 {
   "name": "givp",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "summary": "GRASP-ILS-VND with Path Relinking — direction-agnostic metaheuristic optimizer.",
   "author": "Arnaldo Mendes Pires Junior",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "givp-0.3.0.tar.gz",
-  "download_time": "2026-04-23T03:54:31.436023",
+  "download_filename": "givp-0.4.1.tar.gz",
+  "download_time": "2026-04-24T17:57:54.457687",
   "package_url": "https://pypi.org/project/givp/"
 }

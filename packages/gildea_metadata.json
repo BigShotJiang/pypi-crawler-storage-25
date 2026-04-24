@@ -1,11 +1,11 @@
 {
   "name": "gildea",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Python client and MCP server for the Gildea AI market intelligence API",
   "author": "Holly Jones",
   "license": null,
   "home_page": null,
-  "download_filename": "gildea-0.2.3.tar.gz",
-  "download_time": "2026-04-16T20:51:18.345613",
+  "download_filename": "gildea-0.2.4.tar.gz",
+  "download_time": "2026-04-24T17:58:22.394239",
   "package_url": "https://pypi.org/project/gildea/"
 }

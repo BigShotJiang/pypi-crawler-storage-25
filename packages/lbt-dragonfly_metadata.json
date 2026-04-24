@@ -1,11 +1,11 @@
 {
   "name": "lbt-dragonfly",
-  "version": "0.13.17",
+  "version": "0.13.21",
   "summary": "Collection of all Dragonfly core Python libraries",
   "author": "Ladybug Tools",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/ladybug-tools/lbt-dragonfly",
-  "download_filename": "lbt_dragonfly-0.13.17.tar.gz",
-  "download_time": "2026-04-22T18:54:37.901674",
+  "download_filename": "lbt_dragonfly-0.13.21.tar.gz",
+  "download_time": "2026-04-24T17:57:35.098585",
   "package_url": "https://pypi.org/project/lbt-dragonfly/"
 }

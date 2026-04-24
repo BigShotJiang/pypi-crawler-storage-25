@@ -1,0 +1,11 @@
+{
+  "name": "splunk_add_on_ucc_framework",
+  "version": "6.4.0",
+  "summary": "Splunk Add-on SDK formerly UCC is a build and code generation framework",
+  "author": "Splunk",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/splunk/addonfactory-ucc-generator",
+  "download_filename": "splunk_add_on_ucc_framework-6.4.0.tar.gz",
+  "download_time": "2026-04-24T17:57:45.690971",
+  "package_url": "https://pypi.org/project/splunk_add_on_ucc_framework/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "freyacli",
+  "version": "0.3.0",
+  "summary": "Python CLI framework with well defined argument rules and automatic help string generation.",
+  "author": "DiegoBarMor",
+  "license": "MIT",
+  "home_page": "https://github.com/diegobarmor/freya-cli",
+  "download_filename": "freyacli-0.3.0.tar.gz",
+  "download_time": "2026-04-24T17:57:43.445830",
+  "package_url": "https://pypi.org/project/freyacli/"
+}

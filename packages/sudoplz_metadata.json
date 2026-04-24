@@ -1,0 +1,11 @@
+{
+  "name": "sudoplz",
+  "version": "0.2.1",
+  "summary": "Give AI coding agents case-by-case sudo access via GUI approval, with SSH-key-encrypted password storage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sudoplz-0.2.1.tar.gz",
+  "download_time": "2026-04-24T17:58:16.914259",
+  "package_url": "https://pypi.org/project/sudoplz/"
+}

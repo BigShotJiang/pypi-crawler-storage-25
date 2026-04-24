@@ -1,11 +1,11 @@
 {
   "name": "hudu-magic",
-  "version": "0.1.0",
+  "version": "0.4.2411",
   "summary": "Python client library for the Hudu API",
-  "author": null,
+  "author": "Mason Stelter",
   "license": null,
   "home_page": null,
-  "download_filename": "hudu_magic-0.1.0.tar.gz",
-  "download_time": "2026-04-03T19:55:16.831762",
+  "download_filename": "hudu_magic-0.4.2411.tar.gz",
+  "download_time": "2026-04-24T17:57:59.394607",
   "package_url": "https://pypi.org/project/hudu-magic/"
 }

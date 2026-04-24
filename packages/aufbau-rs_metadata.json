@@ -1,11 +1,11 @@
 {
   "name": "aufbau-rs",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Python bindings for the aufbau typed feed engine",
   "author": null,
   "license": null,
   "home_page": "https://unsuspicious.org/blog/proposition-7",
-  "download_filename": "aufbau_rs-0.1.0.tar.gz",
-  "download_time": "2026-04-20T18:03:41.775257",
+  "download_filename": "aufbau_rs-0.1.2.tar.gz",
+  "download_time": "2026-04-24T17:57:53.369632",
   "package_url": "https://pypi.org/project/aufbau-rs/"
 }

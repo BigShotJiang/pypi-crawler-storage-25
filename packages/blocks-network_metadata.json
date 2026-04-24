@@ -1,11 +1,11 @@
 {
   "name": "blocks-network",
-  "version": "0.1.24",
+  "version": "0.1.25",
   "summary": "Blocks Network Python SDK - Agent Instance Runtime",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blocks_network-0.1.24.tar.gz",
-  "download_time": "2026-04-24T17:06:34.788155",
+  "download_filename": "blocks_network-0.1.25.tar.gz",
+  "download_time": "2026-04-24T17:57:52.828573",
   "package_url": "https://pypi.org/project/blocks-network/"
 }
