@@ -1,11 +1,11 @@
 {
   "name": "podflare",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "summary": "Podflare Python SDK — cloud sandbox for AI agents with 100ms fork() and persistent REPL.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "podflare-0.0.20.tar.gz",
-  "download_time": "2026-04-21T09:32:09.885235",
+  "download_filename": "podflare-0.0.21.tar.gz",
+  "download_time": "2026-04-24T11:41:53.023816",
   "package_url": "https://pypi.org/project/podflare/"
 }

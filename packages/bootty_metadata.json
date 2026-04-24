@@ -1,11 +1,11 @@
 {
   "name": "bootty",
-  "version": "0.1.1",
-  "summary": "bootty",
+  "version": "0.1.8",
+  "summary": "bootty main package; dispatches to a prebuilt platform binary",
   "author": null,
-  "license": "MIT License\n        \n         \n        ",
+  "license": null,
   "home_page": null,
-  "download_filename": "bootty-0.1.1.tar.gz",
-  "download_time": "2026-04-22T04:25:59.684476",
+  "download_filename": "bootty-0.1.8.tar.gz",
+  "download_time": "2026-04-24T11:42:24.580075",
   "package_url": "https://pypi.org/project/bootty/"
 }

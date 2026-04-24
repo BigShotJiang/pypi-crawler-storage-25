@@ -1,11 +1,11 @@
 {
   "name": "chimeralang-mcp",
-  "version": "0.2.1",
-  "summary": "ChimeraLang MCP Server — probabilistic types, consensus gates, and hallucination detection as Claude tools",
+  "version": "0.2.7",
+  "summary": "ChimeraLang MCP Server â€” probabilistic types, consensus gates, and hallucination detection as Claude tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chimeralang_mcp-0.2.1.tar.gz",
-  "download_time": "2026-04-16T17:24:32.526036",
+  "download_filename": "chimeralang_mcp-0.2.7.tar.gz",
+  "download_time": "2026-04-24T11:41:55.618903",
   "package_url": "https://pypi.org/project/chimeralang-mcp/"
 }

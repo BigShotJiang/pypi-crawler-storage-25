@@ -1,0 +1,11 @@
+{
+  "name": "pytfe",
+  "version": "0.1.4",
+  "summary": "Official Python SDK for HashiCorp Terraform Cloud / Terraform Enterprise (TFE) API v2",
+  "author": "HashiCorp",
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "pytfe-0.1.4.tar.gz",
+  "download_time": "2026-04-24T11:42:14.698479",
+  "package_url": "https://pypi.org/project/pytfe/"
+}

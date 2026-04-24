@@ -1,11 +1,11 @@
 {
   "name": "exoclaw-executor-dbos",
-  "version": "0.5.2",
+  "version": "0.13.1",
   "summary": "DBOS-backed durable executor for exoclaw — turns and tool calls survive restarts",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "exoclaw_executor_dbos-0.5.2.tar.gz",
-  "download_time": "2026-04-14T20:10:03.456046",
+  "download_filename": "exoclaw_executor_dbos-0.13.1.tar.gz",
+  "download_time": "2026-04-24T11:42:07.971141",
   "package_url": "https://pypi.org/project/exoclaw-executor-dbos/"
 }

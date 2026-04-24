@@ -1,0 +1,11 @@
+{
+  "name": "armoriq-sdk-dev",
+  "version": "0.3.4",
+  "summary": "ArmorIQ SDK - Build secure AI agents with cryptographic intent verification.",
+  "author": "ArmorIQ Team",
+  "license": "MIT",
+  "home_page": "https://armoriq.ai",
+  "download_filename": "armoriq_sdk_dev-0.3.4.tar.gz",
+  "download_time": "2026-04-24T11:42:21.394021",
+  "package_url": "https://pypi.org/project/armoriq-sdk-dev/"
+}

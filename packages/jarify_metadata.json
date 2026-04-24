@@ -1,11 +1,11 @@
 {
   "name": "jarify",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "summary": "Bespoke SQL linter and formatter for DuckDB, powered by sqlglot",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jarify-0.1.15.tar.gz",
-  "download_time": "2026-04-24T00:13:42.272698",
+  "download_filename": "jarify-0.1.16.tar.gz",
+  "download_time": "2026-04-24T11:42:02.301553",
   "package_url": "https://pypi.org/project/jarify/"
 }

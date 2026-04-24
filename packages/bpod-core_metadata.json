@@ -1,0 +1,11 @@
+{
+  "name": "bpod-core",
+  "version": "0.1.0a11",
+  "summary": "Python package for interfacing with the Bpod finite state machine",
+  "author": "Florian Rau",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bpod_core-0.1.0a11.tar.gz",
+  "download_time": "2026-04-24T11:42:10.536971",
+  "package_url": "https://pypi.org/project/bpod-core/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "acex-devkit",
-  "version": "1.5.0",
+  "version": "1.7.0",
   "summary": "ACE-X DevKit - Development kit for building ACE-X drivers and plugins",
   "author": "Johan Lahti",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "acex_devkit-1.5.0.tar.gz",
-  "download_time": "2026-04-21T12:08:12.641723",
+  "download_filename": "acex_devkit-1.7.0.tar.gz",
+  "download_time": "2026-04-24T11:42:03.343094",
   "package_url": "https://pypi.org/project/acex-devkit/"
 }
