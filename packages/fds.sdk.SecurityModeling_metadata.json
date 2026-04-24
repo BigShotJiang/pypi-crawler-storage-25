@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.SecurityModeling",
+  "version": "1.0.0",
+  "summary": "Security Modeling client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/SecurityModeling/v4",
+  "download_filename": "fds_sdk_securitymodeling-1.0.0.tar.gz",
+  "download_time": "2026-04-24T12:50:57.329304",
+  "package_url": "https://pypi.org/project/fds.sdk.SecurityModeling/"
+}

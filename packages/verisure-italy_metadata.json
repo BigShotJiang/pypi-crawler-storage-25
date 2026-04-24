@@ -1,11 +1,11 @@
 {
   "name": "verisure-italy",
-  "version": "0.8.2",
+  "version": "0.9.0",
   "summary": "Async Python client for the Verisure Italy alarm API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "verisure_italy-0.8.2.tar.gz",
-  "download_time": "2026-04-17T18:11:58.165920",
+  "download_filename": "verisure_italy-0.9.0.tar.gz",
+  "download_time": "2026-04-24T12:50:48.232475",
   "package_url": "https://pypi.org/project/verisure-italy/"
 }

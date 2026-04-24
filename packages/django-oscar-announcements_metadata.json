@@ -1,11 +1,11 @@
 {
   "name": "django-oscar-announcements",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "summary": "Pinax Announcements integration for Django Oscar dashboards",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_oscar_announcements-0.0.2.tar.gz",
-  "download_time": "2026-04-24T11:42:16.238570",
+  "download_filename": "django_oscar_announcements-0.1.0.tar.gz",
+  "download_time": "2026-04-24T12:50:34.824375",
   "package_url": "https://pypi.org/project/django-oscar-announcements/"
 }

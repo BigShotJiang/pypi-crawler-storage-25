@@ -1,0 +1,11 @@
+{
+  "name": "algebraic-immunity",
+  "version": "1.1.0",
+  "summary": "A package for computing the algebraic immunity and restricted algebraic immunity of Boolean functions.",
+  "author": "LucaBonamino",
+  "license": null,
+  "home_page": "https://github.com/LucaBonamino/algebraic_immunity",
+  "download_filename": "algebraic_immunity-1.1.0-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-24T12:50:32.680258",
+  "package_url": "https://pypi.org/project/algebraic-immunity/"
+}

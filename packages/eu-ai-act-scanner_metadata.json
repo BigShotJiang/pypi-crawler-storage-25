@@ -1,11 +1,11 @@
 {
   "name": "eu-ai-act-scanner",
-  "version": "2.0.13",
-  "summary": "MCP Server to verify EU AI Act compliance for AI projects",
+  "version": "2.0.30",
+  "summary": "CLI scanner for EU AI Act + GDPR compliance. Run `eu-ai-act-scanner` on any project -- detects 16 AI frameworks, maps to binding articles, returns pass/fail with fix instructions. Zero config. Also available as MCP server for Claude/Cursor.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eu_ai_act_scanner-2.0.13.tar.gz",
-  "download_time": "2026-04-14T12:54:11.178885",
+  "download_filename": "eu_ai_act_scanner-2.0.30.tar.gz",
+  "download_time": "2026-04-24T12:50:40.199735",
   "package_url": "https://pypi.org/project/eu-ai-act-scanner/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "acatome-store",
+  "version": "0.8.1",
+  "summary": "Persistent storage, dedup, metadata queries, and semantic search for acatome bundles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acatome_store-0.8.1.tar.gz",
+  "download_time": "2026-04-24T12:50:17.405759",
+  "package_url": "https://pypi.org/project/acatome-store/"
+}

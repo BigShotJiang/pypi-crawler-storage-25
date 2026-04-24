@@ -1,0 +1,11 @@
+{
+  "name": "mcumgr-toolkit",
+  "version": "0.13.1",
+  "summary": "Python API for Zephyr's MCUmgr protocol",
+  "author": "Finomnis <finomnis@gmail.com>",
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "mcumgr_toolkit-0.13.1-cp310-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2026-04-24T12:50:56.797151",
+  "package_url": "https://pypi.org/project/mcumgr-toolkit/"
+}

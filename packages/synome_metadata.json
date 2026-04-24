@@ -1,11 +1,11 @@
 {
   "name": "synome",
-  "version": "0.1.0.dev5",
+  "version": "0.1.0.dev9",
   "summary": "Code-generated entity package from Synome specifications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synome-0.1.0.dev5.tar.gz",
-  "download_time": "2026-04-22T11:12:02.085061",
+  "download_filename": "synome-0.1.0.dev9.tar.gz",
+  "download_time": "2026-04-24T12:50:16.335895",
   "package_url": "https://pypi.org/project/synome/"
 }

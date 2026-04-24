@@ -1,11 +1,11 @@
 {
   "name": "neural-memory",
-  "version": "4.51.3",
+  "version": "4.53.0",
   "summary": "Persistent memory for AI agents — 56 MCP tools, spreading activation recall, neuroscience-inspired consolidation. Works with Claude, GPT, Gemini.",
   "author": "NeuralMemory Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "neural_memory-4.51.3.tar.gz",
-  "download_time": "2026-04-19T16:29:47.180885",
+  "download_filename": "neural_memory-4.53.0.tar.gz",
+  "download_time": "2026-04-24T12:50:17.964889",
   "package_url": "https://pypi.org/project/neural-memory/"
 }

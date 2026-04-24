@@ -1,11 +1,11 @@
 {
   "name": "cross-st",
-  "version": "0.4.0",
+  "version": "0.7.0",
   "summary": "AI reports. Cross-examined. Research reports from multiple AI providers, fact-checked against each other.",
   "author": "b202i",
   "license": null,
   "home_page": null,
-  "download_filename": "cross_st-0.4.0.tar.gz",
-  "download_time": "2026-04-12T19:57:55.668017",
+  "download_filename": "cross_st-0.7.0.tar.gz",
+  "download_time": "2026-04-24T12:50:15.802753",
   "package_url": "https://pypi.org/project/cross-st/"
 }

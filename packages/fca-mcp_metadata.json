@@ -1,11 +1,11 @@
 {
   "name": "fca-mcp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "MCP server for the UK Financial Services (FCA) Register RESTful API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fca_mcp-0.0.2.tar.gz",
-  "download_time": "2026-04-24T11:41:53.535650",
+  "download_filename": "fca_mcp-0.0.3.tar.gz",
+  "download_time": "2026-04-24T12:50:54.115472",
   "package_url": "https://pypi.org/project/fca-mcp/"
 }

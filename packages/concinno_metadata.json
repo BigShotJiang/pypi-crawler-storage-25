@@ -1,11 +1,11 @@
 {
   "name": "concinno",
-  "version": "2.23.0",
+  "version": "2.33.0",
   "summary": "AI behavior governance for Claude Code - guards, input rewriting, LLM-as-Judge, A2A safety agent, zero-dep core",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "concinno-2.23.0.tar.gz",
-  "download_time": "2026-04-24T06:15:09.707146",
+  "download_filename": "concinno-2.33.0.tar.gz",
+  "download_time": "2026-04-24T12:50:18.508179",
   "package_url": "https://pypi.org/project/concinno/"
 }
