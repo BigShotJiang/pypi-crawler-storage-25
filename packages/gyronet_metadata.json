@@ -1,0 +1,11 @@
+{
+  "name": "gyronet",
+  "version": "0.1.0",
+  "summary": "Stellar age prediction via gyrochronology with Bayesian posterior reweighting",
+  "author": "Amit Dethe",
+  "license": "MIT",
+  "home_page": "https://github.com/26amitdethe/GyroNet",
+  "download_filename": "gyronet-0.1.0.tar.gz",
+  "download_time": "2026-04-24T14:29:18.416664",
+  "package_url": "https://pypi.org/project/gyronet/"
+}

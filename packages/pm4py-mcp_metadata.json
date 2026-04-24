@@ -1,11 +1,11 @@
 {
   "name": "pm4py-mcp",
-  "version": "0.1.0",
+  "version": "0.4.1",
   "summary": "Open-source Model Context Protocol server for process mining, wrapping PM4Py behind a small handle-based tool surface.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pm4py_mcp-0.1.0.tar.gz",
-  "download_time": "2026-04-23T14:22:46.192820",
+  "download_filename": "pm4py_mcp-0.4.1.tar.gz",
+  "download_time": "2026-04-24T14:29:05.348509",
   "package_url": "https://pypi.org/project/pm4py-mcp/"
 }

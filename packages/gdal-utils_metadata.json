@@ -1,0 +1,11 @@
+{
+  "name": "gdal-utils",
+  "version": "3.12.4.0",
+  "summary": "gdal-utils: An extension library for GDAL - Geospatial Data Abstraction Library",
+  "author": "Frank Warmerdam",
+  "license": "MIT",
+  "home_page": "http://www.gdal.org",
+  "download_filename": "gdal_utils-3.12.4.0-py3-none-any.whl",
+  "download_time": "2026-04-24T14:28:33.447237",
+  "package_url": "https://pypi.org/project/gdal-utils/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aibrain",
-  "version": "1.5.14",
+  "version": "1.5.29",
   "summary": "AI agent brain with memory, teams, flows, document ingestion, and MCP — your agent, but better every day",
   "author": "Matthew McKee",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "aibrain-1.5.14.tar.gz",
-  "download_time": "2026-04-17T15:08:00.742540",
+  "download_filename": "aibrain-1.5.29-py3-none-any.whl",
+  "download_time": "2026-04-24T14:28:52.721725",
   "package_url": "https://pypi.org/project/aibrain/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "eseas",
-  "version": "2.0.12",
+  "version": "2.0.16",
   "summary": "eseas is a Python package that serves as a wrapper for the jwsacruncher Java package. This tool allows users to process Demetra workspace XML files, create batch files, execute them, and collect the desired outputs into individual Excel files.",
   "author": null,
   "license": "EUPL-1.2",
   "home_page": null,
-  "download_filename": "eseas-2.0.12.tar.gz",
-  "download_time": "2026-04-21T12:08:00.935489",
+  "download_filename": "eseas-2.0.16.tar.gz",
+  "download_time": "2026-04-24T14:29:13.695198",
   "package_url": "https://pypi.org/project/eseas/"
 }

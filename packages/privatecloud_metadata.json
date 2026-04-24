@@ -1,0 +1,11 @@
+{
+  "name": "privatecloud",
+  "version": "0.2.1",
+  "summary": "PrivateCloud: one-command installer for a Kubernetes-based private cloud (k3s + monitoring + ingress + storage).",
+  "author": "Kubenew",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "privatecloud-0.2.1.tar.gz",
+  "download_time": "2026-04-24T14:28:47.448650",
+  "package_url": "https://pypi.org/project/privatecloud/"
+}

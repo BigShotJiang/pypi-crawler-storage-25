@@ -1,0 +1,11 @@
+{
+  "name": "aiotractive",
+  "version": "1.0.3",
+  "summary": "Asynchronous Python client for the Tractive REST API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiotractive-1.0.3.tar.gz",
+  "download_time": "2026-04-24T14:29:06.401253",
+  "package_url": "https://pypi.org/project/aiotractive/"
+}

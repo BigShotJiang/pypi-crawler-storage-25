@@ -1,11 +1,11 @@
 {
   "name": "komputer-ai-sdk",
-  "version": "0.11.7",
+  "version": "0.12.0",
   "summary": "Python SDK for the komputer.ai platform",
   "author": "komputer-ai",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "komputer_ai_sdk-0.11.7.tar.gz",
-  "download_time": "2026-04-22T20:18:43.019295",
+  "download_filename": "komputer_ai_sdk-0.12.0.tar.gz",
+  "download_time": "2026-04-24T14:28:49.571673",
   "package_url": "https://pypi.org/project/komputer-ai-sdk/"
 }

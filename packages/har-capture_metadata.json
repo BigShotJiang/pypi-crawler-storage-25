@@ -1,11 +1,11 @@
 {
   "name": "har-capture",
-  "version": "0.5.1",
+  "version": "0.7.1",
   "summary": "HAR capture and PII sanitization library for network traffic analysis",
   "author": "Solent Labs™",
   "license": null,
   "home_page": null,
-  "download_filename": "har_capture-0.5.1.tar.gz",
-  "download_time": "2026-03-31T00:00:38.671456",
+  "download_filename": "har_capture-0.7.1.tar.gz",
+  "download_time": "2026-04-24T14:29:12.130566",
   "package_url": "https://pypi.org/project/har-capture/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mdka",
-  "version": "2.1.1",
+  "version": "2.1.4",
   "summary": "A HTML to Markdown converter that balances conversion quality with runtime efficiency written in Rust",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mdka-2.1.1.tar.gz",
-  "download_time": "2026-04-23T14:22:08.539992",
+  "download_filename": "mdka-2.1.4.tar.gz",
+  "download_time": "2026-04-24T14:28:35.761125",
   "package_url": "https://pypi.org/project/mdka/"
 }
