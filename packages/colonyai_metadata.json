@@ -1,11 +1,11 @@
 {
   "name": "colonyai",
-  "version": "0.6.23",
+  "version": "0.6.25",
   "summary": "Colony intelligence sidecar — harness-agnostic cognition server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "colonyai-0.6.23.tar.gz",
-  "download_time": "2026-04-25T10:49:54.265278",
+  "download_filename": "colonyai-0.6.25.tar.gz",
+  "download_time": "2026-04-25T12:09:47.858518",
   "package_url": "https://pypi.org/project/colonyai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "shamefile",
-  "version": "0.1.0rc2",
+  "version": "0.1.0rc3",
   "summary": "A cli tool to enforce documentation for code suppressions",
   "author": null,
   "license": null,
   "home_page": "https://github.com/BKDDFS/shamefile",
-  "download_filename": "shamefile-0.1.0rc2.tar.gz",
-  "download_time": "2026-04-25T11:34:38.757243",
+  "download_filename": "shamefile-0.1.0rc3-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-25T12:09:38.953087",
   "package_url": "https://pypi.org/project/shamefile/"
 }

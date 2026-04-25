@@ -1,0 +1,11 @@
+{
+  "name": "aiservice-gateway-sdk",
+  "version": "1.0.0",
+  "summary": "统一的AI服务网关SDK，支持硅基流动、OpenAI等多种AI厂商",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiservice_gateway_sdk-1.0.0.tar.gz",
+  "download_time": "2026-04-25T12:10:23.447368",
+  "package_url": "https://pypi.org/project/aiservice-gateway-sdk/"
+}

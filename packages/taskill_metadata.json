@@ -1,11 +1,11 @@
 {
   "name": "taskill",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Daily project hygiene: keep README / CHANGELOG / TODO in sync with reality. LLM-first, algorithmic fallback.",
   "author": "Tom Sapletta",
   "license": null,
   "home_page": null,
-  "download_filename": "taskill-0.1.1.tar.gz",
-  "download_time": "2026-04-25T09:09:38.425042",
+  "download_filename": "taskill-0.1.5.tar.gz",
+  "download_time": "2026-04-25T12:10:09.852815",
   "package_url": "https://pypi.org/project/taskill/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aiui-mcp",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "MCP server for aiui — native macOS dialogs from any Claude Code session, local or remote.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiui_mcp-0.3.1.tar.gz",
-  "download_time": "2026-04-25T05:07:19.682110",
+  "download_filename": "aiui_mcp-0.4.0.tar.gz",
+  "download_time": "2026-04-25T12:09:46.287292",
   "package_url": "https://pypi.org/project/aiui-mcp/"
 }

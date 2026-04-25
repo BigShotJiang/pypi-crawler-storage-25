@@ -1,0 +1,11 @@
+{
+  "name": "langchain-tool-guard",
+  "version": "0.1.0",
+  "summary": "Per-tool input validation and output-boundary policies for LangChain agents.",
+  "author": "Tristan Neale",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_tool_guard-0.1.0.tar.gz",
+  "download_time": "2026-04-25T12:09:53.101874",
+  "package_url": "https://pypi.org/project/langchain-tool-guard/"
+}

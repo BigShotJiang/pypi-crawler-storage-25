@@ -1,11 +1,11 @@
 {
   "name": "omnivoice-server",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "OpenAI-compatible HTTP server for OmniVoice TTS",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "omnivoice_server-0.2.1.tar.gz",
-  "download_time": "2026-04-18T15:04:23.316057",
+  "download_filename": "omnivoice_server-0.2.3-py3-none-any.whl",
+  "download_time": "2026-04-25T12:09:57.269093",
   "package_url": "https://pypi.org/project/omnivoice-server/"
 }

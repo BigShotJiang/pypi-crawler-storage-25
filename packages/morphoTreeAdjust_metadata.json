@@ -1,0 +1,11 @@
+{
+  "name": "morphoTreeAdjust",
+  "version": "1.0.0",
+  "summary": "Core C++/Python implementation of MorphoTreeAdjust for dual min/max tree incremental filtering.",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "morphotreeadjust-1.0.0.tar.gz",
+  "download_time": "2026-04-25T12:09:52.582510",
+  "package_url": "https://pypi.org/project/morphoTreeAdjust/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vulnclaw",
-  "version": "0.1.2",
+  "version": "0.2.5",
   "summary": "🦞 AI-powered penetration testing CLI tool for cybersecurity professionals",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vulnclaw-0.1.2.tar.gz",
-  "download_time": "2026-04-20T04:36:24.201473",
+  "download_filename": "vulnclaw-0.2.5.tar.gz",
+  "download_time": "2026-04-25T12:09:49.946821",
   "package_url": "https://pypi.org/project/vulnclaw/"
 }
