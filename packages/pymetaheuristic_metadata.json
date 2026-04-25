@@ -1,11 +1,11 @@
 {
   "name": "pymetaheuristic",
-  "version": "5.7.0",
+  "version": "5.7.2",
   "summary": "pymetaheuristic: A Python Library for Metaheuristic Optimization and Collaborative Search",
   "author": "Valdecy Pereira",
   "license": "GNU",
   "home_page": "https://github.com/Valdecy/pyMetaheuristic",
-  "download_filename": "pymetaheuristic-5.7.0.tar.gz",
-  "download_time": "2026-04-25T20:04:54.257228",
+  "download_filename": "pymetaheuristic-5.7.2.tar.gz",
+  "download_time": "2026-04-25T23:15:29.570965",
   "package_url": "https://pypi.org/project/pymetaheuristic/"
 }

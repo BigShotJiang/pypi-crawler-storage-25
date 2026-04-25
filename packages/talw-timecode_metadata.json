@@ -1,0 +1,11 @@
+{
+  "name": "talw-timecode",
+  "version": "0.1.0",
+  "summary": "SMPTE timecode arithmetic — parse, format, convert, drop-frame",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "talw_timecode-0.1.0.tar.gz",
+  "download_time": "2026-04-25T23:15:43.825880",
+  "package_url": "https://pypi.org/project/talw-timecode/"
+}

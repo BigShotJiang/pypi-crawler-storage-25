@@ -1,0 +1,11 @@
+{
+  "name": "steindamm",
+  "version": "0.10.0",
+  "summary": "Distributed token bucket and semphore",
+  "author": "Emil Aliyev, Sondre Lillebø Gundersen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "steindamm-0.10.0.tar.gz",
+  "download_time": "2026-04-25T23:16:04.927636",
+  "package_url": "https://pypi.org/project/steindamm/"
+}

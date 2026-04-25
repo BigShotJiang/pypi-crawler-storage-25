@@ -1,11 +1,11 @@
 {
   "name": "kitty-bridge",
-  "version": "0.2.3",
+  "version": "0.5.1",
   "summary": "Kitty Bridge — launch coding agents through a local API bridge",
   "author": "Shelpuk AI Technology Consulting",
   "license": null,
   "home_page": null,
-  "download_filename": "kitty_bridge-0.2.3.tar.gz",
-  "download_time": "2026-04-18T21:40:11.248824",
+  "download_filename": "kitty_bridge-0.5.1.tar.gz",
+  "download_time": "2026-04-25T23:15:43.282839",
   "package_url": "https://pypi.org/project/kitty-bridge/"
 }

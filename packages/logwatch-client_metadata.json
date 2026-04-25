@@ -1,0 +1,11 @@
+{
+  "name": "logwatch-client",
+  "version": "0.1.6",
+  "summary": "LogWatch 客户端 - 包裹命令并上传日志到监控服务器",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logwatch_client-0.1.6.tar.gz",
+  "download_time": "2026-04-25T23:16:01.479248",
+  "package_url": "https://pypi.org/project/logwatch-client/"
+}

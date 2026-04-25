@@ -1,11 +1,11 @@
 {
   "name": "sphinx-autodoc-sphinx",
-  "version": "0.0.1a9",
+  "version": "0.0.1a10",
   "summary": "Sphinx extension for documenting extension config values as first-class conf.py reference entries",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sphinx_autodoc_sphinx-0.0.1a9.tar.gz",
-  "download_time": "2026-04-19T15:04:42.049160",
+  "download_filename": "sphinx_autodoc_sphinx-0.0.1a10-py3-none-any.whl",
+  "download_time": "2026-04-25T23:15:35.664740",
   "package_url": "https://pypi.org/project/sphinx-autodoc-sphinx/"
 }

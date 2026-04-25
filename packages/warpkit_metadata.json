@@ -1,11 +1,11 @@
 {
   "name": "warpkit",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "A python library for neuroimaging transformations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "warpkit-1.2.0-cp311-cp311-macosx_10_9_universal2.whl",
-  "download_time": "2026-04-25T21:29:35.284446",
+  "download_filename": "warpkit-1.2.1-cp311-cp311-macosx_10_9_universal2.whl",
+  "download_time": "2026-04-25T23:16:09.336957",
   "package_url": "https://pypi.org/project/warpkit/"
 }

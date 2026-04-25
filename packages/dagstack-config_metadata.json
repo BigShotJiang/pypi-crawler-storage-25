@@ -1,0 +1,11 @@
+{
+  "name": "dagstack-config",
+  "version": "0.4.1rc1",
+  "summary": "Python binding for dagstack/config-spec — YAML configuration with env interpolation, Pydantic-based typed sections, runtime reconfigure",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagstack_config-0.4.1rc1.tar.gz",
+  "download_time": "2026-04-25T23:16:03.720538",
+  "package_url": "https://pypi.org/project/dagstack-config/"
+}

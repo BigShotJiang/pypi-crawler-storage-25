@@ -1,11 +1,11 @@
 {
   "name": "pyompl",
-  "version": "0.0.44",
+  "version": "0.1.11",
   "summary": "Python bindings for the Open Motion Planning Library (OMPL)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyompl-0.0.44-cp310-cp310-macosx_15_0_arm64.whl",
-  "download_time": "2026-04-16T18:48:14.740286",
+  "download_filename": "pyompl-0.1.11-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2026-04-25T23:15:41.652787",
   "package_url": "https://pypi.org/project/pyompl/"
 }

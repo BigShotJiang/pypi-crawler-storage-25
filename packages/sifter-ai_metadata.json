@@ -1,11 +1,11 @@
 {
   "name": "sifter-ai",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Python SDK for the Sifter document extraction API",
   "author": "Sifter Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sifter_ai-0.1.5.tar.gz",
-  "download_time": "2026-04-24T16:14:57.614912",
+  "download_filename": "sifter_ai-0.1.6.tar.gz",
+  "download_time": "2026-04-25T23:16:03.146073",
   "package_url": "https://pypi.org/project/sifter-ai/"
 }

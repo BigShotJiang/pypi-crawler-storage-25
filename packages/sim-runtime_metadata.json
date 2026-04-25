@@ -1,0 +1,11 @@
+{
+  "name": "sim-runtime",
+  "version": "0.2.2",
+  "summary": "Make every engineering tool agent-native — a CLI runtime that lets LLM agents launch, drive, and observe CAD/CAE software",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sim_runtime-0.2.2.tar.gz",
+  "download_time": "2026-04-25T23:16:11.512995",
+  "package_url": "https://pypi.org/project/sim-runtime/"
+}

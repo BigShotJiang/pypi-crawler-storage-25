@@ -1,0 +1,11 @@
+{
+  "name": "repo-map",
+  "version": "0.7.1",
+  "summary": "Generate a comprehensive summary and visualization of a repository structure, enhanced with AI-powered descriptions and developer considerations.",
+  "author": "Cyanheads",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "repo_map-0.7.1.tar.gz",
+  "download_time": "2026-04-25T23:15:26.643742",
+  "package_url": "https://pypi.org/project/repo-map/"
+}

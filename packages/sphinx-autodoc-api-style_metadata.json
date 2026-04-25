@@ -1,11 +1,11 @@
 {
   "name": "sphinx-autodoc-api-style",
-  "version": "0.0.1a9",
+  "version": "0.0.1a10",
   "summary": "Sphinx extension for enhanced autodoc API entry styling (badges and cards)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sphinx_autodoc_api_style-0.0.1a9.tar.gz",
-  "download_time": "2026-04-19T15:04:44.788608",
+  "download_filename": "sphinx_autodoc_api_style-0.0.1a10-py3-none-any.whl",
+  "download_time": "2026-04-25T23:15:38.894693",
   "package_url": "https://pypi.org/project/sphinx-autodoc-api-style/"
 }

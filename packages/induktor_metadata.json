@@ -1,0 +1,11 @@
+{
+  "name": "induktor",
+  "version": "0.1.1",
+  "summary": "Lightweight toolkit around PyTorch AOTInductor focusing on distribution and kernels compatibility",
+  "author": "cbensimon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "induktor-0.1.1.tar.gz",
+  "download_time": "2026-04-25T23:15:42.194388",
+  "package_url": "https://pypi.org/project/induktor/"
+}

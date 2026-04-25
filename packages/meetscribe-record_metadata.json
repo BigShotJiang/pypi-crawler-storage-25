@@ -1,0 +1,11 @@
+{
+  "name": "meetscribe-record",
+  "version": "0.1.0",
+  "summary": "Lightweight capture-only subset of meetscribe: record dual-channel meeting audio (mic + system) with no transcription/diarization/summarization deps.",
+  "author": "pretyflaco",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "meetscribe_record-0.1.0.tar.gz",
+  "download_time": "2026-04-25T23:15:22.787006",
+  "package_url": "https://pypi.org/project/meetscribe-record/"
+}

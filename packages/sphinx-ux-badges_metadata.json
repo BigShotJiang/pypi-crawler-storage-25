@@ -1,11 +1,11 @@
 {
   "name": "sphinx-ux-badges",
-  "version": "0.0.1a9",
+  "version": "0.0.1a10",
   "summary": "Shared badge node and CSS for Sphinx autodoc extensions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sphinx_ux_badges-0.0.1a9.tar.gz",
-  "download_time": "2026-04-19T15:04:39.259430",
+  "download_filename": "sphinx_ux_badges-0.0.1a10.tar.gz",
+  "download_time": "2026-04-25T23:15:23.899067",
   "package_url": "https://pypi.org/project/sphinx-ux-badges/"
 }

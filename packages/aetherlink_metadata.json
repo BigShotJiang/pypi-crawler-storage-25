@@ -1,0 +1,11 @@
+{
+  "name": "aetherlink",
+  "version": "0.1.1",
+  "summary": "MCP server for Software Defined Radio — control RTL-SDR & HackRF from Claude",
+  "author": "N-Erickson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aetherlink-0.1.1.tar.gz",
+  "download_time": "2026-04-25T23:15:30.113854",
+  "package_url": "https://pypi.org/project/aetherlink/"
+}
