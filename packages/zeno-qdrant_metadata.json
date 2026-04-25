@@ -1,0 +1,11 @@
+{
+  "name": "zeno-qdrant",
+  "version": "1.0.0rc2",
+  "summary": "Qdrant-backed KnowledgeStore adapter for Zeno.",
+  "author": "Niels Kootstra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zeno_qdrant-1.0.0rc2.tar.gz",
+  "download_time": "2026-04-25T21:29:26.534099",
+  "package_url": "https://pypi.org/project/zeno-qdrant/"
+}

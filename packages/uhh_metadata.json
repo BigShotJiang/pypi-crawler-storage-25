@@ -1,0 +1,11 @@
+{
+  "name": "uhh",
+  "version": "0.1.1",
+  "summary": "Ask a local LLM (Ollama) for the command you forgot, then optionally run it.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uhh-0.1.1.tar.gz",
+  "download_time": "2026-04-25T21:29:32.703254",
+  "package_url": "https://pypi.org/project/uhh/"
+}

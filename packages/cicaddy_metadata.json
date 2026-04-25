@@ -1,11 +1,11 @@
 {
   "name": "cicaddy",
-  "version": "0.9.0",
+  "version": "0.11.0",
   "summary": "Platform-agnostic pipeline AI agent with MCP tool integration and multi-step execution engine",
   "author": "Wayne Sun",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cicaddy-0.9.0.tar.gz",
-  "download_time": "2026-04-19T15:04:59.399395",
+  "download_filename": "cicaddy-0.11.0.tar.gz",
+  "download_time": "2026-04-25T21:29:49.717336",
   "package_url": "https://pypi.org/project/cicaddy/"
 }

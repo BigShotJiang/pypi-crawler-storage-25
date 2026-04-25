@@ -1,0 +1,11 @@
+{
+  "name": "openwisp-radius",
+  "version": "1.2.2",
+  "summary": "OpenWISP Radius",
+  "author": "OpenWISP",
+  "license": "GPL3",
+  "home_page": "https://openwisp.org",
+  "download_filename": "openwisp_radius-1.2.2.tar.gz",
+  "download_time": "2026-04-25T21:29:54.889212",
+  "package_url": "https://pypi.org/project/openwisp-radius/"
+}

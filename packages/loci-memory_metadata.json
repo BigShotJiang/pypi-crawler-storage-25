@@ -1,11 +1,11 @@
 {
   "name": "loci-memory",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "Holographic based MCP Server - Provide memory capabilities using Vector Database for LLM Applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "loci_memory-0.0.14.tar.gz",
-  "download_time": "2026-04-25T20:45:25.527756",
+  "download_filename": "loci_memory-0.0.15.tar.gz",
+  "download_time": "2026-04-25T21:29:43.031382",
   "package_url": "https://pypi.org/project/loci-memory/"
 }

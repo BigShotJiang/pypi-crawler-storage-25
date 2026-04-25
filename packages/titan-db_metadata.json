@@ -1,11 +1,11 @@
 {
   "name": "titan-db",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Python client & server manager for Titan Distributed SQLite",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "titan_db-0.2.1.tar.gz",
-  "download_time": "2026-04-25T19:19:57.771344",
+  "download_filename": "titan_db-0.3.0.tar.gz",
+  "download_time": "2026-04-25T21:29:48.684458",
   "package_url": "https://pypi.org/project/titan-db/"
 }

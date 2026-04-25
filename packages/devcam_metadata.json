@@ -1,0 +1,11 @@
+{
+  "name": "devcam",
+  "version": "0.1.1",
+  "summary": "Local camera feeds for development with HTTP, RTSP, and optional YOLO human detection.",
+  "author": "Aashish Ghimire",
+  "license": null,
+  "home_page": null,
+  "download_filename": "devcam-0.1.1.tar.gz",
+  "download_time": "2026-04-25T21:29:32.192587",
+  "package_url": "https://pypi.org/project/devcam/"
+}

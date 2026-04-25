@@ -1,0 +1,11 @@
+{
+  "name": "subs-down-n-sync",
+  "version": "1.0.1",
+  "summary": "CLI to download and sync subtitles for video files using semantic embeddings + DTW",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "subs_down_n_sync-1.0.1.tar.gz",
+  "download_time": "2026-04-25T21:29:13.646838",
+  "package_url": "https://pypi.org/project/subs-down-n-sync/"
+}

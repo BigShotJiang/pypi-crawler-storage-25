@@ -1,11 +1,11 @@
 {
   "name": "amazon-sp-cli",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "CLI tool for Amazon Selling Partner API (SP-API) operations",
   "author": "Lunan Li",
   "license": null,
   "home_page": "https://github.com/stellaraether/amazon-sp-cli",
-  "download_filename": "amazon_sp_cli-0.1.1.tar.gz",
-  "download_time": "2026-04-25T20:45:50.747929",
+  "download_filename": "amazon_sp_cli-0.1.3.tar.gz",
+  "download_time": "2026-04-25T21:29:21.413034",
   "package_url": "https://pypi.org/project/amazon-sp-cli/"
 }
