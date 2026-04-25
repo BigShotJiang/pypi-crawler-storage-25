@@ -1,0 +1,11 @@
+{
+  "name": "clack-tui",
+  "version": "0.1.1",
+  "summary": "TUI for browsing, searching, and resuming Claude Code sessions",
+  "author": "Janine",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clack_tui-0.1.1.tar.gz",
+  "download_time": "2026-04-25T17:37:24.896323",
+  "package_url": "https://pypi.org/project/clack-tui/"
+}

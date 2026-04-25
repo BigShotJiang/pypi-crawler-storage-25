@@ -1,0 +1,11 @@
+{
+  "name": "mf4-rs",
+  "version": "1.3.0",
+  "summary": "Python bindings for mf4-rs - A minimal library for working with ASAM MDF 4 measurement files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mf4_rs-1.3.0.tar.gz",
+  "download_time": "2026-04-25T17:37:27.094091",
+  "package_url": "https://pypi.org/project/mf4-rs/"
+}

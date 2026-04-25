@@ -1,0 +1,11 @@
+{
+  "name": "ftputil",
+  "version": "5.2.0",
+  "summary": "High-level FTP client library (virtual file system and more)",
+  "author": "Stefan Schwarzer",
+  "license": "BSD-3-Clause",
+  "home_page": "https://ftputil.sschwarzer.net/",
+  "download_filename": "ftputil-5.2.0.tar.gz",
+  "download_time": "2026-04-25T17:37:31.057569",
+  "package_url": "https://pypi.org/project/ftputil/"
+}

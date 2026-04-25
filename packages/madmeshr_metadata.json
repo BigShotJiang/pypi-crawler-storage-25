@@ -1,0 +1,11 @@
+{
+  "name": "madmeshr",
+  "version": "0.0.1",
+  "summary": "Placeholder for the in-development RL-based 2D quad mesh generator (advancing-front + Pan et al.'s SAC). See GitHub for status; no functional code published yet.",
+  "author": "Dominik Mattioli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "madmeshr-0.0.1.tar.gz",
+  "download_time": "2026-04-25T17:37:06.865060",
+  "package_url": "https://pypi.org/project/madmeshr/"
+}

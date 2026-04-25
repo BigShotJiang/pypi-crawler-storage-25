@@ -1,11 +1,11 @@
 {
   "name": "exonware-xwmodels",
-  "version": "0.6.0.13",
+  "version": "0.6.0.14",
   "summary": "Collections and Groups with provider support for auth and storage",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "exonware_xwmodels-0.6.0.13.tar.gz",
-  "download_time": "2026-04-12T21:22:18.006423",
+  "download_filename": "exonware_xwmodels-0.6.0.14.tar.gz",
+  "download_time": "2026-04-25T17:37:33.234845",
   "package_url": "https://pypi.org/project/exonware-xwmodels/"
 }

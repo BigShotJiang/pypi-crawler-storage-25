@@ -1,11 +1,11 @@
 {
   "name": "py-buaa-login",
-  "version": "0.1.0",
+  "version": "0.1.7",
   "summary": "A rather clunky BUAA campus network automation login script (based on Selenium).",
   "author": "GGN_2015",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py_buaa_login-0.1.0.tar.gz",
-  "download_time": "2026-04-19T11:57:19.514225",
+  "download_filename": "py_buaa_login-0.1.7.tar.gz",
+  "download_time": "2026-04-25T17:37:28.734038",
   "package_url": "https://pypi.org/project/py-buaa-login/"
 }

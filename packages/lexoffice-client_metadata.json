@@ -1,0 +1,11 @@
+{
+  "name": "lexoffice-client",
+  "version": "0.2.0",
+  "summary": "A Python client for the Lexoffice API",
+  "author": "James Maguire",
+  "license": null,
+  "home_page": "https://github.com/jvm986/lexoffice-client",
+  "download_filename": "lexoffice_client-0.2.0.tar.gz",
+  "download_time": "2026-04-25T17:37:08.018515",
+  "package_url": "https://pypi.org/project/lexoffice-client/"
+}

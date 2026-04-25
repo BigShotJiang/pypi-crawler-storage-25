@@ -1,0 +1,11 @@
+{
+  "name": "s2r",
+  "version": "0.3.0",
+  "summary": "Convert SLURM submit scripts to Run.ai configurations using AI",
+  "author": "slurm2runai contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "s2r-0.3.0.tar.gz",
+  "download_time": "2026-04-25T17:37:40.844453",
+  "package_url": "https://pypi.org/project/s2r/"
+}

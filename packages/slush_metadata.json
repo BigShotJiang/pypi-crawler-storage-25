@@ -1,11 +1,11 @@
 {
   "name": "slush",
-  "version": "0.1.4",
+  "version": "1.2.0",
   "summary": "A lightweight Python web framework.",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "slush-0.1.4.tar.gz",
-  "download_time": "2026-04-18T02:30:31.332205",
+  "download_filename": "slush-1.2.0.tar.gz",
+  "download_time": "2026-04-25T17:37:04.889044",
   "package_url": "https://pypi.org/project/slush/"
 }
