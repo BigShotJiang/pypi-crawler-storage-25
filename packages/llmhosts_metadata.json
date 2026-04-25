@@ -1,11 +1,11 @@
 {
   "name": "llmhosts",
-  "version": "0.12.0",
+  "version": "0.14.3",
   "summary": "Your Personal AI Cloud -- intelligent proxy, router, and cache for LLMs",
   "author": "LLMHosts Team",
   "license": "FSL-1.1-Apache-2.0",
   "home_page": null,
-  "download_filename": "llmhosts-0.12.0-cp312-cp312-macosx_11_0_arm64.whl",
-  "download_time": "2026-04-05T18:51:15.519500",
+  "download_filename": "llmhosts-0.14.3-cp312-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-25T00:03:38.815705",
   "package_url": "https://pypi.org/project/llmhosts/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tigrbl_engine_bigquery",
-  "version": "0.1.1",
+  "version": "0.1.12",
   "summary": "Tigrbl engine plugin for Google BigQuery.",
   "author": null,
-  "license": "Apache-2.0",
+  "license": null,
   "home_page": null,
-  "download_filename": "tigrbl_engine_bigquery-0.1.1.tar.gz",
-  "download_time": "2026-04-24T22:40:34.250695",
+  "download_filename": "tigrbl_engine_bigquery-0.1.12.tar.gz",
+  "download_time": "2026-04-25T00:03:54.606472",
   "package_url": "https://pypi.org/project/tigrbl_engine_bigquery/"
 }

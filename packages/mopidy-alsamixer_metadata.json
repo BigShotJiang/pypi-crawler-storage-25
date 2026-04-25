@@ -1,0 +1,11 @@
+{
+  "name": "mopidy-alsamixer",
+  "version": "3.0.0",
+  "summary": "Mopidy extension for ALSA volume control",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mopidy_alsamixer-3.0.0.tar.gz",
+  "download_time": "2026-04-25T00:03:32.730044",
+  "package_url": "https://pypi.org/project/mopidy-alsamixer/"
+}

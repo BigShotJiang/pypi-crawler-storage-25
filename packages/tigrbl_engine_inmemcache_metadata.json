@@ -1,11 +1,11 @@
 {
   "name": "tigrbl_engine_inmemcache",
-  "version": "0.1.11.dev1",
+  "version": "0.1.11",
   "summary": "Process-local TTL/LRU cache engine plugin for Tigrbl.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tigrbl_engine_inmemcache-0.1.11.dev1.tar.gz",
-  "download_time": "2026-04-24T22:40:44.181326",
+  "download_filename": "tigrbl_engine_inmemcache-0.1.11.tar.gz",
+  "download_time": "2026-04-25T00:03:40.446777",
   "package_url": "https://pypi.org/project/tigrbl_engine_inmemcache/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tigrbl_engine_membloom",
-  "version": "0.1.11.dev1",
+  "version": "0.1.11",
   "summary": "Process-local Bloom filter engine plugin for Tigrbl with optional rotating TTL windows.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tigrbl_engine_membloom-0.1.11.dev1.tar.gz",
-  "download_time": "2026-04-24T22:40:41.452164",
+  "download_filename": "tigrbl_engine_membloom-0.1.11.tar.gz",
+  "download_time": "2026-04-25T00:03:46.994271",
   "package_url": "https://pypi.org/project/tigrbl_engine_membloom/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tigrbl_engine_memqueue",
-  "version": "0.1.11.dev1",
+  "version": "0.1.11",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tigrbl_engine_memqueue-0.1.11.dev1.tar.gz",
-  "download_time": "2026-04-24T22:40:49.085589",
+  "download_filename": "tigrbl_engine_memqueue-0.1.11.tar.gz",
+  "download_time": "2026-04-25T00:03:45.902018",
   "package_url": "https://pypi.org/project/tigrbl_engine_memqueue/"
 }

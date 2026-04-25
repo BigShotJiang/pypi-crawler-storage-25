@@ -1,11 +1,11 @@
 {
   "name": "valtron-core",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "LLM call optimization across various providers (online and local models)",
   "author": "InferLink",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "valtron_core-0.1.2.tar.gz",
-  "download_time": "2026-04-23T23:17:12.459715",
+  "download_filename": "valtron_core-0.1.4.tar.gz",
+  "download_time": "2026-04-25T00:04:01.681639",
   "package_url": "https://pypi.org/project/valtron-core/"
 }
