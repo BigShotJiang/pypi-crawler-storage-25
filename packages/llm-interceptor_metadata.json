@@ -1,0 +1,11 @@
+{
+  "name": "llm-interceptor",
+  "version": "2.9.2",
+  "summary": "Intercept and analyze LLM traffic from AI coding tools",
+  "author": "chouzz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_interceptor-2.9.2.tar.gz",
+  "download_time": "2026-04-25T23:49:29.898802",
+  "package_url": "https://pypi.org/project/llm-interceptor/"
+}

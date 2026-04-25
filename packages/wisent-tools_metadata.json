@@ -1,11 +1,11 @@
 {
   "name": "wisent-tools",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "Operational scripts and benchmark-evaluation runners for the wisent package family",
   "author": "Lukasz Bartoszcze and the Wisent Team",
   "license": null,
   "home_page": "https://github.com/wisent-ai/wisent-tools",
-  "download_filename": "wisent_tools-0.1.9-py3-none-any.whl",
-  "download_time": "2026-04-25T21:29:16.771488",
+  "download_filename": "wisent_tools-0.1.11.tar.gz",
+  "download_time": "2026-04-25T23:49:40.605850",
   "package_url": "https://pypi.org/project/wisent-tools/"
 }

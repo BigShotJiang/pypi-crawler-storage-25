@@ -1,11 +1,11 @@
 {
   "name": "sapphyre-tools",
-  "version": "0.10.13",
+  "version": "0.10.17",
   "summary": null,
   "author": "Michael Valentine",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "sapphyre_tools-0.10.13-cp310-cp310-manylinux_2_28_x86_64.whl",
-  "download_time": "2026-04-20T22:10:08.863508",
+  "download_filename": "sapphyre_tools-0.10.17-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2026-04-25T23:49:55.419387",
   "package_url": "https://pypi.org/project/sapphyre-tools/"
 }

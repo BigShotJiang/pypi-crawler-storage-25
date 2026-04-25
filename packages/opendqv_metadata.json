@@ -1,11 +1,11 @@
 {
   "name": "opendqv",
-  "version": "2.3.5",
+  "version": "2.3.7",
   "summary": "OpenDQV Core — open-source, contract-driven data quality validation engine for data pipelines and API boundaries",
   "author": "Sunny Sharma",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opendqv-2.3.5.tar.gz",
-  "download_time": "2026-04-25T23:15:41.065444",
+  "download_filename": "opendqv-2.3.7.tar.gz",
+  "download_time": "2026-04-25T23:49:22.293566",
   "package_url": "https://pypi.org/project/opendqv/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "firmware-fortress",
+  "version": "1.0.0",
+  "summary": "Autonomous firmware supply chain security — CVE scanning, incident detection, CI/CD gating, and email forensics",
+  "author": "Firmware Fortress Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "firmware_fortress-1.0.0.tar.gz",
+  "download_time": "2026-04-25T23:49:44.319516",
+  "package_url": "https://pypi.org/project/firmware-fortress/"
+}

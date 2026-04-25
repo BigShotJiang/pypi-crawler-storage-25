@@ -1,0 +1,11 @@
+{
+  "name": "tunc-clm",
+  "version": "0.1.0",
+  "summary": "Parser and v3.0 trim-aware validator for CLM (Claude Memory Format)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tunc_clm-0.1.0.tar.gz",
+  "download_time": "2026-04-25T23:49:50.053802",
+  "package_url": "https://pypi.org/project/tunc-clm/"
+}

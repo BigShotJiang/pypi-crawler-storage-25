@@ -1,11 +1,11 @@
 {
   "name": "cobre-python",
-  "version": "0.4.4",
+  "version": "0.5.0",
   "summary": "High-performance SDDP solver for hydrothermal dispatch — Python bindings for the Cobre ecosystem",
   "author": null,
   "license": null,
   "home_page": "https://cobre-rs.github.io/cobre-docs/",
-  "download_filename": "cobre_python-0.4.4-cp312-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2026-04-14T17:58:24.471658",
+  "download_filename": "cobre_python-0.5.0-cp312-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-25T23:49:37.219766",
   "package_url": "https://pypi.org/project/cobre-python/"
 }

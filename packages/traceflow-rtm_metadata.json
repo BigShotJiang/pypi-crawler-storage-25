@@ -1,11 +1,11 @@
 {
   "name": "traceflow-rtm",
-  "version": "0.0.33",
+  "version": "0.0.35",
   "summary": "A Python library for managing software development documentation and testing that automates the generation of PDFs, validation packs, and traceability matrices.",
   "author": "Bioxydyn Ltd",
   "license": null,
   "home_page": null,
-  "download_filename": "traceflow_rtm-0.0.33.tar.gz",
-  "download_time": "2026-04-25T19:20:03.278730",
+  "download_filename": "traceflow_rtm-0.0.35.tar.gz",
+  "download_time": "2026-04-25T23:49:54.323142",
   "package_url": "https://pypi.org/project/traceflow-rtm/"
 }

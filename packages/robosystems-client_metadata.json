@@ -1,11 +1,11 @@
 {
   "name": "robosystems-client",
-  "version": "0.3.3",
-  "summary": "Python Client for RoboSystems financial graph database API",
+  "version": "0.3.14",
+  "summary": "Python client library for RoboSystems Financial Knowledge Graph API",
   "author": "RFS LLC",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "robosystems_client-0.3.3.tar.gz",
-  "download_time": "2026-04-16T08:10:20.314605",
+  "download_filename": "robosystems_client-0.3.14.tar.gz",
+  "download_time": "2026-04-25T23:49:42.745668",
   "package_url": "https://pypi.org/project/robosystems-client/"
 }
