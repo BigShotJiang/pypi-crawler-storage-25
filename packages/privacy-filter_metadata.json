@@ -1,0 +1,11 @@
+{
+  "name": "privacy-filter",
+  "version": "0.1.0",
+  "summary": "PII redaction using the openai/privacy-filter token-classification model",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "privacy_filter-0.1.0.tar.gz",
+  "download_time": "2026-04-25T06:30:59.602376",
+  "package_url": "https://pypi.org/project/privacy-filter/"
+}

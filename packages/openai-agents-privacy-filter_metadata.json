@@ -1,0 +1,11 @@
+{
+  "name": "openai-agents-privacy-filter",
+  "version": "0.1.0",
+  "summary": "PII redaction guardrails for OpenAI Agents SDK",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openai_agents_privacy_filter-0.1.0.tar.gz",
+  "download_time": "2026-04-25T06:30:56.437646",
+  "package_url": "https://pypi.org/project/openai-agents-privacy-filter/"
+}

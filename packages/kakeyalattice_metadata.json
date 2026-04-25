@@ -1,0 +1,11 @@
+{
+  "name": "kakeyalattice",
+  "version": "1.5.0",
+  "summary": "Nested-lattice KV-cache compression for LLM inference: Zamir-Feder D4 and E8 variants with shaping gain over scalar quantisation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kakeyalattice-1.5.0.tar.gz",
+  "download_time": "2026-04-25T06:31:09.408650",
+  "package_url": "https://pypi.org/project/kakeyalattice/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "caracal-core",
+  "version": "0.8.0",
+  "summary": "Host orchestrator for the Caracal pre-execution authority enforcement runtime",
+  "author": "Caracal Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "caracal_core-0.8.0.tar.gz",
+  "download_time": "2026-04-25T06:31:14.027993",
+  "package_url": "https://pypi.org/project/caracal-core/"
+}

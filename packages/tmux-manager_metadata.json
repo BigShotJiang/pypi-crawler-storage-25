@@ -1,0 +1,11 @@
+{
+  "name": "tmux-manager",
+  "version": "1.0.0",
+  "summary": "Manage tmux sessions on local and remote machines",
+  "author": "mahsoommoosa42",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "tmux_manager-1.0.0.tar.gz",
+  "download_time": "2026-04-25T06:30:46.109633",
+  "package_url": "https://pypi.org/project/tmux-manager/"
+}

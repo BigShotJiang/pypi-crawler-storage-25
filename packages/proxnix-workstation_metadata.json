@@ -1,11 +1,11 @@
 {
   "name": "proxnix-workstation",
-  "version": "0.2.0",
+  "version": "0.5.5",
   "summary": "Workstation CLI and TUI tooling for proxnix relay-cache publishing and secrets management",
   "author": "Denis Maier",
   "license": null,
   "home_page": null,
-  "download_filename": "proxnix_workstation-0.2.0.tar.gz",
-  "download_time": "2026-04-22T18:54:32.591151",
+  "download_filename": "proxnix_workstation-0.5.5.tar.gz",
+  "download_time": "2026-04-25T06:31:22.240883",
   "package_url": "https://pypi.org/project/proxnix-workstation/"
 }

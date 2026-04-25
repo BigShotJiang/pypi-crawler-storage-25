@@ -1,0 +1,11 @@
+{
+  "name": "qlfactor",
+  "version": "0.1.0",
+  "summary": "A 股因子研究工具：Tushare 日线数据下载与因子分析引擎（IC、分组收益、换手率、成本扣减、HTML 报告）",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qlfactor-0.1.0.tar.gz",
+  "download_time": "2026-04-25T06:31:19.679997",
+  "package_url": "https://pypi.org/project/qlfactor/"
+}

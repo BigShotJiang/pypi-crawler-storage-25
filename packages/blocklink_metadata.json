@@ -1,0 +1,11 @@
+{
+  "name": "blocklink",
+  "version": "0.1.4",
+  "summary": "A distributed node network framework for secure registration and instruction transmission",
+  "author": "Derek X",
+  "license": "MIT",
+  "home_page": "https://github.com/derek44554/BlockLink",
+  "download_filename": "blocklink-0.1.4.tar.gz",
+  "download_time": "2026-04-25T06:30:52.294833",
+  "package_url": "https://pypi.org/project/blocklink/"
+}
