@@ -1,11 +1,11 @@
 {
   "name": "csrd-context",
-  "version": "0.1.23",
+  "version": "0.1.30",
   "summary": "Request context, header utilities, and logging middleware for FastAPI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd_context-0.1.23.tar.gz",
-  "download_time": "2026-04-25T02:32:59.443511",
+  "download_filename": "csrd_context-0.1.30.tar.gz",
+  "download_time": "2026-04-25T16:03:44.802000",
   "package_url": "https://pypi.org/project/csrd-context/"
 }

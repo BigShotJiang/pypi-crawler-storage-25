@@ -1,11 +1,11 @@
 {
   "name": "pyknic",
-  "version": "0.0.2.2",
+  "version": "0.0.2.3",
   "summary": "Small library for some cases",
   "author": "Ildar Gafurov",
   "license": "GNU Lesser General Public License v3",
   "home_page": "https://github.com/a1ezzz/pyknic",
-  "download_filename": "pyknic-0.0.2.2.tar.gz",
-  "download_time": "2026-04-25T14:36:40.146990",
+  "download_filename": "pyknic-0.0.2.3.tar.gz",
+  "download_time": "2026-04-25T16:03:09.091503",
   "package_url": "https://pypi.org/project/pyknic/"
 }

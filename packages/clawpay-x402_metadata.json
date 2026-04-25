@@ -1,0 +1,11 @@
+{
+  "name": "clawpay-x402",
+  "version": "0.1.0",
+  "summary": "ClawPay × x402 client + server SDK — China-localized payment schemes (clawpay-cny, clawpay-dcep, clawpay-cross) on top of the x402 HTTP 402 protocol.",
+  "author": "erc8004.cn community",
+  "license": "CC0-1.0",
+  "home_page": null,
+  "download_filename": "clawpay_x402-0.1.0.tar.gz",
+  "download_time": "2026-04-25T16:03:31.126939",
+  "package_url": "https://pypi.org/project/clawpay-x402/"
+}

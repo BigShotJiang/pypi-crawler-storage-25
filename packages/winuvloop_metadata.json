@@ -1,0 +1,11 @@
+{
+  "name": "winuvloop",
+  "version": "0.2.3",
+  "summary": "Use uvloop on Linux/macOS and winloop on Windows through one small asyncio compatibility import.",
+  "author": "Aviad Rozenhek",
+  "license": null,
+  "home_page": null,
+  "download_filename": "winuvloop-0.2.3.tar.gz",
+  "download_time": "2026-04-25T16:03:27.028921",
+  "package_url": "https://pypi.org/project/winuvloop/"
+}

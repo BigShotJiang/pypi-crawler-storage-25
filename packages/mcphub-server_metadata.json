@@ -1,0 +1,11 @@
+{
+  "name": "mcphub-server",
+  "version": "3.12.0",
+  "summary": "AI-native management hub for WordPress, WooCommerce, and self-hosted services via Model Context Protocol (MCP)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcphub_server-3.12.0.tar.gz",
+  "download_time": "2026-04-25T16:03:54.577416",
+  "package_url": "https://pypi.org/project/mcphub-server/"
+}

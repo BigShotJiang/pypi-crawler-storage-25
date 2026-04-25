@@ -1,0 +1,11 @@
+{
+  "name": "byspec",
+  "version": "0.3",
+  "summary": "BFOSC and YFOSC Spectra Data Reduction Pipeline",
+  "author": "Deyang Song, Zichong Zhang",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "byspec-0.3.tar.gz",
+  "download_time": "2026-04-25T16:03:26.007971",
+  "package_url": "https://pypi.org/project/byspec/"
+}

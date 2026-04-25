@@ -1,11 +1,11 @@
 {
   "name": "latencyx",
-  "version": "0.2.0",
-  "summary": "Zero-config latency tracking for FastAPI (and later more)",
+  "version": "0.3.0",
+  "summary": "Zero-config latency tracking for FastAPI and Flask",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "latencyx-0.2.0.tar.gz",
-  "download_time": "2026-04-22T06:25:52.212595",
+  "download_filename": "latencyx-0.3.0.tar.gz",
+  "download_time": "2026-04-25T16:03:46.869394",
   "package_url": "https://pypi.org/project/latencyx/"
 }

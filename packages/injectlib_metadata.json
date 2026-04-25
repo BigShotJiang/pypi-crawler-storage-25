@@ -1,0 +1,11 @@
+{
+  "name": "injectlib",
+  "version": "0.0.1",
+  "summary": "A set of Python modules to inject DLLs into applications for the Microsoft Windows",
+  "author": "Vasily Ryabov, Ilya Naumov, Boris Galochkin, Alexander Makarov",
+  "license": "BSD 3-clause",
+  "home_page": "https://github.com/pywinauto/injectlib",
+  "download_filename": "injectlib-0.0.1.tar.gz",
+  "download_time": "2026-04-25T16:03:56.693443",
+  "package_url": "https://pypi.org/project/injectlib/"
+}

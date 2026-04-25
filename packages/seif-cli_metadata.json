@@ -1,11 +1,11 @@
 {
   "name": "seif-cli",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Measure AI output quality, protect sensitive data, watch your AI environment resonate. Quality Gate, Classification, Sentinel & Auto-Healing, SEIF OS.",
   "author": "André Cunha Antero de Carvalho",
   "license": "CC-BY-NC-SA-4.0",
   "home_page": null,
-  "download_filename": "seif_cli-0.4.1.tar.gz",
-  "download_time": "2026-04-25T02:33:21.636632",
+  "download_filename": "seif_cli-0.4.2.tar.gz",
+  "download_time": "2026-04-25T16:03:29.592236",
   "package_url": "https://pypi.org/project/seif-cli/"
 }

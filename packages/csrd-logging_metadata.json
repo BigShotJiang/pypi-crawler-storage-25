@@ -1,11 +1,11 @@
 {
   "name": "csrd-logging",
-  "version": "0.1.23",
+  "version": "0.1.30",
   "summary": "Context-enriched logging mixin with optional auto-instrumentation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd_logging-0.1.23.tar.gz",
-  "download_time": "2026-04-25T02:32:57.902114",
+  "download_filename": "csrd_logging-0.1.30.tar.gz",
+  "download_time": "2026-04-25T16:03:42.746501",
   "package_url": "https://pypi.org/project/csrd-logging/"
 }
