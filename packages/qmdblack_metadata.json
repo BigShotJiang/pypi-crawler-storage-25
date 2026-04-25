@@ -1,0 +1,11 @@
+{
+  "name": "qmdblack",
+  "version": "0.1.0",
+  "summary": "Format Python code blocks in Quarto Markdown (.qmd) files using Black",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qmdblack-0.1.0.tar.gz",
+  "download_time": "2026-04-25T20:45:26.046720",
+  "package_url": "https://pypi.org/project/qmdblack/"
+}

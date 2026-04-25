@@ -1,11 +1,11 @@
 {
   "name": "io-adapters",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "summary": "Dependency Injection Adapters",
   "author": "ed cuss",
   "license": null,
   "home_page": null,
-  "download_filename": "io_adapters-0.3.2.tar.gz",
-  "download_time": "2026-04-25T20:04:37.935012",
+  "download_filename": "io_adapters-0.3.4.tar.gz",
+  "download_time": "2026-04-25T20:45:44.444391",
   "package_url": "https://pypi.org/project/io-adapters/"
 }

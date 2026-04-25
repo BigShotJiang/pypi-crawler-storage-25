@@ -1,0 +1,11 @@
+{
+  "name": "quickbase-extract",
+  "version": "0.2.0",
+  "summary": "Extract and cache Quickbase report data with built-in error handling and S3 support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quickbase_extract-0.2.0.tar.gz",
+  "download_time": "2026-04-25T20:45:18.192768",
+  "package_url": "https://pypi.org/project/quickbase-extract/"
+}

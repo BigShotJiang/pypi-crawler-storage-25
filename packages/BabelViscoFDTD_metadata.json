@@ -1,0 +1,11 @@
+{
+  "name": "BabelViscoFDTD",
+  "version": "1.2.4",
+  "summary": "GPU/CPU 3D FDTD solution of viscoelastic equation",
+  "author": null,
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "babelviscofdtd-1.2.4.tar.gz",
+  "download_time": "2026-04-25T20:45:03.702658",
+  "package_url": "https://pypi.org/project/BabelViscoFDTD/"
+}

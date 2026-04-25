@@ -1,11 +1,11 @@
 {
   "name": "b12x",
-  "version": "0.9.7",
+  "version": "0.10.0",
   "summary": "Unapologetically SM120-only CuTe DSL kernels for NVFP4 GEMM and MoE.",
   "author": "Luke",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "b12x-0.9.7.tar.gz",
-  "download_time": "2026-04-21T18:53:13.957011",
+  "download_filename": "b12x-0.10.0.tar.gz",
+  "download_time": "2026-04-25T20:45:38.644688",
   "package_url": "https://pypi.org/project/b12x/"
 }

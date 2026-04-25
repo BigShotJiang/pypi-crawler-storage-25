@@ -1,11 +1,11 @@
 {
   "name": "ozekai",
-  "version": "2.0.7",
-  "summary": "Ozekai GPU CLI — connect, disconnect, and upload to your GPU machine",
+  "version": "2.1.2",
+  "summary": "Ozekai GPU CLI — attach and upload to your running GPU machine",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ozekai-2.0.7.tar.gz",
-  "download_time": "2026-04-19T23:04:48.027657",
+  "download_filename": "ozekai-2.1.2.tar.gz",
+  "download_time": "2026-04-25T20:45:18.711996",
   "package_url": "https://pypi.org/project/ozekai/"
 }
