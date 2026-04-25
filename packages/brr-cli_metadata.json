@@ -1,11 +1,11 @@
 {
   "name": "brr-cli",
-  "version": "0.14.2",
+  "version": "0.16.0",
   "summary": "Research infrastructure management tooling.",
   "author": "Jon Carter",
   "license": null,
   "home_page": null,
-  "download_filename": "brr_cli-0.14.2.tar.gz",
-  "download_time": "2026-04-21T15:50:03.022383",
+  "download_filename": "brr_cli-0.16.0.tar.gz",
+  "download_time": "2026-04-25T14:36:30.268546",
   "package_url": "https://pypi.org/project/brr-cli/"
 }

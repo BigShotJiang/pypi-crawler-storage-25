@@ -1,0 +1,11 @@
+{
+  "name": "lightspot",
+  "version": "1.0b4",
+  "summary": "Modelization of light curves from spotted stars",
+  "author": "Eduardo Nunes",
+  "license": "MIT",
+  "home_page": "https://github.com/dioph/lightspot",
+  "download_filename": "lightspot-1.0b4.tar.gz",
+  "download_time": "2026-04-25T14:36:23.281462",
+  "package_url": "https://pypi.org/project/lightspot/"
+}

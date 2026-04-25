@@ -1,11 +1,11 @@
 {
   "name": "polygenic",
-  "version": "2.4.3",
+  "version": "2.5.1",
   "summary": "Polygenic score toolkit",
   "author": "Marcin Piechota, Wojciech Galan",
   "license": "Intelliseq dual licenses this package. For commercial use, please contact [contact @ intelliseq.com](mailto:contact@intelliseq.com). For non-commercial use, this license permits use of the software only by government agencies, schools, universities, non-profit organizations or individuals on projects that do not receive external funding other than government research grants and contracts. Any other use requires a commercial license. For the full license, please see [LICENSE.md](https://github.com/intelliseq/polygenic/blob/master/LICENSE.md), in this source repository.",
   "home_page": "https://github.com/marpiech/polygenic",
-  "download_filename": "polygenic-2.4.3.tar.gz",
-  "download_time": "2026-04-25T10:50:28.333514",
+  "download_filename": "polygenic-2.5.1.tar.gz",
+  "download_time": "2026-04-25T14:36:20.485732",
   "package_url": "https://pypi.org/project/polygenic/"
 }

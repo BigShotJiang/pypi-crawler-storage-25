@@ -1,11 +1,11 @@
 {
   "name": "rigx",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "summary": "A Nix-backed declarative build system",
   "author": "Massimo Di Pierro",
   "license": null,
   "home_page": null,
-  "download_filename": "rigx-0.3.8.tar.gz",
-  "download_time": "2026-04-25T13:47:51.396284",
+  "download_filename": "rigx-0.3.9.tar.gz",
+  "download_time": "2026-04-25T14:36:32.358844",
   "package_url": "https://pypi.org/project/rigx/"
 }

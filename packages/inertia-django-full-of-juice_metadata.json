@@ -1,0 +1,11 @@
+{
+  "name": "inertia-django-full-of-juice",
+  "version": "0.2.0",
+  "summary": "It's an opinionated Django adapter for the InertiaJS framework",
+  "author": "Tinuvi",
+  "license": "MIT",
+  "home_page": "https://github.com/tinuvi/inertia-django-full-of-juice",
+  "download_filename": "inertia_django_full_of_juice-0.2.0.tar.gz",
+  "download_time": "2026-04-25T14:37:05.691498",
+  "package_url": "https://pypi.org/project/inertia-django-full-of-juice/"
+}

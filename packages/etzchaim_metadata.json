@@ -1,11 +1,11 @@
 {
   "name": "etzchaim",
-  "version": "0.2.7",
+  "version": "0.2.11",
   "summary": "AI architecture grounded in Lurianic Kabbalistic discipline — 10 Sephirot, 4 Partzufim, 13 Tikkunei Dikna, 1696 doctrinal assertions. One-command install via Docker Compose.",
   "author": "Etz Chaim AI Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "etzchaim-0.2.7.tar.gz",
-  "download_time": "2026-04-25T13:47:39.604607",
+  "download_filename": "etzchaim-0.2.11.tar.gz",
+  "download_time": "2026-04-25T14:36:46.472738",
   "package_url": "https://pypi.org/project/etzchaim/"
 }

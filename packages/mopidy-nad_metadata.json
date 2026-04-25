@@ -1,0 +1,11 @@
+{
+  "name": "mopidy-nad",
+  "version": "4.0.0",
+  "summary": "Mopidy extension for controlling volume on a NAD amplifier",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mopidy_nad-4.0.0.tar.gz",
+  "download_time": "2026-04-25T14:36:23.792015",
+  "package_url": "https://pypi.org/project/mopidy-nad/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "chub-guard-init",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "summary": "One-command setup for chub_guard - the AI SDK deprecation linter",
   "author": "Rhea Laloo",
   "license": null,
   "home_page": null,
-  "download_filename": "chub_guard_init-1.0.3.tar.gz",
-  "download_time": "2026-04-14T10:46:09.602057",
+  "download_filename": "chub_guard_init-1.1.1.tar.gz",
+  "download_time": "2026-04-25T14:36:55.222637",
   "package_url": "https://pypi.org/project/chub-guard-init/"
 }
