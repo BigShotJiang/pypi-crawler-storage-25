@@ -1,0 +1,11 @@
+{
+  "name": "magpie-eval",
+  "version": "0.0.1",
+  "summary": "Python framework for measuring hallucination in AI code review by verifying claims against source.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "magpie_eval-0.0.1.tar.gz",
+  "download_time": "2026-04-25T09:09:39.979314",
+  "package_url": "https://pypi.org/project/magpie-eval/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mptool",
+  "version": "0.1.4",
+  "summary": "Enumeration and sampling of minimal pathways in metabolic (sub)networks.",
+  "author": "Ove Øyås",
+  "license": null,
+  "home_page": "https://gitlab.com/csb.ethz/mptool",
+  "download_filename": "mptool-0.1.4.tar.gz",
+  "download_time": "2026-04-25T09:10:06.370580",
+  "package_url": "https://pypi.org/project/mptool/"
+}

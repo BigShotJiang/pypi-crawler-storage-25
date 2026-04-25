@@ -1,11 +1,11 @@
 {
   "name": "ai-rulez",
-  "version": "4.0.2",
+  "version": "4.0.5",
   "summary": "Complete AI development workflow for 19+ tools. Ships with builtin rules, agents, and conventions. Generate native configs for Claude, Cursor, Copilot, Windsurf, Gemini, Codex and more from a single source.",
   "author": "Na'aman Hirschfeld",
   "license": null,
   "home_page": "https://github.com/Goldziher/ai-rulez",
-  "download_filename": "ai_rulez-4.0.2.tar.gz",
-  "download_time": "2026-04-24T11:41:58.179815",
+  "download_filename": "ai_rulez-4.0.5.tar.gz",
+  "download_time": "2026-04-25T09:09:40.998137",
   "package_url": "https://pypi.org/project/ai-rulez/"
 }

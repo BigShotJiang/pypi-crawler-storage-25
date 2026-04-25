@@ -1,0 +1,11 @@
+{
+  "name": "tmuxx",
+  "version": "0.3.23",
+  "summary": "TUI for humans. Deterministic agent CLI for AI workflows. One interface to see, control, and automate tmux.",
+  "author": "Daniel Tang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tmuxx-0.3.23.tar.gz",
+  "download_time": "2026-04-25T09:10:00.621027",
+  "package_url": "https://pypi.org/project/tmuxx/"
+}

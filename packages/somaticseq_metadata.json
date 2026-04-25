@@ -1,0 +1,11 @@
+{
+  "name": "somaticseq",
+  "version": "3.12.0",
+  "summary": "SomaticSeq: An ensemble approach to accurately detect somatic mutations using SomaticSeq",
+  "author": "Li Tai Fang, Pegah Tootoonchi Afshar, Aparna Chhibber, Marghoob Mohiyuddin, John C. Mu, Greg Gibeling, Sharon Barr, Narges Bani Asadi, Hugo Y.K. Lam",
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "somaticseq-3.12.0.tar.gz",
+  "download_time": "2026-04-25T09:09:42.526156",
+  "package_url": "https://pypi.org/project/somaticseq/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qqkrls",
+  "version": "1.0.0",
+  "summary": "Quantile-on-Quantile Kernel-Based Regularized Least Squares — A Python implementation of KRLS (Hainmueller & Hazlett, 2014) and QQKRLS (Adebayo et al., 2024) with publication-quality MATLAB-style visualizations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qqkrls-1.0.0.tar.gz",
+  "download_time": "2026-04-25T09:09:39.471838",
+  "package_url": "https://pypi.org/project/qqkrls/"
+}

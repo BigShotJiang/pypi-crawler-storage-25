@@ -1,0 +1,11 @@
+{
+  "name": "imstr",
+  "version": "0.1.2",
+  "summary": "Compact serialization of NumPy uint8 arrays via WebP + base64",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imstr-0.1.2.tar.gz",
+  "download_time": "2026-04-25T09:10:14.685575",
+  "package_url": "https://pypi.org/project/imstr/"
+}
