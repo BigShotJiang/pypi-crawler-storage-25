@@ -1,11 +1,11 @@
 {
   "name": "pystatistics",
-  "version": "2.2.0",
+  "version": "3.0.1",
   "summary": "GPU-accelerated statistical computing for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pystatistics-2.2.0.tar.gz",
-  "download_time": "2026-04-20T01:16:43.564730",
+  "download_filename": "pystatistics-3.0.1.tar.gz",
+  "download_time": "2026-04-25T02:33:01.002648",
   "package_url": "https://pypi.org/project/pystatistics/"
 }

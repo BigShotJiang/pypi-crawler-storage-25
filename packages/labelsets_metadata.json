@@ -1,0 +1,11 @@
+{
+  "name": "labelsets",
+  "version": "0.3.0",
+  "summary": "Official Python SDK for LabelSets — dataset scoring, LQS v3.1 cert verification, marketplace client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "labelsets-0.3.0.tar.gz",
+  "download_time": "2026-04-25T02:33:27.445928",
+  "package_url": "https://pypi.org/project/labelsets/"
+}

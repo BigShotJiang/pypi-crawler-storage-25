@@ -1,11 +1,11 @@
 {
   "name": "weightscope",
-  "version": "0.3.1",
-  "summary": "X-ray for AI model weights — sparse tensor diff, delta-as-patch (.wsp), and plain-English interpretation for any two HuggingFace models.",
+  "version": "0.4.2",
+  "summary": "X-ray for AI model weights — sparse tensor diff, delta-as-patch (.wsp), plain-English interpretation, and lineage detection for HuggingFace models.",
   "author": "Weightscope",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "weightscope-0.3.1.tar.gz",
-  "download_time": "2026-04-24T19:01:56.346653",
+  "download_filename": "weightscope-0.4.2.tar.gz",
+  "download_time": "2026-04-25T02:33:09.938782",
   "package_url": "https://pypi.org/project/weightscope/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "igrep-tme",
-  "version": "0.1.12",
+  "version": "0.1.21",
   "summary": "Agent-first semantic grep — filesystem-native retrieval",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "igrep_tme-0.1.12-py3-none-any.whl",
-  "download_time": "2026-04-21T07:57:38.735200",
+  "download_filename": "igrep_tme-0.1.21-cp312-none-any.whl",
+  "download_time": "2026-04-25T02:33:14.760023",
   "package_url": "https://pypi.org/project/igrep-tme/"
 }

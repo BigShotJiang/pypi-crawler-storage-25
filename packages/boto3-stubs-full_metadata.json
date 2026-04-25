@@ -1,11 +1,11 @@
 {
   "name": "boto3-stubs-full",
-  "version": "1.42.91",
-  "summary": "All-in-one type annotations for boto3 1.42.91 generated with mypy-boto3-builder 8.12.0",
+  "version": "1.42.96",
+  "summary": "All-in-one type annotations for boto3 1.42.96 generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "boto3_stubs_full-1.42.91.tar.gz",
-  "download_time": "2026-04-18T02:31:05.611621",
+  "download_filename": "boto3_stubs_full-1.42.96.tar.gz",
+  "download_time": "2026-04-25T02:33:23.341538",
   "package_url": "https://pypi.org/project/boto3-stubs-full/"
 }

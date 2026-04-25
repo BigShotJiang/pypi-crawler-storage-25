@@ -1,0 +1,11 @@
+{
+  "name": "archimedes-client",
+  "version": "0.1.11",
+  "summary": "Cliente Python para o RPA se comunicar com a  API do Orquestrador Archimedes.",
+  "author": "Gabriel Moreira da Silva",
+  "license": null,
+  "home_page": "https://github.com/gabriell404/archimedes-client",
+  "download_filename": "archimedes_client-0.1.11-py3-none-any.whl",
+  "download_time": "2026-04-25T02:33:31.728105",
+  "package_url": "https://pypi.org/project/archimedes-client/"
+}

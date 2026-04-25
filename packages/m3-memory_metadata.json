@@ -1,11 +1,11 @@
 {
   "name": "m3-memory",
-  "version": "2026.4.24.5",
+  "version": "2026.4.24.8",
   "summary": "Local-first persistent memory for MCP agents — 66 tools, 89% LongMemEval, hybrid search, GDPR, zero cloud",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "m3_memory-2026.4.24.5.tar.gz",
-  "download_time": "2026-04-24T17:58:13.590752",
+  "download_filename": "m3_memory-2026.4.24.8.tar.gz",
+  "download_time": "2026-04-25T02:33:04.134474",
   "package_url": "https://pypi.org/project/m3-memory/"
 }

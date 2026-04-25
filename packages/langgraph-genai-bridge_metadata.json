@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-genai-bridge",
+  "version": "0.1.5",
+  "summary": "Native Google GenAI SDK integration for LangGraph with context caching, tool auto-conversion, and bidirectional message translation.",
+  "author": "Pierre Samson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langgraph_genai_bridge-0.1.5.tar.gz",
+  "download_time": "2026-04-25T02:33:07.790262",
+  "package_url": "https://pypi.org/project/langgraph-genai-bridge/"
+}
