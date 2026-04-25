@@ -1,11 +1,11 @@
 {
   "name": "vaultlayer",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "AI compute arbitrage CLI — move GPU training jobs between clouds automatically",
   "author": "VaultLayer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vaultlayer-0.1.0.tar.gz",
-  "download_time": "2026-04-25T09:09:44.564454",
+  "download_filename": "vaultlayer-0.1.2.tar.gz",
+  "download_time": "2026-04-25T10:50:08.632602",
   "package_url": "https://pypi.org/project/vaultlayer/"
 }

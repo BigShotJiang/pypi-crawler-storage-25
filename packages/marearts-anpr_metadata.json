@@ -1,11 +1,11 @@
 {
   "name": "marearts-anpr",
-  "version": "3.8.3",
+  "version": "3.9.1",
   "summary": "MareArts ANPR (Automatic Number Plate Recognition) library",
   "author": "MareArts",
   "license": null,
   "home_page": "https://www.marearts.com",
-  "download_filename": "marearts_anpr-3.8.3-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2026-04-17T22:07:31.578047",
+  "download_filename": "marearts_anpr-3.9.1-cp310-cp310-manylinux2014_aarch64.manylinux_2_17_aarch64.whl",
+  "download_time": "2026-04-25T10:50:08.118413",
   "package_url": "https://pypi.org/project/marearts-anpr/"
 }

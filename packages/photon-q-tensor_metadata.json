@@ -1,0 +1,11 @@
+{
+  "name": "photon-q-tensor",
+  "version": "1.0.0",
+  "summary": "PHOTON-Q: Neural Wavefront Intelligence for Phase-Coherent Quantum-Optical Systems",
+  "author": "Samir Baladi",
+  "license": "MIT",
+  "home_page": "https://photon-q.netlify.app",
+  "download_filename": "photon_q_tensor-1.0.0.tar.gz",
+  "download_time": "2026-04-25T10:50:17.017243",
+  "package_url": "https://pypi.org/project/photon-q-tensor/"
+}

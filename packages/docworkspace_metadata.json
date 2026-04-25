@@ -1,0 +1,11 @@
+{
+  "name": "docworkspace",
+  "version": "0.2.5",
+  "summary": "A workspace library for managing Polars dataframes with parent-child relationships and lazy evaluation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docworkspace-0.2.5.tar.gz",
+  "download_time": "2026-04-25T10:50:10.164285",
+  "package_url": "https://pypi.org/project/docworkspace/"
+}

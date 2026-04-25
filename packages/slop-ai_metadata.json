@@ -1,11 +1,11 @@
 {
   "name": "slop-ai",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Python SDK for the SLOP protocol — let AI observe and interact with your app's state",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "slop_ai-0.1.0.tar.gz",
-  "download_time": "2026-04-25T09:09:36.163821",
+  "download_filename": "slop_ai-0.2.0.tar.gz",
+  "download_time": "2026-04-25T10:50:07.087604",
   "package_url": "https://pypi.org/project/slop-ai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "calcnook",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "The personal finance brain. 22 calculations across 7 countries + Sharia-compliant module. Used by humans, websites, and AI agents.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "calcnook-0.1.0.tar.gz",
-  "download_time": "2026-04-25T09:59:41.702482",
+  "download_filename": "calcnook-0.1.1.tar.gz",
+  "download_time": "2026-04-25T10:50:20.617000",
   "package_url": "https://pypi.org/project/calcnook/"
 }

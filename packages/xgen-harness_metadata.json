@@ -1,11 +1,11 @@
 {
   "name": "xgen-harness",
-  "version": "0.19.0",
-  "summary": "XGEN Harness — Policy Gate: 선언형 Guard 체인 + 4 훅 포인트 + entry_points Guard 플러그인 + Stage machine-only 모델",
+  "version": "0.26.1",
+  "summary": "XGEN Harness — v0.26.0 + s06_context.files 필드 부활 (metadata_filter.file_name 자동 라우팅, 진짜 wiring). frontend 의 files multi_select UI 가 의미 있게 작동.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xgen_harness-0.19.0.tar.gz",
-  "download_time": "2026-04-23T11:20:39.086544",
+  "download_filename": "xgen_harness-0.26.1.tar.gz",
+  "download_time": "2026-04-25T10:49:55.807977",
   "package_url": "https://pypi.org/project/xgen-harness/"
 }

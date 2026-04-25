@@ -1,11 +1,11 @@
 {
   "name": "pragmatiks-gcp-provider",
-  "version": "0.171.0",
+  "version": "0.177.0",
   "summary": "GCP provider for Pragmatiks",
   "author": "Pragmatiks",
   "license": null,
   "home_page": null,
-  "download_filename": "pragmatiks_gcp_provider-0.171.0.tar.gz",
-  "download_time": "2026-04-21T14:12:09.312223",
+  "download_filename": "pragmatiks_gcp_provider-0.177.0.tar.gz",
+  "download_time": "2026-04-25T10:49:56.832174",
   "package_url": "https://pypi.org/project/pragmatiks-gcp-provider/"
 }

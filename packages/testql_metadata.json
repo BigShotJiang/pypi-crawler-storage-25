@@ -1,11 +1,11 @@
 {
   "name": "testql",
-  "version": "0.6.17",
-  "summary": "TestQL with endpoint detection, OpenAPI, SUMD generation, SUMD parser and HTML report generation",
+  "version": "1.0.1",
+  "summary": "TestQL — Multi-DSL Test Platform: TestTOON / NL / SQL / Proto / GraphQL adapters with Unified IR, generator engine, and meta-testing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "testql-0.6.17.tar.gz",
-  "download_time": "2026-04-24T19:59:06.335258",
+  "download_filename": "testql-1.0.1.tar.gz",
+  "download_time": "2026-04-25T10:50:29.877473",
   "package_url": "https://pypi.org/project/testql/"
 }
