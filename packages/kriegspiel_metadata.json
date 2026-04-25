@@ -1,0 +1,11 @@
+{
+  "name": "kriegspiel",
+  "version": "1.4.3",
+  "summary": "Python hidden-information chess engine for Berkeley-family Kriegspiel variants",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kriegspiel-1.4.3.tar.gz",
+  "download_time": "2026-04-25T13:47:29.297364",
+  "package_url": "https://pypi.org/project/kriegspiel/"
+}

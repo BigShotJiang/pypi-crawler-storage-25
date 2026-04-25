@@ -1,0 +1,11 @@
+{
+  "name": "stressnet",
+  "version": "0.1.0",
+  "summary": "An adaptable deep-learning model for mechanical stress inference in tissues",
+  "author": "Nicolás Aldecoa Rodrigo",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "stressnet-0.1.0.tar.gz",
+  "download_time": "2026-04-25T13:48:11.237601",
+  "package_url": "https://pypi.org/project/stressnet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "memri",
+  "version": "1.0.1",
+  "summary": "Persistent graph-based memory for Claude Code, Cursor and Codex — cross-session recall via MCP",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memri-1.0.1-py3-none-any.whl",
+  "download_time": "2026-04-25T13:47:49.229250",
+  "package_url": "https://pypi.org/project/memri/"
+}

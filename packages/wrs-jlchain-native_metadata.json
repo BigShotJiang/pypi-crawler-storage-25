@@ -1,0 +1,11 @@
+{
+  "name": "wrs-jlchain-native",
+  "version": "0.1.0",
+  "summary": "Native FK, Jacobian, IK, and runtime-state acceleration for WRS JLChain",
+  "author": "WRS JLChain Backend Contributors",
+  "license": "LGPL-2.1-or-later",
+  "home_page": null,
+  "download_filename": "wrs_jlchain_native-0.1.0.tar.gz",
+  "download_time": "2026-04-25T13:47:42.842561",
+  "package_url": "https://pypi.org/project/wrs-jlchain-native/"
+}

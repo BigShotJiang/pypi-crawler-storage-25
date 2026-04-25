@@ -1,0 +1,11 @@
+{
+  "name": "ollamazip",
+  "version": "0.1.0",
+  "summary": "Bundle Ollama models into single portable archives for transfer between machines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ollamazip-0.1.0.tar.gz",
+  "download_time": "2026-04-25T13:48:02.610087",
+  "package_url": "https://pypi.org/project/ollamazip/"
+}

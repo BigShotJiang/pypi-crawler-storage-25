@@ -1,0 +1,11 @@
+{
+  "name": "repo-analyzer",
+  "version": "5.1.0",
+  "summary": "Analyze any GitHub repository from the command line — language breakdown, contributors, health score, and more.",
+  "author": "Khodor El Hajj Moussa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "repo_analyzer-5.1.0.tar.gz",
+  "download_time": "2026-04-25T13:47:44.458502",
+  "package_url": "https://pypi.org/project/repo-analyzer/"
+}

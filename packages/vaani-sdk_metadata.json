@@ -1,11 +1,11 @@
 {
   "name": "vaani-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python SDK for the Vaani External API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vaani_sdk-0.1.1.tar.gz",
-  "download_time": "2026-04-25T11:34:29.995339",
+  "download_filename": "vaani_sdk-0.1.2.tar.gz",
+  "download_time": "2026-04-25T13:47:30.958453",
   "package_url": "https://pypi.org/project/vaani-sdk/"
 }

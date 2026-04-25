@@ -1,11 +1,11 @@
 {
   "name": "datannurpy",
-  "version": "0.17.1",
+  "version": "0.19.2",
   "summary": "Python library for datannur catalog metadata management",
   "author": "datannur",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datannurpy-0.17.1.tar.gz",
-  "download_time": "2026-04-21T22:09:48.611400",
+  "download_filename": "datannurpy-0.19.2.tar.gz",
+  "download_time": "2026-04-25T13:48:08.052238",
   "package_url": "https://pypi.org/project/datannurpy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ingestra",
+  "version": "0.2",
+  "summary": "Universal SQL loader: extract from PostgreSQL, MySQL, BigQuery, or Redshift; align schema and upsert/overwrite into BigQuery, PostgreSQL, or MySQL—generated merge DDL, shared types.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ingestra-0.2.tar.gz",
+  "download_time": "2026-04-25T13:48:03.706028",
+  "package_url": "https://pypi.org/project/ingestra/"
+}

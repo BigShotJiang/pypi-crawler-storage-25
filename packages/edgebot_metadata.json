@@ -1,11 +1,11 @@
 {
   "name": "edgebot",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "SDK для создания Telegram ботов на Cloudflare Workers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "edgebot-0.2.0.tar.gz",
-  "download_time": "2026-04-20T20:14:27.712088",
+  "download_filename": "edgebot-0.3.0.tar.gz",
+  "download_time": "2026-04-25T13:47:38.021017",
   "package_url": "https://pypi.org/project/edgebot/"
 }

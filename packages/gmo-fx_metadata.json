@@ -1,0 +1,11 @@
+{
+  "name": "gmo-fx",
+  "version": "0.9.2",
+  "summary": "GMO社のFX API用Pythonライブラリ",
+  "author": "Rikito Noto",
+  "license": "MIT",
+  "home_page": "https://github.com/RikitoNoto/gmo-fx-py",
+  "download_filename": "gmo_fx-0.9.2.tar.gz",
+  "download_time": "2026-04-25T13:48:13.359509",
+  "package_url": "https://pypi.org/project/gmo-fx/"
+}

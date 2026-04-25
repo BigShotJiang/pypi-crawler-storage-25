@@ -1,0 +1,11 @@
+{
+  "name": "angdist",
+  "version": "1.4",
+  "summary": "Plot the 2D histogram of Euler angles covered by a set of cryo-EM particles",
+  "author": "Guillaume Gaullier",
+  "license": null,
+  "home_page": "https://codeberg.org/Guillawme/angdist",
+  "download_filename": "angdist-1.4.tar.gz",
+  "download_time": "2026-04-25T13:48:01.539029",
+  "package_url": "https://pypi.org/project/angdist/"
+}
