@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-jobs-scraper-cbx",
+  "version": "1.0.6",
+  "summary": "A professional web scraping tool for extracting job listings from LinkedIn",
+  "author": "Ivan Chen",
+  "license": "MIT",
+  "home_page": "https://github.com/ivanchencbx/linkedin-jobs-scraper",
+  "download_filename": "linkedin_jobs_scraper_cbx-1.0.6.tar.gz",
+  "download_time": "2026-04-25T19:19:56.141458",
+  "package_url": "https://pypi.org/project/linkedin-jobs-scraper-cbx/"
+}

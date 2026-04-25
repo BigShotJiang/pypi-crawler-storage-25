@@ -1,11 +1,11 @@
 {
   "name": "ultimate-chesslib",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "This is ultimate library to create your own chess simulator!",
   "author": "IgorGrebenchikov",
   "license": null,
   "home_page": "https://github.com/Salmon-bit/OOPChess",
-  "download_filename": "ultimate_chesslib-0.0.4.tar.gz",
-  "download_time": "2026-04-25T16:03:14.534362",
+  "download_filename": "ultimate_chesslib-0.0.5.tar.gz",
+  "download_time": "2026-04-25T19:20:21.333911",
   "package_url": "https://pypi.org/project/ultimate-chesslib/"
 }

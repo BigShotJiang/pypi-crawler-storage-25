@@ -1,0 +1,11 @@
+{
+  "name": "dual-cbf-compiler",
+  "version": "0.1.0",
+  "summary": "Ahead-of-time compiler that translates trained neural control barrier functions into bare-metal C++ headers evaluating exact Lie derivatives via dual algebra, with zero dynamic memory allocation on embedded targets.",
+  "author": "Mohammadreza Kamaldar",
+  "license": "MIT",
+  "home_page": "https://github.com/mkamaldar/dual_cbf_compiler",
+  "download_filename": "dual_cbf_compiler-0.1.0.tar.gz",
+  "download_time": "2026-04-25T19:19:51.728000",
+  "package_url": "https://pypi.org/project/dual-cbf-compiler/"
+}

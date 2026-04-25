@@ -1,0 +1,11 @@
+{
+  "name": "midsplit",
+  "version": "0.1.2",
+  "summary": "Demultiplex multi-reference BAM files into per-reference buckets and call consensus",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "midsplit-0.1.2.tar.gz",
+  "download_time": "2026-04-25T19:19:46.742728",
+  "package_url": "https://pypi.org/project/midsplit/"
+}

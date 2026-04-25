@@ -1,11 +1,11 @@
 {
   "name": "httpxyz",
-  "version": "0.30.0",
+  "version": "0.31.0",
   "summary": "Friendly fork of the next generation HTTP client.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "httpxyz-0.30.0.tar.gz",
-  "download_time": "2026-03-31T06:49:59.973105",
+  "download_filename": "httpxyz-0.31.0.tar.gz",
+  "download_time": "2026-04-25T19:19:47.851079",
   "package_url": "https://pypi.org/project/httpxyz/"
 }
