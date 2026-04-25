@@ -1,0 +1,11 @@
+{
+  "name": "drf-api-logger",
+  "version": "1.2.0",
+  "summary": "An API Logger for your Django Rest Framework project.",
+  "author": "Vishal Anand",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/vishalanandl177/DRF-API-Logger",
+  "download_filename": "drf_api_logger-1.2.0.tar.gz",
+  "download_time": "2026-04-25T11:34:51.811547",
+  "package_url": "https://pypi.org/project/drf-api-logger/"
+}

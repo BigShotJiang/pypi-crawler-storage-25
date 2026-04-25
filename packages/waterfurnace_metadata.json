@@ -1,11 +1,11 @@
 {
   "name": "waterfurnace",
-  "version": "1.6.5",
+  "version": "1.8.0",
   "summary": "Python interface for waterfurnace geothermal systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "waterfurnace-1.6.5.tar.gz",
-  "download_time": "2026-04-16T00:06:17.896448",
+  "download_filename": "waterfurnace-1.8.0.tar.gz",
+  "download_time": "2026-04-25T11:34:22.454329",
   "package_url": "https://pypi.org/project/waterfurnace/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tuimanji",
+  "version": "0.1.4",
+  "summary": "Pubnix-local turn-based multiplayer TUI for tic-tac-toe, chess, checkers, Reversi, Battleship, Connect 4, Crazy Eights, Royal Game of Ur, and peg solitaire.",
+  "author": "Alan Velasco",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tuimanji-0.1.4.tar.gz",
+  "download_time": "2026-04-25T11:34:27.346567",
+  "package_url": "https://pypi.org/project/tuimanji/"
+}

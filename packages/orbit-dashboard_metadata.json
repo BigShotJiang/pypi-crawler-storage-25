@@ -1,11 +1,11 @@
 {
   "name": "orbit-dashboard",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Orbit Dashboard - Task analytics and autonomous execution monitoring for Claude Code orbit projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orbit_dashboard-1.0.3.tar.gz",
-  "download_time": "2026-04-25T10:50:22.672059",
+  "download_filename": "orbit_dashboard-1.0.4.tar.gz",
+  "download_time": "2026-04-25T11:34:44.929902",
   "package_url": "https://pypi.org/project/orbit-dashboard/"
 }

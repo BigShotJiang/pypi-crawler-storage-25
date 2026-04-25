@@ -1,11 +1,11 @@
 {
   "name": "appmesh",
-  "version": "2.1.14",
+  "version": "2.1.17",
   "summary": "Client SDK for App Mesh",
   "author": "laoshanxi",
   "license": "MIT",
   "home_page": "https://github.com/laoshanxi/app-mesh",
-  "download_filename": "appmesh-2.1.14-py3-none-any.whl",
-  "download_time": "2026-04-12T07:18:03.033867",
+  "download_filename": "appmesh-2.1.17-py3-none-any.whl",
+  "download_time": "2026-04-25T11:34:42.326739",
   "package_url": "https://pypi.org/project/appmesh/"
 }

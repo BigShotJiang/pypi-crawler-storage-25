@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-viewsets",
+  "version": "1.2.0",
+  "summary": "DRF-style viewsets for FastAPI with SQLAlchemy/Tortoise/Peewee adapters and Pydantic v2 support.",
+  "author": "Alexander Valenchits",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_viewsets-1.2.0.tar.gz",
+  "download_time": "2026-04-25T11:34:32.034957",
+  "package_url": "https://pypi.org/project/fastapi-viewsets/"
+}

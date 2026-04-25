@@ -1,0 +1,11 @@
+{
+  "name": "repid",
+  "version": "2.0.0",
+  "summary": "Repid is a simple, fast, and extensible async task queue framework, with built-in AsyncAPI 3.0 schema generation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "repid-2.0.0.tar.gz",
+  "download_time": "2026-04-25T11:34:50.052365",
+  "package_url": "https://pypi.org/project/repid/"
+}

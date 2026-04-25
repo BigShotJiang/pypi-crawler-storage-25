@@ -1,11 +1,11 @@
 {
   "name": "trainy-skypilot-nightly",
-  "version": "1.0.0.dev20260423",
+  "version": "1.0.0.dev20260426",
   "summary": "SkyPilot: An intercloud broker for the clouds",
   "author": "SkyPilot Team",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "trainy_skypilot_nightly-1.0.0.dev20260423.tar.gz",
-  "download_time": "2026-04-23T08:19:09.990617",
+  "download_filename": "trainy_skypilot_nightly-1.0.0.dev20260426.tar.gz",
+  "download_time": "2026-04-25T11:34:28.974854",
   "package_url": "https://pypi.org/project/trainy-skypilot-nightly/"
 }

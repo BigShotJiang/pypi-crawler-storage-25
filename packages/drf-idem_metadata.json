@@ -1,0 +1,11 @@
+{
+  "name": "drf-idem",
+  "version": "0.1.0",
+  "summary": "Idempotency middleware for Django REST Framework",
+  "author": "Sergey Afonin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "drf_idem-0.1.0.tar.gz",
+  "download_time": "2026-04-25T11:34:34.160209",
+  "package_url": "https://pypi.org/project/drf-idem/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cli-anything-zotero",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Zotero CLI and MCP server package — installs zotero-cli and zotero-mcp for AI-assisted library workflows.",
   "author": "cli-anything contributors",
   "license": null,
   "home_page": "https://github.com/PiaoyangGuohai1/cli-anything-zotero",
-  "download_filename": "cli_anything_zotero-0.6.0.tar.gz",
-  "download_time": "2026-04-25T09:09:41.507799",
+  "download_filename": "cli_anything_zotero-0.7.0.tar.gz",
+  "download_time": "2026-04-25T11:34:36.717081",
   "package_url": "https://pypi.org/project/cli-anything-zotero/"
 }
