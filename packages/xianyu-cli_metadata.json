@@ -1,0 +1,11 @@
+{
+  "name": "xianyu-cli",
+  "version": "0.1.0",
+  "summary": "A CLI tool for searching Xianyu listings with Playwright.",
+  "author": "OpenAI Codex",
+  "license": "LicenseRef-Xianyu-CLI-NonCommercial",
+  "home_page": null,
+  "download_filename": "xianyu_cli-0.1.0.tar.gz",
+  "download_time": "2026-04-25T15:19:32.236067",
+  "package_url": "https://pypi.org/project/xianyu-cli/"
+}

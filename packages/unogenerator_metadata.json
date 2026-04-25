@@ -1,0 +1,11 @@
+{
+  "name": "unogenerator",
+  "version": "1.1.0",
+  "summary": "Libreoffice files generator programmatically with python and Libreoffice server instances",
+  "author": "turulomio",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "unogenerator-1.1.0.tar.gz",
+  "download_time": "2026-04-25T15:19:41.238501",
+  "package_url": "https://pypi.org/project/unogenerator/"
+}

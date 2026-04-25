@@ -1,11 +1,11 @@
 {
   "name": "astrocyte-qdrant",
-  "version": "0.7.7",
+  "version": "0.9.0",
   "summary": "Qdrant VectorStore adapter for Astrocyte",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "astrocyte_qdrant-0.7.7.tar.gz",
-  "download_time": "2026-04-12T08:13:43.357307",
+  "download_filename": "astrocyte_qdrant-0.9.0.tar.gz",
+  "download_time": "2026-04-25T15:19:17.527951",
   "package_url": "https://pypi.org/project/astrocyte-qdrant/"
 }

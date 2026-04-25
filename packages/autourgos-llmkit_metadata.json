@@ -1,0 +1,11 @@
+{
+  "name": "autourgos-llmkit",
+  "version": "1.1.2",
+  "summary": "Unified LLM provider interface for Google Gemini, Anthropic Claude, OpenAI, Grok, Azure OpenAI, Ollama, and Vertex AI.",
+  "author": null,
+  "license": "Copyright (c) 2026 Autourgos. All rights reserved.\n        \n        PROPRIETARY LICENSE\n        \n        This software and associated documentation files (the \"Software\") are the proprietary property of Autourgos.\n        \n        1. Non-Commercial Use Only:\n           The Software is provided for personal, educational, and internal research purposes only. Commercial use, including but not limited to using the Software to provide paid services, selling the Software, or integrating the Software into a commercial product, is strictly prohibited without a separate commercial license agreement.\n        \n        2. No Resale:\n           You may not sell, rent, lease, sublicense, or otherwise distribute the Software or any derivative works for a fee.\n        \n        3. Redistribution:\n           Redistribution of the Software in source or binary forms is permitted provided that:\n           - The above copyright notice and this permission notice appear in all copies.\n           - The Software is not sold or used for commercial gain.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+  "home_page": null,
+  "download_filename": "autourgos_llmkit-1.1.2.tar.gz",
+  "download_time": "2026-04-25T15:19:33.284215",
+  "package_url": "https://pypi.org/project/autourgos-llmkit/"
+}

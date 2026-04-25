@@ -1,11 +1,11 @@
 {
   "name": "hermes-local-memory",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Local-first SQLite memory provider for Hermes Agent",
   "author": "Hermes Local Memory contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "hermes_local_memory-0.1.2.tar.gz",
-  "download_time": "2026-04-25T14:36:24.930060",
+  "download_filename": "hermes_local_memory-0.1.3.tar.gz",
+  "download_time": "2026-04-25T15:19:50.516694",
   "package_url": "https://pypi.org/project/hermes-local-memory/"
 }

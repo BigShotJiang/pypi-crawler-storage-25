@@ -1,0 +1,11 @@
+{
+  "name": "runguard",
+  "version": "0.1.1",
+  "summary": "Make Python functions safe to run more than once",
+  "author": "Andrew Sanderson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "runguard-0.1.1.tar.gz",
+  "download_time": "2026-04-25T15:19:36.937936",
+  "package_url": "https://pypi.org/project/runguard/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "flowgentra-ai",
-  "version": "0.1.8",
+  "version": "0.2.1",
   "summary": "Python bindings for FlowgentraAI - build AI agents with graphs",
   "author": "Oussama Ben Hariz",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flowgentra_ai-0.1.8.tar.gz",
-  "download_time": "2026-04-18T20:13:35.155344",
+  "download_filename": "flowgentra_ai-0.2.1.tar.gz",
+  "download_time": "2026-04-25T15:19:28.596385",
   "package_url": "https://pypi.org/project/flowgentra-ai/"
 }

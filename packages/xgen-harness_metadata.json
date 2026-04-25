@@ -1,11 +1,11 @@
 {
   "name": "xgen-harness",
-  "version": "0.26.1",
-  "summary": "XGEN Harness — v0.26.0 + s06_context.files 필드 부활 (metadata_filter.file_name 자동 라우팅, 진짜 wiring). frontend 의 files multi_select UI 가 의미 있게 작동.",
+  "version": "0.26.6",
+  "summary": "XGEN Harness — v0.26.5 + DAG orchestrator PipelineState init 결함 fix (tool_definitions kwarg → setter). 이전엔 멀티 하네스 DAG 실행 100% TypeError.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xgen_harness-0.26.1.tar.gz",
-  "download_time": "2026-04-25T10:49:55.807977",
+  "download_filename": "xgen_harness-0.26.6.tar.gz",
+  "download_time": "2026-04-25T15:19:33.806148",
   "package_url": "https://pypi.org/project/xgen-harness/"
 }

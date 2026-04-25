@@ -1,11 +1,11 @@
 {
   "name": "tjw",
-  "version": "1.0.5",
+  "version": "1.0.10",
   "summary": "一个简单的命令行工具，用于输出问候信息和数值加1",
-  "author": "fwquant",
+  "author": "tjw",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "tjw-1.0.5.tar.gz",
-  "download_time": "2026-04-25T14:36:21.554589",
+  "home_page": "https://github.com/tjwpip/tjw",
+  "download_filename": "tjw-1.0.10.tar.gz",
+  "download_time": "2026-04-25T15:19:05.304439",
   "package_url": "https://pypi.org/project/tjw/"
 }

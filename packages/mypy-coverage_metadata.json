@@ -1,11 +1,11 @@
 {
   "name": "mypy-coverage",
-  "version": "0.1.1",
+  "version": "0.2.3",
   "summary": "Report mypy annotation coverage for a Python codebase.",
   "author": "Merlin Fisher-Levine",
   "license": null,
   "home_page": null,
-  "download_filename": "mypy_coverage-0.1.1.tar.gz",
-  "download_time": "2026-04-23T16:16:15.673859",
+  "download_filename": "mypy_coverage-0.2.3.tar.gz",
+  "download_time": "2026-04-25T15:19:05.823325",
   "package_url": "https://pypi.org/project/mypy-coverage/"
 }

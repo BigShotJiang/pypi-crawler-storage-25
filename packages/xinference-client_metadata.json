@@ -1,0 +1,11 @@
+{
+  "name": "xinference-client",
+  "version": "2.7.0",
+  "summary": "Client for Xinference",
+  "author": "Qin Xuye",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/xorbitsai/inference-client",
+  "download_filename": "xinference_client-2.7.0.tar.gz",
+  "download_time": "2026-04-25T15:19:40.717022",
+  "package_url": "https://pypi.org/project/xinference-client/"
+}

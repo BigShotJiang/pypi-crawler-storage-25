@@ -1,11 +1,11 @@
 {
   "name": "hilbertmap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Bijective metric-depth <-> RGB colormap along a 3D Hilbert cube walk, as used in the Vision Banana paper.",
   "author": "Massimiliano Viola",
   "license": null,
   "home_page": null,
-  "download_filename": "hilbertmap-0.1.0.tar.gz",
-  "download_time": "2026-04-25T14:36:24.394814",
+  "download_filename": "hilbertmap-0.1.1.tar.gz",
+  "download_time": "2026-04-25T15:19:49.997970",
   "package_url": "https://pypi.org/project/hilbertmap/"
 }

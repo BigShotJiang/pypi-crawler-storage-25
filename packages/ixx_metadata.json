@@ -1,11 +1,11 @@
 {
   "name": "ixx",
-  "version": "0.6.6",
+  "version": "0.6.6.1",
   "summary": "IXX — executable checklist-style code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ixx-0.6.6.tar.gz",
-  "download_time": "2026-04-25T06:31:21.217301",
+  "download_filename": "ixx-0.6.6.1.tar.gz",
+  "download_time": "2026-04-25T15:19:44.347801",
   "package_url": "https://pypi.org/project/ixx/"
 }

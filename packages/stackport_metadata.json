@@ -1,11 +1,11 @@
 {
   "name": "stackport",
-  "version": "0.1.9",
+  "version": "0.2.2",
   "summary": "Universal AWS resource browser for local emulators",
   "author": "Davi Reis Vieira",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stackport-0.1.9.tar.gz",
-  "download_time": "2026-04-22T11:11:40.011890",
+  "download_filename": "stackport-0.2.2.tar.gz",
+  "download_time": "2026-04-25T15:19:34.327697",
   "package_url": "https://pypi.org/project/stackport/"
 }
