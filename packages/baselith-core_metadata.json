@@ -1,11 +1,11 @@
 {
   "name": "baselith-core",
-  "version": "0.6.0",
+  "version": "0.8.1",
   "summary": "A Modular Framework for Baselith-Core Orchestration featuring World Models (MCTS), Swarm, and Native MCP.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "baselith_core-0.6.0.tar.gz",
-  "download_time": "2026-04-12T14:29:13.043092",
+  "download_filename": "baselith_core-0.8.1.tar.gz",
+  "download_time": "2026-04-25T16:49:55.108547",
   "package_url": "https://pypi.org/project/baselith-core/"
 }

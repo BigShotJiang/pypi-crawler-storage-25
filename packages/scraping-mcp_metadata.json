@@ -1,0 +1,11 @@
+{
+  "name": "scraping-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server for Scraping — REST API wrapper for LLM agents.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scraping_mcp-0.2.0.tar.gz",
+  "download_time": "2026-04-25T16:49:38.047694",
+  "package_url": "https://pypi.org/project/scraping-mcp/"
+}

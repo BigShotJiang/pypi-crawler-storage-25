@@ -1,0 +1,11 @@
+{
+  "name": "fastmssql-dbproj",
+  "version": "0.6.81",
+  "summary": "A high-performance async Python library for Microsoft SQL Server built on Rust for heavy workloads and low latency.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastmssql_dbproj-0.6.81.tar.gz",
+  "download_time": "2026-04-25T16:49:35.135830",
+  "package_url": "https://pypi.org/project/fastmssql-dbproj/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pragmatiks-kubernetes-provider",
-  "version": "0.184.0",
+  "version": "0.185.0",
   "summary": "Generic Kubernetes resources using lightkube",
   "author": "Pragmatiks",
   "license": null,
   "home_page": null,
-  "download_filename": "pragmatiks_kubernetes_provider-0.184.0.tar.gz",
-  "download_time": "2026-04-25T16:03:38.000358",
+  "download_filename": "pragmatiks_kubernetes_provider-0.185.0.tar.gz",
+  "download_time": "2026-04-25T16:49:48.588354",
   "package_url": "https://pypi.org/project/pragmatiks-kubernetes-provider/"
 }

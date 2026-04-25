@@ -1,11 +1,11 @@
 {
   "name": "socialseed-tasker",
-  "version": "0.6.0",
+  "version": "0.8.0",
   "summary": "A graph-based task management framework for AI agents",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "socialseed_tasker-0.6.0.tar.gz",
-  "download_time": "2026-04-08T22:05:04.027839",
+  "download_filename": "socialseed_tasker-0.8.0.tar.gz",
+  "download_time": "2026-04-25T16:50:31.837855",
   "package_url": "https://pypi.org/project/socialseed-tasker/"
 }

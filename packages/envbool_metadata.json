@@ -1,0 +1,11 @@
+{
+  "name": "envbool",
+  "version": "0.1.1",
+  "summary": "A small Python library and CLI tool for coercing environment variables (and arbitrary strings) into boolean values.",
+  "author": "Kyle O'Malley",
+  "license": null,
+  "home_page": null,
+  "download_filename": "envbool-0.1.1.tar.gz",
+  "download_time": "2026-04-25T16:50:08.496409",
+  "package_url": "https://pypi.org/project/envbool/"
+}

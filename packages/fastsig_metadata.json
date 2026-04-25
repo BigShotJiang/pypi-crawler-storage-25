@@ -1,0 +1,11 @@
+{
+  "name": "fastsig",
+  "version": "0.1.1",
+  "summary": "Fast publication-quality signal heatmaps + boxplots (Rust-accelerated deepTools port).",
+  "author": "fastsig authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastsig-0.1.1-py3-none-any.whl",
+  "download_time": "2026-04-25T16:49:51.933399",
+  "package_url": "https://pypi.org/project/fastsig/"
+}

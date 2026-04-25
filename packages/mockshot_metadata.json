@@ -1,0 +1,11 @@
+{
+  "name": "mockshot",
+  "version": "1.0.1",
+  "summary": "Generate pixel-perfect fake screenshots of VS Code, Chrome, Safari, Terminal and hand-drawn diagrams (Merise + UML)",
+  "author": "andilMc",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mockshot-1.0.1.tar.gz",
+  "download_time": "2026-04-25T16:50:15.134014",
+  "package_url": "https://pypi.org/project/mockshot/"
+}

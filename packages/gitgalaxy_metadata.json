@@ -1,11 +1,11 @@
 {
   "name": "gitgalaxy",
-  "version": "2.0.5",
-  "summary": "An AST-free, zero-trust static analysis engine for mapping architectural risk, securing CI/CD pipelines, and modernizing legacy monoliths.",
+  "version": "2.0.7",
+  "summary": "An AST-free, LLM-free zero-trust static analysis engine for mapping architectural risk, securing CI/CD pipelines, and modernizing legacy monoliths.",
   "author": "Joe Esquibel",
   "license": null,
   "home_page": null,
-  "download_filename": "gitgalaxy-2.0.5.tar.gz",
-  "download_time": "2026-04-25T05:06:52.156521",
+  "download_filename": "gitgalaxy-2.0.7.tar.gz",
+  "download_time": "2026-04-25T16:50:00.039340",
   "package_url": "https://pypi.org/project/gitgalaxy/"
 }
