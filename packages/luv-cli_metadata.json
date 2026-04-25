@@ -1,11 +1,11 @@
 {
   "name": "luv-cli",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "summary": "Launch Claude Code agents on GitHub repos with isolated workspaces and optional Docker dev environments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "luv_cli-0.0.8.tar.gz",
-  "download_time": "2026-04-24T20:52:30.742124",
+  "download_filename": "luv_cli-0.0.10.tar.gz",
+  "download_time": "2026-04-25T05:07:26.417946",
   "package_url": "https://pypi.org/project/luv-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "checktestdata",
-  "version": "2026.3.20",
+  "version": "2026.4.5",
   "summary": "A python reimplementation of Checktestdata (https://github.com/DOMjudge/checktestdata).",
   "author": "MZuenni",
   "license": null,
   "home_page": null,
-  "download_filename": "checktestdata-2026.3.20.tar.gz",
-  "download_time": "2026-03-31T20:27:56.346053",
+  "download_filename": "checktestdata-2026.4.5.tar.gz",
+  "download_time": "2026-04-25T05:07:08.678513",
   "package_url": "https://pypi.org/project/checktestdata/"
 }

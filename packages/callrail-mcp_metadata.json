@@ -1,11 +1,11 @@
 {
   "name": "callrail-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Model Context Protocol (MCP) server for the CallRail REST API v3",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "callrail_mcp-1.0.1.tar.gz",
-  "download_time": "2026-04-24T23:19:26.748011",
+  "download_filename": "callrail_mcp-1.0.2.tar.gz",
+  "download_time": "2026-04-25T05:07:05.073165",
   "package_url": "https://pypi.org/project/callrail-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "edalize",
-  "version": "0.6.7",
+  "version": "0.6.8",
   "summary": "Library for interfacing EDA tools such as simulators, linters or synthesis tools, using a common interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edalize-0.6.7.tar.gz",
-  "download_time": "2026-04-20T21:14:14.735215",
+  "download_filename": "edalize-0.6.8.tar.gz",
+  "download_time": "2026-04-25T05:07:04.005108",
   "package_url": "https://pypi.org/project/edalize/"
 }

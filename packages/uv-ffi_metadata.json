@@ -1,0 +1,11 @@
+{
+  "name": "uv-ffi",
+  "version": "0.10.8.post11",
+  "summary": "Persistent in-process execution engine for uv — internal dependency of omnipkg",
+  "author": "1minds3t",
+  "license": "MIT",
+  "home_page": "https://github.com/1minds3t/omnipkg",
+  "download_filename": "uv_ffi-0.10.8.post11.tar.gz",
+  "download_time": "2026-04-25T05:07:15.056891",
+  "package_url": "https://pypi.org/project/uv-ffi/"
+}

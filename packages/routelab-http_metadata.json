@@ -1,0 +1,11 @@
+{
+  "name": "routelab-http",
+  "version": "0.1.0",
+  "summary": "Intercept, simulate, replay, and observe outbound HTTP traffic from Python applications.",
+  "author": "Vishwadeep Balakrishnan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "routelab_http-0.1.0.tar.gz",
+  "download_time": "2026-04-25T05:07:35.151426",
+  "package_url": "https://pypi.org/project/routelab-http/"
+}

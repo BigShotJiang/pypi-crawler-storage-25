@@ -1,11 +1,11 @@
 {
   "name": "ai-agent-rules",
-  "version": "0.41.0",
+  "version": "0.42.0",
   "summary": "Manage user-level AI agent configurations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_agent_rules-0.41.0.tar.gz",
-  "download_time": "2026-04-24T17:57:56.646112",
+  "download_filename": "ai_agent_rules-0.42.0.tar.gz",
+  "download_time": "2026-04-25T05:06:59.875127",
   "package_url": "https://pypi.org/project/ai-agent-rules/"
 }

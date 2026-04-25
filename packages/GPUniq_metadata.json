@@ -1,11 +1,11 @@
 {
   "name": "GPUniq",
-  "version": "3.5.3",
+  "version": "3.5.6",
   "summary": "Python SDK for GPUniq GPU Meta-Cloud platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gpuniq-3.5.3.tar.gz",
-  "download_time": "2026-04-24T23:18:59.311542",
+  "download_filename": "gpuniq-3.5.6.tar.gz",
+  "download_time": "2026-04-25T05:07:14.467050",
   "package_url": "https://pypi.org/project/GPUniq/"
 }
