@@ -1,11 +1,11 @@
 {
   "name": "regulationsgov-mcp",
-  "version": "0.2.0",
+  "version": "0.2.5",
   "summary": "MCP server for the Regulations.gov API. Federal rulemaking dockets, documents, comments, and comment period tracking.",
   "author": "James Jenrette / 1102tools",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "regulationsgov_mcp-0.2.0.tar.gz",
-  "download_time": "2026-04-18T21:39:47.720219",
+  "download_filename": "regulationsgov_mcp-0.2.5.tar.gz",
+  "download_time": "2026-04-25T22:09:27.082267",
   "package_url": "https://pypi.org/project/regulationsgov-mcp/"
 }

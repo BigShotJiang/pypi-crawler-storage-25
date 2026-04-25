@@ -1,11 +1,11 @@
 {
   "name": "federal-register-mcp",
-  "version": "0.2.0",
+  "version": "0.2.7",
   "summary": "MCP server for the Federal Register API. Proposed rules, final rules, notices, executive orders, and regulatory tracking.",
   "author": "James Jenrette / 1102tools",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "federal_register_mcp-0.2.0.tar.gz",
-  "download_time": "2026-04-18T16:27:49.069963",
+  "download_filename": "federal_register_mcp-0.2.7.tar.gz",
+  "download_time": "2026-04-25T22:09:25.023720",
   "package_url": "https://pypi.org/project/federal-register-mcp/"
 }

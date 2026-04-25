@@ -1,0 +1,11 @@
+{
+  "name": "pypoolstation",
+  "version": "0.6.0",
+  "summary": "Python library to interact with the API of the Poolstation (https://poolstation.net) domotic platform for pool equipment",
+  "author": "cibernox",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pypoolstation-0.6.0.tar.gz",
+  "download_time": "2026-04-25T22:09:18.796915",
+  "package_url": "https://pypi.org/project/pypoolstation/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "alphainfo",
-  "version": "1.5.22",
+  "version": "1.5.23",
   "summary": "Python client for alphainfo.io — Structure-aware analysis for any time series",
   "author": "alphainfo.io",
   "license": "MIT",
   "home_page": "https://github.com/qgidev/alphainfo",
-  "download_filename": "alphainfo-1.5.22.tar.gz",
-  "download_time": "2026-04-25T21:29:38.936542",
+  "download_filename": "alphainfo-1.5.23.tar.gz",
+  "download_time": "2026-04-25T22:09:27.596683",
   "package_url": "https://pypi.org/project/alphainfo/"
 }

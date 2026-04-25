@@ -1,0 +1,11 @@
+{
+  "name": "m365-cli",
+  "version": "0.1.0",
+  "summary": "Agent-friendly Microsoft 365 CLI — email, calendar, and more via the Graph API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "m365_cli-0.1.0.tar.gz",
+  "download_time": "2026-04-25T22:09:20.335585",
+  "package_url": "https://pypi.org/project/m365-cli/"
+}

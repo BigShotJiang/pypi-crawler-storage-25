@@ -1,0 +1,11 @@
+{
+  "name": "citeformer",
+  "version": "0.3.0",
+  "summary": "A bulletproof way to generate verifiably cited text from language models — structurally unforgeable citation markers via constrained decoding.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "citeformer-0.3.0.tar.gz",
+  "download_time": "2026-04-25T22:09:10.544352",
+  "package_url": "https://pypi.org/project/citeformer/"
+}

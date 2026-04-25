@@ -1,11 +1,11 @@
 {
   "name": "tensorlake",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Tensorlake SDK for agent sandboxes and sandbox-native orchestration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tensorlake-0.5.0.tar.gz",
-  "download_time": "2026-04-25T05:07:06.630924",
+  "download_filename": "tensorlake-0.5.1.tar.gz",
+  "download_time": "2026-04-25T22:09:06.900527",
   "package_url": "https://pypi.org/project/tensorlake/"
 }
