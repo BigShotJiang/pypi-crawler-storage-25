@@ -1,11 +1,11 @@
 {
   "name": "avito-py",
-  "version": "1.0.3",
+  "version": "2.0.3",
   "summary": "SDK для разработки инструментов на базе Avito API",
   "author": "Nikolay Baryshnikov",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "avito_py-1.0.3.tar.gz",
-  "download_time": "2026-04-18T17:11:31.976234",
+  "download_filename": "avito_py-2.0.3.tar.gz",
+  "download_time": "2026-04-25T20:04:57.344864",
   "package_url": "https://pypi.org/project/avito-py/"
 }

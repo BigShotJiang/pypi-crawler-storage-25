@@ -1,0 +1,11 @@
+{
+  "name": "django-minify-compress-staticfiles",
+  "version": "1.1.1",
+  "summary": "Django package for minifying and compressing static files",
+  "author": "OpenWISP",
+  "license": null,
+  "home_page": "https://github.com/openwisp/django-minify-compress-staticfiles",
+  "download_filename": "django_minify_compress_staticfiles-1.1.1.tar.gz",
+  "download_time": "2026-04-25T20:04:49.554722",
+  "package_url": "https://pypi.org/project/django-minify-compress-staticfiles/"
+}

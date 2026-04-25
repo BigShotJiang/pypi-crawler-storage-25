@@ -1,11 +1,11 @@
 {
   "name": "ail-interpreter",
-  "version": "1.59.0",
+  "version": "1.60.8",
   "summary": "AIL — Python interpreter for the AI-Intent Language. fn (pure) + intent (LLM) declarations, provenance, purity contracts, confidence-aware match, calibration",
   "author": "AIL Project Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ail_interpreter-1.59.0.tar.gz",
-  "download_time": "2026-04-24T17:57:38.986809",
+  "download_filename": "ail_interpreter-1.60.8.tar.gz",
+  "download_time": "2026-04-25T20:05:06.860185",
   "package_url": "https://pypi.org/project/ail-interpreter/"
 }

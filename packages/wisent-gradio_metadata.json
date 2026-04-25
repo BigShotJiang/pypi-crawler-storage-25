@@ -1,0 +1,11 @@
+{
+  "name": "wisent-gradio",
+  "version": "0.1.1",
+  "summary": "Gradio UI for the wisent package family",
+  "author": "Lukasz Bartoszcze and the Wisent Team",
+  "license": null,
+  "home_page": "https://github.com/wisent-ai/wisent-gradio",
+  "download_filename": "wisent_gradio-0.1.1-py3-none-any.whl",
+  "download_time": "2026-04-25T20:04:36.400172",
+  "package_url": "https://pypi.org/project/wisent-gradio/"
+}

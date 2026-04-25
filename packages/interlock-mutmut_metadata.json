@@ -1,0 +1,11 @@
+{
+  "name": "interlock-mutmut",
+  "version": "3.5.0",
+  "summary": "interlock-published fork of mutmut for PyPI-only installs (no git required at install time).",
+  "author": "Anders Hovmöller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "interlock_mutmut-3.5.0.tar.gz",
+  "download_time": "2026-04-25T20:04:31.935839",
+  "package_url": "https://pypi.org/project/interlock-mutmut/"
+}

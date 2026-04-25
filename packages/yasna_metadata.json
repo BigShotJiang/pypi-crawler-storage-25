@@ -1,11 +1,11 @@
 {
   "name": "yasna",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Session search tool for AI coding agents — claude, opencode, aider, continue, nanocoder, 1bcoder",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yasna-0.1.1.tar.gz",
-  "download_time": "2026-04-16T09:54:35.165664",
+  "download_filename": "yasna-0.1.2.tar.gz",
+  "download_time": "2026-04-25T20:04:46.968315",
   "package_url": "https://pypi.org/project/yasna/"
 }

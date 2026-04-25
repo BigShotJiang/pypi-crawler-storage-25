@@ -1,0 +1,11 @@
+{
+  "name": "wisent-optimizer",
+  "version": "0.1.1",
+  "summary": "Optuna+hyperopt-based steering hyperparameter optimizer for wisent",
+  "author": "Lukasz Bartoszcze and the Wisent Team",
+  "license": null,
+  "home_page": "https://github.com/wisent-ai/wisent-optimizer",
+  "download_filename": "wisent_optimizer-0.1.1-py3-none-any.whl",
+  "download_time": "2026-04-25T20:04:35.881469",
+  "package_url": "https://pypi.org/project/wisent-optimizer/"
+}

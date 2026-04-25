@@ -1,0 +1,11 @@
+{
+  "name": "darwin-mgmt-nic-configurator",
+  "version": "2.1.1",
+  "summary": "Darwin USB network interface configurator for management access to network devices",
+  "author": "Contributors",
+  "license": "Zlib",
+  "home_page": null,
+  "download_filename": "darwin_mgmt_nic_configurator-2.1.1.tar.gz",
+  "download_time": "2026-04-25T20:04:52.708227",
+  "package_url": "https://pypi.org/project/darwin-mgmt-nic-configurator/"
+}

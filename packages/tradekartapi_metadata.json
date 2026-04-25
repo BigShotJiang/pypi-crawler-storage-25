@@ -1,11 +1,11 @@
 {
   "name": "tradekartapi",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Tradekart wrapper SDK for Groww trading APIs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tradekartapi-0.1.5.tar.gz",
-  "download_time": "2026-04-22T17:50:40.535373",
+  "download_filename": "tradekartapi-0.1.6.tar.gz",
+  "download_time": "2026-04-25T20:04:27.019762",
   "package_url": "https://pypi.org/project/tradekartapi/"
 }

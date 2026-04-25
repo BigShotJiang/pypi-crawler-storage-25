@@ -1,0 +1,11 @@
+{
+  "name": "contextkit-ai",
+  "version": "0.4.1",
+  "summary": "Bootstrap tool for AI-assisted projects that preserves context across sessions, prevents doc drift, and scaffolds a memory layer around your code.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contextkit_ai-0.4.1.tar.gz",
+  "download_time": "2026-04-25T20:04:39.985180",
+  "package_url": "https://pypi.org/project/contextkit-ai/"
+}

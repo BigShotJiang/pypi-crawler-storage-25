@@ -1,0 +1,11 @@
+{
+  "name": "agentward",
+  "version": "0.5.1",
+  "summary": "Secure every agent action — from install to runtime. Source-available security platform for AI agents.",
+  "author": "OpenSafe Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentward-0.5.1.tar.gz",
+  "download_time": "2026-04-25T20:04:42.711013",
+  "package_url": "https://pypi.org/project/agentward/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flake8-async",
+  "version": "26.4.1",
+  "summary": "A highly opinionated flake8 plugin for Trio-related problems.",
+  "author": "Zac Hatfield-Dodds, John Litborn, and Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flake8_async-26.4.1.tar.gz",
+  "download_time": "2026-04-25T20:04:38.447524",
+  "package_url": "https://pypi.org/project/flake8-async/"
+}
