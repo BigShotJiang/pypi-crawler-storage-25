@@ -1,0 +1,11 @@
+{
+  "name": "zpe-xr",
+  "version": "0.3.1",
+  "summary": "Deterministic XR hand-pose transport codec. ~24x compression, sub-mm fidelity, sub-ms latency, CPU-native.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zpe_xr-0.3.1.tar.gz",
+  "download_time": "2026-04-25T18:12:57.093288",
+  "package_url": "https://pypi.org/project/zpe-xr/"
+}

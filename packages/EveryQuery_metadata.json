@@ -1,11 +1,11 @@
 {
   "name": "EveryQuery",
-  "version": "0.3.1",
+  "version": "0.3.4",
   "summary": "A framework for training and evaluating foundation models, using the MEDS ecosystem for data processing and PyTorch Lightning for training.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "everyquery-0.3.1.tar.gz",
-  "download_time": "2026-04-23T17:52:56.099180",
+  "download_filename": "everyquery-0.3.4.tar.gz",
+  "download_time": "2026-04-25T18:13:14.040196",
   "package_url": "https://pypi.org/project/EveryQuery/"
 }

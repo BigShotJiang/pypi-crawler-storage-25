@@ -1,11 +1,11 @@
 {
   "name": "paybridge-np",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Official Python SDK for the PayBridgeNP payment gateway - accept eSewa, Khalti, and ConnectIPS through a single API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "paybridge_np-0.2.0.tar.gz",
-  "download_time": "2026-04-19T16:29:52.243930",
+  "download_filename": "paybridge_np-0.4.0.tar.gz",
+  "download_time": "2026-04-25T18:12:37.448220",
   "package_url": "https://pypi.org/project/paybridge-np/"
 }

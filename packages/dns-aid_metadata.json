@@ -1,11 +1,11 @@
 {
   "name": "dns-aid",
-  "version": "0.17.1",
+  "version": "0.18.0",
   "summary": "DNS-based Agent Identification and Discovery - Reference Implementation",
   "author": "DNS-AID Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "dns_aid-0.17.1.tar.gz",
-  "download_time": "2026-04-06T23:25:49.690163",
+  "download_filename": "dns_aid-0.18.0.tar.gz",
+  "download_time": "2026-04-25T18:12:51.375382",
   "package_url": "https://pypi.org/project/dns-aid/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "escrowmint",
-  "version": "0.2.1",
-  "summary": "Python client for exact Redis-backed bounded consumption.",
+  "version": "0.5.0",
+  "summary": "Redis-backed bounded quota primitives for prepaid credits, reservations, top-ups, and chunk leases.",
   "author": "Biprakanta Pal",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "escrowmint-0.2.1.tar.gz",
-  "download_time": "2026-04-24T22:40:29.847775",
+  "download_filename": "escrowmint-0.5.0.tar.gz",
+  "download_time": "2026-04-25T18:13:15.567210",
   "package_url": "https://pypi.org/project/escrowmint/"
 }

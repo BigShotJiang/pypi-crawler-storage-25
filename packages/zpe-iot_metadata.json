@@ -1,0 +1,11 @@
+{
+  "name": "zpe-iot",
+  "version": "0.1.1",
+  "summary": "Deterministic bounded-lossy compression SDK for constrained telemetry streams; Rust core with Python bindings",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/Zer0pa/ZPE-IoT",
+  "download_filename": "zpe_iot-0.1.1.tar.gz",
+  "download_time": "2026-04-25T18:12:59.658087",
+  "package_url": "https://pypi.org/project/zpe-iot/"
+}

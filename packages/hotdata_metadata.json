@@ -1,11 +1,11 @@
 {
   "name": "hotdata",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "Official Python client for the Hotdata API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hotdata-0.0.1.tar.gz",
-  "download_time": "2026-04-25T17:37:27.634728",
+  "download_filename": "hotdata-0.1.0.tar.gz",
+  "download_time": "2026-04-25T18:13:03.248171",
   "package_url": "https://pypi.org/project/hotdata/"
 }
