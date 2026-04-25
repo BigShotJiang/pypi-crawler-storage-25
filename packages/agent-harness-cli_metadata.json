@@ -1,11 +1,11 @@
 {
   "name": "agent-harness-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A lightweight scaffold for evaluating agentic tasks with structured checks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_harness_cli-0.1.0.tar.gz",
-  "download_time": "2026-04-25T09:09:45.585269",
+  "download_filename": "agent_harness_cli-0.1.1.tar.gz",
+  "download_time": "2026-04-25T10:00:06.333974",
   "package_url": "https://pypi.org/project/agent-harness-cli/"
 }

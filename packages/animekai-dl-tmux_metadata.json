@@ -1,0 +1,11 @@
+{
+  "name": "animekai-dl-tmux",
+  "version": "1.1.0",
+  "summary": "AnimeKAI anime downloader for Termux — CLI only, no GUI, pure terminal",
+  "author": "animekai-dl-tmux contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "animekai_dl_tmux-1.1.0-py3-none-any.whl",
+  "download_time": "2026-04-25T10:00:06.876014",
+  "package_url": "https://pypi.org/project/animekai-dl-tmux/"
+}

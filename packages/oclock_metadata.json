@@ -1,0 +1,11 @@
+{
+  "name": "oclock",
+  "version": "1.4.3",
+  "summary": "Tools for timed, no-drift loops of constant duration, and other misc. timing tools (GUI countdown, context managers etc.)",
+  "author": null,
+  "license": "GNU GPLv3",
+  "home_page": null,
+  "download_filename": "oclock-1.4.3.tar.gz",
+  "download_time": "2026-04-25T09:59:40.615339",
+  "package_url": "https://pypi.org/project/oclock/"
+}

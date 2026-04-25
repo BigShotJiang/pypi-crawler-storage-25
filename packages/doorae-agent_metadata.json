@@ -1,11 +1,11 @@
 {
   "name": "doorae-agent",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "summary": "Python SDK for Doorae multi-agent chat",
   "author": "Changyong Um",
   "license": null,
   "home_page": null,
-  "download_filename": "doorae_agent-0.1.0.tar.gz",
-  "download_time": "2026-04-14T11:49:27.106701",
+  "download_filename": "doorae_agent-0.4.0.tar.gz",
+  "download_time": "2026-04-25T10:00:17.655770",
   "package_url": "https://pypi.org/project/doorae-agent/"
 }

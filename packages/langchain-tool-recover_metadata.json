@@ -1,0 +1,11 @@
+{
+  "name": "langchain-tool-recover",
+  "version": "0.1.0",
+  "summary": "Tiny LangChain middleware for better tool-call recovery, loop detection, and structured failure messages.",
+  "author": "Trihedron1240",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_tool_recover-0.1.0.tar.gz",
+  "download_time": "2026-04-25T10:00:25.299229",
+  "package_url": "https://pypi.org/project/langchain-tool-recover/"
+}

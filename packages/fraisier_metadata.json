@@ -1,11 +1,11 @@
 {
   "name": "fraisier",
-  "version": "0.11.3",
+  "version": "0.12.0",
   "summary": "Fraisier - Deployment orchestrator for the FraiseQL ecosystem. Any language, any database, any deployment target.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fraisier-0.11.3.tar.gz",
-  "download_time": "2026-04-21T14:12:42.930691",
+  "download_filename": "fraisier-0.12.0.tar.gz",
+  "download_time": "2026-04-25T10:00:24.179509",
   "package_url": "https://pypi.org/project/fraisier/"
 }

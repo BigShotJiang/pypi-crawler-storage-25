@@ -1,11 +1,11 @@
 {
   "name": "eu-vat-rates-data",
-  "version": "2026.4.24",
+  "version": "2026.4.25",
   "summary": "VAT rates for 44 European countries — EU-27 plus Norway, Switzerland, UK, and more. Updated daily, published automatically when rates change.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eu_vat_rates_data-2026.4.24.tar.gz",
-  "download_time": "2026-04-24T19:59:10.351821",
+  "download_filename": "eu_vat_rates_data-2026.4.25.tar.gz",
+  "download_time": "2026-04-25T09:59:45.663433",
   "package_url": "https://pypi.org/project/eu-vat-rates-data/"
 }

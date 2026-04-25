@@ -1,11 +1,11 @@
 {
   "name": "vulca",
-  "version": "0.15.0",
-  "summary": "AI-native cultural art creation organism. Multi-round img2img iteration, two-phase VLM evaluation (OBSERVE+EVALUATE), Brief-driven Studio with sketch/reference upload, local evolution flywheel, commercial extra dimensions, and 13 cultural traditions.",
+  "version": "0.17.12",
+  "summary": "Agent-native cultural art SDK — 20 MCP tools for image generation, L1-L5 evaluation, layer editing, and 13 cultural traditions. Agents drive all creative decisions; Vulca provides hands + eyes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vulca-0.15.0.tar.gz",
-  "download_time": "2026-04-12T15:08:47.139407",
+  "download_filename": "vulca-0.17.12.tar.gz",
+  "download_time": "2026-04-25T09:59:44.512735",
   "package_url": "https://pypi.org/project/vulca/"
 }

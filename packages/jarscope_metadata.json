@@ -1,0 +1,11 @@
+{
+  "name": "jarscope",
+  "version": "0.1.0",
+  "summary": "Browse and search JVM library source code by Maven coordinate",
+  "author": "Tobias Lorenz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jarscope-0.1.0.tar.gz",
+  "download_time": "2026-04-25T10:00:26.383629",
+  "package_url": "https://pypi.org/project/jarscope/"
+}

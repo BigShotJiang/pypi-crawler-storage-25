@@ -1,0 +1,11 @@
+{
+  "name": "p1-hybrid-jailbreak-detector",
+  "version": "0.1.0",
+  "summary": "Hybrid LLM jailbreak and prompt injection detector. ModernBERT + LoRA + perplexity gate + FAISS similarity search.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "p1_hybrid_jailbreak_detector-0.1.0.tar.gz",
+  "download_time": "2026-04-25T09:59:51.150889",
+  "package_url": "https://pypi.org/project/p1-hybrid-jailbreak-detector/"
+}

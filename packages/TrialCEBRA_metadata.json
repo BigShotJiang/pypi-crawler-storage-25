@@ -1,11 +1,11 @@
 {
   "name": "TrialCEBRA",
-  "version": "0.0.1a2",
+  "version": "0.0.2",
   "summary": "Trial-aware contrastive learning wrapper for CEBRA",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trialcebra-0.0.1a2.tar.gz",
-  "download_time": "2026-04-18T11:55:35.390940",
+  "download_filename": "trialcebra-0.0.2.tar.gz",
+  "download_time": "2026-04-25T09:59:40.070155",
   "package_url": "https://pypi.org/project/TrialCEBRA/"
 }

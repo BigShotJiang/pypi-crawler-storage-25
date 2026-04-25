@@ -1,0 +1,11 @@
+{
+  "name": "coder-firefly-cli",
+  "version": "1.0.0",
+  "summary": "Firefly III CLI - 个人财务管理命令行工具",
+  "author": "coder",
+  "license": "MIT",
+  "home_page": "https://github.com/joyous-coder/coder-firefly-cli",
+  "download_filename": "coder_firefly_cli-1.0.0.tar.gz",
+  "download_time": "2026-04-25T09:59:47.319082",
+  "package_url": "https://pypi.org/project/coder-firefly-cli/"
+}
