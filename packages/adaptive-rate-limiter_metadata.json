@@ -1,0 +1,11 @@
+{
+  "name": "adaptive-rate-limiter",
+  "version": "1.0.2",
+  "summary": "Adaptive rate limiting for API clients with multi-provider support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adaptive_rate_limiter-1.0.2.tar.gz",
+  "download_time": "2026-04-25T08:00:25.983189",
+  "package_url": "https://pypi.org/project/adaptive-rate-limiter/"
+}

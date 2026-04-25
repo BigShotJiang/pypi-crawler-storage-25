@@ -1,11 +1,11 @@
 {
   "name": "ite-agent",
-  "version": "0.0.30",
+  "version": "0.0.37",
   "summary": "Interactive Terminal Environment — an AI coding agent for your terminal",
   "author": "Kiishi David",
   "license": null,
   "home_page": null,
-  "download_filename": "ite_agent-0.0.30.tar.gz",
-  "download_time": "2026-04-20T21:14:00.361218",
+  "download_filename": "ite_agent-0.0.37.tar.gz",
+  "download_time": "2026-04-25T08:00:26.505891",
   "package_url": "https://pypi.org/project/ite-agent/"
 }

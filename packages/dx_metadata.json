@@ -1,11 +1,11 @@
 {
   "name": "dx",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "nteract/dx — efficient display and blob-store uploads from Python kernels",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dx-2.0.2.tar.gz",
-  "download_time": "2026-04-24T23:19:18.651225",
+  "download_filename": "dx-2.0.3.tar.gz",
+  "download_time": "2026-04-25T08:00:29.189589",
   "package_url": "https://pypi.org/project/dx/"
 }

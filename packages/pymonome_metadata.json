@@ -1,0 +1,11 @@
+{
+  "name": "pymonome",
+  "version": "0.12.1",
+  "summary": "a monome serialosc client in python",
+  "author": "Artem Popov",
+  "license": "MIT",
+  "home_page": "https://github.com/artfwo/pymonome",
+  "download_filename": "pymonome-0.12.1.tar.gz",
+  "download_time": "2026-04-25T08:00:37.195069",
+  "package_url": "https://pypi.org/project/pymonome/"
+}

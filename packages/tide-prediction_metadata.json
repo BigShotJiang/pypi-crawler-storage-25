@@ -1,11 +1,11 @@
 {
   "name": "tide-prediction",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "Tide prediction library",
   "author": "Frédéric Pidancier",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tide_prediction-1.0.2-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
-  "download_time": "2026-04-21T23:41:00.348199",
+  "download_filename": "tide_prediction-1.1.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-04-25T08:00:18.564375",
   "package_url": "https://pypi.org/project/tide-prediction/"
 }

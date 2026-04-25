@@ -1,0 +1,11 @@
+{
+  "name": "oss-issue-analyzer",
+  "version": "1.0.0",
+  "summary": "A CLI tool that helps first-time open source contributors analyze GitHub issues against local repositories.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oss_issue_analyzer-1.0.0.tar.gz",
+  "download_time": "2026-04-25T08:00:09.239328",
+  "package_url": "https://pypi.org/project/oss-issue-analyzer/"
+}

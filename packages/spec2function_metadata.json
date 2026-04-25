@@ -1,0 +1,11 @@
+{
+  "name": "spec2function",
+  "version": "0.2.0",
+  "summary": "Deep learning model for MS2 spectrum annotation and metabolite set analysis",
+  "author": "Feifan Zhang",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "home_page": "https://huggingface.co/cgxjdzz/ms2function-assets",
+  "download_filename": "spec2function-0.2.0.tar.gz",
+  "download_time": "2026-04-25T08:00:28.099739",
+  "package_url": "https://pypi.org/project/spec2function/"
+}

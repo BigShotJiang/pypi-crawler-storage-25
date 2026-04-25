@@ -1,11 +1,11 @@
 {
   "name": "autonoma-ai",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "summary": "Autonoma SDK — automate the Autonoma Environment Factory endpoint",
   "author": "Autonoma AI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "autonoma_ai-0.1.7.tar.gz",
-  "download_time": "2026-04-21T23:01:56.535375",
+  "download_filename": "autonoma_ai-0.2.0.tar.gz",
+  "download_time": "2026-04-25T08:00:38.785960",
   "package_url": "https://pypi.org/project/autonoma-ai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fyrnheim",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "summary": "Define typed Python entities, generate transformations, run anywhere. A dbt alternative built on Pydantic + Ibis.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fyrnheim-0.10.0.tar.gz",
-  "download_time": "2026-04-25T05:06:51.031860",
+  "download_filename": "fyrnheim-0.10.1.tar.gz",
+  "download_time": "2026-04-25T08:00:00.376739",
   "package_url": "https://pypi.org/project/fyrnheim/"
 }

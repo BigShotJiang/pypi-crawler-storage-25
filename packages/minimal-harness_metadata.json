@@ -1,11 +1,11 @@
 {
   "name": "minimal-harness",
-  "version": "0.3.0",
+  "version": "0.4.2.post1",
   "summary": "An exploration of making an agent sdk as lean as possible while being effective.",
   "author": "J0ey1iu",
   "license": null,
   "home_page": null,
-  "download_filename": "minimal_harness-0.3.0.tar.gz",
-  "download_time": "2026-04-21T07:57:23.095277",
+  "download_filename": "minimal_harness-0.4.2.post1.tar.gz",
+  "download_time": "2026-04-25T07:59:54.755662",
   "package_url": "https://pypi.org/project/minimal-harness/"
 }
