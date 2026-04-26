@@ -1,0 +1,11 @@
+{
+  "name": "alp-codec",
+  "version": "0.8.0",
+  "summary": "Pure Python implementation of ALP (Adaptive Lossless floating-Point) compression — port of QTSurfer/alp-java.",
+  "author": "Wualabs LTD",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "alp_codec-0.8.0.tar.gz",
+  "download_time": "2026-04-26T22:30:13.946750",
+  "package_url": "https://pypi.org/project/alp-codec/"
+}

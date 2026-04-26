@@ -1,0 +1,11 @@
+{
+  "name": "flasheda",
+  "version": "0.1.3",
+  "summary": "Constant-time EDA for any dataset size — one line, fixed time.",
+  "author": "Japanjot Singh",
+  "license": null,
+  "home_page": "https://github.com/sjapanjots/flasheda",
+  "download_filename": "flasheda-0.1.3.tar.gz",
+  "download_time": "2026-04-26T22:30:49.166105",
+  "package_url": "https://pypi.org/project/flasheda/"
+}

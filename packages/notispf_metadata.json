@@ -1,11 +1,11 @@
 {
   "name": "notispf",
-  "version": "1.0.5",
+  "version": "1.2.0",
   "summary": "A terminal text editor inspired by the ISPF editor from z/OS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "notispf-1.0.5.tar.gz",
-  "download_time": "2026-04-16T20:51:52.189278",
+  "download_filename": "notispf-1.2.0.tar.gz",
+  "download_time": "2026-04-26T22:30:15.999395",
   "package_url": "https://pypi.org/project/notispf/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "powerbi-tmdl-tools",
+  "version": "1.0.5",
+  "summary": "Convert Power BI/Tabular TMDL and PBIP semantic models to JSON and generate Mermaid ERDs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "powerbi_tmdl_tools-1.0.5.tar.gz",
+  "download_time": "2026-04-26T22:30:33.073743",
+  "package_url": "https://pypi.org/project/powerbi-tmdl-tools/"
+}
