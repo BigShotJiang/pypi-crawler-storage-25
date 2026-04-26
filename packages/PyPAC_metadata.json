@@ -1,0 +1,11 @@
+{
+  "name": "PyPAC",
+  "version": "0.18.2",
+  "summary": "Proxy auto-config and auto-discovery for Python.",
+  "author": "Carson Lam",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/carsonyl/pypac",
+  "download_filename": "pypac-0.18.2-py2.py3-none-any.whl",
+  "download_time": "2026-04-26T04:41:03.649856",
+  "package_url": "https://pypi.org/project/PyPAC/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "either-option",
+  "version": "0.1.0",
+  "summary": "Railway-Oriented Programming for Python — Option[T] and Either[T, E] sum types with sync + async combinators, sealed pattern matching, and 100% branch coverage.",
+  "author": "Bao Do",
+  "license": null,
+  "home_page": null,
+  "download_filename": "either_option-0.1.0.tar.gz",
+  "download_time": "2026-04-26T04:40:55.944903",
+  "package_url": "https://pypi.org/project/either-option/"
+}

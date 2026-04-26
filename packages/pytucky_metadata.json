@@ -1,0 +1,11 @@
+{
+  "name": "pytucky",
+  "version": "1.2.0",
+  "summary": "Lightweight single-engine Python document database - pytuck format only, no SQL, high-performance embedded storage",
+  "author": "go9sky",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytucky-1.2.0-py3-none-any.whl",
+  "download_time": "2026-04-26T04:40:53.860000",
+  "package_url": "https://pypi.org/project/pytucky/"
+}

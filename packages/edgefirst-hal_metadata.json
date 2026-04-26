@@ -1,11 +1,11 @@
 {
   "name": "edgefirst-hal",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "summary": "Hardware Abstraction Layer for edge AI with zero-copy tensors, image processing, and YOLO decoding",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://edgefirst.ai",
-  "download_filename": "edgefirst_hal-0.17.0.tar.gz",
-  "download_time": "2026-04-22T15:55:53.556169",
+  "download_filename": "edgefirst_hal-0.18.0.tar.gz",
+  "download_time": "2026-04-26T04:41:17.159481",
   "package_url": "https://pypi.org/project/edgefirst-hal/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "h2o-connector-service",
+  "version": "0.1.0.dev11001",
+  "summary": "Python client SDK for the H2O Connector Service — create connectors, open connections, and stream extracted data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "h2o_connector_service-0.1.0.dev11001.tar.gz",
+  "download_time": "2026-04-26T04:41:12.487231",
+  "package_url": "https://pypi.org/project/h2o-connector-service/"
+}

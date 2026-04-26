@@ -1,11 +1,11 @@
 {
   "name": "kailash-mcp",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "Production-ready Model Context Protocol (MCP) client, server, and platform for Kailash SDK",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "kailash_mcp-0.2.9-py3-none-any.whl",
-  "download_time": "2026-04-24T06:14:47.513850",
+  "download_filename": "kailash_mcp-0.2.10-py3-none-any.whl",
+  "download_time": "2026-04-26T04:41:26.476758",
   "package_url": "https://pypi.org/project/kailash-mcp/"
 }

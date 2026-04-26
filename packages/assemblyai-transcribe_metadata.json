@@ -1,0 +1,11 @@
+{
+  "name": "assemblyai-transcribe",
+  "version": "0.1.0a2",
+  "summary": "Small CLI for uploading local audio to AssemblyAI and printing or saving transcripts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "assemblyai_transcribe-0.1.0a2.tar.gz",
+  "download_time": "2026-04-26T04:41:04.719039",
+  "package_url": "https://pypi.org/project/assemblyai-transcribe/"
+}

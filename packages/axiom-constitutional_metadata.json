@@ -1,11 +1,11 @@
 {
   "name": "axiom-constitutional",
-  "version": "1.8.3",
+  "version": "1.8.5",
   "summary": "A declarative language for constitutional AI agents — with domain governance packages for government, finance, and healthcare",
   "author": "Antonio Roberts",
   "license": null,
   "home_page": null,
-  "download_filename": "axiom_constitutional-1.8.3.tar.gz",
-  "download_time": "2026-04-24T20:52:54.067837",
+  "download_filename": "axiom_constitutional-1.8.5.tar.gz",
+  "download_time": "2026-04-26T04:41:21.851530",
   "package_url": "https://pypi.org/project/axiom-constitutional/"
 }

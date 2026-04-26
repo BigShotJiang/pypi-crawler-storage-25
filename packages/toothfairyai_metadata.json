@@ -1,11 +1,11 @@
 {
   "name": "toothfairyai",
-  "version": "0.6.3",
+  "version": "0.8.0",
   "summary": "Official Python SDK for ToothFairyAI API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "toothfairyai-0.6.3.tar.gz",
-  "download_time": "2026-04-13T06:19:19.624206",
+  "download_filename": "toothfairyai-0.8.0.tar.gz",
+  "download_time": "2026-04-26T04:41:07.812613",
   "package_url": "https://pypi.org/project/toothfairyai/"
 }

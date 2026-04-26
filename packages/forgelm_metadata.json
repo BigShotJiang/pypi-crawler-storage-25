@@ -1,0 +1,11 @@
+{
+  "name": "forgelm",
+  "version": "0.4.0",
+  "summary": "Config-driven LLM fine-tuning with safety evaluation, EU AI Act compliance, and 6 alignment methods.",
+  "author": "ForgeLM Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "forgelm-0.4.0.tar.gz",
+  "download_time": "2026-04-26T04:41:28.046808",
+  "package_url": "https://pypi.org/project/forgelm/"
+}

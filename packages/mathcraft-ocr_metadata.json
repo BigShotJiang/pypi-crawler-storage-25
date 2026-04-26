@@ -1,11 +1,11 @@
 {
   "name": "mathcraft-ocr",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "ONNX-only OCR runtime for mathematical documents",
   "author": "SakuraMathcraft",
   "license": null,
   "home_page": null,
-  "download_filename": "mathcraft_ocr-0.1.5.tar.gz",
-  "download_time": "2026-04-25T10:00:16.569230",
+  "download_filename": "mathcraft_ocr-0.1.6.tar.gz",
+  "download_time": "2026-04-26T04:40:56.457474",
   "package_url": "https://pypi.org/project/mathcraft-ocr/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "memtomem",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "summary": "Markdown-first memory infrastructure for AI agents with hybrid search",
   "author": "memtomem contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "memtomem-0.1.30.tar.gz",
-  "download_time": "2026-04-25T23:16:00.018715",
+  "download_filename": "memtomem-0.1.31.tar.gz",
+  "download_time": "2026-04-26T04:41:32.253635",
   "package_url": "https://pypi.org/project/memtomem/"
 }

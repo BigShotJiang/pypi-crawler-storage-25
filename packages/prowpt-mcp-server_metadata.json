@@ -1,11 +1,11 @@
 {
   "name": "prowpt-mcp-server",
-  "version": "0.2.0",
-  "summary": "MCP server for Prowpt.ai — lets AI agents create, edit, and publish web apps",
+  "version": "0.3.0",
+  "summary": "MCP server for Prowpt.ai — lets AI agents create, edit, and publish web apps. Supports stdio (local) and Streamable HTTP (remote) transports.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prowpt_mcp_server-0.2.0.tar.gz",
-  "download_time": "2026-04-13T10:40:12.540332",
+  "download_filename": "prowpt_mcp_server-0.3.0.tar.gz",
+  "download_time": "2026-04-26T04:41:01.605641",
   "package_url": "https://pypi.org/project/prowpt-mcp-server/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "orthohmm",
+  "version": "0.2.0",
+  "summary": "HMM-based orthogroups",
+  "author": "Jacob L. Steenwyk",
+  "license": null,
+  "home_page": "https://github.com/jlsteenwyk/orthohmm",
+  "download_filename": "orthohmm-0.2.0.tar.gz",
+  "download_time": "2026-04-26T04:41:25.453070",
+  "package_url": "https://pypi.org/project/orthohmm/"
+}

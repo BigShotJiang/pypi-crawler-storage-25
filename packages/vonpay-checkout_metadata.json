@@ -1,11 +1,11 @@
 {
   "name": "vonpay-checkout",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Von Payments Checkout SDK for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vonpay_checkout-0.3.0.tar.gz",
-  "download_time": "2026-04-25T21:29:33.217347",
+  "download_filename": "vonpay_checkout-0.4.0.tar.gz",
+  "download_time": "2026-04-26T04:41:12.997863",
   "package_url": "https://pypi.org/project/vonpay-checkout/"
 }

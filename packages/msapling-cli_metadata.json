@@ -1,11 +1,11 @@
 {
   "name": "msapling-cli",
-  "version": "0.1.6",
+  "version": "0.1.11",
   "summary": "MSapling CLI - Multi-chat AI development environment in your terminal",
   "author": "MSapling Team",
   "license": null,
   "home_page": null,
-  "download_filename": "msapling_cli-0.1.6.tar.gz",
-  "download_time": "2026-03-29T02:14:50.382656",
+  "download_filename": "msapling_cli-0.1.11.tar.gz",
+  "download_time": "2026-04-26T04:40:53.348788",
   "package_url": "https://pypi.org/project/msapling-cli/"
 }
