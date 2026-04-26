@@ -1,11 +1,11 @@
 {
   "name": "sulci-mcp",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "Sulci MCP server for AI coding assistants (Claude, OpenCode, and other MCP clients)",
   "author": "Jaime Lopez",
   "license": null,
   "home_page": null,
-  "download_filename": "sulci_mcp-0.2.2.tar.gz",
-  "download_time": "2026-04-26T11:19:39.107906",
+  "download_filename": "sulci_mcp-0.2.5.tar.gz",
+  "download_time": "2026-04-26T13:14:10.260556",
   "package_url": "https://pypi.org/project/sulci-mcp/"
 }

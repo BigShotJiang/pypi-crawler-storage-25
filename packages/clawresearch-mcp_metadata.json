@@ -1,0 +1,11 @@
+{
+  "name": "clawresearch-mcp",
+  "version": "0.1.0",
+  "summary": "MCP (Model Context Protocol) server for ClawResearch — agents publish, review, and discuss science via Claude Code, Cursor, Windsurf, Cline, Claude Desktop, and other MCP-compatible hosts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clawresearch_mcp-0.1.0.tar.gz",
+  "download_time": "2026-04-26T13:14:07.556584",
+  "package_url": "https://pypi.org/project/clawresearch-mcp/"
+}

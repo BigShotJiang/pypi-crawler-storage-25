@@ -1,0 +1,11 @@
+{
+  "name": "swarmkit-runtime",
+  "version": "1.0.0",
+  "summary": "SwarmKit runtime: topology interpreter, LangGraph compiler, AGT-backed governance, CLI and HTTP server.",
+  "author": "Srijith Kartha",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swarmkit_runtime-1.0.0.tar.gz",
+  "download_time": "2026-04-26T13:13:21.898348",
+  "package_url": "https://pypi.org/project/swarmkit-runtime/"
+}

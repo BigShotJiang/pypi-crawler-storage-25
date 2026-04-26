@@ -1,11 +1,11 @@
 {
   "name": "tic-identity-python",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Unofficial Python client for TIC Identity (id.tic.io) — BankID authentication and digital signing",
   "author": "Liam Lenholm",
   "license": null,
   "home_page": null,
-  "download_filename": "tic_identity_python-0.2.0.tar.gz",
-  "download_time": "2026-04-22T18:54:29.477246",
+  "download_filename": "tic_identity_python-0.2.1.tar.gz",
+  "download_time": "2026-04-26T13:13:49.753331",
   "package_url": "https://pypi.org/project/tic-identity-python/"
 }

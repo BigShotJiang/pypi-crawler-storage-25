@@ -1,0 +1,11 @@
+{
+  "name": "recdb",
+  "version": "0.3.0",
+  "summary": "A sqlite3-compatible DB-API adapter for GNU recfiles",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "recdb-0.3.0.tar.gz",
+  "download_time": "2026-04-26T13:13:31.992759",
+  "package_url": "https://pypi.org/project/recdb/"
+}

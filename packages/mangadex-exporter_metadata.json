@@ -1,0 +1,11 @@
+{
+  "name": "mangadex-exporter",
+  "version": "2.0.3",
+  "summary": "Export your MangaDex library to MyAnimeList and AniList — with scores, statuses, and chapter progress",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mangadex_exporter-2.0.3.tar.gz",
+  "download_time": "2026-04-26T13:13:44.192219",
+  "package_url": "https://pypi.org/project/mangadex-exporter/"
+}

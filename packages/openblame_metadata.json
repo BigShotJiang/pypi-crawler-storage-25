@@ -1,11 +1,11 @@
 {
   "name": "openblame",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "Local-first AI investigation CLI for OpenMetadata data pipelines.",
   "author": "OpenBlame Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openblame-0.1.0.tar.gz",
-  "download_time": "2026-04-19T07:34:06.568829",
+  "download_filename": "openblame-0.1.4.tar.gz",
+  "download_time": "2026-04-26T13:13:24.784757",
   "package_url": "https://pypi.org/project/openblame/"
 }

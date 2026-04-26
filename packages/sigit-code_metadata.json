@@ -1,0 +1,11 @@
+{
+  "name": "sigit-code",
+  "version": "1.0.0",
+  "summary": "AI coding agent powered by local LLM via Onde Inference.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://smbcloud.xyz",
+  "download_filename": "sigit_code-1.0.0.tar.gz",
+  "download_time": "2026-04-26T13:13:50.327221",
+  "package_url": "https://pypi.org/project/sigit-code/"
+}

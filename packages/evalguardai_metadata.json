@@ -1,11 +1,11 @@
 {
   "name": "evalguardai",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Python SDK for EvalGuard -- evaluate, red-team, and guard LLM applications with drop-in framework integrations",
   "author": "EvalGuard",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": "https://github.com/EvalGuardAi/evalguard",
-  "download_filename": "evalguardai-1.1.0.tar.gz",
-  "download_time": "2026-04-12T05:59:05.420733",
+  "download_filename": "evalguardai-1.2.0.tar.gz",
+  "download_time": "2026-04-26T13:14:09.720556",
   "package_url": "https://pypi.org/project/evalguardai/"
 }

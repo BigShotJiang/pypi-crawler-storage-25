@@ -1,0 +1,11 @@
+{
+  "name": "dbt-semguard",
+  "version": "0.5.2",
+  "summary": "Catch semantic breaking changes in dbt metrics before they land in production.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbt_semguard-0.5.2.tar.gz",
+  "download_time": "2026-04-26T13:14:03.924356",
+  "package_url": "https://pypi.org/project/dbt-semguard/"
+}

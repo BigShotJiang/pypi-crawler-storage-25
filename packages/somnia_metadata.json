@@ -1,11 +1,11 @@
 {
   "name": "somnia",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "A modular AI agent CLI inspired by the full reference harness.",
   "author": "Somnia Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "somnia-0.5.1.tar.gz",
-  "download_time": "2026-04-26T06:45:51.524111",
+  "download_filename": "somnia-0.5.2.tar.gz",
+  "download_time": "2026-04-26T13:13:37.603819",
   "package_url": "https://pypi.org/project/somnia/"
 }

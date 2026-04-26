@@ -1,11 +1,11 @@
 {
   "name": "scaffold-framework",
-  "version": "0.9.4",
+  "version": "0.9.9",
   "summary": "A web framework that makes it easy to build apps according to SOLID & DDD principles and with layered/onion architecture.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scaffold_framework-0.9.4-py3-none-any.whl",
-  "download_time": "2026-04-22T21:16:45.776439",
+  "download_filename": "scaffold_framework-0.9.9-py3-none-any.whl",
+  "download_time": "2026-04-26T13:13:33.660629",
   "package_url": "https://pypi.org/project/scaffold-framework/"
 }
