@@ -1,0 +1,11 @@
+{
+  "name": "sqlite-export-for-ynab",
+  "version": "2.5.1",
+  "summary": "SQLite Export for YNAB - Export YNAB Data to SQLite",
+  "author": "Max R",
+  "license": "MIT",
+  "home_page": "https://github.com/mxr/sqlite-export-for-ynab",
+  "download_filename": "sqlite_export_for_ynab-2.5.1.tar.gz",
+  "download_time": "2026-04-26T19:39:04.753722",
+  "package_url": "https://pypi.org/project/sqlite-export-for-ynab/"
+}

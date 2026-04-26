@@ -1,0 +1,11 @@
+{
+  "name": "outlook-classic-mcp",
+  "version": "0.2.0",
+  "summary": "Local MCP server for classic Outlook desktop on Windows (COM, no Azure app required).",
+  "author": "Anas Shaikh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "outlook_classic_mcp-0.2.0.tar.gz",
+  "download_time": "2026-04-26T19:39:06.649271",
+  "package_url": "https://pypi.org/project/outlook-classic-mcp/"
+}

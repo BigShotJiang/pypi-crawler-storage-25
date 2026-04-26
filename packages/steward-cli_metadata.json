@@ -1,11 +1,11 @@
 {
   "name": "steward-cli",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "Steward — aligns and maintains resident agents across Culture projects.",
   "author": "AgentCulture",
   "license": null,
   "home_page": null,
-  "download_filename": "steward_cli-0.2.0.tar.gz",
-  "download_time": "2026-04-26T14:22:25.234535",
+  "download_filename": "steward_cli-0.3.1.tar.gz",
+  "download_time": "2026-04-26T19:38:31.276268",
   "package_url": "https://pypi.org/project/steward-cli/"
 }

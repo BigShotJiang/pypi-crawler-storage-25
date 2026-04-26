@@ -1,11 +1,11 @@
 {
   "name": "apple-notes-brain",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "MCP server for Apple Notes on macOS — read, write, and search with full Markdown round-trip. Reads via SQLite (sub-100ms, concurrent with Notes.app), writes via AppleScript (preserves iCloud sync). Part of the -brain family.",
   "author": "sweir1",
   "license": null,
   "home_page": null,
-  "download_filename": "apple_notes_brain-1.0.2.tar.gz",
-  "download_time": "2026-04-26T18:37:31.257115",
+  "download_filename": "apple_notes_brain-1.0.3.tar.gz",
+  "download_time": "2026-04-26T19:38:58.584114",
   "package_url": "https://pypi.org/project/apple-notes-brain/"
 }

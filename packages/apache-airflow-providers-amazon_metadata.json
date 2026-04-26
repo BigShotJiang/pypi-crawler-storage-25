@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-amazon",
-  "version": "9.24.0",
+  "version": "9.26.0",
   "summary": "Provider package apache-airflow-providers-amazon for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_amazon-9.24.0.tar.gz",
-  "download_time": "2026-04-12T22:03:02.367124",
+  "download_filename": "apache_airflow_providers_amazon-9.26.0.tar.gz",
+  "download_time": "2026-04-26T19:38:48.104954",
   "package_url": "https://pypi.org/project/apache-airflow-providers-amazon/"
 }

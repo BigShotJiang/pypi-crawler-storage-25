@@ -1,11 +1,11 @@
 {
   "name": "omniq",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "summary": "OmniQ v1 - Redis+Lua queue Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "omniq-3.0.0.tar.gz",
-  "download_time": "2026-04-05T12:57:47.288520",
+  "download_filename": "omniq-3.1.0.tar.gz",
+  "download_time": "2026-04-26T19:38:15.608621",
   "package_url": "https://pypi.org/project/omniq/"
 }

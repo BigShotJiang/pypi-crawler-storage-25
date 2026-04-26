@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-ssh",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "summary": "Provider package apache-airflow-providers-ssh for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_ssh-5.0.0.tar.gz",
-  "download_time": "2026-04-12T14:29:25.164463",
+  "download_filename": "apache_airflow_providers_ssh-5.0.1.tar.gz",
+  "download_time": "2026-04-26T19:38:34.477559",
   "package_url": "https://pypi.org/project/apache-airflow-providers-ssh/"
 }

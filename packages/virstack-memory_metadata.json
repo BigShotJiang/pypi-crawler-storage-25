@@ -1,0 +1,11 @@
+{
+  "name": "virstack-memory",
+  "version": "0.1.0",
+  "summary": "Python SDK for interacting with the Memory server with multi-tenant scope isolation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "virstack_memory-0.1.0.tar.gz",
+  "download_time": "2026-04-26T19:39:00.279285",
+  "package_url": "https://pypi.org/project/virstack-memory/"
+}

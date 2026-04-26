@@ -1,0 +1,11 @@
+{
+  "name": "moonlette",
+  "version": "0.0.2",
+  "summary": "A simple web server with websocket support based on starlette and uvicorn",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moonlette-0.0.2.tar.gz",
+  "download_time": "2026-04-26T19:38:54.910808",
+  "package_url": "https://pypi.org/project/moonlette/"
+}

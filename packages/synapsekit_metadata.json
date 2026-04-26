@@ -1,11 +1,11 @@
 {
   "name": "synapsekit",
-  "version": "1.5.2",
+  "version": "1.6.0",
   "summary": "Async-native Python framework for building LLM applications — RAG pipelines, tool-using agents, and graph workflows. Streaming-first, transparent API, 2 hard deps.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "synapsekit-1.5.2.tar.gz",
-  "download_time": "2026-04-09T19:54:32.468152",
+  "download_filename": "synapsekit-1.6.0.tar.gz",
+  "download_time": "2026-04-26T19:38:16.966263",
   "package_url": "https://pypi.org/project/synapsekit/"
 }

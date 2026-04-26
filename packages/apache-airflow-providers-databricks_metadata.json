@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-databricks",
-  "version": "7.12.1",
+  "version": "7.13.0",
   "summary": "Provider package apache-airflow-providers-databricks for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_databricks-7.12.1.tar.gz",
-  "download_time": "2026-04-12T14:30:01.419194",
+  "download_filename": "apache_airflow_providers_databricks-7.13.0.tar.gz",
+  "download_time": "2026-04-26T19:38:44.871863",
   "package_url": "https://pypi.org/project/apache-airflow-providers-databricks/"
 }

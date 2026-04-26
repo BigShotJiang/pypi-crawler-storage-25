@@ -1,0 +1,11 @@
+{
+  "name": "relator",
+  "version": "0.1.0",
+  "summary": "Simple markdown/html report templating with loops, tables, lists and media.",
+  "author": "reporting maintainers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "relator-0.1.0.tar.gz",
+  "download_time": "2026-04-26T19:38:18.792534",
+  "package_url": "https://pypi.org/project/relator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gurobi-machinelearning",
+  "version": "1.5.6",
+  "summary": "package to insert ML models in Gurobi",
+  "author": "Gurobi Optimization LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gurobi_machinelearning-1.5.6.tar.gz",
+  "download_time": "2026-04-26T19:38:13.186270",
+  "package_url": "https://pypi.org/project/gurobi-machinelearning/"
+}
