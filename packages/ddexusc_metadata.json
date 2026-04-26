@@ -1,0 +1,11 @@
+{
+  "name": "ddexusc",
+  "version": "2.1.0",
+  "summary": "Official Python client for ddexus platform",
+  "author": "ddexus Team",
+  "license": "MIT",
+  "home_page": "https://github.com/ddexus/ddexusc",
+  "download_filename": "ddexusc-2.1.0.tar.gz",
+  "download_time": "2026-04-26T10:20:01.621392",
+  "package_url": "https://pypi.org/project/ddexusc/"
+}

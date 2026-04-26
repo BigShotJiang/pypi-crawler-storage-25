@@ -1,11 +1,11 @@
 {
   "name": "linkfile-cli",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Offline-first LinkFile command line interface.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "linkfile_cli-0.1.0.tar.gz",
-  "download_time": "2026-04-25T13:47:43.925231",
+  "download_filename": "linkfile_cli-0.1.2.tar.gz",
+  "download_time": "2026-04-26T10:19:55.475612",
   "package_url": "https://pypi.org/project/linkfile-cli/"
 }

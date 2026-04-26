@@ -1,0 +1,11 @@
+{
+  "name": "hivehub-nexus-sdk",
+  "version": "1.15.0",
+  "summary": "Official Python SDK for Nexus graph database",
+  "author": "HiveLLM Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hivehub_nexus_sdk-1.15.0.tar.gz",
+  "download_time": "2026-04-26T10:19:36.961241",
+  "package_url": "https://pypi.org/project/hivehub-nexus-sdk/"
+}

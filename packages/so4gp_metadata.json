@@ -1,11 +1,11 @@
 {
   "name": "so4gp",
-  "version": "0.7.9",
+  "version": "0.8.7",
   "summary": "Some Python optimization algorithms for mining gradual patterns.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "so4gp-0.7.9.tar.gz",
-  "download_time": "2026-04-17T19:37:05.902605",
+  "download_filename": "so4gp-0.8.7.tar.gz",
+  "download_time": "2026-04-26T10:19:25.034682",
   "package_url": "https://pypi.org/project/so4gp/"
 }

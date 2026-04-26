@@ -1,11 +1,11 @@
 {
   "name": "agentic-metric-x",
-  "version": "0.3.2",
+  "version": "0.3.5",
   "summary": "Local-only monitoring tool for AI coding agents — track token usage and costs across Claude Code and Codex",
   "author": "xihuai18",
   "license": null,
   "home_page": null,
-  "download_filename": "agentic_metric_x-0.3.2.tar.gz",
-  "download_time": "2026-04-25T16:49:43.476007",
+  "download_filename": "agentic_metric_x-0.3.5.tar.gz",
+  "download_time": "2026-04-26T10:19:43.724537",
   "package_url": "https://pypi.org/project/agentic-metric-x/"
 }

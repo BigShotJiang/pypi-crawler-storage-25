@@ -1,0 +1,11 @@
+{
+  "name": "heywaffle",
+  "version": "0.1.3",
+  "summary": "Webhook routing + Claude Agent SDK observability",
+  "author": "Stef van den Ham",
+  "license": "MIT",
+  "home_page": "https://heywaffle.dev",
+  "download_filename": "heywaffle-0.1.3.tar.gz",
+  "download_time": "2026-04-26T10:19:24.012057",
+  "package_url": "https://pypi.org/project/heywaffle/"
+}

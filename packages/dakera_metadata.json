@@ -1,11 +1,11 @@
 {
   "name": "dakera",
-  "version": "0.11.31",
+  "version": "0.11.36",
   "summary": "Python SDK for Dakera - AI memory platform",
   "author": "Dakera Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dakera-0.11.31.tar.gz",
-  "download_time": "2026-04-25T09:59:54.442996",
+  "download_filename": "dakera-0.11.36.tar.gz",
+  "download_time": "2026-04-26T10:19:23.501549",
   "package_url": "https://pypi.org/project/dakera/"
 }

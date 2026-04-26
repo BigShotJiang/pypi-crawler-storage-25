@@ -1,11 +1,11 @@
 {
   "name": "adscan",
-  "version": "6.4.1",
-  "summary": "ADscan launcher (host-side) that orchestrates Docker to run the ADscan runtime.",
+  "version": "8.0.0",
+  "summary": "Free Active Directory pentesting CLI for AD enumeration, BloodHound, Kerberoasting, AS-REP roasting, ADCS, DCSync, password spraying, and CTF labs.",
   "author": "ADscan",
   "license": null,
   "home_page": null,
-  "download_filename": "adscan-6.4.1.tar.gz",
-  "download_time": "2026-04-07T10:44:33.552056",
+  "download_filename": "adscan-8.0.0.tar.gz",
+  "download_time": "2026-04-26T10:19:28.609211",
   "package_url": "https://pypi.org/project/adscan/"
 }

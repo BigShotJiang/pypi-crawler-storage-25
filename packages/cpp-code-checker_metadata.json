@@ -1,11 +1,11 @@
 {
   "name": "cpp-code-checker",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "C++代码规范检查工具 - 支持命名规范、代码风格和最佳实践检查",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cpp_code_checker-1.0.5.tar.gz",
-  "download_time": "2026-04-25T09:59:45.089433",
+  "download_filename": "cpp_code_checker-1.0.7.tar.gz",
+  "download_time": "2026-04-26T10:19:28.098429",
   "package_url": "https://pypi.org/project/cpp-code-checker/"
 }

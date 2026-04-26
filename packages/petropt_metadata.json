@@ -1,0 +1,11 @@
+{
+  "name": "petropt",
+  "version": "0.3.2",
+  "summary": "Open-source Python library for petroleum & reservoir engineering — PVT, IPR, decline, multiphase flow, material balance, petrophysics (Archie/Simandoux/Timur), rate transient analysis (Blasingame / Agarwal-Gardner / NPI), drilling (API 5C3 collapse, Barlow burst), production (Turner/Coleman/Katz/Gilbert), economics, well log I/O. MIT licensed.",
+  "author": "Mehrdad G. Shirangi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "petropt-0.3.2.tar.gz",
+  "download_time": "2026-04-26T10:19:58.045951",
+  "package_url": "https://pypi.org/project/petropt/"
+}

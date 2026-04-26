@@ -1,0 +1,11 @@
+{
+  "name": "cullis-connector",
+  "version": "0.3.2",
+  "summary": "MCP server bridging local MCP clients (Claude Code, Cursor, Claude Desktop, ToolHive) to the Cullis federated agent-trust network.",
+  "author": null,
+  "license": "FSL-1.1-Apache-2.0",
+  "home_page": null,
+  "download_filename": "cullis_connector-0.3.2.tar.gz",
+  "download_time": "2026-04-26T10:19:30.141849",
+  "package_url": "https://pypi.org/project/cullis-connector/"
+}

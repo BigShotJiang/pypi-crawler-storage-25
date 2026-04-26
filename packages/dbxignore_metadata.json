@@ -1,11 +1,11 @@
 {
   "name": "dbxignore",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Hierarchical .dropboxignore for Dropbox on Windows (NTFS ADS) and Linux (xattrs)",
   "author": "Kilo Scheffer",
   "license": null,
   "home_page": null,
-  "download_filename": "dbxignore-0.3.1.tar.gz",
-  "download_time": "2026-04-25T22:09:07.928920",
+  "download_filename": "dbxignore-0.3.2.tar.gz",
+  "download_time": "2026-04-26T10:19:38.492295",
   "package_url": "https://pypi.org/project/dbxignore/"
 }

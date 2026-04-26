@@ -1,11 +1,11 @@
 {
   "name": "git-commit-guard",
-  "version": "0.14.1",
+  "version": "0.15.1",
   "summary": "Opinionated conventional commit message linter with imperative mood detection",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "git_commit_guard-0.14.1.tar.gz",
-  "download_time": "2026-04-25T09:10:00.113696",
+  "download_filename": "git_commit_guard-0.15.1.tar.gz",
+  "download_time": "2026-04-26T10:19:20.369903",
   "package_url": "https://pypi.org/project/git-commit-guard/"
 }

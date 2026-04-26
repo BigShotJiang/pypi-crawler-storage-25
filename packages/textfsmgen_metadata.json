@@ -1,0 +1,11 @@
+{
+  "name": "textfsmgen",
+  "version": "0.6.1",
+  "summary": "TextFSM Generator is a low‑code, no‑code Python library that transforms simple, readable snippets into TextFSM templates, reducing manual effort and accelerating automation development.",
+  "author": "Tuyen Mathew Duong",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Geeks-Trident-LLC/textfsmgen",
+  "download_filename": "textfsmgen-0.6.1.tar.gz",
+  "download_time": "2026-04-26T10:19:45.759877",
+  "package_url": "https://pypi.org/project/textfsmgen/"
+}
