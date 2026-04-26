@@ -1,0 +1,11 @@
+{
+  "name": "toposync-ext-cameras",
+  "version": "0.1.1",
+  "summary": "Toposync first-party extension: RTSP cameras and camera pipeline operators.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toposync_ext_cameras-0.1.1.tar.gz",
+  "download_time": "2026-04-26T18:37:21.937280",
+  "package_url": "https://pypi.org/project/toposync-ext-cameras/"
+}

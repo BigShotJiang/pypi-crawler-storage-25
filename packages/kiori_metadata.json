@@ -1,11 +1,11 @@
 {
   "name": "kiori",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "A minimalist library with as few dependencies as possible.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kiori-1.2.0.tar.gz",
-  "download_time": "2026-04-26T17:46:05.713170",
+  "download_filename": "kiori-1.2.2.tar.gz",
+  "download_time": "2026-04-26T18:37:39.544300",
   "package_url": "https://pypi.org/project/kiori/"
 }

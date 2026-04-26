@@ -1,0 +1,11 @@
+{
+  "name": "penguin-burner",
+  "version": "0.1.2",
+  "summary": "Linux NVIDIA undervolting tool with Auto-UV and MSI Afterburner import support",
+  "author": "PenguinBurner contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "penguin_burner-0.1.2.tar.gz",
+  "download_time": "2026-04-26T18:37:36.465768",
+  "package_url": "https://pypi.org/project/penguin-burner/"
+}

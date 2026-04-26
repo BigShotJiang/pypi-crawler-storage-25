@@ -1,11 +1,11 @@
 {
   "name": "wrg-devguard",
-  "version": "0.1.0",
-  "summary": "Developer-first AI safety checks: prompt-policy lint + secret scanning. Zero-dep CLI + GitHub Action + Claude Skill + Cursor Rule.",
+  "version": "0.2.0",
+  "summary": "Developer-first AI safety checks: prompt-policy lint, secret scanning, and log scanning with PII detection. Zero-dep CLI + GitHub Action + Claude Skill + Cursor Rule.",
   "author": "Yakuphan Yucel",
   "license": null,
   "home_page": null,
-  "download_filename": "wrg_devguard-0.1.0.tar.gz",
-  "download_time": "2026-04-11T23:38:37.616841",
+  "download_filename": "wrg_devguard-0.2.0.tar.gz",
+  "download_time": "2026-04-26T18:37:26.068081",
   "package_url": "https://pypi.org/project/wrg-devguard/"
 }

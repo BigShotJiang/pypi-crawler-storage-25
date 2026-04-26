@@ -1,0 +1,11 @@
+{
+  "name": "kedro-databricks",
+  "version": "0.16.0",
+  "summary": "A plugin to run Kedro pipelines on Databricks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kedro_databricks-0.16.0.tar.gz",
+  "download_time": "2026-04-26T18:37:20.916208",
+  "package_url": "https://pypi.org/project/kedro-databricks/"
+}

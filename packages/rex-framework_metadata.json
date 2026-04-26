@@ -1,11 +1,11 @@
 {
   "name": "rex-framework",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "Remote Executable eXecution — inference with remotely-stored model weights",
   "author": "Rohan R",
   "license": null,
   "home_page": null,
-  "download_filename": "rex_framework-0.1.4.tar.gz",
-  "download_time": "2026-04-16T12:15:01.796783",
+  "download_filename": "rex_framework-0.1.7.tar.gz",
+  "download_time": "2026-04-26T18:37:37.490516",
   "package_url": "https://pypi.org/project/rex-framework/"
 }

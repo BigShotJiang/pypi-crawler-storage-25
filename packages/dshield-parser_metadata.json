@@ -1,0 +1,11 @@
+{
+  "name": "dshield-parser",
+  "version": "0.1.6",
+  "summary": "This program has utilities to download, parse and enrich DSHield honeypot data",
+  "author": "Jesse La Grew",
+  "license": null,
+  "home_page": "https://github.com/jslagrew/dshield-parser",
+  "download_filename": "dshield_parser-0.1.6.tar.gz",
+  "download_time": "2026-04-26T18:37:00.160349",
+  "package_url": "https://pypi.org/project/dshield-parser/"
+}

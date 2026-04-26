@@ -1,0 +1,11 @@
+{
+  "name": "jao-py",
+  "version": "0.7.2",
+  "summary": "A python API wrapper for JAO.eu",
+  "author": "Frank Boerman",
+  "license": "MIT",
+  "home_page": "https://github.com/fboerman/jao-py",
+  "download_filename": "jao_py-0.7.2.tar.gz",
+  "download_time": "2026-04-26T18:37:18.838890",
+  "package_url": "https://pypi.org/project/jao-py/"
+}

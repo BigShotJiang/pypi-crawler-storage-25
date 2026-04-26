@@ -1,0 +1,11 @@
+{
+  "name": "reflex-vla",
+  "version": "0.3.2",
+  "summary": "Deploy any VLA model to any edge hardware. Now with reflex chat — natural-language CLI.",
+  "author": "Reflex Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "reflex_vla-0.3.2-py3-none-any.whl",
+  "download_time": "2026-04-26T18:37:16.784461",
+  "package_url": "https://pypi.org/project/reflex-vla/"
+}

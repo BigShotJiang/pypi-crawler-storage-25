@@ -1,11 +1,11 @@
 {
   "name": "kulai",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "AI asset and workflow package manager — resolve and download model dependencies for ComfyUI and other AI software",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kulai-0.2.0.tar.gz",
-  "download_time": "2026-04-26T12:04:21.717739",
+  "download_filename": "kulai-0.2.1.tar.gz",
+  "download_time": "2026-04-26T18:37:28.665814",
   "package_url": "https://pypi.org/project/kulai/"
 }
