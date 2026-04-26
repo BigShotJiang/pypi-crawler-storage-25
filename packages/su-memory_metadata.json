@@ -1,11 +1,11 @@
 {
   "name": "su-memory",
-  "version": "1.7.3",
+  "version": "1.7.5",
   "summary": "让你的AI拥有记忆 - 本地优先的语义记忆引擎，支持多跳推理、开箱即用FAISS向量检索",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "su_memory-1.7.3.tar.gz",
-  "download_time": "2026-04-26T16:06:30.560459",
+  "download_filename": "su_memory-1.7.5.tar.gz",
+  "download_time": "2026-04-26T17:00:50.473485",
   "package_url": "https://pypi.org/project/su-memory/"
 }

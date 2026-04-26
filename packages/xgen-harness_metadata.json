@@ -1,11 +1,11 @@
 {
   "name": "xgen-harness",
-  "version": "0.26.9",
+  "version": "0.26.11",
   "summary": "XGEN Harness — v0.26.8 + MCPClient header forward fix: list_tools/call_tool_raw/check_session now forward Authorization+x-user-* via the use_request_headers contextvar so self-loopback to the MCP station preserves user context (Stage 4 mcp-sessions tools were silently empty in production).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xgen_harness-0.26.9.tar.gz",
-  "download_time": "2026-04-26T12:04:22.446517",
+  "download_filename": "xgen_harness-0.26.11.tar.gz",
+  "download_time": "2026-04-26T17:01:06.041823",
   "package_url": "https://pypi.org/project/xgen-harness/"
 }

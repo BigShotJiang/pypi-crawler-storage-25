@@ -1,0 +1,11 @@
+{
+  "name": "cortexcode",
+  "version": "0.10.0",
+  "summary": "Lightweight code indexing for AI assistants — build a searchable codegraph and grounded context",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cortexcode-0.10.0.tar.gz",
+  "download_time": "2026-04-26T17:00:29.273345",
+  "package_url": "https://pypi.org/project/cortexcode/"
+}

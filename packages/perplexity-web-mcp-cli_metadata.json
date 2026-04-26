@@ -1,11 +1,11 @@
 {
   "name": "perplexity-web-mcp-cli",
-  "version": "0.10.2",
+  "version": "0.10.6",
   "summary": "CLI, MCP server, and Anthropic/OpenAI API-compatible interface for Perplexity AI.",
   "author": "Jacob BD",
   "license": null,
   "home_page": null,
-  "download_filename": "perplexity_web_mcp_cli-0.10.2.tar.gz",
-  "download_time": "2026-04-14T21:12:18.285244",
+  "download_filename": "perplexity_web_mcp_cli-0.10.6.tar.gz",
+  "download_time": "2026-04-26T17:00:32.882351",
   "package_url": "https://pypi.org/project/perplexity-web-mcp-cli/"
 }

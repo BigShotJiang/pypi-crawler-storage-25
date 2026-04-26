@@ -1,11 +1,11 @@
 {
   "name": "claude-code-cost-explorer",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Local web app to explore Claude Code API cost and token usage by day, session, and turn",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claude_code_cost_explorer-0.1.2.tar.gz",
-  "download_time": "2026-04-16T14:19:01.168268",
+  "download_filename": "claude_code_cost_explorer-0.1.3.tar.gz",
+  "download_time": "2026-04-26T17:00:56.147785",
   "package_url": "https://pypi.org/project/claude-code-cost-explorer/"
 }

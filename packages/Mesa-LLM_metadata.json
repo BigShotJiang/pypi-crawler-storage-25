@@ -1,11 +1,11 @@
 {
   "name": "Mesa-LLM",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Generative Agent-Based Modeling with Large Language Models Empowered Agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mesa_llm-0.3.1.tar.gz",
-  "download_time": "2026-04-12T15:08:34.606130",
+  "download_filename": "mesa_llm-0.3.2.tar.gz",
+  "download_time": "2026-04-26T17:00:57.691676",
   "package_url": "https://pypi.org/project/Mesa-LLM/"
 }

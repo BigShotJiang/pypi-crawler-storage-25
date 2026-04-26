@@ -1,11 +1,11 @@
 {
   "name": "i3-notifier",
-  "version": "0.23",
+  "version": "0.24",
   "summary": "A notification daemon for i3",
   "author": "Sencer Selcuk",
   "license": null,
   "home_page": null,
-  "download_filename": "i3_notifier-0.23.tar.gz",
-  "download_time": "2026-04-26T15:11:01.923024",
+  "download_filename": "i3_notifier-0.24.tar.gz",
+  "download_time": "2026-04-26T17:01:04.484957",
   "package_url": "https://pypi.org/project/i3-notifier/"
 }

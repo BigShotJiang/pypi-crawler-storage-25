@@ -1,0 +1,11 @@
+{
+  "name": "glasscut",
+  "version": "0.1.0a1",
+  "summary": "A toolkit for preprocessing and analyzing whole slide images combining approaches from Histolab and PathoPatcher with GPU acceleration via CuCim",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "glasscut-0.1.0a1-py3-none-any.whl",
+  "download_time": "2026-04-26T17:00:51.509168",
+  "package_url": "https://pypi.org/project/glasscut/"
+}

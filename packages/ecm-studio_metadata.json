@@ -1,11 +1,11 @@
 {
   "name": "ecm-studio",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Desktop-first Enterprise Capability Model studio with Git-managed JSONL storage.",
   "author": "Thomas Klok Rohde",
   "license": null,
   "home_page": null,
-  "download_filename": "ecm_studio-0.3.1.tar.gz",
-  "download_time": "2026-04-26T16:06:32.099859",
+  "download_filename": "ecm_studio-0.3.3.tar.gz",
+  "download_time": "2026-04-26T17:00:34.954600",
   "package_url": "https://pypi.org/project/ecm-studio/"
 }

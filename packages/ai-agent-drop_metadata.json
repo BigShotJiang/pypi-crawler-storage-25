@@ -1,0 +1,11 @@
+{
+  "name": "ai-agent-drop",
+  "version": "0.3.0",
+  "summary": "Self-hostable notification + rendering surface for LLM agent outputs.",
+  "author": "James Cadman",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_agent_drop-0.3.0.tar.gz",
+  "download_time": "2026-04-26T17:00:45.826183",
+  "package_url": "https://pypi.org/project/ai-agent-drop/"
+}

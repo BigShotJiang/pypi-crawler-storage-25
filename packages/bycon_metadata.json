@@ -1,11 +1,11 @@
 {
   "name": "bycon",
-  "version": "2.9.0",
+  "version": "2.9.1",
   "summary": "A Python-based environment for the GA4GH Beacon genomics API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bycon-2.9.0-py3-none-any.whl",
-  "download_time": "2026-04-25T12:10:21.370460",
+  "download_filename": "bycon-2.9.1-py3-none-any.whl",
+  "download_time": "2026-04-26T17:00:59.752195",
   "package_url": "https://pypi.org/project/bycon/"
 }

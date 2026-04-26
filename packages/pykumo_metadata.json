@@ -1,0 +1,11 @@
+{
+  "name": "pykumo",
+  "version": "0.4.1",
+  "summary": "Small library for interfacing with Mitsubishi KumoCloud enabled devices",
+  "author": "Doug Larrick",
+  "license": null,
+  "home_page": "https://github.com/dlarrick/pykumo",
+  "download_filename": "pykumo-0.4.1.tar.gz",
+  "download_time": "2026-04-26T17:00:53.060842",
+  "package_url": "https://pypi.org/project/pykumo/"
+}

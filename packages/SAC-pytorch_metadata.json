@@ -1,11 +1,11 @@
 {
   "name": "SAC-pytorch",
-  "version": "0.0.21",
+  "version": "0.0.26",
   "summary": "Soft Actor Critic - Pytorch",
   "author": null,
   "license": "MIT License  Copyright (c) 2024 Phil Wang  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
   "home_page": null,
-  "download_filename": "sac_pytorch-0.0.21.tar.gz",
-  "download_time": "2026-04-24T19:59:30.748469",
+  "download_filename": "sac_pytorch-0.0.26.tar.gz",
+  "download_time": "2026-04-26T17:00:49.946745",
   "package_url": "https://pypi.org/project/SAC-pytorch/"
 }

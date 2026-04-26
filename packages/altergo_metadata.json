@@ -1,11 +1,11 @@
 {
   "name": "altergo",
-  "version": "0.39.1",
+  "version": "0.44.3",
   "summary": "Don't break flow. Switch accounts. — N-account session manager for Claude Code, Gemini CLI, Codex, and Copilot",
   "author": "thepixelabs",
   "license": null,
   "home_page": null,
-  "download_filename": "altergo-0.39.1.tar.gz",
-  "download_time": "2026-04-19T16:30:16.525786",
+  "download_filename": "altergo-0.44.3.tar.gz",
+  "download_time": "2026-04-26T17:00:22.089900",
   "package_url": "https://pypi.org/project/altergo/"
 }
