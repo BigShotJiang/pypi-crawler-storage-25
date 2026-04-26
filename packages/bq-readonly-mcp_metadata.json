@@ -1,0 +1,11 @@
+{
+  "name": "bq-readonly-mcp",
+  "version": "0.1.1",
+  "summary": "Read-only BigQuery MCP server with auto-LIMIT, dry-run cost guard, and ADC auth — for Claude, Cursor, Windsurf, Copilot, and other MCP clients.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bq_readonly_mcp-0.1.1.tar.gz",
+  "download_time": "2026-04-26T17:45:55.848988",
+  "package_url": "https://pypi.org/project/bq-readonly-mcp/"
+}

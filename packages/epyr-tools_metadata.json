@@ -1,0 +1,11 @@
+{
+  "name": "epyr-tools",
+  "version": "0.3.8",
+  "summary": "Electron Paramagnetic Resonance (EPR) Tools in Python",
+  "author": "Sylvain Bertaina",
+  "license": "MIT",
+  "home_page": "https://github.com/BertainaS/epyrtools",
+  "download_filename": "epyr_tools-0.3.8-py3-none-any.whl",
+  "download_time": "2026-04-26T17:46:08.318061",
+  "package_url": "https://pypi.org/project/epyr-tools/"
+}

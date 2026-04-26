@@ -1,11 +1,11 @@
 {
   "name": "leanctx",
-  "version": "0.0.0",
+  "version": "0.3.1",
   "summary": "Drop-in prompt compression for production LLM applications. Cut Anthropic / OpenAI / Gemini bills by 40-60%.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "leanctx-0.0.0.tar.gz",
-  "download_time": "2026-04-18T23:02:00.637158",
+  "download_filename": "leanctx-0.3.1.tar.gz",
+  "download_time": "2026-04-26T17:46:18.092892",
   "package_url": "https://pypi.org/project/leanctx/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sagaflow",
-  "version": "0.5.7",
+  "version": "0.5.10",
   "summary": "Temporal-backed workflow runtime for Claude Code skills",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sagaflow-0.5.7.tar.gz",
-  "download_time": "2026-04-25T02:33:24.369630",
+  "download_filename": "sagaflow-0.5.10.tar.gz",
+  "download_time": "2026-04-26T17:45:58.976657",
   "package_url": "https://pypi.org/project/sagaflow/"
 }

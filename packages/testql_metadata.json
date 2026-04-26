@@ -1,11 +1,11 @@
 {
   "name": "testql",
-  "version": "1.2.17",
+  "version": "1.2.21",
   "summary": "TestQL — Multi-DSL Test Platform: TestTOON / NL / SQL / Proto / GraphQL adapters with Unified IR, generator engine, and meta-testing",
   "author": null,
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "testql-1.2.17.tar.gz",
-  "download_time": "2026-04-25T19:19:46.196123",
+  "download_filename": "testql-1.2.21.tar.gz",
+  "download_time": "2026-04-26T17:45:43.366621",
   "package_url": "https://pypi.org/project/testql/"
 }

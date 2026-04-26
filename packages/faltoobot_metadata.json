@@ -1,11 +1,11 @@
 {
   "name": "faltoobot",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "summary": "WhatsApp-first LLM bot",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "faltoobot-3.3.0.tar.gz",
-  "download_time": "2026-04-25T20:04:54.769748",
+  "download_filename": "faltoobot-3.3.1.tar.gz",
+  "download_time": "2026-04-26T17:46:12.445733",
   "package_url": "https://pypi.org/project/faltoobot/"
 }

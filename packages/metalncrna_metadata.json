@@ -1,11 +1,11 @@
 {
   "name": "metalncrna",
-  "version": "1.2.0",
+  "version": "1.2.4",
   "summary": "A portable and modular meta-predictor for identifying Long Non-coding RNAs (lncRNAs).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metalncrna-1.2.0.tar.gz",
-  "download_time": "2026-04-25T20:04:45.322763",
+  "download_filename": "metalncrna-1.2.4.tar.gz",
+  "download_time": "2026-04-26T17:45:35.069933",
   "package_url": "https://pypi.org/project/metalncrna/"
 }

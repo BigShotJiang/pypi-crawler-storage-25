@@ -1,11 +1,11 @@
 {
   "name": "styxx",
-  "version": "6.5.0",
+  "version": "6.6.0",
   "summary": "Cognitive observability for LLM agents. @styxx.profile decorator returns a per-step cognometric readout: drift, confabulation, refusal, sycophancy, phase transition, low trust, incoherence — localized to the step that produced them. Calibrated AUC: 0.998 hallucination (HaluEval-QA), 0.976 refusal (XSTest-GPT-4), 0.943 tool-call drift (BFCL v3). Reference implementation of the Cognometric Fingerprint Specification v1.0. Pure Python.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "styxx-6.5.0.tar.gz",
-  "download_time": "2026-04-26T17:00:37.027763",
+  "download_filename": "styxx-6.6.0.tar.gz",
+  "download_time": "2026-04-26T17:45:57.946527",
   "package_url": "https://pypi.org/project/styxx/"
 }

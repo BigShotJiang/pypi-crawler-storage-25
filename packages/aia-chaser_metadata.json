@@ -1,0 +1,11 @@
+{
+  "name": "aia-chaser",
+  "version": "3.4.1",
+  "summary": "Chase authority information access from a host certificate to complete the chain of trust.",
+  "author": "Josep Pon Farreny",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aia_chaser-3.4.1.tar.gz",
+  "download_time": "2026-04-26T17:45:44.389925",
+  "package_url": "https://pypi.org/project/aia-chaser/"
+}

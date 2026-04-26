@@ -1,11 +1,11 @@
 {
   "name": "tilemap-parser",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "summary": "Standalone parser/loader for tilemap-editor JSON maps and sprite animation JSON.",
   "author": "tilemap parser contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "tilemap_parser-1.0.1.tar.gz",
-  "download_time": "2026-04-18T11:08:59.460363",
+  "download_filename": "tilemap_parser-1.1.1.tar.gz",
+  "download_time": "2026-04-26T17:45:43.878738",
   "package_url": "https://pypi.org/project/tilemap-parser/"
 }
