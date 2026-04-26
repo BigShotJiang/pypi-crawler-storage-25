@@ -1,11 +1,11 @@
 {
   "name": "mender-docker-lifecycle-helper",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "summary": "Helper for managing Mender Docker lifecycle.",
   "author": "rcwbr",
   "license": null,
   "home_page": null,
-  "download_filename": "mender_docker_lifecycle_helper-1.1.0.tar.gz",
-  "download_time": "2026-04-26T18:37:29.198222",
+  "download_filename": "mender_docker_lifecycle_helper-1.2.1.tar.gz",
+  "download_time": "2026-04-26T23:15:47.867635",
   "package_url": "https://pypi.org/project/mender-docker-lifecycle-helper/"
 }

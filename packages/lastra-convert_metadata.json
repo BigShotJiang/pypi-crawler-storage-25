@@ -1,0 +1,11 @@
+{
+  "name": "lastra-convert",
+  "version": "0.8.2",
+  "summary": "Python CLI to convert between Lastra and Parquet/CSV/Arrow. Mirror of QTSurfer/lastra-convert (Java).",
+  "author": "Wualabs LTD",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lastra_convert-0.8.2.tar.gz",
+  "download_time": "2026-04-26T23:15:34.545303",
+  "package_url": "https://pypi.org/project/lastra-convert/"
+}

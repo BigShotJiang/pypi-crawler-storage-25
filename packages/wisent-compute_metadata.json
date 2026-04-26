@@ -1,11 +1,11 @@
 {
   "name": "wisent-compute",
-  "version": "0.3.13",
+  "version": "0.3.14",
   "summary": "Job queue and compute management for Wisent GPU workloads",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wisent_compute-0.3.13.tar.gz",
-  "download_time": "2026-04-26T22:30:24.843957",
+  "download_filename": "wisent_compute-0.3.14.tar.gz",
+  "download_time": "2026-04-26T23:15:19.979068",
   "package_url": "https://pypi.org/project/wisent-compute/"
 }

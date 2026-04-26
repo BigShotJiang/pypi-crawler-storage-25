@@ -1,11 +1,11 @@
 {
   "name": "galaxy_graph",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "summary": "Graph creation and management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "galaxy_graph-0.0.6.tar.gz",
-  "download_time": "2026-04-26T06:45:34.198281",
+  "download_filename": "galaxy_graph-0.0.8.tar.gz",
+  "download_time": "2026-04-26T23:15:36.076268",
   "package_url": "https://pypi.org/project/galaxy_graph/"
 }

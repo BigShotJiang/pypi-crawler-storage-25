@@ -1,11 +1,11 @@
 {
   "name": "regaudit-fhe",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "summary": "Depth-tracked regulatory audit primitives for future FHE-CKKS execution.",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "regaudit_fhe-0.0.4.tar.gz",
-  "download_time": "2026-04-26T22:30:42.456511",
+  "download_filename": "regaudit_fhe-0.0.7.tar.gz",
+  "download_time": "2026-04-26T23:15:43.249936",
   "package_url": "https://pypi.org/project/regaudit-fhe/"
 }

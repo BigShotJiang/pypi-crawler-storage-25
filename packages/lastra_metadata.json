@@ -1,0 +1,11 @@
+{
+  "name": "lastra",
+  "version": "0.8.2",
+  "summary": "Python reader/writer for the Lastra columnar time series format. Bit-exact compatible with QTSurfer/lastra-java + lastra-ts.",
+  "author": "Wualabs LTD",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lastra-0.8.2.tar.gz",
+  "download_time": "2026-04-26T23:15:35.054580",
+  "package_url": "https://pypi.org/project/lastra/"
+}

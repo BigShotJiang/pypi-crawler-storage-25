@@ -1,0 +1,11 @@
+{
+  "name": "marshmallow-jsonschema",
+  "version": "0.16.0",
+  "summary": "JSON Schema Draft v7 (http://json-schema.org/) formatting with marshmallow",
+  "author": "Stephen Fuhry",
+  "license": "MIT License",
+  "home_page": "https://github.com/fuhrysteve/marshmallow-jsonschema",
+  "download_filename": "marshmallow_jsonschema-0.16.0.tar.gz",
+  "download_time": "2026-04-26T23:15:37.616654",
+  "package_url": "https://pypi.org/project/marshmallow-jsonschema/"
+}

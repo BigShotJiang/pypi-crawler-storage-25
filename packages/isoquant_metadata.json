@@ -1,0 +1,11 @@
+{
+  "name": "isoquant",
+  "version": "3.13.0",
+  "summary": "Reference-based analysis and quantification of long RNA reads",
+  "author": "Andrey Prjibelski",
+  "license": "GPL-2.0-only",
+  "home_page": null,
+  "download_filename": "isoquant-3.13.0.tar.gz",
+  "download_time": "2026-04-26T23:15:37.103547",
+  "package_url": "https://pypi.org/project/isoquant/"
+}

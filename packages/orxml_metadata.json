@@ -1,0 +1,11 @@
+{
+  "name": "orxml",
+  "version": "0.1.0",
+  "summary": "Rust-backed xmltodict-compatible XML parser/emitter with PyO3 bindings",
+  "author": "orxml authors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "orxml-0.1.0.tar.gz",
+  "download_time": "2026-04-26T23:15:28.787729",
+  "package_url": "https://pypi.org/project/orxml/"
+}

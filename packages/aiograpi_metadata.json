@@ -1,11 +1,11 @@
 {
   "name": "aiograpi",
-  "version": "0.3.0",
+  "version": "0.6.1",
   "summary": "Asynchronous Instagram Private API wrapper",
   "author": "Mr.Robot",
   "license": "MIT",
   "home_page": "https://github.com/subzeroid/aiograpi",
-  "download_filename": "aiograpi-0.3.0.tar.gz",
-  "download_time": "2026-04-25T23:49:21.243463",
+  "download_filename": "aiograpi-0.6.1.tar.gz",
+  "download_time": "2026-04-26T23:15:44.787221",
   "package_url": "https://pypi.org/project/aiograpi/"
 }

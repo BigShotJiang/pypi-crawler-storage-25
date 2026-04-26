@@ -1,11 +1,11 @@
 {
   "name": "degoogle-photos",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Organize Google Takeout photos into YYYY/MM/ folders with dedup and reporting",
   "author": "Couzteau",
   "license": null,
   "home_page": null,
-  "download_filename": "degoogle_photos-0.2.0.tar.gz",
-  "download_time": "2026-04-26T22:30:25.874554",
+  "download_filename": "degoogle_photos-0.2.1.tar.gz",
+  "download_time": "2026-04-26T23:15:38.642580",
   "package_url": "https://pypi.org/project/degoogle-photos/"
 }
