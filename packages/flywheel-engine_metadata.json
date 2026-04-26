@@ -1,0 +1,11 @@
+{
+  "name": "flywheel-engine",
+  "version": "0.2.0",
+  "summary": "Flywheel momentum engine for fleet agents — sustained autonomous operation with heartbeat-driven scheduling",
+  "author": "Cocapn Fleet",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flywheel_engine-0.2.0.tar.gz",
+  "download_time": "2026-04-26T21:54:18.176820",
+  "package_url": "https://pypi.org/project/flywheel-engine/"
+}

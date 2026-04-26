@@ -1,0 +1,11 @@
+{
+  "name": "bravaweb",
+  "version": "0.0.26",
+  "summary": "BravaWeb Framework for ASGI Server",
+  "author": "Roberto Neves",
+  "license": "MIT",
+  "home_page": "https://github.com/robertons/bravaweb",
+  "download_filename": "bravaweb-0.0.26.tar.gz",
+  "download_time": "2026-04-26T21:53:59.246976",
+  "package_url": "https://pypi.org/project/bravaweb/"
+}

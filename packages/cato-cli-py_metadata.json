@@ -1,11 +1,11 @@
 {
   "name": "cato-cli-py",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "Universal AI agent safety layer — protect files and commands from AI coding agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cato_cli_py-0.3.6.tar.gz",
-  "download_time": "2026-04-26T21:06:27.274102",
+  "download_filename": "cato_cli_py-0.3.7.tar.gz",
+  "download_time": "2026-04-26T21:53:50.789642",
   "package_url": "https://pypi.org/project/cato-cli-py/"
 }

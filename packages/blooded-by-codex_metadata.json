@@ -1,11 +1,11 @@
 {
   "name": "blooded-by-codex",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A Hack The Box challenge operator with Codex-oriented logs, skills, and writeups.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blooded_by_codex-0.1.0.tar.gz",
-  "download_time": "2026-04-26T21:06:05.000379",
+  "download_filename": "blooded_by_codex-0.1.2.tar.gz",
+  "download_time": "2026-04-26T21:53:47.604832",
   "package_url": "https://pypi.org/project/blooded-by-codex/"
 }

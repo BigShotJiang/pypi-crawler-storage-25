@@ -1,11 +1,11 @@
 {
   "name": "fraiseql",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "FraiseQL v2 - Compiled GraphQL execution engine (schema authoring)",
   "author": "FraiseQL Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fraiseql-2.2.0.tar.gz",
-  "download_time": "2026-04-19T15:51:08.854149",
+  "download_filename": "fraiseql-2.2.1.tar.gz",
+  "download_time": "2026-04-26T21:53:44.369036",
   "package_url": "https://pypi.org/project/fraiseql/"
 }

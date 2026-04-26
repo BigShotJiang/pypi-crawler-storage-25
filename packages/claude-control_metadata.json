@@ -1,11 +1,11 @@
 {
   "name": "claude-control",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "MCP server for coordinating Claude Code instances across multiple projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claude_control-0.1.0.tar.gz",
-  "download_time": "2026-04-11T20:06:32.382865",
+  "download_filename": "claude_control-0.3.0.tar.gz",
+  "download_time": "2026-04-26T21:54:07.156762",
   "package_url": "https://pypi.org/project/claude-control/"
 }

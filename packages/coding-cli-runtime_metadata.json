@@ -1,11 +1,11 @@
 {
   "name": "coding-cli-runtime",
-  "version": "0.4.1",
+  "version": "0.8.3",
   "summary": "Reusable CLI runtime primitives for provider-backed automation workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "coding_cli_runtime-0.4.1.tar.gz",
-  "download_time": "2026-04-13T03:59:08.724873",
+  "download_filename": "coding_cli_runtime-0.8.3.tar.gz",
+  "download_time": "2026-04-26T21:53:40.047568",
   "package_url": "https://pypi.org/project/coding-cli-runtime/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "uglypy",
+  "version": "0.0.51",
+  "summary": "A Python package for aggregating and processing RSS feeds with LLM-enhanced content rewriting.",
+  "author": "Fabrizio Salmi",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/fabriziosalmi/UglyFeed",
+  "download_filename": "uglypy-0.0.51.tar.gz",
+  "download_time": "2026-04-26T21:54:04.527300",
+  "package_url": "https://pypi.org/project/uglypy/"
+}

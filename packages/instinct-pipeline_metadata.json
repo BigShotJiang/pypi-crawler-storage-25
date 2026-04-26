@@ -1,11 +1,11 @@
 {
   "name": "instinct-pipeline",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Instinct compression pipeline — 70B→7B→1B knowledge extraction, distillation, and compression for Cocapn agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "instinct_pipeline-0.1.0.tar.gz",
-  "download_time": "2026-04-23T06:11:54.349996",
+  "download_filename": "instinct_pipeline-0.2.0.tar.gz",
+  "download_time": "2026-04-26T21:54:23.543156",
   "package_url": "https://pypi.org/project/instinct-pipeline/"
 }

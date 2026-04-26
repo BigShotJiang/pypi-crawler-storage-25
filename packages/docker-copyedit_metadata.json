@@ -1,0 +1,11 @@
+{
+  "name": "docker-copyedit",
+  "version": "1.6.1171",
+  "summary": "edit docker image metadata (including remove docker volume settings)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docker_copyedit-1.6.1171-py3-none-any.whl",
+  "download_time": "2026-04-26T21:54:04.009543",
+  "package_url": "https://pypi.org/project/docker-copyedit/"
+}
