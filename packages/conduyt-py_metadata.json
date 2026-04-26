@@ -1,11 +1,11 @@
 {
   "name": "conduyt-py",
-  "version": "0.3.2",
+  "version": "1.0.0",
   "summary": "CONDUYT protocol SDK for Python — host-side hardware control",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "conduyt_py-0.3.2.tar.gz",
-  "download_time": "2026-04-25T07:59:55.266086",
+  "download_filename": "conduyt_py-1.0.0.tar.gz",
+  "download_time": "2026-04-26T01:22:14.315349",
   "package_url": "https://pypi.org/project/conduyt-py/"
 }

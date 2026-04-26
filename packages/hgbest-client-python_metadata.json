@@ -1,0 +1,11 @@
+{
+  "name": "hgbest-client-python",
+  "version": "2.4.3",
+  "summary": "Python SDK for the HgBest API, providing secure, signed access to various services.",
+  "author": "HAVENGROUP",
+  "license": null,
+  "home_page": "https://github.com/HAVENGROUP12/sdk-python.git",
+  "download_filename": "hgbest_client_python-2.4.3.tar.gz",
+  "download_time": "2026-04-26T01:22:14.828083",
+  "package_url": "https://pypi.org/project/hgbest-client-python/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "furones",
-  "version": "0.1.4",
-  "summary": "Compute the Approximate Independent Set for undirected graph encoded in DIMACS format.",
+  "version": "0.1.6",
+  "summary": "Compute the Approximate Minimum Dominating Set for undirected graph encoded in DIMACS format.",
   "author": "Frank Vega",
   "license": "MIT License",
   "home_page": "https://github.com/frankvegadelgado/furones",
-  "download_filename": "furones-0.1.4.tar.gz",
-  "download_time": "2026-04-03T23:51:58.731966",
+  "download_filename": "furones-0.1.6.tar.gz",
+  "download_time": "2026-04-26T01:22:15.914807",
   "package_url": "https://pypi.org/project/furones/"
 }

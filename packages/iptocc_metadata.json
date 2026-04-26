@@ -1,11 +1,11 @@
 {
   "name": "iptocc",
-  "version": "3.3.0",
+  "version": "3.3.3",
   "summary": "Fast, offline IP-to-country lookup. Python bindings over the Rust iptocc crate.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iptocc-3.3.0.tar.gz",
-  "download_time": "2026-04-24T00:13:49.129205",
+  "download_filename": "iptocc-3.3.3.tar.gz",
+  "download_time": "2026-04-26T01:22:23.947908",
   "package_url": "https://pypi.org/project/iptocc/"
 }

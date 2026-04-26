@@ -1,0 +1,11 @@
+{
+  "name": "django-smart-image",
+  "version": "0.1.3",
+  "summary": "Image media utils for django. Custom image fields with format conversion, cropping and validation. Hashed based filename storage. Cleanup and widgets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_smart_image-0.1.3.tar.gz",
+  "download_time": "2026-04-26T01:22:20.613208",
+  "package_url": "https://pypi.org/project/django-smart-image/"
+}

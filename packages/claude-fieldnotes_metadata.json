@@ -1,0 +1,11 @@
+{
+  "name": "claude-fieldnotes",
+  "version": "0.7.0",
+  "summary": "Claude-authored, repo-scoped notes about a codebase. SHA-pinned, drift-aware, plaintext markdown.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_fieldnotes-0.7.0.tar.gz",
+  "download_time": "2026-04-26T01:22:28.855314",
+  "package_url": "https://pypi.org/project/claude-fieldnotes/"
+}

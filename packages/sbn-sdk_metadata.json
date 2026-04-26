@@ -1,11 +1,11 @@
 {
   "name": "sbn-sdk",
-  "version": "0.12.3",
+  "version": "0.12.14",
   "summary": "Python SDK for the SmartBlocks Network — Atlas frontier provisioning, GEC compute, SnapChore integrity, governance, and more.",
   "author": "SmartBlocks Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sbn_sdk-0.12.3.tar.gz",
-  "download_time": "2026-04-21T03:39:25.085278",
+  "download_filename": "sbn_sdk-0.12.14.tar.gz",
+  "download_time": "2026-04-26T01:22:38.817848",
   "package_url": "https://pypi.org/project/sbn-sdk/"
 }

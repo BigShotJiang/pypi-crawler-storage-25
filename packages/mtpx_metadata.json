@@ -1,11 +1,11 @@
 {
   "name": "mtpx",
-  "version": "0.1.22",
+  "version": "0.1.25",
   "summary": "MTPX: Model Tool Protocol and agent runtime for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mtpx-0.1.22.tar.gz",
-  "download_time": "2026-04-17T00:04:16.795686",
+  "download_filename": "mtpx-0.1.25.tar.gz",
+  "download_time": "2026-04-26T01:22:21.186014",
   "package_url": "https://pypi.org/project/mtpx/"
 }

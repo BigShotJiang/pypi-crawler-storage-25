@@ -1,11 +1,11 @@
 {
   "name": "eml-cost",
-  "version": "0.1.0a0",
+  "version": "0.2.0",
   "summary": "Pfaffian chain order and EML routing depth for symbolic expressions.",
   "author": "Monogate Research",
   "license": "PROPRIETARY-PRE-RELEASE",
   "home_page": null,
-  "download_filename": "eml_cost-0.1.0a0.tar.gz",
-  "download_time": "2026-04-25T10:00:24.721924",
+  "download_filename": "eml_cost-0.2.0.tar.gz",
+  "download_time": "2026-04-26T01:22:26.714545",
   "package_url": "https://pypi.org/project/eml-cost/"
 }

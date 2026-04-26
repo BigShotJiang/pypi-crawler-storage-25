@@ -1,11 +1,11 @@
 {
   "name": "otter-service",
-  "version": "2.0.10",
+  "version": "2.0.13",
   "summary": "Grading Service for Edx 8x courses",
   "author": "Vincent Su and Sean Morris",
   "license": null,
   "home_page": "https://github.com/data-8/otter-service",
-  "download_filename": "otter_service-2.0.10.tar.gz",
-  "download_time": "2026-04-24T03:58:43.693304",
+  "download_filename": "otter_service-2.0.13.tar.gz",
+  "download_time": "2026-04-26T01:22:21.763179",
   "package_url": "https://pypi.org/project/otter-service/"
 }

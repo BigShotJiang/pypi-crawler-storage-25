@@ -1,11 +1,11 @@
 {
   "name": "StatsPAI",
-  "version": "1.6.6",
+  "version": "1.7.0",
   "summary": "The Agent-Native Causal Inference & Econometrics Toolkit for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "statspai-1.6.6.tar.gz",
-  "download_time": "2026-04-25T05:07:23.815892",
+  "download_filename": "statspai-1.7.0.tar.gz",
+  "download_time": "2026-04-26T01:22:51.360348",
   "package_url": "https://pypi.org/project/StatsPAI/"
 }

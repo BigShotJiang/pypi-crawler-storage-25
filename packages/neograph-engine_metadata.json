@@ -1,0 +1,11 @@
+{
+  "name": "neograph-engine",
+  "version": "0.1.1",
+  "summary": "C++ graph agent engine — Python bindings (LangGraph-equivalent semantics, microsecond engine overhead)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neograph_engine-0.1.1.tar.gz",
+  "download_time": "2026-04-26T01:22:17.988457",
+  "package_url": "https://pypi.org/project/neograph-engine/"
+}
