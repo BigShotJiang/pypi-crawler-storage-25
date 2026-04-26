@@ -1,0 +1,11 @@
+{
+  "name": "ubdcc-shared-modules",
+  "version": "0.8.0",
+  "summary": "UBDCC Shared Modules — core library for the UNICORN DepthCache Cluster for Binance",
+  "author": "Oliver Zehentleitner",
+  "license": "MIT",
+  "home_page": "https://github.com/oliver-zehentleitner/unicorn-binance-depth-cache-cluster",
+  "download_filename": "ubdcc_shared_modules-0.8.0.tar.gz",
+  "download_time": "2026-04-26T14:22:21.187499",
+  "package_url": "https://pypi.org/project/ubdcc-shared-modules/"
+}

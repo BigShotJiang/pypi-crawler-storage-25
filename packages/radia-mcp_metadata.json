@@ -1,11 +1,11 @@
 {
   "name": "radia-mcp",
-  "version": "0.30.0",
-  "summary": "MCP servers for the Radia CAE ecosystem. 0.27.0: cubit_mesh_race_review (wait-all + shortlist sorted by min-Jacobian + persisted history) + cubit_mesh_apply_choice (human picks from shortlist) + quality_summary probe. Pivots from auto-commit to human-decides. 0.26.0 base: cubit_mesh_race_smart auto-generates N candidates from geometry.",
+  "version": "0.33.5",
+  "summary": "MCP servers for the Radia CAE ecosystem. 0.33.5 (2026-04-26): peec_inductance_knowledge updated to reflect radia_peec_inductance.py merge into IHWindow Method (radia 4.10.0 panel unification). 0.33.4: Kelvin knowledge maturity pass -- radia_ngsolve.kelvin / cubit kelvin_reduction_traps / electromagnet symmetry_reductions (1/8 sphere vs C-yoke clarification + ELF CEFC 2020 BC).",
   "author": "Kengo Sugahara",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "radia_mcp-0.30.0.tar.gz",
-  "download_time": "2026-04-19T23:44:35.612767",
+  "download_filename": "radia_mcp-0.33.5-py3-none-any.whl",
+  "download_time": "2026-04-26T14:22:57.888218",
   "package_url": "https://pypi.org/project/radia-mcp/"
 }

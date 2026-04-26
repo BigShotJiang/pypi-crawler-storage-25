@@ -1,11 +1,11 @@
 {
   "name": "opencloudcosts",
-  "version": "0.8.14",
+  "version": "0.9.1",
   "summary": "Open source MCP server for accurate public and effective cloud pricing (AWS, GCP, Azure)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opencloudcosts-0.8.14.tar.gz",
-  "download_time": "2026-04-25T16:50:26.232582",
+  "download_filename": "opencloudcosts-0.9.1.tar.gz",
+  "download_time": "2026-04-26T14:22:39.828986",
   "package_url": "https://pypi.org/project/opencloudcosts/"
 }

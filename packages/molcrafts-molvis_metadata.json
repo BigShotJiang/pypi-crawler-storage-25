@@ -1,11 +1,11 @@
 {
   "name": "molcrafts-molvis",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Molecular visualization driven by a local WebSocket-hosted page",
   "author": "MolCrafts Team",
   "license": null,
   "home_page": null,
-  "download_filename": "molcrafts_molvis-0.0.4.tar.gz",
-  "download_time": "2026-04-20T11:05:35.555199",
+  "download_filename": "molcrafts_molvis-0.0.5.tar.gz",
+  "download_time": "2026-04-26T14:22:37.960428",
   "package_url": "https://pypi.org/project/molcrafts-molvis/"
 }

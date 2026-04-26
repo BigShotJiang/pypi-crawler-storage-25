@@ -1,0 +1,11 @@
+{
+  "name": "review-swarm",
+  "version": "0.4.0",
+  "summary": "Collaborative AI code review MCP server -- shared whiteboard for multi-agent code review via MCP",
+  "author": "Ilya Sidorov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "review_swarm-0.4.0.tar.gz",
+  "download_time": "2026-04-26T14:23:08.874810",
+  "package_url": "https://pypi.org/project/review-swarm/"
+}

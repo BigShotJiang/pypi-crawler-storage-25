@@ -1,0 +1,11 @@
+{
+  "name": "mocksql",
+  "version": "0.1.0",
+  "summary": "TDD engine for Analytics Engineering — generate unit test data for SQL queries",
+  "author": "Adel Skhiri",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mocksql-0.1.0.tar.gz",
+  "download_time": "2026-04-26T14:22:36.814456",
+  "package_url": "https://pypi.org/project/mocksql/"
+}
