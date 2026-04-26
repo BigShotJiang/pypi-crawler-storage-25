@@ -1,11 +1,11 @@
 {
   "name": "kham",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Thai word segmentation library (Python bindings for kham-core)",
   "author": "Preedee Ponchevin",
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "kham-0.5.0.tar.gz",
-  "download_time": "2026-04-26T06:45:25.989543",
+  "download_filename": "kham-0.5.1-cp38-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-26T12:04:27.735403",
   "package_url": "https://pypi.org/project/kham/"
 }

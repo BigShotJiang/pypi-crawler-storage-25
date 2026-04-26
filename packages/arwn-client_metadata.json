@@ -1,0 +1,11 @@
+{
+  "name": "arwn-client",
+  "version": "0.1.0",
+  "summary": "Python client library for parsing ARWN weather station MQTT messages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arwn_client-0.1.0.tar.gz",
+  "download_time": "2026-04-26T12:03:51.616659",
+  "package_url": "https://pypi.org/project/arwn-client/"
+}

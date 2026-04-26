@@ -1,0 +1,11 @@
+{
+  "name": "jsonframe",
+  "version": "0.3.2",
+  "summary": "A small, typed JSON frame (envelope) for API responses and messages.",
+  "author": "Rinat Advaer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsonframe-0.3.2.tar.gz",
+  "download_time": "2026-04-26T12:04:04.726209",
+  "package_url": "https://pypi.org/project/jsonframe/"
+}

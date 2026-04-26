@@ -1,11 +1,11 @@
 {
   "name": "openconstructionerp",
-  "version": "2.3.0",
-  "summary": "The #1 open-source platform for construction cost estimation — BOQ, 4D/5D, AI, CAD/BIM takeoff",
+  "version": "2.5.2",
+  "summary": "Open-source construction cost estimation — BOQ, 4D/5D, AI, CAD/BIM takeoff. After install, run: openestimate",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openconstructionerp-2.3.0-py3-none-any.whl",
-  "download_time": "2026-04-22T15:55:21.760336",
+  "download_filename": "openconstructionerp-2.5.2-py3-none-any.whl",
+  "download_time": "2026-04-26T12:04:25.255053",
   "package_url": "https://pypi.org/project/openconstructionerp/"
 }

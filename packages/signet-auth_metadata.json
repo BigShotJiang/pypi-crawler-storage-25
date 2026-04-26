@@ -1,11 +1,11 @@
 {
   "name": "signet-auth",
-  "version": "0.4.4",
+  "version": "0.9.2",
   "summary": "Cryptographic action receipts for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "signet_auth-0.4.4.tar.gz",
-  "download_time": "2026-04-07T10:44:33.040395",
+  "download_filename": "signet_auth-0.9.2.tar.gz",
+  "download_time": "2026-04-26T12:03:47.815261",
   "package_url": "https://pypi.org/project/signet-auth/"
 }

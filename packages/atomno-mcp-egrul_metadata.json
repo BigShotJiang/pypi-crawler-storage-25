@@ -1,0 +1,11 @@
+{
+  "name": "atomno-mcp-egrul",
+  "version": "0.1.2",
+  "summary": "MCP server for Russian EGRUL / EGRIP lookups via ФНС open-data (search, cards, founders, director, bulk).",
+  "author": "atomno-labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "atomno_mcp_egrul-0.1.2.tar.gz",
+  "download_time": "2026-04-26T12:03:54.072332",
+  "package_url": "https://pypi.org/project/atomno-mcp-egrul/"
+}

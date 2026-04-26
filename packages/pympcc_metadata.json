@@ -1,11 +1,11 @@
 {
   "name": "pympcc",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Python solver for Mathematical Programs with Complementarity Constraints (MPCC) using IPOPT via cyipopt",
   "author": "David Villacis",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pympcc-0.2.1.tar.gz",
-  "download_time": "2026-04-23T11:20:41.642680",
+  "download_filename": "pympcc-0.3.0.tar.gz",
+  "download_time": "2026-04-26T12:03:57.800118",
   "package_url": "https://pypi.org/project/pympcc/"
 }

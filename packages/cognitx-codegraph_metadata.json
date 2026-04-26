@@ -1,11 +1,11 @@
 {
   "name": "cognitx-codegraph",
-  "version": "0.1.102",
+  "version": "0.1.103",
   "summary": "Code knowledge graph for Claude Code & AI coding agents — index TypeScript, Python, NestJS, FastAPI, React into Neo4j and query architecture in Cypher. Note: v0.2.0 is deprecated, use 0.1.x.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cognitx_codegraph-0.1.102.tar.gz",
-  "download_time": "2026-04-26T11:19:54.495006",
+  "download_filename": "cognitx_codegraph-0.1.103.tar.gz",
+  "download_time": "2026-04-26T12:04:01.529488",
   "package_url": "https://pypi.org/project/cognitx-codegraph/"
 }

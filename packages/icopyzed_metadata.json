@@ -1,11 +1,11 @@
 {
   "name": "icopyzed",
-  "version": "0.1.5",
+  "version": "0.1.10",
   "summary": "Offline-first NFC/RFID card management CLI for CopyKEY / X100 Smart Card Replicator",
   "author": "icopykey",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "icopyzed-0.1.5-py3-none-any.whl",
-  "download_time": "2026-04-26T10:19:37.981862",
+  "download_filename": "icopyzed-0.1.10-py3-none-any.whl",
+  "download_time": "2026-04-26T12:04:15.081138",
   "package_url": "https://pypi.org/project/icopyzed/"
 }

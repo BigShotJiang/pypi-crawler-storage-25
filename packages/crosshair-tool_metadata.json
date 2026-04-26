@@ -1,11 +1,11 @@
 {
   "name": "crosshair-tool",
-  "version": "0.0.103",
+  "version": "0.0.104",
   "summary": "Analyze Python code for correctness using symbolic execution.",
   "author": "Phillip Schanely",
   "license": "MIT",
   "home_page": "https://github.com/pschanely/CrossHair",
-  "download_filename": "crosshair_tool-0.0.103.tar.gz",
-  "download_time": "2026-04-19T19:47:09.065202",
+  "download_filename": "crosshair_tool-0.0.104.tar.gz",
+  "download_time": "2026-04-26T12:04:19.913410",
   "package_url": "https://pypi.org/project/crosshair-tool/"
 }

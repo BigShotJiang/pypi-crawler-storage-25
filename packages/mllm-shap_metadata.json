@@ -1,0 +1,11 @@
+{
+  "name": "mllm-shap",
+  "version": "0.1.10",
+  "summary": "SHAP implementation for multimodal large language models supporting audio and text input.",
+  "author": "Paweł Pozorski, Jakub Muszyński",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "mllm_shap-0.1.10.tar.gz",
+  "download_time": "2026-04-26T12:03:39.299698",
+  "package_url": "https://pypi.org/project/mllm-shap/"
+}

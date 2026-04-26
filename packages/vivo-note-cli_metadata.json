@@ -1,0 +1,11 @@
+{
+  "name": "vivo-note-cli",
+  "version": "0.1.1",
+  "summary": "Safe read-only exporter for vivo Office / Atomic Notes NoteSync.db",
+  "author": "gobylor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vivo_note_cli-0.1.1.tar.gz",
+  "download_time": "2026-04-26T12:04:13.806302",
+  "package_url": "https://pypi.org/project/vivo-note-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "atomno-mcp-cbr-rates",
+  "version": "0.1.1",
+  "summary": "MCP server for Central Bank of Russia (CBR) data: currency rates, key rate, inflation, macro stats.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "atomno_mcp_cbr_rates-0.1.1.tar.gz",
+  "download_time": "2026-04-26T12:04:20.553681",
+  "package_url": "https://pypi.org/project/atomno-mcp-cbr-rates/"
+}

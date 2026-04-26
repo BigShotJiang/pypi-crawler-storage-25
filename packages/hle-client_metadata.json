@@ -1,0 +1,11 @@
+{
+  "name": "hle-client",
+  "version": "2604.4",
+  "summary": "HomeLab Everywhere — Expose homelab services to the internet with built-in SSO",
+  "author": "HomeLab Everywhere",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hle_client-2604.4.tar.gz",
+  "download_time": "2026-04-26T12:04:09.125268",
+  "package_url": "https://pypi.org/project/hle-client/"
+}

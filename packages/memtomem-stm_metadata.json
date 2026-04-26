@@ -1,11 +1,11 @@
 {
   "name": "memtomem-stm",
-  "version": "0.1.15",
+  "version": "0.1.19",
   "summary": "Short-term memory proxy gateway with proactive memory surfacing for AI agents",
   "author": "memtomem contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "memtomem_stm-0.1.15.tar.gz",
-  "download_time": "2026-04-21T23:41:07.670136",
+  "download_filename": "memtomem_stm-0.1.19.tar.gz",
+  "download_time": "2026-04-26T12:04:17.542060",
   "package_url": "https://pypi.org/project/memtomem-stm/"
 }
