@@ -1,11 +1,11 @@
 {
   "name": "wash-alpha",
-  "version": "0.10.0",
+  "version": "0.16.0",
   "summary": "Cross-account wash sale detection — Schwab CSV, options, ETFs (v2 simplified)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wash_alpha-0.10.0.tar.gz",
-  "download_time": "2026-04-25T23:16:12.056595",
+  "download_filename": "wash_alpha-0.16.0.tar.gz",
+  "download_time": "2026-04-26T21:06:14.770706",
   "package_url": "https://pypi.org/project/wash-alpha/"
 }

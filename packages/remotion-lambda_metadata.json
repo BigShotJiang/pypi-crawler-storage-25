@@ -1,11 +1,11 @@
 {
   "name": "remotion-lambda",
-  "version": "4.0.448",
+  "version": "4.0.452",
   "summary": "Remotion Lambda client",
   "author": "Jonny Burger",
   "license": null,
   "home_page": "https://github.com/remotion-dev/remotion/tree/main/packages/lambda-python",
-  "download_filename": "remotion_lambda-4.0.448.tar.gz",
-  "download_time": "2026-04-10T17:51:04.455882",
+  "download_filename": "remotion_lambda-4.0.452.tar.gz",
+  "download_time": "2026-04-26T21:06:25.193484",
   "package_url": "https://pypi.org/project/remotion-lambda/"
 }

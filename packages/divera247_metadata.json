@@ -1,11 +1,11 @@
 {
   "name": "divera247",
-  "version": "0.0.1b4",
+  "version": "0.0.1b6",
   "summary": "Async Python client for the DIVERA 24/7 REST API.",
   "author": "Leon",
   "license": null,
   "home_page": null,
-  "download_filename": "divera247-0.0.1b4.tar.gz",
-  "download_time": "2026-04-26T18:37:06.337038",
+  "download_filename": "divera247-0.0.1b6.tar.gz",
+  "download_time": "2026-04-26T21:06:42.290623",
   "package_url": "https://pypi.org/project/divera247/"
 }

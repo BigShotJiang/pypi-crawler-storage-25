@@ -1,11 +1,11 @@
 {
   "name": "mcp-llm-eval",
-  "version": "0.2.0",
+  "version": "0.7.0",
   "summary": "MCP server that packages LLM evaluation gates as reusable CI/CD primitives",
   "author": "Berkay Yildirim",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_llm_eval-0.2.0.tar.gz",
-  "download_time": "2026-04-12T23:23:04.835850",
+  "download_filename": "mcp_llm_eval-0.7.0.tar.gz",
+  "download_time": "2026-04-26T21:06:43.344501",
   "package_url": "https://pypi.org/project/mcp-llm-eval/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "svgdigitizer",
+  "version": "0.14.3",
+  "summary": "svgdigitizer is a Python library and command line tool to recover the measured data underlying plots in scientific publications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "svgdigitizer-0.14.3.tar.gz",
+  "download_time": "2026-04-26T21:06:48.690702",
+  "package_url": "https://pypi.org/project/svgdigitizer/"
+}

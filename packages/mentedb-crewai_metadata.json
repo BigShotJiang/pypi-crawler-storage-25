@@ -1,11 +1,11 @@
 {
   "name": "mentedb-crewai",
-  "version": "0.1.1",
+  "version": "0.8.0",
   "summary": "MenteDB integration for CrewAI and AutoGen",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mentedb_crewai-0.1.1.tar.gz",
-  "download_time": "2026-04-26T08:15:33.282584",
+  "download_filename": "mentedb_crewai-0.8.0.tar.gz",
+  "download_time": "2026-04-26T21:06:17.739785",
   "package_url": "https://pypi.org/project/mentedb-crewai/"
 }

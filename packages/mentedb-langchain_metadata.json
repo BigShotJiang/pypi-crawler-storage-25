@@ -1,11 +1,11 @@
 {
   "name": "mentedb-langchain",
-  "version": "0.1.1",
+  "version": "0.8.0",
   "summary": "MenteDB integration for LangChain and LangGraph",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mentedb_langchain-0.1.1.tar.gz",
-  "download_time": "2026-04-26T08:15:32.774673",
+  "download_filename": "mentedb_langchain-0.8.0.tar.gz",
+  "download_time": "2026-04-26T21:06:17.205451",
   "package_url": "https://pypi.org/project/mentedb-langchain/"
 }

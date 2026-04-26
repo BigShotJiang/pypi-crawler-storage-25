@@ -1,0 +1,11 @@
+{
+  "name": "XRD-utils",
+  "version": "5.0.2",
+  "summary": "A Python package for visualizing and analyzing X-ray Diffraction (XRD) experimental data, providing tools to process, visualize, and extract meaningful insights from XRD patterns and measurements.",
+  "author": "Yichen Guo",
+  "license": "MIT",
+  "home_page": "https://github.com/yig319/XRD-utils",
+  "download_filename": "xrd_utils-5.0.2.tar.gz",
+  "download_time": "2026-04-26T21:06:05.554681",
+  "package_url": "https://pypi.org/project/XRD-utils/"
+}

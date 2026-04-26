@@ -1,0 +1,11 @@
+{
+  "name": "pip",
+  "version": "26.1",
+  "summary": "The PyPA recommended tool for installing Python packages.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pip-26.1.tar.gz",
+  "download_time": "2026-04-26T21:06:18.773146",
+  "package_url": "https://pypi.org/project/pip/"
+}

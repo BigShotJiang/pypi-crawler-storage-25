@@ -1,0 +1,11 @@
+{
+  "name": "snaps-cacher",
+  "version": "0.1.0",
+  "summary": "Lightweight, extensible Python caching library built on hexagonal architecture. Use built-in TTL, LRU, LFU policies or plug in your own — custom policies, storages, and metrics collectors supported out of the box. Zero dependencies.",
+  "author": "Umidjon Khodjaev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snaps_cacher-0.1.0.tar.gz",
+  "download_time": "2026-04-26T21:06:15.303361",
+  "package_url": "https://pypi.org/project/snaps-cacher/"
+}

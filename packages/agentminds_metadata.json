@@ -1,0 +1,11 @@
+{
+  "name": "agentminds",
+  "version": "0.4.1",
+  "summary": "AgentMinds Python SDK — auto-captures errors, web requests, and logs from Python web apps.",
+  "author": "AgentMinds",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentminds-0.4.1.tar.gz",
+  "download_time": "2026-04-26T21:06:29.064200",
+  "package_url": "https://pypi.org/project/agentminds/"
+}
