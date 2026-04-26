@@ -1,11 +1,11 @@
 {
   "name": "atlas-profiler",
-  "version": "0.0.2",
+  "version": "0.0.2b0",
   "summary": "Data profiling with spatial column type annotation.",
   "author": "Eden Wu",
   "license": null,
   "home_page": null,
-  "download_filename": "atlas_profiler-0.0.2.tar.gz",
-  "download_time": "2026-04-26T01:22:50.825327",
+  "download_filename": "atlas_profiler-0.0.2b0.tar.gz",
+  "download_time": "2026-04-26T16:06:14.528608",
   "package_url": "https://pypi.org/project/atlas-profiler/"
 }

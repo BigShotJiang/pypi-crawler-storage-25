@@ -1,11 +1,11 @@
 {
   "name": "SpotiFLAC",
-  "version": "0.3.5",
+  "version": "0.3.7",
   "summary": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
   "author": "ShuKurenais",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spotiflac-0.3.5.tar.gz",
-  "download_time": "2026-04-24T20:52:18.880957",
+  "download_filename": "spotiflac-0.3.7.tar.gz",
+  "download_time": "2026-04-26T16:05:55.178202",
   "package_url": "https://pypi.org/project/SpotiFLAC/"
 }

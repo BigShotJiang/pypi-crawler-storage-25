@@ -1,0 +1,11 @@
+{
+  "name": "litcurator",
+  "version": "0.0.2",
+  "summary": "litcurator: LLM-powered pubmed literature extraction",
+  "author": "Eric Thomson",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "litcurator-0.0.2.tar.gz",
+  "download_time": "2026-04-26T16:06:08.825757",
+  "package_url": "https://pypi.org/project/litcurator/"
+}

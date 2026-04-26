@@ -1,0 +1,11 @@
+{
+  "name": "kurrent-agent-schema",
+  "version": "0.1.2",
+  "summary": "Canonical event schema for Kurrent agent integrations (schema v2)",
+  "author": "Kurrent, Inc.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kurrent_agent_schema-0.1.2.tar.gz",
+  "download_time": "2026-04-26T16:06:19.187284",
+  "package_url": "https://pypi.org/project/kurrent-agent-schema/"
+}

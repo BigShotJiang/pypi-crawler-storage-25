@@ -1,0 +1,11 @@
+{
+  "name": "drf-social-oauth2",
+  "version": "3.3.0",
+  "summary": "OAuth2 social authentication for Django REST Framework",
+  "author": "Wagner de Lima",
+  "license": "MIT",
+  "home_page": "https://github.com/wagnerdelima/drf-social-oauth2",
+  "download_filename": "drf_social_oauth2-3.3.0.tar.gz",
+  "download_time": "2026-04-26T16:06:38.291045",
+  "package_url": "https://pypi.org/project/drf-social-oauth2/"
+}

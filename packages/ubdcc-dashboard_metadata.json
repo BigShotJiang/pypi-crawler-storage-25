@@ -1,11 +1,11 @@
 {
   "name": "ubdcc-dashboard",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Browser-based live dashboard for the UNICORN Binance DepthCache Cluster (UBDCC).",
   "author": "Oliver Zehentleitner",
   "license": "MIT",
   "home_page": "https://github.com/oliver-zehentleitner/ubdcc-dashboard",
-  "download_filename": "ubdcc_dashboard-0.3.0.tar.gz",
-  "download_time": "2026-04-26T15:11:04.864180",
+  "download_filename": "ubdcc_dashboard-0.3.1.tar.gz",
+  "download_time": "2026-04-26T16:06:01.079041",
   "package_url": "https://pypi.org/project/ubdcc-dashboard/"
 }

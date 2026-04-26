@@ -1,11 +1,11 @@
 {
   "name": "boreholeai",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Python SDK for the BoreholeAI API — digitise borehole logs programmatically",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "boreholeai-0.2.1.tar.gz",
-  "download_time": "2026-04-01T14:21:45.382977",
+  "download_filename": "boreholeai-0.3.0.tar.gz",
+  "download_time": "2026-04-26T16:06:26.953921",
   "package_url": "https://pypi.org/project/boreholeai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "copulax",
+  "version": "3.0.0",
+  "summary": "Copula, multivariate and univariate distribution fitting using JAX in python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "copulax-3.0.0.tar.gz",
+  "download_time": "2026-04-26T16:06:02.614964",
+  "package_url": "https://pypi.org/project/copulax/"
+}

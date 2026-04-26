@@ -1,11 +1,11 @@
 {
   "name": "rwa-calc",
-  "version": "0.1.67",
+  "version": "0.2.0",
   "summary": "Basel 3.1 Credit Risk RWA Calculator compliant with PRA PS9/24",
   "author": "OpenAfterHours",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rwa_calc-0.1.67.tar.gz",
-  "download_time": "2026-04-25T14:36:18.814662",
+  "download_filename": "rwa_calc-0.2.0.tar.gz",
+  "download_time": "2026-04-26T16:06:33.653092",
   "package_url": "https://pypi.org/project/rwa-calc/"
 }

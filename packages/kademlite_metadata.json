@@ -1,0 +1,11 @@
+{
+  "name": "kademlite",
+  "version": "0.1.0",
+  "summary": "Lightweight asyncio-native pure-Python Kademlia DHT implementation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kademlite-0.1.0.tar.gz",
+  "download_time": "2026-04-26T16:06:06.252697",
+  "package_url": "https://pypi.org/project/kademlite/"
+}

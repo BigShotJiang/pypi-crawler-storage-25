@@ -1,11 +1,11 @@
 {
   "name": "exoclaw-nanobot",
-  "version": "0.26.0",
+  "version": "0.27.0",
   "summary": "Full-stack exoclaw bundle — config, provider registry, and one-line wiring",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "exoclaw_nanobot-0.26.0.tar.gz",
-  "download_time": "2026-04-26T12:04:28.326126",
+  "download_filename": "exoclaw_nanobot-0.27.0.tar.gz",
+  "download_time": "2026-04-26T16:06:35.199770",
   "package_url": "https://pypi.org/project/exoclaw-nanobot/"
 }
