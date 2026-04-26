@@ -1,0 +1,11 @@
+{
+  "name": "pandapower-viz",
+  "version": "1.2.0",
+  "summary": "Interactive web visualizer for pandapower networks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pandapower_viz-1.2.0.tar.gz",
+  "download_time": "2026-04-26T20:13:49.234186",
+  "package_url": "https://pypi.org/project/pandapower-viz/"
+}

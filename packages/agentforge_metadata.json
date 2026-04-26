@@ -1,0 +1,11 @@
+{
+  "name": "agentforge",
+  "version": "0.6.5",
+  "summary": "AI-driven task automation system",
+  "author": "John Smith, Ansel Anselmi",
+  "license": "GNU General Public License v3 or later (GPLv3+)",
+  "home_page": "https://github.com/DataBassGit/AgentForge",
+  "download_filename": "agentforge-0.6.5.tar.gz",
+  "download_time": "2026-04-26T20:13:30.039568",
+  "package_url": "https://pypi.org/project/agentforge/"
+}

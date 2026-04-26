@@ -1,11 +1,11 @@
 {
   "name": "skyffla",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Multi-party peer-to-peer rooms for terminals, agents, and scripts",
   "author": "Skyffla",
   "license": null,
   "home_page": null,
-  "download_filename": "skyffla-2.2.0.tar.gz",
-  "download_time": "2026-04-26T15:11:01.189820",
+  "download_filename": "skyffla-2.2.1.tar.gz",
+  "download_time": "2026-04-26T20:13:48.685148",
   "package_url": "https://pypi.org/project/skyffla/"
 }

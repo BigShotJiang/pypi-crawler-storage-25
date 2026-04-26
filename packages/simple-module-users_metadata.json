@@ -1,0 +1,11 @@
+{
+  "name": "simple-module-users",
+  "version": "0.0.2",
+  "summary": "Email + password user management, admin invites, RBAC-ready — replaces Keycloak for simple_module apps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_module_users-0.0.2.tar.gz",
+  "download_time": "2026-04-26T20:13:41.577024",
+  "package_url": "https://pypi.org/project/simple-module-users/"
+}

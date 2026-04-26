@@ -1,0 +1,11 @@
+{
+  "name": "simple-module-file-storage",
+  "version": "0.0.2",
+  "summary": "Pluggable file upload + storage (local or S3 via extras) module for simple_module apps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_module_file_storage-0.0.2.tar.gz",
+  "download_time": "2026-04-26T20:13:42.214196",
+  "package_url": "https://pypi.org/project/simple-module-file-storage/"
+}

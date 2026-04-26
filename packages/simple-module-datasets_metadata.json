@@ -1,0 +1,11 @@
+{
+  "name": "simple-module-datasets",
+  "version": "0.0.2",
+  "summary": "Geospatial + tabular dataset upload, parsing (shapely) and slugging for simple_module apps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_module_datasets-0.0.2.tar.gz",
+  "download_time": "2026-04-26T20:13:40.933915",
+  "package_url": "https://pypi.org/project/simple-module-datasets/"
+}

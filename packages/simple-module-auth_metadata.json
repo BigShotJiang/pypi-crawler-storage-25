@@ -1,0 +1,11 @@
+{
+  "name": "simple-module-auth",
+  "version": "0.0.2",
+  "summary": "Session-cookie authentication primitives — middleware, login/logout, redirect helpers for simple_module",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_module_auth-0.0.2.tar.gz",
+  "download_time": "2026-04-26T20:13:37.057587",
+  "package_url": "https://pypi.org/project/simple-module-auth/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "simple-module-background-tasks",
+  "version": "0.0.2",
+  "summary": "Celery + Redis task queue with admin UI for monitoring and retrying failed/stuck tasks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_module_background_tasks-0.0.2.tar.gz",
+  "download_time": "2026-04-26T20:13:38.342714",
+  "package_url": "https://pypi.org/project/simple-module-background-tasks/"
+}
