@@ -1,11 +1,11 @@
 {
   "name": "layoutml",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "LayoutML - a library for creating HTML pages using Python",
   "author": "feed619",
   "license": null,
   "home_page": "https://github.com/feed619/LayoutML",
-  "download_filename": "layoutml-1.0.1.tar.gz",
-  "download_time": "2026-04-26T08:15:32.265297",
+  "download_filename": "layoutml-1.0.2.tar.gz",
+  "download_time": "2026-04-26T09:22:14.278423",
   "package_url": "https://pypi.org/project/layoutml/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "deny-sh",
+  "version": "1.0.0",
+  "summary": "Deniable encryption — AES-256 with plausible deniability via control files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deny_sh-1.0.0.tar.gz",
+  "download_time": "2026-04-26T09:22:32.354755",
+  "package_url": "https://pypi.org/project/deny-sh/"
+}

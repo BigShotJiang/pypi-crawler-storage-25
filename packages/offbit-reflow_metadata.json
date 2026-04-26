@@ -1,0 +1,11 @@
+{
+  "name": "offbit-reflow",
+  "version": "0.2.2",
+  "summary": "Reflow is a modular flow-based programming runtime that executes actor-model DAGs for data pipelines, real-time media, visual tooling, and optional ML/CV workloads. This package is the official Python SDK.",
+  "author": "Offbit AI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "offbit_reflow-0.2.2.tar.gz",
+  "download_time": "2026-04-26T09:22:31.821986",
+  "package_url": "https://pypi.org/project/offbit-reflow/"
+}

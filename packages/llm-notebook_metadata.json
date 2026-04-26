@@ -1,11 +1,11 @@
 {
   "name": "llm-notebook",
-  "version": "1.3.6",
+  "version": "1.3.17",
   "summary": "Karpathy-style LLM wiki from your Claude Code, Codex CLI, Cursor, and Obsidian sessions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_notebook-1.3.6.tar.gz",
-  "download_time": "2026-04-26T08:15:11.309942",
+  "download_filename": "llm_notebook-1.3.17.tar.gz",
+  "download_time": "2026-04-26T09:22:06.871227",
   "package_url": "https://pypi.org/project/llm-notebook/"
 }

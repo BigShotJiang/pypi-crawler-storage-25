@@ -1,11 +1,11 @@
 {
   "name": "mcp-brain",
-  "version": "0.7.3",
+  "version": "0.8.2",
   "summary": "Multi-agent Cognitive Processing Framework with MiniMax — CLI and MCP server",
   "author": "MC",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_brain-0.7.3.tar.gz",
-  "download_time": "2026-04-26T08:15:40.952107",
+  "download_filename": "mcp_brain-0.8.2.tar.gz",
+  "download_time": "2026-04-26T09:22:12.720295",
   "package_url": "https://pypi.org/project/mcp-brain/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ca9",
+  "version": "0.2.0",
+  "summary": "Open source Python CVE reachability analysis for reducing false-positive SCA alerts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ca9-0.2.0.tar.gz",
+  "download_time": "2026-04-26T09:22:37.090915",
+  "package_url": "https://pypi.org/project/ca9/"
+}

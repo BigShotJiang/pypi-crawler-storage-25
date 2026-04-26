@@ -1,11 +1,11 @@
 {
   "name": "cloudwright-ai",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "summary": "Architecture intelligence for cloud engineers — design, cost, compare, export",
   "author": "Xavier Puspus",
   "license": null,
   "home_page": null,
-  "download_filename": "cloudwright_ai-1.1.0.tar.gz",
-  "download_time": "2026-04-19T07:34:06.036705",
+  "download_filename": "cloudwright_ai-1.2.1.tar.gz",
+  "download_time": "2026-04-26T09:22:11.146494",
   "package_url": "https://pypi.org/project/cloudwright-ai/"
 }

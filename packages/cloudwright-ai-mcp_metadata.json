@@ -1,11 +1,11 @@
 {
   "name": "cloudwright-ai-mcp",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "MCP server for Cloudwright architecture intelligence",
   "author": "Xavier Puspus",
   "license": null,
   "home_page": null,
-  "download_filename": "cloudwright_ai_mcp-1.2.0.tar.gz",
-  "download_time": "2026-04-19T07:34:07.726127",
+  "download_filename": "cloudwright_ai_mcp-1.2.1.tar.gz",
+  "download_time": "2026-04-26T09:22:09.510054",
   "package_url": "https://pypi.org/project/cloudwright-ai-mcp/"
 }

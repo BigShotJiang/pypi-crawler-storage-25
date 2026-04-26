@@ -1,11 +1,11 @@
 {
   "name": "mcp-stdio-bridge",
-  "version": "1.0.3",
+  "version": "1.2.2",
   "summary": "A generic MCP SSE <-> Stdio bridge with advanced security and SSL/TLS support.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_stdio_bridge-1.0.3.tar.gz",
-  "download_time": "2026-04-26T06:45:17.663354",
+  "download_filename": "mcp_stdio_bridge-1.2.2.tar.gz",
+  "download_time": "2026-04-26T09:21:58.961485",
   "package_url": "https://pypi.org/project/mcp-stdio-bridge/"
 }

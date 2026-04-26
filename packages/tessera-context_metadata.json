@@ -1,0 +1,11 @@
+{
+  "name": "tessera-context",
+  "version": "0.3.0rc1",
+  "summary": "Portable context layer for T-shaped AI-native users. Single-file encrypted SQLite vault served over MCP.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tessera_context-0.3.0rc1.tar.gz",
+  "download_time": "2026-04-26T09:22:15.329659",
+  "package_url": "https://pypi.org/project/tessera-context/"
+}
