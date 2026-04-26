@@ -1,0 +1,11 @@
+{
+  "name": "modbus-rs",
+  "version": "0.8.0",
+  "summary": "Fast, full-featured Modbus TCP + Serial bindings for Python — powered by Rust",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/Raghava-Ch",
+  "download_filename": "modbus_rs-0.8.0.tar.gz",
+  "download_time": "2026-04-26T11:19:24.010810",
+  "package_url": "https://pypi.org/project/modbus-rs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "turnzero",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Expert Prior injection for AI sessions — eliminates cold-start friction at Turn 0 for any domain",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "turnzero-0.3.0.tar.gz",
-  "download_time": "2026-04-26T10:19:19.347231",
+  "download_filename": "turnzero-0.4.0.tar.gz",
+  "download_time": "2026-04-26T11:19:33.277088",
   "package_url": "https://pypi.org/project/turnzero/"
 }

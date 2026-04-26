@@ -1,11 +1,11 @@
 {
   "name": "hermes-plugin-stagewhisper",
-  "version": "0.9.0",
+  "version": "0.12.0",
   "summary": "StageWhisper BYO AI relay plugin for Hermes Agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hermes_plugin_stagewhisper-0.9.0.tar.gz",
-  "download_time": "2026-04-25T17:37:21.421222",
+  "download_filename": "hermes_plugin_stagewhisper-0.12.0.tar.gz",
+  "download_time": "2026-04-26T11:19:31.740647",
   "package_url": "https://pypi.org/project/hermes-plugin-stagewhisper/"
 }

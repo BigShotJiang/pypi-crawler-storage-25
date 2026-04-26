@@ -1,0 +1,11 @@
+{
+  "name": "sansqrit",
+  "version": "0.3.1",
+  "summary": "Sansqrit: a simplified quantum DSL with sparse, sharded, stabilizer, MPS, hybrid, noisy, GPU and distributed backends.",
+  "author": "Karthik V",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sansqrit-0.3.1.tar.gz",
+  "download_time": "2026-04-26T11:19:42.732747",
+  "package_url": "https://pypi.org/project/sansqrit/"
+}

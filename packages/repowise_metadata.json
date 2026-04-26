@@ -1,11 +1,11 @@
 {
   "name": "repowise",
-  "version": "0.1.31",
+  "version": "0.3.1",
   "summary": "Codebase intelligence for developers and AI — generates and maintains a structured wiki for any codebase",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "repowise-0.1.31.tar.gz",
-  "download_time": "2026-04-05T08:26:23.117441",
+  "download_filename": "repowise-0.3.1.tar.gz",
+  "download_time": "2026-04-26T11:19:33.788282",
   "package_url": "https://pypi.org/project/repowise/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "induat",
+  "version": "0.1.0",
+  "summary": "Pre-production reliability test suite for AI agents. Plug in your stack, run the gauntlet, get a verdict.",
+  "author": "Wael Feriz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "induat-0.1.0.tar.gz",
+  "download_time": "2026-04-26T11:19:41.145363",
+  "package_url": "https://pypi.org/project/induat/"
+}

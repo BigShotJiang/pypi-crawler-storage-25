@@ -1,11 +1,11 @@
 {
   "name": "tinyros",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A minimal operating system for robotics.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tinyros-0.4.0.tar.gz",
-  "download_time": "2026-04-25T19:20:19.158618",
+  "download_filename": "tinyros-0.4.1.tar.gz",
+  "download_time": "2026-04-26T11:19:27.587205",
   "package_url": "https://pypi.org/project/tinyros/"
 }

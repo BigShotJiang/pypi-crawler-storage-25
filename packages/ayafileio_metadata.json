@@ -1,11 +1,11 @@
 {
   "name": "ayafileio",
-  "version": "1.0.1",
+  "version": "1.0.2.post1",
   "summary": "Cross-platform async file API for Python. Blazing fast like Shameimaru Aya.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ayafileio-1.0.1-cp310-cp310-macosx_15_0_arm64.whl",
-  "download_time": "2026-04-24T10:11:45.505039",
+  "download_filename": "ayafileio-1.0.2.post1-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2026-04-26T11:19:44.395842",
   "package_url": "https://pypi.org/project/ayafileio/"
 }

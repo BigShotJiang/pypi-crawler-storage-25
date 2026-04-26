@@ -1,0 +1,11 @@
+{
+  "name": "mlenvdoctor",
+  "version": "0.1.5",
+  "summary": "Diagnose & fix ML environments for LLM fine-tuning",
+  "author": "ML Environment Doctor Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mlenvdoctor-0.1.5.tar.gz",
+  "download_time": "2026-04-26T11:19:47.542309",
+  "package_url": "https://pypi.org/project/mlenvdoctor/"
+}

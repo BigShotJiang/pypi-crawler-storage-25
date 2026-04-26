@@ -1,0 +1,11 @@
+{
+  "name": "allratestoday-deepseek",
+  "version": "0.2.1",
+  "summary": "Plug real-time currency exchange rates into DeepSeek chat/agents via function calling — powered by the AllRatesToday API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "allratestoday_deepseek-0.2.1.tar.gz",
+  "download_time": "2026-04-26T11:19:40.636872",
+  "package_url": "https://pypi.org/project/allratestoday-deepseek/"
+}

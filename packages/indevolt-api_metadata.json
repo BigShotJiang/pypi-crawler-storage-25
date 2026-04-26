@@ -1,0 +1,11 @@
+{
+  "name": "indevolt-api",
+  "version": "1.5.1",
+  "summary": "Python API client for Indevolt devices",
+  "author": "A. Gideonse",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "indevolt_api-1.5.1.tar.gz",
+  "download_time": "2026-04-26T11:19:42.160664",
+  "package_url": "https://pypi.org/project/indevolt-api/"
+}

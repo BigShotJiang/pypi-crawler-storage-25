@@ -1,11 +1,11 @@
 {
   "name": "pytastic",
-  "version": "0.4.2",
-  "summary": "A dependency-free JSON validation library using TypedDict and Annotated",
+  "version": "0.5.0",
+  "summary": "A zero-dependency JSON validation library using TypedDict and Annotated (optional orjson acceleration)",
   "author": "Tersoo",
   "license": null,
   "home_page": null,
-  "download_filename": "pytastic-0.4.2.tar.gz",
-  "download_time": "2026-04-18T23:02:07.648256",
+  "download_filename": "pytastic-0.5.0.tar.gz",
+  "download_time": "2026-04-26T11:20:01.146773",
   "package_url": "https://pypi.org/project/pytastic/"
 }

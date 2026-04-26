@@ -1,0 +1,11 @@
+{
+  "name": "langchain-timbr",
+  "version": "5.2.0",
+  "summary": "LangChain & LangGraph extensions that parse LLM prompts into Timbr semantic SQL and execute them.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_timbr-5.2.0.tar.gz",
+  "download_time": "2026-04-26T11:19:53.983299",
+  "package_url": "https://pypi.org/project/langchain-timbr/"
+}

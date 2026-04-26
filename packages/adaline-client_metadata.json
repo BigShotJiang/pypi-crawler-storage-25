@@ -1,0 +1,11 @@
+{
+  "name": "adaline-client",
+  "version": "2.2.1",
+  "summary": "The official Python SDK for Adaline - the single platform to iterate, evaluate, deploy, and monitor AI agents.",
+  "author": "Adaline",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adaline_client-2.2.1.tar.gz",
+  "download_time": "2026-04-26T11:19:23.430700",
+  "package_url": "https://pypi.org/project/adaline-client/"
+}
