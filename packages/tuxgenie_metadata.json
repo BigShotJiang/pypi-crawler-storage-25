@@ -1,11 +1,11 @@
 {
   "name": "tuxgenie",
-  "version": "5.44.0",
+  "version": "5.46.1",
   "summary": "AI-powered Linux assistant — fix any Linux problem in plain English",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tuxgenie-5.44.0.tar.gz",
-  "download_time": "2026-04-26T12:04:18.131930",
+  "download_filename": "tuxgenie-5.46.1.tar.gz",
+  "download_time": "2026-04-26T15:10:33.411832",
   "package_url": "https://pypi.org/project/tuxgenie/"
 }

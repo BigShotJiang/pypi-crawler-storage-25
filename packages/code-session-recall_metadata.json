@@ -1,0 +1,11 @@
+{
+  "name": "code-session-recall",
+  "version": "0.1.0",
+  "summary": "Local VS Code/Copilot session recall CLI for low-token agent handoffs",
+  "author": "code-session-recall contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "code_session_recall-0.1.0.tar.gz",
+  "download_time": "2026-04-26T15:10:46.198319",
+  "package_url": "https://pypi.org/project/code-session-recall/"
+}

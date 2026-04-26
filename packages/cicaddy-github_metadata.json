@@ -1,11 +1,11 @@
 {
   "name": "cicaddy-github",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "GitHub Actions plugin for cicaddy AI agent framework",
   "author": "Wayne Sun",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cicaddy_github-0.6.0.tar.gz",
-  "download_time": "2026-04-19T22:19:48.096556",
+  "download_filename": "cicaddy_github-0.7.0.tar.gz",
+  "download_time": "2026-04-26T15:10:40.605229",
   "package_url": "https://pypi.org/project/cicaddy-github/"
 }

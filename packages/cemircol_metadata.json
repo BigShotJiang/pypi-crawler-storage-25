@@ -1,0 +1,11 @@
+{
+  "name": "cemircol",
+  "version": "0.1.0",
+  "summary": "High-performance columnar storage with zlib compression. Parquet alternative.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cemircol-0.1.0-cp312-cp312-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-04-26T15:10:46.849405",
+  "package_url": "https://pypi.org/project/cemircol/"
+}

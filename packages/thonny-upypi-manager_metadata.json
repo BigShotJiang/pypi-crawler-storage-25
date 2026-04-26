@@ -1,11 +1,11 @@
 {
   "name": "thonny-upypi-manager",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Thonny plugin for searching and installing uPyPi packages",
-  "author": "Ali",
+  "author": "Ali, leezisheng",
   "license": null,
   "home_page": null,
-  "download_filename": "thonny_upypi_manager-0.1.0.tar.gz",
-  "download_time": "2026-04-26T14:22:19.890507",
+  "download_filename": "thonny_upypi_manager-0.1.1.tar.gz",
+  "download_time": "2026-04-26T15:10:53.262738",
   "package_url": "https://pypi.org/project/thonny-upypi-manager/"
 }

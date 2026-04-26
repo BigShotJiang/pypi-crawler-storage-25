@@ -1,0 +1,11 @@
+{
+  "name": "arrowspace",
+  "version": "0.26.2",
+  "summary": "Python bindings for ArrowSpace (Rust) providing graph-based similarity search, signal graphs, and spectral methods for vector data.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/tuned-org-uk/pyarrowspace",
+  "download_filename": "arrowspace-0.26.2.tar.gz",
+  "download_time": "2026-04-26T15:10:50.924750",
+  "package_url": "https://pypi.org/project/arrowspace/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fairyclaw",
-  "version": "0.1.29",
+  "version": "0.2.0",
   "summary": "FairyClaw server-side agent runtime",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fairyclaw-0.1.29.tar.gz",
-  "download_time": "2026-04-22T10:03:05.197868",
+  "download_filename": "fairyclaw-0.2.0.tar.gz",
+  "download_time": "2026-04-26T15:10:35.930929",
   "package_url": "https://pypi.org/project/fairyclaw/"
 }

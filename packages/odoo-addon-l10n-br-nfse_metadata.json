@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-l10n-br-nfse",
-  "version": "18.0.5.2.0",
+  "version": "18.0.5.2.1",
   "summary": "Root electronic invoice for service / NFS-e module",
   "author": "KMEE, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/l10n-brazil",
-  "download_filename": "odoo_addon_l10n_br_nfse-18.0.5.2.0-py3-none-any.whl",
-  "download_time": "2026-03-30T15:43:17.410253",
+  "download_filename": "odoo_addon_l10n_br_nfse-18.0.5.2.1-py3-none-any.whl",
+  "download_time": "2026-04-26T15:10:22.154752",
   "package_url": "https://pypi.org/project/odoo-addon-l10n-br-nfse/"
 }

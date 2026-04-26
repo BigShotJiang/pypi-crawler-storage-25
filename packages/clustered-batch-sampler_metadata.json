@@ -1,0 +1,11 @@
+{
+  "name": "clustered-batch-sampler",
+  "version": "0.1.0",
+  "summary": "A PyTorch BatchSampler that produces batches from samples clustered by keys.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clustered_batch_sampler-0.1.0.tar.gz",
+  "download_time": "2026-04-26T15:10:31.581090",
+  "package_url": "https://pypi.org/project/clustered-batch-sampler/"
+}

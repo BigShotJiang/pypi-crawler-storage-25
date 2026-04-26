@@ -1,0 +1,11 @@
+{
+  "name": "pyztraj",
+  "version": "0.7.0",
+  "summary": "Fast molecular dynamics trajectory analysis powered by Zig",
+  "author": "Tsubasa Nagae",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyztraj-0.7.0.tar.gz",
+  "download_time": "2026-04-26T15:11:06.156528",
+  "package_url": "https://pypi.org/project/pyztraj/"
+}

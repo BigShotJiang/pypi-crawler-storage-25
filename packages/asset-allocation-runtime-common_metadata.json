@@ -1,11 +1,11 @@
 {
   "name": "asset-allocation-runtime-common",
-  "version": "2.0.8",
+  "version": "3.4.5",
   "summary": "Shared transport-neutral runtime helpers for the Asset Allocation split repos.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "asset_allocation_runtime_common-2.0.8.tar.gz",
-  "download_time": "2026-04-19T21:42:15.597602",
+  "download_filename": "asset_allocation_runtime_common-3.4.5.tar.gz",
+  "download_time": "2026-04-26T15:11:16.272208",
   "package_url": "https://pypi.org/project/asset-allocation-runtime-common/"
 }

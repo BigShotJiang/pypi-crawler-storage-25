@@ -1,11 +1,11 @@
 {
   "name": "py3notifier",
-  "version": "0.2",
+  "version": "0.4",
   "summary": "py3status module for i3-notifier",
   "author": "Sencer Selcuk",
   "license": null,
   "home_page": null,
-  "download_filename": "py3notifier-0.2.tar.gz",
-  "download_time": "2026-04-12T17:24:55.638926",
+  "download_filename": "py3notifier-0.4.tar.gz",
+  "download_time": "2026-04-26T15:11:02.504998",
   "package_url": "https://pypi.org/project/py3notifier/"
 }

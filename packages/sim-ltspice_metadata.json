@@ -1,0 +1,11 @@
+{
+  "name": "sim-ltspice",
+  "version": "0.2.2",
+  "summary": "Python API for LTspice: .asc / .asy / .net / .raw / .log parsing and a layout engine.",
+  "author": "svd-ai-lab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sim_ltspice-0.2.2.tar.gz",
+  "download_time": "2026-04-26T15:10:32.885995",
+  "package_url": "https://pypi.org/project/sim-ltspice/"
+}
