@@ -1,0 +1,11 @@
+{
+  "name": "oxyjwt",
+  "version": "0.2.0",
+  "summary": "A Python JWT library powered by a Rust core.",
+  "author": "OxyJWT contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oxyjwt-0.2.0.tar.gz",
+  "download_time": "2026-04-26T08:15:39.415622",
+  "package_url": "https://pypi.org/project/oxyjwt/"
+}

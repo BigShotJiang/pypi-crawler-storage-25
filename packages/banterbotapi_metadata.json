@@ -1,11 +1,11 @@
 {
   "name": "banterbotapi",
-  "version": "1.0.14",
+  "version": "1.0.21",
   "summary": "Python SDK for building bots on Banter (banterchat.org) — discord.py-style.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "banterbotapi-1.0.14.tar.gz",
-  "download_time": "2026-04-24T17:57:46.780778",
+  "download_filename": "banterbotapi-1.0.21.tar.gz",
+  "download_time": "2026-04-26T08:15:19.470347",
   "package_url": "https://pypi.org/project/banterbotapi/"
 }

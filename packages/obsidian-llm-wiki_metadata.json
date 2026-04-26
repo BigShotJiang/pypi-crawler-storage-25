@@ -1,11 +1,11 @@
 {
   "name": "obsidian-llm-wiki",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Convert Obsidian notes into an AI-maintained wiki using local or cloud LLMs",
   "author": "kytmanov",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "obsidian_llm_wiki-0.6.0.tar.gz",
-  "download_time": "2026-04-21T18:00:37.601385",
+  "download_filename": "obsidian_llm_wiki-0.7.0.tar.gz",
+  "download_time": "2026-04-26T08:15:27.138374",
   "package_url": "https://pypi.org/project/obsidian-llm-wiki/"
 }

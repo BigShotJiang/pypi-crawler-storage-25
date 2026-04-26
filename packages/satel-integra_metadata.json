@@ -1,11 +1,11 @@
 {
   "name": "satel-integra",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "Communication library and basic testing tool for Satel Integra alarm system. Communication via TCP/IP protocol published by SATEL.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "satel_integra-1.2.0.tar.gz",
-  "download_time": "2026-04-16T11:07:25.259210",
+  "download_filename": "satel_integra-1.2.2.tar.gz",
+  "download_time": "2026-04-26T08:15:36.343768",
   "package_url": "https://pypi.org/project/satel-integra/"
 }

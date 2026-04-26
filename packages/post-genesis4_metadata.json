@@ -1,0 +1,11 @@
+{
+  "name": "post-genesis4",
+  "version": "1.0.0",
+  "summary": "A PyQt5 GUI application for visualizing Genesis4 output files",
+  "author": "Haiyang Li",
+  "license": "GPLv3",
+  "home_page": "https://github.com/mulingLHY/post-genesis4",
+  "download_filename": "post_genesis4-1.0.0.tar.gz",
+  "download_time": "2026-04-26T08:15:11.819488",
+  "package_url": "https://pypi.org/project/post-genesis4/"
+}

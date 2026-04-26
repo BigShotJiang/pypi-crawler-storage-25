@@ -1,11 +1,11 @@
 {
   "name": "mcop",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "summary": "Meta-Cognitive Operating Protocol - A universal reasoning framework for multi-modal hypothesis generation, recursive refinement, and evidence-grounded synthesis.",
   "author": "M-COP Development Team",
   "license": null,
   "home_page": null,
-  "download_filename": "mcop-3.1.0.tar.gz",
-  "download_time": "2026-04-23T17:52:48.852229",
+  "download_filename": "mcop-3.1.1.tar.gz",
+  "download_time": "2026-04-26T08:15:16.410314",
   "package_url": "https://pypi.org/project/mcop/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "course-setup",
+  "version": "3.0.7",
+  "summary": "CLI tools for setting up and retiring GitHub-backed course repositories",
+  "author": "Reuven Lerner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "course_setup-3.0.7.tar.gz",
+  "download_time": "2026-04-26T08:15:44.014563",
+  "package_url": "https://pypi.org/project/course-setup/"
+}

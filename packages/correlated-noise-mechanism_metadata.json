@@ -1,0 +1,11 @@
+{
+  "name": "correlated-noise-mechanism",
+  "version": "0.4.0",
+  "summary": "Implementation of correlated noise mechanism with streaming and multi epoch settings to enable differentially private deep learning",
+  "author": "Ashish Srivastava",
+  "license": null,
+  "home_page": "https://github.com/grim-hitman0XX/correlated_noise_mechanism",
+  "download_filename": "correlated_noise_mechanism-0.4.0.tar.gz",
+  "download_time": "2026-04-26T08:15:24.574583",
+  "package_url": "https://pypi.org/project/correlated-noise-mechanism/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "modelq",
+  "version": "1.0.11",
+  "summary": "Celery-like task queue for ML inference.",
+  "author": "Tanmaypatil123",
+  "license": null,
+  "home_page": null,
+  "download_filename": "modelq-1.0.11.tar.gz",
+  "download_time": "2026-04-26T08:15:36.853497",
+  "package_url": "https://pypi.org/project/modelq/"
+}
