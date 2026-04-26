@@ -1,11 +1,11 @@
 {
   "name": "prometa-sdk",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Official Python SDK for the Prometa Agentic Lifecycle Intelligence Platform",
   "author": "Prometa",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "prometa_sdk-0.3.1.tar.gz",
-  "download_time": "2026-04-25T16:49:53.157690",
+  "download_filename": "prometa_sdk-0.3.3.tar.gz",
+  "download_time": "2026-04-26T06:45:48.440413",
   "package_url": "https://pypi.org/project/prometa-sdk/"
 }

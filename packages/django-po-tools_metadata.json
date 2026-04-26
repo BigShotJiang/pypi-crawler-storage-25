@@ -1,0 +1,11 @@
+{
+  "name": "django-po-tools",
+  "version": "1.5.4",
+  "summary": "Django translation management and auto-translation tools",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "django_po_tools-1.5.4.tar.gz",
+  "download_time": "2026-04-26T06:45:42.153159",
+  "package_url": "https://pypi.org/project/django-po-tools/"
+}

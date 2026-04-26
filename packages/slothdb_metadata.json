@@ -1,11 +1,11 @@
 {
   "name": "slothdb",
-  "version": "0.1.4",
-  "summary": "Fast in-process OLAP engine for Python — query Parquet, CSV, JSON, Arrow and SQLite with SQL. 1.1–8.6× faster than DuckDB.",
+  "version": "0.1.8",
+  "summary": "Embedded SQL OLAP engine for Python — query Parquet, CSV, JSON, Arrow, Avro, Excel, and SQLite files directly with SQL, in-process. Zero server, no import step.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "slothdb-0.1.4.tar.gz",
-  "download_time": "2026-04-21T07:57:52.580844",
+  "download_filename": "slothdb-0.1.8.tar.gz",
+  "download_time": "2026-04-26T06:45:51.008965",
   "package_url": "https://pypi.org/project/slothdb/"
 }

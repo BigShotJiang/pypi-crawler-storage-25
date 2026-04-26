@@ -1,0 +1,11 @@
+{
+  "name": "mongojet",
+  "version": "0.5.3",
+  "summary": "Async MongoDB client for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mongojet-0.5.3-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl",
+  "download_time": "2026-04-26T06:45:43.738041",
+  "package_url": "https://pypi.org/project/mongojet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agents-shipgate",
+  "version": "0.2.0",
+  "summary": "Manifest-first release readiness scanner for agent tool surfaces.",
+  "author": "Agents Shipgate Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agents_shipgate-0.2.0.tar.gz",
+  "download_time": "2026-04-26T06:45:31.621181",
+  "package_url": "https://pypi.org/project/agents-shipgate/"
+}

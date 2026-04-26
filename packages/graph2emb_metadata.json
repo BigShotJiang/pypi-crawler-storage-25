@@ -1,0 +1,11 @@
+{
+  "name": "graph2emb",
+  "version": "1.0.0",
+  "summary": "Implementation of the graph2vec algorithm",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graph2emb-1.0.0.tar.gz",
+  "download_time": "2026-04-26T06:45:35.737193",
+  "package_url": "https://pypi.org/project/graph2emb/"
+}

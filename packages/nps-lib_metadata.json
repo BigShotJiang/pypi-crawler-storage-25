@@ -1,11 +1,11 @@
 {
   "name": "nps-lib",
-  "version": "1.0.0a2",
+  "version": "1.0.0a3",
   "summary": "Python SDK for the Neural Protocol Suite (NPS)",
   "author": "LabAcacia / INNO LOTUS PTY LTD",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nps_lib-1.0.0a2.tar.gz",
-  "download_time": "2026-04-19T06:04:27.872641",
+  "download_filename": "nps_lib-1.0.0a3.tar.gz",
+  "download_time": "2026-04-26T06:45:49.462373",
   "package_url": "https://pypi.org/project/nps-lib/"
 }

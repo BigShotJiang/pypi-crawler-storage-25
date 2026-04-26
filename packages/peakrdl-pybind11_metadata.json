@@ -1,0 +1,11 @@
+{
+  "name": "peakrdl-pybind11",
+  "version": "0.5.0",
+  "summary": "Export SystemRDL to PyBind11 modules for Python-based hardware testing",
+  "author": "Arnav Sacheti",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "peakrdl_pybind11-0.5.0-py3-none-any.whl",
+  "download_time": "2026-04-26T06:45:12.705175",
+  "package_url": "https://pypi.org/project/peakrdl-pybind11/"
+}

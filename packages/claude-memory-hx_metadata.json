@@ -1,0 +1,11 @@
+{
+  "name": "claude-memory-hx",
+  "version": "0.3.0",
+  "summary": "Persistent hybrid memory for AI coding assistants",
+  "author": "Sean (Haustorium12)",
+  "license": null,
+  "home_page": "https://github.com/Haustorium12/claude-memory",
+  "download_filename": "claude_memory_hx-0.3.0.tar.gz",
+  "download_time": "2026-04-26T06:45:25.473809",
+  "package_url": "https://pypi.org/project/claude-memory-hx/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lemon-manga-translator",
-  "version": "0.0.6",
+  "version": "0.0.10",
   "summary": "Koharu-inspired manga translation pipeline (JA->KO) in Python",
   "author": "LemonDouble",
   "license": null,
   "home_page": null,
-  "download_filename": "lemon_manga_translator-0.0.6.tar.gz",
-  "download_time": "2026-04-18T18:56:47.395014",
+  "download_filename": "lemon_manga_translator-0.0.10.tar.gz",
+  "download_time": "2026-04-26T06:45:23.875693",
   "package_url": "https://pypi.org/project/lemon-manga-translator/"
 }
