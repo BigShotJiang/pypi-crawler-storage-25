@@ -1,0 +1,11 @@
+{
+  "name": "dicom-ecg-plot",
+  "version": "1.4.0",
+  "summary": "Plot Dicom ECG Waveforms",
+  "author": "Marco De Benedetto",
+  "license": "MIT",
+  "home_page": "https://github.com/marcodebe/dicom-ecg-plot",
+  "download_filename": "dicom_ecg_plot-1.4.0.tar.gz",
+  "download_time": "2026-04-27T22:21:58.077162",
+  "package_url": "https://pypi.org/project/dicom-ecg-plot/"
+}

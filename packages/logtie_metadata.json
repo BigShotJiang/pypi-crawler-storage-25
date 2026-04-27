@@ -1,0 +1,11 @@
+{
+  "name": "logtie",
+  "version": "0.1.0",
+  "summary": "Lightweight, zero-dependency logging wrapper with structured output, context injection, and file rotation",
+  "author": "beqm",
+  "license": null,
+  "home_page": null,
+  "download_filename": "logtie-0.1.0.tar.gz",
+  "download_time": "2026-04-27T22:21:39.524656",
+  "package_url": "https://pypi.org/project/logtie/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mara-client",
-  "version": "0.22.1",
+  "version": "0.22.4",
   "summary": "A client for the MARA conversational agent for cheminformatics.",
   "author": "Sam Hessenauer, Alex McNerney, Mike Rosengrant",
   "license": null,
   "home_page": "https://nanome.ai/mara",
-  "download_filename": "mara_client-0.22.1.tar.gz",
-  "download_time": "2026-04-10T21:58:44.852201",
+  "download_filename": "mara_client-0.22.4.tar.gz",
+  "download_time": "2026-04-27T22:21:36.406735",
   "package_url": "https://pypi.org/project/mara-client/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "figmin-bridge-gpu",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Figmin XR bridge daemon with CUDA acceleration (Whisper + Kokoro on GPU).",
   "author": "Figmin XR",
   "license": null,
   "home_page": null,
-  "download_filename": "figmin_bridge_gpu-0.2.0.tar.gz",
-  "download_time": "2026-04-27T21:25:32.161837",
+  "download_filename": "figmin_bridge_gpu-0.2.1.tar.gz",
+  "download_time": "2026-04-27T22:22:07.978418",
   "package_url": "https://pypi.org/project/figmin-bridge-gpu/"
 }

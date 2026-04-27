@@ -1,11 +1,11 @@
 {
   "name": "aten-thoth",
-  "version": "0.1.11",
+  "version": "0.5.4",
   "summary": "AI agent governance SDK by Aten Security",
   "author": "Aten Engineering",
   "license": null,
   "home_page": null,
-  "download_filename": "aten_thoth-0.1.11.tar.gz",
-  "download_time": "2026-04-25T00:03:27.105110",
+  "download_filename": "aten_thoth-0.5.4.tar.gz",
+  "download_time": "2026-04-27T22:21:57.039524",
   "package_url": "https://pypi.org/project/aten-thoth/"
 }

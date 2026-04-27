@@ -1,11 +1,11 @@
 {
   "name": "rivex-agent",
-  "version": "0.7.1",
+  "version": "0.7.4",
   "summary": "Rivex security posture collection agent (cross-platform)",
   "author": "Rivex Team",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "rivex_agent-0.7.1.tar.gz",
-  "download_time": "2026-04-27T19:19:09.402247",
+  "download_filename": "rivex_agent-0.7.4.tar.gz",
+  "download_time": "2026-04-27T22:21:47.766969",
   "package_url": "https://pypi.org/project/rivex-agent/"
 }

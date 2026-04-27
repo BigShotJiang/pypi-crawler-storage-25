@@ -1,11 +1,11 @@
 {
   "name": "promptukit",
-  "version": "0.1.300",
+  "version": "0.5.3",
   "summary": "Utilities for building question banks and generating exam documents.",
   "author": "Joseph Kasprzyk",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "promptukit-0.1.300.tar.gz",
-  "download_time": "2026-04-19T22:19:16.573394",
+  "download_filename": "promptukit-0.5.3.tar.gz",
+  "download_time": "2026-04-27T22:22:18.380379",
   "package_url": "https://pypi.org/project/promptukit/"
 }

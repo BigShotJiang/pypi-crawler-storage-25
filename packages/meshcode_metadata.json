@@ -1,11 +1,11 @@
 {
   "name": "meshcode",
-  "version": "2.10.60",
+  "version": "2.10.63",
   "summary": "Real-time communication between AI agents — Supabase-backed CLI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "meshcode-2.10.60.tar.gz",
-  "download_time": "2026-04-27T21:24:54.052700",
+  "download_filename": "meshcode-2.10.63.tar.gz",
+  "download_time": "2026-04-27T22:21:38.504864",
   "package_url": "https://pypi.org/project/meshcode/"
 }

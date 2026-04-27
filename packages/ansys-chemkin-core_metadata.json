@@ -1,0 +1,11 @@
+{
+  "name": "ansys-chemkin-core",
+  "version": "0.2.0",
+  "summary": "PyChemkin provides Pythonic interface to Ansys Chemkin utilities and reactor models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_chemkin_core-0.2.0.tar.gz",
+  "download_time": "2026-04-27T22:22:11.645989",
+  "package_url": "https://pypi.org/project/ansys-chemkin-core/"
+}

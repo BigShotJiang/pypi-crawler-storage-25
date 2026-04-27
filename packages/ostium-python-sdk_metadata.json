@@ -1,0 +1,11 @@
+{
+  "name": "ostium-python-sdk",
+  "version": "3.2.0",
+  "summary": "A python based SDK developed for interacting with Ostium, a leveraged trading application for trading currencies, commodities, indices, crypto and more.",
+  "author": "ami@ostium.io",
+  "license": null,
+  "home_page": "https://github.com/0xOstium/ostium-python-sdk",
+  "download_filename": "ostium_python_sdk-3.2.0.tar.gz",
+  "download_time": "2026-04-27T22:21:50.333616",
+  "package_url": "https://pypi.org/project/ostium-python-sdk/"
+}

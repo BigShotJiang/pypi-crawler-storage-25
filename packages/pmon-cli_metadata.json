@@ -1,0 +1,11 @@
+{
+  "name": "pmon-cli",
+  "version": "0.3.1",
+  "summary": "Scan a folder for git repos and view their status at a glance",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pmon_cli-0.3.1.tar.gz",
+  "download_time": "2026-04-27T22:22:13.694049",
+  "package_url": "https://pypi.org/project/pmon-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zerodict",
+  "version": "0.1.2",
+  "summary": "Convenient manipulation of nested dict structures with dot notation, path API, and atomic updates",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zerodict-0.1.2.tar.gz",
+  "download_time": "2026-04-27T22:22:00.692439",
+  "package_url": "https://pypi.org/project/zerodict/"
+}

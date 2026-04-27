@@ -1,0 +1,11 @@
+{
+  "name": "pip_and_pip_tools",
+  "version": "7.5.3.1",
+  "summary": "Requires compatible installations of pip and pip-tools",
+  "author": "Andy Kluger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pip_and_pip_tools-7.5.3.1.tar.gz",
+  "download_time": "2026-04-27T22:21:45.709126",
+  "package_url": "https://pypi.org/project/pip_and_pip_tools/"
+}
