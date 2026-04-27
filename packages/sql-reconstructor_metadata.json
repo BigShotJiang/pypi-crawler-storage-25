@@ -1,0 +1,11 @@
+{
+  "name": "sql-reconstructor",
+  "version": "0.1.0",
+  "summary": "Restore SQL from Spark Catalyst plan JSON and validate with test_sql",
+  "author": "mt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sql_reconstructor-0.1.0.tar.gz",
+  "download_time": "2026-04-27T16:17:22.577563",
+  "package_url": "https://pypi.org/project/sql-reconstructor/"
+}

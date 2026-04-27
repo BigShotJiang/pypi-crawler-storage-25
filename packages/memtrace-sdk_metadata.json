@@ -1,0 +1,11 @@
+{
+  "name": "memtrace-sdk",
+  "version": "0.2.0",
+  "summary": "Python SDK for Memtrace — LLM-agnostic memory layer for AI agents",
+  "author": "Basekick Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memtrace_sdk-0.2.0.tar.gz",
+  "download_time": "2026-04-27T16:16:58.818416",
+  "package_url": "https://pypi.org/project/memtrace-sdk/"
+}

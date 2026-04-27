@@ -1,0 +1,11 @@
+{
+  "name": "evernote-cli",
+  "version": "1.0.0",
+  "summary": "Agent-first Evernote CLI with JSON output and structured error codes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "evernote_cli-1.0.0.tar.gz",
+  "download_time": "2026-04-27T16:17:03.939140",
+  "package_url": "https://pypi.org/project/evernote-cli/"
+}

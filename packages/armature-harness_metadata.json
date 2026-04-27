@@ -1,11 +1,11 @@
 {
   "name": "armature-harness",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Harness engineering framework for AI coding agents -- the invisible skeleton that shapes agent output",
   "author": "Armature Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "armature_harness-0.2.1.tar.gz",
-  "download_time": "2026-04-26T23:15:36.592095",
+  "download_filename": "armature_harness-0.2.3.tar.gz",
+  "download_time": "2026-04-27T16:17:36.270570",
   "package_url": "https://pypi.org/project/armature-harness/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "bernstein",
-  "version": "1.8.14",
-  "summary": "Declarative agent orchestration for engineering teams",
+  "version": "1.9.1",
+  "summary": "Multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, and 28 more) — deterministic, declarative, zero vendor lock-in.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bernstein-1.8.14.tar.gz",
-  "download_time": "2026-04-23T22:08:58.499552",
+  "download_filename": "bernstein-1.9.1.tar.gz",
+  "download_time": "2026-04-27T16:17:34.559289",
   "package_url": "https://pypi.org/project/bernstein/"
 }

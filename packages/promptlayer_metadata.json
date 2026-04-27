@@ -1,0 +1,11 @@
+{
+  "name": "promptlayer",
+  "version": "1.4.3",
+  "summary": "PromptLayer is a platform for prompt engineering and tracks your LLM requests.",
+  "author": "Magniv",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "promptlayer-1.4.3.tar.gz",
+  "download_time": "2026-04-27T16:17:02.713424",
+  "package_url": "https://pypi.org/project/promptlayer/"
+}

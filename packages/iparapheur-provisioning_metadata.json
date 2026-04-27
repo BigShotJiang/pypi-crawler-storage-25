@@ -1,11 +1,11 @@
 {
   "name": "iparapheur-provisioning",
-  "version": "1.19.16",
+  "version": "1.19.17",
   "summary": "iparapheur",
   "author": "Libriciel SCOP",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "iparapheur_provisioning-1.19.16.tar.gz",
-  "download_time": "2026-04-03T15:56:27.042696",
+  "download_filename": "iparapheur_provisioning-1.19.17.tar.gz",
+  "download_time": "2026-04-27T16:17:24.474062",
   "package_url": "https://pypi.org/project/iparapheur-provisioning/"
 }

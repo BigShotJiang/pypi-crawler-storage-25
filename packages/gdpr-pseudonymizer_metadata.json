@@ -1,0 +1,11 @@
+{
+  "name": "gdpr-pseudonymizer",
+  "version": "2.1.1",
+  "summary": "CLI and GUI tool for GDPR-compliant pseudonymization of French text documents using NLP-based entity detection and reversible mapping",
+  "author": "GDPR Pseudonymizer Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gdpr_pseudonymizer-2.1.1.tar.gz",
+  "download_time": "2026-04-27T16:17:35.209434",
+  "package_url": "https://pypi.org/project/gdpr-pseudonymizer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "specmap",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Spec-to-code mapping: core library, MCP server, and CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "specmap-0.3.0.tar.gz",
-  "download_time": "2026-04-26T20:13:33.274914",
+  "download_filename": "specmap-0.3.1.tar.gz",
+  "download_time": "2026-04-27T16:16:58.291953",
   "package_url": "https://pypi.org/project/specmap/"
 }
