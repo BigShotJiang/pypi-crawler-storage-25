@@ -1,11 +1,11 @@
 {
   "name": "opal-client",
-  "version": "0.9.0",
+  "version": "0.9.4",
   "summary": "OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and data and pushing live updates to your agents. The opal-client is deployed alongside a policy-store (e.g: OPA), keeping it up-to-date, by connecting to an opal-server and subscribing to pub/sub updates for policy and policy data changes.",
   "author": "Or Weis, Asaf Cohen",
   "license": "Apache 2.0",
   "home_page": "https://github.com/permitio/opal",
-  "download_filename": "opal-client-0.9.0.tar.gz",
-  "download_time": "2026-03-31T08:09:24.521836",
+  "download_filename": "opal_client-0.9.4.tar.gz",
+  "download_time": "2026-04-27T08:31:10.793562",
   "package_url": "https://pypi.org/project/opal-client/"
 }

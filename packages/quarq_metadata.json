@@ -1,0 +1,11 @@
+{
+  "name": "quarq",
+  "version": "0.0.2",
+  "summary": "French institutional portfolio analytics with RAG and local LLM",
+  "author": "zkmarc",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quarq-0.0.2.tar.gz",
+  "download_time": "2026-04-27T08:31:32.804038",
+  "package_url": "https://pypi.org/project/quarq/"
+}

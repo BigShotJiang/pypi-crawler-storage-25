@@ -1,11 +1,11 @@
 {
   "name": "kimi-cli-x",
-  "version": "1.39.0",
+  "version": "1.39.1",
   "summary": "Kimi Code CLI is your next CLI agent.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kimi_cli_x-1.39.0.tar.gz",
-  "download_time": "2026-04-24T12:50:56.252861",
+  "download_filename": "kimi_cli_x-1.39.1.tar.gz",
+  "download_time": "2026-04-27T08:31:21.852147",
   "package_url": "https://pypi.org/project/kimi-cli-x/"
 }

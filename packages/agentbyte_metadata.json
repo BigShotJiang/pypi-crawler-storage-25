@@ -1,11 +1,11 @@
 {
   "name": "agentbyte",
-  "version": "0.10.3",
+  "version": "0.15.0",
   "summary": "A toolkit for designing multiagent systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentbyte-0.10.3.tar.gz",
-  "download_time": "2026-04-16T14:18:54.997968",
+  "download_filename": "agentbyte-0.15.0.tar.gz",
+  "download_time": "2026-04-27T08:31:29.162836",
   "package_url": "https://pypi.org/project/agentbyte/"
 }

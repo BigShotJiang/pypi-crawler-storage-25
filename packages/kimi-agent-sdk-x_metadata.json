@@ -1,11 +1,11 @@
 {
   "name": "kimi-agent-sdk-x",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "A Python SDK for Kimi Agent (Kimi CLI).",
   "author": "Moonshot AI",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "kimi_agent_sdk_x-0.0.8.tar.gz",
-  "download_time": "2026-04-24T12:50:47.699541",
+  "download_filename": "kimi_agent_sdk_x-0.0.9.tar.gz",
+  "download_time": "2026-04-27T08:31:20.812089",
   "package_url": "https://pypi.org/project/kimi-agent-sdk-x/"
 }

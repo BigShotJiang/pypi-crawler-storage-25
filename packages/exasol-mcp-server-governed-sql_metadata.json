@@ -1,0 +1,11 @@
+{
+  "name": "exasol-mcp-server-governed-sql",
+  "version": "1.6.2.5",
+  "summary": "Exasol MCP Server with a experimental text-to-SQL option.",
+  "author": "Dirk Beerbohm (Governed-SQL)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "exasol_mcp_server_governed_sql-1.6.2.5.tar.gz",
+  "download_time": "2026-04-27T08:31:01.730919",
+  "package_url": "https://pypi.org/project/exasol-mcp-server-governed-sql/"
+}

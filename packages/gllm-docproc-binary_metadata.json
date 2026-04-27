@@ -1,0 +1,11 @@
+{
+  "name": "gllm-docproc-binary",
+  "version": "0.10.0",
+  "summary": "A library for orchestrating the processing of document. Typically in a Gen AI applications (but not limited to just Gen AI).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gllm_docproc_binary-0.10.0-cp311-cp311-manylinux_2_31_x86_64.whl",
+  "download_time": "2026-04-27T08:31:26.027926",
+  "package_url": "https://pypi.org/project/gllm-docproc-binary/"
+}

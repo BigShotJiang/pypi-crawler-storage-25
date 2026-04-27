@@ -1,11 +1,11 @@
 {
   "name": "aos-git",
-  "version": "0.4.2",
+  "version": "0.6.1",
   "summary": "AI-powered Git merge conflict resolver — let AI merge both sides intelligently",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aos_git-0.4.2.tar.gz",
-  "download_time": "2026-04-23T00:08:13.782066",
+  "download_filename": "aos_git-0.6.1.tar.gz",
+  "download_time": "2026-04-27T08:31:30.724110",
   "package_url": "https://pypi.org/project/aos-git/"
 }

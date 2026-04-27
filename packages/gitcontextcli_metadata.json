@@ -1,0 +1,11 @@
+{
+  "name": "gitcontextcli",
+  "version": "1.2.1",
+  "summary": "Compress any GitHub repo into a token-budgeted context file for LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitcontextcli-1.2.1.tar.gz",
+  "download_time": "2026-04-27T08:31:05.549551",
+  "package_url": "https://pypi.org/project/gitcontextcli/"
+}
