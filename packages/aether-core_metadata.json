@@ -1,0 +1,11 @@
+{
+  "name": "aether-core",
+  "version": "0.8.0",
+  "summary": "Belief substrate for AI systems — persistent, contradiction-aware trust state that outlives any single model. The model is the mouth, the substrate is the self.",
+  "author": "Nick Block",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aether_core-0.8.0.tar.gz",
+  "download_time": "2026-04-27T20:18:52.856247",
+  "package_url": "https://pypi.org/project/aether-core/"
+}

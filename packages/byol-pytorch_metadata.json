@@ -1,0 +1,11 @@
+{
+  "name": "byol-pytorch",
+  "version": "0.9.0",
+  "summary": "Self-supervised contrastive learning made simple",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "byol_pytorch-0.9.0.tar.gz",
+  "download_time": "2026-04-27T20:18:31.783879",
+  "package_url": "https://pypi.org/project/byol-pytorch/"
+}

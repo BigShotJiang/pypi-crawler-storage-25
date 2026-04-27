@@ -1,11 +1,11 @@
 {
   "name": "thesma-mcp",
-  "version": "0.10.1.0",
+  "version": "0.11.1.1",
   "summary": "MCP server for SEC, BLS, and US Census data — give your AI assistant native access to financials, labor market stats, and demographics",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "thesma_mcp-0.10.1.0.tar.gz",
-  "download_time": "2026-04-24T20:52:33.877913",
+  "download_filename": "thesma_mcp-0.11.1.1.tar.gz",
+  "download_time": "2026-04-27T20:19:03.247178",
   "package_url": "https://pypi.org/project/thesma-mcp/"
 }

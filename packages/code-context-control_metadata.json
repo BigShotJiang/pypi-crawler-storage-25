@@ -1,11 +1,11 @@
 {
   "name": "code-context-control",
-  "version": "2.28.3",
+  "version": "2.29.0",
   "summary": "Local code-intelligence layer for AI coding tools (Claude Code, Codex, Gemini, Copilot). Retrieve less, read less, edit safer.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "code_context_control-2.28.3.tar.gz",
-  "download_time": "2026-04-27T10:39:28.765929",
+  "download_filename": "code_context_control-2.29.0.tar.gz",
+  "download_time": "2026-04-27T20:18:47.747364",
   "package_url": "https://pypi.org/project/code-context-control/"
 }

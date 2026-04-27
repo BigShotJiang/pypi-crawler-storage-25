@@ -1,11 +1,11 @@
 {
   "name": "fluxwallet",
-  "version": "2.1.8",
+  "version": "2.1.13",
   "summary": "A Wallet implementation for Flux",
   "author": "David White",
   "license": null,
   "home_page": null,
-  "download_filename": "fluxwallet-2.1.8.tar.gz",
-  "download_time": "2026-04-27T19:18:33.784673",
+  "download_filename": "fluxwallet-2.1.13.tar.gz",
+  "download_time": "2026-04-27T20:18:53.401872",
   "package_url": "https://pypi.org/project/fluxwallet/"
 }

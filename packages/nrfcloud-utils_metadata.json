@@ -1,0 +1,11 @@
+{
+  "name": "nrfcloud-utils",
+  "version": "3.1.0",
+  "summary": "Scripts and utilities for working with the nRF Cloud",
+  "author": "Nordic Semiconductor ASA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nrfcloud_utils-3.1.0.tar.gz",
+  "download_time": "2026-04-27T20:18:58.086202",
+  "package_url": "https://pypi.org/project/nrfcloud-utils/"
+}

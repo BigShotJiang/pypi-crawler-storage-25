@@ -1,11 +1,11 @@
 {
   "name": "headroom-ai",
-  "version": "0.10.13",
+  "version": "0.10.19",
   "summary": "The Context Optimization Layer for LLM Applications - Cut costs by 50-90%",
   "author": "Headroom Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "headroom_ai-0.10.13.tar.gz",
-  "download_time": "2026-04-25T20:45:15.568194",
+  "download_filename": "headroom_ai-0.10.19.tar.gz",
+  "download_time": "2026-04-27T20:18:50.041390",
   "package_url": "https://pypi.org/project/headroom-ai/"
 }

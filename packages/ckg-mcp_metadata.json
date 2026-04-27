@@ -1,0 +1,11 @@
+{
+  "name": "ckg-mcp",
+  "version": "0.1.1",
+  "summary": "Compact Knowledge Graph MCP server — 42× more efficient than RAG on structural queries",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ckg_mcp-0.1.1.tar.gz",
+  "download_time": "2026-04-27T20:18:38.187627",
+  "package_url": "https://pypi.org/project/ckg-mcp/"
+}

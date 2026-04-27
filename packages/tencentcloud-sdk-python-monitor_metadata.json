@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-monitor",
-  "version": "3.1.81",
+  "version": "3.1.87",
   "summary": "Tencent Cloud Monitor SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud_sdk_python_monitor-3.1.81.tar.gz",
-  "download_time": "2026-04-19T20:18:09.211947",
+  "download_filename": "tencentcloud_sdk_python_monitor-3.1.87.tar.gz",
+  "download_time": "2026-04-27T20:18:30.658344",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-monitor/"
 }

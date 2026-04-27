@@ -1,0 +1,11 @@
+{
+  "name": "acis2llm",
+  "version": "0.2.1",
+  "summary": "Agent-friendly helpers for the xmACIS2Py climate library — station discovery, multi-station fetch, and seasonal/monthly composites. Ships with the acis-weather skill.",
+  "author": "yenba",
+  "license": null,
+  "home_page": null,
+  "download_filename": "acis2llm-0.2.1.tar.gz",
+  "download_time": "2026-04-27T20:18:58.628499",
+  "package_url": "https://pypi.org/project/acis2llm/"
+}

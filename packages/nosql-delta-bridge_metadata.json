@@ -1,0 +1,11 @@
+{
+  "name": "nosql-delta-bridge",
+  "version": "0.1.2",
+  "summary": "NoSQL to Delta Lake ingestion with schema enforcement, type coercion, and a dead-letter queue. Nothing silently crashes your pipeline.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nosql_delta_bridge-0.1.2.tar.gz",
+  "download_time": "2026-04-27T20:18:54.520330",
+  "package_url": "https://pypi.org/project/nosql-delta-bridge/"
+}

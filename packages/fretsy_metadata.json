@@ -1,0 +1,11 @@
+{
+  "name": "fretsy",
+  "version": "0.1.0",
+  "summary": "A pure-Python library for generating guitar chord diagram images (SVG and PNG)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fretsy-0.1.0.tar.gz",
+  "download_time": "2026-04-27T20:18:22.045329",
+  "package_url": "https://pypi.org/project/fretsy/"
+}
