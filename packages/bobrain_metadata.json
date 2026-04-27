@@ -1,0 +1,11 @@
+{
+  "name": "bobrain",
+  "version": "0.1.0",
+  "summary": "A local-first multi-source RAG MCP server — search across Obsidian vaults, Git repos, and PDFs from Claude / Cursor / Claude Desktop.",
+  "author": "ぼぶ",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bobrain-0.1.0.tar.gz",
+  "download_time": "2026-04-27T03:00:40.088027",
+  "package_url": "https://pypi.org/project/bobrain/"
+}
