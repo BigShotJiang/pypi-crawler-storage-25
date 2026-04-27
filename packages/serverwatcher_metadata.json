@@ -1,11 +1,11 @@
 {
   "name": "serverwatcher",
-  "version": "3.8.4",
+  "version": "4.0.1",
   "summary": "A HungerLib-powered Minecraft server automation engine.",
   "author": "iFamished",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "serverwatcher-3.8.4.tar.gz",
-  "download_time": "2026-04-27T17:50:11.400363",
+  "download_filename": "serverwatcher-4.0.1.tar.gz",
+  "download_time": "2026-04-27T21:25:07.873928",
   "package_url": "https://pypi.org/project/serverwatcher/"
 }

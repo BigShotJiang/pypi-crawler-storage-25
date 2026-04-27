@@ -1,0 +1,11 @@
+{
+  "name": "hawkeye-analyzer",
+  "version": "0.1.1",
+  "summary": "Python dependency graph analyzer, architecture enforcer, and MCP server for AI coding agents",
+  "author": "Alex",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hawkeye_analyzer-0.1.1.tar.gz",
+  "download_time": "2026-04-27T21:24:50.337267",
+  "package_url": "https://pypi.org/project/hawkeye-analyzer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "docker-wts-build",
+  "version": "0.1.1",
+  "summary": "Docker builds via Windows Task Scheduler — MCP server for Cline",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docker_wts_build-0.1.1.tar.gz",
+  "download_time": "2026-04-27T21:24:53.536383",
+  "package_url": "https://pypi.org/project/docker-wts-build/"
+}

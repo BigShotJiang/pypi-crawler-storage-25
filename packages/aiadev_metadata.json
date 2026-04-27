@@ -1,11 +1,11 @@
 {
   "name": "aiadev",
-  "version": "0.14.2",
+  "version": "0.16.0",
   "summary": "CLI for the AI-Augmented Developer framework: validates skills, scaffolds feature specs, installs presets.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiadev-0.14.2.tar.gz",
-  "download_time": "2026-04-18T18:00:40.375567",
+  "download_filename": "aiadev-0.16.0.tar.gz",
+  "download_time": "2026-04-27T21:25:33.703580",
   "package_url": "https://pypi.org/project/aiadev/"
 }
