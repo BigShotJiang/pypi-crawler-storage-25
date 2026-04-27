@@ -1,0 +1,11 @@
+{
+  "name": "berryql",
+  "version": "0.3.3",
+  "summary": "A powerful GraphQL query optimization library for Strawberry GraphQL and SQLAlchemy",
+  "author": "Yurii Tolkunov, Claude Sonnet 4, GPT-5, GPT-5.1-Codex, GPT-5.4, Claude Opus 4.6, Claude Opus 4.7, BerryQL Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "berryql-0.3.3.tar.gz",
+  "download_time": "2026-04-27T14:35:42.458887",
+  "package_url": "https://pypi.org/project/berryql/"
+}

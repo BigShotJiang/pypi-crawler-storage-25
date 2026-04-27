@@ -1,11 +1,11 @@
 {
   "name": "ic-basilisk",
-  "version": "0.11.31",
+  "version": "0.11.33",
   "summary": "An ICP Python Canister Development Kit for the Internet Computer",
   "author": "Smart Social Contracts",
   "license": null,
   "home_page": "https://github.com/smart-social-contracts/basilisk",
-  "download_filename": "ic_basilisk-0.11.31.tar.gz",
-  "download_time": "2026-04-21T23:02:31.447100",
+  "download_filename": "ic_basilisk-0.11.33.tar.gz",
+  "download_time": "2026-04-27T14:35:49.149883",
   "package_url": "https://pypi.org/project/ic-basilisk/"
 }

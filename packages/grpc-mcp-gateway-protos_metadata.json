@@ -1,11 +1,11 @@
 {
   "name": "grpc-mcp-gateway-protos",
-  "version": "1.5.51",
+  "version": "1.5.62",
   "summary": "Pre-compiled Protocol Buffer types for grpc-mcp-gateway (mcp.protobuf)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "grpc_mcp_gateway_protos-1.5.51.tar.gz",
-  "download_time": "2026-04-21T12:08:13.702208",
+  "download_filename": "grpc_mcp_gateway_protos-1.5.62.tar.gz",
+  "download_time": "2026-04-27T14:36:12.291275",
   "package_url": "https://pypi.org/project/grpc-mcp-gateway-protos/"
 }

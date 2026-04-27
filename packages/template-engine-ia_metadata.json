@@ -1,11 +1,11 @@
 {
   "name": "template-engine-ia",
-  "version": "0.9.0",
+  "version": "0.9.6",
   "summary": "Document normalization engine: learn a template from examples and convert any document automatically via LLM.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "template_engine_ia-0.9.0.tar.gz",
-  "download_time": "2026-04-27T03:01:34.856792",
+  "download_filename": "template_engine_ia-0.9.6.tar.gz",
+  "download_time": "2026-04-27T14:35:52.995551",
   "package_url": "https://pypi.org/project/template-engine-ia/"
 }

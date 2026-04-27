@@ -1,11 +1,11 @@
 {
   "name": "nuki",
-  "version": "0.1.2",
-  "summary": "Add your description here",
+  "version": "0.1.5",
+  "summary": "自分用・非汎用",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nuki-0.1.2.tar.gz",
-  "download_time": "2026-04-07T11:42:45.365696",
+  "download_filename": "nuki-0.1.5.tar.gz",
+  "download_time": "2026-04-27T14:35:54.684206",
   "package_url": "https://pypi.org/project/nuki/"
 }

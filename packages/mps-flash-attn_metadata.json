@@ -1,0 +1,11 @@
+{
+  "name": "mps-flash-attn",
+  "version": "0.6.0",
+  "summary": "Flash Attention for PyTorch on Apple Silicon (M1/M2/M3/M4)",
+  "author": "imperatormk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mps_flash_attn-0.6.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-04-27T14:35:39.759911",
+  "package_url": "https://pypi.org/project/mps-flash-attn/"
+}

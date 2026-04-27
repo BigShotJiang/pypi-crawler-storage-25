@@ -1,0 +1,11 @@
+{
+  "name": "templane-python",
+  "version": "0.2.0",
+  "summary": "Schema-validated Jinja2 templates — typed contracts that catch bad data before render.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "templane_python-0.2.0.tar.gz",
+  "download_time": "2026-04-27T14:36:06.815841",
+  "package_url": "https://pypi.org/project/templane-python/"
+}

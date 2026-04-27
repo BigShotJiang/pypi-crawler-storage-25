@@ -1,11 +1,11 @@
 {
   "name": "p4cmd",
-  "version": "2.10.0",
+  "version": "2.10.2",
   "summary": "Simple P4 python module",
   "author": "Niels Vaes",
   "license": "MIT",
   "home_page": "https://github.com/nielsvaes/p4cmd",
-  "download_filename": "p4cmd-2.10.0.tar.gz",
-  "download_time": "2026-04-14T10:46:14.729861",
+  "download_filename": "p4cmd-2.10.2.tar.gz",
+  "download_time": "2026-04-27T14:35:41.915172",
   "package_url": "https://pypi.org/project/p4cmd/"
 }

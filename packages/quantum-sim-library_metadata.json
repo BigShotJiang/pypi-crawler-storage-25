@@ -1,11 +1,11 @@
 {
   "name": "quantum-sim-library",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Un projet de simulation et de visualisation de phénomènes de mécanique quantique développé en Python dans un objectif pédagogique.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quantum_sim_library-1.0.8.tar.gz",
-  "download_time": "2026-04-16T08:10:36.352495",
+  "download_filename": "quantum_sim_library-1.0.9.tar.gz",
+  "download_time": "2026-04-27T14:35:25.688451",
   "package_url": "https://pypi.org/project/quantum-sim-library/"
 }

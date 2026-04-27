@@ -1,11 +1,11 @@
 {
   "name": "memographix",
-  "version": "0.1.4",
+  "version": "0.1.9",
   "summary": "Local AI agent memory layer for repeated developer tasks, fresh context packets, and low-token repo recall.",
   "author": "Memographix Contributors",
   "license": null,
   "home_page": "https://github.com/coderalnaim/memographix",
-  "download_filename": "memographix-0.1.4.tar.gz",
-  "download_time": "2026-04-27T12:20:07.168642",
+  "download_filename": "memographix-0.1.9.tar.gz",
+  "download_time": "2026-04-27T14:35:56.320223",
   "package_url": "https://pypi.org/project/memographix/"
 }

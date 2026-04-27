@@ -1,0 +1,11 @@
+{
+  "name": "extrap",
+  "version": "4.2.4",
+  "summary": "Extra-P, automated performance modeling for HPC applications",
+  "author": "Extra-P project",
+  "license": null,
+  "home_page": "https://github.com/extra-p/extrap",
+  "download_filename": "extrap-4.2.4.tar.gz",
+  "download_time": "2026-04-27T14:36:10.678201",
+  "package_url": "https://pypi.org/project/extrap/"
+}

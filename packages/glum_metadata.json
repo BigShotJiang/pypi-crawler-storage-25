@@ -1,0 +1,11 @@
+{
+  "name": "glum",
+  "version": "3.4.0",
+  "summary": "High performance Python GLMs with all the features!",
+  "author": "QuantCo, Inc.",
+  "license": "BSD",
+  "home_page": "https://github.com/Quantco/glum",
+  "download_filename": "glum-3.4.0-cp310-cp310-macosx_10_13_x86_64.whl",
+  "download_time": "2026-04-27T14:36:07.944092",
+  "package_url": "https://pypi.org/project/glum/"
+}

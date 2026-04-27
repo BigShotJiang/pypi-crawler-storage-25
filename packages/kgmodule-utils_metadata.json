@@ -1,11 +1,11 @@
 {
   "name": "kgmodule-utils",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Shared types and snapshot infrastructure for the KGModule SDK",
   "author": "Eric G. Suchanek, PhD",
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "kgmodule_utils-0.2.0.tar.gz",
-  "download_time": "2026-04-26T23:15:44.275303",
+  "download_filename": "kgmodule_utils-0.2.1.tar.gz",
+  "download_time": "2026-04-27T14:35:41.371552",
   "package_url": "https://pypi.org/project/kgmodule-utils/"
 }

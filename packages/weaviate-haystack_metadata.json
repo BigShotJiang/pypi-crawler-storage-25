@@ -1,0 +1,11 @@
+{
+  "name": "weaviate-haystack",
+  "version": "7.5.0",
+  "summary": "An integration of Weaviate vector database with Haystack",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "weaviate_haystack-7.5.0.tar.gz",
+  "download_time": "2026-04-27T14:36:02.901088",
+  "package_url": "https://pypi.org/project/weaviate-haystack/"
+}
