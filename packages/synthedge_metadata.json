@@ -1,0 +1,11 @@
+{
+  "name": "synthedge",
+  "version": "0.2.0",
+  "summary": "Diagnosis-first synthetic data augmentation for imbalanced tabular datasets",
+  "author": "Sagnik",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "synthedge-0.2.0.tar.gz",
+  "download_time": "2026-04-27T12:19:23.494635",
+  "package_url": "https://pypi.org/project/synthedge/"
+}

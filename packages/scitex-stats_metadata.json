@@ -1,11 +1,11 @@
 {
   "name": "scitex-stats",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "Publication-ready statistical testing framework with 23 tests, effect sizes, power analysis, and MCP server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scitex_stats-0.2.9.tar.gz",
-  "download_time": "2026-04-27T06:01:59.099142",
+  "download_filename": "scitex_stats-0.2.10.tar.gz",
+  "download_time": "2026-04-27T12:19:21.388591",
   "package_url": "https://pypi.org/project/scitex-stats/"
 }

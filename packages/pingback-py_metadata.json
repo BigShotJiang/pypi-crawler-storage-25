@@ -1,11 +1,11 @@
 {
   "name": "pingback-py",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Python SDK for Pingback — reliable cron jobs and background tasks",
   "author": "Pingback",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pingback_py-0.2.1.tar.gz",
-  "download_time": "2026-04-25T02:33:25.395554",
+  "download_filename": "pingback_py-0.3.0.tar.gz",
+  "download_time": "2026-04-27T12:20:00.883305",
   "package_url": "https://pypi.org/project/pingback-py/"
 }

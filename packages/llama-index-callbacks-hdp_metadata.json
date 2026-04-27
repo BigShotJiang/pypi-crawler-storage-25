@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-callbacks-hdp",
+  "version": "0.1.1",
+  "summary": "HDP (Human Delegation Provenance) — cryptographic authorization provenance for LlamaIndex agents",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llama_index_callbacks_hdp-0.1.1.tar.gz",
+  "download_time": "2026-04-27T12:19:50.376314",
+  "package_url": "https://pypi.org/project/llama-index-callbacks-hdp/"
+}

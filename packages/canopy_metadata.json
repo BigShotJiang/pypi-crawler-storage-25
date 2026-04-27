@@ -1,11 +1,11 @@
 {
   "name": "canopy",
-  "version": "8.90",
+  "version": "9.7",
   "summary": "Python Client for the Canopy Simulation API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "canopy-8.90.tar.gz",
-  "download_time": "2026-03-31T16:42:50.891551",
+  "download_filename": "canopy-9.7.tar.gz",
+  "download_time": "2026-04-27T12:19:35.117545",
   "package_url": "https://pypi.org/project/canopy/"
 }

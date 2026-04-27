@@ -1,0 +1,11 @@
+{
+  "name": "msg2po",
+  "version": "1.5.2",
+  "summary": "A set of helper tools to convert Fallout 1/2 MSG and WeiDU TRA into GNU gettext PO and back.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "msg2po-1.5.2.tar.gz",
+  "download_time": "2026-04-27T12:19:29.927344",
+  "package_url": "https://pypi.org/project/msg2po/"
+}

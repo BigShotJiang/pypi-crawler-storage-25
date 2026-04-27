@@ -1,0 +1,11 @@
+{
+  "name": "xrobot",
+  "version": "0.3.0",
+  "summary": "A lightweight application framework for robot module management, lifecycle control, and hardware abstraction.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "xrobot-0.3.0.tar.gz",
+  "download_time": "2026-04-27T12:20:06.601444",
+  "package_url": "https://pypi.org/project/xrobot/"
+}

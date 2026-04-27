@@ -1,0 +1,11 @@
+{
+  "name": "hdp-langchain",
+  "version": "0.1.1",
+  "summary": "HDP (Human Delegation Provenance) middleware for LangChain — cryptographic audit trail for multi-agent delegation",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hdp_langchain-0.1.1.tar.gz",
+  "download_time": "2026-04-27T12:19:52.969618",
+  "package_url": "https://pypi.org/project/hdp-langchain/"
+}

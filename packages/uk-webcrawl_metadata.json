@@ -1,0 +1,11 @@
+{
+  "name": "uk-webcrawl",
+  "version": "0.1.0",
+  "summary": "Self-contained multi-retailer product scraper (ASOS, Very, JD Williams, M&S, John Lewis, PLT, Zara, River Island, H&M, Primark)",
+  "author": "William Needham",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uk_webcrawl-0.1.0.tar.gz",
+  "download_time": "2026-04-27T12:19:40.502100",
+  "package_url": "https://pypi.org/project/uk-webcrawl/"
+}
