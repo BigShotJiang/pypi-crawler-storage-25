@@ -1,11 +1,11 @@
 {
   "name": "mlrun",
-  "version": "1.10.2",
+  "version": "1.10.3",
   "summary": "Tracking and config of machine learning runs",
   "author": "Yaron Haviv",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/mlrun/mlrun",
-  "download_filename": "mlrun-1.10.2-py3-none-any.whl",
-  "download_time": "2026-03-31T21:56:52.551459",
+  "download_filename": "mlrun-1.10.3-py3-none-any.whl",
+  "download_time": "2026-04-27T06:02:20.285956",
   "package_url": "https://pypi.org/project/mlrun/"
 }

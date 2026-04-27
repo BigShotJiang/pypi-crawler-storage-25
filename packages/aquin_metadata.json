@@ -1,11 +1,11 @@
 {
   "name": "aquin",
-  "version": "0.5.3",
+  "version": "0.5.7",
   "summary": "Stream live training metrics, run model diffs, and inspect datasets — all from your training script.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aquin-0.5.3.tar.gz",
-  "download_time": "2026-04-26T18:37:13.148705",
+  "download_filename": "aquin-0.5.7.tar.gz",
+  "download_time": "2026-04-27T06:02:21.507875",
   "package_url": "https://pypi.org/project/aquin/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rust-ios-device-tunnel",
+  "version": "0.1.1",
+  "summary": "Python bindings for iOS device management — tunnel, lockdown, and service access",
+  "author": "oslo254804746",
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "rust_ios_device_tunnel-0.1.1.tar.gz",
+  "download_time": "2026-04-27T06:01:28.301338",
+  "package_url": "https://pypi.org/project/rust-ios-device-tunnel/"
+}

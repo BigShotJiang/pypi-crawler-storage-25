@@ -1,0 +1,11 @@
+{
+  "name": "omnipkg",
+  "version": "3.2.0",
+  "summary": "Runtime Hypervisor. Run infinite Python package & interpreter versions concurrently in one environment in milliseconds.",
+  "author": null,
+  "license": "AGPL-3.0-only OR LicenseRef-Proprietary",
+  "home_page": null,
+  "download_filename": "omnipkg-3.2.0.tar.gz",
+  "download_time": "2026-04-27T06:01:57.895453",
+  "package_url": "https://pypi.org/project/omnipkg/"
+}

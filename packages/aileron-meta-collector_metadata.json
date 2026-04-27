@@ -1,0 +1,11 @@
+{
+  "name": "aileron-meta-collector",
+  "version": "0.1.0",
+  "summary": "Automatic DataHub lineage collector via SQLAlchemy and boto3 event hooks",
+  "author": "jangwansik",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aileron_meta_collector-0.1.0.tar.gz",
+  "download_time": "2026-04-27T06:01:56.661355",
+  "package_url": "https://pypi.org/project/aileron-meta-collector/"
+}

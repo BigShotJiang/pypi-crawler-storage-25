@@ -1,11 +1,11 @@
 {
   "name": "scitex-dataset",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Multi-domain scientific dataset fetcher — neuroscience, biology, pharmacology, medical (OpenNeuro, DANDI, PhysioNet, GEO, ChEMBL, ClinicalTrials.gov)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scitex_dataset-0.3.1.tar.gz",
-  "download_time": "2026-03-28T21:37:37.479186",
+  "download_filename": "scitex_dataset-0.3.3.tar.gz",
+  "download_time": "2026-04-27T06:01:53.722631",
   "package_url": "https://pypi.org/project/scitex-dataset/"
 }

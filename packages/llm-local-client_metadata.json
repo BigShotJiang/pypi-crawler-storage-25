@@ -1,0 +1,11 @@
+{
+  "name": "llm-local-client",
+  "version": "1.1.0",
+  "summary": "Agentic interface to local LLMs with tree-based context management.",
+  "author": "Author Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_local_client-1.1.0.tar.gz",
+  "download_time": "2026-04-27T06:02:14.971182",
+  "package_url": "https://pypi.org/project/llm-local-client/"
+}

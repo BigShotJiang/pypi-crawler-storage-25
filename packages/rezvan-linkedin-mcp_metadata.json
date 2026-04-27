@@ -1,0 +1,11 @@
+{
+  "name": "rezvan-linkedin-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for LinkedIn profile, company, and job scraping with Claude AI integration. Supports direct profile/company/job URL scraping with secure credential storage.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rezvan_linkedin_mcp-0.1.1.tar.gz",
+  "download_time": "2026-04-27T06:02:14.328808",
+  "package_url": "https://pypi.org/project/rezvan-linkedin-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clara-opt",
+  "version": "0.2.2",
+  "summary": "Solver-intrinsic explanations and reoptimization for linear programming",
+  "author": "Yoonsik Yang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "clara_opt-0.2.2.tar.gz",
+  "download_time": "2026-04-27T06:01:44.778015",
+  "package_url": "https://pypi.org/project/clara-opt/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jmdl-ai-workflows",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "Composable AI workflow framework built on LangGraph + MCP.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jmdl_ai_workflows-0.2.0.tar.gz",
-  "download_time": "2026-04-24T20:52:42.672917",
+  "download_filename": "jmdl_ai_workflows-0.3.1.tar.gz",
+  "download_time": "2026-04-27T06:01:54.374051",
   "package_url": "https://pypi.org/project/jmdl-ai-workflows/"
 }

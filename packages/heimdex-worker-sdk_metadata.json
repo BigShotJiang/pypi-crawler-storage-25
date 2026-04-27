@@ -1,0 +1,11 @@
+{
+  "name": "heimdex-worker-sdk",
+  "version": "0.3.1",
+  "summary": "Shared S3 client, SQS consumer, Aircloud orchestrator, and worker utilities for Heimdex",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "heimdex_worker_sdk-0.3.1.tar.gz",
+  "download_time": "2026-04-27T06:02:01.583462",
+  "package_url": "https://pypi.org/project/heimdex-worker-sdk/"
+}

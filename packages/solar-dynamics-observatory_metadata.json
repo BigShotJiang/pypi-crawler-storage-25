@@ -1,0 +1,11 @@
+{
+  "name": "solar-dynamics-observatory",
+  "version": "0.2.0",
+  "summary": "A Python library to download and analyze images from the NASA Solar Dynamics Observatory (SDO).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "solar_dynamics_observatory-0.2.0.tar.gz",
+  "download_time": "2026-04-27T06:01:41.728247",
+  "package_url": "https://pypi.org/project/solar-dynamics-observatory/"
+}

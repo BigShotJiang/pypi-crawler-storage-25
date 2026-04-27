@@ -1,0 +1,11 @@
+{
+  "name": "Kencode",
+  "version": "1.0.0",
+  "summary": "Accessible programming through natural language — bidirectional Python ↔ Kencode converter",
+  "author": "Khalid Alkhaldi",
+  "license": "CC BY-NC-SA 4.0",
+  "home_page": "https://khalidalkhaldi.pythonanywhere.com/",
+  "download_filename": "kencode-1.0.0.tar.gz",
+  "download_time": "2026-04-27T06:01:45.302822",
+  "package_url": "https://pypi.org/project/Kencode/"
+}
