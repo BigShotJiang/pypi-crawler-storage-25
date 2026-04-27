@@ -1,0 +1,11 @@
+{
+  "name": "octowrap",
+  "version": "0.6.1",
+  "summary": "Rewrap Python # comments to a specified line length",
+  "author": "Cameron Urban",
+  "license": null,
+  "home_page": null,
+  "download_filename": "octowrap-0.6.1.tar.gz",
+  "download_time": "2026-04-27T23:21:04.706623",
+  "package_url": "https://pypi.org/project/octowrap/"
+}

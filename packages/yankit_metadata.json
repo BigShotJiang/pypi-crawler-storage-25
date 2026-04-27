@@ -1,11 +1,11 @@
 {
   "name": "yankit",
-  "version": "0.4.0",
+  "version": "0.4.3",
   "summary": "A clipboard history manager for your terminal. Track, search, and manage everything you copy.",
   "author": "Oktay Sabak",
   "license": null,
   "home_page": null,
-  "download_filename": "yankit-0.4.0.tar.gz",
-  "download_time": "2026-04-27T22:21:33.804460",
+  "download_filename": "yankit-0.4.3.tar.gz",
+  "download_time": "2026-04-27T23:20:57.211053",
   "package_url": "https://pypi.org/project/yankit/"
 }

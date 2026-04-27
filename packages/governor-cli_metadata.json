@@ -1,0 +1,11 @@
+{
+  "name": "governor-cli",
+  "version": "0.7.26",
+  "summary": "Governor command-line tool — single-user local dbt cost optimization",
+  "author": "Simple Machines",
+  "license": null,
+  "home_page": null,
+  "download_filename": "governor_cli-0.7.26-py3-none-any.whl",
+  "download_time": "2026-04-27T23:20:19.665129",
+  "package_url": "https://pypi.org/project/governor-cli/"
+}

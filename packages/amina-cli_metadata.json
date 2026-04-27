@@ -1,11 +1,11 @@
 {
   "name": "amina-cli",
-  "version": "0.2.7",
+  "version": "0.4.0",
   "summary": "CLI for AminoAnalytica protein engineering platform",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "amina_cli-0.2.7.tar.gz",
-  "download_time": "2026-03-31T10:35:40.845454",
+  "download_filename": "amina_cli-0.4.0.tar.gz",
+  "download_time": "2026-04-27T23:20:24.253282",
   "package_url": "https://pypi.org/project/amina-cli/"
 }

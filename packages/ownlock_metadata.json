@@ -1,0 +1,11 @@
+{
+  "name": "ownlock",
+  "version": "0.1.11",
+  "summary": "Lightweight secrets manager — encrypted vault, env injection, stdout redaction. Optional MCP (stdio) delegates to CLI. No Docker, no cloud account.",
+  "author": "Ownly",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ownlock-0.1.11.tar.gz",
+  "download_time": "2026-04-27T23:21:07.130747",
+  "package_url": "https://pypi.org/project/ownlock/"
+}

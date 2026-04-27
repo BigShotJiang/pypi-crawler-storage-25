@@ -1,11 +1,11 @@
 {
   "name": "rdfantic",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Pydantic views for RDF graphs — read, write, validate, and query graph data with typed Python models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rdfantic-0.2.3.tar.gz",
-  "download_time": "2026-04-27T19:18:39.665182",
+  "download_filename": "rdfantic-0.2.4.tar.gz",
+  "download_time": "2026-04-27T23:20:47.351386",
   "package_url": "https://pypi.org/project/rdfantic/"
 }

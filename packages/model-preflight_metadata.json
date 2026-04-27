@@ -1,0 +1,11 @@
+{
+  "name": "model-preflight",
+  "version": "0.1.3",
+  "summary": "Preflight checks for LLM prototypes.",
+  "author": "ModelPreflight contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "model_preflight-0.1.3.tar.gz",
+  "download_time": "2026-04-27T23:20:19.012661",
+  "package_url": "https://pypi.org/project/model-preflight/"
+}

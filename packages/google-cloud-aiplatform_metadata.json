@@ -1,11 +1,11 @@
 {
   "name": "google-cloud-aiplatform",
-  "version": "1.148.1",
+  "version": "1.149.0",
   "summary": "Vertex AI API client library",
   "author": "Google LLC",
   "license": "Apache 2.0",
   "home_page": "https://github.com/googleapis/python-aiplatform",
-  "download_filename": "google_cloud_aiplatform-1.148.1.tar.gz",
-  "download_time": "2026-04-18T00:04:27.188048",
+  "download_filename": "google_cloud_aiplatform-1.149.0.tar.gz",
+  "download_time": "2026-04-27T23:20:34.295483",
   "package_url": "https://pypi.org/project/google-cloud-aiplatform/"
 }

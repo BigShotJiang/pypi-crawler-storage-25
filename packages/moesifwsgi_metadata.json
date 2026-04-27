@@ -1,0 +1,11 @@
+{
+  "name": "moesifwsgi",
+  "version": "1.10.5",
+  "summary": "Moesif Middleware for Python WSGI based platforms (Flask, Bottle & Others)",
+  "author": "Moesif, Inc",
+  "license": "Apache Software License",
+  "home_page": "https://www.moesif.com/docs/server-integration/python-wsgi/",
+  "download_filename": "moesifwsgi-1.10.5.tar.gz",
+  "download_time": "2026-04-27T23:20:41.697956",
+  "package_url": "https://pypi.org/project/moesifwsgi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "governor-web",
+  "version": "0.7.26",
+  "summary": "Governor FastAPI web application — dashboard, opportunity explorer, solutions, PR flow",
+  "author": "Simple Machines",
+  "license": null,
+  "home_page": null,
+  "download_filename": "governor_web-0.7.26-py3-none-any.whl",
+  "download_time": "2026-04-27T23:20:20.315344",
+  "package_url": "https://pypi.org/project/governor-web/"
+}

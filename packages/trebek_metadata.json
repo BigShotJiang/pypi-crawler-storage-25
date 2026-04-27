@@ -1,11 +1,11 @@
 {
   "name": "trebek",
-  "version": "0.1.9",
+  "version": "0.1.12",
   "summary": "A high-fidelity multimodal AI pipeline for data extraction",
   "author": null,
   "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "trebek-0.1.9.tar.gz",
-  "download_time": "2026-04-27T08:31:27.066827",
+  "download_filename": "trebek-0.1.12.tar.gz",
+  "download_time": "2026-04-27T23:20:54.229225",
   "package_url": "https://pypi.org/project/trebek/"
 }

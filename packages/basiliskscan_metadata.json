@@ -1,11 +1,11 @@
 {
   "name": "basiliskscan",
-  "version": "1.5.11",
+  "version": "1.5.16",
   "summary": "BasiliskScan - CLI para varrer projetos e listar dependências vulneráveis ou desatualizadas.",
   "author": "PuertA",
   "license": null,
   "home_page": null,
-  "download_filename": "basiliskscan-1.5.11.tar.gz",
-  "download_time": "2026-04-27T19:18:47.738100",
+  "download_filename": "basiliskscan-1.5.16.tar.gz",
+  "download_time": "2026-04-27T23:20:49.978616",
   "package_url": "https://pypi.org/project/basiliskscan/"
 }

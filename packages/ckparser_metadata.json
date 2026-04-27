@@ -1,11 +1,11 @@
 {
   "name": "ckparser",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Parse Paradox Jomini data files to Python/JSON and revert them back experimentally.",
   "author": "Marc Debureaux (debnet)",
   "license": null,
   "home_page": null,
-  "download_filename": "ckparser-0.3.3.tar.gz",
-  "download_time": "2026-04-26T22:30:40.907928",
+  "download_filename": "ckparser-0.3.4.tar.gz",
+  "download_time": "2026-04-27T23:20:45.331964",
   "package_url": "https://pypi.org/project/ckparser/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pycode-kg",
-  "version": "0.16.0",
+  "version": "0.17.2",
   "summary": "A tool to build a searchable knowledge graph from Python repositories",
   "author": "Eric G. Suchanek, PhD",
   "license": null,
   "home_page": null,
-  "download_filename": "pycode_kg-0.16.0.tar.gz",
-  "download_time": "2026-04-24T21:45:50.938824",
+  "download_filename": "pycode_kg-0.17.2.tar.gz",
+  "download_time": "2026-04-27T23:21:00.461878",
   "package_url": "https://pypi.org/project/pycode-kg/"
 }
