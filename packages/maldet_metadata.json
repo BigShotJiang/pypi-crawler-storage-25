@@ -1,11 +1,11 @@
 {
   "name": "maldet",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "summary": "Plug-and-play malware detector framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "maldet-1.0.2.tar.gz",
-  "download_time": "2026-04-27T08:31:16.644276",
+  "download_filename": "maldet-1.0.6.tar.gz",
+  "download_time": "2026-04-27T10:40:09.894411",
   "package_url": "https://pypi.org/project/maldet/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rag-guard-enterprise",
+  "version": "1.0.0",
+  "summary": "Enterprise-grade data poisoning detection & alerting for RAG systems",
+  "author": "RAG Guard Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rag_guard_enterprise-1.0.0.tar.gz",
+  "download_time": "2026-04-27T10:39:44.775740",
+  "package_url": "https://pypi.org/project/rag-guard-enterprise/"
+}

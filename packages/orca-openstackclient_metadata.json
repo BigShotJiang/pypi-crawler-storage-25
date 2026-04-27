@@ -1,11 +1,11 @@
 {
   "name": "orca-openstackclient",
-  "version": "1.4.0",
+  "version": "2.1.0",
   "summary": "orca — OpenStack Rich Command-line Alternative",
   "author": "Kevin Allioli",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "orca_openstackclient-1.4.0.tar.gz",
-  "download_time": "2026-04-20T16:53:53.551374",
+  "download_filename": "orca_openstackclient-2.1.0.tar.gz",
+  "download_time": "2026-04-27T10:39:33.718236",
   "package_url": "https://pypi.org/project/orca-openstackclient/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "osiris-agent",
-  "version": "0.3.98",
+  "version": "0.3.100",
   "summary": "OSIRIS agent for ROS2/Humble",
   "author": "Nicolas Tuomaala",
   "license": "Apache-2.0",
   "home_page": "https://github.com/nicolaselielll/osiris_agent",
-  "download_filename": "osiris_agent-0.3.98.tar.gz",
-  "download_time": "2026-04-26T22:30:32.049418",
+  "download_filename": "osiris_agent-0.3.100.tar.gz",
+  "download_time": "2026-04-27T10:39:12.635945",
   "package_url": "https://pypi.org/project/osiris-agent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dataiku-api-client",
+  "version": "14.5.1",
+  "summary": "Python API client for Dataiku APIs",
+  "author": "Dataiku",
+  "license": "Apache Software License",
+  "home_page": "https://www.dataiku.com",
+  "download_filename": "dataiku_api_client-14.5.1.tar.gz",
+  "download_time": "2026-04-27T10:39:45.305660",
+  "package_url": "https://pypi.org/project/dataiku-api-client/"
+}

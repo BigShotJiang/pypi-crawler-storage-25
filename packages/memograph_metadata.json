@@ -1,11 +1,11 @@
 {
   "name": "memograph",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "A graph-based memory system for LLMs with intelligent retrieval using knowledge graphs, hybrid search, and semantic embeddings",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memograph-0.1.0.tar.gz",
-  "download_time": "2026-03-28T14:39:32.954419",
+  "download_filename": "memograph-0.3.0.tar.gz",
+  "download_time": "2026-04-27T10:39:39.397788",
   "package_url": "https://pypi.org/project/memograph/"
 }

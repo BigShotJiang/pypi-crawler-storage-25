@@ -1,11 +1,11 @@
 {
   "name": "fapier",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A command-line tool to scaffold and bootstrap FastAPI projects quickly.",
   "author": "Dahmoun Mouaine Aymen",
   "license": null,
   "home_page": null,
-  "download_filename": "fapier-0.1.7.tar.gz",
-  "download_time": "2026-04-26T21:06:12.097393",
+  "download_filename": "fapier-0.1.8.tar.gz",
+  "download_time": "2026-04-27T10:39:58.406270",
   "package_url": "https://pypi.org/project/fapier/"
 }

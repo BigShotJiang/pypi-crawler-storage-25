@@ -1,0 +1,11 @@
+{
+  "name": "utils_fastapi",
+  "version": "0.0.8",
+  "summary": "Utils for FastApi. Filters, Pagination, Serializers, Schemas",
+  "author": "zayycev22",
+  "license": null,
+  "home_page": null,
+  "download_filename": "utils_fastapi-0.0.8.tar.gz",
+  "download_time": "2026-04-27T10:39:38.103011",
+  "package_url": "https://pypi.org/project/utils_fastapi/"
+}

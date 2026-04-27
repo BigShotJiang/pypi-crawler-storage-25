@@ -1,0 +1,11 @@
+{
+  "name": "pytest-reporter-html",
+  "version": "2.4.1",
+  "summary": "Pytest plugin that generates rich HTML test reports with step tracking, log capture, and interactive filtering",
+  "author": "Yevgeny Farber, Avi Zaguri",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_reporter_html-2.4.1.tar.gz",
+  "download_time": "2026-04-27T10:39:18.719240",
+  "package_url": "https://pypi.org/project/pytest-reporter-html/"
+}

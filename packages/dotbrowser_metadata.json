@@ -1,0 +1,11 @@
+{
+  "name": "dotbrowser",
+  "version": "0.5.0",
+  "summary": "Manage browser settings as dotfiles. Currently supports Brave keyboard shortcuts and general settings (non-MAC keys); designed to expand.",
+  "author": "xom11",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dotbrowser-0.5.0.tar.gz",
+  "download_time": "2026-04-27T10:39:56.537998",
+  "package_url": "https://pypi.org/project/dotbrowser/"
+}

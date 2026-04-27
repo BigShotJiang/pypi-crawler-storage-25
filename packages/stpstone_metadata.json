@@ -1,11 +1,11 @@
 {
   "name": "stpstone",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "summary": "Solid financial ETL, analytics and utils with support to global markets.",
   "author": "guilhermegor",
   "license": "MIT",
   "home_page": "https://github.com/guilhermegor/stpstone",
-  "download_filename": "stpstone-3.1.0.tar.gz",
-  "download_time": "2026-04-22T01:13:01.642983",
+  "download_filename": "stpstone-3.1.1.tar.gz",
+  "download_time": "2026-04-27T10:39:40.510898",
   "package_url": "https://pypi.org/project/stpstone/"
 }
