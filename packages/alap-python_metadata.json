@@ -1,11 +1,11 @@
 {
   "name": "alap-python",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Alap expression parser for Python — resolve link expressions server-side",
   "author": "Daniel Smith",
   "license": null,
   "home_page": null,
-  "download_filename": "alap_python-0.1.1.tar.gz",
-  "download_time": "2026-03-31T00:00:00.935950",
+  "download_filename": "alap_python-0.1.3.tar.gz",
+  "download_time": "2026-04-27T00:04:52.600184",
   "package_url": "https://pypi.org/project/alap-python/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "selvedge",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Change tracking for AI-era codebases",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "selvedge-0.3.3.tar.gz",
-  "download_time": "2026-04-26T23:15:48.932233",
+  "download_filename": "selvedge-0.3.4.tar.gz",
+  "download_time": "2026-04-27T00:04:43.122497",
   "package_url": "https://pypi.org/project/selvedge/"
 }

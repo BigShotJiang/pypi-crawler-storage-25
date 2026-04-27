@@ -1,11 +1,11 @@
 {
   "name": "totalreclaw",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "summary": "End-to-end encrypted memory for AI agents — Python client (Memory Taxonomy v1)",
   "author": "TotalReclaw Team",
   "license": null,
   "home_page": null,
-  "download_filename": "totalreclaw-2.3.0.tar.gz",
-  "download_time": "2026-04-22T16:49:33.373820",
+  "download_filename": "totalreclaw-2.3.1.tar.gz",
+  "download_time": "2026-04-27T00:04:46.777873",
   "package_url": "https://pypi.org/project/totalreclaw/"
 }

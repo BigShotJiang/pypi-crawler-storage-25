@@ -1,0 +1,11 @@
+{
+  "name": "lateralus-lang",
+  "version": "3.2.0",
+  "summary": "Lateralus Language (.ltl / .ltasm) — a pipeline-native language with Hindley-Milner inference, ADTs, and multi-target codegen",
+  "author": "bad-antics",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lateralus_lang-3.2.0.tar.gz",
+  "download_time": "2026-04-27T00:04:43.651280",
+  "package_url": "https://pypi.org/project/lateralus-lang/"
+}

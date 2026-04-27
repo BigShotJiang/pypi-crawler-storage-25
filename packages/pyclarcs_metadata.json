@@ -1,11 +1,11 @@
 {
   "name": "pyclarcs",
-  "version": "0.2.0",
-  "summary": "Non-rigid EM-ICP surface registration with symmetric correspondences, TGD prior and RKHS M-step",
+  "version": "0.4.0",
+  "summary": "3-D anatomical surface analysis: symmetry, non-rigid registration, atlas construction and asymmetry mapping",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyclarcs-0.2.0.tar.gz",
-  "download_time": "2026-04-18T23:02:01.150873",
+  "download_filename": "pyclarcs-0.4.0.tar.gz",
+  "download_time": "2026-04-27T00:04:28.407672",
   "package_url": "https://pypi.org/project/pyclarcs/"
 }

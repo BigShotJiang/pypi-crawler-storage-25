@@ -1,11 +1,11 @@
 {
   "name": "svg2ooxml",
-  "version": "0.7.2",
+  "version": "0.7.4",
   "summary": "SVG-to-PowerPoint converter with native, editable PresentationML output.",
   "author": "SVG2OOXML Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "svg2ooxml-0.7.2.tar.gz",
-  "download_time": "2026-04-25T23:16:09.884179",
+  "download_filename": "svg2ooxml-0.7.4.tar.gz",
+  "download_time": "2026-04-27T00:04:22.634130",
   "package_url": "https://pypi.org/project/svg2ooxml/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "winidjango",
-  "version": "2.0.93",
+  "version": "2.0.101",
   "summary": "A utility package for django",
   "author": "Winipedia",
   "license": null,
   "home_page": null,
-  "download_filename": "winidjango-2.0.93.tar.gz",
-  "download_time": "2026-04-14T00:05:00.461052",
+  "download_filename": "winidjango-2.0.101.tar.gz",
+  "download_time": "2026-04-27T00:04:58.468941",
   "package_url": "https://pypi.org/project/winidjango/"
 }

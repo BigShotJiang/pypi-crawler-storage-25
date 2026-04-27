@@ -1,11 +1,11 @@
 {
   "name": "zivo",
-  "version": "0.15.0",
+  "version": "0.17.1",
   "summary": "zivo is a simple and intuitive TUI file manager that lets you browse, search, and operate files without memorizing commands — a Zero-friction Interface for Viewing & Operations.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zivo-0.15.0.tar.gz",
-  "download_time": "2026-04-19T21:01:11.545821",
+  "download_filename": "zivo-0.17.1.tar.gz",
+  "download_time": "2026-04-27T00:04:23.689199",
   "package_url": "https://pypi.org/project/zivo/"
 }
