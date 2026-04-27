@@ -1,0 +1,11 @@
+{
+  "name": "rottl",
+  "version": "0.0.4",
+  "summary": "A high-performance Python library providing bucket-based rotating data structures with approximate TTL eviction and strict memory constraints.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rottl-0.0.4.tar.gz",
+  "download_time": "2026-04-27T17:50:12.993555",
+  "package_url": "https://pypi.org/project/rottl/"
+}

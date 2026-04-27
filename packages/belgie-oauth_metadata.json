@@ -1,11 +1,11 @@
 {
   "name": "belgie-oauth",
-  "version": "0.17.0",
+  "version": "0.19.0",
   "summary": "OAuth client plugins for Belgie",
   "author": "Matt LeMay",
   "license": null,
   "home_page": null,
-  "download_filename": "belgie_oauth-0.17.0.tar.gz",
-  "download_time": "2026-04-22T15:55:59.805296",
+  "download_filename": "belgie_oauth-0.19.0.tar.gz",
+  "download_time": "2026-04-27T17:50:28.617517",
   "package_url": "https://pypi.org/project/belgie-oauth/"
 }

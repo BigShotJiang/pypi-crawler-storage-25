@@ -1,11 +1,11 @@
 {
   "name": "amzn-nova-forge",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "summary": "A Python SDK for customizing Amazon Nova models.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "amzn_nova_forge-1.4.1.tar.gz",
-  "download_time": "2026-04-22T21:17:19.779466",
+  "download_filename": "amzn_nova_forge-1.4.2.tar.gz",
+  "download_time": "2026-04-27T17:50:22.005562",
   "package_url": "https://pypi.org/project/amzn-nova-forge/"
 }

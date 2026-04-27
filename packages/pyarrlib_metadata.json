@@ -1,11 +1,11 @@
 {
   "name": "pyarrlib",
-  "version": "0.2.4",
+  "version": "1.0.0",
   "summary": "this module can help you work with arrays",
   "author": "Sasha Yuvko",
   "license": null,
   "home_page": null,
-  "download_filename": "pyarrlib-0.2.4.tar.gz",
-  "download_time": "2026-04-26T18:37:01.699439",
+  "download_filename": "pyarrlib-1.0.0.tar.gz",
+  "download_time": "2026-04-27T17:50:03.980443",
   "package_url": "https://pypi.org/project/pyarrlib/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fairlearn-fhe",
+  "version": "0.2.1",
+  "summary": "Drop-in encrypted (CKKS) Fairlearn metrics. Same API surface; ciphertext arithmetic via TenSEAL.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fairlearn_fhe-0.2.1.tar.gz",
+  "download_time": "2026-04-27T17:50:35.434677",
+  "package_url": "https://pypi.org/project/fairlearn-fhe/"
+}

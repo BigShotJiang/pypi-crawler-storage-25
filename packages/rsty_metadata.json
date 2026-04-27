@@ -1,11 +1,11 @@
 {
   "name": "rsty",
-  "version": "0.2.1",
+  "version": "0.6.0",
   "summary": "Python-typed Rust modules for workflow automation — SSH, containers, files, HTTP, packages, services, templates",
   "author": "Joshua Jerome",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rsty-0.2.1-cp313-cp313-macosx_10_12_x86_64.whl",
-  "download_time": "2026-04-17T00:04:37.767849",
+  "download_filename": "rsty-0.6.0-cp313-cp313-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-27T17:50:45.279544",
   "package_url": "https://pypi.org/project/rsty/"
 }

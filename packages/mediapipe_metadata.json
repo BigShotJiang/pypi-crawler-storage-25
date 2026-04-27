@@ -1,0 +1,11 @@
+{
+  "name": "mediapipe",
+  "version": "0.10.35",
+  "summary": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+  "author": "The MediaPipe Authors",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/google/mediapipe",
+  "download_filename": "mediapipe-0.10.35-py3-none-win_arm64.whl",
+  "download_time": "2026-04-27T17:50:20.950323",
+  "package_url": "https://pypi.org/project/mediapipe/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "grimp-tools",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Dependency analysis, coupling enforcement, and architectural contract visualization for Django/Python projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "grimp_tools-0.2.0.tar.gz",
-  "download_time": "2026-04-18T13:06:25.755886",
+  "download_filename": "grimp_tools-0.4.0.tar.gz",
+  "download_time": "2026-04-27T17:50:16.158755",
   "package_url": "https://pypi.org/project/grimp-tools/"
 }

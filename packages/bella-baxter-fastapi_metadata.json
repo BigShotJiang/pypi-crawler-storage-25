@@ -1,11 +1,11 @@
 {
   "name": "bella-baxter-fastapi",
-  "version": "0.1.1rc71",
+  "version": "0.1.1rc76",
   "summary": "FastAPI integration for the Bella Baxter secret management SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bella_baxter_fastapi-0.1.1rc71.tar.gz",
-  "download_time": "2026-04-26T23:15:55.419994",
+  "download_filename": "bella_baxter_fastapi-0.1.1rc76.tar.gz",
+  "download_time": "2026-04-27T17:50:09.830596",
   "package_url": "https://pypi.org/project/bella-baxter-fastapi/"
 }

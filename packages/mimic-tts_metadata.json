@@ -1,0 +1,11 @@
+{
+  "name": "mimic-tts",
+  "version": "0.0.3",
+  "summary": "Client for mimic-tts (Qwen3-TTS voice cloning + synthesis)",
+  "author": "Jim Vogel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mimic_tts-0.0.3.tar.gz",
+  "download_time": "2026-04-27T17:50:40.231219",
+  "package_url": "https://pypi.org/project/mimic-tts/"
+}
