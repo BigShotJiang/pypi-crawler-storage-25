@@ -1,0 +1,11 @@
+{
+  "name": "freegs4e",
+  "version": "0.13.0",
+  "summary": "Free boundary tokamak plasma equilibrium Grad-Shafranov solver for time evolution",
+  "author": "The FreeGS4E and FreeGS developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "freegs4e-0.13.0.tar.gz",
+  "download_time": "2026-04-27T19:19:06.322204",
+  "package_url": "https://pypi.org/project/freegs4e/"
+}

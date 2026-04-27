@@ -1,11 +1,11 @@
 {
   "name": "aivudaappstore",
-  "version": "0.1.0.dev2026042401",
+  "version": "0.1.0.dev2026042701",
   "summary": "Aivuda AppStore packaged for pip installation and PyPI publishing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aivudaappstore-0.1.0.dev2026042401.tar.gz",
-  "download_time": "2026-04-24T19:02:05.341852",
+  "download_filename": "aivudaappstore-0.1.0.dev2026042701.tar.gz",
+  "download_time": "2026-04-27T19:18:53.096228",
   "package_url": "https://pypi.org/project/aivudaappstore/"
 }

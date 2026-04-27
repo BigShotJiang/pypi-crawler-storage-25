@@ -1,0 +1,11 @@
+{
+  "name": "mcsiphon",
+  "version": "2026.4.27.1",
+  "summary": "Read-only MCP server for Cisco Unified CM 15 Trace Collection — wraps the LogCollectionPortTypeService SOAP API for headless log fetch without RTMT. Sibling to mcp-cucm-axl.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcsiphon-2026.4.27.1.tar.gz",
+  "download_time": "2026-04-27T19:19:13.688972",
+  "package_url": "https://pypi.org/project/mcsiphon/"
+}

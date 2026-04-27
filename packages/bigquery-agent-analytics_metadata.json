@@ -1,11 +1,11 @@
 {
   "name": "bigquery-agent-analytics",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "SDK for analyzing and evaluating agent traces stored in BigQuery.",
   "author": "Google LLC",
   "license": null,
   "home_page": null,
-  "download_filename": "bigquery_agent_analytics-0.2.1.tar.gz",
-  "download_time": "2026-04-22T23:13:46.306340",
+  "download_filename": "bigquery_agent_analytics-0.2.3.tar.gz",
+  "download_time": "2026-04-27T19:18:49.852415",
   "package_url": "https://pypi.org/project/bigquery-agent-analytics/"
 }

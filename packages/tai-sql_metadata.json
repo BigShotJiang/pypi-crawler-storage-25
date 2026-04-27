@@ -1,11 +1,11 @@
 {
   "name": "tai-sql",
-  "version": "0.6.6",
+  "version": "0.6.11",
   "summary": "SQL database management and code generation tool",
   "author": "MateoSaezMata",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tai_sql-0.6.6.tar.gz",
-  "download_time": "2026-04-27T16:17:07.579026",
+  "download_filename": "tai_sql-0.6.11.tar.gz",
+  "download_time": "2026-04-27T19:18:53.621409",
   "package_url": "https://pypi.org/project/tai-sql/"
 }

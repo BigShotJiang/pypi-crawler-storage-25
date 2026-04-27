@@ -1,0 +1,11 @@
+{
+  "name": "attune-gui",
+  "version": "0.1.1",
+  "summary": "Unified local GUI that drives attune-ai, attune-rag, and attune-author Python libraries via a FastAPI sidecar.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "attune_gui-0.1.1.tar.gz",
+  "download_time": "2026-04-27T19:18:46.704161",
+  "package_url": "https://pypi.org/project/attune-gui/"
+}

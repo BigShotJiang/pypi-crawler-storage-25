@@ -1,11 +1,11 @@
 {
   "name": "django-autotask",
-  "version": "1.14.0",
+  "version": "1.15.0",
   "summary": "Django app for working with Autotask. Defines models (tickets, members, companies, etc.) and callbacks.",
   "author": "Kerkhoff Technologies Inc.",
   "license": "MIT",
   "home_page": "https://github.com/KerkhoffTechnologies/django-autotask",
-  "download_filename": "django_autotask-1.14.0-py3-none-any.whl",
-  "download_time": "2026-04-24T17:58:12.504942",
+  "download_filename": "django_autotask-1.15.0-py3-none-any.whl",
+  "download_time": "2026-04-27T19:18:51.399772",
   "package_url": "https://pypi.org/project/django-autotask/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "repoctx-mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Local repository intelligence for coding agents",
   "author": "Gal",
   "license": null,
   "home_page": null,
-  "download_filename": "repoctx_mcp-1.0.2.tar.gz",
-  "download_time": "2026-04-27T17:50:44.743632",
+  "download_filename": "repoctx_mcp-1.0.3.tar.gz",
+  "download_time": "2026-04-27T19:18:40.751572",
   "package_url": "https://pypi.org/project/repoctx-mcp/"
 }

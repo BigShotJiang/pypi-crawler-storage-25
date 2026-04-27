@@ -1,0 +1,11 @@
+{
+  "name": "plumber-agent",
+  "version": "1.0.16",
+  "summary": "Local DCC Agent for Plumber Workflow Editor - Enables Maya, Blender, and Houdini operations",
+  "author": "Damn Ltd",
+  "license": "MIT",
+  "home_page": "https://app.plumber.damnltd.com",
+  "download_filename": "plumber_agent-1.0.16.tar.gz",
+  "download_time": "2026-04-27T19:18:47.215935",
+  "package_url": "https://pypi.org/project/plumber-agent/"
+}
