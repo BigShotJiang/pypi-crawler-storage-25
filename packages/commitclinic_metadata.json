@@ -1,0 +1,11 @@
+{
+  "name": "commitclinic",
+  "version": "0.1.3",
+  "summary": "Repository triage CLI for migration readiness and cleanup planning",
+  "author": "CommitClinic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "commitclinic-0.1.3.tar.gz",
+  "download_time": "2026-04-28T04:15:32.840849",
+  "package_url": "https://pypi.org/project/commitclinic/"
+}

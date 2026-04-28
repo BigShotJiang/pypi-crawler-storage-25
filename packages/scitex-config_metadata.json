@@ -1,0 +1,11 @@
+{
+  "name": "scitex-config",
+  "version": "0.3.0",
+  "summary": "Configuration helpers (YAML + dotenv layered priority) — standalone module from the SciTeX ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scitex_config-0.3.0.tar.gz",
+  "download_time": "2026-04-28T04:15:16.146881",
+  "package_url": "https://pypi.org/project/scitex-config/"
+}

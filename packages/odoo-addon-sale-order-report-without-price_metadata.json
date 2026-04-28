@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-order-report-without-price",
+  "version": "18.0.1.0.0.3",
+  "summary": "Allow you to generate quotation and order reports without price.",
+  "author": "Akretion, Open Source Integrators, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_order_report_without_price-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-04-28T04:14:59.444827",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-order-report-without-price/"
+}

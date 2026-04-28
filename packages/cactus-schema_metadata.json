@@ -1,11 +1,11 @@
 {
   "name": "cactus-schema",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "summary": "Public facing models for the various CACTUS APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cactus_schema-0.0.18.tar.gz",
-  "download_time": "2026-04-19T23:05:27.942405",
+  "download_filename": "cactus_schema-0.0.19.tar.gz",
+  "download_time": "2026-04-28T04:15:00.091375",
   "package_url": "https://pypi.org/project/cactus-schema/"
 }

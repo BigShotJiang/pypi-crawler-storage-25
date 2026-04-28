@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-commercial-partner",
+  "version": "19.0.1.0.0.2",
+  "summary": "Add stored related field 'Commercial Entity' on sale orders",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_commercial_partner-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-04-28T04:15:01.337349",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-commercial-partner/"
+}

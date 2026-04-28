@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-sale-order-line-position",
-  "version": "19.0.1.0.0.3",
+  "version": "19.0.1.0.0.4",
   "summary": "Adds position number on sale order line.",
   "author": "Camptocamp, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/sale-reporting",
-  "download_filename": "odoo_addon_sale_order_line_position-19.0.1.0.0.3-py3-none-any.whl",
-  "download_time": "2026-04-24T00:13:14.421112",
+  "download_filename": "odoo_addon_sale_order_line_position-19.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-04-28T04:15:17.966446",
   "package_url": "https://pypi.org/project/odoo-addon-sale-order-line-position/"
 }

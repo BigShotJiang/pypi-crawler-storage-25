@@ -1,0 +1,11 @@
+{
+  "name": "home-assistant-blade-mcp",
+  "version": "0.2.0",
+  "summary": "Home Assistant MCP Server — entities, control, automations, history, energy, multi-site",
+  "author": "Piers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "home_assistant_blade_mcp-0.2.0.tar.gz",
+  "download_time": "2026-04-28T04:14:53.877296",
+  "package_url": "https://pypi.org/project/home-assistant-blade-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "amazon-ads-cli",
-  "version": "0.1.2",
+  "version": "0.1.6",
   "summary": "CLI tool for Amazon Advertising API v3",
   "author": "Lunan Li",
   "license": null,
   "home_page": "https://github.com/stellaraether/amazon-ads-cli",
-  "download_filename": "amazon_ads_cli-0.1.2.tar.gz",
-  "download_time": "2026-04-25T07:59:57.819576",
+  "download_filename": "amazon_ads_cli-0.1.6.tar.gz",
+  "download_time": "2026-04-28T04:14:38.647458",
   "package_url": "https://pypi.org/project/amazon-ads-cli/"
 }
