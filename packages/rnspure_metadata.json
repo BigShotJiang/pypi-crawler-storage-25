@@ -1,11 +1,11 @@
 {
   "name": "rnspure",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "summary": "Self-configuring, encrypted and resilient mesh networking stack for LoRa, packet radio, WiFi and everything in between",
   "author": "Mark Qvist",
   "license": "Reticulum License",
   "home_page": "https://reticulum.network/",
-  "download_filename": "rnspure-1.1.9-py3-none-any.whl",
-  "download_time": "2026-04-23T08:18:47.660116",
+  "download_filename": "rnspure-1.2.0-py3-none-any.whl",
+  "download_time": "2026-04-28T20:50:14.586660",
   "package_url": "https://pypi.org/project/rnspure/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lhcb-ftcalib",
+  "version": "1.6.3",
+  "summary": "Library for calibrating flavour tagging algorithms at LHCb",
+  "author": "Vukan Jevtic, Quentin Führing",
+  "license": "GPLv3",
+  "home_page": "https://gitlab.cern.ch/lhcb-ft/lhcb_ftcalib",
+  "download_filename": "lhcb_ftcalib-1.6.3.tar.gz",
+  "download_time": "2026-04-28T20:50:29.167576",
+  "package_url": "https://pypi.org/project/lhcb-ftcalib/"
+}

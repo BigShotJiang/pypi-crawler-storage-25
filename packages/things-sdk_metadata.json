@@ -1,11 +1,11 @@
 {
   "name": "things-sdk",
-  "version": "0.2.2",
+  "version": "0.3.3",
   "summary": "Reusable Python SDK for Things Cloud sync — domain models, cloud client, sync engine, and task operations",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "things_sdk-0.2.2.tar.gz",
-  "download_time": "2026-04-25T10:50:37.075554",
+  "download_filename": "things_sdk-0.3.3.tar.gz",
+  "download_time": "2026-04-28T20:50:17.145274",
   "package_url": "https://pypi.org/project/things-sdk/"
 }

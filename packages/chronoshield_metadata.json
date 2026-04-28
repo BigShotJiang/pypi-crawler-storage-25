@@ -1,0 +1,11 @@
+{
+  "name": "chronoshield",
+  "version": "1.1.0",
+  "summary": "Python SDK for the ChronoShield API — DST-aware datetime validation, resolution, and conversion",
+  "author": "Mike Mait",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chronoshield-1.1.0.tar.gz",
+  "download_time": "2026-04-28T20:49:44.992002",
+  "package_url": "https://pypi.org/project/chronoshield/"
+}

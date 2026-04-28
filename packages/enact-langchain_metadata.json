@@ -1,11 +1,11 @@
 {
   "name": "enact-langchain",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "LangChain tools for ENACT Protocol — trustless escrow for AI agents on TON",
   "author": "ENACT Protocol",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "enact_langchain-0.1.0.tar.gz",
-  "download_time": "2026-04-15T11:45:38.305226",
+  "download_filename": "enact_langchain-0.3.0.tar.gz",
+  "download_time": "2026-04-28T20:49:46.211754",
   "package_url": "https://pypi.org/project/enact-langchain/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "haashi-pkg",
-  "version": "1.6.1",
+  "version": "1.8.0",
   "summary": "A modular Python toolkit for analytics workflows, including data processing, visualization, and reusable utilities.",
   "author": "Haashiraaa",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "haashi_pkg-1.6.1.tar.gz",
-  "download_time": "2026-04-24T06:15:15.884848",
+  "download_filename": "haashi_pkg-1.8.0.tar.gz",
+  "download_time": "2026-04-28T20:50:01.494421",
   "package_url": "https://pypi.org/project/haashi-pkg/"
 }

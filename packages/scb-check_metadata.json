@@ -1,0 +1,11 @@
+{
+  "name": "scb-check",
+  "version": "0.1.1",
+  "summary": "CLI for measuring verbosity and erosion metrics in Python codebases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scb_check-0.1.1.tar.gz",
+  "download_time": "2026-04-28T20:50:10.805319",
+  "package_url": "https://pypi.org/project/scb-check/"
+}

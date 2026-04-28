@@ -1,0 +1,11 @@
+{
+  "name": "mlops-sufficiency",
+  "version": "0.1.4",
+  "summary": "Biblioteca MLOps para avaliação de suficiência de treinamento de modelos de detecção de objetos",
+  "author": "Yago de Jesus Martins",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mlops_sufficiency-0.1.4.tar.gz",
+  "download_time": "2026-04-28T20:49:51.763504",
+  "package_url": "https://pypi.org/project/mlops-sufficiency/"
+}

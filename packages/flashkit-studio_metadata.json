@@ -1,0 +1,11 @@
+{
+  "name": "flashkit-studio",
+  "version": "1.0.0",
+  "summary": "Desktop SWF inspector built on flashkit — class browser, AS3 decompiler view, references, hierarchy",
+  "author": "bitalizer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flashkit_studio-1.0.0.tar.gz",
+  "download_time": "2026-04-28T20:49:33.561290",
+  "package_url": "https://pypi.org/project/flashkit-studio/"
+}

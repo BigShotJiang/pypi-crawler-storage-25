@@ -1,0 +1,11 @@
+{
+  "name": "office-oxide",
+  "version": "0.1.0",
+  "summary": "The fastest Office document processing library for Python — DOCX, XLSX, PPTX, DOC, XLS, PPT",
+  "author": "Yury Fedoseev",
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://oxide.fyi",
+  "download_filename": "office_oxide-0.1.0-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-28T20:50:31.261873",
+  "package_url": "https://pypi.org/project/office-oxide/"
+}

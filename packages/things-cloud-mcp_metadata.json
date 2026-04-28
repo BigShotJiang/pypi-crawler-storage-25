@@ -1,0 +1,11 @@
+{
+  "name": "things-cloud-mcp",
+  "version": "0.3.3",
+  "summary": "Model Context Protocol server for Things3 — gives AI agents read/write access to your tasks via things-api",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "things_cloud_mcp-0.3.3.tar.gz",
+  "download_time": "2026-04-28T20:50:13.937859",
+  "package_url": "https://pypi.org/project/things-cloud-mcp/"
+}

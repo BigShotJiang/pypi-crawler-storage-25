@@ -1,0 +1,11 @@
+{
+  "name": "dita-cleanup",
+  "version": "0.9.8",
+  "summary": "Clean up DITA topics after conversion from AsciiDoc.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dita_cleanup-0.9.8.tar.gz",
+  "download_time": "2026-04-28T20:50:16.503655",
+  "package_url": "https://pypi.org/project/dita-cleanup/"
+}
