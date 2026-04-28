@@ -1,0 +1,11 @@
+{
+  "name": "oca-odoo-pre-commit-hooks",
+  "version": "0.2.21",
+  "summary": "odoo-pre-commit-hooks to use in pre-commit-config.yml files",
+  "author": "Odoo Community Association (OCA)",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://github.com/OCA/odoo-pre-commit-hooks",
+  "download_filename": "oca_odoo_pre_commit_hooks-0.2.21.tar.gz",
+  "download_time": "2026-04-28T21:51:58.324838",
+  "package_url": "https://pypi.org/project/oca-odoo-pre-commit-hooks/"
+}

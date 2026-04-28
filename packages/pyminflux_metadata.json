@@ -1,0 +1,11 @@
+{
+  "name": "pyminflux",
+  "version": "0.7.0",
+  "summary": "Reader, processor, and viewer of MINFLUX raw data.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyminflux-0.7.0.tar.gz",
+  "download_time": "2026-04-28T21:51:32.206564",
+  "package_url": "https://pypi.org/project/pyminflux/"
+}

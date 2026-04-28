@@ -1,0 +1,11 @@
+{
+  "name": "tenet-ai-sdk",
+  "version": "0.7.1",
+  "summary": "Python SDK for Tenet AI - Audit trail, replay, and drift detection for AI agents",
+  "author": "Igor Fedorov",
+  "license": null,
+  "home_page": "https://github.com/24na7igor/tenetai-landing",
+  "download_filename": "tenet_ai_sdk-0.7.1.tar.gz",
+  "download_time": "2026-04-28T21:51:47.708877",
+  "package_url": "https://pypi.org/project/tenet-ai-sdk/"
+}

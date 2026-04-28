@@ -1,0 +1,11 @@
+{
+  "name": "k8s-agent-sandbox",
+  "version": "0.4.3",
+  "summary": "A client library to interact with the Agentic Sandbox on Kubernetes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "k8s_agent_sandbox-0.4.3.tar.gz",
+  "download_time": "2026-04-28T21:51:57.796311",
+  "package_url": "https://pypi.org/project/k8s-agent-sandbox/"
+}

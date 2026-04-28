@@ -1,11 +1,11 @@
 {
   "name": "regimeflow",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "summary": "Regime-aware quantitative backtesting and research bindings for the RegimeFlow C++ engine",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "regimeflow-1.0.9.tar.gz",
-  "download_time": "2026-04-10T16:54:20.530266",
+  "download_filename": "regimeflow-1.0.11.tar.gz",
+  "download_time": "2026-04-28T21:51:36.467459",
   "package_url": "https://pypi.org/project/regimeflow/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "agi-gui",
-  "version": "2026.4.27.post9",
+  "version": "2026.4.28.post4",
   "summary": "AGILAB Streamlit UI dependency bundle and compatibility imports",
   "author": "Jean-Pierre Morard",
   "license": null,
   "home_page": null,
-  "download_filename": "agi_gui-2026.4.27.post9.tar.gz",
-  "download_time": "2026-04-27T20:19:06.652408",
+  "download_filename": "agi_gui-2026.4.28.post4.tar.gz",
+  "download_time": "2026-04-28T21:51:20.143273",
   "package_url": "https://pypi.org/project/agi-gui/"
 }

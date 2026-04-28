@@ -1,0 +1,11 @@
+{
+  "name": "btlightning",
+  "version": "0.2.8",
+  "summary": "QUIC transport layer for Bittensor",
+  "author": "Inference Labs Inc",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "btlightning-0.2.8.tar.gz",
+  "download_time": "2026-04-28T21:52:04.028519",
+  "package_url": "https://pypi.org/project/btlightning/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wt-invokers",
+  "version": "0.2.0",
+  "summary": "Abstract invoker interface and implementations for wt workflows",
+  "author": "Workflow Tools Contributors",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "wt_invokers-0.2.0.tar.gz",
+  "download_time": "2026-04-28T21:51:59.430973",
+  "package_url": "https://pypi.org/project/wt-invokers/"
+}

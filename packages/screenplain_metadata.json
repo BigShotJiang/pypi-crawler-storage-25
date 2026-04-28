@@ -1,0 +1,11 @@
+{
+  "name": "screenplain",
+  "version": "0.12.0",
+  "summary": "Convert text file to viewable screenplay.",
+  "author": "Martin Vilcans",
+  "license": null,
+  "home_page": "http://www.screenplain.com/",
+  "download_filename": "screenplain-0.12.0.tar.gz",
+  "download_time": "2026-04-28T21:51:55.428610",
+  "package_url": "https://pypi.org/project/screenplain/"
+}
