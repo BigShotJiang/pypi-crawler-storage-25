@@ -1,0 +1,11 @@
+{
+  "name": "apexguard",
+  "version": "0.1.5",
+  "summary": "Runtime security middleware for LLM agents — prompt injection, tool misuse, and memory poisoning defense",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "apexguard-0.1.5.tar.gz",
+  "download_time": "2026-04-28T17:42:28.101405",
+  "package_url": "https://pypi.org/project/apexguard/"
+}

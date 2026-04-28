@@ -1,0 +1,11 @@
+{
+  "name": "interven-langchain",
+  "version": "0.3.0",
+  "summary": "LangChain + LangGraph integration for Interven AI firewall. Scan every tool call your agent makes before it executes — block malicious requests, redact PII/secrets, route risky actions to human approval.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "interven_langchain-0.3.0.tar.gz",
+  "download_time": "2026-04-28T17:42:13.659032",
+  "package_url": "https://pypi.org/project/interven-langchain/"
+}

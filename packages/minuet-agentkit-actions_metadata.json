@@ -1,0 +1,11 @@
+{
+  "name": "minuet-agentkit-actions",
+  "version": "0.1.0",
+  "summary": "Coinbase AgentKit action provider for Minuet — the relationship layer for ERC-8004 AI agents.",
+  "author": "Minuet Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "minuet_agentkit_actions-0.1.0.tar.gz",
+  "download_time": "2026-04-28T17:42:20.312401",
+  "package_url": "https://pypi.org/project/minuet-agentkit-actions/"
+}

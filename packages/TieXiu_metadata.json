@@ -1,11 +1,11 @@
 {
   "name": "TieXiu",
-  "version": "0.1.1a1",
+  "version": "0.1.1a8",
   "summary": "High-performance PEG parsing (a port of TatSu to Rust)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tiexiu-0.1.1a1.tar.gz",
-  "download_time": "2026-04-02T23:51:52.703971",
+  "download_filename": "tiexiu-0.1.1a8.tar.gz",
+  "download_time": "2026-04-28T17:42:46.354242",
   "package_url": "https://pypi.org/project/TieXiu/"
 }

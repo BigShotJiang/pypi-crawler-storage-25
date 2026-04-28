@@ -1,11 +1,11 @@
 {
   "name": "xeries",
-  "version": "0.1.0",
-  "summary": "Conditional Feature Importance for Multi-Time Series Forecasting",
-  "author": "thec0dewriter",
+  "version": "0.2.1",
+  "summary": "Forecasting explanations for global forecasters, with support for skforecast and more.",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xeries-0.1.0.tar.gz",
-  "download_time": "2026-04-05T17:59:34.580216",
+  "download_filename": "xeries-0.2.1.tar.gz",
+  "download_time": "2026-04-28T17:42:29.713889",
   "package_url": "https://pypi.org/project/xeries/"
 }

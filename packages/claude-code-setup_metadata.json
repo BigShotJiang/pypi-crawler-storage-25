@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-setup",
+  "version": "0.1.1",
+  "summary": "Install and manage Claude Code components (status line, hooks, etc.)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_code_setup-0.1.1.tar.gz",
+  "download_time": "2026-04-28T17:42:50.948174",
+  "package_url": "https://pypi.org/project/claude-code-setup/"
+}

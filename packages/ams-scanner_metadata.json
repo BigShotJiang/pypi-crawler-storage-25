@@ -1,0 +1,11 @@
+{
+  "name": "ams-scanner",
+  "version": "0.1.0",
+  "summary": "Activation-based Model Scanner - Verify LLM safety via activation pattern analysis",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ams_scanner-0.1.0.tar.gz",
+  "download_time": "2026-04-28T17:43:00.759233",
+  "package_url": "https://pypi.org/project/ams-scanner/"
+}

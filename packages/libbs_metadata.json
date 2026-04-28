@@ -1,11 +1,11 @@
 {
   "name": "libbs",
-  "version": "3.5.0",
+  "version": "3.6.0",
   "summary": "Your Only Decompiler API Lib - A generic API to script in and out of decompilers",
   "author": null,
   "license": "BSD 2 Clause",
   "home_page": null,
-  "download_filename": "libbs-3.5.0.tar.gz",
-  "download_time": "2026-04-23T23:17:16.277168",
+  "download_filename": "libbs-3.6.0.tar.gz",
+  "download_time": "2026-04-28T17:43:01.272257",
   "package_url": "https://pypi.org/project/libbs/"
 }

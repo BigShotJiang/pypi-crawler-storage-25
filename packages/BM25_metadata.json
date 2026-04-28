@@ -1,0 +1,11 @@
+{
+  "name": "BM25",
+  "version": "0.3.7",
+  "summary": "A simple high-level API and CLI for BM25.",
+  "author": "Xing Han Lù",
+  "license": null,
+  "home_page": "https://github.com/xhluca/bm25s/tree/main/bm25s/high_level",
+  "download_filename": "bm25-0.3.7.tar.gz",
+  "download_time": "2026-04-28T17:42:21.330919",
+  "package_url": "https://pypi.org/project/BM25/"
+}
