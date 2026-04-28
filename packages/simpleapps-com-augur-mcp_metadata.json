@@ -1,11 +1,11 @@
 {
   "name": "simpleapps-com-augur-mcp",
-  "version": "2026.4.2",
+  "version": "2026.4.7",
   "summary": "MCP server for Augur API microservices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simpleapps_com_augur_mcp-2026.4.2.tar.gz",
-  "download_time": "2026-04-01T14:21:50.723677",
+  "download_filename": "simpleapps_com_augur_mcp-2026.4.7.tar.gz",
+  "download_time": "2026-04-28T00:16:01.793584",
   "package_url": "https://pypi.org/project/simpleapps-com-augur-mcp/"
 }

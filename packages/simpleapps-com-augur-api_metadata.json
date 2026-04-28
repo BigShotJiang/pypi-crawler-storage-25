@@ -1,11 +1,11 @@
 {
   "name": "simpleapps-com-augur-api",
-  "version": "2026.4.2",
+  "version": "2026.4.7",
   "summary": "Python client for Augur API microservices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simpleapps_com_augur_api-2026.4.2.tar.gz",
-  "download_time": "2026-04-01T14:21:49.634021",
+  "download_filename": "simpleapps_com_augur_api-2026.4.7.tar.gz",
+  "download_time": "2026-04-28T00:16:01.280824",
   "package_url": "https://pypi.org/project/simpleapps-com-augur-api/"
 }

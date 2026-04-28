@@ -1,11 +1,11 @@
 {
   "name": "ankor",
-  "version": "0.5.136",
+  "version": "0.5.138",
   "summary": "Workflow monitoring and management for FastAPI apps",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ankor-0.5.136.tar.gz",
-  "download_time": "2026-04-27T12:19:32.234969",
+  "download_filename": "ankor-0.5.138.tar.gz",
+  "download_time": "2026-04-28T00:15:34.855554",
   "package_url": "https://pypi.org/project/ankor/"
 }

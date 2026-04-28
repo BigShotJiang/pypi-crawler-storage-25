@@ -1,0 +1,11 @@
+{
+  "name": "pymath-advanced",
+  "version": "2.0.0",
+  "summary": "PyMath Advanced - Advanced Mathematics Library with zero external dependencies. Includes symbolic algebra, geometry, calculus, statistics, optimization, probability distributions, complex numbers, and differential equation solvers.",
+  "author": "PyMath Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/pymath/pymath",
+  "download_filename": "pymath_advanced-2.0.0.tar.gz",
+  "download_time": "2026-04-28T00:16:12.689663",
+  "package_url": "https://pypi.org/project/pymath-advanced/"
+}

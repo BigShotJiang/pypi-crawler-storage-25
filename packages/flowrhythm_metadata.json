@@ -1,11 +1,11 @@
 {
   "name": "flowrhythm",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Asynchronous job processing framework with dynamic worker scaling",
   "author": "Andrey Maximov",
   "license": null,
   "home_page": null,
-  "download_filename": "flowrhythm-0.1.0.tar.gz",
-  "download_time": "2026-04-27T12:19:21.922526",
+  "download_filename": "flowrhythm-0.2.0.tar.gz",
+  "download_time": "2026-04-28T00:15:47.354087",
   "package_url": "https://pypi.org/project/flowrhythm/"
 }

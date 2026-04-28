@@ -1,0 +1,11 @@
+{
+  "name": "f3dx-cache",
+  "version": "0.0.2",
+  "summary": "Content-addressable LLM response cache + replay layer. redb + RFC 8785 JCS + BLAKE3. Drop-in for f3dx, openai, anthropic.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "f3dx_cache-0.0.2-cp310-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-04-28T00:16:06.970300",
+  "package_url": "https://pypi.org/project/f3dx-cache/"
+}

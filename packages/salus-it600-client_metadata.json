@@ -1,11 +1,11 @@
 {
   "name": "salus-it600-client",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Asynchronous Python client for Salus iT600 local gateways",
   "author": "Julius Vitkauskas, Jordi-14",
   "license": null,
   "home_page": null,
-  "download_filename": "salus_it600_client-0.2.0.tar.gz",
-  "download_time": "2026-04-27T23:21:10.222998",
+  "download_filename": "salus_it600_client-0.3.0.tar.gz",
+  "download_time": "2026-04-28T00:15:59.213618",
   "package_url": "https://pypi.org/project/salus-it600-client/"
 }

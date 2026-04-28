@@ -1,0 +1,11 @@
+{
+  "name": "reasonable",
+  "version": "0.4.0",
+  "summary": "Python bindings for Reasonable, a reasonably fast OWL 2 RL reasoner",
+  "author": null,
+  "license": null,
+  "home_page": "https://brickschema.org/",
+  "download_filename": "reasonable-0.4.0.tar.gz",
+  "download_time": "2026-04-28T00:15:41.664244",
+  "package_url": "https://pypi.org/project/reasonable/"
+}

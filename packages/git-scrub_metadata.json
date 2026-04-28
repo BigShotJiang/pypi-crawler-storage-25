@@ -1,0 +1,11 @@
+{
+  "name": "git-scrub",
+  "version": "0.1.1",
+  "summary": "Scan GitHub orgs and user profiles for a committed email address and rewrite it out of history.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "git_scrub-0.1.1.tar.gz",
+  "download_time": "2026-04-28T00:15:50.608343",
+  "package_url": "https://pypi.org/project/git-scrub/"
+}

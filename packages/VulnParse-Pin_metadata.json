@@ -1,0 +1,11 @@
+{
+  "name": "VulnParse-Pin",
+  "version": "1.2.2",
+  "summary": "Vulnerability Intelligence and Decision Support Engine - Parse, enrich, prioritize, and report on security scan results.",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "vulnparse_pin-1.2.2.tar.gz",
+  "download_time": "2026-04-28T00:15:59.736586",
+  "package_url": "https://pypi.org/project/VulnParse-Pin/"
+}
