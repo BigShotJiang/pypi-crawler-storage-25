@@ -1,11 +1,11 @@
 {
   "name": "airborne-antara",
-  "version": "0.1.9",
+  "version": "0.1.24",
   "summary": "Production-grade adaptive meta-learning framework for continual model improvement. Implements research DOI: 10.5281/zenodo.17839490.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airborne_antara-0.1.9.tar.gz",
-  "download_time": "2026-04-23T17:53:01.219550",
+  "download_filename": "airborne_antara-0.1.24.tar.gz",
+  "download_time": "2026-04-28T13:20:45.156875",
   "package_url": "https://pypi.org/project/airborne-antara/"
 }

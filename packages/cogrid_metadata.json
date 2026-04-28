@@ -1,0 +1,11 @@
+{
+  "name": "cogrid",
+  "version": "0.3.0",
+  "summary": "A library for creating multi-agent grid-world environments for reinforcement learning.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cogrid-0.3.0.tar.gz",
+  "download_time": "2026-04-28T13:20:28.184306",
+  "package_url": "https://pypi.org/project/cogrid/"
+}

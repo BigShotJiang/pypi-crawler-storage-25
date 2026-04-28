@@ -1,0 +1,11 @@
+{
+  "name": "video-translator-cli",
+  "version": "0.1.4",
+  "summary": "OCR-first video translation and dubbing CLI built on ffmpeg, Whisper, Edge TTS, and RapidOCR",
+  "author": "wencharmwang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "video_translator_cli-0.1.4.tar.gz",
+  "download_time": "2026-04-28T13:20:26.645224",
+  "package_url": "https://pypi.org/project/video-translator-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hyperloop",
-  "version": "0.40.4",
+  "version": "0.45.3",
   "summary": "Orchestrator that walks tasks through composable process pipelines using AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyperloop-0.40.4.tar.gz",
-  "download_time": "2026-04-26T01:22:52.386073",
+  "download_filename": "hyperloop-0.45.3.tar.gz",
+  "download_time": "2026-04-28T13:20:44.645289",
   "package_url": "https://pypi.org/project/hyperloop/"
 }
