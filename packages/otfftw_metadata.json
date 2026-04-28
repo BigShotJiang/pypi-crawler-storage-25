@@ -1,0 +1,11 @@
+{
+  "name": "otfftw",
+  "version": "0.19",
+  "summary": "FFTW module",
+  "author": "OpenTURNS Developers",
+  "license": "LGPL",
+  "home_page": "http://www.openturns.org",
+  "download_filename": "otfftw-0.19-cp39-abi3-manylinux_2_28_aarch64.whl",
+  "download_time": "2026-04-28T06:53:03.654444",
+  "package_url": "https://pypi.org/project/otfftw/"
+}

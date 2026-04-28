@@ -1,0 +1,11 @@
+{
+  "name": "otmixmod",
+  "version": "0.21",
+  "summary": "Mixmod module",
+  "author": "OpenTURNS Developers",
+  "license": "LGPL",
+  "home_page": "http://www.openturns.org",
+  "download_filename": "otmixmod-0.21-cp39-abi3-manylinux_2_28_aarch64.whl",
+  "download_time": "2026-04-28T06:53:03.140665",
+  "package_url": "https://pypi.org/project/otmixmod/"
+}

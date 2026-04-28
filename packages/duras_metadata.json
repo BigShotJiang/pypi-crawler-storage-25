@@ -1,11 +1,11 @@
 {
   "name": "duras",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "summary": "plain-text daily notes with optional encryption",
-  "author": "Sergiy Duras",
-  "license": null,
+  "author": null,
+  "license": "ISC License:\n        \n        Copyright (c) 2026 by Sergiy Duras https://codeberg.org/duras/duras\n        \n        Permission to use, copy, modify, and/or distribute this software for\n        any purpose with or without fee is hereby granted, provided that the\n        above copyright notice and this permission notice appear in all\n        copies.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\" AND ISC DISCLAIMS ALL WARRANTIES WITH\n        REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF\n        MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL ISC BE LIABLE FOR ANY\n        SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES\n        WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN\n        ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT\n        OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.\n        ",
   "home_page": null,
-  "download_filename": "duras-1.0.6.tar.gz",
-  "download_time": "2026-04-19T23:44:56.804000",
+  "download_filename": "duras-1.1.0.tar.gz",
+  "download_time": "2026-04-28T06:53:27.766965",
   "package_url": "https://pypi.org/project/duras/"
 }

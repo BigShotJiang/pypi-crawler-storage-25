@@ -1,0 +1,11 @@
+{
+  "name": "codex-rule-maker",
+  "version": "0.1.0",
+  "summary": "CLI tool that generates a .codex folder with AI developer rules and project reference documents.",
+  "author": "codex-rule-maker",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codex_rule_maker-0.1.0.tar.gz",
+  "download_time": "2026-04-28T06:53:05.189591",
+  "package_url": "https://pypi.org/project/codex-rule-maker/"
+}

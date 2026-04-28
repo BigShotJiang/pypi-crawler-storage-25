@@ -1,0 +1,11 @@
+{
+  "name": "pmpl-robot",
+  "version": "1.3.0",
+  "summary": "Motion Planning Library that enables easy use of popular planning algorithms with a multitude of existing robots",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pmpl_robot-1.3.0.tar.gz",
+  "download_time": "2026-04-28T06:53:25.220375",
+  "package_url": "https://pypi.org/project/pmpl-robot/"
+}

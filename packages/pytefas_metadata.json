@@ -1,11 +1,11 @@
 {
   "name": "pytefas",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "TEFAS (Türkiye Elektronik Fon Alım Satım Platformu) için modern Python istemcisi - yeni resmi API'leri kullanır.",
   "author": "Farshad Mirzazad",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytefas-0.2.1.tar.gz",
-  "download_time": "2026-04-27T12:19:28.830629",
+  "download_filename": "pytefas-0.3.0.tar.gz",
+  "download_time": "2026-04-28T06:52:52.285357",
   "package_url": "https://pypi.org/project/pytefas/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-planner-calendar",
+  "version": "18.0.1.0.0.3",
+  "summary": "Sale planner calendar",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_planner_calendar-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-04-28T06:53:00.530523",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-planner-calendar/"
+}

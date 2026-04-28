@@ -1,0 +1,11 @@
+{
+  "name": "google-calendar-apimatic-sdk",
+  "version": "1.0.3",
+  "summary": "Manipulates events and other calendar data. Provides access to Google Calendar for creating, listing, patching, and deleting events, querying free/busy information, and setting up push notifications for event changes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "google_calendar_apimatic_sdk-1.0.3.tar.gz",
+  "download_time": "2026-04-28T06:53:13.891566",
+  "package_url": "https://pypi.org/project/google-calendar-apimatic-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "graphrag-eval",
+  "version": "6.0.0",
+  "summary": "For assessing question answering systems' final answers and intermediate steps, against a given set of questions, reference answers and steps.",
+  "author": "Philip Ganchev",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Ontotext-AD/graphrag-eval",
+  "download_filename": "graphrag_eval-6.0.0.tar.gz",
+  "download_time": "2026-04-28T06:53:19.075345",
+  "package_url": "https://pypi.org/project/graphrag-eval/"
+}

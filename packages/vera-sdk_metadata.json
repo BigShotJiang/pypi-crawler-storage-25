@@ -1,0 +1,11 @@
+{
+  "name": "vera-sdk",
+  "version": "0.3.0",
+  "summary": "Vera — runtime trust layer SDK for AI agents (immutable audit trail, HITL approvals, policy enforcement)",
+  "author": "Vera",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vera_sdk-0.3.0.tar.gz",
+  "download_time": "2026-04-28T06:53:05.701497",
+  "package_url": "https://pypi.org/project/vera-sdk/"
+}

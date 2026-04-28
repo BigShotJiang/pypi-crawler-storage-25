@@ -1,0 +1,11 @@
+{
+  "name": "fastbpmn",
+  "version": "0.3.1",
+  "summary": "A framework for external tasks for various BPMN process engines. Focus on the business logic and let the framework handle the rest.",
+  "author": "Daniel Hofstetter, Fritz Diener",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastbpmn-0.3.1.tar.gz",
+  "download_time": "2026-04-28T06:52:48.172836",
+  "package_url": "https://pypi.org/project/fastbpmn/"
+}

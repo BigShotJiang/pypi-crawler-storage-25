@@ -1,0 +1,11 @@
+{
+  "name": "redis-xsync",
+  "version": "1.0.3",
+  "summary": "Sync/Async unified Redis client with distributed lock and rate limiter",
+  "author": "Jay",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "redis_xsync-1.0.3.tar.gz",
+  "download_time": "2026-04-28T06:52:56.926104",
+  "package_url": "https://pypi.org/project/redis-xsync/"
+}

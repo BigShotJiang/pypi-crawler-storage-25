@@ -1,0 +1,11 @@
+{
+  "name": "quantization-lib",
+  "version": "0.0.2",
+  "summary": "A Polars-based library for configurable quantization, aggregation, and streaming-friendly data distillation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantization_lib-0.0.2.tar.gz",
+  "download_time": "2026-04-28T06:53:29.816101",
+  "package_url": "https://pypi.org/project/quantization-lib/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "llmops-observability",
-  "version": "51.0.2",
+  "version": "53.0.0",
   "summary": "LLMOps Observability SDK: decorators + SQS dispatch with compression",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llmops_observability-51.0.2.tar.gz",
-  "download_time": "2026-04-25T06:30:46.622951",
+  "download_filename": "llmops_observability-53.0.0.tar.gz",
+  "download_time": "2026-04-28T06:52:51.262419",
   "package_url": "https://pypi.org/project/llmops-observability/"
 }
