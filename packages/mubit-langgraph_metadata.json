@@ -1,0 +1,11 @@
+{
+  "name": "mubit-langgraph",
+  "version": "0.5.3",
+  "summary": "LangGraph BaseStore adapter backed by MuBit memory engine",
+  "author": "Mubit AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mubit_langgraph-0.5.3.tar.gz",
+  "download_time": "2026-04-28T09:20:09.295692",
+  "package_url": "https://pypi.org/project/mubit-langgraph/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "proxmox-mcp-plus",
+  "version": "0.4.4",
+  "summary": "Enhanced Proxmox MCP Server",
+  "author": "Kevin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "proxmox_mcp_plus-0.4.4.tar.gz",
+  "download_time": "2026-04-28T09:19:31.199873",
+  "package_url": "https://pypi.org/project/proxmox-mcp-plus/"
+}

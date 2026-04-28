@@ -1,11 +1,11 @@
 {
   "name": "datapill",
-  "version": "0.1.0",
-  "summary": null,
-  "author": null,
+  "version": "0.1.5",
+  "summary": "A modular data preparation CLI for ingestion, profiling, classification, preprocessing, and export pipelines",
+  "author": "Tran Quang Minh",
   "license": null,
   "home_page": null,
-  "download_filename": "datapill-0.1.0.tar.gz",
-  "download_time": "2026-04-28T04:15:09.396484",
+  "download_filename": "datapill-0.1.5.tar.gz",
+  "download_time": "2026-04-28T09:19:35.222875",
   "package_url": "https://pypi.org/project/datapill/"
 }

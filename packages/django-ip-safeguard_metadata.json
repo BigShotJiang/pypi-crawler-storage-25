@@ -1,11 +1,11 @@
 {
   "name": "django-ip-safeguard",
-  "version": "0.2.1",
+  "version": "0.3.2",
   "summary": "Django IP Risk Guard - IP risk query, geographical rules and automatic blocking plugin",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_ip_safeguard-0.2.1.tar.gz",
-  "download_time": "2026-04-28T04:15:16.792687",
+  "download_filename": "django_ip_safeguard-0.3.2.tar.gz",
+  "download_time": "2026-04-28T09:20:13.629744",
   "package_url": "https://pypi.org/project/django-ip-safeguard/"
 }

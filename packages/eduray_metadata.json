@@ -1,0 +1,11 @@
+{
+  "name": "eduray",
+  "version": "0.1.5",
+  "summary": "Educational raytracer implementation in Python with modular architecture. Suports classic raytracing features like shadows, reflections, refractions, and Phong shading. Aimed at students and hobbyists learning computer graphics concepts. Contains visualization tools and example scenes to demonstrate raytracing techniques.",
+  "author": "Jan Šik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eduray-0.1.5.tar.gz",
+  "download_time": "2026-04-28T09:20:00.885692",
+  "package_url": "https://pypi.org/project/eduray/"
+}

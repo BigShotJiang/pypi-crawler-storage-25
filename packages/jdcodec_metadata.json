@@ -1,11 +1,11 @@
 {
   "name": "jdcodec",
-  "version": "0.1.4",
-  "summary": "The Temporal Codec for AI Agents - Diagnostic Tool",
-  "author": "JDCodec",
+  "version": "0.3.1",
+  "summary": "JD Codec — privacy-first local MCP proxy for browser-agent tasks. Compresses page snapshots ~80%+ via a cloud codec; PII never leaves your machine.",
+  "author": null,
   "license": null,
-  "home_page": "https://jdcodec.com",
-  "download_filename": "jdcodec-0.1.4.tar.gz",
-  "download_time": "2026-04-13T03:59:12.413633",
+  "home_page": null,
+  "download_filename": "jdcodec-0.3.1.tar.gz",
+  "download_time": "2026-04-28T09:19:48.391008",
   "package_url": "https://pypi.org/project/jdcodec/"
 }

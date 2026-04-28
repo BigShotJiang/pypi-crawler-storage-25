@@ -1,11 +1,11 @@
 {
   "name": "yhttp-auth",
-  "version": "10.3.0",
+  "version": "10.4.0",
   "summary": "A very micro http framework.",
   "author": "Vahid Mardani",
   "license": "MIT",
   "home_page": "http://github.com/yhttp/yhttp-auth",
-  "download_filename": "yhttp_auth-10.3.0.tar.gz",
-  "download_time": "2026-04-26T15:11:12.280678",
+  "download_filename": "yhttp_auth-10.4.0.tar.gz",
+  "download_time": "2026-04-28T09:20:13.090882",
   "package_url": "https://pypi.org/project/yhttp-auth/"
 }

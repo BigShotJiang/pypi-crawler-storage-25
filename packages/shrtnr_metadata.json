@@ -1,11 +1,11 @@
 {
   "name": "shrtnr",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "SDK for the shrtnr URL shortener API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shrtnr-0.1.0.tar.gz",
-  "download_time": "2026-04-23T10:05:01.857081",
+  "download_filename": "shrtnr-0.2.0.tar.gz",
+  "download_time": "2026-04-28T09:19:30.616943",
   "package_url": "https://pypi.org/project/shrtnr/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "symmetr",
+  "version": "0.10.3",
+  "summary": "Package for determining symmetry properties of crystals.",
+  "author": "Jakub Zelezny",
+  "license": null,
+  "home_page": "https://github.com/zeleznyj/symmetr",
+  "download_filename": "symmetr-0.10.3.tar.gz",
+  "download_time": "2026-04-28T09:19:31.901622",
+  "package_url": "https://pypi.org/project/symmetr/"
+}

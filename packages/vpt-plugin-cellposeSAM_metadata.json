@@ -1,0 +1,11 @@
+{
+  "name": "vpt-plugin-cellposeSAM",
+  "version": "1.0.0",
+  "summary": "CellposeSAM Plugin for VPT",
+  "author": "Vizgen",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Vizgen/vizgen-postprocessing",
+  "download_filename": "vpt_plugin_cellposesam-1.0.0.tar.gz",
+  "download_time": "2026-04-28T09:19:58.088028",
+  "package_url": "https://pypi.org/project/vpt-plugin-cellposeSAM/"
+}

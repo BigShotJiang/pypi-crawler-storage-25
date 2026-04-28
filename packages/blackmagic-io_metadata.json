@@ -1,0 +1,11 @@
+{
+  "name": "blackmagic-io",
+  "version": "0.17.0b0",
+  "summary": "Python library for video I/O with Blackmagic DeckLink devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blackmagic_io-0.17.0b0.tar.gz",
+  "download_time": "2026-04-28T09:19:50.106232",
+  "package_url": "https://pypi.org/project/blackmagic-io/"
+}
