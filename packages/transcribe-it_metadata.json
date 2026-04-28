@@ -1,11 +1,11 @@
 {
   "name": "transcribe-it",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Lightweight CLI for ingesting, enriching, and storing meeting transcripts",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "transcribe_it-0.1.0.tar.gz",
-  "download_time": "2026-04-15T10:46:05.117396",
+  "download_filename": "transcribe_it-0.2.1.tar.gz",
+  "download_time": "2026-04-28T11:25:54.773712",
   "package_url": "https://pypi.org/project/transcribe-it/"
 }

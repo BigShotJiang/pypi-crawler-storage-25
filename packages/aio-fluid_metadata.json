@@ -1,11 +1,11 @@
 {
   "name": "aio-fluid",
-  "version": "2.0.3",
+  "version": "2.1.0",
   "summary": "Tools for backend python services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aio_fluid-2.0.3.tar.gz",
-  "download_time": "2026-04-16T11:07:43.291682",
+  "download_filename": "aio_fluid-2.1.0.tar.gz",
+  "download_time": "2026-04-28T11:25:59.470823",
   "package_url": "https://pypi.org/project/aio-fluid/"
 }

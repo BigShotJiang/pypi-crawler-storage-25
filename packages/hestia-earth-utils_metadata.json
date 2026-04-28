@@ -1,11 +1,11 @@
 {
   "name": "hestia-earth-utils",
-  "version": "0.16.31",
+  "version": "0.17.5",
   "summary": "HESTIA's utils library",
   "author": "HESTIA Team",
   "license": "MIT",
   "home_page": "https://gitlab.com/hestia-earth/hestia-utils",
-  "download_filename": "hestia_earth_utils-0.16.31.tar.gz",
-  "download_time": "2026-04-03T15:56:23.921831",
+  "download_filename": "hestia_earth_utils-0.17.5.tar.gz",
+  "download_time": "2026-04-28T11:25:58.429948",
   "package_url": "https://pypi.org/project/hestia-earth-utils/"
 }

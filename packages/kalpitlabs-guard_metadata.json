@@ -1,0 +1,11 @@
+{
+  "name": "kalpitlabs-guard",
+  "version": "0.2.0",
+  "summary": "Multi-layer LLM firewall: regex + embeddings + LLM classifier with multi-turn tracking, policy engine, async pipeline, and Indic language support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kalpitlabs_guard-0.2.0.tar.gz",
+  "download_time": "2026-04-28T11:26:13.040401",
+  "package_url": "https://pypi.org/project/kalpitlabs-guard/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rewindex",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "Version control for AI agents. Every change saved automatically. Every mistake undone instantly.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "rewindex-1.0.1.tar.gz",
-  "download_time": "2026-04-26T17:45:54.312377",
+  "download_filename": "rewindex-1.0.4.tar.gz",
+  "download_time": "2026-04-28T11:26:12.003075",
   "package_url": "https://pypi.org/project/rewindex/"
 }

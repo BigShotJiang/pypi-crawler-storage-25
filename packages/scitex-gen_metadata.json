@@ -1,0 +1,11 @@
+{
+  "name": "scitex-gen",
+  "version": "0.1.6",
+  "summary": "General utilities (caching, env detection, normalization, mat→npy, xml→dict, TimeStamper, …) — standalone module from the SciTeX ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scitex_gen-0.1.6.tar.gz",
+  "download_time": "2026-04-28T11:25:35.275384",
+  "package_url": "https://pypi.org/project/scitex-gen/"
+}

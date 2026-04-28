@@ -1,11 +1,11 @@
 {
   "name": "agentengine-sdk-python",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Kingsoft Cloud Agent Engine SDK (alias for ksadk)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentengine_sdk_python-0.5.2.tar.gz",
-  "download_time": "2026-04-27T08:31:40.075777",
+  "download_filename": "agentengine_sdk_python-0.5.3.tar.gz",
+  "download_time": "2026-04-28T11:25:53.734713",
   "package_url": "https://pypi.org/project/agentengine-sdk-python/"
 }

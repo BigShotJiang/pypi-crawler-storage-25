@@ -1,11 +1,11 @@
 {
   "name": "slurm-jobmanager",
-  "version": "0.1.5",
+  "version": "0.2.1",
   "summary": "CLI tool to manage SLURM jobs via sacct/squeue/sbatch/scancel",
   "author": "Daniel Pérez Rodríguez",
   "license": null,
   "home_page": null,
-  "download_filename": "slurm_jobmanager-0.1.5.tar.gz",
-  "download_time": "2026-04-24T19:01:45.988998",
+  "download_filename": "slurm_jobmanager-0.2.1.tar.gz",
+  "download_time": "2026-04-28T11:25:33.187822",
   "package_url": "https://pypi.org/project/slurm-jobmanager/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "oarepo-workflows",
-  "version": "4.0.0",
+  "version": "4.0.2",
   "summary": "OARepo module allowing record workflow functionality",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oarepo_workflows-4.0.0.tar.gz",
-  "download_time": "2026-04-17T11:20:24.982245",
+  "download_filename": "oarepo_workflows-4.0.2.tar.gz",
+  "download_time": "2026-04-28T11:25:50.079935",
   "package_url": "https://pypi.org/project/oarepo-workflows/"
 }

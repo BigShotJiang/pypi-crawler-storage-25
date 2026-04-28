@@ -1,11 +1,11 @@
 {
   "name": "elm-prune",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "ELM-based structural pruning utilities for PyTorch segmentation models.",
   "author": "Iago Rodrigues",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "elm_prune-0.1.1.tar.gz",
-  "download_time": "2026-04-27T22:21:53.422707",
+  "download_filename": "elm_prune-0.1.2.tar.gz",
+  "download_time": "2026-04-28T11:26:07.804420",
   "package_url": "https://pypi.org/project/elm-prune/"
 }
