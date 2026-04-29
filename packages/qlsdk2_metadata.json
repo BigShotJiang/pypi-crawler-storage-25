@@ -1,11 +1,11 @@
 {
   "name": "qlsdk2",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "SDK for quanlan device",
   "author": "hehuajun",
   "license": null,
   "home_page": "https://github.com/hehuajun/qlsdk",
-  "download_filename": "qlsdk2-0.8.0.tar.gz",
-  "download_time": "2026-04-03T02:12:12.804569",
+  "download_filename": "qlsdk2-0.9.0.tar.gz",
+  "download_time": "2026-04-29T09:54:26.275434",
   "package_url": "https://pypi.org/project/qlsdk2/"
 }

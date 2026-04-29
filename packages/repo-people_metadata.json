@@ -1,0 +1,11 @@
+{
+  "name": "repo-people",
+  "version": "0.2.0",
+  "summary": "Collect and export full GitHub user profile data for everyone associated with a repository.",
+  "author": "AJ McKenna",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "repo_people-0.2.0.tar.gz",
+  "download_time": "2026-04-29T09:55:00.895454",
+  "package_url": "https://pypi.org/project/repo-people/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "e3cli",
-  "version": "0.4.1",
+  "version": "0.8.6",
   "summary": "NYCU E3 Moodle automation CLI — sync courses, download materials, submit assignments.",
   "author": "E3CLI Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "e3cli-0.4.1.tar.gz",
-  "download_time": "2026-03-28T19:19:14.043150",
+  "download_filename": "e3cli-0.8.6.tar.gz",
+  "download_time": "2026-04-29T09:54:44.717892",
   "package_url": "https://pypi.org/project/e3cli/"
 }

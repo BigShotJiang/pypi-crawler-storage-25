@@ -1,11 +1,11 @@
 {
   "name": "datashare-python",
-  "version": "0.6.2",
-  "summary": "Manage Pythoœn tasks and local resources in Datashare",
+  "version": "0.8.0",
+  "summary": "Manage Python tasks and local resources in Datashare",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datashare_python-0.6.2.tar.gz",
-  "download_time": "2026-04-21T12:08:05.186590",
+  "download_filename": "datashare_python-0.8.0.tar.gz",
+  "download_time": "2026-04-29T09:54:25.750371",
   "package_url": "https://pypi.org/project/datashare-python/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "agentvfs-cli",
+  "version": "0.1.8",
+  "summary": "Workspace runtime and execution boundary for AI agents",
+  "author": "Neul Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentvfs_cli-0.1.8.tar.gz",
+  "download_time": "2026-04-29T09:55:11.713338",
+  "package_url": "https://pypi.org/project/agentvfs-cli/"
+}

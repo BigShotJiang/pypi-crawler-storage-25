@@ -1,11 +1,11 @@
 {
   "name": "spotifygraphqlconnector",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "Spotify GraphQL Connector for Podcast Data",
   "author": "Open Podcast",
   "license": null,
   "home_page": null,
-  "download_filename": "spotifygraphqlconnector-0.3.0.tar.gz",
-  "download_time": "2026-04-02T11:12:40.901433",
+  "download_filename": "spotifygraphqlconnector-0.5.0.tar.gz",
+  "download_time": "2026-04-29T09:54:46.910191",
   "package_url": "https://pypi.org/project/spotifygraphqlconnector/"
 }

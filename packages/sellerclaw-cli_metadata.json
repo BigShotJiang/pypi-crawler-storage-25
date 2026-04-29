@@ -1,0 +1,11 @@
+{
+  "name": "sellerclaw-cli",
+  "version": "0.6.0",
+  "summary": "Command-line client for the SellerClaw Agent API — LLM-friendly JSON output, device-flow auth, auto-generated from OpenAPI.",
+  "author": "SellerClaw",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sellerclaw_cli-0.6.0.tar.gz",
+  "download_time": "2026-04-29T09:55:03.977541",
+  "package_url": "https://pypi.org/project/sellerclaw-cli/"
+}
