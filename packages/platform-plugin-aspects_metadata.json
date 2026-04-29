@@ -1,0 +1,11 @@
+{
+  "name": "platform-plugin-aspects",
+  "version": "1.2.0",
+  "summary": "Aspects plugins for edx-platform",
+  "author": "Open edX Project",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/openedx/platform-plugin-aspects",
+  "download_filename": "platform_plugin_aspects-1.2.0.tar.gz",
+  "download_time": "2026-04-29T18:56:47.443254",
+  "package_url": "https://pypi.org/project/platform-plugin-aspects/"
+}

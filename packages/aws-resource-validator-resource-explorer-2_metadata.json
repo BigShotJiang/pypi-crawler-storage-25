@@ -1,0 +1,11 @@
+{
+  "name": "aws-resource-validator-resource-explorer-2",
+  "version": "2.0.0",
+  "summary": "Pydantic v2 models for AWS resource_explorer_2, shipped as a PEP 420 namespace extension of aws-resource-validator.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aws_resource_validator_resource_explorer_2-2.0.0-py3-none-any.whl",
+  "download_time": "2026-04-29T18:56:34.491373",
+  "package_url": "https://pypi.org/project/aws-resource-validator-resource-explorer-2/"
+}

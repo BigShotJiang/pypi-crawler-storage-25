@@ -1,0 +1,11 @@
+{
+  "name": "langchain-pqsafe",
+  "version": "0.1.1",
+  "summary": "LangChain integration for PQSafe AgentPay — post-quantum safe payments for AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_pqsafe-0.1.1.tar.gz",
+  "download_time": "2026-04-29T18:56:37.060747",
+  "package_url": "https://pypi.org/project/langchain-pqsafe/"
+}

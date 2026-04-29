@@ -1,0 +1,11 @@
+{
+  "name": "drgn",
+  "version": "0.2.0",
+  "summary": "Programmable debugger",
+  "author": "Omar Sandoval",
+  "license": "LGPL-2.1-or-later",
+  "home_page": "https://github.com/osandov/drgn",
+  "download_filename": "drgn-0.2.0.tar.gz",
+  "download_time": "2026-04-29T18:56:59.885495",
+  "package_url": "https://pypi.org/project/drgn/"
+}

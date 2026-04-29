@@ -1,11 +1,11 @@
 {
   "name": "PlaywrightCapture",
-  "version": "1.39.4",
+  "version": "1.39.6",
   "summary": "A simple library to capture websites using playwright",
   "author": "Raphaël Vinot",
   "license": null,
   "home_page": null,
-  "download_filename": "playwrightcapture-1.39.4.tar.gz",
-  "download_time": "2026-04-22T15:55:23.306294",
+  "download_filename": "playwrightcapture-1.39.6.tar.gz",
+  "download_time": "2026-04-29T18:56:20.978713",
   "package_url": "https://pypi.org/project/PlaywrightCapture/"
 }

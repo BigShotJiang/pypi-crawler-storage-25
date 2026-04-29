@@ -1,0 +1,11 @@
+{
+  "name": "cept",
+  "version": "0.4.0",
+  "summary": "Proprioception for coding agents — slice recent Claude Code transcript, redact, send to a model gateway, return structured steering guidance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cept-0.4.0.tar.gz",
+  "download_time": "2026-04-29T18:56:21.492394",
+  "package_url": "https://pypi.org/project/cept/"
+}

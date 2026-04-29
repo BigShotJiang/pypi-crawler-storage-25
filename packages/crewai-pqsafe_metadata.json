@@ -1,0 +1,11 @@
+{
+  "name": "crewai-pqsafe",
+  "version": "0.1.1",
+  "summary": "CrewAI integration for PQSafe AgentPay — post-quantum safe payments for AI crews",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crewai_pqsafe-0.1.1.tar.gz",
+  "download_time": "2026-04-29T18:56:36.548934",
+  "package_url": "https://pypi.org/project/crewai-pqsafe/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "france-travail-job-offers",
+  "version": "0.1.0",
+  "summary": "SDK Python pour l'API Offres d'emploi France Travail — recherche d'offres, consultation par identifiant, référentiel NAF/ROME embarqué.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "france_travail_job_offers-0.1.0.tar.gz",
+  "download_time": "2026-04-29T18:56:39.118774",
+  "package_url": "https://pypi.org/project/france-travail-job-offers/"
+}

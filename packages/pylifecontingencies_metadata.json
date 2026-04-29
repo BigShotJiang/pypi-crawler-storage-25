@@ -1,0 +1,11 @@
+{
+  "name": "pylifecontingencies",
+  "version": "0.5.0",
+  "summary": "Life contingencies and actuarial mathematics in Python, with dynamic life tables and mortality forecasting",
+  "author": "Filipe Duarte",
+  "license": "GPL-2.0",
+  "home_page": null,
+  "download_filename": "pylifecontingencies-0.5.0.tar.gz",
+  "download_time": "2026-04-29T18:56:54.148543",
+  "package_url": "https://pypi.org/project/pylifecontingencies/"
+}

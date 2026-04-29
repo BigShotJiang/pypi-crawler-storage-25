@@ -1,11 +1,11 @@
 {
   "name": "FAI-RL",
-  "version": "0.1.15",
+  "version": "0.1.17",
   "summary": "Foundation of AI - Reinforcement learning Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fai_rl-0.1.15.tar.gz",
-  "download_time": "2026-04-13T23:10:13.800971",
+  "download_filename": "fai_rl-0.1.17.tar.gz",
+  "download_time": "2026-04-29T18:56:42.196696",
   "package_url": "https://pypi.org/project/FAI-RL/"
 }

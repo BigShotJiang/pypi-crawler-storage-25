@@ -1,11 +1,11 @@
 {
   "name": "sentrik",
-  "version": "1.5.6",
+  "version": "1.5.14",
   "summary": "SENTRIK — governance runtime for AI-generated code. Scan, gate, and trace compliance automatically.",
   "author": "Max Gerhardson",
   "license": null,
   "home_page": null,
-  "download_filename": "sentrik-1.5.6.tar.gz",
-  "download_time": "2026-04-27T16:17:10.755999",
+  "download_filename": "sentrik-1.5.14.tar.gz",
+  "download_time": "2026-04-29T18:56:44.278549",
   "package_url": "https://pypi.org/project/sentrik/"
 }

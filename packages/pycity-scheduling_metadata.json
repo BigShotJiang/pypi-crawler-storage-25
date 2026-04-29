@@ -1,0 +1,11 @@
+{
+  "name": "pycity-scheduling",
+  "version": "1.4.3",
+  "summary": "A Python framework for the development, testing, and assessment of optimization-basedpower scheduling algorithms for multi-energy systems in city districts",
+  "author": "Institute for Automation of Complex Power Systems (ACS),E.ON Energy Research Center (E.ON ERC),RWTH Aachen University",
+  "license": "MIT",
+  "home_page": "https://git.rwth-aachen.de/acs/public/simulation/pycity_scheduling",
+  "download_filename": "pycity_scheduling-1.4.3.tar.gz",
+  "download_time": "2026-04-29T18:56:38.090445",
+  "package_url": "https://pypi.org/project/pycity-scheduling/"
+}

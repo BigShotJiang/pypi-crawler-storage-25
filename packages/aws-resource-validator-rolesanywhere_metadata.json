@@ -1,0 +1,11 @@
+{
+  "name": "aws-resource-validator-rolesanywhere",
+  "version": "2.0.0",
+  "summary": "Pydantic v2 models for AWS rolesanywhere, shipped as a PEP 420 namespace extension of aws-resource-validator.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aws_resource_validator_rolesanywhere-2.0.0-py3-none-any.whl",
+  "download_time": "2026-04-29T18:56:32.425111",
+  "package_url": "https://pypi.org/project/aws-resource-validator-rolesanywhere/"
+}

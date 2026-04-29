@@ -1,0 +1,11 @@
+{
+  "name": "edsl",
+  "version": "1.0.7",
+  "summary": "Create and analyze LLM-based surveys",
+  "author": "John Horton",
+  "license": "MIT",
+  "home_page": "https://www.expectedparrot.com/",
+  "download_filename": "edsl-1.0.7.tar.gz",
+  "download_time": "2026-04-29T18:56:23.051691",
+  "package_url": "https://pypi.org/project/edsl/"
+}
