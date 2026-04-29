@@ -1,11 +1,11 @@
 {
   "name": "maitai-cli",
-  "version": "0.1.6",
+  "version": "0.1.9",
   "summary": "CLI for the Maitai Platform Developer API (api/v1)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "maitai_cli-0.1.6.tar.gz",
-  "download_time": "2026-04-12T22:45:30.968449",
+  "download_filename": "maitai_cli-0.1.9.tar.gz",
+  "download_time": "2026-04-29T17:21:49.266393",
   "package_url": "https://pypi.org/project/maitai-cli/"
 }

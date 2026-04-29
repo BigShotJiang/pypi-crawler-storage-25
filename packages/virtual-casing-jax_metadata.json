@@ -1,0 +1,11 @@
+{
+  "name": "virtual-casing-jax",
+  "version": "0.0.2",
+  "summary": "JAX implementation of the virtual casing principle with high-order quadrature",
+  "author": "UW Plasma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "virtual_casing_jax-0.0.2.tar.gz",
+  "download_time": "2026-04-29T17:21:56.675426",
+  "package_url": "https://pypi.org/project/virtual-casing-jax/"
+}

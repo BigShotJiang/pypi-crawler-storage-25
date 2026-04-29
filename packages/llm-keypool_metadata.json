@@ -1,0 +1,11 @@
+{
+  "name": "llm-keypool",
+  "version": "0.3.0",
+  "summary": "Free-tier LLM API key pool with rotation, cooldown, and LangChain drop-in",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_keypool-0.3.0.tar.gz",
+  "download_time": "2026-04-29T17:21:57.711688",
+  "package_url": "https://pypi.org/project/llm-keypool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "log-surgeon-ffi",
+  "version": "0.1.0b11",
+  "summary": "Python FFI bindings for log-surgeon: high-performance parsing of unstructured logs into structured data",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "log_surgeon_ffi-0.1.0b11-cp310-cp310-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2026-04-29T17:21:54.030801",
+  "package_url": "https://pypi.org/project/log-surgeon-ffi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vivid-mud",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Модуль, основанный на textual, для создания текстовых MMO RPG",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "vivid_mud-0.3.1.tar.gz",
-  "download_time": "2026-04-29T05:00:51.072563",
+  "download_filename": "vivid_mud-0.3.2.tar.gz",
+  "download_time": "2026-04-29T17:21:48.220885",
   "package_url": "https://pypi.org/project/vivid-mud/"
 }

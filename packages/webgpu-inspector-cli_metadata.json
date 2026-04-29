@@ -1,0 +1,11 @@
+{
+  "name": "webgpu-inspector-cli",
+  "version": "0.1.0",
+  "summary": "CLI tool for WebGPU Inspector - debug WebGPU applications from the command line",
+  "author": "Arvind Sekar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "webgpu_inspector_cli-0.1.0.tar.gz",
+  "download_time": "2026-04-29T17:21:30.257172",
+  "package_url": "https://pypi.org/project/webgpu-inspector-cli/"
+}

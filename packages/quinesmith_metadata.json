@@ -1,0 +1,11 @@
+{
+  "name": "quinesmith",
+  "version": "0.1.1",
+  "summary": "Safe primitives and protocol for AI-assisted editing of templated code-generation in quine/capsule systems.",
+  "author": "Yufok1",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quinesmith-0.1.1.tar.gz",
+  "download_time": "2026-04-29T17:21:42.929635",
+  "package_url": "https://pypi.org/project/quinesmith/"
+}

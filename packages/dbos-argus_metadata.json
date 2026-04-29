@@ -1,0 +1,11 @@
+{
+  "name": "dbos-argus",
+  "version": "0.0.3",
+  "summary": "Self-hosted management console for DBOS Transact — FastAPI backend.",
+  "author": "The dbos-argus contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbos_argus-0.0.3.tar.gz",
+  "download_time": "2026-04-29T17:21:37.691967",
+  "package_url": "https://pypi.org/project/dbos-argus/"
+}
