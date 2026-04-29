@@ -1,0 +1,11 @@
+{
+  "name": "pb-tool",
+  "version": "3.3.1",
+  "summary": "A tool to aid in QGIS Python plugin development",
+  "author": null,
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "pb_tool-3.3.1.tar.gz",
+  "download_time": "2026-04-29T20:25:29.325100",
+  "package_url": "https://pypi.org/project/pb-tool/"
+}

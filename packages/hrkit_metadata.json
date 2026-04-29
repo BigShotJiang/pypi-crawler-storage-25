@@ -1,0 +1,11 @@
+{
+  "name": "hrkit",
+  "version": "1.2.0",
+  "summary": "Local-first HR app with BYOK AI agent loop and SQLite-backed modules.",
+  "author": null,
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "hrkit-1.2.0.tar.gz",
+  "download_time": "2026-04-29T20:25:45.954366",
+  "package_url": "https://pypi.org/project/hrkit/"
+}

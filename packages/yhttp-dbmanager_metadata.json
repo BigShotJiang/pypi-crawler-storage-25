@@ -1,0 +1,11 @@
+{
+  "name": "yhttp-dbmanager",
+  "version": "8.1.1",
+  "summary": "Database manager command line interface and API for yhttp.",
+  "author": "Vahid Mardani",
+  "license": "MIT",
+  "home_page": "http://github.com/yhttp/yhttp-dbmanager",
+  "download_filename": "yhttp_dbmanager-8.1.1.tar.gz",
+  "download_time": "2026-04-29T20:25:11.488138",
+  "package_url": "https://pypi.org/project/yhttp-dbmanager/"
+}

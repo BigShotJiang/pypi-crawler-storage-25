@@ -1,11 +1,11 @@
 {
   "name": "eth-consensus-specs",
-  "version": "1.7.0a5",
+  "version": "1.7.0a7",
   "summary": "Ethereum consensus layer specifications package",
   "author": "ethereum",
   "license": null,
   "home_page": null,
-  "download_filename": "eth_consensus_specs-1.7.0a5.tar.gz",
-  "download_time": "2026-04-19T18:00:39.200258",
+  "download_filename": "eth_consensus_specs-1.7.0a7.tar.gz",
+  "download_time": "2026-04-29T20:25:17.082876",
   "package_url": "https://pypi.org/project/eth-consensus-specs/"
 }

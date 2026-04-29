@@ -1,11 +1,11 @@
 {
   "name": "tablassert",
-  "version": "7.3.2",
+  "version": "7.3.5",
   "summary": "Extract knowledge assertions from tabular data into NCATS Translator-compliant KGX NDJSON — declaratively, with entity resolution and quality control built in.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tablassert-7.3.2.tar.gz",
-  "download_time": "2026-04-04T02:04:41.478092",
+  "download_filename": "tablassert-7.3.5.tar.gz",
+  "download_time": "2026-04-29T20:25:44.914118",
   "package_url": "https://pypi.org/project/tablassert/"
 }

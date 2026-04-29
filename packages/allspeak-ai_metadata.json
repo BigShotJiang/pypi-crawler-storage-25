@@ -1,11 +1,11 @@
 {
   "name": "allspeak-ai",
-  "version": "260420.3",
-  "summary": "Rapid scripting in English",
+  "version": "260429.1",
+  "summary": "AllSpeak — multilingual high-level scripting designed for AI-assisted coding",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "allspeak_ai-260420.3.tar.gz",
-  "download_time": "2026-04-20T11:05:03.745077",
+  "download_filename": "allspeak_ai-260429.1-py2.py3-none-any.whl",
+  "download_time": "2026-04-29T20:25:04.269305",
   "package_url": "https://pypi.org/project/allspeak-ai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "supervise-redist",
+  "version": "0.6.3",
+  "summary": "An unofficial redistribution of Catern's supervise Python package that includes both the supervise binary and python API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "supervise_redist-0.6.3-cp313-cp313-manylinux2010_x86_64.manylinux2014_x86_64.manylinux_2_12_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2026-04-29T20:25:44.338396",
+  "package_url": "https://pypi.org/project/supervise-redist/"
+}

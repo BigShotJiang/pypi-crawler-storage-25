@@ -1,11 +1,11 @@
 {
   "name": "pp-check",
-  "version": "0.1.20",
+  "version": "0.1.22",
   "summary": "This tool is used exclusively for Poetry projects. As soon as you have a poetry project in front of you in the console, you can use this tool to quickly find out which script commands the poetry project contains.",
   "author": "dapk",
   "license": null,
   "home_page": null,
-  "download_filename": "pp_check-0.1.20.tar.gz",
-  "download_time": "2026-04-20T21:13:52.385769",
+  "download_filename": "pp_check-0.1.22.tar.gz",
+  "download_time": "2026-04-29T20:25:33.420943",
   "package_url": "https://pypi.org/project/pp-check/"
 }

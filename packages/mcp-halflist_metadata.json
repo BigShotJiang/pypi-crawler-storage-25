@@ -1,0 +1,11 @@
+{
+  "name": "mcp-halflist",
+  "version": "0.3.0",
+  "summary": "CI-first conformance, security, and benchmarking CLI for MCP servers. Lint your MCP server before your users do.",
+  "author": "Abhishekh Singh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_halflist-0.3.0.tar.gz",
+  "download_time": "2026-04-29T20:25:09.764178",
+  "package_url": "https://pypi.org/project/mcp-halflist/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nra",
+  "version": "1.0.0",
+  "summary": "Neural Ready Archive — stream, deduplicate, and train on ML datasets without downloading. Built in Rust.",
+  "author": "NRA Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nra-1.0.0.tar.gz",
+  "download_time": "2026-04-29T20:25:05.955252",
+  "package_url": "https://pypi.org/project/nra/"
+}

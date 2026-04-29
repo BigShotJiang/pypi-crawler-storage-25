@@ -1,11 +1,11 @@
 {
   "name": "sfork-redist",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "An unofficial redistribution of Catern's sfork Python package that includes both the C library and python API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sfork_redist-0.1.0-cp313-cp313-manylinux1_x86_64.manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_5_x86_64.whl",
-  "download_time": "2026-04-29T17:21:58.750115",
+  "download_filename": "sfork_redist-0.1.2-cp313-cp313-manylinux1_x86_64.manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_5_x86_64.whl",
+  "download_time": "2026-04-29T20:25:37.545026",
   "package_url": "https://pypi.org/project/sfork-redist/"
 }

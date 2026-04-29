@@ -1,11 +1,11 @@
 {
   "name": "mimir-observe",
-  "version": "0.9.5",
+  "version": "1.0.3",
   "summary": "Auto-instrumentation and visibility for AI agents — OpenAI Agents SDK, Claude SDK, and more.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mimir_observe-0.9.5.tar.gz",
-  "download_time": "2026-04-17T19:37:45.894243",
+  "download_filename": "mimir_observe-1.0.3.tar.gz",
+  "download_time": "2026-04-29T20:25:43.189610",
   "package_url": "https://pypi.org/project/mimir-observe/"
 }

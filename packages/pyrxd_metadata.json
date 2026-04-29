@@ -1,0 +1,11 @@
+{
+  "name": "pyrxd",
+  "version": "0.2.0",
+  "summary": "Python SDK for the Radiant (RXD) blockchain — transactions, HD wallets, Glyph tokens (NFT/FT/dMint), Gravity cross-chain atomic swaps, SPV, and ElectrumX.",
+  "author": "Mudwood Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrxd-0.2.0.tar.gz",
+  "download_time": "2026-04-29T20:25:17.595461",
+  "package_url": "https://pypi.org/project/pyrxd/"
+}
