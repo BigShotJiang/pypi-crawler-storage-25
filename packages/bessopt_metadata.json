@@ -1,11 +1,11 @@
 {
   "name": "bessopt",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "BESS optimisation: day-ahead and intraday battery dispatch using MILP",
   "author": "clarkmaio",
   "license": null,
   "home_page": null,
-  "download_filename": "bessopt-0.1.0.tar.gz",
-  "download_time": "2026-04-26T08:15:12.838541",
+  "download_filename": "bessopt-0.1.4.tar.gz",
+  "download_time": "2026-04-29T07:30:44.297082",
   "package_url": "https://pypi.org/project/bessopt/"
 }

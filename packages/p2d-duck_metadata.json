@@ -1,11 +1,11 @@
 {
   "name": "p2d-duck",
-  "version": "0.5.0",
-  "summary": "Free Python client for DuckDuckGo AI Chat (duck.ai). Sync + async + streaming + image generation + image upload (multimodal). No API key required.",
-  "author": "p2d-duck contributors",
+  "version": "1.2.0",
+  "summary": "Free Python client for DuckDuckGo AI Chat (duck.ai). Sync, streaming, image generation, image edit, multimodal vision, web search. Auto-retry on challenge failures. No API key required.",
+  "author": "duck-ai contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "p2d_duck-0.5.0.tar.gz",
-  "download_time": "2026-04-27T08:31:39.556913",
+  "download_filename": "p2d_duck-1.2.0.tar.gz",
+  "download_time": "2026-04-29T07:30:57.195721",
   "package_url": "https://pypi.org/project/p2d-duck/"
 }

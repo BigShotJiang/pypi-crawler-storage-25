@@ -1,11 +1,11 @@
 {
   "name": "llmfs",
-  "version": "0.1.6",
+  "version": "0.1.9",
   "summary": "A filesystem-metaphor memory layer for LLMs and AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llmfs-0.1.6.tar.gz",
-  "download_time": "2026-03-28T06:40:49.686405",
+  "download_filename": "llmfs-0.1.9.tar.gz",
+  "download_time": "2026-04-29T07:30:23.104604",
   "package_url": "https://pypi.org/project/llmfs/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cureview",
-  "version": "0.3.6",
+  "version": "0.7.0",
   "summary": "CURe PR review sandboxes powered by ChunkHound and configurable LLM presets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cureview-0.3.6.tar.gz",
-  "download_time": "2026-04-13T03:59:00.038510",
+  "download_filename": "cureview-0.7.0.tar.gz",
+  "download_time": "2026-04-29T07:30:25.670030",
   "package_url": "https://pypi.org/project/cureview/"
 }

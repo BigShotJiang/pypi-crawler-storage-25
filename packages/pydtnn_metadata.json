@@ -1,11 +1,11 @@
 {
   "name": "pydtnn",
-  "version": "3.7.1",
+  "version": "3.7.2",
   "summary": "Python Distributed Training of Neural Networks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydtnn-3.7.1.tar.gz",
-  "download_time": "2026-04-28T06:52:53.328747",
+  "download_filename": "pydtnn-3.7.2.tar.gz",
+  "download_time": "2026-04-29T07:30:44.823311",
   "package_url": "https://pypi.org/project/pydtnn/"
 }

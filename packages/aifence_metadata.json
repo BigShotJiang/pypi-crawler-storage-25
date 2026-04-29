@@ -1,0 +1,11 @@
+{
+  "name": "aifence",
+  "version": "0.4.0",
+  "summary": "Protect sensitive files and prompts from AI coding tools",
+  "author": "Md Niajul Hasan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aifence-0.4.0.tar.gz",
+  "download_time": "2026-04-29T07:30:35.415791",
+  "package_url": "https://pypi.org/project/aifence/"
+}

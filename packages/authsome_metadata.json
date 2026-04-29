@@ -1,11 +1,11 @@
 {
   "name": "authsome",
-  "version": "0.1.12",
+  "version": "0.2.1",
   "summary": "A portable local authentication library for AI agents and developer tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "authsome-0.1.12.tar.gz",
-  "download_time": "2026-04-24T19:01:25.523011",
+  "download_filename": "authsome-0.2.1.tar.gz",
+  "download_time": "2026-04-29T07:31:11.143698",
   "package_url": "https://pypi.org/project/authsome/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "forja-streaming",
+  "version": "0.1.0",
+  "summary": "Plugin de forja — arquitectura streaming con Kafka",
+  "author": "Juan David Lopez Leon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "forja_streaming-0.1.0.tar.gz",
+  "download_time": "2026-04-29T07:31:03.400177",
+  "package_url": "https://pypi.org/project/forja-streaming/"
+}
