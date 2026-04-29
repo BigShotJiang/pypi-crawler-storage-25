@@ -1,11 +1,11 @@
 {
   "name": "cirisai",
-  "version": "2.7.4",
+  "version": "2.7.6",
   "summary": "Alias for ciris-agent - CIRIS Ethical AI Agent",
   "author": "Eric Moore",
   "license": null,
   "home_page": "https://github.com/CIRISAI/CIRISAgent",
-  "download_filename": "cirisai-2.7.4-py3-none-any.whl",
-  "download_time": "2026-04-28T21:51:35.110222",
+  "download_filename": "cirisai-2.7.6-py3-none-any.whl",
+  "download_time": "2026-04-29T23:39:20.061208",
   "package_url": "https://pypi.org/project/cirisai/"
 }

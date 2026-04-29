@@ -1,11 +1,11 @@
 {
   "name": "1bcoder",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "AI coding assistant agent for 1B–7B local models (Ollama, LMStudio, llama.cpp). Terminal REPL with file editing, project map, agents, scripts, and parallel multi-model queries.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "1bcoder-0.1.9.tar.gz",
-  "download_time": "2026-04-25T20:45:49.185135",
+  "download_filename": "1bcoder-0.1.11.tar.gz",
+  "download_time": "2026-04-29T23:39:07.103463",
   "package_url": "https://pypi.org/project/1bcoder/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "blinear",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Bilinear Neural Network Library",
   "author": "Nguyen Minh Tuan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "blinear-0.2.1.tar.gz",
-  "download_time": "2026-04-29T22:39:23.410900",
+  "download_filename": "blinear-0.3.0.tar.gz",
+  "download_time": "2026-04-29T23:39:02.434641",
   "package_url": "https://pypi.org/project/blinear/"
 }

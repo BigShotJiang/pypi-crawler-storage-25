@@ -1,0 +1,11 @@
+{
+  "name": "netfree-unstrict-ssl",
+  "version": "0.1.0",
+  "summary": "Small SSL compatibility patch for Python 3.13 with NetFree certificates",
+  "author": "Malka Bruk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "netfree_unstrict_ssl-0.1.0.tar.gz",
+  "download_time": "2026-04-29T23:39:00.374160",
+  "package_url": "https://pypi.org/project/netfree-unstrict-ssl/"
+}

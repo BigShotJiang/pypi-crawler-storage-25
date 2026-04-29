@@ -1,11 +1,11 @@
 {
   "name": "arize-phoenix-client",
-  "version": "2.4.0",
+  "version": "2.6.0",
   "summary": "LLM Observability",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "arize_phoenix_client-2.4.0.tar.gz",
-  "download_time": "2026-04-22T01:12:37.662523",
+  "download_filename": "arize_phoenix_client-2.6.0.tar.gz",
+  "download_time": "2026-04-29T23:39:08.144867",
   "package_url": "https://pypi.org/project/arize-phoenix-client/"
 }

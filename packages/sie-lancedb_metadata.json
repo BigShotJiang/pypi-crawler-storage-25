@@ -1,11 +1,11 @@
 {
   "name": "sie-lancedb",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "SIE integration for LanceDB",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sie_lancedb-0.3.0.tar.gz",
-  "download_time": "2026-04-29T11:35:41.048187",
+  "download_filename": "sie_lancedb-0.3.1.tar.gz",
+  "download_time": "2026-04-29T23:38:58.312931",
   "package_url": "https://pypi.org/project/sie-lancedb/"
 }

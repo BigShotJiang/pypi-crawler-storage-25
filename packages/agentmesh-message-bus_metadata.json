@@ -1,0 +1,11 @@
+{
+  "name": "agentmesh-message-bus",
+  "version": "3.2.2",
+  "summary": "A lightweight, broker-agnostic message bus designed specifically for AI Agents",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": "https://github.com/microsoft/agent-governance-toolkit",
+  "download_filename": "agentmesh_message_bus-3.2.2.tar.gz",
+  "download_time": "2026-04-29T23:38:40.488402",
+  "package_url": "https://pypi.org/project/agentmesh-message-bus/"
+}

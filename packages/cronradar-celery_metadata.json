@@ -1,0 +1,11 @@
+{
+  "name": "cronradar-celery",
+  "version": "0.0.6",
+  "summary": "Automatic monitoring for Celery periodic tasks. Monitor selective tasks or all tasks with auto-discovery.",
+  "author": "Administrator",
+  "license": "Proprietary",
+  "home_page": "https://github.com/cronradar/cronradar-celery",
+  "download_filename": "cronradar_celery-0.0.6.tar.gz",
+  "download_time": "2026-04-29T23:38:59.856292",
+  "package_url": "https://pypi.org/project/cronradar-celery/"
+}

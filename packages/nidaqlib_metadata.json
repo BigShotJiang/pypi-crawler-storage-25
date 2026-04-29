@@ -1,0 +1,11 @@
+{
+  "name": "nidaqlib",
+  "version": "0.1.0",
+  "summary": "Experiment-facing NI-DAQmx acquisition layer for scientific instrumentation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nidaqlib-0.1.0.tar.gz",
+  "download_time": "2026-04-29T23:39:10.219429",
+  "package_url": "https://pypi.org/project/nidaqlib/"
+}

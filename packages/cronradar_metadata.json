@@ -1,0 +1,11 @@
+{
+  "name": "cronradar",
+  "version": "0.0.6",
+  "summary": "Dead-simple cron job monitoring with auto-registration. Two functions: ping() and sync_monitor(). Self-healing monitors.",
+  "author": "Administrator",
+  "license": "Proprietary",
+  "home_page": "https://github.com/cronradar/cronradar-python",
+  "download_filename": "cronradar-0.0.6.tar.gz",
+  "download_time": "2026-04-29T23:39:01.399325",
+  "package_url": "https://pypi.org/project/cronradar/"
+}

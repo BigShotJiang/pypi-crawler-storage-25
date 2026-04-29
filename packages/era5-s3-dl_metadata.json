@@ -1,0 +1,11 @@
+{
+  "name": "era5-s3-dl",
+  "version": "0.2.1",
+  "summary": "A utility for downloading and subsetting ERA5 data from NCAR S3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "era5_s3_dl-0.2.1.tar.gz",
+  "download_time": "2026-04-29T23:38:45.849529",
+  "package_url": "https://pypi.org/project/era5-s3-dl/"
+}
