@@ -1,11 +1,11 @@
 {
   "name": "regres",
-  "version": "0.1.2",
+  "version": "0.1.53",
   "summary": "Regression/import diagnostics helpers with TOON reports",
   "author": null,
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "regres-0.1.2.tar.gz",
-  "download_time": "2026-04-28T13:20:27.672679",
+  "download_filename": "regres-0.1.53.tar.gz",
+  "download_time": "2026-04-29T15:36:45.453777",
   "package_url": "https://pypi.org/project/regres/"
 }

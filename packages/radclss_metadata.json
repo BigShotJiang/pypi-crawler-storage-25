@@ -1,11 +1,11 @@
 {
   "name": "radclss",
-  "version": "2026.4.20",
+  "version": "2026.4.28",
   "summary": "Extracted Radar Columns and In Situ Sensors",
   "author": "rjackson, jrobrien91",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "radclss-2026.4.20.tar.gz",
-  "download_time": "2026-04-21T00:05:36.296259",
+  "download_filename": "radclss-2026.4.28.tar.gz",
+  "download_time": "2026-04-29T15:36:43.047306",
   "package_url": "https://pypi.org/project/radclss/"
 }

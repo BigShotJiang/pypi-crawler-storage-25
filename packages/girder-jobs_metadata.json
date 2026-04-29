@@ -1,11 +1,11 @@
 {
   "name": "girder-jobs",
-  "version": "5.0.2",
+  "version": "5.0.4",
   "summary": "A general purpose plugin for managing offline jobs.",
   "author": "Kitware, Inc.",
   "license": "Apache 2.0",
   "home_page": "http://girder.readthedocs.io/en/latest/plugins.html#jobs",
-  "download_filename": "girder_jobs-5.0.2.tar.gz",
-  "download_time": "2026-04-07T18:03:29.106710",
+  "download_filename": "girder_jobs-5.0.4.tar.gz",
+  "download_time": "2026-04-29T15:36:29.167689",
   "package_url": "https://pypi.org/project/girder-jobs/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "girder-autojoin",
-  "version": "5.0.2",
+  "version": "5.0.4",
   "summary": "Automatically assign new users to groups based on their email domain",
   "author": "Kitware, Inc.",
   "license": "Apache 2.0",
   "home_page": "http://girder.readthedocs.io/en/latest/plugins.html#auto-join",
-  "download_filename": "girder_autojoin-5.0.2.tar.gz",
-  "download_time": "2026-04-07T18:03:36.502225",
+  "download_filename": "girder_autojoin-5.0.4.tar.gz",
+  "download_time": "2026-04-29T15:36:38.449342",
   "package_url": "https://pypi.org/project/girder-autojoin/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "unitaria",
+  "version": "0.2.0",
+  "summary": "Linear algebra on quantum computers using block encodings",
+  "author": "Matthias Deiml, Oliver Hüttenhofer, Jakob S. Kottmann, Ram Mosco, Daniel Peterseim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "unitaria-0.2.0.tar.gz",
+  "download_time": "2026-04-29T15:36:55.216021",
+  "package_url": "https://pypi.org/project/unitaria/"
+}

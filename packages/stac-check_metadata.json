@@ -1,0 +1,11 @@
+{
+  "name": "stac-check",
+  "version": "1.13.0",
+  "summary": "Linting and validation tool for STAC assets",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stac_check-1.13.0.tar.gz",
+  "download_time": "2026-04-29T15:37:04.470027",
+  "package_url": "https://pypi.org/project/stac-check/"
+}

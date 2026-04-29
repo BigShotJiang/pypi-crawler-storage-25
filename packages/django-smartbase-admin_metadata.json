@@ -1,11 +1,11 @@
 {
   "name": "django-smartbase-admin",
-  "version": "1.1.10",
+  "version": "1.1.12",
   "summary": null,
   "author": "SmartBase",
   "license": "MIT",
   "home_page": "https://smartbase-sk.github.io/django-smartbase-admin-docs/",
-  "download_filename": "django_smartbase_admin-1.1.10.tar.gz",
-  "download_time": "2026-04-24T11:41:59.229568",
+  "download_filename": "django_smartbase_admin-1.1.12.tar.gz",
+  "download_time": "2026-04-29T15:36:56.027165",
   "package_url": "https://pypi.org/project/django-smartbase-admin/"
 }

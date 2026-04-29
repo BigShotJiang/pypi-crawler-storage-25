@@ -1,11 +1,11 @@
 {
   "name": "girder-download-statistics",
-  "version": "5.0.2",
+  "version": "5.0.4",
   "summary": "Record file download statistics",
   "author": "Kitware, Inc.",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "girder_download_statistics-5.0.2.tar.gz",
-  "download_time": "2026-04-07T18:03:35.449713",
+  "download_filename": "girder_download_statistics-5.0.4.tar.gz",
+  "download_time": "2026-04-29T15:36:37.920790",
   "package_url": "https://pypi.org/project/girder-download-statistics/"
 }

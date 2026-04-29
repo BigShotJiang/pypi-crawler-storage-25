@@ -1,11 +1,11 @@
 {
   "name": "pierre-storage",
-  "version": "1.4.4",
+  "version": "1.5.3",
   "summary": "Pierre Git Storage SDK for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pierre_storage-1.4.4.tar.gz",
-  "download_time": "2026-03-31T17:42:11.298159",
+  "download_filename": "pierre_storage-1.5.3.tar.gz",
+  "download_time": "2026-04-29T15:36:53.991633",
   "package_url": "https://pypi.org/project/pierre-storage/"
 }

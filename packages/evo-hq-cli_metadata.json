@@ -1,11 +1,11 @@
 {
   "name": "evo-hq-cli",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Structured experiment-driven code optimization with git worktrees, traces, and a local dashboard. CLI for the evo plugin (Claude Code, Codex).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evo_hq_cli-0.3.2.tar.gz",
-  "download_time": "2026-04-28T11:25:51.653152",
+  "download_filename": "evo_hq_cli-0.3.3.tar.gz",
+  "download_time": "2026-04-29T15:36:59.181254",
   "package_url": "https://pypi.org/project/evo-hq-cli/"
 }

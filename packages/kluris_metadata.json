@@ -1,11 +1,11 @@
 {
   "name": "kluris",
-  "version": "2.15.5",
+  "version": "2.17.0",
   "summary": "Turn your AI agents into team subject matter experts with shared, human-curated knowledge",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kluris-2.15.5.tar.gz",
-  "download_time": "2026-04-27T16:17:16.146573",
+  "download_filename": "kluris-2.17.0.tar.gz",
+  "download_time": "2026-04-29T15:36:39.037477",
   "package_url": "https://pypi.org/project/kluris/"
 }

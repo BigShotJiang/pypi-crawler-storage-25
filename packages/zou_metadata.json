@@ -1,11 +1,11 @@
 {
   "name": "zou",
-  "version": "1.0.27",
+  "version": "1.0.34",
   "summary": "API to store and manage the data of your animation production",
   "author": "CG Wire",
   "license": "GNU Affero General Public License v3",
   "home_page": "https://zou.cg-wire.com",
-  "download_filename": "zou-1.0.27.tar.gz",
-  "download_time": "2026-04-13T11:48:55.793946",
+  "download_filename": "zou-1.0.34.tar.gz",
+  "download_time": "2026-04-29T15:36:29.721993",
   "package_url": "https://pypi.org/project/zou/"
 }

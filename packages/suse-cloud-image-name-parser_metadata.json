@@ -1,0 +1,11 @@
+{
+  "name": "suse-cloud-image-name-parser",
+  "version": "0.11.0",
+  "summary": "Package for SUSE image name data.",
+  "author": "SUSE",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/SUSE-Enceladus/suse-cloud-image-name-parser",
+  "download_filename": "suse_cloud_image_name_parser-0.11.0.tar.gz",
+  "download_time": "2026-04-29T15:37:20.229015",
+  "package_url": "https://pypi.org/project/suse-cloud-image-name-parser/"
+}

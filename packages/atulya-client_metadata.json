@@ -1,11 +1,11 @@
 {
   "name": "atulya-client",
-  "version": "0.8.0",
+  "version": "0.8.5",
   "summary": "Python client for Atulya — a living algorithm for machine intelligence (MI).",
   "author": "Atulya Team",
   "license": null,
   "home_page": null,
-  "download_filename": "atulya_client-0.8.0.tar.gz",
-  "download_time": "2026-03-28T06:40:25.440964",
+  "download_filename": "atulya_client-0.8.5.tar.gz",
+  "download_time": "2026-04-29T15:37:19.704875",
   "package_url": "https://pypi.org/project/atulya-client/"
 }
