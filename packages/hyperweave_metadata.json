@@ -1,11 +1,11 @@
 {
   "name": "hyperweave",
-  "version": "0.2.8",
+  "version": "0.2.11",
   "summary": "Headless visual output layer for AI agents. One API call → self-contained SVG.",
   "author": "InnerAura Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "hyperweave-0.2.8.tar.gz",
-  "download_time": "2026-04-20T18:03:58.263324",
+  "download_filename": "hyperweave-0.2.11.tar.gz",
+  "download_time": "2026-04-29T01:33:44.405535",
   "package_url": "https://pypi.org/project/hyperweave/"
 }

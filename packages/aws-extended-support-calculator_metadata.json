@@ -1,0 +1,11 @@
+{
+  "name": "aws-extended-support-calculator",
+  "version": "1.0.3",
+  "summary": "MCP server that calculates AWS Extended Support costs for RDS/Aurora, ElastiCache, EKS, OpenSearch, and DocumentDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_extended_support_calculator-1.0.3.tar.gz",
+  "download_time": "2026-04-29T01:34:14.482865",
+  "package_url": "https://pypi.org/project/aws-extended-support-calculator/"
+}

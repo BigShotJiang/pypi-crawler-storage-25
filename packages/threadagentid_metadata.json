@@ -1,0 +1,11 @@
+{
+  "name": "threadagentid",
+  "version": "0.3.0",
+  "summary": "Cryptographic identity and reputation for AI agents. Part of the Thread Suite.",
+  "author": "Eugene Dayne Mawuli",
+  "license": null,
+  "home_page": "https://github.com/eugene001dayne/agent-id",
+  "download_filename": "threadagentid-0.3.0.tar.gz",
+  "download_time": "2026-04-29T01:34:09.491035",
+  "package_url": "https://pypi.org/project/threadagentid/"
+}

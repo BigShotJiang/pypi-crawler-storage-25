@@ -1,11 +1,11 @@
 {
   "name": "zeq-galaxy-tools",
-  "version": "1.287.110",
+  "version": "1.287.161",
   "summary": "Zeq OS molecular & scientific connector tools for Galaxy — 12 tools (6 originals + 6 TM siblings): PubChem 3D, RCSB PDB, AlphaFold, ChEMBL, MD Simulator, NIST Spectral — powered by 1.287 Hz HulyaPulse",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zeq_galaxy_tools-1.287.110.tar.gz",
-  "download_time": "2026-04-26T21:54:09.247430",
+  "download_filename": "zeq_galaxy_tools-1.287.161.tar.gz",
+  "download_time": "2026-04-29T01:34:14.995082",
   "package_url": "https://pypi.org/project/zeq-galaxy-tools/"
 }

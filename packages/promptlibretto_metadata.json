@@ -1,11 +1,11 @@
 {
   "name": "promptlibretto",
-  "version": "0.3.3",
-  "summary": "Composable prompt-construction library with named routes, context overlays, injections, streaming, middleware, and output validation.",
+  "version": "0.5.2",
+  "summary": "Registry-based prompt model: sections of items, an assembly order, runtime modes, and a browser studio that exports the same JSON the library loads.",
   "author": "sockheadrps",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "promptlibretto-0.3.3.tar.gz",
-  "download_time": "2026-04-21T05:59:38.219537",
+  "download_filename": "promptlibretto-0.5.2.tar.gz",
+  "download_time": "2026-04-29T01:33:43.293827",
   "package_url": "https://pypi.org/project/promptlibretto/"
 }

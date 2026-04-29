@@ -1,11 +1,11 @@
 {
   "name": "instagrapi",
-  "version": "2.4.3",
+  "version": "2.5.2",
   "summary": "Fast and effective Instagram Private API wrapper",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "instagrapi-2.4.3.tar.gz",
-  "download_time": "2026-04-18T18:00:41.415977",
+  "download_filename": "instagrapi-2.5.2.tar.gz",
+  "download_time": "2026-04-29T01:33:32.345024",
   "package_url": "https://pypi.org/project/instagrapi/"
 }

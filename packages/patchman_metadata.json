@@ -1,0 +1,11 @@
+{
+  "name": "patchman",
+  "version": "4.0.19",
+  "summary": "Django based patch status monitoring tool for linux systems",
+  "author": "Marcus Furlong",
+  "license": "GPLv3",
+  "home_page": "http://patchman.openbytes.ie/",
+  "download_filename": "patchman-4.0.19.tar.gz",
+  "download_time": "2026-04-29T01:33:41.236100",
+  "package_url": "https://pypi.org/project/patchman/"
+}

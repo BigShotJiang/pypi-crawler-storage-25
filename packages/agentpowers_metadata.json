@@ -1,11 +1,11 @@
 {
   "name": "agentpowers",
-  "version": "0.1.4",
+  "version": "0.1.10",
   "summary": "AgentPowers CLI — discover, install, and publish marketplace skills",
   "author": "Nate Ritter",
   "license": null,
   "home_page": null,
-  "download_filename": "agentpowers-0.1.4.tar.gz",
-  "download_time": "2026-04-04T20:32:10.778422",
+  "download_filename": "agentpowers-0.1.10.tar.gz",
+  "download_time": "2026-04-29T01:33:42.271616",
   "package_url": "https://pypi.org/project/agentpowers/"
 }

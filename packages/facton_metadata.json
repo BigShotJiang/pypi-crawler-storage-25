@@ -1,11 +1,11 @@
 {
   "name": "facton",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "A Python-native knowledge graph library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "facton-0.3.1.tar.gz",
-  "download_time": "2026-04-28T21:51:38.864713",
+  "download_filename": "facton-0.4.0.tar.gz",
+  "download_time": "2026-04-29T01:33:40.208709",
   "package_url": "https://pypi.org/project/facton/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ipynb-local-viewer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A smooth local reader for saved Jupyter notebooks with lazy media output streaming.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ipynb_local_viewer-0.1.0.tar.gz",
-  "download_time": "2026-04-28T20:50:24.094585",
+  "download_filename": "ipynb_local_viewer-0.1.1.tar.gz",
+  "download_time": "2026-04-29T01:33:46.985872",
   "package_url": "https://pypi.org/project/ipynb-local-viewer/"
 }

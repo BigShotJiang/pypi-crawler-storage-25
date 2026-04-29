@@ -1,11 +1,11 @@
 {
   "name": "ait-vcs",
-  "version": "0.27.0",
+  "version": "0.49.0",
   "summary": "Git worktree isolation and provenance for AI coding agents",
   "author": "sin-chengchen",
   "license": null,
   "home_page": null,
-  "download_filename": "ait_vcs-0.27.0.tar.gz",
-  "download_time": "2026-04-28T13:20:38.996135",
+  "download_filename": "ait_vcs-0.49.0.tar.gz",
+  "download_time": "2026-04-29T01:33:35.954968",
   "package_url": "https://pypi.org/project/ait-vcs/"
 }
