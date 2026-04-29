@@ -1,0 +1,11 @@
+{
+  "name": "cloudcraft-mcp",
+  "version": "0.1.4",
+  "summary": "Model Context Protocol (MCP) server for Cloudcraft.co — list, read, export, create, update, and delete cloud architecture blueprints from Claude Desktop and other MCP clients.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cloudcraft_mcp-0.1.4.tar.gz",
+  "download_time": "2026-04-29T11:35:50.760266",
+  "package_url": "https://pypi.org/project/cloudcraft-mcp/"
+}

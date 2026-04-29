@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-partner-birthdate",
+  "version": "19.0.1.0.0.2",
+  "summary": "Adds the birthdate in the customer screen of POS",
+  "author": "Emanuel Cino, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_partner_birthdate-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-04-29T11:35:04.507715",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-partner-birthdate/"
+}

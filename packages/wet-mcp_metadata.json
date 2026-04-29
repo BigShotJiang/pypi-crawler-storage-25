@@ -1,11 +1,11 @@
 {
   "name": "wet-mcp",
-  "version": "2.26.4",
+  "version": "2.28.7",
   "summary": "Open-source MCP Server for web search, extract, crawl, academic research, and library docs with embedded SearXNG",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wet_mcp-2.26.4.tar.gz",
-  "download_time": "2026-04-22T08:21:52.330754",
+  "download_filename": "wet_mcp-2.28.7.tar.gz",
+  "download_time": "2026-04-29T11:35:18.383922",
   "package_url": "https://pypi.org/project/wet-mcp/"
 }

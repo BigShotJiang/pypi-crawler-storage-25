@@ -1,0 +1,11 @@
+{
+  "name": "remotecuda",
+  "version": "2.0.0",
+  "summary": "Transparent remote GPU access - no code changes needed",
+  "author": "RemoteCUDA Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/remotecuda",
+  "download_filename": "remotecuda-2.0.0.tar.gz",
+  "download_time": "2026-04-29T11:35:06.540925",
+  "package_url": "https://pypi.org/project/remotecuda/"
+}

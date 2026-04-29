@@ -1,0 +1,11 @@
+{
+  "name": "agentpytest",
+  "version": "0.0.0",
+  "summary": "Pytest for AI agents — record, score, replay, regress. Vendorable, judge-agnostic, domain-neutral. (Placeholder release; full library coming soon.)",
+  "author": "Piyush Bhavsar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentpytest-0.0.0.tar.gz",
+  "download_time": "2026-04-29T11:35:06.033081",
+  "package_url": "https://pypi.org/project/agentpytest/"
+}

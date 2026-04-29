@@ -1,0 +1,11 @@
+{
+  "name": "imagine-mcp",
+  "version": "1.1.4",
+  "summary": "MCP server for image/video understanding & generation (Gemini/OpenAI/Grok)",
+  "author": "n24q02m",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "imagine_mcp-1.1.4.tar.gz",
+  "download_time": "2026-04-29T11:35:16.829889",
+  "package_url": "https://pypi.org/project/imagine-mcp/"
+}

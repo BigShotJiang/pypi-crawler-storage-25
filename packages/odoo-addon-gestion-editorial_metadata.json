@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-gestion-editorial",
+  "version": "17.0.1.7.2",
+  "summary": "Fills the Odoo gaps for book publishers, distributors and bookshops. Manages sales on consignment with all related settlements and stock returns. For publishers, manages book authors royalties from settled sales, even with multiple authors. Adds book related data to products like ISBN, authors and royalties receiver. Discover more in the description!",
+  "author": "Colectivo DEVCONTROL",
+  "license": "AGPL-3",
+  "home_page": "https://framagit.org/devcontrol",
+  "download_filename": "odoo_addon_gestion_editorial-17.0.1.7.2.tar.gz",
+  "download_time": "2026-04-29T11:35:16.319266",
+  "package_url": "https://pypi.org/project/odoo-addon-gestion-editorial/"
+}

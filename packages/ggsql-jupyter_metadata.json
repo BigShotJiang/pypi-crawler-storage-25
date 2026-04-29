@@ -1,11 +1,11 @@
 {
   "name": "ggsql-jupyter",
-  "version": "0.2.6",
+  "version": "0.3.0",
   "summary": "Jupyter kernel for ggsql - SQL extension for declarative data visualization",
   "author": null,
   "license": "MIT",
   "home_page": "https://ggsql.org",
-  "download_filename": "ggsql_jupyter-0.2.6.tar.gz",
-  "download_time": "2026-04-18T11:08:53.984020",
+  "download_filename": "ggsql_jupyter-0.3.0.tar.gz",
+  "download_time": "2026-04-29T11:35:42.597533",
   "package_url": "https://pypi.org/project/ggsql-jupyter/"
 }

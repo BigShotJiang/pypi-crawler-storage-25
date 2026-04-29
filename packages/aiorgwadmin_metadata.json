@@ -1,0 +1,11 @@
+{
+  "name": "aiorgwadmin",
+  "version": "1.4.0",
+  "summary": "Python Rados Gateway Admin API",
+  "author": "Derek Yarnell <derek@umiacs.umd.edu>, Mikle Green",
+  "license": "LGPL v2.1",
+  "home_page": "https://github.com/mikle-green/aiorgwadmin",
+  "download_filename": "aiorgwadmin-1.4.0.tar.gz",
+  "download_time": "2026-04-29T11:35:13.691387",
+  "package_url": "https://pypi.org/project/aiorgwadmin/"
+}

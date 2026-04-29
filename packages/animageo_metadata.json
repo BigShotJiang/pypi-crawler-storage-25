@@ -1,0 +1,11 @@
+{
+  "name": "animageo",
+  "version": "1.1.0",
+  "summary": "Convert GeoGebra constructions into high-quality SVG images and MP4 animations using manim",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "animageo-1.1.0.tar.gz",
+  "download_time": "2026-04-29T11:35:25.054588",
+  "package_url": "https://pypi.org/project/animageo/"
+}
