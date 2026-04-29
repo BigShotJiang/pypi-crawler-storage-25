@@ -1,0 +1,11 @@
+{
+  "name": "boolean-auth-sdk",
+  "version": "0.1.0",
+  "summary": "SDK to consume cidi-auth and auth.back authentication services from Python apps",
+  "author": "Boolean",
+  "license": null,
+  "home_page": null,
+  "download_filename": "boolean_auth_sdk-0.1.0.tar.gz",
+  "download_time": "2026-04-29T21:32:48.137774",
+  "package_url": "https://pypi.org/project/boolean-auth-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mpac",
-  "version": "0.2.2",
+  "version": "0.2.7",
   "summary": "MPAC (Multi-Principal Agent Coordination Protocol) — coordinate multiple AI agents serving different principals over shared state",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mpac-0.2.2.tar.gz",
-  "download_time": "2026-04-21T20:15:21.742086",
+  "download_filename": "mpac-0.2.7.tar.gz",
+  "download_time": "2026-04-29T21:32:21.008571",
   "package_url": "https://pypi.org/project/mpac/"
 }

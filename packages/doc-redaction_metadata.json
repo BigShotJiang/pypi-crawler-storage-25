@@ -1,11 +1,11 @@
 {
   "name": "doc-redaction",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "summary": "Redact PDF/image-based documents, Word, or CSV/XLSX files using a Gradio-based GUI interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "doc_redaction-2.2.5-py3-none-any.whl",
-  "download_time": "2026-04-28T21:51:26.346666",
+  "download_filename": "doc_redaction-2.2.6.tar.gz",
+  "download_time": "2026-04-29T21:32:29.878287",
   "package_url": "https://pypi.org/project/doc-redaction/"
 }

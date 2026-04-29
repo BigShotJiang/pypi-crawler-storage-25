@@ -1,11 +1,11 @@
 {
   "name": "mitol-django-scim",
-  "version": "2026.4.2",
+  "version": "2026.4.29",
   "summary": "Django application for SCIM integrations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mitol_django_scim-2026.4.2.tar.gz",
-  "download_time": "2026-04-02T15:48:33.011367",
+  "download_filename": "mitol_django_scim-2026.4.29.tar.gz",
+  "download_time": "2026-04-29T21:32:58.108547",
   "package_url": "https://pypi.org/project/mitol-django-scim/"
 }

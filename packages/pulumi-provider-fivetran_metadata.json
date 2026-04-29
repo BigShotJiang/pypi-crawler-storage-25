@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-provider-fivetran",
+  "version": "1.9.4",
+  "summary": "A Pulumi package for creating and managing fivetran cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_provider_fivetran-1.9.4-py3-none-any.whl",
+  "download_time": "2026-04-29T21:33:05.446387",
+  "package_url": "https://pypi.org/project/pulumi-provider-fivetran/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "asyncdb",
+  "version": "2.15.4",
+  "summary": "Asynchronous library for data source connections, used by Navigator.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "asyncdb-2.15.4-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-04-29T21:32:39.671419",
+  "package_url": "https://pypi.org/project/asyncdb/"
+}

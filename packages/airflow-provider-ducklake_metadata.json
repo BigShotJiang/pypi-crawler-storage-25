@@ -1,0 +1,11 @@
+{
+  "name": "airflow-provider-ducklake",
+  "version": "0.0.11",
+  "summary": "DuckLake provider for Apache Airflow (based on DuckDB)",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "airflow_provider_ducklake-0.0.11.tar.gz",
+  "download_time": "2026-04-29T21:32:54.348174",
+  "package_url": "https://pypi.org/project/airflow-provider-ducklake/"
+}

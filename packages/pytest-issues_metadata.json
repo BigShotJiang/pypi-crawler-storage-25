@@ -1,0 +1,11 @@
+{
+  "name": "pytest-issues",
+  "version": "1.0.0",
+  "summary": "Decorators for pytest tests that should issue exceptions or warnings",
+  "author": "Jonathan King",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_issues-1.0.0.tar.gz",
+  "download_time": "2026-04-29T21:32:30.904180",
+  "package_url": "https://pypi.org/project/pytest-issues/"
+}

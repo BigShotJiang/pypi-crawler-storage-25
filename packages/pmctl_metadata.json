@@ -1,0 +1,11 @@
+{
+  "name": "pmctl",
+  "version": "0.2.1",
+  "summary": "CLI for browsing Postman collections, requests, and environments. Ships as an AI agent skill/plugin for Claude Code, Cursor, Codex, and OpenClaw.",
+  "author": "Wenbing Li",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pmctl-0.2.1.tar.gz",
+  "download_time": "2026-04-29T21:33:04.419500",
+  "package_url": "https://pypi.org/project/pmctl/"
+}

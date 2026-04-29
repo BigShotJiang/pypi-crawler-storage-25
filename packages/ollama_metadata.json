@@ -1,0 +1,11 @@
+{
+  "name": "ollama",
+  "version": "0.6.2",
+  "summary": "The official Python client for Ollama.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ollama-0.6.2.tar.gz",
+  "download_time": "2026-04-29T21:32:52.281624",
+  "package_url": "https://pypi.org/project/ollama/"
+}

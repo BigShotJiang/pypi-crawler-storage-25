@@ -1,11 +1,11 @@
 {
   "name": "okto-pulse-core",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Okto Pulse Core — spec-driven project management engine with MCP support for AI agents",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "okto_pulse_core-0.1.1.tar.gz",
-  "download_time": "2026-04-14T21:12:24.373344",
+  "download_filename": "okto_pulse_core-0.1.5.tar.gz",
+  "download_time": "2026-04-29T21:32:44.432020",
   "package_url": "https://pypi.org/project/okto-pulse-core/"
 }

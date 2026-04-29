@@ -1,0 +1,11 @@
+{
+  "name": "audio-samples",
+  "version": "0.2.2",
+  "summary": "Python bindings for the AudioSamples Rust ecosystem - fast, type-safe audio processing with automatic metadata coordination",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/jmg049/audio_samples_python",
+  "download_filename": "audio_samples-0.2.2.tar.gz",
+  "download_time": "2026-04-29T21:33:07.021281",
+  "package_url": "https://pypi.org/project/audio-samples/"
+}
