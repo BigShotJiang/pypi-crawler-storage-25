@@ -1,0 +1,11 @@
+{
+  "name": "gogeo-cli",
+  "version": "0.2.0",
+  "summary": "GoGeo CLI - unified CLI for common-task pipeline & property/asset management APIs",
+  "author": "gogeo",
+  "license": "MIT",
+  "home_page": "https://gogeo.topprismdata.com",
+  "download_filename": "gogeo_cli-0.2.0.tar.gz",
+  "download_time": "2026-04-29T05:00:44.060376",
+  "package_url": "https://pypi.org/project/gogeo-cli/"
+}

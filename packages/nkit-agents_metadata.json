@@ -1,11 +1,11 @@
 {
   "name": "nkit-agents",
-  "version": "0.2.1",
-  "summary": "A nano, minimalistic, and lightweight library for building ReACT-based AI agents.",
+  "version": "0.3.1",
+  "summary": "Production-Ready Safety Layer for Agentic AI - Live observability, pre-execution safety, and audit trails",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "nkit_agents-0.2.1.tar.gz",
-  "download_time": "2026-04-20T20:14:31.304735",
+  "download_filename": "nkit_agents-0.3.1.tar.gz",
+  "download_time": "2026-04-29T05:00:37.173867",
   "package_url": "https://pypi.org/project/nkit-agents/"
 }

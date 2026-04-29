@@ -1,0 +1,11 @@
+{
+  "name": "mad-mcp-qdrant",
+  "version": "1.9.2",
+  "summary": "MCP server for retrieving context from a Qdrant vector database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mad_mcp_qdrant-1.9.2.tar.gz",
+  "download_time": "2026-04-29T05:00:40.004703",
+  "package_url": "https://pypi.org/project/mad-mcp-qdrant/"
+}

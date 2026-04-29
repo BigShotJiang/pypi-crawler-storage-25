@@ -1,0 +1,11 @@
+{
+  "name": "excel-funcs-py",
+  "version": "0.1.0",
+  "summary": "Python implementations of common Microsoft Excel functions, layered API and Excel-like error values.",
+  "author": "PyExcelFunctionsImpl contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "excel_funcs_py-0.1.0.tar.gz",
+  "download_time": "2026-04-29T05:00:30.276901",
+  "package_url": "https://pypi.org/project/excel-funcs-py/"
+}

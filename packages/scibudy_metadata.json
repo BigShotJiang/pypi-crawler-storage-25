@@ -1,11 +1,11 @@
 {
   "name": "scibudy",
-  "version": "0.1.0",
-  "summary": "Codex-native scientific research expansion assistant with scholarly search, library management, and local semantic analysis",
+  "version": "0.3.0",
+  "summary": "Codex-native scientific research assistant for scholarly search, library management, full-text analysis, and local semantic retrieval",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scibudy-0.1.0.tar.gz",
-  "download_time": "2026-04-15T03:38:32.456050",
+  "download_filename": "scibudy-0.3.0.tar.gz",
+  "download_time": "2026-04-29T05:00:46.434415",
   "package_url": "https://pypi.org/project/scibudy/"
 }

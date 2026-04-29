@@ -1,11 +1,11 @@
 {
   "name": "ctrlrelay",
-  "version": "0.1.12",
+  "version": "0.2.1",
   "summary": "Local-first orchestrator for headless coding agents across multiple GitHub repos",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ctrlrelay-0.1.12.tar.gz",
-  "download_time": "2026-04-23T00:08:36.445040",
+  "download_filename": "ctrlrelay-0.2.1.tar.gz",
+  "download_time": "2026-04-29T05:00:38.286658",
   "package_url": "https://pypi.org/project/ctrlrelay/"
 }

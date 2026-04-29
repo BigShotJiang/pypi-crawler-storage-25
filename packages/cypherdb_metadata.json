@@ -1,0 +1,11 @@
+{
+  "name": "cypherdb",
+  "version": "0.2.3",
+  "summary": "CypherDB is a lightweight, zero-dependency, embedded graph database written entirely in Go. Think of it as SQLite for Graph Databases",
+  "author": "Ray",
+  "license": "MIT",
+  "home_page": "https://github.com/DotNetAge/gograph",
+  "download_filename": "cypherdb-0.2.3.tar.gz",
+  "download_time": "2026-04-29T05:00:43.474367",
+  "package_url": "https://pypi.org/project/cypherdb/"
+}

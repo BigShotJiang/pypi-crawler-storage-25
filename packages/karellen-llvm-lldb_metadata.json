@@ -1,11 +1,11 @@
 {
   "name": "karellen-llvm-lldb",
-  "version": "22.1.3.post20",
+  "version": "22.1.4.post12",
   "summary": "Karellen LLDB infrastructure",
   "author": "Karellen, Inc.",
   "license": "Apache-2.0",
   "home_page": "https://github.com/karellen/karellen-llvm",
-  "download_filename": "karellen_llvm_lldb-22.1.3.post20-cp310-cp310-manylinux_2_28_x86_64.whl",
-  "download_time": "2026-04-20T22:09:50.164862",
+  "download_filename": "karellen_llvm_lldb-22.1.4.post12-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2026-04-29T05:00:32.724716",
   "package_url": "https://pypi.org/project/karellen-llvm-lldb/"
 }

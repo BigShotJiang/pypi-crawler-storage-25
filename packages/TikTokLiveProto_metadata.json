@@ -1,0 +1,11 @@
+{
+  "name": "TikTokLiveProto",
+  "version": "0.0.4",
+  "summary": "Clean-room betterproto2/Pydantic Python bindings for the TikTok Webcast Protobuf schema.",
+  "author": "Isaac Kogan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiktokliveproto-0.0.4.tar.gz",
+  "download_time": "2026-04-29T05:00:14.621977",
+  "package_url": "https://pypi.org/project/TikTokLiveProto/"
+}

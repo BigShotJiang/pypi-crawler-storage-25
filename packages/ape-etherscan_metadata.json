@@ -1,0 +1,11 @@
+{
+  "name": "ape-etherscan",
+  "version": "0.8.6",
+  "summary": "ape-etherscan: Etherscan Explorer Plugin for Ethereum-based networks",
+  "author": "ApeWorX Ltd.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ApeWorX/ape-etherscan",
+  "download_filename": "ape_etherscan-0.8.6.tar.gz",
+  "download_time": "2026-04-29T05:00:41.727620",
+  "package_url": "https://pypi.org/project/ape-etherscan/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nvs2colmap",
+  "version": "0.1.0",
+  "summary": "Utilities for converting novel view synthesis datasets to COLMAP format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nvs2colmap-0.1.0.tar.gz",
+  "download_time": "2026-04-29T05:00:00.908746",
+  "package_url": "https://pypi.org/project/nvs2colmap/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "omop-graph",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "Explainable, OMOP-native knowledge graph traversal and pathfinding",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "omop_graph-1.0.1.tar.gz",
-  "download_time": "2026-04-16T22:30:57.116377",
+  "download_filename": "omop_graph-1.0.4.tar.gz",
+  "download_time": "2026-04-29T05:00:37.701314",
   "package_url": "https://pypi.org/project/omop-graph/"
 }
