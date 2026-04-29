@@ -1,0 +1,11 @@
+{
+  "name": "starkcore",
+  "version": "0.7.0",
+  "summary": "Basic SDK functionalities for the starkbank and starkinfra SDKs",
+  "author": "Stark Infra",
+  "license": "MIT License",
+  "home_page": "https://github.com/starkinfra/core-python",
+  "download_filename": "starkcore-0.7.0.tar.gz",
+  "download_time": "2026-04-29T22:39:21.321668",
+  "package_url": "https://pypi.org/project/starkcore/"
+}

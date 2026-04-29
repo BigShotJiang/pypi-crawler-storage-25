@@ -1,0 +1,11 @@
+{
+  "name": "langchain-acp",
+  "version": "0.9.1",
+  "summary": "Expose LangChain and LangGraph agents through ACP Kit.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "langchain_acp-0.9.1.tar.gz",
+  "download_time": "2026-04-29T22:39:29.250375",
+  "package_url": "https://pypi.org/project/langchain-acp/"
+}

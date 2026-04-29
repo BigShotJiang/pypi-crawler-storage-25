@@ -1,11 +1,11 @@
 {
   "name": "acpkit",
-  "version": "0.7.0",
+  "version": "0.9.1",
   "summary": "ACP Kit provides a common adapter for Agent Frameworks.",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "acpkit-0.7.0.tar.gz",
-  "download_time": "2026-04-15T19:56:46.740213",
+  "download_filename": "acpkit-0.9.1.tar.gz",
+  "download_time": "2026-04-29T22:39:27.149612",
   "package_url": "https://pypi.org/project/acpkit/"
 }

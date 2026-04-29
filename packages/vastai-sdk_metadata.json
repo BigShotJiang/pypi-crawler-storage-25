@@ -1,11 +1,11 @@
 {
   "name": "vastai-sdk",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "summary": "DEPRECATED — use 'pip install vastai' instead. This package is a compatibility wrapper that installs vastai.",
   "author": "Chris McKenzie",
   "license": null,
   "home_page": null,
-  "download_filename": "vastai_sdk-1.0.6.tar.gz",
-  "download_time": "2026-04-22T21:16:50.483617",
+  "download_filename": "vastai_sdk-1.0.8.tar.gz",
+  "download_time": "2026-04-29T22:39:41.329338",
   "package_url": "https://pypi.org/project/vastai-sdk/"
 }

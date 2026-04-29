@@ -1,0 +1,11 @@
+{
+  "name": "hermes-weather-agent",
+  "version": "0.5.0",
+  "summary": "MCP plugin: AI agents drive rustwx for HRRR/GFS rendering, ECAPE diagnostics, cross sections, and dataset assembly.",
+  "author": "Fahrenheit Research",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hermes_weather_agent-0.5.0.tar.gz",
+  "download_time": "2026-04-29T22:39:31.334346",
+  "package_url": "https://pypi.org/project/hermes-weather-agent/"
+}

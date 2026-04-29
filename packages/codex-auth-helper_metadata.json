@@ -1,11 +1,11 @@
 {
   "name": "codex-auth-helper",
-  "version": "0.7.0",
+  "version": "0.9.1",
   "summary": "Codex auth helpers for pydantic-ai OpenAI Responses models.",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "codex_auth_helper-0.7.0.tar.gz",
-  "download_time": "2026-04-15T19:56:47.782557",
+  "download_filename": "codex_auth_helper-0.9.1.tar.gz",
+  "download_time": "2026-04-29T22:39:30.289512",
   "package_url": "https://pypi.org/project/codex-auth-helper/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "plutus-cli",
-  "version": "0.1.0",
+  "version": "0.1.17",
   "summary": "Command-line interface for Plutus Cloud — your AI assistant in the terminal",
   "author": "Crypt0nly",
   "license": null,
   "home_page": null,
-  "download_filename": "plutus_cli-0.1.0.tar.gz",
-  "download_time": "2026-04-26T18:37:38.517168",
+  "download_filename": "plutus_cli-0.1.17.tar.gz",
+  "download_time": "2026-04-29T22:39:09.587851",
   "package_url": "https://pypi.org/project/plutus-cli/"
 }

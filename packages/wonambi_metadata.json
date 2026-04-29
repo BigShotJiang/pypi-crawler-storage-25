@@ -1,0 +1,11 @@
+{
+  "name": "wonambi",
+  "version": "7.17",
+  "summary": "Tools for EEG, ECoG, iEEG, especially for sleep",
+  "author": "Gio Piantoni / Jordan O'Byrne",
+  "license": "GPLv3",
+  "home_page": "https://github.com/wonambi-python/wonambi",
+  "download_filename": "wonambi-7.17.tar.gz",
+  "download_time": "2026-04-29T22:39:57.874432",
+  "package_url": "https://pypi.org/project/wonambi/"
+}

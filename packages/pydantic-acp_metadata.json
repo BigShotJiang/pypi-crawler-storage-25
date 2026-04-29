@@ -1,11 +1,11 @@
 {
   "name": "pydantic-acp",
-  "version": "0.7.0",
+  "version": "0.9.1",
   "summary": "ACP adapter for pydantic-ai agents.",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "pydantic_acp-0.7.0.tar.gz",
-  "download_time": "2026-04-15T19:56:47.262028",
+  "download_filename": "pydantic_acp-0.9.1.tar.gz",
+  "download_time": "2026-04-29T22:39:28.727422",
   "package_url": "https://pypi.org/project/pydantic-acp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "bog-agents",
-  "version": "0.6.3",
+  "version": "0.7.3",
   "summary": "Bog Agents - batteries-included agent harness for building AI agents. Supports any major provider (Anthropic, OpenAI, AWS Bedrock, Google, etc.) and local models via Ollama. Built on LangGraph.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bog_agents-0.6.3.tar.gz",
-  "download_time": "2026-03-29T21:05:15.006822",
+  "download_filename": "bog_agents-0.7.3.tar.gz",
+  "download_time": "2026-04-29T22:39:10.645191",
   "package_url": "https://pypi.org/project/bog-agents/"
 }
