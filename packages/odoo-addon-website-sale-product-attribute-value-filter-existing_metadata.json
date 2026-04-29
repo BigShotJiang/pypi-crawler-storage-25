@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-website-sale-product-attribute-value-filter-existing",
+  "version": "18.0.1.1.2",
+  "summary": "Allow hide attributes values not used in variants",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/e-commerce",
+  "download_filename": "odoo_addon_website_sale_product_attribute_value_filter_existing-18.0.1.1.2-py3-none-any.whl",
+  "download_time": "2026-04-29T13:22:47.991775",
+  "package_url": "https://pypi.org/project/odoo-addon-website-sale-product-attribute-value-filter-existing/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "JwzTumor",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "summary": "Breast ultrasound benign-malignant diagnosis with segmentation-assisted multi-task learning.",
   "author": "SuShuheng",
   "license": null,
   "home_page": null,
-  "download_filename": "jwztumor-1.0.1.tar.gz",
-  "download_time": "2026-04-25T16:49:42.947793",
+  "download_filename": "jwztumor-1.0.6.tar.gz",
+  "download_time": "2026-04-29T13:23:23.570227",
   "package_url": "https://pypi.org/project/JwzTumor/"
 }

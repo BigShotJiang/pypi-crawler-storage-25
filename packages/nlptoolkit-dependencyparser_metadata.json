@@ -1,0 +1,11 @@
+{
+  "name": "nlptoolkit-dependencyparser",
+  "version": "1.0.26",
+  "summary": "Turkish Dependency Parser",
+  "author": "olcaytaner",
+  "license": null,
+  "home_page": "https://github.com/StarlangSoftware/TurkishDependencyParser-Py",
+  "download_filename": "nlptoolkit_dependencyparser-1.0.26.tar.gz",
+  "download_time": "2026-04-29T13:23:09.493979",
+  "package_url": "https://pypi.org/project/nlptoolkit-dependencyparser/"
+}

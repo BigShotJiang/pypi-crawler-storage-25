@@ -1,0 +1,11 @@
+{
+  "name": "forja-lakehouse",
+  "version": "0.1.0",
+  "summary": "Plugin de forja — arquitectura Lakehouse con DuckDB, Delta Lake y Polars",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "forja_lakehouse-0.1.0.tar.gz",
+  "download_time": "2026-04-29T13:22:43.318583",
+  "package_url": "https://pypi.org/project/forja-lakehouse/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agentsonar",
+  "version": "0.3.3",
+  "summary": "Coordination intelligence for multi-agent AI (CrewAI, LangGraph, and custom orchestrators). Detect, prevent, and optimize how agents work together.",
+  "author": "AgentSonar",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agentsonar-0.3.3.tar.gz",
+  "download_time": "2026-04-29T13:22:41.695768",
+  "package_url": "https://pypi.org/project/agentsonar/"
+}

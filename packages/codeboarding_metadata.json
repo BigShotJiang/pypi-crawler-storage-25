@@ -1,11 +1,11 @@
 {
   "name": "codeboarding",
-  "version": "0.9.6",
+  "version": "0.11.0",
   "summary": "Interactive Diagrams for Code",
   "author": "CodeBoarding Team",
   "license": null,
   "home_page": null,
-  "download_filename": "codeboarding-0.9.6.tar.gz",
-  "download_time": "2026-03-31T23:06:53.689686",
+  "download_filename": "codeboarding-0.11.0.tar.gz",
+  "download_time": "2026-04-29T13:23:08.963431",
   "package_url": "https://pypi.org/project/codeboarding/"
 }

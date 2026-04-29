@@ -1,0 +1,11 @@
+{
+  "name": "nlptoolkit-morphologicaldisambiguation",
+  "version": "1.0.18",
+  "summary": "Turkish Morphological Disambiguation Library",
+  "author": "olcaytaner",
+  "license": null,
+  "home_page": "https://github.com/StarlangSoftware/TurkishMorphologicalDisambiguation-Py",
+  "download_filename": "nlptoolkit_morphologicaldisambiguation-1.0.18.tar.gz",
+  "download_time": "2026-04-29T13:22:40.667553",
+  "package_url": "https://pypi.org/project/nlptoolkit-morphologicaldisambiguation/"
+}
