@@ -1,11 +1,11 @@
 {
   "name": "legend-lh5io",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "LEGEND LH5 File I/O",
   "author": "The LEGEND Collaboration",
   "license": null,
   "home_page": null,
-  "download_filename": "legend_lh5io-0.2.1.tar.gz",
-  "download_time": "2026-04-27T08:31:42.152766",
+  "download_filename": "legend_lh5io-0.2.3.tar.gz",
+  "download_time": "2026-04-30T15:31:33.599434",
   "package_url": "https://pypi.org/project/legend-lh5io/"
 }

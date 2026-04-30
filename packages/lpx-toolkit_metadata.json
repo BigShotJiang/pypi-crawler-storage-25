@@ -1,0 +1,11 @@
+{
+  "name": "lpx-toolkit",
+  "version": "0.1.2",
+  "summary": "Read-only Logic Pro project inspector — extracts AU plugin manifest, tracks, and metadata from .logicx bundles.",
+  "author": "Rhyd Lewis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lpx_toolkit-0.1.2.tar.gz",
+  "download_time": "2026-04-30T15:30:57.001747",
+  "package_url": "https://pypi.org/project/lpx-toolkit/"
+}

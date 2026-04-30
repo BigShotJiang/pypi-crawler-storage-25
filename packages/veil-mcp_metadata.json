@@ -1,0 +1,11 @@
+{
+  "name": "veil-mcp",
+  "version": "0.1.1",
+  "summary": "A local firewall for MCP tool calls, descriptors, and results.",
+  "author": "Atomics Hub",
+  "license": null,
+  "home_page": null,
+  "download_filename": "veil_mcp-0.1.1.tar.gz",
+  "download_time": "2026-04-30T15:31:07.333781",
+  "package_url": "https://pypi.org/project/veil-mcp/"
+}

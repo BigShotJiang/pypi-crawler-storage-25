@@ -1,11 +1,11 @@
 {
   "name": "pydepgate",
-  "version": "0.2.3",
+  "version": "0.3.1",
   "summary": "Lightweight Python runner that interdicts suspicious startup behavior.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydepgate-0.2.3.tar.gz",
-  "download_time": "2026-04-29T22:39:33.974837",
+  "download_filename": "pydepgate-0.3.1.tar.gz",
+  "download_time": "2026-04-30T15:31:23.996912",
   "package_url": "https://pypi.org/project/pydepgate/"
 }

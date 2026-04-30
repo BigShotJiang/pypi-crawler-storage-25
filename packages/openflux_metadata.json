@@ -1,11 +1,11 @@
 {
   "name": "openflux",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "Open standard for AI agent telemetry. One schema across every framework.",
   "author": "Advit Arora",
   "license": null,
   "home_page": null,
-  "download_filename": "openflux-0.3.0.tar.gz",
-  "download_time": "2026-04-11T23:38:52.618157",
+  "download_filename": "openflux-0.5.0.tar.gz",
+  "download_time": "2026-04-30T15:31:32.534495",
   "package_url": "https://pypi.org/project/openflux/"
 }

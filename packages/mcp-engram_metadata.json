@@ -1,0 +1,11 @@
+{
+  "name": "mcp-engram",
+  "version": "0.4.5",
+  "summary": "Every thought leaves a trace — persistent memory service for AI Agents (MCP + HTTP/REST) with Ebbinghaus decay, vector search, and graph expansion",
+  "author": "hugfeature",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_engram-0.4.5.tar.gz",
+  "download_time": "2026-04-30T15:31:43.276812",
+  "package_url": "https://pypi.org/project/mcp-engram/"
+}

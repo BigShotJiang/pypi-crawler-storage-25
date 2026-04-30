@@ -1,0 +1,11 @@
+{
+  "name": "loom-agent",
+  "version": "0.8.2",
+  "summary": "Python agent runtime framework — context management, multi-agent orchestration, and self-improvement for autonomous AI agents",
+  "author": "kongusen",
+  "license": "Apache-2.0 with Commons Clause",
+  "home_page": null,
+  "download_filename": "loom_agent-0.8.2.tar.gz",
+  "download_time": "2026-04-30T15:31:41.133191",
+  "package_url": "https://pypi.org/project/loom-agent/"
+}

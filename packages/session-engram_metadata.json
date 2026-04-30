@@ -1,0 +1,11 @@
+{
+  "name": "session-engram",
+  "version": "1.0.0",
+  "summary": "Cross-session memory system for AI coding assistants. Persists conversation context, task progress, and reusable experiences across sessions via Markdown files. Features Hook-powered auto-recall, interactive knowledge graph visualization, chronological timeline, and global experience library. Supports Claude Code, Cursor, and OpenCode.",
+  "author": "Session-Engram Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "session_engram-1.0.0.tar.gz",
+  "download_time": "2026-04-30T15:31:44.881367",
+  "package_url": "https://pypi.org/project/session-engram/"
+}
