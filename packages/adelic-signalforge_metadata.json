@@ -1,11 +1,11 @@
 {
   "name": "adelic-signalforge",
-  "version": "0.3.1",
+  "version": "0.4.2",
   "summary": "Multiscale signal analysis on a normalized scale space",
   "author": null,
   "license": "BUSL-1.1",
   "home_page": null,
-  "download_filename": "adelic_signalforge-0.3.1-py3-none-any.whl",
-  "download_time": "2026-04-05T19:36:17.179722",
+  "download_filename": "adelic_signalforge-0.4.2-py3-none-any.whl",
+  "download_time": "2026-04-30T22:12:56.669924",
   "package_url": "https://pypi.org/project/adelic-signalforge/"
 }

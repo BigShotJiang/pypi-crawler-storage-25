@@ -1,0 +1,11 @@
+{
+  "name": "agentmesh_primitives",
+  "version": "3.3.0",
+  "summary": "Shared primitive data models for Agent OS - failure types, severity levels, and base structures",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentmesh_primitives-3.3.0.tar.gz",
+  "download_time": "2026-04-30T22:13:04.141025",
+  "package_url": "https://pypi.org/project/agentmesh_primitives/"
+}

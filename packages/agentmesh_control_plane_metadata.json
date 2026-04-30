@@ -1,0 +1,11 @@
+{
+  "name": "agentmesh_control_plane",
+  "version": "3.3.0",
+  "summary": "Layer 3: The Framework - A deterministic kernel for zero-violation governance in agentic AI systems with POSIX-style signals, VFS, and kernel/user space separation",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": "https://github.com/microsoft/agent-governance-toolkit",
+  "download_filename": "agentmesh_control_plane-3.3.0.tar.gz",
+  "download_time": "2026-04-30T22:13:08.114273",
+  "package_url": "https://pypi.org/project/agentmesh_control_plane/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agentmesh-tool-registry",
+  "version": "3.3.0",
+  "summary": "A decentralized marketplace for agent capabilities - The Hands of AI Agents",
+  "author": "Agent Tool Registry Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/microsoft/agent-governance-toolkit",
+  "download_filename": "agentmesh_tool_registry-3.3.0.tar.gz",
+  "download_time": "2026-04-30T22:13:05.866352",
+  "package_url": "https://pypi.org/project/agentmesh-tool-registry/"
+}

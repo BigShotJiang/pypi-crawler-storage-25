@@ -1,11 +1,11 @@
 {
   "name": "ciguard",
-  "version": "0.8.2",
+  "version": "0.10.0",
   "summary": "Static security auditor for CI/CD pipelines — now with a Model Context Protocol server (`pip install 'ciguard[mcp]'`) exposing scan / scan_repo / explain_rule / diff_baseline / list_rules to Claude Desktop / Claude Code / Cursor. Plus .ciguardignore rationale-required suppression, baseline / delta reports, EOL-aware image checks, GitHub Actions CVE lookups across GitLab CI, GitHub Actions, and Jenkins Pipelines. Pre-commit hook + CIGUARD_MCP_DISABLED enterprise gate.",
   "author": "Jo-Jo98",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ciguard-0.8.2.tar.gz",
-  "download_time": "2026-04-26T23:15:20.495878",
+  "download_filename": "ciguard-0.10.0.tar.gz",
+  "download_time": "2026-04-30T22:13:16.912577",
   "package_url": "https://pypi.org/project/ciguard/"
 }

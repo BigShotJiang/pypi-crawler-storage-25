@@ -1,11 +1,11 @@
 {
   "name": "cyrapeft",
-  "version": "0.1.32",
+  "version": "0.1.34",
   "summary": "Cybernetic Regulatory Adaptive PEFT (CyraPEFT) - Difficulty-Aware Control Systems for LoRA",
   "author": "Shrey",
   "license": null,
   "home_page": null,
-  "download_filename": "cyrapeft-0.1.32.tar.gz",
-  "download_time": "2026-04-30T18:25:35.329882",
+  "download_filename": "cyrapeft-0.1.34.tar.gz",
+  "download_time": "2026-04-30T22:12:56.136064",
   "package_url": "https://pypi.org/project/cyrapeft/"
 }

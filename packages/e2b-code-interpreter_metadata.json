@@ -1,0 +1,11 @@
+{
+  "name": "e2b-code-interpreter",
+  "version": "2.6.2",
+  "summary": "E2B Code Interpreter - Stateful code execution",
+  "author": "e2b",
+  "license": "MIT",
+  "home_page": "https://e2b.dev/",
+  "download_filename": "e2b_code_interpreter-2.6.2.tar.gz",
+  "download_time": "2026-04-30T22:13:01.827618",
+  "package_url": "https://pypi.org/project/e2b-code-interpreter/"
+}

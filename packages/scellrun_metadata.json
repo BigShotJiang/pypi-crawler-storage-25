@@ -1,11 +1,11 @@
 {
   "name": "scellrun",
-  "version": "0.3.0",
+  "version": "1.1.0",
   "summary": "Opinionated, report-first CLI for single-cell and multi-omics analysis. Sane defaults baked in, defensible deliverables out.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scellrun-0.3.0.tar.gz",
-  "download_time": "2026-04-30T11:28:43.075388",
+  "download_filename": "scellrun-1.1.0.tar.gz",
+  "download_time": "2026-04-30T22:12:52.072787",
   "package_url": "https://pypi.org/project/scellrun/"
 }
