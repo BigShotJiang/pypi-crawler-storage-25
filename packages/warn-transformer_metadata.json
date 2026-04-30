@@ -1,11 +1,11 @@
 {
   "name": "warn-transformer",
-  "version": "1.3.358",
+  "version": "1.3.361",
   "summary": "Consolidate, enrich and analyze the data gathered by warn-scraper",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "warn_transformer-1.3.358-py3-none-any.whl",
-  "download_time": "2026-04-21T15:49:45.892364",
+  "download_filename": "warn_transformer-1.3.361-py3-none-any.whl",
+  "download_time": "2026-04-30T23:19:25.944020",
   "package_url": "https://pypi.org/project/warn-transformer/"
 }

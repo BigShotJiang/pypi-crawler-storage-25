@@ -1,11 +1,11 @@
 {
   "name": "microsoft-teams-api",
-  "version": "2.0.0a49",
+  "version": "2.0.0",
   "summary": "API package for Microsoft Teams",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "microsoft_teams_api-2.0.0a49.tar.gz",
-  "download_time": "2026-04-09T23:57:52.773618",
+  "download_filename": "microsoft_teams_api-2.0.0.tar.gz",
+  "download_time": "2026-04-30T23:18:55.948776",
   "package_url": "https://pypi.org/project/microsoft-teams-api/"
 }

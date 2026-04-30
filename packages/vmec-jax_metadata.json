@@ -1,0 +1,11 @@
+{
+  "name": "vmec-jax",
+  "version": "0.0.4",
+  "summary": "End-to-end differentiable JAX implementation of VMEC2000 for fixed and free-boundary equilibria.",
+  "author": "vmec_jax contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vmec_jax-0.0.4.tar.gz",
+  "download_time": "2026-04-30T23:19:21.854314",
+  "package_url": "https://pypi.org/project/vmec-jax/"
+}

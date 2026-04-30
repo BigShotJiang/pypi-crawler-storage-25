@@ -1,11 +1,11 @@
 {
   "name": "langchain-velesdb",
-  "version": "1.14.0",
+  "version": "1.14.1",
   "summary": "LangChain VectorStore for VelesDB: The Local AI Memory Database. Microsecond RAG retrieval.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_velesdb-1.14.0.tar.gz",
-  "download_time": "2026-04-30T20:00:26.634159",
+  "download_filename": "langchain_velesdb-1.14.1.tar.gz",
+  "download_time": "2026-04-30T23:18:58.536818",
   "package_url": "https://pypi.org/project/langchain-velesdb/"
 }

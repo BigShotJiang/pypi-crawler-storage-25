@@ -1,0 +1,11 @@
+{
+  "name": "coffeecode-cropper",
+  "version": "1.0.0",
+  "summary": "Easy Python image thumbnail manager with on-disk cache and WebP output. Python fork of robsonvleite/cropper (PHP).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coffeecode_cropper-1.0.0.tar.gz",
+  "download_time": "2026-04-30T23:18:57.496918",
+  "package_url": "https://pypi.org/project/coffeecode-cropper/"
+}

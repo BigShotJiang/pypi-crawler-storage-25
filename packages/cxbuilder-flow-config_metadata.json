@@ -1,0 +1,11 @@
+{
+  "name": "cxbuilder-flow-config",
+  "version": "2.3.0",
+  "summary": "Amazon Connect third-party app for configuring variables and prompts in Connect contact flows",
+  "author": "CXBuilder<ivan@cxbuilder.ai>",
+  "license": "MIT",
+  "home_page": "https://github.com/cxbuilder/flow-config#readme",
+  "download_filename": "cxbuilder_flow_config-2.3.0.tar.gz",
+  "download_time": "2026-04-30T23:18:38.085846",
+  "package_url": "https://pypi.org/project/cxbuilder-flow-config/"
+}

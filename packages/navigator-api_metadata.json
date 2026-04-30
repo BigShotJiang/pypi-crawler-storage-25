@@ -1,11 +1,11 @@
 {
   "name": "navigator-api",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "summary": "Navigator: a batteries-included Web Framework based on aiohttp",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "navigator_api-3.0.2.tar.gz",
-  "download_time": "2026-04-29T21:32:25.727063",
+  "download_filename": "navigator_api-3.0.3.tar.gz",
+  "download_time": "2026-04-30T23:18:40.840000",
   "package_url": "https://pypi.org/project/navigator-api/"
 }

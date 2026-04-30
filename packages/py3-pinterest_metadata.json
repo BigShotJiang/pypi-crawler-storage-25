@@ -1,0 +1,11 @@
+{
+  "name": "py3-pinterest",
+  "version": "2.0.0",
+  "summary": "Unofficial pinterest api implemented in python 3",
+  "author": "Borislav Stoilov",
+  "license": "MIT",
+  "home_page": "https://github.com/bstoilov/py3-pinterest",
+  "download_filename": "py3_pinterest-2.0.0.tar.gz",
+  "download_time": "2026-04-30T23:19:11.258177",
+  "package_url": "https://pypi.org/project/py3-pinterest/"
+}
