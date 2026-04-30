@@ -1,11 +1,11 @@
 {
   "name": "pdfmux",
-  "version": "1.5.2",
+  "version": "1.6.0",
   "summary": "Self-healing PDF extraction for RAG. Per-page confidence scoring, auto re-extracts bad pages, MCP server, LangChain/LlamaIndex loaders. LlamaParse alternative, #2 on opendataloader-bench.",
   "author": "Nameet Potnis",
   "license": null,
   "home_page": null,
-  "download_filename": "pdfmux-1.5.2.tar.gz",
-  "download_time": "2026-04-25T19:20:08.749678",
+  "download_filename": "pdfmux-1.6.0.tar.gz",
+  "download_time": "2026-04-30T20:00:10.867565",
   "package_url": "https://pypi.org/project/pdfmux/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "kim-tools",
-  "version": "0.4.8",
+  "version": "0.4.11",
   "summary": "Base classes and helper routines for writing KIM Tests",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kim_tools-0.4.8.tar.gz",
-  "download_time": "2026-04-04T17:17:51.166015",
+  "download_filename": "kim_tools-0.4.11.tar.gz",
+  "download_time": "2026-04-30T20:00:02.778212",
   "package_url": "https://pypi.org/project/kim-tools/"
 }

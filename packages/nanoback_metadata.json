@@ -1,11 +1,11 @@
 {
   "name": "nanoback",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "summary": "C++20 event-driven trading backtester with Python bindings, snapshots, audit ledger, and microstructure-aware execution.",
   "author": "Tapesh Chandra Das",
   "license": null,
   "home_page": null,
-  "download_filename": "nanoback-0.3.0.tar.gz",
-  "download_time": "2026-04-28T17:42:59.681633",
+  "download_filename": "nanoback-0.4.1.tar.gz",
+  "download_time": "2026-04-30T20:00:03.364450",
   "package_url": "https://pypi.org/project/nanoback/"
 }

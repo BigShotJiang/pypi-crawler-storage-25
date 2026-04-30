@@ -1,11 +1,11 @@
 {
   "name": "mcp-veo",
-  "version": "2026.4.8.0",
+  "version": "2026.4.30.0",
   "summary": "MCP Server for Veo AI Video Generation via AceDataCloud API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_veo-2026.4.8.0.tar.gz",
-  "download_time": "2026-04-08T14:06:32.805847",
+  "download_filename": "mcp_veo-2026.4.30.0.tar.gz",
+  "download_time": "2026-04-30T19:59:46.253358",
   "package_url": "https://pypi.org/project/mcp-veo/"
 }

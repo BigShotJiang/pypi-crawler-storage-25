@@ -1,0 +1,11 @@
+{
+  "name": "syrag",
+  "version": "0.1.0",
+  "summary": "Production-oriented Python framework for building RAG services on top of FastAPI.",
+  "author": "A. Marzoug",
+  "license": null,
+  "home_page": null,
+  "download_filename": "syrag-0.1.0.tar.gz",
+  "download_time": "2026-04-30T20:00:27.163750",
+  "package_url": "https://pypi.org/project/syrag/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcp-sora",
-  "version": "2026.4.8.0",
+  "version": "2026.4.30.0",
   "summary": "MCP Server for Sora AI Video Generation via AceDataCloud API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_sora-2026.4.8.0.tar.gz",
-  "download_time": "2026-04-08T14:06:31.775824",
+  "download_filename": "mcp_sora-2026.4.30.0.tar.gz",
+  "download_time": "2026-04-30T19:59:53.659163",
   "package_url": "https://pypi.org/project/mcp-sora/"
 }

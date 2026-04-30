@@ -1,11 +1,11 @@
 {
   "name": "intent-bus",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "summary": "Python SDK for Intent Bus — a dead-simple distributed job bus",
   "author": "dsecurity49",
   "license": null,
   "home_page": "https://github.com/dsecurity49/Intent-Bus",
-  "download_filename": "intent_bus-1.0.1.tar.gz",
-  "download_time": "2026-04-29T18:56:51.566813",
+  "download_filename": "intent_bus-1.1.1.tar.gz",
+  "download_time": "2026-04-30T20:00:29.762726",
   "package_url": "https://pypi.org/project/intent-bus/"
 }
