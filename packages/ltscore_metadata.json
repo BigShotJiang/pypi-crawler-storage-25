@@ -1,0 +1,11 @@
+{
+  "name": "ltscore",
+  "version": "1.0.1",
+  "summary": "A multilingual grammaticality util based on LanguageTool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ltscore-1.0.1.tar.gz",
+  "download_time": "2026-04-30T17:05:56.139508",
+  "package_url": "https://pypi.org/project/ltscore/"
+}

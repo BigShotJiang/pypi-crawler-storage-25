@@ -1,0 +1,11 @@
+{
+  "name": "cognicore-env",
+  "version": "0.4.0",
+  "summary": "Unit testing for AI agents — Memory, Reflection, and Structured Rewards built into every environment.",
+  "author": "CogniCore Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cognicore_env-0.4.0.tar.gz",
+  "download_time": "2026-04-30T17:05:49.412009",
+  "package_url": "https://pypi.org/project/cognicore-env/"
+}

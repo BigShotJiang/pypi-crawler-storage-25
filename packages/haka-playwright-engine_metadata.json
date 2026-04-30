@@ -1,11 +1,11 @@
 {
   "name": "haka-playwright-engine",
-  "version": "1.3.108",
+  "version": "1.3.110",
   "summary": "Framework completo de pruebas funcionales con Playwright y Behave",
   "author": "Felipe Farias",
   "license": "MIT",
   "home_page": "https://github.com/pipefariashaka/haka-playwright-engine",
-  "download_filename": "haka_playwright_engine-1.3.108.tar.gz",
-  "download_time": "2026-04-30T05:03:44.034788",
+  "download_filename": "haka_playwright_engine-1.3.110.tar.gz",
+  "download_time": "2026-04-30T17:05:37.484088",
   "package_url": "https://pypi.org/project/haka-playwright-engine/"
 }

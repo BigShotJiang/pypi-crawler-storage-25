@@ -1,11 +1,11 @@
 {
   "name": "autoclaude-cli",
-  "version": "2.5.7",
+  "version": "2.5.10",
   "summary": "Local runner for AutoClaude. Executes orchestration plans with your Claude Max/Pro subscription.",
   "author": "Grezy Software",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "autoclaude_cli-2.5.7.tar.gz",
-  "download_time": "2026-04-30T15:31:05.142022",
+  "download_filename": "autoclaude_cli-2.5.10.tar.gz",
+  "download_time": "2026-04-30T17:05:44.743224",
   "package_url": "https://pypi.org/project/autoclaude-cli/"
 }

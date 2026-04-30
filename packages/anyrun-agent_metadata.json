@@ -1,0 +1,11 @@
+{
+  "name": "anyrun-agent",
+  "version": "1.0.2",
+  "summary": "Self-evolving execution engine for AI Agents — Docker sandbox + full observability + pattern discovery + autonomous skill evolution",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "anyrun_agent-1.0.2.tar.gz",
+  "download_time": "2026-04-30T17:05:24.973163",
+  "package_url": "https://pypi.org/project/anyrun-agent/"
+}

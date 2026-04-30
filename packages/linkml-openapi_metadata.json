@@ -1,11 +1,11 @@
 {
   "name": "linkml-openapi",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Generate OpenAPI 3.1 specifications from LinkML schemas",
   "author": "Jack Higgs",
   "license": null,
   "home_page": null,
-  "download_filename": "linkml_openapi-0.8.0.tar.gz",
-  "download_time": "2026-04-30T15:31:00.346288",
+  "download_filename": "linkml_openapi-0.8.1.tar.gz",
+  "download_time": "2026-04-30T17:05:23.385679",
   "package_url": "https://pypi.org/project/linkml-openapi/"
 }

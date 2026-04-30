@@ -1,0 +1,11 @@
+{
+  "name": "piilot-sdk",
+  "version": "0.6.0",
+  "summary": "Piilot plugin SDK — public primitives (connectors, tools, modules, agents, HTTP, DB, scheduler, cache, storage, access, knowledge) for building Piilot plugins.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "piilot_sdk-0.6.0.tar.gz",
+  "download_time": "2026-04-30T17:06:03.936991",
+  "package_url": "https://pypi.org/project/piilot-sdk/"
+}

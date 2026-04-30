@@ -1,0 +1,11 @@
+{
+  "name": "svmodule",
+  "version": "1.3.0",
+  "summary": "[System]Verilog Module I/O parser and printer",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "svmodule-1.3.0.tar.gz",
+  "download_time": "2026-04-30T17:05:52.537701",
+  "package_url": "https://pypi.org/project/svmodule/"
+}

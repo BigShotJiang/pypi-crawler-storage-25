@@ -1,0 +1,11 @@
+{
+  "name": "scitex-decorators",
+  "version": "0.1.8",
+  "summary": "Decorator library: numpy_fn/torch_fn/pandas_fn/xarray_fn/signal_fn type converters, caching, batching, deprecation — standalone module from the SciTeX ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scitex_decorators-0.1.8.tar.gz",
+  "download_time": "2026-04-30T17:05:29.649312",
+  "package_url": "https://pypi.org/project/scitex-decorators/"
+}

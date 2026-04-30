@@ -1,0 +1,11 @@
+{
+  "name": "piilot-pack-supabase",
+  "version": "0.1.2",
+  "summary": "Supabase connector — schema-aware integration with multi-account support. Read-only access via dedicated PG user, no data mirror, sqlglot validation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "piilot_pack_supabase-0.1.2.tar.gz",
+  "download_time": "2026-04-30T17:05:28.092413",
+  "package_url": "https://pypi.org/project/piilot-pack-supabase/"
+}
