@@ -1,0 +1,11 @@
+{
+  "name": "llmdoctor",
+  "version": "0.2.2",
+  "summary": "Find LLM cost leaks before your bill does. Static analysis for Anthropic and OpenAI client code.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmdoctor-0.2.2.tar.gz",
+  "download_time": "2026-04-30T11:28:45.153254",
+  "package_url": "https://pypi.org/project/llmdoctor/"
+}

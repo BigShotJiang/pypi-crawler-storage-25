@@ -1,0 +1,11 @@
+{
+  "name": "highflame-taxonomy",
+  "version": "1.1.10",
+  "summary": "Unified vulnerability taxonomy with multi-framework compliance mappings (MITRE ATLAS, OWASP, NIST, EU AI Act, CWE)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "highflame_taxonomy-1.1.10.tar.gz",
+  "download_time": "2026-04-30T11:28:15.272877",
+  "package_url": "https://pypi.org/project/highflame-taxonomy/"
+}

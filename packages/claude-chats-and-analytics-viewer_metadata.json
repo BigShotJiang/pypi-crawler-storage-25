@@ -1,11 +1,11 @@
 {
   "name": "claude-chats-and-analytics-viewer",
-  "version": "2.0.0",
+  "version": "2.0.3",
   "summary": "Browse, search, and resume your Claude Code conversations -- from the browser or the terminal.",
   "author": "Ansh Singh Rajput",
   "license": null,
-  "home_page": "https://github.com/AnshRajput/Claude-Conversation-viewer",
-  "download_filename": "claude_chats_and_analytics_viewer-2.0.0.tar.gz",
-  "download_time": "2026-04-30T09:43:19.400676",
+  "home_page": "https://github.com/AnshRajput/claude-chats-and-analytics-viewer",
+  "download_filename": "claude_chats_and_analytics_viewer-2.0.3.tar.gz",
+  "download_time": "2026-04-30T11:28:24.723057",
   "package_url": "https://pypi.org/project/claude-chats-and-analytics-viewer/"
 }

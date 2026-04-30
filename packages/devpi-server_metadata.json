@@ -1,0 +1,11 @@
+{
+  "name": "devpi-server",
+  "version": "6.20.0",
+  "summary": "devpi-server: backend for hosting private package indexes and PyPI on-demand mirrors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "devpi_server-6.20.0.tar.gz",
+  "download_time": "2026-04-30T11:29:04.521963",
+  "package_url": "https://pypi.org/project/devpi-server/"
+}

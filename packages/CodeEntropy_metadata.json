@@ -1,0 +1,11 @@
+{
+  "name": "CodeEntropy",
+  "version": "2.2.1",
+  "summary": "CodeEntropy is a Python package for computing the configurational entropy of macromolecular systems using forces sampled from molecular dynamics (MD) simulations. It implements the multiscale cell correlation method to provide accurate and efficient entropy estimates, supporting a wide range of applications in molecular simulation and statistical mechanics.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "codeentropy-2.2.1.tar.gz",
+  "download_time": "2026-04-30T11:28:55.629721",
+  "package_url": "https://pypi.org/project/CodeEntropy/"
+}

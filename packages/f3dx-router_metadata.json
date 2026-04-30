@@ -1,0 +1,11 @@
+{
+  "name": "f3dx-router",
+  "version": "0.0.4",
+  "summary": "DEPRECATED. Consolidated into f3dx[router]. Install `f3dx` and import from `f3dx.router`.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "f3dx_router-0.0.4.tar.gz",
+  "download_time": "2026-04-30T11:28:47.754534",
+  "package_url": "https://pypi.org/project/f3dx-router/"
+}

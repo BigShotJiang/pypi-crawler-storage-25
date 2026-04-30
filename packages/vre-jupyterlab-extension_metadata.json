@@ -1,0 +1,11 @@
+{
+  "name": "vre-jupyterlab-extension",
+  "version": "0.1.2",
+  "summary": "VRE JupyterLab Extension with VRE DSL highlighting and notebook execution guard",
+  "author": "VRE Team",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/officiallygod/vre-jupyterlab-extension",
+  "download_filename": "vre_jupyterlab_extension-0.1.2.tar.gz",
+  "download_time": "2026-04-30T11:29:01.349134",
+  "package_url": "https://pypi.org/project/vre-jupyterlab-extension/"
+}

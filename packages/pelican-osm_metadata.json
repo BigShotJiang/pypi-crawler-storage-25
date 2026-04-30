@@ -1,11 +1,11 @@
 {
   "name": "pelican-osm",
-  "version": "0.7.0",
+  "version": "0.11.0",
   "summary": "Pelican plugin to embed OpenStreetMap maps in Markdown articles using a {% place %} shortcode.",
   "author": "Wei Lee",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pelican_osm-0.7.0.tar.gz",
-  "download_time": "2026-04-25T08:00:02.511126",
+  "download_filename": "pelican_osm-0.11.0.tar.gz",
+  "download_time": "2026-04-30T11:29:00.829365",
   "package_url": "https://pypi.org/project/pelican-osm/"
 }

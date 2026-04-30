@@ -1,0 +1,11 @@
+{
+  "name": "ramodels",
+  "version": "50.12.1",
+  "summary": "Pydantic data models for OS2mo",
+  "author": "Magenta",
+  "license": "MPL-2.0",
+  "home_page": "https://magenta.dk/",
+  "download_filename": "ramodels-50.12.1.tar.gz",
+  "download_time": "2026-04-30T11:28:18.964716",
+  "package_url": "https://pypi.org/project/ramodels/"
+}

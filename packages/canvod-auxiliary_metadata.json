@@ -1,0 +1,11 @@
+{
+  "name": "canvod-auxiliary",
+  "version": "0.2.3",
+  "summary": "Ephemeris and auxiliary data handling for GNSS-Transmissometry",
+  "author": "Nicolas François Bader",
+  "license": null,
+  "home_page": null,
+  "download_filename": "canvod_auxiliary-0.2.3.tar.gz",
+  "download_time": "2026-04-30T11:28:31.996551",
+  "package_url": "https://pypi.org/project/canvod-auxiliary/"
+}

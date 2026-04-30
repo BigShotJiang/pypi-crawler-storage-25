@@ -1,0 +1,11 @@
+{
+  "name": "luaskills-sdk",
+  "version": "0.2.6",
+  "summary": "Python SDK for integrating the LuaSkills runtime through the public JSON FFI surface.",
+  "author": "LuaSkills",
+  "license": null,
+  "home_page": null,
+  "download_filename": "luaskills_sdk-0.2.6.tar.gz",
+  "download_time": "2026-04-30T11:28:46.201213",
+  "package_url": "https://pypi.org/project/luaskills-sdk/"
+}

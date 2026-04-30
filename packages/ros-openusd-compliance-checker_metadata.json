@@ -1,0 +1,11 @@
+{
+  "name": "ros-openusd-compliance-checker",
+  "version": "0.1.0",
+  "summary": "Package for validating OpenUSD assets against the REP-0158 interoperability standard.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros_openusd_compliance_checker-0.1.0.tar.gz",
+  "download_time": "2026-04-30T11:28:22.610447",
+  "package_url": "https://pypi.org/project/ros-openusd-compliance-checker/"
+}

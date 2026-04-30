@@ -1,0 +1,11 @@
+{
+  "name": "fie-sdk",
+  "version": "1.2.0",
+  "summary": "Monitor, diagnose, and auto-correct LLM failures — with XGBoost failure classification, question-type routing, auto-calibrating thresholds, Wikidata/Serper ground truth, and production analytics",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fie_sdk-1.2.0-py3-none-any.whl",
+  "download_time": "2026-04-30T11:28:58.229810",
+  "package_url": "https://pypi.org/project/fie-sdk/"
+}
