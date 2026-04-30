@@ -1,11 +1,11 @@
 {
   "name": "agi-node",
-  "version": "2026.4.30.post3",
+  "version": "2026.4.30.post4",
   "summary": "Distributed worker orchestration and execution support library for AGILAB",
   "author": "Jean-Pierre Morard",
   "license": null,
   "home_page": null,
-  "download_filename": "agi_node-2026.4.30.post3.tar.gz",
-  "download_time": "2026-04-30T09:43:05.927938",
+  "download_filename": "agi_node-2026.4.30.post4.tar.gz",
+  "download_time": "2026-04-30T21:08:49.558070",
   "package_url": "https://pypi.org/project/agi-node/"
 }

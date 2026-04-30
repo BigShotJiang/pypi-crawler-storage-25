@@ -1,0 +1,11 @@
+{
+  "name": "mssql-backups",
+  "version": "1.2.0",
+  "summary": "Aplicación de consola para restuarar base de datos en SQL Server indicando una carpeta con un listado de archivos de backup",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mssql_backups-1.2.0.tar.gz",
+  "download_time": "2026-04-30T21:08:36.693853",
+  "package_url": "https://pypi.org/project/mssql-backups/"
+}

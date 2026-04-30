@@ -1,0 +1,11 @@
+{
+  "name": "corva-otel-semconv",
+  "version": "0.2.1",
+  "summary": "OpenTelemetry semantic conventions for Python at corva.ai",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "corva_otel_semconv-0.2.1.tar.gz",
+  "download_time": "2026-04-30T21:08:34.161116",
+  "package_url": "https://pypi.org/project/corva-otel-semconv/"
+}

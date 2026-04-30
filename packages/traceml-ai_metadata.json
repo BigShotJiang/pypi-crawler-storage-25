@@ -1,11 +1,11 @@
 {
   "name": "traceml-ai",
-  "version": "0.2.8",
-  "summary": "TraceML: Lightweight training runtime health monitor.",
+  "version": "0.2.13",
+  "summary": "TraceML: Lightweight runtime bottleneck diagnostics for PyTorch training.",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "traceml_ai-0.2.8.tar.gz",
-  "download_time": "2026-04-13T21:14:02.297204",
+  "download_filename": "traceml_ai-0.2.13.tar.gz",
+  "download_time": "2026-04-30T21:09:04.369247",
   "package_url": "https://pypi.org/project/traceml-ai/"
 }

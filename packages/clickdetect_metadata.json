@@ -1,11 +1,11 @@
 {
   "name": "clickdetect",
-  "version": "1.10.0",
+  "version": "1.11.2",
   "summary": "Generic SIEM engine detector",
   "author": "Vinicius Morais",
   "license": null,
   "home_page": null,
-  "download_filename": "clickdetect-1.10.0.tar.gz",
-  "download_time": "2026-04-29T01:34:04.425231",
+  "download_filename": "clickdetect-1.11.2.tar.gz",
+  "download_time": "2026-04-30T21:08:59.378346",
   "package_url": "https://pypi.org/project/clickdetect/"
 }

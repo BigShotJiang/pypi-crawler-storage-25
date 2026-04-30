@@ -1,0 +1,11 @@
+{
+  "name": "semaphore-mcp",
+  "version": "1.0.3",
+  "summary": "Model Context Protocol (MCP) server for SemaphoreUI automation",
+  "author": "Colin McNaughton",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "semaphore_mcp-1.0.3.tar.gz",
+  "download_time": "2026-04-30T21:08:43.643732",
+  "package_url": "https://pypi.org/project/semaphore-mcp/"
+}

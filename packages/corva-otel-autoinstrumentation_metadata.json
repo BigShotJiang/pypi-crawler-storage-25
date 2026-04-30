@@ -1,0 +1,11 @@
+{
+  "name": "corva-otel-autoinstrumentation",
+  "version": "0.4.2",
+  "summary": "OpenTelemetry autoinstrumentation for Python at corva.ai",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "corva_otel_autoinstrumentation-0.4.2.tar.gz",
+  "download_time": "2026-04-30T21:08:33.026266",
+  "package_url": "https://pypi.org/project/corva-otel-autoinstrumentation/"
+}

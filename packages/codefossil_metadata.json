@@ -1,0 +1,11 @@
+{
+  "name": "codefossil",
+  "version": "0.1.1",
+  "summary": "Production-ready CLI to detect stale npm dependencies, score risk, and provide migration guidance.",
+  "author": "CodeFossil Maintainers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codefossil-0.1.1.tar.gz",
+  "download_time": "2026-04-30T21:08:27.783162",
+  "package_url": "https://pypi.org/project/codefossil/"
+}

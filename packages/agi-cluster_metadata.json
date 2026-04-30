@@ -1,11 +1,11 @@
 {
   "name": "agi-cluster",
-  "version": "2026.4.30.post3",
+  "version": "2026.4.30.post4",
   "summary": "Distributed cluster orchestration layer for AGILAB workers over local and SSH backends",
   "author": "Jean-Pierre Morard",
   "license": null,
   "home_page": null,
-  "download_filename": "agi_cluster-2026.4.30.post3.tar.gz",
-  "download_time": "2026-04-30T09:43:05.400466",
+  "download_filename": "agi_cluster-2026.4.30.post4.tar.gz",
+  "download_time": "2026-04-30T21:08:48.456781",
   "package_url": "https://pypi.org/project/agi-cluster/"
 }

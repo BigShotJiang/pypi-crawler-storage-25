@@ -1,11 +1,11 @@
 {
   "name": "gitputra",
-  "version": "0.2.5",
+  "version": "0.2.9",
   "summary": "AI-powered GitHub repo analyzer CLI — analyze, chat, and visualize any codebase. Run 'gitputra info' to see all commands and features.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gitputra-0.2.5.tar.gz",
-  "download_time": "2026-04-25T17:37:09.704085",
+  "download_filename": "gitputra-0.2.9.tar.gz",
+  "download_time": "2026-04-30T21:08:40.164282",
   "package_url": "https://pypi.org/project/gitputra/"
 }

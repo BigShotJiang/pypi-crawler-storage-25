@@ -1,0 +1,11 @@
+{
+  "name": "picohost",
+  "version": "3.1.0",
+  "summary": "Host control and management tools for Raspberry Pi Pico devices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "picohost-3.1.0.tar.gz",
+  "download_time": "2026-04-30T21:08:53.508487",
+  "package_url": "https://pypi.org/project/picohost/"
+}

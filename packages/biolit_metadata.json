@@ -1,0 +1,11 @@
+{
+  "name": "biolit",
+  "version": "0.1.27",
+  "summary": "LLM-assisted biomedical literature screening and structured extraction for PubMed and GEO.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "biolit-0.1.27.tar.gz",
+  "download_time": "2026-04-30T21:08:41.909578",
+  "package_url": "https://pypi.org/project/biolit/"
+}

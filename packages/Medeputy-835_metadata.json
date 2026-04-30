@@ -1,11 +1,11 @@
 {
   "name": "Medeputy-835",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "summary": "A small package that breaks down X12 files into segments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "medeputy_835-0.0.1.tar.gz",
-  "download_time": "2026-04-13T18:50:18.475853",
+  "download_filename": "medeputy_835-0.1.1.tar.gz",
+  "download_time": "2026-04-30T21:08:59.956752",
   "package_url": "https://pypi.org/project/Medeputy-835/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "haxaml",
-  "version": "0.4.2",
+  "version": "0.5.1",
   "summary": "Deterministic agent-management framework that implements FRAME governance for AI-assisted software development.",
   "author": "Hax",
   "license": null,
   "home_page": null,
-  "download_filename": "haxaml-0.4.2.tar.gz",
-  "download_time": "2026-04-28T20:49:43.761447",
+  "download_filename": "haxaml-0.5.1.tar.gz",
+  "download_time": "2026-04-30T21:08:39.583209",
   "package_url": "https://pypi.org/project/haxaml/"
 }

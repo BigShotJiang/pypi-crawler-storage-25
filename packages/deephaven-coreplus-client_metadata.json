@@ -1,0 +1,11 @@
+{
+  "name": "deephaven-coreplus-client",
+  "version": "2026.1.30",
+  "summary": "The Deephaven Enterprise Core+ Python Client",
+  "author": "Deephaven Data Labs",
+  "license": "Deephaven Enterprise License Agreement",
+  "home_page": "https://deephaven.io/",
+  "download_filename": "deephaven_coreplus_client-2026.1.30.tar.gz",
+  "download_time": "2026-04-30T21:09:02.733963",
+  "package_url": "https://pypi.org/project/deephaven-coreplus-client/"
+}
