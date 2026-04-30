@@ -1,11 +1,11 @@
 {
   "name": "lukuid-sdk",
-  "version": "1.0.6",
+  "version": "1.0.14",
   "summary": "Python .luku archive support for the LukuID SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lukuid_sdk-1.0.6.tar.gz",
-  "download_time": "2026-04-29T01:34:12.245842",
+  "download_filename": "lukuid_sdk-1.0.14.tar.gz",
+  "download_time": "2026-04-30T05:03:18.742042",
   "package_url": "https://pypi.org/project/lukuid-sdk/"
 }

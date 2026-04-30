@@ -1,0 +1,11 @@
+{
+  "name": "cams-jenkins-mcp",
+  "version": "0.1.9",
+  "summary": "MCP server for managing Jenkins operations",
+  "author": "Kristof Jozsa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cams_jenkins_mcp-0.1.9.tar.gz",
+  "download_time": "2026-04-30T05:03:25.983568",
+  "package_url": "https://pypi.org/project/cams-jenkins-mcp/"
+}

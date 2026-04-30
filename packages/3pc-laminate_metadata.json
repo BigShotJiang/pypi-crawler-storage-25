@@ -1,0 +1,11 @@
+{
+  "name": "3pc-laminate",
+  "version": "1.0.0",
+  "summary": "A 3pc Python library used to define a composite laminate and compute its properties based on classical lamination theory.",
+  "author": "Omprakash Seresta",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "3pc_laminate-1.0.0.tar.gz",
+  "download_time": "2026-04-30T05:03:31.630025",
+  "package_url": "https://pypi.org/project/3pc-laminate/"
+}

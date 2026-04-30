@@ -1,0 +1,11 @@
+{
+  "name": "mitdx",
+  "version": "1.1.3",
+  "summary": "通达信数据高性能读取接口 (Rust + Python)",
+  "author": "mitdx contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mitdx-1.1.3.tar.gz",
+  "download_time": "2026-04-30T05:03:49.196586",
+  "package_url": "https://pypi.org/project/mitdx/"
+}

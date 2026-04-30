@@ -1,11 +1,11 @@
 {
   "name": "webgpu-inspector-cli",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "CLI + MCP server for WebGPU Inspector — debug WebGPU applications from the command line or any MCP-capable LLM client",
   "author": "Arvind Sekar",
   "license": null,
   "home_page": null,
-  "download_filename": "webgpu_inspector_cli-0.2.3-py3-none-any.whl",
-  "download_time": "2026-04-29T21:32:17.824914",
+  "download_filename": "webgpu_inspector_cli-0.3.0.tar.gz",
+  "download_time": "2026-04-30T05:03:24.450561",
   "package_url": "https://pypi.org/project/webgpu-inspector-cli/"
 }

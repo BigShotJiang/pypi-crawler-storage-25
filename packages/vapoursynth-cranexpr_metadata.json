@@ -1,11 +1,11 @@
 {
   "name": "vapoursynth-cranexpr",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "VapourSynth expr plugin built on top of Cranelift.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vapoursynth_cranexpr-0.4.0.tar.gz",
-  "download_time": "2026-04-20T21:14:00.869996",
+  "download_filename": "vapoursynth_cranexpr-0.5.0.tar.gz",
+  "download_time": "2026-04-30T05:03:16.191771",
   "package_url": "https://pypi.org/project/vapoursynth-cranexpr/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "contexara",
-  "version": "1.0.0",
-  "summary": "CLI-first memory engine for LLM applications.",
+  "version": "2.3.1",
+  "summary": "AI that forgets is just autocomplete. Contexara gives your agent a memory it can build on.",
   "author": "Contexara Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "contexara-1.0.0.tar.gz",
-  "download_time": "2026-04-23T03:54:40.756248",
+  "download_filename": "contexara-2.3.1.tar.gz",
+  "download_time": "2026-04-30T05:03:58.290245",
   "package_url": "https://pypi.org/project/contexara/"
 }

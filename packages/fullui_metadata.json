@@ -1,11 +1,11 @@
 {
   "name": "fullui",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Advanced console UI framework for Python with colors, layouts, animations, themes, developer tools and interactive menus",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fullui-0.2.1.tar.gz",
-  "download_time": "2026-04-29T21:32:59.666963",
+  "download_filename": "fullui-0.2.2.tar.gz",
+  "download_time": "2026-04-30T05:03:25.473706",
   "package_url": "https://pypi.org/project/fullui/"
 }

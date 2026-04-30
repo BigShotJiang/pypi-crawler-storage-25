@@ -1,0 +1,11 @@
+{
+  "name": "migraflow-cli",
+  "version": "1.2.2",
+  "summary": "MigraFlow CLI - Analise de migracao de schema de banco de dados com IA",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "migraflow_cli-1.2.2.tar.gz",
+  "download_time": "2026-04-30T05:03:48.656626",
+  "package_url": "https://pypi.org/project/migraflow-cli/"
+}
