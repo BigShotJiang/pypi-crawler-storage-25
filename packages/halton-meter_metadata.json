@@ -1,0 +1,11 @@
+{
+  "name": "halton-meter",
+  "version": "0.1.5",
+  "summary": "Local LLM API proxy — captures usage, attributes cost to projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "halton_meter-0.1.5.tar.gz",
+  "download_time": "2026-04-30T13:16:16.389621",
+  "package_url": "https://pypi.org/project/halton-meter/"
+}

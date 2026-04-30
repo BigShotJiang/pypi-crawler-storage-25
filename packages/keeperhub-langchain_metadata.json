@@ -1,0 +1,11 @@
+{
+  "name": "keeperhub-langchain",
+  "version": "0.2.0",
+  "summary": "LangChain toolkit for KeeperHub — reliable onchain execution, DeFi protocol actions, and AI workflow generation for any LangChain agent",
+  "author": "KeeperHub",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "keeperhub_langchain-0.2.0.tar.gz",
+  "download_time": "2026-04-30T13:16:54.390720",
+  "package_url": "https://pypi.org/project/keeperhub-langchain/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lcdlabel",
+  "version": "0.8.1",
+  "summary": "A custom PySide6 label widget that emulates the look of an LCD-display.",
+  "author": "Nita Vesa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lcdlabel-0.8.1.tar.gz",
+  "download_time": "2026-04-30T13:16:52.855135",
+  "package_url": "https://pypi.org/project/lcdlabel/"
+}

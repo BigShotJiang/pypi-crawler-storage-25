@@ -1,11 +1,11 @@
 {
   "name": "cross-ai-core",
-  "version": "0.4.2",
+  "version": "0.7.0",
   "summary": "Multi-provider AI dispatcher with response caching and error handling.",
   "author": "b202i",
   "license": null,
   "home_page": null,
-  "download_filename": "cross_ai_core-0.4.2.tar.gz",
-  "download_time": "2026-04-09T02:15:01.721085",
+  "download_filename": "cross_ai_core-0.7.0.tar.gz",
+  "download_time": "2026-04-30T13:16:12.588162",
   "package_url": "https://pypi.org/project/cross-ai-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lighthouse-fw",
+  "version": "0.1.0",
+  "summary": "Tencent Cloud Lighthouse firewall updater with CLI and TUI.",
+  "author": "deali",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lighthouse_fw-0.1.0.tar.gz",
+  "download_time": "2026-04-30T13:16:45.797076",
+  "package_url": "https://pypi.org/project/lighthouse-fw/"
+}

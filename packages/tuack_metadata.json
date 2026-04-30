@@ -1,0 +1,11 @@
+{
+  "name": "tuack",
+  "version": "0.1.5.4.2",
+  "summary": "Tools for generating an Tsinghua/OI/ICPC-styled problem or contest for multiple judges.",
+  "author": "Chenxu Min, Zhang Ruizhe, Liu Xiaoyi, Chen Junkun, Chen Shengqi, Luo Lingxiao, Cheng Yuxuan",
+  "license": "https://git.thusaac.com/publish/tuack/blob/master/LICENSE",
+  "home_page": null,
+  "download_filename": "tuack-0.1.5.4.2.tar.gz",
+  "download_time": "2026-04-30T13:16:32.274617",
+  "package_url": "https://pypi.org/project/tuack/"
+}

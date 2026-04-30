@@ -1,11 +1,11 @@
 {
   "name": "scafld",
-  "version": "1.4.3",
+  "version": "2.0.0",
   "summary": "Spec-driven development framework for AI coding agents",
   "author": "0state",
   "license": "MIT",
   "home_page": "https://0state.com/scafld",
-  "download_filename": "scafld-1.4.3.tar.gz",
-  "download_time": "2026-04-21T03:39:42.534598",
+  "download_filename": "scafld-2.0.0.tar.gz",
+  "download_time": "2026-04-30T13:16:53.367011",
   "package_url": "https://pypi.org/project/scafld/"
 }

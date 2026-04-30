@@ -1,11 +1,11 @@
 {
   "name": "ida-mcp",
-  "version": "2.1.0",
+  "version": "2.2.1",
   "summary": "Headless IDA Pro MCP server using idalib",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ida_mcp-2.1.0.tar.gz",
-  "download_time": "2026-04-19T23:05:21.903785",
+  "download_filename": "ida_mcp-2.2.1.tar.gz",
+  "download_time": "2026-04-30T13:16:10.926854",
   "package_url": "https://pypi.org/project/ida-mcp/"
 }

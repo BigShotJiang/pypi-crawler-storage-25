@@ -1,0 +1,11 @@
+{
+  "name": "fr-audio",
+  "version": "0.1.2",
+  "summary": "Provide a French infinitive verb and specify desired tense(s), the tool automatically downloads audio files for all person-specific conjugations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fr_audio-0.1.2.tar.gz",
+  "download_time": "2026-04-30T13:16:27.642688",
+  "package_url": "https://pypi.org/project/fr-audio/"
+}

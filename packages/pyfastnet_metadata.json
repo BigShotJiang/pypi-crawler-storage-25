@@ -1,0 +1,11 @@
+{
+  "name": "pyfastnet",
+  "version": "2.0.0",
+  "summary": "A Python library for decoding FastNet protocol data streams.",
+  "author": "Alex Salmon",
+  "license": null,
+  "home_page": "https://github.com/ghotihook/pyfastnet",
+  "download_filename": "pyfastnet-2.0.0.tar.gz",
+  "download_time": "2026-04-30T13:16:37.088112",
+  "package_url": "https://pypi.org/project/pyfastnet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyodide-build",
+  "version": "0.34.3",
+  "summary": "\"Tools for building Pyodide\"",
+  "author": "Pyodide developers",
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "pyodide_build-0.34.3.tar.gz",
+  "download_time": "2026-04-30T13:16:54.908708",
+  "package_url": "https://pypi.org/project/pyodide-build/"
+}

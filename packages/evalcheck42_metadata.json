@@ -1,11 +1,11 @@
 {
   "name": "evalcheck42",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "A pre-evaluation checker for 42 school projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "evalcheck42-0.5.1.tar.gz",
-  "download_time": "2026-04-29T23:39:18.505091",
+  "download_filename": "evalcheck42-0.5.2.tar.gz",
+  "download_time": "2026-04-30T13:16:33.833661",
   "package_url": "https://pypi.org/project/evalcheck42/"
 }
