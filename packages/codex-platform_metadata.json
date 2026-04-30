@@ -1,11 +1,11 @@
 {
   "name": "codex-platform",
-  "version": "0.3.0",
+  "version": "0.5.1",
   "summary": "Modular async infrastructure (Redis, Streams, ARQ, Notifications) built for Codex, designed for independent use.",
   "author": "CodexDLC",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "codex_platform-0.3.0.tar.gz",
-  "download_time": "2026-04-05T15:08:35.173656",
+  "download_filename": "codex_platform-0.5.1.tar.gz",
+  "download_time": "2026-04-30T09:43:12.719757",
   "package_url": "https://pypi.org/project/codex-platform/"
 }

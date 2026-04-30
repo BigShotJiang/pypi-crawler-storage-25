@@ -1,11 +1,11 @@
 {
   "name": "grawiki",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Graph-backed knowledge extraction and agent memory for LLM systems",
   "author": "Filip Wojcik",
   "license": null,
   "home_page": null,
-  "download_filename": "grawiki-0.1.1.tar.gz",
-  "download_time": "2026-04-26T15:11:13.560000",
+  "download_filename": "grawiki-0.1.2.tar.gz",
+  "download_time": "2026-04-30T09:43:43.608181",
   "package_url": "https://pypi.org/project/grawiki/"
 }

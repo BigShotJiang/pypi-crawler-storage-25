@@ -1,11 +1,11 @@
 {
   "name": "synthscholar",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "SynthScholar — PRISMA 2020 guided multi-agent systems for systematic literature review.",
   "author": "Tek Raj Chhetri",
   "license": null,
   "home_page": null,
-  "download_filename": "synthscholar-0.0.4.tar.gz",
-  "download_time": "2026-04-30T07:35:30.205509",
+  "download_filename": "synthscholar-0.0.6.tar.gz",
+  "download_time": "2026-04-30T09:43:26.597162",
   "package_url": "https://pypi.org/project/synthscholar/"
 }

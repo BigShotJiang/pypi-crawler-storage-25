@@ -1,11 +1,11 @@
 {
   "name": "ymcp",
-  "version": "0.2.2",
+  "version": "0.4.1",
   "summary": "Python MCP workflow tools for host-controlled planning workflows",
   "author": "Ymcp contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "ymcp-0.2.2.tar.gz",
-  "download_time": "2026-04-24T06:14:53.685831",
+  "download_filename": "ymcp-0.4.1.tar.gz",
+  "download_time": "2026-04-30T09:43:51.824057",
   "package_url": "https://pypi.org/project/ymcp/"
 }

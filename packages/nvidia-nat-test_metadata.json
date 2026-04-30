@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-test",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "Testing utilities for NeMo Agent Toolkit",
   "author": "NVIDIA Corporation",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nvidia_nat_test-1.5.0-py3-none-any.whl",
-  "download_time": "2026-04-05T09:59:24.923592",
+  "download_filename": "nvidia_nat_test-1.6.0-py3-none-any.whl",
+  "download_time": "2026-04-30T09:43:08.044204",
   "package_url": "https://pypi.org/project/nvidia-nat-test/"
 }

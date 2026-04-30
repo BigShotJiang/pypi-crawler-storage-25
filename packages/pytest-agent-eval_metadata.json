@@ -1,0 +1,11 @@
+{
+  "name": "pytest-agent-eval",
+  "version": "0.1.0",
+  "summary": "A pytest plugin for LLM evaluation tests with threshold-based pass/fail",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_agent_eval-0.1.0.tar.gz",
+  "download_time": "2026-04-30T09:43:17.337115",
+  "package_url": "https://pypi.org/project/pytest-agent-eval/"
+}

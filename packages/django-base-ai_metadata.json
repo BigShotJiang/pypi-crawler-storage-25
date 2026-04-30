@@ -1,11 +1,11 @@
 {
   "name": "django-base-ai",
-  "version": "1.0.39",
+  "version": "1.0.46",
   "summary": "Django/DRF/RBAC 权限与常用 AI 接口封装",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_base_ai-1.0.39.tar.gz",
-  "download_time": "2026-04-07T03:23:35.584713",
+  "download_filename": "django_base_ai-1.0.46-py3-none-any.whl",
+  "download_time": "2026-04-30T09:43:08.570804",
   "package_url": "https://pypi.org/project/django-base-ai/"
 }
