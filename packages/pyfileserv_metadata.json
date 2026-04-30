@@ -1,11 +1,11 @@
 {
   "name": "pyfileserv",
-  "version": "0.12.8",
+  "version": "0.14.0",
   "summary": "带登录认证的安全文件服务器",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyfileserv-0.12.8.tar.gz",
-  "download_time": "2026-04-30T05:03:15.533265",
+  "download_filename": "pyfileserv-0.14.0.tar.gz",
+  "download_time": "2026-04-30T07:36:02.051138",
   "package_url": "https://pypi.org/project/pyfileserv/"
 }

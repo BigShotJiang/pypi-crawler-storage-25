@@ -1,11 +1,11 @@
 {
   "name": "openimpala",
-  "version": "4.2.6",
+  "version": "4.2.9",
   "summary": "Python bindings for OpenImpala — transport-property computation on 3-D voxel images",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "openimpala-4.2.6-cp310-cp310-manylinux_2_28_x86_64.whl",
-  "download_time": "2026-04-26T21:06:28.016002",
+  "download_filename": "openimpala-4.2.9-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2026-04-30T07:35:33.261806",
   "package_url": "https://pypi.org/project/openimpala/"
 }

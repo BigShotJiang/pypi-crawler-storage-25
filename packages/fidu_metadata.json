@@ -1,0 +1,11 @@
+{
+  "name": "fidu",
+  "version": "0.1.1",
+  "summary": "Tool-agnostic data quality runner with native engines, Soda/GX/Deequ adapters, trust scores, and drift detection.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fidu-0.1.1.tar.gz",
+  "download_time": "2026-04-30T07:36:04.436929",
+  "package_url": "https://pypi.org/project/fidu/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mlflow-tcdeploy-plugin-snapshot",
+  "version": "1.0.8",
+  "summary": "Tencent Cloud deployment plugin for MLflow",
+  "author": "Tencent WeData Team",
+  "license": null,
+  "home_page": "https://git.woa.com/WeDataOS/wedata3-monorepo",
+  "download_filename": "mlflow_tcdeploy_plugin_snapshot-1.0.8.tar.gz",
+  "download_time": "2026-04-30T07:35:48.933904",
+  "package_url": "https://pypi.org/project/mlflow-tcdeploy-plugin-snapshot/"
+}

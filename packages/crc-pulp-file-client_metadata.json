@@ -1,11 +1,11 @@
 {
   "name": "crc-pulp-file-client",
-  "version": "20260424.2",
+  "version": "20260430.1",
   "summary": "Pulp 3 API",
   "author": "Pulp Team",
   "license": "GNU General Public License v2.0 or later",
   "home_page": null,
-  "download_filename": "crc_pulp_file_client-20260424.2.tar.gz",
-  "download_time": "2026-04-25T05:07:34.639348",
+  "download_filename": "crc_pulp_file_client-20260430.1.tar.gz",
+  "download_time": "2026-04-30T07:36:08.860642",
   "package_url": "https://pypi.org/project/crc-pulp-file-client/"
 }

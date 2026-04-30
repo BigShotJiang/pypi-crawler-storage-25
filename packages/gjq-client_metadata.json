@@ -1,0 +1,11 @@
+{
+  "name": "gjq-client",
+  "version": "0.1.1",
+  "summary": "Qiskit 2.0 adapter for GuoJi Quantum Cloud Platform",
+  "author": "GJQ Cloud Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gjq_client-0.1.1-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-04-30T07:36:10.595639",
+  "package_url": "https://pypi.org/project/gjq-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "outliner-cli",
+  "version": "0.1.0",
+  "summary": "Print the structural outline of source files for LLM navigation",
+  "author": "Per Cederberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "outliner_cli-0.1.0.tar.gz",
+  "download_time": "2026-04-30T07:35:21.789102",
+  "package_url": "https://pypi.org/project/outliner-cli/"
+}
