@@ -1,11 +1,11 @@
 {
   "name": "aws-resource-validator-dms",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "summary": "Pydantic v2 models for AWS dms, shipped as a PEP 420 namespace extension of aws-resource-validator.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aws_resource_validator_dms-2.0.0-py3-none-any.whl",
-  "download_time": "2026-04-29T01:33:49.579819",
+  "download_filename": "aws_resource_validator_dms-2.0.2-py3-none-any.whl",
+  "download_time": "2026-04-30T18:25:43.000068",
   "package_url": "https://pypi.org/project/aws-resource-validator-dms/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aws-resource-validator-ecs",
+  "version": "2.0.2",
+  "summary": "Pydantic v2 models for AWS ecs, shipped as a PEP 420 namespace extension of aws-resource-validator.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aws_resource_validator_ecs-2.0.2-py3-none-any.whl",
+  "download_time": "2026-04-30T18:25:33.284575",
+  "package_url": "https://pypi.org/project/aws-resource-validator-ecs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "f3dx",
-  "version": "0.0.17",
+  "version": "0.0.19",
   "summary": "Rust runtime for Python AI apps. Drop-in for openai/anthropic SDKs with native SSE streaming, an agent loop with concurrent tool dispatch, and Logfire-compatible OTel emission.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "f3dx-0.0.17.tar.gz",
-  "download_time": "2026-04-27T23:20:39.864849",
+  "download_filename": "f3dx-0.0.19.tar.gz",
+  "download_time": "2026-04-30T18:25:09.377638",
   "package_url": "https://pypi.org/project/f3dx/"
 }

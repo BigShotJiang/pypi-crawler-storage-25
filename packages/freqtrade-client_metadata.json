@@ -1,11 +1,11 @@
 {
   "name": "freqtrade-client",
-  "version": "2026.3",
+  "version": "2026.4",
   "summary": "Freqtrade - Client scripts",
   "author": "Freqtrade Team",
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "freqtrade_client-2026.3.tar.gz",
-  "download_time": "2026-03-30T17:38:16.326183",
+  "download_filename": "freqtrade_client-2026.4.tar.gz",
+  "download_time": "2026-04-30T18:25:26.043956",
   "package_url": "https://pypi.org/project/freqtrade-client/"
 }

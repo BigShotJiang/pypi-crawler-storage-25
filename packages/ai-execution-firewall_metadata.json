@@ -1,0 +1,11 @@
+{
+  "name": "ai-execution-firewall",
+  "version": "0.1.1",
+  "summary": "Deterministic execution-level safety layer between AI agents and real systems (shell, files, SQL, HTTP).",
+  "author": "Shahriyar Khan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_execution_firewall-0.1.1.tar.gz",
+  "download_time": "2026-04-30T18:25:07.325063",
+  "package_url": "https://pypi.org/project/ai-execution-firewall/"
+}

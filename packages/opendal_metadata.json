@@ -1,0 +1,11 @@
+{
+  "name": "opendal",
+  "version": "0.47.1",
+  "summary": "Apache OpenDAL™ Python Binding",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://opendal.apache.org/",
+  "download_filename": "opendal-0.47.1.tar.gz",
+  "download_time": "2026-04-30T18:25:18.753062",
+  "package_url": "https://pypi.org/project/opendal/"
+}

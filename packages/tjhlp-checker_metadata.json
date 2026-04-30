@@ -1,0 +1,11 @@
+{
+  "name": "tjhlp-checker",
+  "version": "0.2.0",
+  "summary": "This project is a code inspection tool for teaching purposes in the \"High-level Language Programming\" course at Tongji University, used to check whether C/C++ code uses syntax features that violate assignment requirements.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tjhlp_checker-0.2.0.tar.gz",
+  "download_time": "2026-04-30T18:25:01.125971",
+  "package_url": "https://pypi.org/project/tjhlp-checker/"
+}

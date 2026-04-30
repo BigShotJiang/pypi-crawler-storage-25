@@ -1,11 +1,11 @@
 {
   "name": "raggit",
-  "version": "0.3.1",
+  "version": "0.4.2",
   "summary": "Version control for your RAG pipeline — compare embedding models on your own data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "raggit-0.3.1.tar.gz",
-  "download_time": "2026-04-20T22:10:15.979171",
+  "download_filename": "raggit-0.4.2.tar.gz",
+  "download_time": "2026-04-30T18:24:55.953187",
   "package_url": "https://pypi.org/project/raggit/"
 }
