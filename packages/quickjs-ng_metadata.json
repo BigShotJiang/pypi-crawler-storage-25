@@ -1,11 +1,11 @@
 {
   "name": "quickjs-ng",
-  "version": "0.13.0.1",
+  "version": "0.14.0.1",
   "summary": "Thin Python wrapper of quickjs-ng",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quickjs_ng-0.13.0.1.tar.gz",
-  "download_time": "2026-04-01T08:16:40.938596",
+  "download_filename": "quickjs_ng-0.14.0.1.tar.gz",
+  "download_time": "2026-05-01T09:20:38.297589",
   "package_url": "https://pypi.org/project/quickjs-ng/"
 }

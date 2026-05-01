@@ -1,0 +1,11 @@
+{
+  "name": "aetcd",
+  "version": "1.0.0rc2",
+  "summary": "Python asyncio-based client for etcd",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aetcd-1.0.0rc2.tar.gz",
+  "download_time": "2026-05-01T09:20:37.254759",
+  "package_url": "https://pypi.org/project/aetcd/"
+}

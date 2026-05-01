@@ -1,0 +1,11 @@
+{
+  "name": "flatbench",
+  "version": "0.1.0",
+  "summary": "Benchmark suite for Flatseek and competitor search engines (Elasticsearch, SQLite, Typesense, ZincSearch, Tantivy, Whoosh, DuckDB).",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "flatbench-0.1.0.tar.gz",
+  "download_time": "2026-05-01T09:20:31.018272",
+  "package_url": "https://pypi.org/project/flatbench/"
+}

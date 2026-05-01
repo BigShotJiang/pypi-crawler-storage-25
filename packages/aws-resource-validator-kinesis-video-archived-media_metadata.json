@@ -1,0 +1,11 @@
+{
+  "name": "aws-resource-validator-kinesis-video-archived-media",
+  "version": "2.0.2",
+  "summary": "Pydantic v2 models for AWS kinesis_video_archived_media, shipped as a PEP 420 namespace extension of aws-resource-validator.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aws_resource_validator_kinesis_video_archived_media-2.0.2-py3-none-any.whl",
+  "download_time": "2026-05-01T09:21:09.475471",
+  "package_url": "https://pypi.org/project/aws-resource-validator-kinesis-video-archived-media/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-employee-quantity",
+  "version": "19.0.1.0.0.2",
+  "summary": "Know how many employees a partner has",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_partner_employee_quantity-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-05-01T09:20:30.500988",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-employee-quantity/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "priorart-agent",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Build-vs-borrow intelligence for agentic workflows - helps AI agents discover and evaluate open source packages",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "priorart_agent-0.1.0.tar.gz",
-  "download_time": "2026-04-16T20:51:46.374393",
+  "download_filename": "priorart_agent-0.2.0.tar.gz",
+  "download_time": "2026-05-01T09:20:28.940944",
   "package_url": "https://pypi.org/project/priorart-agent/"
 }

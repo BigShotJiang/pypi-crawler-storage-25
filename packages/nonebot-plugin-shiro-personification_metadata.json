@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-shiro-personification",
+  "version": "0.5.3",
+  "summary": "基于群聊与私聊上下文的人设回复插件，支持作息模拟、联网检索、风格学习、主动私聊、贴图、画像与 Agent 工具调用。",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_shiro_personification-0.5.3.tar.gz",
+  "download_time": "2026-05-01T09:20:44.007427",
+  "package_url": "https://pypi.org/project/nonebot-plugin-shiro-personification/"
+}

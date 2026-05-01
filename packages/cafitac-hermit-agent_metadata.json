@@ -1,11 +1,11 @@
 {
   "name": "cafitac-hermit-agent",
-  "version": "0.3.53",
+  "version": "0.3.67",
   "summary": "MCP executor for Claude Code or Codex that offloads repetitive coding work to cheaper local or flat-rate models.",
   "author": "HermitAgent Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cafitac_hermit_agent-0.3.53.tar.gz",
-  "download_time": "2026-04-27T08:31:25.498254",
+  "download_filename": "cafitac_hermit_agent-0.3.67.tar.gz",
+  "download_time": "2026-05-01T09:20:43.478023",
   "package_url": "https://pypi.org/project/cafitac-hermit-agent/"
 }

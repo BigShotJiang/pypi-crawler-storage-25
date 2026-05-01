@@ -1,0 +1,11 @@
+{
+  "name": "poranos-mcp-ainpc",
+  "version": "0.4.0",
+  "summary": "MCP server for managing Poranos AI NPC scenarios from Claude Desktop / Claude Code",
+  "author": "K-relations",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "poranos_mcp_ainpc-0.4.0.tar.gz",
+  "download_time": "2026-05-01T09:20:58.015317",
+  "package_url": "https://pypi.org/project/poranos-mcp-ainpc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "crawl-mcp",
+  "version": "0.1.4",
+  "summary": "基于 crawl4ai 和 FastMCP 的 MCP 服务器，提供网页爬取和 AI 分析功能",
+  "author": "gqy20",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crawl_mcp-0.1.4.tar.gz",
+  "download_time": "2026-05-01T09:20:58.533138",
+  "package_url": "https://pypi.org/project/crawl-mcp/"
+}

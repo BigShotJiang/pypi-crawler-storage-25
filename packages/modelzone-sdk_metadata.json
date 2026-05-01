@@ -1,11 +1,11 @@
 {
   "name": "modelzone-sdk",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "summary": "Modelzone SDK – a slim model training and serving toolkit",
   "author": "Team Enigma",
   "license": null,
   "home_page": null,
-  "download_filename": "modelzone_sdk-3.0.0.tar.gz",
-  "download_time": "2026-04-28T11:25:34.224342",
+  "download_filename": "modelzone_sdk-3.0.1.tar.gz",
+  "download_time": "2026-05-01T09:20:26.331042",
   "package_url": "https://pypi.org/project/modelzone-sdk/"
 }

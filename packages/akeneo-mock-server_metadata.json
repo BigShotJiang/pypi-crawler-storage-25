@@ -1,0 +1,11 @@
+{
+  "name": "akeneo-mock-server",
+  "version": "0.7.0",
+  "summary": "This implements an API that's compatible to Akeneo. If it's not, it's a bug. This is NOT an official Akeneo Product",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "akeneo_mock_server-0.7.0.tar.gz",
+  "download_time": "2026-05-01T09:20:41.406464",
+  "package_url": "https://pypi.org/project/akeneo-mock-server/"
+}

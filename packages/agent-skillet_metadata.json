@@ -1,0 +1,11 @@
+{
+  "name": "agent-skillet",
+  "version": "0.1.1",
+  "summary": "Install, version, and sync agent skills in your repository to your favorite agents (Claude, Cursor, Copilot, and similar).",
+  "author": "Howard Lo (508.dev)",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_skillet-0.1.1.tar.gz",
+  "download_time": "2026-05-01T09:20:23.521729",
+  "package_url": "https://pypi.org/project/agent-skillet/"
+}
