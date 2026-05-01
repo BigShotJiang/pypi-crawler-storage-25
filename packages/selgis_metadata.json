@@ -1,0 +1,11 @@
+{
+  "name": "selgis",
+  "version": "0.2.7.1",
+  "summary": "Universal Training Framework for PyTorch and HuggingFace Transformers",
+  "author": "Selgis ML",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "selgis-0.2.7.1.tar.gz",
+  "download_time": "2026-05-01T04:26:53.952518",
+  "package_url": "https://pypi.org/project/selgis/"
+}

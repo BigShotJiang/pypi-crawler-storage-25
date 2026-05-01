@@ -1,11 +1,11 @@
 {
   "name": "agentao",
-  "version": "0.2.9",
-  "summary": "An Eastern-philosophy-inspired CLI agent harness for personal research and data analysis assistance.",
+  "version": "0.3.3",
+  "summary": "A governed agent runtime for local-first, private-first, embeddable AI agents.",
   "author": "Bo Jin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentao-0.2.9.tar.gz",
-  "download_time": "2026-04-12T05:59:05.956486",
+  "download_filename": "agentao-0.3.3.tar.gz",
+  "download_time": "2026-05-01T04:27:21.592772",
   "package_url": "https://pypi.org/project/agentao/"
 }

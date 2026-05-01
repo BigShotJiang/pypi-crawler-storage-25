@@ -1,0 +1,11 @@
+{
+  "name": "friday-agent-sdk",
+  "version": "0.1.1",
+  "summary": "Python SDK for authoring Friday agents — call LLMs, HTTP, and MCP tools without managing keys.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "friday_agent_sdk-0.1.1.tar.gz",
+  "download_time": "2026-05-01T04:27:15.935359",
+  "package_url": "https://pypi.org/project/friday-agent-sdk/"
+}

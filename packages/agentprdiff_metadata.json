@@ -1,0 +1,11 @@
+{
+  "name": "agentprdiff",
+  "version": "0.2.5",
+  "summary": "Guard your LLM agents in CI. Snapshot tests that catch behavioral regressions when models, prompts, or vendors change.",
+  "author": "Vinoth Nageshwaran",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentprdiff-0.2.5.tar.gz",
+  "download_time": "2026-05-01T04:27:23.776009",
+  "package_url": "https://pypi.org/project/agentprdiff/"
+}

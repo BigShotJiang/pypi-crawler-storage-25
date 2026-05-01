@@ -1,11 +1,11 @@
 {
   "name": "rememb",
-  "version": "0.3.5",
+  "version": "0.4.4",
   "summary": "Persistent memory standard for AI agents — local, portable, zero config",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rememb-0.3.5.tar.gz",
-  "download_time": "2026-04-13T06:19:39.409710",
+  "download_filename": "rememb-0.4.4.tar.gz",
+  "download_time": "2026-05-01T04:27:23.233855",
   "package_url": "https://pypi.org/project/rememb/"
 }

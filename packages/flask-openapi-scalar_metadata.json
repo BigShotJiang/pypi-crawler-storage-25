@@ -1,11 +1,11 @@
 {
   "name": "flask-openapi-scalar",
-  "version": "1.53.1",
+  "version": "1.55.1",
   "summary": "Provide Scalar UI for flask-openapi.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flask_openapi_scalar-1.53.1.tar.gz",
-  "download_time": "2026-04-28T04:15:26.254504",
+  "download_filename": "flask_openapi_scalar-1.55.1.tar.gz",
+  "download_time": "2026-05-01T04:27:11.539336",
   "package_url": "https://pypi.org/project/flask-openapi-scalar/"
 }

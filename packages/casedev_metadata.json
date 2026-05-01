@@ -1,11 +1,11 @@
 {
   "name": "casedev",
-  "version": "0.59.0",
+  "version": "0.62.1",
   "summary": "The official Python library for the casedev API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "casedev-0.59.0.tar.gz",
-  "download_time": "2026-04-28T04:14:50.241034",
+  "download_filename": "casedev-0.62.1.tar.gz",
+  "download_time": "2026-05-01T04:26:51.780507",
   "package_url": "https://pypi.org/project/casedev/"
 }

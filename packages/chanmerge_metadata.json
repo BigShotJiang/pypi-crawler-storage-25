@@ -1,0 +1,11 @@
+{
+  "name": "chanmerge",
+  "version": "1.0.0",
+  "summary": "Automated Chandra X-ray Data Pipeline and Merger",
+  "author": "Ahmet Sercan Kıyak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chanmerge-1.0.0.tar.gz",
+  "download_time": "2026-05-01T04:27:07.709804",
+  "package_url": "https://pypi.org/project/chanmerge/"
+}

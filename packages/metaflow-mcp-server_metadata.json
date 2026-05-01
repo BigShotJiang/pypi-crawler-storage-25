@@ -1,11 +1,11 @@
 {
   "name": "metaflow-mcp-server",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "MCP server for Metaflow -- expose flow runs, logs, and artifacts as tools for AI coding agents",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "metaflow_mcp_server-0.2.0.tar.gz",
-  "download_time": "2026-04-01T02:30:47.669720",
+  "download_filename": "metaflow_mcp_server-0.3.0.tar.gz",
+  "download_time": "2026-05-01T04:27:01.092315",
   "package_url": "https://pypi.org/project/metaflow-mcp-server/"
 }

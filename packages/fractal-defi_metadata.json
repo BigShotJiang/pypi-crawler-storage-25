@@ -1,0 +1,11 @@
+{
+  "name": "fractal-defi",
+  "version": "1.3.0",
+  "summary": "Open-source Python research library for DeFi strategies. Compose protocol-agnostic entities (lending, perps, DEX and LP) into typed strategies; backtest, simulate, track experiments.",
+  "author": "Logarithm Labs",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Logarithm-Labs/fractal-defi",
+  "download_filename": "fractal_defi-1.3.0.tar.gz",
+  "download_time": "2026-05-01T04:27:21.008893",
+  "package_url": "https://pypi.org/project/fractal-defi/"
+}

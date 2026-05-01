@@ -1,11 +1,11 @@
 {
   "name": "compose-lint",
-  "version": "0.5.0",
-  "summary": "A security-focused linter for Docker Compose files",
+  "version": "0.7.0",
+  "summary": "Static-analysis linter for Docker Compose files. Finds insecure container configuration with OWASP/CIS-grounded rules; emits SARIF for GitHub Code Scanning.",
   "author": "Todd Matens",
   "license": null,
   "home_page": null,
-  "download_filename": "compose_lint-0.5.0.tar.gz",
-  "download_time": "2026-04-23T11:20:11.292221",
+  "download_filename": "compose_lint-0.7.0.tar.gz",
+  "download_time": "2026-05-01T04:27:15.388153",
   "package_url": "https://pypi.org/project/compose-lint/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "feagi-bv",
-  "version": "2.3.22",
+  "version": "2.3.24",
   "summary": "Brain Visualizer runtime package for FEAGI (meta-package)",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "feagi_bv-2.3.22-py3-none-any.whl",
-  "download_time": "2026-04-18T15:04:28.432415",
+  "download_filename": "feagi_bv-2.3.24-py3-none-any.whl",
+  "download_time": "2026-05-01T04:26:44.116070",
   "package_url": "https://pypi.org/project/feagi-bv/"
 }

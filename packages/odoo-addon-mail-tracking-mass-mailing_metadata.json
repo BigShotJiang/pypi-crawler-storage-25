@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail-tracking-mass-mailing",
+  "version": "18.0.1.0.0.3",
+  "summary": "Improve mass mailing email tracking",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/mail",
+  "download_filename": "odoo_addon_mail_tracking_mass_mailing-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-05-01T04:27:06.611243",
+  "package_url": "https://pypi.org/project/odoo-addon-mail-tracking-mass-mailing/"
+}

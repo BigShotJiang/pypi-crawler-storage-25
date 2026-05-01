@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-sale-order-line-price-source",
-  "version": "19.0.1.0.0.2",
+  "version": "19.0.1.0.0.4",
   "summary": "Track the source and provenance of sale order line prices",
   "author": "Camptocamp, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/sale-workflow",
-  "download_filename": "odoo_addon_sale_order_line_price_source-19.0.1.0.0.2-py3-none-any.whl",
-  "download_time": "2026-04-29T13:23:00.241668",
+  "download_filename": "odoo_addon_sale_order_line_price_source-19.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-05-01T04:27:17.025501",
   "package_url": "https://pypi.org/project/odoo-addon-sale-order-line-price-source/"
 }

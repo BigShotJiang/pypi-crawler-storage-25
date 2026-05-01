@@ -1,0 +1,11 @@
+{
+  "name": "transparent-fastapi",
+  "version": "0.1.2",
+  "summary": "Drop-in Prometheus metrics for FastAPI: HTTP requests, latency, event-loop lag, threadpool tokens, background tasks. One line of setup, no per-route changes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "transparent_fastapi-0.1.2.tar.gz",
+  "download_time": "2026-05-01T04:27:25.951211",
+  "package_url": "https://pypi.org/project/transparent-fastapi/"
+}

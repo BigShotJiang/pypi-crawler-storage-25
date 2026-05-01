@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mass-mailing-disable-tracking",
+  "version": "16.0.1.0.0.4",
+  "summary": "Allow to disable open and link click tracking in mass mailing messages",
+  "author": "hugues de keyzer, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/social",
+  "download_filename": "odoo_addon_mass_mailing_disable_tracking-16.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-05-01T04:27:02.738144",
+  "package_url": "https://pypi.org/project/odoo-addon-mass-mailing-disable-tracking/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sentinel-sd",
+  "version": "3.3.1",
+  "summary": "Sentinel Security Kernel: Zero-Trust AI Firewall for Prompt Injection & Jailbreak Defense.",
+  "author": "Sentinel Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sentinel_sd-3.3.1.tar.gz",
+  "download_time": "2026-05-01T04:27:17.606909",
+  "package_url": "https://pypi.org/project/sentinel-sd/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "stackunderflow",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "A local-first knowledge base for your AI coding sessions",
   "author": "StackUnderflow Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "stackunderflow-0.4.0.tar.gz",
-  "download_time": "2026-05-01T00:18:24.162280",
+  "download_filename": "stackunderflow-0.6.0.tar.gz",
+  "download_time": "2026-05-01T04:26:41.264009",
   "package_url": "https://pypi.org/project/stackunderflow/"
 }
