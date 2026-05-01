@@ -1,11 +1,11 @@
 {
   "name": "open-meteo-client",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Lightweight async Python client for the Open-Meteo weather API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "open_meteo_client-0.0.2.tar.gz",
-  "download_time": "2026-04-30T23:18:39.780440",
+  "download_filename": "open_meteo_client-0.0.4.tar.gz",
+  "download_time": "2026-05-01T14:17:37.758659",
   "package_url": "https://pypi.org/project/open-meteo-client/"
 }

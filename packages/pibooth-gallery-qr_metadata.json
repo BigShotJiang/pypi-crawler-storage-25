@@ -1,0 +1,11 @@
+{
+  "name": "pibooth-gallery-qr",
+  "version": "1.0.0",
+  "summary": "Pibooth plugin: QR code on wait screen pointing to a local gallery service",
+  "author": "Christophe",
+  "license": "MIT license",
+  "home_page": "https://github.com/ceeeeb/pibooth-gallery-qr",
+  "download_filename": "pibooth_gallery_qr-1.0.0.tar.gz",
+  "download_time": "2026-05-01T14:17:21.720652",
+  "package_url": "https://pypi.org/project/pibooth-gallery-qr/"
+}

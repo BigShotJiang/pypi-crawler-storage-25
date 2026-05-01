@@ -1,0 +1,11 @@
+{
+  "name": "rqsession",
+  "version": "0.4.1",
+  "summary": "Browser TLS fingerprint impersonation library powered by Rust (BoringSSL + hyper).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rqsession-0.4.1.tar.gz",
+  "download_time": "2026-05-01T14:17:03.115168",
+  "package_url": "https://pypi.org/project/rqsession/"
+}

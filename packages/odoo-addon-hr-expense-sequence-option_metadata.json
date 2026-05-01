@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-expense-sequence-option",
+  "version": "18.0.1.0.0.2",
+  "summary": "Manage sequence options for hr.expense.sheet",
+  "author": "Ecosoft, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/hr-expense",
+  "download_filename": "odoo_addon_hr_expense_sequence_option-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-05-01T14:17:23.776585",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-expense-sequence-option/"
+}

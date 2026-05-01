@@ -1,11 +1,11 @@
 {
   "name": "pydamiao",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "An unofficial Damiao motor control library, developed based on the official SDK. 一个非官方的达妙电机控制库, 基于官方sdk二次开发",
   "author": "DBinK",
   "license": null,
   "home_page": null,
-  "download_filename": "pydamiao-0.1.2.tar.gz",
-  "download_time": "2026-05-01T11:53:44.267758",
+  "download_filename": "pydamiao-0.1.4.tar.gz",
+  "download_time": "2026-05-01T14:16:59.527605",
   "package_url": "https://pypi.org/project/pydamiao/"
 }

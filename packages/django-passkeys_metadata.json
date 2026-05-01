@@ -1,11 +1,11 @@
 {
   "name": "django-passkeys",
-  "version": "2.0",
+  "version": "2.1",
   "summary": "A Django Authentication Backend for Passkeys",
   "author": "Mohamed El-Kalioby",
   "license": "MIT",
   "home_page": "https://github.com/mkalioby/django-passkeys",
-  "download_filename": "django_passkeys-2.0.tar.gz",
-  "download_time": "2026-04-12T15:09:21.722298",
+  "download_filename": "django_passkeys-2.1.tar.gz",
+  "download_time": "2026-05-01T14:17:19.656010",
   "package_url": "https://pypi.org/project/django-passkeys/"
 }

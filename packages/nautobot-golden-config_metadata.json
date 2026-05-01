@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-golden-config",
+  "version": "3.0.6",
+  "summary": "An app for configuration on nautobot",
+  "author": "Network to Code, LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nautobot_golden_config-3.0.6.tar.gz",
+  "download_time": "2026-05-01T14:17:11.409661",
+  "package_url": "https://pypi.org/project/nautobot-golden-config/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sdlc-framework",
-  "version": "0.7.1",
+  "version": "0.10.0",
   "summary": "Local-only multi-AI SDLC framework with auto-detect engine, tier-aware DoD, and GitHub integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sdlc_framework-0.7.1.tar.gz",
-  "download_time": "2026-05-01T11:54:18.387481",
+  "download_filename": "sdlc_framework-0.10.0.tar.gz",
+  "download_time": "2026-05-01T14:17:39.302177",
   "package_url": "https://pypi.org/project/sdlc-framework/"
 }

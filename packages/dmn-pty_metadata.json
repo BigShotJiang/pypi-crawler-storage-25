@@ -1,0 +1,11 @@
+{
+  "name": "dmn-pty",
+  "version": "1.0.0",
+  "summary": "A lightweight PTY daemon with a Unix socket API for remote shell access",
+  "author": "guille",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dmn_pty-1.0.0.tar.gz",
+  "download_time": "2026-05-01T14:16:57.880123",
+  "package_url": "https://pypi.org/project/dmn-pty/"
+}

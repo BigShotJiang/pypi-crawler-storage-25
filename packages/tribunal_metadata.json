@@ -1,0 +1,11 @@
+{
+  "name": "tribunal",
+  "version": "2.0.1",
+  "summary": "Quality gates for AI-generated code — TDD enforcement, secret scanning, and audit trails for coding agents.",
+  "author": "thebotclub",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tribunal-2.0.1.tar.gz",
+  "download_time": "2026-05-01T14:17:22.233982",
+  "package_url": "https://pypi.org/project/tribunal/"
+}

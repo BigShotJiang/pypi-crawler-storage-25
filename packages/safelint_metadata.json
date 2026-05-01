@@ -1,0 +1,11 @@
+{
+  "name": "safelint",
+  "version": "1.4.0",
+  "summary": "Engineering safety lint rules and pre-commit integration for modern Python codebases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "safelint-1.4.0.tar.gz",
+  "download_time": "2026-05-01T14:17:02.089768",
+  "package_url": "https://pypi.org/project/safelint/"
+}

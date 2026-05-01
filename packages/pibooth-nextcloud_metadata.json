@@ -1,0 +1,11 @@
+{
+  "name": "pibooth-nextcloud",
+  "version": "2.0.2",
+  "summary": "Pibooth plugin to upload photos to Nextcloud",
+  "author": "Ceeeeb",
+  "license": "MIT license",
+  "home_page": "https://github.com/ceeeeb/pibooth-nextcloud",
+  "download_filename": "pibooth_nextcloud-2.0.2.tar.gz",
+  "download_time": "2026-05-01T14:17:26.849656",
+  "package_url": "https://pypi.org/project/pibooth-nextcloud/"
+}

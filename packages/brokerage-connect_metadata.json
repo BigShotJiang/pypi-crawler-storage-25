@@ -1,0 +1,11 @@
+{
+  "name": "brokerage-connect",
+  "version": "0.4.0",
+  "summary": "Unified Python interface for brokerage APIs — Schwab, SnapTrade, IBKR, Plaid",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brokerage_connect-0.4.0.tar.gz",
+  "download_time": "2026-05-01T14:17:12.432595",
+  "package_url": "https://pypi.org/project/brokerage-connect/"
+}

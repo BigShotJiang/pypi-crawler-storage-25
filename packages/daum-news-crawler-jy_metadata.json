@@ -1,0 +1,11 @@
+{
+  "name": "daum-news-crawler-jy",
+  "version": "0.1.1",
+  "summary": "MCP server that crawls Daum news headlines for a given keyword and saves them to a text file",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "daum_news_crawler_jy-0.1.1.tar.gz",
+  "download_time": "2026-05-01T14:17:28.396678",
+  "package_url": "https://pypi.org/project/daum-news-crawler-jy/"
+}

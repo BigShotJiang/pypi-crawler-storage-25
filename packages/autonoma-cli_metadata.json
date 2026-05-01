@@ -1,0 +1,11 @@
+{
+  "name": "autonoma-cli",
+  "version": "0.1.7",
+  "summary": "AST-based detection and safe remediation of hardcoded secrets in Python and config files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autonoma_cli-0.1.7.tar.gz",
+  "download_time": "2026-05-01T14:17:19.143082",
+  "package_url": "https://pypi.org/project/autonoma-cli/"
+}

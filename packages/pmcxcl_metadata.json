@@ -1,0 +1,11 @@
+{
+  "name": "pmcxcl",
+  "version": "0.7.1",
+  "summary": "Python bindings for Monte Carlo eXtreme (OpenCL) photon transport simulator",
+  "author": "Matin Raayai Ardakani, Qianqian Fang",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/fangq/mcxcl",
+  "download_filename": "pmcxcl-0.7.1-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2026-05-01T14:17:17.590727",
+  "package_url": "https://pypi.org/project/pmcxcl/"
+}
