@@ -1,0 +1,11 @@
+{
+  "name": "scitex-pd",
+  "version": "0.1.2",
+  "summary": "Pandas helpers (force_df, melt_cols, find_pval, mv, slice, sort, round, …) — standalone module from the SciTeX ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scitex_pd-0.1.2.tar.gz",
+  "download_time": "2026-05-01T07:22:07.162685",
+  "package_url": "https://pypi.org/project/scitex-pd/"
+}

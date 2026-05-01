@@ -1,0 +1,11 @@
+{
+  "name": "monday",
+  "version": "2.2.1",
+  "summary": "A Python client library for Monday.com",
+  "author": "Christina D'Astolfo",
+  "license": "BSD",
+  "home_page": "https://github.com/ProdPerfect/monday",
+  "download_filename": "monday-2.2.1.tar.gz",
+  "download_time": "2026-05-01T07:22:05.400775",
+  "package_url": "https://pypi.org/project/monday/"
+}

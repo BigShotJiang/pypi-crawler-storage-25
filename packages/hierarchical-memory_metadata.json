@@ -1,0 +1,11 @@
+{
+  "name": "hierarchical-memory",
+  "version": "1.0.0",
+  "summary": "A 4-tier hierarchical memory system for AI agents",
+  "author": "SuperInstance",
+  "license": "MIT",
+  "home_page": "https://github.com/superinstance/hierarchical-memory",
+  "download_filename": "hierarchical_memory-1.0.0.tar.gz",
+  "download_time": "2026-05-01T07:22:24.079775",
+  "package_url": "https://pypi.org/project/hierarchical-memory/"
+}

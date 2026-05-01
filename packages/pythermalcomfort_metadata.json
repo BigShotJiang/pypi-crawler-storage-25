@@ -1,0 +1,11 @@
+{
+  "name": "pythermalcomfort",
+  "version": "3.9.3",
+  "summary": "pythermalcomfort is a comprehensive toolkit for calculating thermal comfort indices, heat/cold stress metrics, and thermophysiological responses. It supports multiple models, including PMV, PPD, adaptive comfort, SET, UTCI, Heat Index, Wind Chill Index, and Humidex. The package also includes thermophysiological models like the two-node (Gagge) and multinode (JOS-3) models to estimate physiological responses such as core temperature, skin temperature, and skin wettedness. ",
+  "author": "Federico Tartarini",
+  "license": "MIT",
+  "home_page": "https://github.com/pythermalcomfort/pythermalcomfort",
+  "download_filename": "pythermalcomfort-3.9.3.tar.gz",
+  "download_time": "2026-05-01T07:21:39.106056",
+  "package_url": "https://pypi.org/project/pythermalcomfort/"
+}

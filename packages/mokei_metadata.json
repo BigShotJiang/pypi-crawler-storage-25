@@ -1,0 +1,11 @@
+{
+  "name": "mokei",
+  "version": "0.2.19",
+  "summary": "A simple asynchronous Python web framework built on aiohttp.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mokei-0.2.19.tar.gz",
+  "download_time": "2026-05-01T07:21:59.288109",
+  "package_url": "https://pypi.org/project/mokei/"
+}

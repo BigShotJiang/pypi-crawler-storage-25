@@ -1,11 +1,11 @@
 {
   "name": "rpyc-ng",
-  "version": "7.0.14",
+  "version": "7.0.15",
   "summary": "Remote Python Call Next Generation (RPyC-NG) is a transparent and symmetric distributed computing library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rpyc_ng-7.0.14.tar.gz",
-  "download_time": "2026-04-19T15:04:57.730083",
+  "download_filename": "rpyc_ng-7.0.15.tar.gz",
+  "download_time": "2026-05-01T07:22:20.353702",
   "package_url": "https://pypi.org/project/rpyc-ng/"
 }

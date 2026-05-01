@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-slack",
+  "version": "0.4.16",
+  "summary": "A Pulumi package for managing Slack workspaces.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_slack-0.4.16.tar.gz",
+  "download_time": "2026-05-01T07:21:51.209538",
+  "package_url": "https://pypi.org/project/pulumi-slack/"
+}

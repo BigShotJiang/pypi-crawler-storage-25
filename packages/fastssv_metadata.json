@@ -1,0 +1,11 @@
+{
+  "name": "fastssv",
+  "version": "0.2.0",
+  "summary": "FastOMOP Semantic Static Validator - A semantic validation framework for OMOP CDM SQL queries",
+  "author": "FastSSV contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fastssv-0.2.0.tar.gz",
+  "download_time": "2026-05-01T07:21:52.376220",
+  "package_url": "https://pypi.org/project/fastssv/"
+}

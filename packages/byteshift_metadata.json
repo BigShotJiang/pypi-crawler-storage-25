@@ -1,0 +1,11 @@
+{
+  "name": "byteshift",
+  "version": "1.0.0",
+  "summary": "Extreme Python obfuscator — AST renaming, 4-layer XOR, HMAC, single-line output",
+  "author": "addy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "byteshift-1.0.0.tar.gz",
+  "download_time": "2026-05-01T07:21:35.187786",
+  "package_url": "https://pypi.org/project/byteshift/"
+}
