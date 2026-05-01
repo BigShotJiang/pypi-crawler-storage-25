@@ -1,0 +1,11 @@
+{
+  "name": "hiro-commons",
+  "version": "0.1.2",
+  "summary": "Internal shared utilities for Hiro League — not a public API; depend at your own risk",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hiro_commons-0.1.2.tar.gz",
+  "download_time": "2026-05-01T21:16:48.971126",
+  "package_url": "https://pypi.org/project/hiro-commons/"
+}

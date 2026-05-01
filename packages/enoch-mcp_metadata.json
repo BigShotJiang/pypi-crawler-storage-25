@@ -1,0 +1,11 @@
+{
+  "name": "enoch-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for the Enoch FastAPI control plane",
+  "author": "Enoch contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "enoch_mcp-0.1.1.tar.gz",
+  "download_time": "2026-05-01T21:17:07.816905",
+  "package_url": "https://pypi.org/project/enoch-mcp/"
+}

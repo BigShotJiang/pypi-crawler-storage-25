@@ -1,0 +1,11 @@
+{
+  "name": "lakeshore-zonewriter",
+  "version": "0.1.2",
+  "summary": "CLI for reading and writing Lake Shore 336 controller zone tables",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lakeshore_zonewriter-0.1.2.tar.gz",
+  "download_time": "2026-05-01T21:17:14.597528",
+  "package_url": "https://pypi.org/project/lakeshore-zonewriter/"
+}

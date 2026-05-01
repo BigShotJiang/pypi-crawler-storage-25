@@ -1,0 +1,11 @@
+{
+  "name": "archithreat",
+  "version": "1.1.0",
+  "summary": "Convert ArchiMate 3.x architecture models into threat-modeling artifacts (v1: IriusRisk-compatible draw.io).",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "archithreat-1.1.0.tar.gz",
+  "download_time": "2026-05-01T21:17:06.780681",
+  "package_url": "https://pypi.org/project/archithreat/"
+}

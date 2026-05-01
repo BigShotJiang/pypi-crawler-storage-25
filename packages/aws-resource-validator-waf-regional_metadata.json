@@ -1,0 +1,11 @@
+{
+  "name": "aws-resource-validator-waf-regional",
+  "version": "2.0.2",
+  "summary": "Pydantic v2 models for AWS waf_regional, shipped as a PEP 420 namespace extension of aws-resource-validator.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aws_resource_validator_waf_regional-2.0.2-py3-none-any.whl",
+  "download_time": "2026-05-01T21:16:40.710881",
+  "package_url": "https://pypi.org/project/aws-resource-validator-waf-regional/"
+}

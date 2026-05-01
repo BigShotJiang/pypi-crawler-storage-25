@@ -1,0 +1,11 @@
+{
+  "name": "venturalitica",
+  "version": "0.6.2",
+  "summary": "AI assurance that compiles. Turn EU AI Act + ISO 42001 + DORA controls into executable OSCAL policy and enforce it at training time with one decorator.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "venturalitica-0.6.2.tar.gz",
+  "download_time": "2026-05-01T21:17:08.867987",
+  "package_url": "https://pypi.org/project/venturalitica/"
+}

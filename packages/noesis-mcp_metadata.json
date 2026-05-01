@@ -1,11 +1,11 @@
 {
   "name": "noesis-mcp",
-  "version": "0.9.41",
+  "version": "0.9.44",
   "summary": "Self-improving AI agent framework — autonomous code refinement via wish-driven adversarial debate",
-  "author": "MC",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "noesis_mcp-0.9.41.tar.gz",
-  "download_time": "2026-05-01T15:25:21.632276",
+  "download_filename": "noesis_mcp-0.9.44.tar.gz",
+  "download_time": "2026-05-01T21:16:56.715525",
   "package_url": "https://pypi.org/project/noesis-mcp/"
 }
