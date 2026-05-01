@@ -1,0 +1,11 @@
+{
+  "name": "gmdkit",
+  "version": "0.5.2",
+  "summary": "A toolkit for handling Geometry Dash level data.",
+  "author": "HDanke",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gmdkit-0.5.2.tar.gz",
+  "download_time": "2026-05-01T18:15:10.820721",
+  "package_url": "https://pypi.org/project/gmdkit/"
+}

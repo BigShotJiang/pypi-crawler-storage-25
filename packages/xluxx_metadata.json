@@ -1,11 +1,11 @@
 {
   "name": "xluxx",
-  "version": "0.3.3",
-  "summary": "XLUXX Trust Layer - runtime trust scores for MCP tools. Makes AI agents reliable.",
-  "author": null,
+  "version": "0.4.0",
+  "summary": "XLUXX Trust Layer SDK — runtime trust scores for 15,000+ MCP servers, Resonance Engine, and Context Gate. Makes AI agents reliable.",
+  "author": "XLUXX",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "xluxx-0.3.3.tar.gz",
-  "download_time": "2026-04-27T22:21:44.163480",
+  "home_page": "https://github.com/DrDMT-VR/xluxx-trust",
+  "download_filename": "xluxx-0.4.0.tar.gz",
+  "download_time": "2026-05-01T18:15:01.980950",
   "package_url": "https://pypi.org/project/xluxx/"
 }

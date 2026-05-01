@@ -1,0 +1,11 @@
+{
+  "name": "jragmunch",
+  "version": "0.4.4",
+  "summary": "Maximal token-efficient RAG for headless Claude. Uses your existing claude CLI; auth-agnostic; slice-level retrieval.",
+  "author": "jgravelle",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "jragmunch-0.4.4.tar.gz",
+  "download_time": "2026-05-01T18:14:50.792044",
+  "package_url": "https://pypi.org/project/jragmunch/"
+}

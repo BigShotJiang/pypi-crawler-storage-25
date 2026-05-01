@@ -1,11 +1,11 @@
 {
   "name": "rad-point-kernel",
-  "version": "1.5.3",
+  "version": "1.8.0",
   "summary": "Point-kernel neutron and photon transmission/dose calculator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rad_point_kernel-1.5.3.tar.gz",
-  "download_time": "2026-04-30T11:28:20.531554",
+  "download_filename": "rad_point_kernel-1.8.0.tar.gz",
+  "download_time": "2026-05-01T18:14:59.697196",
   "package_url": "https://pypi.org/project/rad-point-kernel/"
 }

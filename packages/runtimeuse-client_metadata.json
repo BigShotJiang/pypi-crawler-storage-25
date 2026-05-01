@@ -1,11 +1,11 @@
 {
   "name": "runtimeuse-client",
-  "version": "0.12.0",
+  "version": "0.15.1",
   "summary": "Client library for AI agent runtime communication over WebSocket",
   "author": null,
   "license": "FSL",
   "home_page": null,
-  "download_filename": "runtimeuse_client-0.12.0.tar.gz",
-  "download_time": "2026-04-19T21:41:59.204011",
+  "download_filename": "runtimeuse_client-0.15.1.tar.gz",
+  "download_time": "2026-05-01T18:14:50.210201",
   "package_url": "https://pypi.org/project/runtimeuse-client/"
 }

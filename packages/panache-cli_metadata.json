@@ -1,11 +1,11 @@
 {
   "name": "panache-cli",
-  "version": "2.39.0",
-  "summary": "An LSP, formatter, and linter for Pandoc markdown, Quarto, and RMarkdown",
+  "version": "2.41.1",
+  "summary": "A language server, formatter, and linter for Markdown, Quarto, and R Markdown",
   "author": null,
   "license": "MIT",
   "home_page": "https://panache.bz",
-  "download_filename": "panache_cli-2.39.0.tar.gz",
-  "download_time": "2026-04-27T08:31:19.771036",
+  "download_filename": "panache_cli-2.41.1.tar.gz",
+  "download_time": "2026-05-01T18:14:54.179882",
   "package_url": "https://pypi.org/project/panache-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "botas-fastapi",
+  "version": "0.3.69",
+  "summary": "FastAPI integration for botas – zero-boilerplate Bot Service bot hosting",
+  "author": "rido-min",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "botas_fastapi-0.3.69.tar.gz",
+  "download_time": "2026-05-01T18:15:47.968738",
+  "package_url": "https://pypi.org/project/botas-fastapi/"
+}

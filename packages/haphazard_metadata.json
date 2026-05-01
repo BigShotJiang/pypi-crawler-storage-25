@@ -1,11 +1,11 @@
 {
   "name": "haphazard",
-  "version": "1.2.2",
+  "version": "1.2.6",
   "summary": "A modular framework for registering and running haphazard datasets and models.",
   "author": "Arijit Das",
   "license": "MIT",
   "home_page": "https://github.com/theArijitDas/Haphazard-Package/",
-  "download_filename": "haphazard-1.2.2.tar.gz",
-  "download_time": "2026-04-25T14:36:45.936521",
+  "download_filename": "haphazard-1.2.6.tar.gz",
+  "download_time": "2026-05-01T18:15:27.916922",
   "package_url": "https://pypi.org/project/haphazard/"
 }

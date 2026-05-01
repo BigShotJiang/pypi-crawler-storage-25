@@ -1,0 +1,11 @@
+{
+  "name": "sec-report-kit",
+  "version": "0.1.5",
+  "summary": "Generate HTML security reports from Trivy and pip-audit JSON",
+  "author": "Ravi Konduru",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sec_report_kit-0.1.5.tar.gz",
+  "download_time": "2026-05-01T18:14:56.575819",
+  "package_url": "https://pypi.org/project/sec-report-kit/"
+}
