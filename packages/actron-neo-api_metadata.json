@@ -1,11 +1,11 @@
 {
   "name": "actron-neo-api",
-  "version": "0.5.8",
+  "version": "0.5.9",
   "summary": "Python API wrapper for the Actron Air API, supporting Neo and Que systems.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "actron_neo_api-0.5.8.tar.gz",
-  "download_time": "2026-05-01T10:53:24.472752",
+  "download_filename": "actron_neo_api-0.5.9.tar.gz",
+  "download_time": "2026-05-01T11:54:14.277294",
   "package_url": "https://pypi.org/project/actron-neo-api/"
 }

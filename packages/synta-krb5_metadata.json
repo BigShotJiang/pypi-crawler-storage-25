@@ -1,0 +1,11 @@
+{
+  "name": "synta-krb5",
+  "version": "0.2.0",
+  "summary": "Kerberos V5 ASN.1 types for the synta library",
+  "author": "Synta Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "synta_krb5-0.2.0-cp38-abi3-manylinux_2_38_x86_64.whl",
+  "download_time": "2026-05-01T11:54:20.968436",
+  "package_url": "https://pypi.org/project/synta-krb5/"
+}

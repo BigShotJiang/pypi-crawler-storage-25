@@ -1,11 +1,11 @@
 {
   "name": "vmware-storage",
-  "version": "1.5.12",
+  "version": "1.5.17",
   "summary": "VMware vSphere storage management: datastores, iSCSI, vSAN. Domain-focused MCP skill.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vmware_storage-1.5.12.tar.gz",
-  "download_time": "2026-04-17T10:19:50.104850",
+  "download_filename": "vmware_storage-1.5.17.tar.gz",
+  "download_time": "2026-05-01T11:53:52.524412",
   "package_url": "https://pypi.org/project/vmware-storage/"
 }

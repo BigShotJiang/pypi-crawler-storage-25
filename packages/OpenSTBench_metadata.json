@@ -1,0 +1,11 @@
+{
+  "name": "OpenSTBench",
+  "version": "0.3.3",
+  "summary": "Open speech and translation benchmarking toolkit supporting MT, ASR, TTS, SimulST, VC, and paralinguistics with optimized CJK language support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openstbench-0.3.3.tar.gz",
+  "download_time": "2026-05-01T11:53:38.600117",
+  "package_url": "https://pypi.org/project/OpenSTBench/"
+}

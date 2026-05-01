@@ -1,0 +1,11 @@
+{
+  "name": "bigquery-cleaner",
+  "version": "0.1.7",
+  "summary": "CLI tool to clean up your BigQuery old and unused datasets and tables.",
+  "author": "Alan Vainsencher",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bigquery_cleaner-0.1.7.tar.gz",
+  "download_time": "2026-05-01T11:54:17.363196",
+  "package_url": "https://pypi.org/project/bigquery-cleaner/"
+}

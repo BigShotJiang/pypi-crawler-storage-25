@@ -1,0 +1,11 @@
+{
+  "name": "git-repostats",
+  "version": "0.1.0",
+  "summary": "Fast Git analytics tool powered by Rust, providing detailed author contribution statistics including commits, lines of code, insertions, deletions, and churn.",
+  "author": "Kishor Ninawe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_repostats-0.1.0.tar.gz",
+  "download_time": "2026-05-01T11:53:41.703006",
+  "package_url": "https://pypi.org/project/git-repostats/"
+}

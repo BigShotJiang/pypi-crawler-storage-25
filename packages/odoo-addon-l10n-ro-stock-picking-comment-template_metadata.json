@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-ro-stock-picking-comment-template",
+  "version": "19.0.1.1.0",
+  "summary": "This model is going to add a a header and a footer at picking report depeding on the operation type.",
+  "author": "NextERP Romania,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-romania",
+  "download_filename": "odoo_addon_l10n_ro_stock_picking_comment_template-19.0.1.1.0-py3-none-any.whl",
+  "download_time": "2026-05-01T11:53:45.290287",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-ro-stock-picking-comment-template/"
+}

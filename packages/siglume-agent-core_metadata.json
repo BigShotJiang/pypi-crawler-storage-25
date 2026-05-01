@@ -1,0 +1,11 @@
+{
+  "name": "siglume-agent-core",
+  "version": "0.1.0",
+  "summary": "Open-core orchestrator logic for the Siglume API Store agent runtime — tool-manual quality scoring + LLM provider tool adapters.",
+  "author": null,
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "siglume_agent_core-0.1.0.tar.gz",
+  "download_time": "2026-05-01T11:54:14.788908",
+  "package_url": "https://pypi.org/project/siglume-agent-core/"
+}

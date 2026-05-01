@@ -1,11 +1,11 @@
 {
   "name": "vmware-nsx-security",
-  "version": "1.5.12",
+  "version": "1.5.17",
   "summary": "VMware NSX DFW microsegmentation and security: distributed firewall, security groups, tags, traceflow, IDPS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vmware_nsx_security-1.5.12.tar.gz",
-  "download_time": "2026-04-17T10:19:48.566014",
+  "download_filename": "vmware_nsx_security-1.5.17.tar.gz",
+  "download_time": "2026-05-01T11:53:50.975463",
   "package_url": "https://pypi.org/project/vmware-nsx-security/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "obsly-ai",
-  "version": "0.7.0",
+  "version": "0.9.4",
   "summary": "AI code intelligence: token tracking, attribution, cost analysis for Claude Code, Codex, Cursor",
   "author": "Xavi Guardia",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "obsly_ai-0.7.0.tar.gz",
-  "download_time": "2026-04-11T21:36:09.665583",
+  "download_filename": "obsly_ai-0.9.4.tar.gz",
+  "download_time": "2026-05-01T11:53:56.192006",
   "package_url": "https://pypi.org/project/obsly-ai/"
 }
