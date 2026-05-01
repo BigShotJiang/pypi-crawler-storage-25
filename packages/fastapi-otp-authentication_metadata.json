@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-otp-authentication",
+  "version": "0.2.0",
+  "summary": "A flexible, type-safe library for adding OTP-based authentication to FastAPI applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_otp_authentication-0.2.0.tar.gz",
+  "download_time": "2026-05-01T23:20:07.301211",
+  "package_url": "https://pypi.org/project/fastapi-otp-authentication/"
+}

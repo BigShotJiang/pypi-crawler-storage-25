@@ -1,0 +1,11 @@
+{
+  "name": "elifecleaner",
+  "version": "0.88.0",
+  "summary": "Clean and transform article submission files into a consistent format.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/elifesciences/elife-cleaner",
+  "download_filename": "elifecleaner-0.88.0.tar.gz",
+  "download_time": "2026-05-01T23:19:25.446423",
+  "package_url": "https://pypi.org/project/elifecleaner/"
+}

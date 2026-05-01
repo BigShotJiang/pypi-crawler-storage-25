@@ -1,0 +1,11 @@
+{
+  "name": "slackker",
+  "version": "1.2.38",
+  "summary": "Python package for monitoring your python script & Model training status in real-time on slack & telegram.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slackker-1.2.38.tar.gz",
+  "download_time": "2026-05-01T23:19:44.645643",
+  "package_url": "https://pypi.org/project/slackker/"
+}

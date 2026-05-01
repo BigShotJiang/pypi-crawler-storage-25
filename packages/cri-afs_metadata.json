@@ -1,0 +1,11 @@
+{
+  "name": "cri-afs",
+  "version": "0.1.0",
+  "summary": "Reader/writer for the CRI AFS archive format used in PS2/Dreamcast/GameCube games",
+  "author": "soyjxck",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cri_afs-0.1.0.tar.gz",
+  "download_time": "2026-05-01T23:19:21.867043",
+  "package_url": "https://pypi.org/project/cri-afs/"
+}

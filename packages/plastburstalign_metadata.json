@@ -1,0 +1,11 @@
+{
+  "name": "plastburstalign",
+  "version": "0.9.4",
+  "summary": "A Python tool to extract and align genes, introns, and intergenic spacers across hundreds of plastid genomes using associative arrays",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plastburstalign-0.9.4.tar.gz",
+  "download_time": "2026-05-01T23:19:57.535625",
+  "package_url": "https://pypi.org/project/plastburstalign/"
+}

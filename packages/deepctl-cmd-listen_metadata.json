@@ -1,11 +1,11 @@
 {
   "name": "deepctl-cmd-listen",
-  "version": "0.0.7",
+  "version": "0.0.10",
   "summary": "Listen (live speech-to-text) command for deepctl",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deepctl_cmd_listen-0.0.7.tar.gz",
-  "download_time": "2026-03-30T17:38:34.427526",
+  "download_filename": "deepctl_cmd_listen-0.0.10.tar.gz",
+  "download_time": "2026-05-01T23:19:25.956731",
   "package_url": "https://pypi.org/project/deepctl-cmd-listen/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "deepctl-cmd-debug-toolkit",
+  "version": "0.1.0",
+  "summary": "Toolkit subcommand for dg debug — runs field support scripts from deepgram/support-toolkit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepctl_cmd_debug_toolkit-0.1.0.tar.gz",
+  "download_time": "2026-05-01T23:19:26.533394",
+  "package_url": "https://pypi.org/project/deepctl-cmd-debug-toolkit/"
+}

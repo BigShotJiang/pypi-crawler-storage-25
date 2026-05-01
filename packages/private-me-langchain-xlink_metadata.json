@@ -1,0 +1,11 @@
+{
+  "name": "private-me-langchain-xlink",
+  "version": "0.1.3",
+  "summary": "Identity-based M2M authentication for LangChain agents (Python bindings)",
+  "author": "Private.Me",
+  "license": null,
+  "home_page": "https://private.me/docs/langchain",
+  "download_filename": "private_me_langchain_xlink-0.1.3.tar.gz",
+  "download_time": "2026-05-01T23:19:52.371959",
+  "package_url": "https://pypi.org/project/private-me-langchain-xlink/"
+}

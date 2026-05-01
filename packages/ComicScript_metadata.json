@@ -1,11 +1,11 @@
 {
   "name": "ComicScript",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "summary": "A library that turns boring Python errors into hilarious roasts.",
   "author": "Emiliano (emicics)",
   "license": null,
   "home_page": "https://github.com/tu_usuario/ComicScript",
-  "download_filename": "comicscript-1.0.3.tar.gz",
-  "download_time": "2026-05-01T22:19:03.545962",
+  "download_filename": "comicscript-1.0.6.tar.gz",
+  "download_time": "2026-05-01T23:19:43.091433",
   "package_url": "https://pypi.org/project/ComicScript/"
 }

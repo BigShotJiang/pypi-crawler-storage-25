@@ -1,0 +1,11 @@
+{
+  "name": "chess-spectral",
+  "version": "1.8.0",
+  "summary": "Spectral lattice-fermion encoder for 2D and 4D chess (D4 / B4 symmetry, graph-Laplacian eigenbasis, 640-dim / 45 056-dim HDC)",
+  "author": "Steven Kirkland",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chess_spectral-1.8.0.tar.gz",
+  "download_time": "2026-05-01T23:19:39.409127",
+  "package_url": "https://pypi.org/project/chess-spectral/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "parso",
+  "version": "0.8.7",
+  "summary": "A Python Parser",
+  "author": "David Halter",
+  "license": "MIT",
+  "home_page": "https://github.com/davidhalter/parso",
+  "download_filename": "parso-0.8.7.tar.gz",
+  "download_time": "2026-05-01T23:19:36.296554",
+  "package_url": "https://pypi.org/project/parso/"
+}
