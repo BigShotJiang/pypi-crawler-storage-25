@@ -1,11 +1,11 @@
 {
   "name": "regula-documentreader-webclient",
-  "version": "9.3.774",
+  "version": "9.4.829",
   "summary": "Regula's Document Reader python client",
   "author": "Regula Forensics, Inc.",
   "license": null,
   "home_page": "https://regulaforensics.com",
-  "download_filename": "regula_documentreader_webclient-9.3.774.tar.gz",
-  "download_time": "2026-03-31T22:35:10.031170",
+  "download_filename": "regula_documentreader_webclient-9.4.829.tar.gz",
+  "download_time": "2026-05-01T22:19:02.391404",
   "package_url": "https://pypi.org/project/regula-documentreader-webclient/"
 }

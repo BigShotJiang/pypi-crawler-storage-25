@@ -1,0 +1,11 @@
+{
+  "name": "coglet",
+  "version": "0.19.2",
+  "summary": "High-performance Rust prediction server for Cog ML models",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "coglet-0.19.2-cp310-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-01T22:18:45.368236",
+  "package_url": "https://pypi.org/project/coglet/"
+}

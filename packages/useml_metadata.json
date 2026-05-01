@@ -1,0 +1,11 @@
+{
+  "name": "useml",
+  "version": "0.1.0",
+  "summary": "Minimalist ML experiment versioning for PyTorch — checkpointing, source archiving, and model isolation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "useml-0.1.0.tar.gz",
+  "download_time": "2026-05-01T22:18:59.976295",
+  "package_url": "https://pypi.org/project/useml/"
+}

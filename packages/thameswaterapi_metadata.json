@@ -1,0 +1,11 @@
+{
+  "name": "thameswaterapi",
+  "version": "0.3.1",
+  "summary": "A Python client for retrieving hourly meter data from Thames Water",
+  "author": "Ayrton Bourn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "thameswaterapi-0.3.1.tar.gz",
+  "download_time": "2026-05-01T22:19:04.120342",
+  "package_url": "https://pypi.org/project/thameswaterapi/"
+}

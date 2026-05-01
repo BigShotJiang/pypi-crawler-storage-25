@@ -1,0 +1,11 @@
+{
+  "name": "avica",
+  "version": "0.3.1.1",
+  "summary": "AVICA: Automated VLBI pipeline in CASA",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "avica-0.3.1.1.tar.gz",
+  "download_time": "2026-05-01T22:19:19.835240",
+  "package_url": "https://pypi.org/project/avica/"
+}

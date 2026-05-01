@@ -1,0 +1,11 @@
+{
+  "name": "libvirt-python",
+  "version": "12.3.0",
+  "summary": "The libvirt virtualization API python binding",
+  "author": null,
+  "license": "LGPL-v2.0-or-later",
+  "home_page": "http://www.libvirt.org",
+  "download_filename": "libvirt_python-12.3.0.tar.gz",
+  "download_time": "2026-05-01T22:19:05.857075",
+  "package_url": "https://pypi.org/project/libvirt-python/"
+}

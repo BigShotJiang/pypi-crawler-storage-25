@@ -1,0 +1,11 @@
+{
+  "name": "flask-headless-auth",
+  "version": "0.1.15",
+  "summary": "🔐 Production-ready Flask auth in one line. 20+ routes (JWT, OAuth, MFA, RBAC) instantly. Works with React/Next.js/Vue. Self-hosted, secure by default. Free Auth0/Clerk alternative ($3,600/year saved). Perfect for SPAs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flask_headless_auth-0.1.15.tar.gz",
+  "download_time": "2026-05-01T22:18:40.525026",
+  "package_url": "https://pypi.org/project/flask-headless-auth/"
+}

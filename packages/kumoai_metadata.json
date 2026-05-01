@@ -1,11 +1,11 @@
 {
   "name": "kumoai",
-  "version": "2.20.2",
+  "version": "2.20.3",
   "summary": "AI on the Modern Data Stack",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kumoai-2.20.2-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2026-04-14T17:58:10.609719",
+  "download_filename": "kumoai-2.20.3-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-01T22:19:18.104876",
   "package_url": "https://pypi.org/project/kumoai/"
 }

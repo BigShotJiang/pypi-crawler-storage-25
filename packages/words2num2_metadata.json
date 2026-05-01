@@ -1,0 +1,11 @@
+{
+  "name": "words2num2",
+  "version": "0.2.2",
+  "summary": "Inverse of num2words2: convert spoken-form numbers back to numeric values across 100+ languages.",
+  "author": "Jean-Louis Queguiner",
+  "license": "LGPL-2.1",
+  "home_page": "https://github.com/jqueguiner/words2num2",
+  "download_filename": "words2num2-0.2.2.tar.gz",
+  "download_time": "2026-05-01T22:18:39.949554",
+  "package_url": "https://pypi.org/project/words2num2/"
+}

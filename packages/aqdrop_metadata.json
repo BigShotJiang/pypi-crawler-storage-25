@@ -1,11 +1,11 @@
 {
   "name": "aqdrop",
-  "version": "0.0.9",
+  "version": "0.13",
   "summary": "Thin client SDK for AQDROP API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aqdrop-0.0.9.tar.gz",
-  "download_time": "2026-04-27T00:04:35.279732",
+  "download_filename": "aqdrop-0.13.tar.gz",
+  "download_time": "2026-05-01T22:19:15.146619",
   "package_url": "https://pypi.org/project/aqdrop/"
 }

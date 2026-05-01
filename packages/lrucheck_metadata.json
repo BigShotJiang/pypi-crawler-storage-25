@@ -1,0 +1,11 @@
+{
+  "name": "lrucheck",
+  "version": "0.2.0",
+  "summary": "Detect memory-leak patterns in Python's functools.lru_cache usage.",
+  "author": "Kadermiyanyedi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lrucheck-0.2.0.tar.gz",
+  "download_time": "2026-05-01T22:18:49.845471",
+  "package_url": "https://pypi.org/project/lrucheck/"
+}

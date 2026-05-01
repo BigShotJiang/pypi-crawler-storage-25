@@ -1,0 +1,11 @@
+{
+  "name": "matimo-postgres",
+  "version": "0.1.0",
+  "summary": "Matimo provider — PostgreSQL tools (query, insert, update, delete, execute SQL)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "matimo_postgres-0.1.0-py3-none-any.whl",
+  "download_time": "2026-05-01T22:18:34.136319",
+  "package_url": "https://pypi.org/project/matimo-postgres/"
+}

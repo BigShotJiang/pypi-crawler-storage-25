@@ -1,0 +1,11 @@
+{
+  "name": "zyndpay",
+  "version": "1.6.0",
+  "summary": "Official ZyndPay Python SDK — accept USDT payments with a few lines of code",
+  "author": "ZyndPay",
+  "license": null,
+  "home_page": "https://github.com/zyndpay/zyndpay-python",
+  "download_filename": "zyndpay-1.6.0.tar.gz",
+  "download_time": "2026-05-01T22:18:47.599286",
+  "package_url": "https://pypi.org/project/zyndpay/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "py-SEED",
+  "version": "0.5.2",
+  "summary": "A Python API client for the SEED Platform",
+  "author": "Nicholas Long, Katherine Fleming, Fable Turas, Paul Munday",
+  "license": null,
+  "home_page": "https://github.com/SEED-platform/py-seed",
+  "download_filename": "py_seed-0.5.2.tar.gz",
+  "download_time": "2026-05-01T22:19:22.731687",
+  "package_url": "https://pypi.org/project/py-SEED/"
+}
