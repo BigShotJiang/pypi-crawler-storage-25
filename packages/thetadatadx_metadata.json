@@ -1,11 +1,11 @@
 {
   "name": "thetadatadx",
-  "version": "8.0.21",
+  "version": "8.0.22",
   "summary": "No-JVM ThetaData Terminal — native Rust SDK for direct market data access (Python bindings)",
   "author": "userFRM",
   "license": "Apache-2.0",
   "home_page": "https://github.com/userFRM/ThetaDataDx",
-  "download_filename": "thetadatadx-8.0.21.tar.gz",
-  "download_time": "2026-05-01T12:52:29.850023",
+  "download_filename": "thetadatadx-8.0.22.tar.gz",
+  "download_time": "2026-05-01T15:25:46.615568",
   "package_url": "https://pypi.org/project/thetadatadx/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "jsrc",
-  "version": "0.1.2",
+  "version": "0.1.7",
   "summary": "General-purpose toolkit for bioinformatics, data analysis, plotting, and text processing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jsrc-0.1.2.tar.gz",
-  "download_time": "2026-04-21T12:07:36.597951",
+  "download_filename": "jsrc-0.1.7.tar.gz",
+  "download_time": "2026-05-01T15:25:34.712567",
   "package_url": "https://pypi.org/project/jsrc/"
 }

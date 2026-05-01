@@ -1,11 +1,11 @@
 {
   "name": "zhipin-geek",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "BOSS 直聘求职端 CLI — 搜索职位、查看消息、发送简历、交换联系方式",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zhipin_geek-0.1.0.tar.gz",
-  "download_time": "2026-04-21T15:49:38.979157",
+  "download_filename": "zhipin_geek-0.1.1.tar.gz",
+  "download_time": "2026-05-01T15:25:27.513055",
   "package_url": "https://pypi.org/project/zhipin-geek/"
 }

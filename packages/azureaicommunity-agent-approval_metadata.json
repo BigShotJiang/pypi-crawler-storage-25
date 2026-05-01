@@ -1,11 +1,11 @@
 {
   "name": "azureaicommunity-agent-approval",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Human-in-the-loop approval gate middleware for AI agent tool calls",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "azureaicommunity_agent_approval-0.1.0.tar.gz",
-  "download_time": "2026-05-01T09:20:36.736397",
+  "download_filename": "azureaicommunity_agent_approval-0.2.0.tar.gz",
+  "download_time": "2026-05-01T15:25:57.999804",
   "package_url": "https://pypi.org/project/azureaicommunity-agent-approval/"
 }

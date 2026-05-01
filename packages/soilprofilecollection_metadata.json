@@ -1,0 +1,11 @@
+{
+  "name": "soilprofilecollection",
+  "version": "0.3.1",
+  "summary": "A 'Python' implementation of the 'SoilProfileCollection' object from the 'R' package 'aqp'",
+  "author": "Andrew Gene Brown",
+  "license": null,
+  "home_page": null,
+  "download_filename": "soilprofilecollection-0.3.1.tar.gz",
+  "download_time": "2026-05-01T15:25:25.444971",
+  "package_url": "https://pypi.org/project/soilprofilecollection/"
+}

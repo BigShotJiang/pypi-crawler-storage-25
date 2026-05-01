@@ -1,11 +1,11 @@
 {
   "name": "weeb-cli",
-  "version": "2.14.0",
+  "version": "2.15.0",
   "summary": "No browser, no ads, no distractions. Just you and an unparalleled anime viewing experience.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "weeb_cli-2.14.0.tar.gz",
-  "download_time": "2026-03-29T09:49:59.507445",
+  "download_filename": "weeb_cli-2.15.0.tar.gz",
+  "download_time": "2026-05-01T15:25:25.962845",
   "package_url": "https://pypi.org/project/weeb-cli/"
 }

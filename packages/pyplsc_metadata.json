@@ -1,11 +1,11 @@
 {
   "name": "pyplsc",
-  "version": "0.0.9",
+  "version": "0.0.16",
   "summary": "Python implementation of partial least squares correlation (PLSC)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyplsc-0.0.9.tar.gz",
-  "download_time": "2026-04-13T22:07:51.951434",
+  "download_filename": "pyplsc-0.0.16.tar.gz",
+  "download_time": "2026-05-01T15:25:16.748573",
   "package_url": "https://pypi.org/project/pyplsc/"
 }

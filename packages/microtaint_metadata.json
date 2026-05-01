@@ -1,11 +1,11 @@
 {
   "name": "microtaint",
-  "version": "0.3.1",
+  "version": "0.6.1",
   "summary": "Bit-precise taint rules generation using Ghidra's P-Code.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "microtaint-0.3.1.tar.gz",
-  "download_time": "2026-04-26T19:38:22.424846",
+  "download_filename": "microtaint-0.6.1.tar.gz",
+  "download_time": "2026-05-01T15:25:35.225689",
   "package_url": "https://pypi.org/project/microtaint/"
 }

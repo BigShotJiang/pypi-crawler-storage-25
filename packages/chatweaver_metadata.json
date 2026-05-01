@@ -1,0 +1,11 @@
+{
+  "name": "chatweaver",
+  "version": "1.2.1",
+  "summary": "A Python library that simplifies building AI-driven chatbots with OpenAI, offering conversation management, file attachments, and persistent storage in one cohesive package.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chatweaver-1.2.1.tar.gz",
+  "download_time": "2026-05-01T15:25:23.175388",
+  "package_url": "https://pypi.org/project/chatweaver/"
+}

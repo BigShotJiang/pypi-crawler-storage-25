@@ -1,0 +1,11 @@
+{
+  "name": "valent-msfabric-utils",
+  "version": "0.1.2",
+  "summary": "Utility functions for Microsoft Fabric notebooks — REST API client, Spark table logging, and DAG cycle detection.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "valent_msfabric_utils-0.1.2.tar.gz",
+  "download_time": "2026-05-01T15:25:22.148758",
+  "package_url": "https://pypi.org/project/valent-msfabric-utils/"
+}

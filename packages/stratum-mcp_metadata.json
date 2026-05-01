@@ -1,11 +1,11 @@
 {
   "name": "stratum-mcp",
-  "version": "0.2.36",
+  "version": "0.2.41",
   "summary": "Stratum MCP server for Claude Code — structured execution, typed contracts, postcondition enforcement",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "stratum_mcp-0.2.36.tar.gz",
-  "download_time": "2026-04-19T11:13:16.542451",
+  "download_filename": "stratum_mcp-0.2.41.tar.gz",
+  "download_time": "2026-05-01T15:25:37.280285",
   "package_url": "https://pypi.org/project/stratum-mcp/"
 }
