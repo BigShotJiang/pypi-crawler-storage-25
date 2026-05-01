@@ -1,0 +1,11 @@
+{
+  "name": "nv-ppcie-verifier",
+  "version": "2.0.0",
+  "summary": "Protected PCIE Verifier SDK CPP",
+  "author": "Kartheeka Bokka",
+  "license": "OSI Approved :: Apache Software License",
+  "home_page": null,
+  "download_filename": "nv_ppcie_verifier-2.0.0-py3-none-any.whl",
+  "download_time": "2026-05-01T00:18:32.604991",
+  "package_url": "https://pypi.org/project/nv-ppcie-verifier/"
+}

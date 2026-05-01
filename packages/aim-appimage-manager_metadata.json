@@ -1,0 +1,11 @@
+{
+  "name": "aim-appimage-manager",
+  "version": "0.1.0",
+  "summary": "A lightweight CLI for installing and managing AppImages on Linux.",
+  "author": "Leon Francis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aim_appimage_manager-0.1.0.tar.gz",
+  "download_time": "2026-05-01T00:18:39.880069",
+  "package_url": "https://pypi.org/project/aim-appimage-manager/"
+}

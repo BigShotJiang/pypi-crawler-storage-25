@@ -1,11 +1,11 @@
 {
   "name": "cdxcore",
-  "version": "0.1.76",
+  "version": "0.1.80",
   "summary": "Basic Python Tools; upgraded cdxbasics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cdxcore-0.1.76.tar.gz",
-  "download_time": "2026-04-14T07:34:31.628562",
+  "download_filename": "cdxcore-0.1.80.tar.gz",
+  "download_time": "2026-05-01T00:18:05.810096",
   "package_url": "https://pypi.org/project/cdxcore/"
 }

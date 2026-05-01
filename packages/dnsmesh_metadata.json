@@ -1,11 +1,11 @@
 {
   "name": "dnsmesh",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "summary": "A federated end-to-end encrypted messaging protocol delivered over DNS",
   "author": "Oscar Valenzuela B",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/oscarvalenzuelab/DNSMeshProtocol",
-  "download_filename": "dnsmesh-0.6.0.tar.gz",
-  "download_time": "2026-04-27T19:18:56.357812",
+  "download_filename": "dnsmesh-0.6.2.tar.gz",
+  "download_time": "2026-05-01T00:18:11.035304",
   "package_url": "https://pypi.org/project/dnsmesh/"
 }
