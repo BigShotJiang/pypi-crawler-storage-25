@@ -1,11 +1,11 @@
 {
   "name": "mineru-selfhosted-mcp",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "MCP bridge for a self-hosted MinerU API",
   "author": "OpenAI Codex for root123",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mineru_selfhosted_mcp-0.1.6.tar.gz",
-  "download_time": "2026-04-30T18:25:29.646763",
+  "download_filename": "mineru_selfhosted_mcp-0.1.8.tar.gz",
+  "download_time": "2026-05-01T10:53:25.498822",
   "package_url": "https://pypi.org/project/mineru-selfhosted-mcp/"
 }

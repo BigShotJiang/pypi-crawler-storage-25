@@ -1,11 +1,11 @@
 {
   "name": "is-crawler",
-  "version": "1.5.10",
+  "version": "1.5.12",
   "summary": "Crawler detection from User-Agent strings in 50 ns. Zero deps, no regex, ReDoS-safe.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "is_crawler-1.5.10.tar.gz",
-  "download_time": "2026-04-29T18:56:42.723633",
+  "download_filename": "is_crawler-1.5.12.tar.gz",
+  "download_time": "2026-05-01T10:52:58.209861",
   "package_url": "https://pypi.org/project/is-crawler/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "faraway-realms",
-  "version": "0.3.1",
+  "version": "0.6.0",
   "summary": "A real-time tick-based roguelike RPG built with tcod.",
   "author": "Roel",
   "license": null,
   "home_page": null,
-  "download_filename": "faraway_realms-0.3.1.tar.gz",
-  "download_time": "2026-04-25T19:19:54.479656",
+  "download_filename": "faraway_realms-0.6.0.tar.gz",
+  "download_time": "2026-05-01T10:53:28.105550",
   "package_url": "https://pypi.org/project/faraway-realms/"
 }

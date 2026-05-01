@@ -1,11 +1,11 @@
 {
   "name": "openportal",
-  "version": "0.27.0",
+  "version": "0.28.0",
   "summary": "Python wrappers for OpenPortal",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/isambard-sc/openportal/",
-  "download_filename": "openportal-0.27.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-  "download_time": "2026-04-01T06:56:23.740814",
+  "download_filename": "openportal-0.28.0-cp310-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-01T10:52:53.079117",
   "package_url": "https://pypi.org/project/openportal/"
 }

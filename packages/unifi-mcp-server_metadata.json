@@ -1,0 +1,11 @@
+{
+  "name": "unifi-mcp-server",
+  "version": "0.2.5",
+  "summary": "A Model Context Protocol (MCP) server for UniFi Network API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "unifi_mcp_server-0.2.5.tar.gz",
+  "download_time": "2026-05-01T10:52:49.896353",
+  "package_url": "https://pypi.org/project/unifi-mcp-server/"
+}

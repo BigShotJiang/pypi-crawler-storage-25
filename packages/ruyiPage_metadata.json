@@ -1,11 +1,11 @@
 {
   "name": "ruyiPage",
-  "version": "1.1.0",
+  "version": "1.2.3",
   "summary": "专用于 AI 分析和数据采集场景，可拦截任意请求响应包的 Firefox 自动化库。",
   "author": "ruyiPage",
   "license": null,
   "home_page": null,
-  "download_filename": "ruyipage-1.1.0.tar.gz",
-  "download_time": "2026-04-13T10:40:09.473123",
+  "download_filename": "ruyipage-1.2.3.tar.gz",
+  "download_time": "2026-05-01T10:53:07.481186",
   "package_url": "https://pypi.org/project/ruyiPage/"
 }

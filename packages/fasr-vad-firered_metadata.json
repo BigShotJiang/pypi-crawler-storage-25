@@ -1,11 +1,11 @@
 {
   "name": "fasr-vad-firered",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "FireRedVAD for fasr (bundled fireredvad inference)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fasr_vad_firered-0.5.1.tar.gz",
-  "download_time": "2026-04-23T11:20:17.998778",
+  "download_filename": "fasr_vad_firered-0.5.2.tar.gz",
+  "download_time": "2026-05-01T10:53:16.771249",
   "package_url": "https://pypi.org/project/fasr-vad-firered/"
 }

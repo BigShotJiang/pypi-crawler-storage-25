@@ -1,11 +1,11 @@
 {
   "name": "python-tripwire",
-  "version": "0.20.1",
-  "summary": "Full-certainty test mocking: every call recorded and verified",
+  "version": "0.21.0",
+  "summary": "DEPRECATED: python-tripwire has been renamed to pytest-tripwire. Install pytest-tripwire instead.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "python_tripwire-0.20.1.tar.gz",
-  "download_time": "2026-04-29T23:39:12.292545",
+  "download_filename": "python_tripwire-0.21.0.tar.gz",
+  "download_time": "2026-05-01T10:53:21.374447",
   "package_url": "https://pypi.org/project/python-tripwire/"
 }

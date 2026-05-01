@@ -1,0 +1,11 @@
+{
+  "name": "fasr-asr-qwen3asr",
+  "version": "0.5.2",
+  "summary": "Qwen3 ASR model for fasr",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fasr_asr_qwen3asr-0.5.2.tar.gz",
+  "download_time": "2026-05-01T10:53:13.647691",
+  "package_url": "https://pypi.org/project/fasr-asr-qwen3asr/"
+}

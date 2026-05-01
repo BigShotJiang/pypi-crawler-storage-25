@@ -1,11 +1,11 @@
 {
   "name": "fasr-asr-paraformer",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "paraformer asr model for fasr",
   "author": "osc",
   "license": null,
   "home_page": null,
-  "download_filename": "fasr_asr_paraformer-0.5.1.tar.gz",
-  "download_time": "2026-04-23T11:20:14.873115",
+  "download_filename": "fasr_asr_paraformer-0.5.2.tar.gz",
+  "download_time": "2026-05-01T10:53:16.260377",
   "package_url": "https://pypi.org/project/fasr-asr-paraformer/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cf-codestats",
+  "version": "0.4.0",
+  "summary": "Code intelligence CLI -- dead code detection, blast radius analysis, dependency tracing, and architecture diagrams. Built by ClaudeFast (claudefa.st).",
+  "author": "Abdo El-Mobayad",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cf_codestats-0.4.0.tar.gz",
+  "download_time": "2026-05-01T10:53:10.044944",
+  "package_url": "https://pypi.org/project/cf-codestats/"
+}
