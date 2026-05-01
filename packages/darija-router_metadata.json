@@ -1,0 +1,11 @@
+{
+  "name": "darija-router",
+  "version": "0.9.0",
+  "summary": "Moroccan Darija (Arabic) phrase analyzer — classify each word by source language (French/English/Darija), detect semantic entities (money, time, date, phone...) and strip morphological prefixes. Built in Rust for O(1) lookup.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "darija_router-0.9.0-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-05-01T16:40:35.877226",
+  "package_url": "https://pypi.org/project/darija-router/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "combfind",
-  "version": "0.1.2",
+  "version": "0.1.8",
   "summary": "Queryable concept map of a codebase for LLM coding agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "combfind-0.1.2.tar.gz",
-  "download_time": "2026-05-01T14:17:04.654701",
+  "download_filename": "combfind-0.1.8.tar.gz",
+  "download_time": "2026-05-01T16:40:44.610400",
   "package_url": "https://pypi.org/project/combfind/"
 }

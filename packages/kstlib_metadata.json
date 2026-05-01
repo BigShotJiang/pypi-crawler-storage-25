@@ -1,11 +1,11 @@
 {
   "name": "kstlib",
-  "version": "2.2.1",
+  "version": "2.6.0",
   "summary": "Config-driven helpers for Python projects (dynamic config, secure secrets, preset logging, and more…)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kstlib-2.2.1.tar.gz",
-  "download_time": "2026-04-17T14:04:22.131979",
+  "download_filename": "kstlib-2.6.0.tar.gz",
+  "download_time": "2026-05-01T16:40:46.245384",
   "package_url": "https://pypi.org/project/kstlib/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "copass-agent-router",
+  "version": "0.5.0",
+  "summary": "High-level Copass agent SDK — hosted agent-runtime routing + integrations + one-liner OAuth flow (Python mirror of @copass/agent-router)",
+  "author": "Olane Inc.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "copass_agent_router-0.5.0.tar.gz",
+  "download_time": "2026-05-01T16:40:23.023300",
+  "package_url": "https://pypi.org/project/copass-agent-router/"
+}

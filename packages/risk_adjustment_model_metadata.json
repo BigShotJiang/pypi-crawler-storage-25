@@ -1,0 +1,11 @@
+{
+  "name": "risk_adjustment_model",
+  "version": "0.5.5",
+  "summary": "Python implementation of healthcare risk adjustment models",
+  "author": "Phil Fehlinger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "risk_adjustment_model-0.5.5.tar.gz",
+  "download_time": "2026-05-01T16:40:41.468283",
+  "package_url": "https://pypi.org/project/risk_adjustment_model/"
+}

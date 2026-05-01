@@ -1,11 +1,11 @@
 {
   "name": "ai-teammate-ros2-bridge",
-  "version": "2.6.23",
+  "version": "2.6.30",
   "summary": "AI Teammate ROS2 Device Bridge",
   "author": "MobioLabs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_teammate_ros2_bridge-2.6.23.tar.gz",
-  "download_time": "2026-04-26T17:46:04.174572",
+  "download_filename": "ai_teammate_ros2_bridge-2.6.30.tar.gz",
+  "download_time": "2026-05-01T16:40:10.646600",
   "package_url": "https://pypi.org/project/ai-teammate-ros2-bridge/"
 }

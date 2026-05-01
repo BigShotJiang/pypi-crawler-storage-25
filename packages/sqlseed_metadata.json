@@ -1,11 +1,11 @@
 {
   "name": "sqlseed",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "Declarative SQLite test data generation toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sqlseed-0.1.13.tar.gz",
-  "download_time": "2026-05-01T00:17:57.425783",
+  "download_filename": "sqlseed-0.1.14.tar.gz",
+  "download_time": "2026-05-01T16:40:31.136459",
   "package_url": "https://pypi.org/project/sqlseed/"
 }

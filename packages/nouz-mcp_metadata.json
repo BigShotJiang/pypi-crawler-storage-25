@@ -1,11 +1,11 @@
 {
   "name": "nouz-mcp",
-  "version": "2.5.4",
+  "version": "2.5.6",
   "summary": "MCP server for Obsidian — semantic knowledge graph with auto-classification, DAG hierarchy, and cross-domain bridge detection",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nouz_mcp-2.5.4.tar.gz",
-  "download_time": "2026-05-01T07:22:25.655476",
+  "download_filename": "nouz_mcp-2.5.6.tar.gz",
+  "download_time": "2026-05-01T16:40:28.410230",
   "package_url": "https://pypi.org/project/nouz-mcp/"
 }
