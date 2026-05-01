@@ -1,11 +1,11 @@
 {
   "name": "devhelm",
-  "version": "0.2.1",
+  "version": "0.6.0",
   "summary": "DevHelm SDK for Python — typed client for monitors, incidents, alerting, and more",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "devhelm-0.2.1.tar.gz",
-  "download_time": "2026-04-22T10:03:09.271035",
+  "download_filename": "devhelm-0.6.0.tar.gz",
+  "download_time": "2026-05-01T20:13:14.465515",
   "package_url": "https://pypi.org/project/devhelm/"
 }

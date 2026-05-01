@@ -1,0 +1,11 @@
+{
+  "name": "stakeout-agent",
+  "version": "0.0.7",
+  "summary": "Drop-in monitoring for GenAI applications",
+  "author": "Kyriakos Fragkeskos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stakeout_agent-0.0.7.tar.gz",
+  "download_time": "2026-05-01T20:13:09.946764",
+  "package_url": "https://pypi.org/project/stakeout-agent/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "securescan",
-  "version": "0.11.2",
+  "version": "0.11.5",
   "summary": "Diff-aware security scanning with multi-tool orchestration, deterministic SARIF, and PR-comment rendering.",
   "author": "Metbcy",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "securescan-0.11.2.tar.gz",
-  "download_time": "2026-05-01T07:21:47.786084",
+  "download_filename": "securescan-0.11.5.tar.gz",
+  "download_time": "2026-05-01T20:12:58.282782",
   "package_url": "https://pypi.org/project/securescan/"
 }

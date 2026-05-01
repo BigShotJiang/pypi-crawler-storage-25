@@ -1,11 +1,11 @@
 {
   "name": "fetchtastic",
-  "version": "0.10.8",
+  "version": "0.10.9",
   "summary": "Meshtastic Firmware and APK Downloader",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fetchtastic-0.10.8.tar.gz",
-  "download_time": "2026-04-29T22:39:14.957179",
+  "download_filename": "fetchtastic-0.10.9.tar.gz",
+  "download_time": "2026-05-01T20:13:06.210829",
   "package_url": "https://pypi.org/project/fetchtastic/"
 }

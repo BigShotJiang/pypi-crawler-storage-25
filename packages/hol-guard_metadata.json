@@ -1,11 +1,11 @@
 {
   "name": "hol-guard",
-  "version": "2.0.84",
+  "version": "2.0.91",
   "summary": "Protect local AI harnesses with HOL Guard before tools run in Codex, Claude Code, Cursor, Gemini, and OpenCode.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hol_guard-2.0.84.tar.gz",
-  "download_time": "2026-04-30T21:08:57.641102",
+  "download_filename": "hol_guard-2.0.91.tar.gz",
+  "download_time": "2026-05-01T20:12:52.035591",
   "package_url": "https://pypi.org/project/hol-guard/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aiva-agent",
+  "version": "0.2.2",
+  "summary": "Clinical-genomics agent: ask natural-language questions over a local VCF and get annotated, literature-grounded answers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiva_agent-0.2.2.tar.gz",
+  "download_time": "2026-05-01T20:13:06.796046",
+  "package_url": "https://pypi.org/project/aiva-agent/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jcp-data-manager",
-  "version": "0.2.2",
+  "version": "0.2.9",
   "summary": "CLI toolkit for JCP session enrichment, job posting, and job expiration checks.",
   "author": "Porter Olson",
   "license": null,
   "home_page": null,
-  "download_filename": "jcp_data_manager-0.2.2.tar.gz",
-  "download_time": "2026-04-22T16:49:45.782933",
+  "download_filename": "jcp_data_manager-0.2.9.tar.gz",
+  "download_time": "2026-05-01T20:13:29.895943",
   "package_url": "https://pypi.org/project/jcp-data-manager/"
 }

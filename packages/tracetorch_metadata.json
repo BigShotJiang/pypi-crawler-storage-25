@@ -1,11 +1,11 @@
 {
   "name": "tracetorch",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "summary": "A strict, ergonomic, and powerful library for SNNs, RNNs and SSMs in PyTorch.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tracetorch-0.18.0.tar.gz",
-  "download_time": "2026-04-19T14:08:57.806520",
+  "download_filename": "tracetorch-0.19.0.tar.gz",
+  "download_time": "2026-05-01T20:13:04.148349",
   "package_url": "https://pypi.org/project/tracetorch/"
 }

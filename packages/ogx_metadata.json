@@ -1,0 +1,11 @@
+{
+  "name": "ogx",
+  "version": "0.8.0",
+  "summary": "Open-source, OpenAI-compatible API server with pluggable providers for any model and any infrastructure",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ogx-0.8.0-py3-none-any.whl",
+  "download_time": "2026-05-01T20:13:05.562380",
+  "package_url": "https://pypi.org/project/ogx/"
+}
