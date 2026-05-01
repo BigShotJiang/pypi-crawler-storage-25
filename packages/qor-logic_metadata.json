@@ -1,11 +1,11 @@
 {
   "name": "qor-logic",
-  "version": "0.35.0",
-  "summary": "QorLogic S.H.I.E.L.D. governance skills for Claude Code, Kilo Code, and future AI coding hosts",
+  "version": "0.41.0",
+  "summary": "Qor-logic S.H.I.E.L.D. governance skills for Claude Code, Kilo Code, and future AI coding hosts",
   "author": "MythologIQ Labs, LLC",
   "license": "BSL-1.1",
   "home_page": null,
-  "download_filename": "qor_logic-0.35.0.tar.gz",
-  "download_time": "2026-04-29T20:24:59.556554",
+  "download_filename": "qor_logic-0.41.0.tar.gz",
+  "download_time": "2026-05-01T18:55:35.874317",
   "package_url": "https://pypi.org/project/qor-logic/"
 }

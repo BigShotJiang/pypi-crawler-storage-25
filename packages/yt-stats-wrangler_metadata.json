@@ -1,0 +1,11 @@
+{
+  "name": "yt-stats-wrangler",
+  "version": "0.4.0",
+  "summary": "A Python package to collect and wrangle YouTube video and channel statistics using the YouTube Data API v3",
+  "author": "Christian Duenas",
+  "license": "MIT",
+  "home_page": "https://github.com/ChristianD37/yt-stats-wrangler",
+  "download_filename": "yt_stats_wrangler-0.4.0.tar.gz",
+  "download_time": "2026-05-01T18:55:46.239736",
+  "package_url": "https://pypi.org/project/yt-stats-wrangler/"
+}

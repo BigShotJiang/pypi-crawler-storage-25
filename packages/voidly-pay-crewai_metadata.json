@@ -1,0 +1,11 @@
+{
+  "name": "voidly-pay-crewai",
+  "version": "0.1.0",
+  "summary": "CrewAI tools for Voidly Pay — drop-in agent-to-agent payments. USDC-backed, x402, signed envelopes. Live on Base mainnet.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voidly_pay_crewai-0.1.0.tar.gz",
+  "download_time": "2026-05-01T18:55:48.821449",
+  "package_url": "https://pypi.org/project/voidly-pay-crewai/"
+}

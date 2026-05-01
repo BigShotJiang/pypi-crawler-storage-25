@@ -1,0 +1,11 @@
+{
+  "name": "purpose-agent",
+  "version": "2.1.1",
+  "summary": "A local-first self-improvement kernel for agents. Turns traces into tested memory so agents improve without fine-tuning.",
+  "author": "Rohan03",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "purpose_agent-2.1.1.tar.gz",
+  "download_time": "2026-05-01T18:55:59.628857",
+  "package_url": "https://pypi.org/project/purpose-agent/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "datatoolpack",
-  "version": "0.7.0",
+  "version": "0.7.3",
   "summary": "Official Python SDK for the AutoData ML data preparation pipeline API",
   "author": "AutoData Team",
   "license": null,
   "home_page": "https://autodata.datatoolpack.com",
-  "download_filename": "datatoolpack-0.7.0.tar.gz",
-  "download_time": "2026-04-17T18:11:44.982352",
+  "download_filename": "datatoolpack-0.7.3.tar.gz",
+  "download_time": "2026-05-01T18:55:55.518878",
   "package_url": "https://pypi.org/project/datatoolpack/"
 }
