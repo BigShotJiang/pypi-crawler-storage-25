@@ -1,11 +1,11 @@
 {
   "name": "zeno-channel-email",
-  "version": "1.0.0rc2",
+  "version": "1.1.0",
   "summary": "Email channel for Zeno (Resend inbound + outbound).",
   "author": "Niels Kootstra",
   "license": null,
   "home_page": null,
-  "download_filename": "zeno_channel_email-1.0.0rc2.tar.gz",
-  "download_time": "2026-04-25T21:29:27.046135",
+  "download_filename": "zeno_channel_email-1.1.0.tar.gz",
+  "download_time": "2026-05-01T12:52:02.017230",
   "package_url": "https://pypi.org/project/zeno-channel-email/"
 }

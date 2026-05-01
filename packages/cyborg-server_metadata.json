@@ -1,11 +1,11 @@
 {
   "name": "cyborg-server",
-  "version": "0.4.7",
+  "version": "0.4.9",
   "summary": "Cyborg data service — server, CLI, and shared libraries",
   "author": "OpenClaw",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cyborg_server-0.4.7.tar.gz",
-  "download_time": "2026-04-30T11:28:42.556162",
+  "download_filename": "cyborg_server-0.4.9.tar.gz",
+  "download_time": "2026-05-01T12:52:17.922030",
   "package_url": "https://pypi.org/project/cyborg-server/"
 }

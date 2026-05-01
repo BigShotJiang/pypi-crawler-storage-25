@@ -1,0 +1,11 @@
+{
+  "name": "agent-invoker",
+  "version": "0.2.0",
+  "summary": "Agent routing brain. Given a task, returns the right specialist agent and tools.",
+  "author": "Jamin Echols",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_invoker-0.2.0.tar.gz",
+  "download_time": "2026-05-01T12:52:26.750422",
+  "package_url": "https://pypi.org/project/agent-invoker/"
+}

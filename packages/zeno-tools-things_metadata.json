@@ -1,0 +1,11 @@
+{
+  "name": "zeno-tools-things",
+  "version": "1.1.0",
+  "summary": "Zeno Things tools: list/add/complete @tool wrappers backed by things-sdk.",
+  "author": "Niels Kootstra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zeno_tools_things-1.1.0.tar.gz",
+  "download_time": "2026-05-01T12:52:02.528583",
+  "package_url": "https://pypi.org/project/zeno-tools-things/"
+}

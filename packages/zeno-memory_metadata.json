@@ -1,11 +1,11 @@
 {
   "name": "zeno-memory",
-  "version": "1.0.0rc2",
+  "version": "1.1.0",
   "summary": "Zeno memory protocols, context-bound handles, and SQLite defaults.",
   "author": "Niels Kootstra",
   "license": null,
   "home_page": null,
-  "download_filename": "zeno_memory-1.0.0rc2.tar.gz",
-  "download_time": "2026-04-25T21:29:23.970978",
+  "download_filename": "zeno_memory-1.1.0.tar.gz",
+  "download_time": "2026-05-01T12:51:59.914316",
   "package_url": "https://pypi.org/project/zeno-memory/"
 }

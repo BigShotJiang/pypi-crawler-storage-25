@@ -1,0 +1,11 @@
+{
+  "name": "snackbox",
+  "version": "0.1.2",
+  "summary": "Release pipeline for Python apps on Windows — embedded Python, launcher stub, Inno Setup installer.",
+  "author": "Lanceliogs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snackbox-0.1.2.tar.gz",
+  "download_time": "2026-05-01T12:52:17.409332",
+  "package_url": "https://pypi.org/project/snackbox/"
+}

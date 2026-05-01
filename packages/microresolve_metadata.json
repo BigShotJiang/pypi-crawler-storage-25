@@ -1,11 +1,11 @@
 {
   "name": "microresolve",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Pre-LLM reflex layer — embedded decision engine for intent classification, safety filtering, tool selection. Sub-millisecond, CPU-only, continuous learning.",
   "author": "Gladius Thayalarajan",
   "license": null,
   "home_page": "https://github.com/gladius/microresolve",
-  "download_filename": "microresolve-0.1.8-cp38-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2026-05-01T09:20:27.386268",
+  "download_filename": "microresolve-0.1.9-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-01T12:52:36.028095",
   "package_url": "https://pypi.org/project/microresolve/"
 }
