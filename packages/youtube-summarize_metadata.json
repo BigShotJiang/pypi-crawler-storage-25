@@ -1,11 +1,11 @@
 {
   "name": "youtube-summarize",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "MCP server that fetches YouTube video transcripts and optionally summarizes them",
   "author": "Zlatko Cajic",
   "license": null,
   "home_page": null,
-  "download_filename": "youtube_summarize-0.2.3.tar.gz",
-  "download_time": "2026-04-15T10:46:49.678672",
+  "download_filename": "youtube_summarize-0.3.0.tar.gz",
+  "download_time": "2026-05-02T16:39:50.415673",
   "package_url": "https://pypi.org/project/youtube-summarize/"
 }

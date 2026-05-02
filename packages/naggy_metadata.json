@@ -1,11 +1,11 @@
 {
   "name": "naggy",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "NaggyAI Python SDK — instrument LLM calls and query the NaggyAI platform",
   "author": "kamera-man",
   "license": null,
   "home_page": null,
-  "download_filename": "naggy-0.1.0.tar.gz",
-  "download_time": "2026-05-02T15:43:55.981901",
+  "download_filename": "naggy-0.3.0.tar.gz",
+  "download_time": "2026-05-02T16:40:18.847731",
   "package_url": "https://pypi.org/project/naggy/"
 }

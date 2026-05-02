@@ -1,11 +1,11 @@
 {
   "name": "pdf2text-arabic",
-  "version": "0.1.3",
-  "summary": "Arabic PDF text extraction with ligature and RTL fixes",
-  "author": null,
+  "version": "1.4.0",
+  "summary": "Advanced Arabic-first PDF text extraction with layout repair, table reconstruction, and OCR fallback",
+  "author": "Taj Eddine Marmoul",
   "license": null,
   "home_page": null,
-  "download_filename": "pdf2text_arabic-0.1.3.tar.gz",
-  "download_time": "2026-04-04T23:31:45.591821",
+  "download_filename": "pdf2text_arabic-1.4.0.tar.gz",
+  "download_time": "2026-05-02T16:39:48.130511",
   "package_url": "https://pypi.org/project/pdf2text-arabic/"
 }

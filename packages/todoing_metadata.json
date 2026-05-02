@@ -1,11 +1,11 @@
 {
   "name": "todoing",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "Local, git-friendly task manager for AI agents and humans",
-  "author": null,
+  "author": "Billy Editiano",
   "license": null,
   "home_page": null,
-  "download_filename": "todoing-1.0.1.tar.gz",
-  "download_time": "2026-05-01T10:52:47.313128",
+  "download_filename": "todoing-1.1.0.tar.gz",
+  "download_time": "2026-05-02T16:39:49.341391",
   "package_url": "https://pypi.org/project/todoing/"
 }

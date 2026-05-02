@@ -1,11 +1,11 @@
 {
   "name": "fredcode",
-  "version": "0.4.0",
+  "version": "0.4.1.1",
   "summary": "Fred — DeepSeek-powered agentic coding CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fredcode-0.4.0.tar.gz",
-  "download_time": "2026-05-02T14:54:24.739026",
+  "download_filename": "fredcode-0.4.1.1.tar.gz",
+  "download_time": "2026-05-02T16:39:50.966742",
   "package_url": "https://pypi.org/project/fredcode/"
 }

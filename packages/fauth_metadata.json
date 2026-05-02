@@ -1,11 +1,11 @@
 {
   "name": "fauth",
-  "version": "0.5.1",
+  "version": "0.5.5",
   "summary": "Ergonomic, lightweight JWT authentication for FastAPI. Secure your routes instantly with plug-and-play dependency injection",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fauth-0.5.1.tar.gz",
-  "download_time": "2026-04-22T01:12:44.446342",
+  "download_filename": "fauth-0.5.5.tar.gz",
+  "download_time": "2026-05-02T16:40:17.798098",
   "package_url": "https://pypi.org/project/fauth/"
 }

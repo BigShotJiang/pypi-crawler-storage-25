@@ -1,11 +1,11 @@
 {
   "name": "clauthing",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Wrapper to launch Claude Code in a dedicated kitty terminal with tmux",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clauthing-1.0.0.tar.gz",
-  "download_time": "2026-04-07T21:09:18.082038",
+  "download_filename": "clauthing-1.1.1.tar.gz",
+  "download_time": "2026-05-02T16:40:19.384245",
   "package_url": "https://pypi.org/project/clauthing/"
 }

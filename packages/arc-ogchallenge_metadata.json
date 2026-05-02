@@ -1,0 +1,11 @@
+{
+  "name": "arc-ogchallenge",
+  "version": "0.6.0",
+  "summary": "Python client library for the ARC API - an autonomous agent benchmark platform for the oil and gas industry.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arc_ogchallenge-0.6.0.tar.gz",
+  "download_time": "2026-05-02T16:40:22.965152",
+  "package_url": "https://pypi.org/project/arc-ogchallenge/"
+}
