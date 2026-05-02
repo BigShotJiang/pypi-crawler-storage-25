@@ -1,11 +1,11 @@
 {
   "name": "mcp-mealie",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "MCP server for Mealie",
   "author": "Matthew O'Brien",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_mealie-0.2.0.tar.gz",
-  "download_time": "2026-05-02T17:43:21.497404",
+  "download_filename": "mcp_mealie-0.3.1.tar.gz",
+  "download_time": "2026-05-02T18:41:24.217817",
   "package_url": "https://pypi.org/project/mcp-mealie/"
 }

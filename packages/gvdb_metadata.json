@@ -1,11 +1,11 @@
 {
   "name": "gvdb",
-  "version": "0.23.0",
+  "version": "0.32.0",
   "summary": "Python client for GVDB distributed vector database",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gvdb-0.23.0.tar.gz",
-  "download_time": "2026-04-22T11:11:53.387977",
+  "download_filename": "gvdb-0.32.0.tar.gz",
+  "download_time": "2026-05-02T18:41:23.640483",
   "package_url": "https://pypi.org/project/gvdb/"
 }

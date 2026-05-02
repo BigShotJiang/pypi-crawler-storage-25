@@ -1,11 +1,11 @@
 {
   "name": "mgf-common",
-  "version": "0.3.0",
+  "version": "0.13.0",
   "summary": "Shared infrastructure (typed exceptions, central config, structured logging + tracing) for MGF projects",
   "author": "Bassam Alsanie, mgf-common contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mgf_common-0.3.0.tar.gz",
-  "download_time": "2026-04-28T09:20:18.988428",
+  "download_filename": "mgf_common-0.13.0.tar.gz",
+  "download_time": "2026-05-02T18:41:07.626169",
   "package_url": "https://pypi.org/project/mgf-common/"
 }

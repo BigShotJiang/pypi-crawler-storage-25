@@ -1,11 +1,11 @@
 {
   "name": "configflux-weld",
-  "version": "0.9.0",
+  "version": "0.15.0",
   "summary": "Local codebase and agent graph for AI coding workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "configflux_weld-0.9.0.tar.gz",
-  "download_time": "2026-04-26T11:19:38.583840",
+  "download_filename": "configflux_weld-0.15.0.tar.gz",
+  "download_time": "2026-05-02T18:41:41.291989",
   "package_url": "https://pypi.org/project/configflux-weld/"
 }

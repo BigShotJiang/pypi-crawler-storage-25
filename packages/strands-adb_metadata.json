@@ -1,11 +1,11 @@
 {
   "name": "strands-adb",
-  "version": "0.18.0",
+  "version": "0.19.1",
   "summary": "@tool decorated Android control for Strands Agents",
   "author": "cagataycali",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "strands_adb-0.18.0.tar.gz",
-  "download_time": "2026-04-27T21:24:56.348086",
+  "download_filename": "strands_adb-0.19.1.tar.gz",
+  "download_time": "2026-05-02T18:41:05.333164",
   "package_url": "https://pypi.org/project/strands-adb/"
 }

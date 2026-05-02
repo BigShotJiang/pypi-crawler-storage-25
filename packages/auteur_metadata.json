@@ -1,0 +1,11 @@
+{
+  "name": "auteur",
+  "version": "1.0.0",
+  "summary": "Client library for fetching and parsing IMDb title data (with AWS WAF challenge handling).",
+  "author": "spiritualized",
+  "license": null,
+  "home_page": null,
+  "download_filename": "auteur-1.0.0.tar.gz",
+  "download_time": "2026-05-02T18:41:15.929898",
+  "package_url": "https://pypi.org/project/auteur/"
+}

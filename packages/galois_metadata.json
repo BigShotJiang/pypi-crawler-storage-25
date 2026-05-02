@@ -1,0 +1,11 @@
+{
+  "name": "galois",
+  "version": "0.4.11",
+  "summary": "A performant NumPy extension for Galois fields and their applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "galois-0.4.11.tar.gz",
+  "download_time": "2026-05-02T18:41:47.780310",
+  "package_url": "https://pypi.org/project/galois/"
+}

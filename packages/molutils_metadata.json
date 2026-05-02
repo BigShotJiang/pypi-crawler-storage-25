@@ -1,0 +1,11 @@
+{
+  "name": "molutils",
+  "version": "0.4.0",
+  "summary": "Collection of tools for preprocessing or summarizing details from biomolecular structure files.",
+  "author": "DiegoBarMor",
+  "license": "MIT",
+  "home_page": "https://github.com/diegobarmor/molutils",
+  "download_filename": "molutils-0.4.0.tar.gz",
+  "download_time": "2026-05-02T18:41:17.049704",
+  "package_url": "https://pypi.org/project/molutils/"
+}

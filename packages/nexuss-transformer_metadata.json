@@ -1,0 +1,11 @@
+{
+  "name": "nexuss-transformer",
+  "version": "1.0.2",
+  "summary": "Nexuss Transformer Framework (NTF) - Blank Slate LLM Training with RLHF & EthioBBPE Support",
+  "author": "nexuss0781",
+  "license": "MIT",
+  "home_page": "https://github.com/nexuss0781/Nexuss-Transformer",
+  "download_filename": "nexuss_transformer-1.0.2.tar.gz",
+  "download_time": "2026-05-02T18:41:19.947070",
+  "package_url": "https://pypi.org/project/nexuss-transformer/"
+}

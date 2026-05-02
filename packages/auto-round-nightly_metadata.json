@@ -1,11 +1,11 @@
 {
   "name": "auto-round-nightly",
-  "version": "0.13.0.dev20260426",
+  "version": "0.13.0.dev20260502",
   "summary": "Repository of AutoRound: Advanced Weight-Only Quantization Algorithm for LLMs",
   "author": "Intel AIPT Team",
   "license": "Apache 2.0",
   "home_page": "https://github.com/intel/auto-round",
-  "download_filename": "auto_round_nightly-0.13.0.dev20260426.tar.gz",
-  "download_time": "2026-04-26T18:37:19.873180",
+  "download_filename": "auto_round_nightly-0.13.0.dev20260502.tar.gz",
+  "download_time": "2026-05-02T18:41:40.132456",
   "package_url": "https://pypi.org/project/auto-round-nightly/"
 }

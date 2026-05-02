@@ -1,0 +1,11 @@
+{
+  "name": "agentic-tui",
+  "version": "0.3.0",
+  "summary": "A TUI primitive for coding agents — streaming markdown, tool calls, diffs, and more in linear scrollback with zero flicker.",
+  "author": "Arvind",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentic_tui-0.3.0.tar.gz",
+  "download_time": "2026-05-02T18:41:38.458397",
+  "package_url": "https://pypi.org/project/agentic-tui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ytmusic-to-spotify-sync",
+  "version": "0.6.0",
+  "summary": "Automatically sync your YouTube Music playlists to Spotify with smart track matching, diff-based updates, and metadata enrichment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ytmusic_to_spotify_sync-0.6.0.tar.gz",
+  "download_time": "2026-05-02T18:41:42.991082",
+  "package_url": "https://pypi.org/project/ytmusic-to-spotify-sync/"
+}
