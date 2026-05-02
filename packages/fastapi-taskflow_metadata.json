@@ -1,11 +1,11 @@
 {
   "name": "fastapi-taskflow",
-  "version": "0.5.1",
-  "summary": "Turn FastAPI BackgroundTasks into a production-ready task system. Retries, control, resiliency and visibility without workers or brokers.",
+  "version": "0.8.0",
+  "summary": "Retries, persistence, and visibility for FastAPI's BackgroundTasks. Production-grade background tasks. No workers, no brokers, drop-in.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_taskflow-0.5.1.tar.gz",
-  "download_time": "2026-04-18T17:11:35.599060",
+  "download_filename": "fastapi_taskflow-0.8.0.tar.gz",
+  "download_time": "2026-05-02T17:43:29.736426",
   "package_url": "https://pypi.org/project/fastapi-taskflow/"
 }

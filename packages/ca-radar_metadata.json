@@ -1,11 +1,11 @@
 {
   "name": "ca-radar",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Conditional Access Gap Analyser & Visualiser for Microsoft 365 / Entra ID",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ca_radar-0.1.1.tar.gz",
-  "download_time": "2026-04-30T18:25:14.604462",
+  "download_filename": "ca_radar-0.2.0.tar.gz",
+  "download_time": "2026-05-02T17:43:13.240599",
   "package_url": "https://pypi.org/project/ca-radar/"
 }

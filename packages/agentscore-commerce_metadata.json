@@ -1,0 +1,11 @@
+{
+  "name": "agentscore-commerce",
+  "version": "1.2.0",
+  "summary": "Agent commerce SDK for Python — identity middleware (FastAPI, Flask, Django, AIOHTTP, Sanic, ASGI) + payment helpers + 402 builders + discovery + Stripe multichain. The full merchant-side toolkit for AgentScore-powered agent commerce.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentscore_commerce-1.2.0.tar.gz",
+  "download_time": "2026-05-02T17:43:22.520597",
+  "package_url": "https://pypi.org/project/agentscore-commerce/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aioyookassa",
+  "version": "2.2.7",
+  "summary": "Asynchronous YooKassa API client library for Python using aiohttp and pydantic.",
+  "author": "Masa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aioyookassa-2.2.7.tar.gz",
+  "download_time": "2026-05-02T17:43:23.548449",
+  "package_url": "https://pypi.org/project/aioyookassa/"
+}

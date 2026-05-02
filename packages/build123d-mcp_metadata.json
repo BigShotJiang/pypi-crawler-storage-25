@@ -1,11 +1,11 @@
 {
   "name": "build123d-mcp",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "MCP server wrapping build123d for interactive 3D CAD",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "build123d_mcp-0.2.0.tar.gz",
-  "download_time": "2026-05-02T06:21:07.751521",
+  "download_filename": "build123d_mcp-0.3.0.tar.gz",
+  "download_time": "2026-05-02T17:43:25.801703",
   "package_url": "https://pypi.org/project/build123d-mcp/"
 }
