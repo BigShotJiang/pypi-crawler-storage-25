@@ -1,11 +1,11 @@
 {
   "name": "qwen3-repo",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Architecture-aware repo-to-context scaffold for Qwen3 and Qwen3.6",
-  "author": "Arkadeep Dutta",
+  "author": "ArkaD171717",
   "license": null,
   "home_page": null,
-  "download_filename": "qwen3_repo-0.1.0.tar.gz",
-  "download_time": "2026-04-29T15:36:48.529758",
+  "download_filename": "qwen3_repo-0.1.3.tar.gz",
+  "download_time": "2026-05-02T23:51:07.837787",
   "package_url": "https://pypi.org/project/qwen3-repo/"
 }

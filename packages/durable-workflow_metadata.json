@@ -1,11 +1,11 @@
 {
   "name": "durable-workflow",
-  "version": "0.4.1",
+  "version": "0.4.7",
   "summary": "Python SDK for the Durable Workflow server (language-neutral HTTP protocol)",
   "author": "Durable Workflow Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "durable_workflow-0.4.1.tar.gz",
-  "download_time": "2026-04-23T23:17:11.376593",
+  "download_filename": "durable_workflow-0.4.7.tar.gz",
+  "download_time": "2026-05-02T23:51:44.971922",
   "package_url": "https://pypi.org/project/durable-workflow/"
 }

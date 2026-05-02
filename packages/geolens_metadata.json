@@ -1,0 +1,11 @@
+{
+  "name": "geolens",
+  "version": "0.0.0",
+  "summary": "Apache-2.0 command-line interface for the GeoLens API. Login, scan, publish, and export STAC against any GeoLens instance.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "geolens-0.0.0.tar.gz",
+  "download_time": "2026-05-02T23:51:46.630067",
+  "package_url": "https://pypi.org/project/geolens/"
+}

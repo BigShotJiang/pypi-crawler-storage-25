@@ -1,11 +1,11 @@
 {
   "name": "cadence-core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Neural model for next clinical event prediction from EHR sequences using the Narrative Velocity framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cadence_core-1.0.3.tar.gz",
-  "download_time": "2026-05-02T22:08:15.072846",
+  "download_filename": "cadence_core-1.0.4.tar.gz",
+  "download_time": "2026-05-02T23:51:17.340560",
   "package_url": "https://pypi.org/project/cadence-core/"
 }

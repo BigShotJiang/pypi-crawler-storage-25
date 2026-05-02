@@ -1,0 +1,11 @@
+{
+  "name": "ffrich",
+  "version": "0.3.1",
+  "summary": "A simple progress bar for ffmpeg, written in Python using rich",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ffrich-0.3.1.tar.gz",
+  "download_time": "2026-05-02T23:51:32.959407",
+  "package_url": "https://pypi.org/project/ffrich/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-sdk",
-  "version": "0.1.150",
+  "version": "0.1.157",
   "summary": "Airbyte Agent SDK: typed connectors that give AI agents access to 50+ third-party APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airbyte_agent_sdk-0.1.150-py3-none-any.whl",
-  "download_time": "2026-05-01T21:17:04.657359",
+  "download_filename": "airbyte_agent_sdk-0.1.157-py3-none-any.whl",
+  "download_time": "2026-05-02T23:51:15.498956",
   "package_url": "https://pypi.org/project/airbyte-agent-sdk/"
 }

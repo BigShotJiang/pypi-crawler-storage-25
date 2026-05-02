@@ -1,11 +1,11 @@
 {
   "name": "skillpilot",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "228 AI skills for Claude Code — install, run and manage skills directly in your terminal",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "skillpilot-0.2.0.tar.gz",
-  "download_time": "2026-05-02T23:01:44.163344",
+  "download_filename": "skillpilot-0.3.0.tar.gz",
+  "download_time": "2026-05-02T23:51:48.776789",
   "package_url": "https://pypi.org/project/skillpilot/"
 }

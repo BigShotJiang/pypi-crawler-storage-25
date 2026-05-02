@@ -1,11 +1,11 @@
 {
   "name": "audio-to-text-ia",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "CLI para procesar archivos de audio/video y generar texto con IA",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "audio_to_text_ia-0.1.0.tar.gz",
-  "download_time": "2026-05-02T21:17:11.897444",
+  "download_filename": "audio_to_text_ia-0.1.1.tar.gz",
+  "download_time": "2026-05-02T23:51:38.467896",
   "package_url": "https://pypi.org/project/audio-to-text-ia/"
 }
