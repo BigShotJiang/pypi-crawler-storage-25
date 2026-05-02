@@ -1,11 +1,11 @@
 {
   "name": "iwashi",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "summary": "プロフィールの取得を一つのライブラリで可能にします。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iwashi-3.2.1.tar.gz",
-  "download_time": "2026-05-02T06:21:11.847942",
+  "download_filename": "iwashi-3.2.2.tar.gz",
+  "download_time": "2026-05-02T08:15:29.946104",
   "package_url": "https://pypi.org/project/iwashi/"
 }

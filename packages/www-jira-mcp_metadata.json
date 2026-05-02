@@ -1,0 +1,11 @@
+{
+  "name": "www-jira-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server providing Jira Server/Data Center integration: issue management, search, projects, and more.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "www_jira_mcp-1.0.0.tar.gz",
+  "download_time": "2026-05-02T08:15:04.817660",
+  "package_url": "https://pypi.org/project/www-jira-mcp/"
+}

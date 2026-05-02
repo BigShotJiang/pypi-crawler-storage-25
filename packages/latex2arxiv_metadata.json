@@ -1,0 +1,11 @@
+{
+  "name": "latex2arxiv",
+  "version": "0.3.0",
+  "summary": "Convert a LaTeX .zip project into an arXiv-ready .zip",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "latex2arxiv-0.3.0.tar.gz",
+  "download_time": "2026-05-02T08:14:59.716273",
+  "package_url": "https://pypi.org/project/latex2arxiv/"
+}

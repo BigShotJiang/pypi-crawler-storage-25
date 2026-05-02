@@ -1,11 +1,11 @@
 {
   "name": "hellochusquis",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "A powerful terminal AI agent with 150+ integrations, 100+ functions, voice, browser automation, web UI, and auto-tool-builder",
   "author": "aminoy77",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hellochusquis-1.1.0.tar.gz",
-  "download_time": "2026-05-01T07:21:57.599985",
+  "download_filename": "hellochusquis-1.2.0.tar.gz",
+  "download_time": "2026-05-02T08:15:24.488593",
   "package_url": "https://pypi.org/project/hellochusquis/"
 }

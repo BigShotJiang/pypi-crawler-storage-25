@@ -1,11 +1,11 @@
 {
   "name": "stagenth-mcp-shim",
-  "version": "0.1.0",
+  "version": "0.3.1",
   "summary": "stagenth file-relay 的本地 stdio MCP 代理壳 (shim)，桥接到远端 HTTPS MCP 服务",
   "author": "stagenth",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stagenth_mcp_shim-0.1.0.tar.gz",
-  "download_time": "2026-05-02T04:00:59.305354",
+  "download_filename": "stagenth_mcp_shim-0.3.1.tar.gz",
+  "download_time": "2026-05-02T08:15:30.962881",
   "package_url": "https://pypi.org/project/stagenth-mcp-shim/"
 }

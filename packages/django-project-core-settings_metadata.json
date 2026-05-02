@@ -1,0 +1,11 @@
+{
+  "name": "django-project-core-settings",
+  "version": "0.1.3",
+  "summary": "Production-ready modular Django settings with strong security defaults",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_project_core_settings-0.1.3.tar.gz",
+  "download_time": "2026-05-02T08:15:30.454758",
+  "package_url": "https://pypi.org/project/django-project-core-settings/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "siglume-agent-core",
-  "version": "0.2.6",
-  "summary": "Open-core orchestrator logic for the Siglume API Store agent runtime — tool-manual quality scoring + LLM provider tool adapters + installed-tool prefilter.",
+  "version": "0.7.0",
+  "summary": "Open-core orchestrator logic for the Siglume API Store agent runtime — tool-manual quality scoring + LLM provider tool adapters + installed-tool prefilter + keyword-based tool selector + capability-failure learning helpers + orchestrate system-prompt / provider-tool / cost-estimation helpers + orchestrate inner loop with dispatcher callback bag + publisher dev-simulator pure helpers.",
   "author": null,
   "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "siglume_agent_core-0.2.6.tar.gz",
-  "download_time": "2026-05-01T16:40:42.494468",
+  "download_filename": "siglume_agent_core-0.7.0.tar.gz",
+  "download_time": "2026-05-02T08:15:20.307557",
   "package_url": "https://pypi.org/project/siglume-agent-core/"
 }

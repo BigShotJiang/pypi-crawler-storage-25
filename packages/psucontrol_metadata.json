@@ -1,0 +1,11 @@
+{
+  "name": "psucontrol",
+  "version": "0.7.0",
+  "summary": "An application for controlling a Velleman LABPS3005D bench PSU and any compatible ones.",
+  "author": "Nita Vesa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "psucontrol-0.7.0.tar.gz",
+  "download_time": "2026-05-02T08:15:37.734071",
+  "package_url": "https://pypi.org/project/psucontrol/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "csrd-auth",
-  "version": "0.3.16",
+  "version": "0.3.20",
   "summary": "Pluggable JWT authentication — authenticators, key providers, and FastAPI dependency factories",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd_auth-0.3.16.tar.gz",
-  "download_time": "2026-05-02T06:20:25.596399",
+  "download_filename": "csrd_auth-0.3.20.tar.gz",
+  "download_time": "2026-05-02T08:15:19.289114",
   "package_url": "https://pypi.org/project/csrd-auth/"
 }

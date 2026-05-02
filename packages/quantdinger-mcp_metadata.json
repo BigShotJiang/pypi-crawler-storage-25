@@ -1,0 +1,11 @@
+{
+  "name": "quantdinger-mcp",
+  "version": "0.1.0",
+  "summary": "Model Context Protocol (MCP) server for the QuantDinger Agent Gateway — exposes market data, strategies, backtests and paper trading to AI agents (Cursor, Claude Code, Codex, OpenClaw, NanoBot, ...).",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "quantdinger_mcp-0.1.0.tar.gz",
+  "download_time": "2026-05-02T08:15:20.875215",
+  "package_url": "https://pypi.org/project/quantdinger-mcp/"
+}

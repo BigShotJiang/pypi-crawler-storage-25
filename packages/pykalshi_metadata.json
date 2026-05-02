@@ -1,0 +1,11 @@
+{
+  "name": "pykalshi",
+  "version": "1.0.6",
+  "summary": "A typed Python client for the Kalshi prediction markets API with WebSocket streaming, automatic retries, and ergonomic interfaces",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pykalshi-1.0.6.tar.gz",
+  "download_time": "2026-05-02T08:15:11.144845",
+  "package_url": "https://pypi.org/project/pykalshi/"
+}

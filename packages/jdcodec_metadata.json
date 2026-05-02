@@ -1,11 +1,11 @@
 {
   "name": "jdcodec",
-  "version": "0.3.1",
+  "version": "0.5.0",
   "summary": "JD Codec — privacy-first local MCP proxy for browser-agent tasks. Compresses page snapshots ~80%+ via a cloud codec; PII never leaves your machine.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jdcodec-0.3.1.tar.gz",
-  "download_time": "2026-04-28T09:19:48.391008",
+  "download_filename": "jdcodec-0.5.0.tar.gz",
+  "download_time": "2026-05-02T08:15:01.242479",
   "package_url": "https://pypi.org/project/jdcodec/"
 }

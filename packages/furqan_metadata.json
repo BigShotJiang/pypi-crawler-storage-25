@@ -1,0 +1,11 @@
+{
+  "name": "furqan",
+  "version": "0.10.1",
+  "summary": "A programming language type-checker enforcing structural honesty (Phase 2 prototype).",
+  "author": "Fraz Ashraf, Bilal Syed Arfeen",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "furqan-0.10.1.tar.gz",
+  "download_time": "2026-05-02T08:15:13.185623",
+  "package_url": "https://pypi.org/project/furqan/"
+}
