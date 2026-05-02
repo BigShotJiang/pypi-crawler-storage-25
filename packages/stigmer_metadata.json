@@ -1,11 +1,11 @@
 {
   "name": "stigmer",
-  "version": "0.3.0",
+  "version": "0.3.4",
   "summary": "Stigmer Python SDK — typed API client for all Stigmer platform resources",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stigmer-0.3.0.tar.gz",
-  "download_time": "2026-05-02T08:15:02.262485",
+  "download_filename": "stigmer-0.3.4.tar.gz",
+  "download_time": "2026-05-02T11:32:56.532059",
   "package_url": "https://pypi.org/project/stigmer/"
 }

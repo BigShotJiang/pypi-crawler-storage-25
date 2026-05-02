@@ -1,0 +1,11 @@
+{
+  "name": "waste-forecasting-model",
+  "version": "3.0.0",
+  "summary": "Portable waste-prediction model V2 + Federated Learning adapter with S3 support",
+  "author": "Research Project Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "waste_forecasting_model-3.0.0.tar.gz",
+  "download_time": "2026-05-02T11:33:20.869791",
+  "package_url": "https://pypi.org/project/waste-forecasting-model/"
+}

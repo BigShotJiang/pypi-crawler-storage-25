@@ -1,11 +1,11 @@
 {
   "name": "sbo3l-sdk",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "Official Python SDK for SBO3L — the cryptographically verifiable trust layer for autonomous AI agents.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sbo3l_sdk-1.0.0.tar.gz",
-  "download_time": "2026-05-01T10:53:06.456729",
+  "download_filename": "sbo3l_sdk-1.2.0.tar.gz",
+  "download_time": "2026-05-02T11:32:49.500595",
   "package_url": "https://pypi.org/project/sbo3l-sdk/"
 }

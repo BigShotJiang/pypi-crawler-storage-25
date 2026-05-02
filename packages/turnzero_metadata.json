@@ -1,11 +1,11 @@
 {
   "name": "turnzero",
-  "version": "0.8.12",
+  "version": "0.8.13",
   "summary": "Persistent context memory for AI sessions — built for developers, DevOps, and security engineers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "turnzero-0.8.12.tar.gz",
-  "download_time": "2026-05-01T14:17:35.700478",
+  "download_filename": "turnzero-0.8.13.tar.gz",
+  "download_time": "2026-05-02T11:33:11.185412",
   "package_url": "https://pypi.org/project/turnzero/"
 }

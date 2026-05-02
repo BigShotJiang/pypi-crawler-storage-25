@@ -1,11 +1,11 @@
 {
   "name": "forward-netbox",
-  "version": "0.1.1",
+  "version": "0.5.2.1",
   "summary": "NetBox plugin to sync Forward Networks data into NetBox via built-in NQE queries",
   "author": "Craig Johnson",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "forward_netbox-0.1.1.tar.gz",
-  "download_time": "2026-04-09T16:20:43.039415",
+  "download_filename": "forward_netbox-0.5.2.1.tar.gz",
+  "download_time": "2026-05-02T11:32:53.785289",
   "package_url": "https://pypi.org/project/forward-netbox/"
 }
