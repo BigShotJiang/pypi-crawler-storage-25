@@ -1,11 +1,11 @@
 {
   "name": "revyl",
-  "version": "0.1.17",
+  "version": "0.1.20",
   "summary": "Revyl CLI - AI-powered mobile app testing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "revyl-0.1.17.tar.gz",
-  "download_time": "2026-04-28T17:42:32.790069",
+  "download_filename": "revyl-0.1.20.tar.gz",
+  "download_time": "2026-05-02T04:00:45.401474",
   "package_url": "https://pypi.org/project/revyl/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sentry-tool",
+  "version": "0.3.0",
+  "summary": "CLI tool for querying and managing Sentry issues",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sentry_tool-0.3.0.tar.gz",
+  "download_time": "2026-05-02T04:00:26.114018",
+  "package_url": "https://pypi.org/project/sentry-tool/"
+}

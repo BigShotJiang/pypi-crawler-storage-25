@@ -1,11 +1,11 @@
 {
   "name": "pythinker-ai",
-  "version": "0.1.6",
+  "version": "2.0.2",
   "summary": "Pythinker — an ultra-lightweight personal AI agent framework with built-in chat channels, memory, MCP, and an OpenAI-compatible API.",
   "author": "Pythinker contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pythinker_ai-0.1.6.tar.gz",
-  "download_time": "2026-04-28T00:16:10.619462",
+  "download_filename": "pythinker_ai-2.0.2.tar.gz",
+  "download_time": "2026-05-02T04:00:27.172762",
   "package_url": "https://pypi.org/project/pythinker-ai/"
 }

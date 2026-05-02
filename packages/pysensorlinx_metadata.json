@@ -1,11 +1,11 @@
 {
   "name": "pysensorlinx",
-  "version": "0.3.0",
+  "version": "0.5.5",
   "summary": "Python library for accessing SensorLinx Device Data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pysensorlinx-0.3.0.tar.gz",
-  "download_time": "2026-04-25T23:49:45.357146",
+  "download_filename": "pysensorlinx-0.5.5.tar.gz",
+  "download_time": "2026-05-02T04:01:00.374489",
   "package_url": "https://pypi.org/project/pysensorlinx/"
 }

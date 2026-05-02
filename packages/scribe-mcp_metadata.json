@@ -1,11 +1,11 @@
 {
   "name": "scribe-mcp",
-  "version": "2.2.10",
+  "version": "2.2.16",
   "summary": "Scribe MCP server, tooling, and universal CLI",
   "author": "Scribe MCP Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "scribe_mcp-2.2.10.tar.gz",
-  "download_time": "2026-04-19T11:13:16.023038",
+  "download_filename": "scribe_mcp-2.2.16.tar.gz",
+  "download_time": "2026-05-02T04:00:49.693001",
   "package_url": "https://pypi.org/project/scribe-mcp/"
 }

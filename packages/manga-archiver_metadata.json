@@ -1,11 +1,11 @@
 {
   "name": "manga-archiver",
-  "version": "1.2.2",
+  "version": "1.3.0",
   "summary": "A terminal-based manga downloader and archiver",
   "author": "Jeffery Fang",
   "license": null,
   "home_page": null,
-  "download_filename": "manga_archiver-1.2.2.tar.gz",
-  "download_time": "2026-04-29T22:39:53.615008",
+  "download_filename": "manga_archiver-1.3.0.tar.gz",
+  "download_time": "2026-05-02T04:00:51.781059",
   "package_url": "https://pypi.org/project/manga-archiver/"
 }

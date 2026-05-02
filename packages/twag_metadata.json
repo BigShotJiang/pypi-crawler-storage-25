@@ -1,11 +1,11 @@
 {
   "name": "twag",
-  "version": "0.1.33",
+  "version": "0.1.37",
   "summary": "Twitter aggregator for market-relevant signals",
   "author": "Clifton King",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "twag-0.1.33.tar.gz",
-  "download_time": "2026-04-07T15:58:39.115110",
+  "download_filename": "twag-0.1.37.tar.gz",
+  "download_time": "2026-05-02T04:00:54.555304",
   "package_url": "https://pypi.org/project/twag/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pqsafe",
+  "version": "0.1.1",
+  "summary": "PQSafe AgentPay — umbrella package. Installs pqsafe-agent-pay (the SDK).",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pqsafe-0.1.1.tar.gz",
+  "download_time": "2026-05-02T04:00:48.631664",
+  "package_url": "https://pypi.org/project/pqsafe/"
+}

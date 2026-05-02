@@ -1,0 +1,11 @@
+{
+  "name": "ltiprobe",
+  "version": "1.5.5",
+  "summary": "HTTP/DNS/ICMP/TCP/TLS latency tool with SLO validation, jitter, packet loss, MOS score (ITU-T G.107), CDN detection, Prometheus export and webhook alerting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ltiprobe-1.5.5.tar.gz",
+  "download_time": "2026-05-02T04:00:30.470315",
+  "package_url": "https://pypi.org/project/ltiprobe/"
+}

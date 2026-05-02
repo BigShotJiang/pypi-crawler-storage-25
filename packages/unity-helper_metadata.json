@@ -1,11 +1,11 @@
 {
   "name": "unity-helper",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "summary": "Runtime inspection toolkit for Unity IL2CPP applications — explore classes, methods, fields, and live objects in real time.",
   "author": "Chasss",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unity_helper-1.2.1.tar.gz",
-  "download_time": "2026-04-25T23:16:10.425904",
+  "download_filename": "unity_helper-1.2.3.tar.gz",
+  "download_time": "2026-05-02T04:00:50.217716",
   "package_url": "https://pypi.org/project/unity-helper/"
 }

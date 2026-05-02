@@ -1,0 +1,11 @@
+{
+  "name": "ENCRYPTION-SERVICE",
+  "version": "7.7.7",
+  "summary": "AES-256-CTR encryption/decryption utilities with deterministic IV generation for cross-language interoperability",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "encryption_service-7.7.7.tar.gz",
+  "download_time": "2026-05-02T04:00:26.638727",
+  "package_url": "https://pypi.org/project/ENCRYPTION-SERVICE/"
+}

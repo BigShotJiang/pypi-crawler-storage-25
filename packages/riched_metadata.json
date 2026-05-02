@@ -1,11 +1,11 @@
 {
   "name": "riched",
-  "version": "0.7.1",
+  "version": "0.9.0",
   "summary": "A Rich library powered editor(hence the name riched) that implements VS Code keybindings in TUI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "riched-0.7.1.tar.gz",
-  "download_time": "2026-04-29T01:33:34.924967",
+  "download_filename": "riched-0.9.0.tar.gz",
+  "download_time": "2026-05-02T04:00:21.923919",
   "package_url": "https://pypi.org/project/riched/"
 }

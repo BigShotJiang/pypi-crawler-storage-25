@@ -1,0 +1,11 @@
+{
+  "name": "feagi-rust-py-libs",
+  "version": "0.0.102",
+  "summary": "Rust-powered Python libraries for FEAGI data processing, sensorimotor encoding, and agent communication",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "feagi_rust_py_libs-0.0.102.tar.gz",
+  "download_time": "2026-05-02T04:01:01.941861",
+  "package_url": "https://pypi.org/project/feagi-rust-py-libs/"
+}

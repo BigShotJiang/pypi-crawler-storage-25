@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-py-edi-sifen",
+  "version": "16.0.2.0.0.2",
+  "summary": "Direct SIFEN transmission via pysifen library",
+  "author": "KMEE, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/l10n-paraguay",
+  "download_filename": "odoo_addon_l10n_py_edi_sifen-16.0.2.0.0.2-py3-none-any.whl",
+  "download_time": "2026-05-02T04:00:55.608815",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-py-edi-sifen/"
+}

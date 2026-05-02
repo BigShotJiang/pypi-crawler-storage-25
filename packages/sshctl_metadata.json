@@ -1,11 +1,11 @@
 {
   "name": "sshctl",
-  "version": "0.2.20",
+  "version": "0.2.21",
   "summary": "Manage SSH hosts in SQLite and connect via ssh",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sshctl-0.2.20-py3-none-any.whl",
-  "download_time": "2026-04-30T15:31:11.101540",
+  "download_filename": "sshctl-0.2.21-py3-none-any.whl",
+  "download_time": "2026-05-02T04:00:55.084105",
   "package_url": "https://pypi.org/project/sshctl/"
 }

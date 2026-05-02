@@ -1,0 +1,11 @@
+{
+  "name": "openapi-mcp-gateway",
+  "version": "0.1.0",
+  "summary": "Turn any OpenAPI specification into a Model Context Protocol (MCP) server with a single command.",
+  "author": "YunTai Yang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openapi_mcp_gateway-0.1.0.tar.gz",
+  "download_time": "2026-05-02T04:00:46.454235",
+  "package_url": "https://pypi.org/project/openapi-mcp-gateway/"
+}
