@@ -1,0 +1,11 @@
+{
+  "name": "toyopuc-computerlink",
+  "version": "0.1.8",
+  "summary": "Python client library for TOYOPUC computer-link communication over TCP and UDP",
+  "author": "fa-yoshinobu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "toyopuc_computerlink-0.1.8.tar.gz",
+  "download_time": "2026-05-02T14:54:14.903615",
+  "package_url": "https://pypi.org/project/toyopuc-computerlink/"
+}

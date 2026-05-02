@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-sortable-multiselect",
+  "version": "0.6.1",
+  "summary": "A Streamlit custom component for selecting and reordering multiple string values.",
+  "author": "Developer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "streamlit_sortable_multiselect-0.6.1.tar.gz",
+  "download_time": "2026-05-02T14:54:00.320974",
+  "package_url": "https://pypi.org/project/streamlit-sortable-multiselect/"
+}

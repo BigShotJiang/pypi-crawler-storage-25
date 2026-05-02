@@ -1,11 +1,11 @@
 {
   "name": "remap-badblocks",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "CLI tool for remapping bad sectors on Linux disks using device-mapper",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "remap_badblocks-1.0.0.tar.gz",
-  "download_time": "2026-05-02T13:58:20.782801",
+  "download_filename": "remap_badblocks-1.0.2.tar.gz",
+  "download_time": "2026-05-02T14:53:40.640958",
   "package_url": "https://pypi.org/project/remap-badblocks/"
 }

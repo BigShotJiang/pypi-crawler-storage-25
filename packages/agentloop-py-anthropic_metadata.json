@@ -1,0 +1,11 @@
+{
+  "name": "agentloop-py-anthropic",
+  "version": "0.2.1",
+  "summary": "Drop-in Anthropic SDK wrapper for AgentLoop — adds memory retrieval and turn logging to messages.create calls. Supports streaming.",
+  "author": "AgentLoop",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentloop_py_anthropic-0.2.1.tar.gz",
+  "download_time": "2026-05-02T14:53:46.398958",
+  "package_url": "https://pypi.org/project/agentloop-py-anthropic/"
+}

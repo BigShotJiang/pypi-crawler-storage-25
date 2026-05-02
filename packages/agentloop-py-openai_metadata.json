@@ -1,0 +1,11 @@
+{
+  "name": "agentloop-py-openai",
+  "version": "0.2.1",
+  "summary": "Drop-in OpenAI SDK wrapper for AgentLoop — adds memory retrieval and turn logging to chat.completions.create calls. Supports streaming.",
+  "author": "AgentLoop",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentloop_py_openai-0.2.1.tar.gz",
+  "download_time": "2026-05-02T14:53:48.463069",
+  "package_url": "https://pypi.org/project/agentloop-py-openai/"
+}

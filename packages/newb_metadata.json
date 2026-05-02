@@ -1,11 +1,11 @@
 {
   "name": "newb",
-  "version": "0.19.0",
+  "version": "0.21.0",
   "summary": "A fresh AI agent tries to use your package — pytest-style. If it succeeds, your docs work.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "newb-0.19.0.tar.gz",
-  "download_time": "2026-05-02T10:37:05.990089",
+  "download_filename": "newb-0.21.0.tar.gz",
+  "download_time": "2026-05-02T14:53:42.696630",
   "package_url": "https://pypi.org/project/newb/"
 }

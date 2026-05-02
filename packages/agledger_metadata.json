@@ -1,11 +1,11 @@
 {
   "name": "agledger",
-  "version": "0.5.1",
+  "version": "0.7.2",
   "summary": "AGLedger SDK — Accountability and audit infrastructure for agentic systems.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agledger-0.5.1.tar.gz",
-  "download_time": "2026-04-17T23:07:40.063964",
+  "download_filename": "agledger-0.7.2.tar.gz",
+  "download_time": "2026-05-02T14:54:10.284036",
   "package_url": "https://pypi.org/project/agledger/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "central-mcp",
-  "version": "0.10.17",
+  "version": "0.11.5",
   "summary": "Coding agent-agnostic MCP hub for managing multiple coding agents.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "central_mcp-0.10.17.tar.gz",
-  "download_time": "2026-04-25T16:03:36.437771",
+  "download_filename": "central_mcp-0.11.5.tar.gz",
+  "download_time": "2026-05-02T14:54:18.021435",
   "package_url": "https://pypi.org/project/central-mcp/"
 }

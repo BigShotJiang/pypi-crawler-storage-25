@@ -1,0 +1,11 @@
+{
+  "name": "agentic-protocol",
+  "version": "0.1.2",
+  "summary": "Typed cross-repo contracts for the agentic system: handoff state, MCP I/O, hook events, skill manifests, bootstrap install manifest.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentic_protocol-0.1.2.tar.gz",
+  "download_time": "2026-05-02T14:53:44.232810",
+  "package_url": "https://pypi.org/project/agentic-protocol/"
+}
