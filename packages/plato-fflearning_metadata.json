@@ -1,0 +1,11 @@
+{
+  "name": "plato-fflearning",
+  "version": "0.1.0",
+  "summary": "Forward-Forward learning for PLATO — replacing backprop with positive/negative passes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plato_fflearning-0.1.0.tar.gz",
+  "download_time": "2026-05-02T21:17:42.535791",
+  "package_url": "https://pypi.org/project/plato-fflearning/"
+}

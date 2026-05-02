@@ -1,11 +1,11 @@
 {
   "name": "sanskrit-tagger",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Pos tagger tools to use with pas taggers models",
   "author": "koleslena",
   "license": "GNU GENERAL PUBLIC LICENSE",
   "home_page": "https://github.com/koleslena/sanskrit_pos_tagger",
-  "download_filename": "sanskrit_tagger-0.3.1.tar.gz",
-  "download_time": "2026-05-02T18:41:02.817814",
+  "download_filename": "sanskrit_tagger-0.3.2.tar.gz",
+  "download_time": "2026-05-02T21:17:24.638109",
   "package_url": "https://pypi.org/project/sanskrit-tagger/"
 }

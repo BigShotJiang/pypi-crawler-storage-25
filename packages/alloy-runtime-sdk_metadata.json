@@ -1,11 +1,11 @@
 {
   "name": "alloy-runtime-sdk",
-  "version": "0.2.79",
+  "version": "0.2.84",
   "summary": "Python SDK for Alloy Runtime - client, pipeline, and logging",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alloy_runtime_sdk-0.2.79.tar.gz",
-  "download_time": "2026-04-30T13:16:39.134711",
+  "download_filename": "alloy_runtime_sdk-0.2.84.tar.gz",
+  "download_time": "2026-05-02T21:17:17.664283",
   "package_url": "https://pypi.org/project/alloy-runtime-sdk/"
 }

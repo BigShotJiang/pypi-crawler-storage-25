@@ -1,11 +1,11 @@
 {
   "name": "railguey",
-  "version": "0.2.8",
-  "summary": "Project-scoped Railway MCP server — reads RAILWAY_TOKEN from .env.local, no login needed",
+  "version": "0.3.0",
+  "summary": "Project-scoped Railway CLI — reads RAILWAY_TOKEN from .env.local, no login needed",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "railguey-0.2.8.tar.gz",
-  "download_time": "2026-04-29T01:34:02.699648",
+  "download_filename": "railguey-0.3.0.tar.gz",
+  "download_time": "2026-05-02T21:17:10.858704",
   "package_url": "https://pypi.org/project/railguey/"
 }

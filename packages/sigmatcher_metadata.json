@@ -1,0 +1,11 @@
+{
+  "name": "sigmatcher",
+  "version": "1.9.1",
+  "summary": "Write signatures to automatically match java classes and methods between versions",
+  "author": "Ori Perry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sigmatcher-1.9.1.tar.gz",
+  "download_time": "2026-05-02T21:17:49.831095",
+  "package_url": "https://pypi.org/project/sigmatcher/"
+}

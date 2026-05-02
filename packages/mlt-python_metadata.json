@@ -1,0 +1,11 @@
+{
+  "name": "mlt-python",
+  "version": "0.1.0",
+  "summary": "Pure Python library for creating and modifying MLT XML files for Kdenlive",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mlt_python-0.1.0.tar.gz",
+  "download_time": "2026-05-02T21:17:26.208758",
+  "package_url": "https://pypi.org/project/mlt-python/"
+}
