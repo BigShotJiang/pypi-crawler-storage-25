@@ -1,0 +1,11 @@
+{
+  "name": "trytond-account-payment-sepa",
+  "version": "8.0.0",
+  "summary": "SEPA payment for Tryton",
+  "author": "B2CK SRL",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trytond_account_payment_sepa-8.0.0.tar.gz",
+  "download_time": "2026-05-02T12:15:36.838585",
+  "package_url": "https://pypi.org/project/trytond-account-payment-sepa/"
+}

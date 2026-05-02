@@ -1,11 +1,11 @@
 {
   "name": "q-orca",
-  "version": "0.5.0",
+  "version": "0.7.1",
   "summary": "Q-Orca — Quantum Orchestrated State Machine Language",
   "author": "Allan",
   "license": null,
   "home_page": null,
-  "download_filename": "q_orca-0.5.0.tar.gz",
-  "download_time": "2026-04-21T10:57:25.604173",
+  "download_filename": "q_orca-0.7.1.tar.gz",
+  "download_time": "2026-05-02T12:16:08.745641",
   "package_url": "https://pypi.org/project/q-orca/"
 }

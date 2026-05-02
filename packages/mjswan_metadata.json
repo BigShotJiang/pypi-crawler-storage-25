@@ -1,11 +1,11 @@
 {
   "name": "mjswan",
-  "version": "0.4.1",
+  "version": "0.5.4",
   "summary": "Browser-based MuJoCo simulation with real-time policy control",
   "author": "mjswan Developers",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mjswan-0.4.1.tar.gz",
-  "download_time": "2026-04-15T14:24:26.606557",
+  "download_filename": "mjswan-0.5.4.tar.gz",
+  "download_time": "2026-05-02T12:15:40.810961",
   "package_url": "https://pypi.org/project/mjswan/"
 }

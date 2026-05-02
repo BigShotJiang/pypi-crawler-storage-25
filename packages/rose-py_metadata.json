@@ -1,0 +1,11 @@
+{
+  "name": "rose-py",
+  "version": "0.1.1",
+  "summary": "A simple ROS2-like framework based on Zenoh",
+  "author": "DBinK",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rose_py-0.1.1.tar.gz",
+  "download_time": "2026-05-02T12:16:09.263011",
+  "package_url": "https://pypi.org/project/rose-py/"
+}

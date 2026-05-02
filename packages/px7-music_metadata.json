@@ -1,11 +1,11 @@
 {
   "name": "px7-music",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Terminal music player — stream YouTube audio from your CLI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "px7_music-0.1.0.tar.gz",
-  "download_time": "2026-05-01T20:13:48.999943",
+  "download_filename": "px7_music-0.1.1.tar.gz",
+  "download_time": "2026-05-02T12:16:02.358960",
   "package_url": "https://pypi.org/project/px7-music/"
 }

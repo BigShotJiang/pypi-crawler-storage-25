@@ -1,0 +1,11 @@
+{
+  "name": "filter-pipe",
+  "version": "1.1.0",
+  "summary": "Build and expose flexible calculation pipelines that give the end user total control over dynamic variables and data logic.",
+  "author": "Jair",
+  "license": null,
+  "home_page": null,
+  "download_filename": "filter_pipe-1.1.0.tar.gz",
+  "download_time": "2026-05-02T12:16:11.853341",
+  "package_url": "https://pypi.org/project/filter-pipe/"
+}

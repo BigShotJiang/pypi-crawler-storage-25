@@ -1,11 +1,11 @@
 {
   "name": "rebuild",
-  "version": "0.1.19",
+  "version": "0.1.21",
   "summary": "Historical deployment analysis — walk git history, deploy per day, test all endpoints, capture screenshots, restore working fragments",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rebuild-0.1.19.tar.gz",
-  "download_time": "2026-05-01T21:17:03.088857",
+  "download_filename": "rebuild-0.1.21.tar.gz",
+  "download_time": "2026-05-02T12:16:01.315325",
   "package_url": "https://pypi.org/project/rebuild/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "substack-ops",
+  "version": "0.3.4",
+  "summary": "Standalone Substack CLI + 26-tool MCP server. Your IDE drafts the replies. Zero AI API keys.",
+  "author": "Ketan Chavan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "substack_ops-0.3.4.tar.gz",
+  "download_time": "2026-05-02T12:15:41.851212",
+  "package_url": "https://pypi.org/project/substack-ops/"
+}

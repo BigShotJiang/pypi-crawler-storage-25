@@ -1,11 +1,11 @@
 {
   "name": "pyrouteforge",
-  "version": "1.2.5",
+  "version": "1.4.0",
   "summary": "A Clean and Fast Vehicle Routing Problem Solver Powered by Genetic Algorithms.",
   "author": "Valdecy Pereira",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyrouteforge-1.2.5.tar.gz",
-  "download_time": "2026-05-02T10:37:07.012693",
+  "download_filename": "pyrouteforge-1.4.0.tar.gz",
+  "download_time": "2026-05-02T12:15:50.710960",
   "package_url": "https://pypi.org/project/pyrouteforge/"
 }
