@@ -1,11 +1,11 @@
 {
   "name": "pywire-parser",
-  "version": "0.4.0",
+  "version": "0.7.0",
   "summary": "Pure-Python parser for PyWire .wire files using tree-sitter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pywire_parser-0.4.0.tar.gz",
-  "download_time": "2026-04-20T18:04:14.069388",
+  "download_filename": "pywire_parser-0.7.0.tar.gz",
+  "download_time": "2026-05-02T19:52:18.164033",
   "package_url": "https://pypi.org/project/pywire-parser/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "knx-telegram-store",
+  "version": "0.1.2",
+  "summary": "A standalone, host-agnostic Python library for KNX telegram persistence.",
+  "author": "Martin Hoefling",
+  "license": null,
+  "home_page": null,
+  "download_filename": "knx_telegram_store-0.1.2.tar.gz",
+  "download_time": "2026-05-02T19:52:05.102071",
+  "package_url": "https://pypi.org/project/knx-telegram-store/"
+}

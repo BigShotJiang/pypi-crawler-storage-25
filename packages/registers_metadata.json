@@ -1,11 +1,11 @@
 {
   "name": "registers",
-  "version": "6.2.0",
+  "version": "6.5.0",
   "summary": "Decorator-driven CLI and database toolkit for Pydantic and SQLAlchemy.",
   "author": "Charles DeFreese",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "registers-6.2.0.tar.gz",
-  "download_time": "2026-04-21T20:15:21.220427",
+  "download_filename": "registers-6.5.0.tar.gz",
+  "download_time": "2026-05-02T19:52:22.793965",
   "package_url": "https://pypi.org/project/registers/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "granite-assets",
+  "version": "0.1.1",
+  "summary": "Portable asset repository abstraction for local and cloud storage backends",
+  "author": "granite-assets contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "granite_assets-0.1.1.tar.gz",
+  "download_time": "2026-05-02T19:52:28.014477",
+  "package_url": "https://pypi.org/project/granite-assets/"
+}

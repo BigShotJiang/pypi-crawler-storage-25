@@ -1,11 +1,11 @@
 {
   "name": "semvec",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "Semvec — patent-pending persistent semantic state engine",
   "author": null,
   "license": null,
   "home_page": "https://www.semvec.io",
-  "download_filename": "semvec-0.4.3-cp310-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2026-05-02T11:33:11.718291",
+  "download_filename": "semvec-0.4.4-cp310-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-02T19:52:41.447267",
   "package_url": "https://pypi.org/project/semvec/"
 }

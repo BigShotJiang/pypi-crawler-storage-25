@@ -1,11 +1,11 @@
 {
   "name": "seraplot",
-  "version": "2.4.21",
+  "version": "2.4.25",
   "summary": "Rust data visualization framework - The modern Plotly alternative",
   "author": "feur25",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "seraplot-2.4.21-cp311-cp311-win_amd64.whl",
-  "download_time": "2026-05-02T15:43:41.979956",
+  "download_filename": "seraplot-2.4.25-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-05-02T19:52:40.398319",
   "package_url": "https://pypi.org/project/seraplot/"
 }

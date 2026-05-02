@@ -1,11 +1,11 @@
 {
   "name": "falaw",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Agent-friendly Python facade over fal.ai for generating and managing AI media (images, video, audio).",
   "author": "Thor Whalen",
   "license": "mit",
   "home_page": null,
-  "download_filename": "falaw-0.0.2.tar.gz",
-  "download_time": "2026-05-02T18:41:39.004902",
+  "download_filename": "falaw-0.0.4.tar.gz",
+  "download_time": "2026-05-02T19:52:15.598447",
   "package_url": "https://pypi.org/project/falaw/"
 }

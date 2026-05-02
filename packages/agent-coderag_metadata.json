@@ -1,0 +1,11 @@
+{
+  "name": "agent-coderag",
+  "version": "1.2.0",
+  "summary": "Lightweight semantic code search and distillation utility for AI coding agents. It solves the API knowledge gap via real-time local signature extraction and intent analysis without PyTorch. Optimized for token efficiency, it compresses codebase context into compact semantic summaries stored in a local DuckDB vector similarity index.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_coderag-1.2.0.tar.gz",
+  "download_time": "2026-05-02T19:52:39.327712",
+  "package_url": "https://pypi.org/project/agent-coderag/"
+}

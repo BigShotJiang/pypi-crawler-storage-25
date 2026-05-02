@@ -1,11 +1,11 @@
 {
   "name": "mcp-printable",
-  "version": "0.1.2",
+  "version": "0.1.7",
   "summary": "MCP server for AI-driven 3D modeling and print validation (FDM-focused). Agent-agnostic; works with any MCP client (Claude Code, Goose, Cursor, Codex, ...).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_printable-0.1.2.tar.gz",
-  "download_time": "2026-04-27T03:01:22.676549",
+  "download_filename": "mcp_printable-0.1.7.tar.gz",
+  "download_time": "2026-05-02T19:52:26.407405",
   "package_url": "https://pypi.org/project/mcp-printable/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "llm-autotune",
-  "version": "1.0.1",
+  "version": "1.0.13",
   "summary": "39% faster TTFT, 67% less KV cache, zero config — autotune optimises local LLMs on Ollama, LM Studio, and MLX",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_autotune-1.0.1.tar.gz",
-  "download_time": "2026-04-28T20:49:35.430587",
+  "download_filename": "llm_autotune-1.0.13.tar.gz",
+  "download_time": "2026-05-02T19:52:20.225072",
   "package_url": "https://pypi.org/project/llm-autotune/"
 }

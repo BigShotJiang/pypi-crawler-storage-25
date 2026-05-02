@@ -1,0 +1,11 @@
+{
+  "name": "paperhub",
+  "version": "0.1.1",
+  "summary": "Fetch HuggingFace Daily Papers and produce Jupyter-friendly AI summaries — one paper, one agent.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "paperhub-0.1.1.tar.gz",
+  "download_time": "2026-05-02T19:52:01.985698",
+  "package_url": "https://pypi.org/project/paperhub/"
+}

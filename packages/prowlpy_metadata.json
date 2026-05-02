@@ -1,11 +1,11 @@
 {
   "name": "prowlpy",
-  "version": "1.1.5",
+  "version": "2.0.0",
   "summary": "Prowlpy is a python library that implements the public api of Prowl to send push notification to iPhones.",
   "author": "OMEGA_RAZER",
   "license": null,
   "home_page": null,
-  "download_filename": "prowlpy-1.1.5.tar.gz",
-  "download_time": "2026-05-02T18:41:48.353738",
+  "download_filename": "prowlpy-2.0.0.tar.gz",
+  "download_time": "2026-05-02T19:52:31.613431",
   "package_url": "https://pypi.org/project/prowlpy/"
 }

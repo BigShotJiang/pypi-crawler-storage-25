@@ -1,11 +1,11 @@
 {
   "name": "gmc-mcp",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Google Merchant Center MCP — the first free, open-source, self-hosted MCP server for Google Merchant Center (Merchant API v1). 126 tools for products, inventory, reports, promotions, returns, and account config. Free alternative to paid SaaS connectors (Adzviser, Catchr, Windsor.ai, Pipedream).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gmc_mcp-0.2.1.tar.gz",
-  "download_time": "2026-05-02T18:41:09.910073",
+  "download_filename": "gmc_mcp-0.2.3.tar.gz",
+  "download_time": "2026-05-02T19:52:24.349094",
   "package_url": "https://pypi.org/project/gmc-mcp/"
 }
