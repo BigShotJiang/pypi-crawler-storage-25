@@ -1,11 +1,11 @@
 {
   "name": "kigo-gui-framework",
-  "version": "3.0",
-  "summary": "Kigo can log things in .json. Not telemetry. And even though Class 5 is tough you will get updates do not worry.",
-  "author": null,
-  "license": "zlib",
+  "version": "3.7",
+  "summary": "Kigo now supports particle acceleration",
+  "author": "Anand Kumar",
+  "license": "Zlib",
   "home_page": null,
-  "download_filename": "kigo_gui_framework-3.0.tar.gz",
-  "download_time": "2026-04-13T11:49:09.075523",
+  "download_filename": "kigo_gui_framework-3.7.tar.gz",
+  "download_time": "2026-05-02T09:25:06.422575",
   "package_url": "https://pypi.org/project/kigo-gui-framework/"
 }

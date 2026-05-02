@@ -1,0 +1,11 @@
+{
+  "name": "chunktuner",
+  "version": "0.1.0",
+  "summary": "Auto chunking tuner and MCP server for RAG pipelines",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chunktuner-0.1.0.tar.gz",
+  "download_time": "2026-05-02T09:25:13.716686",
+  "package_url": "https://pypi.org/project/chunktuner/"
+}

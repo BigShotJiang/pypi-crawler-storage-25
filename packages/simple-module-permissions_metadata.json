@@ -1,11 +1,11 @@
 {
   "name": "simple-module-permissions",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "summary": "RBAC primitives — roles, permissions, @require_permission decorator, admin UI for simple_module",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simple_module_permissions-0.0.2.tar.gz",
-  "download_time": "2026-04-26T20:13:38.998255",
+  "download_filename": "simple_module_permissions-0.0.6.tar.gz",
+  "download_time": "2026-05-02T09:25:22.663830",
   "package_url": "https://pypi.org/project/simple-module-permissions/"
 }

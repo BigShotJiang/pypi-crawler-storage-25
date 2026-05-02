@@ -1,11 +1,11 @@
 {
   "name": "astrocyte-neo4j",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "Neo4j GraphStore adapter for Astrocyte",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "astrocyte_neo4j-0.9.0.tar.gz",
-  "download_time": "2026-04-25T15:19:16.491727",
+  "download_filename": "astrocyte_neo4j-0.10.0.tar.gz",
+  "download_time": "2026-05-02T09:24:40.378452",
   "package_url": "https://pypi.org/project/astrocyte-neo4j/"
 }

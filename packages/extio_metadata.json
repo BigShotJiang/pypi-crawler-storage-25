@@ -1,0 +1,11 @@
+{
+  "name": "extio",
+  "version": "1.0.0",
+  "summary": "Расширенный ввод-вывод для консольных приложений: цвета, ожидание клавиш, ASCII-арт",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "extio-1.0.0.tar.gz",
+  "download_time": "2026-05-02T09:24:31.380301",
+  "package_url": "https://pypi.org/project/extio/"
+}

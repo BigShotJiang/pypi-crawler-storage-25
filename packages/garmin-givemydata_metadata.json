@@ -1,11 +1,11 @@
 {
   "name": "garmin-givemydata",
-  "version": "0.1.8",
-  "summary": "Get your Garmin Connect data back. Browser-based extraction + 47-table SQLite database + MCP server for AI analysis.",
+  "version": "0.1.11",
+  "summary": "Get your Garmin Connect data back. Browser-based extraction + 48-table SQLite database + MCP server for AI analysis.",
   "author": "garmin-givemydata contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "garmin_givemydata-0.1.8.tar.gz",
-  "download_time": "2026-04-01T11:39:32.800580",
+  "download_filename": "garmin_givemydata-0.1.11.tar.gz",
+  "download_time": "2026-05-02T09:24:50.204144",
   "package_url": "https://pypi.org/project/garmin-givemydata/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "simple-module-dashboard",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "summary": "Admin landing page and sidebar menu host for authenticated users of a simple_module app",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simple_module_dashboard-0.0.2.tar.gz",
-  "download_time": "2026-04-26T20:13:40.280804",
+  "download_filename": "simple_module_dashboard-0.0.6.tar.gz",
+  "download_time": "2026-05-02T09:25:21.107332",
   "package_url": "https://pypi.org/project/simple-module-dashboard/"
 }

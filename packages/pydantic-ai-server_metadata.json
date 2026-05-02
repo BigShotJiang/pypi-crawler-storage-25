@@ -1,11 +1,11 @@
 {
   "name": "pydantic-ai-server",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "PAIS - Pydantic AI Server for Kubernetes Agent Orchestration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_ai_server-0.4.3.tar.gz",
-  "download_time": "2026-05-01T14:17:01.576782",
+  "download_filename": "pydantic_ai_server-0.4.4.tar.gz",
+  "download_time": "2026-05-02T09:24:56.493817",
   "package_url": "https://pypi.org/project/pydantic-ai-server/"
 }

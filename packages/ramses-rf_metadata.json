@@ -1,11 +1,11 @@
 {
   "name": "ramses-rf",
-  "version": "0.56.0",
+  "version": "0.56.7",
   "summary": "A stateful RAMSES-II protocol decoder & analyser.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ramses_rf-0.56.0.tar.gz",
-  "download_time": "2026-04-03T15:56:31.757178",
+  "download_filename": "ramses_rf-0.56.7.tar.gz",
+  "download_time": "2026-05-02T09:25:07.988111",
   "package_url": "https://pypi.org/project/ramses-rf/"
 }
