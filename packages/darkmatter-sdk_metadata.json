@@ -1,11 +1,11 @@
 {
   "name": "darkmatter-sdk",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "Replay, fork, and verify any AI workflow. Execution record for AI agent pipelines.",
   "author": "Ben Gunvl",
   "license": null,
   "home_page": "https://darkmatterhub.ai",
-  "download_filename": "darkmatter_sdk-1.4.2.tar.gz",
-  "download_time": "2026-05-02T19:52:15.081662",
+  "download_filename": "darkmatter_sdk-1.4.3.tar.gz",
+  "download_time": "2026-05-02T20:34:31.312479",
   "package_url": "https://pypi.org/project/darkmatter-sdk/"
 }

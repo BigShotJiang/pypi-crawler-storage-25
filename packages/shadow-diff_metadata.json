@@ -1,11 +1,11 @@
 {
   "name": "shadow-diff",
-  "version": "3.0.3",
-  "summary": "Git-native behavioral diff and shadow deployment for LLM agents.",
+  "version": "3.0.5",
+  "summary": "Behavior contracts for AI agents — tested in your PR, enforced at runtime.",
   "author": "manav8498",
   "license": null,
   "home_page": "https://github.com/manav8498/Shadow",
-  "download_filename": "shadow_diff-3.0.3.tar.gz",
-  "download_time": "2026-04-30T23:19:07.596242",
+  "download_filename": "shadow_diff-3.0.5.tar.gz",
+  "download_time": "2026-05-02T20:34:21.308655",
   "package_url": "https://pypi.org/project/shadow-diff/"
 }

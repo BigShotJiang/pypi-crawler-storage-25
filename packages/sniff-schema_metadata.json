@@ -1,0 +1,11 @@
+{
+  "name": "sniff-schema",
+  "version": "0.1.2",
+  "summary": "Infer schema from JSON or CSV data — output as TypeScript, Pydantic, or Markdown",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sniff_schema-0.1.2.tar.gz",
+  "download_time": "2026-05-02T20:34:18.659495",
+  "package_url": "https://pypi.org/project/sniff-schema/"
+}

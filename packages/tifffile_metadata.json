@@ -1,0 +1,11 @@
+{
+  "name": "tifffile",
+  "version": "2026.5.2",
+  "summary": "Read and write TIFF files",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "tifffile-2026.5.2.tar.gz",
+  "download_time": "2026-05-02T20:34:50.962092",
+  "package_url": "https://pypi.org/project/tifffile/"
+}

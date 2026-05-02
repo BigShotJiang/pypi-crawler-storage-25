@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-book-site-renderer",
+  "version": "0.0.4",
+  "summary": "Render MyST AST into HTML using a MyST template",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jupyter_book_site_renderer-0.0.4.tar.gz",
+  "download_time": "2026-05-02T20:34:57.188301",
+  "package_url": "https://pypi.org/project/jupyter-book-site-renderer/"
+}

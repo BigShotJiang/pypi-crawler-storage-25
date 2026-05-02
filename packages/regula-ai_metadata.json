@@ -1,11 +1,11 @@
 {
   "name": "regula-ai",
-  "version": "1.5.1",
+  "version": "1.7.1",
   "summary": "AI governance risk indication for code — EU AI Act compliance at the point of creation",
   "author": "The Implementation Layer",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "regula_ai-1.5.1-py3-none-any.whl",
-  "download_time": "2026-04-04T19:56:28.417823",
+  "download_filename": "regula_ai-1.7.1.tar.gz",
+  "download_time": "2026-05-02T20:34:40.168639",
   "package_url": "https://pypi.org/project/regula-ai/"
 }

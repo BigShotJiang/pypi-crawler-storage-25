@@ -1,11 +1,11 @@
 {
   "name": "apftool",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "Encoder and decoder for Aperture Science Image Format (apf), Aperture Science Image Format 2 (apf2), Wireless Bitmap (wbmp), Over-The-Air Bitmap (otb), and FaceDev's .bruh format",
   "author": "Mari (kbity)",
   "license": null,
   "home_page": null,
-  "download_filename": "apftool-0.5.0.tar.gz",
-  "download_time": "2026-05-02T08:15:24.999617",
+  "download_filename": "apftool-0.5.2.tar.gz",
+  "download_time": "2026-05-02T20:34:56.676410",
   "package_url": "https://pypi.org/project/apftool/"
 }

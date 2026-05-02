@@ -1,11 +1,11 @@
 {
   "name": "botas",
-  "version": "0.3.18",
-  "summary": "Lightweight library for building Microsoft Bot Framework bots - Python",
+  "version": "0.3.80",
+  "summary": "Lightweight library for building Microsoft Bot Service bots - Python",
   "author": "rido-min",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "botas-0.3.18.tar.gz",
-  "download_time": "2026-04-22T22:12:29.952151",
+  "download_filename": "botas-0.3.80.tar.gz",
+  "download_time": "2026-05-02T20:34:32.855375",
   "package_url": "https://pypi.org/project/botas/"
 }

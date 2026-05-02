@@ -1,0 +1,11 @@
+{
+  "name": "ogrep",
+  "version": "0.10.1",
+  "summary": "Semantic grep for codebases - local-first, SQLite-backed, with local or cloud embeddings",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ogrep-0.10.1.tar.gz",
+  "download_time": "2026-05-02T20:34:17.635313",
+  "package_url": "https://pypi.org/project/ogrep/"
+}

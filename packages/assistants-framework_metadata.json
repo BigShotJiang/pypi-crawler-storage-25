@@ -1,11 +1,11 @@
 {
   "name": "assistants-framework",
-  "version": "0.9.5",
+  "version": "0.9.7",
   "summary": "AI Assistant Framework with CLI and Telegram Bot",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "assistants_framework-0.9.5.tar.gz",
-  "download_time": "2026-05-02T17:43:26.903212",
+  "download_filename": "assistants_framework-0.9.7-py3-none-any.whl",
+  "download_time": "2026-05-02T20:34:25.118925",
   "package_url": "https://pypi.org/project/assistants-framework/"
 }

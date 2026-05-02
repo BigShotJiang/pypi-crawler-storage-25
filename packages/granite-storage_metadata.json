@@ -1,0 +1,11 @@
+{
+  "name": "granite-storage",
+  "version": "0.1.0",
+  "summary": "Storage abstraction for SQLAlchemy models with local and S3 backends, streaming uploads, and orphan garbage collection.",
+  "author": "Impalah",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "granite_storage-0.1.0.tar.gz",
+  "download_time": "2026-05-02T20:34:23.041884",
+  "package_url": "https://pypi.org/project/granite-storage/"
+}

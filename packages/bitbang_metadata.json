@@ -1,11 +1,11 @@
 {
   "name": "bitbang",
-  "version": "0.1.47",
+  "version": "0.1.50",
   "summary": "Connect browsers to devices via WebRTC",
   "author": "Rich LeGrand",
   "license": null,
   "home_page": null,
-  "download_filename": "bitbang-0.1.47.tar.gz",
-  "download_time": "2026-04-19T15:51:07.783408",
+  "download_filename": "bitbang-0.1.50.tar.gz",
+  "download_time": "2026-05-02T20:34:20.260247",
   "package_url": "https://pypi.org/project/bitbang/"
 }
