@@ -1,11 +1,11 @@
 {
   "name": "agent-bom",
-  "version": "0.84.4",
+  "version": "0.85.0",
   "summary": "Security scanner and graph for agentic infrastructure — agents, MCP, runtime, and blast radius.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_bom-0.84.4.tar.gz",
-  "download_time": "2026-05-01T18:55:40.533752",
+  "download_filename": "agent_bom-0.85.0.tar.gz",
+  "download_time": "2026-05-02T23:02:26.906212",
   "package_url": "https://pypi.org/project/agent-bom/"
 }

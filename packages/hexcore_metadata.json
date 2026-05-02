@@ -1,11 +1,11 @@
 {
   "name": "hexcore",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "summary": "Núcleo reutilizable para proyectos Python con arquitectura hexagonal y event handling. Provee abstracciones, utilidades y contratos para DDD, eventos y desacoplamiento de infraestructura.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hexcore-2.0.3.tar.gz",
-  "download_time": "2026-04-08T11:19:23.238145",
+  "download_filename": "hexcore-2.0.4.tar.gz",
+  "download_time": "2026-05-02T23:01:37.763239",
   "package_url": "https://pypi.org/project/hexcore/"
 }

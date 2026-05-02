@@ -1,11 +1,11 @@
 {
   "name": "jabs-behavior-classifier",
-  "version": "0.44.0",
+  "version": "0.44.1",
   "summary": null,
   "author": "Glen Beane, Brian Geuther, Keith Sheppard, Alexander Berger-Liedtka",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "jabs_behavior_classifier-0.44.0.tar.gz",
-  "download_time": "2026-05-01T18:56:07.397641",
+  "download_filename": "jabs_behavior_classifier-0.44.1.tar.gz",
+  "download_time": "2026-05-02T23:02:21.169572",
   "package_url": "https://pypi.org/project/jabs-behavior-classifier/"
 }

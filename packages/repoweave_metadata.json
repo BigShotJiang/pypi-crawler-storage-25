@@ -1,11 +1,11 @@
 {
   "name": "repoweave",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A cross-repo workspace manager",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/cwalv/repoweave",
-  "download_filename": "repoweave-0.3.0.tar.gz",
-  "download_time": "2026-04-22T01:12:51.684947",
+  "download_filename": "repoweave-0.4.0.tar.gz",
+  "download_time": "2026-05-02T23:01:56.145643",
   "package_url": "https://pypi.org/project/repoweave/"
 }

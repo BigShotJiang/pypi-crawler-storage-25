@@ -1,11 +1,11 @@
 {
   "name": "cabana",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "summary": "Collagen fibre analyser for quantifying collagen fibre architecture in IHC and fluorescence microscopy images.",
   "author": "Gavin Lin",
   "license": null,
   "home_page": "https://github.com/lxfhfut/cabana.git",
-  "download_filename": "cabana-0.1.4.tar.gz",
-  "download_time": "2026-05-01T04:26:49.049949",
+  "download_filename": "cabana-0.1.8.tar.gz",
+  "download_time": "2026-05-02T23:02:14.926368",
   "package_url": "https://pypi.org/project/cabana/"
 }

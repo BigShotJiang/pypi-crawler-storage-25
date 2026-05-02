@@ -1,11 +1,11 @@
 {
   "name": "persona-api",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "summary": "Digital Persona API — Sancio runtime + Cerno 7-step cycle (AGPL v3 / Commercial dual)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "persona_api-2.0.1.tar.gz",
-  "download_time": "2026-05-02T11:33:04.301582",
+  "download_filename": "persona_api-2.1.0.tar.gz",
+  "download_time": "2026-05-02T23:02:23.818573",
   "package_url": "https://pypi.org/project/persona-api/"
 }

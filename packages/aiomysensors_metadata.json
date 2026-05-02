@@ -1,0 +1,11 @@
+{
+  "name": "aiomysensors",
+  "version": "0.13.0",
+  "summary": "Python asyncio package to connect to MySensors gateways.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiomysensors-0.13.0.tar.gz",
+  "download_time": "2026-05-02T23:02:11.199510",
+  "package_url": "https://pypi.org/project/aiomysensors/"
+}

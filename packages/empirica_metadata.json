@@ -1,11 +1,11 @@
 {
   "name": "empirica",
-  "version": "1.8.12",
+  "version": "1.8.18",
   "summary": "Measurement and calibration layer for AI — track what it knows, gate what it does",
   "author": "David S. L. Van Assche",
   "license": null,
   "home_page": null,
-  "download_filename": "empirica-1.8.12.tar.gz",
-  "download_time": "2026-04-25T18:12:36.938201",
+  "download_filename": "empirica-1.8.18.tar.gz",
+  "download_time": "2026-05-02T23:01:37.226505",
   "package_url": "https://pypi.org/project/empirica/"
 }
