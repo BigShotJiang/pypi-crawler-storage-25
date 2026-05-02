@@ -1,0 +1,11 @@
+{
+  "name": "trie-hard-py",
+  "version": "0.1.0",
+  "summary": "Fast mutable UTF-8 trie exposed as a Python extension module",
+  "author": "trie-hard-py contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trie_hard_py-0.1.0.tar.gz",
+  "download_time": "2026-05-02T10:36:55.609972",
+  "package_url": "https://pypi.org/project/trie-hard-py/"
+}

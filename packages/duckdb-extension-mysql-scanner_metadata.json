@@ -1,0 +1,11 @@
+{
+  "name": "duckdb-extension-mysql-scanner",
+  "version": "1.5.2",
+  "summary": "Duckdb mysql_scanner extension",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "duckdb_extension_mysql_scanner-1.5.2-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-02T10:37:35.354420",
+  "package_url": "https://pypi.org/project/duckdb-extension-mysql-scanner/"
+}

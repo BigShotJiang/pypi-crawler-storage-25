@@ -1,0 +1,11 @@
+{
+  "name": "cipherexplain",
+  "version": "0.3.0",
+  "summary": "CipherExplain SDK — register models and get encrypted SHAP explanations via the CipherExplain API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cipherexplain-0.3.0.tar.gz",
+  "download_time": "2026-05-02T10:37:27.539856",
+  "package_url": "https://pypi.org/project/cipherexplain/"
+}

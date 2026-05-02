@@ -1,11 +1,11 @@
 {
   "name": "licensehound",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Find the open-source licenses in your dependency tree, before procurement does.",
   "author": "LicenseHound",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "licensehound-0.0.1.tar.gz",
-  "download_time": "2026-05-02T09:24:52.300912",
+  "download_filename": "licensehound-0.0.3.tar.gz",
+  "download_time": "2026-05-02T10:37:27.029101",
   "package_url": "https://pypi.org/project/licensehound/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "synapse-context-sdk",
+  "version": "0.1.0",
+  "summary": "Shared models, secret scanner, and client SDK for Synapse services.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "synapse_context_sdk-0.1.0.tar.gz",
+  "download_time": "2026-05-02T10:37:04.921885",
+  "package_url": "https://pypi.org/project/synapse-context-sdk/"
+}

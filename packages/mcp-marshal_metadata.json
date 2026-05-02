@@ -1,0 +1,11 @@
+{
+  "name": "mcp-marshal",
+  "version": "0.1.0a1",
+  "summary": "A lightweight security validation layer for MCP (Model Context Protocol) inputs",
+  "author": "Rahul Kaushal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_marshal-0.1.0a1.tar.gz",
+  "download_time": "2026-05-02T10:36:50.983098",
+  "package_url": "https://pypi.org/project/mcp-marshal/"
+}

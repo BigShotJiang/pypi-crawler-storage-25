@@ -1,11 +1,11 @@
 {
   "name": "bootgraph",
-  "version": "1.20.0",
+  "version": "1.21.0",
   "summary": "A Python library for integrating SQLModel and Strawberry, providing a seamless GraphQL integration with FastAPI and advanced features for database interactions.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bootgraph-1.20.0.tar.gz",
-  "download_time": "2026-04-11T15:22:37.754190",
+  "download_filename": "bootgraph-1.21.0.tar.gz",
+  "download_time": "2026-05-02T10:36:59.739195",
   "package_url": "https://pypi.org/project/bootgraph/"
 }

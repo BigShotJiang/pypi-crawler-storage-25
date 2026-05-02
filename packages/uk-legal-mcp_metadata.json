@@ -1,11 +1,11 @@
 {
   "name": "uk-legal-mcp",
-  "version": "0.3.0",
+  "version": "0.4.2",
   "summary": "UK legal research MCP server — case law, legislation, parliament, bills, votes, committees, citations, HMRC",
   "author": "Paul Boucher",
   "license": null,
   "home_page": null,
-  "download_filename": "uk_legal_mcp-0.3.0.tar.gz",
-  "download_time": "2026-04-01T21:03:42.106436",
+  "download_filename": "uk_legal_mcp-0.4.2.tar.gz",
+  "download_time": "2026-05-02T10:37:10.587124",
   "package_url": "https://pypi.org/project/uk-legal-mcp/"
 }

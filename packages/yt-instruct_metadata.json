@@ -1,0 +1,11 @@
+{
+  "name": "yt-instruct",
+  "version": "1.1.0",
+  "summary": "Convert YouTube videos into structured markdown instruction documents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yt_instruct-1.1.0.tar.gz",
+  "download_time": "2026-05-02T10:37:00.760598",
+  "package_url": "https://pypi.org/project/yt-instruct/"
+}

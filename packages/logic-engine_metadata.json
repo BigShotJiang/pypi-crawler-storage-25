@@ -1,0 +1,11 @@
+{
+  "name": "logic-engine",
+  "version": "0.2.0",
+  "summary": "A directed-graph reasoning engine with transitive reachability, path explanations, and Pareto-optimal belief revision (counterfactual analysis).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logic_engine-0.2.0.tar.gz",
+  "download_time": "2026-05-02T10:36:52.519305",
+  "package_url": "https://pypi.org/project/logic-engine/"
+}

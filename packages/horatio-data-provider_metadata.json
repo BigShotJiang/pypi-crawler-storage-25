@@ -1,11 +1,11 @@
 {
   "name": "horatio-data-provider",
-  "version": "4.1.2",
+  "version": "4.4.1",
   "summary": "Python client for the Horatio data provider service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "horatio_data_provider-4.1.2.tar.gz",
-  "download_time": "2026-05-01T00:18:03.595128",
+  "download_filename": "horatio_data_provider-4.4.1.tar.gz",
+  "download_time": "2026-05-02T10:36:59.228008",
   "package_url": "https://pypi.org/project/horatio-data-provider/"
 }
