@@ -1,0 +1,11 @@
+{
+  "name": "mcp-omniplan-jtr",
+  "version": "0.4.2",
+  "summary": "MCP server that lets Claude (and other LLM agents) drive OmniPlan 4 on macOS via the omniJS bridge.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_omniplan_jtr-0.4.2.tar.gz",
+  "download_time": "2026-05-02T13:58:39.483389",
+  "package_url": "https://pypi.org/project/mcp-omniplan-jtr/"
+}

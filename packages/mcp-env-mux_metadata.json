@@ -1,11 +1,11 @@
 {
   "name": "mcp-env-mux",
-  "version": "0.3.0",
+  "version": "0.3.3",
   "summary": "Merge multiple instances of the same MCP server across environments into a single endpoint with a unified env parameter.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_env_mux-0.3.0.tar.gz",
-  "download_time": "2026-05-02T11:33:28.726606",
+  "download_filename": "mcp_env_mux-0.3.3.tar.gz",
+  "download_time": "2026-05-02T13:58:16.819742",
   "package_url": "https://pypi.org/project/mcp-env-mux/"
 }

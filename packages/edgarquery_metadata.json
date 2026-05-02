@@ -1,0 +1,11 @@
+{
+  "name": "edgarquery",
+  "version": "0.0.90",
+  "summary": "Downloads various SEC EDGAR files by CIK or ticker.  companyfactsshow displays company facts in your browser",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "edgarquery-0.0.90.tar.gz",
+  "download_time": "2026-05-02T13:58:48.590809",
+  "package_url": "https://pypi.org/project/edgarquery/"
+}

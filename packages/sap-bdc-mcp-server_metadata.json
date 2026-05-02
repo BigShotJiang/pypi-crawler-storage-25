@@ -1,0 +1,11 @@
+{
+  "name": "sap-bdc-mcp-server",
+  "version": "0.5.0",
+  "summary": "MCP server for SAP Business Data Cloud integration with 17 tools: provisioning, validation, Delta Sharing management, SAP-Note-driven diagnostics, ORD metadata validation, and Databricks privilege pre-flight (v0.5.0)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sap_bdc_mcp_server-0.5.0.tar.gz",
+  "download_time": "2026-05-02T13:57:59.334430",
+  "package_url": "https://pypi.org/project/sap-bdc-mcp-server/"
+}

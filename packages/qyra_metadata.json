@@ -1,11 +1,11 @@
 {
   "name": "qyra",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Production infrastructure for HyperCycle AIMs — telemetry, retries, health, and inter-AIM routing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qyra-0.1.0.tar.gz",
-  "download_time": "2026-04-26T17:00:28.761032",
+  "download_filename": "qyra-0.1.3.tar.gz",
+  "download_time": "2026-05-02T13:58:43.418722",
   "package_url": "https://pypi.org/project/qyra/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "prama",
+  "version": "0.1.0a1",
+  "summary": "Sclite-backed WER/CER evaluation engine for ASR outputs.",
+  "author": "migo",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "prama-0.1.0a1.tar.gz",
+  "download_time": "2026-05-02T13:58:01.185627",
+  "package_url": "https://pypi.org/project/prama/"
+}

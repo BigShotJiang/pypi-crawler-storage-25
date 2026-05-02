@@ -1,11 +1,11 @@
 {
   "name": "linkright",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Local-first, agent-native career OS — resume tailoring, interview prep, job search, content planning. Runs $0 with free-tier LLM keys.",
   "author": null,
   "license": "MIT License\n        \n        Copyright (c) 2026 Satvik Jain\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy\n        of this software and associated documentation files (the \"Software\"), to deal\n        in the Software without restriction, including without limitation the rights\n        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n        copies of the Software, and to permit persons to whom the Software is\n        furnished to do so, subject to the following conditions:\n        \n        The above copyright notice and this permission notice shall be included in all\n        copies or substantial portions of the Software.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n        SOFTWARE.\n        ",
   "home_page": null,
-  "download_filename": "linkright-0.1.2.tar.gz",
-  "download_time": "2026-05-02T06:20:19.296205",
+  "download_filename": "linkright-0.2.0.tar.gz",
+  "download_time": "2026-05-02T13:58:15.669721",
   "package_url": "https://pypi.org/project/linkright/"
 }

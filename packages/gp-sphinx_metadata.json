@@ -1,11 +1,11 @@
 {
   "name": "gp-sphinx",
-  "version": "0.0.1a10",
+  "version": "0.0.1a14",
   "summary": "Shared Sphinx documentation platform for git-pull projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gp_sphinx-0.0.1a10-py3-none-any.whl",
-  "download_time": "2026-04-25T23:15:39.437315",
+  "download_filename": "gp_sphinx-0.0.1a14.tar.gz",
+  "download_time": "2026-05-02T13:58:32.456540",
   "package_url": "https://pypi.org/project/gp-sphinx/"
 }

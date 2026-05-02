@@ -1,11 +1,11 @@
 {
   "name": "gflzirc",
-  "version": "0.4.0",
+  "version": "0.4.3",
   "summary": "Core libraries for ZIRC project (GFL Protocol)",
   "author": "MaaGF1",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gflzirc-0.4.0.tar.gz",
-  "download_time": "2026-04-24T12:50:14.136272",
+  "download_filename": "gflzirc-0.4.3.tar.gz",
+  "download_time": "2026-05-02T13:58:06.909711",
   "package_url": "https://pypi.org/project/gflzirc/"
 }

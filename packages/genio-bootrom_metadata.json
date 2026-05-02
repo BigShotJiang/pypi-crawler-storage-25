@@ -1,0 +1,11 @@
+{
+  "name": "genio-bootrom",
+  "version": "1.2.2",
+  "summary": "Tool to bootstrap the flashing on MediaTek Genio SoCs",
+  "author": "Fabien Parent",
+  "license": null,
+  "home_page": "https://gitlab.com/mediatek/aiot/bsp/genio-bootrom",
+  "download_filename": "genio_bootrom-1.2.2-py3-none-any.whl",
+  "download_time": "2026-05-02T13:58:04.014751",
+  "package_url": "https://pypi.org/project/genio-bootrom/"
+}

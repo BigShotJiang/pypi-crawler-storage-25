@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ssh-live",
+  "version": "0.1.0",
+  "summary": "Interactive, streaming SSH tool for LLM agents via MCP (Model Context Protocol)",
+  "author": "pmboxbiz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_ssh_live-0.1.0.tar.gz",
+  "download_time": "2026-05-02T13:58:44.538470",
+  "package_url": "https://pypi.org/project/mcp-ssh-live/"
+}

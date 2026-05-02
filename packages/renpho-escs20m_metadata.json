@@ -1,0 +1,11 @@
+{
+  "name": "renpho-escs20m",
+  "version": "0.2.0",
+  "summary": "Standalone Python client for the Renpho ES-CS20M BLE scale.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "renpho_escs20m-0.2.0.tar.gz",
+  "download_time": "2026-05-02T13:57:58.181044",
+  "package_url": "https://pypi.org/project/renpho-escs20m/"
+}

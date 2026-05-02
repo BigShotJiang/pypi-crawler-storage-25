@@ -1,11 +1,11 @@
 {
   "name": "sphinx-gp-theme",
-  "version": "0.0.1a10",
+  "version": "0.0.1a14",
   "summary": "Furo child theme for git-pull project documentation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sphinx_gp_theme-0.0.1a10.tar.gz",
-  "download_time": "2026-04-25T23:15:24.983911",
+  "download_filename": "sphinx_gp_theme-0.0.1a14.tar.gz",
+  "download_time": "2026-05-02T13:58:26.094057",
   "package_url": "https://pypi.org/project/sphinx-gp-theme/"
 }

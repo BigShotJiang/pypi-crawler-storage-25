@@ -1,11 +1,11 @@
 {
   "name": "pyamber",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "人格工坊 - 让任何人都能用自然语言创造有灵魂、会记忆、能理解、有底线的数字人格",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "pyamber-0.1.0.tar.gz",
-  "download_time": "2026-05-01T18:15:19.194200",
+  "download_filename": "pyamber-0.1.2.tar.gz",
+  "download_time": "2026-05-02T13:58:46.866200",
   "package_url": "https://pypi.org/project/pyamber/"
 }
