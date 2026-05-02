@@ -1,0 +1,11 @@
+{
+  "name": "fakellm",
+  "version": "0.1.1",
+  "summary": "A mock LLM server for testing. Drop-in replacement for OpenAI and Anthropic APIs.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fakellm-0.1.1.tar.gz",
+  "download_time": "2026-05-02T15:44:06.735708",
+  "package_url": "https://pypi.org/project/fakellm/"
+}

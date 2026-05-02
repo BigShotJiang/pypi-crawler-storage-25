@@ -1,11 +1,11 @@
 {
   "name": "airflow-providers-orchesjob",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Apache Airflow provider for orchesjob – lightweight idempotent job runner",
   "author": "Ryosuke Muraki",
   "license": null,
   "home_page": null,
-  "download_filename": "airflow_providers_orchesjob-0.1.0.tar.gz",
-  "download_time": "2026-05-02T13:58:07.495112",
+  "download_filename": "airflow_providers_orchesjob-0.1.2.tar.gz",
+  "download_time": "2026-05-02T15:44:03.078275",
   "package_url": "https://pypi.org/project/airflow-providers-orchesjob/"
 }

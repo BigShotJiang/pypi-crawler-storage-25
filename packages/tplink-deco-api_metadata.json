@@ -1,0 +1,11 @@
+{
+  "name": "tplink-deco-api",
+  "version": "1.0.0",
+  "summary": "SDK Python para controle de roteadores TP-Link Deco via API HTTP interna",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tplink_deco_api-1.0.0.tar.gz",
+  "download_time": "2026-05-02T15:43:59.622703",
+  "package_url": "https://pypi.org/project/tplink-deco-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rillo",
+  "version": "0.2.1",
+  "summary": "Rillo is a lightweight, type-safe Event Sourcing framework for Python, built on top of Pydantic.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rillo-0.2.1.tar.gz",
+  "download_time": "2026-05-02T15:43:36.366265",
+  "package_url": "https://pypi.org/project/rillo/"
+}

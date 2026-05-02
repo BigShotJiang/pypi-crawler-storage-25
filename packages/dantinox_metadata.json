@@ -1,11 +1,11 @@
 {
   "name": "dantinox",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "A decoder-only Transformer built from scratch in JAX and Flax NNX",
   "author": "Marco Simoni",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dantinox-0.3.1.tar.gz",
-  "download_time": "2026-05-02T13:58:45.694578",
+  "download_filename": "dantinox-0.3.3.tar.gz",
+  "download_time": "2026-05-02T15:44:09.619780",
   "package_url": "https://pypi.org/project/dantinox/"
 }

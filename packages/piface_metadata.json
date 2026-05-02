@@ -1,11 +1,11 @@
 {
   "name": "piface",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "summary": "Web-based remote interface for pi, the terminal coding agent",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "piface-0.0.1.tar.gz",
-  "download_time": "2026-04-30T20:00:20.711806",
+  "download_filename": "piface-0.0.4.tar.gz",
+  "download_time": "2026-05-02T15:44:05.583310",
   "package_url": "https://pypi.org/project/piface/"
 }

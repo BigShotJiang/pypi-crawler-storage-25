@@ -1,0 +1,11 @@
+{
+  "name": "xmi-reader",
+  "version": "1.0.3",
+  "summary": "Open and extract (unload) XMI/AWS/HET mainframe files.",
+  "author": "Philip Young, Henri Kuiper",
+  "license": "GPLv2",
+  "home_page": "https://github.com/mainframed/xmi/",
+  "download_filename": "xmi_reader-1.0.3.tar.gz",
+  "download_time": "2026-05-02T15:43:57.134933",
+  "package_url": "https://pypi.org/project/xmi-reader/"
+}

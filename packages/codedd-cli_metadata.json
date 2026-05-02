@@ -1,0 +1,11 @@
+{
+  "name": "codedd-cli",
+  "version": "0.1.5",
+  "summary": "CLI tool for CodeDD — run code audits from your terminal",
+  "author": "CodeDD",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codedd_cli-0.1.5.tar.gz",
+  "download_time": "2026-05-02T15:43:34.043939",
+  "package_url": "https://pypi.org/project/codedd-cli/"
+}

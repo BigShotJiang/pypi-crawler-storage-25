@@ -1,11 +1,11 @@
 {
   "name": "fantasm",
-  "version": "0.5.0",
+  "version": "0.7.1",
   "summary": "Fantasm — the Fantastic (dis-/re-)Assembly tools for 6502 code",
   "author": "Robert Smallshire",
   "license": null,
   "home_page": null,
-  "download_filename": "fantasm-0.5.0.tar.gz",
-  "download_time": "2026-05-02T08:15:33.519691",
+  "download_filename": "fantasm-0.7.1.tar.gz",
+  "download_time": "2026-05-02T15:44:11.358625",
   "package_url": "https://pypi.org/project/fantasm/"
 }

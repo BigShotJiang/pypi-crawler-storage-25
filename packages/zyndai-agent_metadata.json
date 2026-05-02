@@ -1,0 +1,11 @@
+{
+  "name": "zyndai-agent",
+  "version": "0.5.1",
+  "summary": "A multi-framework AI agent SDK for the Zynd AI Network. Supports LangChain, LangGraph, CrewAI, PydanticAI, and custom agents with a unified invoke() interface. Provides Ed25519 identity, agent discovery via agent-dns, A2A protocol communication, agent cards, and x402 micropayments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zyndai_agent-0.5.1.tar.gz",
+  "download_time": "2026-05-02T15:44:03.622434",
+  "package_url": "https://pypi.org/project/zyndai-agent/"
+}

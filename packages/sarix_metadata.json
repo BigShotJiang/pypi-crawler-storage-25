@@ -1,0 +1,11 @@
+{
+  "name": "sarix",
+  "version": "0.4.0",
+  "summary": "Semantic security verification CLI for scanner alerts and AI-written code",
+  "author": "Sarix Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sarix-0.4.0.tar.gz",
+  "download_time": "2026-05-02T15:44:18.804964",
+  "package_url": "https://pypi.org/project/sarix/"
+}

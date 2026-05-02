@@ -1,11 +1,11 @@
 {
   "name": "ipathelper",
-  "version": "2.0.2",
+  "version": "2.0.5",
   "summary": "PythonでIPATに投票する際に利用可能なモジュール",
   "author": "Mikimini9627",
   "license": null,
   "home_page": null,
-  "download_filename": "ipathelper-2.0.2.tar.gz",
-  "download_time": "2026-05-01T18:15:29.236173",
+  "download_filename": "ipathelper-2.0.5.tar.gz",
+  "download_time": "2026-05-02T15:44:00.817332",
   "package_url": "https://pypi.org/project/ipathelper/"
 }
