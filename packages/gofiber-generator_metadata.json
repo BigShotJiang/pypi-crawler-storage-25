@@ -1,11 +1,11 @@
 {
   "name": "gofiber-generator",
-  "version": "0.1.3",
+  "version": "0.2.1",
   "summary": "A complete configuration-driven generator for Go Fiber applications",
   "author": "Mrmhthegreat",
   "license": null,
   "home_page": "https://github.com/mrmhthegreat/go-fiber-generator",
-  "download_filename": "gofiber_generator-0.1.3.tar.gz",
-  "download_time": "2026-05-02T21:17:29.383108",
+  "download_filename": "gofiber_generator-0.2.1.tar.gz",
+  "download_time": "2026-05-02T22:07:44.044620",
   "package_url": "https://pypi.org/project/gofiber-generator/"
 }

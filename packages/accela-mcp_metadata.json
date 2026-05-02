@@ -1,11 +1,11 @@
 {
   "name": "accela-mcp",
-  "version": "0.1.1",
+  "version": "0.3.1",
   "summary": "Model Context Protocol server for the Accela Construct API",
   "author": "Accela MCP Maintainers",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "accela_mcp-0.1.1.tar.gz",
-  "download_time": "2026-05-02T14:54:23.707904",
+  "download_filename": "accela_mcp-0.3.1.tar.gz",
+  "download_time": "2026-05-02T22:08:06.909399",
   "package_url": "https://pypi.org/project/accela-mcp/"
 }

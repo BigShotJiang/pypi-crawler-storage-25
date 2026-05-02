@@ -1,11 +1,11 @@
 {
   "name": "aelfrice",
-  "version": "1.2.0",
-  "summary": "Bayesian memory for LLM agents — local, SQLite-backed, feedback-driven.",
+  "version": "1.6.0",
+  "summary": "Persistent memory for AI agents. Set up once. Stays out of your way. Local SQLite, auditable, no GPU, no network.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aelfrice-1.2.0.tar.gz",
-  "download_time": "2026-04-28T04:15:25.534696",
+  "download_filename": "aelfrice-1.6.0.tar.gz",
+  "download_time": "2026-05-02T22:08:03.235680",
   "package_url": "https://pypi.org/project/aelfrice/"
 }

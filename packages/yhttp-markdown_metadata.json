@@ -1,11 +1,11 @@
 {
   "name": "yhttp-markdown",
-  "version": "3.1.0",
+  "version": "4.0.0",
   "summary": "Markdown to HTML coverter and server with yhttp.",
   "author": "Vahid Mardani",
   "license": "APLv1",
   "home_page": "https://github.com/yhttp/markdown",
-  "download_filename": "yhttp_markdown-3.1.0.tar.gz",
-  "download_time": "2026-04-26T15:10:55.137960",
+  "download_filename": "yhttp_markdown-4.0.0.tar.gz",
+  "download_time": "2026-05-02T22:07:58.739632",
   "package_url": "https://pypi.org/project/yhttp-markdown/"
 }

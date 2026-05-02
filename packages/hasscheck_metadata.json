@@ -1,11 +1,11 @@
 {
   "name": "hasscheck",
-  "version": "0.14.0",
+  "version": "0.14.2",
   "summary": "Unofficial sourced checks for Home Assistant custom integration repos.",
   "author": "Daily Nerd",
   "license": null,
   "home_page": null,
-  "download_filename": "hasscheck-0.14.0.tar.gz",
-  "download_time": "2026-05-02T20:34:54.614219",
+  "download_filename": "hasscheck-0.14.2.tar.gz",
+  "download_time": "2026-05-02T22:08:03.774136",
   "package_url": "https://pypi.org/project/hasscheck/"
 }

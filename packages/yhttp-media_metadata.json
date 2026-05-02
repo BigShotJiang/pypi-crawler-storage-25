@@ -1,11 +1,11 @@
 {
   "name": "yhttp-media",
-  "version": "2.0.1",
+  "version": "4.0.0",
   "summary": "A very micro http framework.",
   "author": "Vahid Mardani",
   "license": "MIT",
   "home_page": "http://github.com/yhttp/yhttp-media",
-  "download_filename": "yhttp_media-2.0.1.tar.gz",
-  "download_time": "2026-04-14T20:10:30.972765",
+  "download_filename": "yhttp_media-4.0.0.tar.gz",
+  "download_time": "2026-05-02T22:07:54.557428",
   "package_url": "https://pypi.org/project/yhttp-media/"
 }

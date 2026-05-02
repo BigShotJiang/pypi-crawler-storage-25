@@ -1,11 +1,11 @@
 {
   "name": "wiswa",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "A highly opinionated way to generate and maintain projects with Jsonnet.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wiswa-0.3.2.tar.gz",
-  "download_time": "2026-05-02T20:34:49.932539",
+  "download_filename": "wiswa-0.3.3.tar.gz",
+  "download_time": "2026-05-02T22:07:50.556710",
   "package_url": "https://pypi.org/project/wiswa/"
 }

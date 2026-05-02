@@ -1,11 +1,11 @@
 {
   "name": "agsk",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Analyze repositories and synthesize AGENTS.md",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agsk-1.1.0.tar.gz",
-  "download_time": "2026-05-02T18:41:25.393201",
+  "download_filename": "agsk-1.2.0.tar.gz",
+  "download_time": "2026-05-02T22:07:55.069150",
   "package_url": "https://pypi.org/project/agsk/"
 }

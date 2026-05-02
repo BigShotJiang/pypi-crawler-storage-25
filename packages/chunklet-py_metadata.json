@@ -1,0 +1,11 @@
+{
+  "name": "chunklet-py",
+  "version": "2.3.1",
+  "summary": "High-fidelity context-aware chunking and interactive visualization for RAG. Advanced segmentation for code and documents, because your LLM is only as smart as the fragments you feed it.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chunklet_py-2.3.1.tar.gz",
+  "download_time": "2026-05-02T22:08:26.965851",
+  "package_url": "https://pypi.org/project/chunklet-py/"
+}
