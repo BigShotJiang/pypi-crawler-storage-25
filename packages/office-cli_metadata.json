@@ -1,11 +1,11 @@
 {
   "name": "office-cli",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Office — CLI to manage sittings and meeting rooms in office maps.",
   "author": "AgentCulture",
   "license": null,
   "home_page": null,
-  "download_filename": "office_cli-0.8.0.tar.gz",
-  "download_time": "2026-05-01T16:40:37.481128",
+  "download_filename": "office_cli-0.8.1.tar.gz",
+  "download_time": "2026-05-02T00:15:31.276145",
   "package_url": "https://pypi.org/project/office-cli/"
 }

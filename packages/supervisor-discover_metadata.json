@@ -1,11 +1,11 @@
 {
   "name": "supervisor-discover",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Scan an AI-agent repo and emit runtime-supervisor wrappers, policies, and combo playbooks.",
   "author": "Ariel San Martín",
   "license": null,
   "home_page": null,
-  "download_filename": "supervisor_discover-0.4.1.tar.gz",
-  "download_time": "2026-05-01T16:40:48.388157",
+  "download_filename": "supervisor_discover-0.4.2.tar.gz",
+  "download_time": "2026-05-02T00:15:41.705181",
   "package_url": "https://pypi.org/project/supervisor-discover/"
 }
