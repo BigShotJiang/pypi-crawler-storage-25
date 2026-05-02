@@ -1,0 +1,11 @@
+{
+  "name": "ezql",
+  "version": "0.1.2",
+  "summary": "EZQL - simple wrapper around asyncpg with type safety checks and CLI validator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezql-0.1.2.tar.gz",
+  "download_time": "2026-05-02T06:21:05.189580",
+  "package_url": "https://pypi.org/project/ezql/"
+}

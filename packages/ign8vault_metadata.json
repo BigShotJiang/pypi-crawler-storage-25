@@ -1,0 +1,11 @@
+{
+  "name": "ign8vault",
+  "version": "1.0.9",
+  "summary": "Spin up a production HashiCorp Vault + Consul stack in minutes — Hetzner Cloud, Cloudflare DNS, automated backups to Hetzner StorageBox.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ign8vault-1.0.9.tar.gz",
+  "download_time": "2026-05-02T06:20:40.422550",
+  "package_url": "https://pypi.org/project/ign8vault/"
+}

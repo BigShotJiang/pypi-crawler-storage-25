@@ -1,11 +1,11 @@
 {
   "name": "pulumi-confluentcloud",
-  "version": "2.66.0",
+  "version": "2.67.0",
   "summary": "A Pulumi package for creating and managing Confluent cloud resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_confluentcloud-2.66.0.tar.gz",
-  "download_time": "2026-04-29T13:22:38.094787",
+  "download_filename": "pulumi_confluentcloud-2.67.0.tar.gz",
+  "download_time": "2026-05-02T06:20:35.150063",
   "package_url": "https://pypi.org/project/pulumi-confluentcloud/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "openrunner-sdk",
-  "version": "0.7.0",
+  "version": "2.2.0",
   "summary": "OpenRunner SDK - W&B-compatible ML experiment tracking client",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openrunner_sdk-0.7.0.tar.gz",
-  "download_time": "2026-05-01T07:21:44.350805",
+  "download_filename": "openrunner_sdk-2.2.0.tar.gz",
+  "download_time": "2026-05-02T06:20:41.523668",
   "package_url": "https://pypi.org/project/openrunner-sdk/"
 }

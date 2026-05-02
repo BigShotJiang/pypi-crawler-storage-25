@@ -1,11 +1,11 @@
 {
   "name": "smrpgpatchbuilder",
-  "version": "5.0.9",
+  "version": "6.2.2",
   "summary": "Patchable base class support for some SMRPG concepts similar to their definitions in Lazy Shell",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smrpgpatchbuilder-5.0.9.tar.gz",
-  "download_time": "2026-04-18T23:40:24.421105",
+  "download_filename": "smrpgpatchbuilder-6.2.2.tar.gz",
+  "download_time": "2026-05-02T06:20:27.897339",
   "package_url": "https://pypi.org/project/smrpgpatchbuilder/"
 }
