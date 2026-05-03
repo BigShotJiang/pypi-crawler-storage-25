@@ -1,11 +1,11 @@
 {
   "name": "aipriceaction",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Multi-market OHLCV data SDK with AI context builder and LLM integration for Vietnamese stocks, US stocks, crypto, and commodities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aipriceaction-0.1.2.tar.gz",
-  "download_time": "2026-05-03T14:37:59.737092",
+  "download_filename": "aipriceaction-0.1.3.tar.gz",
+  "download_time": "2026-05-03T17:17:35.193131",
   "package_url": "https://pypi.org/project/aipriceaction/"
 }

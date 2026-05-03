@@ -1,0 +1,11 @@
+{
+  "name": "phlo-minio",
+  "version": "0.3.2",
+  "summary": "MinIO service plugin for Phlo",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phlo_minio-0.3.2.tar.gz",
+  "download_time": "2026-05-03T17:17:56.135939",
+  "package_url": "https://pypi.org/project/phlo-minio/"
+}

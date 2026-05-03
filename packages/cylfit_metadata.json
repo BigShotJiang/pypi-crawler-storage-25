@@ -1,0 +1,11 @@
+{
+  "name": "cylfit",
+  "version": "0.1.0",
+  "summary": "Fast, robust 3-D cylinder fitting — MAGSAC+PROSAC RANSAC, analytic LM, ellipse, cone, curved cylinder.",
+  "author": "cylfit contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cylfit-0.1.0.tar.gz",
+  "download_time": "2026-05-03T17:17:49.170584",
+  "package_url": "https://pypi.org/project/cylfit/"
+}

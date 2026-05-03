@@ -1,11 +1,11 @@
 {
   "name": "csrd-message",
-  "version": "0.3.62",
+  "version": "0.3.68",
   "summary": "Messaging abstractions for publisher/consumer workflows with optional RabbitMQ and Kafka extras",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd_message-0.3.62.tar.gz",
-  "download_time": "2026-05-03T16:10:53.636148",
+  "download_filename": "csrd_message-0.3.68.tar.gz",
+  "download_time": "2026-05-03T17:17:27.715001",
   "package_url": "https://pypi.org/project/csrd-message/"
 }

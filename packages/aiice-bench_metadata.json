@@ -1,11 +1,11 @@
 {
   "name": "aiice-bench",
-  "version": "0.16.4",
+  "version": "0.16.7",
   "summary": "A standardized benchmark for spatio-temporal forecasting of Arctic sea ice concentration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiice_bench-0.16.4.tar.gz",
-  "download_time": "2026-05-03T16:11:14.359885",
+  "download_filename": "aiice_bench-0.16.7.tar.gz",
+  "download_time": "2026-05-03T17:17:45.950732",
   "package_url": "https://pypi.org/project/aiice-bench/"
 }

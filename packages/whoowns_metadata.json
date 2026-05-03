@@ -1,0 +1,11 @@
+{
+  "name": "whoowns",
+  "version": "0.8.1",
+  "summary": "Print the GitHub owner of a file or folder based on CODEOWNERS",
+  "author": "Markus Hofbauer, Chris Bachhuber",
+  "license": null,
+  "home_page": null,
+  "download_filename": "whoowns-0.8.1.tar.gz",
+  "download_time": "2026-05-03T17:17:40.568259",
+  "package_url": "https://pypi.org/project/whoowns/"
+}

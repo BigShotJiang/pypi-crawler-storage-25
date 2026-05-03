@@ -1,11 +1,11 @@
 {
   "name": "pynukez",
-  "version": "4.0.2",
+  "version": "4.0.5",
   "summary": "Nukez SDK — agent-native storage with cryptographic verification",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pynukez-4.0.2.tar.gz",
-  "download_time": "2026-04-15T19:57:07.106224",
+  "download_filename": "pynukez-4.0.5.tar.gz",
+  "download_time": "2026-05-03T17:17:15.662428",
   "package_url": "https://pypi.org/project/pynukez/"
 }

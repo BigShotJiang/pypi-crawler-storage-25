@@ -1,0 +1,11 @@
+{
+  "name": "geotiff-cutout",
+  "version": "0.1.2",
+  "summary": "Create rectangular pixel cutouts from GeoTIFFs centred on GeoJSON features, with COCO annotation output.",
+  "author": null,
+  "license": "AGPL v3",
+  "home_page": null,
+  "download_filename": "geotiff_cutout-0.1.2.tar.gz",
+  "download_time": "2026-05-03T17:17:22.902049",
+  "package_url": "https://pypi.org/project/geotiff-cutout/"
+}

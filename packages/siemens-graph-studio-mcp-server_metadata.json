@@ -1,0 +1,11 @@
+{
+  "name": "siemens-graph-studio-mcp-server",
+  "version": "0.5.2",
+  "summary": "An MCP server for Altair Graph Studio (AGS) providing intelligent SPARQL query capabilities via the Model Context Protocol.",
+  "author": "Boris Shalumov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "siemens_graph_studio_mcp_server-0.5.2.tar.gz",
+  "download_time": "2026-05-03T17:17:58.812646",
+  "package_url": "https://pypi.org/project/siemens-graph-studio-mcp-server/"
+}

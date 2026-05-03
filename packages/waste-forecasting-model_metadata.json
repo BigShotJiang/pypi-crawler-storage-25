@@ -1,11 +1,11 @@
 {
   "name": "waste-forecasting-model",
-  "version": "3.0.0",
-  "summary": "Portable waste-prediction model V2 + Federated Learning adapter with S3 support",
+  "version": "5.0.2",
+  "summary": "Salt-pond bittern waste valorisation predictor v5 — physics-based 9-target XGBoost model (Puttalam, Sri Lanka)",
   "author": "Research Project Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "waste_forecasting_model-3.0.0.tar.gz",
-  "download_time": "2026-05-02T11:33:20.869791",
+  "download_filename": "waste_forecasting_model-5.0.2.tar.gz",
+  "download_time": "2026-05-03T17:17:42.755143",
   "package_url": "https://pypi.org/project/waste-forecasting-model/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tachikoma-agent",
-  "version": "1.68.0",
+  "version": "1.69.0",
   "summary": "A proactive personal assistant built on Claude Agent SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tachikoma_agent-1.68.0.tar.gz",
-  "download_time": "2026-04-30T22:13:27.153870",
+  "download_filename": "tachikoma_agent-1.69.0.tar.gz",
+  "download_time": "2026-05-03T17:17:20.233618",
   "package_url": "https://pypi.org/project/tachikoma-agent/"
 }
