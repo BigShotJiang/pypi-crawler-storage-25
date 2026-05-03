@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-elf",
+  "version": "1.32.0",
+  "summary": "MCP server for ELF600 electromagnetic field analysis: 26 curated topics + 1141 help files + 332 examples + 146 wiki pages + Python ctypes API + 789 user work-examples (Halbach, TEAM problems, accelerators, etc.) — 16 tools, all searchable.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "mcp_server_elf-1.32.0.tar.gz",
+  "download_time": "2026-05-03T11:21:26.153376",
+  "package_url": "https://pypi.org/project/mcp-server-elf/"
+}

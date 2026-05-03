@@ -1,11 +1,11 @@
 {
   "name": "csrd-scheduler",
-  "version": "0.3.50",
+  "version": "0.3.52",
   "summary": "Scheduler extension package for csrd lifespan integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd_scheduler-0.3.50.tar.gz",
-  "download_time": "2026-05-03T10:28:34.045752",
+  "download_filename": "csrd_scheduler-0.3.52.tar.gz",
+  "download_time": "2026-05-03T11:21:10.469037",
   "package_url": "https://pypi.org/project/csrd-scheduler/"
 }

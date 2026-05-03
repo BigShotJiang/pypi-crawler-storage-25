@@ -1,0 +1,11 @@
+{
+  "name": "sandcastle-sim",
+  "version": "0.1.0",
+  "summary": "Smart-home sandbox for AI agents. Bundles Home Assistant + MQTT + a fully simulated home + MCP server + a built-in CLI agent. Runs on a laptop or a Raspberry Pi.",
+  "author": "Marco G.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sandcastle_sim-0.1.0.tar.gz",
+  "download_time": "2026-05-03T11:20:51.222526",
+  "package_url": "https://pypi.org/project/sandcastle-sim/"
+}

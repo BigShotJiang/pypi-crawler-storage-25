@@ -1,11 +1,11 @@
 {
   "name": "agentberlin",
-  "version": "0.97.0",
+  "version": "0.101.0",
   "summary": "Python SDK for Agent Berlin - AI-powered SEO and AEO automation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentberlin-0.97.0.tar.gz",
-  "download_time": "2026-05-02T11:32:55.948496",
+  "download_filename": "agentberlin-0.101.0.tar.gz",
+  "download_time": "2026-05-03T11:21:29.292025",
   "package_url": "https://pypi.org/project/agentberlin/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "runtimekit-cli",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Generic CLI for scaffolding and managing modular runtime applications.",
   "author": "RuntimeKit Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "runtimekit_cli-0.2.0.tar.gz",
-  "download_time": "2026-05-02T08:15:11.655615",
+  "download_filename": "runtimekit_cli-0.2.1.tar.gz",
+  "download_time": "2026-05-03T11:21:07.904865",
   "package_url": "https://pypi.org/project/runtimekit-cli/"
 }

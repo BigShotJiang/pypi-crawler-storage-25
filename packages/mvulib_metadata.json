@@ -1,0 +1,11 @@
+{
+  "name": "mvulib",
+  "version": "1.0.post6",
+  "summary": "A Python interface to Maximum Variance Unfolding",
+  "author": "Rikard Stanić",
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "mvulib-1.0.post6.tar.gz",
+  "download_time": "2026-05-03T11:21:20.290958",
+  "package_url": "https://pypi.org/project/mvulib/"
+}

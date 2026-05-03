@@ -1,11 +1,11 @@
 {
   "name": "alpi-agent",
-  "version": "0.3.10",
+  "version": "0.3.13",
   "summary": "A profile-based personal AI agent for terminal, messengers, and private ALP networks",
   "author": "Satoshi Ltd.",
   "license": null,
   "home_page": null,
-  "download_filename": "alpi_agent-0.3.10.tar.gz",
-  "download_time": "2026-05-02T13:58:38.906544",
+  "download_filename": "alpi_agent-0.3.13.tar.gz",
+  "download_time": "2026-05-03T11:21:28.266180",
   "package_url": "https://pypi.org/project/alpi-agent/"
 }

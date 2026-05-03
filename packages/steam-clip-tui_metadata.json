@@ -1,11 +1,11 @@
 {
   "name": "steam-clip-tui",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "TUI for browsing and exporting Steam game recording clips",
   "author": "poesty",
   "license": null,
   "home_page": null,
-  "download_filename": "steam_clip_tui-0.1.4.tar.gz",
-  "download_time": "2026-05-02T18:41:40.710655",
+  "download_filename": "steam_clip_tui-0.1.5.tar.gz",
+  "download_time": "2026-05-03T11:21:29.826238",
   "package_url": "https://pypi.org/project/steam-clip-tui/"
 }

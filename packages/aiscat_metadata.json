@@ -1,11 +1,11 @@
 {
   "name": "aiscat",
-  "version": "0.68.0a4",
+  "version": "0.68.3",
   "summary": "Fast Python bindings for AIS-catcher's NMEA-to-JSON AIS decoder",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiscat-0.68.0a4.tar.gz",
-  "download_time": "2026-05-02T18:41:44.671495",
+  "download_filename": "aiscat-0.68.3.tar.gz",
+  "download_time": "2026-05-03T11:21:21.882651",
   "package_url": "https://pypi.org/project/aiscat/"
 }

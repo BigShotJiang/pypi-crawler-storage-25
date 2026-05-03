@@ -1,0 +1,11 @@
+{
+  "name": "rosetta-llm",
+  "version": "0.1.0",
+  "summary": "Multi-format bidirectional LLM proxy — translates between OpenAI Chat, OpenAI Responses, and Anthropic Messages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rosetta_llm-0.1.0.tar.gz",
+  "download_time": "2026-05-03T11:21:04.744178",
+  "package_url": "https://pypi.org/project/rosetta-llm/"
+}

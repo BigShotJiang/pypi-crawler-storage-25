@@ -1,11 +1,11 @@
 {
   "name": "axiomai-cli",
-  "version": "0.1.8",
+  "version": "0.1.8.1",
   "summary": "Axiom: Your Coding Assistant",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "axiomai_cli-0.1.8.tar.gz",
-  "download_time": "2026-05-01T18:15:12.357112",
+  "download_filename": "axiomai_cli-0.1.8.1.tar.gz",
+  "download_time": "2026-05-03T11:21:21.346266",
   "package_url": "https://pypi.org/project/axiomai-cli/"
 }
