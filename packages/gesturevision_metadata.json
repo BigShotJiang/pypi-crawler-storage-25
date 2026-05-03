@@ -1,0 +1,11 @@
+{
+  "name": "gesturevision",
+  "version": "0.3.2",
+  "summary": "A gesture-based screen capture and keyboard shortcut automation system using MediaPipe and FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gesturevision-0.3.2.tar.gz",
+  "download_time": "2026-05-03T16:11:29.648990",
+  "package_url": "https://pypi.org/project/gesturevision/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pkscreener",
-  "version": "0.46.20260406.850",
+  "version": "0.46.20260503.880",
   "summary": "A Python-based stock screener for NSE, India with alerts to Telegram Channel (pkscreener)",
   "author": "pkjmesra",
   "license": "OSI Approved (MIT)",
   "home_page": "https://github.com/pkjmesra/pkscreener",
-  "download_filename": "pkscreener-0.46.20260406.850.tar.gz",
-  "download_time": "2026-04-06T11:16:22.713801",
+  "download_filename": "pkscreener-0.46.20260503.880.tar.gz",
+  "download_time": "2026-05-03T16:11:30.709312",
   "package_url": "https://pypi.org/project/pkscreener/"
 }

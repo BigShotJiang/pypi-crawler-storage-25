@@ -1,0 +1,11 @@
+{
+  "name": "telecraft",
+  "version": "0.2.0b3",
+  "summary": "Async MTProto-first Telegram client library for user and bot sessions.",
+  "author": "meniwap",
+  "license": null,
+  "home_page": null,
+  "download_filename": "telecraft-0.2.0b3.tar.gz",
+  "download_time": "2026-05-03T16:11:38.532503",
+  "package_url": "https://pypi.org/project/telecraft/"
+}

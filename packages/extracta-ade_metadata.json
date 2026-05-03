@@ -1,0 +1,11 @@
+{
+  "name": "extracta-ade",
+  "version": "0.1.0",
+  "summary": "Agentic document extraction CLI -- layout-aware, context-threaded extraction for PDF, PPTX, DOCX, HTML",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "extracta_ade-0.1.0-py3-none-any.whl",
+  "download_time": "2026-05-03T16:11:14.879653",
+  "package_url": "https://pypi.org/project/extracta-ade/"
+}

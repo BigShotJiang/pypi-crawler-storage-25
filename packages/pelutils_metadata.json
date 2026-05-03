@@ -1,11 +1,11 @@
 {
   "name": "pelutils",
-  "version": "3.8.0",
+  "version": "3.8.5",
   "summary": "The Swiss army knife of Python projects.",
   "author": "Asger Laurits Schultz, Søren Winkel Holm",
   "license": "MIT",
   "home_page": "https://github.com/peleiden/pelutils",
-  "download_filename": "pelutils-3.8.0.tar.gz",
-  "download_time": "2026-04-04T14:54:47.860542",
+  "download_filename": "pelutils-3.8.5.tar.gz",
+  "download_time": "2026-05-03T16:11:26.448318",
   "package_url": "https://pypi.org/project/pelutils/"
 }

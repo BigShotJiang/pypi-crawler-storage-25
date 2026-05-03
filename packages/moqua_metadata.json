@@ -1,11 +1,11 @@
 {
   "name": "moqua",
-  "version": "0.2.4",
+  "version": "0.3.1",
   "summary": "Quantitative Finance Tools",
   "author": "M. Drici",
   "license": null,
   "home_page": null,
-  "download_filename": "moqua-0.2.4.tar.gz",
-  "download_time": "2026-04-28T13:20:22.326270",
+  "download_filename": "moqua-0.3.1.tar.gz",
+  "download_time": "2026-05-03T16:11:10.154788",
   "package_url": "https://pypi.org/project/moqua/"
 }

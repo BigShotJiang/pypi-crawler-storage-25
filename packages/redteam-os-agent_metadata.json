@@ -1,0 +1,11 @@
+{
+  "name": "redteam-os-agent",
+  "version": "0.1.1",
+  "summary": "Pull-based RedOS worker runtime agent for WORKER_RUNTIME task execution.",
+  "author": "nquangit",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "redteam_os_agent-0.1.1.tar.gz",
+  "download_time": "2026-05-03T16:11:08.069317",
+  "package_url": "https://pypi.org/project/redteam-os-agent/"
+}

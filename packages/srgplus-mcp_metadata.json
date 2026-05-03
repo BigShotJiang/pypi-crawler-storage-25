@@ -1,0 +1,11 @@
+{
+  "name": "srgplus-mcp",
+  "version": "0.4.5",
+  "summary": "MCP server for SRG+ — manage hubs, channels, content, assets, users, and workspaces from any MCP-aware agent.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "srgplus_mcp-0.4.5.tar.gz",
+  "download_time": "2026-05-03T16:11:19.102225",
+  "package_url": "https://pypi.org/project/srgplus-mcp/"
+}
