@@ -1,11 +1,11 @@
 {
   "name": "ta-py",
-  "version": "1.17.0",
-  "summary": "ta.py is a Python package for dealing with financial technical analysis",
-  "author": "Nino Kroesen",
-  "license": null,
-  "home_page": "https://github.com/Bitvested/ta.py",
-  "download_filename": "ta_py-1.17.0.tar.gz",
-  "download_time": "2026-04-29T20:25:35.815835",
+  "version": "2.0.0",
+  "summary": "Fastest zero-dependency pure-Python technical analysis library — full functional parity with ta.js 2.0",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ta_py-2.0.0.tar.gz",
+  "download_time": "2026-05-03T19:28:40.530626",
   "package_url": "https://pypi.org/project/ta-py/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "coding-ethos",
+  "version": "0.2.0",
+  "summary": "Policy-as-code enforcement for AI agents with MCP, CEL, Git hooks, SARIF, and static-analysis guardrails.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "coding_ethos-0.2.0.tar.gz",
+  "download_time": "2026-05-03T19:28:41.056745",
+  "package_url": "https://pypi.org/project/coding-ethos/"
+}

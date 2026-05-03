@@ -1,11 +1,11 @@
 {
   "name": "csrd-lifespan",
-  "version": "0.3.68",
+  "version": "0.3.77",
   "summary": "Lifespan stack utilities for FastAPI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd_lifespan-0.3.68.tar.gz",
-  "download_time": "2026-05-03T17:17:28.788786",
+  "download_filename": "csrd_lifespan-0.3.77.tar.gz",
+  "download_time": "2026-05-03T19:28:18.885541",
   "package_url": "https://pypi.org/project/csrd-lifespan/"
 }

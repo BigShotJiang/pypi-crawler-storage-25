@@ -1,0 +1,11 @@
+{
+  "name": "fantasy-hockey-notifier-cdk",
+  "version": "2.0.66",
+  "summary": "AWS CDK construct to send notifications for adds, drops, and trades in an ESPN Fantasy Hockey league",
+  "author": "Forrest Talburt",
+  "license": "MIT",
+  "home_page": "https://github.com/ftalburt/fantasy-hockey-notifier-cdk.git#readme",
+  "download_filename": "fantasy_hockey_notifier_cdk-2.0.66.tar.gz",
+  "download_time": "2026-05-03T19:28:37.890211",
+  "package_url": "https://pypi.org/project/fantasy-hockey-notifier-cdk/"
+}

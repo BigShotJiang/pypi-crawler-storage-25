@@ -1,11 +1,11 @@
 {
   "name": "starfish-server",
-  "version": "1.18.1",
+  "version": "2.0.0",
   "summary": "Python server for the Starfish sync protocol",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "starfish_server-1.18.1.tar.gz",
-  "download_time": "2026-04-21T21:12:24.612947",
+  "download_filename": "starfish_server-2.0.0.tar.gz",
+  "download_time": "2026-05-03T19:28:25.234844",
   "package_url": "https://pypi.org/project/starfish-server/"
 }

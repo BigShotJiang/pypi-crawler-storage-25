@@ -1,0 +1,11 @@
+{
+  "name": "matrix-hmc",
+  "version": "0.1.2",
+  "summary": "Hybrid Monte Carlo for polarized IKKT-like matrix models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "matrix_hmc-0.1.2.tar.gz",
+  "download_time": "2026-05-03T19:28:42.619991",
+  "package_url": "https://pypi.org/project/matrix-hmc/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "openrewrite",
-  "version": "8.81.2",
+  "version": "8.81.4",
   "summary": "OpenRewrite automated refactoring for Python.",
   "author": null,
   "license": "Moderne Source Available License",
   "home_page": null,
-  "download_filename": "openrewrite-8.81.2.tar.gz",
-  "download_time": "2026-05-02T04:00:59.849110",
+  "download_filename": "openrewrite-8.81.4.tar.gz",
+  "download_time": "2026-05-03T19:28:15.084554",
   "package_url": "https://pypi.org/project/openrewrite/"
 }

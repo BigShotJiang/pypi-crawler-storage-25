@@ -1,0 +1,11 @@
+{
+  "name": "ffbb-data-client",
+  "version": "2.0.2",
+  "summary": "FFBB Data Client — SDK Python asynchrone pour les Statistiques de Basket France. Type-safe Pydantic models, async/sync, Meilisearch.",
+  "author": "nickdesi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/nickdesi/ffbb-data-client",
+  "download_filename": "ffbb_data_client-2.0.2.tar.gz",
+  "download_time": "2026-05-03T19:28:44.742178",
+  "package_url": "https://pypi.org/project/ffbb-data-client/"
+}

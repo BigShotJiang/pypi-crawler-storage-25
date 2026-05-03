@@ -1,0 +1,11 @@
+{
+  "name": "vapoursynth-dfttest2-gcc",
+  "version": "10",
+  "summary": "BM3D denoising filter for VapourSynth, implemented in AVX2",
+  "author": "WolframRhodium",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vapoursynth_dfttest2_gcc-10.tar.gz",
+  "download_time": "2026-05-03T19:28:34.131233",
+  "package_url": "https://pypi.org/project/vapoursynth-dfttest2-gcc/"
+}

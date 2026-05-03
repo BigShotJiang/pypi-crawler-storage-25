@@ -1,0 +1,11 @@
+{
+  "name": "fretty-book",
+  "version": "0.2",
+  "summary": "fretty-book can replace inline fretty markup within documents with the generated images",
+  "author": "Thomas Volk",
+  "license": "Apache",
+  "home_page": "https://github.com/thomasvolk/fretty-book",
+  "download_filename": "fretty_book-0.2-py3-none-any.whl",
+  "download_time": "2026-05-03T19:28:03.956035",
+  "package_url": "https://pypi.org/project/fretty-book/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aicortex-core",
-  "version": "1.0.0",
-  "summary": "AICortex: An LLM API toolkit for any language model through Ollama servers. Access Gemma, Mistral, Deepseek, Qwen, Llama, and more - completely free, zero-signup, zero API keys. Unified chat API, real-time streaming, multi-server orchestration, and OpenAI-compatible endpoints.",
+  "version": "1.0.3",
+  "summary": "AI Cortex: An LLM API toolkit for any language model through Ollama servers. Access Gemma, Mistral, Deepseek, Qwen, Llama, and more - completely free, zero-signup, zero API keys. Unified chat API, real-time streaming, multi-server orchestration, and OpenAI-compatible endpoints.",
   "author": "Erasmus A. Junior",
-  "license": "MIT",
+  "license": "LGPL-3.0-or-later",
   "home_page": "https://github.com/eirasmx/aicortex",
-  "download_filename": "aicortex_core-1.0.0.tar.gz",
-  "download_time": "2026-05-02T11:32:54.308769",
+  "download_filename": "aicortex_core-1.0.3.tar.gz",
+  "download_time": "2026-05-03T19:28:23.096824",
   "package_url": "https://pypi.org/project/aicortex-core/"
 }
