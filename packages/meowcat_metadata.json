@@ -1,11 +1,11 @@
 {
   "name": "meowcat",
-  "version": "1.0.6",
-  "summary": "猫框架 — 定义猫的生物学蓝图（Protocol + 装配骨架 + 事件总线）",
+  "version": "1.0.15",
+  "summary": "An agent framework built on the biological blueprint of a cat",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meowcat-1.0.6.tar.gz",
-  "download_time": "2026-05-02T11:33:20.315544",
+  "download_filename": "meowcat-1.0.15.tar.gz",
+  "download_time": "2026-05-03T07:30:24.263411",
   "package_url": "https://pypi.org/project/meowcat/"
 }

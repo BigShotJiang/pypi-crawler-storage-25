@@ -1,0 +1,11 @@
+{
+  "name": "dev-trajectory",
+  "version": "0.1.1",
+  "summary": "Local, single-user analysis of Claude Code session histories — surfaces engineering trajectory over time per domain, with evidence on hover.",
+  "author": "dev-trajectory contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dev_trajectory-0.1.1.tar.gz",
+  "download_time": "2026-05-03T07:30:38.690707",
+  "package_url": "https://pypi.org/project/dev-trajectory/"
+}

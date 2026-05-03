@@ -1,11 +1,11 @@
 {
   "name": "autodraft-sd",
-  "version": "0.1.9",
+  "version": "0.1.13",
   "summary": "Speculative decoding engine with local and remote target model execution",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "autodraft_sd-0.1.9.tar.gz",
-  "download_time": "2026-05-02T15:43:54.814523",
+  "download_filename": "autodraft_sd-0.1.13.tar.gz",
+  "download_time": "2026-05-03T07:30:58.773736",
   "package_url": "https://pypi.org/project/autodraft-sd/"
 }

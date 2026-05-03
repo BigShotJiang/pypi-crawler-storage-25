@@ -1,11 +1,11 @@
 {
   "name": "csrd-service",
-  "version": "0.3.33",
+  "version": "0.3.40",
   "summary": "Service layer base class with domain error hierarchy",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd_service-0.3.33.tar.gz",
-  "download_time": "2026-05-02T20:34:42.731838",
+  "download_filename": "csrd_service-0.3.40.tar.gz",
+  "download_time": "2026-05-03T07:30:42.283375",
   "package_url": "https://pypi.org/project/csrd-service/"
 }

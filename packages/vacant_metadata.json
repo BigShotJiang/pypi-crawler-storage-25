@@ -1,0 +1,11 @@
+{
+  "name": "vacant",
+  "version": "0.0.1",
+  "summary": "Name reservation for the upcoming `vacant` domain availability checker (a Rust CLI shipped via Homebrew/cargo, not pip).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vacant-0.0.1.tar.gz",
+  "download_time": "2026-05-03T07:30:33.556095",
+  "package_url": "https://pypi.org/project/vacant/"
+}

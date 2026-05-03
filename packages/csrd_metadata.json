@@ -1,11 +1,11 @@
 {
   "name": "csrd",
-  "version": "0.3.33",
+  "version": "0.3.40",
   "summary": "Meta package for recommended csrd API framework components",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd-0.3.33.tar.gz",
-  "download_time": "2026-05-02T20:34:48.905716",
+  "download_filename": "csrd-0.3.40.tar.gz",
+  "download_time": "2026-05-03T07:30:47.964434",
   "package_url": "https://pypi.org/project/csrd/"
 }

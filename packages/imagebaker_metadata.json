@@ -1,0 +1,11 @@
+{
+  "name": "imagebaker",
+  "version": "0.0.57",
+  "summary": "A powerful image annotation and segmentation tool with GUI, CLI, and Python API",
+  "author": "Ramkrishna Acharya",
+  "license": "MIT License",
+  "home_page": "https://github.com/q-viper/Image-Baker",
+  "download_filename": "imagebaker-0.0.57.tar.gz",
+  "download_time": "2026-05-03T07:30:23.235901",
+  "package_url": "https://pypi.org/project/imagebaker/"
+}

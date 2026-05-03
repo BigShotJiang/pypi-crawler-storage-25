@@ -1,11 +1,11 @@
 {
   "name": "tridente",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Python SDK for Tridente — report usage, cost, and heartbeat events for AI agents.",
   "author": "Ivan Diaz",
   "license": "BUSL-1.1",
   "home_page": null,
-  "download_filename": "tridente-0.1.0.tar.gz",
-  "download_time": "2026-04-17T22:07:50.588052",
+  "download_filename": "tridente-0.2.0.tar.gz",
+  "download_time": "2026-05-03T07:30:56.700853",
   "package_url": "https://pypi.org/project/tridente/"
 }

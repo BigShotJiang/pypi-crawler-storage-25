@@ -1,11 +1,11 @@
 {
   "name": "ophyd-epicsrs",
-  "version": "0.6.8",
+  "version": "0.6.9",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ophyd_epicsrs-0.6.8.tar.gz",
-  "download_time": "2026-05-03T01:31:33.375570",
+  "download_filename": "ophyd_epicsrs-0.6.9.tar.gz",
+  "download_time": "2026-05-03T07:30:34.581130",
   "package_url": "https://pypi.org/project/ophyd-epicsrs/"
 }
