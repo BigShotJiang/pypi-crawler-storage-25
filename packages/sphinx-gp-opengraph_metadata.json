@@ -1,11 +1,11 @@
 {
   "name": "sphinx-gp-opengraph",
-  "version": "0.0.1a14",
+  "version": "0.0.1a16.dev3",
   "summary": "OpenGraph and Twitter meta-tag emission for Sphinx — matplotlib-free",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sphinx_gp_opengraph-0.0.1a14.tar.gz",
-  "download_time": "2026-05-02T13:58:27.215877",
+  "download_filename": "sphinx_gp_opengraph-0.0.1a16.dev3.tar.gz",
+  "download_time": "2026-05-03T18:21:14.960720",
   "package_url": "https://pypi.org/project/sphinx-gp-opengraph/"
 }

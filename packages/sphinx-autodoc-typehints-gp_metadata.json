@@ -1,11 +1,11 @@
 {
   "name": "sphinx-autodoc-typehints-gp",
-  "version": "0.0.1a14",
+  "version": "0.0.1a16.dev3",
   "summary": "Cross-referenced type annotations for Sphinx autodoc",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sphinx_autodoc_typehints_gp-0.0.1a14.tar.gz",
-  "download_time": "2026-05-02T13:58:28.368162",
+  "download_filename": "sphinx_autodoc_typehints_gp-0.0.1a16.dev3.tar.gz",
+  "download_time": "2026-05-03T18:21:15.979876",
   "package_url": "https://pypi.org/project/sphinx-autodoc-typehints-gp/"
 }

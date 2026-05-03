@@ -1,0 +1,11 @@
+{
+  "name": "portauthority",
+  "version": "0.2.1",
+  "summary": "Port authority for developers and AI agents. One daemon, all agents see the same truth.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "portauthority-0.2.1.tar.gz",
+  "download_time": "2026-05-03T18:21:06.223925",
+  "package_url": "https://pypi.org/project/portauthority/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "klartex",
-  "version": "0.2.1",
+  "version": "0.5.0",
   "summary": "PDF generation via LaTeX — structured data in, professional documents out",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "klartex-0.2.1.tar.gz",
-  "download_time": "2026-04-02T18:39:03.482705",
+  "download_filename": "klartex-0.5.0.tar.gz",
+  "download_time": "2026-05-03T18:21:04.688812",
   "package_url": "https://pypi.org/project/klartex/"
 }

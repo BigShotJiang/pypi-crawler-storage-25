@@ -1,0 +1,11 @@
+{
+  "name": "vapoursynth-bm3dcpu",
+  "version": "2.16.4",
+  "summary": "BM3D denoising filter for VapourSynth, implemented in AVX2",
+  "author": "WolframRhodium",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vapoursynth_bm3dcpu-2.16.4.tar.gz",
+  "download_time": "2026-05-03T18:20:59.342561",
+  "package_url": "https://pypi.org/project/vapoursynth-bm3dcpu/"
+}

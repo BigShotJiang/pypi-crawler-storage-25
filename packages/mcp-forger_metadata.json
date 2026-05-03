@@ -1,11 +1,11 @@
 {
   "name": "mcp-forger",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Convert any application into an MCP server — with AI assistance. CLI + Claude Desktop plugin.",
   "author": "MCP Forge",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_forger-1.0.3.tar.gz",
-  "download_time": "2026-04-29T22:39:34.496665",
+  "download_filename": "mcp_forger-1.0.4.tar.gz",
+  "download_time": "2026-05-03T18:20:58.602371",
   "package_url": "https://pypi.org/project/mcp-forger/"
 }

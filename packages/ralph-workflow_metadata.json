@@ -1,11 +1,11 @@
 {
   "name": "ralph-workflow",
-  "version": "0.8.0b4",
-  "summary": "Ralph Workflow is an opinionated AI agent orchestration framework.",
+  "version": "0.8.0b8",
+  "summary": "Vendor-neutral AI coding workflow orchestration with unattended execution, recovery, and verification.",
   "author": "Mistlight",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "ralph_workflow-0.8.0b4.tar.gz",
-  "download_time": "2026-04-26T17:00:54.088384",
+  "download_filename": "ralph_workflow-0.8.0b8.tar.gz",
+  "download_time": "2026-05-03T18:21:05.199934",
   "package_url": "https://pypi.org/project/ralph-workflow/"
 }

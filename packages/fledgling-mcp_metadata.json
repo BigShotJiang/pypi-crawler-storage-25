@@ -1,11 +1,11 @@
 {
   "name": "fledgling-mcp",
-  "version": "0.8.2",
+  "version": "0.9.0",
   "summary": "MCP tools that help AI agents get their bearings in a codebase — unified SQL views over code, git, docs, and conversations, powered by DuckDB.",
   "author": "Teague Sterling",
   "license": null,
   "home_page": null,
-  "download_filename": "fledgling_mcp-0.8.2.tar.gz",
-  "download_time": "2026-04-12T20:40:16.695248",
+  "download_filename": "fledgling_mcp-0.9.0.tar.gz",
+  "download_time": "2026-05-03T18:20:53.658155",
   "package_url": "https://pypi.org/project/fledgling-mcp/"
 }

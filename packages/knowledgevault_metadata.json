@@ -1,11 +1,11 @@
 {
   "name": "knowledgevault",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "CLI-first personal knowledge base for AI agents — structured, navigable, zero extra cost",
   "author": "Eddie Landesberg",
   "license": null,
   "home_page": null,
-  "download_filename": "knowledgevault-0.9.0.tar.gz",
-  "download_time": "2026-05-03T01:31:33.906323",
+  "download_filename": "knowledgevault-0.10.0.tar.gz",
+  "download_time": "2026-05-03T18:20:40.681758",
   "package_url": "https://pypi.org/project/knowledgevault/"
 }

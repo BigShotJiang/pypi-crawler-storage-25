@@ -1,11 +1,11 @@
 {
   "name": "robot-resources",
-  "version": "0.3.0",
-  "summary": "Robot Resources Python SDK — smart model selection for AI agents. Thin client over /v1/route + opt-in auto-attach for Anthropic, OpenAI, and Google Generative AI SDKs (set RR_AUTOATTACH=1).",
+  "version": "0.4.0",
+  "summary": "Robot Resources Python SDK — smart model selection for AI agents. Thin client over /v1/route + auto-attach for Anthropic, OpenAI, and Google Generative AI SDKs (default ON; opt out with RR_AUTOATTACH=0).",
   "author": "Robot Resources Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "robot_resources-0.3.0.tar.gz",
-  "download_time": "2026-05-02T23:02:05.773129",
+  "download_filename": "robot_resources-0.4.0.tar.gz",
+  "download_time": "2026-05-03T18:20:43.737189",
   "package_url": "https://pypi.org/project/robot-resources/"
 }

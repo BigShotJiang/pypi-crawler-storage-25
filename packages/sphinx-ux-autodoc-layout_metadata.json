@@ -1,11 +1,11 @@
 {
   "name": "sphinx-ux-autodoc-layout",
-  "version": "0.0.1a14",
+  "version": "0.0.1a16.dev3",
   "summary": "Componentized layout for Sphinx autodoc output",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sphinx_ux_autodoc_layout-0.0.1a14.tar.gz",
-  "download_time": "2026-05-02T13:58:25.519908",
+  "download_filename": "sphinx_ux_autodoc_layout-0.0.1a16.dev3.tar.gz",
+  "download_time": "2026-05-03T18:21:13.433816",
   "package_url": "https://pypi.org/project/sphinx-ux-autodoc-layout/"
 }

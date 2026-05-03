@@ -1,0 +1,11 @@
+{
+  "name": "napari-unet-assistant",
+  "version": "0.2.0",
+  "summary": "a napari plugin for TIFF-based 2D and 3D U-Net segmentation workflows.",
+  "author": "Wulin Teo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "napari_unet_assistant-0.2.0.tar.gz",
+  "download_time": "2026-05-03T18:20:55.843446",
+  "package_url": "https://pypi.org/project/napari-unet-assistant/"
+}

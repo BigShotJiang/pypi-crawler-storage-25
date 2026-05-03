@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-stock-prebook-stock-available-to-promise-release",
+  "version": "18.0.1.0.0.2",
+  "summary": "Extends the previous available qty to promised with moves of a reservation",
+  "author": "MT Software, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/sale-prebook",
+  "download_filename": "odoo_addon_sale_stock_prebook_stock_available_to_promise_release-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-05-03T18:21:02.073133",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-stock-prebook-stock-available-to-promise-release/"
+}

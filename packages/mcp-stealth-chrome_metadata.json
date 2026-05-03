@@ -1,11 +1,11 @@
 {
   "name": "mcp-stealth-chrome",
-  "version": "0.4.9",
+  "version": "0.4.11",
   "summary": "Stealth Chrome MCP server — nodriver + Chromium + 80+ tools with Cloudflare/Turnstile bypass, CapSolver, storage-state reuse",
   "author": "RobithYusuf",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_stealth_chrome-0.4.9.tar.gz",
-  "download_time": "2026-05-02T16:40:22.445128",
+  "download_filename": "mcp_stealth_chrome-0.4.11.tar.gz",
+  "download_time": "2026-05-03T18:21:00.374098",
   "package_url": "https://pypi.org/project/mcp-stealth-chrome/"
 }

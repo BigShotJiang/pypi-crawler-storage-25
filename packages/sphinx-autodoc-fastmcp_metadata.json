@@ -1,11 +1,11 @@
 {
   "name": "sphinx-autodoc-fastmcp",
-  "version": "0.0.1a14",
+  "version": "0.0.1a16.dev3",
   "summary": "Sphinx extension for documenting FastMCP tools (cards, badges, cross-refs)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sphinx_autodoc_fastmcp-0.0.1a14.tar.gz",
-  "download_time": "2026-05-02T13:58:30.057815",
+  "download_filename": "sphinx_autodoc_fastmcp-0.0.1a16.dev3.tar.gz",
+  "download_time": "2026-05-03T18:21:17.511126",
   "package_url": "https://pypi.org/project/sphinx-autodoc-fastmcp/"
 }

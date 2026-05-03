@@ -1,11 +1,11 @@
 {
   "name": "wsmanio",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "summary": "Library for WinRM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wsmanio-0.0.1.tar.gz",
-  "download_time": "2026-04-05T12:57:42.467513",
+  "download_filename": "wsmanio-0.0.4.tar.gz",
+  "download_time": "2026-05-03T18:21:08.814004",
   "package_url": "https://pypi.org/project/wsmanio/"
 }

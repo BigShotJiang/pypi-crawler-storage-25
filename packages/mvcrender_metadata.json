@@ -1,0 +1,11 @@
+{
+  "name": "mvcrender",
+  "version": "0.2.5",
+  "summary": "High-performance C extensions for image processing in Home Assistant - AutoCrop, Blend, Draw, and Rooms processing for Valetudo Map Parser",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mvcrender-0.2.5.tar.gz",
+  "download_time": "2026-05-03T18:20:37.606816",
+  "package_url": "https://pypi.org/project/mvcrender/"
+}

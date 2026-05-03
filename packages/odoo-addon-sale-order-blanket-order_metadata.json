@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-sale-order-blanket-order",
-  "version": "18.0.1.0.1",
+  "version": "18.0.1.0.3",
   "summary": "Manage blanket order and call of order",
   "author": "ACSONE SA/NV,BCIM,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/sale-blanket",
-  "download_filename": "odoo_addon_sale_order_blanket_order-18.0.1.0.1-py3-none-any.whl",
-  "download_time": "2026-03-30T07:02:45.859988",
+  "download_filename": "odoo_addon_sale_order_blanket_order-18.0.1.0.3-py3-none-any.whl",
+  "download_time": "2026-05-03T18:21:03.094541",
   "package_url": "https://pypi.org/project/odoo-addon-sale-order-blanket-order/"
 }

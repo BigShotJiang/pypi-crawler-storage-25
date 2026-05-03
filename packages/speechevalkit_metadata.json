@@ -1,0 +1,11 @@
+{
+  "name": "speechevalkit",
+  "version": "0.2.0",
+  "summary": "A unified speech evaluation toolkit for speech generation, enhancement, voice conversion, ASR, MOS, and SMOS evaluation (with GUI).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "speechevalkit-0.2.0-py3-none-any.whl",
+  "download_time": "2026-05-03T18:20:45.265662",
+  "package_url": "https://pypi.org/project/speechevalkit/"
+}
