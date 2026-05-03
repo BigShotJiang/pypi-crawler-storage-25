@@ -1,0 +1,11 @@
+{
+  "name": "spacepackets",
+  "version": "0.32.0",
+  "summary": "Various CCSDS and ECSS packet implementations",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "spacepackets-0.32.0.tar.gz",
+  "download_time": "2026-05-03T22:11:00.672796",
+  "package_url": "https://pypi.org/project/spacepackets/"
+}

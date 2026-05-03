@@ -1,11 +1,11 @@
 {
   "name": "code-context-engine",
-  "version": "0.4.10",
-  "summary": "Index your codebase. AI searches instead of re-reading files. 94% token savings, benchmarked on FastAPI. Works with Claude Code, Cursor, VS Code, Gemini CLI, and Codex.",
+  "version": "0.4.16",
+  "summary": "Index your codebase. AI searches instead of re-reading files. 94% token savings, benchmarked on FastAPI. Works with Claude Code, Cursor, VS Code, Gemini CLI, Codex, and OpenCode.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "code_context_engine-0.4.10.tar.gz",
-  "download_time": "2026-05-02T23:01:56.657653",
+  "download_filename": "code_context_engine-0.4.16.tar.gz",
+  "download_time": "2026-05-03T22:11:11.597824",
   "package_url": "https://pypi.org/project/code-context-engine/"
 }

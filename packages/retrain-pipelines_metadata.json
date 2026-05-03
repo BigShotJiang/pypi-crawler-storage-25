@@ -1,0 +1,11 @@
+{
+  "name": "retrain-pipelines",
+  "version": "0.2.0",
+  "summary": "retrain-pipelines lowers the barrier to entry for the creation and management of professional machine learning retraining pipelines.",
+  "author": "Aurelien-Morgan",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "retrain_pipelines-0.2.0.tar.gz",
+  "download_time": "2026-05-03T22:11:03.233173",
+  "package_url": "https://pypi.org/project/retrain-pipelines/"
+}

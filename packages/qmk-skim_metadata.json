@@ -1,0 +1,11 @@
+{
+  "name": "qmk-skim",
+  "version": "0.7.1",
+  "summary": "Svalboard Keymap Image Maker",
+  "author": "Thiago Alves",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qmk_skim-0.7.1.tar.gz",
+  "download_time": "2026-05-03T22:10:44.834302",
+  "package_url": "https://pypi.org/project/qmk-skim/"
+}

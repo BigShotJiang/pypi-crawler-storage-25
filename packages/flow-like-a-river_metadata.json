@@ -1,11 +1,11 @@
 {
   "name": "flow-like-a-river",
-  "version": "0.2.5",
+  "version": "0.2.11",
   "summary": "Flow-driven CLI runtime for Codex agent sessions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flow_like_a_river-0.2.5.tar.gz",
-  "download_time": "2026-04-22T10:03:39.716073",
+  "download_filename": "flow_like_a_river-0.2.11.tar.gz",
+  "download_time": "2026-05-03T22:10:49.959471",
   "package_url": "https://pypi.org/project/flow-like-a-river/"
 }

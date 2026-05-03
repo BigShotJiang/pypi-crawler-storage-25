@@ -1,11 +1,11 @@
 {
   "name": "nebo",
-  "version": "0.1.6",
-  "summary": "AI-native observability for Python pipelines and agentic workflows",
+  "version": "0.2.4",
+  "summary": "A modern logging SDK for multi-modal data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nebo-0.1.6-py3-none-any.whl",
-  "download_time": "2026-04-15T05:57:10.428161",
+  "download_filename": "nebo-0.2.4-py3-none-any.whl",
+  "download_time": "2026-05-03T22:11:20.438717",
   "package_url": "https://pypi.org/project/nebo/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "zpe-music",
+  "version": "0.1.0",
+  "summary": "Canonical symbolic-score codec with a bounded note-local expression refinement",
+  "author": "Zer0pa (Pty) Ltd",
+  "license": "LicenseRef-Zer0pa-SAL-7.1",
+  "home_page": null,
+  "download_filename": "zpe_music-0.1.0.tar.gz",
+  "download_time": "2026-05-03T22:11:15.240205",
+  "package_url": "https://pypi.org/project/zpe-music/"
+}

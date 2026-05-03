@@ -1,11 +1,11 @@
 {
   "name": "hunmin",
-  "version": "3.25.0",
+  "version": "3.37.0",
   "summary": "외국어를 한글로 — 14개 언어를 한국어 한글 발음 표기로 변환. Universal phonetic Hangul transcription for 14 languages with NIKL conventions, CMU dictionary, and Old Hangul precision.",
   "author": "Hunmin Project",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hunmin-3.25.0.tar.gz",
-  "download_time": "2026-05-01T07:21:41.969138",
+  "download_filename": "hunmin-3.37.0.tar.gz",
+  "download_time": "2026-05-03T22:10:56.974381",
   "package_url": "https://pypi.org/project/hunmin/"
 }

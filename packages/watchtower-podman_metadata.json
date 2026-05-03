@@ -1,11 +1,11 @@
 {
   "name": "watchtower-podman",
-  "version": "1.7.1",
+  "version": "1.9.1",
   "summary": "Podman update and multi-node website deployment automation",
   "author": "WatchTower Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "watchtower_podman-1.7.1-py3-none-any.whl",
-  "download_time": "2026-05-03T21:13:04.957320",
+  "download_filename": "watchtower_podman-1.9.1.tar.gz",
+  "download_time": "2026-05-03T22:11:22.034471",
   "package_url": "https://pypi.org/project/watchtower-podman/"
 }

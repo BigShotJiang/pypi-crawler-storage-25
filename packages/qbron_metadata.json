@@ -1,0 +1,11 @@
+{
+  "name": "qbron",
+  "version": "0.1.0a1",
+  "summary": "Open-source SDK for running quantum workloads across any QPU backend.",
+  "author": "qbron",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qbron-0.1.0a1.tar.gz",
+  "download_time": "2026-05-03T22:11:18.311091",
+  "package_url": "https://pypi.org/project/qbron/"
+}

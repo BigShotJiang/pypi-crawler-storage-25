@@ -1,0 +1,11 @@
+{
+  "name": "rpaframework-hubspot",
+  "version": "4.0.0",
+  "summary": "Robot Framework wrapper around the hubspot-api-client library.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rpaframework_hubspot-4.0.0.tar.gz",
+  "download_time": "2026-05-03T22:11:20.951651",
+  "package_url": "https://pypi.org/project/rpaframework-hubspot/"
+}

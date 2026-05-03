@@ -1,0 +1,11 @@
+{
+  "name": "moneypulse",
+  "version": "1.0.0",
+  "summary": "Official Money-Pulse Python SDK — Accept payments and process payouts across Africa.",
+  "author": "NOCYL-PULSE",
+  "license": "MIT",
+  "home_page": "https://github.com/nocyl-pulse/moneypulse-python",
+  "download_filename": "moneypulse-1.0.0.tar.gz",
+  "download_time": "2026-05-03T22:11:02.722473",
+  "package_url": "https://pypi.org/project/moneypulse/"
+}
