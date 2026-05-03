@@ -1,0 +1,11 @@
+{
+  "name": "MCHeston",
+  "version": "0.1.0",
+  "summary": "Heston stochastic-volatility model: Monte Carlo simulation and option pricing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcheston-0.1.0.tar.gz",
+  "download_time": "2026-05-03T21:13:19.759444",
+  "package_url": "https://pypi.org/project/MCHeston/"
+}

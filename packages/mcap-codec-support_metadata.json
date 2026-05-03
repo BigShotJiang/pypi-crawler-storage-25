@@ -1,0 +1,11 @@
+{
+  "name": "mcap-codec-support",
+  "version": "0.2.0",
+  "summary": "Reusable MCAP encoder and decoder factories for robotics codecs",
+  "author": "Marko Bausch",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "mcap_codec_support-0.2.0.tar.gz",
+  "download_time": "2026-05-03T21:13:17.197378",
+  "package_url": "https://pypi.org/project/mcap-codec-support/"
+}

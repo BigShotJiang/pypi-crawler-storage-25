@@ -1,11 +1,11 @@
 {
   "name": "cellularization-dynamics",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Desktop GUI for cellularization annotation and output generation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cellularization_dynamics-0.2.2.tar.gz",
-  "download_time": "2026-05-03T12:10:04.117305",
+  "download_filename": "cellularization_dynamics-0.2.3.tar.gz",
+  "download_time": "2026-05-03T21:13:30.210311",
   "package_url": "https://pypi.org/project/cellularization-dynamics/"
 }

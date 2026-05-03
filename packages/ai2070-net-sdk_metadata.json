@@ -1,11 +1,11 @@
 {
   "name": "ai2070-net-sdk",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "Ergonomic Python SDK for the Net mesh network",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ai2070_net_sdk-0.9.0.tar.gz",
-  "download_time": "2026-05-02T15:43:44.289161",
+  "download_filename": "ai2070_net_sdk-0.10.0.tar.gz",
+  "download_time": "2026-05-03T21:12:57.551266",
   "package_url": "https://pypi.org/project/ai2070-net-sdk/"
 }

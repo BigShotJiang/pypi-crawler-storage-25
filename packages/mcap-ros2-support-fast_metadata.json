@@ -1,0 +1,11 @@
+{
+  "name": "mcap-ros2-support-fast",
+  "version": "0.4.0",
+  "summary": "High-performance pure Python ROS2 message serialization and deserialization for MCAP files",
+  "author": "Marko Bausch",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "mcap_ros2_support_fast-0.4.0.tar.gz",
+  "download_time": "2026-05-03T21:13:15.157128",
+  "package_url": "https://pypi.org/project/mcap-ros2-support-fast/"
+}

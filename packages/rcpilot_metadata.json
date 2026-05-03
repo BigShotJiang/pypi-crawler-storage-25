@@ -1,11 +1,11 @@
 {
   "name": "rcpilot",
-  "version": "1.5.0",
+  "version": "1.7.0",
   "summary": "Lightweight self-hosted session manager for Claude Code Remote Control",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rcpilot-1.5.0.tar.gz",
-  "download_time": "2026-04-24T10:12:05.550031",
+  "download_filename": "rcpilot-1.7.0.tar.gz",
+  "download_time": "2026-05-03T21:13:22.340810",
   "package_url": "https://pypi.org/project/rcpilot/"
 }

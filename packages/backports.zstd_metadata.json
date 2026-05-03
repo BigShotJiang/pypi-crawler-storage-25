@@ -1,0 +1,11 @@
+{
+  "name": "backports.zstd",
+  "version": "1.4.0",
+  "summary": "Backport of compression.zstd",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "backports_zstd-1.4.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-05-03T21:12:58.075208",
+  "package_url": "https://pypi.org/project/backports.zstd/"
+}

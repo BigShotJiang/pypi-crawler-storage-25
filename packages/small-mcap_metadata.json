@@ -1,0 +1,11 @@
+{
+  "name": "small-mcap",
+  "version": "0.6.0",
+  "summary": "Lightweight Python library for reading and writing MCAP files",
+  "author": "Marko Bausch",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "small_mcap-0.6.0.tar.gz",
+  "download_time": "2026-05-03T21:13:16.178000",
+  "package_url": "https://pypi.org/project/small-mcap/"
+}

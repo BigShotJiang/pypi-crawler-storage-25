@@ -1,0 +1,11 @@
+{
+  "name": "shapley-calculator",
+  "version": "0.2.1",
+  "summary": "A library to calculate Shapley values for feature importance in machine learning models.",
+  "author": "Andrew Alexeev",
+  "license": null,
+  "home_page": "https://github.com/AlekseevDS21/Shapley",
+  "download_filename": "shapley_calculator-0.2.1.tar.gz",
+  "download_time": "2026-05-03T21:13:20.269637",
+  "package_url": "https://pypi.org/project/shapley-calculator/"
+}

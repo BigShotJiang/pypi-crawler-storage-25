@@ -1,11 +1,11 @@
 {
   "name": "sphinx-fonts",
-  "version": "0.0.1a16.dev4",
+  "version": "0.0.1a16",
   "summary": "Sphinx extension for self-hosted fonts via Fontsource CDN",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sphinx_fonts-0.0.1a16.dev4.tar.gz",
-  "download_time": "2026-05-03T20:15:39.466159",
+  "download_filename": "sphinx_fonts-0.0.1a16.tar.gz",
+  "download_time": "2026-05-03T21:13:38.945174",
   "package_url": "https://pypi.org/project/sphinx-fonts/"
 }
