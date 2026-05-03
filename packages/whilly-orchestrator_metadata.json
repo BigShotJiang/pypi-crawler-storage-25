@@ -1,11 +1,11 @@
 {
   "name": "whilly-orchestrator",
-  "version": "4.4.3",
+  "version": "4.5.0",
   "summary": "Whilly v4.0 — distributed orchestrator with Postgres-backed task queue, FastAPI control plane, and remote workers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "whilly_orchestrator-4.4.3.tar.gz",
-  "download_time": "2026-05-03T07:30:30.969490",
+  "download_filename": "whilly_orchestrator-4.5.0.tar.gz",
+  "download_time": "2026-05-03T12:10:14.365948",
   "package_url": "https://pypi.org/project/whilly-orchestrator/"
 }

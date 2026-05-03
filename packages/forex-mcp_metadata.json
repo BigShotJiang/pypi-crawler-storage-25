@@ -1,11 +1,11 @@
 {
   "name": "forex-mcp",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Forex MCP Server for MT5 market data via SSE",
   "author": "qicongsheng",
   "license": null,
   "home_page": "https://github.com/qicongsheng/forex-mcp",
-  "download_filename": "forex_mcp-1.0.6.tar.gz",
-  "download_time": "2026-05-02T19:52:41.957369",
+  "download_filename": "forex_mcp-1.0.7.tar.gz",
+  "download_time": "2026-05-03T12:10:04.629202",
   "package_url": "https://pypi.org/project/forex-mcp/"
 }

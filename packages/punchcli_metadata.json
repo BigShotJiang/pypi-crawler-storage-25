@@ -1,0 +1,11 @@
+{
+  "name": "punchcli",
+  "version": "0.1.0",
+  "summary": "Minimal CLI time tracker that logs sessions to SQLite and generates a Markdown report.",
+  "author": "Roman Demchuk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "punchcli-0.1.0.tar.gz",
+  "download_time": "2026-05-03T12:09:53.846861",
+  "package_url": "https://pypi.org/project/punchcli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "docket-cli",
+  "version": "0.2.2",
+  "summary": "Deterministic task runner for AI agents — replaces shell scripts and token-burning LLM cron jobs",
+  "author": "Docket Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "docket_cli-0.2.2.tar.gz",
+  "download_time": "2026-05-03T12:10:06.159043",
+  "package_url": "https://pypi.org/project/docket-cli/"
+}

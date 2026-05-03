@@ -1,11 +1,11 @@
 {
   "name": "tmf-spec-parser",
-  "version": "0.2.4",
-  "summary": "Extract, validate and diff TMForum Open API specs — generates tmf_data.json for tmf-map and other TMF DevKit tools",
+  "version": "0.3.1",
+  "summary": "Extract, validate and diff TMForum Open API specs and ODA Component manifests — generates tmf_data.json + oda_data.json for tmf-map and other TMF DevKit tools",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "tmf_spec_parser-0.2.4.tar.gz",
-  "download_time": "2026-04-25T10:50:00.416698",
+  "download_filename": "tmf_spec_parser-0.3.1.tar.gz",
+  "download_time": "2026-05-03T12:10:10.756469",
   "package_url": "https://pypi.org/project/tmf-spec-parser/"
 }

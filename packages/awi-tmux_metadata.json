@@ -1,0 +1,11 @@
+{
+  "name": "awi-tmux",
+  "version": "1.1.0",
+  "summary": "Anime World India CLI for Termux — Hindi/Tamil/Telugu/Malayalam anime downloader, no browser required",
+  "author": "awi-tmux contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "awi_tmux-1.1.0-py3-none-any.whl",
+  "download_time": "2026-05-03T12:09:50.786173",
+  "package_url": "https://pypi.org/project/awi-tmux/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cine-tmux",
+  "version": "2.0.1",
+  "summary": "Movie & TV downloader for Termux — yFlix + enc-dec.app, no browser required",
+  "author": "cine-tmux contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cine_tmux-2.0.1-py3-none-any.whl",
+  "download_time": "2026-05-03T12:09:52.315122",
+  "package_url": "https://pypi.org/project/cine-tmux/"
+}

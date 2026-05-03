@@ -1,0 +1,11 @@
+{
+  "name": "tokentoll",
+  "version": "0.3.0",
+  "summary": "Catch LLM cost changes in code review. Infracost for LLM spend.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tokentoll-0.3.0.tar.gz",
+  "download_time": "2026-05-03T12:10:09.734609",
+  "package_url": "https://pypi.org/project/tokentoll/"
+}

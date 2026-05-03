@@ -1,0 +1,11 @@
+{
+  "name": "scansci-pdf",
+  "version": "1.2.0",
+  "summary": "MCP server for academic paper downloading with Sci-Hub, OA sources, multi-university WebVPN, and Tor support",
+  "author": null,
+  "license": "Proprietary - All rights reserved. See LICENSE for details.",
+  "home_page": null,
+  "download_filename": "scansci_pdf-1.2.0.tar.gz",
+  "download_time": "2026-05-03T12:10:06.672361",
+  "package_url": "https://pypi.org/project/scansci-pdf/"
+}

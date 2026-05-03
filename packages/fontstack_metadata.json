@@ -1,11 +1,11 @@
 {
   "name": "fontstack",
-  "version": "0.3.3",
+  "version": "0.3.6",
   "summary": "Unicode text rendering with automatic per-character font fallback, BiDi support, and emoji",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fontstack-0.3.3.tar.gz",
-  "download_time": "2026-05-03T10:28:31.500093",
+  "download_filename": "fontstack-0.3.6.tar.gz",
+  "download_time": "2026-05-03T12:09:54.358310",
   "package_url": "https://pypi.org/project/fontstack/"
 }

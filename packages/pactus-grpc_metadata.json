@@ -1,0 +1,11 @@
+{
+  "name": "pactus-grpc",
+  "version": "1.14.0",
+  "summary": "Python client for interacting with the Pactus blockchain via gRPC",
+  "author": "Pactus Development Team",
+  "license": "MIT",
+  "home_page": "https://pactus.org",
+  "download_filename": "pactus_grpc-1.14.0.tar.gz",
+  "download_time": "2026-05-03T12:10:18.466355",
+  "package_url": "https://pypi.org/project/pactus-grpc/"
+}

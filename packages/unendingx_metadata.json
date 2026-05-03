@@ -1,11 +1,11 @@
 {
   "name": "unendingx",
-  "version": "0.1.1",
-  "summary": "川流/UnendingX - Agent management and group operations based on A2A protocol",
+  "version": "0.2.1",
+  "summary": "川流/UnendingX CLI - Agent management and group operations based on A2A protocol",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unendingx-0.1.1.tar.gz",
-  "download_time": "2026-04-26T04:41:32.768198",
+  "download_filename": "unendingx-0.2.1-py3-none-any.whl",
+  "download_time": "2026-05-03T12:09:54.867736",
   "package_url": "https://pypi.org/project/unendingx/"
 }
