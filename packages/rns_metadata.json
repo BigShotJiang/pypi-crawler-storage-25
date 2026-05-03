@@ -1,11 +1,11 @@
 {
   "name": "rns",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Self-configuring, encrypted and resilient mesh networking stack for LoRa, packet radio, WiFi and everything in between",
   "author": "Mark Qvist",
   "license": "Reticulum License",
   "home_page": "https://reticulum.network/",
-  "download_filename": "rns-1.2.0.tar.gz",
-  "download_time": "2026-04-28T20:50:17.729967",
+  "download_filename": "rns-1.2.1.tar.gz",
+  "download_time": "2026-05-03T23:55:57.905249",
   "package_url": "https://pypi.org/project/rns/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-query-filters",
+  "version": "0.0.4a0",
+  "summary": "Dynamic and declarative query filters for FastAPI, powered by Pydantic v2 and ready for multiple ORMs.",
+  "author": "Ezequiel Parziale",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_query_filters-0.0.4a0.tar.gz",
+  "download_time": "2026-05-03T23:55:51.440941",
+  "package_url": "https://pypi.org/project/fastapi-query-filters/"
+}

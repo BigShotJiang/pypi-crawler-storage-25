@@ -1,11 +1,11 @@
 {
   "name": "rhdpe-data-analysis",
-  "version": "1.0.171",
+  "version": "1.0.182",
   "summary": "Package for analysing data relating to recycled HDPE",
   "author": "Phil Smith",
   "license": null,
   "home_page": null,
-  "download_filename": "rhdpe_data_analysis-1.0.171.tar.gz",
-  "download_time": "2026-05-03T23:06:56.568386",
+  "download_filename": "rhdpe_data_analysis-1.0.182.tar.gz",
+  "download_time": "2026-05-03T23:55:37.755369",
   "package_url": "https://pypi.org/project/rhdpe-data-analysis/"
 }

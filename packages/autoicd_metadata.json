@@ -1,11 +1,11 @@
 {
   "name": "autoicd",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "AI medical coding SDK — convert clinical text to ICD-10-CM and ICD-11 diagnosis codes with AI-powered NLP. Automated ICD-10 coding, PHI de-identification, code search, and ICD-10/ICD-11 crosswalk.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autoicd-0.8.0.tar.gz",
-  "download_time": "2026-04-21T23:01:57.075997",
+  "download_filename": "autoicd-0.9.0.tar.gz",
+  "download_time": "2026-05-03T23:56:16.643199",
   "package_url": "https://pypi.org/project/autoicd/"
 }

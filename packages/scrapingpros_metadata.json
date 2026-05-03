@@ -1,11 +1,11 @@
 {
   "name": "scrapingpros",
-  "version": "0.2.3",
+  "version": "0.5.2",
   "summary": "Python SDK for the Scraping Pros API — web scraping with browser rendering, proxy rotation, and structured data extraction.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scrapingpros-0.2.3.tar.gz",
-  "download_time": "2026-04-14T16:12:02.272975",
+  "download_filename": "scrapingpros-0.5.2.tar.gz",
+  "download_time": "2026-05-03T23:55:41.063610",
   "package_url": "https://pypi.org/project/scrapingpros/"
 }

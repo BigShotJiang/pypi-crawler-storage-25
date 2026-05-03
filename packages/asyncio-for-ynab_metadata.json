@@ -1,0 +1,11 @@
+{
+  "name": "asyncio-for-ynab",
+  "version": "1.83.0",
+  "summary": "Unofficial asyncio client for the YNAB API.",
+  "author": "Max R",
+  "license": "MIT",
+  "home_page": "https://github.com/mxr/asyncio-for-ynab",
+  "download_filename": "asyncio_for_ynab-1.83.0.tar.gz",
+  "download_time": "2026-05-03T23:56:06.623167",
+  "package_url": "https://pypi.org/project/asyncio-for-ynab/"
+}

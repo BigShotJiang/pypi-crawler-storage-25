@@ -1,11 +1,11 @@
 {
   "name": "genai-pyo3",
-  "version": "0.1.17",
+  "version": "0.5.0",
   "summary": "Python bindings for rust-genai",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "genai_pyo3-0.1.17.tar.gz",
-  "download_time": "2026-05-03T18:20:51.534337",
+  "download_filename": "genai_pyo3-0.5.0.tar.gz",
+  "download_time": "2026-05-03T23:55:38.784761",
   "package_url": "https://pypi.org/project/genai-pyo3/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "matheel",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Matheel: A CLI and Python package for source-code similarity detection.",
   "author": "Fahad Ebrahim",
   "license": null,
   "home_page": null,
-  "download_filename": "matheel-0.4.1.tar.gz",
-  "download_time": "2026-05-03T23:06:42.877629",
+  "download_filename": "matheel-0.4.2.tar.gz",
+  "download_time": "2026-05-03T23:55:50.405902",
   "package_url": "https://pypi.org/project/matheel/"
 }

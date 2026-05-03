@@ -1,11 +1,11 @@
 {
   "name": "planetarypy",
-  "version": "0.59.3",
+  "version": "0.59.4",
   "summary": "Core package for planetary data tools. Includes PDS index utilities, SPICE integrations, and more.",
   "author": null,
   "license": "BSD license",
   "home_page": null,
-  "download_filename": "planetarypy-0.59.3.tar.gz",
-  "download_time": "2026-05-02T23:51:24.367139",
+  "download_filename": "planetarypy-0.59.4.tar.gz",
+  "download_time": "2026-05-03T23:55:58.932775",
   "package_url": "https://pypi.org/project/planetarypy/"
 }

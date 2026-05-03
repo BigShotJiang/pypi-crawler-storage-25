@@ -1,11 +1,11 @@
 {
   "name": "decompression-diver",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Diving decompression library (MN90, compartment model)",
   "author": "Fred Pidancier",
   "license": null,
   "home_page": "https://github.com/pidancier/decompression",
-  "download_filename": "decompression_diver-1.1.0.tar.gz",
-  "download_time": "2026-05-03T23:06:37.833697",
+  "download_filename": "decompression_diver-1.2.0.tar.gz",
+  "download_time": "2026-05-03T23:56:17.159533",
   "package_url": "https://pypi.org/project/decompression-diver/"
 }

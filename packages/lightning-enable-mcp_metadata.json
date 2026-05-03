@@ -1,0 +1,11 @@
+{
+  "name": "lightning-enable-mcp",
+  "version": "1.12.6",
+  "summary": "Part of Lightning Enable — infrastructure for agent commerce over Lightning. MCP server for L402 Lightning payments, API discovery, and agent commerce.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lightning_enable_mcp-1.12.6.tar.gz",
+  "download_time": "2026-05-03T23:55:48.272819",
+  "package_url": "https://pypi.org/project/lightning-enable-mcp/"
+}

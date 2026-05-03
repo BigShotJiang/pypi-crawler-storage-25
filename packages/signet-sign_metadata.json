@@ -1,11 +1,11 @@
 {
   "name": "signet-sign",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Capability-based safety gates for LLM agents. The model proposes; signet authorizes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "signet_sign-0.1.2.tar.gz",
-  "download_time": "2026-05-03T19:28:24.135549",
+  "download_filename": "signet_sign-0.1.4.tar.gz",
+  "download_time": "2026-05-03T23:55:54.248204",
   "package_url": "https://pypi.org/project/signet-sign/"
 }

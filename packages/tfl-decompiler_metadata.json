@@ -1,0 +1,11 @@
+{
+  "name": "tfl-decompiler",
+  "version": "1.0.1",
+  "summary": "Convert Tableau Prep Flow files to Python/pandas scripts",
+  "author": "TFL Decompiler",
+  "license": null,
+  "home_page": "https://github.com/your-repo/tfl-decompiler",
+  "download_filename": "tfl_decompiler-1.0.1.tar.gz",
+  "download_time": "2026-05-03T23:56:13.874691",
+  "package_url": "https://pypi.org/project/tfl-decompiler/"
+}

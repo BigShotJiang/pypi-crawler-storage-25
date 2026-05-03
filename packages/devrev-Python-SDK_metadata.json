@@ -1,11 +1,11 @@
 {
   "name": "devrev-Python-SDK",
-  "version": "2.13.0",
+  "version": "3.0.4",
   "summary": "A modern, type-safe Python SDK for the DevRev API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "devrev_python_sdk-2.13.0.tar.gz",
-  "download_time": "2026-04-08T01:07:26.535478",
+  "download_filename": "devrev_python_sdk-3.0.4.tar.gz",
+  "download_time": "2026-05-03T23:56:17.679492",
   "package_url": "https://pypi.org/project/devrev-Python-SDK/"
 }

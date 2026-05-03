@@ -1,11 +1,11 @@
 {
   "name": "vacant",
-  "version": "0.0.1",
-  "summary": "Name reservation for the upcoming `vacant` domain availability checker (a Rust CLI shipped via Homebrew/cargo, not pip).",
+  "version": "0.4.0",
+  "summary": "Python bindings for the vacant Rust engine — domain availability via authoritative DNS.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "vacant-0.0.1.tar.gz",
-  "download_time": "2026-05-03T07:30:33.556095",
+  "download_filename": "vacant-0.4.0.tar.gz",
+  "download_time": "2026-05-03T23:56:10.786110",
   "package_url": "https://pypi.org/project/vacant/"
 }
