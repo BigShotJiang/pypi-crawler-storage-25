@@ -1,0 +1,11 @@
+{
+  "name": "a2y-inst",
+  "version": "1.9.5",
+  "summary": "A module that contains kinds of instrument drivers.",
+  "author": "Yu Han",
+  "license": "Private",
+  "home_page": "http://www.kersci.com/a2y/inst.html",
+  "download_filename": "a2y_inst-1.9.5-py3-none-any.whl",
+  "download_time": "2026-05-03T10:28:25.333454",
+  "package_url": "https://pypi.org/project/a2y-inst/"
+}

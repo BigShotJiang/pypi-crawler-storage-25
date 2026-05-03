@@ -1,0 +1,11 @@
+{
+  "name": "wj-burnerca",
+  "version": "1.0.0b1",
+  "summary": "Single-shot, name-constrained, self-destroying CA for local dev TLS",
+  "author": "WaterJuice",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wj_burnerca-1.0.0b1-py3-none-any.whl",
+  "download_time": "2026-05-03T10:28:42.721649",
+  "package_url": "https://pypi.org/project/wj-burnerca/"
+}

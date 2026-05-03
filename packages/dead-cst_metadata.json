@@ -1,11 +1,11 @@
 {
   "name": "dead-cst",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Python dead code analysis using libcst",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dead_cst-0.2.0.tar.gz",
-  "download_time": "2026-05-01T23:19:45.667895",
+  "download_filename": "dead_cst-0.3.0.tar.gz",
+  "download_time": "2026-05-03T10:28:20.705456",
   "package_url": "https://pypi.org/project/dead-cst/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lakefront",
-  "version": "0.7.1",
+  "version": "0.8.0",
   "summary": "Lakehouse Observability Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lakefront-0.7.1.tar.gz",
-  "download_time": "2026-04-27T22:21:51.366627",
+  "download_filename": "lakefront-0.8.0.tar.gz",
+  "download_time": "2026-05-03T10:28:18.154173",
   "package_url": "https://pypi.org/project/lakefront/"
 }

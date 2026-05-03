@@ -1,11 +1,11 @@
 {
   "name": "somafm-tui",
-  "version": "0.6.16",
+  "version": "0.6.18",
   "summary": "Terminal user interface for SomaFM internet radio",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "somafm_tui-0.6.16.tar.gz",
-  "download_time": "2026-05-03T07:30:51.071136",
+  "download_filename": "somafm_tui-0.6.18.tar.gz",
+  "download_time": "2026-05-03T10:28:40.669621",
   "package_url": "https://pypi.org/project/somafm-tui/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "plotsim",
+  "version": "0.6.0",
+  "summary": "Generate multi-table relational datasets with behavioral trajectories, correlations, and causal lags. Config-driven, deterministic, no real data required",
+  "author": "Mohamed Hossam",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "plotsim-0.6.0.tar.gz",
+  "download_time": "2026-05-03T10:28:18.666349",
+  "package_url": "https://pypi.org/project/plotsim/"
+}

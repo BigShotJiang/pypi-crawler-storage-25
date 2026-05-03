@@ -1,0 +1,11 @@
+{
+  "name": "markdawn",
+  "version": "0.3.0",
+  "summary": "A tool that converts markdown containing mathematical formulas into HTML as beautiful as dawn",
+  "author": "bib_inf",
+  "license": "CC0 v1.0",
+  "home_page": "https://github.co.jp/",
+  "download_filename": "markdawn-0.3.0.tar.gz",
+  "download_time": "2026-05-03T10:28:26.352041",
+  "package_url": "https://pypi.org/project/markdawn/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "renderers",
+  "version": "0.1.4",
+  "summary": "Chat template renderers — deterministic message-to-token conversion for LLM training",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "renderers-0.1.4.tar.gz",
+  "download_time": "2026-05-03T10:28:41.690709",
+  "package_url": "https://pypi.org/project/renderers/"
+}

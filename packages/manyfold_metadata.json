@@ -1,11 +1,11 @@
 {
   "name": "manyfold",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "PyO3-backed Manyfold RFC scaffolding and in-memory runtime.",
   "author": "Manyfold contributors",
   "license": null,
   "home_page": "https://github.com/Organization5762/manyfold",
-  "download_filename": "manyfold-0.1.9.tar.gz",
-  "download_time": "2026-05-03T09:17:38.111703",
+  "download_filename": "manyfold-0.1.10.tar.gz",
+  "download_time": "2026-05-03T10:28:30.991149",
   "package_url": "https://pypi.org/project/manyfold/"
 }
