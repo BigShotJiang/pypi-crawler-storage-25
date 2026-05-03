@@ -1,11 +1,11 @@
 {
   "name": "zero-api-key-web-search",
-  "version": "21.0.0",
+  "version": "22.0.0",
   "summary": "Search infrastructure for AI agents: free by default, MCP-ready, LLM-context aware, and production-grade when needed.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zero_api_key_web_search-21.0.0.tar.gz",
-  "download_time": "2026-05-02T22:07:37.965184",
+  "download_filename": "zero_api_key_web_search-22.0.0.tar.gz",
+  "download_time": "2026-05-03T01:31:14.075005",
   "package_url": "https://pypi.org/project/zero-api-key-web-search/"
 }

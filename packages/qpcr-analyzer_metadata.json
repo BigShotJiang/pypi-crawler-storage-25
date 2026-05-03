@@ -1,11 +1,11 @@
 {
   "name": "qpcr-analyzer",
-  "version": "2.1.2",
+  "version": "2.2.0",
   "summary": "Lightweight browser-based qPCR data analysis with ΔCt and batch-aware ΔΔCt quantification",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qpcr_analyzer-2.1.2.tar.gz",
-  "download_time": "2026-05-02T23:02:15.465348",
+  "download_filename": "qpcr_analyzer-2.2.0.tar.gz",
+  "download_time": "2026-05-03T01:31:26.116624",
   "package_url": "https://pypi.org/project/qpcr-analyzer/"
 }

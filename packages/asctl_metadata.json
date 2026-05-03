@@ -1,0 +1,11 @@
+{
+  "name": "asctl",
+  "version": "0.1.0",
+  "summary": "Android Screen Control Tool - 黑屏而不锁屏的 Android 屏幕控制工具",
+  "author": "mofanx",
+  "license": "MIT",
+  "home_page": "https://github.com/mofanx/asctl",
+  "download_filename": "asctl-0.1.0.tar.gz",
+  "download_time": "2026-05-03T01:31:11.392733",
+  "package_url": "https://pypi.org/project/asctl/"
+}

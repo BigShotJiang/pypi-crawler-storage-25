@@ -1,11 +1,11 @@
 {
   "name": "memoir-ai",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "High-performance semantic memory system integrating LangMem with ProllyTree",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "memoir_ai-0.1.8.tar.gz",
-  "download_time": "2026-05-02T18:41:37.515714",
+  "download_filename": "memoir_ai-0.1.9.tar.gz",
+  "download_time": "2026-05-03T01:31:27.678709",
   "package_url": "https://pypi.org/project/memoir-ai/"
 }

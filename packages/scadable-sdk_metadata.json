@@ -1,0 +1,11 @@
+{
+  "name": "scadable-sdk",
+  "version": "0.3.1",
+  "summary": "Scadable Edge SDK — write device logic in Python, compile to native",
+  "author": "Scadable",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "scadable_sdk-0.3.1.tar.gz",
+  "download_time": "2026-05-03T01:31:22.959039",
+  "package_url": "https://pypi.org/project/scadable-sdk/"
+}

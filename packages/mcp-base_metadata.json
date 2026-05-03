@@ -1,11 +1,11 @@
 {
   "name": "mcp-base",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "CLI tools for MCP (Model Context Protocol) server setup and management with OIDC support (Auth0, Dex, Keycloak)",
   "author": "MCP Base Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_base-0.7.2.tar.gz",
-  "download_time": "2026-05-02T20:34:28.216103",
+  "download_filename": "mcp_base-0.7.3.tar.gz",
+  "download_time": "2026-05-03T01:31:07.787736",
   "package_url": "https://pypi.org/project/mcp-base/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mlx-video-with-audio",
+  "version": "0.1.36",
+  "summary": "Generate videos with synchronized audio on Apple Silicon using MLX. Supports text-to-video (T2V) and image-to-video (I2V) with LTX-2.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mlx_video_with_audio-0.1.36.tar.gz",
+  "download_time": "2026-05-03T01:31:10.367072",
+  "package_url": "https://pypi.org/project/mlx-video-with-audio/"
+}

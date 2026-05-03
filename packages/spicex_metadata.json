@@ -1,11 +1,11 @@
 {
   "name": "spicex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A differentiable SPICE circuit solver in JAX",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spicex-0.0.1.tar.gz",
-  "download_time": "2026-05-02T22:07:41.298286",
+  "download_filename": "spicex-0.0.2.tar.gz",
+  "download_time": "2026-05-03T01:31:31.303404",
   "package_url": "https://pypi.org/project/spicex/"
 }

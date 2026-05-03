@@ -1,11 +1,11 @@
 {
   "name": "muzlib",
-  "version": "0.4",
+  "version": "0.4.1",
   "summary": "Muzlib is a Python script that allows you to create your own music library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "muzlib-0.4.tar.gz",
-  "download_time": "2026-05-02T16:40:24.058383",
+  "download_filename": "muzlib-0.4.1.tar.gz",
+  "download_time": "2026-05-03T01:31:34.954401",
   "package_url": "https://pypi.org/project/muzlib/"
 }

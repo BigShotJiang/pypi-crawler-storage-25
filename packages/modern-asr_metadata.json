@@ -1,11 +1,11 @@
 {
   "name": "modern-asr",
-  "version": "0.2.9",
+  "version": "0.2.13",
   "summary": "A unified, extensible, and modern Python toolkit for LLM-based Automatic Speech Recognition (ASR).",
   "author": "Modern ASR Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "modern_asr-0.2.9.tar.gz",
-  "download_time": "2026-05-01T15:25:29.051660",
+  "download_filename": "modern_asr-0.2.13.tar.gz",
+  "download_time": "2026-05-03T01:31:05.684618",
   "package_url": "https://pypi.org/project/modern-asr/"
 }

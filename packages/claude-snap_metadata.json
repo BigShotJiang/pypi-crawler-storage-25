@@ -1,0 +1,11 @@
+{
+  "name": "claude-snap",
+  "version": "0.3.1",
+  "summary": "Lossless structural codec for Claude Code session JSONLs — portable conversation snapshots that move between devices, plus a built-in localhost chat surface that keeps your API key out of the browser.",
+  "author": "claude-snap contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_snap-0.3.1.tar.gz",
+  "download_time": "2026-05-03T01:31:29.238847",
+  "package_url": "https://pypi.org/project/claude-snap/"
+}

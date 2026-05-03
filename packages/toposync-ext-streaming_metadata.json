@@ -1,0 +1,11 @@
+{
+  "name": "toposync-ext-streaming",
+  "version": "0.1.2",
+  "summary": "Toposync first-party extension: streaming settings, API surface, and pipeline sink bootstrap.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toposync_ext_streaming-0.1.2.tar.gz",
+  "download_time": "2026-05-03T01:31:37.014589",
+  "package_url": "https://pypi.org/project/toposync-ext-streaming/"
+}

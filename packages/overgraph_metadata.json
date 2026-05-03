@@ -1,11 +1,11 @@
 {
   "name": "overgraph",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "summary": "An absurdly fast embedded graph database for Python. Sub-microsecond reads, pure Rust core.",
   "author": "Brandon Hensley",
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "overgraph-0.5.0.tar.gz",
-  "download_time": "2026-04-17T05:46:22.073676",
+  "download_filename": "overgraph-0.7.0.tar.gz",
+  "download_time": "2026-05-03T01:31:03.615374",
   "package_url": "https://pypi.org/project/overgraph/"
 }

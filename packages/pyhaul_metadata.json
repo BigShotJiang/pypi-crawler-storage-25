@@ -1,0 +1,11 @@
+{
+  "name": "pyhaul",
+  "version": "0.6.1",
+  "summary": "Resumable, cursor-based, CDN-safe HTTP downloads for Python",
+  "author": "pyhaul contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyhaul-0.6.1.tar.gz",
+  "download_time": "2026-05-03T01:31:10.879643",
+  "package_url": "https://pypi.org/project/pyhaul/"
+}

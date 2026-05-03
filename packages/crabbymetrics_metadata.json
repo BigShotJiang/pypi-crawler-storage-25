@@ -1,0 +1,11 @@
+{
+  "name": "crabbymetrics",
+  "version": "0.6.0",
+  "summary": "Rust-backed econometrics models with a scikit-adjacent Python API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crabbymetrics-0.6.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-03T01:31:32.861987",
+  "package_url": "https://pypi.org/project/crabbymetrics/"
+}

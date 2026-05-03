@@ -1,0 +1,11 @@
+{
+  "name": "vaultscribe",
+  "version": "0.6.0",
+  "summary": "Type-safe secrets management and code generation for GCloud Secret Manager.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vaultscribe-0.6.0.tar.gz",
+  "download_time": "2026-05-03T01:31:28.190240",
+  "package_url": "https://pypi.org/project/vaultscribe/"
+}
