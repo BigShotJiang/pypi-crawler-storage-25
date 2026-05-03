@@ -1,11 +1,11 @@
 {
   "name": "ryl",
-  "version": "0.6.0",
+  "version": "0.9.0",
   "summary": "Fast YAML linter inspired by yamllint",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ryl-0.6.0.tar.gz",
-  "download_time": "2026-04-12T11:45:38.302255",
+  "download_filename": "ryl-0.9.0.tar.gz",
+  "download_time": "2026-05-03T13:32:44.214378",
   "package_url": "https://pypi.org/project/ryl/"
 }

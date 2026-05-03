@@ -1,11 +1,11 @@
 {
   "name": "veritas-ml",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "AI Bias Detection and Ethics Compliance Agent",
   "author": "AI Ethics Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "veritas_ml-0.1.4.tar.gz",
-  "download_time": "2026-05-03T12:10:09.225148",
+  "download_filename": "veritas_ml-0.1.6.tar.gz",
+  "download_time": "2026-05-03T13:32:26.733790",
   "package_url": "https://pypi.org/project/veritas-ml/"
 }

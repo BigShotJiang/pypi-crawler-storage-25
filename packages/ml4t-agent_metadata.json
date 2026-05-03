@@ -1,11 +1,11 @@
 {
   "name": "ml4t-agent",
-  "version": "0.3.0a1",
+  "version": "0.6.0a1",
   "summary": "Systematic-strategy research agent for ML4T case-study workflows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ml4t_agent-0.3.0a1.tar.gz",
-  "download_time": "2026-05-02T19:52:08.286485",
+  "download_filename": "ml4t_agent-0.6.0a1.tar.gz",
+  "download_time": "2026-05-03T13:32:18.383967",
   "package_url": "https://pypi.org/project/ml4t-agent/"
 }

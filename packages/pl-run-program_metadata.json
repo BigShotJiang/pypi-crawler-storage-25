@@ -1,11 +1,11 @@
 {
   "name": "pl-run-program",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "summary": "A simple interface for running non-python programs in python.",
   "author": "Peter Lavigne",
   "license": null,
   "home_page": null,
-  "download_filename": "pl_run_program-0.0.31.tar.gz",
-  "download_time": "2026-05-03T11:20:58.715220",
+  "download_filename": "pl_run_program-0.0.32.tar.gz",
+  "download_time": "2026-05-03T13:32:39.085866",
   "package_url": "https://pypi.org/project/pl-run-program/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "jwarol",
+  "version": "0.3.6",
+  "summary": "2D game engine for Python with physics, collision detection, and texture support",
+  "author": "ruslan",
+  "license": "MIT",
+  "home_page": "https://github.com/ruslan/jwarol",
+  "download_filename": "jwarol-0.3.6.tar.gz",
+  "download_time": "2026-05-03T13:32:44.730530",
+  "package_url": "https://pypi.org/project/jwarol/"
+}

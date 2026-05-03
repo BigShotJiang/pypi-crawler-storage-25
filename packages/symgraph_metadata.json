@@ -1,0 +1,11 @@
+{
+  "name": "symgraph",
+  "version": "0.0.1a0",
+  "summary": "Static analysis engine that maps Python codebases into a queryable property graph by resolving symbol definitions, inferring types, and tracing call/reference relationships.",
+  "author": "J Joe",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/JosefAlbers/symgraph",
+  "download_filename": "symgraph-0.0.1a0.tar.gz",
+  "download_time": "2026-05-03T13:32:22.097789",
+  "package_url": "https://pypi.org/project/symgraph/"
+}

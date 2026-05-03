@@ -1,11 +1,11 @@
 {
   "name": "mkui",
-  "version": "0.1.9",
+  "version": "0.1.12",
   "summary": "Config-driven, zero-dependency web GUI framework with dockable panes",
   "author": "Mark Kim",
   "license": null,
   "home_page": null,
-  "download_filename": "mkui-0.1.9.tar.gz",
-  "download_time": "2026-04-25T21:29:52.317140",
+  "download_filename": "mkui-0.1.12.tar.gz",
+  "download_time": "2026-05-03T13:32:22.609894",
   "package_url": "https://pypi.org/project/mkui/"
 }

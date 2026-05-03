@@ -1,11 +1,11 @@
 {
   "name": "memento-brain-memory",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "MCP Memory Server — personal AI memory powered by Memento data",
   "author": "ddong8",
-  "license": "MIT",
+  "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "memento_brain_memory-0.0.5.tar.gz",
-  "download_time": "2026-04-23T08:19:27.057716",
+  "download_filename": "memento_brain_memory-0.0.7.tar.gz",
+  "download_time": "2026-05-03T13:32:55.548695",
   "package_url": "https://pypi.org/project/memento-brain-memory/"
 }
