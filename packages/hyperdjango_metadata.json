@@ -1,11 +1,11 @@
 {
   "name": "hyperdjango",
-  "version": "0.24.0",
-  "summary": "SvelteKit-like file routing and hypermedia runtime for Django",
+  "version": "0.28.0",
+  "summary": "HyperDjango brings high-performance, hypermedia-driven interactivity to your Django templates without the JavaScript fatigue.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyperdjango-0.24.0.tar.gz",
-  "download_time": "2026-04-14T05:55:09.914017",
+  "download_filename": "hyperdjango-0.28.0.tar.gz",
+  "download_time": "2026-05-03T14:37:46.485122",
   "package_url": "https://pypi.org/project/hyperdjango/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tigrbl_engine_postgres",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "PostgreSQL engine plugin for Tigrbl.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tigrbl_engine_postgres-0.1.11.tar.gz",
-  "download_time": "2026-04-25T00:03:43.729052",
+  "download_filename": "tigrbl_engine_postgres-0.1.12.tar.gz",
+  "download_time": "2026-05-03T14:38:20.047226",
   "package_url": "https://pypi.org/project/tigrbl_engine_postgres/"
 }

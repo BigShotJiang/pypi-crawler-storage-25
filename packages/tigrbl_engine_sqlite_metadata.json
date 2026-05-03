@@ -1,11 +1,11 @@
 {
   "name": "tigrbl_engine_sqlite",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "SQLite engine plugin for Tigrbl.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tigrbl_engine_sqlite-0.1.11.tar.gz",
-  "download_time": "2026-04-25T00:03:42.087817",
+  "download_filename": "tigrbl_engine_sqlite-0.1.12.tar.gz",
+  "download_time": "2026-05-03T14:38:09.641270",
   "package_url": "https://pypi.org/project/tigrbl_engine_sqlite/"
 }

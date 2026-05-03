@@ -1,11 +1,11 @@
 {
   "name": "tigrbl-base",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Abstract base interfaces for Tigrbl APIs and runtime components.",
   "author": "Jacob Stewart",
   "license": null,
   "home_page": null,
-  "download_filename": "tigrbl_base-0.1.11.tar.gz",
-  "download_time": "2026-04-25T00:03:57.862535",
+  "download_filename": "tigrbl_base-0.1.12.tar.gz",
+  "download_time": "2026-05-03T14:38:18.492102",
   "package_url": "https://pypi.org/project/tigrbl-base/"
 }

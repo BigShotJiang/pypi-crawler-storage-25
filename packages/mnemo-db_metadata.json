@@ -1,11 +1,11 @@
 {
   "name": "mnemo-db",
-  "version": "0.4.0rc2",
+  "version": "0.4.2",
   "summary": "MCP-native memory database for AI agents",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mnemo_db-0.4.0rc2.tar.gz",
-  "download_time": "2026-04-25T18:12:49.840932",
+  "download_filename": "mnemo_db-0.4.2.tar.gz",
+  "download_time": "2026-05-03T14:38:34.133240",
   "package_url": "https://pypi.org/project/mnemo-db/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "horus-flow-mcp",
-  "version": "1.0.2",
-  "summary": "Institutional-grade crypto & equity orderflow intelligence for AI agents",
+  "version": "1.0.5",
+  "summary": "Real-time orderflow intelligence for crypto & equities — whale detection, spoofing alerts, liquidation heatmaps, smart money divergence, block trades, and AI composite scoring",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "horus_flow_mcp-1.0.2.tar.gz",
-  "download_time": "2026-04-19T17:12:08.891917",
+  "download_filename": "horus_flow_mcp-1.0.5.tar.gz",
+  "download_time": "2026-05-03T14:38:30.968610",
   "package_url": "https://pypi.org/project/horus-flow-mcp/"
 }

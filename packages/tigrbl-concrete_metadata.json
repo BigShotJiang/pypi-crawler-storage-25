@@ -1,11 +1,11 @@
 {
   "name": "tigrbl-concrete",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Concrete implementations of Tigrbl base abstractions.",
   "author": "Jacob Stewart",
   "license": null,
   "home_page": null,
-  "download_filename": "tigrbl_concrete-0.1.11.tar.gz",
-  "download_time": "2026-04-25T00:03:56.776859",
+  "download_filename": "tigrbl_concrete-0.1.12.tar.gz",
+  "download_time": "2026-05-03T14:38:29.411806",
   "package_url": "https://pypi.org/project/tigrbl-concrete/"
 }

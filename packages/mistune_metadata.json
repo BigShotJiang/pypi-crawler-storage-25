@@ -1,0 +1,11 @@
+{
+  "name": "mistune",
+  "version": "3.2.1",
+  "summary": "A sane and fast Markdown parser with useful plugins and renderers",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "mistune-3.2.1.tar.gz",
+  "download_time": "2026-05-03T14:37:56.061067",
+  "package_url": "https://pypi.org/project/mistune/"
+}
