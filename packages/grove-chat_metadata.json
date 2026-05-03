@@ -1,0 +1,11 @@
+{
+  "name": "grove-chat",
+  "version": "0.2.1",
+  "summary": "Branching conversations for local LLMs via Ollama",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grove_chat-0.2.1.tar.gz",
+  "download_time": "2026-05-03T20:15:25.046679",
+  "package_url": "https://pypi.org/project/grove-chat/"
+}

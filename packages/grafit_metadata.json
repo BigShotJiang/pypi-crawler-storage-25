@@ -1,0 +1,11 @@
+{
+  "name": "grafit",
+  "version": "1.10.0",
+  "summary": "Garmin FIT file loader for SQLite + Grafana",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grafit-1.10.0.tar.gz",
+  "download_time": "2026-05-03T20:15:23.340596",
+  "package_url": "https://pypi.org/project/grafit/"
+}

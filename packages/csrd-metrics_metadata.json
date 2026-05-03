@@ -1,11 +1,11 @@
 {
   "name": "csrd-metrics",
-  "version": "0.3.77",
+  "version": "0.3.82",
   "summary": "Metrics extension package for csrd versioning hosts",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd_metrics-0.3.77.tar.gz",
-  "download_time": "2026-05-03T19:28:16.655096",
+  "download_filename": "csrd_metrics-0.3.82.tar.gz",
+  "download_time": "2026-05-03T20:15:29.951116",
   "package_url": "https://pypi.org/project/csrd-metrics/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pulsemeeter",
+  "version": "2.0.1",
+  "summary": "A pulseaudio audio routing application",
+  "author": "Gabriel Carneiro",
+  "license": "MIT",
+  "home_page": "https://github.com/theRealCarneiro/pulsemeeter",
+  "download_filename": "pulsemeeter-2.0.1.tar.gz",
+  "download_time": "2026-05-03T20:15:46.340839",
+  "package_url": "https://pypi.org/project/pulsemeeter/"
+}

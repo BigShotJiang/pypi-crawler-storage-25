@@ -1,0 +1,11 @@
+{
+  "name": "dbt-dvt",
+  "version": "0.1.2",
+  "summary": "dbt Visualisation Tool — visualize your dbt runs on the timeline.",
+  "author": "pif",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_dvt-0.1.2.tar.gz",
+  "download_time": "2026-05-03T20:15:50.319258",
+  "package_url": "https://pypi.org/project/dbt-dvt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nslookup",
+  "version": "1.9.0",
+  "summary": "Sensible high-level DNS lookups in Python, using DNSpython resolver",
+  "author": "wesinator",
+  "license": null,
+  "home_page": "https://github.com/wesinator/pynslookup",
+  "download_filename": "nslookup-1.9.0.tar.gz",
+  "download_time": "2026-05-03T20:15:49.216857",
+  "package_url": "https://pypi.org/project/nslookup/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "emthub",
+  "version": "0.0.7",
+  "summary": "EMTHub: Electromagnetic transient model-building and validation.",
+  "author": "Tom McDermott",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/temcdrm/EMTHub",
+  "download_filename": "emthub-0.0.7.tar.gz",
+  "download_time": "2026-05-03T20:15:25.593906",
+  "package_url": "https://pypi.org/project/emthub/"
+}

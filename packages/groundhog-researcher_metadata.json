@@ -1,11 +1,11 @@
 {
   "name": "groundhog-researcher",
-  "version": "0.2.11",
+  "version": "0.2.17",
   "summary": "LLM-powered iterative function optimization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "groundhog_researcher-0.2.11.tar.gz",
-  "download_time": "2026-04-26T12:04:16.310503",
+  "download_filename": "groundhog_researcher-0.2.17.tar.gz",
+  "download_time": "2026-05-03T20:15:18.085777",
   "package_url": "https://pypi.org/project/groundhog-researcher/"
 }
