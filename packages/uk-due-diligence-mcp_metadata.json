@@ -1,11 +1,11 @@
 {
   "name": "uk-due-diligence-mcp",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "UK due diligence MCP server — Companies House, Charity Commission, HMLR, Gazette, HMRC VAT",
   "author": "Paul Boucher",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "uk_due_diligence_mcp-1.0.6.tar.gz",
-  "download_time": "2026-05-02T10:37:32.166881",
+  "download_filename": "uk_due_diligence_mcp-1.0.7.tar.gz",
+  "download_time": "2026-05-03T15:21:13.101000",
   "package_url": "https://pypi.org/project/uk-due-diligence-mcp/"
 }

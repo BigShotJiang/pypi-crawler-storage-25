@@ -1,11 +1,11 @@
 {
   "name": "gdrive-organizer",
-  "version": "0.1.0b1",
+  "version": "0.1.0b7",
   "summary": "AI-powered Google Drive organizer CLI — scan, classify, review, apply, rollback",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "gdrive_organizer-0.1.0b1.tar.gz",
-  "download_time": "2026-04-11T18:01:31.634168",
+  "download_filename": "gdrive_organizer-0.1.0b7.tar.gz",
+  "download_time": "2026-05-03T15:21:05.278988",
   "package_url": "https://pypi.org/project/gdrive-organizer/"
 }

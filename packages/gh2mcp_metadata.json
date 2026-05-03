@@ -1,11 +1,11 @@
 {
   "name": "gh2mcp",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "GitHub CLI token sync agent for MCP stacks",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "gh2mcp-0.1.3.tar.gz",
-  "download_time": "2026-05-03T13:32:37.550251",
+  "download_filename": "gh2mcp-0.1.4.tar.gz",
+  "download_time": "2026-05-03T15:21:03.696111",
   "package_url": "https://pypi.org/project/gh2mcp/"
 }

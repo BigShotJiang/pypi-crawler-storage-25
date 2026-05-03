@@ -1,11 +1,11 @@
 {
   "name": "arcope",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Integration package bridging ARC crop parameter retrieval with SCOPE radiative transfer simulations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arcope-0.1.5.tar.gz",
-  "download_time": "2026-05-02T13:58:46.290450",
+  "download_filename": "arcope-0.1.6.tar.gz",
+  "download_time": "2026-05-03T15:20:59.507810",
   "package_url": "https://pypi.org/project/arcope/"
 }

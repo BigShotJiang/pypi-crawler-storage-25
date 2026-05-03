@@ -1,11 +1,11 @@
 {
   "name": "glasspipe",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "The flight recorder for AI agents. Trace, visualize, and share your agent runs in 60 seconds.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "glasspipe-0.1.1.tar.gz",
-  "download_time": "2026-04-30T23:19:05.528373",
+  "download_filename": "glasspipe-0.1.6.tar.gz",
+  "download_time": "2026-05-03T15:20:44.622222",
   "package_url": "https://pypi.org/project/glasspipe/"
 }

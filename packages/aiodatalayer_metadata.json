@@ -1,11 +1,11 @@
 {
   "name": "aiodatalayer",
-  "version": "2.2.0",
+  "version": "2.3.1",
   "summary": "ORM async minimalista (ActiveRecord) para MariaDB/MySQL e PostgreSQL — inspirado no DataLayer PHP de Robson V. Leite.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiodatalayer-2.2.0.tar.gz",
-  "download_time": "2026-05-02T18:41:12.867855",
+  "download_filename": "aiodatalayer-2.3.1.tar.gz",
+  "download_time": "2026-05-03T15:20:46.358713",
   "package_url": "https://pypi.org/project/aiodatalayer/"
 }

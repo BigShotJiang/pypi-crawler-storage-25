@@ -1,11 +1,11 @@
 {
   "name": "security-gym",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Gymnasium environments for cybersecurity threat detection with continual learning",
   "author": "Keith Lawson",
   "license": null,
   "home_page": null,
-  "download_filename": "security_gym-0.4.1.tar.gz",
-  "download_time": "2026-05-02T19:52:35.730100",
+  "download_filename": "security_gym-0.4.2.tar.gz",
+  "download_time": "2026-05-03T15:21:02.657415",
   "package_url": "https://pypi.org/project/security-gym/"
 }

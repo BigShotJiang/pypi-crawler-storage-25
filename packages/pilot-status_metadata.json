@@ -1,11 +1,11 @@
 {
   "name": "pilot-status",
-  "version": "0.1.4",
+  "version": "1.0.8",
   "summary": "Official Python SDK for the Pilot Status public API.",
   "author": "Pilot Status",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pilot_status-0.1.4.tar.gz",
-  "download_time": "2026-04-21T23:41:27.596874",
+  "download_filename": "pilot_status-1.0.8.tar.gz",
+  "download_time": "2026-05-03T15:20:54.738599",
   "package_url": "https://pypi.org/project/pilot-status/"
 }

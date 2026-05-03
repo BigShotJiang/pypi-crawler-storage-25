@@ -1,11 +1,11 @@
 {
   "name": "Splatlogger",
-  "version": "1.6.2.post1",
-  "summary": "A CLI PID (Principal ID)/PNID grabber and match logger for Splatoon.",
+  "version": "1.6.3",
+  "summary": "PID (Principal ID)/PNID grabber and match logger for Splatoon",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "splatlogger-1.6.2.post1.tar.gz",
-  "download_time": "2026-04-11T21:36:31.058702",
+  "download_filename": "splatlogger-1.6.3.tar.gz",
+  "download_time": "2026-05-03T15:21:14.144021",
   "package_url": "https://pypi.org/project/Splatlogger/"
 }

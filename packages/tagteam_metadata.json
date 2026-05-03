@@ -1,11 +1,11 @@
 {
   "name": "tagteam",
-  "version": "0.3.0",
+  "version": "0.7.0",
   "summary": "A collaboration framework for structured AI-to-AI handoffs with human oversight",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tagteam-0.3.0.tar.gz",
-  "download_time": "2026-04-19T06:04:26.339729",
+  "download_filename": "tagteam-0.7.0.tar.gz",
+  "download_time": "2026-05-03T15:21:11.016313",
   "package_url": "https://pypi.org/project/tagteam/"
 }

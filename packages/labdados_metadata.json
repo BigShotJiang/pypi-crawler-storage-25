@@ -1,0 +1,11 @@
+{
+  "name": "labdados",
+  "version": "0.7.1",
+  "summary": "SDK Python para os serviços do escritório de apoio do LabDados / FGV Direito SP — OCR, transcrição, estruturação com LLMs e análise de viabilidade. Roda em modo nuvem (com API key) ou local.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "labdados-0.7.1.tar.gz",
+  "download_time": "2026-05-03T15:21:14.665926",
+  "package_url": "https://pypi.org/project/labdados/"
+}
