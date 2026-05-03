@@ -1,11 +1,11 @@
 {
   "name": "agentskeptic",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "summary": "Python-native database-truth verification for CrewAI and LangGraph (AgentSkeptic kernel).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentskeptic-6.0.0.tar.gz",
-  "download_time": "2026-05-03T05:16:14.784807",
+  "download_filename": "agentskeptic-6.0.1.tar.gz",
+  "download_time": "2026-05-03T09:17:55.989197",
   "package_url": "https://pypi.org/project/agentskeptic/"
 }

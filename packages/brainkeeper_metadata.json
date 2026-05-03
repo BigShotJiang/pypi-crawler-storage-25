@@ -1,11 +1,11 @@
 {
   "name": "brainkeeper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Structured Markdown vault standard with a Python vault engine and MCP interface",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "brainkeeper-0.1.0.tar.gz",
-  "download_time": "2026-05-03T05:15:53.790023",
+  "download_filename": "brainkeeper-0.1.1.tar.gz",
+  "download_time": "2026-05-03T09:17:35.032930",
   "package_url": "https://pypi.org/project/brainkeeper/"
 }

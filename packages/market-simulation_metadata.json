@@ -1,11 +1,11 @@
 {
   "name": "market-simulation",
-  "version": "0.9.5",
+  "version": "0.9.7",
   "summary": "AI market research simulation using NVIDIA Nemotron personas and Claude Code Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "market_simulation-0.9.5.tar.gz",
-  "download_time": "2026-05-03T05:16:27.126718",
+  "download_filename": "market_simulation-0.9.7.tar.gz",
+  "download_time": "2026-05-03T09:18:07.975544",
   "package_url": "https://pypi.org/project/market-simulation/"
 }

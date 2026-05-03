@@ -1,11 +1,11 @@
 {
   "name": "oacs",
-  "version": "0.3.2a2",
-  "summary": "Open Agent Context Standard draft reference implementation for governed agent memory and context",
+  "version": "1.0.0",
+  "summary": "Open Agent Context Standard reference implementation for governed agent memory and context",
   "author": "OACS Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "oacs-0.3.2a2.tar.gz",
-  "download_time": "2026-05-03T05:15:55.318863",
+  "download_filename": "oacs-1.0.0.tar.gz",
+  "download_time": "2026-05-03T09:17:36.562563",
   "package_url": "https://pypi.org/project/oacs/"
 }
