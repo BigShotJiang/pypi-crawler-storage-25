@@ -1,11 +1,11 @@
 {
   "name": "silly-kicks",
-  "version": "2.6.0",
+  "version": "3.1.0",
   "summary": "Classify and value on-ball football actions using SPADL and VAEP",
   "author": "Karsten S. Nielsen",
   "license": null,
   "home_page": null,
-  "download_filename": "silly_kicks-2.6.0.tar.gz",
-  "download_time": "2026-04-30T19:59:47.981866",
+  "download_filename": "silly_kicks-3.1.0-py3-none-any.whl",
+  "download_time": "2026-05-03T23:07:01.180435",
   "package_url": "https://pypi.org/project/silly-kicks/"
 }

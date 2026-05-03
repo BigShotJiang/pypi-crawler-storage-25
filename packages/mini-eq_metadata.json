@@ -1,11 +1,11 @@
 {
   "name": "mini-eq",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Compact PipeWire system-wide parametric equalizer for Linux desktops.",
   "author": "bhack",
   "license": null,
   "home_page": null,
-  "download_filename": "mini_eq-0.3.0.tar.gz",
-  "download_time": "2026-05-03T01:31:30.778778",
+  "download_filename": "mini_eq-0.3.1.tar.gz",
+  "download_time": "2026-05-03T23:06:52.549156",
   "package_url": "https://pypi.org/project/mini-eq/"
 }

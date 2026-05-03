@@ -1,0 +1,11 @@
+{
+  "name": "pycombinatorial",
+  "version": "2.2.2",
+  "summary": "A library to solve TSP (Travelling Salesman Problem) using Exact Algorithms, Heuristics, Metaheuristics and Reinforcement Learning",
+  "author": "Valdecy Pereira",
+  "license": "GNU",
+  "home_page": "https://github.com/Valdecy/pyCombinatorial",
+  "download_filename": "pycombinatorial-2.2.2.tar.gz",
+  "download_time": "2026-05-03T23:06:35.059608",
+  "package_url": "https://pypi.org/project/pycombinatorial/"
+}

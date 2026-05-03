@@ -1,0 +1,11 @@
+{
+  "name": "fft-channel-vocoder",
+  "version": "1.0.1",
+  "summary": "FFT-based channel vocoder that applies spectral envelope transfer",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fft_channel_vocoder-1.0.1.tar.gz",
+  "download_time": "2026-05-03T23:06:12.784025",
+  "package_url": "https://pypi.org/project/fft-channel-vocoder/"
+}

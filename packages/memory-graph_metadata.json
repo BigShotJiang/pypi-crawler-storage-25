@@ -1,11 +1,11 @@
 {
   "name": "memory-graph",
-  "version": "0.3.68",
+  "version": "0.3.69",
   "summary": "Teaching tool and debugging aid in context of references, mutable data types, and shallow and deep copy.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "memory_graph-0.3.68.tar.gz",
-  "download_time": "2026-05-03T22:11:19.337657",
+  "download_filename": "memory_graph-0.3.69.tar.gz",
+  "download_time": "2026-05-03T23:06:27.554328",
   "package_url": "https://pypi.org/project/memory-graph/"
 }

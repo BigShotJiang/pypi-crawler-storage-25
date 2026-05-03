@@ -1,11 +1,11 @@
 {
   "name": "biosteam",
-  "version": "2.53.8",
+  "version": "2.53.10",
   "summary": "The Biorefinery Simulation and Techno-Economic Analysis Modules",
   "author": "Yoel Cortes-Pena",
   "license": "MIT",
   "home_page": "https://github.com/BioSTEAMDevelopmentGroup/biosteam",
-  "download_filename": "biosteam-2.53.8.tar.gz",
-  "download_time": "2026-04-24T20:52:39.591888",
+  "download_filename": "biosteam-2.53.10.tar.gz",
+  "download_time": "2026-05-03T23:06:54.296047",
   "package_url": "https://pypi.org/project/biosteam/"
 }

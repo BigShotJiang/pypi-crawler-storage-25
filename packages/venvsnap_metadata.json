@@ -1,0 +1,11 @@
+{
+  "name": "venvsnap",
+  "version": "0.1.0",
+  "summary": "Snapshot your Python venv. Restore it in seconds, anywhere.",
+  "author": "venvsnap contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "venvsnap-0.1.0.tar.gz",
+  "download_time": "2026-05-03T23:06:51.378316",
+  "package_url": "https://pypi.org/project/venvsnap/"
+}

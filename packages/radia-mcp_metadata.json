@@ -1,11 +1,11 @@
 {
   "name": "radia-mcp",
-  "version": "0.36.5",
+  "version": "0.40.0",
   "summary": "MCP servers for the Radia CAE ecosystem. 0.36.0 (2026-05-01): analytical_formulas Group D extensions (Part 6/8/9): plate dissipation, AC thin-shell shielding, conductor impedance, Patterson quadrature, cuboid average B. 0.35.x: analytical_formulas tool (Wakao Part 1-5). 0.34.2: peec_inductance filament_dispatch.",
   "author": "Kengo Sugahara",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "radia_mcp-0.36.5-py3-none-any.whl",
-  "download_time": "2026-05-01T22:19:05.282719",
+  "download_filename": "radia_mcp-0.40.0-py3-none-any.whl",
+  "download_time": "2026-05-03T23:07:03.954464",
   "package_url": "https://pypi.org/project/radia-mcp/"
 }

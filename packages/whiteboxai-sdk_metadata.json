@@ -1,0 +1,11 @@
+{
+  "name": "whiteboxai-sdk",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for WhiteBoxAI - ML Monitoring and Observability",
+  "author": "AgentaFlow",
+  "license": "MIT",
+  "home_page": "https://github.com/AgentaFlow/whitebox-python-sdk",
+  "download_filename": "whiteboxai_sdk-0.1.0.tar.gz",
+  "download_time": "2026-05-03T23:06:26.432031",
+  "package_url": "https://pypi.org/project/whiteboxai-sdk/"
+}

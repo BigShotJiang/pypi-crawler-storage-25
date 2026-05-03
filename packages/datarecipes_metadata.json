@@ -1,11 +1,11 @@
 {
   "name": "datarecipes",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A package for declarative data composition",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datarecipes-0.3.0.tar.gz",
-  "download_time": "2026-05-03T22:10:40.108371",
+  "download_filename": "datarecipes-0.3.1.tar.gz",
+  "download_time": "2026-05-03T23:06:55.417811",
   "package_url": "https://pypi.org/project/datarecipes/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lammps-ast",
-  "version": "0.1.8",
+  "version": "0.1.91",
   "summary": "A LAMMPS script parser and sanitizer using Lark",
   "author": "Juan C. Verduzco, Ethan W. Holbrook",
   "license": null,
   "home_page": "https://github.com/ethanholbrook/LAMMPS-AST",
-  "download_filename": "lammps_ast-0.1.8.tar.gz",
-  "download_time": "2026-04-20T21:14:05.523453",
+  "download_filename": "lammps_ast-0.1.91.tar.gz",
+  "download_time": "2026-05-03T23:06:41.629816",
   "package_url": "https://pypi.org/project/lammps-ast/"
 }

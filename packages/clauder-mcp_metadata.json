@@ -1,0 +1,11 @@
+{
+  "name": "clauder-mcp",
+  "version": "0.5.0",
+  "summary": "MCP server connecting AI assistants to RStudio for interactive R coding and data analysis",
+  "author": "Nykko Vitali",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clauder_mcp-0.5.0.tar.gz",
+  "download_time": "2026-05-03T23:06:50.237974",
+  "package_url": "https://pypi.org/project/clauder-mcp/"
+}

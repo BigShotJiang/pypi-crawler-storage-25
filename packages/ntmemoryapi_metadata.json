@@ -1,0 +1,11 @@
+{
+  "name": "ntmemoryapi",
+  "version": "2.2.1",
+  "summary": "Simple library for Windows to manipulate process virtual memory with stelthy syscall wraps.",
+  "author": "Xenely",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ntmemoryapi-2.2.1.tar.gz",
+  "download_time": "2026-05-03T23:06:18.266129",
+  "package_url": "https://pypi.org/project/ntmemoryapi/"
+}
