@@ -1,0 +1,11 @@
+{
+  "name": "uofa",
+  "version": "0.7.1",
+  "summary": "CLI for creating, validating, and signing Unit of Assurance evidence packages for computational modeling and simulation credibility",
+  "author": "Vishnu Viswanathan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uofa-0.7.1.tar.gz",
+  "download_time": "2026-05-03T05:16:04.565147",
+  "package_url": "https://pypi.org/project/uofa/"
+}

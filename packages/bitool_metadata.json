@@ -1,11 +1,11 @@
 {
   "name": "bitool",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Bitool - Rust + Python 混合架构工具集",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bitool-0.1.6.tar.gz",
-  "download_time": "2026-04-28T00:15:51.819397",
+  "download_filename": "bitool-0.1.8.tar.gz",
+  "download_time": "2026-05-03T05:16:25.070095",
   "package_url": "https://pypi.org/project/bitool/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "z4j-arqcron",
+  "version": "1.4.0",
+  "summary": "z4j scheduler adapter for arq cron jobs (Apache 2.0)",
+  "author": "z4j contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "z4j_arqcron-1.4.0.tar.gz",
+  "download_time": "2026-05-03T05:16:03.520135",
+  "package_url": "https://pypi.org/project/z4j-arqcron/"
+}

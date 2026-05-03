@@ -1,11 +1,11 @@
 {
   "name": "z4j-bare",
-  "version": "1.0.4",
+  "version": "1.4.0",
   "summary": "z4j framework-free agent bootstrapper (Apache 2.0)",
   "author": "z4j contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "z4j_bare-1.0.4.tar.gz",
-  "download_time": "2026-04-24T03:58:47.430633",
+  "download_filename": "z4j_bare-1.4.0.tar.gz",
+  "download_time": "2026-05-03T05:16:13.766532",
   "package_url": "https://pypi.org/project/z4j-bare/"
 }

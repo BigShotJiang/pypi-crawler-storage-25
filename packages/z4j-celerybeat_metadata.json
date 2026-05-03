@@ -1,0 +1,11 @@
+{
+  "name": "z4j-celerybeat",
+  "version": "1.4.0",
+  "summary": "z4j Celery-beat scheduler adapter (Apache 2.0)",
+  "author": "z4j contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "z4j_celerybeat-1.4.0.tar.gz",
+  "download_time": "2026-05-03T05:16:09.187435",
+  "package_url": "https://pypi.org/project/z4j-celerybeat/"
+}

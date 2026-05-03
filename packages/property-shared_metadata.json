@@ -1,11 +1,11 @@
 {
   "name": "property-shared",
-  "version": "1.6.1",
+  "version": "1.7.1",
   "summary": "UK property data MCP server and API — Land Registry comparable sales, Rightmove listings, EPC certificates, rental analysis, and stamp duty.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "property_shared-1.6.1.tar.gz",
-  "download_time": "2026-05-02T10:37:23.437195",
+  "download_filename": "property_shared-1.7.1.tar.gz",
+  "download_time": "2026-05-03T05:15:46.064039",
   "package_url": "https://pypi.org/project/property-shared/"
 }

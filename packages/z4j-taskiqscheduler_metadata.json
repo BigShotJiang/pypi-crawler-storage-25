@@ -1,0 +1,11 @@
+{
+  "name": "z4j-taskiqscheduler",
+  "version": "1.4.0",
+  "summary": "z4j scheduler adapter for taskiq schedule sources (Apache 2.0)",
+  "author": "z4j contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "z4j_taskiqscheduler-1.4.0.tar.gz",
+  "download_time": "2026-05-03T05:16:02.504371",
+  "package_url": "https://pypi.org/project/z4j-taskiqscheduler/"
+}

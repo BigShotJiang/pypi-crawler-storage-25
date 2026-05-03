@@ -1,11 +1,11 @@
 {
   "name": "headlessdomains",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Official Python SDK for HeadlessDomains - The Autonomous Identity Layer",
   "author": "Headless Domains",
   "license": "MIT",
-  "home_page": "https://github.com/shadstoneofficial/headlessdomains-python-sdk",
-  "download_filename": "headlessdomains-0.1.4.tar.gz",
-  "download_time": "2026-04-26T10:19:25.544802",
+  "home_page": "https://headlessdomains.com",
+  "download_filename": "headlessdomains-0.1.6.tar.gz",
+  "download_time": "2026-05-03T05:16:10.714097",
   "package_url": "https://pypi.org/project/headlessdomains/"
 }

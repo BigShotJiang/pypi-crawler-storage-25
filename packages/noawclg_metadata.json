@@ -1,11 +1,11 @@
 {
   "name": "noawclg",
-  "version": "2.2.6",
+  "version": "2.2.7",
   "summary": "Library for getting dataset from noaa site",
   "author": "Reinan Br",
   "license": "GPLv3",
   "home_page": "https://github.com/reinanbr/noawclg",
-  "download_filename": "noawclg-2.2.6.tar.gz",
-  "download_time": "2026-04-19T07:33:50.200082",
+  "download_filename": "noawclg-2.2.7.tar.gz",
+  "download_time": "2026-05-03T05:16:24.047844",
   "package_url": "https://pypi.org/project/noawclg/"
 }

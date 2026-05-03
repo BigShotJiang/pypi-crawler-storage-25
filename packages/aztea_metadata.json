@@ -1,11 +1,11 @@
 {
   "name": "aztea",
-  "version": "1.1.2",
+  "version": "1.4.0",
   "summary": "Python SDK for the Aztea AI agent marketplace",
   "author": "Anay Garodia",
   "license": "MIT",
   "home_page": "https://github.com/AnayGarodia/aztea",
-  "download_filename": "aztea-1.1.2.tar.gz",
-  "download_time": "2026-04-27T22:21:53.938562",
+  "download_filename": "aztea-1.4.0.tar.gz",
+  "download_time": "2026-05-03T05:16:17.338172",
   "package_url": "https://pypi.org/project/aztea/"
 }

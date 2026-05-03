@@ -1,0 +1,11 @@
+{
+  "name": "hallscope",
+  "version": "0.1.0",
+  "summary": "Hallucination interpretability library for transformer language models",
+  "author": "Nikhil Upadhyay",
+  "license": null,
+  "home_page": "https://github.com/TrazeMaG/hallucination-fingerprints-v2",
+  "download_filename": "hallscope-0.1.0.tar.gz",
+  "download_time": "2026-05-03T05:15:45.537219",
+  "package_url": "https://pypi.org/project/hallscope/"
+}

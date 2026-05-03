@@ -1,11 +1,11 @@
 {
   "name": "evidentia-api",
-  "version": "0.7.4",
+  "version": "0.7.8",
   "summary": "FastAPI REST server + bundled React web UI for Evidentia",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evidentia_api-0.7.4.tar.gz",
-  "download_time": "2026-04-30T05:03:22.388324",
+  "download_filename": "evidentia_api-0.7.8.tar.gz",
+  "download_time": "2026-05-03T05:16:31.232953",
   "package_url": "https://pypi.org/project/evidentia-api/"
 }

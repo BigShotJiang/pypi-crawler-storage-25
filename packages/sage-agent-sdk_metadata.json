@@ -1,11 +1,11 @@
 {
   "name": "sage-agent-sdk",
-  "version": "6.6.7",
+  "version": "6.8.4",
   "summary": "Python SDK for SAGE — Sovereign Agent Governed Experience. Persistent, consensus-validated memory for AI agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sage_agent_sdk-6.6.7.tar.gz",
-  "download_time": "2026-04-27T03:00:50.120308",
+  "download_filename": "sage_agent_sdk-6.8.4.tar.gz",
+  "download_time": "2026-05-03T05:15:58.374908",
   "package_url": "https://pypi.org/project/sage-agent-sdk/"
 }
