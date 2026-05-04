@@ -1,11 +1,11 @@
 {
   "name": "panta-sim",
-  "version": "0.4.1",
+  "version": "0.5.19",
   "summary": "Full Rust core quantum circuit simulator with Python bindings",
   "author": "quantumfia",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "panta_sim-0.4.1.tar.gz",
-  "download_time": "2026-05-02T15:43:58.335213",
+  "download_filename": "panta_sim-0.5.19.tar.gz",
+  "download_time": "2026-05-04T10:48:27.336059",
   "package_url": "https://pypi.org/project/panta-sim/"
 }

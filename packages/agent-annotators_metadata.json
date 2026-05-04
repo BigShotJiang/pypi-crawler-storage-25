@@ -1,0 +1,11 @@
+{
+  "name": "agent-annotators",
+  "version": "0.1.6",
+  "summary": "Reusable annotators library for agent and tool execution traces",
+  "author": "Liana S",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_annotators-0.1.6.tar.gz",
+  "download_time": "2026-05-04T10:47:49.145364",
+  "package_url": "https://pypi.org/project/agent-annotators/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "convo-recall",
+  "version": "0.4.0",
+  "summary": "Searchable memory for AI coding-agent sessions (Claude/Gemini/Codex) — FTS5 + vector hybrid search",
+  "author": "Ahed Isir",
+  "license": null,
+  "home_page": null,
+  "download_filename": "convo_recall-0.4.0.tar.gz",
+  "download_time": "2026-05-04T10:48:25.798269",
+  "package_url": "https://pypi.org/project/convo-recall/"
+}

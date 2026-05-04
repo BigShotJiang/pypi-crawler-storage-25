@@ -1,11 +1,11 @@
 {
   "name": "SecantusDB",
-  "version": "0.1.0",
-  "summary": "A surrogate single-node MongoDB server in Python for testing pymongo applications without running a real mongod.",
+  "version": "0.3.0a4",
+  "summary": "A drop-in single-node MongoDB server in Python using the WiredTiger storage engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "secantusdb-0.1.0.tar.gz",
-  "download_time": "2026-05-03T22:11:05.364356",
+  "download_filename": "secantusdb-0.3.0a4.tar.gz",
+  "download_time": "2026-05-04T10:48:09.414663",
   "package_url": "https://pypi.org/project/SecantusDB/"
 }

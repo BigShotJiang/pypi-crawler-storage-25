@@ -1,0 +1,11 @@
+{
+  "name": "www-search-mcp",
+  "version": "1.0.3",
+  "summary": "MCP server providing web search (DuckDuckGo), HTTP fetch, browser fetch (Playwright), and file download.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "www_search_mcp-1.0.3.tar.gz",
+  "download_time": "2026-05-04T10:48:08.883454",
+  "package_url": "https://pypi.org/project/www-search-mcp/"
+}

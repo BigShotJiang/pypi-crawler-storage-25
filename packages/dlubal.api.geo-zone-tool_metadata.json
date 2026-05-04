@@ -1,11 +1,11 @@
 {
   "name": "dlubal.api.geo-zone-tool",
-  "version": "0.0.9",
+  "version": "0.1.3",
   "summary": "Geo Zone Tool GraphQL client.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dlubal_api_geo_zone_tool-0.0.9.tar.gz",
-  "download_time": "2026-04-13T11:48:32.071758",
+  "download_filename": "dlubal_api_geo_zone_tool-0.1.3.tar.gz",
+  "download_time": "2026-05-04T10:48:17.601313",
   "package_url": "https://pypi.org/project/dlubal.api.geo-zone-tool/"
 }

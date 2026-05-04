@@ -1,11 +1,11 @@
 {
   "name": "jsrc",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Python library for bioinformatics and scientific computing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jsrc-0.1.8.tar.gz",
-  "download_time": "2026-05-02T14:53:43.714703",
+  "download_filename": "jsrc-0.1.9.tar.gz",
+  "download_time": "2026-05-04T10:48:04.765578",
   "package_url": "https://pypi.org/project/jsrc/"
 }

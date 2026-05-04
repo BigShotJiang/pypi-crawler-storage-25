@@ -1,11 +1,11 @@
 {
   "name": "realtimex-sdk",
-  "version": "1.5.0",
+  "version": "1.7.6",
   "summary": "Python SDK for building Local Apps that integrate with RealtimeX",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "realtimex_sdk-1.5.0.tar.gz",
-  "download_time": "2026-03-31T08:09:24.008349",
+  "download_filename": "realtimex_sdk-1.7.6.tar.gz",
+  "download_time": "2026-05-04T10:48:26.311540",
   "package_url": "https://pypi.org/project/realtimex-sdk/"
 }

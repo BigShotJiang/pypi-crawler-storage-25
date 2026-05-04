@@ -1,0 +1,11 @@
+{
+  "name": "rstcheck-core",
+  "version": "1.3.0",
+  "summary": "Checks syntax of reStructuredText and code blocks nested within it",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rstcheck_core-1.3.0.tar.gz",
+  "download_time": "2026-05-04T10:47:48.065902",
+  "package_url": "https://pypi.org/project/rstcheck-core/"
+}

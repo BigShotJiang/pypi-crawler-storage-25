@@ -1,11 +1,11 @@
 {
   "name": "multicz",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Multi-component versioning for monorepos: bump apps, charts, and images independently from conventional commits.",
   "author": "Chris",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "multicz-0.4.0.tar.gz",
-  "download_time": "2026-05-02T10:37:25.480824",
+  "download_filename": "multicz-0.5.0.tar.gz",
+  "download_time": "2026-05-04T10:47:50.217653",
   "package_url": "https://pypi.org/project/multicz/"
 }

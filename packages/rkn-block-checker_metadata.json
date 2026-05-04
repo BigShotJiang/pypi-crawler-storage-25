@@ -1,0 +1,11 @@
+{
+  "name": "rkn-block-checker",
+  "version": "0.2.0",
+  "summary": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP).",
+  "author": "Dmitry Vinogradov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rkn_block_checker-0.2.0.tar.gz",
+  "download_time": "2026-05-04T10:48:04.255357",
+  "package_url": "https://pypi.org/project/rkn-block-checker/"
+}

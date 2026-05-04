@@ -1,0 +1,11 @@
+{
+  "name": "django-nets-core",
+  "version": "0.2.26",
+  "summary": "Production-oriented toolkit for Django REST APIs: request validation, OTP auth, OAuth2, roles/permissions, email, push notifications and social login.",
+  "author": "Norman Torres",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/esbozos/django-nets-core",
+  "download_filename": "django_nets_core-0.2.26.tar.gz",
+  "download_time": "2026-05-04T10:48:14.017921",
+  "package_url": "https://pypi.org/project/django-nets-core/"
+}
