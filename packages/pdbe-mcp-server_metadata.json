@@ -1,11 +1,11 @@
 {
   "name": "pdbe-mcp-server",
-  "version": "1.0.6",
+  "version": "1.1.1",
   "summary": "A Model Context Protocol (MCP) server for accessing PDBe (Protein Data Bank in Europe) structural biology data and services",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pdbe_mcp_server-1.0.6.tar.gz",
-  "download_time": "2026-04-18T10:12:40.364900",
+  "download_filename": "pdbe_mcp_server-1.1.1.tar.gz",
+  "download_time": "2026-05-04T12:23:18.580406",
   "package_url": "https://pypi.org/project/pdbe-mcp-server/"
 }

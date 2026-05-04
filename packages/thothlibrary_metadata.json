@@ -1,0 +1,11 @@
+{
+  "name": "thothlibrary",
+  "version": "1.1.1",
+  "summary": "Python client for Thoth's APIs",
+  "author": "Javier Arias, Martin Paul Eve",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/thoth-pub/thoth-client",
+  "download_filename": "thothlibrary-1.1.1.tar.gz",
+  "download_time": "2026-05-04T12:23:48.274126",
+  "package_url": "https://pypi.org/project/thothlibrary/"
+}

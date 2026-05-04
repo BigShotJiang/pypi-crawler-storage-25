@@ -1,0 +1,11 @@
+{
+  "name": "piratical",
+  "version": "0.2.0",
+  "summary": "Plunder spectra from the JWST NIRSpec archive",
+  "author": "Adam Carnall, Ho-Hin Leung",
+  "license": null,
+  "home_page": "https://bagpipes.readthedocs.io",
+  "download_filename": "piratical-0.2.0.tar.gz",
+  "download_time": "2026-05-04T12:23:45.671917",
+  "package_url": "https://pypi.org/project/piratical/"
+}

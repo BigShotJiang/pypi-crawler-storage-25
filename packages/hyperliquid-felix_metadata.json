@@ -1,0 +1,11 @@
+{
+  "name": "hyperliquid-felix",
+  "version": "0.23.1",
+  "summary": "SDK for Hyperliquid API trading with Python.",
+  "author": "Hyperliquid",
+  "license": "MIT",
+  "home_page": "https://github.com/hyperliquid-dex/hyperliquid-python-sdk",
+  "download_filename": "hyperliquid_felix-0.23.1.tar.gz",
+  "download_time": "2026-05-04T12:23:34.326724",
+  "package_url": "https://pypi.org/project/hyperliquid-felix/"
+}

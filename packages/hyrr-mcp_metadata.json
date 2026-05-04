@@ -1,0 +1,11 @@
+{
+  "name": "hyrr-mcp",
+  "version": "0.1.0",
+  "summary": "HYRR MCP server — stdio JSON-RPC for radio-isotope production queries",
+  "author": "MorePET",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hyrr_mcp-0.1.0.tar.gz",
+  "download_time": "2026-05-04T12:23:33.287855",
+  "package_url": "https://pypi.org/project/hyrr-mcp/"
+}

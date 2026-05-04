@@ -1,0 +1,11 @@
+{
+  "name": "hankpdf",
+  "version": "0.3.0",
+  "summary": "Aggressive, safety-first PDF compressor for scanned documents. CLI tool: PDF in, compressed searchable PDF out.",
+  "author": "Jack Neil",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hankpdf-0.3.0.tar.gz",
+  "download_time": "2026-05-04T12:23:48.796021",
+  "package_url": "https://pypi.org/project/hankpdf/"
+}

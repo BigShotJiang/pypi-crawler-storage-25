@@ -1,0 +1,11 @@
+{
+  "name": "falkordb-haystack",
+  "version": "1.0.0",
+  "summary": "FalkorDB graph database integration for Haystack — enables GraphRAG with OpenCypher",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "falkordb_haystack-1.0.0.tar.gz",
+  "download_time": "2026-05-04T12:23:19.102085",
+  "package_url": "https://pypi.org/project/falkordb-haystack/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bollhav",
-  "version": "2.0.112",
+  "version": "2.0.127",
   "summary": "Standardizing models and pipes for data pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bollhav-2.0.112.tar.gz",
-  "download_time": "2026-04-17T09:00:54.177890",
+  "download_filename": "bollhav-2.0.127.tar.gz",
+  "download_time": "2026-05-04T12:23:20.145002",
   "package_url": "https://pypi.org/project/bollhav/"
 }

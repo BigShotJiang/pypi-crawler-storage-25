@@ -1,0 +1,11 @@
+{
+  "name": "thumbleweed",
+  "version": "0.1.2",
+  "summary": "Fast ThumbHash encode/decode – Rust-powered Python bindings",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/New-Elysium/thumbleweed",
+  "download_filename": "thumbleweed-0.1.2.tar.gz",
+  "download_time": "2026-05-04T12:23:28.540569",
+  "package_url": "https://pypi.org/project/thumbleweed/"
+}

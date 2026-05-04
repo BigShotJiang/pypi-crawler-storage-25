@@ -1,11 +1,11 @@
 {
   "name": "ngcolombia",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Módulo para consultar composición química y algunas propiedades del gas natural en la red colombiana.",
   "author": null,
   "license": "Copyright (c) 2026 Ricardo Esteban Najera Giraldo\n        \n        Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el \"Software\"), para utilizar el Software sin restricción, incluyendo, sin limitación, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicenciamiento y/o venta de copias del Software, y para permitir a las personas a las que se les proporcione el Software que lo hagan, sujeto a las siguientes condiciones:\n        \n        El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.\n        \n        EL SOFTWARE SE PROPORCIONA \"TAL CUAL\", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, PERO NO LIMITADO A, GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, QUE SURJA DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.",
   "home_page": null,
-  "download_filename": "ngcolombia-0.2.0.tar.gz",
-  "download_time": "2026-04-03T23:51:16.306899",
+  "download_filename": "ngcolombia-0.2.2.tar.gz",
+  "download_time": "2026-05-04T12:23:23.320051",
   "package_url": "https://pypi.org/project/ngcolombia/"
 }
