@@ -1,11 +1,11 @@
 {
   "name": "baw",
-  "version": "1.77.0",
+  "version": "1.78.0",
   "summary": "A simple console-application to manage project complexity.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "baw-1.77.0.tar.gz",
-  "download_time": "2026-04-11T21:36:11.241801",
+  "download_filename": "baw-1.78.0.tar.gz",
+  "download_time": "2026-05-04T22:25:33.609864",
   "package_url": "https://pypi.org/project/baw/"
 }

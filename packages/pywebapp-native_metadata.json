@@ -1,11 +1,11 @@
 {
   "name": "pywebapp-native",
-  "version": "2.1.1",
+  "version": "2.2.2",
   "summary": "A high-performance, scalable cross-platform framework using Python and React.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pywebapp_native-2.1.1.tar.gz",
-  "download_time": "2026-05-04T18:18:01.238524",
+  "download_filename": "pywebapp_native-2.2.2.tar.gz",
+  "download_time": "2026-05-04T22:25:42.915190",
   "package_url": "https://pypi.org/project/pywebapp-native/"
 }

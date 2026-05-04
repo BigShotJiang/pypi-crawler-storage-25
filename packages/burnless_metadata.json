@@ -1,11 +1,11 @@
 {
   "name": "burnless",
-  "version": "0.5.6",
-  "summary": "Stop burning tokens on repeated context.",
+  "version": "0.6.1",
+  "summary": "Intent-compressed orchestration for multi-turn LLM loops.",
   "author": "Roberto Monticelli Wydra",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "burnless-0.5.6.tar.gz",
-  "download_time": "2026-05-04T18:17:51.739393",
+  "download_filename": "burnless-0.6.1.tar.gz",
+  "download_time": "2026-05-04T22:25:20.796253",
   "package_url": "https://pypi.org/project/burnless/"
 }

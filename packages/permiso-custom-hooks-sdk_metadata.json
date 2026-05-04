@@ -1,0 +1,11 @@
+{
+  "name": "permiso-custom-hooks-sdk",
+  "version": "0.1.2",
+  "summary": "SDK for Permiso Custom Hooks API — send hook events with automatic run handling",
+  "author": "devel-permiso-io",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "permiso_custom_hooks_sdk-0.1.2.tar.gz",
+  "download_time": "2026-05-04T22:25:41.747816",
+  "package_url": "https://pypi.org/project/permiso-custom-hooks-sdk/"
+}

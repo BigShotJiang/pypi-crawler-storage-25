@@ -1,11 +1,11 @@
 {
   "name": "aqorg",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Estimate thermodynamic properties of aqueous organic compounds",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aqorg-1.1.1.tar.gz",
-  "download_time": "2026-04-11T03:01:10.654472",
+  "download_filename": "aqorg-1.1.2.tar.gz",
+  "download_time": "2026-05-04T22:25:46.714908",
   "package_url": "https://pypi.org/project/aqorg/"
 }

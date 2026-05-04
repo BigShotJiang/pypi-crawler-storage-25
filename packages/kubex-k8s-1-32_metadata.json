@@ -1,0 +1,11 @@
+{
+  "name": "kubex-k8s-1-32",
+  "version": "0.1.0b1",
+  "summary": "Pydantic v2 Kubernetes 1.32 resource models for Kubex",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "kubex_k8s_1_32-0.1.0b1.tar.gz",
+  "download_time": "2026-05-04T22:25:13.488784",
+  "package_url": "https://pypi.org/project/kubex-k8s-1-32/"
+}

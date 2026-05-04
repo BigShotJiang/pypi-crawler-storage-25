@@ -1,11 +1,11 @@
 {
   "name": "ai-parrot-pipelines",
-  "version": "0.1.29",
+  "version": "0.1.37",
   "summary": "Pipelines for AI-Parrot planogram and vision workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_parrot_pipelines-0.1.29.tar.gz",
-  "download_time": "2026-04-21T23:41:05.003776",
+  "download_filename": "ai_parrot_pipelines-0.1.37.tar.gz",
+  "download_time": "2026-05-04T22:24:59.627558",
   "package_url": "https://pypi.org/project/ai-parrot-pipelines/"
 }

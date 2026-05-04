@@ -1,11 +1,11 @@
 {
   "name": "anvl-monitor",
-  "version": "0.3.3",
+  "version": "0.3.9",
   "summary": "Session monitor and handoff tool for Claude Code",
   "author": "IronDevz, Juan Luis Montes",
   "license": null,
   "home_page": null,
-  "download_filename": "anvl_monitor-0.3.3.tar.gz",
-  "download_time": "2026-04-21T16:49:02.040912",
+  "download_filename": "anvl_monitor-0.3.9.tar.gz",
+  "download_time": "2026-05-04T22:25:21.965219",
   "package_url": "https://pypi.org/project/anvl-monitor/"
 }

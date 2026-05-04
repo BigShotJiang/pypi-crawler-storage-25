@@ -1,11 +1,11 @@
 {
   "name": "nv-local-gpu-verifier",
-  "version": "2.7.2",
+  "version": "2.7.3",
   "summary": "A Python-based tool that validates GPU measurements by comparing GPU runtime measurements with authenticated golden measurements",
   "author": "NVIDIA",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "nv_local_gpu_verifier-2.7.2-py3-none-any.whl",
-  "download_time": "2026-05-01T00:18:33.116428",
+  "download_filename": "nv_local_gpu_verifier-2.7.3-py3-none-any.whl",
+  "download_time": "2026-05-04T22:25:57.856650",
   "package_url": "https://pypi.org/project/nv-local-gpu-verifier/"
 }

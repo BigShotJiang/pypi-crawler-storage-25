@@ -1,0 +1,11 @@
+{
+  "name": "docpipeline",
+  "version": "0.4.0",
+  "summary": "Pipeline modulaire de traitement documentaire IA — 4 briques (Parsing, Retrieval, Question, Génération) × N formats.",
+  "author": "Faseya — docpipeline contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docpipeline-0.4.0.tar.gz",
+  "download_time": "2026-05-04T22:25:07.638106",
+  "package_url": "https://pypi.org/project/docpipeline/"
+}
