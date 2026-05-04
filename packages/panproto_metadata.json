@@ -1,11 +1,11 @@
 {
   "name": "panproto",
-  "version": "0.43.1",
+  "version": "0.43.3",
   "summary": "Automatic schema migration and version control for 51 schema languages and 248 programming languages",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "panproto-0.43.1-cp313-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2026-05-04T16:33:32.573982",
+  "download_filename": "panproto-0.43.3-cp313-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-04T20:06:12.372962",
   "package_url": "https://pypi.org/project/panproto/"
 }

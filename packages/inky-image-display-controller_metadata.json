@@ -1,11 +1,11 @@
 {
   "name": "inky-image-display-controller",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "summary": "Device-side controller for Inky e-ink picture displays.",
   "author": "stkr22",
   "license": null,
   "home_page": null,
-  "download_filename": "inky_image_display_controller-1.0.2.tar.gz",
-  "download_time": "2026-04-26T12:04:04.082948",
+  "download_filename": "inky_image_display_controller-2.0.0.tar.gz",
+  "download_time": "2026-05-04T20:05:22.664609",
   "package_url": "https://pypi.org/project/inky-image-display-controller/"
 }

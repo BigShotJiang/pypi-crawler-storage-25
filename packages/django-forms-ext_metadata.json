@@ -1,0 +1,11 @@
+{
+  "name": "django-forms-ext",
+  "version": "1.2.2",
+  "summary": "Extensions for Django's Forms.",
+  "author": "IMT Software Services",
+  "license": null,
+  "home_page": "http://github.com/imtapps/django-forms-ext",
+  "download_filename": "django_forms_ext-1.2.2.tar.gz",
+  "download_time": "2026-05-04T20:05:50.093493",
+  "package_url": "https://pypi.org/project/django-forms-ext/"
+}

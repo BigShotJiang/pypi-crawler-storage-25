@@ -1,11 +1,11 @@
 {
   "name": "SCOPE-RTM",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "summary": "PyTorch reimplementation of the SCOPE radiative transfer model.",
   "author": "Marc Yin",
   "license": null,
   "home_page": null,
-  "download_filename": "scope_rtm-0.4.2.tar.gz",
-  "download_time": "2026-05-02T10:37:18.813580",
+  "download_filename": "scope_rtm-0.4.4.tar.gz",
+  "download_time": "2026-05-04T20:06:10.918755",
   "package_url": "https://pypi.org/project/SCOPE-RTM/"
 }

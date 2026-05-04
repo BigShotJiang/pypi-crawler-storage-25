@@ -1,0 +1,11 @@
+{
+  "name": "auraprotector-agent",
+  "version": "0.4.0",
+  "summary": "AuraProtector in-process agent for Python ASGI runtimes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "auraprotector_agent-0.4.0.tar.gz",
+  "download_time": "2026-05-04T20:06:06.078348",
+  "package_url": "https://pypi.org/project/auraprotector-agent/"
+}

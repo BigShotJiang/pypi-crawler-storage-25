@@ -1,11 +1,11 @@
 {
   "name": "csrd-versioning",
-  "version": "0.3.82",
+  "version": "0.3.85",
   "summary": "API versioning, dispatch, docs, and actuator for FastAPI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd_versioning-0.3.82.tar.gz",
-  "download_time": "2026-05-03T20:15:26.137307",
+  "download_filename": "csrd_versioning-0.3.85.tar.gz",
+  "download_time": "2026-05-04T20:05:35.519554",
   "package_url": "https://pypi.org/project/csrd-versioning/"
 }

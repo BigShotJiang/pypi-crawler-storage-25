@@ -1,11 +1,11 @@
 {
   "name": "spych",
-  "version": "3.6.0",
+  "version": "4.1.0",
   "summary": "Communicate with your favorite AI model by talking to it.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spych-3.6.0.tar.gz",
-  "download_time": "2026-04-22T20:18:31.889894",
+  "download_filename": "spych-4.1.0.tar.gz",
+  "download_time": "2026-05-04T20:06:08.950716",
   "package_url": "https://pypi.org/project/spych/"
 }

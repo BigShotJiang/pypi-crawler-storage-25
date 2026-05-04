@@ -1,11 +1,11 @@
 {
   "name": "regscale-cli",
-  "version": "6.34.1.0",
+  "version": "6.34.28.0",
   "summary": "Command Line Interface (CLI) for bulk processing/loading data into RegScale",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "regscale_cli-6.34.1.0-py3-none-any.whl",
-  "download_time": "2026-04-08T14:06:22.981566",
+  "download_filename": "regscale_cli-6.34.28.0-py3-none-any.whl",
+  "download_time": "2026-05-04T20:06:09.673871",
   "package_url": "https://pypi.org/project/regscale-cli/"
 }
