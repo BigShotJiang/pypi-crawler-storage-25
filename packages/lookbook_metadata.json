@@ -1,0 +1,11 @@
+{
+  "name": "lookbook",
+  "version": "0.0.4",
+  "summary": "Distill raw image pools into optimized, high-diversity reference sets for character model training.",
+  "author": "Thor Whalen",
+  "license": "mit",
+  "home_page": null,
+  "download_filename": "lookbook-0.0.4.tar.gz",
+  "download_time": "2026-05-04T16:33:24.754829",
+  "package_url": "https://pypi.org/project/lookbook/"
+}

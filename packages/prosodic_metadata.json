@@ -1,11 +1,11 @@
 {
   "name": "prosodic",
-  "version": "3.2.1",
+  "version": "3.3.0",
   "summary": "Prosodic 2: a metrical-phonological parser, written in Python. For English and Finnish, with flexible language support.",
   "author": null,
   "license": "Apache License, Version 2.0",
   "home_page": null,
-  "download_filename": "prosodic-3.2.1.tar.gz",
-  "download_time": "2026-04-18T15:04:43.305874",
+  "download_filename": "prosodic-3.3.0.tar.gz",
+  "download_time": "2026-05-04T16:33:16.322144",
   "package_url": "https://pypi.org/project/prosodic/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cognition-engine",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Aggregate distribution package for the Cognition Engine v0.5.0 multi-package baseline.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cognition_engine-0.5.2.tar.gz",
-  "download_time": "2026-05-03T18:20:42.719475",
+  "download_filename": "cognition_engine-0.5.3.tar.gz",
+  "download_time": "2026-05-04T16:33:38.808544",
   "package_url": "https://pypi.org/project/cognition-engine/"
 }

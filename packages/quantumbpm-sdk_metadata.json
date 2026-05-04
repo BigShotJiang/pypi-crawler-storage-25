@@ -1,0 +1,11 @@
+{
+  "name": "quantumbpm-sdk",
+  "version": "1.0.0",
+  "summary": "QuantumBPM Python SDK — DMN evaluation, BPMN orchestration, and external job workers.",
+  "author": "QuantumBPM",
+  "license": null,
+  "home_page": "https://quantumbpm.com",
+  "download_filename": "quantumbpm_sdk-1.0.0.tar.gz",
+  "download_time": "2026-05-04T16:33:02.842118",
+  "package_url": "https://pypi.org/project/quantumbpm-sdk/"
+}

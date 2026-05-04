@@ -1,0 +1,11 @@
+{
+  "name": "bethkit",
+  "version": "1.0.0",
+  "summary": "Python bindings for bethkit — a Bethesda plugin and archive toolkit",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bethkit-1.0.0-py3-none-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-05-04T16:33:20.575439",
+  "package_url": "https://pypi.org/project/bethkit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agentfiles",
-  "version": "0.3.1",
-  "summary": "Load AI tool configurations (agents, skills, commands, plugins) across platforms",
+  "version": "0.5.4",
+  "summary": "Sync AI tool configurations (agents, skills, commands, plugins) for OpenCode",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentfiles-0.3.1.tar.gz",
-  "download_time": "2026-04-13T18:50:50.162608",
+  "download_filename": "agentfiles-0.5.4.tar.gz",
+  "download_time": "2026-05-04T16:33:13.752935",
   "package_url": "https://pypi.org/project/agentfiles/"
 }

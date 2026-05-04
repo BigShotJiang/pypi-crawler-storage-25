@@ -1,0 +1,11 @@
+{
+  "name": "qiskit-qrack-provider",
+  "version": "1.0.0",
+  "summary": "Qiskit Qrack Provider - Qrack High-Performance GPU simulation for Qiskit",
+  "author": "Daniel Strano",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/vm6502q/qiskit-qrack-provider",
+  "download_filename": "qiskit_qrack_provider-1.0.0.tar.gz",
+  "download_time": "2026-05-04T16:33:13.241558",
+  "package_url": "https://pypi.org/project/qiskit-qrack-provider/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "liel",
-  "version": "0.5.2",
+  "version": "0.6.0",
   "summary": "Single-file graph memory for local AI, agents, and Python applications",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/hy-token/liel",
-  "download_filename": "liel-0.5.2.tar.gz",
-  "download_time": "2026-05-03T16:11:15.405625",
+  "download_filename": "liel-0.6.0.tar.gz",
+  "download_time": "2026-05-04T16:32:59.700097",
   "package_url": "https://pypi.org/project/liel/"
 }

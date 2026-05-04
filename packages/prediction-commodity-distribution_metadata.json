@@ -1,0 +1,11 @@
+{
+  "name": "prediction-commodity-distribution",
+  "version": "0.1.1",
+  "summary": "Pure-numpy CDF math for prediction-market touch curves: PAV isotonic + Fritsch-Butland Hermite cubic + percentile inversion",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "prediction_commodity_distribution-0.1.1.tar.gz",
+  "download_time": "2026-05-04T16:32:54.532968",
+  "package_url": "https://pypi.org/project/prediction-commodity-distribution/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "synadia-ai-agent-service",
+  "version": "0.3.0",
+  "summary": "Python agent-host SDK for the NATS Agent Protocol — register and serve spec-compliant agents over NATS",
+  "author": "Synadia",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "synadia_ai_agent_service-0.3.0.tar.gz",
+  "download_time": "2026-05-04T16:33:14.774595",
+  "package_url": "https://pypi.org/project/synadia-ai-agent-service/"
+}

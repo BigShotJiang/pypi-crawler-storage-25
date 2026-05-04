@@ -1,11 +1,11 @@
 {
   "name": "ceramic_ai",
-  "version": "1.2.0",
+  "version": "2.1.0",
   "summary": "The official Python library for the ceramic API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ceramic_ai-1.2.0.tar.gz",
-  "download_time": "2026-03-30T22:42:53.884197",
+  "download_filename": "ceramic_ai-2.1.0.tar.gz",
+  "download_time": "2026-05-04T16:32:56.066329",
   "package_url": "https://pypi.org/project/ceramic_ai/"
 }
