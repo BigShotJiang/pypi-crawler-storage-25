@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-project-task-tag",
+  "version": "19.0.1.0.0.2",
+  "summary": "Limit tags available on task",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/project",
+  "download_filename": "odoo_addon_project_task_tag-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-05-04T08:38:28.908236",
+  "package_url": "https://pypi.org/project/odoo-addon-project-task-tag/"
+}

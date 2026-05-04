@@ -1,11 +1,11 @@
 {
   "name": "signal-mcp",
-  "version": "1.18.0",
+  "version": "1.26.0",
   "summary": "Complete Signal MCP server and CLI via signal-cli",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "signal_mcp-1.18.0.tar.gz",
-  "download_time": "2026-05-04T06:01:52.675598",
+  "download_filename": "signal_mcp-1.26.0.tar.gz",
+  "download_time": "2026-05-04T08:38:36.638425",
   "package_url": "https://pypi.org/project/signal-mcp/"
 }

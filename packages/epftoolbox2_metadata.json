@@ -1,11 +1,11 @@
 {
   "name": "epftoolbox2",
-  "version": "2.1.0",
+  "version": "2.2.1",
   "summary": "Energy Price Forecasting Toolbox 2",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "epftoolbox2-2.1.0.tar.gz",
-  "download_time": "2026-04-04T16:00:10.636730",
+  "download_filename": "epftoolbox2-2.2.1.tar.gz",
+  "download_time": "2026-05-04T08:38:05.280649",
   "package_url": "https://pypi.org/project/epftoolbox2/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ocldev",
+  "version": "0.2.3",
+  "summary": "Python development library for working with OCL resources and APIs",
+  "author": "Open Concept Lab",
+  "license": "MPL2.0",
+  "home_page": "http://github.com/OpenConceptLab/ocldev",
+  "download_filename": "ocldev-0.2.3.tar.gz",
+  "download_time": "2026-05-04T08:38:08.097576",
+  "package_url": "https://pypi.org/project/ocldev/"
+}

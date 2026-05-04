@@ -1,0 +1,11 @@
+{
+  "name": "lazy-mysql",
+  "version": "0.5.0",
+  "summary": "A lazy MySQL client for Python that simplifies database operations with intuitive methods for CRUD operations, automatic connection management, and result formatting. Features include easy-to-use SELECT, INSERT, UPDATE, DELETE operations with pandas DataFrame support, where clause builders, and table export capabilities.",
+  "author": "tinycen",
+  "license": null,
+  "home_page": "https://github.com/tinycen/lazy_mysql",
+  "download_filename": "lazy_mysql-0.5.0.tar.gz",
+  "download_time": "2026-05-04T08:38:04.158587",
+  "package_url": "https://pypi.org/project/lazy-mysql/"
+}

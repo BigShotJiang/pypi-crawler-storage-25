@@ -1,0 +1,11 @@
+{
+  "name": "ibmvia-autoconf",
+  "version": "0.3.23",
+  "summary": "YAML based configuration automation for IBM Verify Identity Access",
+  "author": "Lachlan Gleeson",
+  "license": "Apache2.0",
+  "home_page": null,
+  "download_filename": "ibmvia_autoconf-0.3.23.tar.gz",
+  "download_time": "2026-05-04T08:38:05.856851",
+  "package_url": "https://pypi.org/project/ibmvia-autoconf/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-contact-gender",
+  "version": "19.0.1.0.0.2",
+  "summary": "Add gender field to contacts",
+  "author": "Grupo ESOC, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_partner_contact_gender-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-05-04T08:38:09.812049",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-contact-gender/"
+}

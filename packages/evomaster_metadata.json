@@ -1,0 +1,11 @@
+{
+  "name": "evomaster",
+  "version": "0.1.1",
+  "summary": "EvoMaster: The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). ",
+  "author": null,
+  "license": "LGPL",
+  "home_page": null,
+  "download_filename": "evomaster-0.1.1.tar.gz",
+  "download_time": "2026-05-04T08:38:17.288990",
+  "package_url": "https://pypi.org/project/evomaster/"
+}

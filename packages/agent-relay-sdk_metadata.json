@@ -1,11 +1,11 @@
 {
   "name": "agent-relay-sdk",
-  "version": "6.0.7",
+  "version": "6.0.8",
   "summary": "Python SDK for Agent Relay workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_relay_sdk-6.0.7-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2026-05-01T18:55:27.040997",
+  "download_filename": "agent_relay_sdk-6.0.8-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-04T08:38:24.251841",
   "package_url": "https://pypi.org/project/agent-relay-sdk/"
 }

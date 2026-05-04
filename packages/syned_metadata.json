@@ -1,0 +1,11 @@
+{
+  "name": "syned",
+  "version": "1.0.51",
+  "summary": "SYNED (SYNchrotron Elements Dictionary) kernel library",
+  "author": "Manuel Sanchez del Rio, Luca Rebuffi",
+  "license": "GPLv3",
+  "home_page": "https://github.com/oasys-kit/syned",
+  "download_filename": "syned-1.0.51.tar.gz",
+  "download_time": "2026-05-04T08:38:19.967383",
+  "package_url": "https://pypi.org/project/syned/"
+}
