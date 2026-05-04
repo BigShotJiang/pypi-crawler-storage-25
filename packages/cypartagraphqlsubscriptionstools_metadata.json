@@ -1,0 +1,11 @@
+{
+  "name": "cypartagraphqlsubscriptionstools",
+  "version": "3.0.2",
+  "summary": "A CypartaGraphqlSubscriptionsTools implementation for Graphene + Django built using Django Channels +reactive programming in python (RxPY) . Provides support for model creation, mutation and deletion,and get data with websocket or path list of events name for subscriptions .",
+  "author": "Cyparta Software House",
+  "license": "MIT",
+  "home_page": "https://cyparta.com/",
+  "download_filename": "cypartagraphqlsubscriptionstools-3.0.2.tar.gz",
+  "download_time": "2026-05-04T02:54:20.471929",
+  "package_url": "https://pypi.org/project/cypartagraphqlsubscriptionstools/"
+}

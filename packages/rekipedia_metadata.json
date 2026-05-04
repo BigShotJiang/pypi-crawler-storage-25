@@ -1,11 +1,11 @@
 {
   "name": "rekipedia",
-  "version": "0.9.4",
-  "summary": "Agentic repo-to-wiki: scan any repository into a knowledge store with wiki pages, diagrams, and grounded Q&A.",
+  "version": "0.9.19",
+  "summary": "AI-powered wiki generator for any codebase",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "rekipedia-0.9.4.tar.gz",
-  "download_time": "2026-05-02T16:40:29.288518",
+  "download_filename": "rekipedia-0.9.19.tar.gz",
+  "download_time": "2026-05-04T02:53:41.224048",
   "package_url": "https://pypi.org/project/rekipedia/"
 }

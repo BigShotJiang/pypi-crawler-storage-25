@@ -1,0 +1,11 @@
+{
+  "name": "syda",
+  "version": "0.0.5",
+  "summary": "Seamlessly generates realistic synthetic test data—including structured, unstructured, PDF, and HTML—using AI and large language models. It preserves referential integrity, maintains privacy compliance, and accelerates development workflows. SYDA enables both highly regulated industries such as healthcare and banking, as well as non-regulated environments like software testing, research, and analytics, to safely simulate diverse data scenarios without exposing sensitive information.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "syda-0.0.5.tar.gz",
+  "download_time": "2026-05-04T02:54:04.951574",
+  "package_url": "https://pypi.org/project/syda/"
+}

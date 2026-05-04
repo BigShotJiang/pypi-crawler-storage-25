@@ -1,0 +1,11 @@
+{
+  "name": "thedailyworkflow-mcp",
+  "version": "0.3.0",
+  "summary": "MCP server bridging Claude/Cursor to thedailyworkflow.com — discover 3500+ MCP servers, 15000+ AI tools, 200+ pipelines, 147+ tutorials, 147+ Q&A cases, 1700+ prompts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "thedailyworkflow_mcp-0.3.0.tar.gz",
+  "download_time": "2026-05-04T02:53:56.671971",
+  "package_url": "https://pypi.org/project/thedailyworkflow-mcp/"
+}

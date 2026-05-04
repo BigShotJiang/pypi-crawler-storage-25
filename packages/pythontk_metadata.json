@@ -1,11 +1,11 @@
 {
   "name": "pythontk",
-  "version": "0.8.10",
+  "version": "0.8.13",
   "summary": "A modular Python toolkit providing utilities for file handling, string processing, iteration, math operations, and more.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pythontk-0.8.10-py3-none-any.whl",
-  "download_time": "2026-05-02T17:43:46.586699",
+  "download_filename": "pythontk-0.8.13-py3-none-any.whl",
+  "download_time": "2026-05-04T02:53:58.208058",
   "package_url": "https://pypi.org/project/pythontk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "blazen",
-  "version": "0.1.152",
+  "version": "0.1.154",
   "summary": "Python bindings for the Blazen workflow engine",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "blazen-0.1.152.tar.gz",
-  "download_time": "2026-04-27T23:20:42.289297",
+  "download_filename": "blazen-0.1.154.tar.gz",
+  "download_time": "2026-05-04T02:54:10.680652",
   "package_url": "https://pypi.org/project/blazen/"
 }

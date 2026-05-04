@@ -1,0 +1,11 @@
+{
+  "name": "cdfidata",
+  "version": "0.1.2",
+  "summary": "ETL pipeline for US Treasury CDFI Fund public datasets — TLR, CLR, ILR, NMTC, and Awards data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cdfidata-0.1.2.tar.gz",
+  "download_time": "2026-05-04T02:54:04.437404",
+  "package_url": "https://pypi.org/project/cdfidata/"
+}

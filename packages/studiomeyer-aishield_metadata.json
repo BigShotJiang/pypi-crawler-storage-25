@@ -1,0 +1,11 @@
+{
+  "name": "studiomeyer-aishield",
+  "version": "0.1.1",
+  "summary": "LLM security middleware: prompt-injection detection, PII protection, tool policy, cost tracking. Python port of ai-shield-core.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "studiomeyer_aishield-0.1.1.tar.gz",
+  "download_time": "2026-05-04T02:54:17.410875",
+  "package_url": "https://pypi.org/project/studiomeyer-aishield/"
+}

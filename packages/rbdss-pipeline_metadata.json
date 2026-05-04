@@ -1,0 +1,11 @@
+{
+  "name": "rbdss-pipeline",
+  "version": "1.1.0",
+  "summary": "Pipeline LLM auditavel com MCDA, HITL, evals e observabilidade por fase.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rbdss_pipeline-1.1.0.tar.gz",
+  "download_time": "2026-05-04T02:54:07.529794",
+  "package_url": "https://pypi.org/project/rbdss-pipeline/"
+}

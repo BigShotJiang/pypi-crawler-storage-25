@@ -1,0 +1,11 @@
+{
+  "name": "airgap-devkit",
+  "version": "1.3.3",
+  "summary": "Air-gapped developer toolkit — install and manage developer tools in network-restricted environments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "airgap_devkit-1.3.3.tar.gz",
+  "download_time": "2026-05-04T02:54:11.751606",
+  "package_url": "https://pypi.org/project/airgap-devkit/"
+}

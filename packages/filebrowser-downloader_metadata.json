@@ -1,0 +1,11 @@
+{
+  "name": "filebrowser-downloader",
+  "version": "0.2.0",
+  "summary": "A simple Python utility to download files or entire folders recursively from Filebrowser shares.",
+  "author": "Aleks Krnjaic",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "filebrowser_downloader-0.2.0.tar.gz",
+  "download_time": "2026-05-04T02:53:39.114758",
+  "package_url": "https://pypi.org/project/filebrowser-downloader/"
+}

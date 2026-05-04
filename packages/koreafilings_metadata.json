@@ -1,0 +1,11 @@
+{
+  "name": "koreafilings",
+  "version": "0.3.1",
+  "summary": "Python SDK for koreafilings.com — AI-summarized Korean DART disclosures, paid per call in USDC via x402.",
+  "author": "korea-filings-api",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "koreafilings-0.3.1.tar.gz",
+  "download_time": "2026-05-04T02:54:18.939038",
+  "package_url": "https://pypi.org/project/koreafilings/"
+}

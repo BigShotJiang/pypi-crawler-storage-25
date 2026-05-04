@@ -1,11 +1,11 @@
 {
   "name": "ciku",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Chinese IME ciku (aka word list / lexicon file) parsing tool",
   "author": "hantang",
   "license": null,
   "home_page": null,
-  "download_filename": "ciku-0.3.1.tar.gz",
-  "download_time": "2026-05-03T12:10:15.921271",
+  "download_filename": "ciku-0.3.2.tar.gz",
+  "download_time": "2026-05-04T02:53:53.089303",
   "package_url": "https://pypi.org/project/ciku/"
 }
