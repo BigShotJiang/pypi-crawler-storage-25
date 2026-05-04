@@ -1,11 +1,11 @@
 {
   "name": "rusta",
-  "version": "0.5.1",
+  "version": "0.9.0",
   "summary": "Rust-powered Python Technical Analysis Package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rusta-0.5.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
-  "download_time": "2026-05-03T17:17:48.627297",
+  "download_filename": "rusta-0.9.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-05-04T06:02:10.340578",
   "package_url": "https://pypi.org/project/rusta/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aprspy",
+  "version": "0.5.0",
+  "summary": "APRS packet parser for Python",
+  "author": "Andy Smith",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aprspy-0.5.0.tar.gz",
+  "download_time": "2026-05-04T06:02:14.815332",
+  "package_url": "https://pypi.org/project/aprspy/"
+}

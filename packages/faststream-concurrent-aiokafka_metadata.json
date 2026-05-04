@@ -1,11 +1,11 @@
 {
   "name": "faststream-concurrent-aiokafka",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "summary": "Concurrent message processing middleware for FastStream with aiokafka",
   "author": "Artur Shiriev",
   "license": null,
   "home_page": null,
-  "download_filename": "faststream_concurrent_aiokafka-0.1.0.tar.gz",
-  "download_time": "2026-04-09T14:57:51.347088",
+  "download_filename": "faststream_concurrent_aiokafka-0.4.0.tar.gz",
+  "download_time": "2026-05-04T06:01:57.238443",
   "package_url": "https://pypi.org/project/faststream-concurrent-aiokafka/"
 }

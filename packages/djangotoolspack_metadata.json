@@ -1,0 +1,11 @@
+{
+  "name": "djangotoolspack",
+  "version": "0.0.2",
+  "summary": "Reusable Django and DRF helpers for pagination, model auditing, admin tracking, and serializers",
+  "author": "Chinmay Roy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "djangotoolspack-0.0.2.tar.gz",
+  "download_time": "2026-05-04T06:02:01.069704",
+  "package_url": "https://pypi.org/project/djangotoolspack/"
+}

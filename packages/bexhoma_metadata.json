@@ -1,0 +1,11 @@
+{
+  "name": "bexhoma",
+  "version": "0.9.5",
+  "summary": "This python tools helps managing DBMS benchmarking experiments in a Kubernetes-based HPC cluster environment. It enables users to configure hardware / software setups for easily repeating tests over varying configurations.",
+  "author": null,
+  "license": "GNU Affero General Public License v3",
+  "home_page": null,
+  "download_filename": "bexhoma-0.9.5.tar.gz",
+  "download_time": "2026-05-04T06:02:35.195733",
+  "package_url": "https://pypi.org/project/bexhoma/"
+}

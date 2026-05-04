@@ -1,0 +1,11 @@
+{
+  "name": "OpenImageIO",
+  "version": "3.1.13.0",
+  "summary": "Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "openimageio-3.1.13.0.tar.gz",
+  "download_time": "2026-05-04T06:02:24.004264",
+  "package_url": "https://pypi.org/project/OpenImageIO/"
+}

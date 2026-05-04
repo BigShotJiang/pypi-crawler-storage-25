@@ -1,0 +1,11 @@
+{
+  "name": "angmom-suite",
+  "version": "1.29.2",
+  "summary": "A package for working with phenomenological spin and angular momentum operators",
+  "author": "Chilton Group",
+  "license": null,
+  "home_page": "https://gitlab.com/chilton-group/angmom_suite",
+  "download_filename": "angmom_suite-1.29.2.tar.gz",
+  "download_time": "2026-05-04T06:02:23.388950",
+  "package_url": "https://pypi.org/project/angmom-suite/"
+}

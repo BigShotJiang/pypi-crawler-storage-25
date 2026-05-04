@@ -1,0 +1,11 @@
+{
+  "name": "fleet-agent",
+  "version": "0.2.0",
+  "summary": "Shared base class for all SuperInstance domain agents — now with H1 emergence, holonomy consensus, Pythagorean48 encoding",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fleet_agent-0.2.0.tar.gz",
+  "download_time": "2026-05-04T06:02:31.912420",
+  "package_url": "https://pypi.org/project/fleet-agent/"
+}
