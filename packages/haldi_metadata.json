@@ -1,0 +1,11 @@
+{
+  "name": "haldi",
+  "version": "0.6",
+  "summary": "A simple and efficient Python library for handling dependency injection.",
+  "author": "Gabriel S. Almeida",
+  "license": null,
+  "home_page": "https://github.com/gabriel-schneider/haldi",
+  "download_filename": "haldi-0.6.tar.gz",
+  "download_time": "2026-05-04T14:43:22.573321",
+  "package_url": "https://pypi.org/project/haldi/"
+}

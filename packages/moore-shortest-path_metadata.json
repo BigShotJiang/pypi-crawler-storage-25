@@ -1,11 +1,11 @@
 {
   "name": "moore-shortest-path",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "summary": "Implementation of Moore's shortest path algorithm in Python",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/moore_algorithm",
-  "download_filename": "moore_shortest_path-1.0.0.tar.gz",
-  "download_time": "2026-05-02T06:20:57.297833",
+  "download_filename": "moore_shortest_path-1.0.3.tar.gz",
+  "download_time": "2026-05-04T14:43:37.591934",
   "package_url": "https://pypi.org/project/moore-shortest-path/"
 }

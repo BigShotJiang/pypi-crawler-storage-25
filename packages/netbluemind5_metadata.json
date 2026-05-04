@@ -1,0 +1,11 @@
+{
+  "name": "netbluemind5",
+  "version": "5.5.3442",
+  "summary": "Automatically generated client for BlueMind >= 5 REST API. Check netbluemind4 for older releases",
+  "author": "BlueMind team",
+  "license": null,
+  "home_page": "http://gitlab.bluemind.net/",
+  "download_filename": "netbluemind5-5.5.3442.tar.gz",
+  "download_time": "2026-05-04T14:43:24.109142",
+  "package_url": "https://pypi.org/project/netbluemind5/"
+}

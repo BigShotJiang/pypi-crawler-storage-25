@@ -1,11 +1,11 @@
 {
   "name": "doubled-graph",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "summary": "MCP facade over CodeGraphContext + grace-marketplace: impact, context, drift-detect for LLM-driven codebases.",
   "author": "doubled-graph methodology authors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "doubled_graph-1.5.5.tar.gz",
-  "download_time": "2026-05-03T10:28:30.480727",
+  "download_filename": "doubled_graph-1.5.6.tar.gz",
+  "download_time": "2026-05-04T14:43:26.667644",
   "package_url": "https://pypi.org/project/doubled-graph/"
 }

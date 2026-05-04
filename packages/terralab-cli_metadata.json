@@ -1,0 +1,11 @@
+{
+  "name": "terralab-cli",
+  "version": "3.2.4",
+  "summary": "Command line interface for interacting with the Terra Scientific Pipelines Service, or Teaspoons.",
+  "author": "Terra Scientific Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "terralab_cli-3.2.4.tar.gz",
+  "download_time": "2026-05-04T14:43:34.498116",
+  "package_url": "https://pypi.org/project/terralab-cli/"
+}

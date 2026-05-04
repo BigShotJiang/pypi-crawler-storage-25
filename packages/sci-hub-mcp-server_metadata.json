@@ -1,0 +1,11 @@
+{
+  "name": "sci-hub-mcp-server",
+  "version": "0.1.0",
+  "summary": "A Model Context Protocol (MCP) server that enables AI assistants to search, retrieve metadata, and download academic papers directly from Sci-Hub.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "sci_hub_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-05-04T14:43:00.262627",
+  "package_url": "https://pypi.org/project/sci-hub-mcp-server/"
+}

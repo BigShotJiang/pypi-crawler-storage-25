@@ -1,0 +1,11 @@
+{
+  "name": "yodacheck",
+  "version": "0.1.2",
+  "summary": "Detect and auto-fix Yoda conditions in Python source files",
+  "author": "SytxLabs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yodacheck-0.1.2.tar.gz",
+  "download_time": "2026-05-04T14:43:35.522376",
+  "package_url": "https://pypi.org/project/yodacheck/"
+}
