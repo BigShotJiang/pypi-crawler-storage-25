@@ -1,0 +1,11 @@
+{
+  "name": "inhumate-rti",
+  "version": "2.0.2",
+  "summary": "Inhumate RTI Client",
+  "author": "Inhumate AB",
+  "license": "Proprietary",
+  "home_page": "https://github.com/inhumatesystems/rti-client",
+  "download_filename": "inhumate_rti-2.0.2.tar.gz",
+  "download_time": "2026-05-04T18:17:36.943585",
+  "package_url": "https://pypi.org/project/inhumate-rti/"
+}

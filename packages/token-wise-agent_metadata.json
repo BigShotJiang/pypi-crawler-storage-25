@@ -1,0 +1,11 @@
+{
+  "name": "token-wise-agent",
+  "version": "1.0.2",
+  "summary": "AI coding assistant with pluggable tools and token tracking, built on OpenHands SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "token_wise_agent-1.0.2.tar.gz",
+  "download_time": "2026-05-04T18:17:16.215287",
+  "package_url": "https://pypi.org/project/token-wise-agent/"
+}

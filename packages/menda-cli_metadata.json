@@ -1,11 +1,11 @@
 {
   "name": "menda-cli",
-  "version": "0.2.0rc3",
+  "version": "0.2.9",
   "summary": "A CLI for building, deploying and managing menda data products.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "menda_cli-0.2.0rc3.tar.gz",
-  "download_time": "2026-03-28T22:40:36.335841",
+  "download_filename": "menda_cli-0.2.9.tar.gz",
+  "download_time": "2026-05-04T18:17:43.339743",
   "package_url": "https://pypi.org/project/menda-cli/"
 }

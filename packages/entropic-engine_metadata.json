@@ -1,0 +1,11 @@
+{
+  "name": "entropic-engine",
+  "version": "2.1.4",
+  "summary": "Local-first agentic inference engine — Python wrapper over librentropic.so",
+  "author": "Tristan VanFossen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "entropic_engine-2.1.4.tar.gz",
+  "download_time": "2026-05-04T18:17:45.777207",
+  "package_url": "https://pypi.org/project/entropic-engine/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kimi-mem",
+  "version": "0.1.0",
+  "summary": "Persistent memory system for Kimi Code CLI — remember context across sessions",
+  "author": "The Retech Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kimi_mem-0.1.0.tar.gz",
+  "download_time": "2026-05-04T18:17:37.518576",
+  "package_url": "https://pypi.org/project/kimi-mem/"
+}

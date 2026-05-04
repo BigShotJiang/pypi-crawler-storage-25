@@ -1,11 +1,11 @@
 {
   "name": "larva",
-  "version": "0.4.6",
+  "version": "0.4.9",
   "summary": "PersonaSpec toolkit for LLM agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "larva-0.4.6.tar.gz",
-  "download_time": "2026-05-02T17:43:42.451040",
+  "download_filename": "larva-0.4.9.tar.gz",
+  "download_time": "2026-05-04T18:17:55.915810",
   "package_url": "https://pypi.org/project/larva/"
 }

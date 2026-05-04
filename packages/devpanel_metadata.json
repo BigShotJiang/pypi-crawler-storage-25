@@ -1,11 +1,11 @@
 {
   "name": "devpanel",
-  "version": "0.4.1",
+  "version": "0.6.0",
   "summary": "Chrome DevTools panel with terminal and browser context injection for Claude Code",
   "author": "Fredrik Angelsen",
   "license": null,
   "home_page": null,
-  "download_filename": "devpanel-0.4.1.tar.gz",
-  "download_time": "2026-05-02T23:01:42.622796",
+  "download_filename": "devpanel-0.6.0.tar.gz",
+  "download_time": "2026-05-04T18:17:20.276557",
   "package_url": "https://pypi.org/project/devpanel/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vided",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "A simple local video silence speeder and rectangular blur redactor.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vided-0.1.12.tar.gz",
-  "download_time": "2026-05-04T16:32:56.587886",
+  "download_filename": "vided-0.1.13.tar.gz",
+  "download_time": "2026-05-04T18:18:02.446170",
   "package_url": "https://pypi.org/project/vided/"
 }

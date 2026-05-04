@@ -1,0 +1,11 @@
+{
+  "name": "orbbec-astra-raw",
+  "version": "0.2.2",
+  "summary": "Unofficial pure-Python driver for the Orbbec Astra Pro IR/depth sensor",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "orbbec_astra_raw-0.2.2.tar.gz",
+  "download_time": "2026-05-04T18:17:47.502950",
+  "package_url": "https://pypi.org/project/orbbec-astra-raw/"
+}

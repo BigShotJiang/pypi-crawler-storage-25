@@ -1,0 +1,11 @@
+{
+  "name": "mom6-forge",
+  "version": "0.0.3",
+  "summary": "MOM6 simple grid and bathymetry generator",
+  "author": "Alper Altuntas",
+  "license": null,
+  "home_page": "https://github.com/NCAR/mom6_forge",
+  "download_filename": "mom6_forge-0.0.3.tar.gz",
+  "download_time": "2026-05-04T18:17:20.936891",
+  "package_url": "https://pypi.org/project/mom6-forge/"
+}

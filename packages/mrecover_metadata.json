@@ -1,0 +1,11 @@
+{
+  "name": "mrecover",
+  "version": "0.1.4",
+  "summary": "AI-powered T1w to T2 TSE MRI translation using flow matching",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mrecover-0.1.4.tar.gz",
+  "download_time": "2026-05-04T18:17:35.766230",
+  "package_url": "https://pypi.org/project/mrecover/"
+}

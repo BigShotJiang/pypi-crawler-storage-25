@@ -1,0 +1,11 @@
+{
+  "name": "python-swidget",
+  "version": "1.4.2",
+  "summary": "Python API for Swidget smart devices",
+  "author": "Swidget",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/swidget/python-swidget",
+  "download_filename": "python_swidget-1.4.2.tar.gz",
+  "download_time": "2026-05-04T18:17:50.570508",
+  "package_url": "https://pypi.org/project/python-swidget/"
+}

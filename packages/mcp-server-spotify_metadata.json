@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-spotify",
+  "version": "0.1.0",
+  "summary": "Spotify MCP Server for Claude and other AI assistants",
+  "author": "Taeyun Eom",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_spotify-0.1.0.tar.gz",
+  "download_time": "2026-05-04T18:18:07.133173",
+  "package_url": "https://pypi.org/project/mcp-server-spotify/"
+}

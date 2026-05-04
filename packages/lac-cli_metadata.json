@@ -1,11 +1,11 @@
 {
   "name": "lac-cli",
-  "version": "0.2.0",
-  "summary": "AI-powered terminal shell with real-time autocomplete and multi-model debate engine",
+  "version": "0.2.2",
+  "summary": "AI-powered terminal toolkit with coding assistant, shell autocomplete, and API documentation generator",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lac_cli-0.2.0.tar.gz",
-  "download_time": "2026-04-23T14:22:14.757659",
+  "download_filename": "lac_cli-0.2.2.tar.gz",
+  "download_time": "2026-05-04T18:17:52.896371",
   "package_url": "https://pypi.org/project/lac-cli/"
 }

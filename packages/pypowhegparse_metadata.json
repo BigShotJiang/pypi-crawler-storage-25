@@ -1,0 +1,11 @@
+{
+  "name": "pypowhegparse",
+  "version": "0.0.5",
+  "summary": "Analyse POWHEG output files for potential errors.",
+  "author": "Alexander Puck Neuwirth",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypowhegparse-0.0.5.tar.gz",
+  "download_time": "2026-05-04T18:17:32.578596",
+  "package_url": "https://pypi.org/project/pypowhegparse/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-msaccess-database",
+  "version": "0.7.33",
+  "summary": "MCP server for reading and editing Microsoft Access databases (.accdb/.mdb) via COM automation. Forms, VBA, tables, controls, queries, relationships — 62 tools.",
+  "author": "unmateria",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_msaccess_database-0.7.33.tar.gz",
+  "download_time": "2026-05-04T18:17:52.317185",
+  "package_url": "https://pypi.org/project/mcp-msaccess-database/"
+}

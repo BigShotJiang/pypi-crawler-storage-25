@@ -1,11 +1,11 @@
 {
   "name": "cosmergon-agent",
-  "version": "0.4.1",
+  "version": "0.11.0",
   "summary": "Python SDK for the Cosmergon Agent Economy",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cosmergon_agent-0.4.1.tar.gz",
-  "download_time": "2026-04-10T13:54:14.614026",
+  "download_filename": "cosmergon_agent-0.11.0.tar.gz",
+  "download_time": "2026-05-04T18:18:05.919620",
   "package_url": "https://pypi.org/project/cosmergon-agent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "toms-fast",
+  "version": "0.8.0",
+  "summary": "FastAPI 全栈异步基础设施框架：Fastapi, Sqlalchemy, Redis, Celery，让你专注业务逻辑",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toms_fast-0.8.0-py3-none-any.whl",
+  "download_time": "2026-05-04T18:17:57.648289",
+  "package_url": "https://pypi.org/project/toms-fast/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cutip",
-  "version": "2.12.0",
+  "version": "2.15.0",
   "summary": "Workflow automation framework — define infrastructure as YAML, automate with Python, execute in containers",
   "author": "Joshua Jerome",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cutip-2.12.0-cp313-cp313-macosx_10_12_x86_64.whl",
-  "download_time": "2026-05-01T00:18:25.189436",
+  "download_filename": "cutip-2.15.0-cp313-cp313-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-04T18:17:36.346805",
   "package_url": "https://pypi.org/project/cutip/"
 }

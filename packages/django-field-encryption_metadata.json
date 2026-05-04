@@ -1,0 +1,11 @@
+{
+  "name": "django-field-encryption",
+  "version": "0.1.4",
+  "summary": "Field-level encryption for Django using AES-256-GCM",
+  "author": "Ammar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_field_encryption-0.1.4.tar.gz",
+  "download_time": "2026-05-04T18:17:42.153225",
+  "package_url": "https://pypi.org/project/django-field-encryption/"
+}
