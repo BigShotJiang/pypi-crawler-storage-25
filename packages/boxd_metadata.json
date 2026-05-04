@@ -1,11 +1,11 @@
 {
   "name": "boxd",
-  "version": "0.1.0.dev2",
+  "version": "0.1.1",
   "summary": "Python SDK for the boxd cloud VM platform",
   "author": "Azin",
   "license": null,
   "home_page": null,
-  "download_filename": "boxd-0.1.0.dev2.tar.gz",
-  "download_time": "2026-05-01T15:25:22.662366",
+  "download_filename": "boxd-0.1.1.tar.gz",
+  "download_time": "2026-05-04T21:17:42.890820",
   "package_url": "https://pypi.org/project/boxd/"
 }

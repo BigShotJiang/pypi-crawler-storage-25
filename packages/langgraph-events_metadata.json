@@ -1,11 +1,11 @@
 {
   "name": "langgraph-events",
-  "version": "0.5.1",
+  "version": "0.6.2",
   "summary": "Opinionated event-driven abstraction for LangGraph. State IS events.",
   "author": "cadance-io",
   "license": null,
   "home_page": null,
-  "download_filename": "langgraph_events-0.5.1.tar.gz",
-  "download_time": "2026-04-30T13:16:17.997007",
+  "download_filename": "langgraph_events-0.6.2.tar.gz",
+  "download_time": "2026-05-04T21:18:01.733491",
   "package_url": "https://pypi.org/project/langgraph-events/"
 }

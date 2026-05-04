@@ -1,11 +1,11 @@
 {
   "name": "repokeeper",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "AI-powered open source maintainer agent",
   "author": "Xianpeng Shen",
   "license": null,
   "home_page": null,
-  "download_filename": "repokeeper-0.4.0.tar.gz",
-  "download_time": "2026-05-03T22:10:58.514306",
+  "download_filename": "repokeeper-0.5.0.tar.gz",
+  "download_time": "2026-05-04T21:17:51.345470",
   "package_url": "https://pypi.org/project/repokeeper/"
 }

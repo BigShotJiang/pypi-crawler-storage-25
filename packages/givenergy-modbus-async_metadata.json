@@ -1,0 +1,11 @@
+{
+  "name": "givenergy-modbus-async",
+  "version": "2.1",
+  "summary": "A python library to access GivEnergy inverters via Modbus TCP, with no dependency on the GivEnergy Cloud.",
+  "author": "Britkat1980 mark@marksweb.org.uk",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "givenergy_modbus_async-2.1.tar.gz",
+  "download_time": "2026-05-04T21:18:14.660129",
+  "package_url": "https://pypi.org/project/givenergy-modbus-async/"
+}

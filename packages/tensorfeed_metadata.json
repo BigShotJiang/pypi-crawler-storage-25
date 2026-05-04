@@ -1,0 +1,11 @@
+{
+  "name": "tensorfeed",
+  "version": "1.20.0",
+  "summary": "Python SDK for the TensorFeed.ai API: AI news, status, model pricing, premium routing + history series + webhook watches, agent payments via USDC on Base (optional web3 auto-send)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensorfeed-1.20.0.tar.gz",
+  "download_time": "2026-05-04T21:18:16.195756",
+  "package_url": "https://pypi.org/project/tensorfeed/"
+}

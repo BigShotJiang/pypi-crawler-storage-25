@@ -1,0 +1,11 @@
+{
+  "name": "chinese-error",
+  "version": "1.3.0",
+  "summary": "将 Python 错误信息翻译成中文",
+  "author": "shiroko",
+  "license": "MIT",
+  "home_page": "https://github.com/shiroko973/chinese-error",
+  "download_filename": "chinese_error-1.3.0.tar.gz",
+  "download_time": "2026-05-04T21:18:12.564677",
+  "package_url": "https://pypi.org/project/chinese-error/"
+}

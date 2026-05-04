@@ -1,0 +1,11 @@
+{
+  "name": "autoseqmodels",
+  "version": "0.1.2",
+  "summary": "Automated weekly sequence-model workflow (LSTM / Transformer) for customer transaction prediction.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autoseqmodels-0.1.2.tar.gz",
+  "download_time": "2026-05-04T21:17:40.319916",
+  "package_url": "https://pypi.org/project/autoseqmodels/"
+}

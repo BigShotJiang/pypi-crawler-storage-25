@@ -1,0 +1,11 @@
+{
+  "name": "charmlibs-interfaces-istio-request-auth",
+  "version": "0.0.2",
+  "summary": "The charmlibs.interfaces.istio_request_auth package.",
+  "author": "Service Mesh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "charmlibs_interfaces_istio_request_auth-0.0.2.tar.gz",
+  "download_time": "2026-05-04T21:18:03.791151",
+  "package_url": "https://pypi.org/project/charmlibs-interfaces-istio-request-auth/"
+}

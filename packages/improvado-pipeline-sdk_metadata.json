@@ -1,11 +1,11 @@
 {
   "name": "improvado-pipeline-sdk",
-  "version": "0.7.1",
+  "version": "0.9.1",
   "summary": "SDK for authoring Improvado custom pipeline workflows on Temporal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "improvado_pipeline_sdk-0.7.1.tar.gz",
-  "download_time": "2026-04-30T17:05:45.277983",
+  "download_filename": "improvado_pipeline_sdk-0.9.1.tar.gz",
+  "download_time": "2026-05-04T21:17:33.622947",
   "package_url": "https://pypi.org/project/improvado-pipeline-sdk/"
 }

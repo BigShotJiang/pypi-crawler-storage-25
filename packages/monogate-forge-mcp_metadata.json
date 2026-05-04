@@ -1,0 +1,11 @@
+{
+  "name": "monogate-forge-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server exposing the Monogate Forge compiler as 9 tools",
+  "author": "Monogate",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "monogate_forge_mcp-0.2.0.tar.gz",
+  "download_time": "2026-05-04T21:17:33.104323",
+  "package_url": "https://pypi.org/project/monogate-forge-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "trunks",
-  "version": "1.2.3",
+  "version": "1.2.7",
   "summary": "Git repos backed by your own storage. Push to S3, R2, Tigris, MinIO, Postgres, SFTP, NFS, or local disk.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "trunks-1.2.3.tar.gz",
-  "download_time": "2026-05-04T20:05:51.828479",
+  "download_filename": "trunks-1.2.7.tar.gz",
+  "download_time": "2026-05-04T21:17:55.963188",
   "package_url": "https://pypi.org/project/trunks/"
 }

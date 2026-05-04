@@ -1,11 +1,11 @@
 {
   "name": "label-studio-sdk",
-  "version": "2.0.20",
+  "version": "2.0.21",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "label_studio_sdk-2.0.20.tar.gz",
-  "download_time": "2026-04-13T20:10:08.496648",
+  "download_filename": "label_studio_sdk-2.0.21.tar.gz",
+  "download_time": "2026-05-04T21:18:14.145352",
   "package_url": "https://pypi.org/project/label-studio-sdk/"
 }

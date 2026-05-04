@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-invoice-tree-currency",
+  "version": "19.0.1.0.1",
+  "summary": "Show currencies in the invoice tree view",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo_addon_account_invoice_tree_currency-19.0.1.0.1-py3-none-any.whl",
+  "download_time": "2026-05-04T21:18:09.479120",
+  "package_url": "https://pypi.org/project/odoo-addon-account-invoice-tree-currency/"
+}

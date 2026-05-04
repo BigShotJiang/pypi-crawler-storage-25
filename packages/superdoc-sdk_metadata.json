@@ -1,11 +1,11 @@
 {
   "name": "superdoc-sdk",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "summary": "SuperDoc SDK (CLI-backed)",
   "author": "SuperDoc",
   "license": null,
   "home_page": null,
-  "download_filename": "superdoc_sdk-1.7.0.tar.gz",
-  "download_time": "2026-04-22T20:18:12.178194",
+  "download_filename": "superdoc_sdk-1.8.0.tar.gz",
+  "download_time": "2026-05-04T21:17:35.698760",
   "package_url": "https://pypi.org/project/superdoc-sdk/"
 }

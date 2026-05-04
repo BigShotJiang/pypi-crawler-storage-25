@@ -1,0 +1,11 @@
+{
+  "name": "runfra-mcp",
+  "version": "0.1.0",
+  "summary": "Model Context Protocol server for Runfra — async batch image generation. Lets Claude / Cursor / any MCP client submit txt2img and img2img jobs and read results.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "runfra_mcp-0.1.0.tar.gz",
+  "download_time": "2026-05-04T21:17:31.502174",
+  "package_url": "https://pypi.org/project/runfra-mcp/"
+}

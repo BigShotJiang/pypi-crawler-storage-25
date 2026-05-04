@@ -1,11 +1,11 @@
 {
   "name": "axon-lang",
-  "version": "1.7.0",
+  "version": "1.13.0",
   "summary": "AXON v1.5.1 — Lockstep cross-stack release. axon-lang Python + axon-lang Rust crate (renamed from axon-rs, now on crates.io) ship the same version every release, eliminating compatibility-matrix questions. Bumps coordinated via bump-my-version + a GitHub Actions workflow. Functional surface unchanged from v1.5.0: typed channels with pi-calculus mobility, second-order session types, runtime TypedEventBus, migration path from legacy string topics. See paper_mobile_channels.md.",
   "author": "Bemarking AI S.A.S.",
   "license": null,
   "home_page": null,
-  "download_filename": "axon_lang-1.7.0.tar.gz",
-  "download_time": "2026-05-02T17:43:40.620784",
+  "download_filename": "axon_lang-1.13.0.tar.gz",
+  "download_time": "2026-05-04T21:17:48.628885",
   "package_url": "https://pypi.org/project/axon-lang/"
 }

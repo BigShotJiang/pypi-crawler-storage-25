@@ -1,0 +1,11 @@
+{
+  "name": "universal-creator",
+  "version": "0.1.5",
+  "summary": "Skill scaffolding and artifact generation toolkit for VS Code Copilot / Claude agents",
+  "author": "Anselm Hahn",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "universal_creator-0.1.5.tar.gz",
+  "download_time": "2026-05-04T21:17:45.472999",
+  "package_url": "https://pypi.org/project/universal-creator/"
+}

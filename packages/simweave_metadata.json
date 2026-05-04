@@ -1,0 +1,11 @@
+{
+  "name": "simweave",
+  "version": "0.6.0",
+  "summary": "SimWeave: a hybrid discrete/continuous simulation engine with currency, units, agents, supply chains, and Monte Carlo.",
+  "author": "Stuart",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simweave-0.6.0.tar.gz",
+  "download_time": "2026-05-04T21:17:34.132710",
+  "package_url": "https://pypi.org/project/simweave/"
+}
