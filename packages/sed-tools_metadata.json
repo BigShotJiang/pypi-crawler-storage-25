@@ -1,0 +1,11 @@
+{
+  "name": "sed-tools",
+  "version": "0.1.2",
+  "summary": "Programmatic access to SED Tools stellar atmosphere grids and photometry helpers.",
+  "author": "SED Tools Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sed_tools-0.1.2.tar.gz",
+  "download_time": "2026-05-04T23:59:32.694375",
+  "package_url": "https://pypi.org/project/sed-tools/"
+}

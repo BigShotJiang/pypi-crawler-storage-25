@@ -1,0 +1,11 @@
+{
+  "name": "azure-cli-core",
+  "version": "2.86.0",
+  "summary": "Microsoft Azure Command-Line Tools Core Module",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": "https://github.com/Azure/azure-cli",
+  "download_filename": "azure_cli_core-2.86.0.tar.gz",
+  "download_time": "2026-05-04T23:59:17.909929",
+  "package_url": "https://pypi.org/project/azure-cli-core/"
+}

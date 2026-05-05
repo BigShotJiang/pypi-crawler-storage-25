@@ -1,11 +1,11 @@
 {
   "name": "ado-workflows",
-  "version": "0.9.0",
+  "version": "0.13.0",
   "summary": "Azure DevOps workflow automation library — PR context, repository discovery, and SDK client wrappers",
   "author": "Jack Pines",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ado_workflows-0.9.0.tar.gz",
-  "download_time": "2026-04-07T22:02:21.392686",
+  "download_filename": "ado_workflows-0.13.0.tar.gz",
+  "download_time": "2026-05-04T23:59:39.489501",
   "package_url": "https://pypi.org/project/ado-workflows/"
 }

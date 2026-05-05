@@ -1,0 +1,11 @@
+{
+  "name": "frequencyquantile",
+  "version": "1.0.0",
+  "summary": "Multi-Frequency Quantile Regression, Quantile Autoregression & Uncertain QAR — a unified Python toolkit for frequency-quantile econometrics.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "frequencyquantile-1.0.0.tar.gz",
+  "download_time": "2026-05-05T00:00:09.369944",
+  "package_url": "https://pypi.org/project/frequencyquantile/"
+}

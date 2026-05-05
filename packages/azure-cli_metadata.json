@@ -1,0 +1,11 @@
+{
+  "name": "azure-cli",
+  "version": "2.86.0",
+  "summary": "Microsoft Azure Command-Line Tools",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": "https://github.com/Azure/azure-cli",
+  "download_filename": "azure_cli-2.86.0.tar.gz",
+  "download_time": "2026-05-04T23:59:18.559958",
+  "package_url": "https://pypi.org/project/azure-cli/"
+}

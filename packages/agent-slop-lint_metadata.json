@@ -1,11 +1,11 @@
 {
   "name": "agent-slop-lint",
-  "version": "0.8.0",
+  "version": "1.0.0",
   "summary": "Agentic code quality linter — catches slop before it becomes architectural rot",
   "author": "Jordan Godau",
   "license": null,
   "home_page": null,
-  "download_filename": "agent_slop_lint-0.8.0.tar.gz",
-  "download_time": "2026-04-28T20:50:21.516242",
+  "download_filename": "agent_slop_lint-1.0.0.tar.gz",
+  "download_time": "2026-05-04T23:59:37.055417",
   "package_url": "https://pypi.org/project/agent-slop-lint/"
 }
