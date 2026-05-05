@@ -1,0 +1,11 @@
+{
+  "name": "netbox-cisco-support-api",
+  "version": "1.0.12",
+  "summary": "NetBox plugin for Cisco Support information including product details, EoX dates, bugs, and security advisories",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "netbox_cisco_support_api-1.0.12.tar.gz",
+  "download_time": "2026-05-05T17:33:39.254904",
+  "package_url": "https://pypi.org/project/netbox-cisco-support-api/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "adcp",
-  "version": "3.11.0",
+  "version": "4.4.1",
   "summary": "Official Python client for the Ad Context Protocol (AdCP)",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "adcp-3.11.0.tar.gz",
-  "download_time": "2026-04-04T12:04:25.575529",
+  "download_filename": "adcp-4.4.1.tar.gz",
+  "download_time": "2026-05-05T17:33:51.285030",
   "package_url": "https://pypi.org/project/adcp/"
 }

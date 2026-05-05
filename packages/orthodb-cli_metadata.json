@@ -1,0 +1,11 @@
+{
+  "name": "orthodb-cli",
+  "version": "0.1.1",
+  "summary": "Agent-friendly CLI for cached OrthoDB downloads and live API queries.",
+  "author": "Gustavo Madeira Santana",
+  "license": null,
+  "home_page": null,
+  "download_filename": "orthodb_cli-0.1.1.tar.gz",
+  "download_time": "2026-05-05T17:33:38.214150",
+  "package_url": "https://pypi.org/project/orthodb-cli/"
+}

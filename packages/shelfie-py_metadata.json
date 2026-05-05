@@ -1,11 +1,11 @@
 {
   "name": "shelfie-py",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Self-hosted local library manager for PDFs and EPUBs",
   "author": null,
   "license": "GPL-2.0-only",
   "home_page": null,
-  "download_filename": "shelfie_py-0.2.0.tar.gz",
-  "download_time": "2026-04-25T21:29:54.374910",
+  "download_filename": "shelfie_py-0.2.1.tar.gz",
+  "download_time": "2026-05-05T17:33:47.094464",
   "package_url": "https://pypi.org/project/shelfie-py/"
 }

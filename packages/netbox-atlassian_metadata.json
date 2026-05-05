@@ -1,0 +1,11 @@
+{
+  "name": "netbox-atlassian",
+  "version": "0.5.9",
+  "summary": "NetBox plugin to display Jira issues and Confluence pages related to devices",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "netbox_atlassian-0.5.9.tar.gz",
+  "download_time": "2026-05-05T17:33:42.379437",
+  "package_url": "https://pypi.org/project/netbox-atlassian/"
+}

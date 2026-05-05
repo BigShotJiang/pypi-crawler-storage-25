@@ -1,11 +1,11 @@
 {
   "name": "openzim-mcp",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "summary": "OpenZIM MCP - ZIM MCP Server that enables AI models to access and search ZIM format knowledge bases offline",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openzim_mcp-1.0.1.tar.gz",
-  "download_time": "2026-05-04T22:25:44.213973",
+  "download_filename": "openzim_mcp-1.1.1.tar.gz",
+  "download_time": "2026-05-05T17:33:27.771157",
   "package_url": "https://pypi.org/project/openzim-mcp/"
 }

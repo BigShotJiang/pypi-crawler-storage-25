@@ -1,0 +1,11 @@
+{
+  "name": "skill-doctor",
+  "version": "0.4.2",
+  "summary": "Cross-runtime AI agent skill housekeeping: spot duplicates, drift, broken symlinks, junk, and stale skills across Claude Code, Codex, Cursor, OpenClaw, and more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skill_doctor-0.4.2.tar.gz",
+  "download_time": "2026-05-05T17:33:53.915207",
+  "package_url": "https://pypi.org/project/skill-doctor/"
+}

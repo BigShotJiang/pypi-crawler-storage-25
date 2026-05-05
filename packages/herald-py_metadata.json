@@ -1,0 +1,11 @@
+{
+  "name": "herald-py",
+  "version": "0.1.2",
+  "summary": "Audit-grade agent observability for Python — capture, redact, sign, and ship every model call, tool invocation, and decision an AI agent makes.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "herald_py-0.1.2.tar.gz",
+  "download_time": "2026-05-05T17:33:24.099853",
+  "package_url": "https://pypi.org/project/herald-py/"
+}

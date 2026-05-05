@@ -1,0 +1,11 @@
+{
+  "name": "partizan_gpg",
+  "version": "0.2.5",
+  "summary": "Part of the Partizan Framework. Enables Terminal UI for GPG / PGP key & encryption operations.",
+  "author": "Dylan Garrett",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "partizan_gpg-0.2.5.tar.gz",
+  "download_time": "2026-05-05T17:33:31.420029",
+  "package_url": "https://pypi.org/project/partizan_gpg/"
+}

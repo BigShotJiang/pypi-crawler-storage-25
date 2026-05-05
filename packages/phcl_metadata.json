@@ -1,11 +1,11 @@
 {
   "name": "phcl",
-  "version": "0.3.1",
+  "version": "0.4.2",
   "summary": "Python-powered structural DSL for authoring native HCL2.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phcl-0.3.1.tar.gz",
-  "download_time": "2026-05-03T17:17:22.368957",
+  "download_filename": "phcl-0.4.2.tar.gz",
+  "download_time": "2026-05-05T17:33:26.724238",
   "package_url": "https://pypi.org/project/phcl/"
 }

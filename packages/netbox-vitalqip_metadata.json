@@ -1,0 +1,11 @@
+{
+  "name": "netbox-vitalqip",
+  "version": "0.1.7",
+  "summary": "NetBox plugin to display VitalQIP IPAM data and import IP addresses",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "netbox_vitalqip-0.1.7.tar.gz",
+  "download_time": "2026-05-05T17:33:36.647823",
+  "package_url": "https://pypi.org/project/netbox-vitalqip/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llm-routing",
+  "version": "8.0.2",
+  "summary": "Multi-LLM router MCP server — smart complexity routing, budget-aware model selection, 20+ providers (Claude, OpenAI, Gemini, Ollama, etc.)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_routing-8.0.2-py3-none-any.whl",
+  "download_time": "2026-05-05T17:33:55.997975",
+  "package_url": "https://pypi.org/project/llm-routing/"
+}

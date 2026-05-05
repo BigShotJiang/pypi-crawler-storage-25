@@ -1,0 +1,11 @@
+{
+  "name": "gedcom-lite",
+  "version": "0.1.0",
+  "summary": "A lightweight, fidelity-preserving GEDCOM parser, writer, and CLI for genealogy files (5.5.1, 5.5.5, and FamilySearch GEDCOM 7).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gedcom_lite-0.1.0.tar.gz",
+  "download_time": "2026-05-05T17:33:35.606295",
+  "package_url": "https://pypi.org/project/gedcom-lite/"
+}

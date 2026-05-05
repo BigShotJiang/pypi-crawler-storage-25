@@ -1,0 +1,11 @@
+{
+  "name": "drupal-api-client",
+  "version": "0.2.0",
+  "summary": "Python port of @drupal-api-client/api-client — base HTTP client for Drupal APIs",
+  "author": "Vincenzo Gambino",
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "drupal_api_client-0.2.0.tar.gz",
+  "download_time": "2026-05-05T17:33:14.095760",
+  "package_url": "https://pypi.org/project/drupal-api-client/"
+}
