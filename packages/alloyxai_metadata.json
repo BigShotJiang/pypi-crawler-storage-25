@@ -1,11 +1,11 @@
 {
   "name": "alloyxai",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "合金材料性能预测与可解释性分析平台",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "alloyxai-0.1.5.tar.gz",
-  "download_time": "2026-05-04T14:43:17.407985",
+  "download_filename": "alloyxai-0.1.6.tar.gz",
+  "download_time": "2026-05-05T04:09:28.521435",
   "package_url": "https://pypi.org/project/alloyxai/"
 }

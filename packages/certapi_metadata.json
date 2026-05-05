@@ -1,11 +1,11 @@
 {
   "name": "certapi",
-  "version": "1.1.1",
+  "version": "1.1.9",
   "summary": "Python Package for managing keys, request SSL certificates from ACME.",
   "author": "Sudip Bhattarai",
   "license": null,
   "home_page": "https://github.com/mesudip/certapi",
-  "download_filename": "certapi-1.1.1.tar.gz",
-  "download_time": "2026-04-18T10:13:16.871717",
+  "download_filename": "certapi-1.1.9.tar.gz",
+  "download_time": "2026-05-05T04:09:15.312931",
   "package_url": "https://pypi.org/project/certapi/"
 }

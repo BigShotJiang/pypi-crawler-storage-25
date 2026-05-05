@@ -1,11 +1,11 @@
 {
   "name": "siglume-api-sdk",
-  "version": "0.10.1",
+  "version": "0.10.2",
   "summary": "SDK for building agent APIs on the Siglume Agent API Store",
   "author": "Siglume Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "siglume_api_sdk-0.10.1.tar.gz",
-  "download_time": "2026-04-26T06:45:11.082464",
+  "download_filename": "siglume_api_sdk-0.10.2.tar.gz",
+  "download_time": "2026-05-05T04:09:22.784026",
   "package_url": "https://pypi.org/project/siglume-api-sdk/"
 }

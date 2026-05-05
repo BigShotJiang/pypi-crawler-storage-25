@@ -1,11 +1,11 @@
 {
   "name": "agents-shipgate",
-  "version": "0.5.0",
-  "summary": "Static release-readiness scanner for AI agent tool surfaces (MCP, OpenAPI, OpenAI Agents SDK, Anthropic Messages API, Google ADK, LangChain, CrewAI). CLI + GitHub Action.",
+  "version": "0.7.0",
+  "summary": "Static release-readiness gate for AI agent tool surfaces. CLI + GitHub Action. Scans MCP, OpenAPI, OpenAI Agents SDK, Anthropic, Google ADK, LangChain, CrewAI.",
   "author": "Agents Shipgate Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "agents_shipgate-0.5.0.tar.gz",
-  "download_time": "2026-04-29T05:00:22.057332",
+  "download_filename": "agents_shipgate-0.7.0.tar.gz",
+  "download_time": "2026-05-05T04:09:25.913346",
   "package_url": "https://pypi.org/project/agents-shipgate/"
 }

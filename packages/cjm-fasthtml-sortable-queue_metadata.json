@@ -1,0 +1,11 @@
+{
+  "name": "cjm-fasthtml-sortable-queue",
+  "version": "0.0.13",
+  "summary": "A reusable FastHTML component for Sortable.js-enhanced ordered queue panels with drag-and-drop reorder, keyboard navigation, and HTMX-powered mutations.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cjm_fasthtml_sortable_queue-0.0.13.tar.gz",
+  "download_time": "2026-05-05T04:09:13.196908",
+  "package_url": "https://pypi.org/project/cjm-fasthtml-sortable-queue/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-project-version",
+  "version": "19.0.1.0.0.5",
+  "summary": "Project Version",
+  "author": "Lansana Barry Sow, APSL-Nagarro, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/project",
+  "download_filename": "odoo_addon_project_version-19.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2026-05-05T04:09:40.833165",
+  "package_url": "https://pypi.org/project/odoo-addon-project-version/"
+}

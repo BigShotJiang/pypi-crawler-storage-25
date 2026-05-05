@@ -1,11 +1,11 @@
 {
   "name": "cosmolkit",
-  "version": "0.0.7",
+  "version": "0.1.2",
   "summary": "Python bindings for COSMolKit",
   "author": "COSMolKit Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cosmolkit-0.0.7.tar.gz",
-  "download_time": "2026-04-29T13:23:19.456296",
+  "download_filename": "cosmolkit-0.1.2.tar.gz",
+  "download_time": "2026-05-05T04:09:38.150894",
   "package_url": "https://pypi.org/project/cosmolkit/"
 }

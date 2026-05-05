@@ -1,0 +1,11 @@
+{
+  "name": "csv2geo",
+  "version": "1.2.0",
+  "summary": "Python SDK for CSV2GEO Geocoding API — 461M+ addresses, 39 countries, 42+ endpoints. Forward, reverse, batch, places, divisions (incl. postcode → boundary), IP geolocation with county overlay, coverage, autocomplete. 3,000 free requests/day.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "csv2geo-1.2.0.tar.gz",
+  "download_time": "2026-05-05T04:09:27.999287",
+  "package_url": "https://pypi.org/project/csv2geo/"
+}

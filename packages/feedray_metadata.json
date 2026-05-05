@@ -1,0 +1,11 @@
+{
+  "name": "feedray",
+  "version": "0.3.0",
+  "summary": "FastAPI news intelligence service with source crawling, AI article analysis, event clustering, timelines, and recommendations.",
+  "author": "johnvonneumann36",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "feedray-0.3.0.tar.gz",
+  "download_time": "2026-05-05T04:09:14.237512",
+  "package_url": "https://pypi.org/project/feedray/"
+}

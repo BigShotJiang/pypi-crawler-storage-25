@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-rma-sale-delivery",
+  "version": "18.0.1.1.0.2",
+  "summary": "RMA Sale Delivery",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/rma",
+  "download_filename": "odoo_addon_rma_sale_delivery-18.0.1.1.0.2-py3-none-any.whl",
+  "download_time": "2026-05-05T04:09:16.934695",
+  "package_url": "https://pypi.org/project/odoo-addon-rma-sale-delivery/"
+}

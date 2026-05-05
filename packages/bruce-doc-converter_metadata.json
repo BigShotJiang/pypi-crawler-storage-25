@@ -1,0 +1,11 @@
+{
+  "name": "bruce-doc-converter",
+  "version": "0.1.1",
+  "summary": "Agent-facing document converter CLI for Office/PDF/Markdown workflows",
+  "author": "Bruce",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bruce_doc_converter-0.1.1.tar.gz",
+  "download_time": "2026-05-05T04:09:06.946751",
+  "package_url": "https://pypi.org/project/bruce-doc-converter/"
+}

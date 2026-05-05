@@ -1,11 +1,11 @@
 {
   "name": "dwilson-webcache-client",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Python client for the WebCache REST API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dwilson_webcache_client-0.1.0.tar.gz",
-  "download_time": "2026-05-04T23:59:30.944342",
+  "download_filename": "dwilson_webcache_client-0.3.0.tar.gz",
+  "download_time": "2026-05-05T04:09:19.677163",
   "package_url": "https://pypi.org/project/dwilson-webcache-client/"
 }
