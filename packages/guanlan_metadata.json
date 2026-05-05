@@ -1,11 +1,11 @@
 {
   "name": "guanlan",
-  "version": "0.5.9",
+  "version": "0.5.13",
   "summary": "Guanlan: a China-aware source and platform router for AI agents.",
   "author": "Guanlan Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "guanlan-0.5.9.tar.gz",
-  "download_time": "2026-05-04T14:43:30.900976",
+  "download_filename": "guanlan-0.5.13.tar.gz",
+  "download_time": "2026-05-05T16:03:17.524305",
   "package_url": "https://pypi.org/project/guanlan/"
 }

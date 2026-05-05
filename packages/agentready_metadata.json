@@ -1,0 +1,11 @@
+{
+  "name": "agentready",
+  "version": "2.33.0",
+  "summary": "Assess and bootstrap git repositories for AI-assisted development with automated remediation and continuous learning",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentready-2.33.0.tar.gz",
+  "download_time": "2026-05-05T16:03:15.907746",
+  "package_url": "https://pypi.org/project/agentready/"
+}

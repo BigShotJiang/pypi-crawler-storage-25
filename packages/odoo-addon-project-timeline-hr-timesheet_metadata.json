@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-project-timeline-hr-timesheet",
+  "version": "19.0.1.0.0.2",
+  "summary": "Shows the progress of tasks on the timeline view.",
+  "author": "Onestein, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/project",
+  "download_filename": "odoo_addon_project_timeline_hr_timesheet-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-05-05T16:03:13.785579",
+  "package_url": "https://pypi.org/project/odoo-addon-project-timeline-hr-timesheet/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dxpdf",
-  "version": "0.2.8",
+  "version": "0.2.20",
   "summary": "A fast DOCX-to-PDF converter powered by Skia, written in Rust",
   "author": null,
   "license": "MIT",
   "home_page": "https://nerdy.pro",
-  "download_filename": "dxpdf-0.2.8.tar.gz",
-  "download_time": "2026-04-19T11:56:47.101586",
+  "download_filename": "dxpdf-0.2.20.tar.gz",
+  "download_time": "2026-05-05T16:03:08.501811",
   "package_url": "https://pypi.org/project/dxpdf/"
 }

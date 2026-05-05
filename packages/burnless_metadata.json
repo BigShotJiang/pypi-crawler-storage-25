@@ -1,11 +1,11 @@
 {
   "name": "burnless",
-  "version": "0.6.1",
-  "summary": "Intent-compressed orchestration for multi-turn LLM loops.",
+  "version": "0.6.6",
+  "summary": "The TCP/IP of agentic LLM orchestration. Separates cognitive execution from state management to make multi-turn agent loops practically linear in cost.",
   "author": "Roberto Monticelli Wydra",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "burnless-0.6.1.tar.gz",
-  "download_time": "2026-05-04T22:25:20.796253",
+  "download_filename": "burnless-0.6.6.tar.gz",
+  "download_time": "2026-05-05T16:03:09.549573",
   "package_url": "https://pypi.org/project/burnless/"
 }

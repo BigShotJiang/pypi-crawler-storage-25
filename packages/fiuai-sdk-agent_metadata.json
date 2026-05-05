@@ -1,0 +1,11 @@
+{
+  "name": "fiuai-sdk-agent",
+  "version": "0.4.8",
+  "summary": "FiuAI SDK Agent - A framework for building AI agents with LLM support, context management, and event handling",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "fiuai_sdk_agent-0.4.8.tar.gz",
+  "download_time": "2026-05-05T16:02:53.505057",
+  "package_url": "https://pypi.org/project/fiuai-sdk-agent/"
+}

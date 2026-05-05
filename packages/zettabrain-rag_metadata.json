@@ -1,11 +1,11 @@
 {
   "name": "zettabrain-rag",
-  "version": "0.3.8",
+  "version": "0.4.0",
   "summary": "Local private RAG pipeline with GUI — LangChain + Ollama + ChromaDB + NFS",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zettabrain_rag-0.3.8.tar.gz",
-  "download_time": "2026-05-04T22:25:37.443507",
+  "download_filename": "zettabrain_rag-0.4.0.tar.gz",
+  "download_time": "2026-05-05T16:02:34.257672",
   "package_url": "https://pypi.org/project/zettabrain-rag/"
 }

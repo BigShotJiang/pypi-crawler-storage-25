@@ -1,11 +1,11 @@
 {
   "name": "jazzmine",
-  "version": "0.1.37",
+  "version": "0.1.42",
   "summary": "Core runtime, agent framework, and Rust bindings for the Jazzmine ecosystem",
   "author": null,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "jazzmine-0.1.37.tar.gz",
-  "download_time": "2026-04-15T20:53:05.921421",
+  "download_filename": "jazzmine-0.1.42.tar.gz",
+  "download_time": "2026-05-05T16:02:58.328619",
   "package_url": "https://pypi.org/project/jazzmine/"
 }

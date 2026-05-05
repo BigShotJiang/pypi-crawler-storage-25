@@ -1,0 +1,11 @@
+{
+  "name": "prod-fs",
+  "version": "1.0.6",
+  "summary": "ProD: A visualizable filter-feature selection method based on prodding the class probability densities for overlapping",
+  "author": "RenZhen95",
+  "license": null,
+  "home_page": null,
+  "download_filename": "prod_fs-1.0.6.tar.gz",
+  "download_time": "2026-05-05T16:02:33.714672",
+  "package_url": "https://pypi.org/project/prod-fs/"
+}

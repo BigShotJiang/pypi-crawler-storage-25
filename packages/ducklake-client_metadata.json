@@ -1,11 +1,11 @@
 {
   "name": "ducklake-client",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Lightweight wrapper over DuckDB with convenience helpers for DuckLake.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ducklake_client-0.1.1.tar.gz",
-  "download_time": "2026-05-05T11:57:43.020545",
+  "download_filename": "ducklake_client-0.1.2.tar.gz",
+  "download_time": "2026-05-05T16:02:44.908681",
   "package_url": "https://pypi.org/project/ducklake-client/"
 }

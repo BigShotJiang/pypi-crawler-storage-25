@@ -1,0 +1,11 @@
+{
+  "name": "servicenow-mcp-plus",
+  "version": "0.3.0",
+  "summary": "Enhanced ServiceNow MCP server with OAuth2 client_credentials support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "servicenow_mcp_plus-0.3.0.tar.gz",
+  "download_time": "2026-05-05T16:03:14.844780",
+  "package_url": "https://pypi.org/project/servicenow-mcp-plus/"
+}

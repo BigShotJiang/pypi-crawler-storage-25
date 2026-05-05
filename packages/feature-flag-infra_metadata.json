@@ -1,0 +1,11 @@
+{
+  "name": "feature-flag-infra",
+  "version": "0.2.0",
+  "summary": "Reusable feature flag infrastructure for Django and Python projects (Plug and Play).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "feature_flag_infra-0.2.0.tar.gz",
+  "download_time": "2026-05-05T16:03:01.538457",
+  "package_url": "https://pypi.org/project/feature-flag-infra/"
+}

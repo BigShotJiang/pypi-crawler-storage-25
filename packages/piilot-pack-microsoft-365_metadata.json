@@ -1,0 +1,11 @@
+{
+  "name": "piilot-pack-microsoft-365",
+  "version": "0.2.3",
+  "summary": "Microsoft 365 connector for Piilot — Outlook, OneDrive, SharePoint, Teams via Microsoft Graph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "piilot_pack_microsoft_365-0.2.3.tar.gz",
+  "download_time": "2026-05-05T16:03:22.873688",
+  "package_url": "https://pypi.org/project/piilot-pack-microsoft-365/"
+}

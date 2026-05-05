@@ -1,11 +1,11 @@
 {
   "name": "pyinc",
-  "version": "1.0.1",
+  "version": "2.1.0",
   "summary": "A correctness-first incremental query engine for Python.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pyinc-1.0.1.tar.gz",
-  "download_time": "2026-04-18T18:00:17.540956",
+  "download_filename": "pyinc-2.1.0.tar.gz",
+  "download_time": "2026-05-05T16:02:42.787396",
   "package_url": "https://pypi.org/project/pyinc/"
 }

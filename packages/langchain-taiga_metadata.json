@@ -1,0 +1,11 @@
+{
+  "name": "langchain-taiga",
+  "version": "2.2.5",
+  "summary": "Python toolkit that lets your LangChain agents automate Taiga: create, search, edit & comment on user stories, tasks and issues via the official REST API. v2 introduces the multi-tenant remote MCP mode (HTTP+OAuth) alongside the existing stdio transport.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_taiga-2.2.5.tar.gz",
+  "download_time": "2026-05-05T16:03:20.731749",
+  "package_url": "https://pypi.org/project/langchain-taiga/"
+}

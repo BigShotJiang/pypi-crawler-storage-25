@@ -1,11 +1,11 @@
 {
   "name": "pact-passport",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "PACT Passport — agent ID. Self-certifying identity, holder-bound capabilities, audit receipts.",
   "author": "Benjamin Easington",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pact_passport-0.5.2.tar.gz",
-  "download_time": "2026-05-05T04:08:57.020023",
+  "download_filename": "pact_passport-0.5.3.tar.gz",
+  "download_time": "2026-05-05T16:02:38.525584",
   "package_url": "https://pypi.org/project/pact-passport/"
 }

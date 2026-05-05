@@ -1,11 +1,11 @@
 {
   "name": "proxbox-api",
-  "version": "0.0.10",
+  "version": "0.0.10.post2",
   "summary": "Proxbox API service made using FastAPI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "proxbox_api-0.0.10.tar.gz",
-  "download_time": "2026-05-04T23:59:20.868673",
+  "download_filename": "proxbox_api-0.0.10.post2.tar.gz",
+  "download_time": "2026-05-05T16:03:07.441432",
   "package_url": "https://pypi.org/project/proxbox-api/"
 }
