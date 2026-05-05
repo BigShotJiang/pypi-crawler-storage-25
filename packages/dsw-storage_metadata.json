@@ -1,0 +1,11 @@
+{
+  "name": "dsw-storage",
+  "version": "4.30.0",
+  "summary": "Library for managing DSW S3 storage",
+  "author": "Marek Suchánek",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "dsw_storage-4.30.0.tar.gz",
+  "download_time": "2026-05-05T06:24:53.910915",
+  "package_url": "https://pypi.org/project/dsw-storage/"
+}

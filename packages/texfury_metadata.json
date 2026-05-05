@@ -1,11 +1,11 @@
 {
   "name": "texfury",
-  "version": "1.5.2",
+  "version": "1.6.0",
   "summary": "Fast image-to-DDS conversion and YTD texture dictionary toolkit",
   "author": "Hancapo",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "texfury-1.5.2.tar.gz",
-  "download_time": "2026-03-31T08:08:40.603864",
+  "download_filename": "texfury-1.6.0.tar.gz",
+  "download_time": "2026-05-05T06:24:26.297482",
   "package_url": "https://pypi.org/project/texfury/"
 }

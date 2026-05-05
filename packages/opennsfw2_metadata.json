@@ -1,11 +1,11 @@
 {
   "name": "opennsfw2",
-  "version": "0.16.0",
+  "version": "0.17.1",
   "summary": "TensorFlow 2 implementation of the Yahoo Open-NSFW model",
   "author": "attr: opennsfw2.__author__",
   "license": null,
   "home_page": "https://github.com/bhky/opennsfw2",
-  "download_filename": "opennsfw2-0.16.0.tar.gz",
-  "download_time": "2026-05-03T07:30:53.620765",
+  "download_filename": "opennsfw2-0.17.1.tar.gz",
+  "download_time": "2026-05-05T06:25:05.409321",
   "package_url": "https://pypi.org/project/opennsfw2/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "caselaw-mcp",
+  "version": "0.8.0",
+  "summary": "법제처 국가법령정보 공동활용 OpenAPI 기반 MCP 서버 (변호사·로펌 AI 보조)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "caselaw_mcp-0.8.0.tar.gz",
+  "download_time": "2026-05-05T06:24:41.922893",
+  "package_url": "https://pypi.org/project/caselaw-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tensor-optix",
-  "version": "1.13.0",
+  "version": "1.14.4",
   "summary": "Autonomous training loop for any sequential learning model — PPO, DQN, SAC, TD3, Rainbow DQN, Recurrent PPO for TensorFlow, PyTorch, and JAX/Flax; distributed async actor-learner (IMPALA + V-trace)",
   "author": "sup3rus3r",
   "license": null,
   "home_page": null,
-  "download_filename": "tensor_optix-1.13.0.tar.gz",
-  "download_time": "2026-05-04T10:47:58.038371",
+  "download_filename": "tensor_optix-1.14.4.tar.gz",
+  "download_time": "2026-05-05T06:25:04.366475",
   "package_url": "https://pypi.org/project/tensor-optix/"
 }

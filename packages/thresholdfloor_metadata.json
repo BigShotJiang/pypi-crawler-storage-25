@@ -1,11 +1,11 @@
 {
   "name": "thresholdfloor",
-  "version": "0.1.6",
+  "version": "0.2.4",
   "summary": "A floor below for tuning to what's above",
   "author": "WitchMithras",
   "license": "Proprietary (staging)",
   "home_page": null,
-  "download_filename": "thresholdfloor-0.1.6.tar.gz",
-  "download_time": "2026-05-01T23:19:33.210912",
+  "download_filename": "thresholdfloor-0.2.4-py3-none-any.whl",
+  "download_time": "2026-05-05T06:25:06.452923",
   "package_url": "https://pypi.org/project/thresholdfloor/"
 }

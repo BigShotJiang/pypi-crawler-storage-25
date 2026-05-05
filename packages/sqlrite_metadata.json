@@ -1,11 +1,11 @@
 {
   "name": "sqlrite",
-  "version": "0.1.24",
+  "version": "0.4.0",
   "summary": "Python bindings for SQLRite — a small, embeddable SQLite clone written in Rust.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sqlrite-0.1.24.tar.gz",
-  "download_time": "2026-05-02T08:15:21.388167",
+  "download_filename": "sqlrite-0.4.0.tar.gz",
+  "download_time": "2026-05-05T06:24:57.030270",
   "package_url": "https://pypi.org/project/sqlrite/"
 }

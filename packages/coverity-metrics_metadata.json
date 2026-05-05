@@ -1,0 +1,11 @@
+{
+  "name": "coverity-metrics",
+  "version": "1.0.16",
+  "summary": "Comprehensive metrics and dashboard generator for Coverity static analysis",
+  "author": "Jouni Lehto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coverity_metrics-1.0.16.tar.gz",
+  "download_time": "2026-05-05T06:24:44.518088",
+  "package_url": "https://pypi.org/project/coverity-metrics/"
+}
