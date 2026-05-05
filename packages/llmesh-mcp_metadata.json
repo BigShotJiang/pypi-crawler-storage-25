@@ -1,0 +1,11 @@
+{
+  "name": "llmesh-mcp",
+  "version": "0.1.1",
+  "summary": "Secure Local LLM Swarm over MCP",
+  "author": "Kazufumi Furuse",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llmesh_mcp-0.1.1.tar.gz",
+  "download_time": "2026-05-05T10:31:03.905895",
+  "package_url": "https://pypi.org/project/llmesh-mcp/"
+}

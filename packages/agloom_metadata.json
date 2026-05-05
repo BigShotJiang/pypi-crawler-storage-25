@@ -1,11 +1,11 @@
 {
   "name": "agloom",
-  "version": "0.1.19",
+  "version": "0.1.26",
   "summary": "The intelligent fabric for AI agents — 9 execution patterns, auto-classified, self-learning, production-ready. Drop-in replacement for LangChain's create_agent.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agloom-0.1.19.tar.gz",
-  "download_time": "2026-05-05T08:42:03.191595",
+  "download_filename": "agloom-0.1.26.tar.gz",
+  "download_time": "2026-05-05T10:30:52.267204",
   "package_url": "https://pypi.org/project/agloom/"
 }

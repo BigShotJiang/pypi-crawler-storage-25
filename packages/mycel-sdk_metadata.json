@@ -1,11 +1,11 @@
 {
   "name": "mycel-sdk",
-  "version": "0.1.43",
+  "version": "0.1.45",
   "summary": "Python SDK for Mycel chat and agent APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mycel_sdk-0.1.43.tar.gz",
-  "download_time": "2026-05-05T06:24:49.764292",
+  "download_filename": "mycel_sdk-0.1.45.tar.gz",
+  "download_time": "2026-05-05T10:31:05.640038",
   "package_url": "https://pypi.org/project/mycel-sdk/"
 }

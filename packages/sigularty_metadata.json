@@ -1,0 +1,11 @@
+{
+  "name": "sigularty",
+  "version": "2.0.6",
+  "summary": "Production-grade PyTorch model compression: pruning, LRF, clustering, quantization, GPTQ.",
+  "author": "sigularty",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sigularty-2.0.6-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2026-05-05T10:31:24.130083",
+  "package_url": "https://pypi.org/project/sigularty/"
+}

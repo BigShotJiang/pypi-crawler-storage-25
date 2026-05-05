@@ -1,11 +1,11 @@
 {
   "name": "ellf-pam-sdk",
-  "version": "14.1.10",
+  "version": "16.0.2",
   "summary": "Ellf Annotation Manager SDK",
   "author": "ExplosionAI GmbH",
   "license": "All rights reserved",
   "home_page": "https://github.com/explosion/ellf",
-  "download_filename": "ellf_pam_sdk-14.1.10.tar.gz",
-  "download_time": "2026-05-04T16:33:29.412625",
+  "download_filename": "ellf_pam_sdk-16.0.2.tar.gz",
+  "download_time": "2026-05-05T10:31:27.060259",
   "package_url": "https://pypi.org/project/ellf-pam-sdk/"
 }

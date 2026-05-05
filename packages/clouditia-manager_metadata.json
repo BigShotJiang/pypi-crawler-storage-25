@@ -1,0 +1,11 @@
+{
+  "name": "clouditia-manager",
+  "version": "1.10.1",
+  "summary": "Manage GPU sessions on Clouditia platform",
+  "author": "Aina KIKI-SAGBE",
+  "license": "MIT",
+  "home_page": "https://clouditia.com",
+  "download_filename": "clouditia_manager-1.10.1.tar.gz",
+  "download_time": "2026-05-05T10:31:33.280781",
+  "package_url": "https://pypi.org/project/clouditia-manager/"
+}

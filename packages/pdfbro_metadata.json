@@ -1,0 +1,11 @@
+{
+  "name": "pdfbro",
+  "version": "0.2.0",
+  "summary": "pdfbro: Rust-native PDF conversion, embeddable in Python.",
+  "author": null,
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "pdfbro-0.2.0.tar.gz",
+  "download_time": "2026-05-05T10:30:55.737394",
+  "package_url": "https://pypi.org/project/pdfbro/"
+}

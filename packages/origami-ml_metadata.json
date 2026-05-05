@@ -1,0 +1,11 @@
+{
+  "name": "origami-ml",
+  "version": "0.3.0",
+  "summary": "An ML classifier model to make predictions from semi-structured data.",
+  "author": "Thomas Rueckstiess",
+  "license": null,
+  "home_page": "https://github.com/rueckstiess/origami",
+  "download_filename": "origami_ml-0.3.0.tar.gz",
+  "download_time": "2026-05-05T10:31:14.623518",
+  "package_url": "https://pypi.org/project/origami-ml/"
+}

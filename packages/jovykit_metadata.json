@@ -1,11 +1,11 @@
 {
   "name": "jovykit",
-  "version": "0.2.0",
+  "version": "1.1.1",
   "summary": "Layered Jupyter container images and project-local JovyKit environments.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jovykit-0.2.0.tar.gz",
-  "download_time": "2026-05-05T08:42:20.141014",
+  "download_filename": "jovykit-1.1.1.tar.gz",
+  "download_time": "2026-05-05T10:31:34.398847",
   "package_url": "https://pypi.org/project/jovykit/"
 }

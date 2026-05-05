@@ -1,0 +1,11 @@
+{
+  "name": "multimodars",
+  "version": "0.3.2",
+  "summary": "A Rust-powered cardiac multi-image modality fusion package",
+  "author": "Anselm W. Stark",
+  "license": null,
+  "home_page": null,
+  "download_filename": "multimodars-0.3.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-05-05T10:30:48.206732",
+  "package_url": "https://pypi.org/project/multimodars/"
+}

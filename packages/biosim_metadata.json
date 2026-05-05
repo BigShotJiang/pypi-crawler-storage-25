@@ -1,11 +1,11 @@
 {
   "name": "biosim",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "summary": "Core simulation library for Biosimulant",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "biosim-0.0.3.tar.gz",
-  "download_time": "2026-04-11T14:00:04.600537",
+  "download_filename": "biosim-0.0.6.tar.gz",
+  "download_time": "2026-05-05T10:31:22.728299",
   "package_url": "https://pypi.org/project/biosim/"
 }

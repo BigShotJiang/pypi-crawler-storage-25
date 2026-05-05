@@ -1,11 +1,11 @@
 {
   "name": "bruvtab",
-  "version": "2.0.4",
+  "version": "2.0.12",
   "summary": "Control your browser's tabs from the command line",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bruvtab-2.0.4.tar.gz",
-  "download_time": "2026-05-04T14:43:28.291918",
+  "download_filename": "bruvtab-2.0.12.tar.gz",
+  "download_time": "2026-05-05T10:30:47.016462",
   "package_url": "https://pypi.org/project/bruvtab/"
 }

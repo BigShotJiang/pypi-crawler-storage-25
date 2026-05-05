@@ -1,0 +1,11 @@
+{
+  "name": "dcc-json-toolkit",
+  "version": "1.0.0rc0",
+  "summary": "Converter to extract data out of DCC (.xml) files, exporting it as a python dict or a .json file.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dcc_json_toolkit-1.0.0rc0.tar.gz",
+  "download_time": "2026-05-05T10:31:00.494074",
+  "package_url": "https://pypi.org/project/dcc-json-toolkit/"
+}

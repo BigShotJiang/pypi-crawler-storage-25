@@ -1,0 +1,11 @@
+{
+  "name": "pycldf",
+  "version": "2.0.0",
+  "summary": "A python library to read and write CLDF datasets",
+  "author": "Robert Forkel",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/cldf/pycldf",
+  "download_filename": "pycldf-2.0.0.tar.gz",
+  "download_time": "2026-05-05T10:31:32.192540",
+  "package_url": "https://pypi.org/project/pycldf/"
+}
