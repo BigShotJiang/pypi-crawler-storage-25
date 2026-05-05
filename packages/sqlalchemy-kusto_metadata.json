@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-kusto",
+  "version": "3.1.2",
+  "summary": "Azure Data Explorer (Kusto) dialect for SQLAlchemy",
+  "author": "Dodo Engineering",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/dodopizza/sqlalchemy-kusto",
+  "download_filename": "sqlalchemy_kusto-3.1.2.tar.gz",
+  "download_time": "2026-05-05T11:57:46.050585",
+  "package_url": "https://pypi.org/project/sqlalchemy-kusto/"
+}

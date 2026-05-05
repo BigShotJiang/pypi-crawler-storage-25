@@ -1,0 +1,11 @@
+{
+  "name": "pyavrocd",
+  "version": "1.2.0",
+  "summary": "A cross-platform GDB server for AVR MCUs",
+  "author": "Bernhard Nebel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyavrocd-1.2.0.tar.gz",
+  "download_time": "2026-05-05T11:57:20.161688",
+  "package_url": "https://pypi.org/project/pyavrocd/"
+}

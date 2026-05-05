@@ -1,0 +1,11 @@
+{
+  "name": "pyflashdb",
+  "version": "1.0.2",
+  "summary": "A unified, trigger-aware database interface for MySQL, PostgreSQL, and MongoDB.",
+  "author": "Flash Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyflashdb-1.0.2.tar.gz",
+  "download_time": "2026-05-05T11:57:41.218321",
+  "package_url": "https://pypi.org/project/pyflashdb/"
+}

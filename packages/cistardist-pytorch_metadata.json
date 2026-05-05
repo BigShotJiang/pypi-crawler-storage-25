@@ -1,0 +1,11 @@
+{
+  "name": "cistardist-pytorch",
+  "version": "0.3.0",
+  "summary": "PyTorch-only StarDist 2D inference for Keras H5 StarDist weights.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cistardist_pytorch-0.3.0.tar.gz",
+  "download_time": "2026-05-05T11:57:26.858631",
+  "package_url": "https://pypi.org/project/cistardist-pytorch/"
+}

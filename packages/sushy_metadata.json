@@ -1,0 +1,11 @@
+{
+  "name": "sushy",
+  "version": "5.10.1",
+  "summary": "Sushy is a small Python library to communicate with Redfish based systems",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/sushy/latest/",
+  "download_filename": "sushy-5.10.1.tar.gz",
+  "download_time": "2026-05-05T11:57:16.682148",
+  "package_url": "https://pypi.org/project/sushy/"
+}

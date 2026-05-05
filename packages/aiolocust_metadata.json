@@ -1,0 +1,11 @@
+{
+  "name": "aiolocust",
+  "version": "0.6.2",
+  "summary": "High performance Python-based load testing tool",
+  "author": "Lars Holmberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiolocust-0.6.2.tar.gz",
+  "download_time": "2026-05-05T11:58:04.304552",
+  "package_url": "https://pypi.org/project/aiolocust/"
+}

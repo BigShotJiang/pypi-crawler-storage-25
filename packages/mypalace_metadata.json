@@ -1,0 +1,11 @@
+{
+  "name": "mypalace",
+  "version": "0.8.1",
+  "summary": "MyPalace — standalone memory service for AI assistants. Full HTTP + gRPC surface, multi-tenancy, graph, cache, workers, rate limits, websockets, observability, analytics, bulk import/export, TTL, embedding migration, audit log, memory versioning.",
+  "author": "BangRocket",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypalace-0.8.1.tar.gz",
+  "download_time": "2026-05-05T11:57:45.468632",
+  "package_url": "https://pypi.org/project/mypalace/"
+}

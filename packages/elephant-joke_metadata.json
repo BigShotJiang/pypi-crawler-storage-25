@@ -1,11 +1,11 @@
 {
   "name": "elephant-joke",
-  "version": "3.10",
+  "version": "3.12.0",
   "summary": "A minimal C++ extension with an elephant joke",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "elephant_joke-3.10-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2026-05-05T08:41:41.444342",
+  "download_filename": "elephant_joke-3.12.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-05T11:58:08.887396",
   "package_url": "https://pypi.org/project/elephant-joke/"
 }

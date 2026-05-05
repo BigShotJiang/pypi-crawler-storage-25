@@ -1,0 +1,11 @@
+{
+  "name": "perceptra-detector",
+  "version": "0.2.0",
+  "summary": "Unified, production-ready detection and segmentation framework supporting YOLO, DETR, RT-DETR, and custom models.",
+  "author": "Tannous Geagea",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/tannousgeagea/perceptra-detector",
+  "download_filename": "perceptra_detector-0.2.0.tar.gz",
+  "download_time": "2026-05-05T11:57:17.205499",
+  "package_url": "https://pypi.org/project/perceptra-detector/"
+}

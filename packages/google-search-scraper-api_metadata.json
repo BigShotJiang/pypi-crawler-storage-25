@@ -1,0 +1,11 @@
+{
+  "name": "google-search-scraper-api",
+  "version": "0.0.1",
+  "summary": "Python client for scraping Google Search results using the ScrapingBee Google Search API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "google_search_scraper_api-0.0.1.tar.gz",
+  "download_time": "2026-05-05T11:57:25.172112",
+  "package_url": "https://pypi.org/project/google-search-scraper-api/"
+}

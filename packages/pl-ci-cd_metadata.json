@@ -1,11 +1,11 @@
 {
   "name": "pl-ci-cd",
-  "version": "0.0.53",
+  "version": "0.0.73",
   "summary": "Continuous integration and continuous deployment of python projects.",
   "author": "Peter Lavigne",
   "license": null,
   "home_page": null,
-  "download_filename": "pl_ci_cd-0.0.53.tar.gz",
-  "download_time": "2026-05-04T10:47:47.555090",
+  "download_filename": "pl_ci_cd-0.0.73.tar.gz",
+  "download_time": "2026-05-05T11:57:58.908293",
   "package_url": "https://pypi.org/project/pl-ci-cd/"
 }

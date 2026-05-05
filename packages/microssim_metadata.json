@@ -1,0 +1,11 @@
+{
+  "name": "microssim",
+  "version": "0.0.4",
+  "summary": "Improved structural similarity metrics for comparing microscopy data.",
+  "author": "Ashesh, Joran Deschamps, Florian Jug",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "microssim-0.0.4.tar.gz",
+  "download_time": "2026-05-05T11:57:56.534429",
+  "package_url": "https://pypi.org/project/microssim/"
+}

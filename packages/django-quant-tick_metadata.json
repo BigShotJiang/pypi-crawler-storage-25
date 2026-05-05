@@ -1,0 +1,11 @@
+{
+  "name": "django-quant-tick",
+  "version": "0.1.5",
+  "summary": "Django Quant Tick aggregates candlesticks from high frequency tick data from S3 and REST APIs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_quant_tick-0.1.5.tar.gz",
+  "download_time": "2026-05-05T11:57:16.094319",
+  "package_url": "https://pypi.org/project/django-quant-tick/"
+}

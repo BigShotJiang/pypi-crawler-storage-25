@@ -1,0 +1,11 @@
+{
+  "name": "bugcam",
+  "version": "0.4.0",
+  "summary": "detect and classify insects on a raspberry pi",
+  "author": "Deniz Aydemir",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bugcam-0.4.0.tar.gz",
+  "download_time": "2026-05-05T11:57:29.812829",
+  "package_url": "https://pypi.org/project/bugcam/"
+}

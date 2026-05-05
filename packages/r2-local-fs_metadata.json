@@ -1,0 +1,11 @@
+{
+  "name": "r2-local-fs",
+  "version": "0.1.0",
+  "summary": "Filesystem facade for Wrangler local R2 buckets",
+  "author": "r2-local-fs contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "r2_local_fs-0.1.0.tar.gz",
+  "download_time": "2026-05-05T11:57:30.443967",
+  "package_url": "https://pypi.org/project/r2-local-fs/"
+}
