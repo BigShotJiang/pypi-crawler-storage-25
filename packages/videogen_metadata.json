@@ -1,11 +1,11 @@
 {
   "name": "videogen",
-  "version": "0.0.25",
+  "version": "0.0.35",
   "summary": "Official Python SDK for the VideoGen API. Programmatically generate images, videos, voiceovers, sound effects, and avatars.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "videogen-0.0.25.tar.gz",
-  "download_time": "2026-04-29T21:32:21.522107",
+  "download_filename": "videogen-0.0.35.tar.gz",
+  "download_time": "2026-05-05T22:25:31.325890",
   "package_url": "https://pypi.org/project/videogen/"
 }

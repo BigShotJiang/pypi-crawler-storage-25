@@ -1,11 +1,11 @@
 {
   "name": "elapi",
-  "version": "2.4.11",
+  "version": "2.4.12",
   "summary": "elAPI is a powerful, extensible API client for eLabFTW.",
   "author": "Alexander Haller, Mahadi Xion",
   "license": null,
   "home_page": null,
-  "download_filename": "elapi-2.4.11.tar.gz",
-  "download_time": "2026-04-17T11:20:29.231731",
+  "download_filename": "elapi-2.4.12.tar.gz",
+  "download_time": "2026-05-05T22:25:44.461109",
   "package_url": "https://pypi.org/project/elapi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cxas-scrapi",
+  "version": "1.1.0",
+  "summary": "A high level scripting API for CX Agent Studio developers.",
+  "author": "Patrick Marlow",
+  "license": null,
+  "home_page": "https://github.com/GoogleCloudPlatform/cxas-scrapi",
+  "download_filename": "cxas_scrapi-1.1.0.tar.gz",
+  "download_time": "2026-05-05T22:25:48.626874",
+  "package_url": "https://pypi.org/project/cxas-scrapi/"
+}

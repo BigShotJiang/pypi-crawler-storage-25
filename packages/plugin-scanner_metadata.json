@@ -1,11 +1,11 @@
 {
   "name": "plugin-scanner",
-  "version": "2.0.101",
+  "version": "2.0.102",
   "summary": "Lint, verify, and gate plugin ecosystems for maintainers, CI, and publish workflows.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plugin_scanner-2.0.101.tar.gz",
-  "download_time": "2026-05-05T21:24:46.526297",
+  "download_filename": "plugin_scanner-2.0.102.tar.gz",
+  "download_time": "2026-05-05T22:25:41.312416",
   "package_url": "https://pypi.org/project/plugin-scanner/"
 }

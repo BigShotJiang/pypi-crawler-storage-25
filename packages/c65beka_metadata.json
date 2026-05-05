@@ -1,0 +1,11 @@
+{
+  "name": "c65beka",
+  "version": "1.0.3",
+  "summary": "A bare-bones BGP speaker",
+  "author": "Sam Russell",
+  "license": "Apache-2",
+  "home_page": "https://github.com/c65sdn/beka",
+  "download_filename": "c65beka-1.0.3.tar.gz",
+  "download_time": "2026-05-05T22:25:57.547833",
+  "package_url": "https://pypi.org/project/c65beka/"
+}

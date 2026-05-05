@@ -1,11 +1,11 @@
 {
   "name": "haplohub-cli",
-  "version": "1.0.22",
+  "version": "2.0.1",
   "summary": "HaploHub Command Line Interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "haplohub_cli-1.0.22.tar.gz",
-  "download_time": "2026-04-27T22:21:47.255817",
+  "download_filename": "haplohub_cli-2.0.1.tar.gz",
+  "download_time": "2026-05-05T22:25:39.747417",
   "package_url": "https://pypi.org/project/haplohub-cli/"
 }

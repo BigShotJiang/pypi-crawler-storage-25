@@ -1,11 +1,11 @@
 {
   "name": "kgsim",
-  "version": "0.2.55",
+  "version": "0.2.74",
   "summary": "A library to interact with simulations with.",
   "author": "Keyan Gootkin",
   "license": null,
   "home_page": null,
-  "download_filename": "kgsim-0.2.55.tar.gz",
-  "download_time": "2026-05-04T21:17:56.996503",
+  "download_filename": "kgsim-0.2.74.tar.gz",
+  "download_time": "2026-05-05T22:25:15.909741",
   "package_url": "https://pypi.org/project/kgsim/"
 }

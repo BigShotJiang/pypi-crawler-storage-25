@@ -1,11 +1,11 @@
 {
   "name": "aws-scripts",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "summary": "Some useful AWS scripts I use from time to time",
   "author": "Marcos Martinez",
   "license": "MIT",
   "home_page": "http://github.com/frommelmak/aws-scripts",
-  "download_filename": "aws_scripts-0.1.21.tar.gz",
-  "download_time": "2026-05-05T16:02:32.583944",
+  "download_filename": "aws_scripts-0.1.22.tar.gz",
+  "download_time": "2026-05-05T22:25:18.179977",
   "package_url": "https://pypi.org/project/aws-scripts/"
 }

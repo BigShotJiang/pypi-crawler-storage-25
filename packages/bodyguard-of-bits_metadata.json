@@ -1,11 +1,11 @@
 {
   "name": "bodyguard-of-bits",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "BOB — Bodyguard Of Bits: Linux hardening auditor with CIS benchmark mapping",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bodyguard_of_bits-0.2.3.tar.gz",
-  "download_time": "2026-05-03T22:10:40.623328",
+  "download_filename": "bodyguard_of_bits-0.3.0.tar.gz",
+  "download_time": "2026-05-05T22:25:27.103465",
   "package_url": "https://pypi.org/project/bodyguard-of-bits/"
 }
