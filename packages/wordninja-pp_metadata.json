@@ -1,0 +1,11 @@
+{
+  "name": "wordninja-pp",
+  "version": "0.1.1",
+  "summary": "Probabilistically split concatenated words across 13 languages (English, Spanish, French, German, Italian, Portuguese, Russian, Hebrew, Chinese, Japanese, Korean, Vietnamese)",
+  "author": "primepake",
+  "license": "MIT",
+  "home_page": "https://github.com/primepake/wordninja-pp",
+  "download_filename": "wordninja_pp-0.1.1.tar.gz",
+  "download_time": "2026-05-05T19:04:03.533602",
+  "package_url": "https://pypi.org/project/wordninja-pp/"
+}

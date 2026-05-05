@@ -1,0 +1,11 @@
+{
+  "name": "agentmesh_openai_agents_trust",
+  "version": "3.4.0",
+  "summary": "Trust & governance layer for OpenAI Agents SDK — policy enforcement, trust-gated handoffs, and hash-chained audit trails",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentmesh_openai_agents_trust-3.4.0.tar.gz",
+  "download_time": "2026-05-05T19:04:33.338518",
+  "package_url": "https://pypi.org/project/agentmesh_openai_agents_trust/"
+}

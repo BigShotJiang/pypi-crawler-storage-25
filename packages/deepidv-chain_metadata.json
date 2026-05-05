@@ -1,0 +1,11 @@
+{
+  "name": "deepidv-chain",
+  "version": "1.0.0",
+  "summary": "Python SDK for the deepidv chain layer — attestations, registry, transparency log, and offline bundle verification.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "deepidv_chain-1.0.0.tar.gz",
+  "download_time": "2026-05-05T19:04:02.829237",
+  "package_url": "https://pypi.org/project/deepidv-chain/"
+}

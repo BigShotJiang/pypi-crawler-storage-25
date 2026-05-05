@@ -1,0 +1,11 @@
+{
+  "name": "langgraph_agentmesh",
+  "version": "3.4.0",
+  "summary": "Trust-gated checkpoint nodes for LangGraph — cryptographic identity, policy enforcement, and trust-aware routing for multi-agent graphs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langgraph_agentmesh-3.4.0.tar.gz",
+  "download_time": "2026-05-05T19:04:11.665123",
+  "package_url": "https://pypi.org/project/langgraph_agentmesh/"
+}

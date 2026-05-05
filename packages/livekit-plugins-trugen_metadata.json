@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-trugen",
-  "version": "1.5.5",
+  "version": "1.5.8",
   "summary": "Livekit Agent framework plugin for realtime TruGen AI avatars",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_trugen-1.5.5.tar.gz",
-  "download_time": "2026-04-20T19:14:01.265239",
+  "download_filename": "livekit_plugins_trugen-1.5.8.tar.gz",
+  "download_time": "2026-05-05T19:04:54.521455",
   "package_url": "https://pypi.org/project/livekit-plugins-trugen/"
 }

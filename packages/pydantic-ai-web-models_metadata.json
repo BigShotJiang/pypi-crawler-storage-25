@@ -1,11 +1,11 @@
 {
   "name": "pydantic-ai-web-models",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A lightweight Pydantic AI model provider that routes requests to web-based LLMs (OpenAI, Google) through Temporal workflows.",
   "author": "Eugene Galenko",
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_ai_web_models-0.2.0.tar.gz",
-  "download_time": "2026-04-04T18:46:27.156864",
+  "download_filename": "pydantic_ai_web_models-0.3.0.tar.gz",
+  "download_time": "2026-05-05T19:04:18.815085",
   "package_url": "https://pypi.org/project/pydantic-ai-web-models/"
 }

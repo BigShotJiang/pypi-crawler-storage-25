@@ -1,0 +1,11 @@
+{
+  "name": "trainml",
+  "version": "1.0.2",
+  "summary": "trainML client SDK and command line utilities",
+  "author": "trainML",
+  "license": "MIT",
+  "home_page": "https://github.com/trainML/trainml-cli",
+  "download_filename": "trainml-1.0.2.tar.gz",
+  "download_time": "2026-05-05T19:04:50.425720",
+  "package_url": "https://pypi.org/project/trainml/"
+}

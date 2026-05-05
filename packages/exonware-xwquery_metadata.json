@@ -1,11 +1,11 @@
 {
   "name": "exonware-xwquery",
-  "version": "0.9.0.15",
+  "version": "0.9.0.16",
   "summary": "Universal query language for data structures - 50+ operations, 35+ format converters",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "exonware_xwquery-0.9.0.15.tar.gz",
-  "download_time": "2026-04-12T21:22:29.867400",
+  "download_filename": "exonware_xwquery-0.9.0.16.tar.gz",
+  "download_time": "2026-05-05T19:04:14.475125",
   "package_url": "https://pypi.org/project/exonware-xwquery/"
 }

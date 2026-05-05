@@ -1,0 +1,11 @@
+{
+  "name": "discocan",
+  "version": "0.1.1",
+  "summary": "USB-CAN adapter monitor with TUI, web dashboard, and REST/WS server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "discocan-0.1.1.tar.gz",
+  "download_time": "2026-05-05T19:04:09.955144",
+  "package_url": "https://pypi.org/project/discocan/"
+}

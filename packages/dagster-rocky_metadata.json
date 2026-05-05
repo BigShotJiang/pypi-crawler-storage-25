@@ -1,11 +1,11 @@
 {
   "name": "dagster-rocky",
-  "version": "1.21.0",
+  "version": "1.24.0",
   "summary": "Dagster integration for the Rocky SQL transformation engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dagster_rocky-1.21.0.tar.gz",
-  "download_time": "2026-05-02T23:02:07.347026",
+  "download_filename": "dagster_rocky-1.24.0.tar.gz",
+  "download_time": "2026-05-05T19:04:04.115593",
   "package_url": "https://pypi.org/project/dagster-rocky/"
 }

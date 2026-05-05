@@ -1,0 +1,11 @@
+{
+  "name": "flowise_agentmesh",
+  "version": "3.4.0",
+  "summary": "AgentMesh governance nodes for Flowise — policy enforcement, trust gating, audit logging, and rate limiting for visual AI flows",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flowise_agentmesh-3.4.0.tar.gz",
+  "download_time": "2026-05-05T19:04:26.247852",
+  "package_url": "https://pypi.org/project/flowise_agentmesh/"
+}

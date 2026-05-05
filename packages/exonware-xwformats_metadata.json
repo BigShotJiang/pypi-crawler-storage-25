@@ -1,11 +1,11 @@
 {
   "name": "exonware-xwformats",
-  "version": "0.9.0.33",
+  "version": "0.9.0.35",
   "summary": "Heavyweight serialization formats for xwsystem (schema, scientific, database, binary, RON). CSV/JSON/TOML/YAML/XML, BSON, and other core xwsystem codecs are not registered by this package",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "exonware_xwformats-0.9.0.33.tar.gz",
-  "download_time": "2026-04-12T21:22:32.024931",
+  "download_filename": "exonware_xwformats-0.9.0.35.tar.gz",
+  "download_time": "2026-05-05T19:04:24.548002",
   "package_url": "https://pypi.org/project/exonware-xwformats/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "letpot",
+  "version": "0.7.0",
+  "summary": "Asynchronous Python client for LetPot hydroponic gardens and watering systems.",
+  "author": "Joris Pelgröm",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "letpot-0.7.0.tar.gz",
+  "download_time": "2026-05-05T19:04:42.390826",
+  "package_url": "https://pypi.org/project/letpot/"
+}

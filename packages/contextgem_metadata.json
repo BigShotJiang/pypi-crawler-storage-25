@@ -1,11 +1,11 @@
 {
   "name": "contextgem",
-  "version": "0.23.0",
+  "version": "0.24.0",
   "summary": "Effortless LLM extraction from documents",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "contextgem-0.23.0.tar.gz",
-  "download_time": "2026-05-05T17:33:51.807159",
+  "download_filename": "contextgem-0.24.0.tar.gz",
+  "download_time": "2026-05-05T19:04:15.628314",
   "package_url": "https://pypi.org/project/contextgem/"
 }

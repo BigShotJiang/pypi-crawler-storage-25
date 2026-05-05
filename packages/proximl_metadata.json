@@ -1,0 +1,11 @@
+{
+  "name": "proximl",
+  "version": "1.0.2",
+  "summary": "proxiML client SDK and command line utilities",
+  "author": "proxiML",
+  "license": "MIT",
+  "home_page": "https://github.com/proxiML/python-sdk",
+  "download_filename": "proximl-1.0.2.tar.gz",
+  "download_time": "2026-05-05T19:04:48.779909",
+  "package_url": "https://pypi.org/project/proximl/"
+}

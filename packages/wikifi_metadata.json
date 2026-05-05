@@ -1,0 +1,11 @@
+{
+  "name": "wikifi",
+  "version": "0.1.0",
+  "summary": "Walk any codebase and produce a technology-agnostic markdown wiki of its intent",
+  "author": "codeninja",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wikifi-0.1.0.tar.gz",
+  "download_time": "2026-05-05T19:04:38.913199",
+  "package_url": "https://pypi.org/project/wikifi/"
+}

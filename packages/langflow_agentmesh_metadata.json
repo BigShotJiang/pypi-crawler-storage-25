@@ -1,0 +1,11 @@
+{
+  "name": "langflow_agentmesh",
+  "version": "3.4.0",
+  "summary": "Governance components for Langflow — policy enforcement, trust routing, audit logging, and compliance checking for visual AI flows",
+  "author": "Microsoft Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "langflow_agentmesh-3.4.0.tar.gz",
+  "download_time": "2026-05-05T19:04:31.362840",
+  "package_url": "https://pypi.org/project/langflow_agentmesh/"
+}

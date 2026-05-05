@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-upliftai",
-  "version": "1.5.5",
+  "version": "1.5.8",
   "summary": "Agent Framework plugin for speech synthesis with the Uplift AI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_upliftai-1.5.5.tar.gz",
-  "download_time": "2026-04-20T19:13:59.703203",
+  "download_filename": "livekit_plugins_upliftai-1.5.8.tar.gz",
+  "download_time": "2026-05-05T19:04:52.744463",
   "package_url": "https://pypi.org/project/livekit-plugins-upliftai/"
 }

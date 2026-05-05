@@ -1,0 +1,11 @@
+{
+  "name": "crewai_agentmesh",
+  "version": "3.4.0",
+  "summary": "AgentMesh trust layer for CrewAI — trust-verified crew member selection and capability-gated task assignment",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crewai_agentmesh-3.4.0.tar.gz",
+  "download_time": "2026-05-05T19:04:30.200786",
+  "package_url": "https://pypi.org/project/crewai_agentmesh/"
+}

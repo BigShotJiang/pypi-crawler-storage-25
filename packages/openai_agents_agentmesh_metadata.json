@@ -1,0 +1,11 @@
+{
+  "name": "openai_agents_agentmesh",
+  "version": "3.4.0",
+  "summary": "AgentMesh trust layer for OpenAI Agents SDK — trust-gated function calling and handoff verification",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openai_agents_agentmesh-3.4.0.tar.gz",
+  "download_time": "2026-05-05T19:04:19.391260",
+  "package_url": "https://pypi.org/project/openai_agents_agentmesh/"
+}

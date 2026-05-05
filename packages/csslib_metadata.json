@@ -1,0 +1,11 @@
+{
+  "name": "csslib",
+  "version": "1.2.3",
+  "summary": "CSSlib is an open-source code for building configuration search space (CSS) of disordered crystals, loading of the CSS dataset obtained, local/remote MPI or SLURM calculations and data visualization.",
+  "author": "A.V. Krautsou, A.A. Solovykh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "csslib-1.2.3.tar.gz",
+  "download_time": "2026-05-05T19:04:51.004947",
+  "package_url": "https://pypi.org/project/csslib/"
+}

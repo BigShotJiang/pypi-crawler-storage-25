@@ -1,0 +1,11 @@
+{
+  "name": "pydantic_ai_agentmesh",
+  "version": "3.4.0",
+  "summary": "Governance middleware for PydanticAI — semantic policy enforcement, trust scoring, and audit trails for agent tool execution",
+  "author": "Microsoft Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pydantic_ai_agentmesh-3.4.0.tar.gz",
+  "download_time": "2026-05-05T19:04:33.916879",
+  "package_url": "https://pypi.org/project/pydantic_ai_agentmesh/"
+}
