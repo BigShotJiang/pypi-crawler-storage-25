@@ -1,0 +1,11 @@
+{
+  "name": "chloros-sdk",
+  "version": "1.1.1",
+  "summary": "Official Python SDK for MAPIR Chloros image processing",
+  "author": "MAPIR Inc.",
+  "license": "LicenseRef-Proprietary",
+  "home_page": "https://www.mapir.camera",
+  "download_filename": "chloros_sdk-1.1.1-py3-none-any.whl",
+  "download_time": "2026-05-05T21:24:38.582494",
+  "package_url": "https://pypi.org/project/chloros-sdk/"
+}

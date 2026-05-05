@@ -1,0 +1,11 @@
+{
+  "name": "cplx-mfa",
+  "version": "0.1.0",
+  "summary": "Complex-valued mixture of factor analyzers with a scikit-learn-like API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cplx_mfa-0.1.0.tar.gz",
+  "download_time": "2026-05-05T21:24:37.526867",
+  "package_url": "https://pypi.org/project/cplx-mfa/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "py-mailnow",
+  "version": "0.1.1",
+  "summary": "Python SDK for the Mailnow email API - send emails programmatically with a simple, type-safe interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_mailnow-0.1.1.tar.gz",
+  "download_time": "2026-05-05T21:25:18.579086",
+  "package_url": "https://pypi.org/project/py-mailnow/"
+}

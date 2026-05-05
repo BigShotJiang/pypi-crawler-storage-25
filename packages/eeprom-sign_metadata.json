@@ -1,11 +1,11 @@
 {
   "name": "eeprom-sign",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "summary": "RSA-PSS sign, verify, and batch-flash Raspberry Pi HAT+ EEPROM binaries via I2CDriver",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eeprom_sign-1.0.6.tar.gz",
-  "download_time": "2026-04-27T08:31:44.756684",
+  "download_filename": "eeprom_sign-1.1.0.tar.gz",
+  "download_time": "2026-05-05T21:24:59.701245",
   "package_url": "https://pypi.org/project/eeprom-sign/"
 }

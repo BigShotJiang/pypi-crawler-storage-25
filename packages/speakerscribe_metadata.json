@@ -1,0 +1,11 @@
+{
+  "name": "speakerscribe",
+  "version": "0.1.1",
+  "summary": "Speech-to-text with speaker diarization — Whisper + pyannote.audio, optimized for Google Colab Free Tier (T4 GPU).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "speakerscribe-0.1.1.tar.gz",
+  "download_time": "2026-05-05T21:25:08.070407",
+  "package_url": "https://pypi.org/project/speakerscribe/"
+}

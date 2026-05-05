@@ -1,11 +1,11 @@
 {
   "name": "mokkari",
-  "version": "3.25.0",
+  "version": "3.25.4",
   "summary": "Python wrapper for Metron API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mokkari-3.25.0.tar.gz",
-  "download_time": "2026-04-25T18:13:07.893906",
+  "download_filename": "mokkari-3.25.4.tar.gz",
+  "download_time": "2026-05-05T21:24:40.154699",
   "package_url": "https://pypi.org/project/mokkari/"
 }

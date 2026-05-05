@@ -1,0 +1,11 @@
+{
+  "name": "mapping-encrypt",
+  "version": "0.2.0",
+  "summary": "A custom character encoding package for encrypting Python scripts",
+  "author": "MD Faisal Qureshi",
+  "license": null,
+  "home_page": "https://github.com/mfq2412/Mapping",
+  "download_filename": "mapping_encrypt-0.2.0.tar.gz",
+  "download_time": "2026-05-05T21:24:57.616639",
+  "package_url": "https://pypi.org/project/mapping-encrypt/"
+}

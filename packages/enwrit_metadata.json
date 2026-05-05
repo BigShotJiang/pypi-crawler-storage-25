@@ -1,11 +1,11 @@
 {
   "name": "enwrit",
-  "version": "0.4.10",
-  "summary": "The communication layer for AI agents. Route context between repos, devices, and tools.",
+  "version": "0.4.17",
+  "summary": "The quality and communication layer for AI coding agents. Lint instructions, review plans, check documentation health, and connect agents across repos, devices, and tools.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "enwrit-0.4.10.tar.gz",
-  "download_time": "2026-04-04T15:32:14.578542",
+  "download_filename": "enwrit-0.4.17.tar.gz",
+  "download_time": "2026-05-05T21:24:53.438034",
   "package_url": "https://pypi.org/project/enwrit/"
 }

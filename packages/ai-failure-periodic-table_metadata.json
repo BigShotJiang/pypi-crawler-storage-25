@@ -1,11 +1,11 @@
 {
   "name": "ai-failure-periodic-table",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "summary": "343-class structural taxonomy of AI failure mechanisms with keyword classifier and semantic search",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_failure_periodic_table-1.5.2.tar.gz",
-  "download_time": "2026-04-21T00:06:09.250335",
+  "download_filename": "ai_failure_periodic_table-1.5.3.tar.gz",
+  "download_time": "2026-05-05T21:25:14.356676",
   "package_url": "https://pypi.org/project/ai-failure-periodic-table/"
 }

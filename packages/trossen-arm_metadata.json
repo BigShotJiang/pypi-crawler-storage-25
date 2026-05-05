@@ -1,0 +1,11 @@
+{
+  "name": "trossen-arm",
+  "version": "1.10.0",
+  "summary": "A Python wrapper for the libtrossen_arm C++ library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trossen_arm-1.10.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-05T21:24:53.963076",
+  "package_url": "https://pypi.org/project/trossen-arm/"
+}

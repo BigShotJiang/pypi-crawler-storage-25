@@ -1,11 +1,11 @@
 {
   "name": "tomtoolkit",
-  "version": "2.32.1",
+  "version": "2.32.2",
   "summary": "TOM Toolkit and base modules",
   "author": "TOM Toolkit Project",
   "license": null,
   "home_page": null,
-  "download_filename": "tomtoolkit-2.32.1-py3-none-any.whl",
-  "download_time": "2026-05-02T06:20:37.560497",
+  "download_filename": "tomtoolkit-2.32.2-py3-none-any.whl",
+  "download_time": "2026-05-05T21:25:05.454967",
   "package_url": "https://pypi.org/project/tomtoolkit/"
 }
