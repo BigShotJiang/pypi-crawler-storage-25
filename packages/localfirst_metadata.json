@@ -1,11 +1,11 @@
 {
   "name": "localfirst",
-  "version": "0.1.12",
+  "version": "0.2.2",
   "summary": "Your hardware runs first. Cloud is the exception, not the rule.",
   "author": "LocalFirst AI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "localfirst-0.1.12.tar.gz",
-  "download_time": "2026-05-04T20:06:08.398402",
+  "download_filename": "localfirst-0.2.2.tar.gz",
+  "download_time": "2026-05-05T08:41:55.351838",
   "package_url": "https://pypi.org/project/localfirst/"
 }

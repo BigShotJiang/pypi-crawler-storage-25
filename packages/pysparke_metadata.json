@@ -1,0 +1,11 @@
+{
+  "name": "pysparke",
+  "version": "0.1.2",
+  "summary": "Topic-wise practical code printer for PySpark, time series, MongoDB, PL, CloudSim, and more.",
+  "author": "admin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pysparke-0.1.2-py3-none-any.whl",
+  "download_time": "2026-05-05T08:41:53.796581",
+  "package_url": "https://pypi.org/project/pysparke/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agentprod",
+  "version": "0.0.1",
+  "summary": "Production patterns for indie AI agents — token bucket, cost-aware routing, retry, observability.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentprod-0.0.1.tar.gz",
+  "download_time": "2026-05-05T08:42:06.325198",
+  "package_url": "https://pypi.org/project/agentprod/"
+}

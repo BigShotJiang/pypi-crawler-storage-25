@@ -1,0 +1,11 @@
+{
+  "name": "pyzlc",
+  "version": "2.2.2",
+  "summary": "A lightweight ZeroMQ-based framework for high-performance, cross-environment communication across Local Area Networks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyzlc-2.2.2.tar.gz",
+  "download_time": "2026-05-05T08:41:49.624564",
+  "package_url": "https://pypi.org/project/pyzlc/"
+}

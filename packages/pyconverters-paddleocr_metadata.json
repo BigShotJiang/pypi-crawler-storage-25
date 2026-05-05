@@ -1,11 +1,11 @@
 {
   "name": "pyconverters-paddleocr",
-  "version": "0.6.23",
+  "version": "1.6.31",
   "summary": "Convert PDF to structured text using PaddleOCR",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyconverters_paddleocr-0.6.23-py3-none-any.whl",
-  "download_time": "2026-03-28T15:04:11.497174",
+  "download_filename": "pyconverters_paddleocr-1.6.31.tar.gz",
+  "download_time": "2026-05-05T08:42:04.282394",
   "package_url": "https://pypi.org/project/pyconverters-paddleocr/"
 }

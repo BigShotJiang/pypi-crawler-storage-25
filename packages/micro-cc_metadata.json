@@ -1,11 +1,11 @@
 {
   "name": "micro-cc",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "Harness that gives frontier models full system access — shell, filesystem, browser, MCP — running directly on the metal.",
   "author": "George Salapa",
   "license": null,
   "home_page": null,
-  "download_filename": "micro_cc-0.2.2.tar.gz",
-  "download_time": "2026-04-12T12:08:12.356395",
+  "download_filename": "micro_cc-0.2.5.tar.gz",
+  "download_time": "2026-05-05T08:42:09.407339",
   "package_url": "https://pypi.org/project/micro-cc/"
 }
