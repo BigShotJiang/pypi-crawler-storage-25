@@ -1,0 +1,11 @@
+{
+  "name": "dnacentersdk",
+  "version": "2.11.3",
+  "summary": "Cisco DNA Center Platform SDK",
+  "author": "Jose Bogarin Solano",
+  "license": "MIT",
+  "home_page": "https://dnacentersdk.readthedocs.io/en/latest/",
+  "download_filename": "dnacentersdk-2.11.3.tar.gz",
+  "download_time": "2026-05-05T23:23:53.664980",
+  "package_url": "https://pypi.org/project/dnacentersdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jamlib",
-  "version": "3.1.0",
+  "version": "3.1.2",
   "summary": "Simple and universal library for authorization.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "jamlib-3.1.0.tar.gz",
-  "download_time": "2026-04-16T22:30:56.088199",
+  "download_filename": "jamlib-3.1.2.tar.gz",
+  "download_time": "2026-05-05T23:24:16.301436",
   "package_url": "https://pypi.org/project/jamlib/"
 }

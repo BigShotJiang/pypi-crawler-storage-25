@@ -1,11 +1,11 @@
 {
   "name": "copilot-setup",
-  "version": "0.1.0",
+  "version": "0.3.2",
   "summary": "A TUI dashboard for viewing and managing GitHub Copilot CLI configuration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "copilot_setup-0.1.0.tar.gz",
-  "download_time": "2026-04-29T18:56:52.081139",
+  "download_filename": "copilot_setup-0.3.2.tar.gz",
+  "download_time": "2026-05-05T23:23:49.982972",
   "package_url": "https://pypi.org/project/copilot-setup/"
 }

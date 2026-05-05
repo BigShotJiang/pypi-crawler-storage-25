@@ -1,11 +1,11 @@
 {
   "name": "fmddr",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "A CLI and library for analyzing FileMaker DDRs. Built for agents — JSON-first, scriptable, headless.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fmddr-0.5.0.tar.gz",
-  "download_time": "2026-05-05T21:25:09.109866",
+  "download_filename": "fmddr-0.6.0.tar.gz",
+  "download_time": "2026-05-05T23:23:54.716581",
   "package_url": "https://pypi.org/project/fmddr/"
 }

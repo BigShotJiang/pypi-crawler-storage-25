@@ -1,11 +1,11 @@
 {
   "name": "koraidv",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "Official Python SDK for the Kora IDV identity verification API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "koraidv-1.5.0.tar.gz",
-  "download_time": "2026-05-04T23:59:31.469299",
+  "download_filename": "koraidv-1.5.1.tar.gz",
+  "download_time": "2026-05-05T23:23:43.682791",
   "package_url": "https://pypi.org/project/koraidv/"
 }
