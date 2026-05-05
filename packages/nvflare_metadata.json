@@ -1,0 +1,11 @@
+{
+  "name": "nvflare",
+  "version": "2.7.2",
+  "summary": "Federated Learning Application Runtime Environment",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/NVIDIA/NVFlare",
+  "download_filename": "nvflare-2.7.2-py3-none-any.whl",
+  "download_time": "2026-05-05T00:19:09.921151",
+  "package_url": "https://pypi.org/project/nvflare/"
+}

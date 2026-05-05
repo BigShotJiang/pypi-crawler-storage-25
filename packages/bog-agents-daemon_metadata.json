@@ -1,11 +1,11 @@
 {
   "name": "bog-agents-daemon",
-  "version": "0.7.3",
-  "summary": "Ambient agent daemon for bog-agents — run agents on schedules, file-change triggers, webhooks, and git pushes",
+  "version": "0.8.2",
+  "summary": "Bog Agents Daemon — the patient watcher. Runs your bog-agents on cron schedules, file-change triggers, webhooks, and git push events; survives reboots, persists state, and reports back. Use it when you want an agent that wakes itself rather than waiting for you. Pass through in harmony.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bog_agents_daemon-0.7.3.tar.gz",
-  "download_time": "2026-04-29T22:39:13.379475",
+  "download_filename": "bog_agents_daemon-0.8.2.tar.gz",
+  "download_time": "2026-05-05T00:19:07.822506",
   "package_url": "https://pypi.org/project/bog-agents-daemon/"
 }

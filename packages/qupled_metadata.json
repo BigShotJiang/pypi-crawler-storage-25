@@ -1,11 +1,11 @@
 {
   "name": "qupled",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "summary": "qupled: a package to investigate quantum plasmas via the dielectric formalism",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qupled-1.5.5.tar.gz",
-  "download_time": "2026-04-17T18:11:59.396087",
+  "download_filename": "qupled-1.5.6.tar.gz",
+  "download_time": "2026-05-05T00:19:37.075709",
   "package_url": "https://pypi.org/project/qupled/"
 }

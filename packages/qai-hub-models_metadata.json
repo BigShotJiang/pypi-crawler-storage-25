@@ -1,11 +1,11 @@
 {
   "name": "qai-hub-models",
-  "version": "0.52.0",
+  "version": "0.53.0",
   "summary": "Popular Machine Learning models optimized for Qualcomm chipsets.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qai_hub_models-0.52.0-py3-none-any.whl",
-  "download_time": "2026-04-28T06:53:02.115694",
+  "download_filename": "qai_hub_models-0.53.0-py3-none-any.whl",
+  "download_time": "2026-05-05T00:19:23.210173",
   "package_url": "https://pypi.org/project/qai-hub-models/"
 }

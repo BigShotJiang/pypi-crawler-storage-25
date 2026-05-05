@@ -1,11 +1,11 @@
 {
   "name": "evidentia-ai",
-  "version": "0.7.11",
+  "version": "0.7.12",
   "summary": "LLM-powered risk statement generator and evidence validator for Evidentia",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evidentia_ai-0.7.11.tar.gz",
-  "download_time": "2026-05-04T18:17:33.729509",
+  "download_filename": "evidentia_ai-0.7.12.tar.gz",
+  "download_time": "2026-05-05T00:19:34.749623",
   "package_url": "https://pypi.org/project/evidentia-ai/"
 }

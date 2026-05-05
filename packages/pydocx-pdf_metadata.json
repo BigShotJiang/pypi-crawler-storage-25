@@ -1,0 +1,11 @@
+{
+  "name": "pydocx-pdf",
+  "version": "0.1.0",
+  "summary": "Convert Word documents (.docx) to PDF with no system dependencies. EKS/container safe.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pydocx_pdf-0.1.0.tar.gz",
+  "download_time": "2026-05-05T00:18:58.012319",
+  "package_url": "https://pypi.org/project/pydocx-pdf/"
+}

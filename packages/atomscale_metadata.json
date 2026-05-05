@@ -1,11 +1,11 @@
 {
   "name": "atomscale",
-  "version": "0.11.0",
+  "version": "0.13.0",
   "summary": "Python SDK for Atomscale.",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "atomscale-0.11.0.tar.gz",
-  "download_time": "2026-04-25T20:04:44.270570",
+  "download_filename": "atomscale-0.13.0.tar.gz",
+  "download_time": "2026-05-05T00:19:20.100316",
   "package_url": "https://pypi.org/project/atomscale/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "astrocyte-age",
-  "version": "0.10.0",
+  "version": "0.13.0",
   "summary": "Apache AGE (PostgreSQL graph extension) GraphStore adapter for Astrocyte",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "astrocyte_age-0.10.0.tar.gz",
-  "download_time": "2026-05-02T09:24:34.168509",
+  "download_filename": "astrocyte_age-0.13.0.tar.gz",
+  "download_time": "2026-05-05T00:19:07.308978",
   "package_url": "https://pypi.org/project/astrocyte-age/"
 }

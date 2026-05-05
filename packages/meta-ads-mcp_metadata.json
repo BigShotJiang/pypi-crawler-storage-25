@@ -1,11 +1,11 @@
 {
   "name": "meta-ads-mcp",
-  "version": "1.0.95",
+  "version": "1.0.96",
   "summary": "Model Context Protocol (MCP) server for Meta Ads - Use Remote MCP at pipeboard.co for easiest setup",
   "author": null,
   "license": "BUSL-1.1",
   "home_page": null,
-  "download_filename": "meta_ads_mcp-1.0.95.tar.gz",
-  "download_time": "2026-05-05T00:00:03.554472",
+  "download_filename": "meta_ads_mcp-1.0.96.tar.gz",
+  "download_time": "2026-05-05T00:19:21.985513",
   "package_url": "https://pypi.org/project/meta-ads-mcp/"
 }

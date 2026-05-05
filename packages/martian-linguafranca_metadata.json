@@ -1,11 +1,11 @@
 {
   "name": "martian-linguafranca",
-  "version": "0.3.4",
+  "version": "0.3.6",
   "summary": "LLM API format converter with Rust core and Python bindings",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "martian_linguafranca-0.3.4.tar.gz",
-  "download_time": "2026-04-28T21:51:08.528804",
+  "download_filename": "martian_linguafranca-0.3.6.tar.gz",
+  "download_time": "2026-05-05T00:19:25.340376",
   "package_url": "https://pypi.org/project/martian-linguafranca/"
 }

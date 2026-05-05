@@ -1,11 +1,11 @@
 {
   "name": "zlayer",
-  "version": "0.11.10",
+  "version": "0.11.11",
   "summary": "Python bindings for ZLayer, a lightweight Rust-based container orchestrator with built-in networking, scaling, and observability.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "zlayer-0.11.10.tar.gz",
-  "download_time": "2026-05-02T23:51:03.522586",
+  "download_filename": "zlayer-0.11.11.tar.gz",
+  "download_time": "2026-05-05T00:19:31.618380",
   "package_url": "https://pypi.org/project/zlayer/"
 }

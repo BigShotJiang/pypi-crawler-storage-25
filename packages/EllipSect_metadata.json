@@ -1,0 +1,11 @@
+{
+  "name": "EllipSect",
+  "version": "3.4.5",
+  "summary": "A surface brightness analysis tool for GALFIT output.",
+  "author": "Christopher Añorve",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/canorve/EllipSect",
+  "download_filename": "ellipsect-3.4.5.tar.gz",
+  "download_time": "2026-05-05T00:19:05.237835",
+  "package_url": "https://pypi.org/project/EllipSect/"
+}

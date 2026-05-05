@@ -1,0 +1,11 @@
+{
+  "name": "ephemerides-spectral",
+  "version": "0.3.1",
+  "summary": "High-precision HDC reference instrument for the solar system based on JPL DE441 (with native C backend)",
+  "author": "Steven Kirkland",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ephemerides_spectral-0.3.1.tar.gz",
+  "download_time": "2026-05-05T00:19:12.620017",
+  "package_url": "https://pypi.org/project/ephemerides-spectral/"
+}

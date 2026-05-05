@@ -1,11 +1,11 @@
 {
   "name": "evidentia-collectors",
-  "version": "0.7.11",
+  "version": "0.7.12",
   "summary": "Evidence collection agents for AWS, Databricks, GitHub, Okta, Snowflake, SQL databases, and vendor-risk APIs (Vanta, Drata, BitSight, SecurityScorecard)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evidentia_collectors-0.7.11.tar.gz",
-  "download_time": "2026-05-04T18:17:32.005967",
+  "download_filename": "evidentia_collectors-0.7.12.tar.gz",
+  "download_time": "2026-05-05T00:19:33.697405",
   "package_url": "https://pypi.org/project/evidentia-collectors/"
 }
