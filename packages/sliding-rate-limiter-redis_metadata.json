@@ -1,0 +1,11 @@
+{
+  "name": "sliding-rate-limiter-redis",
+  "version": "1.0.1",
+  "summary": "Redis-backed sliding-window rate limiter for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sliding_rate_limiter_redis-1.0.1.tar.gz",
+  "download_time": "2026-05-06T04:15:42.103001",
+  "package_url": "https://pypi.org/project/sliding-rate-limiter-redis/"
+}

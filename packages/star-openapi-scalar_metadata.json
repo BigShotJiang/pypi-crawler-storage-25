@@ -1,11 +1,11 @@
 {
   "name": "star-openapi-scalar",
-  "version": "1.55.1",
+  "version": "1.55.3",
   "summary": "Provide Scalar UI for star-openapi.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "star_openapi_scalar-1.55.1.tar.gz",
-  "download_time": "2026-05-01T04:27:13.758936",
+  "download_filename": "star_openapi_scalar-1.55.3.tar.gz",
+  "download_time": "2026-05-06T04:16:01.458702",
   "package_url": "https://pypi.org/project/star-openapi-scalar/"
 }

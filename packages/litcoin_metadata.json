@@ -1,11 +1,11 @@
 {
   "name": "litcoin",
-  "version": "4.14.2",
+  "version": "4.14.5",
   "summary": "LITCOIN SDK. Proof-of-comprehension and proof-of-research mining, staking, vaults, LITCREDIT, guilds, autonomous agents, compute, and TCG intelligence (Pokemon, Magic, Yu-Gi-Oh, One Piece, Greed Island) for AI agents on Base.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "litcoin-4.14.2.tar.gz",
-  "download_time": "2026-05-04T18:18:04.695918",
+  "download_filename": "litcoin-4.14.5.tar.gz",
+  "download_time": "2026-05-06T04:15:53.083371",
   "package_url": "https://pypi.org/project/litcoin/"
 }

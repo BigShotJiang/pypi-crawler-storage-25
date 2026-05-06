@@ -1,0 +1,11 @@
+{
+  "name": "preprompt",
+  "version": "0.1.5",
+  "summary": "MCP server that intercepts and optimizes prompts in Claude Code and Cursor",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "preprompt-0.1.5.tar.gz",
+  "download_time": "2026-05-06T04:15:27.940513",
+  "package_url": "https://pypi.org/project/preprompt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yazi-bin",
+  "version": "26.5.6",
+  "summary": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yazi_bin-26.5.6.tar.gz",
+  "download_time": "2026-05-06T04:15:38.968765",
+  "package_url": "https://pypi.org/project/yazi-bin/"
+}

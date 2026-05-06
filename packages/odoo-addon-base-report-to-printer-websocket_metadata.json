@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-base-report-to-printer-websocket",
+  "version": "19.0.1.0.0.4",
+  "summary": "Report to printer via WebSocket",
+  "author": "ForgeFlow,Dixmit,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/report-print-send",
+  "download_filename": "odoo_addon_base_report_to_printer_websocket-19.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-05-06T04:16:06.186149",
+  "package_url": "https://pypi.org/project/odoo-addon-base-report-to-printer-websocket/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "openai-api-server-via-codex",
+  "version": "0.0.1",
+  "summary": "OpenAI-compatible local API server backed by Codex credentials",
+  "author": "hotchpotch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openai_api_server_via_codex-0.0.1.tar.gz",
+  "download_time": "2026-05-06T04:15:26.381562",
+  "package_url": "https://pypi.org/project/openai-api-server-via-codex/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vmware-aiops",
-  "version": "1.5.18",
+  "version": "1.5.19",
   "summary": "VMware vCenter/ESXi AI-powered VM lifecycle and deployment tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vmware_aiops-1.5.18-py3-none-any.whl",
-  "download_time": "2026-05-02T12:15:43.423058",
+  "download_filename": "vmware_aiops-1.5.19.tar.gz",
+  "download_time": "2026-05-06T04:15:49.948983",
   "package_url": "https://pypi.org/project/vmware-aiops/"
 }

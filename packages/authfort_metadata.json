@@ -1,11 +1,11 @@
 {
   "name": "authfort",
-  "version": "0.0.21",
+  "version": "0.0.28",
   "summary": "Comprehensive authentication and authorization library for Python",
   "author": "Bhagyajit Jagdev",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "authfort-0.0.21.tar.gz",
-  "download_time": "2026-04-02T09:16:00.604688",
+  "download_filename": "authfort-0.0.28.tar.gz",
+  "download_time": "2026-05-06T04:16:02.521698",
   "package_url": "https://pypi.org/project/authfort/"
 }

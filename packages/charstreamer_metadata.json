@@ -1,0 +1,11 @@
+{
+  "name": "charstreamer",
+  "version": "0.1.7",
+  "summary": "Fast Rust/PyO3 semantic text segmentation",
+  "author": "Michael Bommarito",
+  "license": null,
+  "home_page": "https://github.com/mjbommar/charstreamer",
+  "download_filename": "charstreamer-0.1.7.tar.gz",
+  "download_time": "2026-05-06T04:15:36.357059",
+  "package_url": "https://pypi.org/project/charstreamer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fangcun-hook-sdk",
+  "version": "0.1.5",
+  "summary": "Inline-hook client SDK for FangcunGuard. Lets agents call the FangcunGuard Hook server for input/output safety scanning without changing their LLM URL or API key.",
+  "author": "FangcunGuard",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fangcun_hook_sdk-0.1.5.tar.gz",
+  "download_time": "2026-05-06T04:16:06.711235",
+  "package_url": "https://pypi.org/project/fangcun-hook-sdk/"
+}

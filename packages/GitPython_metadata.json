@@ -1,0 +1,11 @@
+{
+  "name": "GitPython",
+  "version": "3.1.50",
+  "summary": "GitPython is a Python library used to interact with Git repositories",
+  "author": "Sebastian Thiel, Michael Trier",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/gitpython-developers/GitPython",
+  "download_filename": "gitpython-3.1.50.tar.gz",
+  "download_time": "2026-05-06T04:15:55.688439",
+  "package_url": "https://pypi.org/project/GitPython/"
+}
