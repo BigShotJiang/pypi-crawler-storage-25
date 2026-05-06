@@ -1,0 +1,11 @@
+{
+  "name": "huace-aigc-auth-client",
+  "version": "1.1.46",
+  "summary": "华策AIGC Auth Client - 提供 Token 验证、用户信息获取、权限检查、旧系统接入等功能",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "huace_aigc_auth_client-1.1.46.tar.gz",
+  "download_time": "2026-05-06T11:31:10.588271",
+  "package_url": "https://pypi.org/project/huace-aigc-auth-client/"
+}

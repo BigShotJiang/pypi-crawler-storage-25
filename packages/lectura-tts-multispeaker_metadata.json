@@ -1,0 +1,11 @@
+{
+  "name": "lectura-tts-multispeaker",
+  "version": "1.1.0",
+  "summary": "Synthese vocale neuronale multi-speaker francais — FastPitch-Lite + HiFi-GAN (ONNX)",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "lectura_tts_multispeaker-1.1.0-py3-none-any.whl",
+  "download_time": "2026-05-06T11:31:05.446682",
+  "package_url": "https://pypi.org/project/lectura-tts-multispeaker/"
+}

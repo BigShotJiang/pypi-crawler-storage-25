@@ -1,0 +1,11 @@
+{
+  "name": "syv-conductor-nodes",
+  "version": "0.1.2",
+  "summary": "Standard-library nodes for conductor — text, math, logic, JSON, regex, and loop markers. Categories opt-in via register_all(registry, categories=[...]).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "syv_conductor_nodes-0.1.2.tar.gz",
+  "download_time": "2026-05-06T11:31:04.420131",
+  "package_url": "https://pypi.org/project/syv-conductor-nodes/"
+}

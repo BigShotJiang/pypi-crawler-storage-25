@@ -1,11 +1,11 @@
 {
   "name": "2D-Animation-lib",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "A 2D simple animation module for pygame.",
   "author": "WatermelonCode",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "2d_animation_lib-1.2.0.tar.gz",
-  "download_time": "2026-05-05T11:57:26.335152",
+  "download_filename": "2d_animation_lib-1.2.2.tar.gz",
+  "download_time": "2026-05-06T11:31:02.335154",
   "package_url": "https://pypi.org/project/2D-Animation-lib/"
 }

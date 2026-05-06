@@ -1,11 +1,11 @@
 {
   "name": "flue",
-  "version": "0.1.21",
+  "version": "0.1.27",
   "summary": "Local scripting bridges for controlling professional creative software from a shell agent.",
   "author": "Creative Adapters",
   "license": null,
   "home_page": null,
-  "download_filename": "flue-0.1.21.tar.gz",
-  "download_time": "2026-04-27T08:31:33.334685",
+  "download_filename": "flue-0.1.27-py3-none-any.whl",
+  "download_time": "2026-05-06T11:31:06.989766",
   "package_url": "https://pypi.org/project/flue/"
 }

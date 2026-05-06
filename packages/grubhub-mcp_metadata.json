@@ -1,0 +1,11 @@
+{
+  "name": "grubhub-mcp",
+  "version": "1.1.4",
+  "summary": "MCP server for Grubhub — search restaurants, browse menus, manage cart, place orders",
+  "author": "aserper",
+  "license": null,
+  "home_page": null,
+  "download_filename": "grubhub_mcp-1.1.4.tar.gz",
+  "download_time": "2026-05-06T11:31:29.082502",
+  "package_url": "https://pypi.org/project/grubhub-mcp/"
+}

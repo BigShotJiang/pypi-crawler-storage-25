@@ -1,11 +1,11 @@
 {
   "name": "fred-runtime",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "summary": "Runtime adapters and infrastructure wiring for Fred v2 agents.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "fred_runtime-2.0.2.tar.gz",
-  "download_time": "2026-05-05T08:42:04.793266",
+  "download_filename": "fred_runtime-2.0.4.tar.gz",
+  "download_time": "2026-05-06T11:31:08.533347",
   "package_url": "https://pypi.org/project/fred-runtime/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "noaawc",
+  "version": "0.4.1",
+  "summary": "Library for plotting dataset from noaa site in basemap",
+  "author": "Reinan Br",
+  "license": "GPLv3",
+  "home_page": "https://github.com/reinanbr/noaawc",
+  "download_filename": "noaawc-0.4.1.tar.gz",
+  "download_time": "2026-05-06T11:31:46.649819",
+  "package_url": "https://pypi.org/project/noaawc/"
+}

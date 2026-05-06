@@ -1,0 +1,11 @@
+{
+  "name": "qsvt-pennylane",
+  "version": "0.1.7",
+  "summary": "Educational utilities and examples for Quantum Singular Value Transformation (QSVT) using PennyLane.",
+  "author": "Sid Richards",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qsvt_pennylane-0.1.7.tar.gz",
+  "download_time": "2026-05-06T11:31:37.345832",
+  "package_url": "https://pypi.org/project/qsvt-pennylane/"
+}

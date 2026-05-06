@@ -1,11 +1,11 @@
 {
   "name": "easyship-mcp",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "MCP server for Easyship — get shipping rates and track shipments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easyship_mcp-0.4.0.tar.gz",
-  "download_time": "2026-04-13T08:28:43.083746",
+  "download_filename": "easyship_mcp-0.5.0.tar.gz",
+  "download_time": "2026-05-06T11:31:28.565798",
   "package_url": "https://pypi.org/project/easyship-mcp/"
 }

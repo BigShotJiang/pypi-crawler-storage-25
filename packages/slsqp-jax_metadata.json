@@ -1,11 +1,11 @@
 {
   "name": "slsqp-jax",
-  "version": "0.9.1",
+  "version": "0.14.0",
   "summary": "Sequential Least Squares Programming (SLSQP) optimizer implemented in pure JAX",
   "author": "Luciano Paz",
   "license": null,
   "home_page": null,
-  "download_filename": "slsqp_jax-0.9.1.tar.gz",
-  "download_time": "2026-04-17T16:21:24.989872",
+  "download_filename": "slsqp_jax-0.14.0.tar.gz",
+  "download_time": "2026-05-06T11:31:29.603181",
   "package_url": "https://pypi.org/project/slsqp-jax/"
 }

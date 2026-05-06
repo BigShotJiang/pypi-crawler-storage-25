@@ -1,11 +1,11 @@
 {
   "name": "cinfsymmetries",
-  "version": "1.2.0",
+  "version": "1.2.6",
   "summary": "Geometric study of differential equations (Lie symmetries, lambda-symmetries, Cinf-structures, solvable structures)",
   "author": "Antonio J. Pan-Collantes",
   "license": null,
   "home_page": null,
-  "download_filename": "cinfsymmetries-1.2.0.tar.gz",
-  "download_time": "2026-04-22T11:11:46.247745",
+  "download_filename": "cinfsymmetries-1.2.6.tar.gz",
+  "download_time": "2026-05-06T11:31:26.506547",
   "package_url": "https://pypi.org/project/cinfsymmetries/"
 }
