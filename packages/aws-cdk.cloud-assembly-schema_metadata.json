@@ -1,11 +1,11 @@
 {
   "name": "aws-cdk.cloud-assembly-schema",
-  "version": "53.13.0",
+  "version": "53.22.0",
   "summary": "Schema for the protocol between CDK framework and CDK CLI",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/aws/aws-cdk",
-  "download_filename": "aws_cdk_cloud_assembly_schema-53.13.0.tar.gz",
-  "download_time": "2026-04-03T15:56:47.044512",
+  "download_filename": "aws_cdk_cloud_assembly_schema-53.22.0.tar.gz",
+  "download_time": "2026-05-06T15:59:23.974597",
   "package_url": "https://pypi.org/project/aws-cdk.cloud-assembly-schema/"
 }

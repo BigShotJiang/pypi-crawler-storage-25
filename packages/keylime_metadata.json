@@ -1,0 +1,11 @@
+{
+  "name": "keylime",
+  "version": "7.14.2",
+  "summary": "TPM-based key bootstrapping and system integrity measurement system for cloud",
+  "author": "Keylime Community",
+  "license": "Apache-2.0",
+  "home_page": "https://keylime.dev",
+  "download_filename": "keylime-7.14.2.tar.gz",
+  "download_time": "2026-05-06T15:58:58.476430",
+  "package_url": "https://pypi.org/project/keylime/"
+}

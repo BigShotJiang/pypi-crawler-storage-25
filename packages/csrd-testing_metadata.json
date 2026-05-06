@@ -1,11 +1,11 @@
 {
   "name": "csrd-testing",
-  "version": "0.3.85",
+  "version": "0.3.109",
   "summary": "Testing utilities package for csrd-based services",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd_testing-0.3.85.tar.gz",
-  "download_time": "2026-05-04T20:05:36.676581",
+  "download_filename": "csrd_testing-0.3.109.tar.gz",
+  "download_time": "2026-05-06T15:59:29.107450",
   "package_url": "https://pypi.org/project/csrd-testing/"
 }

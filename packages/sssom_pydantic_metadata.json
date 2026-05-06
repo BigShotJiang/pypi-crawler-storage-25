@@ -1,11 +1,11 @@
 {
   "name": "sssom_pydantic",
-  "version": "0.5.3",
+  "version": "0.5.7",
   "summary": "Pydantic models for SSSOM",
   "author": "Charles Tapley Hoyt",
   "license": null,
   "home_page": null,
-  "download_filename": "sssom_pydantic-0.5.3.tar.gz",
-  "download_time": "2026-04-22T22:12:41.896744",
+  "download_filename": "sssom_pydantic-0.5.7.tar.gz",
+  "download_time": "2026-05-06T15:59:22.365464",
   "package_url": "https://pypi.org/project/sssom_pydantic/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "django-lambda-tasks",
-  "version": "0.1.6",
+  "version": "0.4.1",
   "summary": "Run async tasks in a lambda function",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_lambda_tasks-0.1.6.tar.gz",
-  "download_time": "2026-05-01T15:25:49.178889",
+  "download_filename": "django_lambda_tasks-0.4.1.tar.gz",
+  "download_time": "2026-05-06T15:59:27.047204",
   "package_url": "https://pypi.org/project/django-lambda-tasks/"
 }

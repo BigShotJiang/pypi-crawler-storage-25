@@ -1,0 +1,11 @@
+{
+  "name": "abstracts",
+  "version": "0.0.23",
+  "summary": "Abstract class and interface definitions",
+  "author": "Ryan Northey",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/envoyproxy/toolshed/tree/main/py/abstracts",
+  "download_filename": "abstracts-0.0.23.tar.gz",
+  "download_time": "2026-05-06T15:59:16.630044",
+  "package_url": "https://pypi.org/project/abstracts/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lokutor",
-  "version": "1.1.18",
+  "version": "1.1.24",
   "summary": "Official Python SDK for Lokutor - Real-time AI voice and TTS",
   "author": "Lokutor",
   "license": "MIT",
   "home_page": "https://github.com/lokutor-ai/lokutor-sdk",
-  "download_filename": "lokutor-1.1.18.tar.gz",
-  "download_time": "2026-04-01T19:02:49.592698",
+  "download_filename": "lokutor-1.1.24.tar.gz",
+  "download_time": "2026-05-06T15:59:08.802955",
   "package_url": "https://pypi.org/project/lokutor/"
 }
