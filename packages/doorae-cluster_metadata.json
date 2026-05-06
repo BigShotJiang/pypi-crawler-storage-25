@@ -1,11 +1,11 @@
 {
   "name": "doorae-cluster",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "Lightweight multi-agent chat server",
   "author": "Changyong Um",
   "license": null,
   "home_page": null,
-  "download_filename": "doorae_cluster-0.4.0.tar.gz",
-  "download_time": "2026-04-25T10:00:14.926591",
+  "download_filename": "doorae_cluster-0.6.0.tar.gz",
+  "download_time": "2026-05-06T06:56:20.544467",
   "package_url": "https://pypi.org/project/doorae-cluster/"
 }

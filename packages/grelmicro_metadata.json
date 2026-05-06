@@ -1,11 +1,11 @@
 {
   "name": "grelmicro",
-  "version": "0.17.0",
+  "version": "0.21.0",
   "summary": "grelmicro is a lightweight toolkit for building Python applications that need to coordinate work across processes",
-  "author": "Loïc Gremaud",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "grelmicro-0.17.0.tar.gz",
-  "download_time": "2026-04-29T17:21:44.490760",
+  "download_filename": "grelmicro-0.21.0.tar.gz",
+  "download_time": "2026-05-06T06:56:09.762175",
   "package_url": "https://pypi.org/project/grelmicro/"
 }

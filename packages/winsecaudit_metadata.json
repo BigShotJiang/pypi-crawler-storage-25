@@ -1,11 +1,11 @@
 {
   "name": "winsecaudit",
-  "version": "1.0.3",
+  "version": "1.1.7",
   "summary": "CLI-first Windows security misconfiguration auditor with weighted scoring, threat-intel enrichment, and multi-format reporting.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "winsecaudit-1.0.3.tar.gz",
-  "download_time": "2026-05-05T19:04:07.025888",
+  "download_filename": "winsecaudit-1.1.7.tar.gz",
+  "download_time": "2026-05-06T06:55:42.306603",
   "package_url": "https://pypi.org/project/winsecaudit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "idea-vault-gateway",
+  "version": "0.1.0",
+  "summary": "Local MCP gateway to Gemini (grounded search) and Perplexity Sonar.",
+  "author": "Tomasz Turczynski",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "idea_vault_gateway-0.1.0.tar.gz",
+  "download_time": "2026-05-06T06:56:07.608988",
+  "package_url": "https://pypi.org/project/idea-vault-gateway/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jibuff",
-  "version": "0.4.6",
+  "version": "0.5.5",
   "summary": "Absorb the jitter in your requirements. A spec-driven workflow harness for AI coding agents.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jibuff-0.4.6.tar.gz",
-  "download_time": "2026-04-30T09:43:23.512586",
+  "download_filename": "jibuff-0.5.5.tar.gz",
+  "download_time": "2026-05-06T06:55:47.993755",
   "package_url": "https://pypi.org/project/jibuff/"
 }

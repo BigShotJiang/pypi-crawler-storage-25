@@ -1,11 +1,11 @@
 {
   "name": "ast-outline",
-  "version": "0.7.1",
-  "summary": "AST-based structural outline for source files (C#, C++, Python, TypeScript/JavaScript, Java, Kotlin, Scala, Go, Rust, PHP, Markdown, YAML) — tree-sitter-powered, LLM-agent-first. Complement to ast-grep: ast-grep searches, ast-outline overviews.",
+  "version": "0.7.3",
+  "summary": "AST-based structural outline for source files (C#, C++, Python, TypeScript/JavaScript, Java, Kotlin, Scala, Go, Rust, PHP, Ruby, Markdown, YAML) — tree-sitter-powered, LLM-agent-first. Complement to ast-grep: ast-grep searches, ast-outline overviews.",
   "author": "ast-outline contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ast_outline-0.7.1.tar.gz",
-  "download_time": "2026-05-05T17:33:43.421773",
+  "download_filename": "ast_outline-0.7.3.tar.gz",
+  "download_time": "2026-05-06T06:55:36.468715",
   "package_url": "https://pypi.org/project/ast-outline/"
 }

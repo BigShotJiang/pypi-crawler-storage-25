@@ -1,0 +1,11 @@
+{
+  "name": "sigview",
+  "version": "0.1.0",
+  "summary": "Jupyter rich display wrapper for waveform, spectrum, CSV, JSON, and VCD signal previews.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sigview-0.1.0.tar.gz",
+  "download_time": "2026-05-06T06:56:09.220350",
+  "package_url": "https://pypi.org/project/sigview/"
+}

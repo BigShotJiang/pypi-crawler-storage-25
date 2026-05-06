@@ -1,0 +1,11 @@
+{
+  "name": "aiovodafone",
+  "version": "3.2.0",
+  "summary": "Python library to control Vodafone Station",
+  "author": "Simone Chemelli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiovodafone-3.2.0.tar.gz",
+  "download_time": "2026-05-06T06:56:17.183100",
+  "package_url": "https://pypi.org/project/aiovodafone/"
+}

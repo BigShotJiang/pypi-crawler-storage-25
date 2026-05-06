@@ -1,11 +1,11 @@
 {
   "name": "dt-async",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "summary": "Dynatrace async API Python client",
   "author": "David Lopes",
   "license": null,
   "home_page": null,
-  "download_filename": "dt_async-1.0.5.tar.gz",
-  "download_time": "2026-04-26T10:19:54.456508",
+  "download_filename": "dt_async-1.0.8.tar.gz",
+  "download_time": "2026-05-06T06:56:08.150449",
   "package_url": "https://pypi.org/project/dt-async/"
 }

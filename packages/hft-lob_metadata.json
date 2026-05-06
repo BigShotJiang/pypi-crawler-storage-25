@@ -1,0 +1,11 @@
+{
+  "name": "hft-lob",
+  "version": "0.1.9",
+  "summary": "Python wrapper for a high-performance Rust orderbook CLI",
+  "author": "Pratima Kumari",
+  "license": null,
+  "home_page": "https://github.com/pratima/hft_lob",
+  "download_filename": "hft_lob-0.1.9.tar.gz",
+  "download_time": "2026-05-06T06:55:49.724854",
+  "package_url": "https://pypi.org/project/hft-lob/"
+}

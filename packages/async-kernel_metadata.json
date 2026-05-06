@@ -1,11 +1,11 @@
 {
   "name": "async-kernel",
-  "version": "0.17.0",
+  "version": "0.18.3",
   "summary": "A concurrent python kernel for Jupyter supporting AnyIO, AsyncIO and Trio.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "async_kernel-0.17.0.tar.gz",
-  "download_time": "2026-04-22T01:12:54.285779",
+  "download_filename": "async_kernel-0.18.3.tar.gz",
+  "download_time": "2026-05-06T06:56:14.428660",
   "package_url": "https://pypi.org/project/async-kernel/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "anna-executa-test",
+  "version": "0.1.0",
+  "summary": "Pytest plugin + helpers for testing Anna Executa stdio JSON-RPC plugins.",
+  "author": "Talent AI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "anna_executa_test-0.1.0.tar.gz",
+  "download_time": "2026-05-06T06:56:02.708633",
+  "package_url": "https://pypi.org/project/anna-executa-test/"
+}

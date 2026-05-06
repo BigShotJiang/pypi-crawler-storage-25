@@ -1,0 +1,11 @@
+{
+  "name": "quantcore-ai",
+  "version": "0.3.0",
+  "summary": "Adaptive Memory Runtime for LLMs — compress KV cache 2-6x with dynamic bit switching, memory budgets, and sliding window eviction",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "quantcore_ai-0.3.0.tar.gz",
+  "download_time": "2026-05-06T06:55:52.995681",
+  "package_url": "https://pypi.org/project/quantcore-ai/"
+}
