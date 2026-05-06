@@ -1,11 +1,11 @@
 {
   "name": "pulumi-defang-azure",
-  "version": "2.0.0a17",
+  "version": "2.0.0b5",
   "summary": "Deploy containerized services to Azure with Pulumi.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://github.com/DefangLabs/pulumi-defang",
-  "download_filename": "pulumi_defang_azure-2.0.0a17.tar.gz",
-  "download_time": "2026-04-15T23:17:45.188091",
+  "download_filename": "pulumi_defang_azure-2.0.0b5.tar.gz",
+  "download_time": "2026-05-06T22:06:22.719799",
   "package_url": "https://pypi.org/project/pulumi-defang-azure/"
 }

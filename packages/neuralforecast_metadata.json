@@ -1,0 +1,11 @@
+{
+  "name": "neuralforecast",
+  "version": "3.1.8",
+  "summary": "Time series forecasting suite using deep learning models",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "neuralforecast-3.1.8.tar.gz",
+  "download_time": "2026-05-06T22:06:27.962414",
+  "package_url": "https://pypi.org/project/neuralforecast/"
+}

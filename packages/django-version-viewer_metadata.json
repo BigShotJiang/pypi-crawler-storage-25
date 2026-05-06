@@ -1,0 +1,11 @@
+{
+  "name": "django-version-viewer",
+  "version": "2.1.9",
+  "summary": "Django app for viewing Python packages and their versions",
+  "author": "Imagescape",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_version_viewer-2.1.9.tar.gz",
+  "download_time": "2026-05-06T22:07:08.216523",
+  "package_url": "https://pypi.org/project/django-version-viewer/"
+}

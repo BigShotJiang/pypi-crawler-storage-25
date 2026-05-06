@@ -1,0 +1,11 @@
+{
+  "name": "PyAsyncDNS",
+  "version": "1.0.0",
+  "summary": "This package implements a basic asynchronous DNS client and server with a feature to exfiltrate data through DNS.",
+  "author": "Maurice Lambert",
+  "license": "GPL-3.0 License",
+  "home_page": "https://github.com/mauricelambert/PyAsyncDNS",
+  "download_filename": "pyasyncdns-1.0.0.tar.gz",
+  "download_time": "2026-05-06T22:06:20.626268",
+  "package_url": "https://pypi.org/project/PyAsyncDNS/"
+}

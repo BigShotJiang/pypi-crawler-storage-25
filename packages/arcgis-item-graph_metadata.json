@@ -1,11 +1,11 @@
 {
   "name": "arcgis-item-graph",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "CLI tool for building and querying ArcGIS item dependency graphs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arcgis_item_graph-0.3.4.tar.gz",
-  "download_time": "2026-05-06T17:24:40.558637",
+  "download_filename": "arcgis_item_graph-0.3.5.tar.gz",
+  "download_time": "2026-05-06T22:07:07.694955",
   "package_url": "https://pypi.org/project/arcgis-item-graph/"
 }

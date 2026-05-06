@@ -1,0 +1,11 @@
+{
+  "name": "opengamedata-api-files",
+  "version": "2.0.0",
+  "summary": "A small collection of classes for deserializing data from the OpenGameData File API.",
+  "author": "Ryan Wilkinson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "opengamedata_api_files-2.0.0.tar.gz",
+  "download_time": "2026-05-06T22:06:33.136532",
+  "package_url": "https://pypi.org/project/opengamedata-api-files/"
+}

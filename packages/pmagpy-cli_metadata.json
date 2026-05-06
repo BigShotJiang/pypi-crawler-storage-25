@@ -1,0 +1,11 @@
+{
+  "name": "pmagpy-cli",
+  "version": "4.3.13",
+  "summary": "Analysis tools for paleo/rock magnetic data",
+  "author": "PmagPy team",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/PmagPy/PmagPy",
+  "download_filename": "pmagpy_cli-4.3.13.tar.gz",
+  "download_time": "2026-05-06T22:06:47.265415",
+  "package_url": "https://pypi.org/project/pmagpy-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-wiki-cli",
+  "version": "0.3.41",
+  "summary": "CLI tool to maintain hybrid LLM Wikis for multi-language projects.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_wiki_cli-0.3.41.tar.gz",
+  "download_time": "2026-05-06T22:06:27.425206",
+  "package_url": "https://pypi.org/project/agent-wiki-cli/"
+}

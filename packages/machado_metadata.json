@@ -1,0 +1,11 @@
+{
+  "name": "machado",
+  "version": "0.6.0",
+  "summary": "This library provides users with a framework to store, search and visualize biological data.",
+  "author": "LMB",
+  "license": "GPL License",
+  "home_page": "https://github.com/lmb-embrapa/machado",
+  "download_filename": "machado-0.6.0-py3-none-any.whl",
+  "download_time": "2026-05-06T22:06:48.303677",
+  "package_url": "https://pypi.org/project/machado/"
+}

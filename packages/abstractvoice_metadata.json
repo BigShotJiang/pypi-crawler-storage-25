@@ -1,11 +1,11 @@
 {
   "name": "abstractvoice",
-  "version": "0.7.0",
-  "summary": "A modular Python library for voice interactions with AI systems",
+  "version": "0.8.5",
+  "summary": "Local-first TTS/STT, streaming voice output, and optional voice cloning for AI applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "abstractvoice-0.7.0.tar.gz",
-  "download_time": "2026-04-06T13:44:33.535175",
+  "download_filename": "abstractvoice-0.8.5.tar.gz",
+  "download_time": "2026-05-06T22:07:05.089452",
   "package_url": "https://pypi.org/project/abstractvoice/"
 }

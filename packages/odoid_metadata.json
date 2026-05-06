@@ -1,0 +1,11 @@
+{
+  "name": "odoid",
+  "version": "1.0.1",
+  "summary": "Deterministic mixed-radix ID encoding — maps integers to 6, 7, or 8-character alphanumeric strings.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "odoid-1.0.1.tar.gz",
+  "download_time": "2026-05-06T22:06:22.197059",
+  "package_url": "https://pypi.org/project/odoid/"
+}

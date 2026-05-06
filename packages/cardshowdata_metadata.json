@@ -1,11 +1,11 @@
 {
   "name": "cardshowdata",
-  "version": "4.0.0",
+  "version": "4.0.2",
   "summary": "Official Python SDK for the CardShowData TCG pricing API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cardshowdata-4.0.0.tar.gz",
-  "download_time": "2026-05-03T23:55:43.646535",
+  "download_filename": "cardshowdata-4.0.2.tar.gz",
+  "download_time": "2026-05-06T22:06:56.151177",
   "package_url": "https://pypi.org/project/cardshowdata/"
 }
