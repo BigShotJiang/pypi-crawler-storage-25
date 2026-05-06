@@ -1,0 +1,11 @@
+{
+  "name": "fast-crewai",
+  "version": "0.1.5",
+  "summary": "High-performance acceleration for CrewAI - 2-5x faster memory, tools, and task execution with zero code changes",
+  "author": null,
+  "license": null,
+  "home_page": "https://neul-labs.github.io/fast-crewai",
+  "download_filename": "fast_crewai-0.1.5.tar.gz",
+  "download_time": "2026-05-06T23:03:46.310928",
+  "package_url": "https://pypi.org/project/fast-crewai/"
+}

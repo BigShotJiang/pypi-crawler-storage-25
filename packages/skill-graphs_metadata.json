@@ -1,11 +1,11 @@
 {
   "name": "skill-graphs",
-  "version": "0.1.38",
+  "version": "0.7.2",
   "summary": "A collection of skill graphs for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "skill_graphs-0.1.38.tar.gz",
-  "download_time": "2026-03-31T06:49:54.771729",
+  "download_filename": "skill_graphs-0.7.2.tar.gz",
+  "download_time": "2026-05-06T23:03:59.743861",
   "package_url": "https://pypi.org/project/skill-graphs/"
 }

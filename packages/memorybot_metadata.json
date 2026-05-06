@@ -1,11 +1,11 @@
 {
   "name": "memorybot",
-  "version": "0.3.1",
+  "version": "0.5.0",
   "summary": "MemoryBot CLI — your personal knowledge graph from the command line",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memorybot-0.3.1.tar.gz",
-  "download_time": "2026-05-06T11:31:12.121927",
+  "download_filename": "memorybot-0.5.0.tar.gz",
+  "download_time": "2026-05-06T23:03:54.094914",
   "package_url": "https://pypi.org/project/memorybot/"
 }

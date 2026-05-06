@@ -1,11 +1,11 @@
 {
   "name": "dkist-processing-core",
-  "version": "7.2.1",
+  "version": "7.3.0",
   "summary": "Abstraction layer used by the DKIST science data processing pipelines with Apache Airflow",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "dkist_processing_core-7.2.1.tar.gz",
-  "download_time": "2026-04-21T22:10:19.610574",
+  "download_filename": "dkist_processing_core-7.3.0.tar.gz",
+  "download_time": "2026-05-06T23:03:50.961010",
   "package_url": "https://pypi.org/project/dkist-processing-core/"
 }

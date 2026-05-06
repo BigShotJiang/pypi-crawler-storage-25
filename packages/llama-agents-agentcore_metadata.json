@@ -1,11 +1,11 @@
 {
   "name": "llama-agents-agentcore",
-  "version": "0.8.17",
+  "version": "0.9.3",
   "summary": "LlamaAgents x Bedrock AgentCore deployment utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llama_agents_agentcore-0.8.17.tar.gz",
-  "download_time": "2026-04-13T23:10:02.455289",
+  "download_filename": "llama_agents_agentcore-0.9.3.tar.gz",
+  "download_time": "2026-05-06T23:04:07.450687",
   "package_url": "https://pypi.org/project/llama-agents-agentcore/"
 }

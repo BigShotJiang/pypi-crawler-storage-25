@@ -1,0 +1,11 @@
+{
+  "name": "atlassian-agent",
+  "version": "0.6.2",
+  "summary": "Comprehensive AI agent for Jira and Confluence management.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "atlassian_agent-0.6.2.tar.gz",
+  "download_time": "2026-05-06T23:03:26.019296",
+  "package_url": "https://pypi.org/project/atlassian-agent/"
+}

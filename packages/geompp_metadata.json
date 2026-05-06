@@ -1,0 +1,11 @@
+{
+  "name": "geompp",
+  "version": "0.7.0",
+  "summary": "Python bindings for geompp — a C++ 2D/3D geometry library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geompp-0.7.0.tar.gz",
+  "download_time": "2026-05-06T23:04:04.878056",
+  "package_url": "https://pypi.org/project/geompp/"
+}

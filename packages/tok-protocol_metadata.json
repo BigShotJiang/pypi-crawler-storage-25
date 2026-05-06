@@ -1,11 +1,11 @@
 {
   "name": "tok-protocol",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Bridge-first CLI and runtime for Claude Code that compresses conversations and exposes savings and fallback health",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "tok_protocol-0.1.7.tar.gz",
-  "download_time": "2026-05-04T10:47:48.620357",
+  "download_filename": "tok_protocol-0.1.8.tar.gz",
+  "download_time": "2026-05-06T23:03:34.401788",
   "package_url": "https://pypi.org/project/tok-protocol/"
 }

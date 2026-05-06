@@ -1,11 +1,11 @@
 {
   "name": "llama-agents-core",
-  "version": "0.9.0",
+  "version": "0.10.2",
   "summary": "Core models and schemas for LlamaDeploy",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llama_agents_core-0.9.0.tar.gz",
-  "download_time": "2026-04-13T23:10:00.345873",
+  "download_filename": "llama_agents_core-0.10.2.tar.gz",
+  "download_time": "2026-05-06T23:04:08.479223",
   "package_url": "https://pypi.org/project/llama-agents-core/"
 }

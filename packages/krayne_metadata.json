@@ -1,0 +1,11 @@
+{
+  "name": "krayne",
+  "version": "0.3.0",
+  "summary": "CLI and SDK for creating, managing, and scaling Ray clusters on Kubernetes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "krayne-0.3.0.tar.gz",
+  "download_time": "2026-05-06T23:03:46.823514",
+  "package_url": "https://pypi.org/project/krayne/"
+}

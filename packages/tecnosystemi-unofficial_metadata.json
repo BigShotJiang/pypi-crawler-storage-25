@@ -1,0 +1,11 @@
+{
+  "name": "tecnosystemi-unofficial",
+  "version": "0.4.2",
+  "summary": "Unofficial Python library for controlling Tecnosystemi devices (Pico, etc.) via UDP",
+  "author": "Karim Ramadan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tecnosystemi_unofficial-0.4.2.tar.gz",
+  "download_time": "2026-05-06T23:03:24.970364",
+  "package_url": "https://pypi.org/project/tecnosystemi-unofficial/"
+}
