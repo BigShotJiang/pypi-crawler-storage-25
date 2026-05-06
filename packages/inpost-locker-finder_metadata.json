@@ -1,11 +1,11 @@
 {
   "name": "inpost-locker-finder",
-  "version": "0.1.10",
+  "version": "0.1.13",
   "summary": "A fast and beautiful CLI tool for finding nearest InPost points.",
   "author": "Jan Barchanowicz",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "inpost_locker_finder-0.1.10.tar.gz",
-  "download_time": "2026-05-06T09:22:21.881966",
+  "download_filename": "inpost_locker_finder-0.1.13.tar.gz",
+  "download_time": "2026-05-06T17:25:07.452354",
   "package_url": "https://pypi.org/project/inpost-locker-finder/"
 }

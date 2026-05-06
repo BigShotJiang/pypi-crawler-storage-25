@@ -1,0 +1,11 @@
+{
+  "name": "axiom-ext-openmc",
+  "version": "0.1.0",
+  "summary": "OpenMC physics-code extension for the Axiom platform",
+  "author": "The University of Texas at Austin",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "axiom_ext_openmc-0.1.0.tar.gz",
+  "download_time": "2026-05-06T17:25:02.800119",
+  "package_url": "https://pypi.org/project/axiom-ext-openmc/"
+}

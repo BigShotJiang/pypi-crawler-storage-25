@@ -1,0 +1,11 @@
+{
+  "name": "pymrsf",
+  "version": "0.2.0",
+  "summary": "Model-Relative Semantic Filesystems — LLM-native file routing and compression",
+  "author": "Eric Monthe",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymrsf-0.2.0-py3-none-any.whl",
+  "download_time": "2026-05-06T17:25:11.604518",
+  "package_url": "https://pypi.org/project/pymrsf/"
+}

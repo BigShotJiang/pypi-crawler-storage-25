@@ -1,11 +1,11 @@
 {
   "name": "nuitka-build-config",
-  "version": "0.1.4",
+  "version": "0.4.1",
   "summary": "Nuitka build config",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nuitka_build_config-0.1.4.tar.gz",
-  "download_time": "2026-04-27T17:50:23.577943",
+  "download_filename": "nuitka_build_config-0.4.1.tar.gz",
+  "download_time": "2026-05-06T17:25:16.269564",
   "package_url": "https://pypi.org/project/nuitka-build-config/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "py-dynamic-learned-index",
-  "version": "0.1.4",
-  "summary": null,
+  "version": "0.1.13",
+  "summary": "Python bindings for Dynamic Learned Index - efficient approximate nearest neighbor search using learned models",
   "author": null,
-  "license": null,
+  "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "py_dynamic_learned_index-0.1.4.tar.gz",
-  "download_time": "2026-04-19T23:04:58.542010",
+  "download_filename": "py_dynamic_learned_index-0.1.13.tar.gz",
+  "download_time": "2026-05-06T17:25:01.770306",
   "package_url": "https://pypi.org/project/py-dynamic-learned-index/"
 }

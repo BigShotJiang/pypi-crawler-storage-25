@@ -1,0 +1,11 @@
+{
+  "name": "lusca",
+  "version": "0.1.1",
+  "summary": "A Jupyter magic command for creating reproducible matplotlib figures.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lusca-0.1.1.tar.gz",
+  "download_time": "2026-05-06T17:24:38.483420",
+  "package_url": "https://pypi.org/project/lusca/"
+}

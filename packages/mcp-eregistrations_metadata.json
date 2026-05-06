@@ -1,11 +1,11 @@
 {
   "name": "mcp-eregistrations",
-  "version": "1.27.1",
+  "version": "1.29.0",
   "summary": "MCP servers for eRegistrations platform (BPA + GDB + Keycloak + SmartLink)",
   "author": null,
   "license": "Proprietary - UNCTAD/DIAE/Business Facilitation Section",
   "home_page": null,
-  "download_filename": "mcp_eregistrations-1.27.1.tar.gz",
-  "download_time": "2026-05-06T11:31:00.784601",
+  "download_filename": "mcp_eregistrations-1.29.0.tar.gz",
+  "download_time": "2026-05-06T17:25:10.059155",
   "package_url": "https://pypi.org/project/mcp-eregistrations/"
 }

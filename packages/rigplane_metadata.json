@@ -1,0 +1,11 @@
+{
+  "name": "rigplane",
+  "version": "2.0.1",
+  "summary": "Python library for controlling Icom transceivers over LAN (UDP) — no wfview/hamlib required",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rigplane-2.0.1.tar.gz",
+  "download_time": "2026-05-06T17:25:16.805769",
+  "package_url": "https://pypi.org/project/rigplane/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "withopen",
+  "version": "6.5.4",
+  "summary": "A structured and backup-friendly way to manage `.txt` files with multi-console and debugging support.",
+  "author": "henry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "withopen-6.5.4.tar.gz",
+  "download_time": "2026-05-06T17:24:40.043982",
+  "package_url": "https://pypi.org/project/withopen/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agentbridge-py",
+  "version": "0.1.8",
+  "summary": "Bridge OpenAI tools to Claude Code SDK, Codex CLI, and OpenRouter",
+  "author": "tsilva",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentbridge_py-0.1.8-py3-none-any.whl",
+  "download_time": "2026-05-06T17:24:52.475760",
+  "package_url": "https://pypi.org/project/agentbridge-py/"
+}

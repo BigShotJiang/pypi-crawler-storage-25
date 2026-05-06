@@ -1,11 +1,11 @@
 {
   "name": "fast-web-core",
-  "version": "2.0.0",
-  "summary": "fast web core for zsodata",
+  "version": "6.0.4",
+  "summary": "fast web core for zsodata v6",
   "author": "zsodata",
   "license": "BSD License",
-  "home_page": "http://www.zsodata.com",
-  "download_filename": "fast_web_core-2.0.0.tar.gz",
-  "download_time": "2026-04-19T10:30:40.882416",
+  "home_page": "https://zso.io",
+  "download_filename": "fast_web_core-6.0.4.tar.gz",
+  "download_time": "2026-05-06T17:24:41.073383",
   "package_url": "https://pypi.org/project/fast-web-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aa-skip-email",
+  "version": "0.3.8",
+  "summary": "Allows you to skip entering your email after registering via EVE SSO",
+  "author": "Boris Talovikov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aa_skip_email-0.3.8.tar.gz",
+  "download_time": "2026-05-06T17:25:24.023655",
+  "package_url": "https://pypi.org/project/aa-skip-email/"
+}

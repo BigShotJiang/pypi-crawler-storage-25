@@ -1,11 +1,11 @@
 {
   "name": "sentry-options",
-  "version": "1.0.8",
+  "version": "1.0.11",
   "summary": "Python client for sentry-options using Rust validation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sentry_options-1.0.8.tar.gz",
-  "download_time": "2026-04-20T19:14:40.410619",
+  "download_filename": "sentry_options-1.0.11.tar.gz",
+  "download_time": "2026-05-06T17:25:03.313830",
   "package_url": "https://pypi.org/project/sentry-options/"
 }

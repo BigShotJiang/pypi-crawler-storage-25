@@ -1,0 +1,11 @@
+{
+  "name": "fejao-config-parser",
+  "version": "0.0.6",
+  "summary": "A Python package for parsing configuration from various sources such as files, environment variables, and command-line arguments.",
+  "author": "fejao",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fejao_config_parser-0.0.6.tar.gz",
+  "download_time": "2026-05-06T17:25:10.571961",
+  "package_url": "https://pypi.org/project/fejao-config-parser/"
+}

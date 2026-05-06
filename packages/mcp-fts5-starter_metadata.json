@@ -1,0 +1,11 @@
+{
+  "name": "mcp-fts5-starter",
+  "version": "0.1.0",
+  "summary": "Drop-in MCP server template with SQLite FTS5 search backend. ~300 lines, no vector DB, no embedding API, runs on a Pi.",
+  "author": "LBDog",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_fts5_starter-0.1.0.tar.gz",
+  "download_time": "2026-05-06T17:25:07.963173",
+  "package_url": "https://pypi.org/project/mcp-fts5-starter/"
+}

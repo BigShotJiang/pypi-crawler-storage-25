@@ -1,11 +1,11 @@
 {
   "name": "axiom-os-lm",
-  "version": "0.12.1",
+  "version": "0.15.0",
   "summary": "Composable and Extensible Agent Operating System for Language Models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "axiom_os_lm-0.12.1.tar.gz",
-  "download_time": "2026-04-30T09:43:27.118351",
+  "download_filename": "axiom_os_lm-0.15.0.tar.gz",
+  "download_time": "2026-05-06T17:25:14.210962",
   "package_url": "https://pypi.org/project/axiom-os-lm/"
 }
