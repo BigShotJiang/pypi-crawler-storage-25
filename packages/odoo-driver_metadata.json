@@ -1,11 +1,11 @@
 {
   "name": "odoo-driver",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "summary": "Python library to communicates with devices used by Odoo.(Mainly Point of Sale application)Alternative to Iot Box Odoo solution or Pywebdriver community solution.",
   "author": "Sylvain LE GAL",
   "license": "AGPLv3+",
   "home_page": null,
-  "download_filename": "odoo_driver-2.2.0.tar.gz",
-  "download_time": "2026-05-04T22:25:45.436629",
+  "download_filename": "odoo_driver-2.3.0.tar.gz",
+  "download_time": "2026-05-06T20:56:41.780736",
   "package_url": "https://pypi.org/project/odoo-driver/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "serialx",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "summary": "Serial library with native sync and async support for Windows, Linux, macOS, and other platforms",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "serialx-1.7.1.tar.gz",
-  "download_time": "2026-05-06T15:59:11.402584",
+  "download_filename": "serialx-1.7.2.tar.gz",
+  "download_time": "2026-05-06T20:57:07.262080",
   "package_url": "https://pypi.org/project/serialx/"
 }

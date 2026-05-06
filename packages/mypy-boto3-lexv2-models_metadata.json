@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-lexv2-models",
+  "version": "1.43.5",
+  "summary": "Type annotations for boto3 LexModelsV2 1.43.5 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_lexv2_models-1.43.5.tar.gz",
+  "download_time": "2026-05-06T20:57:16.106692",
+  "package_url": "https://pypi.org/project/mypy-boto3-lexv2-models/"
+}

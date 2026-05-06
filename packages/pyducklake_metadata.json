@@ -1,11 +1,11 @@
 {
   "name": "pyducklake",
-  "version": "1.0.2",
+  "version": "1.0.14",
   "summary": "A Python library for Ducklake, providing a pyiceberg-like API",
-  "author": null,
+  "author": "Jakob Homan",
   "license": null,
   "home_page": null,
-  "download_filename": "pyducklake-1.0.2.tar.gz",
-  "download_time": "2026-04-05T22:54:38.606245",
+  "download_filename": "pyducklake-1.0.14.tar.gz",
+  "download_time": "2026-05-06T20:57:01.039349",
   "package_url": "https://pypi.org/project/pyducklake/"
 }

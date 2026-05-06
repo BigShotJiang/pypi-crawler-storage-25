@@ -1,0 +1,11 @@
+{
+  "name": "ghstack",
+  "version": "0.15.0",
+  "summary": "Stack diff support for GitHub",
+  "author": "Edward Z. Yang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghstack-0.15.0.tar.gz",
+  "download_time": "2026-05-06T20:56:43.849693",
+  "package_url": "https://pypi.org/project/ghstack/"
+}

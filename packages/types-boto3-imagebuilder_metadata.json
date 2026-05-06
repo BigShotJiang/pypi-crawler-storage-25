@@ -1,11 +1,11 @@
 {
   "name": "types-boto3-imagebuilder",
-  "version": "1.42.91",
-  "summary": "Type annotations for boto3 Imagebuilder 1.42.91 service generated with mypy-boto3-builder 8.12.0",
+  "version": "1.43.5",
+  "summary": "Type annotations for boto3 Imagebuilder 1.43.5 service generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "types_boto3_imagebuilder-1.42.91.tar.gz",
-  "download_time": "2026-04-17T19:37:21.951479",
+  "download_filename": "types_boto3_imagebuilder-1.43.5.tar.gz",
+  "download_time": "2026-05-06T20:57:11.402794",
   "package_url": "https://pypi.org/project/types-boto3-imagebuilder/"
 }

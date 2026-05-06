@@ -1,11 +1,11 @@
 {
   "name": "gecko-mcp",
-  "version": "0.2.6",
+  "version": "0.2.13",
   "summary": "MCP server for Gecko — exposes gecko_research, gecko_ask, gecko_sources to Claude Code.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gecko_mcp-0.2.6.tar.gz",
-  "download_time": "2026-05-05T06:24:31.015311",
+  "download_filename": "gecko_mcp-0.2.13.tar.gz",
+  "download_time": "2026-05-06T20:57:03.100418",
   "package_url": "https://pypi.org/project/gecko-mcp/"
 }

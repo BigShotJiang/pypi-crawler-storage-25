@@ -1,0 +1,11 @@
+{
+  "name": "ctxbundle",
+  "version": "0.1.2",
+  "summary": "Bundle a code repository into a single LLM-ready text file.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctxbundle-0.1.2.tar.gz",
+  "download_time": "2026-05-06T20:57:24.416537",
+  "package_url": "https://pypi.org/project/ctxbundle/"
+}

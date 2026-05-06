@@ -1,0 +1,11 @@
+{
+  "name": "local-vectors",
+  "version": "0.1.2",
+  "summary": "A high-performance, local-first embedding utility for RAG and GraphRAG.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "local_vectors-0.1.2.tar.gz",
+  "download_time": "2026-05-06T20:56:50.129085",
+  "package_url": "https://pypi.org/project/local-vectors/"
+}
