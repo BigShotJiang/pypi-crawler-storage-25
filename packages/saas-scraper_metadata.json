@@ -1,0 +1,11 @@
+{
+  "name": "saas-scraper",
+  "version": "0.5.0",
+  "summary": "Chrome-driven SaaS content scraper — yields a uniform Document stream for downstream pipelines (pleno-anonymize, pleno-secret-scanner).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "saas_scraper-0.5.0.tar.gz",
+  "download_time": "2026-05-06T13:22:26.429523",
+  "package_url": "https://pypi.org/project/saas-scraper/"
+}

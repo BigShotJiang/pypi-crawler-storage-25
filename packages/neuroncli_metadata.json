@@ -1,11 +1,11 @@
 {
   "name": "neuroncli",
-  "version": "4.0.0",
-  "summary": "AI Coding Agent — Free Claude Code alternative. Native Rust binary with plan mode, shell escapes, and Azure AI + OpenRouter support.",
-  "author": null,
+  "version": "4.0.6",
+  "summary": "NeuronCLI - AI-powered terminal assistant",
+  "author": "RAHUL-DevelopeRR",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neuroncli-4.0.0.tar.gz",
-  "download_time": "2026-05-03T10:28:00.630640",
+  "download_filename": "neuroncli-4.0.6-py3-none-any.whl",
+  "download_time": "2026-05-06T13:22:42.007699",
   "package_url": "https://pypi.org/project/neuroncli/"
 }

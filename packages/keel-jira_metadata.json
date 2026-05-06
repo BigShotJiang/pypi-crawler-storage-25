@@ -1,0 +1,11 @@
+{
+  "name": "keel-jira",
+  "version": "0.0.2",
+  "summary": "Jira Cloud TicketProvider for keel.",
+  "author": "Andrei Matei",
+  "license": null,
+  "home_page": null,
+  "download_filename": "keel_jira-0.0.2.tar.gz",
+  "download_time": "2026-05-06T13:22:29.451618",
+  "package_url": "https://pypi.org/project/keel-jira/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cafitac-agent-memory",
-  "version": "0.1.76",
+  "version": "0.1.87",
   "summary": "Reusable memory runtime for AI agents",
   "author": "Agent Memory Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "cafitac_agent_memory-0.1.76.tar.gz",
-  "download_time": "2026-05-05T10:31:21.525839",
+  "download_filename": "cafitac_agent_memory-0.1.87.tar.gz",
+  "download_time": "2026-05-06T13:22:12.461089",
   "package_url": "https://pypi.org/project/cafitac-agent-memory/"
 }

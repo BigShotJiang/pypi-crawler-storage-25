@@ -1,0 +1,11 @@
+{
+  "name": "pyesasky",
+  "version": "2.0.6",
+  "summary": "ESASky Python wrapper",
+  "author": null,
+  "license": "# European Space Agency Public License – v2.4 – Permissive (Type 3)\n        \n        This software is licensed under the [European Space Agency Public License – v2.4 – Permissive (Type 3)](https://essr.esa.int/license/european-space-agency-public-license-v2-4-permissive-type-3).\n        \n        By using or distributing this software, you agree to the terms of the license.",
+  "home_page": null,
+  "download_filename": "pyesasky-2.0.6.tar.gz",
+  "download_time": "2026-05-06T13:23:09.286687",
+  "package_url": "https://pypi.org/project/pyesasky/"
+}

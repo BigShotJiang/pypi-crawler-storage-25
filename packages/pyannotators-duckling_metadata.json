@@ -1,11 +1,11 @@
 {
   "name": "pyannotators-duckling",
-  "version": "1.6.41",
+  "version": "1.8.55",
   "summary": "Annotator based on Facebook Duckling",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyannotators_duckling-1.6.41.tar.gz",
-  "download_time": "2026-03-31T12:43:07.299513",
+  "download_filename": "pyannotators_duckling-1.8.55.tar.gz",
+  "download_time": "2026-05-06T13:22:58.920523",
   "package_url": "https://pypi.org/project/pyannotators-duckling/"
 }

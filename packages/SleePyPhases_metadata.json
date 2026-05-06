@@ -1,0 +1,11 @@
+{
+  "name": "SleePyPhases",
+  "version": "0.8.2",
+  "summary": "A framwork for creating deep learning pipelines for sleep data",
+  "author": "Franz Ehrlich",
+  "license": null,
+  "home_page": "https://gitlab.com/sleep-is-all-you-need/sleepyphases",
+  "download_filename": "sleepyphases-0.8.2.tar.gz",
+  "download_time": "2026-05-06T13:22:52.020876",
+  "package_url": "https://pypi.org/project/SleePyPhases/"
+}

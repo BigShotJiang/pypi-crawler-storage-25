@@ -1,0 +1,11 @@
+{
+  "name": "dominion-observatory-sdk",
+  "version": "0.3.0",
+  "summary": "Cross-ecosystem agent behavioral telemetry SDK — report and read trust scores from the Dominion Observatory. The only MCP scoring network that accepts agent-reported runtime data.",
+  "author": "Dominion / vdineshk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dominion_observatory_sdk-0.3.0.tar.gz",
+  "download_time": "2026-05-06T13:22:31.482841",
+  "package_url": "https://pypi.org/project/dominion-observatory-sdk/"
+}

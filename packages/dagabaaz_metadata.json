@@ -1,11 +1,11 @@
 {
   "name": "dagabaaz",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "A DAG execution engine for pipeline orchestration.",
   "author": "Varun Chopra",
   "license": null,
   "home_page": null,
-  "download_filename": "dagabaaz-0.1.2.tar.gz",
-  "download_time": "2026-04-04T11:07:12.994987",
+  "download_filename": "dagabaaz-0.2.0.tar.gz",
+  "download_time": "2026-05-06T13:22:58.340959",
   "package_url": "https://pypi.org/project/dagabaaz/"
 }

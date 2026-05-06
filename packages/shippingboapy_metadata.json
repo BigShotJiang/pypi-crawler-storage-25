@@ -1,11 +1,11 @@
 {
   "name": "shippingboapy",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "A Python client for the Shippingbo API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shippingboapy-0.1.1.tar.gz",
-  "download_time": "2026-05-05T10:31:25.889504",
+  "download_filename": "shippingboapy-0.1.3.tar.gz",
+  "download_time": "2026-05-06T13:22:45.167623",
   "package_url": "https://pypi.org/project/shippingboapy/"
 }

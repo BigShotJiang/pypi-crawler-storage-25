@@ -1,11 +1,11 @@
 {
   "name": "captain-nemo",
-  "version": "0.3.68",
+  "version": "0.3.84",
   "summary": "Lark-connected coding agent daemon powered by Claude Agent SDK",
   "author": "Verne",
   "license": null,
   "home_page": null,
-  "download_filename": "captain_nemo-0.3.68.tar.gz",
-  "download_time": "2026-04-16T12:15:33.604637",
+  "download_filename": "captain_nemo-0.3.84.tar.gz",
+  "download_time": "2026-05-06T13:23:11.713683",
   "package_url": "https://pypi.org/project/captain-nemo/"
 }

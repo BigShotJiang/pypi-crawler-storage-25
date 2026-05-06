@@ -1,11 +1,11 @@
 {
   "name": "qwenpaw",
-  "version": "1.1.3.post1",
+  "version": "1.1.5.post2",
   "summary": "QwenPaw is a **personal assistant** that runs in your own environment. It talks to you over multiple channels (DingTalk, Feishu, QQ, Discord, iMessage, etc.) and runs scheduled tasks according to your configuration. **What it can do is driven by Skills — the possibilities are open-ended.** Built-in skills include cron, PDF/Office handling, news digest, file reading, and more; you can add custom skills. All data and tasks run on your machine; no third-party hosting.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qwenpaw-1.1.3.post1.tar.gz",
-  "download_time": "2026-04-23T12:17:38.549496",
+  "download_filename": "qwenpaw-1.1.5.post2.tar.gz",
+  "download_time": "2026-05-06T13:23:12.966823",
   "package_url": "https://pypi.org/project/qwenpaw/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tablesqlconverter",
+  "version": "1.0.1",
+  "summary": "Convert table schema between MySQL, Hive, and string formats",
+  "author": "HuangJie",
+  "license": null,
+  "home_page": "https://github.com/huangjie155/tablesqlconverter",
+  "download_filename": "tablesqlconverter-1.0.1.tar.gz",
+  "download_time": "2026-05-06T13:22:11.283859",
+  "package_url": "https://pypi.org/project/tablesqlconverter/"
+}
