@@ -1,11 +1,11 @@
 {
   "name": "w3-schools",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "A professional TUI for learning from W3Schools inside Termux.",
   "author": null,
-  "license": "Custom: Non-profit, Educational Use Only. No Reverse Engineering.",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "w3_schools-0.1.2.tar.gz",
-  "download_time": "2026-05-06T04:15:26.900881",
+  "download_filename": "w3_schools-0.1.5.tar.gz",
+  "download_time": "2026-05-06T19:12:33.459215",
   "package_url": "https://pypi.org/project/w3-schools/"
 }

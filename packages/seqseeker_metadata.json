@@ -1,0 +1,11 @@
+{
+  "name": "seqseeker",
+  "version": "0.1.0",
+  "summary": "Fast k-mer–based detection of any target sequence in paired single-cell FASTQ files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "seqseeker-0.1.0.tar.gz",
+  "download_time": "2026-05-06T19:12:50.590568",
+  "package_url": "https://pypi.org/project/seqseeker/"
+}

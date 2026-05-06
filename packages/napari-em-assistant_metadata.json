@@ -1,11 +1,11 @@
 {
   "name": "napari-em-assistant",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Task-based EM image processing assistant for napari.",
   "author": "Wulin Teo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "napari_em_assistant-0.1.0.tar.gz",
-  "download_time": "2026-05-05T19:04:08.216616",
+  "download_filename": "napari_em_assistant-0.2.1.tar.gz",
+  "download_time": "2026-05-06T19:12:08.669455",
   "package_url": "https://pypi.org/project/napari-em-assistant/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "flowstash",
-  "version": "0.4.1",
+  "version": "0.5.7",
   "summary": "Convenience meta-package for the flowstash managed platform.",
   "author": "juraj.bezdek@gmail.com",
   "license": null,
   "home_page": null,
-  "download_filename": "flowstash-0.4.1.tar.gz",
-  "download_time": "2026-04-27T10:40:05.534489",
+  "download_filename": "flowstash-0.5.7.tar.gz",
+  "download_time": "2026-05-06T19:12:25.838398",
   "package_url": "https://pypi.org/project/flowstash/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "genesis-devtools",
-  "version": "1.2.15",
+  "version": "1.2.27",
   "summary": "Tools to manager life cycle of Genesis projects.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "genesis_devtools-1.2.15.tar.gz",
-  "download_time": "2026-04-10T11:17:57.657456",
+  "download_filename": "genesis_devtools-1.2.27.tar.gz",
+  "download_time": "2026-05-06T19:12:53.720456",
   "package_url": "https://pypi.org/project/genesis-devtools/"
 }

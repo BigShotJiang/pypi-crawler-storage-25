@@ -1,0 +1,11 @@
+{
+  "name": "lerobot-teleoperator-livekit",
+  "version": "0.1.4",
+  "summary": "LiveKit Portal teleoperator plugin for lerobot (robot-side)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lerobot_teleoperator_livekit-0.1.4.tar.gz",
+  "download_time": "2026-05-06T19:12:39.231334",
+  "package_url": "https://pypi.org/project/lerobot-teleoperator-livekit/"
+}

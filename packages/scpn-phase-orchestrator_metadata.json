@@ -1,0 +1,11 @@
+{
+  "name": "scpn-phase-orchestrator",
+  "version": "0.5.9",
+  "summary": "Domain-agnostic coherence control compiler built on SCPN's Kuramoto/UPDE framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scpn_phase_orchestrator-0.5.9.tar.gz",
+  "download_time": "2026-05-06T19:12:19.611733",
+  "package_url": "https://pypi.org/project/scpn-phase-orchestrator/"
+}

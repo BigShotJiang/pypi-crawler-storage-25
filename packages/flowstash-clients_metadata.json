@@ -1,11 +1,11 @@
 {
   "name": "flowstash-clients",
-  "version": "0.4.1",
+  "version": "0.5.7",
   "summary": "Shared client types and API clients for the flowstash managed platform.",
   "author": "juraj.bezdek@gmail.com",
   "license": null,
   "home_page": null,
-  "download_filename": "flowstash_clients-0.4.1.tar.gz",
-  "download_time": "2026-04-27T10:40:09.312759",
+  "download_filename": "flowstash_clients-0.5.7.tar.gz",
+  "download_time": "2026-05-06T19:12:28.413240",
   "package_url": "https://pypi.org/project/flowstash-clients/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "bawbel-scanner",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Agentic AI component security scanner — detects AVE vulnerabilities",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "bawbel_scanner-1.1.0.tar.gz",
-  "download_time": "2026-05-04T18:17:34.881113",
+  "download_filename": "bawbel_scanner-1.1.1.tar.gz",
+  "download_time": "2026-05-06T19:12:51.104164",
   "package_url": "https://pypi.org/project/bawbel-scanner/"
 }

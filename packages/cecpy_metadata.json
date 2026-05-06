@@ -1,0 +1,11 @@
+{
+  "name": "cecpy",
+  "version": "0.1.4",
+  "summary": "Python bindings for an implementation of CECs benchmarks in C++23",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cecpy-0.1.4.tar.gz",
+  "download_time": "2026-05-06T19:12:14.985888",
+  "package_url": "https://pypi.org/project/cecpy/"
+}

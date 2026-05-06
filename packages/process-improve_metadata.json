@@ -1,11 +1,11 @@
 {
   "name": "process-improve",
-  "version": "1.13.0",
+  "version": "1.13.11",
   "summary": "Designed Experiments; Latent Variables (PCA, PLS, multivariate methods with missing data); Process Monitoring; Batch data analysis.",
   "author": "Kevin Dunn",
   "license": null,
   "home_page": null,
-  "download_filename": "process_improve-1.13.0.tar.gz",
-  "download_time": "2026-04-29T05:00:04.013209",
+  "download_filename": "process_improve-1.13.11.tar.gz",
+  "download_time": "2026-05-06T19:12:44.910135",
   "package_url": "https://pypi.org/project/process-improve/"
 }

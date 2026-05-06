@@ -1,0 +1,11 @@
+{
+  "name": "impact-radius",
+  "version": "1.0.1",
+  "summary": "AST call graph analyzer — what breaks if I change this file?",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "impact_radius-1.0.1.tar.gz",
+  "download_time": "2026-05-06T19:12:55.266703",
+  "package_url": "https://pypi.org/project/impact-radius/"
+}

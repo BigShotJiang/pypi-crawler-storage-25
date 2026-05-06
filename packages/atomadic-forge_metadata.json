@@ -1,11 +1,11 @@
 {
   "name": "atomadic-forge",
-  "version": "0.15.0",
+  "version": "0.16.0",
   "summary": "Atomadic Forge — absorb, enforce, emerge. Polyglot (Python · JavaScript/TypeScript · Swift · Kotlin · Go) architecture guardian for AI-generated code.",
   "author": "Atomadic",
   "license": null,
   "home_page": null,
-  "download_filename": "atomadic_forge-0.15.0.tar.gz",
-  "download_time": "2026-05-06T17:25:09.540238",
+  "download_filename": "atomadic_forge-0.16.0.tar.gz",
+  "download_time": "2026-05-06T19:12:29.787525",
   "package_url": "https://pypi.org/project/atomadic-forge/"
 }
