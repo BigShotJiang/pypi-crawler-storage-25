@@ -1,0 +1,11 @@
+{
+  "name": "atomr",
+  "version": "0.3.1",
+  "summary": "Native Rust actor runtime with Python bindings — supervised concurrency from one core to a cluster.",
+  "author": "atomr contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "atomr-0.3.1-cp310-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2026-05-06T00:18:25.323605",
+  "package_url": "https://pypi.org/project/atomr/"
+}

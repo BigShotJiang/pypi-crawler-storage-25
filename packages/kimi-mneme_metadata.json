@@ -1,11 +1,11 @@
 {
   "name": "kimi-mneme",
-  "version": "2.0.10",
+  "version": "2.0.14",
   "summary": "Persistent memory plugin for Kimi Code CLI",
   "author": "kimi-mneme contributors",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "kimi_mneme-2.0.10.tar.gz",
-  "download_time": "2026-05-05T19:04:49.358178",
+  "download_filename": "kimi_mneme-2.0.14.tar.gz",
+  "download_time": "2026-05-06T00:19:04.958682",
   "package_url": "https://pypi.org/project/kimi-mneme/"
 }

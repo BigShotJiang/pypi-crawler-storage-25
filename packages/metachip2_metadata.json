@@ -1,11 +1,11 @@
 {
   "name": "metachip2",
-  "version": "2.3.14",
+  "version": "2.3.26",
   "summary": "HGT detection pipeline",
   "author": "Shan Zhang, Torsten Thomas and Weizhi Song",
   "license": "GPL3+",
   "home_page": "https://github.com/songweizhi/MetaCHIP2",
-  "download_filename": "metachip2-2.3.14.tar.gz",
-  "download_time": "2026-04-13T08:28:51.017700",
+  "download_filename": "metachip2-2.3.26.tar.gz",
+  "download_time": "2026-05-06T00:18:40.841876",
   "package_url": "https://pypi.org/project/metachip2/"
 }

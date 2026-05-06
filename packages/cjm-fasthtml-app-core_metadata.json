@@ -1,0 +1,11 @@
+{
+  "name": "cjm-fasthtml-app-core",
+  "version": "0.0.14",
+  "summary": "Core utilities and reusable patterns for FastHTML applications including page layouts, HTMX request handling, navbar, and confirm modal components.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cjm_fasthtml_app_core-0.0.14.tar.gz",
+  "download_time": "2026-05-06T00:18:27.890547",
+  "package_url": "https://pypi.org/project/cjm-fasthtml-app-core/"
+}

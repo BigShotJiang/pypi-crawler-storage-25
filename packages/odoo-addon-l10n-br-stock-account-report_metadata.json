@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-br-stock-account-report",
+  "version": "17.0.1.0.0.2",
+  "summary": "P7 Stock Valuation Report",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo_addon_l10n_br_stock_account_report-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-05-06T00:18:44.449160",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-br-stock-account-report/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "privata",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "A Python module privacy checker for keeping public interfaces intentional.",
   "author": "Bas Nijholt",
   "license": null,
   "home_page": null,
-  "download_filename": "privata-0.1.3.tar.gz",
-  "download_time": "2026-05-05T23:24:03.665326",
+  "download_filename": "privata-0.1.5.tar.gz",
+  "download_time": "2026-05-06T00:19:03.872034",
   "package_url": "https://pypi.org/project/privata/"
 }

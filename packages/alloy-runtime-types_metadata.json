@@ -1,11 +1,11 @@
 {
   "name": "alloy-runtime-types",
-  "version": "0.2.94",
+  "version": "0.2.95",
   "summary": "Type definitions and DTOs for Alloy Runtime",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alloy_runtime_types-0.2.94.tar.gz",
-  "download_time": "2026-05-05T23:23:30.457605",
+  "download_filename": "alloy_runtime_types-0.2.95.tar.gz",
+  "download_time": "2026-05-06T00:18:21.674555",
   "package_url": "https://pypi.org/project/alloy-runtime-types/"
 }

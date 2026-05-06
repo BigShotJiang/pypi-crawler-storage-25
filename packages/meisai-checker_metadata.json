@@ -1,11 +1,11 @@
 {
   "name": "meisai-checker",
-  "version": "0.1.0",
+  "version": "0.94.0",
   "summary": "特許明細書の自動方式チェックツール",
   "author": "aki0ka",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "meisai_checker-0.1.0.tar.gz",
-  "download_time": "2026-04-15T12:52:56.110647",
+  "download_filename": "meisai_checker-0.94.0.tar.gz",
+  "download_time": "2026-05-06T00:18:54.591335",
   "package_url": "https://pypi.org/project/meisai-checker/"
 }

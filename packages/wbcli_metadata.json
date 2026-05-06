@@ -1,11 +1,11 @@
 {
   "name": "wbcli",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "summary": "Lightweight multi-agent orchestrator for iterative development",
   "author": "Duncan McKinnon",
   "license": null,
   "home_page": null,
-  "download_filename": "wbcli-0.0.8.tar.gz",
-  "download_time": "2026-04-18T21:02:22.823869",
+  "download_filename": "wbcli-0.0.10.tar.gz",
+  "download_time": "2026-05-06T00:19:04.447547",
   "package_url": "https://pypi.org/project/wbcli/"
 }

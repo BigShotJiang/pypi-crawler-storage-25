@@ -1,11 +1,11 @@
 {
   "name": "conda-express",
-  "version": "0.5.2",
+  "version": "0.6.0",
   "summary": "A lightweight, single-binary conda bootstrapper — powered by rattler",
   "author": "conda community",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "conda_express-0.5.2.tar.gz",
-  "download_time": "2026-03-31T00:00:43.844424",
+  "download_filename": "conda_express-0.6.0.tar.gz",
+  "download_time": "2026-05-06T00:18:49.400664",
   "package_url": "https://pypi.org/project/conda-express/"
 }

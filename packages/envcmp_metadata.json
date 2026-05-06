@@ -1,0 +1,11 @@
+{
+  "name": "envcmp",
+  "version": "0.1.1",
+  "summary": "Sync CI/CD variables and secrets between platforms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "envcmp-0.1.1.tar.gz",
+  "download_time": "2026-05-06T00:18:22.185584",
+  "package_url": "https://pypi.org/project/envcmp/"
+}

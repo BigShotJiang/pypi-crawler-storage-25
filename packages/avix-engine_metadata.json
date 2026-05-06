@@ -1,0 +1,11 @@
+{
+  "name": "avix-engine",
+  "version": "1.0.1",
+  "summary": "AVIX: The Ultra-Premium Archival Trust Format with SHA-256 Integrity Sentry.",
+  "author": "Escrawl Products",
+  "license": null,
+  "home_page": "https://github.com/escrawl/avix-engine",
+  "download_filename": "avix_engine-1.0.1.tar.gz",
+  "download_time": "2026-05-06T00:18:56.641380",
+  "package_url": "https://pypi.org/project/avix-engine/"
+}

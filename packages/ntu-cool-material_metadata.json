@@ -1,11 +1,11 @@
 {
   "name": "ntu-cool-material",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "One-command bulk downloader for NTU COOL (Canvas) course materials — PDFs, lecture videos, and Pages.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ntu_cool_material-0.1.5.tar.gz",
-  "download_time": "2026-05-05T19:04:15.051226",
+  "download_filename": "ntu_cool_material-0.1.7.tar.gz",
+  "download_time": "2026-05-06T00:18:27.380337",
   "package_url": "https://pypi.org/project/ntu-cool-material/"
 }

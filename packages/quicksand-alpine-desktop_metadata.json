@@ -1,0 +1,11 @@
+{
+  "name": "quicksand-alpine-desktop",
+  "version": "0.9.3",
+  "summary": "Minimal Alpine Linux desktop VM (Xfce4) for quicksand",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quicksand_alpine_desktop-0.9.3-py3-none-any.whl",
+  "download_time": "2026-05-06T00:18:35.685526",
+  "package_url": "https://pypi.org/project/quicksand-alpine-desktop/"
+}

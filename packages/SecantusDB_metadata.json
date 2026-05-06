@@ -1,11 +1,11 @@
 {
   "name": "SecantusDB",
-  "version": "0.3.0a54",
-  "summary": "A drop-in single-node MongoDB server in Python using the WiredTiger storage engine",
+  "version": "0.3.0a58",
+  "summary": "An embeddable, MongoDB compatible, document database, built on WiredTiger",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "secantusdb-0.3.0a54.tar.gz",
-  "download_time": "2026-05-05T23:23:55.792022",
+  "download_filename": "secantusdb-0.3.0a58.tar.gz",
+  "download_time": "2026-05-06T00:18:47.752576",
   "package_url": "https://pypi.org/project/SecantusDB/"
 }

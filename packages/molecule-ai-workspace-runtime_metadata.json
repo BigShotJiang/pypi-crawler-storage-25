@@ -1,11 +1,11 @@
 {
   "name": "molecule-ai-workspace-runtime",
-  "version": "0.1.126",
+  "version": "0.1.128",
   "summary": "Molecule AI workspace runtime — shared infrastructure for all agent adapters",
   "author": null,
   "license": "BSL-1.1",
   "home_page": null,
-  "download_filename": "molecule_ai_workspace_runtime-0.1.126.tar.gz",
-  "download_time": "2026-05-05T23:24:05.756360",
+  "download_filename": "molecule_ai_workspace_runtime-0.1.128.tar.gz",
+  "download_time": "2026-05-06T00:18:24.249473",
   "package_url": "https://pypi.org/project/molecule-ai-workspace-runtime/"
 }

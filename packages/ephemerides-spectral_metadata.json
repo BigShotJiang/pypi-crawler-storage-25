@@ -1,11 +1,11 @@
 {
   "name": "ephemerides-spectral",
-  "version": "0.12.0",
+  "version": "0.13.1",
   "summary": "High-precision HDC reference instrument for the solar system based on JPL DE441 (native C backend, runtime kernel patching, 38 bodies including all major Jovian + Saturnian moons; SPICE-free runtime)",
   "author": "Steven Kirkland",
   "license": null,
   "home_page": null,
-  "download_filename": "ephemerides_spectral-0.12.0.tar.gz",
-  "download_time": "2026-05-05T23:23:45.785063",
+  "download_filename": "ephemerides_spectral-0.13.1.tar.gz",
+  "download_time": "2026-05-06T00:18:57.670070",
   "package_url": "https://pypi.org/project/ephemerides-spectral/"
 }

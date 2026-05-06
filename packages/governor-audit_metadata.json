@@ -1,11 +1,11 @@
 {
   "name": "governor-audit",
-  "version": "0.3.4",
+  "version": "0.4.12",
   "summary": "Read-only BigQuery cost-audit tool — single-user, gcloud ADC only, no GCS / no GitHub / no dbt installation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "governor_audit-0.3.4.tar.gz",
-  "download_time": "2026-05-04T22:25:31.102065",
+  "download_filename": "governor_audit-0.4.12.tar.gz",
+  "download_time": "2026-05-06T00:18:37.733631",
   "package_url": "https://pypi.org/project/governor-audit/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ascend-langchain",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "ASCEND governance integration for LangChain AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ascend_langchain-2.0.0.tar.gz",
-  "download_time": "2026-03-29T15:58:41.334829",
+  "download_filename": "ascend_langchain-2.0.1.tar.gz",
+  "download_time": "2026-05-06T00:18:28.913075",
   "package_url": "https://pypi.org/project/ascend-langchain/"
 }
