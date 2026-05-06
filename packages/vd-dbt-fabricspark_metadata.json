@@ -1,11 +1,11 @@
 {
   "name": "vd-dbt-fabricspark",
-  "version": "1.9.14",
-  "summary": "A Microsoft Fabric Spark adapter plugin for dbt",
+  "version": "1.9.17",
+  "summary": "Vibedata fork of dbt-fabricspark with the external_token auth method",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vd_dbt_fabricspark-1.9.14.tar.gz",
-  "download_time": "2026-04-16T11:07:54.601808",
+  "download_filename": "vd_dbt_fabricspark-1.9.17.tar.gz",
+  "download_time": "2026-05-06T09:23:02.738863",
   "package_url": "https://pypi.org/project/vd-dbt-fabricspark/"
 }

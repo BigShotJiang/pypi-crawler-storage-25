@@ -1,0 +1,11 @@
+{
+  "name": "marina-cli",
+  "version": "0.2.5",
+  "summary": "A dataset manager for robotics to organize, share, and discover datasets and metadata across storage backends.",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "marina_cli-0.2.5-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-06T09:22:59.807240",
+  "package_url": "https://pypi.org/project/marina-cli/"
+}

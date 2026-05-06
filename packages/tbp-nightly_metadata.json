@@ -1,11 +1,11 @@
 {
   "name": "tbp-nightly",
-  "version": "2.23.2a20260430",
+  "version": "2.23.2a20260506",
   "summary": "XProf Profiler Plugin",
   "author": "Google Inc.",
   "license": "Apache 2.0",
   "home_page": "https://github.com/openxla/xprof-nightly",
-  "download_filename": "tbp_nightly-2.23.2a20260430-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-04-30T09:43:35.371293",
+  "download_filename": "tbp_nightly-2.23.2a20260506-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-06T09:22:38.968442",
   "package_url": "https://pypi.org/project/tbp-nightly/"
 }

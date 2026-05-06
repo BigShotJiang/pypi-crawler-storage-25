@@ -1,11 +1,11 @@
 {
   "name": "simplevecdb",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "summary": "Dead-simple local vector database powered by usearch HNSW.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simplevecdb-2.5.0.tar.gz",
-  "download_time": "2026-04-07T10:44:35.089308",
+  "download_filename": "simplevecdb-2.6.0.tar.gz",
+  "download_time": "2026-05-06T09:23:03.298254",
   "package_url": "https://pypi.org/project/simplevecdb/"
 }

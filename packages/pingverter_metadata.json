@@ -1,0 +1,11 @@
+{
+  "name": "pingverter",
+  "version": "2.1.4",
+  "summary": "A Python-based converter for sonar logs used by PINGMapper",
+  "author": "Cameron Bodine",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pingverter-2.1.4.tar.gz",
+  "download_time": "2026-05-06T09:22:58.113154",
+  "package_url": "https://pypi.org/project/pingverter/"
+}

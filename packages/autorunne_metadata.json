@@ -1,11 +1,11 @@
 {
   "name": "autorunne",
-  "version": "0.6.4",
+  "version": "0.6.20",
   "summary": "Local-first agent development workspace that turns any repo into an Autorunne project.",
   "author": "Hermes Agent",
   "license": null,
   "home_page": null,
-  "download_filename": "autorunne-0.6.4.tar.gz",
-  "download_time": "2026-04-22T21:17:05.572126",
+  "download_filename": "autorunne-0.6.20.tar.gz",
+  "download_time": "2026-05-06T09:22:18.494607",
   "package_url": "https://pypi.org/project/autorunne/"
 }

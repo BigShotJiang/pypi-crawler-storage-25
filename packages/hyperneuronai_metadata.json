@@ -1,11 +1,11 @@
 {
   "name": "hyperneuronai",
-  "version": "0.1.11",
+  "version": "0.1.18",
   "summary": "Official Python SDK for HyperNeuron AI services",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hyperneuronai-0.1.11.tar.gz",
-  "download_time": "2026-05-06T06:55:37.042563",
+  "download_filename": "hyperneuronai-0.1.18.tar.gz",
+  "download_time": "2026-05-06T09:22:23.490025",
   "package_url": "https://pypi.org/project/hyperneuronai/"
 }

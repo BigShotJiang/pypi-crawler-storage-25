@@ -1,11 +1,11 @@
 {
   "name": "shoggoth",
-  "version": "0.5.10",
+  "version": "0.5.11",
   "summary": "A card creator for Arkham Horror: The Card Game",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shoggoth-0.5.10.tar.gz",
-  "download_time": "2026-05-05T22:25:57.024429",
+  "download_filename": "shoggoth-0.5.11.tar.gz",
+  "download_time": "2026-05-06T09:23:01.633321",
   "package_url": "https://pypi.org/project/shoggoth/"
 }

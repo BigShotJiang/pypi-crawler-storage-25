@@ -1,11 +1,11 @@
 {
   "name": "omurtag",
-  "version": "0.4.2",
+  "version": "0.4.5",
   "summary": "Scaffold projects from personal templates, with a security audit on every create",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "omurtag-0.4.2.tar.gz",
-  "download_time": "2026-05-02T23:02:24.843268",
+  "download_filename": "omurtag-0.4.5.tar.gz",
+  "download_time": "2026-05-06T09:23:05.402565",
   "package_url": "https://pypi.org/project/omurtag/"
 }
