@@ -1,0 +1,11 @@
+{
+  "name": "chalice",
+  "version": "1.33.0",
+  "summary": "Microframework",
+  "author": "James Saryerwinnie",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aws/chalice",
+  "download_filename": "chalice-1.33.0.tar.gz",
+  "download_time": "2026-05-07T19:09:49.713597",
+  "package_url": "https://pypi.org/project/chalice/"
+}

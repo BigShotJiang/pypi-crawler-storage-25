@@ -1,0 +1,11 @@
+{
+  "name": "qten",
+  "version": "0.3.0",
+  "summary": "Torch-based tensors, lattices, symmetries, and band-structure tools for quantum lattice models.",
+  "author": "alphaharrius, eyjafjallac",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qten-0.3.0.tar.gz",
+  "download_time": "2026-05-07T19:09:52.814661",
+  "package_url": "https://pypi.org/project/qten/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "findafactor",
+  "version": "6.9.0",
+  "summary": "Find any nontrivial factor of a number",
+  "author": "Dan Strano",
+  "license": "MIT License",
+  "home_page": "https://github.com/vm6502q/FindAFactor",
+  "download_filename": "findafactor-6.9.0.tar.gz",
+  "download_time": "2026-05-07T19:09:48.687925",
+  "package_url": "https://pypi.org/project/findafactor/"
+}

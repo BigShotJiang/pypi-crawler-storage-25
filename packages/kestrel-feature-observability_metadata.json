@@ -1,0 +1,11 @@
+{
+  "name": "kestrel-feature-observability",
+  "version": "0.2.0",
+  "summary": "Lifecycle event observability feature for Kestrel Sovereign — hook-driven logging with shared Prometheus registry",
+  "author": "UncleSaurus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kestrel_feature_observability-0.2.0.tar.gz",
+  "download_time": "2026-05-07T19:09:39.220502",
+  "package_url": "https://pypi.org/project/kestrel-feature-observability/"
+}

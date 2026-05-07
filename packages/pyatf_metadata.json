@@ -1,0 +1,11 @@
+{
+  "name": "pyatf",
+  "version": "0.0.13",
+  "summary": "Auto-Tuning Framework (ATF) is a generic, general-purpose auto-tuning approach for programs whose tuning parameters may be constrained",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyatf-0.0.13.tar.gz",
+  "download_time": "2026-05-07T19:09:36.649707",
+  "package_url": "https://pypi.org/project/pyatf/"
+}

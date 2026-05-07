@@ -1,0 +1,11 @@
+{
+  "name": "qualia-codegen-core",
+  "version": "2.6.0",
+  "summary": "Generate portable C inference code from Keras or PyTorch model",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "qualia_codegen_core-2.6.0.tar.gz",
+  "download_time": "2026-05-07T19:10:00.116704",
+  "package_url": "https://pypi.org/project/qualia-codegen-core/"
+}

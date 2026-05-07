@@ -1,11 +1,11 @@
 {
   "name": "spectra-server",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Analytics event ingestion server for Spectra",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spectra_server-1.0.0.tar.gz",
-  "download_time": "2026-04-01T21:04:22.523507",
+  "download_filename": "spectra_server-1.0.2.tar.gz",
+  "download_time": "2026-05-07T19:09:55.391478",
   "package_url": "https://pypi.org/project/spectra-server/"
 }

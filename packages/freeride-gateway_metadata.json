@@ -1,11 +1,11 @@
 {
   "name": "freeride-gateway",
-  "version": "0.3.0a5",
-  "summary": "Free-AI gateway: OpenAI-compatible local proxy that orchestrates free-tier inference across multiple providers",
-  "author": "Shaishav Pidadi",
+  "version": "0.3.0a8",
+  "summary": "Local OpenAI-compatible gateway that routes across free-tier providers (OpenRouter, Groq, NVIDIA NIM, Cloudflare Workers AI, HuggingFace) with automatic failover.",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "freeride_gateway-0.3.0a5.tar.gz",
-  "download_time": "2026-05-07T17:21:03.624930",
+  "download_filename": "freeride_gateway-0.3.0a8.tar.gz",
+  "download_time": "2026-05-07T19:09:57.975283",
   "package_url": "https://pypi.org/project/freeride-gateway/"
 }
