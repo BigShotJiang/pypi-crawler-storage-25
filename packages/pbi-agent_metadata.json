@@ -1,11 +1,11 @@
 {
   "name": "pbi-agent",
-  "version": "0.1.0",
+  "version": "0.3.1",
   "summary": "Multi-provider lightweight local coding agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pbi_agent-0.1.0-py3-none-any.whl",
-  "download_time": "2026-04-30T23:18:41.388431",
+  "download_filename": "pbi_agent-0.3.1-py3-none-any.whl",
+  "download_time": "2026-05-07T21:42:00.531229",
   "package_url": "https://pypi.org/project/pbi-agent/"
 }

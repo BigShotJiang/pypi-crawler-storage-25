@@ -1,0 +1,11 @@
+{
+  "name": "cypack",
+  "version": "0.1.2",
+  "summary": "Compile nested Python packages into .so/.pyd files with vendor subproject support",
+  "author": "Jin Liu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cypack-0.1.2.tar.gz",
+  "download_time": "2026-05-07T21:42:06.582009",
+  "package_url": "https://pypi.org/project/cypack/"
+}

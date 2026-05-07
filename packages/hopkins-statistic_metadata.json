@@ -1,0 +1,11 @@
+{
+  "name": "hopkins-statistic",
+  "version": "0.6.0",
+  "summary": "Compute the Hopkins statistic to assess clustering tendency.",
+  "author": "Johann Philipp Gorzny",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hopkins_statistic-0.6.0.tar.gz",
+  "download_time": "2026-05-07T21:41:46.605451",
+  "package_url": "https://pypi.org/project/hopkins-statistic/"
+}

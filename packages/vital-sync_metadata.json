@@ -1,0 +1,11 @@
+{
+  "name": "vital-sync",
+  "version": "0.1.2",
+  "summary": "Personal health data aggregation and analytics toolkit. Integrates Oura Ring, Hevy workouts, Renpho scale, and MyNetDiary.",
+  "author": "mishmishb",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vital_sync-0.1.2.tar.gz",
+  "download_time": "2026-05-07T21:42:07.131242",
+  "package_url": "https://pypi.org/project/vital-sync/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "quads-lib",
+  "version": "0.1.10",
+  "summary": "Python client library for interacting with the QUADS API",
+  "author": "Gonzalo Rafuls",
+  "license": "LGPL-3.0-only",
+  "home_page": "https://github.com/quadsproject/python-quads-lib",
+  "download_filename": "quads_lib-0.1.10.tar.gz",
+  "download_time": "2026-05-07T21:42:14.894084",
+  "package_url": "https://pypi.org/project/quads-lib/"
+}

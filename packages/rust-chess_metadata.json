@@ -1,0 +1,11 @@
+{
+  "name": "rust-chess",
+  "version": "0.4.3",
+  "summary": "A bridge between the Rust chess crate and Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rust_chess-0.4.3.tar.gz",
+  "download_time": "2026-05-07T21:41:38.255008",
+  "package_url": "https://pypi.org/project/rust-chess/"
+}

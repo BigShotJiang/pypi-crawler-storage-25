@@ -1,0 +1,11 @@
+{
+  "name": "dataprem-mcp",
+  "version": "0.3.1",
+  "summary": "MCP server para acceder a datos públicos españoles (Catastro, BORME, CENDOJ, Licitaciones)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataprem_mcp-0.3.1.tar.gz",
+  "download_time": "2026-05-07T21:41:55.492359",
+  "package_url": "https://pypi.org/project/dataprem-mcp/"
+}

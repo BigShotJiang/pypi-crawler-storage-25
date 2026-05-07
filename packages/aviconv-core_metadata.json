@@ -1,0 +1,11 @@
+{
+  "name": "aviconv-core",
+  "version": "0.0.2",
+  "summary": "Shared utilities for the aviconv aviation-data converter family: coordinates, AIRAC dates, XML helpers, CLI dispatcher.",
+  "author": "aviconv contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aviconv_core-0.0.2.tar.gz",
+  "download_time": "2026-05-07T21:41:39.996832",
+  "package_url": "https://pypi.org/project/aviconv-core/"
+}

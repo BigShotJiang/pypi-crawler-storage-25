@@ -1,0 +1,11 @@
+{
+  "name": "langgraph2slack",
+  "version": "0.6.0",
+  "summary": "Simple package to connect LangGraph applications to Slack",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langgraph2slack-0.6.0.tar.gz",
+  "download_time": "2026-05-07T21:41:51.084592",
+  "package_url": "https://pypi.org/project/langgraph2slack/"
+}
