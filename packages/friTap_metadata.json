@@ -1,0 +1,11 @@
+{
+  "name": "friTap",
+  "version": "1.6.3.1",
+  "summary": "Simplifies (SSL/TLS) traffic analysis and key extraction using Frida across major platforms.",
+  "author": "Daniel Baier, Julian Lengersdorff, Francois Egner, Max Ufer",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/fkie-cad/friTap",
+  "download_filename": "fritap-1.6.3.1.tar.gz",
+  "download_time": "2026-05-07T17:21:09.885634",
+  "package_url": "https://pypi.org/project/friTap/"
+}

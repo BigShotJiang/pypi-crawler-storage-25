@@ -1,0 +1,11 @@
+{
+  "name": "django-reusable",
+  "version": "14.8",
+  "summary": "Agnostic and easy to use reusable library for django",
+  "author": "Naved Rangwala",
+  "license": "BSD",
+  "home_page": "https://github.com/navedr/django-reusable",
+  "download_filename": "django_reusable-14.8.tar.gz",
+  "download_time": "2026-05-07T17:21:24.854249",
+  "package_url": "https://pypi.org/project/django-reusable/"
+}

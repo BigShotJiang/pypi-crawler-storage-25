@@ -1,0 +1,11 @@
+{
+  "name": "wordcloud-d3",
+  "version": "0.1.0",
+  "summary": "Generate offline static D3 word-cloud HTML from plain text, idioms, or frequency files.",
+  "author": "PiPiCat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wordcloud_d3-0.1.0.tar.gz",
+  "download_time": "2026-05-07T17:21:07.755697",
+  "package_url": "https://pypi.org/project/wordcloud-d3/"
+}

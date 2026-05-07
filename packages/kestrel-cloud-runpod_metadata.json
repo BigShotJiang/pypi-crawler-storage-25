@@ -1,0 +1,11 @@
+{
+  "name": "kestrel-cloud-runpod",
+  "version": "0.2.0",
+  "summary": "RunPod GPU cloud provider for Kestrel Sovereign — provision pods, run training jobs, lifecycle management",
+  "author": "UncleSaurus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kestrel_cloud_runpod-0.2.0.tar.gz",
+  "download_time": "2026-05-07T17:21:15.019798",
+  "package_url": "https://pypi.org/project/kestrel-cloud-runpod/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kestrel-sovereign-sdk",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "summary": "Kestrel Sovereign SDK — lightweight interfaces and protocols for feature packages",
   "author": "UncleSaurus",
   "license": null,
   "home_page": null,
-  "download_filename": "kestrel_sovereign_sdk-0.2.0.tar.gz",
-  "download_time": "2026-05-06T22:06:55.632648",
+  "download_filename": "kestrel_sovereign_sdk-0.5.0.tar.gz",
+  "download_time": "2026-05-07T17:20:46.652772",
   "package_url": "https://pypi.org/project/kestrel-sovereign-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "n8n-logger",
+  "version": "0.1.7",
+  "summary": "Logger com integração com n8n",
+  "author": "Kauã Persich",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "n8n_logger-0.1.7.tar.gz",
+  "download_time": "2026-05-07T17:21:06.712336",
+  "package_url": "https://pypi.org/project/n8n-logger/"
+}

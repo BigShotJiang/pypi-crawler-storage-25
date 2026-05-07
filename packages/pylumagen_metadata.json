@@ -1,0 +1,11 @@
+{
+  "name": "pylumagen",
+  "version": "0.1.5",
+  "summary": "Async Python library for controlling Lumagen Radiance Pro over RS232 or TCP",
+  "author": "John Carey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylumagen-0.1.5.tar.gz",
+  "download_time": "2026-05-07T17:21:05.685859",
+  "package_url": "https://pypi.org/project/pylumagen/"
+}

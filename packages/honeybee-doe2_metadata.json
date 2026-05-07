@@ -1,0 +1,11 @@
+{
+  "name": "honeybee-doe2",
+  "version": "0.23.6",
+  "summary": "Honeybee extension for translating HBJSON files to INP files for eQuest",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/honeybee-doe2",
+  "download_filename": "honeybee_doe2-0.23.6.tar.gz",
+  "download_time": "2026-05-07T17:21:12.452867",
+  "package_url": "https://pypi.org/project/honeybee-doe2/"
+}
