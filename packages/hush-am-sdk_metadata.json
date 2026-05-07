@@ -1,0 +1,11 @@
+{
+  "name": "hush-am-sdk",
+  "version": "0.2.0",
+  "summary": "Python SDK for Hush secret access via SPIFFE mTLS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hush_am_sdk-0.2.0.tar.gz",
+  "download_time": "2026-05-07T08:43:00.529856",
+  "package_url": "https://pypi.org/project/hush-am-sdk/"
+}

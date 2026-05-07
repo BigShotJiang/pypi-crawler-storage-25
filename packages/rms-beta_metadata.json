@@ -1,11 +1,11 @@
 {
   "name": "rms-beta",
-  "version": "0.1.7",
+  "version": "1.1.8",
   "summary": "-",
   "author": null,
-  "license": "All Rights Reserved",
+  "license": "Copyright (c) 2026 CDRsystem. All Rights Reserved",
   "home_page": null,
-  "download_filename": "rms_beta-0.1.7.tar.gz",
-  "download_time": "2026-04-14T05:55:04.255889",
+  "download_filename": "rms_beta-1.1.8-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-05-07T08:43:21.791923",
   "package_url": "https://pypi.org/project/rms-beta/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ne-mcp-eeg",
+  "version": "0.1.0",
+  "summary": "MCP server for EEG analysis with Neuroelectrics data formats",
+  "author": "Neuroelectrics",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ne_mcp_eeg-0.1.0.tar.gz",
+  "download_time": "2026-05-07T08:43:01.176535",
+  "package_url": "https://pypi.org/project/ne-mcp-eeg/"
+}

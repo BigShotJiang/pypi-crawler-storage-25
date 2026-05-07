@@ -1,0 +1,11 @@
+{
+  "name": "privacy-steward",
+  "version": "0.1.1",
+  "summary": "CLI tool to redact PII from text files using the openai/privacy-filter model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "privacy_steward-0.1.1.tar.gz",
+  "download_time": "2026-05-07T08:43:16.242237",
+  "package_url": "https://pypi.org/project/privacy-steward/"
+}

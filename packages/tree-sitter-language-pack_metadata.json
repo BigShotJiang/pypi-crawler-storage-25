@@ -1,11 +1,11 @@
 {
   "name": "tree-sitter-language-pack",
-  "version": "1.4.2",
-  "summary": "Pre-compiled tree-sitter parsers for 248 programming languages with a unified process() API for parsing, analysis, and intelligent code chunking.",
+  "version": "1.6.3",
+  "summary": "Comprehensive collection of 305 tree-sitter language parsers with polyglot bindings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tree_sitter_language_pack-1.4.2-cp310-abi3-macosx_11_0_arm64.whl",
-  "download_time": "2026-04-08T08:49:34.943826",
+  "download_filename": "tree_sitter_language_pack-1.6.3-cp312-cp312-manylinux_2_34_aarch64.whl",
+  "download_time": "2026-05-07T08:43:14.061454",
   "package_url": "https://pypi.org/project/tree-sitter-language-pack/"
 }
