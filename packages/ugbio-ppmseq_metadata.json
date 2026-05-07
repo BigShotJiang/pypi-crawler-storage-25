@@ -1,11 +1,11 @@
 {
   "name": "ugbio-ppmseq",
-  "version": "1.24.0",
+  "version": "1.24.2",
   "summary": "Ultima Genomics ppmSeq utils",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ugbio_ppmseq-1.24.0.tar.gz",
-  "download_time": "2026-04-23T10:05:33.772063",
+  "download_filename": "ugbio_ppmseq-1.24.2.tar.gz",
+  "download_time": "2026-05-07T12:39:12.329317",
   "package_url": "https://pypi.org/project/ugbio-ppmseq/"
 }

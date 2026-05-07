@@ -1,11 +1,11 @@
 {
   "name": "dash-capture",
-  "version": "0.0.11",
+  "version": "0.0.15",
   "summary": "Browser capture & custom renderer pipeline for Plotly Dash components",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dash_capture-0.0.11.tar.gz",
-  "download_time": "2026-04-30T15:31:04.077593",
+  "download_filename": "dash_capture-0.0.15.tar.gz",
+  "download_time": "2026-05-07T12:38:58.256557",
   "package_url": "https://pypi.org/project/dash-capture/"
 }
