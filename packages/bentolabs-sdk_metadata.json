@@ -1,0 +1,11 @@
+{
+  "name": "bentolabs-sdk",
+  "version": "0.1.0",
+  "summary": "Official BentoLabs Python SDK. Drop-in OpenTelemetry span processor that ships traces to the BentoLabs ingest API over OTLP/HTTP+JSON.",
+  "author": null,
+  "license": "Copyright (c) 2026 BentoLabs, Inc. All rights reserved.  This software and the accompanying documentation (collectively, the \"Software\") are the proprietary and confidential property of BentoLabs, Inc. and are protected by copyright, trade secret, and other intellectual property laws.  Use of the Software is governed by your written or click-through agreement with BentoLabs, Inc. — including but not limited to the BentoLabs Terms of Service, any applicable subscription, evaluation, or master services agreement, and any data processing or order form referencing this Software (collectively, the \"Agreement\").  Except as expressly authorized under the Agreement, you may not:  - copy, modify, or create derivative works of the Software; - distribute, sublicense, lease, lend, host, or otherwise transfer the Software, in source or object form, to any third party; - reverse-engineer, decompile, or disassemble the Software, except to the extent such restrictions are prohibited by applicable law; - use the Software to provide a service competitive with BentoLabs; - remove, obscure, or alter any proprietary notices in the Software.  No rights are granted to you by implication, estoppel, or otherwise. All rights not expressly granted in the Agreement are reserved by BentoLabs, Inc.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL BENTOLABS, INC. BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.  For licensing inquiries, see https://bentolabs.ai.",
+  "home_page": null,
+  "download_filename": "bentolabs_sdk-0.1.0.tar.gz",
+  "download_time": "2026-05-07T11:04:06.069031",
+  "package_url": "https://pypi.org/project/bentolabs-sdk/"
+}

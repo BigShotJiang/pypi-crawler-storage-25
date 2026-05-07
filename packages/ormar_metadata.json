@@ -1,0 +1,11 @@
+{
+  "name": "ormar",
+  "version": "0.25.0",
+  "summary": "An async ORM with fastapi in mind and pydantic validation.",
+  "author": "Radosław Drążkiewicz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ormar-0.25.0.tar.gz",
+  "download_time": "2026-05-07T11:04:48.737886",
+  "package_url": "https://pypi.org/project/ormar/"
+}

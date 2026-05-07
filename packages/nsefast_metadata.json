@@ -1,11 +1,11 @@
 {
   "name": "nsefast",
-  "version": "0.1.1",
+  "version": "0.2.9",
   "summary": "Fast, robots.txt-respecting NSE India market data collector for swing trading, quant research, and backtesting",
   "author": "Nikhil Shinde",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nsefast-0.1.1.tar.gz",
-  "download_time": "2026-05-07T00:02:04.831406",
+  "download_filename": "nsefast-0.2.9.tar.gz",
+  "download_time": "2026-05-07T11:04:50.780244",
   "package_url": "https://pypi.org/project/nsefast/"
 }

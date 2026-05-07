@@ -1,0 +1,11 @@
+{
+  "name": "titon-network-kronos-sdk",
+  "version": "0.8.2",
+  "summary": "Python SDK for Kronos — decentralized automation for TON. Register recurring on-chain jobs, run automatons, decode events. TSA-audited zero findings.",
+  "author": "titon.network",
+  "license": null,
+  "home_page": null,
+  "download_filename": "titon_network_kronos_sdk-0.8.2.tar.gz",
+  "download_time": "2026-05-07T11:04:00.594018",
+  "package_url": "https://pypi.org/project/titon-network-kronos-sdk/"
+}

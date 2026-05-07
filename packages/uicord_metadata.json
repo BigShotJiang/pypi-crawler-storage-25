@@ -1,11 +1,11 @@
 {
   "name": "uicord",
-  "version": "5.0.3",
-  "summary": "Components V2 helper for Discord bots",
+  "version": "5.0.7",
+  "summary": "Components V2 ecosystem for Discord bots",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uicord-5.0.3.tar.gz",
-  "download_time": "2026-04-12T16:42:05.508665",
+  "download_filename": "uicord-5.0.7.tar.gz",
+  "download_time": "2026-05-07T11:04:43.631894",
   "package_url": "https://pypi.org/project/uicord/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sql5",
-  "version": "2.4.2",
+  "version": "3.5.0",
   "summary": "SQLite-compatible database with CJK FTS5 support",
   "author": "cccrust",
   "license": "MIT",
   "home_page": "https://github.com/cccrust/sql5",
-  "download_filename": "sql5-2.4.2.tar.gz",
-  "download_time": "2026-05-04T08:38:37.179872",
+  "download_filename": "sql5-3.5.0.tar.gz",
+  "download_time": "2026-05-07T11:04:02.725939",
   "package_url": "https://pypi.org/project/sql5/"
 }

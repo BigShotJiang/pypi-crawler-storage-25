@@ -1,0 +1,11 @@
+{
+  "name": "xaxiu-swarm",
+  "version": "0.3.1",
+  "summary": "Multi-provider agent swarm orchestration: Kimi CLI + DeepSeek + Qwen + Claude. asyncio.gather + git worktree isolation. Pre-authored packets + AG#1 source-trace meta-review. v0.3.0 (G32): ag1_meta_review() helper + xaxiu-swarm ag1 CLI subcommand auto-injecting source-trace verification clause to prevent rubber-stamping cohort findings.",
+  "author": "Maersk Warehouse Planner Pro infra",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xaxiu_swarm-0.3.1.tar.gz",
+  "download_time": "2026-05-07T11:04:11.832527",
+  "package_url": "https://pypi.org/project/xaxiu-swarm/"
+}
