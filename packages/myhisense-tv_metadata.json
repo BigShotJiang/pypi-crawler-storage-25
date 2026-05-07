@@ -1,0 +1,11 @@
+{
+  "name": "myhisense-tv",
+  "version": "1.6.1",
+  "summary": "Control Hisense/Vidaa Smart TVs via MQTT",
+  "author": "Warren Rees",
+  "license": null,
+  "home_page": "https://github.com/warrenrees/myhisense-tv",
+  "download_filename": "myhisense_tv-1.6.1.tar.gz",
+  "download_time": "2026-05-07T22:54:02.144838",
+  "package_url": "https://pypi.org/project/myhisense-tv/"
+}

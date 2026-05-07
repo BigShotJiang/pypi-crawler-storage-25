@@ -1,11 +1,11 @@
 {
   "name": "sqlbuild",
-  "version": "0.0.1",
-  "summary": "Declarative SQL transformation framework for modern data warehouses.",
+  "version": "0.7.0",
+  "summary": "Batch SQL transformation framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sqlbuild-0.0.1.tar.gz",
-  "download_time": "2026-04-19T18:00:39.712048",
+  "download_filename": "sqlbuild-0.7.0.tar.gz",
+  "download_time": "2026-05-07T22:54:17.756240",
   "package_url": "https://pypi.org/project/sqlbuild/"
 }

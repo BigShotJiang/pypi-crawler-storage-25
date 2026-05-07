@@ -1,0 +1,11 @@
+{
+  "name": "ddg-rs",
+  "version": "0.3.2",
+  "summary": "A fast, privacy-respecting Python library for DuckDuckGo searches, powered by Rust.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/wiseaidotdev/duckduckgo",
+  "download_filename": "ddg_rs-0.3.2-cp312-cp312-manylinux_2_38_x86_64.whl",
+  "download_time": "2026-05-07T22:54:11.021343",
+  "package_url": "https://pypi.org/project/ddg-rs/"
+}

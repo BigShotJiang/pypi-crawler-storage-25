@@ -1,0 +1,11 @@
+{
+  "name": "glue-jupyter",
+  "version": "0.28.0",
+  "summary": "Jupyter notebook/lab viewers for glue",
+  "author": "Thomas Robitaille",
+  "license": null,
+  "home_page": null,
+  "download_filename": "glue_jupyter-0.28.0.tar.gz",
+  "download_time": "2026-05-07T22:54:11.534251",
+  "package_url": "https://pypi.org/project/glue-jupyter/"
+}

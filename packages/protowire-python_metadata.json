@@ -1,0 +1,11 @@
+{
+  "name": "protowire-python",
+  "version": "0.70.0",
+  "summary": "Python wrapper around protowire-cpp — PXF text, SBE binary, and envelope codecs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "protowire_python-0.70.0.tar.gz",
+  "download_time": "2026-05-07T22:54:31.231789",
+  "package_url": "https://pypi.org/project/protowire-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "oracle3",
+  "version": "1.1.2",
+  "summary": "Autonomous on-chain trading agent for Solana prediction markets — LLM reasoning, quantitative signals, and atomic execution",
+  "author": "Yicheng Yang",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "oracle3-1.1.2.tar.gz",
+  "download_time": "2026-05-07T22:53:57.991067",
+  "package_url": "https://pypi.org/project/oracle3/"
+}

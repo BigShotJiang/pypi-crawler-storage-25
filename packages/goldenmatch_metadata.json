@@ -1,11 +1,11 @@
 {
   "name": "goldenmatch",
-  "version": "1.4.3",
+  "version": "1.8.0",
   "summary": "Entity resolution toolkit — deduplicate records, match across sources, and maintain golden records",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "goldenmatch-1.4.3.tar.gz",
-  "download_time": "2026-04-08T01:07:59.196190",
+  "download_filename": "goldenmatch-1.8.0.tar.gz",
+  "download_time": "2026-05-07T22:53:44.492740",
   "package_url": "https://pypi.org/project/goldenmatch/"
 }

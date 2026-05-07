@@ -1,0 +1,11 @@
+{
+  "name": "spectral_film_lut",
+  "version": "0.4.4",
+  "summary": "GUI to create LUTs to emulate film from spectral datasheets.",
+  "author": "Jan Lohse",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spectral_film_lut-0.4.4-py3-none-any.whl",
+  "download_time": "2026-05-07T22:54:07.380746",
+  "package_url": "https://pypi.org/project/spectral_film_lut/"
+}

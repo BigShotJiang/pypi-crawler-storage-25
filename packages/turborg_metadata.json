@@ -1,0 +1,11 @@
+{
+  "name": "turborg",
+  "version": "0.5.0",
+  "summary": "An open-source modular AI agent framework. Plug in IRC, Discord, Telegram, web — power it with Claude or any LLM.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "turborg-0.5.0.tar.gz",
+  "download_time": "2026-05-07T22:54:00.055209",
+  "package_url": "https://pypi.org/project/turborg/"
+}
