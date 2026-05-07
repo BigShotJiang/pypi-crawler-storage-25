@@ -1,0 +1,11 @@
+{
+  "name": "ossguard",
+  "version": "0.1.0",
+  "summary": "One-command CLI to guard any OSS project with OpenSSF security best practices — bootstrap, scan, and monitor.",
+  "author": "OSSGuard Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ossguard-0.1.0.tar.gz",
+  "download_time": "2026-05-07T23:46:38.022935",
+  "package_url": "https://pypi.org/project/ossguard/"
+}

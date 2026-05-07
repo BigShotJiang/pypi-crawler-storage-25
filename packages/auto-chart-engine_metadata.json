@@ -1,0 +1,11 @@
+{
+  "name": "auto-chart-engine",
+  "version": "2.0.0",
+  "summary": "This project streamlines charting for Clone Hero, the free PC rhythm game inspired by Guitar Hero/Rock Band. It generates highly accurate, playable charts directly from audio tracks using advanced extraction techniques like isolating drum tracks from MIDI and extracting precise note data. The engine dramatically reduces the time and effort needed to create custom song charts, enabling efficient creation of multiple songs.",
+  "author": "Ryan Roche, Bryant Vencill",
+  "license": null,
+  "home_page": null,
+  "download_filename": "auto_chart_engine-2.0.0.tar.gz",
+  "download_time": "2026-05-07T23:46:05.438899",
+  "package_url": "https://pypi.org/project/auto-chart-engine/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "awswrangler",
+  "version": "3.16.1",
+  "summary": "Pandas on AWS.",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "awswrangler-3.16.1.tar.gz",
+  "download_time": "2026-05-07T23:46:14.757148",
+  "package_url": "https://pypi.org/project/awswrangler/"
+}

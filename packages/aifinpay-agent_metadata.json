@@ -1,0 +1,11 @@
+{
+  "name": "aifinpay-agent",
+  "version": "0.1.0a1",
+  "summary": "Non-custodial x402 payment client for autonomous AI agents on AiFinPay (Solana + Polygon)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aifinpay_agent-0.1.0a1.tar.gz",
+  "download_time": "2026-05-07T23:46:27.185941",
+  "package_url": "https://pypi.org/project/aifinpay-agent/"
+}

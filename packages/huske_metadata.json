@@ -1,0 +1,11 @@
+{
+  "name": "huske",
+  "version": "0.2.0",
+  "summary": "Always-on terminal audio recorder + local transcription (Whisper)",
+  "author": "Tiago Moraes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "huske-0.2.0.tar.gz",
+  "download_time": "2026-05-07T23:46:24.110186",
+  "package_url": "https://pypi.org/project/huske/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "codd-dev",
-  "version": "2.4.0",
+  "version": "2.6.0",
   "summary": "CoDD: Coherence-Driven Development — cross-artifact change impact analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codd_dev-2.4.0.tar.gz",
-  "download_time": "2026-05-07T22:54:01.107509",
+  "download_filename": "codd_dev-2.6.0.tar.gz",
+  "download_time": "2026-05-07T23:46:37.511532",
   "package_url": "https://pypi.org/project/codd-dev/"
 }

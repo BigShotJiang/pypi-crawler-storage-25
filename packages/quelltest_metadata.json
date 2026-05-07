@@ -1,0 +1,11 @@
+{
+  "name": "quelltest",
+  "version": "0.3.0",
+  "summary": "Verified AI test synthesis — proves every generated test catches real bugs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quelltest-0.3.0.tar.gz",
+  "download_time": "2026-05-07T23:46:50.964190",
+  "package_url": "https://pypi.org/project/quelltest/"
+}

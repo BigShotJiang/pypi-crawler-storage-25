@@ -1,11 +1,11 @@
 {
   "name": "efterlev",
-  "version": "0.1.35",
+  "version": "0.1.36",
   "summary": "Repo-native, agent-first compliance scanner for FedRAMP and DoD Impact Levels",
   "author": "Efterlev contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "efterlev-0.1.35.tar.gz",
-  "download_time": "2026-05-07T22:54:14.651662",
+  "download_filename": "efterlev-0.1.36.tar.gz",
+  "download_time": "2026-05-07T23:46:18.920039",
   "package_url": "https://pypi.org/project/efterlev/"
 }

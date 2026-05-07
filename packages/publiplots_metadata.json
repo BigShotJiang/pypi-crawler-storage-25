@@ -1,11 +1,11 @@
 {
   "name": "publiplots",
-  "version": "0.10.0",
+  "version": "0.10.2",
   "summary": "Publication-ready plotting with a clean, modular API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "publiplots-0.10.0.tar.gz",
-  "download_time": "2026-05-07T19:10:11.587073",
+  "download_filename": "publiplots-0.10.2.tar.gz",
+  "download_time": "2026-05-07T23:46:12.703808",
   "package_url": "https://pypi.org/project/publiplots/"
 }

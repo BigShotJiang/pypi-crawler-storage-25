@@ -1,0 +1,11 @@
+{
+  "name": "aiopquic",
+  "version": "0.2.7",
+  "summary": "High-performance QUIC/HTTP3 library — picoquic-backed, qh3-compatible asyncio API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiopquic-0.2.7.tar.gz",
+  "download_time": "2026-05-07T23:46:49.939974",
+  "package_url": "https://pypi.org/project/aiopquic/"
+}
