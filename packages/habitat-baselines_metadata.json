@@ -1,0 +1,11 @@
+{
+  "name": "habitat-baselines",
+  "version": "0.3.320260507",
+  "summary": "Habitat-Baselines: Embodied AI baselines.",
+  "author": "Meta AI Research",
+  "license": "MIT License",
+  "home_page": "https://aihabitat.org",
+  "download_filename": "habitat_baselines-0.3.320260507.tar.gz",
+  "download_time": "2026-05-07T20:37:47.385014",
+  "package_url": "https://pypi.org/project/habitat-baselines/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "raindrop-google-adk",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "summary": "Raindrop integration for Google ADK (Agent Development Kit)",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "raindrop_google_adk-0.0.1.tar.gz",
-  "download_time": "2026-04-15T03:38:47.851046",
+  "download_filename": "raindrop_google_adk-0.0.6.tar.gz",
+  "download_time": "2026-05-07T20:38:16.433831",
   "package_url": "https://pypi.org/project/raindrop-google-adk/"
 }

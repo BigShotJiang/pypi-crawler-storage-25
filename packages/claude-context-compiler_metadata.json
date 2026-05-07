@@ -1,11 +1,11 @@
 {
   "name": "claude-context-compiler",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "Local context compiler for AI coding assistants — smallest correct context bundle with rationale",
   "author": "sumesh",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "claude_context_compiler-0.4.0.tar.gz",
-  "download_time": "2026-05-06T22:06:49.350331",
+  "download_filename": "claude_context_compiler-0.5.1.tar.gz",
+  "download_time": "2026-05-07T20:37:41.926169",
   "package_url": "https://pypi.org/project/claude-context-compiler/"
 }

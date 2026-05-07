@@ -1,11 +1,11 @@
 {
   "name": "trove-sdk",
-  "version": "0.7.5",
+  "version": "0.9.0",
   "summary": "Python SDK for Trove — files and commands for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trove_sdk-0.7.5.tar.gz",
-  "download_time": "2026-05-07T17:21:18.597437",
+  "download_filename": "trove_sdk-0.9.0.tar.gz",
+  "download_time": "2026-05-07T20:37:58.108359",
   "package_url": "https://pypi.org/project/trove-sdk/"
 }

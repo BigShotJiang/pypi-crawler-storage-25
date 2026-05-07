@@ -1,11 +1,11 @@
 {
   "name": "automox-mcp",
-  "version": "1.0.20",
+  "version": "1.0.23",
   "summary": "Official MCP server for Automox",
   "author": "Automox",
   "license": null,
   "home_page": null,
-  "download_filename": "automox_mcp-1.0.20.tar.gz",
-  "download_time": "2026-04-30T05:03:28.542350",
+  "download_filename": "automox_mcp-1.0.23.tar.gz",
+  "download_time": "2026-05-07T20:38:01.391895",
   "package_url": "https://pypi.org/project/automox-mcp/"
 }

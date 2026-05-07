@@ -1,0 +1,11 @@
+{
+  "name": "pygxml",
+  "version": "0.0.1",
+  "summary": "streaming parser using gjson-style path queries over XML",
+  "author": "minefuto",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygxml-0.0.1.tar.gz",
+  "download_time": "2026-05-07T20:37:53.609311",
+  "package_url": "https://pypi.org/project/pygxml/"
+}

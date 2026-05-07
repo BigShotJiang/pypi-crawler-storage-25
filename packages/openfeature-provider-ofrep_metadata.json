@@ -1,0 +1,11 @@
+{
+  "name": "openfeature-provider-ofrep",
+  "version": "0.3.0",
+  "summary": "OpenFeature provider for the OpenFeature Remote Evaluation Protocol (OFREP)",
+  "author": "OpenFeature",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openfeature_provider_ofrep-0.3.0.tar.gz",
+  "download_time": "2026-05-07T20:38:19.669963",
+  "package_url": "https://pypi.org/project/openfeature-provider-ofrep/"
+}

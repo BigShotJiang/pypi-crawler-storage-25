@@ -1,0 +1,11 @@
+{
+  "name": "habitat-lab",
+  "version": "0.3.320260507",
+  "summary": "Habitat-Lab: a modular high-level library for end-to-end development in Embodied AI.",
+  "author": "Meta AI Research",
+  "license": "MIT License",
+  "home_page": "https://aihabitat.org",
+  "download_filename": "habitat_lab-0.3.320260507.tar.gz",
+  "download_time": "2026-05-07T20:37:46.873388",
+  "package_url": "https://pypi.org/project/habitat-lab/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gravity",
+  "version": "1.2.2",
+  "summary": "Command-line utilities to assist in managing Galaxy servers",
+  "author": "The Galaxy Team",
+  "license": "MIT",
+  "home_page": "https://github.com/galaxyproject/gravity",
+  "download_filename": "gravity-1.2.2.tar.gz",
+  "download_time": "2026-05-07T20:37:43.528756",
+  "package_url": "https://pypi.org/project/gravity/"
+}

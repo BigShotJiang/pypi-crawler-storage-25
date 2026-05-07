@@ -1,0 +1,11 @@
+{
+  "name": "code2schema",
+  "version": "0.1.7",
+  "summary": "Semantic compiler: Code → AST → CQRS Model → Workflow DAG → Proto/Schema",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "code2schema-0.1.7.tar.gz",
+  "download_time": "2026-05-07T20:37:56.368766",
+  "package_url": "https://pypi.org/project/code2schema/"
+}

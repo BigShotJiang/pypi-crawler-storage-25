@@ -1,0 +1,11 @@
+{
+  "name": "pittgoogle-client",
+  "version": "0.3.22",
+  "summary": "Client utilities for the Pitt-Google astronomical alert broker.",
+  "author": "MWV Research Group",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pittgoogle_client-0.3.22.tar.gz",
+  "download_time": "2026-05-07T20:37:49.539552",
+  "package_url": "https://pypi.org/project/pittgoogle-client/"
+}
