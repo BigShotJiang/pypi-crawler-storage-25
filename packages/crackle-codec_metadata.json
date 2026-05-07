@@ -1,0 +1,11 @@
+{
+  "name": "crackle-codec",
+  "version": "0.42.0",
+  "summary": "Crackle 3D dense segmentation compression codec.",
+  "author": "William Silversmith",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/seung-lab/crackle",
+  "download_filename": "crackle_codec-0.42.0.tar.gz",
+  "download_time": "2026-05-07T00:01:47.026240",
+  "package_url": "https://pypi.org/project/crackle-codec/"
+}

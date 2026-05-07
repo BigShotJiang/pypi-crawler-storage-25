@@ -1,11 +1,11 @@
 {
   "name": "twikit-mcp",
-  "version": "0.1.20",
+  "version": "0.1.25",
   "summary": "Twitter/X MCP server powered by twikit — no API key needed, free forever",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "twikit_mcp-0.1.20.tar.gz",
-  "download_time": "2026-05-05T06:24:33.089455",
+  "download_filename": "twikit_mcp-0.1.25.tar.gz",
+  "download_time": "2026-05-07T00:02:20.943360",
   "package_url": "https://pypi.org/project/twikit-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "spad-mcp",
+  "version": "0.2.1",
+  "summary": "MCP server for driving Claude Code and tmux programs from agents, tests, or scripts -- locally or over SSH.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spad_mcp-0.2.1.tar.gz",
+  "download_time": "2026-05-07T00:02:24.709667",
+  "package_url": "https://pypi.org/project/spad-mcp/"
+}

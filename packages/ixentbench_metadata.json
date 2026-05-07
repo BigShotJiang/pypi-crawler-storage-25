@@ -1,11 +1,11 @@
 {
   "name": "ixentbench",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "The AI benchmark beyond memorization — Causal spatial reasoning at 4×10⁸⁵ scale",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ixentbench-1.0.1.tar.gz",
-  "download_time": "2026-05-06T23:04:00.769259",
+  "download_filename": "ixentbench-1.0.4.tar.gz",
+  "download_time": "2026-05-07T00:02:03.759664",
   "package_url": "https://pypi.org/project/ixentbench/"
 }

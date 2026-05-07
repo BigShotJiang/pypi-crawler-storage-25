@@ -1,11 +1,11 @@
 {
   "name": "owncast-agent",
-  "version": "0.1.6",
+  "version": "0.7.1",
   "summary": "Agent for interacting with Owncast API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "owncast_agent-0.1.6.tar.gz",
-  "download_time": "2026-04-10T05:16:21.522293",
+  "download_filename": "owncast_agent-0.7.1.tar.gz",
+  "download_time": "2026-05-07T00:01:51.905622",
   "package_url": "https://pypi.org/project/owncast-agent/"
 }

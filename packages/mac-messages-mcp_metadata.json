@@ -1,11 +1,11 @@
 {
   "name": "mac-messages-mcp",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "A bridge for interacting with macOS Messages app through MCP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mac_messages_mcp-0.9.0.tar.gz",
-  "download_time": "2026-05-06T23:03:52.530851",
+  "download_filename": "mac_messages_mcp-0.9.1.tar.gz",
+  "download_time": "2026-05-07T00:02:26.852752",
   "package_url": "https://pypi.org/project/mac-messages-mcp/"
 }

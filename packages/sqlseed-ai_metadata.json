@@ -1,11 +1,11 @@
 {
   "name": "sqlseed-ai",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "summary": "AI-powered data generation plugin for sqlseed",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sqlseed_ai-0.1.15.tar.gz",
-  "download_time": "2026-05-02T00:15:24.343937",
+  "download_filename": "sqlseed_ai-0.1.16.tar.gz",
+  "download_time": "2026-05-07T00:02:05.900535",
   "package_url": "https://pypi.org/project/sqlseed-ai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "secfi",
+  "version": "0.2.0",
+  "summary": "Python tool to collect SEC filings for all publicly traded companies. Easily fetch forms like 10-K, 10-Q, and 8-K, along with links and document contents. Ideal for analysts, researchers, and anyone exploring financial reports or SEC data. Simplify your access to essential company information",
+  "author": "Juan Pablo",
+  "license": "MIT",
+  "home_page": "https://github.com/gauss314/secfi",
+  "download_filename": "secfi-0.2.0.tar.gz",
+  "download_time": "2026-05-07T00:01:45.928639",
+  "package_url": "https://pypi.org/project/secfi/"
+}

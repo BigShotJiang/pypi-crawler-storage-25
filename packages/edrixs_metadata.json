@@ -1,0 +1,11 @@
+{
+  "name": "edrixs",
+  "version": "0.1.2",
+  "summary": "An open source toolkit for simulating RIXS spectra based on ED",
+  "author": "Brookhaven National Lab",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/NSLS-II/edrixs",
+  "download_filename": "edrixs-0.1.2.tar.gz",
+  "download_time": "2026-05-07T00:01:45.391351",
+  "package_url": "https://pypi.org/project/edrixs/"
+}

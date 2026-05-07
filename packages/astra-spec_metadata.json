@@ -1,0 +1,11 @@
+{
+  "name": "astra-spec",
+  "version": "0.0.8",
+  "summary": "ASTRA — Agentic Schema for Transparent Research Analysis: a declarative YAML format for reproducible, auditable, and composable scientific analyses.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astra_spec-0.0.8.tar.gz",
+  "download_time": "2026-05-07T00:02:09.129758",
+  "package_url": "https://pypi.org/project/astra-spec/"
+}

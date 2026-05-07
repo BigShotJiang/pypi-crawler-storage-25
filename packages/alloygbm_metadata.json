@@ -1,11 +1,11 @@
 {
   "name": "alloygbm",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "summary": "Rust-first gradient boosting for regression, classification, and ranking with time-aware validation and Python bindings",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/LGA-Personal/AlloyGBM",
-  "download_filename": "alloygbm-0.3.2.tar.gz",
-  "download_time": "2026-04-18T21:02:23.845827",
+  "download_filename": "alloygbm-0.4.0.tar.gz",
+  "download_time": "2026-05-07T00:02:18.222222",
   "package_url": "https://pypi.org/project/alloygbm/"
 }

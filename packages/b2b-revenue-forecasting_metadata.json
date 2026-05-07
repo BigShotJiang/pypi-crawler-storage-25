@@ -1,0 +1,11 @@
+{
+  "name": "b2b-revenue-forecasting",
+  "version": "0.2.5",
+  "summary": "A Python framework for hierarchical B2B sales quota cascading and pipeline reconciliation.",
+  "author": "Shreyas Karwa",
+  "license": null,
+  "home_page": "https://github.com/shreyasrkarwa/Analytics/tree/main/hierarchical_sales_forecasting",
+  "download_filename": "b2b_revenue_forecasting-0.2.5.tar.gz",
+  "download_time": "2026-05-07T00:02:02.685639",
+  "package_url": "https://pypi.org/project/b2b-revenue-forecasting/"
+}
