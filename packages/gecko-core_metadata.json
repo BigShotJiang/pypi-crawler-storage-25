@@ -1,11 +1,11 @@
 {
   "name": "gecko-core",
-  "version": "0.2.17",
+  "version": "0.2.19",
   "summary": "Builder Bootstrap Platform SDK — pure business logic. CLI, MCP, and API import this.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gecko_core-0.2.17.tar.gz",
-  "download_time": "2026-05-07T00:01:41.963902",
+  "download_filename": "gecko_core-0.2.19.tar.gz",
+  "download_time": "2026-05-07T05:59:46.651656",
   "package_url": "https://pypi.org/project/gecko-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "oniondb",
+  "version": "0.4.0",
+  "summary": "A geometric database with importance-stratified shells and zero dependencies.",
+  "author": "Nick Sveler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oniondb-0.4.0.tar.gz",
+  "download_time": "2026-05-07T05:59:50.347411",
+  "package_url": "https://pypi.org/project/oniondb/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bankofai-x402-cli",
-  "version": "0.1.0b11",
+  "version": "0.1.0b17",
   "summary": "x402-cli — one-shot BankofAI x402 CLI: serve a 402 payment endpoint, or pay one as a client.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bankofai_x402_cli-0.1.0b11.tar.gz",
-  "download_time": "2026-04-30T07:35:33.834122",
+  "download_filename": "bankofai_x402_cli-0.1.0b17.tar.gz",
+  "download_time": "2026-05-07T06:00:09.242281",
   "package_url": "https://pypi.org/project/bankofai-x402-cli/"
 }

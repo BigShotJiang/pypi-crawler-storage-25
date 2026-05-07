@@ -1,0 +1,11 @@
+{
+  "name": "brainx-sphinx-header",
+  "version": "0.2.0",
+  "summary": "Sphinx extension that injects the canonical BrainX brand header and footer into any docs site, fetched live from brainx.chaobrain.com.",
+  "author": "BrainX Developers",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "brainx_sphinx_header-0.2.0-py3-none-any.whl",
+  "download_time": "2026-05-07T06:00:18.119732",
+  "package_url": "https://pypi.org/project/brainx-sphinx-header/"
+}

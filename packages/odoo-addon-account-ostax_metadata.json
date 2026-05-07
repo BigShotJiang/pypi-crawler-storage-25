@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-ostax",
+  "version": "19.0.0.1.8",
+  "summary": "OpenSalesTax connector for Odoo 19 — destination-based US sales tax via the OpenSalesTax engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_addon_account_ostax-19.0.0.1.8.tar.gz",
+  "download_time": "2026-05-07T05:59:44.032345",
+  "package_url": "https://pypi.org/project/odoo-addon-account-ostax/"
+}

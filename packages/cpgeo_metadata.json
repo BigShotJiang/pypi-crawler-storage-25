@@ -1,11 +1,11 @@
 {
   "name": "cpgeo",
-  "version": "1.0.6",
+  "version": "1.0.10",
   "summary": "A library for control points-based surface.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cpgeo-1.0.6.tar.gz",
-  "download_time": "2026-04-15T07:48:46.198091",
+  "download_filename": "cpgeo-1.0.10.tar.gz",
+  "download_time": "2026-05-07T06:00:00.345452",
   "package_url": "https://pypi.org/project/cpgeo/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "teich",
-  "version": "0.1.1a10",
+  "version": "0.1.1a18",
   "summary": "Turn coding agent traces into training data",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "teich-0.1.1a10.tar.gz",
-  "download_time": "2026-05-05T04:09:31.867133",
+  "download_filename": "teich-0.1.1a18.tar.gz",
+  "download_time": "2026-05-07T06:00:07.685898",
   "package_url": "https://pypi.org/project/teich/"
 }

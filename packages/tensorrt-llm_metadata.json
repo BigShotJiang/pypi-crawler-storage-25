@@ -1,0 +1,11 @@
+{
+  "name": "tensorrt-llm",
+  "version": "1.2.1",
+  "summary": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs.",
+  "author": "NVIDIA Corporation",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/NVIDIA/TensorRT-LLM",
+  "download_filename": "tensorrt_llm-1.2.1.tar.gz",
+  "download_time": "2026-05-07T05:59:45.076700",
+  "package_url": "https://pypi.org/project/tensorrt-llm/"
+}

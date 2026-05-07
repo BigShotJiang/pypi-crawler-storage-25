@@ -1,11 +1,11 @@
 {
   "name": "clinicalplan",
-  "version": "0.1.2",
+  "version": "0.1.6",
   "summary": "ClinicalPLAN is a Python package for predicting postoperative risks from clinical notes using language models. It provides training and inference workflows for fine-tuned models, semi-supervised methods, and multi-task prediction of multiple clinical outcomes. The package is intended for clinical research and educational use, notably for the American College of Surgeons.",
   "author": "Charles Alba",
   "license": "MIT",
   "home_page": "https://github.com/cja5553/ACS_demo_postoperative_risk_prediction_with_clinical_notes",
-  "download_filename": "clinicalplan-0.1.2.tar.gz",
-  "download_time": "2026-04-30T13:16:40.158813",
+  "download_filename": "clinicalplan-0.1.6.tar.gz",
+  "download_time": "2026-05-07T06:00:03.980366",
   "package_url": "https://pypi.org/project/clinicalplan/"
 }

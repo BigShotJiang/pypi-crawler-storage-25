@@ -1,11 +1,11 @@
 {
   "name": "aeolus-aq",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "summary": "This module provides functions for downloading metadata and data files from",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aeolus_aq-0.4.2.tar.gz",
-  "download_time": "2026-04-13T16:16:32.616246",
+  "download_filename": "aeolus_aq-0.4.4.tar.gz",
+  "download_time": "2026-05-07T06:00:23.863338",
   "package_url": "https://pypi.org/project/aeolus-aq/"
 }

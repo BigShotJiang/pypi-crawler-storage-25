@@ -1,11 +1,11 @@
 {
   "name": "django-cfg",
-  "version": "2.2.17",
+  "version": "2.2.19",
   "summary": "Modern Django framework with type-safe Pydantic v2 configuration, Next.js admin integration, real-time WebSockets, and 8 enterprise apps. Replace settings.py with validated models,  90% less code. Production-ready with AI agents, auto-generated TypeScript clients,  and zero-config features.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_cfg-2.2.17.tar.gz",
-  "download_time": "2026-05-06T17:24:39.531916",
+  "download_filename": "django_cfg-2.2.19.tar.gz",
+  "download_time": "2026-05-07T05:59:42.483122",
   "package_url": "https://pypi.org/project/django-cfg/"
 }

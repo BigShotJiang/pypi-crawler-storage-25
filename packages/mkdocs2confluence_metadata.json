@@ -1,11 +1,11 @@
 {
   "name": "mkdocs2confluence",
-  "version": "0.7.28",
+  "version": "0.9.1",
   "summary": "Publish MkDocs Material pages to Confluence Cloud — admonitions, Mermaid diagrams, tabs, page properties and more",
   "author": "Anders Hybertz",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "mkdocs2confluence-0.7.28.tar.gz",
-  "download_time": "2026-05-04T20:05:27.265487",
+  "download_filename": "mkdocs2confluence-0.9.1.tar.gz",
+  "download_time": "2026-05-07T06:00:19.174153",
   "package_url": "https://pypi.org/project/mkdocs2confluence/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sm_vector_store",
+  "version": "0.1.1",
+  "summary": "Common Python utilities for ML services; Vector store",
+  "author": "Shuming Peh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sm_vector_store-0.1.1.tar.gz",
+  "download_time": "2026-05-07T06:00:28.036071",
+  "package_url": "https://pypi.org/project/sm_vector_store/"
+}
