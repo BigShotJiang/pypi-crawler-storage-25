@@ -1,0 +1,11 @@
+{
+  "name": "kestrel-feature-visual",
+  "version": "0.2.0",
+  "summary": "Visual identity for Kestrel Sovereign agents — avatar generation, selfies, and LoRA training for character consistency",
+  "author": "UncleSaurus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kestrel_feature_visual-0.2.0.tar.gz",
+  "download_time": "2026-05-07T15:26:25.455811",
+  "package_url": "https://pypi.org/project/kestrel-feature-visual/"
+}

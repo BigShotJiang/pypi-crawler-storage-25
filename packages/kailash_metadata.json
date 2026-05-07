@@ -1,11 +1,11 @@
 {
   "name": "kailash",
-  "version": "2.14.1",
+  "version": "2.16.0",
   "summary": "Python SDK for the Kailash container-node architecture",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "kailash-2.14.1.tar.gz",
-  "download_time": "2026-05-07T06:00:24.925705",
+  "download_filename": "kailash-2.16.0.tar.gz",
+  "download_time": "2026-05-07T15:26:22.334365",
   "package_url": "https://pypi.org/project/kailash/"
 }

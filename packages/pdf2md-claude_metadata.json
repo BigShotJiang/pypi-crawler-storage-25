@@ -1,0 +1,11 @@
+{
+  "name": "pdf2md-claude",
+  "version": "0.3.1",
+  "summary": "Convert PDF documents to Markdown using Claude's native PDF API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdf2md_claude-0.3.1.tar.gz",
+  "download_time": "2026-05-07T15:26:10.407834",
+  "package_url": "https://pypi.org/project/pdf2md-claude/"
+}

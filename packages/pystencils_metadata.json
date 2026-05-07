@@ -1,0 +1,11 @@
+{
+  "name": "pystencils",
+  "version": "1.4",
+  "summary": "Speeding up stencil computations on CPUs and GPUs",
+  "author": "Martin Bauer, Jan Hönig , Markus Holzer, Frederik Hennig",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pystencils-1.4.tar.gz",
+  "download_time": "2026-05-07T15:26:08.824478",
+  "package_url": "https://pypi.org/project/pystencils/"
+}

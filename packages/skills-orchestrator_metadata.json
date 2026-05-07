@@ -1,11 +1,11 @@
 {
   "name": "skills-orchestrator",
-  "version": "2.0.6",
+  "version": "2.1.1",
   "summary": "编译时 Skill 治理工具 — 生成 AGENTS.md，强制执行冲突检测，MCP Server 按需加载",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "skills_orchestrator-2.0.6.tar.gz",
-  "download_time": "2026-05-06T17:24:48.867012",
+  "download_filename": "skills_orchestrator-2.1.1.tar.gz",
+  "download_time": "2026-05-07T15:26:03.668423",
   "package_url": "https://pypi.org/project/skills-orchestrator/"
 }

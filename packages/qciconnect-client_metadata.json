@@ -1,0 +1,11 @@
+{
+  "name": "qciconnect-client",
+  "version": "1.1.0",
+  "summary": "An API client to work with the DLR QCI Connect quantum computing platform.",
+  "author": "DLR-SC, David da Costa, Thomas Keitzl, Elisabeth Lobe, Johannes Renkl, Gary Schmiedinghoff, Thomas Stehle, Lukas Windgätter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qciconnect_client-1.1.0.tar.gz",
+  "download_time": "2026-05-07T15:25:50.122875",
+  "package_url": "https://pypi.org/project/qciconnect-client/"
+}

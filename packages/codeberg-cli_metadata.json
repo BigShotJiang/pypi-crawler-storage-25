@@ -1,0 +1,11 @@
+{
+  "name": "codeberg-cli",
+  "version": "0.4.0",
+  "summary": "A Forgejo CLI — works with Codeberg and any Forgejo instance",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "codeberg_cli-0.4.0.tar.gz",
+  "download_time": "2026-05-07T15:26:07.274892",
+  "package_url": "https://pypi.org/project/codeberg-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "codex-relay",
+  "version": "0.1.8",
+  "summary": "Responses API ↔ Chat Completions translation bridge for Codex CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codex_relay-0.1.8-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-07T15:25:51.284390",
+  "package_url": "https://pypi.org/project/codex-relay/"
+}

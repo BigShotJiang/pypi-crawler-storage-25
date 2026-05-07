@@ -1,0 +1,11 @@
+{
+  "name": "plone.folder",
+  "version": "5.0.0",
+  "summary": "BTree-based folder implementation with order support",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.org/project/plone.folder",
+  "download_filename": "plone_folder-5.0.0.tar.gz",
+  "download_time": "2026-05-07T15:26:10.920068",
+  "package_url": "https://pypi.org/project/plone.folder/"
+}
