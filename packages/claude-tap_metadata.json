@@ -1,11 +1,11 @@
 {
   "name": "claude-tap",
-  "version": "0.1.41",
-  "summary": "Trace Claude Code API requests via a local reverse proxy. Inspect system prompts, messages, tools, and token usage.",
+  "version": "0.1.48",
+  "summary": "Trace AI CLI API requests via local reverse and forward proxies. Inspect system prompts, messages, tools, and token usage.",
   "author": "liaohch3",
   "license": null,
   "home_page": null,
-  "download_filename": "claude_tap-0.1.41-py3-none-any.whl",
-  "download_time": "2026-05-03T15:20:38.327055",
+  "download_filename": "claude_tap-0.1.48-py3-none-any.whl",
+  "download_time": "2026-05-07T02:57:19.086038",
   "package_url": "https://pypi.org/project/claude-tap/"
 }

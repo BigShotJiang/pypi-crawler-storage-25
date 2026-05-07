@@ -1,11 +1,11 @@
 {
   "name": "dhvani",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "Phonetic normalization for Hinglish text. Resolves spelling variation in Romanized Hindi using IPA as a bridge representation.",
   "author": "Krishna Badikela",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dhvani-0.2.2.tar.gz",
-  "download_time": "2026-05-03T23:56:15.592386",
+  "download_filename": "dhvani-0.2.4.tar.gz",
+  "download_time": "2026-05-07T02:57:13.975797",
   "package_url": "https://pypi.org/project/dhvani/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pyalamake",
-  "version": "2.2.2",
+  "version": "2.3.1",
   "summary": "python module to generate Makefiles for arduino, GTest, C/C++, etc.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyalamake-2.2.2.tar.gz",
-  "download_time": "2026-04-04T21:02:07.915627",
+  "download_filename": "pyalamake-2.3.1.tar.gz",
+  "download_time": "2026-05-07T02:56:36.568942",
   "package_url": "https://pypi.org/project/pyalamake/"
 }

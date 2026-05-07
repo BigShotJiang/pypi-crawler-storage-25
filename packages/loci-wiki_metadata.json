@@ -1,0 +1,11 @@
+{
+  "name": "loci-wiki",
+  "version": "0.1.2",
+  "summary": "A personal memory server: aspect-tagged raw sources, concept-graph retrieval, and an MCP surface for Claude Code.",
+  "author": "ryan-waterloo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "loci_wiki-0.1.2.tar.gz",
+  "download_time": "2026-05-07T02:57:17.486848",
+  "package_url": "https://pypi.org/project/loci-wiki/"
+}

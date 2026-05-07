@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-contract-sale-mandate",
+  "version": "18.0.1.0.0.4",
+  "summary": "This module manages the banking mandate from the sale order to the contract.",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/contract",
+  "download_filename": "odoo_addon_contract_sale_mandate-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-05-07T02:56:39.124893",
+  "package_url": "https://pypi.org/project/odoo-addon-contract-sale-mandate/"
+}

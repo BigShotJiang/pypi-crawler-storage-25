@@ -1,0 +1,11 @@
+{
+  "name": "redflagbpm",
+  "version": "0.0.85",
+  "summary": "BPM service extension",
+  "author": "Germán Dressino",
+  "license": "See LICENSE file",
+  "home_page": "https://gitlab.com/redflagdev/redflagbpm-python",
+  "download_filename": "redflagbpm-0.0.85.tar.gz",
+  "download_time": "2026-05-07T02:56:30.658836",
+  "package_url": "https://pypi.org/project/redflagbpm/"
+}

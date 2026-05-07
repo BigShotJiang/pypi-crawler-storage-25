@@ -1,0 +1,11 @@
+{
+  "name": "rtlguard",
+  "version": "0.5.0",
+  "summary": "AI-assisted verification gap analysis for safety-critical FPGA/RTL designs",
+  "author": "RTLGuard.ai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rtlguard-0.5.0-py3-none-any.whl",
+  "download_time": "2026-05-07T02:56:49.368709",
+  "package_url": "https://pypi.org/project/rtlguard/"
+}

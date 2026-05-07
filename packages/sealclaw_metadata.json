@@ -1,0 +1,11 @@
+{
+  "name": "sealclaw",
+  "version": "0.1.12",
+  "summary": "SealClaw is a **personal assistant** that runs in your own environment. It talks to you over multiple channels (DingTalk, Feishu, QQ, Discord, iMessage, etc.) and runs scheduled tasks according to your configuration. **What it can do is driven by Skills — the possibilities are open-ended.** Built-in skills include cron, PDF/Office handling, news digest, file reading, and more; you can add custom skills. All data and tasks run on your machine; no third-party hosting.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sealclaw-0.1.12.tar.gz",
+  "download_time": "2026-05-07T02:57:10.140085",
+  "package_url": "https://pypi.org/project/sealclaw/"
+}

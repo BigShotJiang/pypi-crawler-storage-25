@@ -1,0 +1,11 @@
+{
+  "name": "baidu-disk-client",
+  "version": "0.1.0",
+  "summary": "A simple Baidu Netdisk client for upload, download, and file listing.",
+  "author": "Maybe",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "baidu_disk_client-0.1.0.tar.gz",
+  "download_time": "2026-05-07T02:57:16.904764",
+  "package_url": "https://pypi.org/project/baidu-disk-client/"
+}

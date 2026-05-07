@@ -1,11 +1,11 @@
 {
   "name": "ad-hoc-diffractometer",
-  "version": "0.9.2",
-  "summary": "Operating multi-circle diffractometers in reciprocal space",
+  "version": "0.10.0",
+  "summary": "Describe any multi-circle diffractometer geometry and perform X-ray/neutron crystallography calculations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ad_hoc_diffractometer-0.9.2.tar.gz",
-  "download_time": "2026-05-02T13:58:06.335938",
+  "download_filename": "ad_hoc_diffractometer-0.10.0.tar.gz",
+  "download_time": "2026-05-07T02:56:56.878602",
   "package_url": "https://pypi.org/project/ad-hoc-diffractometer/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vincta",
+  "version": "0.1.5",
+  "summary": "Auto-discover and serve Python functions over HTTP with a built-in RAM object store",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vincta-0.1.5.tar.gz",
+  "download_time": "2026-05-07T02:57:20.752734",
+  "package_url": "https://pypi.org/project/vincta/"
+}

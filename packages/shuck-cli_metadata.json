@@ -1,0 +1,11 @@
+{
+  "name": "shuck-cli",
+  "version": "0.0.38",
+  "summary": "Python wheel wrapper for the shuck CLI binary",
+  "author": "Eric Hauser",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shuck_cli-0.0.38-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-07T02:57:03.117182",
+  "package_url": "https://pypi.org/project/shuck-cli/"
+}

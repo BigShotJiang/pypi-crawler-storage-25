@@ -1,0 +1,11 @@
+{
+  "name": "impactguard",
+  "version": "0.1.1",
+  "summary": "Lightweight API impact analyzer for Python projects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "impactguard-0.1.1.tar.gz",
+  "download_time": "2026-05-07T02:56:32.856488",
+  "package_url": "https://pypi.org/project/impactguard/"
+}

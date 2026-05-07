@@ -1,11 +1,11 @@
 {
   "name": "xauditor-coder-service",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "HTTP microservice that wraps the Claude Code CLI for xauditor's repo-global verification stage.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xauditor_coder_service-1.0.0.tar.gz",
-  "download_time": "2026-05-03T01:31:02.585102",
+  "download_filename": "xauditor_coder_service-1.1.1-py3-none-any.whl",
+  "download_time": "2026-05-07T02:56:26.192135",
   "package_url": "https://pypi.org/project/xauditor-coder-service/"
 }

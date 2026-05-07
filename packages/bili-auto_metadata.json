@@ -1,11 +1,11 @@
 {
   "name": "bili-auto",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Bilibili auto-download service: QR login, favorites scanning, async download with Redis queue",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bili_auto-0.2.1.tar.gz",
-  "download_time": "2026-05-06T09:22:42.793409",
+  "download_filename": "bili_auto-0.2.2.tar.gz",
+  "download_time": "2026-05-07T02:57:05.045707",
   "package_url": "https://pypi.org/project/bili-auto/"
 }

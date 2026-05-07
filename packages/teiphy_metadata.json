@@ -1,11 +1,11 @@
 {
   "name": "teiphy",
-  "version": "0.1.25",
+  "version": "0.1.26",
   "summary": "Converts TEI XML collations to NEXUS and other formats",
   "author": "Joey McCollum and Robert Turnbull",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "teiphy-0.1.25.tar.gz",
-  "download_time": "2026-04-20T20:14:20.008058",
+  "download_filename": "teiphy-0.1.26.tar.gz",
+  "download_time": "2026-05-07T02:56:43.879554",
   "package_url": "https://pypi.org/project/teiphy/"
 }

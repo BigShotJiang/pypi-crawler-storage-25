@@ -1,11 +1,11 @@
 {
   "name": "fwquant",
-  "version": "1.0.37",
+  "version": "1.0.40",
   "summary": "一个功能完整的福纹量化交易系统，支持多交易所连接、策略回测与实盘交易",
   "author": "fwquant",
   "license": "MIT",
   "home_page": "https://github.com/fwquant/fwquant",
-  "download_filename": "fwquant-1.0.37.tar.gz",
-  "download_time": "2026-05-06T11:31:20.336007",
+  "download_filename": "fwquant-1.0.40.tar.gz",
+  "download_time": "2026-05-07T02:57:11.300246",
   "package_url": "https://pypi.org/project/fwquant/"
 }

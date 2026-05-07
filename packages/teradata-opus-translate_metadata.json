@@ -1,0 +1,11 @@
+{
+  "name": "teradata-opus-translate",
+  "version": "1.0.3",
+  "summary": "Convert Helsinki-NLP OPUS / Marian translation models into self-contained ONNX files for deployment to Teradata Vantage via Bring Your Own Model (BYOM).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "teradata_opus_translate-1.0.3.tar.gz",
+  "download_time": "2026-05-07T02:56:34.969675",
+  "package_url": "https://pypi.org/project/teradata-opus-translate/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "channel-exporter",
+  "version": "1.2.2",
+  "summary": "用于 Python 应用的 Prometheus 指标监控库，支持 Flask、Requests 和消息队列消费 者的监控指标自动收集。",
+  "author": "Nameless Master",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "channel_exporter-1.2.2.tar.gz",
+  "download_time": "2026-05-07T02:56:37.080310",
+  "package_url": "https://pypi.org/project/channel-exporter/"
+}

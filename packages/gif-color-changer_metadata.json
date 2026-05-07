@@ -1,0 +1,11 @@
+{
+  "name": "gif-color-changer",
+  "version": "0.3.0",
+  "summary": "Replace colors across every frame of a GIF from the command line.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gif_color_changer-0.3.0.tar.gz",
+  "download_time": "2026-05-07T02:57:01.153714",
+  "package_url": "https://pypi.org/project/gif-color-changer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llm-sign",
+  "version": "0.1.0",
+  "summary": "Provider and client helpers for signed LLM transcript verification",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_sign-0.1.0.tar.gz",
+  "download_time": "2026-05-07T02:56:33.368427",
+  "package_url": "https://pypi.org/project/llm-sign/"
+}

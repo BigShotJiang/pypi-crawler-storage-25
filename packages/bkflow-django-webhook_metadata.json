@@ -1,0 +1,11 @@
+{
+  "name": "bkflow-django-webhook",
+  "version": "2.0.1",
+  "summary": "A Django app to make it easy for integrating webhook into service.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bkflow_django_webhook-2.0.1-py2.py3-none-any.whl",
+  "download_time": "2026-05-07T02:56:54.132731",
+  "package_url": "https://pypi.org/project/bkflow-django-webhook/"
+}
