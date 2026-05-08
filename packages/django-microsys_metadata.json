@@ -1,11 +1,11 @@
 {
   "name": "django-microsys",
-  "version": "1.20.5",
+  "version": "2.1.4",
   "summary": "Django microSYS (System Integration Service) - Multilingual Django Starter Pack, Packed with Features.",
   "author": null,
   "license": "NON-COMMERCIAL",
   "home_page": null,
-  "download_filename": "django_microsys-1.20.5.tar.gz",
-  "download_time": "2026-04-19T22:19:37.820464",
+  "download_filename": "django_microsys-2.1.4.tar.gz",
+  "download_time": "2026-05-08T20:18:29.160362",
   "package_url": "https://pypi.org/project/django-microsys/"
 }

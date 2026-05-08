@@ -1,0 +1,11 @@
+{
+  "name": "docker-image-cleanup",
+  "version": "0.1.3",
+  "summary": "Clean up old Docker images from local storage with retention controls",
+  "author": "Michael Bianco",
+  "license": null,
+  "home_page": null,
+  "download_filename": "docker_image_cleanup-0.1.3.tar.gz",
+  "download_time": "2026-05-08T20:18:06.085187",
+  "package_url": "https://pypi.org/project/docker-image-cleanup/"
+}

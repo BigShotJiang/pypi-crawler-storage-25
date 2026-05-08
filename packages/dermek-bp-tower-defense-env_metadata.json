@@ -1,11 +1,11 @@
 {
   "name": "dermek-bp-tower-defense-env",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A deterministic tower defense Gymnasium environment focused on long-term planning. Includes generators to make maps and waves. Part of my bachelor's thesis.",
   "author": "Maximilián Dermek",
   "license": null,
   "home_page": null,
-  "download_filename": "dermek_bp_tower_defense_env-0.1.4.tar.gz",
-  "download_time": "2026-05-08T12:30:30.696637",
+  "download_filename": "dermek_bp_tower_defense_env-0.1.5.tar.gz",
+  "download_time": "2026-05-08T20:18:02.430972",
   "package_url": "https://pypi.org/project/dermek-bp-tower-defense-env/"
 }

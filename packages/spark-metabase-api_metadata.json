@@ -1,0 +1,11 @@
+{
+  "name": "spark-metabase-api",
+  "version": "0.3.0",
+  "summary": "A Python wrapper for the Metabase API developed by the ⭐️ Spark Tech team",
+  "author": "Larry Page",
+  "license": null,
+  "home_page": "https://github.com/Spark-Data-Team/spark-metabase-api",
+  "download_filename": "spark_metabase_api-0.3.0.tar.gz",
+  "download_time": "2026-05-08T20:18:24.427371",
+  "package_url": "https://pypi.org/project/spark-metabase-api/"
+}

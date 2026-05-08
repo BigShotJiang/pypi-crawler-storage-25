@@ -1,11 +1,11 @@
 {
   "name": "csrd-models",
-  "version": "0.5.16",
+  "version": "0.5.17",
   "summary": "Base Pydantic models and settings",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd_models-0.5.16.tar.gz",
-  "download_time": "2026-05-08T19:03:26.800479",
+  "download_filename": "csrd_models-0.5.17.tar.gz",
+  "download_time": "2026-05-08T20:18:18.156496",
   "package_url": "https://pypi.org/project/csrd-models/"
 }
