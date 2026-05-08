@@ -1,0 +1,11 @@
+{
+  "name": "fuzzy-dl-owl2",
+  "version": "1.0.15",
+  "summary": "A python porting of the Fuzzy Description Language (see https://www.umbertostraccia.it/cs/software/fuzzyDL/fuzzyDL.html) and the Fuzzy OWL 2 framework (see https://www.umbertostraccia.it/cs/software/FuzzyOWL/index.html).",
+  "author": "Giuseppe Filippone",
+  "license": "CC-BY-SA-4.0",
+  "home_page": null,
+  "download_filename": "fuzzy_dl_owl2-1.0.15.tar.gz",
+  "download_time": "2026-05-08T06:32:16.036380",
+  "package_url": "https://pypi.org/project/fuzzy-dl-owl2/"
+}

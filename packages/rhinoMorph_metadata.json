@@ -1,0 +1,11 @@
+{
+  "name": "rhinoMorph",
+  "version": "4.0.8",
+  "summary": "Morphological Analyzer for Korean",
+  "author": "Sukjae Choi",
+  "license": "MIT",
+  "home_page": "https://blog.naver.com/lingua/221537630069",
+  "download_filename": "rhinomorph-4.0.8.tar.gz",
+  "download_time": "2026-05-08T06:32:29.871771",
+  "package_url": "https://pypi.org/project/rhinoMorph/"
+}

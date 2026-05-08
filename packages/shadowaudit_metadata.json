@@ -1,11 +1,11 @@
 {
   "name": "shadowaudit",
-  "version": "0.3.0",
-  "summary": "Runtime governance for AI agents — deterministic fail-closed enforcement",
+  "version": "0.3.3",
+  "summary": "Runtime governance for AI agents — deterministic fail-closed enforcement. Wraps any agent tool and blocks dangerous calls before execution. Zero LLM calls, zero cloud dependencies, works offline.",
   "author": "Anshuman Kumar",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shadowaudit-0.3.0.tar.gz",
-  "download_time": "2026-05-07T20:37:59.652773",
+  "download_filename": "shadowaudit-0.3.3.tar.gz",
+  "download_time": "2026-05-08T06:32:48.381996",
   "package_url": "https://pypi.org/project/shadowaudit/"
 }

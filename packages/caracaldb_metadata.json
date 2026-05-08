@@ -1,11 +1,11 @@
 {
   "name": "caracaldb",
-  "version": "0.2.8",
+  "version": "0.2.11",
   "summary": "Embedded, ontology-leaning, Arrow-native analytical GraphDB for KG and GNN MLOps workflows.",
   "author": "CaracalDB contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "caracaldb-0.2.8.tar.gz",
-  "download_time": "2026-05-07T19:10:12.100498",
+  "download_filename": "caracaldb-0.2.11.tar.gz",
+  "download_time": "2026-05-08T06:32:33.996947",
   "package_url": "https://pypi.org/project/caracaldb/"
 }

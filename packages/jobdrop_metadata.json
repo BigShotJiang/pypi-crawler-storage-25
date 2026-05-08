@@ -1,11 +1,11 @@
 {
   "name": "jobdrop",
-  "version": "2.1.1",
-  "summary": "20-source job scraper library + MCP server. LinkedIn, Indeed, Glassdoor, Google, ZipRecruiter, Wellfound, Hiring Cafe, Greenhouse, USAJobs, Adzuna, Jooble, Findwork, The Muse, Insight Global, Clearance Jobs, Kforce, CollabWork, Naukri, Bayt, BDJobs.",
+  "version": "2.8.1",
+  "summary": "26-source job scraper library + MCP server. LinkedIn, Indeed, Glassdoor, Google, ZipRecruiter, Wellfound, Hiring Cafe, TrueUp, Greenhouse, Ashby, Workday, Lever, RemoteOK, WeWorkRemotely, USAJobs, GovernmentJobs, Adzuna, Jooble, Findwork, The Muse, Insight Global, Clearance Jobs, Kforce, CollabWork, Naukri, Bayt.",
   "author": "kbwhodat",
   "license": null,
   "home_page": null,
-  "download_filename": "jobdrop-2.1.1.tar.gz",
-  "download_time": "2026-05-07T00:01:38.065452",
+  "download_filename": "jobdrop-2.8.1.tar.gz",
+  "download_time": "2026-05-08T06:32:28.837415",
   "package_url": "https://pypi.org/project/jobdrop/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vpseasy",
+  "version": "0.0.4",
+  "summary": "create resources, deploy code in prod and dev. supports hetzner and multipass",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "vpseasy-0.0.4.tar.gz",
+  "download_time": "2026-05-08T06:32:37.589166",
+  "package_url": "https://pypi.org/project/vpseasy/"
+}

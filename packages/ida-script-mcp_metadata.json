@@ -1,11 +1,11 @@
 {
   "name": "ida-script-mcp",
-  "version": "1.0.2",
-  "summary": "MCP server for executing IDAPython scripts in IDA Pro with multi-instance support",
+  "version": "1.2.0",
+  "summary": "MCP server for executing IDAPython scripts in IDA Pro with multi-instance and async task support",
   "author": "IDA Script MCP Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ida_script_mcp-1.0.2.tar.gz",
-  "download_time": "2026-04-13T06:19:11.373930",
+  "download_filename": "ida_script_mcp-1.2.0.tar.gz",
+  "download_time": "2026-05-08T06:32:38.099970",
   "package_url": "https://pypi.org/project/ida-script-mcp/"
 }

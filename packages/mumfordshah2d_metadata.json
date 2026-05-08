@@ -1,0 +1,11 @@
+{
+  "name": "mumfordshah2d",
+  "version": "0.5.1",
+  "summary": "Mumford-Shah edge-preserving image restoration — Python/Rust port of MATLAB/Java MumfordShah2D (Hohm, Storath & Weinmann)",
+  "author": "Kilian Hohm, Martin Storath, Andreas Weinmann",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mumfordshah2d-0.5.1-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-08T06:32:32.437953",
+  "package_url": "https://pypi.org/project/mumfordshah2d/"
+}

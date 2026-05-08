@@ -1,0 +1,11 @@
+{
+  "name": "lake-inspect",
+  "version": "0.1.0",
+  "summary": "Health inspector for Iceberg, Delta, and Hudi lakehouse tables",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lake_inspect-0.1.0.tar.gz",
+  "download_time": "2026-05-08T06:32:15.008345",
+  "package_url": "https://pypi.org/project/lake-inspect/"
+}

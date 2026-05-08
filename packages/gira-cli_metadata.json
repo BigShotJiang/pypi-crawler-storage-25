@@ -1,11 +1,11 @@
 {
   "name": "gira-cli",
-  "version": "1.1.0",
+  "version": "1.4.4",
   "summary": "Jira-style project flow on GitHub, distributed as the official Go-built gira binary.",
-  "author": "StatPan",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gira_cli-1.1.0.tar.gz",
-  "download_time": "2026-05-06T04:15:31.621356",
+  "download_filename": "gira_cli-1.4.4.tar.gz",
+  "download_time": "2026-05-08T06:32:17.058789",
   "package_url": "https://pypi.org/project/gira-cli/"
 }

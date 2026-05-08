@@ -1,0 +1,11 @@
+{
+  "name": "pyg90alarm",
+  "version": "2.13.1",
+  "summary": "G90 Alarm system protocol",
+  "author": "Ilia Sotnikov",
+  "license": null,
+  "home_page": "https://github.com/hostcc/pyg90alarm",
+  "download_filename": "pyg90alarm-2.13.1.tar.gz",
+  "download_time": "2026-05-08T06:32:30.384230",
+  "package_url": "https://pypi.org/project/pyg90alarm/"
+}

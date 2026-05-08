@@ -1,11 +1,11 @@
 {
   "name": "azure-jobs",
-  "version": "0.1.23",
+  "version": "0.1.32",
   "summary": "A fast CLI for submitting and managing Azure ML jobs via pure REST APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "azure_jobs-0.1.23.tar.gz",
-  "download_time": "2026-04-27T16:17:05.699043",
+  "download_filename": "azure_jobs-0.1.32.tar.gz",
+  "download_time": "2026-05-08T06:32:50.941455",
   "package_url": "https://pypi.org/project/azure-jobs/"
 }
