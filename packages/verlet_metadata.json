@@ -1,11 +1,11 @@
 {
   "name": "verlet",
-  "version": "0.3.0",
+  "version": "0.8.0",
   "summary": "Verlet Data CLI — download ego and teleop datasets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "verlet-0.3.0.tar.gz",
-  "download_time": "2026-04-03T23:51:20.604547",
+  "download_filename": "verlet-0.8.0.tar.gz",
+  "download_time": "2026-05-08T12:31:16.478287",
   "package_url": "https://pypi.org/project/verlet/"
 }

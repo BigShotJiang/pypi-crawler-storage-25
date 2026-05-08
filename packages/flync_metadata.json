@@ -1,0 +1,11 @@
+{
+  "name": "flync",
+  "version": "0.11.0",
+  "summary": "FLYNC language is a declarative, modular format for describing the configuration of automotive networks and applications. It captures key elements of the vehicle's E/E architecture—such as ECUs, SOME/IP interfaces, and system topology—in a structured and human-readable way.",
+  "author": "Iago Alvarez",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "flync-0.11.0.tar.gz",
+  "download_time": "2026-05-08T12:30:57.623290",
+  "package_url": "https://pypi.org/project/flync/"
+}

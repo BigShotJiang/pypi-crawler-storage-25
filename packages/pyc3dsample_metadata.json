@@ -1,0 +1,11 @@
+{
+  "name": "pyc3dsample",
+  "version": "0.0.5",
+  "summary": "Interface to easily deal with a C3D file, including some helpful methods for dealing with gait analysis (e.g. detecting heel strike)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyc3dsample-0.0.5.tar.gz",
+  "download_time": "2026-05-08T12:31:15.957769",
+  "package_url": "https://pypi.org/project/pyc3dsample/"
+}
