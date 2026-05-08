@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-weighing-brand",
+  "version": "18.0.1.0.0.3",
+  "summary": "Show product logo in Weighing assistant",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-weighing",
+  "download_filename": "odoo_addon_stock_weighing_brand-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-05-08T04:46:38.637595",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-weighing-brand/"
+}

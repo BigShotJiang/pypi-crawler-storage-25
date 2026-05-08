@@ -1,11 +1,11 @@
 {
   "name": "hakucc",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "summary": "Claude Code ↔ Feishu bridge via claude-agent-sdk",
   "author": "suj1e",
   "license": null,
   "home_page": null,
-  "download_filename": "hakucc-0.1.7.tar.gz",
-  "download_time": "2026-05-08T01:36:05.424539",
+  "download_filename": "hakucc-0.2.0.tar.gz",
+  "download_time": "2026-05-08T04:46:28.340596",
   "package_url": "https://pypi.org/project/hakucc/"
 }

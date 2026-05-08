@@ -1,0 +1,11 @@
+{
+  "name": "py-tlsh",
+  "version": "5.0.0",
+  "summary": "TLSH (C++ Python extension)",
+  "author": "Jonathan Oliver / Chun Cheng / Yanggui Chen",
+  "license": "Apache or BSD",
+  "home_page": "https://github.com/trendmicro/tlsh",
+  "download_filename": "py_tlsh-5.0.0.tar.gz",
+  "download_time": "2026-05-08T04:46:24.205099",
+  "package_url": "https://pypi.org/project/py-tlsh/"
+}

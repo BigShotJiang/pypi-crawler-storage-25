@@ -1,11 +1,11 @@
 {
   "name": "huimei",
-  "version": "0.2.0",
-  "summary": "AI-powered social media automation CLI & MCP Server — publish to Douyin, XHS, Bilibili, Kuaishou, Weibo and 11 Chinese social platforms from terminal or AI agents",
+  "version": "0.4.1",
+  "summary": "MCP Server & CLI for social media automation — let AI agents publish to TikTok, Instagram, YouTube, Douyin, XHS, Bilibili and 15+ platforms via Model Context Protocol",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "huimei-0.2.0.tar.gz",
-  "download_time": "2026-04-20T06:40:27.998551",
+  "download_filename": "huimei-0.4.1.tar.gz",
+  "download_time": "2026-05-08T04:45:58.794870",
   "package_url": "https://pypi.org/project/huimei/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "manifold-scorer",
+  "version": "0.1.1",
+  "summary": "Local acceptance-manifold scoring for implicit RLHF preference pair generation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "manifold_scorer-0.1.1.tar.gz",
+  "download_time": "2026-05-08T04:45:57.768345",
+  "package_url": "https://pypi.org/project/manifold-scorer/"
+}

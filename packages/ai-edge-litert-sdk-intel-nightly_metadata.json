@@ -1,0 +1,11 @@
+{
+  "name": "ai-edge-litert-sdk-intel-nightly",
+  "version": "0.2.0.dev20260507",
+  "summary": "Intel OpenVINO SDK for AI Edge LiteRT",
+  "author": "Google AI Edge Authors",
+  "license": "Apache 2.0",
+  "home_page": "https://www.tensorflow.org/lite/",
+  "download_filename": "ai_edge_litert_sdk_intel_nightly-0.2.0.dev20260507.tar.gz",
+  "download_time": "2026-05-08T04:46:34.533379",
+  "package_url": "https://pypi.org/project/ai-edge-litert-sdk-intel-nightly/"
+}

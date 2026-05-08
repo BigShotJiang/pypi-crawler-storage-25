@@ -1,11 +1,11 @@
 {
   "name": "py-nationalgrid",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "summary": "Async Python client for National Grid built on aiohttp",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_nationalgrid-0.5.1.tar.gz",
-  "download_time": "2026-04-27T03:01:25.044607",
+  "download_filename": "py_nationalgrid-0.6.0.tar.gz",
+  "download_time": "2026-05-08T04:46:40.192338",
   "package_url": "https://pypi.org/project/py-nationalgrid/"
 }

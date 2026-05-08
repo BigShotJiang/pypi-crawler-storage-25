@@ -1,11 +1,11 @@
 {
   "name": "ephemerides-spectral",
-  "version": "0.24.9",
+  "version": "0.24.11",
   "summary": "High-precision HDC reference instrument for the Sol Star System based on JPL DE441. Native C backend; 52-body roster (Lagrange trojans + retrograde irregulars); per-body Geodetic, Electromagnetic, Magnetic-Multipole, Fluid catalogs; eleven cross-channel coupling surfaces; trajectory + sensing layer (ballistic propagator, 3-regime ICBM, look-angle geometry, BC-differential discrimination); resonance-graph ITN-chain search; spectral body-architecture; SPICE-free runtime.",
   "author": "Steven Kirkland",
   "license": null,
   "home_page": null,
-  "download_filename": "ephemerides_spectral-0.24.9.tar.gz",
-  "download_time": "2026-05-08T01:36:17.438903",
+  "download_filename": "ephemerides_spectral-0.24.11.tar.gz",
+  "download_time": "2026-05-08T04:46:08.630747",
   "package_url": "https://pypi.org/project/ephemerides-spectral/"
 }
