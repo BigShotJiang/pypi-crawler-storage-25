@@ -1,11 +1,11 @@
 {
   "name": "csrd-utils",
-  "version": "0.5.10",
+  "version": "0.5.16",
   "summary": "CLI utilities for csrd service generation and feature augmentation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd_utils-0.5.10.tar.gz",
-  "download_time": "2026-05-08T12:30:46.030597",
+  "download_filename": "csrd_utils-0.5.16.tar.gz",
+  "download_time": "2026-05-08T19:03:24.076354",
   "package_url": "https://pypi.org/project/csrd-utils/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pr-reviewer",
+  "version": "0.4.0",
+  "summary": "AI-powered code review for GitHub & GitLab. Works with any LLM: GPT-4o, Claude, Llama, Gemini, Ollama. Free, open source.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pr_reviewer-0.4.0-py3-none-any.whl",
+  "download_time": "2026-05-08T19:03:31.703025",
+  "package_url": "https://pypi.org/project/pr-reviewer/"
+}

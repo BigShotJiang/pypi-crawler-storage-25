@@ -1,0 +1,11 @@
+{
+  "name": "okx-perp-reliable",
+  "version": "0.1.0a2",
+  "summary": "Reliable asyncio SDK for OKX USDT-margined perpetual swap REST order placement.",
+  "author": "Alan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "okx_perp_reliable-0.1.0a2.tar.gz",
+  "download_time": "2026-05-08T19:03:02.970260",
+  "package_url": "https://pypi.org/project/okx-perp-reliable/"
+}

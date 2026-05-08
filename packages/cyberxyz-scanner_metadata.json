@@ -1,11 +1,11 @@
 {
   "name": "cyberxyz-scanner",
-  "version": "1.4.12",
+  "version": "1.4.19",
   "summary": "CyberXYZ Vulnerability Scanner CLI — real-time vulnerability intelligence, XYZ scoring, EPSS and depalert scores",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "cyberxyz_scanner-1.4.12.tar.gz",
-  "download_time": "2026-05-06T00:18:21.162212",
+  "download_filename": "cyberxyz_scanner-1.4.19.tar.gz",
+  "download_time": "2026-05-08T19:03:22.433350",
   "package_url": "https://pypi.org/project/cyberxyz-scanner/"
 }

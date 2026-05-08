@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-yandex-metrika",
+  "version": "0.2.1",
+  "summary": "MCP server for Yandex Metrika API — counters, goals, reports, segments, logs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_yandex_metrika-0.2.1.tar.gz",
+  "download_time": "2026-05-08T19:03:10.245524",
+  "package_url": "https://pypi.org/project/mcp-server-yandex-metrika/"
+}

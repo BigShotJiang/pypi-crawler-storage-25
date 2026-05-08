@@ -1,11 +1,11 @@
 {
   "name": "aiscat",
-  "version": "0.68.7",
+  "version": "0.68.10",
   "summary": "Fast, complete AIS NMEA decoder for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiscat-0.68.7.tar.gz",
-  "download_time": "2026-05-04T21:18:07.932167",
+  "download_filename": "aiscat-0.68.10.tar.gz",
+  "download_time": "2026-05-08T19:03:17.955586",
   "package_url": "https://pypi.org/project/aiscat/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "napari-spam",
+  "version": "0.0.3",
+  "summary": "A simple plugin to load results from Spam in Napari",
+  "author": "Jules Vanaret",
+  "license": null,
+  "home_page": null,
+  "download_filename": "napari_spam-0.0.3.tar.gz",
+  "download_time": "2026-05-08T19:03:14.071322",
+  "package_url": "https://pypi.org/project/napari-spam/"
+}

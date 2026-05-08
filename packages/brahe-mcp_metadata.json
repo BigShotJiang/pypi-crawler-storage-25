@@ -1,0 +1,11 @@
+{
+  "name": "brahe-mcp",
+  "version": "0.2.3",
+  "summary": "MCP server wrapping the Brahe astrodynamics library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brahe_mcp-0.2.3-py3-none-any.whl",
+  "download_time": "2026-05-08T19:02:51.610214",
+  "package_url": "https://pypi.org/project/brahe-mcp/"
+}

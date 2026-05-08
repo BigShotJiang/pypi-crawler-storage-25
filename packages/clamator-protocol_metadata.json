@@ -1,11 +1,11 @@
 {
   "name": "clamator-protocol",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Polyglot RPC protocol layer (pre-1.0; API may break in minor versions).",
   "author": "Kristof Csillag",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "clamator_protocol-0.1.5.tar.gz",
-  "download_time": "2026-05-08T16:12:52.172525",
+  "download_filename": "clamator_protocol-0.1.6.tar.gz",
+  "download_time": "2026-05-08T19:03:09.702326",
   "package_url": "https://pypi.org/project/clamator-protocol/"
 }
