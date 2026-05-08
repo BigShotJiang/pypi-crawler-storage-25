@@ -1,11 +1,11 @@
 {
   "name": "zyxdb",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Python bindings for ZYX graph database engine",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "zyxdb-0.1.0.tar.gz",
-  "download_time": "2026-05-06T04:15:35.301055",
+  "download_filename": "zyxdb-0.1.3.tar.gz",
+  "download_time": "2026-05-08T14:33:40.428812",
   "package_url": "https://pypi.org/project/zyxdb/"
 }

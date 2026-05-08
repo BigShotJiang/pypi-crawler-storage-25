@@ -1,0 +1,11 @@
+{
+  "name": "barkd-client",
+  "version": "0.1.4",
+  "summary": "barkd REST API",
+  "author": "Second Team",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/ark-bitcoin/barkd-clients",
+  "download_filename": "barkd_client-0.1.4.tar.gz",
+  "download_time": "2026-05-08T14:34:06.474357",
+  "package_url": "https://pypi.org/project/barkd-client/"
+}

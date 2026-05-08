@@ -1,11 +1,11 @@
 {
   "name": "pyochain",
-  "version": "0.9.3",
+  "version": "0.11.0",
   "summary": "Method chaining for iterables and dictionaries in Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyochain-0.9.3.tar.gz",
-  "download_time": "2026-04-23T17:52:31.172120",
+  "download_filename": "pyochain-0.11.0.tar.gz",
+  "download_time": "2026-05-08T14:33:54.220817",
   "package_url": "https://pypi.org/project/pyochain/"
 }

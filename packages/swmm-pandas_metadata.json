@@ -1,0 +1,11 @@
+{
+  "name": "swmm-pandas",
+  "version": "0.12.0",
+  "summary": "Pandorable interface to SWMM5 input and output files",
+  "author": "Constantine Karos, See README.md",
+  "license": "CC BY 4.0",
+  "home_page": null,
+  "download_filename": "swmm_pandas-0.12.0.tar.gz",
+  "download_time": "2026-05-08T14:34:19.086743",
+  "package_url": "https://pypi.org/project/swmm-pandas/"
+}

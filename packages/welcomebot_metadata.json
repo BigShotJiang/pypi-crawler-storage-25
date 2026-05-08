@@ -1,11 +1,11 @@
 {
   "name": "welcomebot",
-  "version": "0.1.8",
+  "version": "0.2.1",
   "summary": "monitor signal chat groups and post a message when people join",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "welcomebot-0.1.8.tar.gz",
-  "download_time": "2026-04-29T20:25:24.353852",
+  "download_filename": "welcomebot-0.2.1.tar.gz",
+  "download_time": "2026-05-08T14:33:46.776912",
   "package_url": "https://pypi.org/project/welcomebot/"
 }

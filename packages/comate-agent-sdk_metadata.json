@@ -1,11 +1,11 @@
 {
   "name": "comate-agent-sdk",
-  "version": "0.7.1",
+  "version": "0.7.3",
   "summary": "An agent is just a for-loop. The simplest possible agent framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "comate_agent_sdk-0.7.1.tar.gz",
-  "download_time": "2026-05-07T15:26:21.806814",
+  "download_filename": "comate_agent_sdk-0.7.3.tar.gz",
+  "download_time": "2026-05-08T14:33:41.502120",
   "package_url": "https://pypi.org/project/comate-agent-sdk/"
 }
