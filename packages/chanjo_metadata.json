@@ -1,0 +1,11 @@
+{
+  "name": "chanjo",
+  "version": "4.9.1",
+  "summary": "Coverage analysis tool for clinical sequencing",
+  "author": "Robin Andeer",
+  "license": "MIT",
+  "home_page": "https://clinical-genomics.github.io/chanjo/",
+  "download_filename": "chanjo-4.9.1.tar.gz",
+  "download_time": "2026-05-08T08:22:01.902395",
+  "package_url": "https://pypi.org/project/chanjo/"
+}

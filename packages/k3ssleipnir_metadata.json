@@ -1,0 +1,11 @@
+{
+  "name": "k3ssleipnir",
+  "version": "0.12.0",
+  "summary": "A Python based helper to setup a K3s based clusters using declarative configuration.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "k3ssleipnir-0.12.0.tar.gz",
+  "download_time": "2026-05-08T08:21:41.429406",
+  "package_url": "https://pypi.org/project/k3ssleipnir/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-transmute",
+  "version": "2.1.2",
+  "summary": "Converts a dataset based on a specific schema",
+  "author": null,
+  "license": "AGPL",
+  "home_page": null,
+  "download_filename": "ckanext_transmute-2.1.2.tar.gz",
+  "download_time": "2026-05-08T08:21:14.055979",
+  "package_url": "https://pypi.org/project/ckanext-transmute/"
+}

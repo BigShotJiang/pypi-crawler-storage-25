@@ -1,0 +1,11 @@
+{
+  "name": "tx-verify",
+  "version": "1.0.2",
+  "summary": "Transaction Verification API — Python library for verifying Ethiopian payment transactions (CBE, Telebirr, Dashen, Abyssinia, CBE Birr, M-Pesa).",
+  "author": "Nahom d",
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "tx_verify-1.0.2.tar.gz",
+  "download_time": "2026-05-08T08:21:34.088429",
+  "package_url": "https://pypi.org/project/tx-verify/"
+}
