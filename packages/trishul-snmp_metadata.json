@@ -1,0 +1,11 @@
+{
+  "name": "trishul-snmp",
+  "version": "0.2.0",
+  "summary": "A modern SNMP runtime toolkit with optional compiled-JSON MIB enrichment",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trishul_snmp-0.2.0.tar.gz",
+  "download_time": "2026-05-08T16:12:24.186358",
+  "package_url": "https://pypi.org/project/trishul-snmp/"
+}

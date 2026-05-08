@@ -1,0 +1,11 @@
+{
+  "name": "flake8-no-private-methods",
+  "version": "0.0.2",
+  "summary": "This is how python package should look like!",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flake8_no_private_methods-0.0.2.tar.gz",
+  "download_time": "2026-05-08T16:12:15.679384",
+  "package_url": "https://pypi.org/project/flake8-no-private-methods/"
+}

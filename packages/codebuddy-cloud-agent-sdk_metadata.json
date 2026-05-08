@@ -1,11 +1,11 @@
 {
   "name": "codebuddy-cloud-agent-sdk",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "CodeBuddy Cloud Agent SDK (Python) — 基于 ACP 的云端沙箱 Agent 客户端",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codebuddy_cloud_agent_sdk-0.3.1.tar.gz",
-  "download_time": "2026-05-03T16:11:05.980595",
+  "download_filename": "codebuddy_cloud_agent_sdk-0.3.2.tar.gz",
+  "download_time": "2026-05-08T16:12:21.863927",
   "package_url": "https://pypi.org/project/codebuddy-cloud-agent-sdk/"
 }

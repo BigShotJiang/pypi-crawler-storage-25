@@ -1,0 +1,11 @@
+{
+  "name": "alpha-python",
+  "version": "0.6.2",
+  "summary": "Alpha is intended to be the first dependency you need to add to your Python application. It is a Python library which contains standard building blocks that can be used in applications that are used as APIs and/or make use of database interaction.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alpha_python-0.6.2.tar.gz",
+  "download_time": "2026-05-08T16:12:08.821942",
+  "package_url": "https://pypi.org/project/alpha-python/"
+}
