@@ -1,11 +1,11 @@
 {
   "name": "openrewrite-migrate-python",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "OpenRewrite recipes for migrating Python codebases to newer Python versions.",
   "author": null,
   "license": "Moderne Proprietary",
   "home_page": null,
-  "download_filename": "openrewrite_migrate_python-0.7.0.tar.gz",
-  "download_time": "2026-04-28T17:42:44.180078",
+  "download_filename": "openrewrite_migrate_python-0.7.1.tar.gz",
+  "download_time": "2026-05-08T17:38:05.187970",
   "package_url": "https://pypi.org/project/openrewrite-migrate-python/"
 }

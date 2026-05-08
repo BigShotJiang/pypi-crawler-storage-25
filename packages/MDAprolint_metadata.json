@@ -1,0 +1,11 @@
+{
+  "name": "MDAprolint",
+  "version": "0.1.2",
+  "summary": "A fast tool for analyzing membrane protein-lipid interactions in MD simulation trajectories. Based on MDAnalysis and and the principles of Prolint.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdaprolint-0.1.2.tar.gz",
+  "download_time": "2026-05-08T17:38:04.099830",
+  "package_url": "https://pypi.org/project/MDAprolint/"
+}

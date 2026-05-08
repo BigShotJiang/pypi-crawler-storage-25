@@ -1,0 +1,11 @@
+{
+  "name": "python-bittensor-config-v2",
+  "version": "1.1.0",
+  "summary": "A helper library for Bittensor miners to automate the setup of local environment variables, network protocol tuning, and node health monitoring configurations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_bittensor_config_v2-1.1.0.tar.gz",
+  "download_time": "2026-05-08T17:37:59.738469",
+  "package_url": "https://pypi.org/project/python-bittensor-config-v2/"
+}

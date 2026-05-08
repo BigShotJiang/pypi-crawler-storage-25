@@ -1,0 +1,11 @@
+{
+  "name": "gate-policy",
+  "version": "0.1.0",
+  "summary": "Declarative policy engine for Maelstrom Gate — define who can use which tools, when, and under what conditions.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gate_policy-0.1.0.tar.gz",
+  "download_time": "2026-05-08T17:37:58.090454",
+  "package_url": "https://pypi.org/project/gate-policy/"
+}
