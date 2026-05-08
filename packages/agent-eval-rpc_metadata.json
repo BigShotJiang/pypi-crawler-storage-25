@@ -1,0 +1,11 @@
+{
+  "name": "agent-eval-rpc",
+  "version": "0.23.0",
+  "summary": "Python RPC client for @tangle-network/agent-eval — judge content against rubrics over HTTP or stdio RPC. Eval logic runs in the Node runtime; this package is a thin wire client.",
+  "author": "Tangle Network",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_eval_rpc-0.23.0.tar.gz",
+  "download_time": "2026-05-08T23:00:38.483384",
+  "package_url": "https://pypi.org/project/agent-eval-rpc/"
+}

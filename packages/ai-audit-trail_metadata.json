@@ -1,11 +1,11 @@
 {
   "name": "ai-audit-trail",
-  "version": "0.4.3",
+  "version": "0.4.6",
   "summary": "Cryptographically verifiable audit trail for AI systems — Ed25519 signed, hash-chained Decision Receipts with ISO 42001 / NIST AI RMF compliance mappings",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_audit_trail-0.4.3.tar.gz",
-  "download_time": "2026-05-08T19:02:46.963406",
+  "download_filename": "ai_audit_trail-0.4.6-py3-none-any.whl",
+  "download_time": "2026-05-08T23:01:00.486270",
   "package_url": "https://pypi.org/project/ai-audit-trail/"
 }

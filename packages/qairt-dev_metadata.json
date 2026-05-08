@@ -1,0 +1,11 @@
+{
+  "name": "qairt-dev",
+  "version": "0.6.0",
+  "summary": "The Qualcomm AI Runtime Development (QAIRT-DEV) package provides a simple python interface for executing ML models on QAIRT runtimes",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "qairt_dev-0.6.0-py3-none-manylinux2014_aarch64.whl",
+  "download_time": "2026-05-08T23:01:01.511776",
+  "package_url": "https://pypi.org/project/qairt-dev/"
+}

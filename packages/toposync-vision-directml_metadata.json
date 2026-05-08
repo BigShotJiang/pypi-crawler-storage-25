@@ -1,11 +1,11 @@
 {
   "name": "toposync-vision-directml",
-  "version": "0.4.1",
+  "version": "0.4.9",
   "summary": "Toposync application bundle with ONNX Runtime DirectML acceleration.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toposync_vision_directml-0.4.1.tar.gz",
-  "download_time": "2026-05-03T01:31:35.469117",
+  "download_filename": "toposync_vision_directml-0.4.9.tar.gz",
+  "download_time": "2026-05-08T23:01:02.021388",
   "package_url": "https://pypi.org/project/toposync-vision-directml/"
 }

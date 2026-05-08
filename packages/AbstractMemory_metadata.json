@@ -1,0 +1,11 @@
+{
+  "name": "AbstractMemory",
+  "version": "0.2.5",
+  "summary": "AbstractMemory: temporal, provenance-aware semantic memory primitives for AbstractFramework.",
+  "author": "Laurent-Philippe Albou",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "abstractmemory-0.2.5.tar.gz",
+  "download_time": "2026-05-08T23:00:35.933131",
+  "package_url": "https://pypi.org/project/AbstractMemory/"
+}
