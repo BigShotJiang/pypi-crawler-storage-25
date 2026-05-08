@@ -1,11 +1,11 @@
 {
   "name": "stakeout-agent",
-  "version": "0.0.7",
-  "summary": "Drop-in monitoring for GenAI applications",
+  "version": "0.0.9",
+  "summary": "Drop-in observability for LangGraph and CrewAI — captures every run, node, tool call, token count, prompt, and response into MongoDB or PostgreSQL",
   "author": "Kyriakos Fragkeskos",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "stakeout_agent-0.0.7.tar.gz",
-  "download_time": "2026-05-01T20:13:09.946764",
+  "download_filename": "stakeout_agent-0.0.9.tar.gz",
+  "download_time": "2026-05-08T12:14:46.358608",
   "package_url": "https://pypi.org/project/stakeout-agent/"
 }

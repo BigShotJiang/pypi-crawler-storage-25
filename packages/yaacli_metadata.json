@@ -1,11 +1,11 @@
 {
   "name": "yaacli",
-  "version": "0.63.0",
+  "version": "0.68.1",
   "summary": "TUI reference implementation for ya-agent-sdk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yaacli-0.63.0.tar.gz",
-  "download_time": "2026-04-30T09:43:09.633361",
+  "download_filename": "yaacli-0.68.1.tar.gz",
+  "download_time": "2026-05-08T12:15:04.081575",
   "package_url": "https://pypi.org/project/yaacli/"
 }

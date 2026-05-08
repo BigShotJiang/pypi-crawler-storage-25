@@ -1,0 +1,11 @@
+{
+  "name": "libsonata",
+  "version": "0.1.36",
+  "summary": "SONATA files reader",
+  "author": "Blue Brain Project, EPFL",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://github.com/openbraininstitute/libsonata",
+  "download_filename": "libsonata-0.1.36.tar.gz",
+  "download_time": "2026-05-08T12:15:03.177998",
+  "package_url": "https://pypi.org/project/libsonata/"
+}

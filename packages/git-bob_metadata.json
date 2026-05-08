@@ -1,11 +1,11 @@
 {
   "name": "git-bob",
-  "version": "0.27.3",
+  "version": "0.27.4",
   "summary": "git-bob uses AI to solve Github-issues. It runs inside the Github CI, no need to install anything on your computer.",
   "author": "Robert Haase",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/haesleinhuepf/git-bob",
-  "download_filename": "git_bob-0.27.3.tar.gz",
-  "download_time": "2026-05-08T10:05:09.825140",
+  "download_filename": "git_bob-0.27.4.tar.gz",
+  "download_time": "2026-05-08T12:15:32.693983",
   "package_url": "https://pypi.org/project/git-bob/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "graphton",
-  "version": "0.4.2",
+  "version": "0.4.6",
   "summary": "Declarative agent creation framework for LangGraph (Stigmer local copy)",
   "author": "Stigmer",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "graphton-0.4.2.tar.gz",
-  "download_time": "2026-05-07T12:39:05.532258",
+  "download_filename": "graphton-0.4.6.tar.gz",
+  "download_time": "2026-05-08T12:15:10.798376",
   "package_url": "https://pypi.org/project/graphton/"
 }

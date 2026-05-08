@@ -1,11 +1,11 @@
 {
   "name": "schemathesis",
-  "version": "4.16.1",
-  "summary": "Property-based testing framework for Open API and GraphQL based apps",
+  "version": "4.18.0",
+  "summary": "Adaptive API testing for OpenAPI and GraphQL",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "schemathesis-4.16.1.tar.gz",
-  "download_time": "2026-04-26T09:22:07.396691",
+  "download_filename": "schemathesis-4.18.0.tar.gz",
+  "download_time": "2026-05-08T12:15:22.646376",
   "package_url": "https://pypi.org/project/schemathesis/"
 }

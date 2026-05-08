@@ -1,0 +1,11 @@
+{
+  "name": "maximo-enterprise-mcp",
+  "version": "1.0.0",
+  "summary": "An MCP server for IBM Maximo Asset Management, by Maxis Technology — stable tool surface for MCP clients and hosted API use.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "maximo_enterprise_mcp-1.0.0.tar.gz",
+  "download_time": "2026-05-08T12:14:56.333299",
+  "package_url": "https://pypi.org/project/maximo-enterprise-mcp/"
+}

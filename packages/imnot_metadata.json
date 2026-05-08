@@ -1,11 +1,11 @@
 {
   "name": "imnot",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "A stateful API mock server for integration testing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "imnot-1.0.2.tar.gz",
-  "download_time": "2026-05-07T02:56:27.846094",
+  "download_filename": "imnot-1.1.0.tar.gz",
+  "download_time": "2026-05-08T12:14:50.670030",
   "package_url": "https://pypi.org/project/imnot/"
 }

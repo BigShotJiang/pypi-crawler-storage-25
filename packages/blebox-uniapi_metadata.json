@@ -1,0 +1,11 @@
+{
+  "name": "blebox-uniapi",
+  "version": "2.5.3",
+  "summary": "Python API for accessing BleBox smart home devices",
+  "author": "BleBox",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/blebox/blebox_uniapi",
+  "download_filename": "blebox_uniapi-2.5.3.tar.gz",
+  "download_time": "2026-05-08T12:15:15.584659",
+  "package_url": "https://pypi.org/project/blebox-uniapi/"
+}
