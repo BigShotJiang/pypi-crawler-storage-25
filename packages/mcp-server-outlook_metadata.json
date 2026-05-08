@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-outlook",
+  "version": "0.3.0",
+  "summary": "MCP server for Microsoft 365 Outlook (mail + calendar) with audit-preserving drafts and never-auto-send.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_outlook-0.3.0.tar.gz",
+  "download_time": "2026-05-08T21:27:04.275647",
+  "package_url": "https://pypi.org/project/mcp-server-outlook/"
+}

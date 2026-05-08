@@ -1,0 +1,11 @@
+{
+  "name": "suphm",
+  "version": "0.3.3",
+  "summary": "Supply chain health metrics: a CLI for analysing OSS package health, maintainer burnout, and supply-chain risk",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "suphm-0.3.3.tar.gz",
+  "download_time": "2026-05-08T21:26:59.334033",
+  "package_url": "https://pypi.org/project/suphm/"
+}

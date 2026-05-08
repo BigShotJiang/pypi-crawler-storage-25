@@ -1,0 +1,11 @@
+{
+  "name": "nerfstudio-pixelnerf",
+  "version": "0.0.8",
+  "summary": "Unofficial Implementation of `pixelNeRF: Neural Radiance Fields from One or Few Images` [Yu et al.] for NeRFStudio",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nerfstudio_pixelnerf-0.0.8.tar.gz",
+  "download_time": "2026-05-08T21:27:15.191599",
+  "package_url": "https://pypi.org/project/nerfstudio-pixelnerf/"
+}

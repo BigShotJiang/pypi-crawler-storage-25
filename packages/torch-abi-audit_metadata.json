@@ -1,0 +1,11 @@
+{
+  "name": "torch-abi-audit",
+  "version": "0.0.1",
+  "summary": "Audit Python extensions for PyTorch (and CPython) Stable ABI compliance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torch_abi_audit-0.0.1.tar.gz",
+  "download_time": "2026-05-08T21:27:34.393739",
+  "package_url": "https://pypi.org/project/torch-abi-audit/"
+}

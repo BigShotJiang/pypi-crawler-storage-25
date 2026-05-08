@@ -1,0 +1,11 @@
+{
+  "name": "customer-discovery-agent",
+  "version": "0.5.0",
+  "summary": "Scan online communities (Reddit, +) for maker pain points; cluster into a weekly digest.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "customer_discovery_agent-0.5.0.tar.gz",
+  "download_time": "2026-05-08T21:26:55.521685",
+  "package_url": "https://pypi.org/project/customer-discovery-agent/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agentdeck-ai",
-  "version": "0.1.1",
-  "summary": "Behavioral research platform for studying AI behavior through game scenarios",
-  "author": null,
+  "version": "0.1.2",
+  "summary": "The game console for AI agents: behavioral research through game scenarios",
+  "author": "Diego ZoracKy",
   "license": null,
   "home_page": null,
-  "download_filename": "agentdeck_ai-0.1.1.tar.gz",
-  "download_time": "2026-04-22T20:18:05.060097",
+  "download_filename": "agentdeck_ai-0.1.2.tar.gz",
+  "download_time": "2026-05-08T21:27:25.678303",
   "package_url": "https://pypi.org/project/agentdeck-ai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tinker_cookbook",
-  "version": "0.2.2",
+  "version": "0.4.0",
   "summary": "Implementations of post-training algorithms using the Tinker API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tinker_cookbook-0.2.2.tar.gz",
-  "download_time": "2026-04-02T19:38:32.082530",
+  "download_filename": "tinker_cookbook-0.4.0.tar.gz",
+  "download_time": "2026-05-08T21:27:08.127598",
   "package_url": "https://pypi.org/project/tinker_cookbook/"
 }

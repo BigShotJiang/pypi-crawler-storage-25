@@ -1,0 +1,11 @@
+{
+  "name": "xfem",
+  "version": "2.1.2604",
+  "summary": "(ngs)xfem is an Add-on library to Netgen/NGSolve for unfitted/cut FEM.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xfem-2.1.2604.tar.gz",
+  "download_time": "2026-05-08T21:27:12.427603",
+  "package_url": "https://pypi.org/project/xfem/"
+}

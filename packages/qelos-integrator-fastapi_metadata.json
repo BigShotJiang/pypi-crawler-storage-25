@@ -1,0 +1,11 @@
+{
+  "name": "qelos-integrator-fastapi",
+  "version": "4.0.0",
+  "summary": "FastAPI integrator for Qelos: middleware that identifies the user and active workspace from the Qelos SDK before your handlers run",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qelos_integrator_fastapi-4.0.0.tar.gz",
+  "download_time": "2026-05-08T21:27:31.654516",
+  "package_url": "https://pypi.org/project/qelos-integrator-fastapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "colber-autogen",
+  "version": "0.1.0",
+  "summary": "AutoGen 0.4+ integration for the Colber platform — per-tool observability, AutoGen Memory adapter, and a 5-service toolkit of typed BaseTool[Args, Result] subclasses.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "colber_autogen-0.1.0.tar.gz",
+  "download_time": "2026-05-08T21:27:20.155871",
+  "package_url": "https://pypi.org/project/colber-autogen/"
+}

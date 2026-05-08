@@ -1,0 +1,11 @@
+{
+  "name": "hippius-hub",
+  "version": "0.2.0",
+  "summary": "Drop-in replacement for huggingface_hub using a Rust backend for ultra-fast downloads",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hippius_hub-0.2.0-cp38-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-08T21:27:26.772056",
+  "package_url": "https://pypi.org/project/hippius-hub/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "python-duco-connectivity",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Async HTTP client for the local Duco Connectivity API",
   "author": "Ronald van der Meer",
   "license": null,
   "home_page": null,
-  "download_filename": "python_duco_connectivity-0.1.0.tar.gz",
-  "download_time": "2026-05-08T20:18:05.040752",
+  "download_filename": "python_duco_connectivity-0.1.1.tar.gz",
+  "download_time": "2026-05-08T21:27:16.824520",
   "package_url": "https://pypi.org/project/python-duco-connectivity/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "bearpaw-daemon",
+  "version": "1.2.0",
+  "summary": "Headless HTTP + WebSocket control service for Uniden BC125AT and SR30C handheld scanners",
+  "author": "Jeremy Fuksa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bearpaw_daemon-1.2.0.tar.gz",
+  "download_time": "2026-05-08T21:27:02.642665",
+  "package_url": "https://pypi.org/project/bearpaw-daemon/"
+}
