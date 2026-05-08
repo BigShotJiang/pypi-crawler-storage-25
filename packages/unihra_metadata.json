@@ -1,11 +1,11 @@
 {
   "name": "unihra",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "summary": "Official Python Client for Unihra API (semantic SEO analysis & Knowledge Graph triplets)",
   "author": "Unihra Team",
   "license": "MIT",
   "home_page": "https://unihra.ru",
-  "download_filename": "unihra-1.6.0.tar.gz",
-  "download_time": "2026-04-25T23:49:51.676025",
+  "download_filename": "unihra-1.7.0.tar.gz",
+  "download_time": "2026-05-08T23:41:14.636505",
   "package_url": "https://pypi.org/project/unihra/"
 }

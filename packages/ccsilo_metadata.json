@@ -1,0 +1,11 @@
+{
+  "name": "ccsilo",
+  "version": "0.3.0",
+  "summary": "Isolated Claude Code silos with provider-specific patching",
+  "author": "whit3rabbit",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ccsilo-0.3.0.tar.gz",
+  "download_time": "2026-05-08T23:41:06.500839",
+  "package_url": "https://pypi.org/project/ccsilo/"
+}

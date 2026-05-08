@@ -1,11 +1,11 @@
 {
   "name": "copass-pydantic-ai",
-  "version": "0.5.3",
+  "version": "1.0.5",
   "summary": "Pydantic AI tool adapters for Copass — drop-in discover/interpret/search tools for Pydantic AI agents",
   "author": "Olane Inc.",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "copass_pydantic_ai-0.5.3.tar.gz",
-  "download_time": "2026-05-02T00:15:13.762792",
+  "download_filename": "copass_pydantic_ai-1.0.5.tar.gz",
+  "download_time": "2026-05-08T23:41:15.175482",
   "package_url": "https://pypi.org/project/copass-pydantic-ai/"
 }

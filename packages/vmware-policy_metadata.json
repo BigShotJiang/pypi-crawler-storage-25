@@ -1,11 +1,11 @@
 {
   "name": "vmware-policy",
-  "version": "1.5.19",
+  "version": "1.5.22",
   "summary": "Unified audit logging, policy enforcement, and sanitization for VMware MCP skills",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vmware_policy-1.5.19.tar.gz",
-  "download_time": "2026-05-06T04:15:51.532032",
+  "download_filename": "vmware_policy-1.5.22.tar.gz",
+  "download_time": "2026-05-08T23:41:26.389541",
   "package_url": "https://pypi.org/project/vmware-policy/"
 }

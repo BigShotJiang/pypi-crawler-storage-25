@@ -1,11 +1,11 @@
 {
   "name": "gcp-radar",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "GCP resource inventory scanner and draw.io architecture diagram generator",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "gcp_radar-0.1.0.tar.gz",
-  "download_time": "2026-05-08T19:03:18.497866",
+  "download_filename": "gcp_radar-0.1.3.tar.gz",
+  "download_time": "2026-05-08T23:41:18.981518",
   "package_url": "https://pypi.org/project/gcp-radar/"
 }

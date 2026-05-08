@@ -1,11 +1,11 @@
 {
   "name": "local-agent-harness",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "summary": "Maturity-aware harness manager for local AI coding agents (Claude Code, Codex CLI, Copilot CLI). Audit, init, and refresh AGENTS.md / GROUNDING.md / CI on GitHub Actions / sandbox at the right S0–S3 stage; ships an installable skill.",
   "author": "Grammy Jiang",
   "license": null,
   "home_page": null,
-  "download_filename": "local_agent_harness-0.3.8.tar.gz",
-  "download_time": "2026-05-08T23:00:32.367396",
+  "download_filename": "local_agent_harness-0.3.9.tar.gz",
+  "download_time": "2026-05-08T23:40:49.905138",
   "package_url": "https://pypi.org/project/local-agent-harness/"
 }

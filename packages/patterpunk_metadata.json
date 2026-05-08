@@ -1,0 +1,11 @@
+{
+  "name": "patterpunk",
+  "version": "1.2.6",
+  "summary": "A simple library to interact with various LLM providers",
+  "author": "Thomas Rubbert",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/trb/patterpunk",
+  "download_filename": "patterpunk-1.2.6-py3-none-any.whl",
+  "download_time": "2026-05-08T23:41:07.039361",
+  "package_url": "https://pypi.org/project/patterpunk/"
+}

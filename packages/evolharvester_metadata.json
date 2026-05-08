@@ -1,11 +1,11 @@
 {
   "name": "evolharvester",
-  "version": "0.1.0.dev1",
+  "version": "0.5.0",
   "summary": "Parse HyPhy and PAML codon-selection analysis outputs into tidy CSVs for downstream, user-defined analyses.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "evolharvester-0.1.0.dev1.tar.gz",
-  "download_time": "2026-05-08T23:00:37.971166",
+  "download_filename": "evolharvester-0.5.0.tar.gz",
+  "download_time": "2026-05-08T23:41:08.671168",
   "package_url": "https://pypi.org/project/evolharvester/"
 }
