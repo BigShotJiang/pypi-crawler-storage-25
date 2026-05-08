@@ -1,11 +1,11 @@
 {
   "name": "specitems",
-  "version": "1.1.17",
+  "version": "1.3.0",
   "summary": "Provides interfaces to work with specification items.",
   "author": "The specitems Authors",
   "license": null,
   "home_page": null,
-  "download_filename": "specitems-1.1.17.tar.gz",
-  "download_time": "2026-04-06T03:43:38.184394",
+  "download_filename": "specitems-1.3.0.tar.gz",
+  "download_time": "2026-05-08T01:36:27.629693",
   "package_url": "https://pypi.org/project/specitems/"
 }

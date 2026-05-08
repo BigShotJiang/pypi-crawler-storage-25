@@ -1,0 +1,11 @@
+{
+  "name": "atlassian-skills-alm",
+  "version": "0.3.0",
+  "summary": "Token-efficient CLI + Claude Code Skill for the Atlassian Server/DC ALM stack — Jira, Confluence, Bitbucket, Bamboo, and Codebeamer (fork of atlassian-skills with Codebeamer support).",
+  "author": "Eunsan Jo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atlassian_skills_alm-0.3.0.tar.gz",
+  "download_time": "2026-05-08T01:36:14.242857",
+  "package_url": "https://pypi.org/project/atlassian-skills-alm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "contextia",
+  "version": "2.1.0",
+  "summary": "Contextia — AI-native code intelligence MCP server: hybrid search, code graph, semantic memory, commit history, progressive disclosure, AST compression",
+  "author": "Jass Kalkat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "contextia-2.1.0.tar.gz",
+  "download_time": "2026-05-08T01:36:21.336608",
+  "package_url": "https://pypi.org/project/contextia/"
+}

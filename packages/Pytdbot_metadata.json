@@ -1,0 +1,11 @@
+{
+  "name": "Pytdbot",
+  "version": "0.9.10",
+  "summary": "Easy-to-use asynchronous TDLib wrapper for Python.",
+  "author": "AYMEN Mohammed",
+  "license": "MIT",
+  "home_page": "https://github.com/pytdbot/client",
+  "download_filename": "pytdbot-0.9.10.tar.gz",
+  "download_time": "2026-05-08T01:35:59.596558",
+  "package_url": "https://pypi.org/project/Pytdbot/"
+}

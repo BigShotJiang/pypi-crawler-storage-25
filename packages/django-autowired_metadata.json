@@ -1,0 +1,11 @@
+{
+  "name": "django-autowired",
+  "version": "0.3.0",
+  "summary": "Spring Boot-style @injectable autowiring for Python — zero manual wiring, any DI backend.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_autowired-0.3.0.tar.gz",
+  "download_time": "2026-05-08T01:35:43.122139",
+  "package_url": "https://pypi.org/project/django-autowired/"
+}
