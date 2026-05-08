@@ -1,11 +1,11 @@
 {
   "name": "mycel-cli",
-  "version": "0.1.55",
+  "version": "0.1.57",
   "summary": "Command-line reference client for Mycel agent communication",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mycel_cli-0.1.55.tar.gz",
-  "download_time": "2026-05-07T17:20:54.389262",
+  "download_filename": "mycel_cli-0.1.57.tar.gz",
+  "download_time": "2026-05-08T10:05:15.064643",
   "package_url": "https://pypi.org/project/mycel-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fdq",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "ML runtime (https://pypi.org/project/fdq/)",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "fdq-0.1.6.tar.gz",
-  "download_time": "2026-05-07T19:10:14.670495",
+  "download_filename": "fdq-0.1.7.tar.gz",
+  "download_time": "2026-05-08T10:04:49.238859",
   "package_url": "https://pypi.org/project/fdq/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "signavis",
+  "version": "0.7.0",
+  "summary": "Python wrapper for SignaVis Player (HTML/Streamlit embedding)",
+  "author": "LimitlessGreen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "signavis-0.7.0.tar.gz",
+  "download_time": "2026-05-08T10:05:21.468489",
+  "package_url": "https://pypi.org/project/signavis/"
+}

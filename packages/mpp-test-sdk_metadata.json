@@ -1,0 +1,11 @@
+{
+  "name": "mpp-test-sdk",
+  "version": "1.1.0",
+  "summary": "Test pay-per-request APIs on Solana — devnet, testnet, or mainnet",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mpp_test_sdk-1.1.0.tar.gz",
+  "download_time": "2026-05-08T10:05:29.099767",
+  "package_url": "https://pypi.org/project/mpp-test-sdk/"
+}

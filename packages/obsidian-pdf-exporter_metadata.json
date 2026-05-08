@@ -1,0 +1,11 @@
+{
+  "name": "obsidian-pdf-exporter",
+  "version": "0.0.6",
+  "summary": "Export Obsidian vaults to PDF with plugin support. Runs locally or in CI.",
+  "author": "Sebastian Penhouet",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "obsidian_pdf_exporter-0.0.6.tar.gz",
+  "download_time": "2026-05-08T10:05:10.841968",
+  "package_url": "https://pypi.org/project/obsidian-pdf-exporter/"
+}

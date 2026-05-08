@@ -1,0 +1,11 @@
+{
+  "name": "irminsul",
+  "version": "0.2.0",
+  "summary": "A documentation system for complex codebases. Enforces structural invariants in CI.",
+  "author": "Irminsul authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "irminsul-0.2.0.tar.gz",
+  "download_time": "2026-05-08T10:05:11.860219",
+  "package_url": "https://pypi.org/project/irminsul/"
+}

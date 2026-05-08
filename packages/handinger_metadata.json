@@ -1,11 +1,11 @@
 {
   "name": "handinger",
-  "version": "0.4.0",
+  "version": "0.10.0",
   "summary": "The official Python library for the handinger API",
   "author": "Handinger",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "handinger-0.4.0.tar.gz",
-  "download_time": "2026-04-24T17:06:55.427309",
+  "download_filename": "handinger-0.10.0.tar.gz",
+  "download_time": "2026-05-08T10:05:20.959863",
   "package_url": "https://pypi.org/project/handinger/"
 }

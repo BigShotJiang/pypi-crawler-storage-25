@@ -1,11 +1,11 @@
 {
   "name": "huimei",
-  "version": "0.4.1",
+  "version": "0.4.7",
   "summary": "MCP Server & CLI for social media automation — let AI agents publish to TikTok, Instagram, YouTube, Douyin, XHS, Bilibili and 15+ platforms via Model Context Protocol",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "huimei-0.4.1.tar.gz",
-  "download_time": "2026-05-08T04:45:58.794870",
+  "download_filename": "huimei-0.4.7.tar.gz",
+  "download_time": "2026-05-08T10:05:08.268100",
   "package_url": "https://pypi.org/project/huimei/"
 }
