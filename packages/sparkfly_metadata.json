@@ -1,11 +1,11 @@
 {
   "name": "sparkfly",
-  "version": "1.4.5",
+  "version": "1.4.8",
   "summary": "Core Operations",
   "author": "Sparkfly Support Team",
   "license": "MIT",
   "home_page": "https://github.com/growth-operations/sparkfly-api-client",
-  "download_filename": "sparkfly-1.4.5.tar.gz",
-  "download_time": "2026-05-07T06:00:15.520607",
+  "download_filename": "sparkfly-1.4.8.tar.gz",
+  "download_time": "2026-05-09T04:57:57.667557",
   "package_url": "https://pypi.org/project/sparkfly/"
 }

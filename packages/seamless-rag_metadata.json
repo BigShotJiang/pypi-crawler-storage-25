@@ -1,0 +1,11 @@
+{
+  "name": "seamless-rag",
+  "version": "0.1.5",
+  "summary": "TOON-Native Auto-Embedding & RAG Toolkit for MariaDB — VECTOR(N), HNSW, VEC_DISTANCE_COSINE, with TOON tabular output that saves 10-55% LLM tokens vs JSON.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seamless_rag-0.1.5.tar.gz",
+  "download_time": "2026-05-09T04:57:26.971397",
+  "package_url": "https://pypi.org/project/seamless-rag/"
+}

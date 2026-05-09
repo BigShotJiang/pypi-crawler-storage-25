@@ -1,0 +1,11 @@
+{
+  "name": "swarph-mesh",
+  "version": "0.7.2",
+  "summary": "Model-agnostic Python substrate for the swarph-mesh ecosystem — the graph protocol third-party CLIs plug into. v0.7.2 ships the versioning + deprecation policy: CHANGELOG.md (full release history) + DEPRECATIONS.md (3-tier contract surface, what counts as breaking, deprecation cycle requirements, mypy --strict ratchet schedule, hardening commitment tracker). Resolves SECURITY.md v0.7.1's 8 forward-references.",
+  "author": "Pierre Samson, Claude Opus",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swarph_mesh-0.7.2.tar.gz",
+  "download_time": "2026-05-09T04:57:42.561595",
+  "package_url": "https://pypi.org/project/swarph-mesh/"
+}

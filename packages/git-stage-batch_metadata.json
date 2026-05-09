@@ -1,11 +1,11 @@
 {
   "name": "git-stage-batch",
-  "version": "0.10.1",
+  "version": "0.11.0",
   "summary": "Non-interactive hunk-by-hunk and line-by-line staging for git",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "git_stage_batch-0.10.1.tar.gz",
-  "download_time": "2026-05-07T00:02:14.464969",
+  "download_filename": "git_stage_batch-0.11.0.tar.gz",
+  "download_time": "2026-05-09T04:57:54.470577",
   "package_url": "https://pypi.org/project/git-stage-batch/"
 }
