@@ -1,0 +1,11 @@
+{
+  "name": "sprint-agent",
+  "version": "0.4.0",
+  "summary": "Turn any AI agent into an agile developer. Persistent sprint context for Claude Code, Cursor, Copilot, Codex, Gemini, Aider, Windsurf. Zero dependencies.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sprint_agent-0.4.0.tar.gz",
+  "download_time": "2026-05-09T09:01:17.196607",
+  "package_url": "https://pypi.org/project/sprint-agent/"
+}

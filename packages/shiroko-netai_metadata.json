@@ -1,0 +1,11 @@
+{
+  "name": "shiroko-netai",
+  "version": "2.0.2",
+  "summary": "终端 AI 聊天工具，支持 OpenAI 及兼容 API",
+  "author": "shiroko",
+  "license": "MIT",
+  "home_page": "https://github.com/shiroko973/shiroko-netai",
+  "download_filename": "shiroko_netai-2.0.2.tar.gz",
+  "download_time": "2026-05-09T09:01:26.295214",
+  "package_url": "https://pypi.org/project/shiroko-netai/"
+}

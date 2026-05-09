@@ -1,0 +1,11 @@
+{
+  "name": "pysmb",
+  "version": "1.2.14",
+  "summary": "pysmb is an experimental SMB/CIFS library written in Python to support file sharing between Windows and Linux machines",
+  "author": "Michael Teo",
+  "license": "zlib/libpng",
+  "home_page": "https://miketeo.net/projects/pysmb",
+  "download_filename": "pysmb-1.2.14.tar.gz",
+  "download_time": "2026-05-09T09:01:53.427143",
+  "package_url": "https://pypi.org/project/pysmb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "locust",
+  "version": "2.43.4",
+  "summary": "Developer-friendly load testing framework",
+  "author": "Jonatan Heyman, Lars Holmberg",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "locust-2.43.4.tar.gz",
+  "download_time": "2026-05-09T09:01:58.361889",
+  "package_url": "https://pypi.org/project/locust/"
+}

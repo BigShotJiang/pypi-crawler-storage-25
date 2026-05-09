@@ -1,0 +1,11 @@
+{
+  "name": "pyref2",
+  "version": "0.1.1",
+  "summary": "Detect Python refactorings across Git revisions with functional-change reporting",
+  "author": "Martin Schroeder",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyref2-0.1.1.tar.gz",
+  "download_time": "2026-05-09T09:01:39.712412",
+  "package_url": "https://pypi.org/project/pyref2/"
+}
