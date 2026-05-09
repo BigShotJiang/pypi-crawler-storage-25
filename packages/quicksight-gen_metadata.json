@@ -1,11 +1,11 @@
 {
   "name": "quicksight-gen",
-  "version": "8.6.11",
+  "version": "8.7.3",
   "summary": "Programmatic AWS QuickSight analysis generator for financial reporting",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quicksight_gen-8.6.11.tar.gz",
-  "download_time": "2026-05-04T02:53:39.693476",
+  "download_filename": "quicksight_gen-8.7.3.tar.gz",
+  "download_time": "2026-05-09T21:55:18.437665",
   "package_url": "https://pypi.org/project/quicksight-gen/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cyanide-honeypot",
-  "version": "1.0.1",
+  "version": "5.0.0",
   "summary": "A medium-interaction honeypot with ML-based anomaly detection.",
   "author": "tanhiowyatt",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cyanide_honeypot-1.0.1.tar.gz",
-  "download_time": "2026-05-09T18:01:38.944290",
+  "download_filename": "cyanide_honeypot-5.0.0.tar.gz",
+  "download_time": "2026-05-09T21:55:27.367975",
   "package_url": "https://pypi.org/project/cyanide-honeypot/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "block-diag-ilu",
+  "version": "0.5.5",
+  "summary": "block_diag_ilu is a C++ implementation of an incomplete LU factorization, ILU(0).",
+  "author": "Bjoern I. Dahlgren",
+  "license": "BSD",
+  "home_page": "https://github.com/chemreac/block_diag_ilu",
+  "download_filename": "block_diag_ilu-0.5.5.tar.gz",
+  "download_time": "2026-05-09T21:55:55.798973",
+  "package_url": "https://pypi.org/project/block-diag-ilu/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "csaq-quant",
-  "version": "0.5.8",
+  "version": "0.5.9",
   "summary": "Causal Salience-Aware Quantization — gradient×activation informed, clique-graph LLM weight quantization with self-speculative decoding",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csaq_quant-0.5.8.tar.gz",
-  "download_time": "2026-05-09T21:07:31.393291",
+  "download_filename": "csaq_quant-0.5.9.tar.gz",
+  "download_time": "2026-05-09T21:55:53.234794",
   "package_url": "https://pypi.org/project/csaq-quant/"
 }

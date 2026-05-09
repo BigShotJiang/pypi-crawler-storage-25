@@ -1,11 +1,11 @@
 {
   "name": "dulus",
-  "version": "0.2.18",
+  "version": "0.2.28",
   "summary": "Spanish-first multi-provider AI CLI — 14 NVIDIA models free, Mesa Redonda, voice, TTS, RTK token reducer, MemPalace",
   "author": "KevRojo",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "dulus-0.2.18-py3-none-any.whl",
-  "download_time": "2026-05-09T17:04:33.205614",
+  "download_filename": "dulus-0.2.28.tar.gz",
+  "download_time": "2026-05-09T21:55:28.907063",
   "package_url": "https://pypi.org/project/dulus/"
 }
