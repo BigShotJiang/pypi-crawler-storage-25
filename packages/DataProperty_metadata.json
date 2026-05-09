@@ -1,0 +1,11 @@
+{
+  "name": "DataProperty",
+  "version": "1.1.1",
+  "summary": "Python library for extract property from data.",
+  "author": "Tsuyoshi Hombashi",
+  "license": "MIT License",
+  "home_page": "https://github.com/thombashi/DataProperty",
+  "download_filename": "dataproperty-1.1.1.tar.gz",
+  "download_time": "2026-05-09T10:47:10.685938",
+  "package_url": "https://pypi.org/project/DataProperty/"
+}

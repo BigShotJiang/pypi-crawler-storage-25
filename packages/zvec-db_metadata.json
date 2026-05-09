@@ -1,0 +1,11 @@
+{
+  "name": "zvec-db",
+  "version": "0.8.0",
+  "summary": "Utility suite for sparse vectorization and document reranking using zvec",
+  "author": "Charles Condevaux",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zvec_db-0.8.0.tar.gz",
+  "download_time": "2026-05-09T10:47:13.899148",
+  "package_url": "https://pypi.org/project/zvec-db/"
+}

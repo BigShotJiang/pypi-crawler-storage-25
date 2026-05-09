@@ -1,0 +1,11 @@
+{
+  "name": "databricks-access-audit",
+  "version": "0.20.0",
+  "summary": "Cross-workspace access visibility for Databricks — audit who can reach what across every workspace in your account.",
+  "author": "Lukasz Maron",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "databricks_access_audit-0.20.0.tar.gz",
+  "download_time": "2026-05-09T10:47:17.119217",
+  "package_url": "https://pypi.org/project/databricks-access-audit/"
+}

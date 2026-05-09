@@ -1,0 +1,11 @@
+{
+  "name": "rapidtts",
+  "version": "1.1.0",
+  "summary": "A text-to-speech framework for fast and high-quality speech synthesis.",
+  "author": "SWHL",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/RapidAI/RapidTTS",
+  "download_filename": "rapidtts-1.1.0-py3-none-any.whl",
+  "download_time": "2026-05-09T10:46:56.661586",
+  "package_url": "https://pypi.org/project/rapidtts/"
+}

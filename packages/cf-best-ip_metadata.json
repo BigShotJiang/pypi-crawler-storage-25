@@ -1,0 +1,11 @@
+{
+  "name": "cf-best-ip",
+  "version": "1.0.1",
+  "summary": "Cloudflare best IP optimizer with TCP prefilter and TLS/HTTP probing",
+  "author": "cf-best-ip contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cf_best_ip-1.0.1.tar.gz",
+  "download_time": "2026-05-09T10:47:11.755286",
+  "package_url": "https://pypi.org/project/cf-best-ip/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qcanvas-sdk",
+  "version": "1.0.6",
+  "summary": "A package for compiling quantum circuit code from Cirq, Qiskit, and PennyLane to OpenQASM 3.0.",
+  "author": "QCanvas Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qcanvas_sdk-1.0.6.tar.gz",
+  "download_time": "2026-05-09T10:47:12.290563",
+  "package_url": "https://pypi.org/project/qcanvas-sdk/"
+}

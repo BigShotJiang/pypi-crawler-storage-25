@@ -1,0 +1,11 @@
+{
+  "name": "lsport",
+  "version": "0.3.0",
+  "summary": "A fast and elegant command-line utility for inspecting and managing TCP ports on macOS and Linux",
+  "author": "Esteban Encina",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lsport-0.3.0.tar.gz",
+  "download_time": "2026-05-09T10:46:49.664379",
+  "package_url": "https://pypi.org/project/lsport/"
+}

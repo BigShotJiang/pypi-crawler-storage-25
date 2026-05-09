@@ -1,0 +1,11 @@
+{
+  "name": "claude-memory-lint",
+  "version": "0.2.0",
+  "summary": "A lint for Claude Code memory directories — catches frontmatter rot, oversized files, and stop-word noise before it pollutes Claude's context.",
+  "author": "claude-memory-lint contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_memory_lint-0.2.0.tar.gz",
+  "download_time": "2026-05-09T10:47:15.507228",
+  "package_url": "https://pypi.org/project/claude-memory-lint/"
+}

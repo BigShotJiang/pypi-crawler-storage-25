@@ -1,11 +1,11 @@
 {
   "name": "litert-torch-nightly",
-  "version": "0.10.0.dev20260507",
+  "version": "0.10.0.dev20260509",
   "summary": "Support PyTorch model conversion with LiteRT.",
   "author": null,
   "license": null,
   "home_page": "https://github.com/google-ai-edge/litert-torch",
-  "download_filename": "litert_torch_nightly-0.10.0.dev20260507-py3-none-any.whl",
-  "download_time": "2026-05-07T11:04:39.441082",
+  "download_filename": "litert_torch_nightly-0.10.0.dev20260509-py3-none-any.whl",
+  "download_time": "2026-05-09T10:46:55.055148",
   "package_url": "https://pypi.org/project/litert-torch-nightly/"
 }

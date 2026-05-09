@@ -1,0 +1,11 @@
+{
+  "name": "odoorpc-cli",
+  "version": "0.1.1",
+  "summary": "Command-line tool for Odoo using xmlrpc",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoorpc_cli-0.1.1.tar.gz",
+  "download_time": "2026-05-09T10:47:05.224090",
+  "package_url": "https://pypi.org/project/odoorpc-cli/"
+}

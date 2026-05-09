@@ -1,11 +1,11 @@
 {
   "name": "csrd-migration",
-  "version": "0.5.17",
+  "version": "0.5.19",
   "summary": "Versioned schema migrations for csrd database adapters",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd_migration-0.5.17.tar.gz",
-  "download_time": "2026-05-08T20:18:18.675911",
+  "download_filename": "csrd_migration-0.5.19.tar.gz",
+  "download_time": "2026-05-09T10:47:02.000142",
   "package_url": "https://pypi.org/project/csrd-migration/"
 }

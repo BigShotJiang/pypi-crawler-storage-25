@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-hextra",
+  "version": "0.1.0.dev0",
+  "summary": "A Sphinx theme and directive set bringing the Hextra aesthetic to Sphinx, with sphinx-needs integration.",
+  "author": "Patrick Dahlke",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sphinx_hextra-0.1.0.dev0.tar.gz",
+  "download_time": "2026-05-09T10:47:24.631314",
+  "package_url": "https://pypi.org/project/sphinx-hextra/"
+}
