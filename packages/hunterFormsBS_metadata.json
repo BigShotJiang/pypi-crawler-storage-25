@@ -1,0 +1,11 @@
+{
+  "name": "hunterFormsBS",
+  "version": "0.1.0",
+  "summary": "Flexible frequency-band splitter for music source separation. The BandSplitRoformer module supports BSRoformer, MelBandRoformer, and custom overlapping or non-overlapping band configurations. Fully typed, modular, and documented, including migration help, usage, and paper references. PyTorch; CUDA-accelerated.",
+  "author": "Hunter Hogan, Phil Wang, Roman Solovyev (ZFTurbo)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hunterformsbs-0.1.0.tar.gz",
+  "download_time": "2026-05-09T01:34:13.403643",
+  "package_url": "https://pypi.org/project/hunterFormsBS/"
+}

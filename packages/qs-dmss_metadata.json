@@ -1,11 +1,11 @@
 {
   "name": "qs-dmss",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "Evidence-first reference package for the QuantumScalar Dark Matter Simulation Suite.",
   "author": "AI Bio Synergy Holdings LLC",
   "license": null,
   "home_page": null,
-  "download_filename": "qs_dmss-0.1.4.tar.gz",
-  "download_time": "2026-05-07T21:41:47.741742",
+  "download_filename": "qs_dmss-0.2.0.tar.gz",
+  "download_time": "2026-05-09T01:34:03.430994",
   "package_url": "https://pypi.org/project/qs-dmss/"
 }

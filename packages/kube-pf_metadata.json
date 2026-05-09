@@ -1,0 +1,11 @@
+{
+  "name": "kube-pf",
+  "version": "0.1.2",
+  "summary": "CLI for running and monitoring multiple kubectl port-forwards",
+  "author": "ohmycoffe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kube_pf-0.1.2.tar.gz",
+  "download_time": "2026-05-09T01:33:47.078894",
+  "package_url": "https://pypi.org/project/kube-pf/"
+}

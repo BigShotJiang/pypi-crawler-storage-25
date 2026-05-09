@@ -1,11 +1,11 @@
 {
   "name": "ompa",
-  "version": "0.3.0",
+  "version": "1.0.8",
   "summary": "Universal AI agent memory layer — vault + palace + temporal knowledge graph",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ompa-0.3.0.tar.gz",
-  "download_time": "2026-04-11T00:05:11.595840",
+  "download_filename": "ompa-1.0.8.tar.gz",
+  "download_time": "2026-05-09T01:33:41.814051",
   "package_url": "https://pypi.org/project/ompa/"
 }

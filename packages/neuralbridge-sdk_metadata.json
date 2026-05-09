@@ -1,11 +1,11 @@
 {
   "name": "neuralbridge-sdk",
-  "version": "0.2.0",
-  "summary": "Self-healing decision engine for AI APIs",
+  "version": "0.3.3",
+  "summary": "Self-healing engine for LLM APIs - Automatic fault diagnosis and 4-level cascade recovery",
   "author": null,
-  "license": "MIT",
+  "license": "Proprietary",
   "home_page": null,
-  "download_filename": "neuralbridge_sdk-0.2.0.tar.gz",
-  "download_time": "2026-05-08T10:05:12.368753",
+  "download_filename": "neuralbridge_sdk-0.3.3.tar.gz",
+  "download_time": "2026-05-09T01:33:39.710560",
   "package_url": "https://pypi.org/project/neuralbridge-sdk/"
 }

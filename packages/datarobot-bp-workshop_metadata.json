@@ -1,0 +1,11 @@
+{
+  "name": "datarobot-bp-workshop",
+  "version": "0.2.7.post1",
+  "summary": "This client library is designed to support building DataRobot blueprints.",
+  "author": "datarobot",
+  "license": "DataRobot Tool and Utility Agreement",
+  "home_page": "https://blueprint-workshop.datarobot.com",
+  "download_filename": "datarobot_bp_workshop-0.2.7.post1-py3-none-any.whl",
+  "download_time": "2026-05-09T01:33:52.904336",
+  "package_url": "https://pypi.org/project/datarobot-bp-workshop/"
+}

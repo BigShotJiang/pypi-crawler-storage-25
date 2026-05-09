@@ -1,0 +1,11 @@
+{
+  "name": "aethex",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for Aethex — multi-domain AI threat verification (cyber, finance, LLM safety) with explainable reasoning chains.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aethex-0.1.0.tar.gz",
+  "download_time": "2026-05-09T01:33:57.677406",
+  "package_url": "https://pypi.org/project/aethex/"
+}

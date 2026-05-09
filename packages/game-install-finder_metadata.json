@@ -1,0 +1,11 @@
+{
+  "name": "game-install-finder",
+  "version": "0.2.0",
+  "summary": "Find local game install paths across Steam, Heroic, and Lutris.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "game_install_finder-0.2.0.tar.gz",
+  "download_time": "2026-05-09T01:34:08.667765",
+  "package_url": "https://pypi.org/project/game-install-finder/"
+}

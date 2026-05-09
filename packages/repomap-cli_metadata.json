@@ -1,0 +1,11 @@
+{
+  "name": "repomap-cli",
+  "version": "1.0.0",
+  "summary": "Standalone RepoMap CLI with tree-sitter AST parsing, PageRank symbol ranking, impact analysis, and post-edit verification",
+  "author": "gjczone",
+  "license": null,
+  "home_page": null,
+  "download_filename": "repomap_cli-1.0.0.tar.gz",
+  "download_time": "2026-05-09T01:33:43.906714",
+  "package_url": "https://pypi.org/project/repomap-cli/"
+}

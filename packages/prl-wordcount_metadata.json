@@ -1,0 +1,11 @@
+{
+  "name": "prl-wordcount",
+  "version": "1.0.0",
+  "summary": "APS-compliant word count analyzer for Physical Review Letters LaTeX manuscripts",
+  "author": "Xingju Wang",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "prl_wordcount-1.0.0.tar.gz",
+  "download_time": "2026-05-09T01:34:00.292511",
+  "package_url": "https://pypi.org/project/prl-wordcount/"
+}

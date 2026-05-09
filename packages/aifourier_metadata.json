@@ -1,11 +1,11 @@
 {
   "name": "aifourier",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "summary": "AI-based Fourier Analysis using sinusoidal neural networks",
   "author": "Jovan",
   "license": null,
   "home_page": null,
-  "download_filename": "aifourier-0.4.1.tar.gz",
-  "download_time": "2026-05-08T23:01:13.282364",
+  "download_filename": "aifourier-0.4.3.tar.gz",
+  "download_time": "2026-05-09T01:34:24.641808",
   "package_url": "https://pypi.org/project/aifourier/"
 }
