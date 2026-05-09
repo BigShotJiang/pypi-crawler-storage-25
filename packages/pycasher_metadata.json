@@ -1,11 +1,11 @@
 {
   "name": "pycasher",
-  "version": "0.5.2",
+  "version": "0.5.5",
   "summary": "Cache function results and side effects (stdout, stderr, file writes) with automatic file I/O discovery via strace or audit hooks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycasher-0.5.2.tar.gz",
-  "download_time": "2026-05-09T15:08:07.390515",
+  "download_filename": "pycasher-0.5.5.tar.gz",
+  "download_time": "2026-05-09T18:01:16.397939",
   "package_url": "https://pypi.org/project/pycasher/"
 }

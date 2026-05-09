@@ -1,11 +1,11 @@
 {
   "name": "turbo-ea-capabilities",
-  "version": "2026.5.9.413",
+  "version": "2026.5.9.435",
   "summary": "Reference Business Capability catalogue for Turbo EA - bundled JSON, no network access required.",
   "author": "Turbo EA Maintainers",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "turbo_ea_capabilities-2026.5.9.413.tar.gz",
-  "download_time": "2026-05-09T15:08:26.641596",
+  "download_filename": "turbo_ea_capabilities-2026.5.9.435.tar.gz",
+  "download_time": "2026-05-09T18:01:57.968176",
   "package_url": "https://pypi.org/project/turbo-ea-capabilities/"
 }

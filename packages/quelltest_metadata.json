@@ -1,11 +1,11 @@
 {
   "name": "quelltest",
-  "version": "0.4.3",
+  "version": "0.5.0",
   "summary": "Your docstrings say what your code should do. Quell proves it.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quelltest-0.4.3.tar.gz",
-  "download_time": "2026-05-08T14:34:05.430975",
+  "download_filename": "quelltest-0.5.0.tar.gz",
+  "download_time": "2026-05-09T18:01:29.377299",
   "package_url": "https://pypi.org/project/quelltest/"
 }

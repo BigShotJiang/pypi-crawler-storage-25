@@ -1,11 +1,11 @@
 {
   "name": "spy-agent",
-  "version": "5.3.0",
-  "summary": "Advanced JS Miner & Secret Extractor Agent",
+  "version": "5.3.2",
+  "summary": "Spy-Agent: Advanced JS Miner",
   "author": "Zain Ali",
   "license": null,
   "home_page": null,
-  "download_filename": "spy_agent-5.3.0.tar.gz",
-  "download_time": "2026-05-09T11:35:10.399875",
+  "download_filename": "spy_agent-5.3.2.tar.gz",
+  "download_time": "2026-05-09T18:01:55.868343",
   "package_url": "https://pypi.org/project/spy-agent/"
 }

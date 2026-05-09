@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-microsoft-tasks",
+  "version": "0.4.0",
+  "summary": "MCP server for Microsoft Tasks (Planner + To Do, unified) — read-only by default, writes opt-in, never modifies tasks the agent didn't create.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_microsoft_tasks-0.4.0.tar.gz",
+  "download_time": "2026-05-09T18:01:28.336252",
+  "package_url": "https://pypi.org/project/mcp-server-microsoft-tasks/"
+}

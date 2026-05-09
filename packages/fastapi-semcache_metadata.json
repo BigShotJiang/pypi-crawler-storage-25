@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-semcache",
+  "version": "0.2.21",
+  "summary": "Drop in FastAPI middleware/reverse proxy with semantic caching for APIs & LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_semcache-0.2.21.tar.gz",
+  "download_time": "2026-05-09T18:01:37.742601",
+  "package_url": "https://pypi.org/project/fastapi-semcache/"
+}

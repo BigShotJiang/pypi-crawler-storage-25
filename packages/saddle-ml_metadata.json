@@ -1,11 +1,11 @@
 {
   "name": "saddle-ml",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "summary": "Use this package to make Machine Learn Algorithm more convenient ",
-  "author": "patrick",
+  "author": "patrickNi",
   "license": "MIT",
   "home_page": "https://novaexel.com/",
-  "download_filename": "saddle_ml-2.0.0-py3-none-any.whl",
-  "download_time": "2026-05-09T17:04:45.137822",
+  "download_filename": "saddle_ml-2.0.2-py3-none-any.whl",
+  "download_time": "2026-05-09T18:01:14.808692",
   "package_url": "https://pypi.org/project/saddle-ml/"
 }

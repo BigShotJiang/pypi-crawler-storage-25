@@ -1,11 +1,11 @@
 {
   "name": "promptify-cmax",
-  "version": "0.1.5",
+  "version": "0.3.0",
   "summary": "Call-graph-aware code context retrieval for AI coding agents (MCP server + CLI)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "promptify_cmax-0.1.5.tar.gz",
-  "download_time": "2026-05-08T06:32:46.330209",
+  "download_filename": "promptify_cmax-0.3.0.tar.gz",
+  "download_time": "2026-05-09T18:01:34.986690",
   "package_url": "https://pypi.org/project/promptify-cmax/"
 }

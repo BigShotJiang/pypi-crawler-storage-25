@@ -1,11 +1,11 @@
 {
   "name": "hypnex-staking",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "On-chain staking helpers for the Morpheus AI capital pool. Wraps DepositPool.stake() with referrer support (MRC 73 unlocked-MOR rewards).",
   "author": "Hypnex Labs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hypnex_staking-0.1.0.tar.gz",
-  "download_time": "2026-05-08T23:00:59.388041",
+  "download_filename": "hypnex_staking-0.2.1.tar.gz",
+  "download_time": "2026-05-09T18:01:25.975342",
   "package_url": "https://pypi.org/project/hypnex-staking/"
 }

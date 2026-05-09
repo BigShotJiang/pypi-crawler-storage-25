@@ -1,0 +1,11 @@
+{
+  "name": "specops-ai",
+  "version": "0.2.0",
+  "summary": "Framework-agnostic, OTel-native toolkit for reliable, evaluatable, debuggable, and self-healing LLM agents in production",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "specops_ai-0.2.0.tar.gz",
+  "download_time": "2026-05-09T18:01:15.863978",
+  "package_url": "https://pypi.org/project/specops-ai/"
+}
