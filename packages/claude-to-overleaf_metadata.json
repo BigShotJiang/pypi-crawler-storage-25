@@ -1,0 +1,11 @@
+{
+  "name": "claude-to-overleaf",
+  "version": "0.3.0",
+  "summary": "Sync a local Git repo to an Overleaf project — designed for prompt-driven invocation by Claude Code.",
+  "author": "Saeed Rezaee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_to_overleaf-0.3.0.tar.gz",
+  "download_time": "2026-05-09T22:58:50.250247",
+  "package_url": "https://pypi.org/project/claude-to-overleaf/"
+}

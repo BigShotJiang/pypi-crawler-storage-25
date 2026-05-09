@@ -1,0 +1,11 @@
+{
+  "name": "vdl",
+  "version": "1.0.2",
+  "summary": "A local-first media workflow toolkit for downloads, playlists, and automation through CLI and MCP interfaces",
+  "author": "Temiloluwa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vdl-1.0.2.tar.gz",
+  "download_time": "2026-05-09T22:59:12.934887",
+  "package_url": "https://pypi.org/project/vdl/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "serverside-pivot",
-  "version": "0.0.74",
+  "version": "0.0.75",
   "summary": "A Dash component library for enterprise-grade pivot tables built with TanStack Table v8",
   "author": "Ramzy",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "serverside_pivot-0.0.74.tar.gz",
-  "download_time": "2026-05-09T16:01:46.278740",
+  "download_filename": "serverside_pivot-0.0.75.tar.gz",
+  "download_time": "2026-05-09T22:59:11.874037",
   "package_url": "https://pypi.org/project/serverside-pivot/"
 }

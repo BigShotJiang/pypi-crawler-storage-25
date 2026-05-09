@@ -1,0 +1,11 @@
+{
+  "name": "hypnex-forge",
+  "version": "0.2.1",
+  "summary": "Python SDK for Forge — the paid tool registry on Morpheus AI (MRC 60). Phase 1 listing rail + Phase 3 pre-paid escrow with relayer-attested per-call settlement on Arbitrum + Base.",
+  "author": "Hypnex Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hypnex_forge-0.2.1.tar.gz",
+  "download_time": "2026-05-09T22:59:07.715067",
+  "package_url": "https://pypi.org/project/hypnex-forge/"
+}

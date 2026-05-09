@@ -1,0 +1,11 @@
+{
+  "name": "ultracompress",
+  "version": "0.5.5",
+  "summary": "Lossless 5-bit transformer compression — 8 architectures (1.7B–70B, dense + MoE) at sub-1% PPL degradation. Customer-distributable via `uc pack v0.3`.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ultracompress-0.5.5.tar.gz",
+  "download_time": "2026-05-09T22:58:58.531845",
+  "package_url": "https://pypi.org/project/ultracompress/"
+}

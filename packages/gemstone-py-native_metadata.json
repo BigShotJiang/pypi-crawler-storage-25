@@ -1,0 +1,11 @@
+{
+  "name": "gemstone-py-native",
+  "version": "0.1.2",
+  "summary": "Optional PyO3 native fast path for gemstone-py.",
+  "author": "gemstone-py contributors",
+  "license": null,
+  "home_page": "https://github.com/unicompute/gemstone-py",
+  "download_filename": "gemstone_py_native-0.1.2.tar.gz",
+  "download_time": "2026-05-09T22:58:46.143883",
+  "package_url": "https://pypi.org/project/gemstone-py-native/"
+}

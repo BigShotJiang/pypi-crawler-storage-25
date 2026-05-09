@@ -1,0 +1,11 @@
+{
+  "name": "ciphertoken",
+  "version": "0.1.2",
+  "summary": "High-performance token and crypto utilities written in Rust with PyO3",
+  "author": "Cipher-Unit",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ciphertoken-0.1.2-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-09T22:59:08.230320",
+  "package_url": "https://pypi.org/project/ciphertoken/"
+}

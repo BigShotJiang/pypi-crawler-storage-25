@@ -1,11 +1,11 @@
 {
   "name": "scrybe-mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Scrybe MCP server — standalone inbound MCP server (binary wheel)",
   "author": null,
   "license": "Apache-2.0",
-  "home_page": null,
-  "download_filename": "scrybe_mcp_server-0.1.0.tar.gz",
-  "download_time": "2026-05-09T21:06:59.866245",
+  "home_page": "https://github.com/hartsock/scrybe",
+  "download_filename": "scrybe_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-05-09T22:59:01.592078",
   "package_url": "https://pypi.org/project/scrybe-mcp-server/"
 }

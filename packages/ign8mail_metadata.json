@@ -1,0 +1,11 @@
+{
+  "name": "ign8mail",
+  "version": "2.0.0",
+  "summary": "Spin up a fully configured mail server in minutes — Hetzner Cloud infra, Cloudflare DNS, all from one CLI command.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ign8mail-2.0.0-py3-none-any.whl",
+  "download_time": "2026-05-09T22:59:03.121166",
+  "package_url": "https://pypi.org/project/ign8mail/"
+}
