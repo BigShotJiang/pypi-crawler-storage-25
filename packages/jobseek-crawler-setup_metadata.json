@@ -1,11 +1,11 @@
 {
   "name": "jobseek-crawler-setup",
-  "version": "0.11.19",
+  "version": "0.11.25",
   "summary": "Workspace CLI for configuring jobseek-crawler companies",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jobseek_crawler_setup-0.11.19-py3-none-any.whl",
-  "download_time": "2026-05-08T14:34:04.909053",
+  "download_filename": "jobseek_crawler_setup-0.11.25-py3-none-any.whl",
+  "download_time": "2026-05-09T16:02:26.383955",
   "package_url": "https://pypi.org/project/jobseek-crawler-setup/"
 }

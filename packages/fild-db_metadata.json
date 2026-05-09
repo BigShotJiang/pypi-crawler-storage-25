@@ -1,0 +1,11 @@
+{
+  "name": "fild-db",
+  "version": "0.1.1",
+  "summary": "[DEPRECATED] Use surety-db instead. Operate with DB records using fild library",
+  "author": "Elena Kulgavaya",
+  "license": null,
+  "home_page": "https://github.com/elenakulgavaya/fild-db",
+  "download_filename": "fild_db-0.1.1.tar.gz",
+  "download_time": "2026-05-09T16:02:06.328054",
+  "package_url": "https://pypi.org/project/fild-db/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "recon-tool",
-  "version": "1.9.2.2",
+  "version": "1.9.3",
   "summary": "Domain intelligence CLI and MCP server — tech stack, email security, and signal intelligence from DNS.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "recon_tool-1.9.2.2.tar.gz",
-  "download_time": "2026-05-09T01:34:00.817450",
+  "download_filename": "recon_tool-1.9.3.tar.gz",
+  "download_time": "2026-05-09T16:01:51.417964",
   "package_url": "https://pypi.org/project/recon-tool/"
 }

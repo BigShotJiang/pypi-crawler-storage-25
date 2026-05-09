@@ -1,11 +1,11 @@
 {
   "name": "skylos",
-  "version": "4.6.0",
-  "summary": "Open-source AI code security and static analysis for Python, TypeScript, and Go. Finds dead code, secrets, vulnerabilities, and diff-aware regressions.",
+  "version": "4.13.0",
+  "summary": "Open-source AI code security and static analysis for Python, TypeScript/JavaScript, Go, Java, PHP, Rust, and Dart. Finds dead code, secrets, vulnerabilities, and diff-aware regressions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "skylos-4.6.0.tar.gz",
-  "download_time": "2026-04-26T10:19:40.537243",
+  "download_filename": "skylos-4.13.0.tar.gz",
+  "download_time": "2026-05-09T16:02:22.253624",
   "package_url": "https://pypi.org/project/skylos/"
 }

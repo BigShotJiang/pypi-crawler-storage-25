@@ -1,11 +1,11 @@
 {
   "name": "retro-data-structures",
-  "version": "0.38.0",
+  "version": "0.40.0",
   "summary": "Construct file definitions for the Retro Studios game engine files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "retro_data_structures-0.38.0.tar.gz",
-  "download_time": "2026-05-07T23:46:19.960117",
+  "download_filename": "retro_data_structures-0.40.0.tar.gz",
+  "download_time": "2026-05-09T16:01:49.361963",
   "package_url": "https://pypi.org/project/retro-data-structures/"
 }
