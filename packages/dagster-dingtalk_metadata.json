@@ -1,0 +1,11 @@
+{
+  "name": "dagster-dingtalk",
+  "version": "0.29.4.0",
+  "summary": "A dagster plugin for the DingTalk",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagster_dingtalk-0.29.4.0.tar.gz",
+  "download_time": "2026-05-09T15:08:42.654641",
+  "package_url": "https://pypi.org/project/dagster-dingtalk/"
+}

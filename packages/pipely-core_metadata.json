@@ -1,0 +1,11 @@
+{
+  "name": "pipely-core",
+  "version": "0.1.1",
+  "summary": "Embedded async pipeline engine for FastAPI",
+  "author": "Pipely Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pipely_core-0.1.1.tar.gz",
+  "download_time": "2026-05-09T15:08:00.706749",
+  "package_url": "https://pypi.org/project/pipely-core/"
+}

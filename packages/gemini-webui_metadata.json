@@ -1,0 +1,11 @@
+{
+  "name": "gemini-webui",
+  "version": "0.1.0",
+  "summary": "Programmatic access to Google Gemini via web UI automation",
+  "author": "Gemini WebUI Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gemini_webui-0.1.0.tar.gz",
+  "download_time": "2026-05-09T15:08:08.086458",
+  "package_url": "https://pypi.org/project/gemini-webui/"
+}

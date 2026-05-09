@@ -1,0 +1,11 @@
+{
+  "name": "LSMS_Library",
+  "version": "0.7.2",
+  "summary": "Abstraction layer for Living Standards Measurement Survey data",
+  "author": "Ethan Ligon",
+  "license": "CC-BY-4.0",
+  "home_page": "https://github.com/ligon/LSMS_Library",
+  "download_filename": "lsms_library-0.7.2.tar.gz",
+  "download_time": "2026-05-09T15:08:00.026944",
+  "package_url": "https://pypi.org/project/LSMS_Library/"
+}

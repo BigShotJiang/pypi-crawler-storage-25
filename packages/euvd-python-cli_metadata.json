@@ -1,0 +1,11 @@
+{
+  "name": "euvd-python-cli",
+  "version": "1.0.2",
+  "summary": "A Python CLI tool for querying the ENISA EU Vulnerability Database (EUVD) API",
+  "author": "Marc Rivero Lopez",
+  "license": null,
+  "home_page": "https://github.com/seifreed/euvd-cli",
+  "download_filename": "euvd_python_cli-1.0.2.tar.gz",
+  "download_time": "2026-05-09T15:08:26.106688",
+  "package_url": "https://pypi.org/project/euvd-python-cli/"
+}

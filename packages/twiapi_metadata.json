@@ -1,0 +1,11 @@
+{
+  "name": "twiapi",
+  "version": "1.0.0",
+  "summary": "Unofficial Twitter/X data API client — search tweets, get followers, trends, user profiles.",
+  "author": "TwiAPI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "twiapi-1.0.0.tar.gz",
+  "download_time": "2026-05-09T15:08:17.657968",
+  "package_url": "https://pypi.org/project/twiapi/"
+}

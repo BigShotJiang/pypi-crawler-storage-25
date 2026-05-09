@@ -1,11 +1,11 @@
 {
   "name": "haco",
-  "version": "0.2.1",
+  "version": "0.3.8",
   "summary": "Home Assistant Control Objects",
-  "author": "Frontmatter AI",
-  "license": "Copyright © 2026 Frontmatter AI. All rights reserved.",
-  "home_page": "https://github.com/fmtr/haco",
-  "download_filename": "haco-0.2.1.tar.gz",
-  "download_time": "2026-04-29T09:54:40.628814",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "haco-0.3.8.tar.gz",
+  "download_time": "2026-05-09T15:08:05.372098",
   "package_url": "https://pypi.org/project/haco/"
 }

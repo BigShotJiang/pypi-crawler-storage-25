@@ -1,0 +1,11 @@
+{
+  "name": "bnlish",
+  "version": "1.0.1",
+  "summary": "English to Bengali transliteration library",
+  "author": "Debashish Roy",
+  "license": null,
+  "home_page": "https://github.com/thedeba/banglish",
+  "download_filename": "bnlish-1.0.1.tar.gz",
+  "download_time": "2026-05-09T15:08:33.326830",
+  "package_url": "https://pypi.org/project/bnlish/"
+}

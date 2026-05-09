@@ -1,11 +1,11 @@
 {
   "name": "iron-monk",
-  "version": "0.28.0",
+  "version": "0.29.0",
   "summary": "A minimalist, zero-coercion validation library for Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iron_monk-0.28.0.tar.gz",
-  "download_time": "2026-05-09T14:04:28.686794",
+  "download_filename": "iron_monk-0.29.0.tar.gz",
+  "download_time": "2026-05-09T15:08:38.458636",
   "package_url": "https://pypi.org/project/iron-monk/"
 }
