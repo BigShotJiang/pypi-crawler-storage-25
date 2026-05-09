@@ -1,11 +1,11 @@
 {
   "name": "etzchaim",
-  "version": "0.2.48",
+  "version": "0.2.60",
   "summary": "Cognitive Operating System for LLM agents — 10 cognitive faculties, 6 mature configurations, 13 rectification mechanisms, 1696 specification items. One-command install via Docker Compose.",
   "author": "Etz Chaim AI Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "etzchaim-0.2.48.tar.gz",
-  "download_time": "2026-05-09T12:11:31.643489",
+  "download_filename": "etzchaim-0.2.60.tar.gz",
+  "download_time": "2026-05-09T14:04:06.554437",
   "package_url": "https://pypi.org/project/etzchaim/"
 }

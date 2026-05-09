@@ -1,11 +1,11 @@
 {
   "name": "pyrecest",
-  "version": "2.0.0",
+  "version": "2.2.0",
   "summary": "Framework for recursive Bayesian estimation in Python.",
   "author": "Florian Pfaff",
   "license": null,
   "home_page": null,
-  "download_filename": "pyrecest-2.0.0.tar.gz",
-  "download_time": "2026-05-04T16:33:18.419233",
+  "download_filename": "pyrecest-2.2.0.tar.gz",
+  "download_time": "2026-05-09T14:04:09.641112",
   "package_url": "https://pypi.org/project/pyrecest/"
 }

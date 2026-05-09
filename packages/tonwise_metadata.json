@@ -1,11 +1,11 @@
 {
   "name": "tonwise",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Python SDK for TonWise — Trust & Safety API for the TON blockchain",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tonwise-0.1.0.tar.gz",
-  "download_time": "2026-05-07T23:46:41.123325",
+  "download_filename": "tonwise-0.2.0.tar.gz",
+  "download_time": "2026-05-09T14:04:08.109152",
   "package_url": "https://pypi.org/project/tonwise/"
 }

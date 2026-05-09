@@ -1,0 +1,11 @@
+{
+  "name": "ultyas",
+  "version": "1.1.1",
+  "summary": "A tool for converting code snippets from Ultisnips to YASnippet format",
+  "author": "James Cherti",
+  "license": null,
+  "home_page": "https://github.com/jamescherti/ultyas",
+  "download_filename": "ultyas-1.1.1.tar.gz",
+  "download_time": "2026-05-09T14:03:54.255490",
+  "package_url": "https://pypi.org/project/ultyas/"
+}

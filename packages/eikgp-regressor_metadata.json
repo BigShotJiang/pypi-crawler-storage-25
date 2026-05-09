@@ -1,0 +1,11 @@
+{
+  "name": "eikgp-regressor",
+  "version": "0.1.1",
+  "summary": "Numerically stable EIKG polynomial regressors",
+  "author": "EIKG Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eikgp_regressor-0.1.1.tar.gz",
+  "download_time": "2026-05-09T14:03:53.743204",
+  "package_url": "https://pypi.org/project/eikgp-regressor/"
+}

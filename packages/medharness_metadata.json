@@ -1,11 +1,11 @@
 {
   "name": "medharness",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Open-source design-controlled development infrastructure for medical device and SaMD teams — includes dhfkit",
   "author": "MedHarness Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "medharness-0.3.1.tar.gz",
-  "download_time": "2026-05-08T17:38:10.521593",
+  "download_filename": "medharness-0.3.3.tar.gz",
+  "download_time": "2026-05-09T14:04:17.917973",
   "package_url": "https://pypi.org/project/medharness/"
 }

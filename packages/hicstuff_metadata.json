@@ -1,0 +1,11 @@
+{
+  "name": "hicstuff",
+  "version": "3.2.5",
+  "summary": "General purpose stuff to generate and handle Hi-C data in its simplest form.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "hicstuff-3.2.5.tar.gz",
+  "download_time": "2026-05-09T14:03:57.343536",
+  "package_url": "https://pypi.org/project/hicstuff/"
+}

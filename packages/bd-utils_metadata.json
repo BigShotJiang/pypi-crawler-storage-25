@@ -1,0 +1,11 @@
+{
+  "name": "bd-utils",
+  "version": "0.1.1",
+  "summary": "Databricks dbutils-compatible adapter for local and Databricks runtimes.",
+  "author": "bd-utils contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bd_utils-0.1.1.tar.gz",
+  "download_time": "2026-05-09T14:04:16.356147",
+  "package_url": "https://pypi.org/project/bd-utils/"
+}

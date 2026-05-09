@@ -1,0 +1,11 @@
+{
+  "name": "pymwemu",
+  "version": "0.11.2",
+  "summary": "x86 32/64bits and system internals emulator, for securely emulating malware and other stuff.",
+  "author": null,
+  "license": null,
+  "home_page": "http://mwemu.github.io/#pymwemu",
+  "download_filename": "pymwemu-0.11.2.tar.gz",
+  "download_time": "2026-05-09T14:04:26.134733",
+  "package_url": "https://pypi.org/project/pymwemu/"
+}
