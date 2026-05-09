@@ -1,11 +1,11 @@
 {
   "name": "cultureagent",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "cultureagent — agent runtime for the Culture mesh.",
   "author": "AgentCulture",
   "license": null,
   "home_page": null,
-  "download_filename": "cultureagent-0.1.0.tar.gz",
-  "download_time": "2026-05-09T04:57:34.483904",
+  "download_filename": "cultureagent-0.1.2.tar.gz",
+  "download_time": "2026-05-09T20:11:28.072258",
   "package_url": "https://pypi.org/project/cultureagent/"
 }

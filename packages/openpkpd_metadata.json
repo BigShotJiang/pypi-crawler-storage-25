@@ -1,11 +1,11 @@
 {
   "name": "openpkpd",
-  "version": "0.2.3",
+  "version": "0.2.9",
   "summary": "Open-source Python toolkit for population PK/PD analyses",
   "author": null,
   "license": "AGPL-3.0-or-later",
-  "home_page": "https://gitlab.com/breisfeld/OpenPKPD",
-  "download_filename": "openpkpd-0.2.3.tar.gz",
-  "download_time": "2026-03-28T16:33:26.471262",
+  "home_page": "https://github.com/breisfeld/OpenPKPD",
+  "download_filename": "openpkpd-0.2.9.tar.gz",
+  "download_time": "2026-05-09T20:11:31.179905",
   "package_url": "https://pypi.org/project/openpkpd/"
 }

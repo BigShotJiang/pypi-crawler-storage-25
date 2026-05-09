@@ -1,11 +1,11 @@
 {
   "name": "models-dev",
-  "version": "1.0.349",
+  "version": "1.0.358",
   "summary": "Typed Python interface to models.dev API data",
   "author": "vklmn",
   "license": null,
   "home_page": null,
-  "download_filename": "models_dev-1.0.349.tar.gz",
-  "download_time": "2026-05-07T11:04:09.153810",
+  "download_filename": "models_dev-1.0.358.tar.gz",
+  "download_time": "2026-05-09T20:11:54.007828",
   "package_url": "https://pypi.org/project/models-dev/"
 }

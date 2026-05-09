@@ -1,0 +1,11 @@
+{
+  "name": "z3rno-core",
+  "version": "0.3.1",
+  "summary": "Core memory engine for Z3rno: PostgreSQL schema, SQLAlchemy models, Alembic migrations, and the store/recall/forget/audit library functions.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "z3rno_core-0.3.1.tar.gz",
+  "download_time": "2026-05-09T20:11:52.979712",
+  "package_url": "https://pypi.org/project/z3rno-core/"
+}

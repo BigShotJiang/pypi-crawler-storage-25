@@ -1,0 +1,11 @@
+{
+  "name": "dvr-scan-headless",
+  "version": "1.8.2.1",
+  "summary": "Tool for finding and extracting motion events in video files (e.g. security camera footage).",
+  "author": "Brandon Castellano",
+  "license": "BSD-2-Clause",
+  "home_page": "https://www.dvr-scan.com/",
+  "download_filename": "dvr_scan_headless-1.8.2.1.tar.gz",
+  "download_time": "2026-05-09T20:11:32.722360",
+  "package_url": "https://pypi.org/project/dvr-scan-headless/"
+}

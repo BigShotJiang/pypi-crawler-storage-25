@@ -1,0 +1,11 @@
+{
+  "name": "quiverfeed",
+  "version": "0.1.0",
+  "summary": "Point-in-time-safe Python client for Quiver Quantitative data",
+  "author": "quiverfeed contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quiverfeed-0.1.0.tar.gz",
+  "download_time": "2026-05-09T20:11:26.023292",
+  "package_url": "https://pypi.org/project/quiverfeed/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "musickit",
-  "version": "0.13.10",
+  "version": "0.13.12",
   "summary": "Self-hosted music toolkit: convert / audit / retag rips into a clean tagged library, browse + play via a Textual TUI (local / internet radio / Subsonic-client / AirPlay), and stream over Tailscale via a Subsonic-compatible HTTP server.",
   "author": "Morten Hansen",
   "license": null,
   "home_page": null,
-  "download_filename": "musickit-0.13.10.tar.gz",
-  "download_time": "2026-05-09T18:01:36.716688",
+  "download_filename": "musickit-0.13.12.tar.gz",
+  "download_time": "2026-05-09T20:11:48.869145",
   "package_url": "https://pypi.org/project/musickit/"
 }

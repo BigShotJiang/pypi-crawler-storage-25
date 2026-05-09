@@ -1,11 +1,11 @@
 {
   "name": "bqseine",
-  "version": "4.5.0",
+  "version": "4.8.0",
   "summary": "ETL for BigQuery",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bqseine-4.5.0.tar.gz",
-  "download_time": "2026-05-09T19:23:40.888258",
+  "download_filename": "bqseine-4.8.0.tar.gz",
+  "download_time": "2026-05-09T20:11:27.049345",
   "package_url": "https://pypi.org/project/bqseine/"
 }

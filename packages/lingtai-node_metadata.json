@@ -1,0 +1,11 @@
+{
+  "name": "lingtai-node",
+  "version": "0.1.0",
+  "summary": "LingTai Node MCP server — enables non-LingTai runtimes to participate in the LingTai agent network",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lingtai_node-0.1.0.tar.gz",
+  "download_time": "2026-05-09T20:11:47.832578",
+  "package_url": "https://pypi.org/project/lingtai-node/"
+}
