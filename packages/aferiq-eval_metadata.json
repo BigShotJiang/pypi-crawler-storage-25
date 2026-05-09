@@ -1,0 +1,11 @@
+{
+  "name": "aferiq-eval",
+  "version": "0.2.1",
+  "summary": "Quality observability for RAG and agents — Brazilian-Portuguese vertical with claim-by-claim hallucination diagnosis, trajectory quality, tool-use correctness, and goal completion metrics.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "aferiq_eval-0.2.1.tar.gz",
+  "download_time": "2026-05-09T12:11:21.148149",
+  "package_url": "https://pypi.org/project/aferiq-eval/"
+}

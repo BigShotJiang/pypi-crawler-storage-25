@@ -1,0 +1,11 @@
+{
+  "name": "easyenergy",
+  "version": "3.0.1",
+  "summary": "Asynchronous Python client providing energy/gas prices from easyEnergy",
+  "author": "Klaas Schoute",
+  "license": null,
+  "home_page": null,
+  "download_filename": "easyenergy-3.0.1.tar.gz",
+  "download_time": "2026-05-09T12:11:56.795488",
+  "package_url": "https://pypi.org/project/easyenergy/"
+}

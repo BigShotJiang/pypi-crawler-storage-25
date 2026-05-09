@@ -1,0 +1,11 @@
+{
+  "name": "quickfix",
+  "version": "1.16.0",
+  "summary": "FIX (Financial Information eXchange) protocol implementation",
+  "author": "Oren Miller",
+  "license": null,
+  "home_page": "http://www.quickfixengine.org",
+  "download_filename": "quickfix-1.16.0.tar.gz",
+  "download_time": "2026-05-09T12:11:32.183810",
+  "package_url": "https://pypi.org/project/quickfix/"
+}

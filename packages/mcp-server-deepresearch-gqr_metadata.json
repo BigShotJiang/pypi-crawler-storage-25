@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-deepresearch-gqr",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "实现类deepresearch功能的MCP工具",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_deepresearch_gqr-0.2.0.tar.gz",
-  "download_time": "2026-05-09T11:35:15.076614",
+  "download_filename": "mcp_server_deepresearch_gqr-0.2.1.tar.gz",
+  "download_time": "2026-05-09T12:11:44.162242",
   "package_url": "https://pypi.org/project/mcp-server-deepresearch-gqr/"
 }

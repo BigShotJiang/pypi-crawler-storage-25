@@ -1,11 +1,11 @@
 {
   "name": "sqlmodel-nexus",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "GraphQL SDL generation and query optimization for SQLModel",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sqlmodel_nexus-1.5.0.tar.gz",
-  "download_time": "2026-05-09T09:01:33.676363",
+  "download_filename": "sqlmodel_nexus-1.6.0.tar.gz",
+  "download_time": "2026-05-09T12:11:50.988229",
   "package_url": "https://pypi.org/project/sqlmodel-nexus/"
 }

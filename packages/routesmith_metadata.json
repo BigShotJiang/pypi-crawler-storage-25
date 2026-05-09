@@ -1,0 +1,11 @@
+{
+  "name": "routesmith",
+  "version": "0.1.8",
+  "summary": "Auto-route coding agent tasks to the best model in your IDE. Python library + MCP server for Claude Code, Codex, Gemini CLI, Copilot, Cursor, and Aider.",
+  "author": "routesmith contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "routesmith-0.1.8.tar.gz",
+  "download_time": "2026-05-09T12:11:34.790578",
+  "package_url": "https://pypi.org/project/routesmith/"
+}

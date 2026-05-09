@@ -1,11 +1,11 @@
 {
   "name": "pyros-performance",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "ROS2-friendly function performance profiler",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyros_performance-0.1.1-py3-none-any.whl",
-  "download_time": "2026-05-08T08:21:36.858069",
+  "download_filename": "pyros_performance-0.1.4.tar.gz",
+  "download_time": "2026-05-09T12:11:20.628394",
   "package_url": "https://pypi.org/project/pyros-performance/"
 }
