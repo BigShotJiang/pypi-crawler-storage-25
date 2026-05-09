@@ -1,0 +1,11 @@
+{
+  "name": "myerson",
+  "version": "1.0.0",
+  "summary": "A python package to calculate Myerson values from game theory and use them as explanations for graph neural networks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "myerson-1.0.0.tar.gz",
+  "download_time": "2026-05-09T19:23:06.761391",
+  "package_url": "https://pypi.org/project/myerson/"
+}

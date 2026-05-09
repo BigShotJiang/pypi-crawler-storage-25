@@ -1,0 +1,11 @@
+{
+  "name": "salp-rs",
+  "version": "0.1.0",
+  "summary": "A Rust library with a python wrapper that allows fetching and (processing) big PDB data via queries by communicating with the RCSB API ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "salp_rs-0.1.0-cp310-cp310-win_amd64.whl",
+  "download_time": "2026-05-09T19:23:34.878516",
+  "package_url": "https://pypi.org/project/salp-rs/"
+}

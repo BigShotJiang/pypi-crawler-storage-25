@@ -1,11 +1,11 @@
 {
   "name": "acprouter",
-  "version": "0.1.0",
-  "summary": "silence is golden",
-  "author": null,
-  "license": null,
+  "version": "0.2.0",
+  "summary": "ACP remote control surface for Telegram etc.",
+  "author": "Mert",
+  "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "acprouter-0.1.0.tar.gz",
-  "download_time": "2026-04-18T23:40:23.900023",
+  "download_filename": "acprouter-0.2.0.tar.gz",
+  "download_time": "2026-05-09T19:23:32.833624",
   "package_url": "https://pypi.org/project/acprouter/"
 }

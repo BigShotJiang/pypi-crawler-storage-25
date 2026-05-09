@@ -1,11 +1,11 @@
 {
   "name": "claude-mirror",
-  "version": "0.5.60",
+  "version": "0.5.62",
   "summary": "Mirror & sync Claude Code project markdown across machines + cloud backends (Google Drive, Dropbox, OneDrive, WebDAV, SFTP) with snapshots and Tier 2 multi-backend",
   "author": "Alessio Bravi",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "claude_mirror-0.5.60.tar.gz",
-  "download_time": "2026-05-09T18:01:42.694337",
+  "download_filename": "claude_mirror-0.5.62.tar.gz",
+  "download_time": "2026-05-09T19:23:03.698328",
   "package_url": "https://pypi.org/project/claude-mirror/"
 }

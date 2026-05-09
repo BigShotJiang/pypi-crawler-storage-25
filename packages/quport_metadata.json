@@ -1,0 +1,11 @@
+{
+  "name": "quport",
+  "version": "0.1.0",
+  "summary": "Research-grade multi-QPU mapping, routing, and benchmarking toolkit for NISQ circuit partitioning in Qiskit.",
+  "author": "Soumyadip Sarkar",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "quport-0.1.0.tar.gz",
+  "download_time": "2026-05-09T19:23:09.439652",
+  "package_url": "https://pypi.org/project/quport/"
+}

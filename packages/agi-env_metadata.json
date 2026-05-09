@@ -1,11 +1,11 @@
 {
   "name": "agi-env",
-  "version": "2026.5.5",
+  "version": "2026.5.9",
   "summary": "Environment bootstrap package for AGILAB with virtualenv, path, and runtime helpers",
   "author": "Jean-Pierre Morard",
   "license": null,
   "home_page": null,
-  "download_filename": "agi_env-2026.5.5.tar.gz",
-  "download_time": "2026-05-05T21:25:14.878993",
+  "download_filename": "agi_env-2026.5.9.tar.gz",
+  "download_time": "2026-05-09T19:23:40.377512",
   "package_url": "https://pypi.org/project/agi-env/"
 }

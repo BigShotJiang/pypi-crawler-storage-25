@@ -1,0 +1,11 @@
+{
+  "name": "steam-page-stats",
+  "version": "0.1.1",
+  "summary": "Fetch a Steam game's public page stats + apply the Boxleiter wishlist→revenue rule of thumb. The honest version: a heuristic with documented limits.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "steam_page_stats-0.1.1.tar.gz",
+  "download_time": "2026-05-09T19:23:08.931065",
+  "package_url": "https://pypi.org/project/steam-page-stats/"
+}

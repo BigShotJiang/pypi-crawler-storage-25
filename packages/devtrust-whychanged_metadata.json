@@ -1,0 +1,11 @@
+{
+  "name": "devtrust-whychanged",
+  "version": "0.1.0",
+  "summary": "Production diff-detective: when something breaks, what actually changed?",
+  "author": "Abdullah Bakir",
+  "license": null,
+  "home_page": null,
+  "download_filename": "devtrust_whychanged-0.1.0.tar.gz",
+  "download_time": "2026-05-09T19:23:39.801367",
+  "package_url": "https://pypi.org/project/devtrust-whychanged/"
+}

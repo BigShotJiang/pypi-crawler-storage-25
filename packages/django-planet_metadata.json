@@ -1,0 +1,11 @@
+{
+  "name": "django-planet",
+  "version": "1.1.0",
+  "summary": "A django planet and feeds (RSS and ATOM) aggregator application for Django.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_planet-1.1.0.tar.gz",
+  "download_time": "2026-05-09T19:23:03.186022",
+  "package_url": "https://pypi.org/project/django-planet/"
+}

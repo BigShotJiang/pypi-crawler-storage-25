@@ -1,11 +1,11 @@
 {
   "name": "smxadk",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "SyntaxMatrix Agent Development Kit for calling deployed SyntaxMatrix Agent Services.",
   "author": "SyntaxMatrix",
   "license": null,
   "home_page": null,
-  "download_filename": "smxadk-0.1.2.tar.gz",
-  "download_time": "2026-05-09T11:35:10.909485",
+  "download_filename": "smxadk-0.1.3.tar.gz",
+  "download_time": "2026-05-09T19:23:20.293340",
   "package_url": "https://pypi.org/project/smxadk/"
 }
