@@ -1,0 +1,11 @@
+{
+  "name": "aiotrace",
+  "version": "0.1.0",
+  "summary": "OpenTelemetry-native async context propagation for asyncio",
+  "author": "aiotrace contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiotrace-0.1.0.tar.gz",
+  "download_time": "2026-05-09T07:17:11.718171",
+  "package_url": "https://pypi.org/project/aiotrace/"
+}

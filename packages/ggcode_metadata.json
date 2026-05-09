@@ -1,11 +1,11 @@
 {
   "name": "ggcode",
-  "version": "1.1.87",
+  "version": "1.2.1",
   "summary": "Thin Python wrapper that installs the ggcode GitHub Release binary",
   "author": "topcheer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ggcode-1.1.87.tar.gz",
-  "download_time": "2026-05-06T11:31:47.163791",
+  "download_filename": "ggcode-1.2.1.tar.gz",
+  "download_time": "2026-05-09T07:17:35.620087",
   "package_url": "https://pypi.org/project/ggcode/"
 }

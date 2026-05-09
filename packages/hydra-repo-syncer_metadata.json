@@ -1,0 +1,11 @@
+{
+  "name": "hydra-repo-syncer",
+  "version": "0.0.4",
+  "summary": "Provision a repo across self-hosted GitLab, GitLab.com, and GitHub with push mirroring.",
+  "author": "aanand",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hydra_repo_syncer-0.0.4.tar.gz",
+  "download_time": "2026-05-09T07:17:08.620690",
+  "package_url": "https://pypi.org/project/hydra-repo-syncer/"
+}

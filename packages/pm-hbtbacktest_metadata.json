@@ -1,0 +1,11 @@
+{
+  "name": "pm-hbtbacktest",
+  "version": "1.0.1",
+  "summary": "A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pm_hbtbacktest-1.0.1-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-09T07:17:41.323978",
+  "package_url": "https://pypi.org/project/pm-hbtbacktest/"
+}

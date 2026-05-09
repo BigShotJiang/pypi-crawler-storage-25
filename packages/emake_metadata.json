@@ -1,11 +1,11 @@
 {
   "name": "emake",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "summary": "A Python module to replace Makefile workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "emake-0.0.18.tar.gz",
-  "download_time": "2026-05-09T04:57:31.285478",
+  "download_filename": "emake-0.0.19.tar.gz",
+  "download_time": "2026-05-09T07:17:52.665058",
   "package_url": "https://pypi.org/project/emake/"
 }

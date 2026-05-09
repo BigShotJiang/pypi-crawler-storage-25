@@ -1,11 +1,11 @@
 {
   "name": "pulumi-juniper-mist",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "summary": "A Pulumi package for creating and managing Juniper Mist resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_juniper_mist-0.8.1.tar.gz",
-  "download_time": "2026-04-10T16:54:54.515514",
+  "download_filename": "pulumi_juniper_mist-0.8.2.tar.gz",
+  "download_time": "2026-05-09T07:17:12.750358",
   "package_url": "https://pypi.org/project/pulumi-juniper-mist/"
 }

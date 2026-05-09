@@ -1,0 +1,11 @@
+{
+  "name": "oai2ollama",
+  "version": "1.2.8.3",
+  "summary": "Wrap any OpenAI-compatible API into an Ollama-compatible API.",
+  "author": "Muspi Merol",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oai2ollama-1.2.8.3.tar.gz",
+  "download_time": "2026-05-09T07:17:45.464422",
+  "package_url": "https://pypi.org/project/oai2ollama/"
+}

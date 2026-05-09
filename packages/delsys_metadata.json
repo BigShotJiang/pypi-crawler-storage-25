@@ -1,0 +1,11 @@
+{
+  "name": "delsys",
+  "version": "0.1.0",
+  "summary": "Load and analyze Delsys CSV exports as ``pysampled.Data`` time series.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "delsys-0.1.0.tar.gz",
+  "download_time": "2026-05-09T07:17:13.796446",
+  "package_url": "https://pypi.org/project/delsys/"
+}
