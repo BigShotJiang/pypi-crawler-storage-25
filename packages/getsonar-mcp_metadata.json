@@ -1,11 +1,11 @@
 {
   "name": "getsonar-mcp",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "MCP server for SONAR — KYB due diligence, competitive intelligence, and strategic accounts research for AI agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "getsonar_mcp-0.1.7.tar.gz",
-  "download_time": "2026-05-09T21:55:37.695913",
+  "download_filename": "getsonar_mcp-0.1.8.tar.gz",
+  "download_time": "2026-05-09T23:34:53.811183",
   "package_url": "https://pypi.org/project/getsonar-mcp/"
 }

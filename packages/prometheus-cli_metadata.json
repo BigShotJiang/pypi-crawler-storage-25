@@ -1,11 +1,11 @@
 {
   "name": "prometheus-cli",
-  "version": "1.0.28",
+  "version": "1.0.32",
   "summary": "Free terminal AI coding agent. `pipx install prometheus-cli && prometheus` works out of the box, no credit card. 13-provider key pool with automatic failover, ~155K free requests/day, brand-neutral display.",
   "author": "PrometheUS Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "prometheus_cli-1.0.28-py3-none-any.whl",
-  "download_time": "2026-05-09T21:55:52.724351",
+  "download_filename": "prometheus_cli-1.0.32-py3-none-any.whl",
+  "download_time": "2026-05-09T23:34:55.449606",
   "package_url": "https://pypi.org/project/prometheus-cli/"
 }

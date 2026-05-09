@@ -1,0 +1,11 @@
+{
+  "name": "atomr-accel",
+  "version": "0.9.1",
+  "summary": "Actor-shaped face for compute-acceleration backends (NVIDIA CUDA shipping; ROCm / Metal / oneAPI / Vulkan future), on the atomr actor runtime.",
+  "author": "atomr-accel contributors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/rustakka/atomr-accel",
+  "download_filename": "atomr_accel-0.9.1.tar.gz",
+  "download_time": "2026-05-09T23:35:06.930789",
+  "package_url": "https://pypi.org/project/atomr-accel/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "copass-core-agents",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Provider-neutral agent primitives shared by every Copass agent SDK",
   "author": "Olane Inc.",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "copass_core_agents-1.0.6.tar.gz",
-  "download_time": "2026-05-09T22:58:53.349828",
+  "download_filename": "copass_core_agents-1.0.7.tar.gz",
+  "download_time": "2026-05-09T23:35:12.155438",
   "package_url": "https://pypi.org/project/copass-core-agents/"
 }

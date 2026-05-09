@@ -1,11 +1,11 @@
 {
   "name": "rtdm",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "An AI shell helper that gives you the command without the commentary.",
   "author": "rtdm contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rtdm-0.2.1.tar.gz",
-  "download_time": "2026-05-09T21:55:55.288921",
+  "download_filename": "rtdm-0.2.2.tar.gz",
+  "download_time": "2026-05-09T23:34:37.865960",
   "package_url": "https://pypi.org/project/rtdm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "autodynamics",
-  "version": "0.3.0a0",
+  "version": "0.4.0a0",
   "summary": "Modelling autonomy dynamics over the Autonometrics atlas.",
   "author": "bugerchip",
   "license": null,
   "home_page": null,
-  "download_filename": "autodynamics-0.3.0a0.tar.gz",
-  "download_time": "2026-05-09T22:59:14.462408",
+  "download_filename": "autodynamics-0.4.0a0.tar.gz",
+  "download_time": "2026-05-09T23:35:08.502973",
   "package_url": "https://pypi.org/project/autodynamics/"
 }

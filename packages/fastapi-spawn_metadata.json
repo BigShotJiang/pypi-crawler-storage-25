@@ -1,11 +1,11 @@
 {
   "name": "fastapi-spawn",
-  "version": "0.4.21",
+  "version": "0.4.24",
   "summary": "A powerful CLI tool to scaffold production-ready FastAPI projects with flexible database, auth, broker, and deployment options.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_spawn-0.4.21.tar.gz",
-  "download_time": "2026-05-09T21:55:57.321101",
+  "download_filename": "fastapi_spawn-0.4.24.tar.gz",
+  "download_time": "2026-05-09T23:34:28.659215",
   "package_url": "https://pypi.org/project/fastapi-spawn/"
 }

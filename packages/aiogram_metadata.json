@@ -1,11 +1,11 @@
 {
   "name": "aiogram",
-  "version": "3.28.0",
+  "version": "3.28.1",
   "summary": "Modern and fully asynchronous framework for Telegram Bot API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiogram-3.28.0.tar.gz",
-  "download_time": "2026-05-08T23:01:09.202456",
+  "download_filename": "aiogram-3.28.1.tar.gz",
+  "download_time": "2026-05-09T23:34:43.335653",
   "package_url": "https://pypi.org/project/aiogram/"
 }

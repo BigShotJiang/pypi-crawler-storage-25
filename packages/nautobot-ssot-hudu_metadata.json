@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-ssot-hudu",
+  "version": "2026.5.4",
+  "summary": "Nautobot SSoT integration for Hudu (one-way: Nautobot -> Hudu).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nautobot_ssot_hudu-2026.5.4.tar.gz",
+  "download_time": "2026-05-09T23:35:12.695126",
+  "package_url": "https://pypi.org/project/nautobot-ssot-hudu/"
+}
