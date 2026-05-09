@@ -1,11 +1,11 @@
 {
   "name": "xfcloudcard",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "云控卡密验证客户端库 - 支持 AES+HMAC 加密通信、心跳保活、离线上报",
   "author": "songxf",
   "license": null,
   "home_page": null,
-  "download_filename": "xfcloudcard-1.0.2.tar.gz",
-  "download_time": "2026-05-09T19:23:24.013121",
+  "download_filename": "xfcloudcard-1.0.4.tar.gz",
+  "download_time": "2026-05-09T21:07:24.649239",
   "package_url": "https://pypi.org/project/xfcloudcard/"
 }

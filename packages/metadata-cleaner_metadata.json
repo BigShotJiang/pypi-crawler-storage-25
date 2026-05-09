@@ -1,0 +1,11 @@
+{
+  "name": "metadata-cleaner",
+  "version": "3.2.0",
+  "summary": "A CLI tool to remove, edit, or selectively filter metadata from images, documents, audio, and video files.",
+  "author": "Sandeep Paidipati",
+  "license": null,
+  "home_page": "https://github.com/sandy-sp/metadata-cleaner",
+  "download_filename": "metadata_cleaner-3.2.0.tar.gz",
+  "download_time": "2026-05-09T21:07:14.258023",
+  "package_url": "https://pypi.org/project/metadata-cleaner/"
+}

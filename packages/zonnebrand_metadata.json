@@ -1,0 +1,11 @@
+{
+  "name": "zonnebrand",
+  "version": "0.1.1",
+  "summary": "Automatic regulation of the solar panel activation based on EPEX prices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zonnebrand-0.1.1.tar.gz",
+  "download_time": "2026-05-09T21:07:19.947061",
+  "package_url": "https://pypi.org/project/zonnebrand/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "uc386",
+  "version": "0.1.1",
+  "summary": "C23 compiler targeting x86-32 (i386) and MS-DOS",
+  "author": "uc386 developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uc386-0.1.1.tar.gz",
+  "download_time": "2026-05-09T21:07:01.918308",
+  "package_url": "https://pypi.org/project/uc386/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "safeweb",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "Browser safety and sustainability testing tool",
   "author": "SafeWeb Project",
   "license": null,
   "home_page": null,
-  "download_filename": "safeweb-1.0.5.tar.gz",
-  "download_time": "2026-05-09T18:01:15.320279",
+  "download_filename": "safeweb-1.0.7.tar.gz",
+  "download_time": "2026-05-09T21:07:30.879970",
   "package_url": "https://pypi.org/project/safeweb/"
 }

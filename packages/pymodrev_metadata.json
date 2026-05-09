@@ -1,11 +1,11 @@
 {
   "name": "pymodrev",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Model Revision tool for computing Boolean network repair operations.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pymodrev-0.3.0.tar.gz",
-  "download_time": "2026-04-11T14:40:50.254788",
+  "download_filename": "pymodrev-0.4.0.tar.gz",
+  "download_time": "2026-05-09T21:07:29.343307",
   "package_url": "https://pypi.org/project/pymodrev/"
 }

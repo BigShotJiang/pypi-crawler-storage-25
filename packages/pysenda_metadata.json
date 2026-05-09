@@ -1,0 +1,11 @@
+{
+  "name": "pysenda",
+  "version": "1.0.0",
+  "summary": "CLI tool for generating Google Maps links from GPS coordinates.",
+  "author": "Tiago Rabelo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysenda-1.0.0.tar.gz",
+  "download_time": "2026-05-09T21:07:08.076658",
+  "package_url": "https://pypi.org/project/pysenda/"
+}

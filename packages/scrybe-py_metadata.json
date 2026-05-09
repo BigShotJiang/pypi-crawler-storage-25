@@ -1,11 +1,11 @@
 {
   "name": "scrybe-py",
-  "version": "0.1.0a3",
+  "version": "0.1.0",
   "summary": "Scrybe — MCP-native Markdown editor library (Rust-backed). Provides the `scrybe` import package.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "scrybe_py-0.1.0a3-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2026-05-08T23:40:56.407979",
+  "download_filename": "scrybe_py-0.1.0.tar.gz",
+  "download_time": "2026-05-09T21:07:00.378166",
   "package_url": "https://pypi.org/project/scrybe-py/"
 }

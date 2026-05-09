@@ -1,11 +1,11 @@
 {
   "name": "ancientlinesoftheworld",
-  "version": "5.0.0",
-  "summary": "Convert Persian and English text to 12+ ancient scripts including: ",
+  "version": "5.5.1",
+  "summary": "Convert Persian and English text to 15+ ancient scripts including:",
   "author": "Amir Hossein Khazaei",
   "license": "MIT",
   "home_page": "https://github.com/amirhossinpython/ancientlinesoftheworld",
-  "download_filename": "ancientlinesoftheworld-5.0.0.tar.gz",
-  "download_time": "2026-04-23T11:20:07.679927",
+  "download_filename": "ancientlinesoftheworld-5.5.1.tar.gz",
+  "download_time": "2026-05-09T21:07:32.956314",
   "package_url": "https://pypi.org/project/ancientlinesoftheworld/"
 }

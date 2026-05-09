@@ -1,11 +1,11 @@
 {
   "name": "uc-core",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Shared C23 frontend and AST optimizer for the uc80/uc386 family of retro C compilers",
   "author": "uc_core developers",
   "license": null,
   "home_page": null,
-  "download_filename": "uc_core-0.3.4.tar.gz",
-  "download_time": "2026-05-09T14:04:40.520299",
+  "download_filename": "uc_core-0.3.5.tar.gz",
+  "download_time": "2026-05-09T21:07:05.510505",
   "package_url": "https://pypi.org/project/uc-core/"
 }
