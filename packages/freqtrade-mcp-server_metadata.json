@@ -1,0 +1,11 @@
+{
+  "name": "freqtrade-mcp-server",
+  "version": "0.1.1",
+  "summary": "Read-only MCP server for Freqtrade codebase introspection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "freqtrade_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-05-09T17:05:02.910410",
+  "package_url": "https://pypi.org/project/freqtrade-mcp-server/"
+}

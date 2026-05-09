@@ -1,0 +1,11 @@
+{
+  "name": "gemma-mnemara",
+  "version": "0.9.0",
+  "summary": "Controlled rolling-context conversation runtime for Gemma via Ollama — transparent turns store, role doc system prompt, offline-first.",
+  "author": "Michael Anderson, Dave Moore",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gemma_mnemara-0.9.0.tar.gz",
+  "download_time": "2026-05-09T17:05:06.521055",
+  "package_url": "https://pypi.org/project/gemma-mnemara/"
+}

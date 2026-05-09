@@ -1,0 +1,11 @@
+{
+  "name": "skein-glm",
+  "version": "0.4.0",
+  "summary": "Weighted structured nonconvex sparse models (Python + Rust)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skein_glm-0.4.0.tar.gz",
+  "download_time": "2026-05-09T17:05:03.423660",
+  "package_url": "https://pypi.org/project/skein-glm/"
+}

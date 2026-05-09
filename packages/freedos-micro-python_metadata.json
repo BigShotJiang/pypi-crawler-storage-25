@@ -1,0 +1,11 @@
+{
+  "name": "freedos-micro-python",
+  "version": "0.1.0",
+  "summary": "MicroPython port for FreeDOS / i386 — built end-to-end through the uc386 C23 compiler",
+  "author": "freedos_micro_python contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "freedos_micro_python-0.1.0.tar.gz",
+  "download_time": "2026-05-09T17:04:48.738964",
+  "package_url": "https://pypi.org/project/freedos-micro-python/"
+}

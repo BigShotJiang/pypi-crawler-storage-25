@@ -1,11 +1,11 @@
 {
   "name": "proofctl",
-  "version": "0.1.7",
+  "version": "0.3.1",
   "summary": "Zero-dependency linter for Python, Terraform, Dockerfiles, Kubernetes, and GitHub Actions — catches AI slop and security misconfigurations pre-commit",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "proofctl-0.1.7.tar.gz",
-  "download_time": "2026-05-09T12:11:36.354002",
+  "download_filename": "proofctl-0.3.1.tar.gz",
+  "download_time": "2026-05-09T17:04:47.194132",
   "package_url": "https://pypi.org/project/proofctl/"
 }

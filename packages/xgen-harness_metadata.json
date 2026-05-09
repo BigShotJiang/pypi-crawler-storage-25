@@ -1,11 +1,11 @@
 {
   "name": "xgen-harness",
-  "version": "1.0.0",
-  "summary": "XGEN Harness v1.0 — 10-stage 고결화 (BREAKING). s05_strategy 분해 / s08_judge·s10_save 격하 / 번호 시프트 / s05_policy 일반 순번 진입 + 4훅. 4 신규 레지스트리 (prompt_templates / evaluation_criteria / output_formatters / persist_defaults). 마이그레이션 가이드: docs/harness/2026-04-29-stage-consolidation-v1.md",
+  "version": "1.6.0",
+  "summary": "XGEN Harness v1.6 — PD 완성 (3-tier isomorphic): data-driven tools 그룹화 (category 자기서술), <active_policies> register API, check_policy + discover_prompt + discover_collection 빌트인, collection description enricher (default OFF).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xgen_harness-1.0.0.tar.gz",
-  "download_time": "2026-04-29T17:22:04.458568",
+  "download_filename": "xgen_harness-1.6.0.tar.gz",
+  "download_time": "2026-05-09T17:04:41.478905",
   "package_url": "https://pypi.org/project/xgen-harness/"
 }

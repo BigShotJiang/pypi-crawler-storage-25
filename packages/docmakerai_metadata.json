@@ -1,11 +1,11 @@
 {
   "name": "docmakerai",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Generate documentation for your repository",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "docmakerai-0.1.1.tar.gz",
-  "download_time": "2026-05-09T16:02:24.838841",
+  "download_filename": "docmakerai-0.1.4.tar.gz",
+  "download_time": "2026-05-09T17:04:34.232703",
   "package_url": "https://pypi.org/project/docmakerai/"
 }

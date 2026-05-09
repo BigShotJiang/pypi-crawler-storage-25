@@ -1,0 +1,11 @@
+{
+  "name": "contextpilot-ai",
+  "version": "0.2.1",
+  "summary": "Python middleware that compresses and optimizes LLM context before each API call",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contextpilot_ai-0.2.1.tar.gz",
+  "download_time": "2026-05-09T17:04:54.431754",
+  "package_url": "https://pypi.org/project/contextpilot-ai/"
+}

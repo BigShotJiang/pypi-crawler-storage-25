@@ -1,0 +1,11 @@
+{
+  "name": "runtm-api",
+  "version": "0.2.19",
+  "summary": "FastAPI control plane for Runtm",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "runtm_api-0.2.19.tar.gz",
+  "download_time": "2026-05-09T17:04:55.980420",
+  "package_url": "https://pypi.org/project/runtm-api/"
+}

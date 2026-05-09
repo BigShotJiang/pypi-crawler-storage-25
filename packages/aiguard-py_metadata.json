@@ -1,0 +1,11 @@
+{
+  "name": "aiguard-py",
+  "version": "0.4.0",
+  "summary": "AI驱动的Python代码安全审计工具",
+  "author": "你的名字",
+  "license": "MIT",
+  "home_page": "https://github.com/你的用户名/aiguard",
+  "download_filename": "aiguard_py-0.4.0.tar.gz",
+  "download_time": "2026-05-09T17:04:53.408703",
+  "package_url": "https://pypi.org/project/aiguard-py/"
+}
