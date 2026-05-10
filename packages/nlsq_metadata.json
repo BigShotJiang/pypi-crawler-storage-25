@@ -1,0 +1,11 @@
+{
+  "name": "nlsq",
+  "version": "0.6.12",
+  "summary": "GPU/TPU accelerated nonlinear least-squares curve fitting using JAX",
+  "author": "Lucas Hofer (Original JAXFit), Milan Krstajić (Original JAXFit), Robert P. Smith (Original JAXFit)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nlsq-0.6.12.tar.gz",
+  "download_time": "2026-05-10T04:27:00.526358",
+  "package_url": "https://pypi.org/project/nlsq/"
+}

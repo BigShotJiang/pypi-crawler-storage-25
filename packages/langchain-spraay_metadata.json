@@ -1,0 +1,11 @@
+{
+  "name": "langchain-spraay",
+  "version": "0.2.0",
+  "summary": "LangChain tools for Spraay — multi-chain batch payments and x402 gateway for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_spraay-0.2.0.tar.gz",
+  "download_time": "2026-05-10T04:26:25.013412",
+  "package_url": "https://pypi.org/project/langchain-spraay/"
+}

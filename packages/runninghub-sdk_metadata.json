@@ -1,11 +1,11 @@
 {
   "name": "runninghub-sdk",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "RunningHub ComfyUI SDK - 轻松调用RunningHub的ComfyUI API",
   "author": "RunningHub SDK",
   "license": null,
   "home_page": null,
-  "download_filename": "runninghub_sdk-1.0.6.tar.gz",
-  "download_time": "2026-05-08T21:27:36.011585",
+  "download_filename": "runninghub_sdk-1.0.7.tar.gz",
+  "download_time": "2026-05-10T04:26:41.107493",
   "package_url": "https://pypi.org/project/runninghub-sdk/"
 }

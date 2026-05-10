@@ -1,0 +1,11 @@
+{
+  "name": "apache-burr",
+  "version": "0.42.0",
+  "summary": "Apache Burr (incubating) makes it easy to develop applications that make decisions (chatbots, agents, simulations, etc...) from simple python building blocks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_burr-0.42.0-py3-none-any.whl",
+  "download_time": "2026-05-10T04:27:02.617021",
+  "package_url": "https://pypi.org/project/apache-burr/"
+}

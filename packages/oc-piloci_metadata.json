@@ -1,11 +1,11 @@
 {
   "name": "oc-piloci",
-  "version": "0.2.70",
+  "version": "0.3.8",
   "summary": "Self-hosted multi-user LLM memory service for Raspberry Pi 5. MCP-compatible.",
   "author": "piLoci contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oc_piloci-0.2.70.tar.gz",
-  "download_time": "2026-05-09T18:01:31.633780",
+  "download_filename": "oc_piloci-0.3.8.tar.gz",
+  "download_time": "2026-05-10T04:26:45.052272",
   "package_url": "https://pypi.org/project/oc-piloci/"
 }

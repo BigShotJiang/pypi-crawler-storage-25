@@ -1,11 +1,11 @@
 {
   "name": "hypergumbo-core",
-  "version": "4.1.0",
+  "version": "5.0.1",
   "summary": "Core infrastructure for hypergumbo repo behavior map generator",
   "author": "Hypergumbo contributors",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "hypergumbo_core-4.1.0.tar.gz",
-  "download_time": "2026-05-08T08:21:30.401413",
+  "download_filename": "hypergumbo_core-5.0.1.tar.gz",
+  "download_time": "2026-05-10T04:26:35.407764",
   "package_url": "https://pypi.org/project/hypergumbo-core/"
 }
