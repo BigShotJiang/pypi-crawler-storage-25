@@ -1,0 +1,11 @@
+{
+  "name": "bedrock-ops",
+  "version": "0.1.0",
+  "summary": "Production-grade boto3 toolkit for AWS Bedrock: typed retry, per-model timeouts, capability lookup, full token usage with cache fields, PII-safe Guardrails.",
+  "author": "Mukunda Katta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bedrock_ops-0.1.0.tar.gz",
+  "download_time": "2026-05-10T15:04:38.807050",
+  "package_url": "https://pypi.org/project/bedrock-ops/"
+}

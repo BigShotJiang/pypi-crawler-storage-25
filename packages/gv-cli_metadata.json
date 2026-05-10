@@ -1,11 +1,11 @@
 {
   "name": "gv-cli",
-  "version": "1.8.0",
+  "version": "1.10.9",
   "summary": "CLI to run agents in the cloud. This is the future.",
   "author": "TabTabTab",
   "license": null,
   "home_page": null,
-  "download_filename": "gv_cli-1.8.0-py3-none-any.whl",
-  "download_time": "2026-05-04T21:17:38.758602",
+  "download_filename": "gv_cli-1.10.9-py3-none-any.whl",
+  "download_time": "2026-05-10T15:04:23.022738",
   "package_url": "https://pypi.org/project/gv-cli/"
 }

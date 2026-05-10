@@ -1,11 +1,11 @@
 {
   "name": "fast-puppy",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Code generation agent",
   "author": "Michael Pfaffenberger",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fast_puppy-0.4.0.tar.gz",
-  "download_time": "2026-05-10T11:27:42.196665",
+  "download_filename": "fast_puppy-0.5.0.tar.gz",
+  "download_time": "2026-05-10T15:04:15.196754",
   "package_url": "https://pypi.org/project/fast-puppy/"
 }

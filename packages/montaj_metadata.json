@@ -1,11 +1,11 @@
 {
   "name": "montaj",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "summary": "Video editing toolkit for AI agents — CLI-first, agent-native, open source",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "montaj-2.2.2.tar.gz",
-  "download_time": "2026-05-08T21:27:25.134180",
+  "download_filename": "montaj-2.2.3.tar.gz",
+  "download_time": "2026-05-10T15:04:11.549720",
   "package_url": "https://pypi.org/project/montaj/"
 }

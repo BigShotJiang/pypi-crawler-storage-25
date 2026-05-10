@@ -1,11 +1,11 @@
 {
   "name": "code-memory",
-  "version": "1.0.29",
+  "version": "1.0.31",
   "summary": "A deterministic, high-precision code intelligence MCP server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "code_memory-1.0.29.tar.gz",
-  "download_time": "2026-05-10T14:07:58.714981",
+  "download_filename": "code_memory-1.0.31.tar.gz",
+  "download_time": "2026-05-10T15:04:27.178046",
   "package_url": "https://pypi.org/project/code-memory/"
 }

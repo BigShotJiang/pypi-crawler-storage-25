@@ -1,11 +1,11 @@
 {
   "name": "ktav",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "Python bindings for Ktav — a plain configuration format. No quotes, no commas, dotted keys.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ktav-0.2.0.tar.gz",
-  "download_time": "2026-05-07T21:41:29.948450",
+  "download_filename": "ktav-0.3.1.tar.gz",
+  "download_time": "2026-05-10T15:04:40.888846",
   "package_url": "https://pypi.org/project/ktav/"
 }

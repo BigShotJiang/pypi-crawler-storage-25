@@ -1,0 +1,11 @@
+{
+  "name": "pytest-kafka-contract",
+  "version": "0.2.4",
+  "summary": "A pytest plugin and CLI for validating Kafka JSON and Avro messages against contracts.",
+  "author": "Dharsan Guruparan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_kafka_contract-0.2.4.tar.gz",
+  "download_time": "2026-05-10T15:04:26.143570",
+  "package_url": "https://pypi.org/project/pytest-kafka-contract/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "seizure-eeg-extractor",
+  "version": "0.1.2",
+  "summary": "Extract EEG signal arrays and seizure metadata from CHB-MIT and EU Epilepsy datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seizure_eeg_extractor-0.1.2.tar.gz",
+  "download_time": "2026-05-10T15:04:34.078075",
+  "package_url": "https://pypi.org/project/seizure-eeg-extractor/"
+}

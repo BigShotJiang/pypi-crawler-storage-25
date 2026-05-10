@@ -1,11 +1,11 @@
 {
   "name": "skypilot-nightly",
-  "version": "1.0.0.dev20260424",
+  "version": "1.0.0.dev20260510",
   "summary": "SkyPilot: Manage all your AI compute.",
   "author": "SkyPilot Team",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "skypilot_nightly-1.0.0.dev20260424.tar.gz",
-  "download_time": "2026-04-24T17:06:37.266155",
+  "download_filename": "skypilot_nightly-1.0.0.dev20260510.tar.gz",
+  "download_time": "2026-05-10T15:04:30.361805",
   "package_url": "https://pypi.org/project/skypilot-nightly/"
 }

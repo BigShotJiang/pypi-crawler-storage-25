@@ -1,0 +1,11 @@
+{
+  "name": "ai-afterimage",
+  "version": "0.7.1",
+  "summary": "Episodic memory for Claude Code - persistent memory of code written across sessions with churn tracking",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_afterimage-0.7.1.tar.gz",
+  "download_time": "2026-05-10T15:04:19.898494",
+  "package_url": "https://pypi.org/project/ai-afterimage/"
+}

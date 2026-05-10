@@ -1,11 +1,11 @@
 {
   "name": "x4d-devkit",
-  "version": "0.11.1",
+  "version": "0.12.0",
   "summary": "X-4D dataset format SDK — load, validate, evaluate, and convert autonomous driving datasets",
   "author": "windzu",
   "license": null,
   "home_page": null,
-  "download_filename": "x4d_devkit-0.11.1.tar.gz",
-  "download_time": "2026-05-09T07:17:29.997890",
+  "download_filename": "x4d_devkit-0.12.0.tar.gz",
+  "download_time": "2026-05-10T15:04:20.417575",
   "package_url": "https://pypi.org/project/x4d-devkit/"
 }

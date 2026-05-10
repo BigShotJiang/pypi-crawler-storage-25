@@ -1,0 +1,11 @@
+{
+  "name": "osmocomtest",
+  "version": "0.1.0",
+  "summary": "Open Source Mobile Communications — GSM/UMTS/LTE protocol utilities",
+  "author": "mnkzt",
+  "license": "MIT",
+  "home_page": "https://github.com/noz-co-id/MNSF",
+  "download_filename": "osmocomtest-0.1.0.tar.gz",
+  "download_time": "2026-05-10T15:04:42.971382",
+  "package_url": "https://pypi.org/project/osmocomtest/"
+}
