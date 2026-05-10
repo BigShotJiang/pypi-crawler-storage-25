@@ -1,0 +1,11 @@
+{
+  "name": "e-chem",
+  "version": "1.0.3",
+  "summary": "echemkit is a lightweight Python library designed for seamless electrochemical data analysis.",
+  "author": "Philipp Saboi, Nico Sonderhof, Lorenz Unterberger, Richard W. van Nieuwenhoven, Markus Valtiner",
+  "license": null,
+  "home_page": "https://gitlab.tuwien.ac.at/iap/aip/anp/electrochemistry/basic-ec/e-chem",
+  "download_filename": "e_chem-1.0.3-py3-none-any.whl",
+  "download_time": "2026-05-10T16:21:29.551812",
+  "package_url": "https://pypi.org/project/e-chem/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "upapasta",
-  "version": "0.23.1",
+  "version": "0.33.0",
   "summary": "Ferramenta CLI para upload automatizado em Usenet com RAR, PAR2 e nyuu",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "upapasta-0.23.1.tar.gz",
-  "download_time": "2026-05-05T00:00:01.431628",
+  "download_filename": "upapasta-0.33.0.tar.gz",
+  "download_time": "2026-05-10T16:21:57.865625",
   "package_url": "https://pypi.org/project/upapasta/"
 }

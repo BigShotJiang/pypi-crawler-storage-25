@@ -1,11 +1,11 @@
 {
   "name": "refclone",
-  "version": "0.4",
+  "version": "0.6",
   "summary": "A wrapper for \"git clone\" that keeps git repo directories organized",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "refclone-0.4.tar.gz",
-  "download_time": "2026-05-09T17:04:37.834480",
+  "download_filename": "refclone-0.6.tar.gz",
+  "download_time": "2026-05-10T16:22:19.731285",
   "package_url": "https://pypi.org/project/refclone/"
 }

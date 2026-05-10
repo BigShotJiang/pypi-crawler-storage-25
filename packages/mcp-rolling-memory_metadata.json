@@ -1,0 +1,11 @@
+{
+  "name": "mcp-rolling-memory",
+  "version": "0.1.2",
+  "summary": "对话记忆搜索 MCP Server — 自动导入 Claude Code / WorkBuddy 对话，FTS5 全文搜索，开箱即用",
+  "author": "Rolling Memory Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_rolling_memory-0.1.2.tar.gz",
+  "download_time": "2026-05-10T16:21:58.455679",
+  "package_url": "https://pypi.org/project/mcp-rolling-memory/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lint-pdf",
-  "version": "0.1.0b10",
+  "version": "0.1.0b11",
   "summary": "Detection-only PDF preflight engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lint_pdf-0.1.0b10-py3-none-any.whl",
-  "download_time": "2026-05-10T14:07:42.422770",
+  "download_filename": "lint_pdf-0.1.0b11-py3-none-any.whl",
+  "download_time": "2026-05-10T16:22:16.043217",
   "package_url": "https://pypi.org/project/lint-pdf/"
 }

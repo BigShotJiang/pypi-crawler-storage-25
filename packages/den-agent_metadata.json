@@ -1,11 +1,11 @@
 {
   "name": "den-agent",
-  "version": "0.1.0a2",
+  "version": "0.1.0a3",
   "summary": "Den — the living runtime for AI agents. Persistent home, memory, self-evaluating loops, cron, and identity in one framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "den_agent-0.1.0a2.tar.gz",
-  "download_time": "2026-05-09T21:07:29.856648",
+  "download_filename": "den_agent-0.1.0a3.tar.gz",
+  "download_time": "2026-05-10T16:21:52.798663",
   "package_url": "https://pypi.org/project/den-agent/"
 }

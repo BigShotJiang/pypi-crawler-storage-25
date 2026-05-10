@@ -1,0 +1,11 @@
+{
+  "name": "neotask",
+  "version": "0.5.0",
+  "summary": "NeoTask - 轻量级 Python 异步任务队列，支持即时/延时/周期任务，内置优先级队列、自动重试 | Lightweight Python Async Task Queue Manager",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neotask-0.5.0.tar.gz",
+  "download_time": "2026-05-10T16:21:59.810857",
+  "package_url": "https://pypi.org/project/neotask/"
+}

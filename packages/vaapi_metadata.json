@@ -1,11 +1,11 @@
 {
   "name": "vaapi",
-  "version": "0.7.38",
+  "version": "0.7.41",
   "summary": "Python utils for adding logs to our Visual Analytics Tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vaapi-0.7.38.tar.gz",
-  "download_time": "2026-05-10T10:52:54.464799",
+  "download_filename": "vaapi-0.7.41.tar.gz",
+  "download_time": "2026-05-10T16:22:05.714353",
   "package_url": "https://pypi.org/project/vaapi/"
 }

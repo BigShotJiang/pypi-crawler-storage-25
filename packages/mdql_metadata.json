@@ -1,11 +1,11 @@
 {
   "name": "mdql",
-  "version": "0.5.20",
+  "version": "0.5.26",
   "summary": "MDQL — a queryable database where every entry is a markdown file",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mdql-0.5.20.tar.gz",
-  "download_time": "2026-05-02T21:17:33.048601",
+  "download_filename": "mdql-0.5.26.tar.gz",
+  "download_time": "2026-05-10T16:21:21.675045",
   "package_url": "https://pypi.org/project/mdql/"
 }

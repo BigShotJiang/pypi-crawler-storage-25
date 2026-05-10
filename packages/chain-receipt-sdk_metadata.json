@@ -1,0 +1,11 @@
+{
+  "name": "chain-receipt-sdk",
+  "version": "0.1.1",
+  "summary": "Chain-Receipt SDK — emit, verify, replay, and chain Receipts (v1.0.0) from LangChain runnables, agent loops, or any Python callable.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chain_receipt_sdk-0.1.1-py3-none-any.whl",
+  "download_time": "2026-05-10T16:21:50.866225",
+  "package_url": "https://pypi.org/project/chain-receipt-sdk/"
+}

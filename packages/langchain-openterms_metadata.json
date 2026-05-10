@@ -1,0 +1,11 @@
+{
+  "name": "langchain-openterms",
+  "version": "0.4.0",
+  "summary": "OpenTerms protocol integration for LangChain: permission-aware AI agents",
+  "author": "John Stibal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_openterms-0.4.0.tar.gz",
+  "download_time": "2026-05-10T16:22:01.748681",
+  "package_url": "https://pypi.org/project/langchain-openterms/"
+}

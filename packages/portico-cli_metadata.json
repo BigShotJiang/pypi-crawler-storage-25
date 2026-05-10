@@ -1,0 +1,11 @@
+{
+  "name": "portico-cli",
+  "version": "0.1.1",
+  "summary": "Render any input as a portico – a three-layer ASCII visualization.",
+  "author": "Tomás Ravalli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "portico_cli-0.1.1.tar.gz",
+  "download_time": "2026-05-10T16:21:56.567897",
+  "package_url": "https://pypi.org/project/portico-cli/"
+}
