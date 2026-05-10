@@ -1,0 +1,11 @@
+{
+  "name": "img2table",
+  "version": "2.0.0",
+  "summary": "img2table is a table identification and extraction Python Library for PDF and images, based on OpenCV image processing",
+  "author": "Xavier Canton",
+  "license": null,
+  "home_page": null,
+  "download_filename": "img2table-2.0.0.tar.gz",
+  "download_time": "2026-05-10T20:16:35.955467",
+  "package_url": "https://pypi.org/project/img2table/"
+}

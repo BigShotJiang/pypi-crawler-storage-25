@@ -1,0 +1,11 @@
+{
+  "name": "sigill-sdk",
+  "version": "0.1.6",
+  "summary": "AI evidence envelopes (AiEvidenceEnvelopeV1) — canonicalize, seal with RFC 3161 timestamps via Sigill, and verify.",
+  "author": "Sigill",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sigill_sdk-0.1.6.tar.gz",
+  "download_time": "2026-05-10T20:16:04.195074",
+  "package_url": "https://pypi.org/project/sigill-sdk/"
+}

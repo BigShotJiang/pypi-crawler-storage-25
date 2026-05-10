@@ -1,0 +1,11 @@
+{
+  "name": "numpy-router",
+  "version": "0.1.0",
+  "summary": "Runtime NumPy version router with lazy bootstrap and per-version caching.",
+  "author": "Leon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "numpy_router-0.1.0.tar.gz",
+  "download_time": "2026-05-10T20:16:44.699896",
+  "package_url": "https://pypi.org/project/numpy-router/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-waf",
-  "version": "3.1.87",
+  "version": "3.1.93",
   "summary": "Tencent Cloud Waf SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud_sdk_python_waf-3.1.87.tar.gz",
-  "download_time": "2026-04-27T20:18:23.801688",
+  "download_filename": "tencentcloud_sdk_python_waf-3.1.93.tar.gz",
+  "download_time": "2026-05-10T20:16:00.051357",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-waf/"
 }

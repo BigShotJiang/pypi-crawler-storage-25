@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-celery",
+  "version": "0.1.0",
+  "summary": "Bridge between Celery workers and LangGraph agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langgraph_celery-0.1.0.tar.gz",
+  "download_time": "2026-05-10T20:16:14.157286",
+  "package_url": "https://pypi.org/project/langgraph-celery/"
+}

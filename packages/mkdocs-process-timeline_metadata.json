@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-process-timeline",
+  "version": "0.2.0",
+  "summary": "MkDocs plugin that renders process timeline shortcode content from YAML.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_process_timeline-0.2.0.tar.gz",
+  "download_time": "2026-05-10T20:16:14.671658",
+  "package_url": "https://pypi.org/project/mkdocs-process-timeline/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ctrecon",
-  "version": "0.0.1",
-  "summary": "an interface and some tools for computed tomography recontruction",
+  "version": "0.1.1",
+  "summary": "an interface and some tools for computed tomography reconstruction",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ctrecon-0.0.1.tar.gz",
-  "download_time": "2026-05-01T00:18:10.520547",
+  "download_filename": "ctrecon-0.1.1.tar.gz",
+  "download_time": "2026-05-10T20:16:22.955985",
   "package_url": "https://pypi.org/project/ctrecon/"
 }

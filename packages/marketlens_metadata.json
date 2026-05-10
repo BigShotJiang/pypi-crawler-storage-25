@@ -1,0 +1,11 @@
+{
+  "name": "marketlens",
+  "version": "1.1.2",
+  "summary": "Python SDK for Polymarket order book data and backtesting. Tick-level L2 snapshots, billions of deltas, full book reconstruction, and a strategy backtesting engine with realistic execution.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "marketlens-1.1.2.tar.gz",
+  "download_time": "2026-05-10T20:16:37.494900",
+  "package_url": "https://pypi.org/project/marketlens/"
+}

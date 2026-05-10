@@ -1,0 +1,11 @@
+{
+  "name": "pgrubic",
+  "version": "0.10.2",
+  "summary": "PostgreSQL linter and formatter for schema migrations and design best practices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgrubic-0.10.2.tar.gz",
+  "download_time": "2026-05-10T20:16:06.278088",
+  "package_url": "https://pypi.org/project/pgrubic/"
+}
