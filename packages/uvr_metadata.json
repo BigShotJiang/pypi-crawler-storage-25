@@ -1,11 +1,11 @@
 {
   "name": "uvr",
-  "version": "0.1.24",
+  "version": "0.1.26",
   "summary": "Simple script execution with uv - run Python scripts without explicit --project flag",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "uvr-0.1.24.tar.gz",
-  "download_time": "2026-05-09T23:34:39.913018",
+  "download_filename": "uvr-0.1.26.tar.gz",
+  "download_time": "2026-05-10T09:03:36.720044",
   "package_url": "https://pypi.org/project/uvr/"
 }

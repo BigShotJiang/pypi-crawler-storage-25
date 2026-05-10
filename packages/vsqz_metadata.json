@@ -1,0 +1,11 @@
+{
+  "name": "vsqz",
+  "version": "0.2.1",
+  "summary": "gzip for AI models — train 13B on 12GB, run 20B on 24GB. 55% smaller files, 2× longer context. Works with any HuggingFace model.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vsqz-0.2.1.tar.gz",
+  "download_time": "2026-05-10T09:03:43.008461",
+  "package_url": "https://pypi.org/project/vsqz/"
+}

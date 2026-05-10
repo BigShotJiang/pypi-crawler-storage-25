@@ -1,0 +1,11 @@
+{
+  "name": "tgcalc",
+  "version": "1.0.0",
+  "summary": "Expand Template-Goal-Calc TOML definitions into deduplicated concrete calc files.",
+  "author": "tgcalc contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tgcalc-1.0.0.tar.gz",
+  "download_time": "2026-05-10T09:03:56.664258",
+  "package_url": "https://pypi.org/project/tgcalc/"
+}

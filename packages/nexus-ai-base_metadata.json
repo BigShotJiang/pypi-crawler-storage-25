@@ -1,0 +1,11 @@
+{
+  "name": "nexus-ai-base",
+  "version": "0.1.1",
+  "summary": "Core registry, configuration, and LLM abstractions for nexus-ai",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nexus_ai_base-0.1.1.tar.gz",
+  "download_time": "2026-05-10T09:03:25.804957",
+  "package_url": "https://pypi.org/project/nexus-ai-base/"
+}

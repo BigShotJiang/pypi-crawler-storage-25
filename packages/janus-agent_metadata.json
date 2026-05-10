@@ -1,0 +1,11 @@
+{
+  "name": "janus-agent",
+  "version": "1.37.1",
+  "summary": "A self-improving AI agent for developers. Plain-text state, three gateways (CLI, Telegram, web), any OpenAI-compatible model.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "janus_agent-1.37.1.tar.gz",
+  "download_time": "2026-05-10T09:03:33.075136",
+  "package_url": "https://pypi.org/project/janus-agent/"
+}

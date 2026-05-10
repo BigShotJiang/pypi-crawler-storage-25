@@ -1,0 +1,11 @@
+{
+  "name": "pyodeint",
+  "version": "0.10.10",
+  "summary": "Python binding for odeint from boost.",
+  "author": "Björn Dahlgren",
+  "license": "BSD",
+  "home_page": "https://github.com/bjodah/pyodeint",
+  "download_filename": "pyodeint-0.10.10.tar.gz",
+  "download_time": "2026-05-10T09:03:41.400895",
+  "package_url": "https://pypi.org/project/pyodeint/"
+}

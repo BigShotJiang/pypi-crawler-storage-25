@@ -1,0 +1,11 @@
+{
+  "name": "iil-codeguard",
+  "version": "2026.5.0",
+  "summary": "Library-first code compliance tooling for the IIL Platform (Django, HTMX, Docker, Nginx)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iil_codeguard-2026.5.0.tar.gz",
+  "download_time": "2026-05-10T09:03:41.919011",
+  "package_url": "https://pypi.org/project/iil-codeguard/"
+}

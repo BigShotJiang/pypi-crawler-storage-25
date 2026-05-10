@@ -1,11 +1,11 @@
 {
   "name": "trajrl",
-  "version": "0.3.2",
-  "summary": "Official skill collection for TrajectoryRL (Bittensor SN11) — discover and run subnet skills.",
+  "version": "2.2.0",
+  "summary": "Official Python CLI for TrajectoryRL (Bittensor SN11) — skill hub, live subnet state, validator analysis.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trajrl-0.3.2.tar.gz",
-  "download_time": "2026-04-16T09:54:11.333505",
+  "download_filename": "trajrl-2.2.0.tar.gz",
+  "download_time": "2026-05-10T09:03:24.252392",
   "package_url": "https://pypi.org/project/trajrl/"
 }
