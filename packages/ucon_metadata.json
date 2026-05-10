@@ -1,11 +1,11 @@
 {
   "name": "ucon",
-  "version": "1.6.3",
+  "version": "1.7.0",
   "summary": "A tool for dimensional analysis: a 'Unit CONverter'",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ucon-1.6.3.tar.gz",
-  "download_time": "2026-05-04T20:05:26.686591",
+  "download_filename": "ucon-1.7.0.tar.gz",
+  "download_time": "2026-05-10T06:58:54.562062",
   "package_url": "https://pypi.org/project/ucon/"
 }

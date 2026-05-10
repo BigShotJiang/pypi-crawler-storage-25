@@ -1,11 +1,11 @@
 {
   "name": "pyvista",
-  "version": "0.48.0",
-  "summary": "Easier Pythonic interface to VTK",
+  "version": "0.48.2",
+  "summary": "3D visualization and mesh analysis for science and engineering.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyvista-0.48.0.tar.gz",
-  "download_time": "2026-05-02T23:01:59.843247",
+  "download_filename": "pyvista-0.48.2.tar.gz",
+  "download_time": "2026-05-10T06:59:01.610700",
   "package_url": "https://pypi.org/project/pyvista/"
 }

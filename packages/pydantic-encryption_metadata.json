@@ -1,11 +1,11 @@
 {
   "name": "pydantic-encryption",
-  "version": "0.5.1",
-  "summary": "Encryption and Hashing Models for Pydantic",
+  "version": "0.11.0",
+  "summary": "Encryption, hashing, and blind indexing for Pydantic",
   "author": "Julien Kmec",
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_encryption-0.5.1.tar.gz",
-  "download_time": "2026-04-12T23:23:05.920449",
+  "download_filename": "pydantic_encryption-0.11.0.tar.gz",
+  "download_time": "2026-05-10T06:58:59.832913",
   "package_url": "https://pypi.org/project/pydantic-encryption/"
 }

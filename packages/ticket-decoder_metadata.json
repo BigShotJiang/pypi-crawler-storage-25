@@ -1,0 +1,11 @@
+{
+  "name": "ticket-decoder",
+  "version": "0.18",
+  "summary": "Train ticket barcode to json decoding library, using zxing-cpp decoding in combination with record interpreter, to transform content into json structure",
+  "author": "user4223",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ticket_decoder-0.18-cp313-cp313-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-10T06:59:08.197769",
+  "package_url": "https://pypi.org/project/ticket-decoder/"
+}

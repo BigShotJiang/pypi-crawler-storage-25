@@ -1,0 +1,11 @@
+{
+  "name": "slackblocks",
+  "version": "1.2.4",
+  "summary": "Python wrapper for the Slack Blocks API",
+  "author": "Nicholas Lambourne",
+  "license": "MIT",
+  "home_page": "https://github.com/nicklambourne/slackblocks",
+  "download_filename": "slackblocks-1.2.4.tar.gz",
+  "download_time": "2026-05-10T06:58:46.878484",
+  "package_url": "https://pypi.org/project/slackblocks/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lobbywatch-mcp",
+  "version": "0.3.0",
+  "summary": "MCP server for the Lobbywatch.ch lobby database — conflicts of interest of Swiss parliamentarians",
+  "author": "malkreide",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lobbywatch_mcp-0.3.0.tar.gz",
+  "download_time": "2026-05-10T06:58:44.551355",
+  "package_url": "https://pypi.org/project/lobbywatch-mcp/"
+}

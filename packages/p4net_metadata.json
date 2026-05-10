@@ -1,0 +1,11 @@
+{
+  "name": "p4net",
+  "version": "0.2.0",
+  "summary": "A P4Runtime-native SDN simulation framework for BMv2.",
+  "author": "The p4net Authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "p4net-0.2.0.tar.gz",
+  "download_time": "2026-05-10T06:58:46.298460",
+  "package_url": "https://pypi.org/project/p4net/"
+}

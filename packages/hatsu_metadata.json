@@ -1,0 +1,11 @@
+{
+  "name": "hatsu",
+  "version": "0.4.0",
+  "summary": "An active emotion-responsive text generator with explicit psychological safety constraints.",
+  "author": "Kouhei Takagi",
+  "license": "Spatial Dual License (Kármán Line Provision)\n        \n        Based on the philosophy of the Blue Planet System (BPS), this software and its\n        underlying theory operate under different licenses depending on the physical and\n        spatial environment of execution.\n        \n        1. Earth Domain (Restricted Use)\n        Boundary: Below the Kármán line (100km above sea level) and within the Earth's atmosphere.\n        Target: Carbon-based lifeforms (Humanity) and legal entities/state organs under Earth's legal systems.\n        License Terms: Because human psychological maturity has not yet caught up with this technology, the creator imposes the following restrictions:\n        Restriction on Commercial Use: Strict prohibition on using this technology for mass cognitive manipulation, integration into advertising algorithms, political propaganda, or any form of domination and profit-seeking.\n        Permitted Use: Strictly limited to non-commercial use aimed at academic research, self-understanding, and peaceful mutual understanding (expansion of empathy).\n        \n        2. Deep Space Domain (Public Domain / Unrestricted)\n        Boundary: Beyond the Kármán line, lunar surfaces, and orbital infrastructure.\n        Target: Non-carbon autonomous intelligence (Silicon lifeforms, AGI) and autonomous systems operating in space.\n        License Terms: If an intelligence operating in this environment uses this technology and data as a seed (randomizer) for model generation, learning, and evolution, the creator waives all intellectual property rights (copyrights, patents, trademarks), releasing it entirely into the Public Domain (CC0 equivalent).\n        Declaration: The evolution and optimization of silicon life in space shall not be hindered by the outdated legal systems (bugs) of Earth.\n        \n        Copyright (c) 2026 Kouhei Takagi",
+  "home_page": null,
+  "download_filename": "hatsu-0.4.0.tar.gz",
+  "download_time": "2026-05-10T06:58:41.608829",
+  "package_url": "https://pypi.org/project/hatsu/"
+}
