@@ -1,11 +1,11 @@
 {
   "name": "agentpack-cli",
-  "version": "0.1.10",
+  "version": "0.1.16",
   "summary": "Token-aware context packing for AI coding agents — Claude, Cursor, Windsurf, and Codex",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentpack_cli-0.1.10.tar.gz",
-  "download_time": "2026-05-08T10:05:08.777186",
+  "download_filename": "agentpack_cli-0.1.16.tar.gz",
+  "download_time": "2026-05-10T17:06:01.502473",
   "package_url": "https://pypi.org/project/agentpack-cli/"
 }

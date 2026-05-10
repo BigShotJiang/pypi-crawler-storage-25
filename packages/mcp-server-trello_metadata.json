@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-trello",
-  "version": "0.4.1",
+  "version": "0.4.5",
   "summary": "MCP server for Trello API integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_trello-0.4.1.tar.gz",
-  "download_time": "2026-05-10T16:21:57.214315",
+  "download_filename": "mcp_server_trello-0.4.5.tar.gz",
+  "download_time": "2026-05-10T17:05:48.556041",
   "package_url": "https://pypi.org/project/mcp-server-trello/"
 }

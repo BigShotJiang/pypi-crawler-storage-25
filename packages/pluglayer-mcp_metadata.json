@@ -1,11 +1,11 @@
 {
   "name": "pluglayer-mcp",
-  "version": "0.26.50908",
+  "version": "0.26.51016",
   "summary": "PlugLayer MCP server — deploy and manage infrastructure via AI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pluglayer_mcp-0.26.50908.tar.gz",
-  "download_time": "2026-05-09T09:01:51.255771",
+  "download_filename": "pluglayer_mcp-0.26.51016.tar.gz",
+  "download_time": "2026-05-10T17:05:47.477603",
   "package_url": "https://pypi.org/project/pluglayer-mcp/"
 }

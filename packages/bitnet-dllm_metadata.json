@@ -1,11 +1,11 @@
 {
   "name": "bitnet-dllm",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "BitNet 1.58-bit Masked Diffusion Language Model",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bitnet_dllm-1.0.2.tar.gz",
-  "download_time": "2026-05-10T16:22:18.494368",
+  "download_filename": "bitnet_dllm-1.1.0.tar.gz",
+  "download_time": "2026-05-10T17:06:02.582712",
   "package_url": "https://pypi.org/project/bitnet-dllm/"
 }

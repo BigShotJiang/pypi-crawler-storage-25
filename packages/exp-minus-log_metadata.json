@@ -1,0 +1,11 @@
+{
+  "name": "exp-minus-log",
+  "version": "0.1.0",
+  "summary": "All elementary functions from a single operator: eml(x, y) = exp(x) − ln(y)",
+  "author": "Inknyto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "exp_minus_log-0.1.0.tar.gz",
+  "download_time": "2026-05-10T17:05:28.602572",
+  "package_url": "https://pypi.org/project/exp-minus-log/"
+}

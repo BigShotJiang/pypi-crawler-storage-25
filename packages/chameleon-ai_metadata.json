@@ -1,11 +1,11 @@
 {
   "name": "chameleon-ai",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "Transpile a neutral agent configuration into Claude Code, Codex CLI, and other agent-specific formats — and back again.",
   "author": "Robert Waugh",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chameleon_ai-0.5.4.tar.gz",
-  "download_time": "2026-05-09T20:11:50.926455",
+  "download_filename": "chameleon_ai-0.5.5.tar.gz",
+  "download_time": "2026-05-10T17:05:58.240227",
   "package_url": "https://pypi.org/project/chameleon-ai/"
 }

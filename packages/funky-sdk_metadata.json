@@ -1,11 +1,11 @@
 {
   "name": "funky-sdk",
-  "version": "0.2.10",
-  "summary": "SDK for connecting a Funky workspace to agents",
+  "version": "0.2.19",
+  "summary": "SDK for spawning sub-agents with full isolation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "funky_sdk-0.2.10.tar.gz",
-  "download_time": "2026-05-03T23:55:52.694875",
+  "download_filename": "funky_sdk-0.2.19.tar.gz",
+  "download_time": "2026-05-10T17:05:46.409792",
   "package_url": "https://pypi.org/project/funky-sdk/"
 }

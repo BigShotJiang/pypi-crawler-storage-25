@@ -1,11 +1,11 @@
 {
   "name": "mnemara",
-  "version": "0.5.4",
+  "version": "0.15.0",
   "summary": "Controlled rolling-context conversation runtime for Claude — transparent turns store, role doc system prompt, and the Claude Agent SDK underneath.",
   "author": "Michael Anderson, Dave Moore",
   "license": null,
   "home_page": null,
-  "download_filename": "mnemara-0.5.4.tar.gz",
-  "download_time": "2026-05-07T23:46:26.672282",
+  "download_filename": "mnemara-0.15.0.tar.gz",
+  "download_time": "2026-05-10T17:05:30.206464",
   "package_url": "https://pypi.org/project/mnemara/"
 }

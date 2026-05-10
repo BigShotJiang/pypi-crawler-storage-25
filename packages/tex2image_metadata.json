@@ -1,0 +1,11 @@
+{
+  "name": "tex2image",
+  "version": "1.0.0",
+  "summary": "A simple python library for converting latex snippets to images.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tex2image-1.0.0.tar.gz",
+  "download_time": "2026-05-10T17:05:26.420089",
+  "package_url": "https://pypi.org/project/tex2image/"
+}

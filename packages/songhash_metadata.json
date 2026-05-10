@@ -1,0 +1,11 @@
+{
+  "name": "songhash",
+  "version": "0.1.1",
+  "summary": "Deterministic musical hash — turn a file's SHA-256 into ≤30 s of pleasant, music-theory-correct audio.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "songhash-0.1.1.tar.gz",
+  "download_time": "2026-05-10T17:06:07.960550",
+  "package_url": "https://pypi.org/project/songhash/"
+}

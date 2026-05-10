@@ -1,0 +1,11 @@
+{
+  "name": "pymap-tile",
+  "version": "0.1.0",
+  "summary": "Download raster map tiles and stitch them into PNG mosaics.",
+  "author": "Brandon Xiang",
+  "license": "MIT",
+  "home_page": "https://github.com/brandonxiang/pyMap",
+  "download_filename": "pymap_tile-0.1.0.tar.gz",
+  "download_time": "2026-05-10T17:05:31.809920",
+  "package_url": "https://pypi.org/project/pymap-tile/"
+}
