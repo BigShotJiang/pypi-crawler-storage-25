@@ -1,0 +1,11 @@
+{
+  "name": "coinprecio",
+  "version": "2026.5.10",
+  "summary": "Cryptocurrency API client for fetching market price",
+  "author": "Joel Torres",
+  "license": "MIT",
+  "home_page": "https://codeberg.org/jtorrest2/coinprecio",
+  "download_filename": "coinprecio-2026.5.10.tar.gz",
+  "download_time": "2026-05-10T18:03:45.214162",
+  "package_url": "https://pypi.org/project/coinprecio/"
+}

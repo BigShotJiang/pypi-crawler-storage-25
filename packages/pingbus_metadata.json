@@ -1,0 +1,11 @@
+{
+  "name": "pingbus",
+  "version": "0.6.0",
+  "summary": "Official Python SDK for PingBus Notification Gateway",
+  "author": "PingBus Team",
+  "license": null,
+  "home_page": "https://github.com/divyanshsaraswat/pingbus-sdks",
+  "download_filename": "pingbus-0.6.0.tar.gz",
+  "download_time": "2026-05-10T18:04:02.959527",
+  "package_url": "https://pypi.org/project/pingbus/"
+}

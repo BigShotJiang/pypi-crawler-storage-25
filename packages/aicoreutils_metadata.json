@@ -1,11 +1,11 @@
 {
   "name": "aicoreutils",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "summary": "Agent-friendly CLI layer inspired by GNU Coreutils.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aicoreutils-1.1.0.tar.gz",
-  "download_time": "2026-05-05T10:30:53.996727",
+  "download_filename": "aicoreutils-1.2.1.tar.gz",
+  "download_time": "2026-05-10T18:03:28.519224",
   "package_url": "https://pypi.org/project/aicoreutils/"
 }

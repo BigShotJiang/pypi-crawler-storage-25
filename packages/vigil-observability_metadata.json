@@ -1,0 +1,11 @@
+{
+  "name": "vigil-observability",
+  "version": "0.1.0",
+  "summary": "Python SDK for sending logs, traces, and metrics to Vigil.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vigil_observability-0.1.0.tar.gz",
+  "download_time": "2026-05-10T18:03:03.483084",
+  "package_url": "https://pypi.org/project/vigil-observability/"
+}

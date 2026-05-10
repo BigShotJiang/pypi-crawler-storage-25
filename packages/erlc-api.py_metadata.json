@@ -1,0 +1,11 @@
+{
+  "name": "erlc-api.py",
+  "version": "3.0.0",
+  "summary": "Lightweight sync and async Python wrapper for the ER:LC PRC API",
+  "author": "Avi Sehrawat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "erlc_api_py-3.0.0.tar.gz",
+  "download_time": "2026-05-10T18:03:53.885795",
+  "package_url": "https://pypi.org/project/erlc-api.py/"
+}

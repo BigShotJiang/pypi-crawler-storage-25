@@ -1,11 +1,11 @@
 {
   "name": "sparql-tsv",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Query SPARQL endpoints and download results as TSV files",
   "author": "s-nt-s",
   "license": "GPLv3",
   "home_page": "https://github.com/s-nt-s/sparql-tsv",
-  "download_filename": "sparql_tsv-0.1.2.tar.gz",
-  "download_time": "2026-05-10T17:05:40.449915",
+  "download_filename": "sparql_tsv-0.1.4.tar.gz",
+  "download_time": "2026-05-10T18:03:47.029849",
   "package_url": "https://pypi.org/project/sparql-tsv/"
 }

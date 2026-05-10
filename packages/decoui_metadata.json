@@ -1,0 +1,11 @@
+{
+  "name": "decoui",
+  "version": "0.1.1",
+  "summary": "Decorator-driven GUI framework for Python — generate PySide6 UIs from type annotations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "decoui-0.1.1.tar.gz",
+  "download_time": "2026-05-10T18:03:26.820097",
+  "package_url": "https://pypi.org/project/decoui/"
+}

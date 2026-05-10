@@ -1,11 +1,11 @@
 {
   "name": "inspire-skill",
-  "version": "4.1.4",
+  "version": "5.0.0",
   "summary": "CLI for the Inspire training platform: notebook lifecycle, distributed/HPC job submission, SSH tunneling, image and resource ops",
   "author": "Inspire Platform Team",
   "license": null,
   "home_page": null,
-  "download_filename": "inspire_skill-4.1.4.tar.gz",
-  "download_time": "2026-05-09T21:55:25.812785",
+  "download_filename": "inspire_skill-5.0.0.tar.gz",
+  "download_time": "2026-05-10T18:03:29.791653",
   "package_url": "https://pypi.org/project/inspire-skill/"
 }

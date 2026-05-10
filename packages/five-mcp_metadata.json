@@ -1,11 +1,11 @@
 {
   "name": "five-mcp",
-  "version": "0.1.2",
-  "summary": "MCP server for the FIVE Character Engine — consistent LLM character voices via JSON constraints",
+  "version": "0.1.3",
+  "summary": "160,000 deductively-derived JSON constraints that enforce LLM character consistency — eliminates persona drift across interactions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "five_mcp-0.1.2.tar.gz",
-  "download_time": "2026-05-09T09:01:54.512339",
+  "download_filename": "five_mcp-0.1.3.tar.gz",
+  "download_time": "2026-05-10T18:03:44.094950",
   "package_url": "https://pypi.org/project/five-mcp/"
 }

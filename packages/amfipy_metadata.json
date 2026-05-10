@@ -1,0 +1,11 @@
+{
+  "name": "amfipy",
+  "version": "0.2.0",
+  "summary": "Python client for AMFI India — NAV, TER, Fund Performance, Tracking Error, Risk Parameters and more",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amfipy-0.2.0.tar.gz",
+  "download_time": "2026-05-10T18:03:35.228772",
+  "package_url": "https://pypi.org/project/amfipy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "btcoreutil",
+  "version": "2026.5.10",
+  "summary": "Utility library for Bitcoin Core",
+  "author": "Joel Torres",
+  "license": "MIT",
+  "home_page": "https://codeberg.org/jtorrest2/btcoreutil",
+  "download_filename": "btcoreutil-2026.5.10.tar.gz",
+  "download_time": "2026-05-10T18:03:54.939342",
+  "package_url": "https://pypi.org/project/btcoreutil/"
+}

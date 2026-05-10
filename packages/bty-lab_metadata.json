@@ -1,11 +1,11 @@
 {
   "name": "bty-lab",
-  "version": "0.7.42",
+  "version": "0.7.44",
   "summary": "Flash images onto target disks, locally or over PXE",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bty_lab-0.7.42.tar.gz",
-  "download_time": "2026-05-10T09:03:58.754280",
+  "download_filename": "bty_lab-0.7.44.tar.gz",
+  "download_time": "2026-05-10T18:03:39.984562",
   "package_url": "https://pypi.org/project/bty-lab/"
 }

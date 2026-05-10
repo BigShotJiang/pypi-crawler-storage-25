@@ -1,0 +1,11 @@
+{
+  "name": "pauldot",
+  "version": "1.0.0",
+  "summary": "Personal system manager: dotfiles, profiles, and tool installations across machines.",
+  "author": "Paul Hallett",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pauldot-1.0.0.tar.gz",
+  "download_time": "2026-05-10T18:03:47.687285",
+  "package_url": "https://pypi.org/project/pauldot/"
+}

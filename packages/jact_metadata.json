@@ -1,11 +1,11 @@
 {
   "name": "jact",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "JAX-based transition probability computation for multi-state models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jact-0.1.4.tar.gz",
-  "download_time": "2026-05-02T22:08:20.785729",
+  "download_filename": "jact-0.1.5.tar.gz",
+  "download_time": "2026-05-10T18:03:19.227558",
   "package_url": "https://pypi.org/project/jact/"
 }

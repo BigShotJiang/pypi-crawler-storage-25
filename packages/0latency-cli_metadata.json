@@ -1,0 +1,11 @@
+{
+  "name": "0latency-cli",
+  "version": "0.3.0",
+  "summary": "Transparent PTY wrapper for Claude Code with role detection and cloud atom storage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "0latency_cli-0.3.0.tar.gz",
+  "download_time": "2026-05-10T18:03:55.515933",
+  "package_url": "https://pypi.org/project/0latency-cli/"
+}

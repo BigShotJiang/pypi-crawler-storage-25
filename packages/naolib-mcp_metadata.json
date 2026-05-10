@@ -1,11 +1,11 @@
 {
   "name": "naolib-mcp",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Serveur MCP pour les informations de trafic en temps réel de Naolib (Nantes)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "naolib_mcp-0.2.5.tar.gz",
-  "download_time": "2026-05-10T10:53:31.506398",
+  "download_filename": "naolib_mcp-0.2.6.tar.gz",
+  "download_time": "2026-05-10T18:03:17.595437",
   "package_url": "https://pypi.org/project/naolib-mcp/"
 }

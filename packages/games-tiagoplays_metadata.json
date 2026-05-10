@@ -1,0 +1,11 @@
+{
+  "name": "games-tiagoplays",
+  "version": "0.0.1",
+  "summary": "A powerful and simple 2D game engine for Python with hardware acceleration (OpenGL) and one-click .exe generation.",
+  "author": "TiagoPlays",
+  "license": null,
+  "home_page": null,
+  "download_filename": "games_tiagoplays-0.0.1.tar.gz",
+  "download_time": "2026-05-10T18:03:44.645204",
+  "package_url": "https://pypi.org/project/games-tiagoplays/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "deed-runtime",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Contractual runtime for AI agents — pre/post contracts, policy enforcement, credits metering, checkpoint & replay",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "deed_runtime-0.1.0.tar.gz",
-  "download_time": "2026-05-09T16:02:02.194290",
+  "download_filename": "deed_runtime-0.1.1.tar.gz",
+  "download_time": "2026-05-10T18:03:30.340705",
   "package_url": "https://pypi.org/project/deed-runtime/"
 }

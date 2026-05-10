@@ -1,0 +1,11 @@
+{
+  "name": "semolina",
+  "version": "0.4.0",
+  "summary": "A Pythonic ORM for querying data warehouse semantic views (Snowflake, Databricks, DuckDB)",
+  "author": "Anentropic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "semolina-0.4.0.tar.gz",
+  "download_time": "2026-05-10T18:03:10.178691",
+  "package_url": "https://pypi.org/project/semolina/"
+}

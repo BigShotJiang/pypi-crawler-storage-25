@@ -1,0 +1,11 @@
+{
+  "name": "jrpc2",
+  "version": "2026.5.10",
+  "summary": "Simple JSON-RPC 2.0 client with no dependencies other than Python's standard library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jrpc2-2026.5.10.tar.gz",
+  "download_time": "2026-05-10T18:03:40.557135",
+  "package_url": "https://pypi.org/project/jrpc2/"
+}
