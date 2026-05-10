@@ -1,11 +1,11 @@
 {
   "name": "faceit",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "The Python wrapper for the FACEIT API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "faceit-0.2.0.tar.gz",
-  "download_time": "2026-04-19T03:56:16.049171",
+  "download_filename": "faceit-0.2.2.tar.gz",
+  "download_time": "2026-05-10T14:07:46.056314",
   "package_url": "https://pypi.org/project/faceit/"
 }

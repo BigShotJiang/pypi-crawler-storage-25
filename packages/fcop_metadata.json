@@ -1,11 +1,11 @@
 {
   "name": "fcop",
-  "version": "0.6.3",
+  "version": "1.0.1",
   "summary": "FCoP protocol: official Python library — Project API, task/report/issue files, filename parsing, bundled rules. PyYAML only; not an MCP server.",
   "author": "FCoP Maintainers",
   "license": null,
   "home_page": null,
-  "download_filename": "fcop-0.6.3.tar.gz",
-  "download_time": "2026-04-26T01:22:19.526915",
+  "download_filename": "fcop-1.0.1-py3-none-any.whl",
+  "download_time": "2026-05-10T14:07:35.688601",
   "package_url": "https://pypi.org/project/fcop/"
 }

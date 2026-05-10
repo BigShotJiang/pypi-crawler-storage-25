@@ -1,0 +1,11 @@
+{
+  "name": "browsertrace",
+  "version": "0.1.16",
+  "summary": "See what your AI browser agent did and why it failed.",
+  "author": "aaronlab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "browsertrace-0.1.16.tar.gz",
+  "download_time": "2026-05-10T14:08:00.291645",
+  "package_url": "https://pypi.org/project/browsertrace/"
+}

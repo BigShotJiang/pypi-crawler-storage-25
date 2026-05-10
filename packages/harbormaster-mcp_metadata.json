@@ -1,11 +1,11 @@
 {
   "name": "harbormaster-mcp",
-  "version": "14.0.0",
+  "version": "16.0.0",
   "summary": "MCP server that routes Q&A across all your projects — locally or over SSH. Part of the FleetQ ecosystem.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "harbormaster_mcp-14.0.0.tar.gz",
-  "download_time": "2026-05-10T12:17:40.494119",
+  "download_filename": "harbormaster_mcp-16.0.0.tar.gz",
+  "download_time": "2026-05-10T14:07:21.793733",
   "package_url": "https://pypi.org/project/harbormaster-mcp/"
 }
