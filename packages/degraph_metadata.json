@@ -1,11 +1,11 @@
 {
   "name": "degraph",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Decision-Evidence Graph: traceable, challengeable, temporal decision provenance for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "degraph-1.0.4.tar.gz",
-  "download_time": "2026-05-10T09:03:51.908627",
+  "download_filename": "degraph-1.0.5.tar.gz",
+  "download_time": "2026-05-10T10:53:30.995132",
   "package_url": "https://pypi.org/project/degraph/"
 }

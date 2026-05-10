@@ -1,0 +1,11 @@
+{
+  "name": "kreyo-verifactu-hash-calculator",
+  "version": "0.1.2",
+  "summary": "Open-source reference implementation of the SHA-256 chained hash algorithm required by the Spanish Tax Agency (AEAT) for VeriFactu billing records.",
+  "author": "Kreyo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kreyo_verifactu_hash_calculator-0.1.2.tar.gz",
+  "download_time": "2026-05-10T10:53:16.603788",
+  "package_url": "https://pypi.org/project/kreyo-verifactu-hash-calculator/"
+}

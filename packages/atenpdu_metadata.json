@@ -1,0 +1,11 @@
+{
+  "name": "atenpdu",
+  "version": "0.8.0",
+  "summary": "Interface for ATEN-PE PDUs",
+  "author": "Andreas Oberritter",
+  "license": null,
+  "home_page": "https://codeberg.org/obi/pductl",
+  "download_filename": "atenpdu-0.8.0.tar.gz",
+  "download_time": "2026-05-10T10:53:27.405887",
+  "package_url": "https://pypi.org/project/atenpdu/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bamboo-coding",
-  "version": "0.1.1",
-  "summary": "Bamboo Coding controller and client",
+  "version": "0.1.5",
+  "summary": "Bamboo Coding outbound client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bamboo_coding-0.1.1.tar.gz",
-  "download_time": "2026-04-25T09:59:42.275869",
+  "download_filename": "bamboo_coding-0.1.5.tar.gz",
+  "download_time": "2026-05-10T10:53:24.326447",
   "package_url": "https://pypi.org/project/bamboo-coding/"
 }

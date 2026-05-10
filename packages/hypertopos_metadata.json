@@ -1,11 +1,11 @@
 {
   "name": "hypertopos",
-  "version": "0.6.3",
+  "version": "0.6.7",
   "summary": "Understand the structure of your data — without training machine learning models",
   "author": "Karol Kędzia",
   "license": "BSL-1.1",
   "home_page": null,
-  "download_filename": "hypertopos-0.6.3.tar.gz",
-  "download_time": "2026-05-06T20:56:58.474856",
+  "download_filename": "hypertopos-0.6.7.tar.gz",
+  "download_time": "2026-05-10T10:52:48.825095",
   "package_url": "https://pypi.org/project/hypertopos/"
 }

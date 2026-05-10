@@ -1,0 +1,11 @@
+{
+  "name": "tiffwrite",
+  "version": "2026.5.1",
+  "summary": "Write BioFormats/ImageJ compatible tiffs with zstd compression in parallel.",
+  "author": "Wim Pomp <w.pomp@nki.nl>",
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://git.wimpomp.nl/wim/tiffwrite",
+  "download_filename": "tiffwrite-2026.5.1.tar.gz",
+  "download_time": "2026-05-10T10:53:17.115042",
+  "package_url": "https://pypi.org/project/tiffwrite/"
+}
