@@ -1,11 +1,11 @@
 {
   "name": "octodns-mikrotik",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Mikrotik provider for octoDNS",
   "author": "Ludovic Ortega",
   "license": null,
   "home_page": null,
-  "download_filename": "octodns_mikrotik-0.1.0.tar.gz",
-  "download_time": "2026-05-10T22:17:00.997412",
+  "download_filename": "octodns_mikrotik-0.1.1.tar.gz",
+  "download_time": "2026-05-10T23:26:23.272007",
   "package_url": "https://pypi.org/project/octodns-mikrotik/"
 }

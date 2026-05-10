@@ -1,11 +1,11 @@
 {
   "name": "haluguard",
-  "version": "0.3.0",
+  "version": "0.3.3",
   "summary": "CLI for haluguard — verify LLM output for hallucinations from your terminal, CI/CD, or auto-verify every Claude Code response via a Stop hook.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "haluguard-0.3.0.tar.gz",
-  "download_time": "2026-05-10T22:17:07.829488",
+  "download_filename": "haluguard-0.3.3.tar.gz",
+  "download_time": "2026-05-10T23:26:04.437040",
   "package_url": "https://pypi.org/project/haluguard/"
 }

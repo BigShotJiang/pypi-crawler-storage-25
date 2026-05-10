@@ -1,11 +1,11 @@
 {
   "name": "ildan-memforge",
-  "version": "0.4.3",
+  "version": "0.5.2",
   "summary": "MemForge: portable, agent-neutral persistent memory for coding agents (ILDAN).",
   "author": "ILDAN",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ildan_memforge-0.4.3.tar.gz",
-  "download_time": "2026-05-08T12:30:58.144678",
+  "download_filename": "ildan_memforge-0.5.2.tar.gz",
+  "download_time": "2026-05-10T23:26:07.295174",
   "package_url": "https://pypi.org/project/ildan-memforge/"
 }

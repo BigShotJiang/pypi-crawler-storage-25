@@ -1,11 +1,11 @@
 {
   "name": "bog-agents-cli",
-  "version": "0.8.2",
+  "version": "0.8.5",
   "summary": "Bog Agents CLI — your coding agent in the terminal, patient as still water. 80+ slash commands, any LLM provider (Anthropic, OpenAI, Bedrock, Google, Ollama and more), persistent memory, plan mode, /qa acceptance-criteria harness, /peat personal scheduler, /record + /replay, in-memory secrets vault, MCP marketplace with 35+ servers, deep doctor, panic dumps, and a matte swamp/neon-green TUI. One install, no code required. Pass through in harmony.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bog_agents_cli-0.8.2.tar.gz",
-  "download_time": "2026-05-05T00:18:59.125204",
+  "download_filename": "bog_agents_cli-0.8.5.tar.gz",
+  "download_time": "2026-05-10T23:26:17.710022",
   "package_url": "https://pypi.org/project/bog-agents-cli/"
 }

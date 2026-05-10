@@ -1,11 +1,11 @@
 {
   "name": "stipul",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Deterministic enforcement and cryptographic evidence for AI agent actions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stipul-0.2.5.tar.gz",
-  "download_time": "2026-05-10T16:22:19.088645",
+  "download_filename": "stipul-0.2.6.tar.gz",
+  "download_time": "2026-05-10T23:26:29.512615",
   "package_url": "https://pypi.org/project/stipul/"
 }

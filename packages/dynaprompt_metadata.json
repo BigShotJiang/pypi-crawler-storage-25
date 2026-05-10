@@ -1,11 +1,11 @@
 {
   "name": "dynaprompt",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "Dynamic prompt management and configuration library for LLM applications. Powerful, lazy-loading, and supports Jinja2 templates and Pydantic schemas.",
   "author": "Mohamed Emam",
   "license": null,
   "home_page": null,
-  "download_filename": "dynaprompt-0.3.0.tar.gz",
-  "download_time": "2026-05-10T21:17:58.207881",
+  "download_filename": "dynaprompt-0.3.2.tar.gz",
+  "download_time": "2026-05-10T23:26:43.178232",
   "package_url": "https://pypi.org/project/dynaprompt/"
 }

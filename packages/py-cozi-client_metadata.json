@@ -1,0 +1,11 @@
+{
+  "name": "py-cozi-client",
+  "version": "2.0.4",
+  "summary": "Async Python client for the Cozi Family Organizer API with Pydantic models, full type safety and comprehensive error handling",
+  "author": "Matthew Jucius",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_cozi_client-2.0.4.tar.gz",
+  "download_time": "2026-05-10T23:25:58.812474",
+  "package_url": "https://pypi.org/project/py-cozi-client/"
+}

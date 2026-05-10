@@ -1,11 +1,11 @@
 {
   "name": "pttman",
-  "version": "0.4.2",
+  "version": "0.5.1",
   "summary": "Push-to-talk microphone control with a daemon-backed command queue",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pttman-0.4.2.tar.gz",
-  "download_time": "2026-04-05T21:33:41.056821",
+  "download_filename": "pttman-0.5.1.tar.gz",
+  "download_time": "2026-05-10T23:26:14.149940",
   "package_url": "https://pypi.org/project/pttman/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tgraphx",
-  "version": "1.3.2",
+  "version": "1.3.5",
   "summary": "Tensor-aware graph neural networks preserving spatial node feature layouts",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tgraphx-1.3.2.tar.gz",
-  "download_time": "2026-05-10T20:16:16.235237",
+  "download_filename": "tgraphx-1.3.5.tar.gz",
+  "download_time": "2026-05-10T23:26:09.175215",
   "package_url": "https://pypi.org/project/tgraphx/"
 }

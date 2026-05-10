@@ -1,0 +1,11 @@
+{
+  "name": "voicegateway",
+  "version": "0.1.1",
+  "summary": "Cost tracking and reconciliation for LiveKit voice agents: modality-aware unit accounting (audio-minutes, tokens, characters) backed by pydantic/genai-prices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voicegateway-0.1.1.tar.gz",
+  "download_time": "2026-05-10T23:26:26.646014",
+  "package_url": "https://pypi.org/project/voicegateway/"
+}

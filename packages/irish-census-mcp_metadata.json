@@ -1,0 +1,11 @@
+{
+  "name": "irish-census-mcp",
+  "version": "0.3.0",
+  "summary": "MCP server exposing the Irish National Archives census APIs (1821-1926) and the Irish Genealogy BMD records to LLM clients.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "irish_census_mcp-0.3.0.tar.gz",
+  "download_time": "2026-05-10T23:26:09.746584",
+  "package_url": "https://pypi.org/project/irish-census-mcp/"
+}
