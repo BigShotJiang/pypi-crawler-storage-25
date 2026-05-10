@@ -1,0 +1,11 @@
+{
+  "name": "envoy.github.abstract",
+  "version": "0.0.23",
+  "summary": "Deprecated: this package is no longer published as a standalone distribution; functionality now ships as part of envoy.github.release. See the README.",
+  "author": "Ryan Northey",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/envoyproxy/toolshed/tree/9ecb3eab2265680ccdec37f93a728379305ecb10/py/envoy.github.abstract",
+  "download_filename": "envoy_github_abstract-0.0.23.tar.gz",
+  "download_time": "2026-05-10T12:17:58.325143",
+  "package_url": "https://pypi.org/project/envoy.github.abstract/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "envoy.distribution.distrotest",
+  "version": "0.0.13",
+  "summary": "Deprecated: this package is no longer published as a standalone distribution; functionality now ships as part of envoy.distribution.verify. See the README.",
+  "author": "Ryan Northey",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/envoyproxy/toolshed/tree/fa2f2fb8f7d675b82a7a5a76b89be741e5ea8f9f/py/envoy.distribution.distrotest",
+  "download_filename": "envoy_distribution_distrotest-0.0.13.tar.gz",
+  "download_time": "2026-05-10T12:17:58.890522",
+  "package_url": "https://pypi.org/project/envoy.distribution.distrotest/"
+}

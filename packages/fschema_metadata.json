@@ -1,11 +1,11 @@
 {
   "name": "fschema",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Marshmallow-like schematization of a directory structure",
   "author": "Grigorii Statsenko",
   "license": null,
   "home_page": null,
-  "download_filename": "fschema-0.1.1.tar.gz",
-  "download_time": "2026-05-10T11:27:46.443313",
+  "download_filename": "fschema-0.1.2.tar.gz",
+  "download_time": "2026-05-10T12:18:07.548061",
   "package_url": "https://pypi.org/project/fschema/"
 }

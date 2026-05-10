@@ -1,0 +1,11 @@
+{
+  "name": "dragoman-ai",
+  "version": "0.5.0",
+  "summary": "A small CLI that lets Claude Code reach non-Anthropic models — Ollama, Perplexity, OpenAI, Gemini — through one verb the existing subagent runtime can call.",
+  "author": "Ariel Sakin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dragoman_ai-0.5.0.tar.gz",
+  "download_time": "2026-05-10T12:17:27.617365",
+  "package_url": "https://pypi.org/project/dragoman-ai/"
+}

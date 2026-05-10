@@ -1,0 +1,11 @@
+{
+  "name": "agent-sandbox-e2b",
+  "version": "0.0.1",
+  "summary": "agent-sandbox E2B SDK patch — one-line switch to use AgentBox via the E2B Python SDK",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agent_sandbox_e2b-0.0.1.tar.gz",
+  "download_time": "2026-05-10T12:17:21.101081",
+  "package_url": "https://pypi.org/project/agent-sandbox-e2b/"
+}

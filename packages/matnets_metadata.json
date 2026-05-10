@@ -1,0 +1,11 @@
+{
+  "name": "matnets",
+  "version": "2.4.0",
+  "summary": "A small experimental neural network library where neurons are represented as matrices.",
+  "author": "dsainvg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "matnets-2.4.0.tar.gz",
+  "download_time": "2026-05-10T12:18:09.683227",
+  "package_url": "https://pypi.org/project/matnets/"
+}

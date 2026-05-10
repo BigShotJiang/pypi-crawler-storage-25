@@ -1,11 +1,11 @@
 {
   "name": "rclip",
-  "version": "2.1.6",
+  "version": "3.0.5",
   "summary": "AI-Powered Command-Line Photo Search Tool",
   "author": "Yurij Mikhalevich",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "rclip-2.1.6.tar.gz",
-  "download_time": "2026-04-06T03:43:54.018591",
+  "download_filename": "rclip-3.0.5.tar.gz",
+  "download_time": "2026-05-10T12:17:51.192991",
   "package_url": "https://pypi.org/project/rclip/"
 }

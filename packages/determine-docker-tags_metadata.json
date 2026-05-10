@@ -1,0 +1,11 @@
+{
+  "name": "determine-docker-tags",
+  "version": "0.3.0",
+  "summary": "A small program to determine docker image tags",
+  "author": "Magnus Walbeck",
+  "license": null,
+  "home_page": null,
+  "download_filename": "determine_docker_tags-0.3.0.tar.gz",
+  "download_time": "2026-05-10T12:18:02.093411",
+  "package_url": "https://pypi.org/project/determine-docker-tags/"
+}

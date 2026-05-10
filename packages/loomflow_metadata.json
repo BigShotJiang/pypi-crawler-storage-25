@@ -1,11 +1,11 @@
 {
   "name": "loomflow",
-  "version": "0.9.16",
+  "version": "0.9.20",
   "summary": "Production workflow + agent framework. Multi-tenant, MCP-native, model-agnostic.",
   "author": "Jeeves",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "loomflow-0.9.16.tar.gz",
-  "download_time": "2026-05-10T04:26:58.978283",
+  "download_filename": "loomflow-0.9.20.tar.gz",
+  "download_time": "2026-05-10T12:17:53.374408",
   "package_url": "https://pypi.org/project/loomflow/"
 }

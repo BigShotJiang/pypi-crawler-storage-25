@@ -1,0 +1,11 @@
+{
+  "name": "envoy.gpg.identity",
+  "version": "0.1.2",
+  "summary": "Deprecated: this package is no longer published as a standalone distribution; functionality now ships as part of envoy.gpg.sign. See the README.",
+  "author": "Ryan Northey",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/envoyproxy/toolshed/tree/7b1fa803f86f13293a108a4556e3099bb42888f6/py/envoy.gpg.identity",
+  "download_filename": "envoy_gpg_identity-0.1.2.tar.gz",
+  "download_time": "2026-05-10T12:17:57.759628",
+  "package_url": "https://pypi.org/project/envoy.gpg.identity/"
+}

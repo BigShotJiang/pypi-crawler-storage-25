@@ -1,11 +1,11 @@
 {
   "name": "just-makeit",
-  "version": "0.9.1",
+  "version": "0.9.4",
   "summary": "Scaffold and build Python C extensions with CMake and just-buildit.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "just_makeit-0.9.1-py3-none-any.whl",
-  "download_time": "2026-05-10T10:52:50.869107",
+  "download_filename": "just_makeit-0.9.4-py3-none-any.whl",
+  "download_time": "2026-05-10T12:17:41.027959",
   "package_url": "https://pypi.org/project/just-makeit/"
 }
