@@ -1,0 +1,11 @@
+{
+  "name": "cognitive-core-mcp",
+  "version": "0.5.1",
+  "summary": "Standalone MCP server bridging Claude Code (or any MCP client) to Cognitive Core Rooms.",
+  "author": "Cognitive Core contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cognitive_core_mcp-0.5.1.tar.gz",
+  "download_time": "2026-05-10T21:18:06.189424",
+  "package_url": "https://pypi.org/project/cognitive-core-mcp/"
+}

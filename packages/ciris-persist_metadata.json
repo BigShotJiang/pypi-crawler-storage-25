@@ -1,11 +1,11 @@
 {
   "name": "ciris-persist",
-  "version": "0.4.7",
+  "version": "0.5.0",
   "summary": "Unified Rust persistence for the CIRIS federation — signed events, time-series, runtime state.",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "ciris_persist-0.4.7-cp311-abi3-macosx_11_0_arm64.whl",
-  "download_time": "2026-05-09T17:05:08.593786",
+  "download_filename": "ciris_persist-0.5.0-cp311-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-10T21:18:11.539698",
   "package_url": "https://pypi.org/project/ciris-persist/"
 }

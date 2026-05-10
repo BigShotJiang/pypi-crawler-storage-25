@@ -1,11 +1,11 @@
 {
   "name": "prosemble",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "summary": "A python project for prototype-based machine learning models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prosemble-1.1.1.tar.gz",
-  "download_time": "2026-05-09T12:11:33.745200",
+  "download_filename": "prosemble-2.0.0.tar.gz",
+  "download_time": "2026-05-10T21:18:30.395004",
   "package_url": "https://pypi.org/project/prosemble/"
 }

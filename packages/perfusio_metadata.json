@@ -1,0 +1,11 @@
+{
+  "name": "perfusio",
+  "version": "0.1.0",
+  "summary": "Open reference implementation of self-driving perfusion bioprocess development (Gadiyar et al., 2026)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "perfusio-0.1.0.tar.gz",
+  "download_time": "2026-05-10T21:18:12.583825",
+  "package_url": "https://pypi.org/project/perfusio/"
+}
