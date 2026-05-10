@@ -1,11 +1,11 @@
 {
   "name": "aproman",
-  "version": "0.5.2",
+  "version": "0.5.5",
   "summary": "Fix HDMI audio after suspend/resume on PipeWire + WirePlumber",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aproman-0.5.2.tar.gz",
-  "download_time": "2026-04-12T13:39:41.719818",
+  "download_filename": "aproman-0.5.5.tar.gz",
+  "download_time": "2026-05-10T22:17:21.007029",
   "package_url": "https://pypi.org/project/aproman/"
 }

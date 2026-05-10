@@ -1,11 +1,11 @@
 {
   "name": "ml4t-backtest",
-  "version": "0.1.0b13",
+  "version": "0.1.0b17",
   "summary": "State-of-the-art event-driven backtesting engine for quantitative trading",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ml4t_backtest-0.1.0b13.tar.gz",
-  "download_time": "2026-04-02T00:03:39.391090",
+  "download_filename": "ml4t_backtest-0.1.0b17.tar.gz",
+  "download_time": "2026-05-10T22:17:03.642045",
   "package_url": "https://pypi.org/project/ml4t-backtest/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "zedstat",
+  "version": "0.0.143",
+  "summary": "Statistics tools for ML models and deployment",
+  "author": "zed.uchicago.edu",
+  "license": "LICENSE",
+  "home_page": "https://github.com/zeroknowledgediscovery/zedstat",
+  "download_filename": "zedstat-0.0.143.tar.gz",
+  "download_time": "2026-05-10T22:17:30.687072",
+  "package_url": "https://pypi.org/project/zedstat/"
+}

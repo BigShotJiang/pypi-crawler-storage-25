@@ -1,0 +1,11 @@
+{
+  "name": "gpuhost-client",
+  "version": "0.1.2",
+  "summary": "Python client for the ComputeGateway GPU Model Host (embeddings, entities, rerank, translate, OCR, LLM, search, fetch).",
+  "author": "ComputeGateway",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpuhost_client-0.1.2.tar.gz",
+  "download_time": "2026-05-10T22:17:37.968116",
+  "package_url": "https://pypi.org/project/gpuhost-client/"
+}

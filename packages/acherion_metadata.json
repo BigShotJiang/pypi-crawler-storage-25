@@ -1,11 +1,11 @@
 {
   "name": "acherion",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Embeddable NiceGUI flow-graph editor and runtime workbench that compiles graphs into Python",
   "author": "Phillip Duncan-Gelder",
   "license": null,
   "home_page": null,
-  "download_filename": "acherion-0.3.0.tar.gz",
-  "download_time": "2026-05-09T21:07:17.870408",
+  "download_filename": "acherion-0.4.0.tar.gz",
+  "download_time": "2026-05-10T22:17:34.326706",
   "package_url": "https://pypi.org/project/acherion/"
 }

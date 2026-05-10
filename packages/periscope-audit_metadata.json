@@ -1,0 +1,11 @@
+{
+  "name": "periscope-audit",
+  "version": "0.1.0",
+  "summary": "Audit a container's network egress by running it inside an isolated network namespace and capturing every DNS query and TCP connection it makes.",
+  "author": "cbass-d",
+  "license": null,
+  "home_page": null,
+  "download_filename": "periscope_audit-0.1.0.tar.gz",
+  "download_time": "2026-05-10T22:17:25.398079",
+  "package_url": "https://pypi.org/project/periscope-audit/"
+}

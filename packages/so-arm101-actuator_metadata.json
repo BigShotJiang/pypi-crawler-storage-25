@@ -1,0 +1,11 @@
+{
+  "name": "so-arm101-actuator",
+  "version": "0.2.2",
+  "summary": "SO-ARM101 Actuator Protocol driver for robot-md-gateway. RPN-000000000002.",
+  "author": "RobotRegistryFoundation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "so_arm101_actuator-0.2.2.tar.gz",
+  "download_time": "2026-05-10T22:17:23.323857",
+  "package_url": "https://pypi.org/project/so-arm101-actuator/"
+}

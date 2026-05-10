@@ -1,11 +1,11 @@
 {
   "name": "verity-bigquery",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "summary": "BigQuery Connector for Verity, the Governance-as-Code Data Pipeline Tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "verity_bigquery-0.2.8-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-05-07T23:46:46.860526",
+  "download_filename": "verity_bigquery-0.2.9-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-10T22:17:06.791664",
   "package_url": "https://pypi.org/project/verity-bigquery/"
 }
