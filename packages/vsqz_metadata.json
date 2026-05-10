@@ -1,11 +1,11 @@
 {
   "name": "vsqz",
-  "version": "0.2.9",
+  "version": "0.3.3",
   "summary": "gzip for AI models — train 13B on 12GB, fine-tune 20B on 24GB. 55% smaller files, 2× longer context.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vsqz-0.2.9.tar.gz",
-  "download_time": "2026-05-10T17:05:36.684186",
+  "download_filename": "vsqz-0.3.3.tar.gz",
+  "download_time": "2026-05-10T19:12:30.489148",
   "package_url": "https://pypi.org/project/vsqz/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "moto",
-  "version": "5.1.22",
+  "version": "5.2.1",
   "summary": "A library that allows you to easily mock out tests based on AWS infrastructure",
   "author": "Steve Pulec",
   "license": "Apache-2.0",
   "home_page": "https://github.com/getmoto/moto",
-  "download_filename": "moto-5.1.22.tar.gz",
-  "download_time": "2026-03-28T20:29:11.464020",
+  "download_filename": "moto-5.2.1.tar.gz",
+  "download_time": "2026-05-10T19:12:20.684440",
   "package_url": "https://pypi.org/project/moto/"
 }

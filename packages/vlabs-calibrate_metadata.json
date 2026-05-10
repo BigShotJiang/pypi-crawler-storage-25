@@ -1,0 +1,11 @@
+{
+  "name": "vlabs-calibrate",
+  "version": "0.1.0a2",
+  "summary": "Conformal coverage guarantees for any reward function — wrap a Python callable with provable (1-α) coverage in 5 lines.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "vlabs_calibrate-0.1.0a2.tar.gz",
+  "download_time": "2026-05-10T19:13:02.000472",
+  "package_url": "https://pypi.org/project/vlabs-calibrate/"
+}

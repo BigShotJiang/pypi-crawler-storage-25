@@ -1,0 +1,11 @@
+{
+  "name": "fastvia-kit",
+  "version": "0.1.2",
+  "summary": "Production-ready FastAPI backend toolkit with auth, DB, migrations, Redis, ARQ jobs, middleware, logging, pagination, rate limiting, and security helpers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastvia_kit-0.1.2.tar.gz",
+  "download_time": "2026-05-10T19:12:35.647846",
+  "package_url": "https://pypi.org/project/fastvia-kit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "restgen",
+  "version": "0.1.0",
+  "summary": "Compile-time REST API code generator for FastAPI",
+  "author": "restgen contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "restgen-0.1.0-py3-none-any.whl",
+  "download_time": "2026-05-10T19:12:40.272943",
+  "package_url": "https://pypi.org/project/restgen/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "coordpy-ai",
+  "version": "0.5.20",
+  "summary": "SDK and CLI for coordinating LLM agent teams with content-addressed context capsules and reproducible run reports.",
+  "author": "Context Zero Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "coordpy_ai-0.5.20.tar.gz",
+  "download_time": "2026-05-10T19:12:36.679934",
+  "package_url": "https://pypi.org/project/coordpy-ai/"
+}

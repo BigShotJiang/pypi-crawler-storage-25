@@ -1,11 +1,11 @@
 {
   "name": "pwr_tray",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "A GTK tray applet for power management for i3/sway/KDE",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pwr_tray-1.0.10.tar.gz",
-  "download_time": "2026-05-10T17:05:49.627940",
+  "download_filename": "pwr_tray-1.0.11.tar.gz",
+  "download_time": "2026-05-10T19:12:54.234847",
   "package_url": "https://pypi.org/project/pwr_tray/"
 }

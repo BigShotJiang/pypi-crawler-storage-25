@@ -1,11 +1,11 @@
 {
   "name": "vela-state",
-  "version": "0.107.0",
+  "version": "0.109.0",
   "summary": "Python loader, reducer, and verifier for Vela scientific frontier state. Cross-impl mirror of the Rust substrate.",
   "author": null,
   "license": "Apache-2.0 OR MIT",
   "home_page": null,
-  "download_filename": "vela_state-0.107.0.tar.gz",
-  "download_time": "2026-05-10T17:06:10.617191",
+  "download_filename": "vela_state-0.109.0.tar.gz",
+  "download_time": "2026-05-10T19:12:35.136007",
   "package_url": "https://pypi.org/project/vela-state/"
 }

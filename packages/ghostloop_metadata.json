@@ -1,0 +1,11 @@
+{
+  "name": "ghostloop",
+  "version": "1.0.3",
+  "summary": "The agent loop, embodied. A tool-using runtime + fail-closed safety pipeline + sim-first execution harness for embodied AI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghostloop-1.0.3.tar.gz",
+  "download_time": "2026-05-10T19:13:06.094855",
+  "package_url": "https://pypi.org/project/ghostloop/"
+}

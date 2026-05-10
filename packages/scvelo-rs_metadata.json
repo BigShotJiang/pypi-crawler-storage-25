@@ -1,0 +1,11 @@
+{
+  "name": "scvelo-rs",
+  "version": "0.1.3",
+  "summary": "Drop-in Rust acceleration of scVelo for single-cell RNA velocity.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "scvelo_rs-0.1.3.tar.gz",
+  "download_time": "2026-05-10T19:12:37.702607",
+  "package_url": "https://pypi.org/project/scvelo-rs/"
+}

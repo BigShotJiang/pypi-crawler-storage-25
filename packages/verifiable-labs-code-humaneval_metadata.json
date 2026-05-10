@@ -1,0 +1,11 @@
+{
+  "name": "verifiable-labs-code-humaneval",
+  "version": "0.1.1",
+  "summary": "Single-turn procedural code-execution RL environment with sandboxed pytest scoring and conformal coverage",
+  "author": "Stelios Zacharioudakis",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "verifiable_labs_code_humaneval-0.1.1.tar.gz",
+  "download_time": "2026-05-10T19:13:05.582766",
+  "package_url": "https://pypi.org/project/verifiable-labs-code-humaneval/"
+}

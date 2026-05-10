@@ -1,0 +1,11 @@
+{
+  "name": "gity-cli",
+  "version": "0.1.2",
+  "summary": "Make large Git repositories feel instant — a lightweight cross-platform daemon that accelerates git status and maintenance via fsmonitor and file watching",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gity_cli-0.1.2.tar.gz",
+  "download_time": "2026-05-10T19:12:22.740490",
+  "package_url": "https://pypi.org/project/gity-cli/"
+}
