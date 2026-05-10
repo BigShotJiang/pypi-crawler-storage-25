@@ -1,0 +1,11 @@
+{
+  "name": "bearerbridge",
+  "version": "0.1.0",
+  "summary": "FastAPI helpers for Supabase/JWKS bearer JWT validation and service-to-service auth forwarding.",
+  "author": "BearerBridge Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bearerbridge-0.1.0.tar.gz",
+  "download_time": "2026-05-10T00:21:52.710375",
+  "package_url": "https://pypi.org/project/bearerbridge/"
+}

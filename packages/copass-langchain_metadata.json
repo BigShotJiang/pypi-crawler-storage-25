@@ -1,11 +1,11 @@
 {
   "name": "copass-langchain",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "summary": "LangChain tool adapters for Copass — drop-in discover/interpret/search tools for LangChain agents",
   "author": "Olane Inc.",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "copass_langchain-1.0.7.tar.gz",
-  "download_time": "2026-05-09T23:35:03.998988",
+  "download_filename": "copass_langchain-1.1.0.tar.gz",
+  "download_time": "2026-05-10T00:21:41.822222",
   "package_url": "https://pypi.org/project/copass-langchain/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "task-orchestrator-py",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "Python port of jpicklyk/task-orchestrator — MCP server for AI agent work management",
   "author": "Claudio Ferreira Filho",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "task_orchestrator_py-0.8.0.tar.gz",
-  "download_time": "2026-05-02T13:58:34.188204",
+  "download_filename": "task_orchestrator_py-0.9.0.tar.gz",
+  "download_time": "2026-05-10T00:21:54.247692",
   "package_url": "https://pypi.org/project/task-orchestrator-py/"
 }

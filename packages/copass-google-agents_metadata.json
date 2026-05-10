@@ -1,11 +1,11 @@
 {
   "name": "copass-google-agents",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "summary": "Copass agent primitives for Google Vertex AI Agent Engine (ADK)",
   "author": "Olane Inc.",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "copass_google_agents-1.0.7.tar.gz",
-  "download_time": "2026-05-09T23:35:09.014786",
+  "download_filename": "copass_google_agents-1.1.0.tar.gz",
+  "download_time": "2026-05-10T00:21:44.398242",
   "package_url": "https://pypi.org/project/copass-google-agents/"
 }

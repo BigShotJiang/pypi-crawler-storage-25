@@ -1,0 +1,11 @@
+{
+  "name": "btrfsutil",
+  "version": "7.0",
+  "summary": "Library for managing Btrfs filesystems",
+  "author": null,
+  "license": "LGPLv2+",
+  "home_page": "https://github.com/kdave/btrfs-progs",
+  "download_filename": "btrfsutil-7.0.tar.gz",
+  "download_time": "2026-05-10T00:22:21.231621",
+  "package_url": "https://pypi.org/project/btrfsutil/"
+}

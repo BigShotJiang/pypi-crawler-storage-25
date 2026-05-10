@@ -1,0 +1,11 @@
+{
+  "name": "sentinel-cpu",
+  "version": "0.1.0b2.dev52",
+  "summary": "Embedded RISC-V implementation written in Amaranth",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "sentinel_cpu-0.1.0b2.dev52.tar.gz",
+  "download_time": "2026-05-10T00:22:18.622008",
+  "package_url": "https://pypi.org/project/sentinel-cpu/"
+}
