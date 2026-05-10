@@ -1,11 +1,11 @@
 {
   "name": "alphadb-mysql",
-  "version": "1.0.0b47",
+  "version": "1.0.0b49",
   "summary": "AlphaDB is a versatile tool for managing MySQL database versions, using JSON to define structures and simplify migrations across environments.",
   "author": null,
   "license": null,
   "home_page": "https://alphadb.w-kuipers.com",
-  "download_filename": "alphadb_mysql-1.0.0b47.tar.gz",
-  "download_time": "2026-05-08T20:18:28.112395",
+  "download_filename": "alphadb_mysql-1.0.0b49.tar.gz",
+  "download_time": "2026-05-10T11:27:19.797575",
   "package_url": "https://pypi.org/project/alphadb-mysql/"
 }

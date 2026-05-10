@@ -1,0 +1,11 @@
+{
+  "name": "arcsecond-service-platesolver-astrometry",
+  "version": "1.2.1",
+  "summary": "Arcsecond plate solver based on astrometry.net indexes",
+  "author": "Arcsecond",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arcsecond_service_platesolver_astrometry-1.2.1.tar.gz",
+  "download_time": "2026-05-10T11:27:31.644936",
+  "package_url": "https://pypi.org/project/arcsecond-service-platesolver-astrometry/"
+}

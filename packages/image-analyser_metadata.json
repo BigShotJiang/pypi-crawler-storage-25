@@ -1,0 +1,11 @@
+{
+  "name": "image-analyser",
+  "version": "0.1.2",
+  "summary": "Static image analysis (CLI + FastAPI) for the analyser family",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "image_analyser-0.1.2.tar.gz",
+  "download_time": "2026-05-10T11:27:18.202942",
+  "package_url": "https://pypi.org/project/image-analyser/"
+}

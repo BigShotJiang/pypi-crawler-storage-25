@@ -1,0 +1,11 @@
+{
+  "name": "permisapi-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server pour PermisAPI : permettez a Claude / ChatGPT / Cursor de consulter les permis de construire France en langage naturel.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "permisapi_mcp-0.2.0.tar.gz",
+  "download_time": "2026-05-10T11:27:30.564905",
+  "package_url": "https://pypi.org/project/permisapi-mcp/"
+}

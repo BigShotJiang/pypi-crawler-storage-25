@@ -1,11 +1,11 @@
 {
   "name": "fund-cli",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "summary": "专业基金分析CLI工具 - 面向机构客户",
   "author": "Fund CLI Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fund_cli-3.1.0.tar.gz",
-  "download_time": "2026-05-10T00:22:22.815468",
+  "download_filename": "fund_cli-3.2.0.tar.gz",
+  "download_time": "2026-05-10T11:27:41.568275",
   "package_url": "https://pypi.org/project/fund-cli/"
 }

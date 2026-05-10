@@ -1,0 +1,11 @@
+{
+  "name": "phiml",
+  "version": "1.16.0",
+  "summary": "Unified API for machine learning",
+  "author": "Philipp Holl",
+  "license": "MIT",
+  "home_page": "https://github.com/tum-pbs/PhiML",
+  "download_filename": "phiml-1.16.0.tar.gz",
+  "download_time": "2026-05-10T11:27:47.463929",
+  "package_url": "https://pypi.org/project/phiml/"
+}

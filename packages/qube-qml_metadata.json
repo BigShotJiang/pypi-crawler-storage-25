@@ -1,11 +1,11 @@
 {
   "name": "qube-qml",
-  "version": "1.0.0rc1",
+  "version": "1.0.0rc2",
   "summary": "QUBE: Quadratic maximum likelihood UnBiased Estimator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qube_qml-1.0.0rc1.tar.gz",
-  "download_time": "2026-05-10T09:04:01.385923",
+  "download_filename": "qube_qml-1.0.0rc2.tar.gz",
+  "download_time": "2026-05-10T11:27:39.740739",
   "package_url": "https://pypi.org/project/qube-qml/"
 }

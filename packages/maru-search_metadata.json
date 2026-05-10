@@ -1,0 +1,11 @@
+{
+  "name": "maru-search",
+  "version": "0.6.1",
+  "summary": "Universal AI search MCP server — Perplexity-level quality with zero API keys. Multi-engine web scraping, intelligent ranking, and citation-native answers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maru_search-0.6.1.tar.gz",
+  "download_time": "2026-05-10T11:27:25.417994",
+  "package_url": "https://pypi.org/project/maru-search/"
+}

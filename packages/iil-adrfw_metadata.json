@@ -1,11 +1,11 @@
 {
   "name": "iil-adrfw",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "Architectural Decision Record framework with bi-temporal validity, AST checkers, and FastMCP integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iil_adrfw-0.3.0-py3-none-any.whl",
-  "download_time": "2026-05-08T16:12:05.393459",
+  "download_filename": "iil_adrfw-0.5.0.tar.gz",
+  "download_time": "2026-05-10T11:27:59.032026",
   "package_url": "https://pypi.org/project/iil-adrfw/"
 }

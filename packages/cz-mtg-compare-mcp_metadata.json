@@ -1,0 +1,11 @@
+{
+  "name": "cz-mtg-compare-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server that compares Magic: The Gathering single-card prices across Czech online shops.",
+  "author": "Robin Vyslouzil",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cz_mtg_compare_mcp-0.1.0.tar.gz",
+  "download_time": "2026-05-10T11:27:13.517200",
+  "package_url": "https://pypi.org/project/cz-mtg-compare-mcp/"
+}

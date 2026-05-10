@@ -1,0 +1,11 @@
+{
+  "name": "alphadb-postgres",
+  "version": "1.0.0b49",
+  "summary": "AlphaDB is a versatile tool for managing PostgreSQL database versions, using JSON to define structures and simplify migrations across environments.",
+  "author": null,
+  "license": null,
+  "home_page": "https://alphadb.w-kuipers.com",
+  "download_filename": "alphadb_postgres-1.0.0b49.tar.gz",
+  "download_time": "2026-05-10T11:27:19.287791",
+  "package_url": "https://pypi.org/project/alphadb-postgres/"
+}
