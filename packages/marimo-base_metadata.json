@@ -1,11 +1,11 @@
 {
   "name": "marimo-base",
-  "version": "0.23.3",
+  "version": "0.23.6",
   "summary": "A library for making reactive notebooks and apps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "marimo_base-0.23.3.tar.gz",
-  "download_time": "2026-04-24T17:57:45.114659",
+  "download_filename": "marimo_base-0.23.6.tar.gz",
+  "download_time": "2026-05-11T22:36:33.817030",
   "package_url": "https://pypi.org/project/marimo-base/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "packingcubes",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "PackingCubes octree implementation for astro data",
   "author": "Michael Ryan",
   "license": null,
   "home_page": null,
-  "download_filename": "packingcubes-0.5.0.tar.gz",
-  "download_time": "2026-05-06T23:04:07.967539",
+  "download_filename": "packingcubes-0.5.1.tar.gz",
+  "download_time": "2026-05-11T22:36:36.435115",
   "package_url": "https://pypi.org/project/packingcubes/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "culture",
-  "version": "10.6.6",
+  "version": "11.0.0",
   "summary": "The professional workspace for agents.",
   "author": "Ori Nachum",
   "license": null,
   "home_page": null,
-  "download_filename": "culture-10.6.6.tar.gz",
-  "download_time": "2026-05-11T20:59:28.789994",
+  "download_filename": "culture-11.0.0.tar.gz",
+  "download_time": "2026-05-11T22:36:23.095257",
   "package_url": "https://pypi.org/project/culture/"
 }

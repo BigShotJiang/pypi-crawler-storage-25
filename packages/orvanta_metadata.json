@@ -1,0 +1,11 @@
+{
+  "name": "orvanta",
+  "version": "1.698.0",
+  "summary": "A client library for accessing Orvanta server wrapping the Orvanta client API",
+  "author": "Ivo Pauly-Koelewijn",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "orvanta-1.698.0.tar.gz",
+  "download_time": "2026-05-11T22:36:44.885970",
+  "package_url": "https://pypi.org/project/orvanta/"
+}

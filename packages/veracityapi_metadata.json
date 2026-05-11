@@ -1,0 +1,11 @@
+{
+  "name": "veracityapi",
+  "version": "0.1.0",
+  "summary": "Python client SDK for VeracityAPI content trust scoring",
+  "author": "VeracityAPI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "veracityapi-0.1.0.tar.gz",
+  "download_time": "2026-05-11T22:37:01.974986",
+  "package_url": "https://pypi.org/project/veracityapi/"
+}

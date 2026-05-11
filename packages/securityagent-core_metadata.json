@@ -1,11 +1,11 @@
 {
   "name": "securityagent-core",
-  "version": "4.24.0",
+  "version": "4.27.0",
   "summary": "Local-first DLP engine and security layer for AI coding agents. Secures Copilot, Claude Code, Cursor, Windsurf, and any MCP-compatible agent.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "securityagent_core-4.24.0.tar.gz",
-  "download_time": "2026-05-11T11:48:17.590475",
+  "download_filename": "securityagent_core-4.27.0.tar.gz",
+  "download_time": "2026-05-11T22:36:11.918297",
   "package_url": "https://pypi.org/project/securityagent-core/"
 }

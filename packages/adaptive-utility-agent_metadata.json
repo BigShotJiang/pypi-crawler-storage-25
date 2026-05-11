@@ -1,0 +1,11 @@
+{
+  "name": "adaptive-utility-agent",
+  "version": "1.0.0",
+  "summary": "Adaptive Utility Agents — a Django-like framework for adaptive multi-model LLM systems.",
+  "author": "Praneeth Tota",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "adaptive_utility_agent-1.0.0.tar.gz",
+  "download_time": "2026-05-11T22:36:17.703832",
+  "package_url": "https://pypi.org/project/adaptive-utility-agent/"
+}

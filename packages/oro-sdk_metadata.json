@@ -1,11 +1,11 @@
 {
   "name": "oro-sdk",
-  "version": "1.0.60",
+  "version": "1.0.73",
   "summary": "Official Python SDK for the ORO Bittensor Subnet API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oro_sdk-1.0.60.tar.gz",
-  "download_time": "2026-05-05T00:19:42.950622",
+  "download_filename": "oro_sdk-1.0.73.tar.gz",
+  "download_time": "2026-05-11T22:36:35.111892",
   "package_url": "https://pypi.org/project/oro-sdk/"
 }

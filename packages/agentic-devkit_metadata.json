@@ -1,11 +1,11 @@
 {
   "name": "agentic-devkit",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "CLI and catalog for agentic documentation OS templates (greenfield + brownfield overlay)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentic_devkit-0.1.14.tar.gz",
-  "download_time": "2026-05-11T21:00:09.033769",
+  "download_filename": "agentic_devkit-0.1.15.tar.gz",
+  "download_time": "2026-05-11T22:37:07.690665",
   "package_url": "https://pypi.org/project/agentic-devkit/"
 }

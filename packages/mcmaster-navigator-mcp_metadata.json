@@ -1,0 +1,11 @@
+{
+  "name": "mcmaster-navigator-mcp",
+  "version": "0.5.3",
+  "summary": "Unofficial headless MCP server for navigating McMaster-Carr and resolving exact part numbers",
+  "author": "Chancel Lavoie",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcmaster_navigator_mcp-0.5.3.tar.gz",
+  "download_time": "2026-05-11T22:36:59.077434",
+  "package_url": "https://pypi.org/project/mcmaster-navigator-mcp/"
+}

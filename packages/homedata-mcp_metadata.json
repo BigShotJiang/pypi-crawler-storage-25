@@ -1,0 +1,11 @@
+{
+  "name": "homedata-mcp",
+  "version": "0.1.2",
+  "summary": "Model Context Protocol (MCP) server for the Homedata UK property data API - 29M UK addresses, EPC, planning, flood risk, demographics and more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "homedata_mcp-0.1.2.tar.gz",
+  "download_time": "2026-05-11T22:36:46.780394",
+  "package_url": "https://pypi.org/project/homedata-mcp/"
+}

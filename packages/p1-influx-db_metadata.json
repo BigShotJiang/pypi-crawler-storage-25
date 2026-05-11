@@ -1,0 +1,11 @@
+{
+  "name": "p1-influx-db",
+  "version": "3.0.0",
+  "summary": "Parsing P1 serial to Influx DB",
+  "author": "Yorick Fredrix",
+  "license": null,
+  "home_page": null,
+  "download_filename": "p1_influx_db-3.0.0.tar.gz",
+  "download_time": "2026-05-11T22:37:03.203764",
+  "package_url": "https://pypi.org/project/p1-influx-db/"
+}

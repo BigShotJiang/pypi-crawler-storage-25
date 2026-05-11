@@ -1,11 +1,11 @@
 {
   "name": "pinaxlib",
-  "version": "5.9.0",
+  "version": "5.10.1",
   "summary": "Queryable open data catalog engine for DCAT-AP, StatDCAT-AP, CKAN, and SDMX",
   "author": "gabrielgellner",
   "license": null,
   "home_page": null,
-  "download_filename": "pinaxlib-5.9.0.tar.gz",
-  "download_time": "2026-05-11T16:58:44.656062",
+  "download_filename": "pinaxlib-5.10.1.tar.gz",
+  "download_time": "2026-05-11T22:36:50.341286",
   "package_url": "https://pypi.org/project/pinaxlib/"
 }

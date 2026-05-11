@@ -1,0 +1,11 @@
+{
+  "name": "solvex-sdk",
+  "version": "0.1.2",
+  "summary": "Python client for the Solvex FunCaptcha solving API.",
+  "author": "Solvex",
+  "license": null,
+  "home_page": null,
+  "download_filename": "solvex_sdk-0.1.2.tar.gz",
+  "download_time": "2026-05-11T22:36:49.234298",
+  "package_url": "https://pypi.org/project/solvex-sdk/"
+}

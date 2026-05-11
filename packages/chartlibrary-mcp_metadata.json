@@ -1,11 +1,11 @@
 {
   "name": "chartlibrary-mcp",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "summary": "Cohort intelligence engine for stock chart patterns. Anchor any (symbol, date, timeframe) and your AI agent gets the cohort of 300 historical analogs, the full forward-return distribution, and the features that separated winners from losers. 8 composite MCP tools (search, cohort, discover, analyze, context, narrative, explain, portfolio). 25M+ patterns, 19K+ symbols, 10 years. Validated 50–0 in a blind paired AI-agent evaluation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chartlibrary_mcp-5.0.0.tar.gz",
-  "download_time": "2026-05-11T21:00:10.557649",
+  "download_filename": "chartlibrary_mcp-5.0.1.tar.gz",
+  "download_time": "2026-05-11T22:36:13.194488",
   "package_url": "https://pypi.org/project/chartlibrary-mcp/"
 }
