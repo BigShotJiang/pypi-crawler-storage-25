@@ -1,0 +1,11 @@
+{
+  "name": "gheim",
+  "version": "0.1.0",
+  "summary": "PII round-trip for LLM APIs: anonymize before the request, de-anonymize the stream on the way back.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gheim-0.1.0.tar.gz",
+  "download_time": "2026-05-11T14:23:25.978021",
+  "package_url": "https://pypi.org/project/gheim/"
+}

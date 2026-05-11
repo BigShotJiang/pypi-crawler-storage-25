@@ -1,11 +1,11 @@
 {
   "name": "qbittorrent-agent",
-  "version": "0.1.7",
+  "version": "0.10.0",
   "summary": "AI agent for qBittorrent management, RSS automation, and search.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qbittorrent_agent-0.1.7.tar.gz",
-  "download_time": "2026-04-17T07:18:36.632999",
+  "download_filename": "qbittorrent_agent-0.10.0.tar.gz",
+  "download_time": "2026-05-11T14:23:13.932257",
   "package_url": "https://pypi.org/project/qbittorrent-agent/"
 }

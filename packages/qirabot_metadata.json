@@ -1,11 +1,11 @@
 {
   "name": "qirabot",
-  "version": "0.5.4",
+  "version": "0.8.7",
   "summary": "Official Python SDK for Qirabot - AI-powered device automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qirabot-0.5.4.tar.gz",
-  "download_time": "2026-04-25T10:00:12.791452",
+  "download_filename": "qirabot-0.8.7.tar.gz",
+  "download_time": "2026-05-11T14:23:22.784450",
   "package_url": "https://pypi.org/project/qirabot/"
 }

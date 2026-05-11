@@ -1,0 +1,11 @@
+{
+  "name": "imaris-ims-zarr",
+  "version": "0.1.0",
+  "summary": "Class for reading Bitplane imaris files (*.ims) as zarr, adapted from AM Watson imaris_ims_file_reader",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "imaris_ims_zarr-0.1.0-py3-none-any.whl",
+  "download_time": "2026-05-11T14:23:54.989369",
+  "package_url": "https://pypi.org/project/imaris-ims-zarr/"
+}

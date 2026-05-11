@@ -1,0 +1,11 @@
+{
+  "name": "frequenz-microgrid-component-graph",
+  "version": "0.4.1",
+  "summary": "Python bindings for the Frequenz microgrid component graph rust library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "frequenz_microgrid_component_graph-0.4.1.tar.gz",
+  "download_time": "2026-05-11T14:24:02.044108",
+  "package_url": "https://pypi.org/project/frequenz-microgrid-component-graph/"
+}

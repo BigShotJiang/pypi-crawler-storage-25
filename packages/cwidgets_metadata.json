@@ -1,0 +1,11 @@
+{
+  "name": "cwidgets",
+  "version": "0.1.0",
+  "summary": "Accessible custom widgets for PyQt6 and PySide6 — keyboard navigation, NVDA screen reader support, and Win32 RichEdit integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cwidgets-0.1.0.tar.gz",
+  "download_time": "2026-05-11T14:24:01.530928",
+  "package_url": "https://pypi.org/project/cwidgets/"
+}

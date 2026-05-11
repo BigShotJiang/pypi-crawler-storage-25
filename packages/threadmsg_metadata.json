@@ -1,0 +1,11 @@
+{
+  "name": "threadmsg",
+  "version": "0.2.5",
+  "summary": "Thread safe message queue",
+  "author": "Robert Umbehant",
+  "license": "MIT",
+  "home_page": "https://github.com/wheresjames/threadmsg",
+  "download_filename": "threadmsg-0.2.5.tar.gz",
+  "download_time": "2026-05-11T14:23:57.669528",
+  "package_url": "https://pypi.org/project/threadmsg/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "korail2-ncard",
+  "version": "0.1.0",
+  "summary": "Korail(www.letskorail.com) wrapper for Python (fork with N-card discount support)",
+  "author": "Changwoo Song",
+  "license": "BSD License",
+  "home_page": "https://github.com/ce-dric/korail2",
+  "download_filename": "korail2_ncard-0.1.0.tar.gz",
+  "download_time": "2026-05-11T14:23:55.506001",
+  "package_url": "https://pypi.org/project/korail2-ncard/"
+}

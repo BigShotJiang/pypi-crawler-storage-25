@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-otrs-somconnexio",
+  "version": "16.0.1.2.12",
+  "summary": "Integration with OTRS for Som Connexió.",
+  "author": "Coopdevs Treball SCCL, Som Connexió SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://coopdevs.org",
+  "download_filename": "odoo_addon_otrs_somconnexio-16.0.1.2.12.tar.gz",
+  "download_time": "2026-05-11T14:23:22.248921",
+  "package_url": "https://pypi.org/project/odoo-addon-otrs-somconnexio/"
+}

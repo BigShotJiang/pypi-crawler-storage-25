@@ -1,0 +1,11 @@
+{
+  "name": "stbt-core",
+  "version": "34.12.0",
+  "summary": "Automated GUI testing for Set-Top Boxes",
+  "author": "Stb-tester.com Ltd.",
+  "license": null,
+  "home_page": "https://stb-tester.com",
+  "download_filename": "stbt_core-34.12.0.tar.gz",
+  "download_time": "2026-05-11T14:23:17.395163",
+  "package_url": "https://pypi.org/project/stbt-core/"
+}

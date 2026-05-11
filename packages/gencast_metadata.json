@@ -1,11 +1,11 @@
 {
   "name": "gencast",
-  "version": "1.3.4",
+  "version": "1.3.7",
   "summary": "Generate conversational podcasts from documents using AI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gencast-1.3.4.tar.gz",
-  "download_time": "2026-05-10T19:12:34.090866",
+  "download_filename": "gencast-1.3.7.tar.gz",
+  "download_time": "2026-05-11T14:23:35.889485",
   "package_url": "https://pypi.org/project/gencast/"
 }

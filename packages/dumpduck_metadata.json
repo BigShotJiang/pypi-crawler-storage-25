@@ -1,0 +1,11 @@
+{
+  "name": "dumpduck",
+  "version": "0.2.2",
+  "summary": "Compact, lazy-readable HDF5 trajectories with incremental atomistic property storage.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dumpduck-0.2.2-py3-none-any.whl",
+  "download_time": "2026-05-11T14:23:41.708511",
+  "package_url": "https://pypi.org/project/dumpduck/"
+}

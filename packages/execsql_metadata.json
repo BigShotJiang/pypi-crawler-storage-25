@@ -1,0 +1,11 @@
+{
+  "name": "execsql",
+  "version": "1.131.0",
+  "summary": "Runs a SQL script against a PostgreSQL, SQLite, MariaDB/MySQL, DuckDB, Firebird, MS-Access, MS-SQL-Server, or Oracle database, or an ODBC DSN.  Provides metacommands to import and export data, copy data between databases, conditionally execute SQL and metacommands, and dynamically alter SQL and metacommands with substitution variables.  Data can be exported in 18 different formats, including CSV, TSV, ODS, HTML, JSON, LaTeX, and Markdown tables, and using custom templates.",
+  "author": "Dreas Nielsen",
+  "license": "GPL",
+  "home_page": "https://osdn.net/project/execsql/",
+  "download_filename": "execsql-1.131.0.tar.gz",
+  "download_time": "2026-05-11T14:23:49.694269",
+  "package_url": "https://pypi.org/project/execsql/"
+}
