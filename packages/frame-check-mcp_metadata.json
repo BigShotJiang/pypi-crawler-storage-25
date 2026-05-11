@@ -1,11 +1,11 @@
 {
   "name": "frame-check-mcp",
-  "version": "0.9.1",
+  "version": "1.0.6",
   "summary": "Frame Check MCP server: deterministic structural framing analysis for AI-generated documents, with default-on frame-divergence block per FRAME_DIVERGENCE_CONTRACT_v1 c1.0. MCP surface delegates V4.2 judgment to the caller's agent model; zero Frame Check LLM cost per query.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "frame_check_mcp-0.9.1-py3-none-any.whl",
-  "download_time": "2026-05-08T17:38:16.973411",
+  "download_filename": "frame_check_mcp-1.0.6-py3-none-any.whl",
+  "download_time": "2026-05-11T08:17:59.078393",
   "package_url": "https://pypi.org/project/frame-check-mcp/"
 }

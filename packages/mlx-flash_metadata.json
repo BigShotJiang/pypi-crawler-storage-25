@@ -1,11 +1,11 @@
 {
   "name": "mlx-flash",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Run AI models too large for your Mac's memory — expert caching, speculative execution, and 15+ research techniques for MoE inference on Apple Silicon",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mlx_flash-0.7.0.tar.gz",
-  "download_time": "2026-05-10T22:17:04.163481",
+  "download_filename": "mlx_flash-0.7.1.tar.gz",
+  "download_time": "2026-05-11T08:18:18.646105",
   "package_url": "https://pypi.org/project/mlx-flash/"
 }

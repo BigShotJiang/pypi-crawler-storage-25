@@ -1,0 +1,11 @@
+{
+  "name": "MIMS-TP-Py-cli",
+  "version": "1.0.0",
+  "summary": "带C动态库的Python框架脚手架",
+  "author": "hafoxiaowanzi",
+  "license": null,
+  "home_page": "https://github.com/hafoxiaowanzi/my_framework_cli.git",
+  "download_filename": "mims_tp_py_cli-1.0.0.tar.gz",
+  "download_time": "2026-05-11T08:17:51.311563",
+  "package_url": "https://pypi.org/project/MIMS-TP-Py-cli/"
+}

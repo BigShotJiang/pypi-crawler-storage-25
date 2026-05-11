@@ -1,11 +1,11 @@
 {
   "name": "fastapi-restly",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A REST Framework for FastAPI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_restly-0.5.0.tar.gz",
-  "download_time": "2026-05-06T19:12:56.291028",
+  "download_filename": "fastapi_restly-0.5.1.tar.gz",
+  "download_time": "2026-05-11T08:17:46.251343",
   "package_url": "https://pypi.org/project/fastapi-restly/"
 }

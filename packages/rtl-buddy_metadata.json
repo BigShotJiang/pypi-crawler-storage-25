@@ -1,11 +1,11 @@
 {
   "name": "rtl-buddy",
-  "version": "3.2.3",
+  "version": "3.7.0",
   "summary": "Python CLI for Verilog and SystemVerilog RTL testing, randomized regressions, coverage, and simulator workflow automation.",
   "author": "Zhi-Hern Loh, Xie Jiacheng",
   "license": null,
   "home_page": null,
-  "download_filename": "rtl_buddy-3.2.3.tar.gz",
-  "download_time": "2026-05-05T06:25:06.972216",
+  "download_filename": "rtl_buddy-3.7.0.tar.gz",
+  "download_time": "2026-05-11T08:17:45.191310",
   "package_url": "https://pypi.org/project/rtl-buddy/"
 }

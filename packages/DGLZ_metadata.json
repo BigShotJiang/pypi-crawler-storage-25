@@ -1,11 +1,11 @@
 {
   "name": "DGLZ",
-  "version": "0.1.13.post1",
+  "version": "0.1.14",
   "summary": "EEG emotion recognition with CNN-Transformer encoders and three-stage hierarchical classifiers",
   "author": "SuShuHeng",
   "license": null,
   "home_page": null,
-  "download_filename": "dglz-0.1.13.post1.tar.gz",
-  "download_time": "2026-05-09T15:08:12.866812",
+  "download_filename": "dglz-0.1.14.tar.gz",
+  "download_time": "2026-05-11T08:17:34.347419",
   "package_url": "https://pypi.org/project/DGLZ/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "azure-appconfiguration",
+  "version": "1.8.1",
+  "summary": "Microsoft App Configuration Data Client Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/appconfiguration/azure-appconfiguration",
+  "download_filename": "azure_appconfiguration-1.8.1.tar.gz",
+  "download_time": "2026-05-11T08:18:14.463397",
+  "package_url": "https://pypi.org/project/azure-appconfiguration/"
+}
