@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-picking-invoice-link",
+  "version": "19.0.1.0.1.1",
+  "summary": "Adds link between pickings and invoices",
+  "author": "Agile Business Group, Tecnativa, BCIM sprl, Softdil S.L, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_picking_invoice_link-19.0.1.0.1.1-py3-none-any.whl",
+  "download_time": "2026-05-11T04:49:19.472004",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-picking-invoice-link/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "epistemic-vectors",
+  "version": "0.1.2",
+  "summary": "Epistemic Vectors — a provenance-native primitive for retrieval pipelines. Drop-in Epistemic Layer for LangChain, LlamaIndex, and Mem0.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "epistemic_vectors-0.1.2.tar.gz",
+  "download_time": "2026-05-11T04:48:51.670812",
+  "package_url": "https://pypi.org/project/epistemic-vectors/"
+}

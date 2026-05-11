@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-split-picking",
+  "version": "19.0.1.0.0.4",
+  "summary": "Split a picking in two not transferred pickings",
+  "author": "Camptocamp, Tecnativa, ForgeFlow S.L., Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_split_picking-19.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-05-11T04:49:14.859623",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-split-picking/"
+}

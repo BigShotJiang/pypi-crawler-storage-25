@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-restrict-lot",
+  "version": "18.0.1.1.1.4",
+  "summary": "Base module that add back the concept of restrict lot on stock move",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_restrict_lot-18.0.1.1.1.4-py3-none-any.whl",
+  "download_time": "2026-05-11T04:49:22.544412",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-restrict-lot/"
+}

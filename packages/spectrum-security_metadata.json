@@ -1,11 +1,11 @@
 {
   "name": "spectrum-security",
-  "version": "1.35.0",
+  "version": "1.35.3",
   "summary": "Autonomous Cyber Reasoning System - Red Team & Blue Team AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spectrum_security-1.35.0.tar.gz",
-  "download_time": "2026-05-10T11:27:55.284414",
+  "download_filename": "spectrum_security-1.35.3.tar.gz",
+  "download_time": "2026-05-11T04:49:26.119040",
   "package_url": "https://pypi.org/project/spectrum-security/"
 }

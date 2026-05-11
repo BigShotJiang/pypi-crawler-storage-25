@@ -1,0 +1,11 @@
+{
+  "name": "six2one",
+  "version": "0.1.2",
+  "summary": "Manifest-backed e621/e926 dataset fetching from tiny numeric commands.",
+  "author": "Nolla Fox",
+  "license": null,
+  "home_page": "https://github.com/nollafox/six2one",
+  "download_filename": "six2one-0.1.2.tar.gz",
+  "download_time": "2026-05-11T04:49:08.667295",
+  "package_url": "https://pypi.org/project/six2one/"
+}

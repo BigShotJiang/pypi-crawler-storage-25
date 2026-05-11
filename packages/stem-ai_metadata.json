@@ -1,11 +1,11 @@
 {
   "name": "stem-ai",
-  "version": "1.6.2",
+  "version": "1.6.8",
   "summary": "STEM BIO-AI deterministic evidence-surface scanner for bio/medical AI repositories",
   "author": "Flamehaven",
   "license": null,
   "home_page": null,
-  "download_filename": "stem_ai-1.6.2.tar.gz",
-  "download_time": "2026-05-08T06:32:56.570503",
+  "download_filename": "stem_ai-1.6.8.tar.gz",
+  "download_time": "2026-05-11T04:48:44.475360",
   "package_url": "https://pypi.org/project/stem-ai/"
 }

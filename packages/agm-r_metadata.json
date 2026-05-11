@@ -1,0 +1,11 @@
+{
+  "name": "agm-r",
+  "version": "0.2.3",
+  "summary": "AGM-R: theorem-minimum reference implementation of AGM belief-revision primitives (T-I1, T-I2, T-M1).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agm_r-0.2.3.tar.gz",
+  "download_time": "2026-05-11T04:48:52.181955",
+  "package_url": "https://pypi.org/project/agm-r/"
+}

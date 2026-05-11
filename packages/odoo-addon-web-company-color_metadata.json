@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-web-company-color",
-  "version": "18.0.1.0.7.4",
+  "version": "18.0.1.0.7.5",
   "summary": "Web Company Color",
   "author": "=?utf-8?q?Alexandre_D=C3=ADaz=2C_Odoo_Community_Association_=28OCA=29?=",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/web",
-  "download_filename": "odoo_addon_web_company_color-18.0.1.0.7.4-py3-none-any.whl",
-  "download_time": "2026-05-08T04:46:23.692481",
+  "download_filename": "odoo_addon_web_company_color-18.0.1.0.7.5-py3-none-any.whl",
+  "download_time": "2026-05-11T04:49:01.964381",
   "package_url": "https://pypi.org/project/odoo-addon-web-company-color/"
 }
