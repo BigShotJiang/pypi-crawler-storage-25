@@ -1,0 +1,11 @@
+{
+  "name": "fflow-cli",
+  "version": "1.0.9",
+  "summary": "FlutterFlow Git workflow CLI — manage feature branches, exports, staging and pushes.",
+  "author": "Anupama K",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fflow_cli-1.0.9.tar.gz",
+  "download_time": "2026-05-11T11:48:56.079278",
+  "package_url": "https://pypi.org/project/fflow-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "deepcraft-agent",
-  "version": "0.23.0",
-  "summary": "DeepSeek-powered AI coding agent — Claude Code alternative with tools, sandbox, and REPL",
-  "author": null,
+  "version": "0.32.0",
+  "summary": "DeepSeek-powered AI coding agent — server tested, CI ready",
+  "author": "liyuan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "deepcraft_agent-0.23.0-py3-none-any.whl",
-  "download_time": "2026-05-10T14:07:56.108880",
+  "download_filename": "deepcraft_agent-0.32.0-py3-none-any.whl",
+  "download_time": "2026-05-11T11:48:22.516601",
   "package_url": "https://pypi.org/project/deepcraft-agent/"
 }

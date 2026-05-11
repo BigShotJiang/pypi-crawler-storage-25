@@ -1,0 +1,11 @@
+{
+  "name": "motorfaultsvm",
+  "version": "2.0.2",
+  "summary": "A Machine Learning library for Motor Fault Detection using Support Vector Machine (SVM)",
+  "author": "Abdul Rafeul Mallick",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "motorfaultsvm-2.0.2.tar.gz",
+  "download_time": "2026-05-11T11:48:33.975415",
+  "package_url": "https://pypi.org/project/motorfaultsvm/"
+}

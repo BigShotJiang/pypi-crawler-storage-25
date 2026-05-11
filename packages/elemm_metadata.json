@@ -1,11 +1,11 @@
 {
   "name": "elemm",
-  "version": "0.7.0",
-  "summary": "A protocol for autonomous LLM agents to navigate web applications via semantic landmarks.",
-  "author": "Marc Stöcker",
-  "license": "GPL-3.0-only",
+  "version": "1.1.2",
+  "summary": "AI Landmarks: The specialized protocol for autonomous agent discovery.",
+  "author": null,
+  "license": null,
   "home_page": null,
-  "download_filename": "elemm-0.7.0.tar.gz",
-  "download_time": "2026-04-21T23:02:46.653397",
+  "download_filename": "elemm-1.1.2.tar.gz",
+  "download_time": "2026-05-11T11:48:28.256063",
   "package_url": "https://pypi.org/project/elemm/"
 }

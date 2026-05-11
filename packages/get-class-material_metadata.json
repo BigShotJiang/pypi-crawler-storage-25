@@ -1,11 +1,11 @@
 {
   "name": "get-class-material",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "One-command bulk downloader for NTU COOL (Canvas) course materials — PDFs, lecture videos, and Pages.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "get_class_material-0.2.1.tar.gz",
-  "download_time": "2026-05-07T00:02:16.609741",
+  "download_filename": "get_class_material-0.2.3.tar.gz",
+  "download_time": "2026-05-11T11:48:16.947599",
   "package_url": "https://pypi.org/project/get-class-material/"
 }

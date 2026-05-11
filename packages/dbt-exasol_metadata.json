@@ -1,0 +1,11 @@
+{
+  "name": "dbt-exasol",
+  "version": "1.10.6",
+  "summary": "Adapter to dbt-core for warehouse Exasol",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "dbt_exasol-1.10.6.tar.gz",
+  "download_time": "2026-05-11T11:48:52.133671",
+  "package_url": "https://pypi.org/project/dbt-exasol/"
+}

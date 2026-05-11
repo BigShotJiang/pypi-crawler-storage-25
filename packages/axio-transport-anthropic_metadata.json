@@ -1,11 +1,11 @@
 {
   "name": "axio-transport-anthropic",
-  "version": "0.6.0",
-  "summary": "Anthropic Claude transport for Axio",
+  "version": "0.9.2",
+  "summary": "Anthropic Claude transport for Axio (direct API and Vertex AI)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "axio_transport_anthropic-0.6.0.tar.gz",
-  "download_time": "2026-04-16T22:30:47.847558",
+  "download_filename": "axio_transport_anthropic-0.9.2.tar.gz",
+  "download_time": "2026-05-11T11:48:50.328231",
   "package_url": "https://pypi.org/project/axio-transport-anthropic/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyodesys",
+  "version": "0.14.7",
+  "summary": "Straightforward numerical integration of ODE systems from Python.",
+  "author": "Bjoern I. Dahlgren ",
+  "license": "BSD",
+  "home_page": "https://github.com/bjodah/pyodesys",
+  "download_filename": "pyodesys-0.14.7.tar.gz",
+  "download_time": "2026-05-11T11:48:26.329525",
+  "package_url": "https://pypi.org/project/pyodesys/"
+}

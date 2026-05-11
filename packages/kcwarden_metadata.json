@@ -1,0 +1,11 @@
+{
+  "name": "kcwarden",
+  "version": "0.17.0",
+  "summary": "Keycloak auditor",
+  "author": "Max Maass",
+  "license": "Apache-2.0",
+  "home_page": "https://iteratec.github.io/kcwarden/",
+  "download_filename": "kcwarden-0.17.0.tar.gz",
+  "download_time": "2026-05-11T11:48:11.145453",
+  "package_url": "https://pypi.org/project/kcwarden/"
+}

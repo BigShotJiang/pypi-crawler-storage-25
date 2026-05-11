@@ -1,0 +1,11 @@
+{
+  "name": "aiosolax-uart",
+  "version": "0.1.0",
+  "summary": "Async library to read SolaX inverters over UART using the Pocket USB protocol",
+  "author": "Jesse Hills",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiosolax_uart-0.1.0.tar.gz",
+  "download_time": "2026-05-11T11:48:34.556147",
+  "package_url": "https://pypi.org/project/aiosolax-uart/"
+}

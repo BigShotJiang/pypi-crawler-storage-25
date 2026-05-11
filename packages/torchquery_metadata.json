@@ -1,0 +1,11 @@
+{
+  "name": "torchquery",
+  "version": "2.1.2",
+  "summary": "High-performance SDC detection and neural healing for billion-scale tensors.",
+  "author": "Sundaram Gupta",
+  "license": null,
+  "home_page": "https://github.com/powerofaisinstudy-debug/torchquery",
+  "download_filename": "torchquery-2.1.2.tar.gz",
+  "download_time": "2026-05-11T11:48:54.346971",
+  "package_url": "https://pypi.org/project/torchquery/"
+}
