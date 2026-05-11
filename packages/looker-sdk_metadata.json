@@ -1,0 +1,11 @@
+{
+  "name": "looker-sdk",
+  "version": "26.8.0",
+  "summary": "Looker REST API",
+  "author": "Looker Data Sciences, Inc.",
+  "license": "MIT",
+  "home_page": "https://pypi.python.org/pypi/looker_sdk",
+  "download_filename": "looker_sdk-26.8.0.tar.gz",
+  "download_time": "2026-05-11T16:58:58.643138",
+  "package_url": "https://pypi.org/project/looker-sdk/"
+}

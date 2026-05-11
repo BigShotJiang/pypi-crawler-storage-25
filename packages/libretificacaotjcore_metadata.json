@@ -1,0 +1,11 @@
+{
+  "name": "libretificacaotjcore",
+  "version": "0.1.91",
+  "summary": "Biblioteca para centralizar conexao com filas no rabbit e banco de dados no mongodb para os servicos de retificacao da TJ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libretificacaotjcore-0.1.91.tar.gz",
+  "download_time": "2026-05-11T16:58:54.008311",
+  "package_url": "https://pypi.org/project/libretificacaotjcore/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "declarative-sdk-for-k",
+  "version": "2.21.0",
+  "summary": "Declarative lifecycle library for Keeper tenant state — adopt, plan, apply, diff, drift-watch, audit-explain. Terraform-style workflow for Keeper PAM, vault, MSP, and KSM.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "declarative_sdk_for_k-2.21.0.tar.gz",
+  "download_time": "2026-05-11T16:59:14.787546",
+  "package_url": "https://pypi.org/project/declarative-sdk-for-k/"
+}

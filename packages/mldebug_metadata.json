@@ -1,11 +1,11 @@
 {
   "name": "mldebug",
-  "version": "0.1.1",
+  "version": "0.6.1",
   "summary": "A lightweight Python package for comparing datasets and detecting unexpected changes in machine learning systems.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mldebug-0.1.1.tar.gz",
-  "download_time": "2026-04-29T15:37:23.188560",
+  "download_filename": "mldebug-0.6.1.tar.gz",
+  "download_time": "2026-05-11T16:59:08.996430",
   "package_url": "https://pypi.org/project/mldebug/"
 }

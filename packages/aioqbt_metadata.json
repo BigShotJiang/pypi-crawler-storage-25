@@ -1,0 +1,11 @@
+{
+  "name": "aioqbt",
+  "version": "1.1.0",
+  "summary": "API library for qBittorrent with asyncio",
+  "author": "Aaron Tsang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aioqbt-1.1.0.tar.gz",
+  "download_time": "2026-05-11T16:59:15.319923",
+  "package_url": "https://pypi.org/project/aioqbt/"
+}

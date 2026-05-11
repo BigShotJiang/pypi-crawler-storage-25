@@ -1,0 +1,11 @@
+{
+  "name": "morie",
+  "version": "0.1.15",
+  "summary": "Multi-domain Open Research and Inferential Estimation. Multi-domain scientific computing toolkit hosting the MRM framework for Canadian carceral, police, and oversight data, with general-purpose causal inference, signal processing, cryptography, spatial statistics, statistical physics, and psychometrics modules. (Renamed from MOIRAIS in v0.1.3; the moirais module remains as a deprecated alias.)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "morie-0.1.15.tar.gz",
+  "download_time": "2026-05-11T16:59:21.030353",
+  "package_url": "https://pypi.org/project/morie/"
+}
