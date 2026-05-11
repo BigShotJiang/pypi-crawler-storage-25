@@ -1,0 +1,11 @@
+{
+  "name": "openopus",
+  "version": "0.0.4",
+  "summary": "Python client and service layer for Open Opus API with caching and normalized models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openopus-0.0.4.tar.gz",
+  "download_time": "2026-05-11T23:23:26.827065",
+  "package_url": "https://pypi.org/project/openopus/"
+}

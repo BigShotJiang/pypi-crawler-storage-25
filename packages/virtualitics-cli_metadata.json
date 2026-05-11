@@ -1,0 +1,11 @@
+{
+  "name": "virtualitics-cli",
+  "version": "2.0.2",
+  "summary": "A command line interface for initializing, packaging, and deploying Custom Apps to the Virtualitics AI Platform from a local development environment.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "virtualitics_cli-2.0.2-py3-none-any.whl",
+  "download_time": "2026-05-11T23:23:06.414926",
+  "package_url": "https://pypi.org/project/virtualitics-cli/"
+}

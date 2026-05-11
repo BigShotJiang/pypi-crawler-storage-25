@@ -1,0 +1,11 @@
+{
+  "name": "pagerduty-mcp-server",
+  "version": "4.0.1",
+  "summary": "MCP server for LLM agents to interact with PagerDuty SaaS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pagerduty_mcp_server-4.0.1.tar.gz",
+  "download_time": "2026-05-11T23:23:09.611502",
+  "package_url": "https://pypi.org/project/pagerduty-mcp-server/"
+}

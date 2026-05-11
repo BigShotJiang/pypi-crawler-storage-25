@@ -1,0 +1,11 @@
+{
+  "name": "tensor-serve",
+  "version": "0.2.0",
+  "summary": "ZIM-based retrieval augmented proxy for OpenAI-compatible AI",
+  "author": "3M1RY33T",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensor_serve-0.2.0.tar.gz",
+  "download_time": "2026-05-11T23:23:11.224741",
+  "package_url": "https://pypi.org/project/tensor-serve/"
+}
