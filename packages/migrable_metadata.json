@@ -1,11 +1,11 @@
 {
   "name": "migrable",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Declarative config file migrations for TOML",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "migrable-0.5.0.tar.gz",
-  "download_time": "2026-05-10T23:26:26.099400",
+  "download_filename": "migrable-0.5.1.tar.gz",
+  "download_time": "2026-05-11T00:21:02.934694",
   "package_url": "https://pypi.org/project/migrable/"
 }

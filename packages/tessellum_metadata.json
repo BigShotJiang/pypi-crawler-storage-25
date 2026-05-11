@@ -1,11 +1,11 @@
 {
   "name": "tessellum",
-  "version": "0.0.34",
+  "version": "0.0.36",
   "summary": "Typed atomic notes in a graph — a Zettelkasten that scales. Knowledge construction with Building Blocks, Folgezettel trails, and the Dialectic Knowledge System (DKS).",
   "author": "Tianpei (Luke) Xie",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tessellum-0.0.34.tar.gz",
-  "download_time": "2026-05-10T23:26:02.172316",
+  "download_filename": "tessellum-0.0.36.tar.gz",
+  "download_time": "2026-05-11T00:20:24.126697",
   "package_url": "https://pypi.org/project/tessellum/"
 }

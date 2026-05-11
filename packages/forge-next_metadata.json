@@ -1,11 +1,11 @@
 {
   "name": "forge-next",
-  "version": "0.3.0",
+  "version": "0.6.3",
   "summary": "Forge Codex: install-once workflow orchestrators for Cursor/Codex",
   "author": "Forge Codex",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "forge_next-0.3.0.tar.gz",
-  "download_time": "2026-05-09T15:08:39.482374",
+  "download_filename": "forge_next-0.6.3.tar.gz",
+  "download_time": "2026-05-11T00:20:39.611692",
   "package_url": "https://pypi.org/project/forge-next/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "soundscapy",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": "A python library for analysing and visualising soundscape assessments.",
   "author": "Andrew Mitchell",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "soundscapy-0.8.3.tar.gz",
-  "download_time": "2026-05-10T16:21:52.154230",
+  "download_filename": "soundscapy-0.8.4.tar.gz",
+  "download_time": "2026-05-11T00:20:47.262589",
   "package_url": "https://pypi.org/project/soundscapy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "imbi-api",
+  "version": "2.0.0",
+  "summary": "Imbi is a DevOps Service Management Platform designed to provide an efficient way to manage a large environment that contains many services and applications.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "imbi_api-2.0.0.tar.gz",
+  "download_time": "2026-05-11T00:20:58.594298",
+  "package_url": "https://pypi.org/project/imbi-api/"
+}

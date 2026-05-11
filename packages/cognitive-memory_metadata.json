@@ -1,0 +1,11 @@
+{
+  "name": "cognitive-memory",
+  "version": "0.5.0",
+  "summary": "Biologically-inspired agent memory with decay, consolidation, and tiered storage",
+  "author": "Bhekani Khumalo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cognitive_memory-0.5.0.tar.gz",
+  "download_time": "2026-05-11T00:20:28.475206",
+  "package_url": "https://pypi.org/project/cognitive-memory/"
+}

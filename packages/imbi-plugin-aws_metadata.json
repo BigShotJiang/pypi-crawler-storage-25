@@ -1,0 +1,11 @@
+{
+  "name": "imbi-plugin-aws",
+  "version": "0.1.0",
+  "summary": "AWS plugins for Imbi (IAM Identity Center, SSM, CloudWatch Logs)",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "imbi_plugin_aws-0.1.0.tar.gz",
+  "download_time": "2026-05-11T00:20:52.342753",
+  "package_url": "https://pypi.org/project/imbi-plugin-aws/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "wandb-hivemind",
-  "version": "0.5.4",
+  "version": "0.6.4",
   "summary": "Syncs agentic coding sessions to Weights & Biases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wandb_hivemind-0.5.4-py3-none-any.whl",
-  "download_time": "2026-04-09T21:48:12.663975",
+  "download_filename": "wandb_hivemind-0.6.4-py3-none-any.whl",
+  "download_time": "2026-05-11T00:20:45.916527",
   "package_url": "https://pypi.org/project/wandb-hivemind/"
 }
