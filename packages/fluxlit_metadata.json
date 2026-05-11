@@ -1,11 +1,11 @@
 {
   "name": "fluxlit",
-  "version": "0.3.0",
+  "version": "0.6.0",
   "summary": "Production-oriented unified runtime for FastAPI + Streamlit",
   "author": "FluxLit contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "fluxlit-0.3.0.tar.gz",
-  "download_time": "2026-05-10T19:12:52.172302",
+  "download_filename": "fluxlit-0.6.0.tar.gz",
+  "download_time": "2026-05-11T20:59:27.343708",
   "package_url": "https://pypi.org/project/fluxlit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ks-xlsx-parser",
+  "version": "0.2.0",
+  "summary": "Production-grade Excel Workflow Parser for RAG + auditability systems",
+  "author": "XLSX Parser Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ks_xlsx_parser-0.2.0.tar.gz",
+  "download_time": "2026-05-11T20:59:39.502975",
+  "package_url": "https://pypi.org/project/ks-xlsx-parser/"
+}

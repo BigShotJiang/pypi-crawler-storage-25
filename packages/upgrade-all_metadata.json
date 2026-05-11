@@ -1,0 +1,11 @@
+{
+  "name": "upgrade-all",
+  "version": "0.1.1",
+  "summary": "Upgrade every installed package to the latest PyPI release — the 'pip upgrade-all' command pip never shipped.",
+  "author": null,
+  "license": "GPL v3",
+  "home_page": null,
+  "download_filename": "upgrade_all-0.1.1.tar.gz",
+  "download_time": "2026-05-11T20:59:30.762163",
+  "package_url": "https://pypi.org/project/upgrade-all/"
+}

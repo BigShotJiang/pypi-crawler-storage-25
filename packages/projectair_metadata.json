@@ -1,11 +1,11 @@
 {
   "name": "projectair",
-  "version": "0.3.2",
-  "summary": "Project AIR: forensic reconstruction and incident response for AI agents. Turn agent traces into signed forensic records with BLAKE3 + Ed25519.",
+  "version": "0.8.1",
+  "summary": "Project AIR: forensic reconstruction and incident response for AI agents. Signed AgDR chains, RFC 3161 + Sigstore Rekor anchoring, causal explanation, and Auth0-verified human-in-the-loop containment.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "projectair-0.3.2.tar.gz",
-  "download_time": "2026-05-01T07:22:11.138213",
+  "download_filename": "projectair-0.8.1.tar.gz",
+  "download_time": "2026-05-11T20:59:53.854228",
   "package_url": "https://pypi.org/project/projectair/"
 }

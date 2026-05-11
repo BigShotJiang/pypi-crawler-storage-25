@@ -1,11 +1,11 @@
 {
   "name": "ionbus-parquet-cache",
-  "version": "1.4.0.0",
+  "version": "1.7.0.0",
   "summary": "Versioned Parquet dataset management with snapshots and multi-cache support",
   "author": null,
   "license": null,
   "home_page": "https://github.com/ionbus/ionbus_parquet_cache",
-  "download_filename": "ionbus_parquet_cache-1.4.0.0.tar.gz",
-  "download_time": "2026-05-06T17:25:15.241953",
+  "download_filename": "ionbus_parquet_cache-1.7.0.0.tar.gz",
+  "download_time": "2026-05-11T20:59:19.081702",
   "package_url": "https://pypi.org/project/ionbus-parquet-cache/"
 }

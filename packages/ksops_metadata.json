@@ -1,0 +1,11 @@
+{
+  "name": "ksops",
+  "version": "0.2.1",
+  "summary": "A SOPS companion CLI for editing, validating, and rekeying Kubernetes secrets",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ksops-0.2.1.tar.gz",
+  "download_time": "2026-05-11T20:59:52.738674",
+  "package_url": "https://pypi.org/project/ksops/"
+}

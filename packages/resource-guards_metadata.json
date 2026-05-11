@@ -1,0 +1,11 @@
+{
+  "name": "resource-guards",
+  "version": "0.1.6",
+  "summary": "Pytest resource guard infrastructure for enforcing test marks on external resource usage",
+  "author": "Imbue, Evan Ryan Gunter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "resource_guards-0.1.6.tar.gz",
+  "download_time": "2026-05-11T20:59:57.290699",
+  "package_url": "https://pypi.org/project/resource-guards/"
+}

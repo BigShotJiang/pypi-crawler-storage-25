@@ -1,11 +1,11 @@
 {
   "name": "imo-vmdb",
-  "version": "1.7.0",
+  "version": "1.7.2",
   "summary": "Imports VMDB CSV files from IMO into a SQL database.",
   "author": "Janko Richter",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "imo_vmdb-1.7.0.tar.gz",
-  "download_time": "2026-05-10T17:05:25.288182",
+  "download_filename": "imo_vmdb-1.7.2.tar.gz",
+  "download_time": "2026-05-11T20:59:36.536227",
   "package_url": "https://pypi.org/project/imo-vmdb/"
 }

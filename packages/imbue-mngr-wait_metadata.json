@@ -1,0 +1,11 @@
+{
+  "name": "imbue-mngr-wait",
+  "version": "0.1.4",
+  "summary": "Wait plugin for mngr - wait for agents/hosts to reach target states",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imbue_mngr_wait-0.1.4.tar.gz",
+  "download_time": "2026-05-11T20:59:58.455258",
+  "package_url": "https://pypi.org/project/imbue-mngr-wait/"
+}
