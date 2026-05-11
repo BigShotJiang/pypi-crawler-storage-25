@@ -1,0 +1,11 @@
+{
+  "name": "agentdb-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for AgentDB — give any AI agent persistent memory and observability",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentdb_mcp-0.1.0.tar.gz",
+  "download_time": "2026-05-11T19:21:42.206891",
+  "package_url": "https://pypi.org/project/agentdb-mcp/"
+}

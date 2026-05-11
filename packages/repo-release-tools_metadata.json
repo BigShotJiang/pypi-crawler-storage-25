@@ -1,11 +1,11 @@
 {
   "name": "repo-release-tools",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "summary": "Config-driven branch and release helpers for Git repositories",
   "author": "Anselm Hahn",
   "license": null,
   "home_page": null,
-  "download_filename": "repo_release_tools-1.3.0.tar.gz",
-  "download_time": "2026-05-08T19:02:48.050313",
+  "download_filename": "repo_release_tools-1.4.0.tar.gz",
+  "download_time": "2026-05-11T19:21:41.676447",
   "package_url": "https://pypi.org/project/repo-release-tools/"
 }

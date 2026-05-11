@@ -1,11 +1,11 @@
 {
   "name": "merge-into-series",
-  "version": "0.1.18",
+  "version": "0.1.20",
   "summary": "A utility to merge downloaded TV episodes into organized series directories using TVDB metadata",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "merge_into_series-0.1.18.tar.gz",
-  "download_time": "2026-05-10T19:12:42.841942",
+  "download_filename": "merge_into_series-0.1.20.tar.gz",
+  "download_time": "2026-05-11T19:21:38.816003",
   "package_url": "https://pypi.org/project/merge-into-series/"
 }

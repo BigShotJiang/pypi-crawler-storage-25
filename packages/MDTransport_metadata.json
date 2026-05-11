@@ -1,11 +1,11 @@
 {
   "name": "MDTransport",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "A modular, open-source Python tool for computing transport properties from GROMACS and LAMMPS simulations.",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "mdtransport-1.0.8.tar.gz",
-  "download_time": "2026-05-10T19:12:25.840191",
+  "download_filename": "mdtransport-1.0.9.tar.gz",
+  "download_time": "2026-05-11T19:21:53.305855",
   "package_url": "https://pypi.org/project/MDTransport/"
 }

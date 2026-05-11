@@ -1,11 +1,11 @@
 {
   "name": "selph-mcp",
-  "version": "1.4.0",
+  "version": "1.4.4",
   "summary": "Selph MCP CLI — Claude Code onboarding helper for the Selph Remote MCP.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "selph_mcp-1.4.0-py3-none-any.whl",
-  "download_time": "2026-05-10T06:58:31.033198",
+  "download_filename": "selph_mcp-1.4.4-py3-none-any.whl",
+  "download_time": "2026-05-11T19:21:38.303883",
   "package_url": "https://pypi.org/project/selph-mcp/"
 }

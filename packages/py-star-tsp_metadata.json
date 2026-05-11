@@ -1,11 +1,11 @@
 {
   "name": "py-star-tsp",
-  "version": "1.6.3",
+  "version": "2.0.0",
   "summary": "Python SDK for Star TSP100 Graphic Mode thermal printers",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "py_star_tsp-1.6.3.tar.gz",
-  "download_time": "2026-04-21T10:57:29.295821",
+  "download_filename": "py_star_tsp-2.0.0.tar.gz",
+  "download_time": "2026-05-11T19:21:37.031453",
   "package_url": "https://pypi.org/project/py-star-tsp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aivudaos",
-  "version": "1.0.0.dev2026050901",
+  "version": "1.0.0.dev2026051001",
   "summary": "AivudaOS packaged for pip installation and PyPI publishing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aivudaos-1.0.0.dev2026050901.tar.gz",
-  "download_time": "2026-05-09T19:23:13.440114",
+  "download_filename": "aivudaos-1.0.0.dev2026051001.tar.gz",
+  "download_time": "2026-05-11T19:21:36.480799",
   "package_url": "https://pypi.org/project/aivudaos/"
 }

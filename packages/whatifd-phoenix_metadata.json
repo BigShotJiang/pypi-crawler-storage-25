@@ -1,0 +1,11 @@
+{
+  "name": "whatifd-phoenix",
+  "version": "0.2.0",
+  "summary": "Arize Phoenix / OpenInference `TraceSource` adapter for whatifd. Phase D of the v0.2 plan.",
+  "author": "victoralfred",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "whatifd_phoenix-0.2.0.tar.gz",
+  "download_time": "2026-05-11T19:21:20.734506",
+  "package_url": "https://pypi.org/project/whatifd-phoenix/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "devops-lab-assistant",
+  "version": "0.1.0",
+  "summary": "An interactive CLI tool for learning Docker, Git, Prometheus, and Kubernetes commands.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "devops_lab_assistant-0.1.0.tar.gz",
+  "download_time": "2026-05-11T19:21:22.848497",
+  "package_url": "https://pypi.org/project/devops-lab-assistant/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "whatifd",
+  "version": "0.2.0",
+  "summary": "Open experiment runner for LLM behavior changes. Fork production traces, replay with a proposed change, score the diff, emit a PR-ready verdict report.",
+  "author": "victoralfred",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "whatifd-0.2.0.tar.gz",
+  "download_time": "2026-05-11T19:21:21.287944",
+  "package_url": "https://pypi.org/project/whatifd/"
+}

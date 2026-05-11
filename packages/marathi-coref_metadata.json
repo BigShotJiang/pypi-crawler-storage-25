@@ -1,0 +1,11 @@
+{
+  "name": "marathi-coref",
+  "version": "0.1.2",
+  "summary": "Marathi Coreference Resolution using Hypergraphs",
+  "author": "Mansi Jangle",
+  "license": null,
+  "home_page": "https://github.com/mansijangle/Marathi_Coreference_Resolution",
+  "download_filename": "marathi_coref-0.1.2.tar.gz",
+  "download_time": "2026-05-11T19:21:24.386517",
+  "package_url": "https://pypi.org/project/marathi-coref/"
+}

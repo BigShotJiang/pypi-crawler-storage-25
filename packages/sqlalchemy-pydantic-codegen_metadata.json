@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-pydantic-codegen",
+  "version": "1.0.4",
+  "summary": "A library to generate Pydantic models from SQLAlchemy models.",
+  "author": "Dsanmart",
+  "license": "MIT",
+  "home_page": "https://github.com/dsanmart/sqlalchemy-pydantic-codegen",
+  "download_filename": "sqlalchemy_pydantic_codegen-1.0.4.tar.gz",
+  "download_time": "2026-05-11T19:21:32.733607",
+  "package_url": "https://pypi.org/project/sqlalchemy-pydantic-codegen/"
+}
