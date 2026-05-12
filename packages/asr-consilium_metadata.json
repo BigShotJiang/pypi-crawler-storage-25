@@ -1,0 +1,11 @@
+{
+  "name": "asr-consilium",
+  "version": "1.0.0",
+  "summary": "Ensemble of open-source ASR models",
+  "author": "Roman Sol (ZFTurbo)",
+  "license": null,
+  "home_page": "https://github.com/ZFTurbo/asr_consilium",
+  "download_filename": "asr_consilium-1.0.0.tar.gz",
+  "download_time": "2026-05-12T09:49:15.527115",
+  "package_url": "https://pypi.org/project/asr-consilium/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "caesar-agent",
+  "version": "0.3.12",
+  "summary": "Caesar: autonomous AI research agent with graph-based deep web exploration and adversarial answer synthesis.",
+  "author": "Elliot Meyerson, Risto Miikkulainen",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "caesar_agent-0.3.12.tar.gz",
+  "download_time": "2026-05-12T09:49:04.682185",
+  "package_url": "https://pypi.org/project/caesar-agent/"
+}

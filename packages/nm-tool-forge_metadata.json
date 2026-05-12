@@ -1,11 +1,11 @@
 {
   "name": "nm-tool-forge",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Analyze MigMan log files and generate aggregated CSV, Markdown, HTML, and optional PDF reports.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nm_tool_forge-0.2.4.tar.gz",
-  "download_time": "2026-05-11T22:36:20.259858",
+  "download_filename": "nm_tool_forge-0.2.5.tar.gz",
+  "download_time": "2026-05-12T09:48:35.332684",
   "package_url": "https://pypi.org/project/nm-tool-forge/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "snipe-auth-rbac",
-  "version": "0.3.1",
+  "version": "0.6.3",
   "summary": "Two-layer RBAC (system + company) helpers for FastAPI / Flask / any Python backend — paired with the snipe-auth-rbac TS sibling.",
   "author": "Snipe Solutions",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "snipe_auth_rbac-0.3.1.tar.gz",
-  "download_time": "2026-05-08T14:34:18.030271",
+  "download_filename": "snipe_auth_rbac-0.6.3.tar.gz",
+  "download_time": "2026-05-12T09:48:43.040984",
   "package_url": "https://pypi.org/project/snipe-auth-rbac/"
 }

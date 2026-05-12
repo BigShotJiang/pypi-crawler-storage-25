@@ -1,0 +1,11 @@
+{
+  "name": "xed-cci",
+  "version": "0.0.3",
+  "summary": "cBOX@ /Container Inventur — Read-Only-Tool für lokale Box-Inventur (OS, CC-Suite, Stack, Datenbanken, Server-Apps). Drittes Mitglied der XED /CC-Suite neben ccc + cca. cBOX.at/YOU by XED.dev Tools via Collective Context (CC).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xed_cci-0.0.3.tar.gz",
+  "download_time": "2026-05-12T09:48:40.991657",
+  "package_url": "https://pypi.org/project/xed-cci/"
+}

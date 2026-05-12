@@ -1,0 +1,11 @@
+{
+  "name": "ooniauth-py",
+  "version": "0.2.1",
+  "summary": "Python bindings for the userauth library: the anonymous credentials implementation used in OONI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ooniauth_py-0.2.1-cp310-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-12T09:48:36.366181",
+  "package_url": "https://pypi.org/project/ooniauth-py/"
+}

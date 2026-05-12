@@ -1,0 +1,11 @@
+{
+  "name": "groundlens-mcp",
+  "version": "2026.5.14",
+  "summary": "MCP server for groundlens — LLM hallucination detection for Claude Desktop, Cursor, Windsurf, and any MCP client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "groundlens_mcp-2026.5.14.tar.gz",
+  "download_time": "2026-05-12T09:49:12.410184",
+  "package_url": "https://pypi.org/project/groundlens-mcp/"
+}
