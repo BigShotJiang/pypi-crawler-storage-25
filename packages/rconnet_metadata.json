@@ -1,0 +1,11 @@
+{
+  "name": "rconnet",
+  "version": "0.2.0",
+  "summary": "Python RCON client for the Battlefield 2142 server",
+  "author": "Vordy",
+  "license": "MIT",
+  "home_page": "https://github.com/VordyV/rconnet",
+  "download_filename": "rconnet-0.2.0.tar.gz",
+  "download_time": "2026-05-12T16:14:32.865321",
+  "package_url": "https://pypi.org/project/rconnet/"
+}

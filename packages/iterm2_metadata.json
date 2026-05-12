@@ -1,11 +1,11 @@
 {
   "name": "iterm2",
-  "version": "2.18",
+  "version": "2.19",
   "summary": "Python interface to iTerm2's scripting API",
   "author": "George Nachman",
   "license": "GPLv2",
   "home_page": "http://github.com/gnachman/iTerm2",
-  "download_filename": "iterm2-2.18.tar.gz",
-  "download_time": "2026-05-07T22:54:07.896373",
+  "download_filename": "iterm2-2.19.tar.gz",
+  "download_time": "2026-05-12T16:14:21.349207",
   "package_url": "https://pypi.org/project/iterm2/"
 }

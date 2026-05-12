@@ -1,0 +1,11 @@
+{
+  "name": "cordon-ai",
+  "version": "0.2.1",
+  "summary": "The pre-execution control layer for AI agents. Block dangerous actions before they happen.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cordon_ai-0.2.1.tar.gz",
+  "download_time": "2026-05-12T16:14:17.637853",
+  "package_url": "https://pypi.org/project/cordon-ai/"
+}
