@@ -1,11 +1,11 @@
 {
   "name": "rozkoduj-mcp",
-  "version": "2026.4.25",
+  "version": "2026.5.12",
   "summary": "Decode the markets with your AI assistant. Screening, analysis, and scoring across stocks, crypto, and forex.",
   "author": "Jacek Bogocz",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rozkoduj_mcp-2026.4.25.tar.gz",
-  "download_time": "2026-04-25T13:47:37.488429",
+  "download_filename": "rozkoduj_mcp-2026.5.12.tar.gz",
+  "download_time": "2026-05-12T21:54:13.181025",
   "package_url": "https://pypi.org/project/rozkoduj-mcp/"
 }

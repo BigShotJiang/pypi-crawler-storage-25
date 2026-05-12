@@ -1,0 +1,11 @@
+{
+  "name": "datalink-client",
+  "version": "1.4.0",
+  "summary": "DataLink protocol 1.1 client for reading and writing data using the DataLink protocol (e.g. EarthScope ringserver).",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "datalink_client-1.4.0.tar.gz",
+  "download_time": "2026-05-12T21:54:19.719773",
+  "package_url": "https://pypi.org/project/datalink-client/"
+}

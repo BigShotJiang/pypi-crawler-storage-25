@@ -1,0 +1,11 @@
+{
+  "name": "datasette-agent-charts",
+  "version": "0.1a0",
+  "summary": "Observable Plot charts for Datasette Agent",
+  "author": "Simon Willison",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasette_agent_charts-0.1a0.tar.gz",
+  "download_time": "2026-05-12T21:54:21.299955",
+  "package_url": "https://pypi.org/project/datasette-agent-charts/"
+}

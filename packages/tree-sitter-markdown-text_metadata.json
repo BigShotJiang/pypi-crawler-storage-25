@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-markdown-text",
+  "version": "0.2.1",
+  "summary": "Markdown grammar for tree-sitter, with a textlint-style AST shape",
+  "author": "Ophidiarium",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_markdown_text-0.2.1.tar.gz",
+  "download_time": "2026-05-12T21:54:26.034457",
+  "package_url": "https://pypi.org/project/tree-sitter-markdown-text/"
+}

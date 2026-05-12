@@ -1,0 +1,11 @@
+{
+  "name": "spectr-mcp",
+  "version": "0.1.1",
+  "summary": "Spectr MCP server — turn a screen recording into a production-ready spec.md, from inside Claude Code / Cursor / any MCP client.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spectr_mcp-0.1.1.tar.gz",
+  "download_time": "2026-05-12T21:54:39.175561",
+  "package_url": "https://pypi.org/project/spectr-mcp/"
+}

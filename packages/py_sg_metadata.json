@@ -1,0 +1,11 @@
+{
+  "name": "py_sg",
+  "version": "0.17",
+  "summary": "Python SCSI generic library",
+  "author": "Dan Lenski",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/dlenski/py_sg",
+  "download_filename": "py_sg-0.17.tar.gz",
+  "download_time": "2026-05-12T21:54:39.705211",
+  "package_url": "https://pypi.org/project/py_sg/"
+}

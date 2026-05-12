@@ -1,0 +1,11 @@
+{
+  "name": "vcfv",
+  "version": "0.2.0",
+  "summary": "Fast VCF to Polars/Pandas DataFrame converter",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vcfv-0.2.0.tar.gz",
+  "download_time": "2026-05-12T21:54:00.505741",
+  "package_url": "https://pypi.org/project/vcfv/"
+}
