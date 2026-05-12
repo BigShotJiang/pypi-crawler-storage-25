@@ -1,0 +1,11 @@
+{
+  "name": "tensorflow-model-optimization",
+  "version": "0.8.1",
+  "summary": "A suite of tools that users, both novice and advanced can use to optimize machine learning models for deployment and execution.",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/tensorflow/model-optimization",
+  "download_filename": "tensorflow_model_optimization-0.8.1-py2.py3-none-any.whl",
+  "download_time": "2026-05-12T18:29:29.240940",
+  "package_url": "https://pypi.org/project/tensorflow-model-optimization/"
+}

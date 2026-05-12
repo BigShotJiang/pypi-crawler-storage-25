@@ -1,0 +1,11 @@
+{
+  "name": "fairyfly-therm",
+  "version": "0.10.7",
+  "summary": "Fairyfly extension for translating HBJSON files to INP files for eQuest",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/fairyfly-therm",
+  "download_filename": "fairyfly_therm-0.10.7.tar.gz",
+  "download_time": "2026-05-12T18:29:28.214875",
+  "package_url": "https://pypi.org/project/fairyfly-therm/"
+}

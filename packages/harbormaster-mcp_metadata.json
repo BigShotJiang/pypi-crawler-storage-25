@@ -1,11 +1,11 @@
 {
   "name": "harbormaster-mcp",
-  "version": "21.0.4",
+  "version": "22.0.1",
   "summary": "Multi-project MCP router + operator dashboard for Claude Code, Codex, Cursor. Ask any local or SSH-reachable project a question without `cd` — the project's subagent loads its own CLAUDE.md and Serena memories and answers. Ships with a live web console: KPI strip, inter-project network graph, trace waterfall, memory editor, multi-axis budgets. Part of the FleetQ ecosystem.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "harbormaster_mcp-21.0.4.tar.gz",
-  "download_time": "2026-05-11T14:23:44.865344",
+  "download_filename": "harbormaster_mcp-22.0.1.tar.gz",
+  "download_time": "2026-05-12T18:28:54.937520",
   "package_url": "https://pypi.org/project/harbormaster-mcp/"
 }

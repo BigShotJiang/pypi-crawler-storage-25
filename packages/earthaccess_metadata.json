@@ -1,0 +1,11 @@
+{
+  "name": "earthaccess",
+  "version": "0.18.0",
+  "summary": "Client library for NASA Earthdata APIs",
+  "author": "earthaccess contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "earthaccess-0.18.0-py3-none-any.whl",
+  "download_time": "2026-05-12T18:29:08.468366",
+  "package_url": "https://pypi.org/project/earthaccess/"
+}

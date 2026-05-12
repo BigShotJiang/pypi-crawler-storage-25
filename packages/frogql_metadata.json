@@ -1,0 +1,11 @@
+{
+  "name": "frogql",
+  "version": "0.2.0",
+  "summary": "froGQL — embedded GQL graph database with ISO GQL path patterns (Rust core, Python bindings)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "frogql-0.2.0-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-12T18:29:14.163968",
+  "package_url": "https://pypi.org/project/frogql/"
+}

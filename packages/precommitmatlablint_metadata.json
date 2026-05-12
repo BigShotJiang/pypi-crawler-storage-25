@@ -1,0 +1,11 @@
+{
+  "name": "precommitmatlablint",
+  "version": "1.0.11",
+  "summary": "A pre-commit hook to validate MATLAB code.",
+  "author": "Ty Cumby",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "precommitmatlablint-1.0.11.tar.gz",
+  "download_time": "2026-05-12T18:29:04.328539",
+  "package_url": "https://pypi.org/project/precommitmatlablint/"
+}

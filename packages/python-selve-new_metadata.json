@@ -1,0 +1,11 @@
+{
+  "name": "python-selve-new",
+  "version": "2.5.4",
+  "summary": "Python library for interfacing with selve devices using the USB-RF controller. Written completely new.",
+  "author": "Stefan Altheimer",
+  "license": "GNU General Public License v2 or later (GPLv2+)",
+  "home_page": "https://github.com/Kannix2005/python-selve-new",
+  "download_filename": "python_selve_new-2.5.4.tar.gz",
+  "download_time": "2026-05-12T18:29:12.095646",
+  "package_url": "https://pypi.org/project/python-selve-new/"
+}

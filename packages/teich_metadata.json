@@ -1,11 +1,11 @@
 {
   "name": "teich",
-  "version": "0.1.1a35",
+  "version": "0.1.1a45",
   "summary": "Turn coding agent traces into auditable supervised fine-tuning data",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "teich-0.1.1a35.tar.gz",
-  "download_time": "2026-05-11T04:48:54.767402",
+  "download_filename": "teich-0.1.1a45.tar.gz",
+  "download_time": "2026-05-12T18:28:53.347876",
   "package_url": "https://pypi.org/project/teich/"
 }

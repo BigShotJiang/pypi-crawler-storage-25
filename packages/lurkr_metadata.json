@@ -1,0 +1,11 @@
+{
+  "name": "lurkr",
+  "version": "0.2.2",
+  "summary": "Lurkr — pre-deployment scanner for risky AI agent capabilities. Static. Offline. Redacted.",
+  "author": "AgentVeil Protocol contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lurkr-0.2.2.tar.gz",
+  "download_time": "2026-05-12T18:28:48.106430",
+  "package_url": "https://pypi.org/project/lurkr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tiferet-kb",
+  "version": "0.1.0a1",
+  "summary": "Knowledge Base extension for the Tiferet framework with HDF5-backed storage",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "tiferet_kb-0.1.0a1.tar.gz",
+  "download_time": "2026-05-12T18:29:19.867714",
+  "package_url": "https://pypi.org/project/tiferet-kb/"
+}

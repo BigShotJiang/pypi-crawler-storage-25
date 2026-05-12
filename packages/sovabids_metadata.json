@@ -1,11 +1,11 @@
 {
   "name": "sovabids",
-  "version": "0.3.2.dev0",
-  "summary": "Automated eeg2bids conversion",
+  "version": "0.4.5",
+  "summary": "Automated EEG to BIDS conversion (experimental MEG support)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sovabids-0.3.2.dev0.tar.gz",
-  "download_time": "2026-05-01T21:17:19.276416",
+  "download_filename": "sovabids-0.4.5.tar.gz",
+  "download_time": "2026-05-12T18:28:56.508784",
   "package_url": "https://pypi.org/project/sovabids/"
 }

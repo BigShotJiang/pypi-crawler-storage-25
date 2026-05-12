@@ -1,0 +1,11 @@
+{
+  "name": "netmiko",
+  "version": "4.7.0",
+  "summary": "Multi-vendor library to simplify legacy CLI connections to network devices",
+  "author": "Kirk Byers",
+  "license": "MIT",
+  "home_page": "https://github.com/ktbyers/netmiko",
+  "download_filename": "netmiko-4.7.0.tar.gz",
+  "download_time": "2026-05-12T18:28:58.574427",
+  "package_url": "https://pypi.org/project/netmiko/"
+}

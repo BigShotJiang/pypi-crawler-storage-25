@@ -1,11 +1,11 @@
 {
   "name": "bandwidth-sdk",
-  "version": "22.1.2",
+  "version": "23.1.1",
   "summary": "Bandwidth",
   "author": "Bandwidth",
   "license": null,
   "home_page": "https://dev.bandwidth.com/sdks/python",
-  "download_filename": "bandwidth_sdk-22.1.2.tar.gz",
-  "download_time": "2026-03-31T20:27:50.370863",
+  "download_filename": "bandwidth_sdk-23.1.1.tar.gz",
+  "download_time": "2026-05-12T18:28:44.448028",
   "package_url": "https://pypi.org/project/bandwidth-sdk/"
 }

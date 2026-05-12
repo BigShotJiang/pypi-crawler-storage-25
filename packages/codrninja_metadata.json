@@ -1,11 +1,11 @@
 {
   "name": "codrninja",
-  "version": "1.1.0",
+  "version": "1.2.5",
   "summary": "AI-first coding assistant with TypeScript TUI",
   "author": "20ZollCoder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codrninja-1.1.0.tar.gz",
-  "download_time": "2026-05-11T19:21:18.913386",
+  "download_filename": "codrninja-1.2.5.tar.gz",
+  "download_time": "2026-05-12T18:28:53.865950",
   "package_url": "https://pypi.org/project/codrninja/"
 }
