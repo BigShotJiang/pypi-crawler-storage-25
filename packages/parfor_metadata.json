@@ -1,0 +1,11 @@
+{
+  "name": "parfor",
+  "version": "2026.5.0",
+  "summary": "A package to mimic the use of parfor as done in Matlab.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "parfor-2026.5.0.tar.gz",
+  "download_time": "2026-05-12T13:44:07.135060",
+  "package_url": "https://pypi.org/project/parfor/"
+}

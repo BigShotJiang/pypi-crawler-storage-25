@@ -1,0 +1,11 @@
+{
+  "name": "gedcom-dna-finder",
+  "version": "1.0.0",
+  "summary": "Find the nearest DNA-flagged relatives in a GEDCOM family tree",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "gedcom_dna_finder-1.0.0.tar.gz",
+  "download_time": "2026-05-12T13:44:28.645833",
+  "package_url": "https://pypi.org/project/gedcom-dna-finder/"
+}

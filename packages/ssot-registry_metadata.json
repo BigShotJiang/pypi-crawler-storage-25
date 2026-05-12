@@ -1,11 +1,11 @@
 {
   "name": "ssot-registry",
-  "version": "0.2.15",
+  "version": "0.2.17",
   "summary": "Umbrella distribution for SSOT that installs the core runtime and primary CLI together.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ssot_registry-0.2.15.tar.gz",
-  "download_time": "2026-05-05T22:25:21.864119",
+  "download_filename": "ssot_registry-0.2.17.tar.gz",
+  "download_time": "2026-05-12T13:44:19.676227",
   "package_url": "https://pypi.org/project/ssot-registry/"
 }

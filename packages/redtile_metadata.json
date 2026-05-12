@@ -1,0 +1,11 @@
+{
+  "name": "redtile",
+  "version": "0.0.34",
+  "summary": "Redmine CLI/TUI tool that wraps the Redmine REST API",
+  "author": "kawagh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "redtile-0.0.34.tar.gz",
+  "download_time": "2026-05-12T13:43:58.157667",
+  "package_url": "https://pypi.org/project/redtile/"
+}

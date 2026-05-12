@@ -1,11 +1,11 @@
 {
   "name": "oss-policy-kit",
-  "version": "5.5.0",
+  "version": "5.8.0",
   "summary": "Open source starter kit for adopting OSS security baselines via policy packs, templates, evidence, and remediation.",
   "author": "Lucas Henrique Grifoni",
   "license": null,
   "home_page": null,
-  "download_filename": "oss_policy_kit-5.5.0.tar.gz",
-  "download_time": "2026-05-10T00:22:15.998294",
+  "download_filename": "oss_policy_kit-5.8.0.tar.gz",
+  "download_time": "2026-05-12T13:43:57.637368",
   "package_url": "https://pypi.org/project/oss-policy-kit/"
 }

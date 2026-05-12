@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-arq",
+  "version": "0.2.0",
+  "summary": "FastAPI + ARQ: async worker queue integration without boilerplate",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_arq-0.2.0.tar.gz",
+  "download_time": "2026-05-12T13:44:14.456139",
+  "package_url": "https://pypi.org/project/fastapi-arq/"
+}

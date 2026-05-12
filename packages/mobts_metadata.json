@@ -1,0 +1,11 @@
+{
+  "name": "mobts",
+  "version": "0.1.4",
+  "summary": "Mobility time series package for preprocessing, imputing, and analyzing mobility count observation data",
+  "author": "Ali SHATERI BENAM",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mobts-0.1.4.tar.gz",
+  "download_time": "2026-05-12T13:44:02.907721",
+  "package_url": "https://pypi.org/project/mobts/"
+}

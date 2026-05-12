@@ -1,0 +1,11 @@
+{
+  "name": "wallet-rest-cli",
+  "version": "0.0.2",
+  "summary": "Console CLI for querying the BudgetBakers Wallet API",
+  "author": "Hugo Batista <code at hugobatista.com>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wallet_rest_cli-0.0.2.tar.gz",
+  "download_time": "2026-05-12T13:43:54.782870",
+  "package_url": "https://pypi.org/project/wallet-rest-cli/"
+}
