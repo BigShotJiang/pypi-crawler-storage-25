@@ -1,0 +1,11 @@
+{
+  "name": "survey2ddi",
+  "version": "0.3.0",
+  "summary": "Transform survey data (KoboToolbox, LimeSurvey) into DDI-adjacent formats",
+  "author": "CorrelAid",
+  "license": null,
+  "home_page": null,
+  "download_filename": "survey2ddi-0.3.0.tar.gz",
+  "download_time": "2026-05-12T11:47:22.141908",
+  "package_url": "https://pypi.org/project/survey2ddi/"
+}

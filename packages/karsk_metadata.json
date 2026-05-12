@@ -1,0 +1,11 @@
+{
+  "name": "karsk",
+  "version": "0.4.1",
+  "summary": "Tool for building and deploying software on HPC clusters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "karsk-0.4.1.tar.gz",
+  "download_time": "2026-05-12T11:48:02.903478",
+  "package_url": "https://pypi.org/project/karsk/"
+}

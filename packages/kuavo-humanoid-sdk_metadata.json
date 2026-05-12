@@ -1,0 +1,11 @@
+{
+  "name": "kuavo-humanoid-sdk",
+  "version": "1.4.2",
+  "summary": "A Python SDK for kuavo humanoid robot.",
+  "author": "['lejurobot']",
+  "license": "MIT",
+  "home_page": "https://gitee.com/leju-robot/kuavo-ros-opensource/",
+  "download_filename": "kuavo_humanoid_sdk-1.4.2.tar.gz",
+  "download_time": "2026-05-12T11:47:51.021777",
+  "package_url": "https://pypi.org/project/kuavo-humanoid-sdk/"
+}

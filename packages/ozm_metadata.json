@@ -1,11 +1,11 @@
 {
   "name": "ozm",
-  "version": "2026.5.11.2",
+  "version": "2026.5.12.4",
   "summary": "Content-aware script execution gate and git rule enforcer",
   "author": "Kamyar",
   "license": null,
   "home_page": null,
-  "download_filename": "ozm-2026.5.11.2.tar.gz",
-  "download_time": "2026-05-11T11:48:14.290014",
+  "download_filename": "ozm-2026.5.12.4.tar.gz",
+  "download_time": "2026-05-12T11:48:08.042516",
   "package_url": "https://pypi.org/project/ozm/"
 }

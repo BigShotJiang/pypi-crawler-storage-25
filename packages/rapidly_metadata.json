@@ -1,0 +1,11 @@
+{
+  "name": "rapidly",
+  "version": "1.0.4",
+  "summary": "The Python API to the Rapidly engine — realtime audio enhancement powered by Rapidly Labs AS.",
+  "author": "Rapidly Labs AS",
+  "license": "Proprietary — see LICENSE",
+  "home_page": "https://rapidly.io",
+  "download_filename": "rapidly-1.0.4-py3-none-manylinux1_x86_64.whl",
+  "download_time": "2026-05-12T11:47:56.709692",
+  "package_url": "https://pypi.org/project/rapidly/"
+}

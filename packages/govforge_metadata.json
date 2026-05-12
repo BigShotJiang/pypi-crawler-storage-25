@@ -1,0 +1,11 @@
+{
+  "name": "govforge",
+  "version": "0.1.1",
+  "summary": "Governance infrastructure for AI coding agents — backend (MCP server + HTTP API + services)",
+  "author": "Eric Vaillancourt and GovForge contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "govforge-0.1.1.tar.gz",
+  "download_time": "2026-05-12T11:47:38.113593",
+  "package_url": "https://pypi.org/project/govforge/"
+}

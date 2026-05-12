@@ -1,11 +1,11 @@
 {
   "name": "mcparmory-google-sheets",
-  "version": "1.0.0",
-  "summary": "MCP server for Google Sheets API",
+  "version": "1.0.3",
+  "summary": "Create, read, and modify spreadsheet data, formatting, and sheets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcparmory_google_sheets-1.0.0-py3-none-any.whl",
-  "download_time": "2026-04-07T12:47:27.944833",
+  "download_filename": "mcparmory_google_sheets-1.0.3-py3-none-any.whl",
+  "download_time": "2026-05-12T11:47:56.167712",
   "package_url": "https://pypi.org/project/mcparmory-google-sheets/"
 }

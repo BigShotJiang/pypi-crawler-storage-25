@@ -1,11 +1,11 @@
 {
   "name": "django-dev-helpers",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "Dev-time conveniences for Django projects: autologin endpoint, dotfiles for LLM agents, gitignore self-check",
   "author": "django-dev-helpers contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "django_dev_helpers-0.1.7.tar.gz",
-  "download_time": "2026-05-12T04:46:24.190207",
+  "download_filename": "django_dev_helpers-0.1.9.tar.gz",
+  "download_time": "2026-05-12T11:47:51.535555",
   "package_url": "https://pypi.org/project/django-dev-helpers/"
 }

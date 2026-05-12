@@ -1,0 +1,11 @@
+{
+  "name": "dhis2w-browser",
+  "version": "0.10.0",
+  "summary": "Playwright-based helpers for DHIS2 UI automation.",
+  "author": "Morten Hansen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dhis2w_browser-0.10.0.tar.gz",
+  "download_time": "2026-05-12T11:47:55.142652",
+  "package_url": "https://pypi.org/project/dhis2w-browser/"
+}

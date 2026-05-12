@@ -1,0 +1,11 @@
+{
+  "name": "observeLLM",
+  "version": "1.2.14",
+  "summary": "A python package for observing traces of your LLM application.",
+  "author": "TapanKheni10",
+  "license": "MIT",
+  "home_page": "https://github.com/TapanKheni10/observe_traces",
+  "download_filename": "observellm-1.2.14.tar.gz",
+  "download_time": "2026-05-12T11:47:38.629906",
+  "package_url": "https://pypi.org/project/observeLLM/"
+}

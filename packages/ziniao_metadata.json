@@ -1,11 +1,11 @@
 {
   "name": "ziniao",
-  "version": "0.2.67",
+  "version": "0.2.72",
   "summary": "紫鸟与 Chrome 浏览器 AI 自动化 — 让 AI Agent 操控紫鸟店铺与本地 Chrome",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ziniao-0.2.67.tar.gz",
-  "download_time": "2026-04-20T09:07:50.359205",
+  "download_filename": "ziniao-0.2.72.tar.gz",
+  "download_time": "2026-05-12T11:47:52.056710",
   "package_url": "https://pypi.org/project/ziniao/"
 }

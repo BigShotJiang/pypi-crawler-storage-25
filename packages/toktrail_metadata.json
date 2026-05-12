@@ -1,0 +1,11 @@
+{
+  "name": "toktrail",
+  "version": "0.1.1",
+  "summary": "Track harness token usage in local SQLite sessions. Import billable token events from OpenCode, Pi, GitHub Copilot CLI, Codex, Goose, Droid, Amp, Claude, and Vibe. Report token and cost breakdowns by harness, model, and agent.",
+  "author": "Holger Nahrstaedt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "toktrail-0.1.1.tar.gz",
+  "download_time": "2026-05-12T11:47:30.912289",
+  "package_url": "https://pypi.org/project/toktrail/"
+}

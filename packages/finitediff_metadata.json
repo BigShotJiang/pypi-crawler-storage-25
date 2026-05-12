@@ -1,0 +1,11 @@
+{
+  "name": "finitediff",
+  "version": "0.6.6",
+  "summary": "Finite difference weights for any derivative order on arbitrarily spaced grids.",
+  "author": "Björn Dahlgren",
+  "license": "BSD",
+  "home_page": "https://github.com/bjodah/finitediff",
+  "download_filename": "finitediff-0.6.6.tar.gz",
+  "download_time": "2026-05-12T11:47:41.737661",
+  "package_url": "https://pypi.org/project/finitediff/"
+}

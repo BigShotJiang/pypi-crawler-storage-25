@@ -1,11 +1,11 @@
 {
   "name": "verploy",
-  "version": "0.0.2",
-  "summary": "Continuous integration and continuous deployment of python projects.",
+  "version": "0.0.19",
+  "summary": "The fastest CI/CD system for agentic engineering.",
   "author": "Peter Lavigne",
   "license": null,
   "home_page": null,
-  "download_filename": "verploy-0.0.2.tar.gz",
-  "download_time": "2026-05-08T12:14:45.706915",
+  "download_filename": "verploy-0.0.19.tar.gz",
+  "download_time": "2026-05-12T11:47:42.250512",
   "package_url": "https://pypi.org/project/verploy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "arcanada-output-guard",
+  "version": "0.0.1",
+  "summary": "Validate, repair, retry LLM structured output (JSON/YAML/TOML/python-literal)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arcanada_output_guard-0.0.1.tar.gz",
+  "download_time": "2026-05-12T11:47:45.871164",
+  "package_url": "https://pypi.org/project/arcanada-output-guard/"
+}

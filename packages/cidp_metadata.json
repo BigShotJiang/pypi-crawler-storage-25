@@ -1,0 +1,11 @@
+{
+  "name": "cidp",
+  "version": "0.0.19",
+  "summary": "CIDP Python SDK",
+  "author": "mccho",
+  "license": null,
+  "home_page": "https://gitlab.cidp.io/common/pypi/cidp",
+  "download_filename": "cidp-0.0.19.tar.gz",
+  "download_time": "2026-05-12T11:47:26.253782",
+  "package_url": "https://pypi.org/project/cidp/"
+}
