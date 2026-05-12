@@ -1,0 +1,11 @@
+{
+  "name": "tha-csv-runner",
+  "version": "0.2.1",
+  "summary": "Run a function over every row of a CSV — with progress, header validation, and structured per-row errors.",
+  "author": "Nate Wright",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tha_csv_runner-0.2.1.tar.gz",
+  "download_time": "2026-05-12T04:46:31.075340",
+  "package_url": "https://pypi.org/project/tha-csv-runner/"
+}

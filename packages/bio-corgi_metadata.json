@@ -1,0 +1,11 @@
+{
+  "name": "bio-corgi",
+  "version": "0.5.4",
+  "summary": "Classifier for ORganelle Genomes Inter alia",
+  "author": "Robert Turnbull",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/rbturnbull/corgi",
+  "download_filename": "bio_corgi-0.5.4.tar.gz",
+  "download_time": "2026-05-12T04:46:30.506044",
+  "package_url": "https://pypi.org/project/bio-corgi/"
+}

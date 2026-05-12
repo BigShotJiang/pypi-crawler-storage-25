@@ -1,0 +1,11 @@
+{
+  "name": "usetraces",
+  "version": "0.1.0",
+  "summary": "KiCad plugin for schematic metadata reconciliation, supplier sourcing, datasheets, and AI-powered design checks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "usetraces-0.1.0.tar.gz",
+  "download_time": "2026-05-12T04:45:48.161885",
+  "package_url": "https://pypi.org/project/usetraces/"
+}

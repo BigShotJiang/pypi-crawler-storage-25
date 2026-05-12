@@ -1,11 +1,11 @@
 {
   "name": "ya-claw",
-  "version": "0.71.0",
+  "version": "0.73.0",
   "summary": "Workspace-native local-first agent runtime built on top of ya-agent-sdk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ya_claw-0.71.0.tar.gz",
-  "download_time": "2026-05-09T16:02:07.355139",
+  "download_filename": "ya_claw-0.73.0.tar.gz",
+  "download_time": "2026-05-12T04:45:36.159324",
   "package_url": "https://pypi.org/project/ya-claw/"
 }

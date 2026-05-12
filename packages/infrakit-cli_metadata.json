@@ -1,0 +1,11 @@
+{
+  "name": "infrakit-cli",
+  "version": "0.1.14",
+  "summary": "spec-kit for IaC, with a multi-persona pipeline. Bootstrap Crossplane / Terraform projects with structured spec-driven workflows for Claude Code, Codex, Gemini, Copilot, or any generic agent.",
+  "author": "neelneelpurk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "infrakit_cli-0.1.14.tar.gz",
+  "download_time": "2026-05-12T04:45:54.238684",
+  "package_url": "https://pypi.org/project/infrakit-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "olca-ipc",
+  "version": "2.6.3",
+  "summary": "A package for calling openLCA functions from Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "olca_ipc-2.6.3.tar.gz",
+  "download_time": "2026-05-12T04:45:37.901060",
+  "package_url": "https://pypi.org/project/olca-ipc/"
+}

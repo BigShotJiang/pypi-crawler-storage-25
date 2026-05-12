@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-project-timesheet-billable-per-line",
+  "version": "17.0.1.0.0.3",
+  "summary": "Generate sales orders from billable timesheets grouped by analytic account",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/timesheet",
+  "download_filename": "odoo_addon_project_timesheet_billable_per_line-17.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-05-12T04:46:18.625527",
+  "package_url": "https://pypi.org/project/odoo-addon-project-timesheet-billable-per-line/"
+}

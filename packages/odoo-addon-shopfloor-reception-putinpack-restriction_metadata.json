@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shopfloor-reception-putinpack-restriction",
+  "version": "16.0.1.1.0.2",
+  "summary": "Restrict the use of packages in shopfloor reception",
+  "author": "ACSONE SA/NV,BCIM,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/wms",
+  "download_filename": "odoo_addon_shopfloor_reception_putinpack_restriction-16.0.1.1.0.2-py3-none-any.whl",
+  "download_time": "2026-05-12T04:45:59.819223",
+  "package_url": "https://pypi.org/project/odoo-addon-shopfloor-reception-putinpack-restriction/"
+}

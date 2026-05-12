@@ -1,0 +1,11 @@
+{
+  "name": "pyramid-marshmallow",
+  "version": "0.8.1",
+  "summary": "Validate request and response data with Marshmallow and optionally generate an OpenAPI spec.",
+  "author": "Theron Luhn",
+  "license": null,
+  "home_page": "https://github.com/luhn/pyramid-marshmallow",
+  "download_filename": "pyramid_marshmallow-0.8.1.tar.gz",
+  "download_time": "2026-05-12T04:45:41.399379",
+  "package_url": "https://pypi.org/project/pyramid-marshmallow/"
+}

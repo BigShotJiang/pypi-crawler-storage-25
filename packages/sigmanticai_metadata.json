@@ -1,11 +1,11 @@
 {
   "name": "sigmanticai",
-  "version": "0.1.23",
+  "version": "0.1.25",
   "summary": "AI-powered hardware verification — generate UVM testbenches, assertions, and RTL from natural language",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "sigmanticai-0.1.23.tar.gz",
-  "download_time": "2026-05-10T18:04:26.225196",
+  "download_filename": "sigmanticai-0.1.25.tar.gz",
+  "download_time": "2026-05-12T04:45:44.590908",
   "package_url": "https://pypi.org/project/sigmanticai/"
 }
