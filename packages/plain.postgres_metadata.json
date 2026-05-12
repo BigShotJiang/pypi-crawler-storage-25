@@ -1,11 +1,11 @@
 {
   "name": "plain.postgres",
-  "version": "0.96.0",
+  "version": "0.103.4",
   "summary": "Model your data and store it in a database.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_postgres-0.96.0.tar.gz",
-  "download_time": "2026-04-17T20:32:26.726263",
+  "download_filename": "plain_postgres-0.103.4.tar.gz",
+  "download_time": "2026-05-12T22:59:08.280689",
   "package_url": "https://pypi.org/project/plain.postgres/"
 }

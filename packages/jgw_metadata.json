@@ -1,0 +1,11 @@
+{
+  "name": "jgw",
+  "version": "0.1.0",
+  "summary": "Computation of Joint Gromov-Wasserstein objective",
+  "author": "Aryan Tajmir Riahi",
+  "license": "MIT",
+  "home_page": "https://github.com/artajmir3/Joint-Gromov-Wasserstein",
+  "download_filename": "jgw-0.1.0.tar.gz",
+  "download_time": "2026-05-12T22:59:22.055442",
+  "package_url": "https://pypi.org/project/jgw/"
+}

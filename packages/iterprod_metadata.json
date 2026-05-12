@@ -1,0 +1,11 @@
+{
+  "name": "iterprod",
+  "version": "1.1.0",
+  "summary": "This project provides a faster python-only alternative to itertools.product.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iterprod-1.1.0.tar.gz",
+  "download_time": "2026-05-12T22:59:18.836020",
+  "package_url": "https://pypi.org/project/iterprod/"
+}

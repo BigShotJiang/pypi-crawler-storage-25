@@ -1,11 +1,11 @@
 {
   "name": "plain.toolbar",
-  "version": "0.12.4",
+  "version": "0.12.7",
   "summary": "Debug toolbar for Plain applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_toolbar-0.12.4.tar.gz",
-  "download_time": "2026-04-02T03:27:57.945281",
+  "download_filename": "plain_toolbar-0.12.7.tar.gz",
+  "download_time": "2026-05-12T22:59:05.667172",
   "package_url": "https://pypi.org/project/plain.toolbar/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ccquota",
-  "version": "0.5.3",
+  "version": "0.6.0",
   "summary": "CLI tool to display Claude usage quota from claude.ai",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ccquota-0.5.3.tar.gz",
-  "download_time": "2026-05-10T14:07:21.269580",
+  "download_filename": "ccquota-0.6.0.tar.gz",
+  "download_time": "2026-05-12T22:58:59.745492",
   "package_url": "https://pypi.org/project/ccquota/"
 }

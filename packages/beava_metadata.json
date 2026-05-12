@@ -1,0 +1,11 @@
+{
+  "name": "beava",
+  "version": "0.0.3",
+  "summary": "Beava: real-time feature server with composable streaming pipelines (Python SDK + bundled Rust server binary).",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "beava-0.0.3.tar.gz",
+  "download_time": "2026-05-12T22:59:25.259462",
+  "package_url": "https://pypi.org/project/beava/"
+}

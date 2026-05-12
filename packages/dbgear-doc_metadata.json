@@ -1,11 +1,11 @@
 {
   "name": "dbgear-doc",
-  "version": "0.6.1",
+  "version": "0.7.2",
   "summary": "Documentation generator plugin for DBGear",
   "author": "tamuto",
   "license": null,
   "home_page": null,
-  "download_filename": "dbgear_doc-0.6.1.tar.gz",
-  "download_time": "2026-05-12T11:47:32.462328",
+  "download_filename": "dbgear_doc-0.7.2.tar.gz",
+  "download_time": "2026-05-12T22:58:56.092188",
   "package_url": "https://pypi.org/project/dbgear-doc/"
 }

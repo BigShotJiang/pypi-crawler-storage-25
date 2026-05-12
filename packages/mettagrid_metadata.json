@@ -1,11 +1,11 @@
 {
   "name": "mettagrid",
-  "version": "0.26.16",
+  "version": "0.26.20",
   "summary": "A fast grid-based open-ended MARL environment",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mettagrid-0.26.16.tar.gz",
-  "download_time": "2026-05-05T21:24:35.430518",
+  "download_filename": "mettagrid-0.26.20.tar.gz",
+  "download_time": "2026-05-12T22:59:04.084415",
   "package_url": "https://pypi.org/project/mettagrid/"
 }
