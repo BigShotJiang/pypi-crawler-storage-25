@@ -1,0 +1,11 @@
+{
+  "name": "blockrun-litellm",
+  "version": "0.3.1",
+  "summary": "LiteLLM adapter for BlockRun — call x402-paid AI models via LiteLLM (custom provider or local OpenAI-compatible proxy)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blockrun_litellm-0.3.1.tar.gz",
+  "download_time": "2026-05-12T07:01:29.933126",
+  "package_url": "https://pypi.org/project/blockrun-litellm/"
+}

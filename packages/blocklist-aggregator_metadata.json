@@ -1,0 +1,11 @@
+{
+  "name": "blocklist-aggregator",
+  "version": "1.6.1",
+  "summary": "Domains blocklist aggregator",
+  "author": "Denis MACHARD",
+  "license": null,
+  "home_page": "https://github.com/dmachard/blocklist-aggregator",
+  "download_filename": "blocklist_aggregator-1.6.1.tar.gz",
+  "download_time": "2026-05-12T07:00:43.864082",
+  "package_url": "https://pypi.org/project/blocklist-aggregator/"
+}

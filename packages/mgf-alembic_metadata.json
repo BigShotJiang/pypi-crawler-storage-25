@@ -1,0 +1,11 @@
+{
+  "name": "mgf-alembic",
+  "version": "0.1.1",
+  "summary": "Async-aware alembic env.py helper for mgf-common consumers — one-call configure_env replaces ~40 lines of boilerplate. Sibling of mgf-common under the mgf.* namespace; pairs with mgf-sqlalchemy.",
+  "author": "Bassam Alsanie, mgf-alembic contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mgf_alembic-0.1.1.tar.gz",
+  "download_time": "2026-05-12T07:01:28.354445",
+  "package_url": "https://pypi.org/project/mgf-alembic/"
+}

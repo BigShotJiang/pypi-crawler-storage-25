@@ -1,0 +1,11 @@
+{
+  "name": "pitchbench",
+  "version": "0.1.6",
+  "summary": "Benchmark suite for evaluating pitch and acoustic perception in audio language models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pitchbench-0.1.6.tar.gz",
+  "download_time": "2026-05-12T07:01:30.971803",
+  "package_url": "https://pypi.org/project/pitchbench/"
+}

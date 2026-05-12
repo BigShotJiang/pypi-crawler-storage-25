@@ -1,0 +1,11 @@
+{
+  "name": "fournex",
+  "version": "0.1.4",
+  "summary": "Open-source GPU performance profiler and bottleneck analyzer for PyTorch.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fournex-0.1.4.tar.gz",
+  "download_time": "2026-05-12T07:01:17.396410",
+  "package_url": "https://pypi.org/project/fournex/"
+}

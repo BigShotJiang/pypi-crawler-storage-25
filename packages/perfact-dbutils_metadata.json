@@ -1,0 +1,11 @@
+{
+  "name": "perfact-dbutils",
+  "version": "1.7.0",
+  "summary": "Basic tools for interacting with the database",
+  "author": "Viktor Dick",
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "perfact_dbutils-1.7.0.tar.gz",
+  "download_time": "2026-05-12T07:01:06.971785",
+  "package_url": "https://pypi.org/project/perfact-dbutils/"
+}

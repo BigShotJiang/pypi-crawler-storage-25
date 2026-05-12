@@ -1,11 +1,11 @@
 {
   "name": "scaleout",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A client library for the Scaleout Edge",
   "author": "Scaleout Systems AB",
   "license": null,
   "home_page": null,
-  "download_filename": "scaleout-1.0.1.tar.gz",
-  "download_time": "2026-04-10T13:54:40.295042",
+  "download_filename": "scaleout-1.0.2.tar.gz",
+  "download_time": "2026-05-12T07:00:50.744544",
   "package_url": "https://pypi.org/project/scaleout/"
 }

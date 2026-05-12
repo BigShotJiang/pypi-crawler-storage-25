@@ -1,0 +1,11 @@
+{
+  "name": "level1c4pps",
+  "version": "0.2.43",
+  "summary": "Tools to convert various satellite level-1 data formats to NWCSAF/PPS level-1c format",
+  "author": "NWCSAF PPS Team et al.",
+  "license": null,
+  "home_page": "https://github.com/foua-pps/level1c4pps",
+  "download_filename": "level1c4pps-0.2.43.tar.gz",
+  "download_time": "2026-05-12T07:01:09.600217",
+  "package_url": "https://pypi.org/project/level1c4pps/"
+}

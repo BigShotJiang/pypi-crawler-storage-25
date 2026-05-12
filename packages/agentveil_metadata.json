@@ -1,11 +1,11 @@
 {
   "name": "agentveil",
-  "version": "0.7.10",
-  "summary": "Python SDK for AgentVeil: agent identity, action gates, signed receipts, and proof packets",
+  "version": "0.7.14",
+  "summary": "Python SDK for agent action control: posture checks, action gates, signed receipts, and proof packets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentveil-0.7.10.tar.gz",
-  "download_time": "2026-05-07T21:41:37.675664",
+  "download_filename": "agentveil-0.7.14.tar.gz",
+  "download_time": "2026-05-12T07:00:49.179852",
   "package_url": "https://pypi.org/project/agentveil/"
 }

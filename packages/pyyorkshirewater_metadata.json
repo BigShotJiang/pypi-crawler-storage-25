@@ -1,0 +1,11 @@
+{
+  "name": "pyyorkshirewater",
+  "version": "1.0.0",
+  "summary": "Async Python client for Yorkshire Water's customer self-service API. Unofficial and not affiliated with Yorkshire Water.",
+  "author": "Dan Simms",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyyorkshirewater-1.0.0.tar.gz",
+  "download_time": "2026-05-12T07:01:27.316759",
+  "package_url": "https://pypi.org/project/pyyorkshirewater/"
+}
