@@ -1,11 +1,11 @@
 {
   "name": "indexes",
-  "version": "0.1.1",
-  "summary": "A lightweight utility to scrape and retrieve financial index constituents, starting with the S&P 500.",
+  "version": "0.1.2",
+  "summary": "A lightweight utility to scrape and retrieve financial index constituents, including S&P 500 and Nasdaq-100.",
   "author": "Fernando Zuniga",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "indexes-0.1.1.tar.gz",
-  "download_time": "2026-05-11T00:20:29.109030",
+  "download_filename": "indexes-0.1.2.tar.gz",
+  "download_time": "2026-05-12T00:22:11.868027",
   "package_url": "https://pypi.org/project/indexes/"
 }

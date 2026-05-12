@@ -1,0 +1,11 @@
+{
+  "name": "aind-airflow-jobs",
+  "version": "0.4.3",
+  "summary": "Global classes for AIND Airflow service",
+  "author": "Allen Institute for Neural Dynamics",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aind_airflow_jobs-0.4.3.tar.gz",
+  "download_time": "2026-05-12T00:21:50.457857",
+  "package_url": "https://pypi.org/project/aind-airflow-jobs/"
+}

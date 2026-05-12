@@ -1,11 +1,11 @@
 {
   "name": "actionlayer-mcp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "MCP server for ActionLayer — give Claude Code and other MCP hosts access to ActionLayer's typed action catalog.",
   "author": "ActionLayer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "actionlayer_mcp-0.1.0.tar.gz",
-  "download_time": "2026-05-11T22:36:19.622809",
+  "download_filename": "actionlayer_mcp-0.2.0.tar.gz",
+  "download_time": "2026-05-12T00:21:57.136025",
   "package_url": "https://pypi.org/project/actionlayer-mcp/"
 }

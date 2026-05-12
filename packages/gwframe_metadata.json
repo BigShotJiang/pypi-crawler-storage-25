@@ -1,0 +1,11 @@
+{
+  "name": "gwframe",
+  "version": "0.3.1",
+  "summary": "High-level Python library to work with gravitational-wave frame (GWF) files, based on framecpp",
+  "author": null,
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "gwframe-0.3.1.tar.gz",
+  "download_time": "2026-05-12T00:21:28.335491",
+  "package_url": "https://pypi.org/project/gwframe/"
+}

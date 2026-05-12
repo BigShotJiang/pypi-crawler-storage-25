@@ -1,0 +1,11 @@
+{
+  "name": "fitsy",
+  "version": "0.1.2",
+  "summary": "Strictly-conformant FITS 4.0 reader and writer.",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "fitsy-0.1.2-cp310-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-12T00:21:52.570489",
+  "package_url": "https://pypi.org/project/fitsy/"
+}
