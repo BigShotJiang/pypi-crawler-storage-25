@@ -1,0 +1,11 @@
+{
+  "name": "murnet",
+  "version": "6.2.0",
+  "summary": "Decentralized P2P network with onion routing, DHT and VPN tunnel",
+  "author": "cotafei",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "murnet-6.2.0.tar.gz",
+  "download_time": "2026-05-12T20:27:04.771636",
+  "package_url": "https://pypi.org/project/murnet/"
+}

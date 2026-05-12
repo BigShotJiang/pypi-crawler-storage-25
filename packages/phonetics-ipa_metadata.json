@@ -1,0 +1,11 @@
+{
+  "name": "phonetics-ipa",
+  "version": "0.2.0",
+  "summary": "IPA-based phonetic distance: strict edit distance, listener-confusion distance, and per-phoneme acoustic and perceptual scoring.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phonetics_ipa-0.2.0.tar.gz",
+  "download_time": "2026-05-12T20:27:09.618037",
+  "package_url": "https://pypi.org/project/phonetics-ipa/"
+}

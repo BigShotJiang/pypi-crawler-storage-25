@@ -1,0 +1,11 @@
+{
+  "name": "asymtree",
+  "version": "0.1.1",
+  "summary": "Decision tree classifier with centroid-asymmetry split criterion",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "asymtree-0.1.1.tar.gz",
+  "download_time": "2026-05-12T20:27:22.752632",
+  "package_url": "https://pypi.org/project/asymtree/"
+}

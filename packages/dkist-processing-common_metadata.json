@@ -1,11 +1,11 @@
 {
   "name": "dkist-processing-common",
-  "version": "13.0.5",
+  "version": "14.2.0",
   "summary": "Common task classes used by the DKIST science data processing pipelines",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "dkist_processing_common-13.0.5.tar.gz",
-  "download_time": "2026-04-20T21:13:50.341450",
+  "download_filename": "dkist_processing_common-14.2.0.tar.gz",
+  "download_time": "2026-05-12T20:27:12.309173",
   "package_url": "https://pypi.org/project/dkist-processing-common/"
 }

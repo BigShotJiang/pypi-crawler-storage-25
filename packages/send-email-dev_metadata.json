@@ -1,0 +1,11 @@
+{
+  "name": "send-email-dev",
+  "version": "0.1.0",
+  "summary": "App Django reutilizavel para envio de emails via SMTP com suporte a anexos locais e por URL.",
+  "author": "yagoo-alphabeto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "send_email_dev-0.1.0.tar.gz",
+  "download_time": "2026-05-12T20:27:18.436033",
+  "package_url": "https://pypi.org/project/send-email-dev/"
+}

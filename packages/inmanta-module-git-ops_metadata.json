@@ -1,0 +1,11 @@
+{
+  "name": "inmanta-module-git-ops",
+  "version": "0.3.1",
+  "summary": "Declarative parametrization, extension and validation of Inmanta DSL models.",
+  "author": "Guillaume Everarts de Velp",
+  "license": "ASL 2.0",
+  "home_page": null,
+  "download_filename": "inmanta_module_git_ops-0.3.1.tar.gz",
+  "download_time": "2026-05-12T20:26:40.926854",
+  "package_url": "https://pypi.org/project/inmanta-module-git-ops/"
+}

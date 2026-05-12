@@ -1,0 +1,11 @@
+{
+  "name": "zenve-adapters",
+  "version": "0.1.4",
+  "summary": "Zenve agent adapter framework — base types for adapters that run agents (Claude Code, opencode, etc.)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zenve_adapters-0.1.4.tar.gz",
+  "download_time": "2026-05-12T20:26:55.641404",
+  "package_url": "https://pypi.org/project/zenve-adapters/"
+}

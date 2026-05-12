@@ -1,11 +1,11 @@
 {
   "name": "teasel",
-  "version": "0.2.13",
+  "version": "0.2.16",
   "summary": "Connect lab instruments to AI assistants",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "teasel-0.2.13.tar.gz",
-  "download_time": "2026-05-10T18:03:56.631682",
+  "download_filename": "teasel-0.2.16.tar.gz",
+  "download_time": "2026-05-12T20:27:13.378183",
   "package_url": "https://pypi.org/project/teasel/"
 }

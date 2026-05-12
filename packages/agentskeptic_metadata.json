@@ -1,11 +1,11 @@
 {
   "name": "agentskeptic",
-  "version": "8.4.0",
+  "version": "8.5.1",
   "summary": "Python-native database-truth verification for CrewAI and LangGraph (AgentSkeptic kernel).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentskeptic-8.4.0.tar.gz",
-  "download_time": "2026-05-12T00:22:05.009890",
+  "download_filename": "agentskeptic-8.5.1.tar.gz",
+  "download_time": "2026-05-12T20:26:57.247187",
   "package_url": "https://pypi.org/project/agentskeptic/"
 }

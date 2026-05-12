@@ -1,11 +1,11 @@
 {
   "name": "hf-agentfinder",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Agent Finder registry adapter for Hugging Face Spaces",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hf_agentfinder-0.1.1.tar.gz",
-  "download_time": "2026-05-12T13:44:06.615748",
+  "download_filename": "hf_agentfinder-0.1.4.tar.gz",
+  "download_time": "2026-05-12T20:26:48.548672",
   "package_url": "https://pypi.org/project/hf-agentfinder/"
 }

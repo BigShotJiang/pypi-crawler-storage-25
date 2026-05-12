@@ -1,0 +1,11 @@
+{
+  "name": "india-bank-parse",
+  "version": "0.1.0",
+  "summary": "Parse Indian bank statements (SBI, HDFC, ICICI, Axis) into clean, unified pandas DataFrames",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "india_bank_parse-0.1.0.tar.gz",
+  "download_time": "2026-05-12T20:26:58.851825",
+  "package_url": "https://pypi.org/project/india-bank-parse/"
+}
