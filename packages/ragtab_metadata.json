@@ -1,0 +1,11 @@
+{
+  "name": "ragtab",
+  "version": "0.1.1",
+  "summary": "Trích xuất bảng từ ảnh/PDF thành Markdown cho RAG pipeline",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ragtab-0.1.1.tar.gz",
+  "download_time": "2026-05-13T09:57:24.464135",
+  "package_url": "https://pypi.org/project/ragtab/"
+}

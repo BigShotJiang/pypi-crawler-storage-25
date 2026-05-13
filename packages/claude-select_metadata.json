@@ -1,11 +1,11 @@
 {
   "name": "claude-select",
-  "version": "0.1.0",
-  "summary": "Manage multiple Claude auth profiles for the Claude Code CLI and Python Agent SDK usage.",
+  "version": "0.4.7",
+  "summary": "Manage a local registry of Claude CLI auth snapshots plus simple SDK token entries.",
   "author": "wx.luo",
   "license": null,
   "home_page": null,
-  "download_filename": "claude_select-0.1.0.tar.gz",
-  "download_time": "2026-04-19T11:13:23.818159",
+  "download_filename": "claude_select-0.4.7.tar.gz",
+  "download_time": "2026-05-13T09:57:20.074854",
   "package_url": "https://pypi.org/project/claude-select/"
 }

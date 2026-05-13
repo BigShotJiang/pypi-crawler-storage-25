@@ -1,11 +1,11 @@
 {
   "name": "xener",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Single-cell cross-species cell type annotation tool using knowledge graph.",
   "author": "Xener Team",
   "license": null,
   "home_page": null,
-  "download_filename": "xener-0.1.6-py3-none-any.whl",
-  "download_time": "2026-05-13T07:05:22.837874",
+  "download_filename": "xener-0.1.8-py3-none-any.whl",
+  "download_time": "2026-05-13T09:57:07.351848",
   "package_url": "https://pypi.org/project/xener/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aioaquarite",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Async Python client for the Hayward Aquarite pool API",
   "author": "fdebrus",
   "license": null,
   "home_page": null,
-  "download_filename": "aioaquarite-0.3.0.tar.gz",
-  "download_time": "2026-05-04T21:18:15.172558",
+  "download_filename": "aioaquarite-0.4.0.tar.gz",
+  "download_time": "2026-05-13T09:57:07.922612",
   "package_url": "https://pypi.org/project/aioaquarite/"
 }

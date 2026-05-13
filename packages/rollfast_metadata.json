@@ -1,0 +1,11 @@
+{
+  "name": "rollfast",
+  "version": "0.4.0",
+  "summary": "JAX implementation of experimental optimizers and schedulers.",
+  "author": "clementpoiret",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rollfast-0.4.0.tar.gz",
+  "download_time": "2026-05-13T09:56:56.313427",
+  "package_url": "https://pypi.org/project/rollfast/"
+}

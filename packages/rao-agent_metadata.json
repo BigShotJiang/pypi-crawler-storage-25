@@ -1,11 +1,11 @@
 {
   "name": "rao-agent",
-  "version": "1.0.2.post2299",
-  "summary": "A RAO base agent",
+  "version": "1.0.2.post2475",
+  "summary": "Base framework for building RAO (Retrieval-Augmented Orchestrator) agents on the Progress Agentic RAG platform",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "rao_agent-1.0.2.post2299-py3-none-any.whl",
-  "download_time": "2026-04-24T08:33:13.320570",
+  "download_filename": "rao_agent-1.0.2.post2475-py3-none-any.whl",
+  "download_time": "2026-05-13T09:56:59.628598",
   "package_url": "https://pypi.org/project/rao-agent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-api-profiler",
+  "version": "0.1.5",
+  "summary": "Lightweight API profiling and endpoint analytics for Django",
+  "author": "Ahmed",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_api_profiler-0.1.5.tar.gz",
+  "download_time": "2026-05-13T09:57:21.767217",
+  "package_url": "https://pypi.org/project/django-api-profiler/"
+}

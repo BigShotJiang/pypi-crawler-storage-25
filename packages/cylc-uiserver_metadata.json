@@ -1,0 +1,11 @@
+{
+  "name": "cylc-uiserver",
+  "version": "1.9.0",
+  "summary": "Cylc UI Server",
+  "author": null,
+  "license": "GPL",
+  "home_page": "https://github.com/cylc/cylc-uiserver/",
+  "download_filename": "cylc_uiserver-1.9.0.tar.gz",
+  "download_time": "2026-05-13T09:57:10.187794",
+  "package_url": "https://pypi.org/project/cylc-uiserver/"
+}

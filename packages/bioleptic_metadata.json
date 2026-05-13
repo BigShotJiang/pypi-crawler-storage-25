@@ -1,0 +1,11 @@
+{
+  "name": "bioleptic",
+  "version": "0.1.1",
+  "summary": "Python bindings for the Bioleptic signal compressor",
+  "author": "Radzivon Bartoshyk",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/awxkee/bioleptic",
+  "download_filename": "bioleptic-0.1.1-cp313-cp313-win_amd64.whl",
+  "download_time": "2026-05-13T09:57:00.142203",
+  "package_url": "https://pypi.org/project/bioleptic/"
+}
