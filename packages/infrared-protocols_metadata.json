@@ -1,11 +1,11 @@
 {
   "name": "infrared-protocols",
-  "version": "4.0.0",
+  "version": "5.2.0",
   "summary": "Library to decode and encode infrared signals.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "infrared_protocols-4.0.0.tar.gz",
-  "download_time": "2026-05-11T00:20:41.412595",
+  "download_filename": "infrared_protocols-5.2.0.tar.gz",
+  "download_time": "2026-05-13T16:54:14.683813",
   "package_url": "https://pypi.org/project/infrared-protocols/"
 }

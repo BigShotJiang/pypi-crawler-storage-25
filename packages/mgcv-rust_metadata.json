@@ -1,11 +1,11 @@
 {
   "name": "mgcv-rust",
-  "version": "0.9.1",
+  "version": "0.13.0",
   "summary": "Rust implementation of Generalized Additive Models with Python bindings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mgcv_rust-0.9.1.tar.gz",
-  "download_time": "2026-05-10T21:18:03.580593",
+  "download_filename": "mgcv_rust-0.13.0.tar.gz",
+  "download_time": "2026-05-13T16:54:34.589479",
   "package_url": "https://pypi.org/project/mgcv-rust/"
 }

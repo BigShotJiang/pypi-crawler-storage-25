@@ -1,11 +1,11 @@
 {
   "name": "hermes-agent-evolution",
-  "version": "7.0.6",
+  "version": "7.0.13",
   "summary": "AI助手自我进化系统 V1/V2/V3 融合版 - 单体+微服务混合架构",
   "author": "HermesAgentEvolution Team",
   "license": "MIT",
   "home_page": "https://github.com/WayneLiu519888/Hermes-Agent-EvolutionV3",
-  "download_filename": "hermes_agent_evolution-7.0.6.tar.gz",
-  "download_time": "2026-05-12T13:44:23.840463",
+  "download_filename": "hermes_agent_evolution-7.0.13.tar.gz",
+  "download_time": "2026-05-13T16:53:53.477245",
   "package_url": "https://pypi.org/project/hermes-agent-evolution/"
 }

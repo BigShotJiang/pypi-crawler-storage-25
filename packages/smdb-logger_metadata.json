@@ -1,0 +1,11 @@
+{
+  "name": "smdb-logger",
+  "version": "0.8.4",
+  "summary": "Logger used by Server Monitoring Discord Bot and all extensions made by me",
+  "author": "Janthó Dávid",
+  "license": null,
+  "home_page": "https://github.com/NightKey/smdb-logger",
+  "download_filename": "smdb_logger-0.8.4.tar.gz",
+  "download_time": "2026-05-13T16:54:11.072079",
+  "package_url": "https://pypi.org/project/smdb-logger/"
+}

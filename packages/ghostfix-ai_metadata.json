@@ -1,0 +1,11 @@
+{
+  "name": "ghostfix-ai",
+  "version": "0.6.0",
+  "summary": "Production-minded local-first runtime debugging CLI with command-aware tooling diagnosis and guarded safe fixes.",
+  "author": "GhostFix AI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ghostfix_ai-0.6.0.tar.gz",
+  "download_time": "2026-05-13T16:53:46.644365",
+  "package_url": "https://pypi.org/project/ghostfix-ai/"
+}
