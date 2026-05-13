@@ -1,11 +1,11 @@
 {
   "name": "simdrive",
-  "version": "1.0.0a4",
-  "summary": "SimDrive — MCP-native iOS simulator driver. Vision-first, agent-driven.",
+  "version": "1.0.0a11",
+  "summary": "MCP-native iOS simulator + real-device automation. Agent-first: your MCP client drives via 31 vision-first tools — simdrive does not require an API key.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simdrive-1.0.0a4.tar.gz",
-  "download_time": "2026-05-04T21:17:40.832270",
+  "download_filename": "simdrive-1.0.0a11.tar.gz",
+  "download_time": "2026-05-13T18:39:34.295036",
   "package_url": "https://pypi.org/project/simdrive/"
 }

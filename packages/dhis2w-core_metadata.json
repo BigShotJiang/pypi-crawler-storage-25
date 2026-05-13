@@ -1,11 +1,11 @@
 {
   "name": "dhis2w-core",
-  "version": "0.10.0",
+  "version": "0.13.0",
   "summary": "Shared DHIS2 tooling runtime: profile discovery, plugin registry, auth factory, token store, first-party plugins.",
   "author": "Morten Hansen",
   "license": null,
   "home_page": null,
-  "download_filename": "dhis2w_core-0.10.0.tar.gz",
-  "download_time": "2026-05-12T11:47:53.084980",
+  "download_filename": "dhis2w_core-0.13.0.tar.gz",
+  "download_time": "2026-05-13T18:39:41.611611",
   "package_url": "https://pypi.org/project/dhis2w-core/"
 }

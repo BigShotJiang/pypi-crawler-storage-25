@@ -1,11 +1,11 @@
 {
   "name": "scitoolkit",
-  "version": "0.2.0",
+  "version": "0.5.3",
   "summary": "A community repository for scientific agentic tools - discover, share, and use AI tools for science",
   "author": "Alex Roman",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scitoolkit-0.2.0.tar.gz",
-  "download_time": "2026-05-05T22:25:43.935760",
+  "download_filename": "scitoolkit-0.5.3.tar.gz",
+  "download_time": "2026-05-13T18:39:45.745710",
   "package_url": "https://pypi.org/project/scitoolkit/"
 }

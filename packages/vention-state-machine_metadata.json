@@ -1,11 +1,11 @@
 {
   "name": "vention-state-machine",
-  "version": "0.4.22",
+  "version": "0.4.25",
   "summary": "Declarative state machine framework for machine apps",
   "author": "VentionCo",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "vention_state_machine-0.4.22.tar.gz",
-  "download_time": "2026-05-12T00:21:45.039745",
+  "download_filename": "vention_state_machine-0.4.25.tar.gz",
+  "download_time": "2026-05-13T18:40:18.936013",
   "package_url": "https://pypi.org/project/vention-state-machine/"
 }

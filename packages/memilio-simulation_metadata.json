@@ -1,0 +1,11 @@
+{
+  "name": "memilio-simulation",
+  "version": "2.4.0",
+  "summary": "Part of MEmilio project, Python bindings to the C++ libraries that contain the models and simulations.",
+  "author": "MEmilio Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "memilio_simulation-2.4.0.tar.gz",
+  "download_time": "2026-05-13T18:39:37.990948",
+  "package_url": "https://pypi.org/project/memilio-simulation/"
+}

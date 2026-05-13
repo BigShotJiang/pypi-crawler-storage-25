@@ -1,0 +1,11 @@
+{
+  "name": "abf-openai",
+  "version": "0.0.17",
+  "summary": "A version of the OpenAI package that allows the caching of responses, tailored for the CBSxWallStreetPrep 'AI in Business and Finance' class.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "abf_openai-0.0.17.tar.gz",
+  "download_time": "2026-05-13T18:39:50.370183",
+  "package_url": "https://pypi.org/project/abf-openai/"
+}

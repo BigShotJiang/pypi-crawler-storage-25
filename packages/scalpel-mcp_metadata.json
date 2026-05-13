@@ -1,0 +1,11 @@
+{
+  "name": "scalpel-mcp",
+  "version": "0.1.3",
+  "summary": "Surgical AST-based Python editing for AI agents — edit by symbol name, not text position. Built-in blast radius and token cost on every edit.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scalpel_mcp-0.1.3.tar.gz",
+  "download_time": "2026-05-13T18:39:57.783844",
+  "package_url": "https://pypi.org/project/scalpel-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyensembl",
-  "version": "2.9.7",
+  "version": "2.10.1",
   "summary": "Python interface to Ensembl reference genome metadata",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyensembl-2.9.7.tar.gz",
-  "download_time": "2026-05-13T14:43:27.182956",
+  "download_filename": "pyensembl-2.10.1.tar.gz",
+  "download_time": "2026-05-13T18:39:35.838787",
   "package_url": "https://pypi.org/project/pyensembl/"
 }

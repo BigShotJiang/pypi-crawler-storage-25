@@ -1,0 +1,11 @@
+{
+  "name": "pulsar-scheduler",
+  "version": "0.1.0",
+  "summary": "Lightweight Python job scheduler with cron, DuckDB, web UI, and CLI",
+  "author": "mz-jy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pulsar_scheduler-0.1.0.tar.gz",
+  "download_time": "2026-05-13T18:39:51.399851",
+  "package_url": "https://pypi.org/project/pulsar-scheduler/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "distdens",
+  "version": "1.0.0",
+  "summary": "Módulo utilizado para calcular los mapas de densidad a partir de datos de muestro",
+  "author": "Ciencia de Datos • GECI",
+  "license": null,
+  "home_page": "https://github.com/IslasGECI/distdens",
+  "download_filename": "distdens-1.0.0.tar.gz",
+  "download_time": "2026-05-13T18:39:51.916122",
+  "package_url": "https://pypi.org/project/distdens/"
+}

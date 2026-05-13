@@ -1,11 +1,11 @@
 {
   "name": "vectlite",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "summary": "Embedded vector store for local-first AI applications.",
   "author": null,
   "license": "MIT",
   "home_page": "https://vectlite.mcsedition.org/",
-  "download_filename": "vectlite-0.9.2.tar.gz",
-  "download_time": "2026-05-12T20:26:59.936029",
+  "download_filename": "vectlite-0.9.3.tar.gz",
+  "download_time": "2026-05-13T18:39:49.858696",
   "package_url": "https://pypi.org/project/vectlite/"
 }
