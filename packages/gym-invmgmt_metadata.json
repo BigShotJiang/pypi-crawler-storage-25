@@ -1,0 +1,11 @@
+{
+  "name": "gym-invmgmt",
+  "version": "0.2.0",
+  "summary": "Multi-echelon inventory management Gymnasium environment with configurable topology, composable demand engines, and endogenous goodwill dynamics.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gym_invmgmt-0.2.0.tar.gz",
+  "download_time": "2026-05-13T00:11:01.725932",
+  "package_url": "https://pypi.org/project/gym-invmgmt/"
+}

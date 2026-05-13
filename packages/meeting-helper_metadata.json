@@ -1,11 +1,11 @@
 {
   "name": "meeting-helper",
-  "version": "2.7.14",
+  "version": "2.8.3",
   "summary": "AI meeting assistant for macOS — auto-record, live transcription, Claude-powered answers",
   "author": "Victor",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "meeting_helper-2.7.14.tar.gz",
-  "download_time": "2026-05-10T20:16:28.079817",
+  "download_filename": "meeting_helper-2.8.3.tar.gz",
+  "download_time": "2026-05-13T00:10:57.233660",
   "package_url": "https://pypi.org/project/meeting-helper/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nvd-claude-nim",
+  "version": "0.1.4",
+  "summary": "Anthropic Messages → NVIDIA NIM Proxy for Claude Code",
+  "author": "NVIDIA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nvd_claude_nim-0.1.4.tar.gz",
+  "download_time": "2026-05-13T00:11:04.185426",
+  "package_url": "https://pypi.org/project/nvd-claude-nim/"
+}

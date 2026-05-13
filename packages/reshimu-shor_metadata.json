@@ -1,0 +1,11 @@
+{
+  "name": "reshimu-shor",
+  "version": "0.1.0",
+  "summary": "Deterministic, non-LLM grounding & hallucination classifier for agent loops.",
+  "author": "Reshimu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reshimu_shor-0.1.0.tar.gz",
+  "download_time": "2026-05-13T00:11:07.506485",
+  "package_url": "https://pypi.org/project/reshimu-shor/"
+}

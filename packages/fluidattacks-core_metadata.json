@@ -1,11 +1,11 @@
 {
   "name": "fluidattacks-core",
-  "version": "8.0.1",
+  "version": "8.0.3",
   "summary": "Fluid Attacks Core Library",
   "author": null,
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "fluidattacks_core-8.0.1-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2026-05-11T23:23:48.553995",
+  "download_filename": "fluidattacks_core-8.0.3-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-13T00:11:30.191465",
   "package_url": "https://pypi.org/project/fluidattacks-core/"
 }

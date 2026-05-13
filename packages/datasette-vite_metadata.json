@@ -1,0 +1,11 @@
+{
+  "name": "datasette-vite",
+  "version": "0.0.1a4",
+  "summary": "Utility for writing frontend plugins for Datasette with Vite",
+  "author": "Alex Garcia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasette_vite-0.0.1a4.tar.gz",
+  "download_time": "2026-05-13T00:11:21.585276",
+  "package_url": "https://pypi.org/project/datasette-vite/"
+}

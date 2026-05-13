@@ -1,0 +1,11 @@
+{
+  "name": "pyiron-workflow-vasp",
+  "version": "0.1.0",
+  "summary": "A VASP workflow integration package for pyiron",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pyiron_workflow_vasp-0.1.0.tar.gz",
+  "download_time": "2026-05-13T00:10:57.915664",
+  "package_url": "https://pypi.org/project/pyiron-workflow-vasp/"
+}
