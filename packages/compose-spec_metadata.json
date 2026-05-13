@@ -1,0 +1,11 @@
+{
+  "name": "compose-spec",
+  "version": "0.2.0",
+  "summary": "Python bindings for compose_spec — validated Docker Compose file parsing and serialization",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "compose_spec-0.2.0.tar.gz",
+  "download_time": "2026-05-13T04:14:43.245796",
+  "package_url": "https://pypi.org/project/compose-spec/"
+}

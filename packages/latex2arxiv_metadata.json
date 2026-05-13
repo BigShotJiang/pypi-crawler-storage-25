@@ -1,11 +1,11 @@
 {
   "name": "latex2arxiv",
-  "version": "0.7.1",
+  "version": "0.9.0",
   "summary": "Validates arXiv compatibility and cleans a LaTeX .zip project in one command",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "latex2arxiv-0.7.1.tar.gz",
-  "download_time": "2026-05-07T19:10:12.613594",
+  "download_filename": "latex2arxiv-0.9.0.tar.gz",
+  "download_time": "2026-05-13T04:14:43.796632",
   "package_url": "https://pypi.org/project/latex2arxiv/"
 }

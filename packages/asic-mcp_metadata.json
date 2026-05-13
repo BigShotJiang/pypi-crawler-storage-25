@@ -1,0 +1,11 @@
+{
+  "name": "asic-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for Australian Securities and Investments Commission registers. Plain-English access to financial advisers, AFS licensees, credit licensees, banned and disqualified persons and organisations, and registered liquidators via data.gov.au.",
+  "author": "Harry Vass",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "asic_mcp-0.1.0.tar.gz",
+  "download_time": "2026-05-13T04:14:30.164774",
+  "package_url": "https://pypi.org/project/asic-mcp/"
+}

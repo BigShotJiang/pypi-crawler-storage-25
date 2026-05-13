@@ -1,11 +1,11 @@
 {
   "name": "csclib-tfhe",
-  "version": "202605101",
+  "version": "202605131",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "csclib_tfhe-202605101.tar.gz",
-  "download_time": "2026-05-09T23:34:47.540903",
+  "download_filename": "csclib_tfhe-202605131.tar.gz",
+  "download_time": "2026-05-13T04:15:00.074872",
   "package_url": "https://pypi.org/project/csclib-tfhe/"
 }

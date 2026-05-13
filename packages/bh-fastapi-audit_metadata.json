@@ -1,11 +1,11 @@
 {
   "name": "bh-fastapi-audit",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "FastAPI ASGI middleware for emitting PHI-safe audit events for behavioral healthcare systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bh_fastapi_audit-1.0.0.tar.gz",
-  "download_time": "2026-04-04T18:46:13.794463",
+  "download_filename": "bh_fastapi_audit-1.1.1.tar.gz",
+  "download_time": "2026-05-13T04:14:27.953295",
   "package_url": "https://pypi.org/project/bh-fastapi-audit/"
 }

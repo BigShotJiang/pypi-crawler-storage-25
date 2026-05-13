@@ -1,11 +1,11 @@
 {
   "name": "homebrewlibra",
-  "version": "0.1.0",
-  "summary": "Modular utilities for market data processing and analysis",
-  "author": "Alex Glebov",
+  "version": "0.2.4",
+  "summary": "Foundation utilities for data I/O, timestamps, and type coercion",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "homebrewlibra-0.1.0.tar.gz",
-  "download_time": "2026-04-28T00:15:41.133362",
+  "download_filename": "homebrewlibra-0.2.4.tar.gz",
+  "download_time": "2026-05-13T04:14:22.942272",
   "package_url": "https://pypi.org/project/homebrewlibra/"
 }

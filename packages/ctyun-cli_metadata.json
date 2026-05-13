@@ -1,11 +1,11 @@
 {
   "name": "ctyun-cli",
-  "version": "1.17.0",
+  "version": "1.18.1",
   "summary": "天翼云CLI工具 - 基于终端的云资源管理平台",
   "author": "Y.FENG",
   "license": "MIT",
   "home_page": "https://github.com/fengyucn/ctyun-cli",
-  "download_filename": "ctyun_cli-1.17.0-py3-none-any.whl",
-  "download_time": "2026-05-08T08:21:56.974367",
+  "download_filename": "ctyun_cli-1.18.1.tar.gz",
+  "download_time": "2026-05-13T04:14:38.766810",
   "package_url": "https://pypi.org/project/ctyun-cli/"
 }

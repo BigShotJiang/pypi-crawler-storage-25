@@ -1,11 +1,11 @@
 {
   "name": "fermilink",
-  "version": "0.2.0",
-  "summary": "A unified agent framework for multidomain autonomous scientific simulations",
+  "version": "0.3.7",
+  "summary": "Write a goal.md, FermiLink takes care of autonomous scientific simulations and optimization at both laptops and HPCs",
   "author": "FermiLink",
   "license": null,
   "home_page": null,
-  "download_filename": "fermilink-0.2.0.tar.gz",
-  "download_time": "2026-04-04T05:42:46.265945",
+  "download_filename": "fermilink-0.3.7.tar.gz",
+  "download_time": "2026-05-13T04:15:03.122238",
   "package_url": "https://pypi.org/project/fermilink/"
 }

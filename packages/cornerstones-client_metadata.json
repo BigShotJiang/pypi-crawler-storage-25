@@ -1,11 +1,11 @@
 {
   "name": "cornerstones-client",
-  "version": "0.1.12",
+  "version": "0.1.17",
   "summary": "Public-safe Cornerstones client CLI for managed market context access",
   "author": "Xiaolei Lu",
   "license": null,
   "home_page": null,
-  "download_filename": "cornerstones_client-0.1.12.tar.gz",
-  "download_time": "2026-05-07T06:00:08.724776",
+  "download_filename": "cornerstones_client-0.1.17.tar.gz",
+  "download_time": "2026-05-13T04:14:50.189746",
   "package_url": "https://pypi.org/project/cornerstones-client/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "bh-audit-logger",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Cloud-agnostic Python audit logger for emitting PHI-safe behavioral healthcare audit events conforming to bh-audit-schema v1.1",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "bh_audit_logger-1.0.0.tar.gz",
-  "download_time": "2026-04-04T18:46:14.338003",
+  "download_filename": "bh_audit_logger-1.1.1.tar.gz",
+  "download_time": "2026-05-13T04:14:24.612874",
   "package_url": "https://pypi.org/project/bh-audit-logger/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lingtai",
-  "version": "0.7.5",
+  "version": "0.9.7",
   "summary": "Generic research agent with intrinsic tools and MCP-compatible extension interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lingtai-0.7.5.tar.gz",
-  "download_time": "2026-05-02T09:24:47.084958",
+  "download_filename": "lingtai-0.9.7.tar.gz",
+  "download_time": "2026-05-13T04:14:37.102138",
   "package_url": "https://pypi.org/project/lingtai/"
 }
