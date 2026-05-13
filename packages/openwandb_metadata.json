@@ -1,11 +1,11 @@
 {
   "name": "openwandb",
-  "version": "0.5.4",
+  "version": "0.5.13",
   "summary": "Open-source WandB-compatible server with multi-tenant support",
   "author": "OpenWandb Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "openwandb-0.5.4-py3-none-any.whl",
-  "download_time": "2026-05-13T04:14:14.970274",
+  "download_filename": "openwandb-0.5.13.tar.gz",
+  "download_time": "2026-05-13T07:05:22.324627",
   "package_url": "https://pypi.org/project/openwandb/"
 }

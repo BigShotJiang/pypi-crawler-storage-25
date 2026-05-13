@@ -1,11 +1,11 @@
 {
   "name": "med-paper-assistant",
-  "version": "0.6.4",
-  "summary": "A medical paper writing assistant using MCP support",
+  "version": "0.7.10",
+  "summary": "An MCP-orchestrated research workspace for manuscript and library-wiki workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "med_paper_assistant-0.6.4-py3-none-any.whl",
-  "download_time": "2026-04-14T03:39:47.365887",
+  "download_filename": "med_paper_assistant-0.7.10-py3-none-any.whl",
+  "download_time": "2026-05-13T07:05:23.352074",
   "package_url": "https://pypi.org/project/med-paper-assistant/"
 }

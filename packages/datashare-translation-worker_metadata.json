@@ -1,11 +1,11 @@
 {
   "name": "datashare-translation-worker",
-  "version": "0.5.10",
+  "version": "0.5.23",
   "summary": "Translation worker implementation in Temporal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datashare_translation_worker-0.5.10.tar.gz",
-  "download_time": "2026-05-12T13:43:59.214005",
+  "download_filename": "datashare_translation_worker-0.5.23.tar.gz",
+  "download_time": "2026-05-13T07:05:17.689031",
   "package_url": "https://pypi.org/project/datashare-translation-worker/"
 }

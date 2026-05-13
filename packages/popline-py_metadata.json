@@ -1,0 +1,11 @@
+{
+  "name": "popline-py",
+  "version": "0.4.0",
+  "summary": "PopLine — Line-oriented serialization format (C extension)",
+  "author": "one18mb",
+  "license": "MIT",
+  "home_page": "https://github.com/one18mb/popline-py",
+  "download_filename": "popline_py-0.4.0.tar.gz",
+  "download_time": "2026-05-13T07:04:52.460061",
+  "package_url": "https://pypi.org/project/popline-py/"
+}

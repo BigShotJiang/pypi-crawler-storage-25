@@ -1,0 +1,11 @@
+{
+  "name": "jp-idwr-db",
+  "version": "2026.5.13",
+  "summary": "Japanese IDWR infectious disease database and analytics toolkit built on Polars.",
+  "author": "jp-idwr-db contributors",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "jp_idwr_db-2026.5.13.tar.gz",
+  "download_time": "2026-05-13T07:05:10.450370",
+  "package_url": "https://pypi.org/project/jp-idwr-db/"
+}

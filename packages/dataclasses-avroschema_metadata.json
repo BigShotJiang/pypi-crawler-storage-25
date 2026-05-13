@@ -1,0 +1,11 @@
+{
+  "name": "dataclasses-avroschema",
+  "version": "0.69.0",
+  "summary": "Generate Avro Schemas from Python classes. Serialize/Deserialize python instances with avro schemas",
+  "author": "Marcos Schroh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dataclasses_avroschema-0.69.0.tar.gz",
+  "download_time": "2026-05-13T07:04:52.974270",
+  "package_url": "https://pypi.org/project/dataclasses-avroschema/"
+}
