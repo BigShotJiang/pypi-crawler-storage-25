@@ -1,11 +1,11 @@
 {
   "name": "aws-cdk.aws-bedrock-agentcore-alpha",
-  "version": "2.253.1a0",
+  "version": "2.254.0a0",
   "summary": "The CDK Construct Library for Amazon Bedrock",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/aws/aws-cdk",
-  "download_filename": "aws_cdk_aws_bedrock_agentcore_alpha-2.253.1a0.tar.gz",
-  "download_time": "2026-05-08T16:12:52.692158",
+  "download_filename": "aws_cdk_aws_bedrock_agentcore_alpha-2.254.0a0.tar.gz",
+  "download_time": "2026-05-13T22:04:12.665620",
   "package_url": "https://pypi.org/project/aws-cdk.aws-bedrock-agentcore-alpha/"
 }

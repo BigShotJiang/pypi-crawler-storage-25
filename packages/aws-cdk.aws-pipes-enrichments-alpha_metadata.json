@@ -1,11 +1,11 @@
 {
   "name": "aws-cdk.aws-pipes-enrichments-alpha",
-  "version": "2.253.1a0",
+  "version": "2.254.0a0",
   "summary": "The CDK Construct Library for Amazon EventBridge Pipes Enrichments",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/aws/aws-cdk",
-  "download_filename": "aws_cdk_aws_pipes_enrichments_alpha-2.253.1a0.tar.gz",
-  "download_time": "2026-05-08T16:12:37.484175",
+  "download_filename": "aws_cdk_aws_pipes_enrichments_alpha-2.254.0a0.tar.gz",
+  "download_time": "2026-05-13T22:03:59.134672",
   "package_url": "https://pypi.org/project/aws-cdk.aws-pipes-enrichments-alpha/"
 }

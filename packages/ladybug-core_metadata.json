@@ -1,0 +1,11 @@
+{
+  "name": "ladybug-core",
+  "version": "0.44.44",
+  "summary": "Python library to load, analyze and modify EnergyPlus Weather files (epw).",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/ladybug",
+  "download_filename": "ladybug_core-0.44.44.tar.gz",
+  "download_time": "2026-05-13T22:04:20.436437",
+  "package_url": "https://pypi.org/project/ladybug-core/"
+}

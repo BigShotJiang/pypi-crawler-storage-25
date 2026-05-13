@@ -1,0 +1,11 @@
+{
+  "name": "django-powered-tools",
+  "version": "1.8",
+  "summary": "Views y herramientas extra para django que permiten busqueda sobre listas y redireccion con anclas y extras",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_powered_tools-1.8.tar.gz",
+  "download_time": "2026-05-13T22:04:17.844788",
+  "package_url": "https://pypi.org/project/django-powered-tools/"
+}

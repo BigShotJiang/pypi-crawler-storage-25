@@ -1,11 +1,11 @@
 {
   "name": "shadow-diff",
-  "version": "3.2.2",
+  "version": "3.2.5",
   "summary": "Behavior contracts for AI agents — tested in your PR, enforced at runtime.",
   "author": "manav8498",
   "license": null,
   "home_page": "https://github.com/manav8498/Shadow",
-  "download_filename": "shadow_diff-3.2.2.tar.gz",
-  "download_time": "2026-05-12T04:45:45.166954",
+  "download_filename": "shadow_diff-3.2.5.tar.gz",
+  "download_time": "2026-05-13T22:03:53.459264",
   "package_url": "https://pypi.org/project/shadow-diff/"
 }

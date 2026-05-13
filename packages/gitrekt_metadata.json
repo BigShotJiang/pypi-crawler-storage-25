@@ -1,0 +1,11 @@
+{
+  "name": "gitrekt",
+  "version": "0.2.4",
+  "summary": "Detects when code comments and docstrings go stale compared to actual code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitrekt-0.2.4.tar.gz",
+  "download_time": "2026-05-13T22:03:49.810188",
+  "package_url": "https://pypi.org/project/gitrekt/"
+}

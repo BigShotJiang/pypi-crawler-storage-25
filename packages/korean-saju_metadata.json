@@ -1,0 +1,11 @@
+{
+  "name": "korean-saju",
+  "version": "0.1.1",
+  "summary": "한국 전통 사주(四柱) 만세력 — 야자시/조자시 분리법 지원, KASI 절기·음력 데이터 임베드, 순수 Python.",
+  "author": "glee1228",
+  "license": null,
+  "home_page": null,
+  "download_filename": "korean_saju-0.1.1.tar.gz",
+  "download_time": "2026-05-13T22:03:47.176042",
+  "package_url": "https://pypi.org/project/korean-saju/"
+}

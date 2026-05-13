@@ -1,0 +1,11 @@
+{
+  "name": "wrapfast",
+  "version": "0.0.3",
+  "summary": "Composable HTTP API client: pluggable transport, session, and presentation layers for maintainable wrappers.",
+  "author": "wrapfast contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wrapfast-0.0.3.tar.gz",
+  "download_time": "2026-05-13T22:04:23.011747",
+  "package_url": "https://pypi.org/project/wrapfast/"
+}

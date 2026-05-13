@@ -1,0 +1,11 @@
+{
+  "name": "ladybug-geometry-polyskel",
+  "version": "1.7.45",
+  "summary": "A library with poly skeleton methods using ladybug-geometry",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/ladybug-geometry-polyskel",
+  "download_filename": "ladybug_geometry_polyskel-1.7.45.tar.gz",
+  "download_time": "2026-05-13T22:04:22.498768",
+  "package_url": "https://pypi.org/project/ladybug-geometry-polyskel/"
+}
