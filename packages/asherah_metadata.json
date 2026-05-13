@@ -1,11 +1,11 @@
 {
   "name": "asherah",
-  "version": "0.5.42",
+  "version": "0.5.44",
   "summary": "Asherah application-layer encryption for Python with automatic key rotation, powered by the native Rust implementation.",
   "author": "Jay Gowdy, Bo Thompson, Michael Micco, Dalibor Nasevic",
   "license": "Apache-2.0",
   "home_page": "https://github.com/godaddy/asherah-ffi",
-  "download_filename": "asherah-0.5.42.tar.gz",
-  "download_time": "2026-05-13T00:11:36.712172",
+  "download_filename": "asherah-0.5.44.tar.gz",
+  "download_time": "2026-05-13T23:16:46.994727",
   "package_url": "https://pypi.org/project/asherah/"
 }

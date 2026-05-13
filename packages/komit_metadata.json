@@ -1,11 +1,11 @@
 {
   "name": "komit",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "AI-powered git commit message generator using local LLMs",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "komit-0.3.0.tar.gz",
-  "download_time": "2026-05-10T20:16:42.656515",
+  "download_filename": "komit-0.3.2.tar.gz",
+  "download_time": "2026-05-13T23:16:53.938672",
   "package_url": "https://pypi.org/project/komit/"
 }

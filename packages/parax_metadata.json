@@ -1,11 +1,11 @@
 {
   "name": "parax",
-  "version": "0.7.11",
+  "version": "0.8.2",
   "summary": "Parametric modeling in JAX",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "parax-0.7.11.tar.gz",
-  "download_time": "2026-05-13T12:03:35.027179",
+  "download_filename": "parax-0.8.2.tar.gz",
+  "download_time": "2026-05-13T23:16:49.097491",
   "package_url": "https://pypi.org/project/parax/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aionanit",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "summary": "Async Python client for Nanit baby cameras",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aionanit-1.6.0.tar.gz",
-  "download_time": "2026-05-12T09:49:11.360546",
+  "download_filename": "aionanit-1.7.0.tar.gz",
+  "download_time": "2026-05-13T23:16:54.461214",
   "package_url": "https://pypi.org/project/aionanit/"
 }

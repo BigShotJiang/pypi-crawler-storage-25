@@ -1,11 +1,11 @@
 {
   "name": "supython",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "A lightweight Postgres-first BaaS framework for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "supython-0.1.5.tar.gz",
-  "download_time": "2026-05-11T14:23:34.112864",
+  "download_filename": "supython-0.1.7.tar.gz",
+  "download_time": "2026-05-13T23:17:01.315524",
   "package_url": "https://pypi.org/project/supython/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "x402-agentpay",
+  "version": "1.0.0",
+  "summary": "Machine-to-machine payments for AI agents — x402 protocol on Base L2",
+  "author": "Shawn Lippert",
+  "license": null,
+  "home_page": "https://github.com/shawnhvac/-x402-agent-network",
+  "download_filename": "x402_agentpay-1.0.0.tar.gz",
+  "download_time": "2026-05-13T23:17:06.097889",
+  "package_url": "https://pypi.org/project/x402-agentpay/"
+}

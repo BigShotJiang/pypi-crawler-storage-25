@@ -1,0 +1,11 @@
+{
+  "name": "mafn-finite-difference",
+  "version": "0.2.0",
+  "summary": "Finite-difference option pricing in 1-D (Black-Scholes) and 2-D (SABR) with a Douglas-scheme ADI solver.",
+  "author": "Derek Xu, Oisin Kehoe, Paul Yang, Alexander Tretska, Michael Cusack-Nelkin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mafn_finite_difference-0.2.0.tar.gz",
+  "download_time": "2026-05-13T23:17:18.795272",
+  "package_url": "https://pypi.org/project/mafn-finite-difference/"
+}

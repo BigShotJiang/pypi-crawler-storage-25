@@ -1,11 +1,11 @@
 {
   "name": "otillm",
-  "version": "0.1.0",
-  "summary": "OtiLLM 0.1.0: Evidence-native, policy-aware AI runtime for reliable AI systems",
+  "version": "0.2.0",
+  "summary": "OtiLLM v2.4: A governed cognitive runtime for evidence-native, memory-augmented and explainable frontier AI systems.",
   "author": "Oti Edema",
-  "license": "MIT License",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "otillm-0.1.0.tar.gz",
-  "download_time": "2026-04-18T11:55:56.219177",
+  "download_filename": "otillm-0.2.0.tar.gz",
+  "download_time": "2026-05-13T23:16:33.692284",
   "package_url": "https://pypi.org/project/otillm/"
 }

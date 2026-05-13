@@ -1,0 +1,11 @@
+{
+  "name": "twm-faust",
+  "version": "1.17.14",
+  "summary": "Python Stream processing.",
+  "author": "Robinhood Markets, Inc.",
+  "license": "BSD 3-Clause",
+  "home_page": "http://faust.readthedocs.io/",
+  "download_filename": "twm_faust-1.17.14.tar.gz",
+  "download_time": "2026-05-13T23:16:41.081355",
+  "package_url": "https://pypi.org/project/twm-faust/"
+}

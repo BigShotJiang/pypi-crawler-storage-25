@@ -1,0 +1,11 @@
+{
+  "name": "libby",
+  "version": "0.1.0",
+  "summary": "Radiocarbon calibration tool with LLM-powered narrative explanations, Bayesian modelling, and GIS curve selection",
+  "author": "Marcus Quinn",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "libby-0.1.0.tar.gz",
+  "download_time": "2026-05-13T23:17:00.265497",
+  "package_url": "https://pypi.org/project/libby/"
+}

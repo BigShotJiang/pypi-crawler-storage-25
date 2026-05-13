@@ -1,11 +1,11 @@
 {
   "name": "nimbusos-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python SDK for NimbusOS.",
   "author": "Droneforge",
   "license": null,
   "home_page": null,
-  "download_filename": "nimbusos_sdk-0.1.1.tar.gz",
-  "download_time": "2026-05-13T20:32:30.577713",
+  "download_filename": "nimbusos_sdk-0.1.2.tar.gz",
+  "download_time": "2026-05-13T23:17:15.145532",
   "package_url": "https://pypi.org/project/nimbusos-sdk/"
 }

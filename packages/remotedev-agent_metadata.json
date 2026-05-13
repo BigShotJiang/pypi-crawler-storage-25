@@ -1,0 +1,11 @@
+{
+  "name": "remotedev-agent",
+  "version": "1.19.0",
+  "summary": "Agent daemon for Remote AI Maestro — manages PTY sessions and AI agent subprocesses on remote machines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "remotedev_agent-1.19.0.tar.gz",
+  "download_time": "2026-05-13T23:16:48.044786",
+  "package_url": "https://pypi.org/project/remotedev-agent/"
+}
