@@ -1,0 +1,11 @@
+{
+  "name": "dsimaging-admin",
+  "version": "0.3.5",
+  "summary": "Admin CLI for managing medical imaging datasets in S3/MinIO for DataSHIELD",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dsimaging_admin-0.3.5.tar.gz",
+  "download_time": "2026-05-13T12:03:34.512507",
+  "package_url": "https://pypi.org/project/dsimaging-admin/"
+}

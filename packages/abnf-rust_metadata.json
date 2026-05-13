@@ -1,0 +1,11 @@
+{
+  "name": "abnf-rust",
+  "version": "2.5.0",
+  "summary": "Rust-backed parser engine for the abnf package.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "abnf_rust-2.5.0.tar.gz",
+  "download_time": "2026-05-13T12:03:31.916630",
+  "package_url": "https://pypi.org/project/abnf-rust/"
+}

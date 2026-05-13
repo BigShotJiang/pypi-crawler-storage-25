@@ -1,0 +1,11 @@
+{
+  "name": "mojox-build",
+  "version": "0.2.0",
+  "summary": "PEP 517 / PEP 660 build backend for Mojo libraries (compiles .mojo → .mojopkg → wheel).",
+  "author": "Conobi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mojox_build-0.2.0.tar.gz",
+  "download_time": "2026-05-13T12:03:28.832149",
+  "package_url": "https://pypi.org/project/mojox-build/"
+}

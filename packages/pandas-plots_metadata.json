@@ -1,11 +1,11 @@
 {
   "name": "pandas-plots",
-  "version": "1.5.0",
+  "version": "2.0.3",
   "summary": "A collection of helper for table handling and visualization",
   "author": "smeisegeier",
   "license": null,
   "home_page": null,
-  "download_filename": "pandas_plots-1.5.0.tar.gz",
-  "download_time": "2026-04-26T22:30:11.889118",
+  "download_filename": "pandas_plots-2.0.3.tar.gz",
+  "download_time": "2026-05-13T12:03:24.184041",
   "package_url": "https://pypi.org/project/pandas-plots/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gpusitter",
+  "version": "2.1.1",
+  "summary": "Watch for idle GPUs and run your jobs: launches jobs in tmux, keeps logs/status and sends start/finish emails..",
+  "author": "Wilmer Wang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpusitter-2.1.1.tar.gz",
+  "download_time": "2026-05-13T12:04:03.058146",
+  "package_url": "https://pypi.org/project/gpusitter/"
+}

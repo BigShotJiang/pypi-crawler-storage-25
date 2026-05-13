@@ -1,11 +1,11 @@
 {
   "name": "dooma",
-  "version": "0.1.0",
+  "version": "2.0.3",
   "summary": "A blazing-fast, interactive terminal explorer for 17,000+ company-wise DSA interview questions.",
-  "author": "dooma-dev",
+  "author": "Anish Raj",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dooma-0.1.0.tar.gz",
-  "download_time": "2026-05-11T00:20:59.248693",
+  "download_filename": "dooma-2.0.3.tar.gz",
+  "download_time": "2026-05-13T12:04:00.461789",
   "package_url": "https://pypi.org/project/dooma/"
 }

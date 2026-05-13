@@ -1,0 +1,11 @@
+{
+  "name": "mcp-taiwan-legal-db",
+  "version": "1.0.0",
+  "summary": "MCP server for querying Taiwan (ROC) judicial judgments and the national regulation database",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_taiwan_legal_db-1.0.0.tar.gz",
+  "download_time": "2026-05-13T12:03:44.899749",
+  "package_url": "https://pypi.org/project/mcp-taiwan-legal-db/"
+}

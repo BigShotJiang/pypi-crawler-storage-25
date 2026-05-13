@@ -1,11 +1,11 @@
 {
   "name": "ap-client",
-  "version": "0.1.5.post0",
+  "version": "0.1.7",
   "summary": "Agent Platform API Client & CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ap_client-0.1.5.post0.tar.gz",
-  "download_time": "2026-04-30T11:28:57.710350",
+  "download_filename": "ap_client-0.1.7.tar.gz",
+  "download_time": "2026-05-13T12:03:26.756426",
   "package_url": "https://pypi.org/project/ap-client/"
 }

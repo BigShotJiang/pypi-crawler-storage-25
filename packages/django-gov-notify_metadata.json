@@ -1,0 +1,11 @@
+{
+  "name": "django-gov-notify",
+  "version": "0.7.0",
+  "summary": "A GOV.UK Notify flavoured Django email backend",
+  "author": "Nick Smith",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/nimasmi/django-gov-notify",
+  "download_filename": "django_gov_notify-0.7.0.tar.gz",
+  "download_time": "2026-05-13T12:03:29.861175",
+  "package_url": "https://pypi.org/project/django-gov-notify/"
+}

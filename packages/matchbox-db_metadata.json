@@ -1,0 +1,11 @@
+{
+  "name": "matchbox-db",
+  "version": "0.10.4",
+  "summary": "A framework for orchestrating and comparing data linking and deduplication methodologies.",
+  "author": "Department for Business and Trade",
+  "license": null,
+  "home_page": null,
+  "download_filename": "matchbox_db-0.10.4.tar.gz",
+  "download_time": "2026-05-13T12:04:05.631609",
+  "package_url": "https://pypi.org/project/matchbox-db/"
+}

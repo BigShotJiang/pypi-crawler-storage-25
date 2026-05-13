@@ -1,0 +1,11 @@
+{
+  "name": "amelis2dame",
+  "version": "0.2.6",
+  "summary": "A library and CLI tool to fetch and decrypt S/MIME encrypted emails and extract PDF attachments.",
+  "author": "Christian Gonzalez",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "amelis2dame-0.2.6.tar.gz",
+  "download_time": "2026-05-13T12:03:50.095944",
+  "package_url": "https://pypi.org/project/amelis2dame/"
+}

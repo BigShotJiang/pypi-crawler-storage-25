@@ -1,0 +1,11 @@
+{
+  "name": "mcp-orchestrator-bridge",
+  "version": "1.0.2",
+  "summary": "MCP Orchestrator Bridge for Python — semantic tool discovery, dynamic execution, health check, auto-reconnect. Connects AI agents to MCP Orchestrator Server.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_orchestrator_bridge-1.0.2.tar.gz",
+  "download_time": "2026-05-13T12:04:04.076604",
+  "package_url": "https://pypi.org/project/mcp-orchestrator-bridge/"
+}

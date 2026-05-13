@@ -1,0 +1,11 @@
+{
+  "name": "devrel-origin",
+  "version": "0.2.14",
+  "summary": "A 15-agent CLI that runs DevRel, sales, and marketing on your repo. BYO Anthropic or OpenRouter key.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "devrel_origin-0.2.14.tar.gz",
+  "download_time": "2026-05-13T12:03:38.678285",
+  "package_url": "https://pypi.org/project/devrel-origin/"
+}

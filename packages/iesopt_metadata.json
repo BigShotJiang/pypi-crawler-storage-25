@@ -1,11 +1,11 @@
 {
   "name": "iesopt",
-  "version": "2.13.1",
+  "version": "2.13.2",
   "summary": "IESopt -- an Integrated Energy System Optimization framework.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "iesopt-2.13.1.tar.gz",
-  "download_time": "2026-03-31T08:09:21.441917",
+  "download_filename": "iesopt-2.13.2.tar.gz",
+  "download_time": "2026-05-13T12:03:45.417353",
   "package_url": "https://pypi.org/project/iesopt/"
 }

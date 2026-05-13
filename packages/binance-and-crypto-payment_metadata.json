@@ -1,11 +1,11 @@
 {
   "name": "binance-and-crypto-payment",
-  "version": "0.1.17",
-  "summary": "Binance and Crypto Payment Checkout",
+  "version": "0.1.19",
+  "summary": "Accept Bitcoin, USDT, USDC, ETH and Binance Pay directly into your wallet — no merchant account, no KYC, 10-minute Python integration",
   "author": "PayerURL",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "binance_and_crypto_payment-0.1.17.tar.gz",
-  "download_time": "2026-04-26T13:13:51.972942",
+  "download_filename": "binance_and_crypto_payment-0.1.19.tar.gz",
+  "download_time": "2026-05-13T12:03:54.281389",
   "package_url": "https://pypi.org/project/binance-and-crypto-payment/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mlx-mfa",
-  "version": "2.37.0",
+  "version": "2.38.0",
   "summary": "Benchmark-backed Metal Flash Attention backends for MLX on Apple Silicon",
   "author": "Marco Marcelino",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mlx_mfa-2.37.0-cp311-cp311-macosx_26_0_arm64.whl",
-  "download_time": "2026-05-13T04:14:16.089809",
+  "download_filename": "mlx_mfa-2.38.0-cp311-cp311-macosx_26_0_arm64.whl",
+  "download_time": "2026-05-13T12:03:47.992807",
   "package_url": "https://pypi.org/project/mlx-mfa/"
 }

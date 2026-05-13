@@ -1,11 +1,11 @@
 {
   "name": "claude-select",
-  "version": "0.4.7",
+  "version": "0.4.9",
   "summary": "Manage a local registry of Claude CLI auth snapshots plus simple SDK token entries.",
   "author": "wx.luo",
   "license": null,
   "home_page": null,
-  "download_filename": "claude_select-0.4.7.tar.gz",
-  "download_time": "2026-05-13T09:57:20.074854",
+  "download_filename": "claude_select-0.4.9.tar.gz",
+  "download_time": "2026-05-13T12:03:49.583479",
   "package_url": "https://pypi.org/project/claude-select/"
 }

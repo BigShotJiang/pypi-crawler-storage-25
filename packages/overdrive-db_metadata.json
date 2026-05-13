@@ -1,11 +1,11 @@
 {
   "name": "overdrive-db",
-  "version": "2.2.1",
-  "summary": "OverDrive-DB embedded SDK - zero-config JSON document database",
+  "version": "2.3.7",
+  "summary": "OverDrive-DB — Embedded document database with ACID transactions, AES-256 encryption, WAL durability and 6 storage engines. SQLite alternative for Python.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "overdrive_db-2.2.1.tar.gz",
-  "download_time": "2026-05-02T17:43:45.354483",
+  "download_filename": "overdrive_db-2.3.7.tar.gz",
+  "download_time": "2026-05-13T12:03:22.599013",
   "package_url": "https://pypi.org/project/overdrive-db/"
 }

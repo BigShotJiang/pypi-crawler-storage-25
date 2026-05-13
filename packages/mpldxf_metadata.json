@@ -1,0 +1,11 @@
+{
+  "name": "mpldxf",
+  "version": "1.0.9",
+  "summary": "A fork of mpldxf - a matplotlib backend to write DXF drawings. Modified by NGI to handle geotechnical plots",
+  "author": "David Kent, Jon-Michael Josefsen, Ingeborg Gjerde",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mpldxf-1.0.9.tar.gz",
+  "download_time": "2026-05-13T12:03:57.886118",
+  "package_url": "https://pypi.org/project/mpldxf/"
+}
