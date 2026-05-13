@@ -1,0 +1,11 @@
+{
+  "name": "liwancai-TdxApi",
+  "version": "1.0.0",
+  "summary": "通达信行情数据API服务，基于FastAPI框架封装通达信数据接口，提供股票、指数等金融数据的RESTful API接口",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "liwancai_tdxapi-1.0.0.tar.gz",
+  "download_time": "2026-05-13T14:43:03.438447",
+  "package_url": "https://pypi.org/project/liwancai-TdxApi/"
+}

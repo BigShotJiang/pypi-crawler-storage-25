@@ -1,11 +1,11 @@
 {
   "name": "truthprobe",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "AI API Trust & Cost Transparency SDK — Audit your LLM relay providers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "truthprobe-0.1.0.tar.gz",
-  "download_time": "2026-05-13T04:14:42.628485",
+  "download_filename": "truthprobe-0.3.0.tar.gz",
+  "download_time": "2026-05-13T14:43:28.744090",
   "package_url": "https://pypi.org/project/truthprobe/"
 }

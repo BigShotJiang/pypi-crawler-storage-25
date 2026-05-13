@@ -1,11 +1,11 @@
 {
   "name": "vicsia-studio-mcp",
-  "version": "1.1.5b48",
+  "version": "1.2.5",
   "summary": "MCP server for Vicsia Studio — control your voice agents from Claude",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vicsia_studio_mcp-1.1.5b48.tar.gz",
-  "download_time": "2026-05-08T21:27:20.699707",
+  "download_filename": "vicsia_studio_mcp-1.2.5.tar.gz",
+  "download_time": "2026-05-13T14:43:48.498517",
   "package_url": "https://pypi.org/project/vicsia-studio-mcp/"
 }

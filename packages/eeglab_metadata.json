@@ -1,0 +1,11 @@
+{
+  "name": "eeglab",
+  "version": "0.0.1",
+  "summary": "Python package namespace for EEGLAB.",
+  "author": "SCCN / EEGLAB developers",
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "eeglab-0.0.1.tar.gz",
+  "download_time": "2026-05-13T14:43:29.769571",
+  "package_url": "https://pypi.org/project/eeglab/"
+}

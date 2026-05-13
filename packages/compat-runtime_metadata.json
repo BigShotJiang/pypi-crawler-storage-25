@@ -1,0 +1,11 @@
+{
+  "name": "compat-runtime",
+  "version": "0.1.1",
+  "summary": "Run Python functions in isolated virtualenvs with separate dependency sets.",
+  "author": "Tanishq Jain",
+  "license": null,
+  "home_page": null,
+  "download_filename": "compat_runtime-0.1.1.tar.gz",
+  "download_time": "2026-05-13T14:43:32.867550",
+  "package_url": "https://pypi.org/project/compat-runtime/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kctl-odoo",
-  "version": "0.14.0",
+  "version": "0.21.0",
   "summary": "Kodemeio Odoo CLI - manage Odoo 18 ERP instances",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kctl_odoo-0.14.0.tar.gz",
-  "download_time": "2026-05-10T06:58:33.405385",
+  "download_filename": "kctl_odoo-0.21.0.tar.gz",
+  "download_time": "2026-05-13T14:43:31.324822",
   "package_url": "https://pypi.org/project/kctl-odoo/"
 }

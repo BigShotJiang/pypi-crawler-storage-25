@@ -1,11 +1,11 @@
 {
   "name": "girder-oauth",
-  "version": "5.0.2",
+  "version": "5.0.5",
   "summary": "Allow users to login via supported OAuth2 providers.",
   "author": "Kitware, Inc.",
   "license": "Apache 2.0",
   "home_page": "http://girder.readthedocs.io/en/latest/plugins.html#oauth-login",
-  "download_filename": "girder_oauth-5.0.2.tar.gz",
-  "download_time": "2026-04-07T18:03:25.429090",
+  "download_filename": "girder_oauth-5.0.5.tar.gz",
+  "download_time": "2026-05-13T14:43:25.104521",
   "package_url": "https://pypi.org/project/girder-oauth/"
 }

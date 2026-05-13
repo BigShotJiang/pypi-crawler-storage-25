@@ -1,0 +1,11 @@
+{
+  "name": "ghostlogic-agent-watchdog",
+  "version": "0.3.4",
+  "summary": "Forensic forwarder for AI-agent coding sessions (Claude Code, Codex CLI). Tick-batches transcripts and ships tamper-evident receipts to GhostLogic Blackbox.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghostlogic_agent_watchdog-0.3.4.tar.gz",
+  "download_time": "2026-05-13T14:43:09.089115",
+  "package_url": "https://pypi.org/project/ghostlogic-agent-watchdog/"
+}

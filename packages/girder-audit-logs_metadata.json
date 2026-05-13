@@ -1,11 +1,11 @@
 {
   "name": "girder-audit-logs",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "summary": "Keeps detailed logs of every REST request and low-level file download event.",
   "author": "Kitware, Inc.",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "girder_audit_logs-5.0.4.tar.gz",
-  "download_time": "2026-04-29T15:36:40.801320",
+  "download_filename": "girder_audit_logs-5.0.5.tar.gz",
+  "download_time": "2026-05-13T14:43:43.792705",
   "package_url": "https://pypi.org/project/girder-audit-logs/"
 }

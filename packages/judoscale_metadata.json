@@ -1,0 +1,11 @@
+{
+  "name": "judoscale",
+  "version": "1.13.3",
+  "summary": "Official Python package for the Judoscale autoscaler",
+  "author": "Adam McCrea",
+  "license": "MIT",
+  "home_page": "https://github.com/judoscale/judoscale-python",
+  "download_filename": "judoscale-1.13.3.tar.gz",
+  "download_time": "2026-05-13T14:43:35.955685",
+  "package_url": "https://pypi.org/project/judoscale/"
+}
