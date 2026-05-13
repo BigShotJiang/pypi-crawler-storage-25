@@ -1,11 +1,11 @@
 {
   "name": "reignite",
-  "version": "0.2.8",
+  "version": "0.4.7",
   "summary": "Modern Procedural Generation for Gazebo",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "reignite-0.2.8.tar.gz",
-  "download_time": "2026-05-13T07:05:01.733857",
+  "download_filename": "reignite-0.4.7.tar.gz",
+  "download_time": "2026-05-13T20:31:57.408442",
   "package_url": "https://pypi.org/project/reignite/"
 }

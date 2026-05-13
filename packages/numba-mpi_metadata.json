@@ -1,0 +1,11 @@
+{
+  "name": "numba-mpi",
+  "version": "1.1.10",
+  "summary": "Numba @jittable MPI wrappers tested on Linux, macOS and Windows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "numba_mpi-1.1.10.tar.gz",
+  "download_time": "2026-05-13T20:31:44.901831",
+  "package_url": "https://pypi.org/project/numba-mpi/"
+}

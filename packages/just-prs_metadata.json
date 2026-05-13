@@ -1,0 +1,11 @@
+{
+  "name": "just-prs",
+  "version": "0.4.0",
+  "summary": "Polars-bio based tool to compute polygenic risk scores from PGS Catalog",
+  "author": "antonkulaga",
+  "license": null,
+  "home_page": null,
+  "download_filename": "just_prs-0.4.0.tar.gz",
+  "download_time": "2026-05-13T20:31:53.062311",
+  "package_url": "https://pypi.org/project/just-prs/"
+}

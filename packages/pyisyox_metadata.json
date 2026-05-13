@@ -1,11 +1,11 @@
 {
   "name": "pyisyox",
-  "version": "6.0.0a0",
+  "version": "6.0.0b1",
   "summary": "Async Python client for Universal Devices' eisy / Polisy controllers running IoX 6+.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyisyox-6.0.0a0.tar.gz",
-  "download_time": "2026-05-09T18:01:32.196738",
+  "download_filename": "pyisyox-6.0.0b1.tar.gz",
+  "download_time": "2026-05-13T20:31:45.448177",
   "package_url": "https://pypi.org/project/pyisyox/"
 }

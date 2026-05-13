@@ -1,0 +1,11 @@
+{
+  "name": "python-jamf",
+  "version": "0.10.0",
+  "summary": "Python wrapper for Jamf Pro API",
+  "author": "The University of Utah",
+  "license": "MIT",
+  "home_page": "https://github.com/univ-of-utah-marriott-library-apple/python-jamf",
+  "download_filename": "python_jamf-0.10.0.tar.gz",
+  "download_time": "2026-05-13T20:32:19.039987",
+  "package_url": "https://pypi.org/project/python-jamf/"
+}

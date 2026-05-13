@@ -1,0 +1,11 @@
+{
+  "name": "laserfiche-mcp",
+  "version": "1.4.2",
+  "summary": "Model Context Protocol server for Laserfiche document management systems",
+  "author": "Samuel S. Hernandez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "laserfiche_mcp-1.4.2.tar.gz",
+  "download_time": "2026-05-13T20:32:22.359843",
+  "package_url": "https://pypi.org/project/laserfiche-mcp/"
+}

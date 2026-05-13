@@ -1,0 +1,11 @@
+{
+  "name": "SimpleITK",
+  "version": "2.5.5",
+  "summary": "SimpleITK is a simplified interface to the Insight Toolkit (ITK) for image registration and segmentation",
+  "author": "Insight Software Consortium",
+  "license": "Apache",
+  "home_page": "http://simpleitk.org/",
+  "download_filename": "simpleitk-2.5.5.tar.gz",
+  "download_time": "2026-05-13T20:32:00.144327",
+  "package_url": "https://pypi.org/project/SimpleITK/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "glq",
-  "version": "0.2.18",
+  "version": "0.2.20",
   "summary": "E8 lattice codebook quantization for LLM weights",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "glq-0.2.18.tar.gz",
-  "download_time": "2026-05-06T23:04:11.599894",
+  "download_filename": "glq-0.2.20.tar.gz",
+  "download_time": "2026-05-13T20:32:05.296783",
   "package_url": "https://pypi.org/project/glq/"
 }

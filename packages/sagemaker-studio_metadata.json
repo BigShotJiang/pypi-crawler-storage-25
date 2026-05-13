@@ -1,11 +1,11 @@
 {
   "name": "sagemaker-studio",
-  "version": "1.1.17",
+  "version": "1.1.18",
   "summary": "Python library to interact with Amazon SageMaker Unified Studio",
   "author": "Amazon Web Services",
   "license": "Apache License 2.0",
   "home_page": "https://aws.amazon.com/sagemaker/",
-  "download_filename": "sagemaker_studio-1.1.17.tar.gz",
-  "download_time": "2026-05-11T23:23:05.894569",
+  "download_filename": "sagemaker_studio-1.1.18.tar.gz",
+  "download_time": "2026-05-13T20:32:15.768345",
   "package_url": "https://pypi.org/project/sagemaker-studio/"
 }
