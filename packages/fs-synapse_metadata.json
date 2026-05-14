@@ -1,0 +1,11 @@
+{
+  "name": "fs-synapse",
+  "version": "3.0.0",
+  "summary": "A Synapse implementation of the fsspec interface",
+  "author": "Bruno Grande, Andrew Lamb",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/sage-Bionetworks/fs-synapse",
+  "download_filename": "fs_synapse-3.0.0.tar.gz",
+  "download_time": "2026-05-14T16:34:31.059908",
+  "package_url": "https://pypi.org/project/fs-synapse/"
+}

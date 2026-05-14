@@ -1,0 +1,11 @@
+{
+  "name": "promptward",
+  "version": "1.0.1",
+  "summary": "Local prompt injection and jailbreak detection for LLM applications",
+  "author": "Promptward",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "promptward-1.0.1.tar.gz",
+  "download_time": "2026-05-14T16:34:16.009293",
+  "package_url": "https://pypi.org/project/promptward/"
+}

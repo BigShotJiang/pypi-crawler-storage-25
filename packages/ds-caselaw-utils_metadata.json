@@ -1,0 +1,11 @@
+{
+  "name": "ds-caselaw-utils",
+  "version": "4.4.0",
+  "summary": "Utilities for the National Archives Caselaw project",
+  "author": "Nick Jackson",
+  "license": "MIT",
+  "home_page": "https://github.com/nationalarchives/ds-caselaw-utils",
+  "download_filename": "ds_caselaw_utils-4.4.0.tar.gz",
+  "download_time": "2026-05-14T16:34:35.182638",
+  "package_url": "https://pypi.org/project/ds-caselaw-utils/"
+}

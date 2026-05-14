@@ -1,0 +1,11 @@
+{
+  "name": "lightcone-cli",
+  "version": "0.3.6",
+  "summary": "Lightcone command-line toolchain",
+  "author": "Lightcone Research",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "lightcone_cli-0.3.6.tar.gz",
+  "download_time": "2026-05-14T16:34:05.115115",
+  "package_url": "https://pypi.org/project/lightcone-cli/"
+}

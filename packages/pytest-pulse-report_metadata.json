@@ -1,0 +1,11 @@
+{
+  "name": "pytest-pulse-report",
+  "version": "1.0.1",
+  "summary": "A pytest reporter and dashboard for visualizing Playwright (pytest-playwright) test results — Python port of playwright-pulse",
+  "author": "Arghajit Singha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_pulse_report-1.0.1.tar.gz",
+  "download_time": "2026-05-14T16:34:09.283751",
+  "package_url": "https://pypi.org/project/pytest-pulse-report/"
+}

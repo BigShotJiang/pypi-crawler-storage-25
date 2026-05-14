@@ -1,11 +1,11 @@
 {
   "name": "light-curve",
-  "version": "0.12.2",
+  "version": "0.12.3",
   "summary": "Feature extractor from noisy time series",
   "author": "Konstantin Malanchev <hombit@gmail.com>, Anastasia Lavrukhina <lavrukhina.ad@gmail.com>, Sergey Karpov, Etienne Russeil",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "light_curve-0.12.2.tar.gz",
-  "download_time": "2026-05-09T01:33:51.859749",
+  "download_filename": "light_curve-0.12.3.tar.gz",
+  "download_time": "2026-05-14T16:34:47.200760",
   "package_url": "https://pypi.org/project/light-curve/"
 }

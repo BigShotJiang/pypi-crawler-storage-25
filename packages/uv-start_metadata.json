@@ -1,0 +1,11 @@
+{
+  "name": "uv-start",
+  "version": "0.6.0",
+  "summary": "CLI tool to scaffold Python projects with uv, pre-configured dev tools, and optional GitHub integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uv_start-0.6.0.tar.gz",
+  "download_time": "2026-05-14T16:34:30.546027",
+  "package_url": "https://pypi.org/project/uv-start/"
+}

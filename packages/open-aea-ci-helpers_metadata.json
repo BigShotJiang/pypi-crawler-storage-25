@@ -1,0 +1,11 @@
+{
+  "name": "open-aea-ci-helpers",
+  "version": "2.2.6",
+  "summary": "CI helper utilities for AEA-based projects.",
+  "author": "Valory AG",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "open_aea_ci_helpers-2.2.6.tar.gz",
+  "download_time": "2026-05-14T16:34:19.106541",
+  "package_url": "https://pypi.org/project/open-aea-ci-helpers/"
+}

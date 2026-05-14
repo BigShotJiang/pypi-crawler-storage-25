@@ -1,0 +1,11 @@
+{
+  "name": "pyyardian",
+  "version": "1.3.0",
+  "summary": "A module for interacting with the Yardian irrigation controller",
+  "author": "Yardian Support",
+  "license": "MIT",
+  "home_page": "https://github.com/aeon-matrix/pyyardian",
+  "download_filename": "pyyardian-1.3.0.tar.gz",
+  "download_time": "2026-05-14T16:34:31.571925",
+  "package_url": "https://pypi.org/project/pyyardian/"
+}

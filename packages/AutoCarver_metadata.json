@@ -1,11 +1,11 @@
 {
   "name": "AutoCarver",
-  "version": "7.1.1",
+  "version": "7.1.4",
   "summary": "Automatic Discretization of Features with Optimal Target Association",
   "author": "Mario DEFRANCE",
   "license": null,
   "home_page": null,
-  "download_filename": "autocarver-7.1.1.tar.gz",
-  "download_time": "2026-05-14T10:08:16.220260",
+  "download_filename": "autocarver-7.1.4.tar.gz",
+  "download_time": "2026-05-14T16:34:36.788177",
   "package_url": "https://pypi.org/project/AutoCarver/"
 }

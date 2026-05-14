@@ -1,0 +1,11 @@
+{
+  "name": "azure-monitor-opentelemetry",
+  "version": "1.8.8",
+  "summary": "Microsoft Azure Monitor Opentelemetry Distro Client Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/monitor/azure-monitor-opentelemetry",
+  "download_filename": "azure_monitor_opentelemetry-1.8.8.tar.gz",
+  "download_time": "2026-05-14T16:34:50.285693",
+  "package_url": "https://pypi.org/project/azure-monitor-opentelemetry/"
+}

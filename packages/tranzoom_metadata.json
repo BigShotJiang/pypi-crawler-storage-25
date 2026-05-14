@@ -1,11 +1,11 @@
 {
   "name": "tranzoom",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Fractal manipulation with LLMs",
   "author": "Daniel Balparda",
   "license": "Apache-2.0",
   "home_page": "https://github.com/balparda/tranzoom",
-  "download_filename": "tranzoom-1.0.0.tar.gz",
-  "download_time": "2026-05-10T19:12:31.003260",
+  "download_filename": "tranzoom-1.1.0.tar.gz",
+  "download_time": "2026-05-14T16:34:45.607059",
   "package_url": "https://pypi.org/project/tranzoom/"
 }
