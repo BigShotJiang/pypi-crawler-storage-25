@@ -1,11 +1,11 @@
 {
   "name": "issue-flow",
-  "version": "0.3.0.post1",
+  "version": "0.3.1",
   "summary": "Agents should behave. Let them follow the issue flow.",
   "author": "jepegit",
   "license": null,
   "home_page": null,
-  "download_filename": "issue_flow-0.3.0.post1.tar.gz",
-  "download_time": "2026-05-14T20:25:30.812056",
+  "download_filename": "issue_flow-0.3.1.tar.gz",
+  "download_time": "2026-05-14T21:50:15.816735",
   "package_url": "https://pypi.org/project/issue-flow/"
 }

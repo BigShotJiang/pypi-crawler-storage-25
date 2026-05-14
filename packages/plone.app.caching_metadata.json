@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.caching",
+  "version": "5.0.0",
+  "summary": "Plone UI and default rules for plone.caching/z3c.caching",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/plone/plone.app.caching",
+  "download_filename": "plone_app_caching-5.0.0.tar.gz",
+  "download_time": "2026-05-14T21:50:32.880775",
+  "package_url": "https://pypi.org/project/plone.app.caching/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.intid",
+  "version": "3.0.0",
+  "summary": "Installation and migration support for five.intid within Plone/CMF",
+  "author": "Alec Mitchell",
+  "license": "GPL",
+  "home_page": "https://github.com/plone/plone.app.intid",
+  "download_filename": "plone_app_intid-3.0.0.tar.gz",
+  "download_time": "2026-05-14T21:50:14.274008",
+  "package_url": "https://pypi.org/project/plone.app.intid/"
+}

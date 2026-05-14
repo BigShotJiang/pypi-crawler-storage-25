@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.iterate",
+  "version": "7.0.0",
+  "summary": "check-out/check-in staging for Plone",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.org/project/plone.app.iterate",
+  "download_filename": "plone_app_iterate-7.0.0.tar.gz",
+  "download_time": "2026-05-14T21:50:11.144667",
+  "package_url": "https://pypi.org/project/plone.app.iterate/"
+}

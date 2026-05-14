@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.customerize",
+  "version": "3.0.0",
+  "summary": "Integrate five.customerize into Plone.",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.org/project/plone.app.customerize/",
+  "download_filename": "plone_app_customerize-3.0.0.tar.gz",
+  "download_time": "2026-05-14T21:50:23.061184",
+  "package_url": "https://pypi.org/project/plone.app.customerize/"
+}

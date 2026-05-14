@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.event",
+  "version": "6.0.0",
+  "summary": "The Plone calendar framework",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/plone/plone.app.event",
+  "download_filename": "plone_app_event-6.0.0.tar.gz",
+  "download_time": "2026-05-14T21:50:17.365325",
+  "package_url": "https://pypi.org/project/plone.app.event/"
+}

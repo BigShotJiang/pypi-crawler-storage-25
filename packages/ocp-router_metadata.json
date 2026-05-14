@@ -1,0 +1,11 @@
+{
+  "name": "ocp-router",
+  "version": "0.2.1",
+  "summary": "OCP Router — hybrid local/cloud model routing layer for Open Context Protocol",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ocp_router-0.2.1.tar.gz",
+  "download_time": "2026-05-14T21:50:04.433519",
+  "package_url": "https://pypi.org/project/ocp-router/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.contentmenu",
+  "version": "4.0.0",
+  "summary": "Plone's content menu implementation",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.org/project/plone.app.contentmenu",
+  "download_filename": "plone_app_contentmenu-4.0.0.tar.gz",
+  "download_time": "2026-05-14T21:50:27.707769",
+  "package_url": "https://pypi.org/project/plone.app.contentmenu/"
+}

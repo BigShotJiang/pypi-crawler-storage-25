@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.contentlisting",
+  "version": "4.0.0",
+  "summary": "Listing of content for the Plone CMS",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.org/project/plone.app.contentlisting",
+  "download_filename": "plone_app_contentlisting-4.0.0.tar.gz",
+  "download_time": "2026-05-14T21:50:30.802093",
+  "package_url": "https://pypi.org/project/plone.app.contentlisting/"
+}

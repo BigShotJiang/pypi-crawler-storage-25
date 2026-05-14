@@ -1,0 +1,11 @@
+{
+  "name": "instrutech-gauges",
+  "version": "0.1.3",
+  "summary": "Python drivers for InstruTech gauges over serial or TCP serial gateways",
+  "author": "Olivier Grasdijk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "instrutech_gauges-0.1.3.tar.gz",
+  "download_time": "2026-05-14T21:49:51.368004",
+  "package_url": "https://pypi.org/project/instrutech-gauges/"
+}

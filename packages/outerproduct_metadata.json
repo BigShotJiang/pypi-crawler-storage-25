@@ -1,11 +1,11 @@
 {
   "name": "outerproduct",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Python SDK for the OuterProduct API",
   "author": "OuterProduct, Inc.",
   "license": null,
   "home_page": null,
-  "download_filename": "outerproduct-0.2.0.tar.gz",
-  "download_time": "2026-05-13T00:11:26.005662",
+  "download_filename": "outerproduct-0.2.1.tar.gz",
+  "download_time": "2026-05-14T21:49:49.295919",
   "package_url": "https://pypi.org/project/outerproduct/"
 }

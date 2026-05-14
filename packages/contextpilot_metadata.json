@@ -1,0 +1,11 @@
+{
+  "name": "contextpilot",
+  "version": "0.4.2",
+  "summary": "Fast Long-Context Inference via Context Reuse",
+  "author": "Yinsicheng Jiang, Yeqi Huang, Liang Cheng, Cheng Deng, Xuan Sun, Luo Mai",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "contextpilot-0.4.2.tar.gz",
+  "download_time": "2026-05-14T21:50:10.628880",
+  "package_url": "https://pypi.org/project/contextpilot/"
+}

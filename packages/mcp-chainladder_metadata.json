@@ -1,0 +1,11 @@
+{
+  "name": "mcp-chainladder",
+  "version": "1.2.3",
+  "summary": "Model Context Protocol server for actuarial chain-ladder reserving — exposes triangle math, Mack stochastic stats, and diagnostics as Claude tools.",
+  "author": "Data Analytics Actuary",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_chainladder-1.2.3.tar.gz",
+  "download_time": "2026-05-14T21:49:54.991225",
+  "package_url": "https://pypi.org/project/mcp-chainladder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.dexterity",
+  "version": "5.0.0",
+  "summary": "Dexterity is a content type framework for CMF  applications, with particular emphasis on Plone. It can be viewed as an alternative to Archetypes that is more light-weight and modular.",
+  "author": "Martin Aspeli, David Glick, et al",
+  "license": "GPL",
+  "home_page": "http://plone.org/products/dexterity",
+  "download_filename": "plone_app_dexterity-5.0.0.tar.gz",
+  "download_time": "2026-05-14T21:50:22.532597",
+  "package_url": "https://pypi.org/project/plone.app.dexterity/"
+}

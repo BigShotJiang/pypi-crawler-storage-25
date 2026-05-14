@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.discussion",
+  "version": "6.0.0",
+  "summary": "Enhanced discussion support for Plone",
+  "author": "Timo Stollenwerk - Plone Foundation",
+  "license": "GPL",
+  "home_page": "https://pypi.org/project/plone.app.discussion",
+  "download_filename": "plone_app_discussion-6.0.0.tar.gz",
+  "download_time": "2026-05-14T21:50:18.909549",
+  "package_url": "https://pypi.org/project/plone.app.discussion/"
+}
