@@ -1,0 +1,11 @@
+{
+  "name": "netbox-maintenance-device",
+  "version": "1.4.1",
+  "summary": "NetBox plugin for device maintenance management with comprehensive REST API and Portuguese-BR support",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "netbox_maintenance_device-1.4.1.tar.gz",
+  "download_time": "2026-05-14T12:03:32.040138",
+  "package_url": "https://pypi.org/project/netbox-maintenance-device/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "langchain-vastdb",
+  "version": "0.0.4",
+  "summary": "LangChain VectorStore integration for VAST Database",
+  "author": "VAST Data",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "langchain_vastdb-0.0.4.tar.gz",
+  "download_time": "2026-05-14T12:04:05.046065",
+  "package_url": "https://pypi.org/project/langchain-vastdb/"
+}

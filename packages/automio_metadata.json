@@ -1,11 +1,11 @@
 {
   "name": "automio",
-  "version": "0.1.22",
+  "version": "0.1.33",
   "summary": "Automio API",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": null,
-  "download_filename": "automio-0.1.22.tar.gz",
-  "download_time": "2026-04-22T11:11:50.842202",
+  "download_filename": "automio-0.1.33.tar.gz",
+  "download_time": "2026-05-14T12:03:33.582806",
   "package_url": "https://pypi.org/project/automio/"
 }

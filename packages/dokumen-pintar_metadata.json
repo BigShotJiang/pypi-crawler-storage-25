@@ -1,0 +1,11 @@
+{
+  "name": "dokumen-pintar",
+  "version": "1.0.0",
+  "summary": "MCP server universal untuk CRUD dokumen lintas format (text, JSON, YAML, CSV, XML, DOCX, XLSX, PPTX, PDF) dengan versioning, sandboxed multi-root, search, batch, dan semantic search opsional.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dokumen_pintar-1.0.0.tar.gz",
+  "download_time": "2026-05-14T12:03:37.729906",
+  "package_url": "https://pypi.org/project/dokumen-pintar/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "superharness",
-  "version": "1.56.7",
+  "version": "1.58.2",
   "summary": "Multi-agent session handoff framework for Claude Code and Codex CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "superharness-1.56.7.tar.gz",
-  "download_time": "2026-05-13T00:10:45.621811",
+  "download_filename": "superharness-1.58.2.tar.gz",
+  "download_time": "2026-05-14T12:03:51.649251",
   "package_url": "https://pypi.org/project/superharness/"
 }

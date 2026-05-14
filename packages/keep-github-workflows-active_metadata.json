@@ -1,11 +1,11 @@
 {
   "name": "keep-github-workflows-active",
-  "version": "2.2.0",
+  "version": "2.3.1",
   "summary": "Template for python apps with registered cli commands",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "keep_github_workflows_active-2.2.0.tar.gz",
-  "download_time": "2026-03-29T11:05:33.476678",
+  "download_filename": "keep_github_workflows_active-2.3.1.tar.gz",
+  "download_time": "2026-05-14T12:04:06.584382",
   "package_url": "https://pypi.org/project/keep-github-workflows-active/"
 }

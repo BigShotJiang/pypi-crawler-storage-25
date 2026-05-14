@@ -1,11 +1,11 @@
 {
   "name": "sspec",
-  "version": "2.2.1",
+  "version": "2.4.1",
   "summary": "Lightweight AI collaboration spec for solo/small projects",
   "author": null,
   "license": "AGPL-V3",
   "home_page": null,
-  "download_filename": "sspec-2.2.1.tar.gz",
-  "download_time": "2026-05-02T16:40:16.261644",
+  "download_filename": "sspec-2.4.1.tar.gz",
+  "download_time": "2026-05-14T12:03:30.993023",
   "package_url": "https://pypi.org/project/sspec/"
 }

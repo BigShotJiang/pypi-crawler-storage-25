@@ -1,0 +1,11 @@
+{
+  "name": "pimoroni-emulator",
+  "version": "0.5.0",
+  "summary": "Desktop emulator for Pimoroni devices (Tufty, Presto, Badger, Blinky, Inky)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pimoroni_emulator-0.5.0.tar.gz",
+  "download_time": "2026-05-14T12:03:50.112750",
+  "package_url": "https://pypi.org/project/pimoroni-emulator/"
+}

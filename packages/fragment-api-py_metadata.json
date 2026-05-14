@@ -1,11 +1,11 @@
 {
   "name": "fragment-api-py",
-  "version": "5.0.0",
-  "summary": "Professional Python library for Fragment.com API",
+  "version": "6.0.1",
+  "summary": "Async Python library for Fragment.com API with seqno/balance confirmation and confirmReq",
   "author": "S1qwy",
   "license": null,
   "home_page": "https://github.com/S1qwy/fragment-api-py",
-  "download_filename": "fragment_api_py-5.0.0.tar.gz",
-  "download_time": "2026-05-11T21:00:11.880719",
+  "download_filename": "fragment_api_py-6.0.1.tar.gz",
+  "download_time": "2026-05-14T12:04:07.604885",
   "package_url": "https://pypi.org/project/fragment-api-py/"
 }

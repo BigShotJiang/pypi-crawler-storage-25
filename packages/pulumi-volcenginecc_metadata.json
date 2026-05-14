@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-volcenginecc",
+  "version": "0.0.35",
+  "summary": "A Pulumi package to safely use volcengine resource in Pulumi programs.",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/volcengine/pulumi-volcenginecc",
+  "download_filename": "pulumi_volcenginecc-0.0.35.tar.gz",
+  "download_time": "2026-05-14T12:03:32.559337",
+  "package_url": "https://pypi.org/project/pulumi-volcenginecc/"
+}

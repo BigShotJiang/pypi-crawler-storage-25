@@ -1,11 +1,11 @@
 {
   "name": "bowtie-json-schema",
-  "version": "2026.5.1",
+  "version": "2026.5.2",
   "summary": "A meta-validator for the JSON Schema specification.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bowtie_json_schema-2026.5.1.tar.gz",
-  "download_time": "2026-05-09T17:04:58.052984",
+  "download_filename": "bowtie_json_schema-2026.5.2.tar.gz",
+  "download_time": "2026-05-14T12:03:36.704572",
   "package_url": "https://pypi.org/project/bowtie-json-schema/"
 }
