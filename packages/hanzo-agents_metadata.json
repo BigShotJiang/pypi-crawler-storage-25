@@ -1,0 +1,11 @@
+{
+  "name": "hanzo-agents",
+  "version": "0.2.0",
+  "summary": "Python SDK for the Hanzo Agents control plane",
+  "author": "Hanzo Agents Maintainers",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hanzo_agents-0.2.0.tar.gz",
+  "download_time": "2026-05-14T07:37:15.476106",
+  "package_url": "https://pypi.org/project/hanzo-agents/"
+}

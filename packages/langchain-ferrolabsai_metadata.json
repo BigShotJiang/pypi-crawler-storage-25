@@ -1,0 +1,11 @@
+{
+  "name": "langchain-ferrolabsai",
+  "version": "0.0.1",
+  "summary": "LangChain integration for Ferro Labs AI Gateway — chat, streaming, embeddings, and tool calling across 30+ LLM providers via a single OpenAI-compatible endpoint",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "langchain_ferrolabsai-0.0.1.tar.gz",
+  "download_time": "2026-05-14T07:36:37.444374",
+  "package_url": "https://pypi.org/project/langchain-ferrolabsai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "catalyst-q",
+  "version": "0.1.3",
+  "summary": "Closed-source freemium Python SDK for the Catalyst-Q API",
+  "author": "Strategic Innovations AI",
+  "license": "Proprietary",
+  "home_page": "https://catalyst-q-sdk.strategic-innovations.ai/docs",
+  "download_filename": "catalyst_q-0.1.3-py3-none-any.whl",
+  "download_time": "2026-05-14T07:36:43.128678",
+  "package_url": "https://pypi.org/project/catalyst-q/"
+}

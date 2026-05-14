@@ -1,0 +1,11 @@
+{
+  "name": "gakomail",
+  "version": "1.1.0",
+  "summary": "A Python script to send emails over SMTP SSL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gakomail-1.1.0-py3-none-any.whl",
+  "download_time": "2026-05-14T07:36:47.746946",
+  "package_url": "https://pypi.org/project/gakomail/"
+}

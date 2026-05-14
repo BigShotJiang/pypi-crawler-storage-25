@@ -1,11 +1,11 @@
 {
   "name": "code-outline-graph",
-  "version": "0.2.35",
+  "version": "0.2.46",
   "summary": "Symbol-level code indexer MCP server — token-efficient AI editing with confirm-before-read flow",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "code_outline_graph-0.2.35.tar.gz",
-  "download_time": "2026-05-05T08:41:46.418199",
+  "download_filename": "code_outline_graph-0.2.46.tar.gz",
+  "download_time": "2026-05-14T07:37:06.780749",
   "package_url": "https://pypi.org/project/code-outline-graph/"
 }

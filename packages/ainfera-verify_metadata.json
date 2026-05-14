@@ -1,0 +1,11 @@
+{
+  "name": "ainfera-verify",
+  "version": "0.1.0",
+  "summary": "Offline verifier for Ainfera AuditChains. Trust no one — verify the chain yourself.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ainfera_verify-0.1.0.tar.gz",
+  "download_time": "2026-05-14T07:36:42.619124",
+  "package_url": "https://pypi.org/project/ainfera-verify/"
+}

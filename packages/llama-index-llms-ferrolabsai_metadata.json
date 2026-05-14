@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-llms-ferrolabsai",
+  "version": "0.0.1",
+  "summary": "LlamaIndex LLM integration for Ferro Labs AI Gateway — route LlamaIndex workloads across 30+ LLM providers via a single OpenAI-compatible endpoint",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llama_index_llms_ferrolabsai-0.0.1.tar.gz",
+  "download_time": "2026-05-14T07:36:36.935284",
+  "package_url": "https://pypi.org/project/llama-index-llms-ferrolabsai/"
+}

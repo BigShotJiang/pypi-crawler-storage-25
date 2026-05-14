@@ -1,11 +1,11 @@
 {
   "name": "mtrview",
-  "version": "0.4.2",
+  "version": "0.6.0",
   "summary": "Human-friendly dashboard for mtr2mqtt summary topics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mtrview-0.4.2.tar.gz",
-  "download_time": "2026-05-06T19:12:36.572610",
+  "download_filename": "mtrview-0.6.0.tar.gz",
+  "download_time": "2026-05-14T07:37:00.038129",
   "package_url": "https://pypi.org/project/mtrview/"
 }

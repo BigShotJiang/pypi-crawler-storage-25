@@ -1,0 +1,11 @@
+{
+  "name": "poke-player",
+  "version": "0.1.3",
+  "summary": "AI-powered Pokemon gameplay agent with headless emulation, REST API, and live dashboard.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "poke_player-0.1.3-py3-none-any.whl",
+  "download_time": "2026-05-14T07:36:41.596709",
+  "package_url": "https://pypi.org/project/poke-player/"
+}

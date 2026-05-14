@@ -1,0 +1,11 @@
+{
+  "name": "a2o-ana",
+  "version": "0.1.1",
+  "summary": "Out-of-the-box NATS-based agent-to-agent (A2A) protocol and Python client.",
+  "author": "a2o-labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "a2o_ana-0.1.1.tar.gz",
+  "download_time": "2026-05-14T07:37:07.800739",
+  "package_url": "https://pypi.org/project/a2o-ana/"
+}

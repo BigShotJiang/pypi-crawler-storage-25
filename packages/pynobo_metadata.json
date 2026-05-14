@@ -1,0 +1,11 @@
+{
+  "name": "pynobo",
+  "version": "1.9.0",
+  "summary": "Nobø Hub / Nobø Energy Control TCP/IP Interface",
+  "author": "echoromeo, capelevy, oyvindwe",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/echoromeo/pynobo",
+  "download_filename": "pynobo-1.9.0.tar.gz",
+  "download_time": "2026-05-14T07:36:40.053690",
+  "package_url": "https://pypi.org/project/pynobo/"
+}

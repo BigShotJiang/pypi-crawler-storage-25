@@ -1,11 +1,11 @@
 {
   "name": "akernel-runtime",
-  "version": "0.1.11",
+  "version": "0.1.18",
   "summary": "Agent Kernel: a CLI-first context-native agent runtime prototype.",
   "author": "Context Kernel contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "akernel_runtime-0.1.11.tar.gz",
-  "download_time": "2026-05-14T04:27:33.378247",
+  "download_filename": "akernel_runtime-0.1.18.tar.gz",
+  "download_time": "2026-05-14T07:37:14.454898",
   "package_url": "https://pypi.org/project/akernel-runtime/"
 }

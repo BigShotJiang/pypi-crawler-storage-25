@@ -1,0 +1,11 @@
+{
+  "name": "govee-hass-connect",
+  "version": "1.1.3",
+  "summary": "Home Assistant custom integration for static-IP Govee devices on segmented networks",
+  "author": "Kevin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "govee_hass_connect-1.1.3.tar.gz",
+  "download_time": "2026-05-14T07:36:40.562921",
+  "package_url": "https://pypi.org/project/govee-hass-connect/"
+}
