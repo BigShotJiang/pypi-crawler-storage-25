@@ -1,0 +1,11 @@
+{
+  "name": "codetre",
+  "version": "0.3.0",
+  "summary": "AST-based code structure outline tool — generate hierarchical symbol maps with call relationships",
+  "author": "wenxin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codetre-0.3.0.tar.gz",
+  "download_time": "2026-05-14T18:28:42.850620",
+  "package_url": "https://pypi.org/project/codetre/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tda",
+  "version": "0.2.1",
+  "summary": "Topological Data Analysis in Python, written in Rust. Not limited to H0 and H1.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tda-0.2.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-05-14T18:28:10.475589",
+  "package_url": "https://pypi.org/project/tda/"
+}

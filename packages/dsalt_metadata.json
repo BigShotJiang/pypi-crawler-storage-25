@@ -1,11 +1,11 @@
 {
   "name": "dsalt",
-  "version": "0.2.28",
+  "version": "0.3.4",
   "summary": "Dynamic Sparse Attention with Landmark Tokens - High-performance Triton implementation",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dsalt-0.2.28.tar.gz",
-  "download_time": "2026-05-11T14:23:21.714032",
+  "download_filename": "dsalt-0.3.4.tar.gz",
+  "download_time": "2026-05-14T18:28:16.050455",
   "package_url": "https://pypi.org/project/dsalt/"
 }

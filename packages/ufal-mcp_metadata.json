@@ -1,0 +1,11 @@
+{
+  "name": "ufal-mcp",
+  "version": "0.2.2",
+  "summary": "MCP server pro ÚFAL MFF UK NLP nástroje (NameTag, MasKIT, UDPipe, PONK) — česká právní AI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ufal_mcp-0.2.2.tar.gz",
+  "download_time": "2026-05-14T18:27:56.269443",
+  "package_url": "https://pypi.org/project/ufal-mcp/"
+}

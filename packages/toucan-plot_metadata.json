@@ -1,11 +1,11 @@
 {
   "name": "toucan-plot",
-  "version": "0.2.7",
-  "summary": "A versatile PyQt6 and Matplotlib-based plotting tool for CSV and SMV data files.",
+  "version": "0.5.2",
+  "summary": "A versatile PySide6 and Matplotlib-based plotting tool for CSV and SMV data files.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toucan_plot-0.2.7.tar.gz",
-  "download_time": "2026-04-09T12:50:40.925710",
+  "download_filename": "toucan_plot-0.5.2.tar.gz",
+  "download_time": "2026-05-14T18:28:25.461917",
   "package_url": "https://pypi.org/project/toucan-plot/"
 }

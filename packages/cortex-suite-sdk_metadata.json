@@ -1,11 +1,11 @@
 {
   "name": "cortex-suite-sdk",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "Cortex SDK — transport client for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cortex_suite_sdk-1.1.5.tar.gz",
-  "download_time": "2026-05-14T16:34:11.346013",
+  "download_filename": "cortex_suite_sdk-1.1.6.tar.gz",
+  "download_time": "2026-05-14T18:28:41.276842",
   "package_url": "https://pypi.org/project/cortex-suite-sdk/"
 }

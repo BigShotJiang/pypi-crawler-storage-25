@@ -1,0 +1,11 @@
+{
+  "name": "clinear",
+  "version": "0.2.0",
+  "summary": "Type-safe Linear CLI built on Pydantic v2",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clinear-0.2.0.tar.gz",
+  "download_time": "2026-05-14T18:28:04.106756",
+  "package_url": "https://pypi.org/project/clinear/"
+}

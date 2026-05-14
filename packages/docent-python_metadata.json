@@ -1,11 +1,11 @@
 {
   "name": "docent-python",
-  "version": "0.1.59a0",
-  "summary": "Docent SDK",
+  "version": "0.1.66",
+  "summary": "Renamed to 'docent'. This package is a redirect that depends on 'docent'.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "docent_python-0.1.59a0.tar.gz",
-  "download_time": "2026-04-16T00:05:55.694250",
+  "download_filename": "docent_python-0.1.66.tar.gz",
+  "download_time": "2026-05-14T18:28:05.160953",
   "package_url": "https://pypi.org/project/docent-python/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dhis2w-mcp",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "summary": "dhis2 FastMCP server — mounts plugins from dhis2w-core.",
   "author": "Morten Hansen",
   "license": null,
   "home_page": null,
-  "download_filename": "dhis2w_mcp-0.13.0.tar.gz",
-  "download_time": "2026-05-13T18:39:40.578935",
+  "download_filename": "dhis2w_mcp-0.14.0.tar.gz",
+  "download_time": "2026-05-14T18:28:31.273070",
   "package_url": "https://pypi.org/project/dhis2w-mcp/"
 }

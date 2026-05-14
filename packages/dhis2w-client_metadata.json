@@ -1,11 +1,11 @@
 {
   "name": "dhis2w-client",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "summary": "Async DHIS2 API client with pluggable auth (Basic, PAT, OAuth2/OIDC) and pydantic models.",
   "author": "Morten Hansen",
   "license": null,
   "home_page": null,
-  "download_filename": "dhis2w_client-0.13.0.tar.gz",
-  "download_time": "2026-05-13T18:39:42.142320",
+  "download_filename": "dhis2w_client-0.14.0.tar.gz",
+  "download_time": "2026-05-14T18:28:32.347354",
   "package_url": "https://pypi.org/project/dhis2w-client/"
 }

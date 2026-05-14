@@ -1,0 +1,11 @@
+{
+  "name": "fhr-monitor-analyzer",
+  "version": "0.1.6",
+  "summary": "Decision-support fetal heart-rate monitor analyzer backed by a Rust rules engine.",
+  "author": "fhr-monitor-analyzer contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fhr_monitor_analyzer-0.1.6.tar.gz",
+  "download_time": "2026-05-14T18:28:15.001872",
+  "package_url": "https://pypi.org/project/fhr-monitor-analyzer/"
+}

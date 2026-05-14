@@ -1,0 +1,11 @@
+{
+  "name": "faraday-cli",
+  "version": "2.2.2",
+  "summary": "Faraday cli package",
+  "author": "Faradaysec",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/infobyte/faraday-cli",
+  "download_filename": "faraday_cli-2.2.2.tar.gz",
+  "download_time": "2026-05-14T18:28:22.857973",
+  "package_url": "https://pypi.org/project/faraday-cli/"
+}
