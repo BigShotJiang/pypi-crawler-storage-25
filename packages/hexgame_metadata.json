@@ -1,11 +1,11 @@
 {
   "name": "hexgame",
-  "version": "0.1.1",
-  "summary": "FastAPI WebSocket Hex game server with matchmaking, plus reference clients",
+  "version": "0.3.0",
+  "summary": "Reference Hex game clients (random-move bot, model-driven client, pygame GUI) for the hexgame-server arena",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hexgame-0.1.1-py3-none-any.whl",
-  "download_time": "2026-05-13T14:43:13.204630",
+  "download_filename": "hexgame-0.3.0.tar.gz",
+  "download_time": "2026-05-14T22:56:53.689105",
   "package_url": "https://pypi.org/project/hexgame/"
 }

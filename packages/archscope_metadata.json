@@ -1,0 +1,11 @@
+{
+  "name": "archscope",
+  "version": "0.2.2",
+  "summary": "Lightweight workbench for cross-architecture mechanistic interpretability experiments on small models",
+  "author": "Juan Cruz Dovzak",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "archscope-0.2.2.tar.gz",
+  "download_time": "2026-05-14T22:56:57.802964",
+  "package_url": "https://pypi.org/project/archscope/"
+}

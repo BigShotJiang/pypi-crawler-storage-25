@@ -1,0 +1,11 @@
+{
+  "name": "gtfs-cli",
+  "version": "0.3.0",
+  "summary": "CLI tool to fetch, archive, process and explore GTFS-RT data",
+  "author": "Vladyslav Moisieienkov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gtfs_cli-0.3.0.tar.gz",
+  "download_time": "2026-05-14T22:56:55.735229",
+  "package_url": "https://pypi.org/project/gtfs-cli/"
+}

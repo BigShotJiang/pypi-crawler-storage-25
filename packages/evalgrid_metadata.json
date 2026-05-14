@@ -1,0 +1,11 @@
+{
+  "name": "evalgrid",
+  "version": "0.1.2",
+  "summary": "Agent evaluation framework — run, score, and track AI agent correctness at scale.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evalgrid-0.1.2.tar.gz",
+  "download_time": "2026-05-14T22:56:20.400146",
+  "package_url": "https://pypi.org/project/evalgrid/"
+}

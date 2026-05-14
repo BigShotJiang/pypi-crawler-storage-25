@@ -1,0 +1,11 @@
+{
+  "name": "wordloom",
+  "version": "0.10.1",
+  "summary": "Convention for expressing language text and templates for AI language model-related uses, for example prompt templates. The format is based on TOML, and word looms are meant to be kept in resource directories for use with code invoking LLMs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wordloom-0.10.1.tar.gz",
+  "download_time": "2026-05-14T22:56:34.953613",
+  "package_url": "https://pypi.org/project/wordloom/"
+}

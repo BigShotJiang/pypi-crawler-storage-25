@@ -1,0 +1,11 @@
+{
+  "name": "redbirdpy",
+  "version": "0.4.0",
+  "summary": "A Python toolbox for Diffuse Optical Tomography (DOT) and Near-Infrared Spectroscopy (NIRS)",
+  "author": "Qianqian Fang",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/fangq/redbirdpy",
+  "download_filename": "redbirdpy-0.4.0.tar.gz",
+  "download_time": "2026-05-14T22:56:30.257284",
+  "package_url": "https://pypi.org/project/redbirdpy/"
+}

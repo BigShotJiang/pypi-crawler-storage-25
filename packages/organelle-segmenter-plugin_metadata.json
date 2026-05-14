@@ -1,0 +1,11 @@
+{
+  "name": "organelle-segmenter-plugin",
+  "version": "0.0.9",
+  "summary": "A plugin that enables organelle segmentation, forked from tools from Allen Institute for Cell Science",
+  "author": "Shannon Rhoads",
+  "license": "BSD-3",
+  "home_page": "https://github.com/SCohenLab/organelle-segmenter-plugin",
+  "download_filename": "organelle_segmenter_plugin-0.0.9.tar.gz",
+  "download_time": "2026-05-14T22:56:56.245383",
+  "package_url": "https://pypi.org/project/organelle-segmenter-plugin/"
+}

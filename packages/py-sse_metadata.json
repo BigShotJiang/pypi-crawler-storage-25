@@ -1,11 +1,11 @@
 {
   "name": "py-sse",
-  "version": "0.2.1",
-  "summary": "opinionated application wrapper for granian",
+  "version": "0.3.0",
+  "summary": "minimal python sse server",
   "author": "Deufel",
   "license": null,
   "home_page": null,
-  "download_filename": "py_sse-0.2.1.tar.gz",
-  "download_time": "2026-05-14T16:34:08.251826",
+  "download_filename": "py_sse-0.3.0.tar.gz",
+  "download_time": "2026-05-14T22:56:24.485956",
   "package_url": "https://pypi.org/project/py-sse/"
 }

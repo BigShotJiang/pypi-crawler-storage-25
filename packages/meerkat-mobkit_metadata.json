@@ -1,11 +1,11 @@
 {
   "name": "meerkat-mobkit",
-  "version": "0.6.12",
+  "version": "0.6.13",
   "summary": "Python SDK for MobKit — companion orchestration platform for the Meerkat multi-agent runtime",
   "author": "Luka Crnkovic-Friis",
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "meerkat_mobkit-0.6.12.tar.gz",
-  "download_time": "2026-05-14T21:50:09.088762",
+  "download_filename": "meerkat_mobkit-0.6.13.tar.gz",
+  "download_time": "2026-05-14T22:56:58.827259",
   "package_url": "https://pypi.org/project/meerkat-mobkit/"
 }

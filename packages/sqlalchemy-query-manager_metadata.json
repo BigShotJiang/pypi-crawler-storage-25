@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-query-manager",
+  "version": "0.5.1",
+  "summary": "Django-style ORM interface for SQLAlchemy: Q filters, eager loading, bulk operations, and native async support.",
+  "author": "ViAchKoN",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlalchemy_query_manager-0.5.1.tar.gz",
+  "download_time": "2026-05-14T22:56:52.668725",
+  "package_url": "https://pypi.org/project/sqlalchemy-query-manager/"
+}

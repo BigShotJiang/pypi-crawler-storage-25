@@ -1,11 +1,11 @@
 {
   "name": "eddn-tail",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A KinesisTail-like TUI for monitoring the EDDN live stream",
   "author": "AwaNoodle",
   "license": null,
   "home_page": null,
-  "download_filename": "eddn_tail-0.1.0.tar.gz",
-  "download_time": "2026-05-12T22:58:50.723099",
+  "download_filename": "eddn_tail-0.2.0.tar.gz",
+  "download_time": "2026-05-14T22:56:22.950710",
   "package_url": "https://pypi.org/project/eddn-tail/"
 }

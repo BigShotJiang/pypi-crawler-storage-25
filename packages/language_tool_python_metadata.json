@@ -1,11 +1,11 @@
 {
   "name": "language_tool_python",
-  "version": "3.3.1",
+  "version": "3.4.0",
   "summary": "Checks grammar using LanguageTool.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "language_tool_python-3.3.1.tar.gz",
-  "download_time": "2026-05-10T15:04:29.795822",
+  "download_filename": "language_tool_python-3.4.0.tar.gz",
+  "download_time": "2026-05-14T22:56:49.003635",
   "package_url": "https://pypi.org/project/language_tool_python/"
 }

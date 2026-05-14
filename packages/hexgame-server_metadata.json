@@ -1,0 +1,11 @@
+{
+  "name": "hexgame-server",
+  "version": "0.1.0",
+  "summary": "FastAPI WebSocket Hex game server with matchmaking, best-of series, win detection, reconnect, and an optional Redis/PostgreSQL state backend",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hexgame_server-0.1.0.tar.gz",
+  "download_time": "2026-05-14T22:56:53.180254",
+  "package_url": "https://pypi.org/project/hexgame-server/"
+}

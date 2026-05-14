@@ -1,0 +1,11 @@
+{
+  "name": "spleeter-thomasesr",
+  "version": "3.0.0a1",
+  "summary": "Community fork of Deezer spleeter — TensorFlow 2.17, Python 3.10-3.12, Keras-based inference (v3.0.0-alpha).",
+  "author": "Thomas Richter",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spleeter_thomasesr-3.0.0a1.tar.gz",
+  "download_time": "2026-05-14T22:57:00.388050",
+  "package_url": "https://pypi.org/project/spleeter-thomasesr/"
+}
