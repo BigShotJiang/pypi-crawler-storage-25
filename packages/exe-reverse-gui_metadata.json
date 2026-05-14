@@ -1,0 +1,11 @@
+{
+  "name": "exe-reverse-gui",
+  "version": "1.0.0",
+  "summary": "A PyQt6 GUI tool to extract and decompile PyInstaller EXE files",
+  "author": "hyy",
+  "license": null,
+  "home_page": "https://github.com/hyy-aaa/exe-reverse-gui",
+  "download_filename": "exe_reverse_gui-1.0.0.tar.gz",
+  "download_time": "2026-05-14T14:23:36.850461",
+  "package_url": "https://pypi.org/project/exe-reverse-gui/"
+}

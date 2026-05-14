@@ -1,11 +1,11 @@
 {
   "name": "cafleet",
-  "version": "0.6.1",
+  "version": "0.8.1",
   "summary": "Message broker and agent registry for coding agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cafleet-0.6.1-py3-none-any.whl",
-  "download_time": "2026-05-09T14:04:30.216383",
+  "download_filename": "cafleet-0.8.1-py3-none-any.whl",
+  "download_time": "2026-05-14T14:23:24.538308",
   "package_url": "https://pypi.org/project/cafleet/"
 }

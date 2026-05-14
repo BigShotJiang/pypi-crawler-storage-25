@@ -1,0 +1,11 @@
+{
+  "name": "skar",
+  "version": "0.2.0",
+  "summary": "Skar runtime for Python — capture tool-using agent runs and emit Skar trace JSON for regression testing.",
+  "author": "Ofer Kalisky",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skar-0.2.0.tar.gz",
+  "download_time": "2026-05-14T14:23:19.499984",
+  "package_url": "https://pypi.org/project/skar/"
+}

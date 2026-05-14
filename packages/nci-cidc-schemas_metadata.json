@@ -1,0 +1,11 @@
+{
+  "name": "nci-cidc-schemas",
+  "version": "0.30.0",
+  "summary": "The CIDC data model and tools for working with it.",
+  "author": "NCI",
+  "license": "MIT license",
+  "home_page": "https://github.com/NCI-CIDC/cidc-schemas",
+  "download_filename": "nci_cidc_schemas-0.30.0.tar.gz",
+  "download_time": "2026-05-14T14:24:03.198766",
+  "package_url": "https://pypi.org/project/nci-cidc-schemas/"
+}

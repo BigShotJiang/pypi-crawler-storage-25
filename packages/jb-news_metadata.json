@@ -1,0 +1,11 @@
+{
+  "name": "jb-news",
+  "version": "2.3.4",
+  "summary": "A comprehensive wrapper for JBlanked's News API, leveraging OpenAI, Machine Learning, and MQL5's Calendar.",
+  "author": "JBlanked",
+  "license": "MIT",
+  "home_page": "https://jblanked.com/news/api/docs/",
+  "download_filename": "jb_news-2.3.4-py3-none-any.whl",
+  "download_time": "2026-05-14T14:23:24.028103",
+  "package_url": "https://pypi.org/project/jb-news/"
+}

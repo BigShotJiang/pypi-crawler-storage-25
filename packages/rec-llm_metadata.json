@@ -1,0 +1,11 @@
+{
+  "name": "rec-llm",
+  "version": "0.1.0",
+  "summary": "Recursive Language Models for unbounded context processing",
+  "author": "Grigori Gvadzabia",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rec_llm-0.1.0.tar.gz",
+  "download_time": "2026-05-14T14:23:59.002131",
+  "package_url": "https://pypi.org/project/rec-llm/"
+}

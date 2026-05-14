@@ -1,11 +1,11 @@
 {
   "name": "fruitloops",
-  "version": "0.1.5",
+  "version": "0.1.9",
   "summary": "Agent-friendly CLI for querying local connectome analysis tables.",
   "author": "Gustavo Madeira Santana",
   "license": null,
   "home_page": null,
-  "download_filename": "fruitloops-0.1.5.tar.gz",
-  "download_time": "2026-05-14T00:27:01.393493",
+  "download_filename": "fruitloops-0.1.9.tar.gz",
+  "download_time": "2026-05-14T14:23:51.653676",
   "package_url": "https://pypi.org/project/fruitloops/"
 }

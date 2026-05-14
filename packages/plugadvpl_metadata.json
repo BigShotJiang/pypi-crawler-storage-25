@@ -1,11 +1,11 @@
 {
   "name": "plugadvpl",
-  "version": "0.3.0",
+  "version": "0.3.14",
   "summary": "CLI que indexa fontes ADVPL/Protheus em SQLite com FTS5 para análise por LLM (companheiro do plugin Claude Code plugadvpl)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plugadvpl-0.3.0.tar.gz",
-  "download_time": "2026-05-12T00:21:20.838672",
+  "download_filename": "plugadvpl-0.3.14.tar.gz",
+  "download_time": "2026-05-14T14:24:07.784674",
   "package_url": "https://pypi.org/project/plugadvpl/"
 }

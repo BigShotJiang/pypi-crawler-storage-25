@@ -1,0 +1,11 @@
+{
+  "name": "narrative-ai-framework",
+  "version": "0.3.0",
+  "summary": "AI-powered voice diary framework: STT, TTS, LLM, RAG, and voice-agent engines",
+  "author": "Narrative AI Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "narrative_ai_framework-0.3.0.tar.gz",
+  "download_time": "2026-05-14T14:24:00.601725",
+  "package_url": "https://pypi.org/project/narrative-ai-framework/"
+}

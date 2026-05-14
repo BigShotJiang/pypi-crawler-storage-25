@@ -1,11 +1,11 @@
 {
   "name": "squadco-mcp",
-  "version": "0.1.2",
-  "summary": "SquadCo API documentation as an MCP server",
+  "version": "0.2.3",
+  "summary": "SquadCo API documentation as an MCP server (CiteKit 0.2.1 Native)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "squadco_mcp-0.1.2.tar.gz",
-  "download_time": "2026-05-14T10:07:52.680206",
+  "download_filename": "squadco_mcp-0.2.3.tar.gz",
+  "download_time": "2026-05-14T14:24:02.144046",
   "package_url": "https://pypi.org/project/squadco-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dataset-tools",
+  "version": "0.2.0",
+  "summary": "Dataset tools for dataset ninja made by Supervisely team.",
+  "author": "Supervisely",
+  "license": null,
+  "home_page": "https://github.com/supervisely/dataset-tools",
+  "download_filename": "dataset_tools-0.2.0.tar.gz",
+  "download_time": "2026-05-14T14:23:37.410172",
+  "package_url": "https://pypi.org/project/dataset-tools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "comprobot",
-  "version": "2.2.1",
+  "version": "2.2.6",
   "summary": "A self-hostable Discord bot built for maximum customization.",
   "author": "badluma",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "comprobot-2.2.1.tar.gz",
-  "download_time": "2026-05-12T20:27:11.231125",
+  "download_filename": "comprobot-2.2.6.tar.gz",
+  "download_time": "2026-05-14T14:23:28.138136",
   "package_url": "https://pypi.org/project/comprobot/"
 }

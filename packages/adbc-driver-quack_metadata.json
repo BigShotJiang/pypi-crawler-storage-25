@@ -1,0 +1,11 @@
+{
+  "name": "adbc-driver-quack",
+  "version": "0.1.0a2",
+  "summary": "An Apache Arrow ADBC driver for DuckDB's Quack remote protocol.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adbc_driver_quack-0.1.0a2-py3-none-any.whl",
+  "download_time": "2026-05-14T14:23:39.664072",
+  "package_url": "https://pypi.org/project/adbc-driver-quack/"
+}
