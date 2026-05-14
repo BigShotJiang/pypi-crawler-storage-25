@@ -1,11 +1,11 @@
 {
   "name": "falsifylab-alpha-mcp",
-  "version": "0.1.1",
-  "summary": "MCP server surfacing FalsifyLab daily alpha (yield farms, HL vaults, insider trades, SEC 8-Ks)",
+  "version": "0.2.0",
+  "summary": "MCP data layer for AI-assisted market research: 10 finance tools for AI agents covering DeFi yield, Hyperliquid vaults, SEC Form 4 insider clusters, 8-K material filings, macro tape, US spot ETF flows, airdrop farms, Polymarket whales, confluence_today cross-source signal alignment, and onchain_smart_wallets (live Solana copy-trade bot score data). Free tier requires no signup. Pro $19/mo for real-time.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "falsifylab_alpha_mcp-0.1.1.tar.gz",
-  "download_time": "2026-05-12T11:47:26.765702",
+  "download_filename": "falsifylab_alpha_mcp-0.2.0.tar.gz",
+  "download_time": "2026-05-14T04:27:31.837726",
   "package_url": "https://pypi.org/project/falsifylab-alpha-mcp/"
 }

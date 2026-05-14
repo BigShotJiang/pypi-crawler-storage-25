@@ -1,0 +1,11 @@
+{
+  "name": "telos-md",
+  "version": "0.4.0",
+  "summary": "Custodian of the project's telos. Drift-guard for earned commitments. CLI-first; MCP is a razor-thin help-only wrapper.",
+  "author": "eidos-agi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "telos_md-0.4.0.tar.gz",
+  "download_time": "2026-05-14T04:27:01.964580",
+  "package_url": "https://pypi.org/project/telos-md/"
+}

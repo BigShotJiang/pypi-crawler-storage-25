@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-customer-deposit-elaboration",
+  "version": "16.0.1.0.1.4",
+  "summary": "Glue module betwen stock_customer_deposit and sale_elaboration",
+  "author": "Moduon, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_customer_deposit_elaboration-16.0.1.0.1.4-py3-none-any.whl",
+  "download_time": "2026-05-14T04:27:02.475732",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-customer-deposit-elaboration/"
+}

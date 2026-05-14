@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-cp-broadcast",
+  "version": "3.0.0",
+  "summary": "Codeforces、牛客、AtCoder平台比赛查询，ACMer 必备",
+  "author": "HuParry",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_cp_broadcast-3.0.0.tar.gz",
+  "download_time": "2026-05-14T04:27:10.281152",
+  "package_url": "https://pypi.org/project/nonebot-plugin-cp-broadcast/"
+}

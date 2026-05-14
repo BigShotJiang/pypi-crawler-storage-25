@@ -1,0 +1,11 @@
+{
+  "name": "causetrace",
+  "version": "0.1.0",
+  "summary": "Causal traceability SDK for AI agent runtimes — observe, replay, understand agent behavior",
+  "author": "milkoor",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "causetrace-0.1.0.tar.gz",
+  "download_time": "2026-05-14T04:27:25.144118",
+  "package_url": "https://pypi.org/project/causetrace/"
+}

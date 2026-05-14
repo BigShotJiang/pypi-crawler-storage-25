@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-randpic",
+  "version": "1.0.8",
+  "summary": "一个通过指令随机发送你存储的图片的nonebot2插件",
+  "author": "HuParry",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_randpic-1.0.8.tar.gz",
+  "download_time": "2026-05-14T04:27:15.409429",
+  "package_url": "https://pypi.org/project/nonebot-plugin-randpic/"
+}

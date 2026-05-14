@@ -1,0 +1,11 @@
+{
+  "name": "cd-analyzer",
+  "version": "0.3.2",
+  "summary": "CD spectroscopy data analysis toolkit — parse .dsx files, batch fit protein thermal melting curves, global spectral fitting, calculate thermodynamic parameters",
+  "author": "cdanalyzer contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cd_analyzer-0.3.2.tar.gz",
+  "download_time": "2026-05-14T04:27:28.750271",
+  "package_url": "https://pypi.org/project/cd-analyzer/"
+}

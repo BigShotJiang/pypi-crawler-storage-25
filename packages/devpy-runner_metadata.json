@@ -1,11 +1,11 @@
 {
   "name": "devpy-runner",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Editable Python installs in git worktrees without copying heavy dependencies.",
   "author": "Ali K",
   "license": null,
   "home_page": null,
-  "download_filename": "devpy_runner-0.1.1.tar.gz",
-  "download_time": "2026-05-13T18:39:54.672568",
+  "download_filename": "devpy_runner-0.1.2.tar.gz",
+  "download_time": "2026-05-14T04:27:14.381170",
   "package_url": "https://pypi.org/project/devpy-runner/"
 }
