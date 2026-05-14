@@ -1,0 +1,11 @@
+{
+  "name": "smdb-dbm",
+  "version": "0.1.2",
+  "summary": "Database Manager for Server Monitoring Discord bot and other projects",
+  "author": "Janthó Dávid",
+  "license": null,
+  "home_page": "https://github.com/NightKey/smdb-dbm",
+  "download_filename": "smdb_dbm-0.1.2.tar.gz",
+  "download_time": "2026-05-14T10:08:30.036993",
+  "package_url": "https://pypi.org/project/smdb-dbm/"
+}

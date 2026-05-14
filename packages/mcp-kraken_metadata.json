@@ -1,0 +1,11 @@
+{
+  "name": "mcp-kraken",
+  "version": "0.1.3",
+  "summary": "MCP server exposing the Kraken cryptocurrency exchange REST API over HTTP with bearer-token authentication.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_kraken-0.1.3.tar.gz",
+  "download_time": "2026-05-14T10:08:17.245909",
+  "package_url": "https://pypi.org/project/mcp-kraken/"
+}

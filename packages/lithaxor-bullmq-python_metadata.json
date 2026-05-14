@@ -1,0 +1,11 @@
+{
+  "name": "lithaxor-bullmq-python",
+  "version": "2.27.0",
+  "summary": "BullMQ for Python (LitHaxor fork) — adds JobScheduler, global rate limit/concurrency, per-job cancellation, and QueueEvents streams.",
+  "author": "LitHaxor (fork maintainer)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lithaxor_bullmq_python-2.27.0.tar.gz",
+  "download_time": "2026-05-14T10:07:57.798164",
+  "package_url": "https://pypi.org/project/lithaxor-bullmq-python/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "master-agents-client",
-  "version": "3.5.2",
+  "version": "3.6.0",
   "summary": "Thin client for the Master Agents service. Talks to a hosted server; bundles no orchestration logic, prompts, or agent specs.",
   "author": "Thang Nguyen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "master_agents_client-3.5.2.tar.gz",
-  "download_time": "2026-05-13T14:43:46.402279",
+  "download_filename": "master_agents_client-3.6.0.tar.gz",
+  "download_time": "2026-05-14T10:08:28.494716",
   "package_url": "https://pypi.org/project/master-agents-client/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tpu-inference",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "summary": null,
   "author": "tpu_inference Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "tpu_inference-0.18.0.tar.gz",
-  "download_time": "2026-04-20T16:54:04.532308",
+  "download_filename": "tpu_inference-0.19.0.tar.gz",
+  "download_time": "2026-05-14T10:07:56.265349",
   "package_url": "https://pypi.org/project/tpu-inference/"
 }

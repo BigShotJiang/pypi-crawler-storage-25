@@ -1,0 +1,11 @@
+{
+  "name": "ghidradbg",
+  "version": "12.1",
+  "summary": "Ghidra's Plugin for dbgeng",
+  "author": "Ghidra Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghidradbg-12.1-py3-none-any.whl",
+  "download_time": "2026-05-14T10:08:00.359752",
+  "package_url": "https://pypi.org/project/ghidradbg/"
+}

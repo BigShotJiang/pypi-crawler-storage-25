@@ -1,0 +1,11 @@
+{
+  "name": "dbt-watsonx-spark",
+  "version": "0.1.4",
+  "summary": "IBM watsonx.data spark plugin for dbt",
+  "author": "IBM watsonx.data",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/IBM/dbt-watsonx-spark",
+  "download_filename": "dbt_watsonx_spark-0.1.4.tar.gz",
+  "download_time": "2026-05-14T10:08:23.901561",
+  "package_url": "https://pypi.org/project/dbt-watsonx-spark/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rigr",
+  "version": "0.1.0",
+  "summary": "Agent evaluation framework. Define expectations. Catch regressions. Prove your agent isn't getting worse.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rigr-0.1.0.tar.gz",
+  "download_time": "2026-05-14T10:08:23.390277",
+  "package_url": "https://pypi.org/project/rigr/"
+}

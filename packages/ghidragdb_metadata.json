@@ -1,0 +1,11 @@
+{
+  "name": "ghidragdb",
+  "version": "12.1",
+  "summary": "Ghidra's Plugin for gdb",
+  "author": "Ghidra Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghidragdb-12.1-py3-none-any.whl",
+  "download_time": "2026-05-14T10:07:56.776652",
+  "package_url": "https://pypi.org/project/ghidragdb/"
+}

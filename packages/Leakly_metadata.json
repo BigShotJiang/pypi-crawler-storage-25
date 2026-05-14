@@ -1,0 +1,11 @@
+{
+  "name": "Leakly",
+  "version": "0.1.2",
+  "summary": "Leakage checks for machine-learning pipelines using permutation tests.",
+  "author": "DeMONLab-BioFINDER",
+  "license": null,
+  "home_page": null,
+  "download_filename": "leakly-0.1.2.tar.gz",
+  "download_time": "2026-05-14T10:08:25.946095",
+  "package_url": "https://pypi.org/project/Leakly/"
+}

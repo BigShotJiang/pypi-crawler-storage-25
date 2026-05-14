@@ -1,0 +1,11 @@
+{
+  "name": "kronos-agent-os",
+  "version": "0.1.1",
+  "summary": "Kronos Agent OS (KAOS): self-hosted runtime for durable AI agents with memory, skills, MCP tools, automations, and sub-agent coordination",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kronos_agent_os-0.1.1.tar.gz",
+  "download_time": "2026-05-14T10:07:47.552733",
+  "package_url": "https://pypi.org/project/kronos-agent-os/"
+}
