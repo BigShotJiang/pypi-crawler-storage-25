@@ -1,0 +1,11 @@
+{
+  "name": "llvm-nanobind",
+  "version": "21.1.6.2",
+  "summary": "LLVM-C Python bindings with nanobind.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llvm_nanobind-21.1.6.2.tar.gz",
+  "download_time": "2026-05-14T00:27:16.443657",
+  "package_url": "https://pypi.org/project/llvm-nanobind/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "linearrf",
+  "version": "1.2.1",
+  "summary": "A python libary to build Random Forests with Linear Models at the leaves.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linearrf-1.2.1.tar.gz",
+  "download_time": "2026-05-14T00:26:58.112784",
+  "package_url": "https://pypi.org/project/linearrf/"
+}

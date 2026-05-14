@@ -1,0 +1,11 @@
+{
+  "name": "kagi_client",
+  "version": "1.0.0rc3",
+  "summary": "Kagi API",
+  "author": "API Support",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kagi_client-1.0.0rc3.tar.gz",
+  "download_time": "2026-05-14T00:27:27.152509",
+  "package_url": "https://pypi.org/project/kagi_client/"
+}

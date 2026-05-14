@@ -1,11 +1,11 @@
 {
   "name": "codex-agent-framework",
-  "version": "0.1.24",
+  "version": "0.1.27",
   "summary": "A lightweight event-driven Codex agent runtime.",
   "author": "Baptiste",
   "license": null,
   "home_page": null,
-  "download_filename": "codex_agent_framework-0.1.24.tar.gz",
-  "download_time": "2026-05-10T16:21:34.107686",
+  "download_filename": "codex_agent_framework-0.1.27.tar.gz",
+  "download_time": "2026-05-14T00:27:28.199712",
   "package_url": "https://pypi.org/project/codex-agent-framework/"
 }

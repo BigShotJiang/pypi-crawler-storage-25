@@ -1,0 +1,11 @@
+{
+  "name": "solpython",
+  "version": "0.1.2",
+  "summary": "Python-to-EVM compiler — run Python on-chain via a Solidity smart contract pipeline",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "solpython-0.1.2.tar.gz",
+  "download_time": "2026-05-14T00:26:55.471974",
+  "package_url": "https://pypi.org/project/solpython/"
+}

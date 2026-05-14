@@ -1,0 +1,11 @@
+{
+  "name": "coval-sdk",
+  "version": "0.2.0",
+  "summary": "Typed Python client for the Coval evaluation platform API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "coval_sdk-0.2.0.tar.gz",
+  "download_time": "2026-05-14T00:26:46.119579",
+  "package_url": "https://pypi.org/project/coval-sdk/"
+}

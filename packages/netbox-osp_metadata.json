@@ -1,0 +1,11 @@
+{
+  "name": "netbox-osp",
+  "version": "0.2.1",
+  "summary": "Outside-plant fibre management for NetBox — cables, splice closures, fibre links with loss budgets, and an offline-capable Leaflet plant map.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "netbox_osp-0.2.1.tar.gz",
+  "download_time": "2026-05-14T00:27:03.765760",
+  "package_url": "https://pypi.org/project/netbox-osp/"
+}

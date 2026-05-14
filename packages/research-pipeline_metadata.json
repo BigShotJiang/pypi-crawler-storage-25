@@ -1,11 +1,11 @@
 {
   "name": "research-pipeline",
-  "version": "0.17.12",
+  "version": "0.17.19",
   "summary": "A multi-source pipeline for searching, screening, downloading, converting, and summarizing academic papers from arXiv, Google Scholar, and more.",
   "author": "Grammy Jiang",
   "license": null,
   "home_page": null,
-  "download_filename": "research_pipeline-0.17.12.tar.gz",
-  "download_time": "2026-05-12T22:59:01.380284",
+  "download_filename": "research_pipeline-0.17.19.tar.gz",
+  "download_time": "2026-05-14T00:26:50.601421",
   "package_url": "https://pypi.org/project/research-pipeline/"
 }
