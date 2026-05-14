@@ -1,11 +1,11 @@
 {
   "name": "bem-sdk",
-  "version": "0.21.0",
+  "version": "0.22.0",
   "summary": "The official Python library for the bem API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "bem_sdk-0.21.0.tar.gz",
-  "download_time": "2026-05-13T04:14:18.803570",
+  "download_filename": "bem_sdk-0.22.0.tar.gz",
+  "download_time": "2026-05-14T20:25:21.951532",
   "package_url": "https://pypi.org/project/bem-sdk/"
 }

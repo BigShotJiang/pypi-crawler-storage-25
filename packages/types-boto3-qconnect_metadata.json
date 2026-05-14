@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-qconnect",
+  "version": "1.43.8",
+  "summary": "Type annotations for boto3 QConnect 1.43.8 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_boto3_qconnect-1.43.8.tar.gz",
+  "download_time": "2026-05-14T20:25:45.891268",
+  "package_url": "https://pypi.org/project/types-boto3-qconnect/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rba-mcp",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "MCP server for the Reserve Bank of Australia statistical tables (F-tables). Plain-English access to interest rates, FX rates, deposit/lending rates.",
   "author": "Harry Vass",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rba_mcp-0.1.9.tar.gz",
-  "download_time": "2026-05-12T20:27:06.394906",
+  "download_filename": "rba_mcp-0.1.10.tar.gz",
+  "download_time": "2026-05-14T20:25:33.923644",
   "package_url": "https://pypi.org/project/rba-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "kivi-ai",
-  "version": "0.3.0",
+  "version": "0.3.6",
   "summary": "Kivi — Unified AI chat + CLI agent. Provider-agnostic streaming chat with tools, sessions, auto-compaction, sub-agents. Supports OpenAI, vLLM, GitHub Copilot SDK, Claude Agent SDK.",
   "author": "Kivi Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kivi_ai-0.3.0.tar.gz",
-  "download_time": "2026-05-14T18:28:24.416120",
+  "download_filename": "kivi_ai-0.3.6.tar.gz",
+  "download_time": "2026-05-14T20:25:56.843116",
   "package_url": "https://pypi.org/project/kivi-ai/"
 }

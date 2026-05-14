@@ -1,11 +1,11 @@
 {
   "name": "portfolio-rebalancer-cli",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A CLI tool for contribution-only portfolio rebalancing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "portfolio_rebalancer_cli-0.2.0.tar.gz",
-  "download_time": "2026-04-04T20:32:10.246423",
+  "download_filename": "portfolio_rebalancer_cli-0.3.0.tar.gz",
+  "download_time": "2026-05-14T20:25:42.215674",
   "package_url": "https://pypi.org/project/portfolio-rebalancer-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "llama-index",
+  "version": "0.14.22",
+  "summary": "Interface between LLMs and your data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index-0.14.22.tar.gz",
+  "download_time": "2026-05-14T20:25:27.188319",
+  "package_url": "https://pypi.org/project/llama-index/"
+}

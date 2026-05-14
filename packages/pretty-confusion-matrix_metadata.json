@@ -1,0 +1,11 @@
+{
+  "name": "pretty-confusion-matrix",
+  "version": "0.8.1",
+  "summary": "plot a pretty confusion matrix (like Matlab) in python using seaborn and matplotlib",
+  "author": "Wagner Cipriano",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pretty_confusion_matrix-0.8.1.tar.gz",
+  "download_time": "2026-05-14T20:25:59.962151",
+  "package_url": "https://pypi.org/project/pretty-confusion-matrix/"
+}

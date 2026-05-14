@@ -1,11 +1,11 @@
 {
   "name": "docpluck",
-  "version": "2.4.29",
+  "version": "2.4.31",
   "summary": "PDF, DOCX, and HTML text extraction and normalization for academic papers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "docpluck-2.4.29.tar.gz",
-  "download_time": "2026-05-14T18:28:34.459558",
+  "download_filename": "docpluck-2.4.31.tar.gz",
+  "download_time": "2026-05-14T20:25:23.523138",
   "package_url": "https://pypi.org/project/docpluck/"
 }

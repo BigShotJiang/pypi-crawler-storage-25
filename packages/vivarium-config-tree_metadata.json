@@ -1,0 +1,11 @@
+{
+  "name": "vivarium-config-tree",
+  "version": "5.0.0",
+  "summary": "Configuration structure which supports cascading layers.",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "vivarium_config_tree-5.0.0.tar.gz",
+  "download_time": "2026-05-14T20:26:07.223451",
+  "package_url": "https://pypi.org/project/vivarium-config-tree/"
+}

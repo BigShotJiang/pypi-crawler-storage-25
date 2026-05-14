@@ -1,0 +1,11 @@
+{
+  "name": "ansys-turbogrid-api",
+  "version": "0.7.5",
+  "summary": "A python wrapper for Ansys TurboGrid Service",
+  "author": "ANSYS, Inc.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ansys_turbogrid_api-0.7.5.tar.gz",
+  "download_time": "2026-05-14T20:26:00.987730",
+  "package_url": "https://pypi.org/project/ansys-turbogrid-api/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "loctran",
-  "version": "0.1.1b6",
+  "version": "0.1.1b11",
   "summary": "Local-first document translation and conversion toolkit",
   "author": "Anzal K. Shahul",
   "license": null,
   "home_page": null,
-  "download_filename": "loctran-0.1.1b6.tar.gz",
-  "download_time": "2026-05-14T18:28:02.014432",
+  "download_filename": "loctran-0.1.1b11.tar.gz",
+  "download_time": "2026-05-14T20:25:21.433445",
   "package_url": "https://pypi.org/project/loctran/"
 }
