@@ -1,11 +1,11 @@
 {
   "name": "ct-toolkit",
-  "version": "0.3.27",
+  "version": "0.3.30",
   "summary": "Computational Theseus Toolkit — Identity Continuity Guardrails for Agentic Systems",
   "author": "Hakan Damar",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ct_toolkit-0.3.27.tar.gz",
-  "download_time": "2026-04-29T22:39:29.770282",
+  "download_filename": "ct_toolkit-0.3.30.tar.gz",
+  "download_time": "2026-05-14T23:50:05.758253",
   "package_url": "https://pypi.org/project/ct-toolkit/"
 }

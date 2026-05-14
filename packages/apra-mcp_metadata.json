@@ -1,11 +1,11 @@
 {
   "name": "apra-mcp",
-  "version": "0.1.4",
+  "version": "0.4.0",
   "summary": "MCP server for Australian Prudential Regulation Authority statistics. Plain-English access to bank capital ratios, superannuation fund-level data, and life + general insurance — every prudentially-regulated entity in Australia, every quarter, with auto-discovery and a CC-BY 3.0 AU attribution contract.",
   "author": "Harry Vass",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "apra_mcp-0.1.4.tar.gz",
-  "download_time": "2026-05-14T21:50:07.024254",
+  "download_filename": "apra_mcp-0.4.0.tar.gz",
+  "download_time": "2026-05-14T23:50:15.726540",
   "package_url": "https://pypi.org/project/apra-mcp/"
 }

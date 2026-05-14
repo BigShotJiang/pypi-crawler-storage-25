@@ -1,0 +1,11 @@
+{
+  "name": "cheesebench",
+  "version": "0.1.1",
+  "summary": "CheeseBench: A VLM benchmark over 9 rodent behavioral neuroscience paradigms",
+  "author": "CheeseBench Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cheesebench-0.1.1.tar.gz",
+  "download_time": "2026-05-14T23:50:02.152906",
+  "package_url": "https://pypi.org/project/cheesebench/"
+}

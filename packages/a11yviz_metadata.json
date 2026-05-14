@@ -1,11 +1,11 @@
 {
   "name": "a11yviz",
-  "version": "0.1.1",
-  "summary": "Accessibility tools for matplotlib, plotly, and Quarto",
+  "version": "0.1.2",
+  "summary": "Makes charts and documents accessible across plotnine, plotly, and Quarto in Python, aligned with the Web Content Accessibility Guidelines (WCAG 2.1).",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "a11yviz-0.1.1.tar.gz",
-  "download_time": "2026-05-03T05:15:55.829022",
+  "download_filename": "a11yviz-0.1.2.tar.gz",
+  "download_time": "2026-05-14T23:50:37.194450",
   "package_url": "https://pypi.org/project/a11yviz/"
 }

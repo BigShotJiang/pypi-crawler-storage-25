@@ -1,0 +1,11 @@
+{
+  "name": "meegflow",
+  "version": "0.1.6",
+  "summary": "A modular, configuration-driven extensible M/EEG preprocessing pipeline using MNE-Python",
+  "author": "Laouen Belloli",
+  "license": null,
+  "home_page": "https://github.com/Picnic-DoC/meegflow",
+  "download_filename": "meegflow-0.1.6.tar.gz",
+  "download_time": "2026-05-14T23:50:13.039844",
+  "package_url": "https://pypi.org/project/meegflow/"
+}

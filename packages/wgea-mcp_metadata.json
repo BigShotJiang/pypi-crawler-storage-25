@@ -1,11 +1,11 @@
 {
   "name": "wgea-mcp",
-  "version": "0.1.5",
+  "version": "0.3.0",
   "summary": "MCP server for the Workplace Gender Equality Agency (WGEA) public data file. Plain-English access to per-employer workforce composition, gender-equality policy answers, parental leave, flexible work, and harm-prevention data — every WGEA-reporting employer in Australia, every year, with fuzzy employer-name search and a CC-BY 3.0 AU attribution contract.",
   "author": "Harry Vass",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wgea_mcp-0.1.5.tar.gz",
-  "download_time": "2026-05-14T22:56:57.273178",
+  "download_filename": "wgea_mcp-0.3.0.tar.gz",
+  "download_time": "2026-05-14T23:49:58.522273",
   "package_url": "https://pypi.org/project/wgea-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "scbe-agent-bus",
+  "version": "0.3.0",
+  "summary": "SCBE agent-bus: Python surface over the SCBE governed event runner. Routes AI/human/AI events through the harmonic-wall pipeline, wraps the workspace audit chain (formation/ingest/export/verify/import/lineage/report), and the trap-in-good-loops dispatch surface (free-only: offline echo + local Ollama).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scbe_agent_bus-0.3.0.tar.gz",
+  "download_time": "2026-05-14T23:50:19.953583",
+  "package_url": "https://pypi.org/project/scbe-agent-bus/"
+}

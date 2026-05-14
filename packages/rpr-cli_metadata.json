@@ -1,11 +1,11 @@
 {
   "name": "rpr-cli",
-  "version": "0.1.9",
+  "version": "0.1.24",
   "summary": "RPR CLI -- React Python Rust monorepo scaffolding orchestrator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rpr_cli-0.1.9.tar.gz",
-  "download_time": "2026-05-12T18:28:45.479363",
+  "download_filename": "rpr_cli-0.1.24.tar.gz",
+  "download_time": "2026-05-14T23:50:23.090059",
   "package_url": "https://pypi.org/project/rpr-cli/"
 }

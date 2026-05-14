@@ -1,0 +1,11 @@
+{
+  "name": "ezmsg-event",
+  "version": "0.9.0",
+  "summary": "Namespace package for ezmsg to work with signal events like neural spikes and heartbeats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezmsg_event-0.9.0.tar.gz",
+  "download_time": "2026-05-14T23:49:58.008614",
+  "package_url": "https://pypi.org/project/ezmsg-event/"
+}
