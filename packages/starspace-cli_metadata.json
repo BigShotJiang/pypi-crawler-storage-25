@@ -1,0 +1,11 @@
+{
+  "name": "starspace-cli",
+  "version": "0.2.1",
+  "summary": "Push your repo to a StarSpace workspace and connect Claude, Cursor, or ChatGPT to it over MCP.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "starspace_cli-0.2.1.tar.gz",
+  "download_time": "2026-05-15T21:46:07.927396",
+  "package_url": "https://pypi.org/project/starspace-cli/"
+}

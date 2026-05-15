@@ -1,0 +1,11 @@
+{
+  "name": "rfcvoip",
+  "version": "2.9.0",
+  "summary": "rfcvoip is a maintained, protocol-focused VoIP/SIP/RTP library.",
+  "author": "Tim Abdiukov; Tayler Porter and PyVoIP contributors",
+  "license": null,
+  "home_page": "https://github.com/TAbdiukov/rfcvoip",
+  "download_filename": "rfcvoip-2.9.0.tar.gz",
+  "download_time": "2026-05-15T21:46:35.561125",
+  "package_url": "https://pypi.org/project/rfcvoip/"
+}

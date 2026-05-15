@@ -1,11 +1,11 @@
 {
   "name": "cambium",
-  "version": "0.1.0",
+  "version": "0.3",
   "summary": "A light touch markdown static site generator",
   "author": "Sidrat Research",
   "license": null,
   "home_page": null,
-  "download_filename": "cambium-0.1.0.tar.gz",
-  "download_time": "2026-05-07T21:41:41.117421",
+  "download_filename": "cambium-0.3.tar.gz",
+  "download_time": "2026-05-15T21:46:28.641942",
   "package_url": "https://pypi.org/project/cambium/"
 }

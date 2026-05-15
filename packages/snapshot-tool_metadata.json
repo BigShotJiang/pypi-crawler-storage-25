@@ -1,0 +1,11 @@
+{
+  "name": "snapshot-tool",
+  "version": "0.2.0",
+  "summary": "Snapshot testing tool for ASV benchmarks - captures and compares function outputs to verify correctness after optimizations",
+  "author": "James Hou, Atharva Sehgal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snapshot_tool-0.2.0.tar.gz",
+  "download_time": "2026-05-15T21:46:18.527975",
+  "package_url": "https://pypi.org/project/snapshot-tool/"
+}

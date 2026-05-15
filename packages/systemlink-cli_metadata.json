@@ -1,11 +1,11 @@
 {
   "name": "systemlink-cli",
-  "version": "1.13.9",
+  "version": "1.13.13",
   "summary": "SystemLink Integrator CLI - cross-platform CLI for SystemLink workflows and templates.",
   "author": "Fred Visser",
   "license": null,
   "home_page": null,
-  "download_filename": "systemlink_cli-1.13.9.tar.gz",
-  "download_time": "2026-05-14T20:25:58.392036",
+  "download_filename": "systemlink_cli-1.13.13.tar.gz",
+  "download_time": "2026-05-15T21:46:17.993124",
   "package_url": "https://pypi.org/project/systemlink-cli/"
 }

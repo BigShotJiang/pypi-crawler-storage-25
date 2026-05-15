@@ -1,0 +1,11 @@
+{
+  "name": "pintest-cli",
+  "version": "0.2.2",
+  "summary": "Run only the tests affected by your code changes.",
+  "author": "Pintest Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pintest_cli-0.2.2.tar.gz",
+  "download_time": "2026-05-15T21:46:08.463460",
+  "package_url": "https://pypi.org/project/pintest-cli/"
+}

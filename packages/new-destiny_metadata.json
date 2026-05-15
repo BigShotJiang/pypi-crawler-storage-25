@@ -1,0 +1,11 @@
+{
+  "name": "new-destiny",
+  "version": "0.3.6",
+  "summary": "An easy to use, fully async, fast, scalable, interpretable rate limiting solution for the Riot Games API (currently for League of Legends only) built on Python, asyncio, and Redis.",
+  "author": "Victor Haynes",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "new_destiny-0.3.6.tar.gz",
+  "download_time": "2026-05-15T21:46:05.338208",
+  "package_url": "https://pypi.org/project/new-destiny/"
+}

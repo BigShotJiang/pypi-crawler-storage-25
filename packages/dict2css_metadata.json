@@ -1,0 +1,11 @@
+{
+  "name": "dict2css",
+  "version": "0.5.0",
+  "summary": "A μ-library for constructing cascading style sheets from Python dictionaries.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/sphinx-toolbox/dict2css",
+  "download_filename": "dict2css-0.5.0.tar.gz",
+  "download_time": "2026-05-15T21:46:38.714231",
+  "package_url": "https://pypi.org/project/dict2css/"
+}

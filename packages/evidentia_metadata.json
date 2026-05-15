@@ -1,11 +1,11 @@
 {
   "name": "evidentia",
-  "version": "0.7.12",
+  "version": "0.9.0",
   "summary": "Open-source GRC tool: gap analysis, risk statements, evidence collection, web UI, and compliance automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evidentia-0.7.12.tar.gz",
-  "download_time": "2026-05-05T00:19:35.285329",
+  "download_filename": "evidentia-0.9.0.tar.gz",
+  "download_time": "2026-05-15T21:46:22.756419",
   "package_url": "https://pypi.org/project/evidentia/"
 }

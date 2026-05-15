@@ -1,11 +1,11 @@
 {
   "name": "remote-desktop-dashboard",
-  "version": "2.7.2",
+  "version": "2.9.2",
   "summary": "Remote Desktop Dashboard — monitor machines and connect via Microsoft Windows App",
   "author": "Operations",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "remote_desktop_dashboard-2.7.2.tar.gz",
-  "download_time": "2026-05-15T15:50:51.417578",
+  "download_filename": "remote_desktop_dashboard-2.9.2.tar.gz",
+  "download_time": "2026-05-15T21:46:04.825504",
   "package_url": "https://pypi.org/project/remote-desktop-dashboard/"
 }
