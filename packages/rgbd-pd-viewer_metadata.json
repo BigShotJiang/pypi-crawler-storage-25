@@ -1,0 +1,11 @@
+{
+  "name": "rgbd-pd-viewer",
+  "version": "0.1.0",
+  "summary": "Open3D GUI viewer for RGB-D frames with point picking and Robot Base Marker for camera-to-world calibration.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rgbd_pd_viewer-0.1.0.tar.gz",
+  "download_time": "2026-05-15T01:46:13.723243",
+  "package_url": "https://pypi.org/project/rgbd-pd-viewer/"
+}

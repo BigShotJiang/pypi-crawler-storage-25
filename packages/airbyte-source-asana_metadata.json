@@ -1,11 +1,11 @@
 {
   "name": "airbyte-source-asana",
-  "version": "1.5.3",
+  "version": "1.7.0",
   "summary": "Source implementation for asana.",
   "author": "Airbyte",
   "license": "ELv2",
   "home_page": "https://airbyte.com",
-  "download_filename": "airbyte_source_asana-1.5.3.tar.gz",
-  "download_time": "2026-04-14T00:04:32.032186",
+  "download_filename": "airbyte_source_asana-1.7.0.tar.gz",
+  "download_time": "2026-05-15T01:45:41.095247",
   "package_url": "https://pypi.org/project/airbyte-source-asana/"
 }

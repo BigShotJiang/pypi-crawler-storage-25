@@ -1,11 +1,11 @@
 {
   "name": "awaithumans",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "The human layer for AI agents. Your agents already await promises. Now they can await humans.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "awaithumans-0.1.2.tar.gz",
-  "download_time": "2026-05-13T00:11:06.120137",
+  "download_filename": "awaithumans-0.1.3.tar.gz",
+  "download_time": "2026-05-15T01:45:44.475263",
   "package_url": "https://pypi.org/project/awaithumans/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "epwforge-mcp",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "MCP server for EPWForge — let Claude and other AI agents generate climate-stressed weather files (EPW, DDY) for any global location. Custom TMYx / AMY synthesis from ERA5, CMIP6 future-climate morphing (4 SSPs, 7 percentiles, 21-model ensemble), urban heat island presets, extreme-event injection (heat waves, cold snaps, humidity & wind compound events with per-event intensity), and wildfire smoke overlays. For EnergyPlus, OpenStudio, IES VE, eQUEST and any EPW-consuming workflow.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "epwforge_mcp-0.1.4.tar.gz",
-  "download_time": "2026-05-14T23:50:18.399967",
+  "download_filename": "epwforge_mcp-0.1.6.tar.gz",
+  "download_time": "2026-05-15T01:45:24.931595",
   "package_url": "https://pypi.org/project/epwforge-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "evav",
-  "version": "1.0.4",
-  "summary": "EVAV Operational Alignment Battery — open-source CLI for matched-pair AI deployment safety auditing",
+  "version": "1.0.6",
+  "summary": "EVAV — AI Code Integrity Platform. Audit AI coding agents against your company policies. Open-source CLI + live API.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "evav-1.0.4.tar.gz",
-  "download_time": "2026-05-11T23:23:05.355344",
+  "download_filename": "evav-1.0.6.tar.gz",
+  "download_time": "2026-05-15T01:46:17.059489",
   "package_url": "https://pypi.org/project/evav/"
 }

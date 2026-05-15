@@ -1,0 +1,11 @@
+{
+  "name": "tsugite-acp",
+  "version": "0.14.1",
+  "summary": "Tsugite plugin: ACP provider routing through claude-agent-acp",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsugite_acp-0.14.1.tar.gz",
+  "download_time": "2026-05-15T01:45:53.981548",
+  "package_url": "https://pypi.org/project/tsugite-acp/"
+}

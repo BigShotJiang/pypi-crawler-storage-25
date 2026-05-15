@@ -1,0 +1,11 @@
+{
+  "name": "octodns-ddns",
+  "version": "0.4.0",
+  "summary": "octoDNS DDNS",
+  "author": "Ross McFarland",
+  "license": "MIT",
+  "home_page": "https://github.com/octodns/octodns-ddns",
+  "download_filename": "octodns_ddns-0.4.0.tar.gz",
+  "download_time": "2026-05-15T01:45:41.733236",
+  "package_url": "https://pypi.org/project/octodns-ddns/"
+}

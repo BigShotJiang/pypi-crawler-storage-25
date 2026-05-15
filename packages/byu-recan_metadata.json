@@ -1,11 +1,11 @@
 {
   "name": "byu-recan",
-  "version": "0.0.0",
+  "version": "0.2.6",
   "summary": "Analyze IDE recording files.",
   "author": "Gordon Bean",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "byu_recan-0.0.0.tar.gz",
-  "download_time": "2026-05-08T23:00:37.462298",
+  "download_filename": "byu_recan-0.2.6.tar.gz",
+  "download_time": "2026-05-15T01:46:09.171891",
   "package_url": "https://pypi.org/project/byu-recan/"
 }

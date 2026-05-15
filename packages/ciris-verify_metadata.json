@@ -1,11 +1,11 @@
 {
   "name": "ciris-verify",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "Python bindings for CIRISVerify hardware-rooted license verification",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ciris_verify-2.1.0.tar.gz",
-  "download_time": "2026-05-14T22:56:26.035046",
+  "download_filename": "ciris_verify-2.1.1.tar.gz",
+  "download_time": "2026-05-15T01:46:04.298569",
   "package_url": "https://pypi.org/project/ciris-verify/"
 }

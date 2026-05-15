@@ -1,11 +1,11 @@
 {
   "name": "bithuman",
-  "version": "1.11.3",
-  "summary": "Real-time avatar engine — 100+ FPS on CPU. Generate lip-synced video, stream live avatars to browsers. 1-2 CPU cores, <200ms latency. ARM, x86, macOS.",
+  "version": "1.17.0",
+  "summary": "Portable C++ avatar runtime — Python bindings via pybind11. Powers the bitHuman Essence pipeline cross-platform.",
   "author": null,
-  "license": "Commercial",
+  "license": "Commercial — see LICENSE file",
   "home_page": null,
-  "download_filename": "bithuman-1.11.3-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2026-05-12T18:28:49.713087",
+  "download_filename": "bithuman-1.17.0-cp313-cp313-macosx_26_0_arm64.whl",
+  "download_time": "2026-05-15T01:45:30.858957",
   "package_url": "https://pypi.org/project/bithuman/"
 }

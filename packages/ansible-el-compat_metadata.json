@@ -1,0 +1,11 @@
+{
+  "name": "ansible-el-compat",
+  "version": "0.1.2",
+  "summary": "Ansible collection carlijoy.compat — backport of ansible.builtin.dnf for EL8 + ansible-core >= 2.17 via /usr/libexec/platform-python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansible_el_compat-0.1.2.tar.gz",
+  "download_time": "2026-05-15T01:45:45.800446",
+  "package_url": "https://pypi.org/project/ansible-el-compat/"
+}

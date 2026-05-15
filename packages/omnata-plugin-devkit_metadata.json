@@ -1,11 +1,11 @@
 {
   "name": "omnata-plugin-devkit",
-  "version": "0.13.2",
+  "version": "0.13.5",
   "summary": null,
   "author": "James Weakley",
   "license": null,
   "home_page": null,
-  "download_filename": "omnata_plugin_devkit-0.13.2.tar.gz",
-  "download_time": "2026-05-13T04:14:55.375105",
+  "download_filename": "omnata_plugin_devkit-0.13.5.tar.gz",
+  "download_time": "2026-05-15T01:45:55.267690",
   "package_url": "https://pypi.org/project/omnata-plugin-devkit/"
 }
