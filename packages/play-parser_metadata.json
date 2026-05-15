@@ -1,0 +1,11 @@
+{
+  "name": "play-parser",
+  "version": "1.0.0",
+  "summary": "Parse dramatic play text into ordered dramatic events.",
+  "author": "Stergios Poularakis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "play_parser-1.0.0.tar.gz",
+  "download_time": "2026-05-15T19:06:07.838110",
+  "package_url": "https://pypi.org/project/play-parser/"
+}

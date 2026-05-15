@@ -1,0 +1,11 @@
+{
+  "name": "keap-core-v2-sdk",
+  "version": "2.0.10",
+  "summary": "Keap API",
+  "author": "Keap",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/infusionsoft/keap-sdk.git",
+  "download_filename": "keap_core_v2_sdk-2.0.10.tar.gz",
+  "download_time": "2026-05-15T19:06:17.777927",
+  "package_url": "https://pypi.org/project/keap-core-v2-sdk/"
+}

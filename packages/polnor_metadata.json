@@ -1,0 +1,11 @@
+{
+  "name": "polnor",
+  "version": "1.0.0",
+  "summary": "Polnor Python SDK — query Iceberg lakehouses, manage notebooks/jobs/models, MLflow-compatible tracking.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "polnor-1.0.0.tar.gz",
+  "download_time": "2026-05-15T19:05:52.917302",
+  "package_url": "https://pypi.org/project/polnor/"
+}

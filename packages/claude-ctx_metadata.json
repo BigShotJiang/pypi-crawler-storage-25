@@ -1,11 +1,11 @@
 {
   "name": "claude-ctx",
-  "version": "1.0.3",
+  "version": "1.0.8",
   "summary": "Skill and agent recommendation system for Claude Code — knowledge graph, wiki, and intake quality gates",
   "author": "Steve Solun",
   "license": null,
   "home_page": null,
-  "download_filename": "claude_ctx-1.0.3.tar.gz",
-  "download_time": "2026-05-10T22:17:17.809145",
+  "download_filename": "claude_ctx-1.0.8.tar.gz",
+  "download_time": "2026-05-15T19:06:01.999693",
   "package_url": "https://pypi.org/project/claude-ctx/"
 }

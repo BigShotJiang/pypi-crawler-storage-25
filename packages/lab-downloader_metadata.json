@@ -1,0 +1,11 @@
+{
+  "name": "lab-downloader",
+  "version": "1.0.0",
+  "summary": "A pip CLI tool to download programs for ML, SDP, and MAD labs",
+  "author": "Lab Downloader Team",
+  "license": "MIT",
+  "home_page": "https://github.com/user/lab-downloader",
+  "download_filename": "lab_downloader-1.0.0.tar.gz",
+  "download_time": "2026-05-15T19:05:53.437159",
+  "package_url": "https://pypi.org/project/lab-downloader/"
+}

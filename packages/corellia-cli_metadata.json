@@ -1,0 +1,11 @@
+{
+  "name": "corellia-cli",
+  "version": "1.1.1",
+  "summary": "A Python CLI framework for project scaffolding and environment synchronization.",
+  "author": "Lorenzo Petrecca",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "corellia_cli-1.1.1.tar.gz",
+  "download_time": "2026-05-15T19:06:03.038505",
+  "package_url": "https://pypi.org/project/corellia-cli/"
+}

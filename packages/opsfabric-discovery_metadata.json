@@ -1,0 +1,11 @@
+{
+  "name": "opsfabric-discovery",
+  "version": "0.3.0",
+  "summary": "Read-only AWS reliability audit. Alarm coverage assessment for ECS, Lambda, RDS, Aurora, and SQS.",
+  "author": "Vaishal Shah",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opsfabric_discovery-0.3.0.tar.gz",
+  "download_time": "2026-05-15T19:06:28.884432",
+  "package_url": "https://pypi.org/project/opsfabric-discovery/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sonos-py",
+  "version": "0.2.1",
+  "summary": "Local Sonos controller: CLI and MCP server, no cloud required",
+  "author": "Jens Rehpöhler",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sonos_py-0.2.1.tar.gz",
+  "download_time": "2026-05-15T19:06:08.355718",
+  "package_url": "https://pypi.org/project/sonos-py/"
+}

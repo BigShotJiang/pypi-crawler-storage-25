@@ -1,0 +1,11 @@
+{
+  "name": "aws-grobid",
+  "version": "0.3.0",
+  "summary": "Deploy GROBID on AWS EC2",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "aws_grobid-0.3.0.tar.gz",
+  "download_time": "2026-05-15T19:05:56.640529",
+  "package_url": "https://pypi.org/project/aws-grobid/"
+}

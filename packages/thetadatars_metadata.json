@@ -1,11 +1,11 @@
 {
   "name": "thetadatars",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "Python wrapper and DuckDB cache for ThetaData option and streaming endpoints.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "thetadatars-0.3.0.tar.gz",
-  "download_time": "2026-05-15T01:45:50.573478",
+  "download_filename": "thetadatars-0.5.0.tar.gz",
+  "download_time": "2026-05-15T19:05:58.286171",
   "package_url": "https://pypi.org/project/thetadatars/"
 }

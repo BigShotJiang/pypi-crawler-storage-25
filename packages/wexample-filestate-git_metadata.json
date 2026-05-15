@@ -1,11 +1,11 @@
 {
   "name": "wexample-filestate-git",
-  "version": "0.0.60",
+  "version": "7.0.2",
   "summary": "An extension for \"filestate\" package, which adds GIT management operations.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wexample_filestate_git-0.0.60.tar.gz",
-  "download_time": "2026-03-30T16:42:04.345674",
+  "download_filename": "wexample_filestate_git-7.0.2.tar.gz",
+  "download_time": "2026-05-15T19:06:37.745988",
   "package_url": "https://pypi.org/project/wexample-filestate-git/"
 }
