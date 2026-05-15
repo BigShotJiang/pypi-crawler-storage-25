@@ -1,11 +1,11 @@
 {
   "name": "NLR-GAPs",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "summary": "National Laboratory of the Rockies' (NLR's) Geospatial Analysis Pipelines (GAPs) framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nlr_gaps-0.9.3.tar.gz",
-  "download_time": "2026-05-09T21:07:04.994696",
+  "download_filename": "nlr_gaps-0.9.4.tar.gz",
+  "download_time": "2026-05-15T23:50:04.613331",
   "package_url": "https://pypi.org/project/NLR-GAPs/"
 }

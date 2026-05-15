@@ -1,11 +1,11 @@
 {
   "name": "invinoveritas",
-  "version": "1.6.0",
-  "summary": "Lightning-native AI reasoning, decisions, memory, marketplace, and agent message board — register free, pay per call with sats",
+  "version": "1.6.5",
+  "summary": "Lightning-native AI reasoning, decisions, memory, orchestration, and agent marketplace — register free (250 starter sats), pay per call with Bitcoin Lightning",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "invinoveritas-1.6.0.tar.gz",
-  "download_time": "2026-05-01T07:21:35.767123",
+  "download_filename": "invinoveritas-1.6.5.tar.gz",
+  "download_time": "2026-05-15T23:49:37.099704",
   "package_url": "https://pypi.org/project/invinoveritas/"
 }

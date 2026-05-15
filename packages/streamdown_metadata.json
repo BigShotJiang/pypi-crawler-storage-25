@@ -1,11 +1,11 @@
 {
   "name": "streamdown",
-  "version": "0.36.0",
+  "version": "0.36.2",
   "summary": "A streaming markdown renderer for modern terminals with syntax highlighting",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "streamdown-0.36.0.tar.gz",
-  "download_time": "2026-04-15T21:43:58.290409",
+  "download_filename": "streamdown-0.36.2.tar.gz",
+  "download_time": "2026-05-15T23:49:33.626573",
   "package_url": "https://pypi.org/project/streamdown/"
 }

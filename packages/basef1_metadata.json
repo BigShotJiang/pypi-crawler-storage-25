@@ -1,11 +1,11 @@
 {
   "name": "basef1",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Python client for the Jolpica F1 API (Ergast-compatible JSON)",
   "author": "Göktuğ Öcal",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "basef1-0.1.0.tar.gz",
-  "download_time": "2026-05-12T22:59:07.753556",
+  "download_filename": "basef1-0.2.0.tar.gz",
+  "download_time": "2026-05-15T23:49:49.344668",
   "package_url": "https://pypi.org/project/basef1/"
 }

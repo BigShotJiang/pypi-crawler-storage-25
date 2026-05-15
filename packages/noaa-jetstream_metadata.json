@@ -1,0 +1,11 @@
+{
+  "name": "noaa-jetstream",
+  "version": "0.1.17",
+  "summary": "JetStream: Cloud Data Manager - A comprehensive tool for managing local-to-cloud uploads with queue management, statistics, and folder analysis",
+  "author": "Michael Akridge",
+  "license": "MIT",
+  "home_page": "https://github.com/MichaelAkridge-NOAA/jetstream",
+  "download_filename": "noaa_jetstream-0.1.17.tar.gz",
+  "download_time": "2026-05-15T23:49:41.058457",
+  "package_url": "https://pypi.org/project/noaa-jetstream/"
+}

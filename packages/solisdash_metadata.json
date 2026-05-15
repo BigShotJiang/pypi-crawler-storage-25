@@ -1,11 +1,11 @@
 {
   "name": "solisdash",
-  "version": "0.3.2",
+  "version": "0.7.1",
   "summary": "Self-hosted dashboard for the SolisCloud (Ginlong Solis) platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "solisdash-0.3.2.tar.gz",
-  "download_time": "2026-05-15T13:17:29.083479",
+  "download_filename": "solisdash-0.7.1.tar.gz",
+  "download_time": "2026-05-15T23:50:22.747061",
   "package_url": "https://pypi.org/project/solisdash/"
 }

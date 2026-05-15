@@ -1,0 +1,11 @@
+{
+  "name": "django-filtering-ui",
+  "version": "0.0.11",
+  "summary": "Allows users to filter Django models",
+  "author": "The Shadowserver Foundation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_filtering_ui-0.0.11.tar.gz",
+  "download_time": "2026-05-15T23:49:41.696268",
+  "package_url": "https://pypi.org/project/django-filtering-ui/"
+}

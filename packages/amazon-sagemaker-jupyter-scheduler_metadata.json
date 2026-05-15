@@ -1,0 +1,11 @@
+{
+  "name": "amazon-sagemaker-jupyter-scheduler",
+  "version": "3.2.2",
+  "summary": "Amazon SageMaker Jupyter Scheduler based on the https://pypi.org/project/jupyter-scheduler/",
+  "author": "Amazon",
+  "license": "Apache 2.0",
+  "home_page": "https://aws.amazon.com/sagemaker/",
+  "download_filename": "amazon_sagemaker_jupyter_scheduler-3.2.2.tar.gz",
+  "download_time": "2026-05-15T23:49:46.109728",
+  "package_url": "https://pypi.org/project/amazon-sagemaker-jupyter-scheduler/"
+}
