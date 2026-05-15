@@ -1,11 +1,11 @@
 {
   "name": "simulaqron",
-  "version": "4.1.1",
+  "version": "4.1.2",
   "summary": "A simulator for developing Quantum Internet software",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simulaqron-4.1.1.tar.gz",
-  "download_time": "2026-04-23T10:04:49.645655",
+  "download_filename": "simulaqron-4.1.2.tar.gz",
+  "download_time": "2026-05-15T15:51:14.687373",
   "package_url": "https://pypi.org/project/simulaqron/"
 }

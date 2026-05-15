@@ -1,11 +1,11 @@
 {
   "name": "mahanai",
-  "version": "7.2.1",
+  "version": "7.5.0",
   "summary": "MahanAI: terminal AI agent for NVIDIA NIM (OpenAI-compatible), tools, streaming, /api-key, safety prompts.",
   "author": "MahanAI",
   "license": null,
   "home_page": null,
-  "download_filename": "mahanai-7.2.1.tar.gz",
-  "download_time": "2026-05-09T10:46:44.795448",
+  "download_filename": "mahanai-7.5.0.tar.gz",
+  "download_time": "2026-05-15T15:51:04.803070",
   "package_url": "https://pypi.org/project/mahanai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "optuna",
+  "version": "4.8.0",
+  "summary": "A hyperparameter optimization framework",
+  "author": "Takuya Akiba",
+  "license": null,
+  "home_page": null,
+  "download_filename": "optuna-4.8.0.tar.gz",
+  "download_time": "2026-05-15T15:50:53.044812",
+  "package_url": "https://pypi.org/project/optuna/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "eval-toolkit",
+  "version": "0.27.2",
+  "summary": "Reusable evaluation contracts for binary classification: metrics, bootstrap CIs, calibration, artifacts, and evidence gates.",
+  "author": "Brandon Behring",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eval_toolkit-0.27.2.tar.gz",
+  "download_time": "2026-05-15T15:51:11.024632",
+  "package_url": "https://pypi.org/project/eval-toolkit/"
+}

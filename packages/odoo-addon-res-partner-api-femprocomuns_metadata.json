@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-res-partner-api-femprocomuns",
+  "version": "16.0.1.0.1.2",
+  "summary": "Adapt cooperator API module to Femprocomuns",
+  "author": "Coopdevs Treball SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://git.coopdevs.org/coopdevs/odoo/odoo-addons/odoo-femprocomuns",
+  "download_filename": "odoo_addon_res_partner_api_femprocomuns-16.0.1.0.1.2.tar.gz",
+  "download_time": "2026-05-15T15:51:10.001963",
+  "package_url": "https://pypi.org/project/odoo-addon-res-partner-api-femprocomuns/"
+}

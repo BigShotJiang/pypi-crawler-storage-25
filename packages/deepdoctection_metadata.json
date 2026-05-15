@@ -1,11 +1,11 @@
 {
   "name": "deepdoctection",
-  "version": "1.2.9",
+  "version": "1.2.11",
   "summary": "Repository for Document AI - server/inference core package",
   "author": "Dr. Janis Meyer",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "deepdoctection-1.2.9.tar.gz",
-  "download_time": "2026-05-02T21:17:13.470342",
+  "download_filename": "deepdoctection-1.2.11.tar.gz",
+  "download_time": "2026-05-15T15:50:35.409289",
   "package_url": "https://pypi.org/project/deepdoctection/"
 }

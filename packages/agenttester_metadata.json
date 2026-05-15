@@ -1,11 +1,11 @@
 {
   "name": "agenttester",
-  "version": "0.10.0",
+  "version": "0.14.0",
   "summary": "Run a prompt against multiple coding agents in parallel and compare results",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agenttester-0.10.0.tar.gz",
-  "download_time": "2026-05-14T18:28:40.745661",
+  "download_filename": "agenttester-0.14.0.tar.gz",
+  "download_time": "2026-05-15T15:50:48.231649",
   "package_url": "https://pypi.org/project/agenttester/"
 }

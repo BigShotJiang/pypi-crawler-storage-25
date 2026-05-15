@@ -1,11 +1,11 @@
 {
   "name": "tdstone2",
-  "version": "0.1.9.7",
+  "version": "0.1.9.9",
   "summary": "A package for Script Table Operator that applies set theory to machine learning in Python.",
   "author": "Denis Molin",
   "license": null,
   "home_page": null,
-  "download_filename": "tdstone2-0.1.9.7-py3-none-any.whl",
-  "download_time": "2026-05-15T08:43:39.758106",
+  "download_filename": "tdstone2-0.1.9.9-py3-none-any.whl",
+  "download_time": "2026-05-15T15:50:42.441888",
   "package_url": "https://pypi.org/project/tdstone2/"
 }

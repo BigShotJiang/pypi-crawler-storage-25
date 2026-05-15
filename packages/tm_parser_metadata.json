@@ -1,0 +1,11 @@
+{
+  "name": "tm_parser",
+  "version": "0.24.0",
+  "summary": "Parse Troopmaster export files into TOML, YAML, or JSON",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "tm_parser-0.24.0.tar.gz",
+  "download_time": "2026-05-15T15:50:58.948854",
+  "package_url": "https://pypi.org/project/tm_parser/"
+}

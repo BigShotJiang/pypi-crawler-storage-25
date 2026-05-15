@@ -1,0 +1,11 @@
+{
+  "name": "bili-scraper",
+  "version": "0.2.2",
+  "summary": "Bilibili website crawler that can download videos, dm, comments, articles, and more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bili_scraper-0.2.2.tar.gz",
+  "download_time": "2026-05-15T15:51:10.511553",
+  "package_url": "https://pypi.org/project/bili-scraper/"
+}

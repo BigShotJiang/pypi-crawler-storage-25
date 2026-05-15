@@ -1,0 +1,11 @@
+{
+  "name": "pennsieve-llm",
+  "version": "0.4.1",
+  "summary": "Thin configuration helper for the Pennsieve LLM Governor — returns a pre-configured anthropic.Anthropic client.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pennsieve_llm-0.4.1.tar.gz",
+  "download_time": "2026-05-15T15:50:41.354319",
+  "package_url": "https://pypi.org/project/pennsieve-llm/"
+}

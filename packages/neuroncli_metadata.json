@@ -1,11 +1,11 @@
 {
   "name": "neuroncli",
-  "version": "4.0.6",
+  "version": "6.2.0",
   "summary": "NeuronCLI - AI-powered terminal assistant",
   "author": "RAHUL-DevelopeRR",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neuroncli-4.0.6-py3-none-any.whl",
-  "download_time": "2026-05-06T13:22:42.007699",
+  "download_filename": "neuroncli-6.2.0.tar.gz",
+  "download_time": "2026-05-15T15:50:44.957693",
   "package_url": "https://pypi.org/project/neuroncli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "datamend",
+  "version": "1.1.1",
+  "summary": "The unified data repair, validation, drift detection, and failure tracing library for production ML",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datamend-1.1.1.tar.gz",
+  "download_time": "2026-05-15T15:51:01.572914",
+  "package_url": "https://pypi.org/project/datamend/"
+}

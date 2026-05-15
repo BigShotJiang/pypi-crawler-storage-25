@@ -1,11 +1,11 @@
 {
   "name": "mozilla-jetstream",
-  "version": "2026.5.2",
+  "version": "2026.5.3",
   "summary": "Runs a thing that analyzes experiments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mozilla_jetstream-2026.5.2.tar.gz",
-  "download_time": "2026-05-13T22:04:10.585839",
+  "download_filename": "mozilla_jetstream-2026.5.3.tar.gz",
+  "download_time": "2026-05-15T15:51:13.144239",
   "package_url": "https://pypi.org/project/mozilla-jetstream/"
 }

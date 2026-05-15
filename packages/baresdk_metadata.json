@@ -1,11 +1,11 @@
 {
   "name": "baresdk",
-  "version": "1.32.0",
+  "version": "2.1.0",
   "summary": "Python binding for baresdk — SIP/WebRTC/NAT SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "baresdk-1.32.0-py3-none-manylinux_2_34_x86_64.whl",
-  "download_time": "2026-05-15T13:17:08.167285",
+  "download_filename": "baresdk-2.1.0-py3-none-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-05-15T15:50:46.022358",
   "package_url": "https://pypi.org/project/baresdk/"
 }

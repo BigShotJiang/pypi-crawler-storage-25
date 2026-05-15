@@ -1,11 +1,11 @@
 {
   "name": "wash-alpha",
-  "version": "0.67.2",
+  "version": "0.67.3",
   "summary": "Cross-account wash sale detection for stocks, options, and ETFs — local-first, IRS Pub 550 rules, with a tax-harvest planner and pre-trade simulator.",
   "author": "Alex Chen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wash_alpha-0.67.2.tar.gz",
-  "download_time": "2026-05-14T16:34:40.921030",
+  "download_filename": "wash_alpha-0.67.3.tar.gz",
+  "download_time": "2026-05-15T15:50:39.047608",
   "package_url": "https://pypi.org/project/wash-alpha/"
 }
