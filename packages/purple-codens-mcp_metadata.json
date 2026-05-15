@@ -1,0 +1,11 @@
+{
+  "name": "purple-codens-mcp",
+  "version": "0.3.0",
+  "summary": "MCP server for Purple Codens — AI Development Orchestration. Lets coding agents (Claude Code etc.) initialize projects, link repositories, and manage workflows.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "purple_codens_mcp-0.3.0.tar.gz",
+  "download_time": "2026-05-15T11:51:46.667330",
+  "package_url": "https://pypi.org/project/purple-codens-mcp/"
+}

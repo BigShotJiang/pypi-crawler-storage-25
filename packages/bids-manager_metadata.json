@@ -1,0 +1,11 @@
+{
+  "name": "bids-manager",
+  "version": "1.0.6",
+  "summary": "Schema-driven BIDS converter, curator, and editor (re-imagination of BIDS-Manager v0.2.5)",
+  "author": "Jochem Rieger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bids_manager-1.0.6.tar.gz",
+  "download_time": "2026-05-15T11:52:11.150615",
+  "package_url": "https://pypi.org/project/bids-manager/"
+}

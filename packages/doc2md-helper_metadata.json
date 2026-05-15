@@ -1,0 +1,11 @@
+{
+  "name": "doc2md-helper",
+  "version": "0.1.2",
+  "summary": "Document converter for converting PDF, DOCX, Excel to Markdown, with MCP support for Claude Code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "doc2md_helper-0.1.2.tar.gz",
+  "download_time": "2026-05-15T11:52:23.334960",
+  "package_url": "https://pypi.org/project/doc2md-helper/"
+}

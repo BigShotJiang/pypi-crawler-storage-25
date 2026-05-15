@@ -1,11 +1,11 @@
 {
   "name": "huggingface-hub",
-  "version": "1.12.2",
+  "version": "1.15.0",
   "summary": "Client library to download and publish models, datasets and other repos on the huggingface.co hub",
   "author": "Hugging Face, Inc.",
   "license": "Apache-2.0",
   "home_page": "https://github.com/huggingface/huggingface_hub",
-  "download_filename": "huggingface_hub-1.12.2.tar.gz",
-  "download_time": "2026-04-29T09:54:52.046317",
+  "download_filename": "huggingface_hub-1.15.0.tar.gz",
+  "download_time": "2026-05-15T11:51:59.714701",
   "package_url": "https://pypi.org/project/huggingface-hub/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-letter-operating-unit",
+  "version": "14.0.1.2.0",
+  "summary": "Letter Management + Operating Unit Integration",
+  "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_letter_operating_unit-14.0.1.2.0-py3-none-any.whl",
+  "download_time": "2026-05-15T11:52:04.594905",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-letter-operating-unit/"
+}

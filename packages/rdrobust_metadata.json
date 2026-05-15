@@ -1,0 +1,11 @@
+{
+  "name": "rdrobust",
+  "version": "2.0.0",
+  "summary": "Implements local polynomial Regression Discontinuity (RD) point estimators with robust bias-corrected confidence intervals and inference procedures.",
+  "author": "Sebastian Calonico, Matias D. Cattaneo, Max H. Farrell, Ricardo Masini, Rocio Titiunik",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/rdpackages/rdrobust",
+  "download_filename": "rdrobust-2.0.0.tar.gz",
+  "download_time": "2026-05-15T11:52:08.420199",
+  "package_url": "https://pypi.org/project/rdrobust/"
+}

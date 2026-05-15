@@ -1,0 +1,11 @@
+{
+  "name": "rinzer",
+  "version": "1.0.3",
+  "summary": "几何公理体系的连通性分析器 + 多路径证明发现器 + 形式化验证前端",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rinzer-1.0.3.tar.gz",
+  "download_time": "2026-05-15T11:52:08.962129",
+  "package_url": "https://pypi.org/project/rinzer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-letter-work-log",
+  "version": "14.0.1.3.0",
+  "summary": "Letter Management - Work Log Integration",
+  "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_letter_work_log-14.0.1.3.0-py3-none-any.whl",
+  "download_time": "2026-05-15T11:52:05.679110",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-letter-work-log/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "autobot-swarm",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Hierarchical multi-cluster coding swarm CLI",
   "author": "Daniel Deshmukh",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/DanielDeshmukh",
-  "download_filename": "autobot_swarm-0.1.1.tar.gz",
-  "download_time": "2026-05-13T16:53:46.129291",
+  "download_filename": "autobot_swarm-0.1.3.tar.gz",
+  "download_time": "2026-05-15T11:51:50.999171",
   "package_url": "https://pypi.org/project/autobot-swarm/"
 }

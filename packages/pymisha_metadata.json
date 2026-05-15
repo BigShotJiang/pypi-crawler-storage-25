@@ -1,11 +1,11 @@
 {
   "name": "pymisha",
-  "version": "0.1.61",
+  "version": "0.1.66",
   "summary": "Python interface for misha genomic databases with C++ streaming backends",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pymisha-0.1.61.tar.gz",
-  "download_time": "2026-05-15T08:43:52.302188",
+  "download_filename": "pymisha-0.1.66.tar.gz",
+  "download_time": "2026-05-15T11:52:12.404169",
   "package_url": "https://pypi.org/project/pymisha/"
 }

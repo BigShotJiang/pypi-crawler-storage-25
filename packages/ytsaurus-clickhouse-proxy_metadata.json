@@ -1,0 +1,11 @@
+{
+  "name": "ytsaurus-clickhouse-proxy",
+  "version": "0.1.0",
+  "summary": "FastAPI proxy that exposes YTsaurus CHYT as a ClickHouse HTTP/JDBC endpoint for DBeaver, DataGrip and other SQL clients",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ytsaurus_clickhouse_proxy-0.1.0.tar.gz",
+  "download_time": "2026-05-15T11:51:52.082633",
+  "package_url": "https://pypi.org/project/ytsaurus-clickhouse-proxy/"
+}

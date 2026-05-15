@@ -1,0 +1,11 @@
+{
+  "name": "code-context-mcp",
+  "version": "1.10.1",
+  "summary": "MCP server with local RAG for Claude Code repo context",
+  "author": "code-context contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "code_context_mcp-1.10.1.tar.gz",
+  "download_time": "2026-05-15T11:52:09.503608",
+  "package_url": "https://pypi.org/project/code-context-mcp/"
+}
