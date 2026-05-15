@@ -1,0 +1,11 @@
+{
+  "name": "diskii",
+  "version": "0.4.17",
+  "summary": "diskii - Apple II Disk Image Tool & Library",
+  "author": "Seth Kushniryk",
+  "license": "ISC",
+  "home_page": "https://git.sr.ht/~sethkush/diskii",
+  "download_filename": "diskii-0.4.17.tar.gz",
+  "download_time": "2026-05-15T22:50:41.600884",
+  "package_url": "https://pypi.org/project/diskii/"
+}

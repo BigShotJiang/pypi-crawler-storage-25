@@ -1,11 +1,11 @@
 {
   "name": "raze-cli",
-  "version": "1.0.3",
+  "version": "1.0.9",
   "summary": "RAZE CLI - Local-first AI workforce command line interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "raze_cli-1.0.3.tar.gz",
-  "download_time": "2026-04-12T17:24:52.896786",
+  "download_filename": "raze_cli-1.0.9.tar.gz",
+  "download_time": "2026-05-15T22:50:42.627341",
   "package_url": "https://pypi.org/project/raze-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "atendentepro",
-  "version": "0.28.0",
+  "version": "0.43.0",
   "summary": "Framework de orquestração de agentes IA com tom e estilo customizáveis. Integra documentos (RAG), APIs e bancos de dados em uma plataforma inteligente multi-agente.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "atendentepro-0.28.0-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2026-05-07T23:46:22.562930",
+  "download_filename": "atendentepro-0.43.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-05-15T22:50:25.056366",
   "package_url": "https://pypi.org/project/atendentepro/"
 }

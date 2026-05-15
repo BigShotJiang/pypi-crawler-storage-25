@@ -1,0 +1,11 @@
+{
+  "name": "readless-mcp",
+  "version": "1.1.0",
+  "summary": "Claude Code plugin (MCP server) that speaks status, summaries, and blockers via edge-tts (free, online, bilingual) with optional OpenAI / ElevenLabs / OS-native backends.",
+  "author": "Justin Wang",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "readless_mcp-1.1.0.tar.gz",
+  "download_time": "2026-05-15T22:50:16.998369",
+  "package_url": "https://pypi.org/project/readless-mcp/"
+}
