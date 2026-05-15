@@ -1,0 +1,11 @@
+{
+  "name": "huehub-py",
+  "version": "0.3.1",
+  "summary": "Local control of the Philips Hue Bridge via CLIP API v2: library, CLI, and MCP server",
+  "author": "Jens Rehpöhler",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "huehub_py-0.3.1.tar.gz",
+  "download_time": "2026-05-15T08:43:49.573071",
+  "package_url": "https://pypi.org/project/huehub-py/"
+}

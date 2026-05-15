@@ -1,0 +1,11 @@
+{
+  "name": "muffin",
+  "version": "1.10.0",
+  "summary": "Muffin is a fast, simple and asyncronous web-framework for Python 3 (asyncio, trio, curio)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "muffin-1.10.0.tar.gz",
+  "download_time": "2026-05-15T08:43:13.047539",
+  "package_url": "https://pypi.org/project/muffin/"
+}

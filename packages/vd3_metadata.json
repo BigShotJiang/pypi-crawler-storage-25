@@ -1,11 +1,11 @@
 {
   "name": "vd3",
-  "version": "0.2.2",
+  "version": "0.3.1",
   "summary": "DVC-backed media database for computer vision and ML developers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vd3-0.2.2.tar.gz",
-  "download_time": "2026-05-12T18:28:57.023114",
+  "download_filename": "vd3-0.3.1.tar.gz",
+  "download_time": "2026-05-15T08:44:00.006235",
   "package_url": "https://pypi.org/project/vd3/"
 }

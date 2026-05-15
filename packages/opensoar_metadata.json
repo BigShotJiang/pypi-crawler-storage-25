@@ -1,0 +1,11 @@
+{
+  "name": "opensoar",
+  "version": "2.1.2",
+  "summary": "Open source python library for glider flight analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/glidergeek/opensoar",
+  "download_filename": "opensoar-2.1.2.tar.gz",
+  "download_time": "2026-05-15T08:43:34.112997",
+  "package_url": "https://pypi.org/project/opensoar/"
+}

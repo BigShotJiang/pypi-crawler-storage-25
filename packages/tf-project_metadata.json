@@ -1,0 +1,11 @@
+{
+  "name": "tf-project",
+  "version": "0.1.2",
+  "summary": "Custom Terraform project wrapper used to provision infrastructure.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tf_project-0.1.2.tar.gz",
+  "download_time": "2026-05-15T08:43:28.220367",
+  "package_url": "https://pypi.org/project/tf-project/"
+}

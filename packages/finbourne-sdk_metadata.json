@@ -1,11 +1,11 @@
 {
   "name": "finbourne-sdk",
-  "version": "0.0.23",
+  "version": "0.1.18",
   "summary": "This is the Python SDK for all of FINBOURNE's APIs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "finbourne_sdk-0.0.23.tar.gz",
-  "download_time": "2026-04-09T09:10:34.856051",
+  "download_filename": "finbourne_sdk-0.1.18.tar.gz",
+  "download_time": "2026-05-15T08:43:52.854357",
   "package_url": "https://pypi.org/project/finbourne-sdk/"
 }

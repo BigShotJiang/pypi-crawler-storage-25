@@ -1,11 +1,11 @@
 {
   "name": "django-completion",
-  "version": "0.2.3",
-  "summary": "Shell autocomplete and intelligent suggestions for Django's manage.py",
+  "version": "0.2.8",
+  "summary": "Tab completion for Django's manage.py — commands, app labels, options, and migration targets in bash and zsh",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_completion-0.2.3.tar.gz",
-  "download_time": "2026-05-08T14:33:43.590447",
+  "download_filename": "django_completion-0.2.8.tar.gz",
+  "download_time": "2026-05-15T08:43:45.185442",
   "package_url": "https://pypi.org/project/django-completion/"
 }

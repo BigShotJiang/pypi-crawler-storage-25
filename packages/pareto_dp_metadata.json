@@ -1,11 +1,11 @@
 {
   "name": "pareto_dp",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Multi-objective optimization using dynamic programming to find Pareto-optimal solutions",
   "author": "txart",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pareto_dp-0.1.6.tar.gz",
-  "download_time": "2026-05-15T05:53:05.987309",
+  "download_filename": "pareto_dp-0.1.7.tar.gz",
+  "download_time": "2026-05-15T08:43:53.397543",
   "package_url": "https://pypi.org/project/pareto_dp/"
 }

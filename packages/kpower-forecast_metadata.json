@@ -1,11 +1,11 @@
 {
   "name": "kpower-forecast",
-  "version": "2026.5.3",
+  "version": "2026.5.4",
   "summary": "Solar production and power consumption forecasting package.",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "kpower_forecast-2026.5.3.tar.gz",
-  "download_time": "2026-05-11T19:21:27.473302",
+  "download_filename": "kpower_forecast-2026.5.4.tar.gz",
+  "download_time": "2026-05-15T08:43:49.030731",
   "package_url": "https://pypi.org/project/kpower-forecast/"
 }

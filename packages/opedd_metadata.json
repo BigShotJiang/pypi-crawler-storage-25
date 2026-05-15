@@ -1,0 +1,11 @@
+{
+  "name": "opedd",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for the Opedd content licensing API (buyer-side)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opedd-0.1.0.tar.gz",
+  "download_time": "2026-05-15T08:43:59.462998",
+  "package_url": "https://pypi.org/project/opedd/"
+}

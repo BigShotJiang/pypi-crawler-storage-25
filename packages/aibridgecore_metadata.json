@@ -1,11 +1,11 @@
 {
   "name": "aibridgecore",
-  "version": "1.5.8",
+  "version": "1.5.14",
   "summary": "Bridge for LLM\"s",
   "author": "Ashish Tilekar",
   "license": "MIT",
   "home_page": "https://github.com/23ventures/aibridge-core",
-  "download_filename": "aibridgecore-1.5.8.tar.gz",
-  "download_time": "2026-04-03T10:29:43.489016",
+  "download_filename": "aibridgecore-1.5.14.tar.gz",
+  "download_time": "2026-05-15T08:43:45.732727",
   "package_url": "https://pypi.org/project/aibridgecore/"
 }

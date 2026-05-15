@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-pds20220301",
-  "version": "5.1.0",
+  "version": "5.1.3",
   "summary": "Alibaba Cloud pds (20220301) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_pds20220301-5.1.0.tar.gz",
-  "download_time": "2026-04-29T09:55:10.691369",
+  "download_filename": "alibabacloud_pds20220301-5.1.3.tar.gz",
+  "download_time": "2026-05-15T08:43:39.213642",
   "package_url": "https://pypi.org/project/alibabacloud-pds20220301/"
 }

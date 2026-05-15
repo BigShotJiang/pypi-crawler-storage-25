@@ -1,11 +1,11 @@
 {
   "name": "taprun",
-  "version": "0.16.2",
+  "version": "0.16.5",
   "summary": "Compile your AI agent's browser-acting trajectory into a deterministic program that replays at zero LLM tokens. CLI + Python SDK.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "taprun-0.16.2.tar.gz",
-  "download_time": "2026-05-13T04:14:25.161542",
+  "download_filename": "taprun-0.16.5.tar.gz",
+  "download_time": "2026-05-15T08:43:43.012731",
   "package_url": "https://pypi.org/project/taprun/"
 }

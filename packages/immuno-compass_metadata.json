@@ -1,0 +1,11 @@
+{
+  "name": "immuno-compass",
+  "version": "2.5.2",
+  "summary": "COMPASS: Generalizable AI predicts immunotherapy outcomes across cancers and treatments.",
+  "author": "WanXiang Shen",
+  "license": null,
+  "home_page": "https://github.com/mims-harvard/COMPASS/tree/main",
+  "download_filename": "immuno_compass-2.5.2.tar.gz",
+  "download_time": "2026-05-15T08:43:37.001373",
+  "package_url": "https://pypi.org/project/immuno-compass/"
+}
