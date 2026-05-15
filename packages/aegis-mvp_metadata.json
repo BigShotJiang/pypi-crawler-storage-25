@@ -1,11 +1,11 @@
 {
   "name": "aegis-mvp",
-  "version": "0.2.0",
-  "summary": "Aegis ATV — Action Firewall + cryptographic audit chain for Claude Code (and OpenClaw, preview)",
+  "version": "0.3.3",
+  "summary": "Aegis ATV — Action Firewall + cryptographic audit chain for Claude Code and OpenClaw",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aegis_mvp-0.2.0-py3-none-any.whl",
-  "download_time": "2026-05-09T14:04:10.153397",
+  "download_filename": "aegis_mvp-0.3.3.tar.gz",
+  "download_time": "2026-05-15T05:53:35.498476",
   "package_url": "https://pypi.org/project/aegis-mvp/"
 }

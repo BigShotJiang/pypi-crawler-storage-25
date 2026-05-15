@@ -1,11 +1,11 @@
 {
   "name": "aegrail",
-  "version": "0.2.3",
+  "version": "0.2.6",
   "summary": "The runtime contract for AI agents in production.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aegrail-0.2.3.tar.gz",
-  "download_time": "2026-05-14T04:27:34.946885",
+  "download_filename": "aegrail-0.2.6.tar.gz",
+  "download_time": "2026-05-15T05:53:03.388540",
   "package_url": "https://pypi.org/project/aegrail/"
 }

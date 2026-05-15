@@ -1,0 +1,11 @@
+{
+  "name": "atomr-agents",
+  "version": "0.11.0",
+  "summary": "Composable agentic framework on top of atomr actors and atomr-infer.",
+  "author": "atomr-agents contributors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/rustakka/atomr-agents",
+  "download_filename": "atomr_agents-0.11.0.tar.gz",
+  "download_time": "2026-05-15T05:53:39.760303",
+  "package_url": "https://pypi.org/project/atomr-agents/"
+}

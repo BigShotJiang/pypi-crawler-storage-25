@@ -1,11 +1,11 @@
 {
   "name": "gladekit-mcp",
-  "version": "0.5.2",
+  "version": "0.6.2",
   "summary": "MCP server for Unity game development — connect Cursor, Claude Code, Windsurf, and other AI clients to your Unity Editor.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gladekit_mcp-0.5.2.tar.gz",
-  "download_time": "2026-05-10T23:26:28.969558",
+  "download_filename": "gladekit_mcp-0.6.2.tar.gz",
+  "download_time": "2026-05-15T05:53:38.154868",
   "package_url": "https://pypi.org/project/gladekit-mcp/"
 }

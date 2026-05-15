@@ -1,11 +1,11 @@
 {
   "name": "soapix",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "A tolerant, self-documenting Python SOAP client library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "soapix-0.5.1.tar.gz",
-  "download_time": "2026-04-10T07:06:21.395189",
+  "download_filename": "soapix-0.5.2.tar.gz",
+  "download_time": "2026-05-15T05:53:42.372136",
   "package_url": "https://pypi.org/project/soapix/"
 }

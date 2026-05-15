@@ -1,0 +1,11 @@
+{
+  "name": "governance-core",
+  "version": "0.1.1",
+  "summary": "Reusable multi-agent governance infrastructure (hooks + proposal + wrap-up + constitution iteration) extracted from agent-core (P-0059).",
+  "author": "agent-core core agent",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "governance_core-0.1.1.tar.gz",
+  "download_time": "2026-05-15T05:53:18.134071",
+  "package_url": "https://pypi.org/project/governance-core/"
+}

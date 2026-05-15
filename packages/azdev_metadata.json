@@ -1,0 +1,11 @@
+{
+  "name": "azdev",
+  "version": "0.2.10",
+  "summary": "Microsoft Azure CLI Developer Tools",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": "https://github.com/Azure/azure-cli-dev-tools",
+  "download_filename": "azdev-0.2.10.tar.gz",
+  "download_time": "2026-05-15T05:53:36.541680",
+  "package_url": "https://pypi.org/project/azdev/"
+}

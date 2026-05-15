@@ -1,0 +1,11 @@
+{
+  "name": "multi-agent-bootstrap",
+  "version": "0.2.1",
+  "summary": "Cookiecutter-based bootstrap CLI for new multi-agent Claude Code projects (companion to governance-core; P-0059).",
+  "author": "agent-core core agent",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "multi_agent_bootstrap-0.2.1.tar.gz",
+  "download_time": "2026-05-15T05:53:17.613195",
+  "package_url": "https://pypi.org/project/multi-agent-bootstrap/"
+}

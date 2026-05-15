@@ -1,11 +1,11 @@
 {
   "name": "pyludusavi",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A robust, type-safe Python wrapper for the Ludusavi game backup tool.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyludusavi-0.2.2.tar.gz",
-  "download_time": "2026-05-14T20:25:37.579845",
+  "download_filename": "pyludusavi-0.2.3.tar.gz",
+  "download_time": "2026-05-15T05:53:40.279667",
   "package_url": "https://pypi.org/project/pyludusavi/"
 }
