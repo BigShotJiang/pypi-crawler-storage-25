@@ -1,0 +1,11 @@
+{
+  "name": "sxlaep",
+  "version": "1.0.3",
+  "summary": "sxLaep: Rapid Enzyme/Non-Enzyme Prediction using sequence features and XGBoost",
+  "author": "labxscut",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sxlaep-1.0.3.tar.gz",
+  "download_time": "2026-05-15T13:17:34.252351",
+  "package_url": "https://pypi.org/project/sxlaep/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "eplace",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "ePLACE: environmental Phylogenetic Localisation and Clade Estimation - A library for analyzing eDNA sequences",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eplace-0.1.6.tar.gz",
-  "download_time": "2026-05-15T08:43:51.754267",
+  "download_filename": "eplace-0.1.7.tar.gz",
+  "download_time": "2026-05-15T13:17:06.594480",
   "package_url": "https://pypi.org/project/eplace/"
 }

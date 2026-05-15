@@ -1,11 +1,11 @@
 {
   "name": "harbor-spec",
-  "version": "1.4.0",
+  "version": "1.4.4",
   "summary": "Harbor-spec: context governance engine for AI coding, with contract drift detection, DDT validation, workflow facades, L2 README generation, module capsules, and advisory health checks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "harbor_spec-1.4.0.tar.gz",
-  "download_time": "2026-05-11T08:17:36.940707",
+  "download_filename": "harbor_spec-1.4.4.tar.gz",
+  "download_time": "2026-05-15T13:16:57.750580",
   "package_url": "https://pypi.org/project/harbor-spec/"
 }

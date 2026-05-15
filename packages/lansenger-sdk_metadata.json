@@ -1,0 +1,11 @@
+{
+  "name": "lansenger-sdk",
+  "version": "1.0.3",
+  "summary": "Framework-independent Python SDK for Lansenger (蓝信) Smart Bot API — send messages, files, images, cards, manage messages",
+  "author": "Lansenger PM Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lansenger_sdk-1.0.3.tar.gz",
+  "download_time": "2026-05-15T13:17:15.118109",
+  "package_url": "https://pypi.org/project/lansenger-sdk/"
+}

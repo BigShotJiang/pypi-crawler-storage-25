@@ -1,11 +1,11 @@
 {
   "name": "khy-os",
-  "version": "0.1.3",
+  "version": "0.1.7",
   "summary": "Khy OS — AI platform operating system with an extensible default app runtime",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "khy_os-0.1.3-py3-none-any.whl",
-  "download_time": "2026-05-12T16:14:10.306262",
+  "download_filename": "khy_os-0.1.7-py3-none-any.whl",
+  "download_time": "2026-05-15T13:17:07.126094",
   "package_url": "https://pypi.org/project/khy-os/"
 }

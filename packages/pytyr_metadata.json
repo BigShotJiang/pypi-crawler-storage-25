@@ -1,11 +1,11 @@
 {
   "name": "pytyr",
-  "version": "0.0.13",
+  "version": "0.0.16",
   "summary": "Tyr datalog/planning library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytyr-0.0.13.tar.gz",
-  "download_time": "2026-05-14T16:34:32.605731",
+  "download_filename": "pytyr-0.0.16.tar.gz",
+  "download_time": "2026-05-15T13:16:52.544309",
   "package_url": "https://pypi.org/project/pytyr/"
 }

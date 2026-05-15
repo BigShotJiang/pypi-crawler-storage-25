@@ -1,0 +1,11 @@
+{
+  "name": "opencoat-runtime-host",
+  "version": "0.1.3",
+  "summary": "Host-side integration for OpenCOAT Runtime — joinpoint emitter, injection consumer, and first-party framework adapters (openclaw, hermes, langgraph, autogen, crewai, custom).",
+  "author": "HyperdustLabs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "opencoat_runtime_host-0.1.3.tar.gz",
+  "download_time": "2026-05-15T13:17:00.831156",
+  "package_url": "https://pypi.org/project/opencoat-runtime-host/"
+}

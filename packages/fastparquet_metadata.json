@@ -1,0 +1,11 @@
+{
+  "name": "fastparquet",
+  "version": "2026.5.0",
+  "summary": "Python support for Parquet file format",
+  "author": "Martin Durant",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/dask/fastparquet/",
+  "download_filename": "fastparquet-2026.5.0.tar.gz",
+  "download_time": "2026-05-15T13:16:50.477699",
+  "package_url": "https://pypi.org/project/fastparquet/"
+}

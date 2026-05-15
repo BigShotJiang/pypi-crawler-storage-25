@@ -1,0 +1,11 @@
+{
+  "name": "weavert-openai",
+  "version": "0.1.0",
+  "summary": "First-party OpenAI integration package for WeaveRT.",
+  "author": "WeaveRT Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "weavert_openai-0.1.0.tar.gz",
+  "download_time": "2026-05-15T13:16:51.508619",
+  "package_url": "https://pypi.org/project/weavert-openai/"
+}

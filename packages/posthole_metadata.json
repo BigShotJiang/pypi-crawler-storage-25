@@ -1,11 +1,11 @@
 {
   "name": "posthole",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Local mock server for social media platform APIs - auth, publishing, the lot",
   "author": "Pyre",
   "license": null,
   "home_page": null,
-  "download_filename": "posthole-0.3.0.tar.gz",
-  "download_time": "2026-05-13T12:03:55.836400",
+  "download_filename": "posthole-0.4.0.tar.gz",
+  "download_time": "2026-05-15T13:17:04.013736",
   "package_url": "https://pypi.org/project/posthole/"
 }

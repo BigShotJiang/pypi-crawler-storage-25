@@ -1,0 +1,11 @@
+{
+  "name": "voltic",
+  "version": "0.1.0",
+  "summary": "Vectorized Black-Scholes implied-volatility solver.",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "voltic-0.1.0.tar.gz",
+  "download_time": "2026-05-15T13:17:17.678959",
+  "package_url": "https://pypi.org/project/voltic/"
+}
