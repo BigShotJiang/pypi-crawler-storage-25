@@ -1,0 +1,11 @@
+{
+  "name": "datadog-api-client",
+  "version": "2.55.0",
+  "summary": "Collection of all Datadog Public endpoints",
+  "author": "Datadog, Inc.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/DataDog/datadog-api-client-python",
+  "download_filename": "datadog_api_client-2.55.0.tar.gz",
+  "download_time": "2026-05-15T17:23:36.458042",
+  "package_url": "https://pypi.org/project/datadog-api-client/"
+}

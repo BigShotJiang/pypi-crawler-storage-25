@@ -1,11 +1,11 @@
 {
   "name": "magic-wormhole-mailbox-server",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Securely transfer data between computers",
   "author": "Brian Warner",
   "license": "MIT",
   "home_page": "https://github.com/warner/magic-wormhole-mailbox-server",
-  "download_filename": "magic_wormhole_mailbox_server-0.7.0.tar.gz",
-  "download_time": "2026-05-14T18:28:17.609761",
+  "download_filename": "magic_wormhole_mailbox_server-0.8.0.tar.gz",
+  "download_time": "2026-05-15T17:23:28.545892",
   "package_url": "https://pypi.org/project/magic-wormhole-mailbox-server/"
 }

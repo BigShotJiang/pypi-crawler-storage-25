@@ -1,0 +1,11 @@
+{
+  "name": "mk-spec-master",
+  "version": "0.2.3",
+  "summary": "MCP server bridging specs (Linear / JIRA / GitHub Issues / Notion / Markdown / Figma) to tests, with bidirectional traceability and a spec-quality coach (AI 規格大師)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mk_spec_master-0.2.3.tar.gz",
+  "download_time": "2026-05-15T17:23:46.519766",
+  "package_url": "https://pypi.org/project/mk-spec-master/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "policy-as-code-engine",
+  "version": "0.1.1",
+  "summary": "Declarative policy-as-code evaluator. JSON/YAML rules + Python predicates over arbitrary context objects. Enforces AI Procurement Decision Card conditions at request time. Optional audit-stream-py integration via AUDIT_STREAM_URL.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "policy_as_code_engine-0.1.1.tar.gz",
+  "download_time": "2026-05-15T17:23:53.917958",
+  "package_url": "https://pypi.org/project/policy-as-code-engine/"
+}

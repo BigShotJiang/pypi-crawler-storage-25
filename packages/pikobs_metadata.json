@@ -1,11 +1,11 @@
 {
   "name": "pikobs",
-  "version": "3.0.84",
+  "version": "3.0.87",
   "summary": "pikobs",
   "author": "David Lobon",
   "license": "GPL-3.0-or-later",
   "home_page": "https://gitlab.science.gc.ca/dlo001/pikobs",
-  "download_filename": "pikobs-3.0.84.tar.gz",
-  "download_time": "2026-05-15T01:45:46.450014",
+  "download_filename": "pikobs-3.0.87.tar.gz",
+  "download_time": "2026-05-15T17:24:14.826111",
   "package_url": "https://pypi.org/project/pikobs/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pylrclib-cli",
+  "version": "0.4.5",
+  "summary": "A multi-command CLI for searching, downloading, inspecting, cleansing, and publishing lyrics around LRCLIB.",
+  "author": "Harmonese",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylrclib_cli-0.4.5.tar.gz",
+  "download_time": "2026-05-15T17:23:51.303776",
+  "package_url": "https://pypi.org/project/pylrclib-cli/"
+}

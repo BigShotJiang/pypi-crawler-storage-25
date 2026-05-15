@@ -1,0 +1,11 @@
+{
+  "name": "dionysus-metacognition",
+  "version": "0.3.0",
+  "summary": "Active-inference metacognitive controller kit for agent runtimes, with Hermes Agent adapter support.",
+  "author": "Dr. Mani Saint-Victor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dionysus_metacognition-0.3.0.tar.gz",
+  "download_time": "2026-05-15T17:23:30.104906",
+  "package_url": "https://pypi.org/project/dionysus-metacognition/"
+}

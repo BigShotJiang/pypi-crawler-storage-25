@@ -1,0 +1,11 @@
+{
+  "name": "tokenspace-mcp",
+  "version": "0.1.4",
+  "summary": "Surgical AST-based Python editing for AI agents — edit by symbol name, not text position. Built-in blast radius and token cost on every edit.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tokenspace_mcp-0.1.4.tar.gz",
+  "download_time": "2026-05-15T17:23:31.672257",
+  "package_url": "https://pypi.org/project/tokenspace-mcp/"
+}

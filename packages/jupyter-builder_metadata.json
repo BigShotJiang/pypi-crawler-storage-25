@@ -1,11 +1,11 @@
 {
   "name": "jupyter-builder",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "summary": "JupyterLab build tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jupyter_builder-0.0.7.tar.gz",
-  "download_time": "2026-04-11T03:01:26.824186",
+  "download_filename": "jupyter_builder-0.0.9.tar.gz",
+  "download_time": "2026-05-15T17:24:13.782744",
   "package_url": "https://pypi.org/project/jupyter-builder/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sclite-core",
+  "version": "0.5.0",
+  "summary": "Lightweight Security Contract Layer lifecycle artifacts, validation, and cryptographic integrity chain fixtures",
+  "author": "Krzysztof Probola",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sclite_core-0.5.0.tar.gz",
+  "download_time": "2026-05-15T17:24:00.745814",
+  "package_url": "https://pypi.org/project/sclite-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "daft-lance",
+  "version": "0.3.0",
+  "summary": "Lance integration for Daft - compaction, indexing, merge columns, and REST operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "daft_lance-0.3.0.tar.gz",
+  "download_time": "2026-05-15T17:24:13.255957",
+  "package_url": "https://pypi.org/project/daft-lance/"
+}

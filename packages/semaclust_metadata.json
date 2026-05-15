@@ -1,0 +1,11 @@
+{
+  "name": "semaclust",
+  "version": "0.4.1",
+  "summary": "Semantic text clustering using sentence embeddings and agglomerative clustering.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "semaclust-0.4.1.tar.gz",
+  "download_time": "2026-05-15T17:23:30.624316",
+  "package_url": "https://pypi.org/project/semaclust/"
+}

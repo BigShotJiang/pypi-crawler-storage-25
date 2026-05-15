@@ -1,11 +1,11 @@
 {
   "name": "cadence-memory",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "LLM-maintained knowledge base for Claude Code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cadence_memory-0.4.0.tar.gz",
-  "download_time": "2026-05-12T21:54:07.436906",
+  "download_filename": "cadence_memory-0.5.0.tar.gz",
+  "download_time": "2026-05-15T17:23:44.430749",
   "package_url": "https://pypi.org/project/cadence-memory/"
 }

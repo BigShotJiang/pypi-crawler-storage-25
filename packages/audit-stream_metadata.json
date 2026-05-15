@@ -1,0 +1,11 @@
+{
+  "name": "audit-stream",
+  "version": "0.1.0",
+  "summary": "Append-only governance event stream. Hash-chained for tamper-evidence, SSE for live tailing, REST for queries. The cross-cutting telemetry layer for the Kinetic Gain portfolio.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "audit_stream-0.1.0.tar.gz",
+  "download_time": "2026-05-15T17:24:04.914332",
+  "package_url": "https://pypi.org/project/audit-stream/"
+}

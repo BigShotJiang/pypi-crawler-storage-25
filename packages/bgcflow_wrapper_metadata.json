@@ -1,0 +1,11 @@
+{
+  "name": "bgcflow_wrapper",
+  "version": "0.6.1",
+  "summary": "A snakemake wrapper and utility tools command line interface for BGCFlow.",
+  "author": "Matin Nuhamunada",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bgcflow_wrapper-0.6.1.tar.gz",
+  "download_time": "2026-05-15T17:24:10.638744",
+  "package_url": "https://pypi.org/project/bgcflow_wrapper/"
+}

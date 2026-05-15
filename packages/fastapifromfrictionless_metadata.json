@@ -1,11 +1,11 @@
 {
   "name": "fastapifromfrictionless",
-  "version": "0.2.10",
+  "version": "0.2.14",
   "summary": "Creating FastAPIs from Frictionless Data Packages",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapifromfrictionless-0.2.10.tar.gz",
-  "download_time": "2026-05-14T18:28:23.895607",
+  "download_filename": "fastapifromfrictionless-0.2.14.tar.gz",
+  "download_time": "2026-05-15T17:23:29.064472",
   "package_url": "https://pypi.org/project/fastapifromfrictionless/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aeo-validator-service",
+  "version": "0.1.1",
+  "summary": "Always-on validator service for AEO + Kinetic Gain Protocol Suite documents. Validate by URL, track content-hash drift, schedule re-fetch, emit structured diffs. The fourth layer of the AEO Reference Stack. Optional audit-stream-py integration via AUDIT_STREAM_URL env var.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aeo_validator_service-0.1.1.tar.gz",
+  "download_time": "2026-05-15T17:24:03.876970",
+  "package_url": "https://pypi.org/project/aeo-validator-service/"
+}

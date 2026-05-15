@@ -1,0 +1,11 @@
+{
+  "name": "openapi-to-sila2",
+  "version": "0.3.0",
+  "summary": "Generate SiLA2 Feature Definitions and proxy servers from OpenAPI specifications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openapi_to_sila2-0.3.0.tar.gz",
+  "download_time": "2026-05-15T17:23:43.377409",
+  "package_url": "https://pypi.org/project/openapi-to-sila2/"
+}

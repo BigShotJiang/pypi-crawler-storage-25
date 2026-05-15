@@ -1,0 +1,11 @@
+{
+  "name": "viewtif",
+  "version": "0.2.9",
+  "summary": "Lightweight GeoTIFF, NetCDF, HDF/HDF5, and Esri File Geodatabase (.gdb) viewer with optional shapefile overlay. NetCDF and cartopy support available via pip install viewtif[netcdf].",
+  "author": "Keiko Nomura",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "viewtif-0.2.9-py3-none-any.whl",
+  "download_time": "2026-05-15T17:23:44.952147",
+  "package_url": "https://pypi.org/project/viewtif/"
+}

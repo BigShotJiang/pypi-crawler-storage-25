@@ -1,11 +1,11 @@
 {
   "name": "codrninja",
-  "version": "1.5.30",
+  "version": "1.5.32",
   "summary": "Multi-access agentic coding tool — TUI, CLI, and REST API with JSON output",
   "author": "20ZollCoder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codrninja-1.5.30.tar.gz",
-  "download_time": "2026-05-15T11:51:48.296472",
+  "download_filename": "codrninja-1.5.32.tar.gz",
+  "download_time": "2026-05-15T17:23:53.397153",
   "package_url": "https://pypi.org/project/codrninja/"
 }
