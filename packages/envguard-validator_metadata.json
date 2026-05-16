@@ -1,11 +1,11 @@
 {
   "name": "envguard-validator",
-  "version": "0.1.7",
+  "version": "2.1.0",
   "summary": "Python wrapper for EnvGuard — validate .env files against a YAML schema",
   "author": "EnvGuard Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "envguard_validator-0.1.7.tar.gz",
-  "download_time": "2026-05-10T22:17:23.841352",
+  "download_filename": "envguard_validator-2.1.0.tar.gz",
+  "download_time": "2026-05-16T15:29:46.727680",
   "package_url": "https://pypi.org/project/envguard-validator/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cortexdb-connectors",
+  "version": "0.2.1",
+  "summary": "Data connectors for CortexDB — ingest from Slack, GitHub, GitLab, Jira, Linear, Confluence, Notion, PagerDuty, Discord, Teams, Google Workspace, Salesforce, HubSpot, Zendesk, Intercom, and ServiceNow into the v1 memory API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cortexdb_connectors-0.2.1.tar.gz",
+  "download_time": "2026-05-16T15:29:56.510955",
+  "package_url": "https://pypi.org/project/cortexdb-connectors/"
+}

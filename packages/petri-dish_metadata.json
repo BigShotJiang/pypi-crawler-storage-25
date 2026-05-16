@@ -1,0 +1,11 @@
+{
+  "name": "petri-dish",
+  "version": "0.3.2",
+  "summary": "Run Petri alignment audits against real agent scaffolds (Claude Code, Codex CLI, Gemini CLI) via ACP.",
+  "author": "Meridian Labs",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "petri_dish-0.3.2.tar.gz",
+  "download_time": "2026-05-16T15:29:42.610261",
+  "package_url": "https://pypi.org/project/petri-dish/"
+}

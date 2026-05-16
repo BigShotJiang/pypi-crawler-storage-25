@@ -1,0 +1,11 @@
+{
+  "name": "mfpandas",
+  "version": "0.1.7",
+  "summary": "Parsing various z/OS structures into Panda dataframes.",
+  "author": "Wizard of z/OS",
+  "license": null,
+  "home_page": "https://github.com/wizardofzos/mfpandas",
+  "download_filename": "mfpandas-0.1.7.tar.gz",
+  "download_time": "2026-05-16T15:29:09.532773",
+  "package_url": "https://pypi.org/project/mfpandas/"
+}

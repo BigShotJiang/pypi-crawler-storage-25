@@ -1,11 +1,11 @@
 {
   "name": "krunic",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Tune image classifier using Ray Tune + SkyPilot",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "krunic-0.8.0.tar.gz",
-  "download_time": "2026-05-14T22:56:37.520103",
+  "download_filename": "krunic-0.8.1.tar.gz",
+  "download_time": "2026-05-16T15:29:28.714998",
   "package_url": "https://pypi.org/project/krunic/"
 }

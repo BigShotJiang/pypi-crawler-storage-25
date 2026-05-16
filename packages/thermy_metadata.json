@@ -1,11 +1,11 @@
 {
   "name": "thermy",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "summary": "CLI and library for mini Bluetooth thermal printers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "thermy-0.4.1.tar.gz",
-  "download_time": "2026-05-16T07:27:07.612352",
+  "download_filename": "thermy-0.4.3.tar.gz",
+  "download_time": "2026-05-16T15:29:12.121024",
   "package_url": "https://pypi.org/project/thermy/"
 }

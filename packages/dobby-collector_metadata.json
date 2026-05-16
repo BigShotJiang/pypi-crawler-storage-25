@@ -1,0 +1,11 @@
+{
+  "name": "dobby-collector",
+  "version": "0.4.1",
+  "summary": "Telemetry collector for AI agents — stream runs, tools, LLM calls, and chains to the Dobby AI Control Plane for governance",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dobby_collector-0.4.1.tar.gz",
+  "download_time": "2026-05-16T15:29:27.689741",
+  "package_url": "https://pypi.org/project/dobby-collector/"
+}
