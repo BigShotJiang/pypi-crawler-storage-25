@@ -1,0 +1,11 @@
+{
+  "name": "rcrlm",
+  "version": "0.0.3",
+  "summary": "rcr-lm: to inspect hiddens, steer activations, and compress/distill/finetune weights",
+  "author": "J Joe",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/JosefAlbers/rcrlm",
+  "download_filename": "rcrlm-0.0.3.tar.gz",
+  "download_time": "2026-05-16T16:41:58.547310",
+  "package_url": "https://pypi.org/project/rcrlm/"
+}

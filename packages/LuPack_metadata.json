@@ -1,0 +1,11 @@
+{
+  "name": "LuPack",
+  "version": "0.1.0",
+  "summary": "Use Python packages inside Lua scripts.",
+  "author": "V011DZ",
+  "license": "LicenseRef-LuPack-Custom",
+  "home_page": null,
+  "download_filename": "lupack-0.1.0.tar.gz",
+  "download_time": "2026-05-16T16:41:03.830375",
+  "package_url": "https://pypi.org/project/LuPack/"
+}

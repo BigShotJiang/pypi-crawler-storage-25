@@ -1,11 +1,11 @@
 {
   "name": "arc-sentry",
-  "version": "3.1.1",
-  "summary": "Arc Sentry — prompt injection detection for LLMs. 100% detection, 0% false positives across Mistral 7B, Qwen 2.5 7B, Llama 3.1 8B. Geometric detection via Fisher-Rao manifold (Nine 2026).",
+  "version": "3.5.0",
+  "summary": "Whitebox prompt injection detector for self-hosted open-weight LLMs. Deployment-specific behavioral monitor; calibrates on your traffic, detects drift from the calibrated regime. 92% detection at 0% false positive rate on calibrated benchmarks. Validated on Mistral 7B, Qwen 2.5 7B, Llama 3.1 8B.",
   "author": null,
-  "license": null,
+  "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "arc_sentry-3.1.1.tar.gz",
-  "download_time": "2026-04-19T03:56:23.954191",
+  "download_filename": "arc_sentry-3.5.0.tar.gz",
+  "download_time": "2026-05-16T16:41:25.527331",
   "package_url": "https://pypi.org/project/arc-sentry/"
 }

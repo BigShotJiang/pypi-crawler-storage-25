@@ -1,0 +1,11 @@
+{
+  "name": "cache-freshness-governance-pack",
+  "version": "0.1.2",
+  "summary": "Installable ADR and SPEC extension pack for HTTP caching and freshness governance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cache_freshness_governance_pack-0.1.2.tar.gz",
+  "download_time": "2026-05-16T16:41:46.074456",
+  "package_url": "https://pypi.org/project/cache-freshness-governance-pack/"
+}

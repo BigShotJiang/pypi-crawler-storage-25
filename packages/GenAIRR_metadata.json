@@ -1,0 +1,11 @@
+{
+  "name": "GenAIRR",
+  "version": "2.0.0",
+  "summary": "Synthetic immune-receptor-sequence simulator for benchmarking alignment models and sequence analysis.",
+  "author": "Ayelet Peres",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "genairr-2.0.0.tar.gz",
+  "download_time": "2026-05-16T16:41:17.550398",
+  "package_url": "https://pypi.org/project/GenAIRR/"
+}

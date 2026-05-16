@@ -1,0 +1,11 @@
+{
+  "name": "n1mm-mcp",
+  "version": "0.1.5",
+  "summary": "MCP server for N1MM Logger+ — live contest state via UDP broadcast",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "n1mm_mcp-0.1.5.tar.gz",
+  "download_time": "2026-05-16T16:40:59.976621",
+  "package_url": "https://pypi.org/project/n1mm-mcp/"
+}

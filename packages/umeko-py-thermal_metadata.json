@@ -1,0 +1,11 @@
+{
+  "name": "umeko-py-thermal",
+  "version": "0.1.0",
+  "summary": "Python SDK for Umeko ESP32 thermal imaging camera",
+  "author": "Umeko",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "umeko_py_thermal-0.1.0.tar.gz",
+  "download_time": "2026-05-16T16:41:48.543049",
+  "package_url": "https://pypi.org/project/umeko-py-thermal/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agenttier",
+  "version": "0.3.5",
+  "summary": "Python SDK for AgentTier — isolated, persistent Kubernetes sandboxes for humans and AI agents",
+  "author": "AgentTier Authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agenttier-0.3.5.tar.gz",
+  "download_time": "2026-05-16T16:41:41.018508",
+  "package_url": "https://pypi.org/project/agenttier/"
+}

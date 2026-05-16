@@ -1,11 +1,11 @@
 {
   "name": "reflect-mcp",
-  "version": "0.4.47",
+  "version": "0.4.50",
   "summary": "Reflection's autonomous runtime — wake, read prior state, do useful work, write back, sleep.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reflect_mcp-0.4.47-py3-none-any.whl",
-  "download_time": "2026-05-16T14:24:15.639575",
+  "download_filename": "reflect_mcp-0.4.50-py3-none-any.whl",
+  "download_time": "2026-05-16T16:41:53.673307",
   "package_url": "https://pypi.org/project/reflect-mcp/"
 }

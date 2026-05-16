@@ -1,11 +1,11 @@
 {
   "name": "pyneat-cli",
-  "version": "3.1.8",
+  "version": "3.1.9",
   "summary": "AI-Generated Code Scanner — detects bugs, security vulnerabilities, and quality issues that AI coding assistants introduce",
   "author": null,
   "license": "GNU AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pyneat_cli-3.1.8-cp312-cp312-win_amd64.whl",
-  "download_time": "2026-05-16T10:51:00.846294",
+  "download_filename": "pyneat_cli-3.1.9-cp312-cp312-win_amd64.whl",
+  "download_time": "2026-05-16T16:41:07.366594",
   "package_url": "https://pypi.org/project/pyneat-cli/"
 }

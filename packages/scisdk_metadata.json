@@ -1,11 +1,11 @@
 {
   "name": "scisdk",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "summary": "SDK for Sci-Compiler generated firmware",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scisdk-2.2.3.tar.gz",
-  "download_time": "2026-05-15T13:17:13.543356",
+  "download_filename": "scisdk-2.2.4.tar.gz",
+  "download_time": "2026-05-16T16:41:37.886721",
   "package_url": "https://pypi.org/project/scisdk/"
 }

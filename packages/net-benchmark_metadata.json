@@ -1,0 +1,11 @@
+{
+  "name": "net-benchmark",
+  "version": "0.5.0",
+  "summary": "Network benchmarking suite for DNS, HTTP, and SSL — with DNSSEC validation, DoH/DoT support, high‑concurrency testing, and enterprise‑grade reporting.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "net_benchmark-0.5.0.tar.gz",
+  "download_time": "2026-05-16T16:41:19.166041",
+  "package_url": "https://pypi.org/project/net-benchmark/"
+}

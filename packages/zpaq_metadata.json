@@ -1,0 +1,11 @@
+{
+  "name": "zpaq",
+  "version": "0.0.4",
+  "summary": "Pure in-memory ZPAQ compression for Python (real pybind11 bindings, prebuilt wheels, no C++ toolchain needed to install).",
+  "author": "zh",
+  "license": null,
+  "home_page": "https://github.com/zen-ham/zpaq",
+  "download_filename": "zpaq-0.0.4.tar.gz",
+  "download_time": "2026-05-16T16:41:45.491418",
+  "package_url": "https://pypi.org/project/zpaq/"
+}

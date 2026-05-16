@@ -1,0 +1,11 @@
+{
+  "name": "celeryflow",
+  "version": "0.1.0",
+  "summary": "Describe Celery workflows in YAML, JSON, or a Python dict, with optional per-step conditions.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "celeryflow-0.1.0.tar.gz",
+  "download_time": "2026-05-16T16:42:01.023377",
+  "package_url": "https://pypi.org/project/celeryflow/"
+}

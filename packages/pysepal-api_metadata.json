@@ -1,0 +1,11 @@
+{
+  "name": "pysepal-api",
+  "version": "0.1.0",
+  "summary": "UI-free HTTP client for SEPAL platform services (user files, tasks, processing recipes).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysepal_api-0.1.0.tar.gz",
+  "download_time": "2026-05-16T16:41:50.584074",
+  "package_url": "https://pypi.org/project/pysepal-api/"
+}

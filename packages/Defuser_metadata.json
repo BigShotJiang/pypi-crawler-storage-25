@@ -1,11 +1,11 @@
 {
   "name": "Defuser",
-  "version": "0.0.18",
+  "version": "0.0.22",
   "summary": "Model defuser helper for HF Transformers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "defuser-0.0.18.tar.gz",
-  "download_time": "2026-04-01T08:16:25.487550",
+  "download_filename": "defuser-0.0.22.tar.gz",
+  "download_time": "2026-05-16T16:41:41.658263",
   "package_url": "https://pypi.org/project/Defuser/"
 }

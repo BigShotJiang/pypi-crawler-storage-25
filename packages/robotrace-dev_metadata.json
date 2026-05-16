@@ -1,11 +1,11 @@
 {
   "name": "robotrace-dev",
-  "version": "0.1.0a2",
+  "version": "0.1.0a4",
   "summary": "RoboTrace — observability and evals for AI robots.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "robotrace_dev-0.1.0a2.tar.gz",
-  "download_time": "2026-05-09T15:08:34.861978",
+  "download_filename": "robotrace_dev-0.1.0a4.tar.gz",
+  "download_time": "2026-05-16T16:41:59.770850",
   "package_url": "https://pypi.org/project/robotrace-dev/"
 }

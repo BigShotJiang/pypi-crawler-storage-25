@@ -1,0 +1,11 @@
+{
+  "name": "pmd-cli",
+  "version": "1.0.0",
+  "summary": "Print Markdown — terminal Markdown renderer with ANSI formatting. Zero dependencies.",
+  "author": "mdcli contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pmd_cli-1.0.0.tar.gz",
+  "download_time": "2026-05-16T16:41:36.154221",
+  "package_url": "https://pypi.org/project/pmd-cli/"
+}
