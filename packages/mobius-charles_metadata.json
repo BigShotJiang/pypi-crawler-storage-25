@@ -1,0 +1,11 @@
+{
+  "name": "mobius-charles",
+  "version": "0.3.0",
+  "summary": "Local-first AI workflow CLI with event-sourced runs and deterministic agent routing.",
+  "author": "Mobius contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mobius_charles-0.3.0.tar.gz",
+  "download_time": "2026-05-16T05:04:15.429151",
+  "package_url": "https://pypi.org/project/mobius-charles/"
+}

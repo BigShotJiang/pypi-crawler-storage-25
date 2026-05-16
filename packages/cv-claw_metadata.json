@@ -1,0 +1,11 @@
+{
+  "name": "cv-claw",
+  "version": "0.1.2",
+  "summary": "Render resume JSON to print-ready HTML using Jinja templates.",
+  "author": "farhan0167",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cv_claw-0.1.2.tar.gz",
+  "download_time": "2026-05-16T05:03:50.155619",
+  "package_url": "https://pypi.org/project/cv-claw/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "whenful-mcp",
+  "version": "0.1.1",
+  "summary": "Local MCP server for Whenful — encrypted task access via Claude Desktop and other MCP clients.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "whenful_mcp-0.1.1-py3-none-any.whl",
+  "download_time": "2026-05-16T05:03:37.401583",
+  "package_url": "https://pypi.org/project/whenful-mcp/"
+}

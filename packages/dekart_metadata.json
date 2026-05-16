@@ -1,11 +1,11 @@
 {
   "name": "dekart",
-  "version": "0.1.0",
+  "version": "0.6.0",
   "summary": "Dekart CLI for auth, MCP tool discovery, calls, and file upload flows.",
   "author": "Dekart XYZ",
   "license": null,
   "home_page": null,
-  "download_filename": "dekart-0.1.0.tar.gz",
-  "download_time": "2026-04-24T06:15:27.200459",
+  "download_filename": "dekart-0.6.0.tar.gz",
+  "download_time": "2026-05-16T05:03:34.817689",
   "package_url": "https://pypi.org/project/dekart/"
 }

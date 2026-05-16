@@ -1,11 +1,11 @@
 {
   "name": "agntspace",
-  "version": "1.62.1",
+  "version": "1.65.0",
   "summary": "Personal AI agent that runs your life alongside you",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "agntspace-1.62.1.tar.gz",
-  "download_time": "2026-05-14T00:27:15.391633",
+  "download_filename": "agntspace-1.65.0.tar.gz",
+  "download_time": "2026-05-16T05:03:58.399180",
   "package_url": "https://pypi.org/project/agntspace/"
 }

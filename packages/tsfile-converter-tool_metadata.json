@@ -1,0 +1,11 @@
+{
+  "name": "tsfile-converter-tool",
+  "version": "0.1.0",
+  "summary": "Backend Python API and CLI for converting CSV, Parquet, and Arrow data to TsFile.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsfile_converter_tool-0.1.0.tar.gz",
+  "download_time": "2026-05-16T05:04:06.185355",
+  "package_url": "https://pypi.org/project/tsfile-converter-tool/"
+}

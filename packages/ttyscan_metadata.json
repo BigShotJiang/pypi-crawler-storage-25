@@ -1,0 +1,11 @@
+{
+  "name": "ttyscan",
+  "version": "0.0.2",
+  "summary": "Queries a terminal emulator for its type, size and capabilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ttyscan-0.0.2.tar.gz",
+  "download_time": "2026-05-16T05:03:55.315918",
+  "package_url": "https://pypi.org/project/ttyscan/"
+}

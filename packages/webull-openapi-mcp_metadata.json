@@ -1,11 +1,11 @@
 {
   "name": "webull-openapi-mcp",
-  "version": "0.1.1",
+  "version": "1.1.0",
   "summary": "MCP Server for Webull OpenAPI - enables AI assistants to securely access Webull trading and market data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "webull_openapi_mcp-0.1.1.tar.gz",
-  "download_time": "2026-04-18T14:10:03.255767",
+  "download_filename": "webull_openapi_mcp-1.1.0.tar.gz",
+  "download_time": "2026-05-16T05:03:38.949882",
   "package_url": "https://pypi.org/project/webull-openapi-mcp/"
 }
