@@ -1,0 +1,11 @@
+{
+  "name": "agentcam",
+  "version": "0.1.0",
+  "summary": "Local-first CLI wrapper that records what your AI coding agent changed in your repo.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentcam-0.1.0.tar.gz",
+  "download_time": "2026-05-16T12:58:11.983239",
+  "package_url": "https://pypi.org/project/agentcam/"
+}

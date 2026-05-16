@@ -1,11 +1,11 @@
 {
   "name": "gnokee",
-  "version": "0.2.3",
+  "version": "0.8.0",
   "summary": "Memory infrastructure for personal AI — bi-temporal facts, honest contradictions, autonomous maintenance, real forgetting. MCP-native, multi-tenant, multilingual.",
   "author": "gnokeelabs",
   "license": null,
   "home_page": null,
-  "download_filename": "gnokee-0.2.3.tar.gz",
-  "download_time": "2026-05-09T10:47:09.611175",
+  "download_filename": "gnokee-0.8.0.tar.gz",
+  "download_time": "2026-05-16T12:58:15.603924",
   "package_url": "https://pypi.org/project/gnokee/"
 }

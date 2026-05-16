@@ -1,0 +1,11 @@
+{
+  "name": "pyvlx",
+  "version": "0.2.34",
+  "summary": "PyVLX is a wrapper for the Velux KLF 200 API. PyVLX enables you to run scenes and or open and close velux windows.",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pyvlx-0.2.34.tar.gz",
+  "download_time": "2026-05-16T12:58:13.031576",
+  "package_url": "https://pypi.org/project/pyvlx/"
+}

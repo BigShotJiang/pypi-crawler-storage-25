@@ -1,11 +1,11 @@
 {
   "name": "cktax",
-  "version": "2.0.0",
+  "version": "3.3.2",
   "summary": "全局PyPI工具 | 密钥管理 + 编号时间戳备份 + 打包 + 一键上传",
-  "author": "yourname",
+  "author": "shiroko",
   "license": null,
   "home_page": null,
-  "download_filename": "cktax-2.0.0.tar.gz",
-  "download_time": "2026-05-10T16:21:39.181888",
+  "download_filename": "cktax-3.3.2.tar.gz",
+  "download_time": "2026-05-16T12:58:17.191574",
   "package_url": "https://pypi.org/project/cktax/"
 }

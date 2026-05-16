@@ -1,11 +1,11 @@
 {
   "name": "pytest-cov-container",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Pytest plugin to collect code coverage from applications running inside Docker containers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_cov_container-0.2.0.tar.gz",
-  "download_time": "2026-05-15T15:50:51.953742",
+  "download_filename": "pytest_cov_container-0.3.0.tar.gz",
+  "download_time": "2026-05-16T12:58:08.381644",
   "package_url": "https://pypi.org/project/pytest-cov-container/"
 }

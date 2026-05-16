@@ -1,11 +1,11 @@
 {
   "name": "controlzero",
-  "version": "1.4.6",
+  "version": "1.5.8",
   "summary": "AI agent governance: policies, audit, and observability for tool calls. Works locally with no signup.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "controlzero-1.4.6.tar.gz",
-  "download_time": "2026-05-10T23:26:37.838503",
+  "download_filename": "controlzero-1.5.8.tar.gz",
+  "download_time": "2026-05-16T12:58:43.678293",
   "package_url": "https://pypi.org/project/controlzero/"
 }

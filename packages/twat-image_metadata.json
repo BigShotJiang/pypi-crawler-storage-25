@@ -1,11 +1,11 @@
 {
   "name": "twat-image",
-  "version": "2.7.8",
+  "version": "2.7.9",
   "summary": "A Python utility for converting images to include alpha channels based on grayscale values, and other image manipulations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "twat_image-2.7.8.tar.gz",
-  "download_time": "2026-05-15T23:50:27.840466",
+  "download_filename": "twat_image-2.7.9.tar.gz",
+  "download_time": "2026-05-16T12:58:48.303380",
   "package_url": "https://pypi.org/project/twat-image/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "twat-task",
-  "version": "2.7.9",
+  "version": "2.7.10",
   "summary": "Video processing task utilities using Prefect for workflow management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "twat_task-2.7.9.tar.gz",
-  "download_time": "2026-05-15T23:50:26.558779",
+  "download_filename": "twat_task-2.7.10.tar.gz",
+  "download_time": "2026-05-16T12:58:42.134996",
   "package_url": "https://pypi.org/project/twat-task/"
 }

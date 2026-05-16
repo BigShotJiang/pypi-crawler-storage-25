@@ -1,0 +1,11 @@
+{
+  "name": "json-glance",
+  "version": "0.1.0",
+  "summary": "df.describe() for JSON and nested data - a human-readable shape summary in one call.",
+  "author": "Arun Brahma",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "json_glance-0.1.0.tar.gz",
+  "download_time": "2026-05-16T12:58:25.963584",
+  "package_url": "https://pypi.org/project/json-glance/"
+}

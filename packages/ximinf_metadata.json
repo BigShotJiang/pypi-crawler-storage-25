@@ -1,11 +1,11 @@
 {
   "name": "ximinf",
-  "version": "0.0.127",
+  "version": "0.0.128",
   "summary": "Simulation Based Inference of Cosmological parameters in Jax using type Ia supernovae. ",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "ximinf-0.0.127.tar.gz",
-  "download_time": "2026-05-15T08:43:22.140453",
+  "download_filename": "ximinf-0.0.128.tar.gz",
+  "download_time": "2026-05-16T12:58:04.710177",
   "package_url": "https://pypi.org/project/ximinf/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "litecv",
+  "version": "0.3.0",
+  "summary": "A lightweight, fast, and easy-to-use Python computer vision library",
+  "author": "VEDRA",
+  "license": "MIT",
+  "home_page": "https://github.com/dhaval-vedra/litecv",
+  "download_filename": "litecv-0.3.0.tar.gz",
+  "download_time": "2026-05-16T12:58:30.301521",
+  "package_url": "https://pypi.org/project/litecv/"
+}

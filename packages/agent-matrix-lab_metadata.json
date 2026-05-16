@@ -1,0 +1,11 @@
+{
+  "name": "agent-matrix-lab",
+  "version": "0.1.0",
+  "summary": "Safety-first sandbox execution for agents, CI, and MCP tools — Python SDK and optional embedded runner.",
+  "author": null,
+  "license": "Apache License 2.0\n        http://www.apache.org/licenses/LICENSE-2.0\n        ",
+  "home_page": null,
+  "download_filename": "agent_matrix_lab-0.1.0.tar.gz",
+  "download_time": "2026-05-16T12:58:20.821888",
+  "package_url": "https://pypi.org/project/agent-matrix-lab/"
+}

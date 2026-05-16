@@ -1,11 +1,11 @@
 {
   "name": "snakeoil-web",
-  "version": "0.1.43",
+  "version": "0.1.45",
   "summary": "Plain English web test automation using Selenium and Playwright. No code. No maintenance.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "snakeoil_web-0.1.43-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2026-05-16T11:49:24.290868",
+  "download_filename": "snakeoil_web-0.1.45-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-16T12:58:30.823859",
   "package_url": "https://pypi.org/project/snakeoil-web/"
 }

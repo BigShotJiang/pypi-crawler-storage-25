@@ -1,0 +1,11 @@
+{
+  "name": "dikw-converter-mineru",
+  "version": "0.1.0",
+  "summary": "MinerU online-API converter plugin for dikw client import — PDF + DOCX + PPTX + XLSX → markdown.",
+  "author": "dikw-plugins contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dikw_converter_mineru-0.1.0.tar.gz",
+  "download_time": "2026-05-16T12:58:38.540750",
+  "package_url": "https://pypi.org/project/dikw-converter-mineru/"
+}
