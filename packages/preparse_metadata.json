@@ -1,11 +1,11 @@
 {
   "name": "preparse",
-  "version": "1.0.15",
+  "version": "1.1.2",
   "summary": "This project preparses args for further parsing later on.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "preparse-1.0.15.tar.gz",
-  "download_time": "2026-05-07T21:41:36.580196",
+  "download_filename": "preparse-1.1.2.tar.gz",
+  "download_time": "2026-05-16T20:56:57.982228",
   "package_url": "https://pypi.org/project/preparse/"
 }

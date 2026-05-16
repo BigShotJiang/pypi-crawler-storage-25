@@ -1,11 +1,11 @@
 {
   "name": "games-TPlays",
-  "version": "4.2.0",
+  "version": "6.13.14",
   "summary": "A powerful and simple 2D game engine for Python with hardware acceleration (OpenGL) and one-click .exe generation.",
   "author": "TiagoPlays",
   "license": null,
   "home_page": null,
-  "download_filename": "games_tplays-4.2.0.tar.gz",
-  "download_time": "2026-05-14T18:28:15.521978",
+  "download_filename": "games_tplays-6.13.14.tar.gz",
+  "download_time": "2026-05-16T20:56:28.369520",
   "package_url": "https://pypi.org/project/games-TPlays/"
 }

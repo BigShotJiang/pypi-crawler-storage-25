@@ -1,11 +1,11 @@
 {
   "name": "deeploop",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "summary": "DeepLoop autonomous research autopilot control plane.",
   "author": "DeepLoop maintainers",
   "license": null,
   "home_page": null,
-  "download_filename": "deeploop-0.1.4.tar.gz",
-  "download_time": "2026-05-10T16:21:20.390292",
+  "download_filename": "deeploop-0.1.8.tar.gz",
+  "download_time": "2026-05-16T20:56:31.438917",
   "package_url": "https://pypi.org/project/deeploop/"
 }

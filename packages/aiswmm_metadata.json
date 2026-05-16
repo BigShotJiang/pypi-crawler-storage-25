@@ -1,0 +1,11 @@
+{
+  "name": "aiswmm",
+  "version": "0.6.1",
+  "summary": "Unified CLI for reproducible and auditable Agentic SWMM workflows.",
+  "author": "Zhonghao Zhang, Caterina Valeo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiswmm-0.6.1.tar.gz",
+  "download_time": "2026-05-16T20:56:53.303188",
+  "package_url": "https://pypi.org/project/aiswmm/"
+}

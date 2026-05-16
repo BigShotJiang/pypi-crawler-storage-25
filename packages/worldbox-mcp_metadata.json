@@ -1,0 +1,11 @@
+{
+  "name": "worldbox-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server that lets any AI agent control WorldBox via the WorldBoxBridge BepInEx mod.",
+  "author": "fullya99 and contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "worldbox_mcp-0.1.0.tar.gz",
+  "download_time": "2026-05-16T20:56:36.102461",
+  "package_url": "https://pypi.org/project/worldbox-mcp/"
+}

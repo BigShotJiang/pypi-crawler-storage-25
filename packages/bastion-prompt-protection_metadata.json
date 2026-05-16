@@ -1,0 +1,11 @@
+{
+  "name": "bastion-prompt-protection",
+  "version": "1.0.0",
+  "summary": "Local prompt injection and jailbreak detection for LLM applications",
+  "author": "Bastion Soft",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "bastion_prompt_protection-1.0.0.tar.gz",
+  "download_time": "2026-05-16T20:56:51.733544",
+  "package_url": "https://pypi.org/project/bastion-prompt-protection/"
+}

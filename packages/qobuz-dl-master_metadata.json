@@ -1,0 +1,11 @@
+{
+  "name": "qobuz-dl-master",
+  "version": "2.2.4",
+  "summary": "The Ultimate Lossless and Hi-Res music downloader for Qobuz with ReplayGain and Classical metadata",
+  "author": "Eduardo (kaduvercosa)",
+  "license": null,
+  "home_page": "https://github.com/kaduvercosa/qobuz-dl",
+  "download_filename": "qobuz_dl_master-2.2.4.tar.gz",
+  "download_time": "2026-05-16T20:57:08.297838",
+  "package_url": "https://pypi.org/project/qobuz-dl-master/"
+}

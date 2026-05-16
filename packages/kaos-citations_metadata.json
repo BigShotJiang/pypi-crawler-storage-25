@@ -1,11 +1,11 @@
 {
   "name": "kaos-citations",
-  "version": "0.1.0a1",
+  "version": "0.1.0a3",
   "summary": "Structured, high-performance citation identification and extraction. Text in, typed Pydantic Citation records out with provenance + Bluebook modifiers. 60 kinds across legal, financial, accounting, and identifier domains. Pure-Python, fully offline, deterministic, Rust-backed matching.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kaos_citations-0.1.0a1.tar.gz",
-  "download_time": "2026-05-08T01:36:04.370901",
+  "download_filename": "kaos_citations-0.1.0a3.tar.gz",
+  "download_time": "2026-05-16T20:56:49.673354",
   "package_url": "https://pypi.org/project/kaos-citations/"
 }

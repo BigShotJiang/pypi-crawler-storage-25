@@ -1,11 +1,11 @@
 {
   "name": "doc-kg",
-  "version": "0.15.1",
+  "version": "0.15.2",
   "summary": "A tool to build a semantically searchable knowledge graph from markdown and text documents",
   "author": "Eric G. Suchanek, PhD",
   "license": null,
   "home_page": null,
-  "download_filename": "doc_kg-0.15.1.tar.gz",
-  "download_time": "2026-05-16T18:58:29.338355",
+  "download_filename": "doc_kg-0.15.2.tar.gz",
+  "download_time": "2026-05-16T20:57:05.221482",
   "package_url": "https://pypi.org/project/doc-kg/"
 }

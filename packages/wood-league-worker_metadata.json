@@ -1,11 +1,11 @@
 {
   "name": "wood-league-worker",
-  "version": "0.9.9",
+  "version": "0.9.11",
   "summary": "Local analysis worker for the Wood League chess platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wood_league_worker-0.9.9.tar.gz",
-  "download_time": "2026-05-16T18:58:27.355944",
+  "download_filename": "wood_league_worker-0.9.11.tar.gz",
+  "download_time": "2026-05-16T20:56:44.934639",
   "package_url": "https://pypi.org/project/wood-league-worker/"
 }

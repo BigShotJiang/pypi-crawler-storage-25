@@ -1,11 +1,11 @@
 {
   "name": "expit",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "This project provides an implementation of the expit function.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "expit-1.1.0.tar.gz",
-  "download_time": "2026-05-13T22:03:43.441143",
+  "download_filename": "expit-1.1.2.tar.gz",
+  "download_time": "2026-05-16T20:56:26.311646",
   "package_url": "https://pypi.org/project/expit/"
 }
