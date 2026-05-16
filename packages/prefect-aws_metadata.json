@@ -1,0 +1,11 @@
+{
+  "name": "prefect-aws",
+  "version": "0.7.9",
+  "summary": "Prefect integrations for interacting with Amazon Web Services.",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "prefect_aws-0.7.9.tar.gz",
+  "download_time": "2026-05-16T01:36:44.497746",
+  "package_url": "https://pypi.org/project/prefect-aws/"
+}

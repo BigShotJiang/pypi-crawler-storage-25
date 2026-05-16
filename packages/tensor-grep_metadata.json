@@ -1,11 +1,11 @@
 {
   "name": "tensor-grep",
-  "version": "1.12.3",
+  "version": "1.12.12",
   "summary": "High-performance grep-compatible CLI with Rust, GPU, and AST/NLP routing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tensor_grep-1.12.3.tar.gz",
-  "download_time": "2026-05-15T05:53:36.023455",
+  "download_filename": "tensor_grep-1.12.12.tar.gz",
+  "download_time": "2026-05-16T01:36:23.642402",
   "package_url": "https://pypi.org/project/tensor-grep/"
 }

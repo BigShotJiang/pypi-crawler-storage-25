@@ -1,0 +1,11 @@
+{
+  "name": "xrfm",
+  "version": "0.4.5",
+  "summary": "xRFM: Scalable and interpretable kernel methods for tabular data",
+  "author": "Daniel Beaglehole, David Holzmüller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xrfm-0.4.5.tar.gz",
+  "download_time": "2026-05-16T01:36:58.082469",
+  "package_url": "https://pypi.org/project/xrfm/"
+}

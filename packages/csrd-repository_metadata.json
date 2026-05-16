@@ -1,11 +1,11 @@
 {
   "name": "csrd-repository",
-  "version": "0.5.22",
+  "version": "0.5.25",
   "summary": "Base repository and database adapter abstractions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd_repository-0.5.22.tar.gz",
-  "download_time": "2026-05-10T15:04:02.661638",
+  "download_filename": "csrd_repository-0.5.25.tar.gz",
+  "download_time": "2026-05-16T01:36:33.513202",
   "package_url": "https://pypi.org/project/csrd-repository/"
 }
