@@ -1,11 +1,11 @@
 {
   "name": "aiofile",
-  "version": "3.10.0",
+  "version": "3.11.0",
   "summary": "Asynchronous file operations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiofile-3.10.0.tar.gz",
-  "download_time": "2026-05-15T23:50:18.271005",
+  "download_filename": "aiofile-3.11.0.tar.gz",
+  "download_time": "2026-05-16T07:27:04.987438",
   "package_url": "https://pypi.org/project/aiofile/"
 }

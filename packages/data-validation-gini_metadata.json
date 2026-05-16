@@ -1,0 +1,11 @@
+{
+  "name": "data-validation-gini",
+  "version": "0.1.1",
+  "summary": "Data Validation Gini (DVG) CLI for row count and row/column comparison with HTML reports",
+  "author": "ShanKonduru",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "data_validation_gini-0.1.1.tar.gz",
+  "download_time": "2026-05-16T07:27:00.298409",
+  "package_url": "https://pypi.org/project/data-validation-gini/"
+}

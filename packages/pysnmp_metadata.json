@@ -1,11 +1,11 @@
 {
   "name": "pysnmp",
-  "version": "7.1.26",
+  "version": "7.1.27",
   "summary": "A Python library for SNMP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pysnmp-7.1.26.tar.gz",
-  "download_time": "2026-04-26T21:54:17.657776",
+  "download_filename": "pysnmp-7.1.27.tar.gz",
+  "download_time": "2026-05-16T07:27:19.204893",
   "package_url": "https://pypi.org/project/pysnmp/"
 }

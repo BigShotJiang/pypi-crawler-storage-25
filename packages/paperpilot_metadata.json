@@ -1,11 +1,11 @@
 {
   "name": "paperpilot",
-  "version": "1.4.0",
-  "summary": "A CLI research agent for AI-related paper search, code discovery, PDF collection, and bilingual reports.",
+  "version": "1.5.9",
+  "summary": "A CLI research agent for scholarly paper search, evidence synthesis, code discovery, PDF collection, bilingual reports, and Obsidian Wiki.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "paperpilot-1.4.0.tar.gz",
-  "download_time": "2026-05-15T05:53:01.253617",
+  "download_filename": "paperpilot-1.5.9.tar.gz",
+  "download_time": "2026-05-16T07:26:59.781915",
   "package_url": "https://pypi.org/project/paperpilot/"
 }

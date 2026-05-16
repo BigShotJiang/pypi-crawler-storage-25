@@ -1,0 +1,11 @@
+{
+  "name": "datetime-matcher",
+  "version": "0.5.0",
+  "summary": "A library which extends regex with support for datetime format codes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datetime_matcher-0.5.0.tar.gz",
+  "download_time": "2026-05-16T07:26:53.464101",
+  "package_url": "https://pypi.org/project/datetime-matcher/"
+}

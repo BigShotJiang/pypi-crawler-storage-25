@@ -1,0 +1,11 @@
+{
+  "name": "tripitaka-mcp",
+  "version": "1.0.1",
+  "summary": "Local MCP server for the Pāli Tipiṭaka — verifiable Buddhist canon access for AI assistants, offline via SQLite",
+  "author": "Dhamma Seeker",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tripitaka_mcp-1.0.1.tar.gz",
+  "download_time": "2026-05-16T07:27:02.395600",
+  "package_url": "https://pypi.org/project/tripitaka-mcp/"
+}

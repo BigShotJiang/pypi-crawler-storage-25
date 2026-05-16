@@ -1,11 +1,11 @@
 {
   "name": "swarmkit-schema",
-  "version": "1.1.3",
+  "version": "1.2.1",
   "summary": "SwarmKit JSON Schemas + Python validator.",
   "author": "Srijith Kartha",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "swarmkit_schema-1.1.3.tar.gz",
-  "download_time": "2026-05-13T18:39:57.269701",
+  "download_filename": "swarmkit_schema-1.2.1.tar.gz",
+  "download_time": "2026-05-16T07:27:29.446579",
   "package_url": "https://pypi.org/project/swarmkit-schema/"
 }

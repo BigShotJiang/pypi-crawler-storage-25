@@ -1,0 +1,11 @@
+{
+  "name": "virtualfs-sdk",
+  "version": "0.2.2",
+  "summary": "Python SDK for the VirtualFS API — persistent bash sandboxes for AI agents",
+  "author": "VirtualFS authors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "virtualfs_sdk-0.2.2.tar.gz",
+  "download_time": "2026-05-16T07:27:23.711480",
+  "package_url": "https://pypi.org/project/virtualfs-sdk/"
+}
