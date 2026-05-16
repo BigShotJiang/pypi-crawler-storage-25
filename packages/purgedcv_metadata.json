@@ -1,0 +1,11 @@
+{
+  "name": "purgedcv",
+  "version": "0.0.3",
+  "summary": "scikit-learn-compatible cross-validation for time-series and financial machine learning: purging, embargoes, combinatorial purged CV, and deflated Sharpe ratios.",
+  "author": "Evgenii Lazarev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "purgedcv-0.0.3.tar.gz",
+  "download_time": "2026-05-16T11:49:20.485196",
+  "package_url": "https://pypi.org/project/purgedcv/"
+}

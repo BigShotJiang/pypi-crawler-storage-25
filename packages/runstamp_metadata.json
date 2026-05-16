@@ -1,0 +1,11 @@
+{
+  "name": "runstamp",
+  "version": "1.0.0",
+  "summary": "Build a process/service runtime stamp from a format template and pluggable value sources",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "runstamp-1.0.0.tar.gz",
+  "download_time": "2026-05-16T11:49:54.201790",
+  "package_url": "https://pypi.org/project/runstamp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nyansqlite",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "A dict-like SQLite wrapper with APSW for instant persistence and memory caching",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nyansqlite-1.1.1.tar.gz",
-  "download_time": "2026-05-16T10:51:02.896933",
+  "download_filename": "nyansqlite-1.1.2.tar.gz",
+  "download_time": "2026-05-16T11:49:32.044066",
   "package_url": "https://pypi.org/project/nyansqlite/"
 }

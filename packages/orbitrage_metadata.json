@@ -1,0 +1,11 @@
+{
+  "name": "orbitrage",
+  "version": "0.4.2",
+  "summary": "One-line observability + intelligent LLM routing for Python agents.",
+  "author": "Orbitrage",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "orbitrage-0.4.2.tar.gz",
+  "download_time": "2026-05-16T11:49:23.594508",
+  "package_url": "https://pypi.org/project/orbitrage/"
+}

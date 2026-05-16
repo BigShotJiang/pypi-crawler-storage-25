@@ -1,11 +1,11 @@
 {
   "name": "chap-checker",
-  "version": "0.4.1",
+  "version": "0.5.1",
   "summary": "Health-check CLI for DHIS2 instances integrated with chap-core; cron-friendly with Slack alerts on status transitions.",
   "author": "Morten Hansen",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "chap_checker-0.4.1.tar.gz",
-  "download_time": "2026-05-16T10:50:42.864035",
+  "download_filename": "chap_checker-0.5.1.tar.gz",
+  "download_time": "2026-05-16T11:49:52.089212",
   "package_url": "https://pypi.org/project/chap-checker/"
 }

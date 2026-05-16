@@ -1,11 +1,11 @@
 {
   "name": "rubplus",
-  "version": "1.3.0",
+  "version": "1.5.0",
   "summary": "Official Rubika Bot API wrapper - Simple, Modern, Powerful",
   "author": "Mahdi Afsarbeki",
   "license": "MIT",
   "home_page": "https://github.com/mahdiafsarbeki/rubplus",
-  "download_filename": "rubplus-1.3.0.tar.gz",
-  "download_time": "2026-05-14T12:04:03.508374",
+  "download_filename": "rubplus-1.5.0.tar.gz",
+  "download_time": "2026-05-16T11:49:37.871931",
   "package_url": "https://pypi.org/project/rubplus/"
 }

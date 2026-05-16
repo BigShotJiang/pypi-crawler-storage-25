@@ -1,11 +1,11 @@
 {
   "name": "torch-weighttracker",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Tools for tracking structured weight sparsity in PyTorch models.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "torch_weighttracker-0.1.0.tar.gz",
-  "download_time": "2026-05-15T13:17:32.680059",
+  "download_filename": "torch_weighttracker-0.1.3.tar.gz",
+  "download_time": "2026-05-16T11:49:21.122831",
   "package_url": "https://pypi.org/project/torch-weighttracker/"
 }

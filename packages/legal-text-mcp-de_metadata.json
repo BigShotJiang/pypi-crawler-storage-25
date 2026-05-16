@@ -1,0 +1,11 @@
+{
+  "name": "legal-text-mcp-de",
+  "version": "1.0.0",
+  "summary": "Python MCP server and HTTP API for loading, validating, searching, and resolving German legal texts with source provenance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "legal_text_mcp_de-1.0.0.tar.gz",
+  "download_time": "2026-05-16T11:49:07.257021",
+  "package_url": "https://pypi.org/project/legal-text-mcp-de/"
+}

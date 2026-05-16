@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ferry",
+  "version": "0.1.0",
+  "summary": "Bridge local stdio MCP servers to public HTTPS behind Cloudflare Access Managed OAuth",
+  "author": "Darlin Alberto",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_ferry-0.1.0.tar.gz",
+  "download_time": "2026-05-16T11:49:10.460473",
+  "package_url": "https://pypi.org/project/mcp-ferry/"
+}

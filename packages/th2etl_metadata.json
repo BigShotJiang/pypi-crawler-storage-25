@@ -1,0 +1,11 @@
+{
+  "name": "th2etl",
+  "version": "0.0.2",
+  "summary": "A flexible ETL framework with a database-driven scheduler, extensible pipeline blocs, and a RESTful API.",
+  "author": "thaink2",
+  "license": null,
+  "home_page": null,
+  "download_filename": "th2etl-0.0.2.tar.gz",
+  "download_time": "2026-05-16T11:49:18.564434",
+  "package_url": "https://pypi.org/project/th2etl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dawg-sdk-python",
+  "version": "0.3.0",
+  "summary": "Python SDK for DAWG platform - managed headless browsers and HTTP scraping via CDP",
+  "author": "DAWG Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dawg_sdk_python-0.3.0.tar.gz",
+  "download_time": "2026-05-16T11:49:22.319326",
+  "package_url": "https://pypi.org/project/dawg-sdk-python/"
+}

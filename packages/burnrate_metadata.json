@@ -1,11 +1,11 @@
 {
   "name": "burnrate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Stop overpaying for AI. Audit, optimize, and overhaul your entire dev stack.",
   "author": "Nicholas Bateman",
   "license": null,
   "home_page": null,
-  "download_filename": "burnrate-0.1.0.tar.gz",
-  "download_time": "2026-05-16T09:15:24.941350",
+  "download_filename": "burnrate-0.1.1.tar.gz",
+  "download_time": "2026-05-16T11:49:46.605751",
   "package_url": "https://pypi.org/project/burnrate/"
 }

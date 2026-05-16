@@ -1,0 +1,11 @@
+{
+  "name": "rtfm-ai",
+  "version": "0.8.0",
+  "summary": "RTFM — The open retrieval layer for AI agents. Indexes code, docs, legal, research, data. Extensible parser system. Serves surgical context via MCP.",
+  "author": "roomi-fields",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rtfm_ai-0.8.0.tar.gz",
+  "download_time": "2026-05-16T11:49:34.670147",
+  "package_url": "https://pypi.org/project/rtfm-ai/"
+}
