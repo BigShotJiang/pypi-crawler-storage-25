@@ -1,11 +1,11 @@
 {
   "name": "QVideo",
-  "version": "3.9.0",
+  "version": "3.10.0",
   "summary": "PyQt-based framework for integrating video cameras into research applications",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "qvideo-3.9.0.tar.gz",
-  "download_time": "2026-05-16T10:50:38.772721",
+  "download_filename": "qvideo-3.10.0.tar.gz",
+  "download_time": "2026-05-16T14:24:07.339341",
   "package_url": "https://pypi.org/project/QVideo/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hawkapi-sentry",
+  "version": "0.2.0",
+  "summary": "Sentry integration for HawkAPI — plugin + middleware",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hawkapi_sentry-0.2.0.tar.gz",
+  "download_time": "2026-05-16T14:24:41.056134",
+  "package_url": "https://pypi.org/project/hawkapi-sentry/"
+}

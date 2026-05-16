@@ -1,11 +1,11 @@
 {
   "name": "typed-dydx",
-  "version": "1.0.5",
-  "summary": "A fully typed, validated async client for the dYdX API.",
+  "version": "2.0.6",
+  "summary": "A fully typed, validated async client for the dYdX Indexer, Node and CosmosSDK/CometBFT APIs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "typed_dydx-1.0.5.tar.gz",
-  "download_time": "2026-04-08T11:19:21.665248",
+  "download_filename": "typed_dydx-2.0.6.tar.gz",
+  "download_time": "2026-05-16T14:24:50.278789",
   "package_url": "https://pypi.org/project/typed-dydx/"
 }

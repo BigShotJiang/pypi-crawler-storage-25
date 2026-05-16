@@ -1,11 +1,11 @@
 {
   "name": "pirlygenes",
-  "version": "4.9.9",
-  "summary": "Gene lists for cancer immunotherapy expression analysis",
+  "version": "5.2.0",
+  "summary": "Curated cancer gene sets and reference expression data. Analysis lives in `trufflepig`.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pirlygenes-4.9.9.tar.gz",
-  "download_time": "2026-04-18T14:10:32.534883",
+  "download_filename": "pirlygenes-5.2.0.tar.gz",
+  "download_time": "2026-05-16T14:24:23.017543",
   "package_url": "https://pypi.org/project/pirlygenes/"
 }

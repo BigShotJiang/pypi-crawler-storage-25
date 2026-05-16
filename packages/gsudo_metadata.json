@@ -1,0 +1,11 @@
+{
+  "name": "gsudo",
+  "version": "0.0.1",
+  "summary": "Alias for zhmiscellanygsudo. Run Python as admin, SYSTEM, or TrustedInstaller on Windows.",
+  "author": "zh",
+  "license": null,
+  "home_page": "https://discord.gg/ThBBAuueVJ",
+  "download_filename": "gsudo-0.0.1-py3-none-any.whl",
+  "download_time": "2026-05-16T14:24:15.126730",
+  "package_url": "https://pypi.org/project/gsudo/"
+}

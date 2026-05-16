@@ -1,0 +1,11 @@
+{
+  "name": "orangebox",
+  "version": "0.5.0",
+  "summary": "A Cleanflight/Betaflight blackbox log parser written in Python 3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orangebox-0.5.0.tar.gz",
+  "download_time": "2026-05-16T14:24:49.253209",
+  "package_url": "https://pypi.org/project/orangebox/"
+}

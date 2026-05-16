@@ -1,11 +1,11 @@
 {
   "name": "limbi",
-  "version": "1.5.3",
+  "version": "1.5.8",
   "summary": "Omni-Agent Orchestration Platform — 87 specialised AI agents, any LLM provider.",
   "author": "Sayon Manna",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "limbi-1.5.3.tar.gz",
-  "download_time": "2026-05-16T12:58:09.930965",
+  "download_filename": "limbi-1.5.8.tar.gz",
+  "download_time": "2026-05-16T14:24:48.743038",
   "package_url": "https://pypi.org/project/limbi/"
 }

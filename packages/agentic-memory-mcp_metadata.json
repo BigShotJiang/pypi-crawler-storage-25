@@ -1,11 +1,11 @@
 {
   "name": "agentic-memory-mcp",
-  "version": "0.4.1",
+  "version": "0.6.0",
   "summary": "Agentic Memory Management via MCP — Knowledge Graph for AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentic_memory_mcp-0.4.1.tar.gz",
-  "download_time": "2026-05-15T17:24:11.685887",
+  "download_filename": "agentic_memory_mcp-0.6.0.tar.gz",
+  "download_time": "2026-05-16T14:24:36.946396",
   "package_url": "https://pypi.org/project/agentic-memory-mcp/"
 }

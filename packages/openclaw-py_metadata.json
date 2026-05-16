@@ -1,11 +1,11 @@
 {
   "name": "openclaw-py",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Multi-channel AI gateway with extensible messaging integrations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openclaw_py-0.2.1.tar.gz",
-  "download_time": "2026-05-09T14:04:39.501383",
+  "download_filename": "openclaw_py-0.3.0.tar.gz",
+  "download_time": "2026-05-16T14:24:14.052205",
   "package_url": "https://pypi.org/project/openclaw-py/"
 }

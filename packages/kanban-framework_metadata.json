@@ -1,11 +1,11 @@
 {
   "name": "kanban-framework",
-  "version": "0.13.28",
+  "version": "0.13.31",
   "summary": "Kanban multi-agent orchestration framework for Claude Code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kanban_framework-0.13.28.tar.gz",
-  "download_time": "2026-05-16T10:50:34.128766",
+  "download_filename": "kanban_framework-0.13.31.tar.gz",
+  "download_time": "2026-05-16T14:24:49.764505",
   "package_url": "https://pypi.org/project/kanban-framework/"
 }

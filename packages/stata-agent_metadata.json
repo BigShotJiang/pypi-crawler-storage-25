@@ -1,0 +1,11 @@
+{
+  "name": "stata-agent",
+  "version": "0.1.0",
+  "summary": "CLI-native Stata integration for AI agents. Run code, inspect data, retrieve results, export graphs, and test do-files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stata_agent-0.1.0.tar.gz",
+  "download_time": "2026-05-16T14:24:38.488121",
+  "package_url": "https://pypi.org/project/stata-agent/"
+}

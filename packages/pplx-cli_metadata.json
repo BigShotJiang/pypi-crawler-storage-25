@@ -1,0 +1,11 @@
+{
+  "name": "pplx-cli",
+  "version": "0.3.0",
+  "summary": "A command-line notes and RAG interface for Perplexity AI API",
+  "author": "xerexcoded",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pplx_cli-0.3.0.tar.gz",
+  "download_time": "2026-05-16T14:24:24.047370",
+  "package_url": "https://pypi.org/project/pplx-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "polnor-sqlalchemy",
+  "version": "0.1.0",
+  "summary": "SQLAlchemy dialect for Polnor — connect ORM, Alembic, pandas, FastAPI, Superset to the Polnor lakehouse.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "polnor_sqlalchemy-0.1.0.tar.gz",
+  "download_time": "2026-05-16T14:24:06.304530",
+  "package_url": "https://pypi.org/project/polnor-sqlalchemy/"
+}

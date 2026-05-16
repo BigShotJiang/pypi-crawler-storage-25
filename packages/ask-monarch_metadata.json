@@ -1,11 +1,11 @@
 {
   "name": "ask-monarch",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Thin CLI for the hosted Ask Monarch source plane",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ask_monarch-0.1.2.tar.gz",
-  "download_time": "2026-05-14T00:26:54.402972",
+  "download_filename": "ask_monarch-0.1.3.tar.gz",
+  "download_time": "2026-05-16T14:24:22.466659",
   "package_url": "https://pypi.org/project/ask-monarch/"
 }

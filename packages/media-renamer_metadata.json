@@ -1,11 +1,11 @@
 {
   "name": "media-renamer",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "summary": "Rename movie folders and files with TMDB-sourced IMDB-style formatting",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "media_renamer-1.2.0.tar.gz",
-  "download_time": "2026-05-16T10:51:10.587527",
+  "download_filename": "media_renamer-1.3.0.tar.gz",
+  "download_time": "2026-05-16T14:24:53.900259",
   "package_url": "https://pypi.org/project/media-renamer/"
 }
