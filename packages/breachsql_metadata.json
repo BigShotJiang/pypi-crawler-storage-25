@@ -1,0 +1,11 @@
+{
+  "name": "breachsql",
+  "version": "0.1.3",
+  "summary": "Context-aware SQL injection scanner with WAF detection and evasion",
+  "author": "CommonHuman-Lab",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "breachsql-0.1.3.tar.gz",
+  "download_time": "2026-05-16T17:44:04.431462",
+  "package_url": "https://pypi.org/project/breachsql/"
+}

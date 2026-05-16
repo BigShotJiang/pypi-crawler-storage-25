@@ -1,0 +1,11 @@
+{
+  "name": "LuaGame",
+  "version": "0.1.1",
+  "summary": "Always wanted to create games in LUA? Using this package, you can make games in lua, using the PYGAME package!",
+  "author": "V011DZ",
+  "license": "LicenseRef-LuaWrap-Custom",
+  "home_page": null,
+  "download_filename": "luagame-0.1.1.tar.gz",
+  "download_time": "2026-05-16T17:44:09.101105",
+  "package_url": "https://pypi.org/project/LuaGame/"
+}

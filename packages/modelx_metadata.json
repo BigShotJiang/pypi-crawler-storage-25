@@ -1,0 +1,11 @@
+{
+  "name": "modelx",
+  "version": "0.31.0",
+  "summary": "Build and run complex models composed of formulas and data",
+  "author": "Fumito Hamamura",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/fumitoh/modelx",
+  "download_filename": "modelx-0.31.0.tar.gz",
+  "download_time": "2026-05-16T17:44:03.916762",
+  "package_url": "https://pypi.org/project/modelx/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aioamazondevices",
-  "version": "13.5.1",
+  "version": "13.7.0",
   "summary": "Python library to control Amazon devices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aioamazondevices-13.5.1.tar.gz",
-  "download_time": "2026-05-14T07:36:37.957364",
+  "download_filename": "aioamazondevices-13.7.0.tar.gz",
+  "download_time": "2026-05-16T17:43:39.063941",
   "package_url": "https://pypi.org/project/aioamazondevices/"
 }

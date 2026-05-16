@@ -1,11 +1,11 @@
 {
   "name": "terminus-game",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Multiplayer CLI survival strategy game",
   "author": "Terminus Dev",
   "license": null,
   "home_page": null,
-  "download_filename": "terminus_game-0.1.0.tar.gz",
-  "download_time": "2026-05-16T11:49:19.201448",
+  "download_filename": "terminus_game-0.2.1.tar.gz",
+  "download_time": "2026-05-16T17:43:40.108079",
   "package_url": "https://pypi.org/project/terminus-game/"
 }

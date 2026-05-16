@@ -1,11 +1,11 @@
 {
   "name": "typos",
-  "version": "1.45.2",
+  "version": "1.46.2",
   "summary": "Source Code Spelling Correction",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "typos-1.45.2.tar.gz",
-  "download_time": "2026-04-27T16:16:59.948586",
+  "download_filename": "typos-1.46.2-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-16T17:43:36.495173",
   "package_url": "https://pypi.org/project/typos/"
 }
