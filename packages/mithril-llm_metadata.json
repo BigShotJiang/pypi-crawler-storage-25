@@ -1,0 +1,11 @@
+{
+  "name": "mithril-llm",
+  "version": "0.3.0",
+  "summary": "A firewall for LLMs — block prompt injection, jailbreaks, and PII exfiltration in real time.",
+  "author": "Mithril contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mithril_llm-0.3.0.tar.gz",
+  "download_time": "2026-05-16T22:41:50.778878",
+  "package_url": "https://pypi.org/project/mithril-llm/"
+}

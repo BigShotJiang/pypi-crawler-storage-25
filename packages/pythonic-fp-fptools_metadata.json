@@ -1,11 +1,11 @@
 {
   "name": "pythonic-fp-fptools",
-  "version": "5.3.0",
-  "summary": "Functional Programming Tools",
+  "version": "5.4.0",
+  "summary": ".. admonition:: Functional programming tools for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pythonic_fp_fptools-5.3.0.tar.gz",
-  "download_time": "2026-05-09T19:23:25.073426",
+  "download_filename": "pythonic_fp_fptools-5.4.0.tar.gz",
+  "download_time": "2026-05-16T22:42:22.943235",
   "package_url": "https://pypi.org/project/pythonic-fp-fptools/"
 }

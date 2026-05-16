@@ -1,11 +1,11 @@
 {
   "name": "mediathekwatch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Monitor ARD Mediathek series for new episodes and download them via yt-dlp",
   "author": "Stefan Meinecke",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mediathekwatch-0.1.0.tar.gz",
-  "download_time": "2026-05-16T20:08:30.224683",
+  "download_filename": "mediathekwatch-0.1.1.tar.gz",
+  "download_time": "2026-05-16T22:42:23.486174",
   "package_url": "https://pypi.org/project/mediathekwatch/"
 }

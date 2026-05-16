@@ -1,11 +1,11 @@
 {
   "name": "pypi-profile",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "The missing PyPI(tm) profile page — link your profile with signatures. Not associated with PSF.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypi_profile-0.2.0.tar.gz",
-  "download_time": "2026-05-16T17:43:55.646066",
+  "download_filename": "pypi_profile-0.3.0.tar.gz",
+  "download_time": "2026-05-16T22:42:11.432060",
   "package_url": "https://pypi.org/project/pypi-profile/"
 }

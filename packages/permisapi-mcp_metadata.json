@@ -1,11 +1,11 @@
 {
   "name": "permisapi-mcp",
-  "version": "0.5.4",
-  "summary": "Serveur MCP pour PermisAPI : 14 outils pour consulter 1,2 M+ permis de construire de France (2014-2026) depuis Claude Desktop, Cursor, Windsurf et tout client MCP-compatible. v0.5.4 ajoute le tool get_commune_density_stats (stats macro densité urbaine par commune : parcelles + bâtiments + permits + distribution Score MDB, plan Business+) pour le sprint 10 cadastre Prio 7.",
+  "version": "0.5.5",
+  "summary": "Serveur MCP pour PermisAPI : 15 outils pour consulter 1,2 M+ permis de construire de France (2014-2026) depuis Claude Desktop, Cursor, Windsurf et tout client MCP-compatible. v0.5.5 ajoute le tool get_neighbor_parcels (parcelles cadastrales voisines d'un permis dans un rayon configurable 10-2000 m + leur historique permits, plan Pro+) pour le sprint 11 cadastre Prio 8 (killer feature Marchand de Biens : pattern d'activité local autour d'un permis identifié).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "permisapi_mcp-0.5.4.tar.gz",
-  "download_time": "2026-05-16T20:08:43.141988",
+  "download_filename": "permisapi_mcp-0.5.5.tar.gz",
+  "download_time": "2026-05-16T22:42:00.355657",
   "package_url": "https://pypi.org/project/permisapi-mcp/"
 }

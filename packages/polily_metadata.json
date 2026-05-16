@@ -1,11 +1,11 @@
 {
   "name": "polily",
-  "version": "0.11.5",
+  "version": "0.12.0",
   "summary": "A Polymarket monitoring agent that actually works — finds structure, watches movement, sizes risk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polily-0.11.5.tar.gz",
-  "download_time": "2026-05-05T10:31:03.331188",
+  "download_filename": "polily-0.12.0.tar.gz",
+  "download_time": "2026-05-16T22:42:37.306708",
   "package_url": "https://pypi.org/project/polily/"
 }

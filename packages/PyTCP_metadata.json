@@ -1,0 +1,11 @@
+{
+  "name": "PyTCP",
+  "version": "3.0.4",
+  "summary": "Pure-Python, zero-dependency TCP/IP stack — Ethernet through RFC 9293 TCP — running in user space on a TAP/TUN interface, with a Berkeley-sockets API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytcp-3.0.4.tar.gz",
+  "download_time": "2026-05-16T22:42:09.790424",
+  "package_url": "https://pypi.org/project/PyTCP/"
+}

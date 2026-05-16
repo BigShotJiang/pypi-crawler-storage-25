@@ -1,11 +1,11 @@
 {
   "name": "oxl-ansible-executor-plugins",
-  "version": "0.6",
+  "version": "0.8",
   "summary": "Ansible-Plugins for the Simple & Transparent Executor for Ansible-Playbooks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oxl_ansible_executor_plugins-0.6.tar.gz",
-  "download_time": "2026-05-16T20:56:53.813891",
+  "download_filename": "oxl_ansible_executor_plugins-0.8.tar.gz",
+  "download_time": "2026-05-16T22:42:19.076231",
   "package_url": "https://pypi.org/project/oxl-ansible-executor-plugins/"
 }

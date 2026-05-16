@@ -1,0 +1,11 @@
+{
+  "name": "swagger2drawio",
+  "version": "1.0.0",
+  "summary": "Generate structured Draw.io diagrams from OpenAPI 3.x / Swagger 2.0 specs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swagger2drawio-1.0.0.tar.gz",
+  "download_time": "2026-05-16T22:42:21.285779",
+  "package_url": "https://pypi.org/project/swagger2drawio/"
+}

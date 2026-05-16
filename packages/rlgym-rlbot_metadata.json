@@ -1,0 +1,11 @@
+{
+  "name": "rlgym-rlbot",
+  "version": "0.3.0",
+  "summary": "Wrapper logic to use bots trained with RLGym v2 using the RocketSimTransitionEngine in RLBot v5",
+  "author": "Jonathan Keegan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rlgym_rlbot-0.3.0.tar.gz",
+  "download_time": "2026-05-16T22:42:06.473424",
+  "package_url": "https://pypi.org/project/rlgym-rlbot/"
+}

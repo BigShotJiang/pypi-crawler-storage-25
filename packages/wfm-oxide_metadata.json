@@ -1,11 +1,11 @@
 {
   "name": "wfm-oxide",
-  "version": "0.4.0",
-  "summary": null,
+  "version": "0.4.1",
+  "summary": "Fast zero-copy parser for oscilloscope waveform files (Rigol, Tektronix, Keysight, Siglent, LeCroy, Rohde & Schwarz)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wfm_oxide-0.4.0-cp38-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2026-05-16T20:56:38.666967",
+  "download_filename": "wfm_oxide-0.4.1-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-16T22:42:35.568155",
   "package_url": "https://pypi.org/project/wfm-oxide/"
 }

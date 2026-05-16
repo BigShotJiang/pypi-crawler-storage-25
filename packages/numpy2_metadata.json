@@ -1,0 +1,11 @@
+{
+  "name": "numpy2",
+  "version": "2.4.0",
+  "summary": "Pure-Python NumPy drop-in: full NumPy API + JSON serialization, array compression, pipeline transforms, schema validation, zero dependencies",
+  "author": "Mahesh Makvana",
+  "license": "MIT",
+  "home_page": "https://github.com/maheshmakvana/numpy2",
+  "download_filename": "numpy2-2.4.0.tar.gz",
+  "download_time": "2026-05-16T22:41:51.358790",
+  "package_url": "https://pypi.org/project/numpy2/"
+}

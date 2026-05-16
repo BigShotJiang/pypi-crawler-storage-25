@@ -1,11 +1,11 @@
 {
   "name": "tha-req-runner",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A Tabular Helper API library that wraps requests with thread-safe session reuse, automatic retries, and a normalized response dict.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tha_req_runner-0.1.1.tar.gz",
-  "download_time": "2026-05-16T21:48:03.096644",
+  "download_filename": "tha_req_runner-0.2.0.tar.gz",
+  "download_time": "2026-05-16T22:42:07.562728",
   "package_url": "https://pypi.org/project/tha-req-runner/"
 }

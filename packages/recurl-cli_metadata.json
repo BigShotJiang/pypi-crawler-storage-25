@@ -1,0 +1,11 @@
+{
+  "name": "recurl-cli",
+  "version": "0.1.2",
+  "summary": "Drop-in curl replacement with automatic anti-bot bypass",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "recurl_cli-0.1.2.tar.gz",
+  "download_time": "2026-05-16T22:42:33.899971",
+  "package_url": "https://pypi.org/project/recurl-cli/"
+}

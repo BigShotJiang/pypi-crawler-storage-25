@@ -1,0 +1,11 @@
+{
+  "name": "ai-provider-tracker",
+  "version": "0.7.1",
+  "summary": "Unified usage and cost tracking for AI providers such as FAL.AI and OpenRouter.",
+  "author": "Luis Eduardo Farfan Melgar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_provider_tracker-0.7.1.tar.gz",
+  "download_time": "2026-05-16T22:41:49.629809",
+  "package_url": "https://pypi.org/project/ai-provider-tracker/"
+}

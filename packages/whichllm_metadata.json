@@ -1,11 +1,11 @@
 {
   "name": "whichllm",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "Find the best LLM that runs on your hardware",
   "author": "Andyyyy64",
   "license": null,
   "home_page": null,
-  "download_filename": "whichllm-0.5.4.tar.gz",
-  "download_time": "2026-05-16T17:43:48.373469",
+  "download_filename": "whichllm-0.5.5.tar.gz",
+  "download_time": "2026-05-16T22:42:29.483204",
   "package_url": "https://pypi.org/project/whichllm/"
 }
