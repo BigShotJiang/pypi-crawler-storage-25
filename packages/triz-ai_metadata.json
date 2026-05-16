@@ -1,11 +1,11 @@
 {
   "name": "triz-ai",
-  "version": "0.16.2",
+  "version": "0.17.0",
   "summary": "AI-Powered TRIZ Innovation Engine — combines TRIZ methodology with AI and real patent data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "triz_ai-0.16.2.tar.gz",
-  "download_time": "2026-04-24T19:59:41.373345",
+  "download_filename": "triz_ai-0.17.0.tar.gz",
+  "download_time": "2026-05-16T09:15:07.114621",
   "package_url": "https://pypi.org/project/triz-ai/"
 }

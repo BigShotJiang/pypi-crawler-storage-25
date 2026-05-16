@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-studio",
+  "version": "0.1.1",
+  "summary": "Interactive editor for Pydantic models — produces config.yaml/.toml/.json",
+  "author": "pydantic-studio contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_studio-0.1.1.tar.gz",
+  "download_time": "2026-05-16T09:15:33.324687",
+  "package_url": "https://pypi.org/project/pydantic-studio/"
+}

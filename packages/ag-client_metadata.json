@@ -1,11 +1,11 @@
 {
   "name": "ag-client",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "summary": "Official Python client for Aegis — orchestration middleware for Claude Code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ag_client-0.6.6.tar.gz",
-  "download_time": "2026-05-07T05:59:48.729618",
+  "download_filename": "ag_client-0.6.7.tar.gz",
+  "download_time": "2026-05-16T09:15:16.298839",
   "package_url": "https://pypi.org/project/ag-client/"
 }

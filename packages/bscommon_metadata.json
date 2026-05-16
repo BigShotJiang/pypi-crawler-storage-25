@@ -1,11 +1,11 @@
 {
   "name": "bscommon",
-  "version": "0.0.89",
+  "version": "0.0.91",
   "summary": "冰鼠常用操作库",
   "author": "bs",
   "license": null,
   "home_page": null,
-  "download_filename": "bscommon-0.0.89.tar.gz",
-  "download_time": "2026-05-15T13:16:52.021564",
+  "download_filename": "bscommon-0.0.91.tar.gz",
+  "download_time": "2026-05-16T09:15:01.804719",
   "package_url": "https://pypi.org/project/bscommon/"
 }

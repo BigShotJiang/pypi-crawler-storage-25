@@ -1,0 +1,11 @@
+{
+  "name": "eml-units",
+  "version": "0.1.0",
+  "summary": "Warning-first unit and range checker for EML-style contract sidecars.",
+  "author": "Monogate Research",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "eml_units-0.1.0.tar.gz",
+  "download_time": "2026-05-16T09:15:02.441752",
+  "package_url": "https://pypi.org/project/eml-units/"
+}

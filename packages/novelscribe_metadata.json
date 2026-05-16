@@ -1,11 +1,11 @@
 {
   "name": "novelscribe",
-  "version": "6.2.8",
+  "version": "6.3.3",
   "summary": "AI-powered autonomous novel generation system — install with 'pip install novelscribe', run with 'scribe'",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "novelscribe-6.2.8.tar.gz",
-  "download_time": "2026-05-12T20:26:46.942879",
+  "download_filename": "novelscribe-6.3.3.tar.gz",
+  "download_time": "2026-05-16T09:15:30.840930",
   "package_url": "https://pypi.org/project/novelscribe/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "radia",
-  "version": "4.47.2",
+  "version": "4.52.0",
   "summary": "Radia 3D Magnetostatics with NGSolve Integration and TaskManager Parallelization",
   "author": "Pascal Elleaume",
   "license": "BSD-style AND MIT",
   "home_page": null,
-  "download_filename": "radia-4.47.2-cp312-cp312-win_amd64.whl",
-  "download_time": "2026-05-15T05:53:02.338684",
+  "download_filename": "radia-4.52.0-cp312-cp312-win_amd64.whl",
+  "download_time": "2026-05-16T09:15:11.117416",
   "package_url": "https://pypi.org/project/radia/"
 }

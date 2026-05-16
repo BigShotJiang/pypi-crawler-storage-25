@@ -1,11 +1,11 @@
 {
   "name": "gitsvg",
-  "version": "0.1.0",
+  "version": "0.1.7",
   "summary": "CLI that renders git tree visualizations as SVG from JSONL input.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gitsvg-0.1.0.tar.gz",
-  "download_time": "2026-05-10T06:58:52.191806",
+  "download_filename": "gitsvg-0.1.7.tar.gz",
+  "download_time": "2026-05-16T09:15:20.063406",
   "package_url": "https://pypi.org/project/gitsvg/"
 }

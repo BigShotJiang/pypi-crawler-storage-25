@@ -1,0 +1,11 @@
+{
+  "name": "localcore-gateway",
+  "version": "0.1.0",
+  "summary": "Local, faithful-enough reimplementation of AWS Bedrock AgentCore Gateway, with a pluggable local Lambda backend.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "localcore_gateway-0.1.0.tar.gz",
+  "download_time": "2026-05-16T09:15:07.752389",
+  "package_url": "https://pypi.org/project/localcore-gateway/"
+}

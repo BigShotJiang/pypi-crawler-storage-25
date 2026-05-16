@@ -1,0 +1,11 @@
+{
+  "name": "omnivideo-sdk",
+  "version": "0.1.0",
+  "summary": "Omni Video Python SDK — generate video and image content with the Gemini Omni Video series of models.",
+  "author": "Omni Video",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omnivideo_sdk-0.1.0.tar.gz",
+  "download_time": "2026-05-16T09:15:18.093733",
+  "package_url": "https://pypi.org/project/omnivideo-sdk/"
+}

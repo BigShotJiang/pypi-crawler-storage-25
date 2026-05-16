@@ -1,0 +1,11 @@
+{
+  "name": "ryann",
+  "version": "0.0.9",
+  "summary": "ryaNNA library created for training our own architectures. Fully compatible with PyTorch. IMPORTANT - the Russian translation may be off and written with issues.",
+  "author": "Radmir Ryan",
+  "license": null,
+  "home_page": "https://huggingface.co/BIGAI-models",
+  "download_filename": "ryann-0.0.9-py3-none-any.whl",
+  "download_time": "2026-05-16T09:15:13.745834",
+  "package_url": "https://pypi.org/project/ryann/"
+}
