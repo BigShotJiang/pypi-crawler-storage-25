@@ -1,11 +1,11 @@
 {
   "name": "sibyl-memory-client",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "Local-first agentic memory SDK. SQLite-backed five-tier hierarchical schema, FTS5 search, multi-tenant, with self-learning skill detection and local memory linter. Foundation of the Sibyl Memory Plugin family.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sibyl_memory_client-0.3.0.tar.gz",
-  "download_time": "2026-05-16T20:56:33.501837",
+  "download_filename": "sibyl_memory_client-0.3.2.tar.gz",
+  "download_time": "2026-05-16T23:43:44.150854",
   "package_url": "https://pypi.org/project/sibyl-memory-client/"
 }

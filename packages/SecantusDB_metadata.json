@@ -1,11 +1,11 @@
 {
   "name": "SecantusDB",
-  "version": "0.5.1b15",
+  "version": "0.5.1b16",
   "summary": "An embeddable, MongoDB compatible, document database, built on WiredTiger",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "secantusdb-0.5.1b15.tar.gz",
-  "download_time": "2026-05-16T22:42:20.741110",
+  "download_filename": "secantusdb-0.5.1b16.tar.gz",
+  "download_time": "2026-05-16T23:44:23.480664",
   "package_url": "https://pypi.org/project/SecantusDB/"
 }

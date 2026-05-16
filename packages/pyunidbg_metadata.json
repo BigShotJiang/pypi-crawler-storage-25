@@ -1,0 +1,11 @@
+{
+  "name": "pyunidbg",
+  "version": "0.2.0",
+  "summary": "Pure-Python multi-architecture native library emulator (Android/iOS) with JNI, hooks, GDB and a web UI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyunidbg-0.2.0.tar.gz",
+  "download_time": "2026-05-16T23:43:56.070904",
+  "package_url": "https://pypi.org/project/pyunidbg/"
+}

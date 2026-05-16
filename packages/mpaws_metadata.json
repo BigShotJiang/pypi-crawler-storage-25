@@ -1,0 +1,11 @@
+{
+  "name": "mpaws",
+  "version": "1.0.2",
+  "summary": "Execute AWS CLI across multiple profiles and multiple regions in one go",
+  "author": "Cliffano Subagio",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mpaws-1.0.2.tar.gz",
+  "download_time": "2026-05-16T23:44:04.871214",
+  "package_url": "https://pypi.org/project/mpaws/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sibyl-memory-hermes",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Hermes Agent memory provider for the Sibyl Memory Plugin family. Local-first, SQLite-backed, structured-tier memory for Hermes v0.10.0+.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sibyl_memory_hermes-0.2.0.tar.gz",
-  "download_time": "2026-05-16T20:56:32.990944",
+  "download_filename": "sibyl_memory_hermes-0.2.2.tar.gz",
+  "download_time": "2026-05-16T23:43:43.125629",
   "package_url": "https://pypi.org/project/sibyl-memory-hermes/"
 }

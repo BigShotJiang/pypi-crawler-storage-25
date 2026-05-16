@@ -1,11 +1,11 @@
 {
   "name": "locus-sdk",
-  "version": "0.2.0b9",
+  "version": "0.2.0b11",
   "summary": "Multi-agent workflows for Python — stream them, branch them, pause for a human, resume next week. Built on Oracle Generative AI.",
   "author": "Federico Kamelhar",
   "license": null,
   "home_page": null,
-  "download_filename": "locus_sdk-0.2.0b9.tar.gz",
-  "download_time": "2026-05-14T18:28:43.898680",
+  "download_filename": "locus_sdk-0.2.0b11.tar.gz",
+  "download_time": "2026-05-16T23:44:02.763079",
   "package_url": "https://pypi.org/project/locus-sdk/"
 }

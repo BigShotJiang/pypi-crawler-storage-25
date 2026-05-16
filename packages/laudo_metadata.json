@@ -1,0 +1,11 @@
+{
+  "name": "laudo",
+  "version": "0.1.0",
+  "summary": "Generate forensic report using docxtpl templates",
+  "author": "renatormc",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "laudo-0.1.0.tar.gz",
+  "download_time": "2026-05-16T23:43:55.554408",
+  "package_url": "https://pypi.org/project/laudo/"
+}

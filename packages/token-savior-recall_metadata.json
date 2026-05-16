@@ -1,0 +1,11 @@
+{
+  "name": "token-savior-recall",
+  "version": "3.3.0",
+  "summary": "Structural codebase MCP server with persistent memory engine — 97% token savings + cross-session recall for Claude Code",
+  "author": "Mibay",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "token_savior_recall-3.3.0.tar.gz",
+  "download_time": "2026-05-16T23:44:06.409671",
+  "package_url": "https://pypi.org/project/token-savior-recall/"
+}

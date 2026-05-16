@@ -1,0 +1,11 @@
+{
+  "name": "xtop",
+  "version": "0.6.1",
+  "summary": "xtop, a command line xpu hardware monitoring tool that supports CPU, GPU, and NPU.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "xtop-0.6.1.tar.gz",
+  "download_time": "2026-05-16T23:43:56.584551",
+  "package_url": "https://pypi.org/project/xtop/"
+}

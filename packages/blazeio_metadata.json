@@ -1,11 +1,11 @@
 {
   "name": "blazeio",
-  "version": "4.0.7",
+  "version": "4.1.0",
   "summary": "Blazeio",
   "author": "Anonyxbiz",
   "license": "MIT",
   "home_page": "https://github.com/anonyxbiz/Blazeio",
-  "download_filename": "blazeio-4.0.7-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
-  "download_time": "2026-05-13T00:10:49.252563",
+  "download_filename": "blazeio-4.1.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2026-05-16T23:43:51.945494",
   "package_url": "https://pypi.org/project/blazeio/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ado-source-core",
+  "version": "0.3.0",
+  "summary": "Read-only Azure DevOps API client and Pydantic models. OSS library shared by ado-scanner and Shyftport engines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ado_source_core-0.3.0.tar.gz",
+  "download_time": "2026-05-16T23:44:14.115177",
+  "package_url": "https://pypi.org/project/ado-source-core/"
+}

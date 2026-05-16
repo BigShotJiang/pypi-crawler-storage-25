@@ -1,11 +1,11 @@
 {
   "name": "fastclaw-ai",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "summary": "FastClaw - AI Agent Framework with multi-channel support",
   "author": "kandada",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "fastclaw_ai-1.1.1.tar.gz",
-  "download_time": "2026-04-08T15:47:30.440479",
+  "download_filename": "fastclaw_ai-1.1.3.tar.gz",
+  "download_time": "2026-05-16T23:43:48.257981",
   "package_url": "https://pypi.org/project/fastclaw-ai/"
 }
