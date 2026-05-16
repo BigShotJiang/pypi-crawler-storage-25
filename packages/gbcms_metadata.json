@@ -1,11 +1,11 @@
 {
   "name": "gbcms",
-  "version": "4.2.0",
+  "version": "5.3.0",
   "summary": "Python implementation of GetBaseCountsMultiSample (gbcms) for calculating base counts in BAM files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gbcms-4.2.0.tar.gz",
-  "download_time": "2026-05-11T00:20:53.735087",
+  "download_filename": "gbcms-5.3.0.tar.gz",
+  "download_time": "2026-05-16T10:51:03.928336",
   "package_url": "https://pypi.org/project/gbcms/"
 }

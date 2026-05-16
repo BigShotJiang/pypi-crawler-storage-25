@@ -1,11 +1,11 @@
 {
   "name": "pyXenium",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "summary": "Xenium I/O, multimodal analysis, topology workflows, contour-native spatial profiling, GMI inference, mechanostress analysis, and optional external workflow bridges.",
   "author": "Taobo Hu",
   "license": null,
   "home_page": null,
-  "download_filename": "pyxenium-0.4.5.tar.gz",
-  "download_time": "2026-05-08T12:15:41.299626",
+  "download_filename": "pyxenium-0.4.6.tar.gz",
+  "download_time": "2026-05-16T10:51:06.491886",
   "package_url": "https://pypi.org/project/pyXenium/"
 }

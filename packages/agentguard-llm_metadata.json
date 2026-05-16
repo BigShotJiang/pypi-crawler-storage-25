@@ -1,0 +1,11 @@
+{
+  "name": "agentguard-llm",
+  "version": "0.2.4",
+  "summary": "Production-grade fault tolerance for AI agents ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â circuit breakers, LLM-aware retry, idempotency, loop detection, fallback chains, async support, health monitoring, and budget enforcement for LangChain, AutoGen, CrewAI, and any LLM pipeline",
+  "author": "AgentGuard Contributors",
+  "license": null,
+  "home_page": "https://github.com/agentguard-ai/agentguard",
+  "download_filename": "agentguard_llm-0.2.4.tar.gz",
+  "download_time": "2026-05-16T10:50:44.909368",
+  "package_url": "https://pypi.org/project/agentguard-llm/"
+}

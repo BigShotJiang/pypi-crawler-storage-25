@@ -1,11 +1,11 @@
 {
   "name": "aipa-cli",
-  "version": "0.1.22",
+  "version": "0.1.32",
   "summary": "Terminal TUI for AI-powered ticker analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aipa_cli-0.1.22.tar.gz",
-  "download_time": "2026-05-10T17:06:03.655889",
+  "download_filename": "aipa_cli-0.1.32.tar.gz",
+  "download_time": "2026-05-16T10:50:40.304906",
   "package_url": "https://pypi.org/project/aipa-cli/"
 }

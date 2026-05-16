@@ -1,11 +1,11 @@
 {
   "name": "memee",
-  "version": "2.0.1",
+  "version": "2.4.8",
   "summary": "Cross-model shared memory for AI agents. One canon. Every model, every project, every teammate.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memee-2.0.1.tar.gz",
-  "download_time": "2026-04-27T17:50:46.327674",
+  "download_filename": "memee-2.4.8.tar.gz",
+  "download_time": "2026-05-16T10:50:51.630641",
   "package_url": "https://pypi.org/project/memee/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pii-firewall",
+  "version": "0.2.2",
+  "summary": "Open-source PII firewall for LLM apps. Detect, anonymize and rehydrate sensitive data before it reaches OpenAI, Anthropic or any LLM provider.",
+  "author": "neretj",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pii_firewall-0.2.2.tar.gz",
+  "download_time": "2026-05-16T10:50:30.042551",
+  "package_url": "https://pypi.org/project/pii-firewall/"
+}
