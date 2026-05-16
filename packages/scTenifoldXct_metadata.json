@@ -1,0 +1,11 @@
+{
+  "name": "scTenifoldXct",
+  "version": "0.2.0",
+  "summary": "A semi-supervised method for predicting cell-cell interactions and mapping cellular communication graphs via manifold learning",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sctenifoldxct-0.2.0.tar.gz",
+  "download_time": "2026-05-16T18:58:52.666026",
+  "package_url": "https://pypi.org/project/scTenifoldXct/"
+}

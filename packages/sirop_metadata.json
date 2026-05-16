@@ -1,11 +1,11 @@
 {
   "name": "sirop",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "summary": "Canadian/Quebec Bitcoin‑First Crypto Tax Calculator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sirop-0.3.2.tar.gz",
-  "download_time": "2026-04-03T19:55:11.057945",
+  "download_filename": "sirop-0.4.0.tar.gz",
+  "download_time": "2026-05-16T18:58:32.620667",
   "package_url": "https://pypi.org/project/sirop/"
 }

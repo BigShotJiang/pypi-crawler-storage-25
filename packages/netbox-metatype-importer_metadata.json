@@ -1,0 +1,11 @@
+{
+  "name": "netbox-metatype-importer",
+  "version": "0.10.0",
+  "summary": "Easily import Device and Module types from GitHub repo",
+  "author": "Abhimanyu Saharan",
+  "license": null,
+  "home_page": "https://github.com/Onemind-Services-LLC/netbox-metatype-importer",
+  "download_filename": "netbox_metatype_importer-0.10.0.tar.gz",
+  "download_time": "2026-05-16T18:58:49.542816",
+  "package_url": "https://pypi.org/project/netbox-metatype-importer/"
+}

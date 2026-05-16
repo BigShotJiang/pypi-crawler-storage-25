@@ -1,11 +1,11 @@
 {
   "name": "claude-status",
-  "version": "0.5.6",
+  "version": "0.6.0",
   "summary": "Beautiful, informative status line for Claude Code — zero dependencies, cross-platform",
   "author": "Mallikarjuna",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_status-0.5.6.tar.gz",
-  "download_time": "2026-04-24T16:15:15.757703",
+  "download_filename": "claude_status-0.6.0.tar.gz",
+  "download_time": "2026-05-16T18:58:04.819736",
   "package_url": "https://pypi.org/project/claude-status/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "data-hygiene-auditor",
+  "version": "1.1.0",
+  "summary": "A linter for your data — detect mixed formats, misused fields, placeholder floods, and phantom duplicates in Excel and CSV files",
+  "author": "Lailara LLC",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "data_hygiene_auditor-1.1.0.tar.gz",
+  "download_time": "2026-05-16T18:58:24.933833",
+  "package_url": "https://pypi.org/project/data-hygiene-auditor/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "neruva-mcp",
-  "version": "0.10.0",
+  "version": "0.15.0",
   "summary": "Model Context Protocol server for Neruva — typed agentic memory (Records: decisions, mistakes, llm_turns, tool_calls), knowledge graph with 4 engines (Hadamard / OPB / multi-shard / quorum / feature-bundle) + raw-text ingest + N-hop matrix-power derive + customizable context blocks, Pearl's do-operator, HD analogy, plus self-introspection (wallet, op stats, op log, keys). Drop-in for any MCP host.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neruva_mcp-0.10.0.tar.gz",
-  "download_time": "2026-05-16T15:29:41.074094",
+  "download_filename": "neruva_mcp-0.15.0.tar.gz",
+  "download_time": "2026-05-16T18:58:35.736177",
   "package_url": "https://pypi.org/project/neruva-mcp/"
 }

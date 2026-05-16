@@ -1,0 +1,11 @@
+{
+  "name": "convert-poetry2uv",
+  "version": "0.3.14",
+  "summary": "Poetry to uv tool. To migrate from a poetry managed repo to uv.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "convert_poetry2uv-0.3.14.tar.gz",
+  "download_time": "2026-05-16T18:58:19.292241",
+  "package_url": "https://pypi.org/project/convert-poetry2uv/"
+}

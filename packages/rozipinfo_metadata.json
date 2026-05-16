@@ -1,0 +1,11 @@
+{
+  "name": "rozipinfo",
+  "version": "1.0.75",
+  "summary": "Managing Zip archives with RISC OS filetype information present",
+  "author": "Charles Ferguson",
+  "license": "BSD",
+  "home_page": "https://github.com/gerph/python-zipinfo-riscos",
+  "download_filename": "rozipinfo-1.0.75.tar.gz",
+  "download_time": "2026-05-16T18:58:43.139113",
+  "package_url": "https://pypi.org/project/rozipinfo/"
+}

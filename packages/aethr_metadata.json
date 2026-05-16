@@ -1,11 +1,11 @@
 {
   "name": "aethr",
-  "version": "0.1.15",
+  "version": "1.0.0",
   "summary": "A lightweight CLI for explicit, reproducible AI coding workflows.",
   "author": "Archana Pradeep",
   "license": null,
   "home_page": null,
-  "download_filename": "aethr-0.1.15.tar.gz",
-  "download_time": "2026-05-15T23:50:13.179461",
+  "download_filename": "aethr-1.0.0-py3-none-any.whl",
+  "download_time": "2026-05-16T18:58:46.368385",
   "package_url": "https://pypi.org/project/aethr/"
 }

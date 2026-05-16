@@ -1,11 +1,11 @@
 {
   "name": "vapoursynth-dfttest2-hiprtc",
-  "version": "10.1",
+  "version": "10.2",
   "summary": "A VapourSynth re-implementation of DFTTest, using AMD Runtime Compilation (HIPRTC) for GPU acceleration.",
   "author": "WolframRhodium",
   "license": null,
   "home_page": null,
-  "download_filename": "vapoursynth_dfttest2_hiprtc-10.1.tar.gz",
-  "download_time": "2026-05-16T17:43:53.062046",
+  "download_filename": "vapoursynth_dfttest2_hiprtc-10.2.tar.gz",
+  "download_time": "2026-05-16T18:58:12.920908",
   "package_url": "https://pypi.org/project/vapoursynth-dfttest2-hiprtc/"
 }

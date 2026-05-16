@@ -1,0 +1,11 @@
+{
+  "name": "cambium-ai",
+  "version": "0.1.0",
+  "summary": "Cambium — a bounded-agent behavioral coherence engine. The deterministic spine decides what to ask. The model only answers. The eval framework decides whether the answer counted.",
+  "author": "Pumulo Sikaneta",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/oakquant-ai/cambium",
+  "download_filename": "cambium_ai-0.1.0.tar.gz",
+  "download_time": "2026-05-16T18:58:04.170514",
+  "package_url": "https://pypi.org/project/cambium-ai/"
+}

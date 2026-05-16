@@ -1,0 +1,11 @@
+{
+  "name": "npmai",
+  "version": "0.1.9",
+  "summary": "npmai is a lightweight Python package designed to bridge the gap between users and open-source LLMs. Connect with Ollama and 45+ other powerful models instantly— no installation, no login, and no API keys required, and help in development of RAG Agents without installing anything locally or on cloud and it is free without sigin or signup or any type of limit.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "npmai-0.1.9.tar.gz",
+  "download_time": "2026-05-16T18:58:19.819337",
+  "package_url": "https://pypi.org/project/npmai/"
+}

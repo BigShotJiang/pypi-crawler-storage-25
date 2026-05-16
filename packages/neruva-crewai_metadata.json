@@ -1,0 +1,11 @@
+{
+  "name": "neruva-crewai",
+  "version": "0.1.0",
+  "summary": "Drop-in CrewAI memory integration for Neruva substrate. Replaces CrewAI's default storage with Records + KG federation. Persists across crew runs, supports semantic search via agent_recall, optional entity tracking via the HD knowledge graph. One-line install.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neruva_crewai-0.1.0.tar.gz",
+  "download_time": "2026-05-16T18:58:26.722412",
+  "package_url": "https://pypi.org/project/neruva-crewai/"
+}

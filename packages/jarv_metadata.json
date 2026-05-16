@@ -1,11 +1,11 @@
 {
   "name": "jarv",
-  "version": "0.3.1",
-  "summary": "A simple OpenAI-powered CLI agent",
+  "version": "0.7.1",
+  "summary": "A multi-provider AI-powered CLI agent",
   "author": "James W Homer",
-  "license": "MIT",
+  "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "jarv-0.3.1.tar.gz",
-  "download_time": "2026-05-15T05:53:25.587613",
+  "download_filename": "jarv-0.7.1.tar.gz",
+  "download_time": "2026-05-16T18:59:06.388101",
   "package_url": "https://pypi.org/project/jarv/"
 }

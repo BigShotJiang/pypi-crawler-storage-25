@@ -1,11 +1,11 @@
 {
   "name": "pubmlp",
-  "version": "0.3.2",
+  "version": "0.4.1",
   "summary": "Multimodal publication classifier with LLM and deep learning",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pubmlp-0.3.2.tar.gz",
-  "download_time": "2026-04-07T22:52:11.387337",
+  "download_filename": "pubmlp-0.4.1.tar.gz",
+  "download_time": "2026-05-16T18:58:28.698892",
   "package_url": "https://pypi.org/project/pubmlp/"
 }
