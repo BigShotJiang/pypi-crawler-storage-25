@@ -1,0 +1,11 @@
+{
+  "name": "guardops",
+  "version": "0.5.0",
+  "summary": "Autonomous DevSecOps CLI — build, scan, and deploy with security gates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "guardops-0.5.0.tar.gz",
+  "download_time": "2026-05-16T20:07:59.370194",
+  "package_url": "https://pypi.org/project/guardops/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agi-app-pandas-execution",
+  "version": "2026.5.17",
+  "summary": "AGILAB Pandas execution benchmark for deterministic worker and reducer validation",
+  "author": "Jean-Pierre Morard",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agi_app_pandas_execution-2026.5.17.tar.gz",
+  "download_time": "2026-05-16T20:08:15.813792",
+  "package_url": "https://pypi.org/project/agi-app-pandas-execution/"
+}

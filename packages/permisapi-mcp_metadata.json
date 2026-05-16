@@ -1,11 +1,11 @@
 {
   "name": "permisapi-mcp",
-  "version": "0.5.2",
-  "summary": "Serveur MCP pour PermisAPI : 12 outils pour consulter 1,2 M+ permis de construire de France (2014-2026) depuis Claude Desktop, Cursor, Windsurf et tout client MCP-compatible. v0.5.2 ajoute le tool get_parcelle_by_id (lookup direct cadastre DGFiP par identifiant Etalab 14 chars) pour le sprint 10 cadastre Prio 4.",
+  "version": "0.5.4",
+  "summary": "Serveur MCP pour PermisAPI : 14 outils pour consulter 1,2 M+ permis de construire de France (2014-2026) depuis Claude Desktop, Cursor, Windsurf et tout client MCP-compatible. v0.5.4 ajoute le tool get_commune_density_stats (stats macro densité urbaine par commune : parcelles + bâtiments + permits + distribution Score MDB, plan Business+) pour le sprint 10 cadastre Prio 7.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "permisapi_mcp-0.5.2.tar.gz",
-  "download_time": "2026-05-16T18:58:23.011210",
+  "download_filename": "permisapi_mcp-0.5.4.tar.gz",
+  "download_time": "2026-05-16T20:08:43.141988",
   "package_url": "https://pypi.org/project/permisapi-mcp/"
 }

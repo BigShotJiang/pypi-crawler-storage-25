@@ -1,11 +1,11 @@
 {
   "name": "multivon-eval",
-  "version": "0.7.1",
+  "version": "0.7.3",
   "summary": "AI evaluation for teams that ship models to production",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "multivon_eval-0.7.1.tar.gz",
-  "download_time": "2026-05-16T10:50:30.555511",
+  "download_filename": "multivon_eval-0.7.3.tar.gz",
+  "download_time": "2026-05-16T20:08:35.369554",
   "package_url": "https://pypi.org/project/multivon-eval/"
 }

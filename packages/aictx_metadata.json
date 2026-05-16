@@ -1,11 +1,11 @@
 {
   "name": "aictx",
-  "version": "6.0.0",
+  "version": "6.4.2",
   "summary": "Repo-local continuity runtime for coding agents",
   "author": "Santi Santamaria",
   "license": null,
   "home_page": null,
-  "download_filename": "aictx-6.0.0.tar.gz",
-  "download_time": "2026-05-11T16:58:47.779376",
+  "download_filename": "aictx-6.4.2.tar.gz",
+  "download_time": "2026-05-16T20:08:00.940487",
   "package_url": "https://pypi.org/project/aictx/"
 }

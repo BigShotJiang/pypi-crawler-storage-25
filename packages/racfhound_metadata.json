@@ -1,0 +1,11 @@
+{
+  "name": "racfhound",
+  "version": "0.1.0",
+  "summary": "RACF security analysis for z/OS — collect, transform, and upload to BloodHound CE",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "racfhound-0.1.0.tar.gz",
+  "download_time": "2026-05-16T20:08:40.071450",
+  "package_url": "https://pypi.org/project/racfhound/"
+}

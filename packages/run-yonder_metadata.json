@@ -1,0 +1,11 @@
+{
+  "name": "run-yonder",
+  "version": "0.1.1",
+  "summary": "Run Python functions inside containers via a decorator.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "run_yonder-0.1.1.tar.gz",
+  "download_time": "2026-05-16T20:08:39.560319",
+  "package_url": "https://pypi.org/project/run-yonder/"
+}

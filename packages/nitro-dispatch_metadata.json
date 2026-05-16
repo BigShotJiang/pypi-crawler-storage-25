@@ -1,0 +1,11 @@
+{
+  "name": "nitro-dispatch",
+  "version": "1.1.0",
+  "summary": "A powerful, framework-agnostic plugin system for Python with advanced features like async/await support, hook priorities, timeouts, event namespacing, and plugin discovery.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nitro_dispatch-1.1.0.tar.gz",
+  "download_time": "2026-05-16T20:08:08.126286",
+  "package_url": "https://pypi.org/project/nitro-dispatch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agi-app-flight-telemetry",
+  "version": "2026.5.17",
+  "summary": "AGILAB flight-telemetry ingestion demo with reusable dataframe and map-analysis outputs",
+  "author": "Jean-Pierre Morard",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agi_app_flight_telemetry-2026.5.17.tar.gz",
+  "download_time": "2026-05-16T20:08:22.033179",
+  "package_url": "https://pypi.org/project/agi-app-flight-telemetry/"
+}
