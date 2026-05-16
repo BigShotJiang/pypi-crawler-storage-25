@@ -1,11 +1,11 @@
 {
   "name": "notion-agent-cli",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Call Notion's reverse-engineered ✦ AI / Custom Agent endpoint from the command line",
   "author": "chenyqthu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "notion_agent_cli-0.1.4.tar.gz",
-  "download_time": "2026-05-16T20:56:30.417661",
+  "download_filename": "notion_agent_cli-0.1.5.tar.gz",
+  "download_time": "2026-05-16T21:48:10.394776",
   "package_url": "https://pypi.org/project/notion-agent-cli/"
 }

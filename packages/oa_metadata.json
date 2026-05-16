@@ -1,11 +1,11 @@
 {
   "name": "oa",
-  "version": "0.1.47",
+  "version": "0.1.49",
   "summary": "Python interface to OpenAI",
   "author": "Thor Whalen",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "oa-0.1.47.tar.gz",
-  "download_time": "2026-05-15T17:24:11.166309",
+  "download_filename": "oa-0.1.49.tar.gz",
+  "download_time": "2026-05-16T21:47:51.750304",
   "package_url": "https://pypi.org/project/oa/"
 }

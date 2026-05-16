@@ -1,11 +1,11 @@
 {
   "name": "prose-formatter",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A Python typesetter for the reader.",
   "author": "Jybbs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prose_formatter-0.2.2.tar.gz",
-  "download_time": "2026-05-16T20:08:31.255700",
+  "download_filename": "prose_formatter-0.2.3.tar.gz",
+  "download_time": "2026-05-16T21:47:42.851744",
   "package_url": "https://pypi.org/project/prose-formatter/"
 }

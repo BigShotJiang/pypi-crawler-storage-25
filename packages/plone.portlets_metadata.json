@@ -1,0 +1,11 @@
+{
+  "name": "plone.portlets",
+  "version": "4.0.0",
+  "summary": "An extension of zope.viewlet to support dynamic portlets",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/plone/plone.portlets",
+  "download_filename": "plone_portlets-4.0.0.tar.gz",
+  "download_time": "2026-05-16T21:48:11.936783",
+  "package_url": "https://pypi.org/project/plone.portlets/"
+}

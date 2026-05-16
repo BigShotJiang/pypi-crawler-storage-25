@@ -1,0 +1,11 @@
+{
+  "name": "plone.reload",
+  "version": "5.0.0",
+  "summary": "Configuration and code reload without server restarts.",
+  "author": "Hanno Schlichting",
+  "license": "BSD",
+  "home_page": "https://pypi.org/project/plone.reload",
+  "download_filename": "plone_reload-5.0.0.tar.gz",
+  "download_time": "2026-05-16T21:48:03.607991",
+  "package_url": "https://pypi.org/project/plone.reload/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "libxmmanager",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "summary": "The library that powers XMManager.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "libxmmanager-0.1.4.tar.gz",
-  "download_time": "2026-05-10T17:05:37.751371",
+  "download_filename": "libxmmanager-0.1.8.tar.gz",
+  "download_time": "2026-05-16T21:47:50.177743",
   "package_url": "https://pypi.org/project/libxmmanager/"
 }

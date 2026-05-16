@@ -1,11 +1,11 @@
 {
   "name": "hyprpilot-nvim-mcp",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "summary": "MCP server bridging Neovim editor state into the hyprpilot agent's tool surface.",
   "author": "Cenk Kilic",
   "license": null,
   "home_page": null,
-  "download_filename": "hyprpilot_nvim_mcp-1.6.0.tar.gz",
-  "download_time": "2026-05-15T22:50:21.894446",
+  "download_filename": "hyprpilot_nvim_mcp-1.6.1.tar.gz",
+  "download_time": "2026-05-16T21:47:41.822531",
   "package_url": "https://pypi.org/project/hyprpilot-nvim-mcp/"
 }

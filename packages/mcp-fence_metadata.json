@@ -1,0 +1,11 @@
+{
+  "name": "mcp-fence",
+  "version": "0.1.0",
+  "summary": "Local-first security scanner, MCP protocol inspector, dynamic fuzzer, sandbox runner, and report generator for Model Context Protocol servers.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mcp_fence-0.1.0.tar.gz",
+  "download_time": "2026-05-16T21:48:01.549846",
+  "package_url": "https://pypi.org/project/mcp-fence/"
+}

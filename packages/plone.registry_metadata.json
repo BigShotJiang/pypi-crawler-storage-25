@@ -1,0 +1,11 @@
+{
+  "name": "plone.registry",
+  "version": "3.0.0",
+  "summary": "Registry for application settings (like debconf/ about:config)",
+  "author": "Martin Aspeli, Wichert Akkerman, Hanno Schlichting",
+  "license": "GPL",
+  "home_page": "https://pypi.org/project/plone.registry",
+  "download_filename": "plone_registry-3.0.0.tar.gz",
+  "download_time": "2026-05-16T21:48:05.670377",
+  "package_url": "https://pypi.org/project/plone.registry/"
+}

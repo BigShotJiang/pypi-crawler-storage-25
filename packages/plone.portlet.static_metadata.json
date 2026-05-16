@@ -1,0 +1,11 @@
+{
+  "name": "plone.portlet.static",
+  "version": "5.0.0",
+  "summary": "An editable static HTML portlet for Plone.",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.org/project/plone.portlet.static",
+  "download_filename": "plone_portlet_static-5.0.0.tar.gz",
+  "download_time": "2026-05-16T21:48:15.608435",
+  "package_url": "https://pypi.org/project/plone.portlet.static/"
+}

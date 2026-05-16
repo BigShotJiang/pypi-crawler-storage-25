@@ -1,11 +1,11 @@
 {
   "name": "linq-python",
-  "version": "0.5.0",
+  "version": "0.10.0",
   "summary": "The official Python library for the linq-api-v3 API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "linq_python-0.5.0.tar.gz",
-  "download_time": "2026-04-26T22:30:27.418708",
+  "download_filename": "linq_python-0.10.0.tar.gz",
+  "download_time": "2026-05-16T21:47:42.337032",
   "package_url": "https://pypi.org/project/linq-python/"
 }

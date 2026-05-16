@@ -1,0 +1,11 @@
+{
+  "name": "vssh",
+  "version": "4.2.0",
+  "summary": "Python SDK for the vssh AI-native remote execution daemon",
+  "author": "MeshPop",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vssh-4.2.0.tar.gz",
+  "download_time": "2026-05-16T21:47:59.459966",
+  "package_url": "https://pypi.org/project/vssh/"
+}

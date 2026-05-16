@@ -1,11 +1,11 @@
 {
   "name": "devsecops-radar",
-  "version": "0.2.7",
+  "version": "0.2.9",
   "summary": "Unified CI/CD Security Dashboard — Pipeline Sentinel",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "devsecops_radar-0.2.7.tar.gz",
-  "download_time": "2026-05-16T18:59:05.803854",
+  "download_filename": "devsecops_radar-0.2.9.tar.gz",
+  "download_time": "2026-05-16T21:47:55.870857",
   "package_url": "https://pypi.org/project/devsecops-radar/"
 }
