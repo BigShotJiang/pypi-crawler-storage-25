@@ -1,0 +1,11 @@
+{
+  "name": "deutsche-bahn-py",
+  "version": "0.2.0",
+  "summary": "Python clients for the Deutsche Bahn APIs (Timetables, StaDa Station Data)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deutsche_bahn_py-0.2.0.tar.gz",
+  "download_time": "2026-05-17T14:10:12.729702",
+  "package_url": "https://pypi.org/project/deutsche-bahn-py/"
+}

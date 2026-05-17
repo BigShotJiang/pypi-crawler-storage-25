@@ -1,0 +1,11 @@
+{
+  "name": "dsmr-parser",
+  "version": "1.7.0",
+  "summary": "Library to parse Dutch Smart Meter Requirements (DSMR)",
+  "author": "Nigel Dokter and many others",
+  "license": "MIT",
+  "home_page": "https://github.com/ndokter/dsmr_parser",
+  "download_filename": "dsmr_parser-1.7.0.tar.gz",
+  "download_time": "2026-05-17T14:10:30.486906",
+  "package_url": "https://pypi.org/project/dsmr-parser/"
+}

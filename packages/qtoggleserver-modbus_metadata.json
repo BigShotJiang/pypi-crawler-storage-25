@@ -1,0 +1,11 @@
+{
+  "name": "qtoggleserver-modbus",
+  "version": "1.4.2",
+  "summary": "Modbus client/server for qToggleServer",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "qtoggleserver_modbus-1.4.2.tar.gz",
+  "download_time": "2026-05-17T14:10:04.273643",
+  "package_url": "https://pypi.org/project/qtoggleserver-modbus/"
+}

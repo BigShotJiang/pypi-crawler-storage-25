@@ -1,0 +1,11 @@
+{
+  "name": "animal-mediakit",
+  "version": "1.17.63",
+  "summary": "CLI 工具：通过 animal-gateway 调用 AI 图像/视频生成，以及本地图像处理能力",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "animal_mediakit-1.17.63.tar.gz",
+  "download_time": "2026-05-17T14:10:28.926715",
+  "package_url": "https://pypi.org/project/animal-mediakit/"
+}

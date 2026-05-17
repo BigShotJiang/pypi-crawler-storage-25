@@ -1,0 +1,11 @@
+{
+  "name": "agentsec-eval",
+  "version": "0.36.0",
+  "summary": "Security assessment framework for AI agents — adversarial test runner + server-side audit + scoring",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentsec_eval-0.36.0.tar.gz",
+  "download_time": "2026-05-17T14:10:19.531673",
+  "package_url": "https://pypi.org/project/agentsec-eval/"
+}

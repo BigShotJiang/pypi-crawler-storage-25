@@ -1,11 +1,11 @@
 {
   "name": "modm-pinout",
-  "version": "1.0.1",
+  "version": "1.0.7",
   "summary": "Static pin mapping site generator for modm device definitions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "modm_pinout-1.0.1.tar.gz",
-  "download_time": "2026-05-16T18:58:45.723040",
+  "download_filename": "modm_pinout-1.0.7.tar.gz",
+  "download_time": "2026-05-17T14:10:43.608019",
   "package_url": "https://pypi.org/project/modm-pinout/"
 }

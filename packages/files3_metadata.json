@@ -1,0 +1,11 @@
+{
+  "name": "files3",
+  "version": "0.10.2",
+  "summary": "(cloudpickle+lz4 based) save Python objects in binary to both the `file system` and `virtual disk in ram` and manage them.",
+  "author": null,
+  "license": "Apache Licence 2.0",
+  "home_page": null,
+  "download_filename": "files3-0.10.2.tar.gz",
+  "download_time": "2026-05-17T14:10:34.704324",
+  "package_url": "https://pypi.org/project/files3/"
+}

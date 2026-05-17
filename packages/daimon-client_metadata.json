@@ -1,0 +1,11 @@
+{
+  "name": "daimon-client",
+  "version": "0.4.1",
+  "summary": "Python client for the daimon AI sidecar",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "daimon_client-0.4.1.tar.gz",
+  "download_time": "2026-05-17T14:10:03.747481",
+  "package_url": "https://pypi.org/project/daimon-client/"
+}

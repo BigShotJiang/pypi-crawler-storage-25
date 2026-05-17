@@ -1,0 +1,11 @@
+{
+  "name": "deepclaw-ai",
+  "version": "0.1.1",
+  "summary": "A local AI agent powered by DeepSeek — reads, writes, executes, and browses the web from your terminal.",
+  "author": "DeepClaw Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepclaw_ai-0.1.1.tar.gz",
+  "download_time": "2026-05-17T14:10:33.136220",
+  "package_url": "https://pypi.org/project/deepclaw-ai/"
+}

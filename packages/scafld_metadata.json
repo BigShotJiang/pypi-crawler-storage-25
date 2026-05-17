@@ -1,11 +1,11 @@
 {
   "name": "scafld",
-  "version": "2.0.0",
-  "summary": "Spec-driven development framework for AI coding agents",
+  "version": "2.4.3",
+  "summary": "Deterministic protocol for multi-phase agent work.",
   "author": "0state",
-  "license": "MIT",
-  "home_page": "https://0state.com/scafld",
-  "download_filename": "scafld-2.0.0.tar.gz",
-  "download_time": "2026-04-30T13:16:53.367011",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scafld-2.4.3.tar.gz",
+  "download_time": "2026-05-17T14:10:43.087780",
   "package_url": "https://pypi.org/project/scafld/"
 }

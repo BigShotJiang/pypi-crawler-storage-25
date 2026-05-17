@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-ret2shell",
+  "version": "0.0.3",
+  "summary": "Subscribe to Ret 2 Shell (回归终端) event API and forward messages.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_ret2shell-0.0.3.tar.gz",
+  "download_time": "2026-05-17T14:10:15.337170",
+  "package_url": "https://pypi.org/project/nonebot-plugin-ret2shell/"
+}
