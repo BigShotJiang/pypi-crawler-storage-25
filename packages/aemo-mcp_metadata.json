@@ -1,11 +1,11 @@
 {
   "name": "aemo-mcp",
-  "version": "0.4.8",
+  "version": "0.4.9",
   "summary": "MCP server for the Australian Energy Market Operator (AEMO) NEM. Plain-English access to 5-min dispatch prices, regional demand, interconnector flows, generation by fuel, and rooftop PV.",
   "author": "Harry Vass",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aemo_mcp-0.4.8.tar.gz",
-  "download_time": "2026-05-17T08:14:13.337328",
+  "download_filename": "aemo_mcp-0.4.9.tar.gz",
+  "download_time": "2026-05-17T19:50:17.017013",
   "package_url": "https://pypi.org/project/aemo-mcp/"
 }

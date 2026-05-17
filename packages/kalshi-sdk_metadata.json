@@ -1,11 +1,11 @@
 {
   "name": "kalshi-sdk",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "A professional Python SDK for the Kalshi prediction markets API",
   "author": "Texas Coding",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kalshi_sdk-1.0.0.tar.gz",
-  "download_time": "2026-05-11T00:21:00.441149",
+  "download_filename": "kalshi_sdk-2.0.0.tar.gz",
+  "download_time": "2026-05-17T19:50:23.761058",
   "package_url": "https://pypi.org/project/kalshi-sdk/"
 }

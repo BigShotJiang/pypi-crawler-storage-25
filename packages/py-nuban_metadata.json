@@ -1,11 +1,11 @@
 {
   "name": "py-nuban",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Nigerian Bank Account Number prediction. Get a list of possible Nigerian banks based on an account number",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py_nuban-0.1.0.tar.gz",
-  "download_time": "2026-05-08T20:18:03.995492",
+  "download_filename": "py_nuban-0.2.0.tar.gz",
+  "download_time": "2026-05-17T19:50:11.305443",
   "package_url": "https://pypi.org/project/py-nuban/"
 }

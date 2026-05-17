@@ -1,0 +1,11 @@
+{
+  "name": "coverart-cli",
+  "version": "0.4.0",
+  "summary": "Fetch missing album covers from Last.fm, iTunes, Deezer, MusicBrainz; embed in MP3/M4A/FLAC/Ogg and write a cover.jpg sidecar",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "coverart_cli-0.4.0.tar.gz",
+  "download_time": "2026-05-17T19:49:52.259198",
+  "package_url": "https://pypi.org/project/coverart-cli/"
+}

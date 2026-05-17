@@ -1,0 +1,11 @@
+{
+  "name": "scopesim-targets",
+  "version": "0.2.0",
+  "summary": "Definition of on-sky targets for the ScopeSim telescope observation simulator.",
+  "author": "Fabian Haberhauer",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "scopesim_targets-0.2.0.tar.gz",
+  "download_time": "2026-05-17T19:49:53.306067",
+  "package_url": "https://pypi.org/project/scopesim-targets/"
+}

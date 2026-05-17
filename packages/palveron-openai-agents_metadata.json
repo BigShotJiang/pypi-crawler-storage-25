@@ -1,0 +1,11 @@
+{
+  "name": "palveron-openai-agents",
+  "version": "1.0.0",
+  "summary": "Official Palveron integration for the OpenAI Agents SDK — drop-in middleware for policy enforcement, PII masking, and audit trails.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "palveron_openai_agents-1.0.0.tar.gz",
+  "download_time": "2026-05-17T19:50:02.704474",
+  "package_url": "https://pypi.org/project/palveron-openai-agents/"
+}

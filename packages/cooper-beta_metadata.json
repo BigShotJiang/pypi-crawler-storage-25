@@ -1,0 +1,11 @@
+{
+  "name": "cooper-beta",
+  "version": "0.1.1",
+  "summary": "Beta-barrel-like chain detector for PDB/mmCIF structures.",
+  "author": "Shuyu Zhong",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cooper_beta-0.1.1.tar.gz",
+  "download_time": "2026-05-17T19:49:48.393300",
+  "package_url": "https://pypi.org/project/cooper-beta/"
+}

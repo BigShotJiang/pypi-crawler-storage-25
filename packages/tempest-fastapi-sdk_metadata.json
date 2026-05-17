@@ -1,11 +1,11 @@
 {
   "name": "tempest-fastapi-sdk",
-  "version": "0.7.1",
+  "version": "0.8.0",
   "summary": "Shared FastAPI building blocks: base schemas, ORM model, async repository, exceptions, pagination and settings — the conventions used across Tempest projects.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tempest_fastapi_sdk-0.7.1.tar.gz",
-  "download_time": "2026-05-16T23:44:10.539687",
+  "download_filename": "tempest_fastapi_sdk-0.8.0.tar.gz",
+  "download_time": "2026-05-17T19:50:23.224781",
   "package_url": "https://pypi.org/project/tempest-fastapi-sdk/"
 }
