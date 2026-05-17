@@ -1,0 +1,11 @@
+{
+  "name": "nil-service",
+  "version": "1.0.20",
+  "summary": "Python binding for nil-service: boost net library wrapper",
+  "author": null,
+  "license": "CC BY-NC-ND 4.0",
+  "home_page": null,
+  "download_filename": "nil_service-1.0.20-py3-none-any.whl",
+  "download_time": "2026-05-17T12:17:34.030062",
+  "package_url": "https://pypi.org/project/nil-service/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cf-setup-wizard",
-  "version": "0.1.7",
+  "version": "0.1.12",
   "summary": "Cogniflow setup wizard - interactive terminal installation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cf_setup_wizard-0.1.7.tar.gz",
-  "download_time": "2026-05-11T16:58:49.847105",
+  "download_filename": "cf_setup_wizard-0.1.12.tar.gz",
+  "download_time": "2026-05-17T12:17:15.113915",
   "package_url": "https://pypi.org/project/cf-setup-wizard/"
 }

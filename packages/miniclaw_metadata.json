@@ -1,0 +1,11 @@
+{
+  "name": "miniclaw",
+  "version": "0.1.2",
+  "summary": "命令行 LLM 对话工具，支持 code-execution 与 skills 技能目录",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "miniclaw-0.1.2.tar.gz",
+  "download_time": "2026-05-17T12:16:57.808128",
+  "package_url": "https://pypi.org/project/miniclaw/"
+}

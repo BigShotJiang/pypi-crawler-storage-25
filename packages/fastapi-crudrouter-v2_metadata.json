@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-crudrouter-v2",
+  "version": "0.1.5",
+  "summary": "A dynamic FastAPI router that automatically creates CRUD routes for your models",
+  "author": "pasha_danilevich",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_crudrouter_v2-0.1.5.tar.gz",
+  "download_time": "2026-05-17T12:17:42.990701",
+  "package_url": "https://pypi.org/project/fastapi-crudrouter-v2/"
+}

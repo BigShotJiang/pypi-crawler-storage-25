@@ -1,0 +1,11 @@
+{
+  "name": "nil-xit",
+  "version": "0.3.15",
+  "summary": "Python binding for nil-xit: C++ bridge to frontend",
+  "author": null,
+  "license": "CC BY-NC-ND 4.0",
+  "home_page": null,
+  "download_filename": "nil_xit-0.3.15-py3-none-any.whl",
+  "download_time": "2026-05-17T12:17:32.336764",
+  "package_url": "https://pypi.org/project/nil-xit/"
+}
