@@ -1,11 +1,11 @@
 {
   "name": "token-goat",
-  "version": "0.3.2",
+  "version": "0.5.0",
   "summary": "Hook-based token optimizer for Claude Code on Windows, macOS, Linux, and WSL. Image shrink, re-read dedup, and compaction assist — automatic.",
   "author": "DFK Helper LLC",
   "license": "PolyForm Noncommercial License 1.0.0",
   "home_page": null,
-  "download_filename": "token_goat-0.3.2.tar.gz",
-  "download_time": "2026-05-16T20:08:36.425737",
+  "download_filename": "token_goat-0.5.0.tar.gz",
+  "download_time": "2026-05-17T21:43:38.352414",
   "package_url": "https://pypi.org/project/token-goat/"
 }

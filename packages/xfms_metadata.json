@@ -1,11 +1,11 @@
 {
   "name": "xfms",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "Pick the right LLM for your task. Xpansion Framework Model Source — aggregates 8 independent benchmark sources via the hosted XFMS API. BYOK so your inference cost stays with you.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xfms-0.2.0.tar.gz",
-  "download_time": "2026-05-17T05:47:08.825484",
+  "download_filename": "xfms-0.3.1.tar.gz",
+  "download_time": "2026-05-17T21:43:40.941462",
   "package_url": "https://pypi.org/project/xfms/"
 }

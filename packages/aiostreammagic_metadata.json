@@ -1,0 +1,11 @@
+{
+  "name": "aiostreammagic",
+  "version": "2.13.1",
+  "summary": "An async python package for interfacing with Cambridge Audio / Stream Magic compatible streamers.",
+  "author": "Noah Husby",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiostreammagic-2.13.1.tar.gz",
+  "download_time": "2026-05-17T21:43:34.192847",
+  "package_url": "https://pypi.org/project/aiostreammagic/"
+}

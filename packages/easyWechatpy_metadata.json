@@ -1,0 +1,11 @@
+{
+  "name": "easyWechatpy",
+  "version": "0.0.5",
+  "summary": "微信 iLink Bot API 客户端 —— 扫码登录、收发消息、桥接 Agent。",
+  "author": "Lei Cui",
+  "license": "MIT License",
+  "home_page": "https://github.com/xleizi/easyWechatpy",
+  "download_filename": "easywechatpy-0.0.5.tar.gz",
+  "download_time": "2026-05-17T21:43:39.914861",
+  "package_url": "https://pypi.org/project/easyWechatpy/"
+}

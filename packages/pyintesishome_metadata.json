@@ -1,0 +1,11 @@
+{
+  "name": "pyintesishome",
+  "version": "2.0.0",
+  "summary": "A python3 library for running asynchronus communications with IntesisHome Smart AC Controllers",
+  "author": "James Nimmo",
+  "license": "MIT",
+  "home_page": "https://github.com/jnimmo/pyIntesisHome",
+  "download_filename": "pyintesishome-2.0.0.tar.gz",
+  "download_time": "2026-05-17T21:43:08.074794",
+  "package_url": "https://pypi.org/project/pyintesishome/"
+}

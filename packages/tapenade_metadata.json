@@ -1,0 +1,11 @@
+{
+  "name": "tapenade",
+  "version": "1.0.2",
+  "summary": "A repository to process organoid images",
+  "author": "Leo Guignard",
+  "license": "MIT",
+  "home_page": "https://github.com/GuignardLab/tapenade",
+  "download_filename": "tapenade-1.0.2.tar.gz",
+  "download_time": "2026-05-17T21:43:46.082180",
+  "package_url": "https://pypi.org/project/tapenade/"
+}

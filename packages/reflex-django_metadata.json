@@ -1,11 +1,11 @@
 {
   "name": "reflex-django",
-  "version": "0.2.0",
+  "version": "0.2.7",
   "summary": "Run a Django backend (Django ORM, Django Admin) alongside a Reflex app.",
   "author": "Mohannad Irshedat",
   "license": null,
   "home_page": null,
-  "download_filename": "reflex_django-0.2.0.tar.gz",
-  "download_time": "2026-05-15T11:51:49.369905",
+  "download_filename": "reflex_django-0.2.7.tar.gz",
+  "download_time": "2026-05-17T21:43:24.649007",
   "package_url": "https://pypi.org/project/reflex-django/"
 }

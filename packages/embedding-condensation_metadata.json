@@ -1,0 +1,11 @@
+{
+  "name": "embedding-condensation",
+  "version": "2.0",
+  "summary": "Measure layer-wise token embedding cosine similarity, assessing the severity of embedding condensation. Concept from [ICML 2026] Dispersion loss counteracts embedding condensation and improves generalization in small language models.",
+  "author": "Chen Liu",
+  "license": "Non-Commercial License — see ../LICENSE.md in the LM-Dispersion repository.",
+  "home_page": null,
+  "download_filename": "embedding_condensation-2.0.tar.gz",
+  "download_time": "2026-05-17T21:43:23.623763",
+  "package_url": "https://pypi.org/project/embedding-condensation/"
+}

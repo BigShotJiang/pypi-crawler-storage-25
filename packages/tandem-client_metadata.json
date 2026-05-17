@@ -1,11 +1,11 @@
 {
   "name": "tandem-client",
-  "version": "0.5.6",
+  "version": "0.5.8",
   "summary": "Python client for the Tandem autonomous agent engine HTTP + SSE API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tandem_client-0.5.6.tar.gz",
-  "download_time": "2026-05-15T23:50:11.888057",
+  "download_filename": "tandem_client-0.5.8.tar.gz",
+  "download_time": "2026-05-17T21:43:31.039414",
   "package_url": "https://pypi.org/project/tandem-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "uni-quant-cuda",
+  "version": "0.2.0",
+  "summary": "Uni-Quant: CUDA-accelerated quantization/dequantization for Keras and XGBoost models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uni_quant_cuda-0.2.0.tar.gz",
+  "download_time": "2026-05-17T21:43:10.134358",
+  "package_url": "https://pypi.org/project/uni-quant-cuda/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "omkit",
+  "version": "0.1.1",
+  "summary": "Multi-tenant SaaS scaffolding for Python services.",
+  "author": "Omur Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "omkit-0.1.1.tar.gz",
+  "download_time": "2026-05-17T21:43:44.030137",
+  "package_url": "https://pypi.org/project/omkit/"
+}

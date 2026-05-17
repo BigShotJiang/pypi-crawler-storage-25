@@ -1,11 +1,11 @@
 {
   "name": "gridfleet-agent",
-  "version": "0.15.1",
+  "version": "0.15.2",
   "summary": "GridFleet agent — runs on each host",
   "author": "GridFleet contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "gridfleet_agent-0.15.1.tar.gz",
-  "download_time": "2026-05-17T10:13:18.039259",
+  "download_filename": "gridfleet_agent-0.15.2.tar.gz",
+  "download_time": "2026-05-17T21:43:42.480169",
   "package_url": "https://pypi.org/project/gridfleet-agent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "napari-spatial-correlation-plotter",
+  "version": "1.0.1",
+  "summary": "A plugin to compute and display spatial correlation histograms in Napari",
+  "author": "Jules Vanaret",
+  "license": "MIT",
+  "home_page": "https://github.com/jules-vanaret/napari-spatial-correlation-plotter",
+  "download_filename": "napari_spatial_correlation_plotter-1.0.1.tar.gz",
+  "download_time": "2026-05-17T21:43:53.385943",
+  "package_url": "https://pypi.org/project/napari-spatial-correlation-plotter/"
+}

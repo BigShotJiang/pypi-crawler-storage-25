@@ -1,0 +1,11 @@
+{
+  "name": "assimulo-testing",
+  "version": "3.9.0b2",
+  "summary": "A package for solving ordinary and differential-algebraic equations.",
+  "author": "Modelon AB",
+  "license": "LGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "assimulo_testing-3.9.0b2-cp311-cp311-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2026-05-17T21:43:26.310802",
+  "package_url": "https://pypi.org/project/assimulo-testing/"
+}
