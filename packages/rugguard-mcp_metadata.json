@@ -1,11 +1,11 @@
 {
   "name": "rugguard-mcp",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "MCP server for RugGuard — pre-trade rug-check API for AI agents. Wraps the x402 payment flow so Claude Desktop, Cursor, and other MCP-aware agents can call RugGuard without speaking x402 themselves.",
   "author": "David Bellaiche",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rugguard_mcp-0.2.1.tar.gz",
-  "download_time": "2026-05-17T16:17:11.881668",
+  "download_filename": "rugguard_mcp-0.2.3.tar.gz",
+  "download_time": "2026-05-17T17:27:28.035406",
   "package_url": "https://pypi.org/project/rugguard-mcp/"
 }

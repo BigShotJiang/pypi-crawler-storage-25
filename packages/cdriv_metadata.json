@@ -1,0 +1,11 @@
+{
+  "name": "cdriv",
+  "version": "1.0.1",
+  "summary": "Controle o Chromium via ChromeDriver no Termux. Alternativa ao Playwright/Selenium que não funcionam em android/aarch64.",
+  "author": "cdriv",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cdriv-1.0.1.tar.gz",
+  "download_time": "2026-05-17T17:27:24.892224",
+  "package_url": "https://pypi.org/project/cdriv/"
+}

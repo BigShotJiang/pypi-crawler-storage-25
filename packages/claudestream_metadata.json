@@ -1,0 +1,11 @@
+{
+  "name": "claudestream",
+  "version": "0.1.1",
+  "summary": "A Python library and CLI for streaming Claude Code's JSON protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claudestream-0.1.1.tar.gz",
+  "download_time": "2026-05-17T17:27:26.455693",
+  "package_url": "https://pypi.org/project/claudestream/"
+}

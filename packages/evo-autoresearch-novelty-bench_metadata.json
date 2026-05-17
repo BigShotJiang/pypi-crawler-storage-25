@@ -1,0 +1,11 @@
+{
+  "name": "evo-autoresearch-novelty-bench",
+  "version": "0.1.1",
+  "summary": "Benchmark for measuring novelty in autonomous research-agent proposals, built on Prime Intellect's autonomous-speedrunning archive.",
+  "author": "Evo HQ",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "evo_autoresearch_novelty_bench-0.1.1.tar.gz",
+  "download_time": "2026-05-17T17:27:17.548707",
+  "package_url": "https://pypi.org/project/evo-autoresearch-novelty-bench/"
+}

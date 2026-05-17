@@ -1,0 +1,11 @@
+{
+  "name": "mloda-community-offset",
+  "version": "0.3.2",
+  "summary": "Offset feature group (lag, lead, diff, pct_change, first_value, last_value, row-preserving)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mloda_community_offset-0.3.2-py3-none-any.whl",
+  "download_time": "2026-05-17T17:26:52.324710",
+  "package_url": "https://pypi.org/project/mloda-community-offset/"
+}

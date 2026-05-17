@@ -1,0 +1,11 @@
+{
+  "name": "pmcgrab",
+  "version": "1.0.8",
+  "summary": "AI-ready retrieval and parsing of PubMed Central articles for RAG applications. Install with uv for best performance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pmcgrab-1.0.8.tar.gz",
+  "download_time": "2026-05-17T17:26:36.540000",
+  "package_url": "https://pypi.org/project/pmcgrab/"
+}

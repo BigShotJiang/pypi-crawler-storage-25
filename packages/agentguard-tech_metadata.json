@@ -1,0 +1,11 @@
+{
+  "name": "agentguard-tech",
+  "version": "0.11.1",
+  "summary": "AgentGuard — runtime governance for production AI agents. APRA CPS 230, EU AI Act and ISO 42001 evidence built-in. Native OpenClaw, LangChain, CrewAI, OpenAI Assistants, AutoGen, and MCP integrations.",
+  "author": null,
+  "license": "Business Source License 1.1",
+  "home_page": null,
+  "download_filename": "agentguard_tech-0.11.1.tar.gz",
+  "download_time": "2026-05-17T17:27:19.617691",
+  "package_url": "https://pypi.org/project/agentguard-tech/"
+}

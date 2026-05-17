@@ -1,0 +1,11 @@
+{
+  "name": "mloda-community-frame-aggregate",
+  "version": "0.3.2",
+  "summary": "Frame aggregate feature group (rolling, cumulative, expanding, time window, row-preserving)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mloda_community_frame_aggregate-0.3.2-py3-none-any.whl",
+  "download_time": "2026-05-17T17:26:52.843595",
+  "package_url": "https://pypi.org/project/mloda-community-frame-aggregate/"
+}

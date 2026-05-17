@@ -1,0 +1,11 @@
+{
+  "name": "dexi-rs",
+  "version": "0.1.2",
+  "summary": "Fast Rust hand retargeting with Python bindings",
+  "author": "Dexi contributors",
+  "license": null,
+  "home_page": "https://github.com/yuxiang-gao/dexi",
+  "download_filename": "dexi_rs-0.1.2.tar.gz",
+  "download_time": "2026-05-17T17:26:42.951105",
+  "package_url": "https://pypi.org/project/dexi-rs/"
+}

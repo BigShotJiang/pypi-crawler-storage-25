@@ -1,0 +1,11 @@
+{
+  "name": "parallelhours-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server for parallelhours.io — translates MCP tool calls into REST API requests",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "parallelhours_mcp-0.1.2.tar.gz",
+  "download_time": "2026-05-17T17:26:40.849623",
+  "package_url": "https://pypi.org/project/parallelhours-mcp/"
+}

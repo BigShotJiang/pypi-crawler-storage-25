@@ -1,11 +1,11 @@
 {
   "name": "triage-agent",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Classify why your agent failed. Recover intelligently.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "triage_agent-0.7.0.tar.gz",
-  "download_time": "2026-05-16T18:58:40.670467",
+  "download_filename": "triage_agent-0.8.0.tar.gz",
+  "download_time": "2026-05-17T17:26:38.750474",
   "package_url": "https://pypi.org/project/triage-agent/"
 }

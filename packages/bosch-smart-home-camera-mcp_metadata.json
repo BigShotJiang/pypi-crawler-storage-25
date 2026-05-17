@@ -1,0 +1,11 @@
+{
+  "name": "bosch-smart-home-camera-mcp",
+  "version": "1.1.0",
+  "summary": "Model Context Protocol server for Bosch Smart Home cameras",
+  "author": "mosandlt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bosch_smart_home_camera_mcp-1.1.0-py3-none-any.whl",
+  "download_time": "2026-05-17T17:27:00.756160",
+  "package_url": "https://pypi.org/project/bosch-smart-home-camera-mcp/"
+}

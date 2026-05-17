@@ -1,0 +1,11 @@
+{
+  "name": "repo-hygiene-ci-risk-preflight",
+  "version": "0.1.0",
+  "summary": "Local no-token scanner for GitHub repository hygiene and CI risk signals.",
+  "author": "Repo Hygiene CI Risk Preflight contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "repo_hygiene_ci_risk_preflight-0.1.0.tar.gz",
+  "download_time": "2026-05-17T17:27:07.020906",
+  "package_url": "https://pypi.org/project/repo-hygiene-ci-risk-preflight/"
+}
