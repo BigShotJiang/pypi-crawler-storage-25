@@ -1,11 +1,11 @@
 {
   "name": "fplkit",
-  "version": "1.2.1",
+  "version": "1.4.0",
   "summary": "CLI tool for Fantasy Premier League analysis - classic and draft formats",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fplkit-1.2.1.tar.gz",
-  "download_time": "2026-04-10T11:18:21.494568",
+  "download_filename": "fplkit-1.4.0.tar.gz",
+  "download_time": "2026-05-17T05:46:52.073088",
   "package_url": "https://pypi.org/project/fplkit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gpvolve-v2",
+  "version": "1.0.2",
+  "summary": "Markov-chain evolutionary dynamics on genotype-phenotype maps. Rust-accelerated.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpvolve_v2-1.0.2.tar.gz",
+  "download_time": "2026-05-17T05:47:00.466548",
+  "package_url": "https://pypi.org/project/gpvolve-v2/"
+}

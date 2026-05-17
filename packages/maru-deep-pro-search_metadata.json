@@ -1,11 +1,11 @@
 {
   "name": "maru-deep-pro-search",
-  "version": "0.9.3",
+  "version": "0.17.2",
   "summary": "Universal AI search MCP server — Perplexity-level quality with zero API keys. Multi-engine web scraping, intelligent ranking, and citation-native answers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "maru_deep_pro_search-0.9.3.tar.gz",
-  "download_time": "2026-05-12T18:29:05.366391",
+  "download_filename": "maru_deep_pro_search-0.17.2.tar.gz",
+  "download_time": "2026-05-17T05:46:47.867827",
   "package_url": "https://pypi.org/project/maru-deep-pro-search/"
 }

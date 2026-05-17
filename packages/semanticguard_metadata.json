@@ -1,0 +1,11 @@
+{
+  "name": "semanticguard",
+  "version": "0.3.0",
+  "summary": "Drop-in wrapper for the OpenAI Python SDK that routes requests through the SemanticGuard gateway for intelligent caching, cost tracking, and analytics.",
+  "author": "KB-AI LLC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "semanticguard-0.3.0.tar.gz",
+  "download_time": "2026-05-17T05:47:25.677076",
+  "package_url": "https://pypi.org/project/semanticguard/"
+}

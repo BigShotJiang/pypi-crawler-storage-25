@@ -1,11 +1,11 @@
 {
   "name": "metax-mxtop",
-  "version": "0.1.6",
+  "version": "0.1.14",
   "summary": "An nvitop-like terminal monitor for MetaX GPUs.",
   "author": "mxtop contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "metax_mxtop-0.1.6.tar.gz",
-  "download_time": "2026-05-14T10:07:55.236186",
+  "download_filename": "metax_mxtop-0.1.14.tar.gz",
+  "download_time": "2026-05-17T05:47:14.119350",
   "package_url": "https://pypi.org/project/metax-mxtop/"
 }

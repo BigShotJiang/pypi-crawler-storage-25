@@ -1,11 +1,11 @@
 {
   "name": "gisolate",
-  "version": "0.2.16",
+  "version": "0.2.17",
   "summary": "Process isolation for gevent applications — run any object in a clean subprocess, call methods transparently via ZMQ IPC.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gisolate-0.2.16.tar.gz",
-  "download_time": "2026-05-14T12:03:26.803225",
+  "download_filename": "gisolate-0.2.17.tar.gz",
+  "download_time": "2026-05-17T05:46:50.511294",
   "package_url": "https://pypi.org/project/gisolate/"
 }

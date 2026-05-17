@@ -1,0 +1,11 @@
+{
+  "name": "openwraw",
+  "version": "1.0.3",
+  "summary": "Python bindings for the OpenWRaw Waters MassLynx RAW file parser",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Sigilweaver/OpenWRaw",
+  "download_filename": "openwraw-1.0.3.tar.gz",
+  "download_time": "2026-05-17T05:46:58.345138",
+  "package_url": "https://pypi.org/project/openwraw/"
+}

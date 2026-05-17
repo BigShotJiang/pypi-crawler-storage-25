@@ -1,0 +1,11 @@
+{
+  "name": "periodica",
+  "version": "2.0.2",
+  "summary": "Data-driven scientific computation: particle/nuclear/atomic/molecular physics, materials, alloys, polymers, ceramics, composites, proteins. Generic Get()/Save()/sample() composer + 3D microstructure export (STL/OBJ/VTK/SDF/HLSL) + AlphaFold-validated protein folding.",
+  "author": "Andrew Watts",
+  "license": null,
+  "home_page": null,
+  "download_filename": "periodica-2.0.2-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-17T05:47:16.714258",
+  "package_url": "https://pypi.org/project/periodica/"
+}

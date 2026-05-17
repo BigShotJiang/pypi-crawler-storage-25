@@ -1,11 +1,11 @@
 {
   "name": "shibaclaw",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A lightweight personal AI assistant framework",
   "author": "shibaclaw contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "shibaclaw-0.4.0.tar.gz",
-  "download_time": "2026-05-16T05:03:35.339132",
+  "download_filename": "shibaclaw-0.4.1.tar.gz",
+  "download_time": "2026-05-17T05:47:09.910978",
   "package_url": "https://pypi.org/project/shibaclaw/"
 }

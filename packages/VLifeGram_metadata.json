@@ -1,0 +1,11 @@
+{
+  "name": "VLifeGram",
+  "version": "2.1.2.3",
+  "summary": "Elegant, modern and asynchronous Telegram MTProto API framework in Python ( Fork From Pyrogram )",
+  "author": "WannnV",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/wndrzzka/VLifeGram",
+  "download_filename": "vlifegram-2.1.2.3.tar.gz",
+  "download_time": "2026-05-17T05:46:57.825754",
+  "package_url": "https://pypi.org/project/VLifeGram/"
+}

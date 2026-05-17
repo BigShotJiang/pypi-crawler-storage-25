@@ -1,11 +1,11 @@
 {
   "name": "usekit",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Minimal input, auto path toolkit (mobile-first, Colab+Drive)",
-  "author": "ropnfop",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/ropnfop/usekit",
-  "download_filename": "usekit-0.2.0.tar.gz",
-  "download_time": "2026-05-02T13:58:18.534740",
+  "home_page": null,
+  "download_filename": "usekit-0.2.1.tar.gz",
+  "download_time": "2026-05-17T05:47:13.559158",
   "package_url": "https://pypi.org/project/usekit/"
 }
