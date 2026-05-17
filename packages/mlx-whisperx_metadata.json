@@ -1,0 +1,11 @@
+{
+  "name": "mlx-whisperx",
+  "version": "0.1.2",
+  "summary": "WhisperX-style transcription pipeline using an internal mlx-whisper ASR backend.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlx_whisperx-0.1.2.tar.gz",
+  "download_time": "2026-05-17T18:24:42.916436",
+  "package_url": "https://pypi.org/project/mlx-whisperx/"
+}

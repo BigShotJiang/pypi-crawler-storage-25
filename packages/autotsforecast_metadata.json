@@ -1,0 +1,11 @@
+{
+  "name": "autotsforecast",
+  "version": "0.6.0",
+  "summary": "Agentic time series forecasting with 16+ models, smart presets, parallel model search, dataset profiling, MCP, FastAPI, LangChain, and anomaly detection.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autotsforecast-0.6.0.tar.gz",
+  "download_time": "2026-05-17T18:25:12.839806",
+  "package_url": "https://pypi.org/project/autotsforecast/"
+}

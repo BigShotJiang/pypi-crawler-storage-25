@@ -1,11 +1,11 @@
 {
   "name": "veloxcord",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "A production-ready async Discord API wrapper for Python 3.11+",
   "author": "VeloxCord Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "veloxcord-1.0.2.tar.gz",
-  "download_time": "2026-05-17T17:27:12.836553",
+  "download_filename": "veloxcord-1.0.4.tar.gz",
+  "download_time": "2026-05-17T18:25:27.508335",
   "package_url": "https://pypi.org/project/veloxcord/"
 }

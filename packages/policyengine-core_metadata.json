@@ -1,11 +1,11 @@
 {
   "name": "policyengine-core",
-  "version": "3.26.5",
+  "version": "3.26.9",
   "summary": "Core microsimulation engine enabling country-specific policy models.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "policyengine_core-3.26.5.tar.gz",
-  "download_time": "2026-05-14T23:50:28.362237",
+  "download_filename": "policyengine_core-3.26.9.tar.gz",
+  "download_time": "2026-05-17T18:24:55.763913",
   "package_url": "https://pypi.org/project/policyengine-core/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sqlbuild",
-  "version": "0.7.0",
-  "summary": "Batch SQL transformation framework",
+  "version": "0.16.1",
+  "summary": "Typed, test-first SQL pipelines with local E2E testing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sqlbuild-0.7.0.tar.gz",
-  "download_time": "2026-05-07T22:54:17.756240",
+  "download_filename": "sqlbuild-0.16.1.tar.gz",
+  "download_time": "2026-05-17T18:24:46.845726",
   "package_url": "https://pypi.org/project/sqlbuild/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "evidentia-core",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "summary": "Core data models, catalog loading, and gap analysis engine for Evidentia GRC tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evidentia_core-0.9.3.tar.gz",
-  "download_time": "2026-05-17T05:47:18.794632",
+  "download_filename": "evidentia_core-0.9.4.tar.gz",
+  "download_time": "2026-05-17T18:24:50.517707",
   "package_url": "https://pypi.org/project/evidentia-core/"
 }

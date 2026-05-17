@@ -1,0 +1,11 @@
+{
+  "name": "neurodock-mcp-task-fractionator",
+  "version": "0.0.1",
+  "summary": "NeuroDock task fractionator MCP server — goal decomposition and next-action selection.",
+  "author": "NeuroDock contributors",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "neurodock_mcp_task_fractionator-0.0.1.tar.gz",
+  "download_time": "2026-05-17T18:25:08.134228",
+  "package_url": "https://pypi.org/project/neurodock-mcp-task-fractionator/"
+}

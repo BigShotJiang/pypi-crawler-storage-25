@@ -1,0 +1,11 @@
+{
+  "name": "stadar",
+  "version": "0.1.5",
+  "summary": "Official Python SDK for the Stadar esports API (stadar.net)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stadar-0.1.5.tar.gz",
+  "download_time": "2026-05-17T18:24:40.753150",
+  "package_url": "https://pypi.org/project/stadar/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tokenbreak-scanner",
+  "version": "0.1.0",
+  "summary": "Scanner for TokenBreak vulnerabilities in NLP model artifacts",
+  "author": "TokenBreak Scanner Contributors",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "tokenbreak_scanner-0.1.0.tar.gz",
+  "download_time": "2026-05-17T18:24:54.191418",
+  "package_url": "https://pypi.org/project/tokenbreak-scanner/"
+}
