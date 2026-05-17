@@ -1,0 +1,11 @@
+{
+  "name": "nanohub-mcp",
+  "version": "0.2.1",
+  "summary": "MCP (Model Context Protocol) server library for nanoHUB tools",
+  "author": "nanoHUB",
+  "license": "MIT",
+  "home_page": "https://nanohub.org",
+  "download_filename": "nanohub_mcp-0.2.1.tar.gz",
+  "download_time": "2026-05-17T01:42:10.109336",
+  "package_url": "https://pypi.org/project/nanohub-mcp/"
+}

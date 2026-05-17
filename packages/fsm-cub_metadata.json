@@ -1,11 +1,11 @@
 {
   "name": "fsm-cub",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "summary": "Tiny, type-safe FSMs in modern Python. Just states, transitions, and on_enter/on_exit hooks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fsm_cub-0.0.4-py3-none-any.whl",
-  "download_time": "2026-05-16T23:44:05.384407",
+  "download_filename": "fsm_cub-0.0.7-py3-none-any.whl",
+  "download_time": "2026-05-17T01:42:13.414780",
   "package_url": "https://pypi.org/project/fsm-cub/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-hr-employee-language-from-work-address",
+  "version": "14.0.1.2.0",
+  "summary": "Employee Language From Home Address",
+  "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_hr_employee_language_from_work_address-14.0.1.2.0-py3-none-any.whl",
+  "download_time": "2026-05-17T01:42:17.942928",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-hr-employee-language-from-work-address/"
+}

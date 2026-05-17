@@ -1,11 +1,11 @@
 {
   "name": "payswitch",
-  "version": "0.2.1",
+  "version": "0.4.0",
   "summary": "AI Agent 支付编排工具——让 Agent 学会花钱",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "payswitch-0.2.1.tar.gz",
-  "download_time": "2026-05-11T14:23:56.622509",
+  "download_filename": "payswitch-0.4.0.tar.gz",
+  "download_time": "2026-05-17T01:42:35.656070",
   "package_url": "https://pypi.org/project/payswitch/"
 }

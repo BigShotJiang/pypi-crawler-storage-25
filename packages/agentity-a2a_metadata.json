@@ -1,11 +1,11 @@
 {
   "name": "agentity-a2a",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Agentity A2A protocol plugin for Google",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agentity_a2a-0.1.0.tar.gz",
-  "download_time": "2026-05-16T23:43:46.711929",
+  "download_filename": "agentity_a2a-0.1.1.tar.gz",
+  "download_time": "2026-05-17T01:42:22.055012",
   "package_url": "https://pypi.org/project/agentity-a2a/"
 }
