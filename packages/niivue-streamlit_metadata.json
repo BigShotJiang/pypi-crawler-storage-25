@@ -1,11 +1,11 @@
 {
   "name": "niivue-streamlit",
-  "version": "0.2.2b13",
+  "version": "0.3.0",
   "summary": "A Streamlit component for NiiVue neuroimaging viewer",
   "author": "NiiVue Team",
   "license": null,
   "home_page": null,
-  "download_filename": "niivue_streamlit-0.2.2b13.tar.gz",
-  "download_time": "2026-05-17T10:13:06.256424",
+  "download_filename": "niivue_streamlit-0.3.0.tar.gz",
+  "download_time": "2026-05-17T15:12:34.627222",
   "package_url": "https://pypi.org/project/niivue-streamlit/"
 }

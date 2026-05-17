@@ -1,0 +1,11 @@
+{
+  "name": "solaredgemodbus2mqtt",
+  "version": "1.0.0",
+  "summary": "SolarEdge SunSpec Modbus reader/writer module and CLI",
+  "author": "Skier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "solaredgemodbus2mqtt-1.0.0.tar.gz",
+  "download_time": "2026-05-17T15:12:50.712918",
+  "package_url": "https://pypi.org/project/solaredgemodbus2mqtt/"
+}

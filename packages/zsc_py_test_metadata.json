@@ -1,0 +1,11 @@
+{
+  "name": "zsc_py_test",
+  "version": "1.0.0",
+  "summary": "Python client library for the Zettelstore (TESTVERSION)",
+  "author": "Leon Fleck, Halil Guenduez, Lukas Mayer, Fynn Wedekind",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zsc_py_test-1.0.0.tar.gz",
+  "download_time": "2026-05-17T15:13:21.246376",
+  "package_url": "https://pypi.org/project/zsc_py_test/"
+}

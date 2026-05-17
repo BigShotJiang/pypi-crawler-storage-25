@@ -1,0 +1,11 @@
+{
+  "name": "ownscribe",
+  "version": "0.11.0",
+  "summary": "Fully local meeting transcription and summarization CLI",
+  "author": "Pascal Berrang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ownscribe-0.11.0.tar.gz",
+  "download_time": "2026-05-17T15:13:03.670808",
+  "package_url": "https://pypi.org/project/ownscribe/"
+}

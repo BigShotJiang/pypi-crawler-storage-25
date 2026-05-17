@@ -1,0 +1,11 @@
+{
+  "name": "zarr-vectors",
+  "version": "0.2.0",
+  "summary": "Python utilities for the Zarr Vector Format (ZVF) — cloud-native storage for points, lines, streamlines, graphs, and meshes.",
+  "author": "Andrew Keenlyside, Forrest Collman",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "zarr_vectors-0.2.0.tar.gz",
+  "download_time": "2026-05-17T15:12:57.472213",
+  "package_url": "https://pypi.org/project/zarr-vectors/"
+}

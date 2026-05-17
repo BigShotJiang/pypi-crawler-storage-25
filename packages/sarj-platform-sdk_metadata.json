@@ -1,11 +1,11 @@
 {
   "name": "sarj-platform-sdk",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Python SDK for the Sarj.ai Developer API",
   "author": "Sarj.ai",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "sarj_platform_sdk-0.1.1.tar.gz",
-  "download_time": "2026-05-16T15:29:43.632739",
+  "download_filename": "sarj_platform_sdk-0.1.3.tar.gz",
+  "download_time": "2026-05-17T15:13:05.733799",
   "package_url": "https://pypi.org/project/sarj-platform-sdk/"
 }

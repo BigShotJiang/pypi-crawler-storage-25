@@ -1,11 +1,11 @@
 {
   "name": "alphafold-sovereign-mcp",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "MCP server wrapping AlphaFold DB and 13 other biomedical data sources, with a local SQLite knowledge graph.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "alphafold_sovereign_mcp-1.1.0.tar.gz",
-  "download_time": "2026-05-12T09:49:18.601209",
+  "download_filename": "alphafold_sovereign_mcp-1.1.1.tar.gz",
+  "download_time": "2026-05-17T15:12:43.925078",
   "package_url": "https://pypi.org/project/alphafold-sovereign-mcp/"
 }

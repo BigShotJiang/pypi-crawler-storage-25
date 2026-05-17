@@ -1,0 +1,11 @@
+{
+  "name": "runspec",
+  "version": "0.3.0",
+  "summary": "A language-agnostic, TOML-based interface specification for anything runnable",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "runspec-0.3.0.tar.gz",
+  "download_time": "2026-05-17T15:13:03.158482",
+  "package_url": "https://pypi.org/project/runspec/"
+}

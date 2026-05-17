@@ -1,11 +1,11 @@
 {
   "name": "obuvstore",
-  "version": "1.1.8",
+  "version": "1.2.0",
   "summary": "ИС ООО «Обувь» — готовый пакет для демо-экзамена",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "obuvstore-1.1.8.tar.gz",
-  "download_time": "2026-05-17T08:14:18.107698",
+  "download_filename": "obuvstore-1.2.0.tar.gz",
+  "download_time": "2026-05-17T15:13:05.220403",
   "package_url": "https://pypi.org/project/obuvstore/"
 }
