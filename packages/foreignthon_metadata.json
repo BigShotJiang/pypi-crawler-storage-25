@@ -1,11 +1,11 @@
 {
   "name": "foreignthon",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "Write Python in any language. Transpiles foreign-language .xx.py files to standard Python.",
   "author": null,
   "license": "GPL v3",
   "home_page": null,
-  "download_filename": "foreignthon-0.4.1.tar.gz",
-  "download_time": "2026-05-16T23:44:01.219341",
+  "download_filename": "foreignthon-0.5.0.tar.gz",
+  "download_time": "2026-05-17T23:45:37.591716",
   "package_url": "https://pypi.org/project/foreignthon/"
 }

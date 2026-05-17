@@ -1,11 +1,11 @@
 {
   "name": "animica",
-  "version": "0.1.38",
+  "version": "0.1.39",
   "summary": "Animica blockchain CLI and client libraries — node, wallet, miner, contracts, and useful-work jobs.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "animica-0.1.38-py3-none-any.whl",
-  "download_time": "2026-05-17T15:13:11.418478",
+  "download_filename": "animica-0.1.39-py3-none-any.whl",
+  "download_time": "2026-05-17T23:45:55.546260",
   "package_url": "https://pypi.org/project/animica/"
 }

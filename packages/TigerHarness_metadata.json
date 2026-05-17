@@ -1,0 +1,11 @@
+{
+  "name": "TigerHarness",
+  "version": "0.1.4",
+  "summary": "A generic Claude Code agent harness: iterative task execution, Slack integration, and persistent memory management.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tigerharness-0.1.4.tar.gz",
+  "download_time": "2026-05-17T23:46:04.529198",
+  "package_url": "https://pypi.org/project/TigerHarness/"
+}

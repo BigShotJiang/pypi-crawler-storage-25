@@ -1,0 +1,11 @@
+{
+  "name": "vidurl",
+  "version": "0.4.0",
+  "summary": "Extract video URLs from web pages and generate curl download commands",
+  "author": "vidurl contributors",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "vidurl-0.4.0.tar.gz",
+  "download_time": "2026-05-17T23:46:11.502698",
+  "package_url": "https://pypi.org/project/vidurl/"
+}

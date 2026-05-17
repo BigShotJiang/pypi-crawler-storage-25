@@ -1,0 +1,11 @@
+{
+  "name": "mapdata",
+  "version": "3.23.0",
+  "summary": "An interactive map and table explorer for geographic coordinates in a spreadsheet, CSV file, or database that includes data plotting and statistical summaries",
+  "author": "Dreas Nielsen",
+  "license": "GPL",
+  "home_page": "https:/hg.sr.ht/~rdnielsen/mapdata",
+  "download_filename": "mapdata-3.23.0.tar.gz",
+  "download_time": "2026-05-17T23:45:41.627420",
+  "package_url": "https://pypi.org/project/mapdata/"
+}

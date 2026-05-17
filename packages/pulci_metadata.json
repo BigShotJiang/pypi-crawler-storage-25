@@ -1,0 +1,11 @@
+{
+  "name": "pulci",
+  "version": "0.0.5",
+  "summary": "Continuous quality gate daemon for agent-driven Python development.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/grego-casparri/pulci",
+  "download_filename": "pulci-0.0.5.tar.gz",
+  "download_time": "2026-05-17T23:45:46.772619",
+  "package_url": "https://pypi.org/project/pulci/"
+}
