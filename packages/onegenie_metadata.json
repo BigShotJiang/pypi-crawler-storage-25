@@ -1,11 +1,11 @@
 {
   "name": "onegenie",
-  "version": "0.1.7",
+  "version": "0.1.18",
   "summary": "The official Python SDK for AskGenie AI Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "onegenie-0.1.7.tar.gz",
-  "download_time": "2026-05-05T04:09:10.597904",
+  "download_filename": "onegenie-0.1.18-py3-none-any.whl",
+  "download_time": "2026-05-17T10:13:17.526508",
   "package_url": "https://pypi.org/project/onegenie/"
 }

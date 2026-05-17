@@ -1,11 +1,11 @@
 {
   "name": "flowstash-runtime",
-  "version": "0.6.3",
+  "version": "0.7.1",
   "summary": "Actual runtime engine and bootstrap layer for the flowstash platform.",
   "author": "juraj.bezdek@gmail.com",
   "license": null,
   "home_page": null,
-  "download_filename": "flowstash_runtime-0.6.3.tar.gz",
-  "download_time": "2026-05-09T16:01:56.041882",
+  "download_filename": "flowstash_runtime-0.7.1.tar.gz",
+  "download_time": "2026-05-17T10:13:21.109223",
   "package_url": "https://pypi.org/project/flowstash-runtime/"
 }

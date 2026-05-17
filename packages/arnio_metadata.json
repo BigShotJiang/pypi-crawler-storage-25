@@ -1,11 +1,11 @@
 {
   "name": "arnio",
-  "version": "1.4.0",
+  "version": "1.6.2",
   "summary": "C++ accelerated data preparation for pandas and the Python data stack",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arnio-1.4.0.tar.gz",
-  "download_time": "2026-05-16T09:15:12.482191",
+  "download_filename": "arnio-1.6.2.tar.gz",
+  "download_time": "2026-05-17T10:12:53.418291",
   "package_url": "https://pypi.org/project/arnio/"
 }

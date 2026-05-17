@@ -1,11 +1,11 @@
 {
   "name": "predacore",
-  "version": "1.6.8",
+  "version": "1.6.13",
   "summary": "PredaCore — your personal autonomous agent with an infinite context window and memory.",
   "author": "Shubham Pingle",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "predacore-1.6.8.tar.gz",
-  "download_time": "2026-05-12T04:46:06.244934",
+  "download_filename": "predacore-1.6.13.tar.gz",
+  "download_time": "2026-05-17T10:12:45.734725",
   "package_url": "https://pypi.org/project/predacore/"
 }

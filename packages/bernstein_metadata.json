@@ -1,11 +1,11 @@
 {
   "name": "bernstein",
-  "version": "1.10.8",
+  "version": "2.0.1",
   "summary": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, and 40 more): HMAC-chained audit log, signed agent cards, per-artefact lineage, air-gap deploy. The orchestrator your compliance team will sign off on.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bernstein-1.10.8.tar.gz",
-  "download_time": "2026-05-13T20:32:03.130993",
+  "download_filename": "bernstein-2.0.1.tar.gz",
+  "download_time": "2026-05-17T10:13:08.326825",
   "package_url": "https://pypi.org/project/bernstein/"
 }

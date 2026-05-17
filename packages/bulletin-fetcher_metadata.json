@@ -1,0 +1,11 @@
+{
+  "name": "bulletin-fetcher",
+  "version": "0.5.1",
+  "summary": "A Python library for programmatic access to EU official bulletins",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bulletin_fetcher-0.5.1.tar.gz",
+  "download_time": "2026-05-17T10:13:09.872536",
+  "package_url": "https://pypi.org/project/bulletin-fetcher/"
+}

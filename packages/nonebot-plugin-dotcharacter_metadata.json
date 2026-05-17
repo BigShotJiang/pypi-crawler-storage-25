@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-dotcharacter",
+  "version": "2.0.9",
+  "summary": "NoneBot 插件：加载 dot-skill / colleague-skill 蒸馏角色，通过 QQ Bot 进行 AI 角色扮演对话",
+  "author": "tghrt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_dotcharacter-2.0.9.tar.gz",
+  "download_time": "2026-05-17T10:13:03.128316",
+  "package_url": "https://pypi.org/project/nonebot-plugin-dotcharacter/"
+}

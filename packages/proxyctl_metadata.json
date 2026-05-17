@@ -1,11 +1,11 @@
 {
   "name": "proxyctl",
-  "version": "0.1.4",
+  "version": "0.3.2",
   "summary": "Proxy configuration lifecycle management for macOS and Linux",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "proxyctl-0.1.4.tar.gz",
-  "download_time": "2026-05-17T05:47:02.565330",
+  "download_filename": "proxyctl-0.3.2.tar.gz",
+  "download_time": "2026-05-17T10:13:03.640574",
   "package_url": "https://pypi.org/project/proxyctl/"
 }
