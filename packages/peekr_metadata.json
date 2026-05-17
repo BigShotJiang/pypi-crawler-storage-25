@@ -1,11 +1,11 @@
 {
   "name": "peekr",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Zero-config observability for AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "peekr-0.3.0.tar.gz",
-  "download_time": "2026-05-14T23:50:16.240025",
+  "download_filename": "peekr-0.4.0.tar.gz",
+  "download_time": "2026-05-17T22:41:26.703844",
   "package_url": "https://pypi.org/project/peekr/"
 }

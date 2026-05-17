@@ -1,0 +1,11 @@
+{
+  "name": "holster-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for Holster, a local-first secret vault with audit logs and agent tooling.",
+  "author": "Nauta AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "holster_mcp-0.1.0.tar.gz",
+  "download_time": "2026-05-17T22:41:11.396106",
+  "package_url": "https://pypi.org/project/holster-mcp/"
+}

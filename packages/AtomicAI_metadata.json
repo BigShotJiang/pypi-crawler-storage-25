@@ -1,0 +1,11 @@
+{
+  "name": "AtomicAI",
+  "version": "0.4.0",
+  "summary": "Processing and visualization of atomic coordinates; featurizing atomic structures",
+  "author": "Selva Chandrasekaran Selvaraj",
+  "license": "MIT",
+  "home_page": "https://sites.google.com/view/selvas",
+  "download_filename": "atomicai-0.4.0.tar.gz",
+  "download_time": "2026-05-17T22:41:30.346762",
+  "package_url": "https://pypi.org/project/AtomicAI/"
+}

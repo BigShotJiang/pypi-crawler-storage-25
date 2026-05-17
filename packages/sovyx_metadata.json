@@ -1,11 +1,11 @@
 {
   "name": "sovyx",
-  "version": "0.45.7",
+  "version": "0.47.2",
   "summary": "Sovereign Minds Engine — Persistent AI companion with real memory",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sovyx-0.45.7.tar.gz",
-  "download_time": "2026-05-17T08:13:49.401507",
+  "download_filename": "sovyx-0.47.2.tar.gz",
+  "download_time": "2026-05-17T22:41:03.583527",
   "package_url": "https://pypi.org/project/sovyx/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ato-mcp",
-  "version": "0.8.11",
+  "version": "0.8.15",
   "summary": "MCP server for Australian Taxation Office statistics. Plain-English access to personal tax by postcode, company tax by industry, corporate tax transparency, GST collections, super contributions, and the ACNC charity register.",
   "author": "Harry Vass",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ato_mcp-0.8.11.tar.gz",
-  "download_time": "2026-05-17T21:43:27.430620",
+  "download_filename": "ato_mcp-0.8.15.tar.gz",
+  "download_time": "2026-05-17T22:41:29.314801",
   "package_url": "https://pypi.org/project/ato-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "patchcraft",
+  "version": "0.2.0",
+  "summary": "Image patch extraction, reconstruction, pairing and seam-aware stitching for super-resolution and dataset pipelines.",
+  "author": "Leonardo Marques de Souza",
+  "license": null,
+  "home_page": null,
+  "download_filename": "patchcraft-0.2.0.tar.gz",
+  "download_time": "2026-05-17T22:41:27.729828",
+  "package_url": "https://pypi.org/project/patchcraft/"
+}

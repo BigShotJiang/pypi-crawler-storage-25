@@ -1,11 +1,11 @@
 {
   "name": "proker",
-  "version": "4.16.6",
+  "version": "4.16.11",
   "summary": "Pro-ker Proteomics Analysis — an interactive browser-based proteomics data visualization tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "proker-4.16.6.tar.gz",
-  "download_time": "2026-05-10T06:58:51.599439",
+  "download_filename": "proker-4.16.11.tar.gz",
+  "download_time": "2026-05-17T22:41:21.827563",
   "package_url": "https://pypi.org/project/proker/"
 }
