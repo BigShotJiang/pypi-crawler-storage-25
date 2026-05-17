@@ -1,11 +1,11 @@
 {
   "name": "vrp-model",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Solver-agnostic VRP modeling library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vrp_model-0.1.1.tar.gz",
-  "download_time": "2026-05-04T08:38:03.617185",
+  "download_filename": "vrp_model-0.2.0.tar.gz",
+  "download_time": "2026-05-17T16:17:22.368323",
   "package_url": "https://pypi.org/project/vrp-model/"
 }

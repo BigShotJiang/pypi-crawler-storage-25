@@ -1,11 +1,11 @@
 {
   "name": "wexample-wex-addon-services-platform",
-  "version": "7.0.6",
+  "version": "9.1.2",
   "summary": "Platform services (n8n, gitlab, jenkins...) for wex",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wexample_wex_addon_services_platform-7.0.6.tar.gz",
-  "download_time": "2026-04-20T23:10:18.564657",
+  "download_filename": "wexample_wex_addon_services_platform-9.1.2.tar.gz",
+  "download_time": "2026-05-17T16:17:54.994224",
   "package_url": "https://pypi.org/project/wexample-wex-addon-services-platform/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "xvcio",
+  "version": "0.0.0",
+  "summary": "Protocol library for Xilinx Virtual Cable (XVC).",
+  "author": "Anthony Donlon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xvcio-0.0.0.tar.gz",
+  "download_time": "2026-05-17T16:17:56.019623",
+  "package_url": "https://pypi.org/project/xvcio/"
+}

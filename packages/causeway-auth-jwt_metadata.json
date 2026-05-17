@@ -1,0 +1,11 @@
+{
+  "name": "causeway-auth-jwt",
+  "version": "0.2.0",
+  "summary": "JWT bearer-token AuthProvider for Causeway.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "causeway_auth_jwt-0.2.0.tar.gz",
+  "download_time": "2026-05-17T16:17:53.450807",
+  "package_url": "https://pypi.org/project/causeway-auth-jwt/"
+}

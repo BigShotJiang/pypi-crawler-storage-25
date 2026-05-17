@@ -1,0 +1,11 @@
+{
+  "name": "mcbook",
+  "version": "0.0.1a0",
+  "summary": "A graph-based knowledge management system for LLM-driven research, technical editing, and automated peer-review workflows.",
+  "author": "J Joe",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/JosefAlbers/mcbook",
+  "download_filename": "mcbook-0.0.1a0.tar.gz",
+  "download_time": "2026-05-17T16:17:27.134355",
+  "package_url": "https://pypi.org/project/mcbook/"
+}

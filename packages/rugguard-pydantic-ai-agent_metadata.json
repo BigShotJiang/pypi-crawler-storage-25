@@ -1,0 +1,11 @@
+{
+  "name": "rugguard-pydantic-ai-agent",
+  "version": "0.1.1",
+  "summary": "Pydantic AI integration kit for RugGuard — pre-trade safety as a typed tool. Pay-per-call via x402 on Base mainnet.",
+  "author": "David Bellaiche",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rugguard_pydantic_ai_agent-0.1.1.tar.gz",
+  "download_time": "2026-05-17T16:17:09.832089",
+  "package_url": "https://pypi.org/project/rugguard-pydantic-ai-agent/"
+}

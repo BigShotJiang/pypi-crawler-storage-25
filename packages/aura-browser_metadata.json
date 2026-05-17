@@ -1,11 +1,11 @@
 {
   "name": "aura-browser",
-  "version": "0.4.2",
+  "version": "0.4.13",
   "summary": "An AI-driven, lightning-fast stealth browser controller.",
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "aura_browser-0.4.2.tar.gz",
-  "download_time": "2026-05-17T15:12:37.709405",
+  "download_filename": "aura_browser-0.4.13.tar.gz",
+  "download_time": "2026-05-17T16:17:18.762199",
   "package_url": "https://pypi.org/project/aura-browser/"
 }

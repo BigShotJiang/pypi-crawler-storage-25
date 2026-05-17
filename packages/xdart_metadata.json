@@ -1,11 +1,11 @@
 {
   "name": "xdart",
-  "version": "0.36.0",
+  "version": "0.37.1",
   "summary": "A pyFAI-based GUI for X-ray diffraction data reduction and visualization",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xdart-0.36.0.tar.gz",
-  "download_time": "2026-05-12T07:01:00.677307",
+  "download_filename": "xdart-0.37.1.tar.gz",
+  "download_time": "2026-05-17T16:17:26.022443",
   "package_url": "https://pypi.org/project/xdart/"
 }

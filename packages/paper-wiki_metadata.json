@@ -1,0 +1,11 @@
+{
+  "name": "paper-wiki",
+  "version": "0.2.0",
+  "summary": "Deep paper reading wiki: search, summarize, and analyze arXiv papers into a three-layer markdown wiki",
+  "author": "mblank",
+  "license": null,
+  "home_page": null,
+  "download_filename": "paper_wiki-0.2.0.tar.gz",
+  "download_time": "2026-05-17T16:17:18.250330",
+  "package_url": "https://pypi.org/project/paper-wiki/"
+}

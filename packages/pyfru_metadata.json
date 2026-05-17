@@ -1,0 +1,11 @@
+{
+  "name": "pyfru",
+  "version": "0.1.0",
+  "summary": "Blazingly fast Random Forest with arrow support (pandas, polars, pyarrow etc.)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfru-0.1.0.tar.gz",
+  "download_time": "2026-05-17T16:17:50.332315",
+  "package_url": "https://pypi.org/project/pyfru/"
+}

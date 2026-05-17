@@ -1,11 +1,11 @@
 {
   "name": "g8-mcp-server",
-  "version": "0.6.2",
+  "version": "0.6.5",
   "summary": "graph8 MCP server - GTM operations for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "g8_mcp_server-0.6.2.tar.gz",
-  "download_time": "2026-05-15T17:24:06.482603",
+  "download_filename": "g8_mcp_server-0.6.5.tar.gz",
+  "download_time": "2026-05-17T16:17:44.155266",
   "package_url": "https://pypi.org/project/g8-mcp-server/"
 }

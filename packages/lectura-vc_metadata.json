@@ -1,0 +1,11 @@
+{
+  "name": "lectura-vc",
+  "version": "2.1.0",
+  "summary": "Module de conversion vocale Lectura — meta-package unifie (RVC + OpenVoice)",
+  "author": "Lectura",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lectura_vc-2.1.0.tar.gz",
+  "download_time": "2026-05-17T16:17:46.209617",
+  "package_url": "https://pypi.org/project/lectura-vc/"
+}

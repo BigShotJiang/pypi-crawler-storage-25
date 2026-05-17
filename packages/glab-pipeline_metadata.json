@@ -1,0 +1,11 @@
+{
+  "name": "glab-pipeline",
+  "version": "0.2.0",
+  "summary": "Agent-friendly CLI for inspecting GitLab CI pipelines — dumps full pipeline state and prints a problem-driven summary.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glab_pipeline-0.2.0.tar.gz",
+  "download_time": "2026-05-17T16:17:29.179352",
+  "package_url": "https://pypi.org/project/glab-pipeline/"
+}

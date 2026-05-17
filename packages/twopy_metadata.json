@@ -1,11 +1,11 @@
 {
   "name": "twopy",
-  "version": "0.1.6",
+  "version": "0.1.9",
   "summary": "Two-photon imaging analysis tool with a napari interface.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "twopy-0.1.6.tar.gz",
-  "download_time": "2026-05-08T19:03:05.876378",
+  "download_filename": "twopy-0.1.9.tar.gz",
+  "download_time": "2026-05-17T16:17:22.885750",
   "package_url": "https://pypi.org/project/twopy/"
 }

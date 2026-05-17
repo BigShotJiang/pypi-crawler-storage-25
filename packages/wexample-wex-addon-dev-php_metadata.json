@@ -1,11 +1,11 @@
 {
   "name": "wexample-wex-addon-dev-php",
-  "version": "7.0.3",
+  "version": "8.1.2",
   "summary": "Python dev addon for wex",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wexample_wex_addon_dev_php-7.0.3.tar.gz",
-  "download_time": "2026-04-20T21:14:02.914414",
+  "download_filename": "wexample_wex_addon_dev_php-8.1.2.tar.gz",
+  "download_time": "2026-05-17T16:17:52.938255",
   "package_url": "https://pypi.org/project/wexample-wex-addon-dev-php/"
 }

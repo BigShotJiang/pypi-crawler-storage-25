@@ -1,0 +1,11 @@
+{
+  "name": "nest-core",
+  "version": "0.1.1",
+  "summary": "NEST core engine: layer interfaces, runtime, event loop, and simulator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nest_core-0.1.1.tar.gz",
+  "download_time": "2026-05-17T16:17:17.737572",
+  "package_url": "https://pypi.org/project/nest-core/"
+}
