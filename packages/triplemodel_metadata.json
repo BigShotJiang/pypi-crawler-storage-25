@@ -1,0 +1,11 @@
+{
+  "name": "triplemodel",
+  "version": "0.2.0",
+  "summary": "Pydantic TripleModel classes ↔ RDF triples via rdflib (alpha).",
+  "author": "TripleModel contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "triplemodel-0.2.0.tar.gz",
+  "download_time": "2026-05-17T20:44:33.217700",
+  "package_url": "https://pypi.org/project/triplemodel/"
+}

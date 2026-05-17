@@ -1,11 +1,11 @@
 {
   "name": "askamerica",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Query US government data with a single line of Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "askamerica-0.2.0.tar.gz",
-  "download_time": "2026-05-17T19:50:11.840373",
+  "download_filename": "askamerica-0.3.0.tar.gz",
+  "download_time": "2026-05-17T20:44:01.073603",
   "package_url": "https://pypi.org/project/askamerica/"
 }

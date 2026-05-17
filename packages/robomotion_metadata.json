@@ -1,11 +1,11 @@
 {
   "name": "robomotion",
-  "version": "1.19.1",
+  "version": "1.21.0",
   "summary": null,
   "author": "Robomotion IO",
   "license": null,
   "home_page": "https://robomotion.io/",
-  "download_filename": "robomotion-1.19.1.tar.gz",
-  "download_time": "2026-05-14T04:27:39.770236",
+  "download_filename": "robomotion-1.21.0.tar.gz",
+  "download_time": "2026-05-17T20:44:02.354165",
   "package_url": "https://pypi.org/project/robomotion/"
 }

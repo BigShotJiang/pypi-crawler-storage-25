@@ -1,11 +1,11 @@
 {
   "name": "vizQA",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Vision-driven UI Testing Framework",
   "author": "Spospider",
   "license": null,
   "home_page": null,
-  "download_filename": "vizqa-0.2.0.tar.gz",
-  "download_time": "2026-04-25T14:36:33.916069",
+  "download_filename": "vizqa-0.3.0.tar.gz",
+  "download_time": "2026-05-17T20:43:58.916682",
   "package_url": "https://pypi.org/project/vizQA/"
 }

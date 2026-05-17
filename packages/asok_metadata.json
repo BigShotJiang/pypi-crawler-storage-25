@@ -1,11 +1,11 @@
 {
   "name": "asok",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A minimalist, zero-dependency Python web framework.",
   "author": "Asok Maintainers",
   "license": null,
   "home_page": null,
-  "download_filename": "asok-0.1.4.tar.gz",
-  "download_time": "2026-05-10T18:03:22.306635",
+  "download_filename": "asok-0.1.6.tar.gz",
+  "download_time": "2026-05-17T20:43:47.177742",
   "package_url": "https://pypi.org/project/asok/"
 }

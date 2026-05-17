@@ -1,0 +1,11 @@
+{
+  "name": "flawfinder",
+  "version": "2.0.20",
+  "summary": "a program that examines source code looking for security weaknesses",
+  "author": "David A. Wheeler",
+  "license": "GPL-2.0+",
+  "home_page": "http://dwheeler.com/flawfinder/",
+  "download_filename": "flawfinder-2.0.20-py2.py3-none-any.whl",
+  "download_time": "2026-05-17T20:44:27.205737",
+  "package_url": "https://pypi.org/project/flawfinder/"
+}

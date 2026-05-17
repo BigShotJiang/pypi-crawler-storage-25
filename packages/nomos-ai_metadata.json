@@ -1,11 +1,11 @@
 {
   "name": "nomos-ai",
-  "version": "0.1.13",
-  "summary": "Document anonymization MCP server for legal use",
+  "version": "0.1.17",
+  "summary": "Nomos AI MCP server for legal use",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nomos_ai-0.1.13.tar.gz",
-  "download_time": "2026-05-16T20:56:27.857473",
+  "download_filename": "nomos_ai-0.1.17.tar.gz",
+  "download_time": "2026-05-17T20:44:05.476185",
   "package_url": "https://pypi.org/project/nomos-ai/"
 }

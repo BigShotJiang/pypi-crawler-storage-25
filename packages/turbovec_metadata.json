@@ -1,11 +1,11 @@
 {
   "name": "turbovec",
-  "version": "0.3.0",
+  "version": "0.4.2",
   "summary": "Fast vector quantization with 2-4 bit compression and SIMD search",
   "author": "Ryan Codrai",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "turbovec-0.3.0.tar.gz",
-  "download_time": "2026-04-20T21:13:55.247109",
+  "download_filename": "turbovec-0.4.2.tar.gz",
+  "download_time": "2026-05-17T20:44:06.712435",
   "package_url": "https://pypi.org/project/turbovec/"
 }

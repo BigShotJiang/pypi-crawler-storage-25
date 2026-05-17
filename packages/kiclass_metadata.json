@@ -1,11 +1,11 @@
 {
   "name": "kiclass",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Python bindings and Rust tooling for working with KingsIsle class and binary XML data",
   "author": null,
   "license": null,
   "home_page": "https://github.com/Spiral404/kiclass",
-  "download_filename": "kiclass-0.2.0.tar.gz",
-  "download_time": "2026-05-15T23:49:39.611603",
+  "download_filename": "kiclass-0.4.0.tar.gz",
+  "download_time": "2026-05-17T20:43:38.873941",
   "package_url": "https://pypi.org/project/kiclass/"
 }

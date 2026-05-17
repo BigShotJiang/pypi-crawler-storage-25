@@ -1,0 +1,11 @@
+{
+  "name": "daemonizer-py",
+  "version": "1.5.2",
+  "summary": "Library to define and manage daemonized Python-based programs in programmatic (SDK) or CLI-ready ways",
+  "author": "Lucas RODRIGUEZ",
+  "license": null,
+  "home_page": null,
+  "download_filename": "daemonizer_py-1.5.2.tar.gz",
+  "download_time": "2026-05-17T20:44:25.320858",
+  "package_url": "https://pypi.org/project/daemonizer-py/"
+}

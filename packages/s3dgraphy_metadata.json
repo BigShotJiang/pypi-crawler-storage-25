@@ -1,11 +1,11 @@
 {
   "name": "s3dgraphy",
-  "version": "0.1.42",
+  "version": "1.5.0",
   "summary": "3D Stratigraphic Graph Management Library for archaeological and heritage applications",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "s3dgraphy-0.1.42.tar.gz",
-  "download_time": "2026-05-10T21:18:12.065202",
+  "download_filename": "s3dgraphy-1.5.0.tar.gz",
+  "download_time": "2026-05-17T20:44:12.527630",
   "package_url": "https://pypi.org/project/s3dgraphy/"
 }

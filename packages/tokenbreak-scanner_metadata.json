@@ -1,11 +1,11 @@
 {
   "name": "tokenbreak-scanner",
-  "version": "0.1.2",
-  "summary": "Detect TokenBreak adversarial vulnerabilities in LLMs, classifiers, and encoders. Audit HuggingFace tokenizer artifacts for BPE/WordPiece attack surface.",
+  "version": "0.1.8",
+  "summary": "Detect TokenBreak adversarial vulnerabilities in LLMs, classifiers, and encoders. Audit HuggingFace and custom tokenizer artifacts for BPE/WordPiece attack surface in the AI supply chain.",
   "author": "TokenBreak Scanner Contributors",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "tokenbreak_scanner-0.1.2.tar.gz",
-  "download_time": "2026-05-17T19:50:01.681970",
+  "download_filename": "tokenbreak_scanner-0.1.8.tar.gz",
+  "download_time": "2026-05-17T20:44:31.866245",
   "package_url": "https://pypi.org/project/tokenbreak-scanner/"
 }
