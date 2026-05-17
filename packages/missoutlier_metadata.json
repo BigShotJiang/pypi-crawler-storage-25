@@ -1,0 +1,11 @@
+{
+  "name": "missoutlier",
+  "version": "0.1.1",
+  "summary": "Outlier detection using the MISS (MAD-IQR-SD Simultaneous) method",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "missoutlier-0.1.1.tar.gz",
+  "download_time": "2026-05-17T08:14:24.985894",
+  "package_url": "https://pypi.org/project/missoutlier/"
+}

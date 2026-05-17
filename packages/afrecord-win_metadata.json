@@ -1,0 +1,11 @@
+{
+  "name": "afrecord-win",
+  "version": "0.1.1",
+  "summary": "Record sound in cli in windows",
+  "author": "Sukhbinder Singh",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "afrecord_win-0.1.1.tar.gz",
+  "download_time": "2026-05-17T08:13:48.249362",
+  "package_url": "https://pypi.org/project/afrecord-win/"
+}

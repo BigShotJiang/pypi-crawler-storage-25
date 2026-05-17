@@ -1,0 +1,11 @@
+{
+  "name": "paye",
+  "version": "0.8.0",
+  "summary": "An implementation of UK income tax Pay-As-You-Earn calculations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "paye-0.8.0.tar.gz",
+  "download_time": "2026-05-17T08:13:53.880882",
+  "package_url": "https://pypi.org/project/paye/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pysupercc",
-  "version": "0.2.12",
+  "version": "0.3.0",
   "summary": "SuperCC — 超级 Claude Code，支持多平台（飞书、钉钉、微信等），具备记忆自优化和技能自进化能力",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pysupercc-0.2.12-py3-none-any.whl",
-  "download_time": "2026-05-09T12:11:58.393890",
+  "download_filename": "pysupercc-0.3.0-py3-none-any.whl",
+  "download_time": "2026-05-17T08:13:57.549626",
   "package_url": "https://pypi.org/project/pysupercc/"
 }

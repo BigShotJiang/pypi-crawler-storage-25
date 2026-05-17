@@ -1,0 +1,11 @@
+{
+  "name": "trialdesignbench",
+  "version": "0.2.1",
+  "summary": "Evaluate whether AI agents can create efficient, reproducible, and safe clinical trial design",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trialdesignbench-0.2.1.tar.gz",
+  "download_time": "2026-05-17T08:14:09.121429",
+  "package_url": "https://pypi.org/project/trialdesignbench/"
+}

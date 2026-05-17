@@ -1,11 +1,11 @@
 {
   "name": "memscale",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "Drop-in memory optimizer for PyTorch training. Reduce VRAM significantly with one line of code.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "memscale-1.0.2-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2026-05-14T12:03:43.928232",
+  "download_filename": "memscale-1.1.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-17T08:14:06.981494",
   "package_url": "https://pypi.org/project/memscale/"
 }

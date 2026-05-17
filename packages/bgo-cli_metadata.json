@@ -1,0 +1,11 @@
+{
+  "name": "bgo-cli",
+  "version": "0.2.0",
+  "summary": "Lightweight, zero-dependency background process manager (pm2-style) with watch mode and auto-restart.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bgo_cli-0.2.0.tar.gz",
+  "download_time": "2026-05-17T08:14:18.628162",
+  "package_url": "https://pypi.org/project/bgo-cli/"
+}

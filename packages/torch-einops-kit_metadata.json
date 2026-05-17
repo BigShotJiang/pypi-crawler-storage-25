@@ -1,0 +1,11 @@
+{
+  "name": "torch-einops-kit",
+  "version": "0.1.5",
+  "summary": "Typed tensor-shaping, masking, padding, device-routing, and checkpoint utilities for PyTorch and `einops`. A superset of `lucidrains/torch-einops-utils` with similar utilities from other lucidrains packages. Adds strict typing, extensive tests, and comprehensive docstrings.",
+  "author": "Phil Wang, Hunter Hogan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "torch_einops_kit-0.1.5.tar.gz",
+  "download_time": "2026-05-17T08:14:04.874708",
+  "package_url": "https://pypi.org/project/torch-einops-kit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bayesian-gp-cvloss",
+  "version": "0.3.1",
+  "summary": "A Python package for Gaussian Process Regression with hyperparameter optimization using Hyperopt and cross-validation, focusing on optimizing cross-validated loss.",
+  "author": "Shifa Zhong",
+  "license": null,
+  "home_page": "https://github.com/Shifa-Zhong/bayesian-gp-cvloss",
+  "download_filename": "bayesian_gp_cvloss-0.3.1.tar.gz",
+  "download_time": "2026-05-17T08:14:29.729541",
+  "package_url": "https://pypi.org/project/bayesian-gp-cvloss/"
+}
