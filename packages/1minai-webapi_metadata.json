@@ -1,11 +1,11 @@
 {
   "name": "1minai-webapi",
-  "version": "1.0.1",
+  "version": "1.0.31",
   "summary": "Async Python wrapper for the 1min.ai web app",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "1minai_webapi-1.0.1.tar.gz",
-  "download_time": "2026-05-16T22:42:03.699090",
+  "download_filename": "1minai_webapi-1.0.31.tar.gz",
+  "download_time": "2026-05-18T22:05:38.767139",
   "package_url": "https://pypi.org/project/1minai-webapi/"
 }

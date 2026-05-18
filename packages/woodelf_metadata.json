@@ -1,0 +1,11 @@
+{
+  "name": "woodelf",
+  "version": "0.1.2",
+  "summary": "Pure Python ELF file parser",
+  "author": "Donghwi Kim",
+  "license": null,
+  "home_page": "https://github.com/dhkim09a-org/woodelf",
+  "download_filename": "woodelf-0.1.2.tar.gz",
+  "download_time": "2026-05-18T22:05:28.308480",
+  "package_url": "https://pypi.org/project/woodelf/"
+}

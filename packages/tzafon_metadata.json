@@ -1,11 +1,11 @@
 {
   "name": "tzafon",
-  "version": "2.39.0",
+  "version": "2.40.0",
   "summary": "The official Python library for the lightcone API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "tzafon-2.39.0.tar.gz",
-  "download_time": "2026-04-24T23:19:37.571591",
+  "download_filename": "tzafon-2.40.0.tar.gz",
+  "download_time": "2026-05-18T22:05:45.781044",
   "package_url": "https://pypi.org/project/tzafon/"
 }

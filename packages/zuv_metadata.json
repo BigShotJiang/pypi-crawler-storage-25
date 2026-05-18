@@ -1,11 +1,11 @@
 {
   "name": "zuv",
-  "version": "0.1.0",
+  "version": "0.5.0",
   "summary": "Bundle any uv project into a single runnable .py file.",
   "author": "HamzaYslmn",
   "license": null,
   "home_page": null,
-  "download_filename": "zuv-0.1.0.tar.gz",
-  "download_time": "2026-05-17T12:16:58.384324",
+  "download_filename": "zuv-0.5.0.tar.gz",
+  "download_time": "2026-05-18T22:05:16.756427",
   "package_url": "https://pypi.org/project/zuv/"
 }

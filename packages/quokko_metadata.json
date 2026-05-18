@@ -1,11 +1,11 @@
 {
   "name": "quokko",
-  "version": "1.0.6",
+  "version": "1.1.1",
   "summary": "Quokko is a cute search engine and web crawler featuring Quokkas!",
   "author": "splot.dev",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quokko-1.0.6.tar.gz",
-  "download_time": "2026-05-02T23:51:04.096605",
+  "download_filename": "quokko-1.1.1.tar.gz",
+  "download_time": "2026-05-18T22:05:52.021107",
   "package_url": "https://pypi.org/project/quokko/"
 }

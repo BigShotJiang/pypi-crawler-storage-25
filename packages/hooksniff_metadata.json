@@ -1,11 +1,11 @@
 {
   "name": "hooksniff",
-  "version": "0.1.0",
-  "summary": "Official Python client for HookSniff webhook delivery service",
-  "author": "HookSniff",
+  "version": "1.2.2",
+  "summary": "HookSniff Python SDK — Webhook delivery platform",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/hooksniff/hooksniff",
-  "download_filename": "hooksniff-0.1.0.tar.gz",
-  "download_time": "2026-05-08T21:27:05.361428",
+  "home_page": null,
+  "download_filename": "hooksniff-1.2.2.tar.gz",
+  "download_time": "2026-05-18T22:05:29.978237",
   "package_url": "https://pypi.org/project/hooksniff/"
 }

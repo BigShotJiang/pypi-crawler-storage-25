@@ -1,0 +1,11 @@
+{
+  "name": "subcmdparse",
+  "version": "0.1.11",
+  "summary": "Subcommand extension for argparse package",
+  "author": "Donghwi Kim",
+  "license": null,
+  "home_page": "https://github.com/dhkim09a-org/subcmdparse",
+  "download_filename": "subcmdparse-0.1.11.tar.gz",
+  "download_time": "2026-05-18T22:05:26.114814",
+  "package_url": "https://pypi.org/project/subcmdparse/"
+}

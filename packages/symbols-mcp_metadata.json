@@ -1,11 +1,11 @@
 {
   "name": "symbols-mcp",
-  "version": "3.14.33",
+  "version": "3.14.101",
   "summary": "Symbols.app MCP — docs, code generation, publishing, CLI/SDK reference",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "symbols_mcp-3.14.33.tar.gz",
-  "download_time": "2026-05-16T01:36:49.720655",
+  "download_filename": "symbols_mcp-3.14.101.tar.gz",
+  "download_time": "2026-05-18T22:05:16.189914",
   "package_url": "https://pypi.org/project/symbols-mcp/"
 }

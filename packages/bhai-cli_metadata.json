@@ -1,11 +1,11 @@
 {
   "name": "bhai-cli",
-  "version": "0.2.2",
+  "version": "0.2.7",
   "summary": "BHAI — The Dual-Brain AI Coding Agent with Punjabi Swagger. Indic-native voice + universal LLM tool-calling.",
   "author": "Madhav Kapila",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "bhai_cli-0.2.2.tar.gz",
-  "download_time": "2026-05-15T15:51:15.918157",
+  "download_filename": "bhai_cli-0.2.7.tar.gz",
+  "download_time": "2026-05-18T22:05:33.307681",
   "package_url": "https://pypi.org/project/bhai-cli/"
 }

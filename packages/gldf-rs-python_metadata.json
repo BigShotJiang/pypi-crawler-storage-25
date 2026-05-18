@@ -1,0 +1,11 @@
+{
+  "name": "gldf-rs-python",
+  "version": "0.3.4",
+  "summary": "Python bindings for GLDF (General Lighting Data Format) parsing library",
+  "author": "Holger Trahe",
+  "license": "MIT",
+  "home_page": "https://github.com/holg/gldf-rs",
+  "download_filename": "gldf_rs_python-0.3.4.tar.gz",
+  "download_time": "2026-05-18T22:05:50.835835",
+  "package_url": "https://pypi.org/project/gldf-rs-python/"
+}

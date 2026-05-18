@@ -1,11 +1,11 @@
 {
   "name": "hungerlib",
-  "version": "3.8",
+  "version": "4.3.1",
   "summary": "Powerful automation library for Pterodactyl.",
   "author": "iFamished",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hungerlib-3.8.tar.gz",
-  "download_time": "2026-05-17T23:46:03.477977",
+  "download_filename": "hungerlib-4.3.1.tar.gz",
+  "download_time": "2026-05-18T22:05:54.718926",
   "package_url": "https://pypi.org/project/hungerlib/"
 }

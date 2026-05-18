@@ -1,11 +1,11 @@
 {
   "name": "fleece-cli",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Credit card research and redemption CLI — live data via Brave Search, PointsYeah URL generation, designed for humans and AI agents.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fleece_cli-0.3.0.tar.gz",
-  "download_time": "2026-05-18T21:17:59.781281",
+  "download_filename": "fleece_cli-0.3.1.tar.gz",
+  "download_time": "2026-05-18T22:05:17.894388",
   "package_url": "https://pypi.org/project/fleece-cli/"
 }

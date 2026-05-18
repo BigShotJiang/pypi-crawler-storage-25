@@ -1,11 +1,11 @@
 {
   "name": "policyengine-household-api",
-  "version": "0.19.10",
+  "version": "0.20.3",
   "summary": "PolicyEngine Household API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "policyengine_household_api-0.19.10.tar.gz",
-  "download_time": "2026-05-17T15:12:57.985022",
+  "download_filename": "policyengine_household_api-0.20.3.tar.gz",
+  "download_time": "2026-05-18T22:05:37.161952",
   "package_url": "https://pypi.org/project/policyengine-household-api/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ladybug-comfort",
+  "version": "0.18.113",
+  "summary": "Ladybug comfort is a Python library that adds thermal comfort functionalities to Ladybug.",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/ladybug-comfort",
+  "download_filename": "ladybug_comfort-0.18.113.tar.gz",
+  "download_time": "2026-05-18T22:05:58.446380",
+  "package_url": "https://pypi.org/project/ladybug-comfort/"
+}

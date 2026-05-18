@@ -1,11 +1,11 @@
 {
   "name": "visioncore-frc",
-  "version": "2.5.10.23",
+  "version": "2.6.11.23",
   "summary": "FRC vision pipeline for custom, hardware accelerated object detection.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "visioncore_frc-2.5.10.23.tar.gz",
-  "download_time": "2026-05-18T01:48:56.817024",
+  "download_filename": "visioncore_frc-2.6.11.23-py3-none-any.whl",
+  "download_time": "2026-05-18T22:05:47.084093",
   "package_url": "https://pypi.org/project/visioncore-frc/"
 }

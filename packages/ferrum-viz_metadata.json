@@ -1,11 +1,11 @@
 {
   "name": "ferrum-viz",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "Ferrum is a statistical visualization library for Python: a grammar-first charting system that unifies exploratory plots, statistical graphics, interactive views, and model diagnostics, backed by a Rust engine.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ferrum_viz-0.9.0.tar.gz",
-  "download_time": "2026-05-17T15:12:51.775167",
+  "download_filename": "ferrum_viz-0.9.1.tar.gz",
+  "download_time": "2026-05-18T22:05:35.498633",
   "package_url": "https://pypi.org/project/ferrum-viz/"
 }

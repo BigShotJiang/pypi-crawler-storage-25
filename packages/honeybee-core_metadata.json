@@ -1,0 +1,11 @@
+{
+  "name": "honeybee-core",
+  "version": "1.64.40",
+  "summary": "A library to create 3D building geometry for various types of environmental simulation.",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/honeybee-core",
+  "download_filename": "honeybee_core-1.64.40.tar.gz",
+  "download_time": "2026-05-18T22:05:58.987746",
+  "package_url": "https://pypi.org/project/honeybee-core/"
+}

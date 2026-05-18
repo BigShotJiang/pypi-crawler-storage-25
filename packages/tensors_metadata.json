@@ -1,11 +1,11 @@
 {
   "name": "tensors",
-  "version": "0.1.22",
+  "version": "0.1.26",
   "summary": "Read safetensor metadata and fetch CivitAI model information",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tensors-0.1.22.tar.gz",
-  "download_time": "2026-05-17T23:46:13.119831",
+  "download_filename": "tensors-0.1.26.tar.gz",
+  "download_time": "2026-05-18T22:06:04.432704",
   "package_url": "https://pypi.org/project/tensors/"
 }
