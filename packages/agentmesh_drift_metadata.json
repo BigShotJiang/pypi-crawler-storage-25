@@ -1,11 +1,11 @@
 {
   "name": "agentmesh_drift",
-  "version": "3.2.2",
+  "version": "3.7.0",
   "summary": "Mathematical drift detection library for calculating drift/hallucination scores between outputs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentmesh_drift-3.2.2.tar.gz",
-  "download_time": "2026-04-29T23:38:39.452002",
+  "download_filename": "agentmesh_drift-3.7.0.tar.gz",
+  "download_time": "2026-05-18T23:14:03.063900",
   "package_url": "https://pypi.org/project/agentmesh_drift/"
 }

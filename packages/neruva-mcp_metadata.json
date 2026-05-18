@@ -1,11 +1,11 @@
 {
   "name": "neruva-mcp",
-  "version": "0.16.2",
+  "version": "0.17.0",
   "summary": "MCP server for Neruva agent memory: typed Records, 5-engine knowledge graph, managed/BYO-LLM extraction, federated agent_remember/recall/context with question-type dispatch, Pearl's do-operator, HD analogy, concept blending, CBR, snapshot/restore for provable replay, quorum anomaly detection, fact invalidation, portable .neruva container. Drop-in for any MCP host (Claude Code, Cursor, Codex, Gemini CLI). LangChain / LangGraph / CrewAI adapters. Sub-100ms p95.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neruva_mcp-0.16.2.tar.gz",
-  "download_time": "2026-05-17T18:25:21.232606",
+  "download_filename": "neruva_mcp-0.17.0-py3-none-any.whl",
+  "download_time": "2026-05-18T23:13:34.997319",
   "package_url": "https://pypi.org/project/neruva-mcp/"
 }

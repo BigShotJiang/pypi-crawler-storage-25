@@ -1,0 +1,11 @@
+{
+  "name": "agentmesh-mcp-server",
+  "version": "3.7.0",
+  "summary": "MCP Server for Claude Desktop - Agent OS kernel primitives including code safety verification, CMVK multi-model review, and IATP trust",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/microsoft/agent-governance-toolkit",
+  "download_filename": "agentmesh_mcp_server-3.7.0.tar.gz",
+  "download_time": "2026-05-18T23:14:01.790952",
+  "package_url": "https://pypi.org/project/agentmesh-mcp-server/"
+}

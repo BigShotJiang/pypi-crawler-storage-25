@@ -1,11 +1,11 @@
 {
   "name": "aihw-mcp",
-  "version": "0.4.15",
+  "version": "0.4.17",
   "summary": "MCP server for Australian Institute of Health and Welfare data. Plain-English access to mortality (GRIM/MORT), cancer incidence, health expenditure, youth justice detention, and the public hospitals register.",
   "author": "Harry Vass",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aihw_mcp-0.4.15.tar.gz",
-  "download_time": "2026-05-17T23:45:53.876821",
+  "download_filename": "aihw_mcp-0.4.17.tar.gz",
+  "download_time": "2026-05-18T23:14:21.975831",
   "package_url": "https://pypi.org/project/aihw-mcp/"
 }

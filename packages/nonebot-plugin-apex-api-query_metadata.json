@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-apex-api-query",
+  "version": "26.5.19",
+  "summary": "Apex Legends API 查询插件，支持玩家数据、地图轮换、服务器状态和顶猎分数查询",
+  "author": "H-xiaoH",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_apex_api_query-26.5.19.tar.gz",
+  "download_time": "2026-05-18T23:14:16.869433",
+  "package_url": "https://pypi.org/project/nonebot-plugin-apex-api-query/"
+}

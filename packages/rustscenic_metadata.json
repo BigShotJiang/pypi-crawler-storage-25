@@ -1,11 +1,11 @@
 {
   "name": "rustscenic",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "summary": "Rust and PyO3 implementation of SCENIC-style regulatory-network analysis. Includes GRN, AUCell, topics, cistarget, peak calling, cell QC, enhancer-gene links, and eRegulon assembly. Installs without dask, Java, or CUDA.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rustscenic-0.4.6.tar.gz",
-  "download_time": "2026-05-18T14:18:58.121567",
+  "download_filename": "rustscenic-0.4.7.tar.gz",
+  "download_time": "2026-05-18T23:13:33.647574",
   "package_url": "https://pypi.org/project/rustscenic/"
 }

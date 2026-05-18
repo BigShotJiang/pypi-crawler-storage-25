@@ -1,0 +1,11 @@
+{
+  "name": "miro-t2i",
+  "version": "0.1.1",
+  "summary": "MIRO: Multi-reward conditioned pretraining for text-to-image diffusion (ICML 2026)",
+  "author": "Nicolas Dufour, Lucas Degeorge, Arijit Ghosh, Vicky Kalogeiton, David Picard",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "miro_t2i-0.1.1.tar.gz",
+  "download_time": "2026-05-18T23:14:05.574158",
+  "package_url": "https://pypi.org/project/miro-t2i/"
+}

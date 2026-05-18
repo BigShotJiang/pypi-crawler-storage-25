@@ -1,11 +1,11 @@
 {
   "name": "flask-s3-viewer",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Flask S3 Viewer is a powerful extension that makes it easy to browse S3 in any Flask application.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flask_s3_viewer-1.0.0.tar.gz",
-  "download_time": "2026-05-15T05:53:10.176647",
+  "download_filename": "flask_s3_viewer-1.1.1.tar.gz",
+  "download_time": "2026-05-18T23:14:18.639352",
   "package_url": "https://pypi.org/project/flask-s3-viewer/"
 }

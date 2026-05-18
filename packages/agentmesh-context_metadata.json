@@ -1,11 +1,11 @@
 {
   "name": "agentmesh-context",
-  "version": "3.2.2",
+  "version": "3.7.0",
   "summary": "A pure, logic-only library for routing context, handling RAG fallacies, and managing context windows. Layer 1 Primitive - no agent dependencies.",
   "author": "Microsoft Corporation",
   "license": "MIT",
   "home_page": "https://github.com/microsoft/agent-governance-toolkit",
-  "download_filename": "agentmesh_context-3.2.2.tar.gz",
-  "download_time": "2026-04-29T23:38:36.873203",
+  "download_filename": "agentmesh_context-3.7.0.tar.gz",
+  "download_time": "2026-05-18T23:14:04.970155",
   "package_url": "https://pypi.org/project/agentmesh-context/"
 }

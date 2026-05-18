@@ -1,11 +1,11 @@
 {
   "name": "fuse-generator",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "summary": "Customizable wordlist generator with advanced pattern.",
   "author": "Ryan R.",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fuse_generator-5.2.1.tar.gz",
-  "download_time": "2026-05-14T23:50:36.682229",
+  "download_filename": "fuse_generator-5.2.2.tar.gz",
+  "download_time": "2026-05-18T23:13:32.346199",
   "package_url": "https://pypi.org/project/fuse-generator/"
 }

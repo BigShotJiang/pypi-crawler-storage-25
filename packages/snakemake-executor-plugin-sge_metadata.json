@@ -1,0 +1,11 @@
+{
+  "name": "snakemake-executor-plugin-sge",
+  "version": "0.6.3",
+  "summary": "A Snakemake executor plugin for submitting jobs to SGE/UGE/OGS clusters.",
+  "author": "Stylianos Charalampous",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snakemake_executor_plugin_sge-0.6.3.tar.gz",
+  "download_time": "2026-05-18T23:13:45.704250",
+  "package_url": "https://pypi.org/project/snakemake-executor-plugin-sge/"
+}

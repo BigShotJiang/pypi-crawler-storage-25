@@ -1,11 +1,11 @@
 {
   "name": "csrd-delegate",
-  "version": "0.5.25",
+  "version": "0.5.26",
   "summary": "HTTP delegate base class with retry support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csrd_delegate-0.5.25.tar.gz",
-  "download_time": "2026-05-16T01:36:37.189581",
+  "download_filename": "csrd_delegate-0.5.26.tar.gz",
+  "download_time": "2026-05-18T23:13:53.283098",
   "package_url": "https://pypi.org/project/csrd-delegate/"
 }
