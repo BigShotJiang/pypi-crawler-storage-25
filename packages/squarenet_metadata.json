@@ -1,11 +1,11 @@
 {
   "name": "squarenet",
-  "version": "0.2.2",
+  "version": "1.1.0",
   "summary": "Sparse local operations for point clouds in any dimension.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "squarenet-0.2.2.tar.gz",
-  "download_time": "2026-04-14T20:10:21.621057",
+  "download_filename": "squarenet-1.1.0.tar.gz",
+  "download_time": "2026-05-18T19:16:55.842586",
   "package_url": "https://pypi.org/project/squarenet/"
 }

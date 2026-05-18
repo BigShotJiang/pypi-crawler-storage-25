@@ -1,11 +1,11 @@
 {
   "name": "mrsal",
-  "version": "3.7.0",
+  "version": "3.8.1",
   "summary": "Production-ready AMQP message broker abstraction with advanced retry logic, dead letter exchanges, and high availability features.",
   "author": "Jon E. Nesvold",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/NeoMedSys/mrsal",
-  "download_filename": "mrsal-3.7.0.tar.gz",
-  "download_time": "2026-05-18T10:34:03.017031",
+  "download_filename": "mrsal-3.8.1.tar.gz",
+  "download_time": "2026-05-18T19:17:16.105342",
   "package_url": "https://pypi.org/project/mrsal/"
 }

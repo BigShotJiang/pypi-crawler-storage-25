@@ -1,11 +1,11 @@
 {
   "name": "setuptools-scmx",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "CI friendly setuptools-scm hooks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "setuptools_scmx-0.1.1.tar.gz",
-  "download_time": "2026-05-10T23:26:39.507051",
+  "download_filename": "setuptools_scmx-0.1.2.tar.gz",
+  "download_time": "2026-05-18T19:17:02.484911",
   "package_url": "https://pypi.org/project/setuptools-scmx/"
 }

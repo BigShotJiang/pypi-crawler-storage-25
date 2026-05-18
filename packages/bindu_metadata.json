@@ -1,11 +1,11 @@
 {
   "name": "bindu",
-  "version": "2026.20.3",
+  "version": "2026.21.1",
   "summary": "A protocol framework for agent-to-agent communication",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "bindu-2026.20.3-py3-none-any.whl",
-  "download_time": "2026-05-13T18:39:54.158381",
+  "download_filename": "bindu-2026.21.1-py3-none-any.whl",
+  "download_time": "2026-05-18T19:16:50.906728",
   "package_url": "https://pypi.org/project/bindu/"
 }

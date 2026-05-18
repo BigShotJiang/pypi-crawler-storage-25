@@ -1,0 +1,11 @@
+{
+  "name": "aceiot-models",
+  "version": "0.3.6",
+  "summary": "Pydantic models and API client for ACE IoT Aerodrome platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aceiot_models-0.3.6.tar.gz",
+  "download_time": "2026-05-18T19:17:04.654470",
+  "package_url": "https://pypi.org/project/aceiot-models/"
+}

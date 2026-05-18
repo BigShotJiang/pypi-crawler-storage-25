@@ -1,11 +1,11 @@
 {
   "name": "loom-kernel",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Loom Python project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "loom_kernel-0.6.0.tar.gz",
-  "download_time": "2026-05-08T06:32:47.357524",
+  "download_filename": "loom_kernel-0.7.0.tar.gz",
+  "download_time": "2026-05-18T19:16:41.956839",
   "package_url": "https://pypi.org/project/loom-kernel/"
 }

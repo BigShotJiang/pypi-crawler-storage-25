@@ -1,11 +1,11 @@
 {
   "name": "synapcores",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Official Python SDK for SynapCores AI-Native Database",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synapcores-0.2.1.tar.gz",
-  "download_time": "2026-05-14T14:23:40.173554",
+  "download_filename": "synapcores-0.3.0.tar.gz",
+  "download_time": "2026-05-18T19:17:07.386512",
   "package_url": "https://pypi.org/project/synapcores/"
 }

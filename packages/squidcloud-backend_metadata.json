@@ -1,11 +1,11 @@
 {
   "name": "squidcloud-backend",
-  "version": "1.0.461",
+  "version": "1.0.464",
   "summary": "Squid Cloud Python backend SDK — decorators, services, and project entry point",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "squidcloud_backend-1.0.461.tar.gz",
-  "download_time": "2026-04-25T16:50:03.753620",
+  "download_filename": "squidcloud_backend-1.0.464.tar.gz",
+  "download_time": "2026-05-18T19:17:19.904663",
   "package_url": "https://pypi.org/project/squidcloud-backend/"
 }
