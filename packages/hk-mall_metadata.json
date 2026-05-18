@@ -1,11 +1,11 @@
 {
   "name": "hk-mall",
-  "version": "0.0.51",
+  "version": "0.0.79",
   "summary": "hk mall",
   "author": "seven",
   "license": "MIT",
   "home_page": "https://gitlab.tdtech.gao7.com/newfire/server/hk_mall.git",
-  "download_filename": "hk_mall-0.0.51.tar.gz",
-  "download_time": "2026-04-28T04:15:14.971425",
+  "download_filename": "hk_mall-0.0.79.tar.gz",
+  "download_time": "2026-05-18T10:34:06.610765",
   "package_url": "https://pypi.org/project/hk-mall/"
 }

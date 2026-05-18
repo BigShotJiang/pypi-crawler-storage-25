@@ -1,11 +1,11 @@
 {
   "name": "caliper-ai",
-  "version": "0.0.33",
-  "summary": "The cost layer for AI-assisted development. Reads local Codex, Claude Code, Cursor, and Aider logs and prints what each PR cost. Offline. No login.",
+  "version": "0.0.36",
+  "summary": "Local cost ledger for AI-assisted development. Opens a private dashboard and per-PR cost reports from Codex, Claude Code, Cursor, and Aider logs.",
   "author": "Rajdeep Mondal",
   "license": null,
   "home_page": null,
-  "download_filename": "caliper_ai-0.0.33.tar.gz",
-  "download_time": "2026-05-17T18:25:14.929877",
+  "download_filename": "caliper_ai-0.0.36.tar.gz",
+  "download_time": "2026-05-18T10:34:08.149615",
   "package_url": "https://pypi.org/project/caliper-ai/"
 }

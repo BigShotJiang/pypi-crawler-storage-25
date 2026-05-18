@@ -1,11 +1,11 @@
 {
   "name": "nuvo-serial",
-  "version": "0.6.4",
+  "version": "0.7.0",
   "summary": "Python API implementing the Nuvo Grand Concerto/Essentia G multi-zone audio amplifier serial control protocol",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nuvo_serial-0.6.4.tar.gz",
-  "download_time": "2026-05-12T20:26:43.174937",
+  "download_filename": "nuvo_serial-0.7.0.tar.gz",
+  "download_time": "2026-05-18T10:33:53.233034",
   "package_url": "https://pypi.org/project/nuvo-serial/"
 }

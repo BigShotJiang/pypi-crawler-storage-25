@@ -1,0 +1,11 @@
+{
+  "name": "endf-parserpy",
+  "version": "0.17.0",
+  "summary": "A Python package for reading, writing, verifying and translating ENDF-6 files",
+  "author": "Georg Schnabel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "endf_parserpy-0.17.0.tar.gz",
+  "download_time": "2026-05-18T10:33:50.152830",
+  "package_url": "https://pypi.org/project/endf-parserpy/"
+}

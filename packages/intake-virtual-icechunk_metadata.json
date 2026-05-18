@@ -1,0 +1,11 @@
+{
+  "name": "intake-virtual-icechunk",
+  "version": "0.0.8",
+  "summary": "An intake plugin for building and reading Icechunk stores via VirtualiZarr and intake-esm",
+  "author": "ACCESS-NRI",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "intake_virtual_icechunk-0.0.8.tar.gz",
+  "download_time": "2026-05-18T10:34:11.740985",
+  "package_url": "https://pypi.org/project/intake-virtual-icechunk/"
+}

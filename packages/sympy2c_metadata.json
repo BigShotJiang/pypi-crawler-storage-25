@@ -1,0 +1,11 @@
+{
+  "name": "sympy2c",
+  "version": "2.4.0",
+  "summary": "sympy2c is a sympy to c compiler including solving odes at c level.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sympy2c-2.4.0.tar.gz",
+  "download_time": "2026-05-18T10:33:55.289956",
+  "package_url": "https://pypi.org/project/sympy2c/"
+}
