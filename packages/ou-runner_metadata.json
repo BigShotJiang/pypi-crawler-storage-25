@@ -1,11 +1,11 @@
 {
   "name": "ou-runner",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A Typer CLI that walks Odoo databases through OpenUpgrade version chains in Docker.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ou_runner-0.1.0.tar.gz",
-  "download_time": "2026-05-18T19:17:17.190566",
+  "download_filename": "ou_runner-0.1.2.tar.gz",
+  "download_time": "2026-05-18T21:18:01.824938",
   "package_url": "https://pypi.org/project/ou-runner/"
 }

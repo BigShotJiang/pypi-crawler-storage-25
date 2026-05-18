@@ -1,11 +1,11 @@
 {
   "name": "uncoded",
-  "version": "0.7.0",
-  "summary": "Symbol indexes and language-server setup for AI-assisted code navigation",
+  "version": "1.0.0",
+  "summary": "Symbol index with associated code reading tools for AI coding agent navigation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uncoded-0.7.0.tar.gz",
-  "download_time": "2026-05-11T23:23:41.115437",
+  "download_filename": "uncoded-1.0.0.tar.gz",
+  "download_time": "2026-05-18T21:18:00.802115",
   "package_url": "https://pypi.org/project/uncoded/"
 }

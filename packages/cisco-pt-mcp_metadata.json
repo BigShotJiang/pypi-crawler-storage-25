@@ -1,0 +1,11 @@
+{
+  "name": "cisco-pt-mcp",
+  "version": "0.1.5",
+  "summary": "MCP server that drives Cisco Packet Tracer through a bridge extension.",
+  "author": "Muhammad Balawal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cisco_pt_mcp-0.1.5.tar.gz",
+  "download_time": "2026-05-18T21:18:28.337579",
+  "package_url": "https://pypi.org/project/cisco-pt-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "omfit-classes",
-  "version": "3.2026.14.2",
+  "version": "3.2026.20.2",
   "summary": "Classes of OMFIT (One Modeling Framework For Integrated Tasks)",
   "author": "OMFIT developers",
   "license": "MIT",
   "home_page": "https://omfit.io",
-  "download_filename": "omfit_classes-3.2026.14.2.tar.gz",
-  "download_time": "2026-04-06T03:43:45.088169",
+  "download_filename": "omfit_classes-3.2026.20.2.tar.gz",
+  "download_time": "2026-05-18T21:17:54.540684",
   "package_url": "https://pypi.org/project/omfit-classes/"
 }

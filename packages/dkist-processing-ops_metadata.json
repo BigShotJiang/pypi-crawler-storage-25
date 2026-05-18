@@ -1,11 +1,11 @@
 {
   "name": "dkist-processing-ops",
-  "version": "1.10.15",
+  "version": "1.10.17",
   "summary": "Automated Processing smoke test and operations workflows",
   "author": null,
   "license": "BSD 3-Clause",
   "home_page": null,
-  "download_filename": "dkist_processing_ops-1.10.15.tar.gz",
-  "download_time": "2026-05-07T21:41:54.426018",
+  "download_filename": "dkist_processing_ops-1.10.17.tar.gz",
+  "download_time": "2026-05-18T21:18:02.403467",
   "package_url": "https://pypi.org/project/dkist-processing-ops/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "py-ard",
+  "version": "2.1.1",
+  "summary": "ARD reduction for HLA with Python",
+  "author": "CIBMTR",
+  "license": "LGPL 3.0",
+  "home_page": "https://github.com/nmdp-bioinformatics/py-ard",
+  "download_filename": "py_ard-2.1.1.tar.gz",
+  "download_time": "2026-05-18T21:18:22.891097",
+  "package_url": "https://pypi.org/project/py-ard/"
+}

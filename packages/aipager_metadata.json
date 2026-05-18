@@ -1,11 +1,11 @@
 {
   "name": "aipager",
-  "version": "0.3.10",
+  "version": "0.3.14",
   "summary": "Telegram remote-control daemon for Claude Code CLI sessions running in dtach",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aipager-0.3.10.tar.gz",
-  "download_time": "2026-05-17T21:43:49.192722",
+  "download_filename": "aipager-0.3.14.tar.gz",
+  "download_time": "2026-05-18T21:17:42.816411",
   "package_url": "https://pypi.org/project/aipager/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ladybug-display",
+  "version": "0.14.2",
+  "summary": "Assigns basic display attributes to ladybug-geometry (color, line weights, etc).",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/ladybug-display",
+  "download_filename": "ladybug_display-0.14.2.tar.gz",
+  "download_time": "2026-05-18T21:17:51.971916",
+  "package_url": "https://pypi.org/project/ladybug-display/"
+}

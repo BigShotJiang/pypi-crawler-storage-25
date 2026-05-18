@@ -1,0 +1,11 @@
+{
+  "name": "memorylayer-llamaindex",
+  "version": "0.1.22",
+  "summary": "LlamaIndex integration for MemoryLayer.ai - persistent memory for LlamaIndex applications",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "memorylayer_llamaindex-0.1.22.tar.gz",
+  "download_time": "2026-05-18T21:18:11.930193",
+  "package_url": "https://pypi.org/project/memorylayer-llamaindex/"
+}

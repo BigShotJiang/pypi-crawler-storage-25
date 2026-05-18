@@ -1,11 +1,11 @@
 {
   "name": "behemot-framework",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "A modular framework for building multimodal AI assistants.",
   "author": "Bruno Hernandez",
   "license": "MIT",
   "home_page": "https://github.com/hernandezbg/behemot_framework",
-  "download_filename": "behemot_framework-0.4.0.tar.gz",
-  "download_time": "2026-05-11T20:59:43.937221",
+  "download_filename": "behemot_framework-0.5.1.tar.gz",
+  "download_time": "2026-05-18T21:17:44.371961",
   "package_url": "https://pypi.org/project/behemot-framework/"
 }

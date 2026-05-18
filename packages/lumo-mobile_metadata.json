@@ -1,11 +1,11 @@
 {
   "name": "lumo-mobile",
-  "version": "0.0.2",
+  "version": "0.1.1",
   "summary": "Deterministic mobile UI/UX checks for Compose / SwiftUI / XML / UIKit — WCAG validator with OKLCH auto-correct, cross-platform parity diff, cognitive-science (Fitts / Hick / Gestalt) layout checks. Ships with an MCP server.",
   "author": "Viktor Savchik",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lumo_mobile-0.0.2.tar.gz",
-  "download_time": "2026-05-17T10:13:01.601458",
+  "download_filename": "lumo_mobile-0.1.1.tar.gz",
+  "download_time": "2026-05-18T21:18:15.699597",
   "package_url": "https://pypi.org/project/lumo-mobile/"
 }
