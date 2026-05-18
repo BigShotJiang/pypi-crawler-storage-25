@@ -1,0 +1,11 @@
+{
+  "name": "spectral-datamaker",
+  "version": "0.5.1",
+  "summary": "CLI tool for creating hyperspectral image datasets for machine learning.",
+  "author": "Daniel Pérez Rodríguez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spectral_datamaker-0.5.1.tar.gz",
+  "download_time": "2026-05-18T14:18:42.137040",
+  "package_url": "https://pypi.org/project/spectral-datamaker/"
+}

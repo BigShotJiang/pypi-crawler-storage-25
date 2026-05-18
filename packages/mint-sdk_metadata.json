@@ -1,11 +1,11 @@
 {
   "name": "mint-sdk",
-  "version": "1.0.0b4",
+  "version": "1.0.0rc3",
   "summary": "MINT Plugin SDK - Build analysis plugins for the MINT (Mass-spec INtegrated Toolkit) platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mint_sdk-1.0.0b4.tar.gz",
-  "download_time": "2026-05-08T12:30:48.663197",
+  "download_filename": "mint_sdk-1.0.0rc3.tar.gz",
+  "download_time": "2026-05-18T14:18:45.262211",
   "package_url": "https://pypi.org/project/mint-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "csc-validator-be-903",
+  "version": "0.1.15",
+  "summary": "Shared module for validating SSDA903 census data using DfE rules.",
+  "author": "Michael Ogunkolade",
+  "license": "MIT",
+  "home_page": "https://github.com/data-to-insight/csc-validator-be-903",
+  "download_filename": "csc_validator_be_903-0.1.15.tar.gz",
+  "download_time": "2026-05-18T14:19:12.849910",
+  "package_url": "https://pypi.org/project/csc-validator-be-903/"
+}

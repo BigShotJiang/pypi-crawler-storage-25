@@ -1,0 +1,11 @@
+{
+  "name": "airframe-agents",
+  "version": "0.6.0",
+  "summary": "Vendor-neutral agent runtime: one protocol, pluggable adapters for Claude Code, GitHub Copilot, OpenAI Codex, and OpenCode Zen.",
+  "author": "Airframe Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airframe_agents-0.6.0.tar.gz",
+  "download_time": "2026-05-18T14:19:18.597698",
+  "package_url": "https://pypi.org/project/airframe-agents/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ccd2md",
+  "version": "1.1.2",
+  "summary": "A suite of packages for the conversion of co-folding outputs into simulatable PDB files.",
+  "author": "Matyas Parrag",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ccd2md-1.1.2.tar.gz",
+  "download_time": "2026-05-18T14:19:29.995456",
+  "package_url": "https://pypi.org/project/ccd2md/"
+}

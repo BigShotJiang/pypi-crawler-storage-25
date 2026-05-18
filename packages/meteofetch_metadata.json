@@ -1,0 +1,11 @@
+{
+  "name": "meteofetch",
+  "version": "0.5.7",
+  "summary": "Package python pour récupérer les données modélisées de prévision de MétéoFrance et de l'ECMWF",
+  "author": "Cyril Joly",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meteofetch-0.5.7.tar.gz",
+  "download_time": "2026-05-18T14:19:07.163124",
+  "package_url": "https://pypi.org/project/meteofetch/"
+}

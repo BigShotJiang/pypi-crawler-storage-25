@@ -1,0 +1,11 @@
+{
+  "name": "sparkconnector",
+  "version": "3.0.16",
+  "summary": "Helper to connect to CERN's Spark Clusters",
+  "author": "SWAN Admins",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/swan-cern/jupyter-extensions",
+  "download_filename": "sparkconnector-3.0.16.tar.gz",
+  "download_time": "2026-05-18T14:19:25.493580",
+  "package_url": "https://pypi.org/project/sparkconnector/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "suricat-beams",
+  "version": "0.2.1",
+  "summary": "MeerKAT primary beam model handling utilities",
+  "author": "Oleg Smirnov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "suricat_beams-0.2.1.tar.gz",
+  "download_time": "2026-05-18T14:19:00.071807",
+  "package_url": "https://pypi.org/project/suricat-beams/"
+}

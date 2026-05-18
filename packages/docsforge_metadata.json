@@ -1,11 +1,11 @@
 {
   "name": "docsforge",
-  "version": "10.3.2",
+  "version": "10.4.0",
   "summary": "Self-contained unified documentation engine with Material theme.",
   "author": "DocsForge Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "docsforge-10.3.2.tar.gz",
-  "download_time": "2026-05-17T05:47:21.438138",
+  "download_filename": "docsforge-10.4.0.tar.gz",
+  "download_time": "2026-05-18T14:18:53.789864",
   "package_url": "https://pypi.org/project/docsforge/"
 }
