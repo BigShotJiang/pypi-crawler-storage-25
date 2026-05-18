@@ -1,11 +1,11 @@
 {
   "name": "tryke",
-  "version": "0.0.17",
-  "summary": "tryke — python testing tool",
+  "version": "0.0.29",
+  "summary": "Tryke - A Python testing tool",
   "author": null,
   "license": null,
   "home_page": "https://github.com/thejchap/tryke",
-  "download_filename": "tryke-0.0.17-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-04-18T14:10:46.819311",
+  "download_filename": "tryke-0.0.29-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-18T01:49:21.775337",
   "package_url": "https://pypi.org/project/tryke/"
 }

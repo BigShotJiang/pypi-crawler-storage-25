@@ -1,0 +1,11 @@
+{
+  "name": "py-yonder",
+  "version": "0.1.5",
+  "summary": "Run Python functions inside containers via a decorator.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_yonder-0.1.5.tar.gz",
+  "download_time": "2026-05-18T01:48:47.120359",
+  "package_url": "https://pypi.org/project/py-yonder/"
+}

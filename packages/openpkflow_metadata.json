@@ -1,11 +1,11 @@
 {
   "name": "openpkflow",
-  "version": "0.1.3",
+  "version": "0.3.0",
   "summary": "Python-first toolkit for dissolution, NCA, PK/PD simulation, and pharmacometric reporting.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openpkflow-0.1.3.tar.gz",
-  "download_time": "2026-05-17T19:49:46.273803",
+  "download_filename": "openpkflow-0.3.0.tar.gz",
+  "download_time": "2026-05-18T01:49:22.829071",
   "package_url": "https://pypi.org/project/openpkflow/"
 }

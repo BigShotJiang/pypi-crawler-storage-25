@@ -1,0 +1,11 @@
+{
+  "name": "fh-tool",
+  "version": "2.3.6",
+  "summary": "本CLI工具用于计算、存储、验证磁盘文件的hash值，可检查文件是否被篡改。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fh_tool-2.3.6.tar.gz",
+  "download_time": "2026-05-18T01:49:01.656582",
+  "package_url": "https://pypi.org/project/fh-tool/"
+}

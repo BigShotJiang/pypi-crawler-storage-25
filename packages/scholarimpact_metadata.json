@@ -1,11 +1,11 @@
 {
   "name": "scholarimpact",
-  "version": "0.0.15",
+  "version": "0.0.17",
   "summary": "A bibliometric tool to analyse, visualise, and share your research impact, output and scholarly influence using Google Scholar and OpenAlex data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scholarimpact-0.0.15.tar.gz",
-  "download_time": "2026-05-17T08:13:45.064423",
+  "download_filename": "scholarimpact-0.0.17.tar.gz",
+  "download_time": "2026-05-18T01:49:05.882947",
   "package_url": "https://pypi.org/project/scholarimpact/"
 }

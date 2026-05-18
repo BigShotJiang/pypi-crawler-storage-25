@@ -1,0 +1,11 @@
+{
+  "name": "openscad-parser",
+  "version": "2.4.1",
+  "summary": "A PEG parser to read OpenSCAD language source code, with optional AST tree generation.",
+  "author": "Revar Desmera",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openscad_parser-2.4.1.tar.gz",
+  "download_time": "2026-05-18T01:48:54.046402",
+  "package_url": "https://pypi.org/project/openscad-parser/"
+}
