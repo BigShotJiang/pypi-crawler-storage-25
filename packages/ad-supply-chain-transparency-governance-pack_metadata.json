@@ -1,0 +1,11 @@
+{
+  "name": "ad-supply-chain-transparency-governance-pack",
+  "version": "0.1.1.dev1",
+  "summary": "Installable SSOT governance pack for ads.txt, app-ads.txt, sellers.json, SupplyChain Object, buyers.json, DemandChain Object, and ads.cert.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ad_supply_chain_transparency_governance_pack-0.1.1.dev1.tar.gz",
+  "download_time": "2026-05-18T06:12:17.914164",
+  "package_url": "https://pypi.org/project/ad-supply-chain-transparency-governance-pack/"
+}

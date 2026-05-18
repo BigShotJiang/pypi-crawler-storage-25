@@ -1,11 +1,11 @@
 {
   "name": "smol_k8s_lab",
-  "version": "8.4.4",
+  "version": "8.4.9",
   "summary": "CLI and TUI to quickly install slim Kubernetes distros and manage apps declaratively using Argo CD",
   "author": "Jesse Hitch",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "smol_k8s_lab-8.4.4.tar.gz",
-  "download_time": "2026-05-17T21:43:09.621374",
+  "download_filename": "smol_k8s_lab-8.4.9.tar.gz",
+  "download_time": "2026-05-18T06:12:19.477461",
   "package_url": "https://pypi.org/project/smol_k8s_lab/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "moondream",
+  "version": "1.2.1",
+  "summary": "Official Python client for Moondream, a fast and efficient vision language model.",
+  "author": "M87 Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "moondream-1.2.1.tar.gz",
+  "download_time": "2026-05-18T06:12:23.256387",
+  "package_url": "https://pypi.org/project/moondream/"
+}

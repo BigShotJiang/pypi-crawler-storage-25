@@ -1,11 +1,11 @@
 {
   "name": "codehydra",
-  "version": "2026.5.17",
+  "version": "2026.5.18",
   "summary": "Multi-workspace IDE for parallel AI agent development",
   "author": "Stefan Hoelzl",
   "license": null,
   "home_page": null,
-  "download_filename": "codehydra-2026.5.17.tar.gz",
-  "download_time": "2026-05-17T05:46:48.953697",
+  "download_filename": "codehydra-2026.5.18.tar.gz",
+  "download_time": "2026-05-18T06:12:02.965934",
   "package_url": "https://pypi.org/project/codehydra/"
 }

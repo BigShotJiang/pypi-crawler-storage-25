@@ -1,11 +1,11 @@
 {
   "name": "simmer-sdk",
-  "version": "0.17.0",
+  "version": "0.17.11",
   "summary": "Python SDK for trading prediction markets with AI agents - includes Clawbot trading skills",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simmer_sdk-0.17.0.tar.gz",
-  "download_time": "2026-05-07T19:09:59.008315",
+  "download_filename": "simmer_sdk-0.17.11.tar.gz",
+  "download_time": "2026-05-18T06:12:12.626935",
   "package_url": "https://pypi.org/project/simmer-sdk/"
 }

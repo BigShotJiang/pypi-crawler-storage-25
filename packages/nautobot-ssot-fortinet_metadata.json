@@ -1,11 +1,11 @@
 {
   "name": "nautobot-ssot-fortinet",
-  "version": "2026.5.18.1",
-  "summary": "Nautobot SSoT integration for Fortinet (FortiGate firewall + FortiAP wireless, one-way: FortiGate -> Nautobot).",
+  "version": "2026.5.18.11",
+  "summary": "Nautobot SSoT integration for Fortinet (FortiGate firewall + FortiAP wireless, bidirectional sync).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nautobot_ssot_fortinet-2026.5.18.1.tar.gz",
-  "download_time": "2026-05-18T01:48:49.858847",
+  "download_filename": "nautobot_ssot_fortinet-2026.5.18.11.tar.gz",
+  "download_time": "2026-05-18T06:11:57.646496",
   "package_url": "https://pypi.org/project/nautobot-ssot-fortinet/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "perfact-api-main",
-  "version": "0.3",
+  "version": "0.6",
   "summary": "PerFact API - FastAPI main package (middleware, auth, entrypoints)",
   "author": null,
-  "license": null,
+  "license": "GPL-2.0-or-later",
   "home_page": null,
-  "download_filename": "perfact_api_main-0.3.tar.gz",
-  "download_time": "2026-05-08T12:15:29.816954",
+  "download_filename": "perfact_api_main-0.6.tar.gz",
+  "download_time": "2026-05-18T06:11:39.074791",
   "package_url": "https://pypi.org/project/perfact-api-main/"
 }
