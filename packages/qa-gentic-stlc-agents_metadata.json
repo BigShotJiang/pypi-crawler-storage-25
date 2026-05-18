@@ -1,11 +1,11 @@
 {
   "name": "qa-gentic-stlc-agents",
-  "version": "1.0.23",
-  "summary": "Five MCP servers covering the full QA Software Test Life Cycle — test cases, Gherkin BDD, self-healing Playwright code, Helix-QA file writing, and Jira Cloud integration. Both ADO and Jira pipelines run the full flow: fetch → test cases → Gherkin → Playwright → Helix-QA. MSAL OAuth for Azure DevOps, OAuth 2.0 (3LO) for Jira Cloud.",
+  "version": "1.0.30",
+  "summary": "Six MCP servers for the full QA STLC — test cases, Gherkin BDD, self-healing Playwright code, Helix-QA file writing, Jira Cloud integration, and one-shot migration of existing Playwright projects into the Helix-QA layout. Both ADO and Jira pipelines run: fetch → test cases → Gherkin → Playwright → Helix-QA. Ships an 8-strategy LocatorHealer with a live HealingDashboard that writes confirmed selectors back to source. MSAL OAuth for ADO, OAuth 2.0 (3LO) for Jira Cloud.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qa_gentic_stlc_agents-1.0.23.tar.gz",
-  "download_time": "2026-04-21T16:48:36.186398",
+  "download_filename": "qa_gentic_stlc_agents-1.0.30.tar.gz",
+  "download_time": "2026-05-18T17:24:22.986420",
   "package_url": "https://pypi.org/project/qa-gentic-stlc-agents/"
 }

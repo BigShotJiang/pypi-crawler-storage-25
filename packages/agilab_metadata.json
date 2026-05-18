@@ -1,11 +1,11 @@
 {
   "name": "agilab",
-  "version": "2026.5.15",
+  "version": "2026.5.18",
   "summary": "AGILAB is a reproducible AI/ML workbench for engineering teams.",
   "author": "Jean-Pierre Morard",
   "license": null,
   "home_page": null,
-  "download_filename": "agilab-2026.5.15.tar.gz",
-  "download_time": "2026-05-15T17:23:54.967868",
+  "download_filename": "agilab-2026.5.18.tar.gz",
+  "download_time": "2026-05-18T17:24:40.064346",
   "package_url": "https://pypi.org/project/agilab/"
 }

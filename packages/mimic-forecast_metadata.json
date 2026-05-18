@@ -1,0 +1,11 @@
+{
+  "name": "mimic-forecast",
+  "version": "0.1.0",
+  "summary": "Foundation model adapter layer for quantitative forecasting in the Mimic ecosystem",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mimic_forecast-0.1.0.tar.gz",
+  "download_time": "2026-05-18T17:24:38.514876",
+  "package_url": "https://pypi.org/project/mimic-forecast/"
+}

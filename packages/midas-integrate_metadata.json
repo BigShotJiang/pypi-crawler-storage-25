@@ -1,0 +1,11 @@
+{
+  "name": "midas-integrate",
+  "version": "0.4.0",
+  "summary": "Pure-Python radial integration for area X-ray detectors (MIDAS) — DetectorMapper + CSR integration + streaming server, CPU/GPU selectable",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "midas_integrate-0.4.0.tar.gz",
+  "download_time": "2026-05-18T17:24:41.609937",
+  "package_url": "https://pypi.org/project/midas-integrate/"
+}

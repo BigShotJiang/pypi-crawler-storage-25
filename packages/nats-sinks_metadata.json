@@ -1,0 +1,11 @@
+{
+  "name": "nats-sinks",
+  "version": "0.1.1",
+  "summary": "Production-ready outbound sink connectors for NATS JetStream.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nats_sinks-0.1.1.tar.gz",
+  "download_time": "2026-05-18T17:24:43.157297",
+  "package_url": "https://pypi.org/project/nats-sinks/"
+}

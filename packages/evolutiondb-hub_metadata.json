@@ -1,0 +1,11 @@
+{
+  "name": "evolutiondb-hub",
+  "version": "0.5.0",
+  "summary": "One panel for every EvolutionDB sync connector and AI memory client. Web UI and terminal share the same controls.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evolutiondb_hub-0.5.0.tar.gz",
+  "download_time": "2026-05-18T17:24:23.499398",
+  "package_url": "https://pypi.org/project/evolutiondb-hub/"
+}

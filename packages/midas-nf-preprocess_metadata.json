@@ -1,0 +1,11 @@
+{
+  "name": "midas-nf-preprocess",
+  "version": "0.1.1",
+  "summary": "Differentiable PyTorch port of NF-HEDM preprocessing (CPU/CUDA/MPS): hex grid, tomo filter, diffraction-spot prediction, image processing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "midas_nf_preprocess-0.1.1.tar.gz",
+  "download_time": "2026-05-18T17:24:35.940444",
+  "package_url": "https://pypi.org/project/midas-nf-preprocess/"
+}

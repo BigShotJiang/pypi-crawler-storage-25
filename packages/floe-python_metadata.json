@@ -1,11 +1,11 @@
 {
   "name": "floe-python",
-  "version": "0.3.10",
+  "version": "0.4.0",
   "summary": "Python bindings for floe-core — run floe pipelines at Rust speed from Python and notebooks",
   "author": "Floe contributors",
   "license": "Apache-2.0",
   "home_page": "https://github.com/malon64/floe",
-  "download_filename": "floe_python-0.3.10.tar.gz",
-  "download_time": "2026-05-16T15:29:48.261205",
+  "download_filename": "floe_python-0.4.0.tar.gz",
+  "download_time": "2026-05-18T17:24:34.904661",
   "package_url": "https://pypi.org/project/floe-python/"
 }

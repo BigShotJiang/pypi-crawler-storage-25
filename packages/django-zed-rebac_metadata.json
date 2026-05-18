@@ -1,11 +1,11 @@
 {
   "name": "django-zed-rebac",
-  "version": "0.1.4",
+  "version": "0.3.2",
   "summary": "Drop-in REBAC engine for Django, SpiceDB-compatible, with a pure-Django LocalBackend.",
   "author": null,
-  "license": "Apache-2.0",
+  "license": null,
   "home_page": null,
-  "download_filename": "django_zed_rebac-0.1.4.tar.gz",
-  "download_time": "2026-05-10T19:12:44.380741",
+  "download_filename": "django_zed_rebac-0.3.2.tar.gz",
+  "download_time": "2026-05-18T17:24:45.239491",
   "package_url": "https://pypi.org/project/django-zed-rebac/"
 }
