@@ -1,11 +1,11 @@
 {
   "name": "recon-gen",
-  "version": "11.0.0a5",
-  "summary": "Programmatic AWS QuickSight analysis generator for financial reporting",
+  "version": "11.6.5",
+  "summary": "Outside validation that your financial system is sound — tells midsize financial institutions whether their books balance day to day, and when they don't, where to look first. Ships AWS QuickSight, self-hosted HTMX, and regulator-ready PDF surfaces from one L2 institution model.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "recon_gen-11.0.0a5.tar.gz",
-  "download_time": "2026-05-17T08:13:51.621310",
+  "download_filename": "recon_gen-11.6.5.tar.gz",
+  "download_time": "2026-05-19T23:53:50.519913",
   "package_url": "https://pypi.org/project/recon-gen/"
 }

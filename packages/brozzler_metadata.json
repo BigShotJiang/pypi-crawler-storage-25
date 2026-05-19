@@ -1,0 +1,11 @@
+{
+  "name": "brozzler",
+  "version": "1.9.5",
+  "summary": "Distributed web crawling with browsers",
+  "author": "Noah Levitt",
+  "license": null,
+  "home_page": "https://github.com/internetarchive/brozzler",
+  "download_filename": "brozzler-1.9.5.tar.gz",
+  "download_time": "2026-05-19T23:53:07.807925",
+  "package_url": "https://pypi.org/project/brozzler/"
+}

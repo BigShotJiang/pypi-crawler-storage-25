@@ -1,11 +1,11 @@
 {
   "name": "sumo-qa",
-  "version": "0.3.4",
+  "version": "0.5.3",
   "summary": "Sumo QA — a senior-QA-shaped MCP server for pre-coding QA planning, TDD scaffolding, mutation-testing follow-up, code review, and test-data discovery.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sumo_qa-0.3.4.tar.gz",
-  "download_time": "2026-05-18T10:33:48.608175",
+  "download_filename": "sumo_qa-0.5.3.tar.gz",
+  "download_time": "2026-05-19T23:53:18.670482",
   "package_url": "https://pypi.org/project/sumo-qa/"
 }

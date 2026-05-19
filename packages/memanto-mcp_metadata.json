@@ -1,0 +1,11 @@
+{
+  "name": "memanto-mcp",
+  "version": "0.1.0",
+  "summary": "Model Context Protocol (MCP) server for Memanto - persistent semantic memory for any MCP-compatible agent",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memanto_mcp-0.1.0.tar.gz",
+  "download_time": "2026-05-19T23:53:31.396673",
+  "package_url": "https://pypi.org/project/memanto-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "quicksight-gen",
-  "version": "9.4.0",
-  "summary": "Programmatic AWS QuickSight analysis generator for financial reporting",
+  "version": "11.6.5",
+  "summary": "Deprecated rename shim — install `recon-gen` instead (this package will be removed in ~1-2 months).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quicksight_gen-9.4.0.tar.gz",
-  "download_time": "2026-05-17T08:13:52.833418",
+  "download_filename": "quicksight_gen-11.6.5.tar.gz",
+  "download_time": "2026-05-19T23:53:51.041576",
   "package_url": "https://pypi.org/project/quicksight-gen/"
 }

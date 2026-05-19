@@ -1,0 +1,11 @@
+{
+  "name": "pdtsp",
+  "version": "0.1.0",
+  "summary": "Python wrapper for the PDP-HGS and PDP-RR solvers (vidalt/PDTSP) for the Pickup-and-Delivery Traveling Salesman Problem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdtsp-0.1.0.tar.gz",
+  "download_time": "2026-05-19T23:53:26.592486",
+  "package_url": "https://pypi.org/project/pdtsp/"
+}

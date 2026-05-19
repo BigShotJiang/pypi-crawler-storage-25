@@ -1,0 +1,11 @@
+{
+  "name": "jupyterlab-cellsense",
+  "version": "0.1.0",
+  "summary": "Multi-file FIM code completion for JupyterLab.",
+  "author": "Arun Karthik",
+  "license": "GPL 3.0",
+  "home_page": null,
+  "download_filename": "jupyterlab_cellsense-0.1.0.tar.gz",
+  "download_time": "2026-05-19T23:53:15.216426",
+  "package_url": "https://pypi.org/project/jupyterlab-cellsense/"
+}

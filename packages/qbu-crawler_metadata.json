@@ -1,11 +1,11 @@
 {
   "name": "qbu-crawler",
-  "version": "0.3.22",
+  "version": "0.4.28",
   "summary": "多站点产品数据爬虫 — 基于 DrissionPage，支持 Bass Pro / Walton's / Meat Your Maker 等站点",
   "author": "Leo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qbu_crawler-0.3.22.tar.gz",
-  "download_time": "2026-04-25T13:47:42.306158",
+  "download_filename": "qbu_crawler-0.4.28.tar.gz",
+  "download_time": "2026-05-19T23:53:21.300923",
   "package_url": "https://pypi.org/project/qbu-crawler/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aiograpi-rest",
-  "version": "4.7.0",
+  "version": "4.11.0",
   "summary": "RESTful API service for aiograpi",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiograpi_rest-4.7.0.tar.gz",
-  "download_time": "2026-05-19T21:12:57.846155",
+  "download_filename": "aiograpi_rest-4.11.0.tar.gz",
+  "download_time": "2026-05-19T23:53:08.329097",
   "package_url": "https://pypi.org/project/aiograpi-rest/"
 }

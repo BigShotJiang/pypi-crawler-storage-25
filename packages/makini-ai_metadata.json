@@ -1,11 +1,11 @@
 {
   "name": "makini-ai",
-  "version": "1.0.7",
+  "version": "1.1.6",
   "summary": "Federated Agent Orchestration Engine based on Stack Physics",
   "author": "Makini Authors",
   "license": null,
   "home_page": "https://api.makini.ai",
-  "download_filename": "makini_ai-1.0.7.tar.gz",
-  "download_time": "2026-05-19T04:56:17.470089",
+  "download_filename": "makini_ai-1.1.6.tar.gz",
+  "download_time": "2026-05-19T23:53:41.525511",
   "package_url": "https://pypi.org/project/makini-ai/"
 }
