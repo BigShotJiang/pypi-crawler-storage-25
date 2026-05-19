@@ -1,0 +1,11 @@
+{
+  "name": "BCI2000Tools",
+  "version": "1.2.0",
+  "summary": "A suite of Python tools for working with BCI2000 data files, processing chains, and live sessions",
+  "author": null,
+  "license": "GPL v3+",
+  "home_page": "https://bci2000.org",
+  "download_filename": "bci2000tools-1.2.0-py2.py3-none-any.whl",
+  "download_time": "2026-05-19T19:39:15.667999",
+  "package_url": "https://pypi.org/project/BCI2000Tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sma200-bt",
+  "version": "0.1.0",
+  "summary": "Testfolio-compatible synthetic leveraged-ETF return series, with proper borrow-cost modeling. Calibrated against real TQQQ to within 5%.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sma200_bt-0.1.0.tar.gz",
+  "download_time": "2026-05-19T19:39:33.625937",
+  "package_url": "https://pypi.org/project/sma200-bt/"
+}

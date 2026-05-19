@@ -1,0 +1,11 @@
+{
+  "name": "uc-llm-provider",
+  "version": "0.5.1",
+  "summary": "Generic LLM provider abstraction — Anthropic, OpenAI, Google, Ollama and any OpenAI-compatible local model",
+  "author": "cuber IT service",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uc_llm_provider-0.5.1.tar.gz",
+  "download_time": "2026-05-19T19:38:59.616225",
+  "package_url": "https://pypi.org/project/uc-llm-provider/"
+}

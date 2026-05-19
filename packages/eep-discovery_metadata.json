@@ -1,0 +1,11 @@
+{
+  "name": "eep-discovery",
+  "version": "0.1.0",
+  "summary": "EEP discovery utilities — manifest validation, Link header parsing, DNS TXT record parsing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eep_discovery-0.1.0.tar.gz",
+  "download_time": "2026-05-19T19:39:06.581210",
+  "package_url": "https://pypi.org/project/eep-discovery/"
+}

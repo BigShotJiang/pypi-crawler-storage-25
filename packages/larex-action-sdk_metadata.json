@@ -1,11 +1,11 @@
 {
   "name": "larex-action-sdk",
-  "version": "0.1.5",
+  "version": "0.4.0",
   "summary": "Framework-neutral Python SDK for building LAREX Action processors.",
   "author": "OCR4all",
   "license": null,
   "home_page": null,
-  "download_filename": "larex_action_sdk-0.1.5.tar.gz",
-  "download_time": "2026-05-13T12:04:06.654097",
+  "download_filename": "larex_action_sdk-0.4.0.tar.gz",
+  "download_time": "2026-05-19T19:38:54.269395",
   "package_url": "https://pypi.org/project/larex-action-sdk/"
 }

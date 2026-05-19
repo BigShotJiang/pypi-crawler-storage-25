@@ -1,0 +1,11 @@
+{
+  "name": "cisco-scc-sdk",
+  "version": "1.0.6",
+  "summary": "Python SDK for Cisco Security Cloud Control Platform Management APIs",
+  "author": "Cisco Security",
+  "license": null,
+  "home_page": "https://github.com/CiscoDevNet/cisco-scc-python-sdk",
+  "download_filename": "cisco_scc_sdk-1.0.6.tar.gz",
+  "download_time": "2026-05-19T19:39:05.529790",
+  "package_url": "https://pypi.org/project/cisco-scc-sdk/"
+}

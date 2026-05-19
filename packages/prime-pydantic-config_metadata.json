@@ -1,0 +1,11 @@
+{
+  "name": "prime-pydantic-config",
+  "version": "0.3.0.dev79",
+  "summary": "tyro-based CLI with TOML/YAML config file support for ML",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prime_pydantic_config-0.3.0.dev79.tar.gz",
+  "download_time": "2026-05-19T19:38:54.796290",
+  "package_url": "https://pypi.org/project/prime-pydantic-config/"
+}

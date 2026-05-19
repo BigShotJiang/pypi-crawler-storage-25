@@ -1,11 +1,11 @@
 {
   "name": "farscry",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "summary": "Image interpreter for automation workflows - local, offline, 8x fewer tokens",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "farscry-0.1.0.tar.gz",
-  "download_time": "2026-05-13T20:31:50.860912",
+  "download_filename": "farscry-0.4.0.tar.gz",
+  "download_time": "2026-05-19T19:39:11.993406",
   "package_url": "https://pypi.org/project/farscry/"
 }
