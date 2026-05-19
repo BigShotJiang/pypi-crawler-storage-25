@@ -1,0 +1,11 @@
+{
+  "name": "bigsmall",
+  "version": "3.8.0",
+  "summary": "Lossless neural network weight compression - run any model, no compromises",
+  "author": "Will Ferrell",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/wpferrell/Bigsmall",
+  "download_filename": "bigsmall-3.8.0.tar.gz",
+  "download_time": "2026-05-19T00:28:57.722332",
+  "package_url": "https://pypi.org/project/bigsmall/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ocsfkit",
+  "version": "0.7.0",
+  "summary": "An OCSF workbench for normalizing, linting, explaining, diffing, and querying security events.",
+  "author": "ocsfkit contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ocsfkit-0.7.0.tar.gz",
+  "download_time": "2026-05-19T00:29:13.440000",
+  "package_url": "https://pypi.org/project/ocsfkit/"
+}

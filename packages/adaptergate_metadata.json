@@ -1,0 +1,11 @@
+{
+  "name": "adaptergate",
+  "version": "0.5.3",
+  "summary": "CI gate for per-tenant LoRA adapters that update online. Slice-level reject explain. Serving-stack agnostic.",
+  "author": "Kazdov",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "adaptergate-0.5.3.tar.gz",
+  "download_time": "2026-05-19T00:29:25.018205",
+  "package_url": "https://pypi.org/project/adaptergate/"
+}

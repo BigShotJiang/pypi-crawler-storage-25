@@ -1,0 +1,11 @@
+{
+  "name": "libusb-package-tng",
+  "version": "1.0.29.3",
+  "summary": "Library embedding libusb for pyusb.",
+  "author": "Terry Greeniaus",
+  "license": "MIT",
+  "home_page": "https://github.com/tgree/libusb_package_tng",
+  "download_filename": "libusb_package_tng-1.0.29.3.tar.gz",
+  "download_time": "2026-05-19T00:29:38.636183",
+  "package_url": "https://pypi.org/project/libusb-package-tng/"
+}

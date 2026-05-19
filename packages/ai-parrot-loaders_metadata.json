@@ -1,11 +1,11 @@
 {
   "name": "ai-parrot-loaders",
-  "version": "0.1.47",
+  "version": "0.1.50",
   "summary": "Document loaders for AI-Parrot RAG pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_parrot_loaders-0.1.47.tar.gz",
-  "download_time": "2026-05-13T16:54:32.412372",
+  "download_filename": "ai_parrot_loaders-0.1.50.tar.gz",
+  "download_time": "2026-05-19T00:29:43.343035",
   "package_url": "https://pypi.org/project/ai-parrot-loaders/"
 }

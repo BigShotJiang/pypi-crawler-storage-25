@@ -1,11 +1,11 @@
 {
   "name": "pyfli-lib",
-  "version": "0.1.7",
+  "version": "0.1.0",
   "summary": "Unified Fluorescence Lifetime Imaging (FLI) data processing platform using analytical and deep learning methods.",
   "author": "Vikas Pandey",
-  "license": null,
+  "license": "CC BY-NC-ND 4.0",
   "home_page": null,
-  "download_filename": "pyfli_lib-0.1.7.tar.gz",
-  "download_time": "2026-03-29T17:49:39.347320",
+  "download_filename": "pyfli_lib-0.1.0.tar.gz",
+  "download_time": "2026-05-19T00:29:25.534515",
   "package_url": "https://pypi.org/project/pyfli-lib/"
 }
