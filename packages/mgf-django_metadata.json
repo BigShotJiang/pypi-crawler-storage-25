@@ -1,0 +1,11 @@
+{
+  "name": "mgf-django",
+  "version": "0.4.1",
+  "summary": "Django integration adapters for mgf-common — AppConfig + middleware (request-id, context) + JsonFormatter + DjangoSettingsBridge. Sibling of mgf-common under the mgf.* namespace.",
+  "author": "Bassam Alsanie, mgf-django contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mgf_django-0.4.1.tar.gz",
+  "download_time": "2026-05-19T04:55:51.829024",
+  "package_url": "https://pypi.org/project/mgf-django/"
+}

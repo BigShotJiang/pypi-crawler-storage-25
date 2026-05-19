@@ -1,0 +1,11 @@
+{
+  "name": "mgf-fastapi",
+  "version": "0.6.1",
+  "summary": "FastAPI integration adapters for mgf-common — request-id + exception translation + lifespan + webhooks (Svix HMAC) + IpAllowlist + run_test_app + DB-session helpers (via [sqlalchemy] extra). Sibling of mgf-common under the mgf.* namespace.",
+  "author": "Bassam Alsanie, mgf-fastapi contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mgf_fastapi-0.6.1.tar.gz",
+  "download_time": "2026-05-19T04:55:56.921180",
+  "package_url": "https://pypi.org/project/mgf-fastapi/"
+}

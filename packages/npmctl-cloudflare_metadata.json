@@ -1,0 +1,11 @@
+{
+  "name": "npmctl-cloudflare",
+  "version": "0.3.10",
+  "summary": "Cloudflare DNS provider extension for npmctl.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "npmctl_cloudflare-0.3.10.tar.gz",
+  "download_time": "2026-05-19T04:55:47.518338",
+  "package_url": "https://pypi.org/project/npmctl-cloudflare/"
+}

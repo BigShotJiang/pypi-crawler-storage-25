@@ -1,11 +1,11 @@
 {
   "name": "yantrikdb-hermes-plugin",
-  "version": "0.4.10",
+  "version": "0.4.12",
   "summary": "Self-maintaining memory plugin for Hermes Agent — embedded YantrikDB engine, ~10 MB, no server, no token, no GPU. Canonicalizes duplicates, surfaces contradictions, ranks with recency awareness, and explains recall.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yantrikdb_hermes_plugin-0.4.10.tar.gz",
-  "download_time": "2026-05-17T18:25:09.176506",
+  "download_filename": "yantrikdb_hermes_plugin-0.4.12.tar.gz",
+  "download_time": "2026-05-19T04:55:40.090771",
   "package_url": "https://pypi.org/project/yantrikdb-hermes-plugin/"
 }

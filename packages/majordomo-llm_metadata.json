@@ -1,0 +1,11 @@
+{
+  "name": "majordomo-llm",
+  "version": "0.9.1",
+  "summary": "Unified Python interface for multiple LLM providers with cost tracking",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "majordomo_llm-0.9.1.tar.gz",
+  "download_time": "2026-05-19T04:55:51.268483",
+  "package_url": "https://pypi.org/project/majordomo-llm/"
+}

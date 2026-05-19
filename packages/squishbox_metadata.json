@@ -1,11 +1,11 @@
 {
   "name": "squishbox",
-  "version": "1.0.11",
+  "version": "1.1.0",
   "summary": "LCD + button hardware interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "squishbox-1.0.11.tar.gz",
-  "download_time": "2026-05-07T06:00:27.518433",
+  "download_filename": "squishbox-1.1.0.tar.gz",
+  "download_time": "2026-05-19T04:55:57.478903",
   "package_url": "https://pypi.org/project/squishbox/"
 }

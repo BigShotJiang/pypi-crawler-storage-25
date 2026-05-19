@@ -1,11 +1,11 @@
 {
   "name": "box-agent",
-  "version": "0.8.22",
+  "version": "0.8.41",
   "summary": "AI agent framework with Jupyter sandbox, data analysis, MCP tools, ACP protocol, multi-provider LLM, and standalone runtime packaging",
   "author": "Box Agent Team",
   "license": null,
   "home_page": null,
-  "download_filename": "box_agent-0.8.22.tar.gz",
-  "download_time": "2026-04-28T09:20:21.142386",
+  "download_filename": "box_agent-0.8.41.tar.gz",
+  "download_time": "2026-05-19T04:56:15.774904",
   "package_url": "https://pypi.org/project/box-agent/"
 }

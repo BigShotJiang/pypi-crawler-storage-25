@@ -1,11 +1,11 @@
 {
   "name": "kakao-moment-mcp",
-  "version": "0.1.1",
+  "version": "0.1.7",
   "summary": "Kakao Moment 광고 운영 자동화 MCP 서버 - Claude Desktop에서 자연어로 카카오모먼트 광고 조회/리포트",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kakao_moment_mcp-0.1.1.tar.gz",
-  "download_time": "2026-05-19T00:28:58.237747",
+  "download_filename": "kakao_moment_mcp-0.1.7.tar.gz",
+  "download_time": "2026-05-19T04:56:26.403905",
   "package_url": "https://pypi.org/project/kakao-moment-mcp/"
 }

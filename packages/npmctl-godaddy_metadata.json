@@ -1,0 +1,11 @@
+{
+  "name": "npmctl-godaddy",
+  "version": "0.3.10",
+  "summary": "GoDaddy DNS provider extension for npmctl.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "npmctl_godaddy-0.3.10.tar.gz",
+  "download_time": "2026-05-19T04:55:45.786287",
+  "package_url": "https://pypi.org/project/npmctl-godaddy/"
+}

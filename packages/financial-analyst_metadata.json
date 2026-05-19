@@ -1,0 +1,11 @@
+{
+  "name": "financial-analyst",
+  "version": "1.3.0",
+  "summary": "A-share single-stock deep-dive multi-agent research workstation with three-tier trust isolation, FTS5 memory retrieval, dream loop introspection, and BYOM extensibility.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "financial_analyst-1.3.0.tar.gz",
+  "download_time": "2026-05-19T04:56:08.101860",
+  "package_url": "https://pypi.org/project/financial-analyst/"
+}

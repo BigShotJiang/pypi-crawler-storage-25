@@ -1,0 +1,11 @@
+{
+  "name": "agentarmor",
+  "version": "1.6.0",
+  "summary": "The full-stack safety layer for AI agents, including prompt injection, toxicity, hallucination detection, data exfiltration, privilege escalation, and more — in 2 lines of code.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentarmor-1.6.0.tar.gz",
+  "download_time": "2026-05-19T04:55:35.646772",
+  "package_url": "https://pypi.org/project/agentarmor/"
+}

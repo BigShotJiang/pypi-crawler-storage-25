@@ -1,11 +1,11 @@
 {
   "name": "critband",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "Calculate critical bandwidth for bimodal distributions in kernel density estimation",
   "author": "Ruiyu Zhang, Qihao Wang",
   "license": null,
   "home_page": null,
-  "download_filename": "critband-0.2.0.tar.gz",
-  "download_time": "2026-05-17T14:10:13.782259",
+  "download_filename": "critband-0.2.3.tar.gz",
+  "download_time": "2026-05-19T04:56:16.353462",
   "package_url": "https://pypi.org/project/critband/"
 }

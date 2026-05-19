@@ -1,11 +1,11 @@
 {
   "name": "qsag-core",
-  "version": "0.1.2",
-  "summary": "Open source AI agent security toolkit — MCP poisoning scanner, ghost detection, prompt injection patterns",
+  "version": "0.2.2",
+  "summary": "Early-stage AI-agent runtime detection library — pattern-based scanners for MCP tool poisoning, prompt injection, ghost agents, exfiltration, jailbreaks, and memory poisoning. Open research, single maintainer, active development.",
   "author": "AIXYBER TECH LTD (trading as Neoxyber)",
   "license": null,
   "home_page": "https://github.com/Neoxyber/qsag-core",
-  "download_filename": "qsag_core-0.1.2.tar.gz",
-  "download_time": "2026-04-10T18:58:36.022741",
+  "download_filename": "qsag_core-0.2.2.tar.gz",
+  "download_time": "2026-05-19T04:55:52.383943",
   "package_url": "https://pypi.org/project/qsag-core/"
 }

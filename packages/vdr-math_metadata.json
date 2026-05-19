@@ -1,0 +1,11 @@
+{
+  "name": "vdr-math",
+  "version": "0.1.3",
+  "summary": "Exact arithmetic with Value, Denominator, Remainder triples",
+  "author": "VDR Project",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vdr_math-0.1.3.tar.gz",
+  "download_time": "2026-05-19T04:56:02.492004",
+  "package_url": "https://pypi.org/project/vdr-math/"
+}
