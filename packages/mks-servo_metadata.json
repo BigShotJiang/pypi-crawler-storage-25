@@ -1,0 +1,11 @@
+{
+  "name": "mks-servo",
+  "version": "1.0.0",
+  "summary": "Python library for MKS SERVO42D RS485 stepper drivers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mks_servo-1.0.0.tar.gz",
+  "download_time": "2026-05-19T22:35:04.344893",
+  "package_url": "https://pypi.org/project/mks-servo/"
+}

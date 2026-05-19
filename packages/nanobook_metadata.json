@@ -1,11 +1,11 @@
 {
   "name": "nanobook",
-  "version": "0.10.0",
+  "version": "0.16.1",
   "summary": "Rust-backed Python package for target-weight backtests, portfolio metrics, deterministic order-book simulation, and pre-trade risk checks",
   "author": "Ricardo Frantz",
   "license": null,
   "home_page": null,
-  "download_filename": "nanobook-0.10.0.tar.gz",
-  "download_time": "2026-04-23T08:18:45.605448",
+  "download_filename": "nanobook-0.16.1.tar.gz",
+  "download_time": "2026-05-19T22:34:47.753261",
   "package_url": "https://pypi.org/project/nanobook/"
 }

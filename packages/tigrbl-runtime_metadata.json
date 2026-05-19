@@ -1,11 +1,11 @@
 {
   "name": "tigrbl-runtime",
-  "version": "0.1.12",
-  "summary": "Runtime pipeline and Rust execution bridge for Tigrbl.",
+  "version": "0.4.1",
+  "summary": "Runtime pipeline helpers and execution bridge surfaces for Tigrbl ASGI applications, transports, and operation dispatch.",
   "author": null,
   "license": null,
-  "home_page": "https://github.com/swarmauri/tigrbl",
-  "download_filename": "tigrbl_runtime-0.1.12.tar.gz",
-  "download_time": "2026-05-03T14:38:23.689637",
+  "home_page": "https://github.com/tigrbl/tigrbl",
+  "download_filename": "tigrbl_runtime-0.4.1.tar.gz",
+  "download_time": "2026-05-19T22:35:21.465762",
   "package_url": "https://pypi.org/project/tigrbl-runtime/"
 }

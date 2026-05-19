@@ -1,0 +1,11 @@
+{
+  "name": "telegram-send-wait",
+  "version": "1.0.2",
+  "summary": "Send messages over Telegram and wait for a text reply from the command-line (fork of telegram-send).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "telegram_send_wait-1.0.2.tar.gz",
+  "download_time": "2026-05-19T22:35:08.513788",
+  "package_url": "https://pypi.org/project/telegram-send-wait/"
+}

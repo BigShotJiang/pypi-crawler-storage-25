@@ -1,0 +1,11 @@
+{
+  "name": "dabbler-ai-router",
+  "version": "0.5.1",
+  "summary": "Multi-provider model routing, prompt templates, session state, and metrics for the Dabbler AI-led-workflow.",
+  "author": "darndestdabbler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dabbler_ai_router-0.5.1.tar.gz",
+  "download_time": "2026-05-19T22:34:51.877776",
+  "package_url": "https://pypi.org/project/dabbler-ai-router/"
+}

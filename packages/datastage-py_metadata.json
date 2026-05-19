@@ -1,0 +1,11 @@
+{
+  "name": "datastage-py",
+  "version": "0.8.0",
+  "summary": "A Python wrapper for the IBM InfoSphere DataStage API.",
+  "author": "Leyton Addison-Roach",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datastage_py-0.8.0.tar.gz",
+  "download_time": "2026-05-19T22:35:10.061329",
+  "package_url": "https://pypi.org/project/datastage-py/"
+}
