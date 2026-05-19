@@ -1,11 +1,11 @@
 {
   "name": "dkist-processing-dlnirsp",
-  "version": "1.6.4",
+  "version": "1.6.11",
   "summary": "Science processing code for the DLNIRSP instrument on DKIST",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "dkist_processing_dlnirsp-1.6.4.tar.gz",
-  "download_time": "2026-05-05T22:25:52.810716",
+  "download_filename": "dkist_processing_dlnirsp-1.6.11.tar.gz",
+  "download_time": "2026-05-19T21:12:56.276930",
   "package_url": "https://pypi.org/project/dkist-processing-dlnirsp/"
 }

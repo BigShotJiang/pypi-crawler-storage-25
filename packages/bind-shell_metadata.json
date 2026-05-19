@@ -1,0 +1,11 @@
+{
+  "name": "bind-shell",
+  "version": "0.1.2",
+  "summary": "A Typer CLI for creating and connecting to bind shells and reverse shells. Built on Python's stdlib socket — no external dependencies.",
+  "author": "Tyson Holub",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bind_shell-0.1.2.tar.gz",
+  "download_time": "2026-05-19T21:13:20.233479",
+  "package_url": "https://pypi.org/project/bind-shell/"
+}

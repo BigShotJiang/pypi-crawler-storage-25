@@ -1,0 +1,11 @@
+{
+  "name": "raft-puppy",
+  "version": "0.0.513",
+  "summary": "Stackwright-patched fork of code-puppy (MIT). Upstream: https://github.com/mpfaffenberger/code_puppy — patches pending upstream review.",
+  "author": "Michael Pfaffenberger",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "raft_puppy-0.0.513.tar.gz",
+  "download_time": "2026-05-19T21:13:16.079050",
+  "package_url": "https://pypi.org/project/raft-puppy/"
+}

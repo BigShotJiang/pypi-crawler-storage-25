@@ -1,11 +1,11 @@
 {
   "name": "aiodiscover",
-  "version": "3.0.5",
+  "version": "3.1.0",
   "summary": "Discover hosts by arp and ptr lookup",
   "author": "J. Nick Koston",
   "license": null,
   "home_page": null,
-  "download_filename": "aiodiscover-3.0.5.tar.gz",
-  "download_time": "2026-05-19T19:39:26.150961",
+  "download_filename": "aiodiscover-3.1.0.tar.gz",
+  "download_time": "2026-05-19T21:13:27.098735",
   "package_url": "https://pypi.org/project/aiodiscover/"
 }

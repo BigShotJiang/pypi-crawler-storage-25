@@ -1,11 +1,11 @@
 {
   "name": "cyberdrop-dl-patched",
-  "version": "9.8.1",
+  "version": "9.10.3",
   "summary": "Bulk downloader for multiple file hosts",
   "author": "Jacob B",
   "license": null,
   "home_page": null,
-  "download_filename": "cyberdrop_dl_patched-9.8.1.tar.gz",
-  "download_time": "2026-05-11T22:36:44.244362",
+  "download_filename": "cyberdrop_dl_patched-9.10.3.tar.gz",
+  "download_time": "2026-05-19T21:13:32.311232",
   "package_url": "https://pypi.org/project/cyberdrop-dl-patched/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "django-resonant-settings",
-  "version": "0.50.5",
+  "version": "0.51.0",
   "summary": "Shared Django settings for Resonant applications.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_resonant_settings-0.50.5.tar.gz",
-  "download_time": "2026-05-01T15:26:03.666956",
+  "download_filename": "django_resonant_settings-0.51.0.tar.gz",
+  "download_time": "2026-05-19T21:13:38.133739",
   "package_url": "https://pypi.org/project/django-resonant-settings/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "plato-sdk-v2",
-  "version": "2.87.8",
+  "version": "2.88.0",
   "summary": "Python SDK for the Plato API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plato_sdk_v2-2.87.8.tar.gz",
-  "download_time": "2026-05-14T00:27:16.989256",
+  "download_filename": "plato_sdk_v2-2.88.0.tar.gz",
+  "download_time": "2026-05-19T21:13:12.424486",
   "package_url": "https://pypi.org/project/plato-sdk-v2/"
 }

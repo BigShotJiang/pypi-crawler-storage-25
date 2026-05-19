@@ -1,11 +1,11 @@
 {
   "name": "rootly-mcp-server",
-  "version": "2.2.21",
+  "version": "2.3.8",
   "summary": "Secure Model Context Protocol server for Rootly APIs with AI SRE capabilities, comprehensive error handling, and input validation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rootly_mcp_server-2.2.21.tar.gz",
-  "download_time": "2026-04-21T23:41:35.404312",
+  "download_filename": "rootly_mcp_server-2.3.8.tar.gz",
+  "download_time": "2026-05-19T21:13:37.611818",
   "package_url": "https://pypi.org/project/rootly-mcp-server/"
 }

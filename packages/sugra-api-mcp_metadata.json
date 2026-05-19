@@ -1,11 +1,11 @@
 {
   "name": "sugra-api-mcp",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "Gateway connector between LLM agents and Sugra API world data through a bundled endpoint catalog and operation_id calls. Works with Anthropic Claude, OpenAI GPT, Google Gemini, xAI, and any MCP-enabled IDE.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sugra_api_mcp-0.5.0.tar.gz",
-  "download_time": "2026-05-19T04:55:42.993943",
+  "download_filename": "sugra_api_mcp-0.5.2.tar.gz",
+  "download_time": "2026-05-19T21:13:36.533367",
   "package_url": "https://pypi.org/project/sugra-api-mcp/"
 }

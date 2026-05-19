@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-invoice-refund-line-selection",
+  "version": "18.0.1.0.0.3",
+  "summary": "This module allows the user to refund specific lines in a invoice",
+  "author": "Creu Blanca, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo_addon_account_invoice_refund_line_selection-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-05-19T21:12:53.176463",
+  "package_url": "https://pypi.org/project/odoo-addon-account-invoice-refund-line-selection/"
+}
