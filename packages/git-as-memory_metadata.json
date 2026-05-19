@@ -1,0 +1,11 @@
+{
+  "name": "git-as-memory",
+  "version": "0.1.1",
+  "summary": "Git-native append-only memory store for agents.",
+  "author": "Femto",
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_as_memory-0.1.1.tar.gz",
+  "download_time": "2026-05-19T11:51:22.744771",
+  "package_url": "https://pypi.org/project/git-as-memory/"
+}

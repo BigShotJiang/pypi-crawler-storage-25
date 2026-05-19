@@ -1,0 +1,11 @@
+{
+  "name": "portablemsvc",
+  "version": "0.3.0",
+  "summary": "Installs Portable MSVC tools in user space",
+  "author": "Travis Bender",
+  "license": null,
+  "home_page": null,
+  "download_filename": "portablemsvc-0.3.0.tar.gz",
+  "download_time": "2026-05-19T11:50:49.049135",
+  "package_url": "https://pypi.org/project/portablemsvc/"
+}

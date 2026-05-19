@@ -1,0 +1,11 @@
+{
+  "name": "crtomo-tools",
+  "version": "0.4",
+  "summary": "CRTomo Python Toolbox",
+  "author": "Maximilian Weigand",
+  "license": "MIT",
+  "home_page": "https://github.com/geophysics-ubonn/crtomo_tools",
+  "download_filename": "crtomo_tools-0.4.tar.gz",
+  "download_time": "2026-05-19T11:50:41.685255",
+  "package_url": "https://pypi.org/project/crtomo-tools/"
+}

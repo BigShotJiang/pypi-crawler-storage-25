@@ -1,0 +1,11 @@
+{
+  "name": "causeway-deploy-docker",
+  "version": "0.6.0",
+  "summary": "Docker deploy target: emit a Dockerfile and compose.yaml.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "causeway_deploy_docker-0.6.0.tar.gz",
+  "download_time": "2026-05-19T11:50:50.581252",
+  "package_url": "https://pypi.org/project/causeway-deploy-docker/"
+}

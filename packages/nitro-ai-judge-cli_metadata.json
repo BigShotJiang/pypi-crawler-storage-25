@@ -1,11 +1,11 @@
 {
   "name": "nitro-ai-judge-cli",
-  "version": "0.2.0",
+  "version": "1.3.1",
   "summary": "CLI client for judge.nitro-ai.org",
   "author": "Mihnea Teodor Stoica",
   "license": null,
   "home_page": null,
-  "download_filename": "nitro_ai_judge_cli-0.2.0.tar.gz",
-  "download_time": "2026-05-03T14:38:01.305563",
+  "download_filename": "nitro_ai_judge_cli-1.3.1.tar.gz",
+  "download_time": "2026-05-19T11:51:21.718187",
   "package_url": "https://pypi.org/project/nitro-ai-judge-cli/"
 }

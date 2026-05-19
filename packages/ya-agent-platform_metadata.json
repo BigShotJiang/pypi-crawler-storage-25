@@ -1,11 +1,11 @@
 {
   "name": "ya-agent-platform",
-  "version": "0.73.0",
+  "version": "0.80.2",
   "summary": "WIP stateless agent service with TBD scope.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ya_agent_platform-0.73.0.tar.gz",
-  "download_time": "2026-05-12T04:45:37.329885",
+  "download_filename": "ya_agent_platform-0.80.2.tar.gz",
+  "download_time": "2026-05-19T11:51:04.572915",
   "package_url": "https://pypi.org/project/ya-agent-platform/"
 }

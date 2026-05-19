@@ -1,0 +1,11 @@
+{
+  "name": "pavise",
+  "version": "0.1.7",
+  "summary": "DataFrame validation library using Python Protocol for structural subtyping",
+  "author": "kitagry",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pavise-0.1.7.tar.gz",
+  "download_time": "2026-05-19T11:51:14.439225",
+  "package_url": "https://pypi.org/project/pavise/"
+}

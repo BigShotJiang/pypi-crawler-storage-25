@@ -1,0 +1,11 @@
+{
+  "name": "qingflow-sdk",
+  "version": "1.0.5",
+  "summary": "轻流 OpenAPI Python SDK - 基于 httpx 的同步/异步客户端",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qingflow_sdk-1.0.5.tar.gz",
+  "download_time": "2026-05-19T11:51:09.745645",
+  "package_url": "https://pypi.org/project/qingflow-sdk/"
+}

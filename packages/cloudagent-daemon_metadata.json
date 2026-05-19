@@ -1,0 +1,11 @@
+{
+  "name": "cloudagent-daemon",
+  "version": "0.2.1",
+  "summary": "Local daemon for cloudagent — bridges Claude Code subprocesses to the cloudagent backend over WebSocket.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloudagent_daemon-0.2.1.tar.gz",
+  "download_time": "2026-05-19T11:51:20.133640",
+  "package_url": "https://pypi.org/project/cloudagent-daemon/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TEDBench",
+  "version": "0.2.0",
+  "summary": "TEDBench: Large-Scale Protein Fold Classification Benchmark and MiAE Pretraining",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "tedbench-0.2.0.tar.gz",
+  "download_time": "2026-05-19T11:50:53.243453",
+  "package_url": "https://pypi.org/project/TEDBench/"
+}

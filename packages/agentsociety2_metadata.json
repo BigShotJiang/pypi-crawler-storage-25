@@ -1,11 +1,11 @@
 {
   "name": "agentsociety2",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "summary": "A modern, LLM-native agent simulation platform for social science research",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agentsociety2-2.3.0.tar.gz",
-  "download_time": "2026-05-08T06:32:19.104413",
+  "download_filename": "agentsociety2-2.4.0.tar.gz",
+  "download_time": "2026-05-19T11:50:54.806690",
   "package_url": "https://pypi.org/project/agentsociety2/"
 }

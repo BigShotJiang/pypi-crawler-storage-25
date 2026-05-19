@@ -1,11 +1,11 @@
 {
   "name": "orderpulse",
-  "version": "0.2.19",
+  "version": "0.2.28",
   "summary": "High-performance exchange feed parser and orderflow analytics engine with Rust and Python bindings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "orderpulse-0.2.19.tar.gz",
-  "download_time": "2026-05-13T07:05:13.056250",
+  "download_filename": "orderpulse-0.2.28-cp39-cp39-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-05-19T11:50:48.011769",
   "package_url": "https://pypi.org/project/orderpulse/"
 }
