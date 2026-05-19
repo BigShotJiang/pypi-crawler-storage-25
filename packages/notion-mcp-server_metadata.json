@@ -1,0 +1,11 @@
+{
+  "name": "notion-mcp-server",
+  "version": "0.1.1",
+  "summary": "Powerful MCP server for Notion - read, create, search, and manage pages and databases through Claude",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "notion_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-05-19T14:39:28.046171",
+  "package_url": "https://pypi.org/project/notion-mcp-server/"
+}

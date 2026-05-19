@@ -1,11 +1,11 @@
 {
   "name": "claude-webapi",
-  "version": "1.0.1",
+  "version": "1.0.31",
   "summary": "Async Python wrapper for the Claude.ai web app",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_webapi-1.0.1.tar.gz",
-  "download_time": "2026-05-14T20:25:35.526931",
+  "download_filename": "claude_webapi-1.0.31.tar.gz",
+  "download_time": "2026-05-19T14:38:59.496920",
   "package_url": "https://pypi.org/project/claude-webapi/"
 }

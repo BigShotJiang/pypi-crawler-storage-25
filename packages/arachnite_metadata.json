@@ -1,11 +1,11 @@
 {
   "name": "arachnite",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "summary": "A biologically-inspired reactive agent framework for Python",
   "author": "memrecolak",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arachnite-0.11.0.tar.gz",
-  "download_time": "2026-05-18T17:24:30.753155",
+  "download_filename": "arachnite-0.11.1.tar.gz",
+  "download_time": "2026-05-19T14:39:44.072830",
   "package_url": "https://pypi.org/project/arachnite/"
 }

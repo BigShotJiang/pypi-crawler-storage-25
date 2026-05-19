@@ -1,11 +1,11 @@
 {
   "name": "quartobot",
-  "version": "0.1.0",
-  "summary": "The manubot manuscript-as-software pattern, on Quarto.",
+  "version": "0.3.0",
+  "summary": "Citation resolution and manuscript-as-software CI for Quarto.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quartobot-0.1.0.tar.gz",
-  "download_time": "2026-05-14T21:50:16.329877",
+  "download_filename": "quartobot-0.3.0.tar.gz",
+  "download_time": "2026-05-19T14:39:21.762594",
   "package_url": "https://pypi.org/project/quartobot/"
 }

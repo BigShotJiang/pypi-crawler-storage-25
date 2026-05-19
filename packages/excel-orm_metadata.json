@@ -1,0 +1,11 @@
+{
+  "name": "excel-orm",
+  "version": "0.2.0",
+  "summary": "A lightweight Excel ORM for generating templates and parsing typed row models.",
+  "author": "Anthony Del Russo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "excel_orm-0.2.0.tar.gz",
+  "download_time": "2026-05-19T14:39:35.526262",
+  "package_url": "https://pypi.org/project/excel-orm/"
+}

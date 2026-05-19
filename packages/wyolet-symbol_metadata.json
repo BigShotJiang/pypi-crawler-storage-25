@@ -1,0 +1,11 @@
+{
+  "name": "wyolet-symbol",
+  "version": "0.1.1",
+  "summary": "AST-native code intelligence for Python — MCP server for Claude Code (12 agent tools) + standalone audit CLI (dead code, import graph, swallowed exceptions, 500+ language LOC via Linguist port).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wyolet_symbol-0.1.1.tar.gz",
+  "download_time": "2026-05-19T14:39:08.194127",
+  "package_url": "https://pypi.org/project/wyolet-symbol/"
+}
