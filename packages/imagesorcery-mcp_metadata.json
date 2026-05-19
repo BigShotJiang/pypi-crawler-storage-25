@@ -1,0 +1,11 @@
+{
+  "name": "imagesorcery-mcp",
+  "version": "0.12.0",
+  "summary": "A Model Context Protocol server providing image manipulation tools for LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "imagesorcery_mcp-0.12.0.tar.gz",
+  "download_time": "2026-05-19T08:31:33.542283",
+  "package_url": "https://pypi.org/project/imagesorcery-mcp/"
+}

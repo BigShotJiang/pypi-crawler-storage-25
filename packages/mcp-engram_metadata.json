@@ -1,11 +1,11 @@
 {
   "name": "mcp-engram",
-  "version": "0.8.2",
-  "summary": "AI Agent Continuity Engine — task-centric memory, session handoff with validation, error-aware recall, Ebbinghaus decay, hybrid retrieval (BM25+vector+graph), quality scoring. Local-first, zero cloud dependency.",
+  "version": "0.16.0",
+  "summary": "Durable Agent Runtime — append-only event log, replay-based recovery, cross-session task continuity, agent handoff. Local-first, zero cloud dependency.",
   "author": "hugfeature",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_engram-0.8.2.tar.gz",
-  "download_time": "2026-05-08T04:46:11.711649",
+  "download_filename": "mcp_engram-0.16.0.tar.gz",
+  "download_time": "2026-05-19T08:31:23.796733",
   "package_url": "https://pypi.org/project/mcp-engram/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dcm-anonymizer",
+  "version": "0.4.0",
+  "summary": "DICOM anonymizer (PS3.15 Basic Profile) with regulator-clause-cited compliance manifest and independent output verification",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dcm_anonymizer-0.4.0.tar.gz",
+  "download_time": "2026-05-19T08:31:16.627288",
+  "package_url": "https://pypi.org/project/dcm-anonymizer/"
+}

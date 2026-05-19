@@ -1,0 +1,11 @@
+{
+  "name": "livekit-gateway",
+  "version": "0.1.2",
+  "summary": "Plivo audio-stream transport for livekit-agents — drop-in liblivekit_ffi.{so,dylib}",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "livekit_gateway-0.1.2-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-19T08:31:13.116130",
+  "package_url": "https://pypi.org/project/livekit-gateway/"
+}

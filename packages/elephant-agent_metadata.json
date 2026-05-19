@@ -1,11 +1,11 @@
 {
   "name": "elephant-agent",
-  "version": "1.0.0.dev20260519044931",
+  "version": "1.0.0.dev20260519082713",
   "summary": "Elephant Agent CLI-first persistent agent runtime.",
   "author": "Agentic Intelligence Lab",
   "license": null,
   "home_page": null,
-  "download_filename": "elephant_agent-1.0.0.dev20260519044931.tar.gz",
-  "download_time": "2026-05-19T04:55:50.699737",
+  "download_filename": "elephant_agent-1.0.0.dev20260519082713.tar.gz",
+  "download_time": "2026-05-19T08:31:02.453314",
   "package_url": "https://pypi.org/project/elephant-agent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "infrasonar-selenium",
+  "version": "1.0.3",
+  "summary": "Library for building InfraSonar Selenium tests",
+  "author": "Cesbit",
+  "license": null,
+  "home_page": "https://github.com/infrasonar/selenium",
+  "download_filename": "infrasonar_selenium-1.0.3.tar.gz",
+  "download_time": "2026-05-19T08:31:02.994552",
+  "package_url": "https://pypi.org/project/infrasonar-selenium/"
+}

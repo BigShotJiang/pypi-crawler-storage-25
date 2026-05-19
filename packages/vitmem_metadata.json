@@ -1,0 +1,11 @@
+{
+  "name": "vitmem",
+  "version": "1.0.1",
+  "summary": "A package for estimating image memorability",
+  "author": "Brain Priority Lab",
+  "license": null,
+  "home_page": "https://github.com/brainpriority/vitmem",
+  "download_filename": "vitmem-1.0.1.tar.gz",
+  "download_time": "2026-05-19T08:31:40.534760",
+  "package_url": "https://pypi.org/project/vitmem/"
+}

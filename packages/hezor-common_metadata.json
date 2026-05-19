@@ -1,11 +1,11 @@
 {
   "name": "hezor-common",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "Common utilities and data models for Hezor projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hezor_common-1.5.0.tar.gz",
-  "download_time": "2026-05-08T04:46:16.922979",
+  "download_filename": "hezor_common-1.5.1.tar.gz",
+  "download_time": "2026-05-19T08:30:55.628490",
   "package_url": "https://pypi.org/project/hezor-common/"
 }

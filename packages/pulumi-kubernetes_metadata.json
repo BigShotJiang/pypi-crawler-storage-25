@@ -1,11 +1,11 @@
 {
   "name": "pulumi-kubernetes",
-  "version": "4.30.0",
+  "version": "4.31.0",
   "summary": "A Pulumi package for creating and managing Kubernetes resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_kubernetes-4.30.0.tar.gz",
-  "download_time": "2026-04-25T08:00:31.290231",
+  "download_filename": "pulumi_kubernetes-4.31.0.tar.gz",
+  "download_time": "2026-05-19T08:30:59.702429",
   "package_url": "https://pypi.org/project/pulumi-kubernetes/"
 }

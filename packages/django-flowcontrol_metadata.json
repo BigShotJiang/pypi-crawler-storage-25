@@ -1,0 +1,11 @@
+{
+  "name": "django-flowcontrol",
+  "version": "0.0.11",
+  "summary": "Design and run workflows in Django",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_flowcontrol-0.0.11.tar.gz",
+  "download_time": "2026-05-19T08:31:05.466766",
+  "package_url": "https://pypi.org/project/django-flowcontrol/"
+}

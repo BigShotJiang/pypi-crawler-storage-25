@@ -1,11 +1,11 @@
 {
   "name": "ldsuv",
-  "version": "1.2.0",
+  "version": "2.1.0",
   "summary": "基于 uv 的环境管理与依赖备注工具",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ldsuv-1.2.0.tar.gz",
-  "download_time": "2026-04-12T07:17:53.285523",
+  "download_filename": "ldsuv-2.1.0.tar.gz",
+  "download_time": "2026-05-19T08:30:56.776147",
   "package_url": "https://pypi.org/project/ldsuv/"
 }

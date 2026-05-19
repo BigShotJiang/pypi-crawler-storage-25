@@ -1,0 +1,11 @@
+{
+  "name": "context-profiler",
+  "version": "0.2.0",
+  "summary": "Framework-agnostic profiler for LLM agent context windows",
+  "author": "Yanpeng Wang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "context_profiler-0.2.0.tar.gz",
+  "download_time": "2026-05-19T08:31:10.358704",
+  "package_url": "https://pypi.org/project/context-profiler/"
+}

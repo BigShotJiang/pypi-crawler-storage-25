@@ -1,0 +1,11 @@
+{
+  "name": "seo-log-auditor",
+  "version": "0.1.1",
+  "summary": "SEO crawl-audit Streamlit dashboard for nginx-ingress Googlebot logs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seo_log_auditor-0.1.1.tar.gz",
+  "download_time": "2026-05-19T08:31:10.901733",
+  "package_url": "https://pypi.org/project/seo-log-auditor/"
+}
