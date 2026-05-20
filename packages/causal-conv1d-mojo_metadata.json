@@ -1,0 +1,11 @@
+{
+  "name": "causal-conv1d-mojo",
+  "version": "0.0.4",
+  "summary": "A wheel for causal-conv1d that works everywhere.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "causal_conv1d_mojo-0.0.4.tar.gz",
+  "download_time": "2026-05-20T09:44:06.776334",
+  "package_url": "https://pypi.org/project/causal-conv1d-mojo/"
+}

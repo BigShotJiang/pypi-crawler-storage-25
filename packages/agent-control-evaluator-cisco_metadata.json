@@ -1,0 +1,11 @@
+{
+  "name": "agent-control-evaluator-cisco",
+  "version": "7.8.1",
+  "summary": "Cisco AI Defense evaluator for agent-control",
+  "author": "Cisco AI Defense Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agent_control_evaluator_cisco-7.8.1.tar.gz",
+  "download_time": "2026-05-20T09:43:54.687084",
+  "package_url": "https://pypi.org/project/agent-control-evaluator-cisco/"
+}

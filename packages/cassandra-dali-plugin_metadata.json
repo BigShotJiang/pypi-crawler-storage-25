@@ -1,11 +1,11 @@
 {
   "name": "cassandra-dali-plugin",
-  "version": "1.3.0a4",
+  "version": "1.3.2",
   "summary": "Cassandra data loader for ML pipelines",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cassandra_dali_plugin-1.3.0a4.tar.gz",
-  "download_time": "2026-04-01T16:55:19.685178",
+  "download_filename": "cassandra_dali_plugin-1.3.2.tar.gz",
+  "download_time": "2026-05-20T09:43:42.021798",
   "package_url": "https://pypi.org/project/cassandra-dali-plugin/"
 }

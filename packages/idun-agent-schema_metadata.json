@@ -1,11 +1,11 @@
 {
   "name": "idun-agent-schema",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Centralized Pydantic schema library for Idun Agent Engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "idun_agent_schema-0.6.0.tar.gz",
-  "download_time": "2026-05-17T17:27:16.509742",
+  "download_filename": "idun_agent_schema-0.6.1.tar.gz",
+  "download_time": "2026-05-20T09:43:36.734352",
   "package_url": "https://pypi.org/project/idun-agent-schema/"
 }
