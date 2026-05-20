@@ -1,11 +1,11 @@
 {
   "name": "abs-mcp",
-  "version": "0.11.12",
+  "version": "0.13.3",
   "summary": "MCP server for the Australian Bureau of Statistics Data API. Hides SDMX behind plain-English tools, with curated mappings for Labour Force, CPI, ERP, Building Approvals, and Lending Indicators.",
   "author": "Harry Vass",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "abs_mcp-0.11.12.tar.gz",
-  "download_time": "2026-05-18T01:49:00.595127",
+  "download_filename": "abs_mcp-0.13.3.tar.gz",
+  "download_time": "2026-05-20T22:29:03.627523",
   "package_url": "https://pypi.org/project/abs-mcp/"
 }

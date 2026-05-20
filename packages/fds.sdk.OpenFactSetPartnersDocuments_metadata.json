@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.OpenFactSetPartnersDocuments",
+  "version": "4.0.0",
+  "summary": "Open:FactSet Partners - Documents client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/OpenFactSetPartnersDocuments/v2",
+  "download_filename": "fds_sdk_openfactsetpartnersdocuments-4.0.0.tar.gz",
+  "download_time": "2026-05-20T22:29:39.273559",
+  "package_url": "https://pypi.org/project/fds.sdk.OpenFactSetPartnersDocuments/"
+}

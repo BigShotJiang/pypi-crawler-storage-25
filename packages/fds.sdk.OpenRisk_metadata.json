@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.OpenRisk",
+  "version": "5.0.0",
+  "summary": "Open:Risk client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/OpenRisk/v1",
+  "download_filename": "fds_sdk_openrisk-5.0.0.tar.gz",
+  "download_time": "2026-05-20T22:29:38.756129",
+  "package_url": "https://pypi.org/project/fds.sdk.OpenRisk/"
+}

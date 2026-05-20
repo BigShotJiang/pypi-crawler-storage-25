@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.OFDB",
+  "version": "0.33.0",
+  "summary": "OFDB client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/OFDB/v2",
+  "download_filename": "fds_sdk_ofdb-0.33.0.tar.gz",
+  "download_time": "2026-05-20T22:29:41.836534",
+  "package_url": "https://pypi.org/project/fds.sdk.OFDB/"
+}

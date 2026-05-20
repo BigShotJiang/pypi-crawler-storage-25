@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.OfficeCloudRefresh",
+  "version": "0.3.0",
+  "summary": "Office Cloud Refresh client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/OfficeCloudRefresh/v1",
+  "download_filename": "fds_sdk_officecloudrefresh-0.3.0.tar.gz",
+  "download_time": "2026-05-20T22:29:40.297385",
+  "package_url": "https://pypi.org/project/fds.sdk.OfficeCloudRefresh/"
+}

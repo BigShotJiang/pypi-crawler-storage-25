@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.StreetAccountNews",
+  "version": "2.0.0",
+  "summary": "StreetAccount News client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/StreetAccountNews/v1",
+  "download_filename": "fds_sdk_streetaccountnews-2.0.0.tar.gz",
+  "download_time": "2026-05-20T22:29:24.367974",
+  "package_url": "https://pypi.org/project/fds.sdk.StreetAccountNews/"
+}

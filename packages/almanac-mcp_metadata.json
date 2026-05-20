@@ -1,11 +1,11 @@
 {
   "name": "almanac-mcp",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "MCP server for Almanac — Argentine financial data (BCRA, CNV, INDEC, SEC) for Claude Desktop, Cursor, Copilot",
   "author": "Nicolás Colombo",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "almanac_mcp-0.6.0.tar.gz",
-  "download_time": "2026-05-16T05:03:57.875503",
+  "download_filename": "almanac_mcp-0.7.0.tar.gz",
+  "download_time": "2026-05-20T22:29:13.435281",
   "package_url": "https://pypi.org/project/almanac-mcp/"
 }

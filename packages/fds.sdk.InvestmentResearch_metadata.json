@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.InvestmentResearch",
+  "version": "2.0.0",
+  "summary": "Investment Research client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/InvestmentResearch/v1",
+  "download_filename": "fds_sdk_investmentresearch-2.0.0.tar.gz",
+  "download_time": "2026-05-20T22:29:44.404488",
+  "package_url": "https://pypi.org/project/fds.sdk.InvestmentResearch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyrisco",
+  "version": "0.7.0",
+  "summary": "A python library to communicate with Risco Cloud.",
+  "author": "On Freund",
+  "license": "MIT",
+  "home_page": "https://github.com/OnFreund/PyRisco",
+  "download_filename": "pyrisco-0.7.0.tar.gz",
+  "download_time": "2026-05-20T22:29:19.187964",
+  "package_url": "https://pypi.org/project/pyrisco/"
+}

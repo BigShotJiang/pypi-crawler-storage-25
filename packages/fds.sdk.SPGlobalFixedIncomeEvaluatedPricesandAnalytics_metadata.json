@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.SPGlobalFixedIncomeEvaluatedPricesandAnalytics",
+  "version": "0.2.0",
+  "summary": "S&amp;amp;P Global Fixed Income Evaluated Prices and Analytics client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/SPGlobalFixedIncomeEvaluatedPricesandAnalytics/v1",
+  "download_filename": "fds_sdk_spglobalfixedincomeevaluatedpricesandanalytics-0.2.0.tar.gz",
+  "download_time": "2026-05-20T22:29:30.534476",
+  "package_url": "https://pypi.org/project/fds.sdk.SPGlobalFixedIncomeEvaluatedPricesandAnalytics/"
+}

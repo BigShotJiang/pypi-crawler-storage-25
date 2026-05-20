@@ -1,0 +1,11 @@
+{
+  "name": "figtion",
+  "version": "1.2.1",
+  "summary": "A simple configuration interface with plaintext and encrypted file support.",
+  "author": "Cory Root",
+  "license": "MIT",
+  "home_page": "https://github.com/dactylroot/figtion",
+  "download_filename": "figtion-1.2.1.tar.gz",
+  "download_time": "2026-05-20T22:29:10.353424",
+  "package_url": "https://pypi.org/project/figtion/"
+}

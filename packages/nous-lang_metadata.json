@@ -1,11 +1,11 @@
 {
   "name": "nous-lang",
-  "version": "5.5.0",
+  "version": "5.7.0",
   "summary": "NOUS (Νοῦς) — The Living Language for Agentic AI Systems",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nous_lang-5.5.0.tar.gz",
-  "download_time": "2026-05-17T14:10:41.509900",
+  "download_filename": "nous_lang-5.7.0.tar.gz",
+  "download_time": "2026-05-20T22:29:12.920872",
   "package_url": "https://pypi.org/project/nous-lang/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.OPENOPTIMIZER",
+  "version": "0.1.0",
+  "summary": "OPEN:OPTIMIZER client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/OPENOPTIMIZER/v1",
+  "download_filename": "fds_sdk_openoptimizer-0.1.0.tar.gz",
+  "download_time": "2026-05-20T22:29:40.808624",
+  "package_url": "https://pypi.org/project/fds.sdk.OPENOPTIMIZER/"
+}

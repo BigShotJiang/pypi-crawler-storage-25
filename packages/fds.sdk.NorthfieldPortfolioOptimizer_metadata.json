@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.NorthfieldPortfolioOptimizer",
+  "version": "0.22.0",
+  "summary": "Northfield Portfolio Optimizer client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/NorthfieldPortfolioOptimizer/v3",
+  "download_filename": "fds_sdk_northfieldportfoliooptimizer-0.22.0.tar.gz",
+  "download_time": "2026-05-20T22:29:42.350750",
+  "package_url": "https://pypi.org/project/fds.sdk.NorthfieldPortfolioOptimizer/"
+}

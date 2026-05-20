@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.Vault",
+  "version": "3.0.0",
+  "summary": "Vault client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/Vault/v3",
+  "download_filename": "fds_sdk_vault-3.0.0.tar.gz",
+  "download_time": "2026-05-20T22:29:22.280902",
+  "package_url": "https://pypi.org/project/fds.sdk.Vault/"
+}
