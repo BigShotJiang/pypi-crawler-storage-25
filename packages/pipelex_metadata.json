@@ -1,11 +1,11 @@
 {
   "name": "pipelex",
-  "version": "0.24.0",
+  "version": "0.29.0",
   "summary": "Execute composable AI methods declared in the MTHDS open standard",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pipelex-0.24.0.tar.gz",
-  "download_time": "2026-04-16T19:55:33.114562",
+  "download_filename": "pipelex-0.29.0.tar.gz",
+  "download_time": "2026-05-20T16:10:11.835674",
   "package_url": "https://pypi.org/project/pipelex/"
 }

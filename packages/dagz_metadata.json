@@ -1,11 +1,11 @@
 {
   "name": "dagz",
-  "version": "0.2.33",
+  "version": "0.2.35",
   "summary": "All-in-one optimization suite for pytest. Includes high-resolution test selection, parallelization, coverage and flaky management.",
   "author": null,
   "license": "LicenseRef-DAGZ-EULA",
   "home_page": null,
-  "download_filename": "dagz-0.2.33-cp310-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
-  "download_time": "2026-05-17T23:45:48.589646",
+  "download_filename": "dagz-0.2.35-cp310-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2026-05-20T16:10:01.932988",
   "package_url": "https://pypi.org/project/dagz/"
 }

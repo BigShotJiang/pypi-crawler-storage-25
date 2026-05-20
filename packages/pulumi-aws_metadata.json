@@ -1,11 +1,11 @@
 {
   "name": "pulumi-aws",
-  "version": "7.29.0",
+  "version": "7.30.0",
   "summary": "A Pulumi package for creating and managing Amazon Web Services (AWS) cloud resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_aws-7.29.0.tar.gz",
-  "download_time": "2026-05-09T15:08:40.055753",
+  "download_filename": "pulumi_aws-7.30.0.tar.gz",
+  "download_time": "2026-05-20T16:09:35.849655",
   "package_url": "https://pypi.org/project/pulumi-aws/"
 }

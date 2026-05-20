@@ -1,0 +1,11 @@
+{
+  "name": "BornAgain",
+  "version": "24.0",
+  "summary": "Open-source research software to simulate and fit neutron and x-ray reflectometry and grazing-incidence small-angle scattering.",
+  "author": "Scientific Computing Group, Forschungszentrum Jülich, MLZ, Garching",
+  "license": "GNU General Public License",
+  "home_page": "https://www.bornagainproject.org",
+  "download_filename": "bornagain-24.0-cp310-cp310-manylinux_2_35_x86_64.whl",
+  "download_time": "2026-05-20T16:09:36.924914",
+  "package_url": "https://pypi.org/project/BornAgain/"
+}

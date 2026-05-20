@@ -1,0 +1,11 @@
+{
+  "name": "notifications-python-client",
+  "version": "12.0.0",
+  "summary": "Python API client for GOV.UK Notify.",
+  "author": "Government Digital Service",
+  "license": "MIT",
+  "home_page": "https://github.com/alphagov/notifications-python-client",
+  "download_filename": "notifications_python_client-12.0.0-py3-none-any.whl",
+  "download_time": "2026-05-20T16:09:51.984135",
+  "package_url": "https://pypi.org/project/notifications-python-client/"
+}

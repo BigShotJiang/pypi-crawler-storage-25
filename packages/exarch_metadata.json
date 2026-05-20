@@ -1,0 +1,11 @@
+{
+  "name": "exarch",
+  "version": "0.4.0",
+  "summary": "Memory-safe archive extraction library with built-in security validation",
+  "author": "Exarch Contributors",
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/bug-ops/exarch",
+  "download_filename": "exarch-0.4.0-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-20T16:09:52.505009",
+  "package_url": "https://pypi.org/project/exarch/"
+}

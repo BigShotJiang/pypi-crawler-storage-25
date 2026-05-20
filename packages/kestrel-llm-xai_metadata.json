@@ -1,0 +1,11 @@
+{
+  "name": "kestrel-llm-xai",
+  "version": "0.1.1",
+  "summary": "xAI Grok LLM provider plugin for Kestrel Sovereign.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kestrel_llm_xai-0.1.1.tar.gz",
+  "download_time": "2026-05-20T16:10:11.319427",
+  "package_url": "https://pypi.org/project/kestrel-llm-xai/"
+}
