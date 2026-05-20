@@ -1,0 +1,11 @@
+{
+  "name": "casl",
+  "version": "1.1",
+  "summary": "a simple implementation of CASL assembler/COMET simulator in Python",
+  "author": "Hiroyuki Ohsaki",
+  "license": null,
+  "home_page": "https://github.com/h-ohsaki/casl",
+  "download_filename": "casl-1.1.tar.gz",
+  "download_time": "2026-05-20T06:05:19.298733",
+  "package_url": "https://pypi.org/project/casl/"
+}

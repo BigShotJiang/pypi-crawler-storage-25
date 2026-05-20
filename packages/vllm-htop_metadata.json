@@ -1,11 +1,11 @@
 {
   "name": "vllm-htop",
-  "version": "0.3.0",
+  "version": "0.3.3",
   "summary": "htop-style terminal monitor for vLLM inference servers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vllm_htop-0.3.0.tar.gz",
-  "download_time": "2026-05-19T11:50:57.911084",
+  "download_filename": "vllm_htop-0.3.3.tar.gz",
+  "download_time": "2026-05-20T06:05:48.973976",
   "package_url": "https://pypi.org/project/vllm-htop/"
 }

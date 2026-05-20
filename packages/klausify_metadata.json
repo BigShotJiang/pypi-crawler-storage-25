@@ -1,0 +1,11 @@
+{
+  "name": "klausify",
+  "version": "0.2.1",
+  "summary": "Claude Code boilerplate generator — scaffolds CLAUDE.md, repo-namespaced skills, settings, hooks, and CI workflows",
+  "author": "Stephanie Dover",
+  "license": null,
+  "home_page": null,
+  "download_filename": "klausify-0.2.1.tar.gz",
+  "download_time": "2026-05-20T06:05:09.305950",
+  "package_url": "https://pypi.org/project/klausify/"
+}

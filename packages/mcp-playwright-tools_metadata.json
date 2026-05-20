@@ -1,0 +1,11 @@
+{
+  "name": "mcp-playwright-tools",
+  "version": "2.0.2",
+  "summary": "Playwright browser automation tools for MCP — full-featured: navigation, interaction, tabs, frames, storage, network, recording",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_playwright_tools-2.0.2.tar.gz",
+  "download_time": "2026-05-20T06:05:52.815646",
+  "package_url": "https://pypi.org/project/mcp-playwright-tools/"
+}

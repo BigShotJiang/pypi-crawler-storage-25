@@ -1,11 +1,11 @@
 {
   "name": "sentimentscopeai",
-  "version": "2.1.0",
+  "version": "2.1.2",
   "summary": "Transformer-based review sentiment analysis and actionable insight generation.",
   "author": "Vignesh Thondikulam",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sentimentscopeai-2.1.0.tar.gz",
-  "download_time": "2026-05-09T21:06:56.228145",
+  "download_filename": "sentimentscopeai-2.1.2.tar.gz",
+  "download_time": "2026-05-20T06:05:13.219760",
   "package_url": "https://pypi.org/project/sentimentscopeai/"
 }

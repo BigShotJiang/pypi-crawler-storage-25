@@ -1,11 +1,11 @@
 {
   "name": "prescribe",
-  "version": "0.1.1",
-  "summary": null,
+  "version": "0.5.0",
+  "summary": "Declarative dotfile, shell, and environment configuration management.",
   "author": "Travis Bender",
   "license": null,
   "home_page": null,
-  "download_filename": "prescribe-0.1.1.tar.gz",
-  "download_time": "2026-04-27T00:04:56.342917",
+  "download_filename": "prescribe-0.5.0.tar.gz",
+  "download_time": "2026-05-20T06:05:00.989090",
   "package_url": "https://pypi.org/project/prescribe/"
 }

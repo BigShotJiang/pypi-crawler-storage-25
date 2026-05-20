@@ -1,0 +1,11 @@
+{
+  "name": "spanlens",
+  "version": "0.4.0",
+  "summary": "Spanlens SDK — agent tracing, LLM usage capture, and cost observability for Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spanlens-0.4.0.tar.gz",
+  "download_time": "2026-05-20T06:05:49.516663",
+  "package_url": "https://pypi.org/project/spanlens/"
+}

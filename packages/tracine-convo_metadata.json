@@ -1,11 +1,11 @@
 {
   "name": "tracine-convo",
-  "version": "0.0.1",
-  "summary": "Behavioral analytics CLI for AI coding sessions — indexes conversation logs, queries tool calls, mines anti-patterns.",
+  "version": "2.0.0",
+  "summary": "Global conversation index and query tool for Claude Code. SQLite-backed full-text search, tool-call analytics, session inspection.",
   "author": "Anthony Ledesma",
   "license": null,
   "home_page": null,
-  "download_filename": "tracine_convo-0.0.1.tar.gz",
-  "download_time": "2026-04-19T00:11:55.476446",
+  "download_filename": "tracine_convo-2.0.0.tar.gz",
+  "download_time": "2026-05-20T06:05:43.506062",
   "package_url": "https://pypi.org/project/tracine-convo/"
 }

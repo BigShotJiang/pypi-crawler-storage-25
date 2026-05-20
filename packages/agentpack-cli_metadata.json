@@ -1,11 +1,11 @@
 {
   "name": "agentpack-cli",
-  "version": "0.3.0",
-  "summary": "Task-aware context packing for AI coding agents — Claude, Cursor, Windsurf, Codex, and Antigravity",
+  "version": "0.3.4",
+  "summary": "Local context engine for AI coding agents that ranks relevant files and builds task-focused context packs.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentpack_cli-0.3.0.tar.gz",
-  "download_time": "2026-05-17T05:47:02.045694",
+  "download_filename": "agentpack_cli-0.3.4.tar.gz",
+  "download_time": "2026-05-20T06:05:22.954732",
   "package_url": "https://pypi.org/project/agentpack-cli/"
 }

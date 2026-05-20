@@ -1,0 +1,11 @@
+{
+  "name": "NWcortex",
+  "version": "1.0.3",
+  "summary": "NeuroWeave Cortex (NWC) — Graph-first cognitive memory runtime for AI agents. Hippocampal-inspired architecture with domain routing, spreading activation, edge budget management, 4-layer compression, thermal storage, personality modeling, and 8-phase sleep consolidation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nwcortex-1.0.3.tar.gz",
+  "download_time": "2026-05-20T06:05:50.060567",
+  "package_url": "https://pypi.org/project/NWcortex/"
+}

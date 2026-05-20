@@ -1,0 +1,11 @@
+{
+  "name": "pydal",
+  "version": "20260519.1",
+  "summary": "pyDAL is a Database Abstraction Layer. It generates queries for SQlite, PotsgreSQL, MySQL, and other backends. It was originally part of the web2py frameworks but it is now an independent project. Example: db.define_table(\"thing\",Field(\"name\")) and db.thing.insert(name=\"Pizza\")",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydal-20260519.1.tar.gz",
+  "download_time": "2026-05-20T06:05:29.696054",
+  "package_url": "https://pypi.org/project/pydal/"
+}
