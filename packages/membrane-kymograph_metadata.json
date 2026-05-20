@@ -1,0 +1,11 @@
+{
+  "name": "membrane-kymograph",
+  "version": "0.0.5",
+  "summary": "A GUI-based cross-platform tool for generating membrane kymographs from live-cell time-lapse microscopy images",
+  "author": "Tatsat Banerjee",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/tatsatb/membrane-kymograph-generator",
+  "download_filename": "membrane_kymograph-0.0.5.tar.gz",
+  "download_time": "2026-05-20T20:49:24.555839",
+  "package_url": "https://pypi.org/project/membrane-kymograph/"
+}

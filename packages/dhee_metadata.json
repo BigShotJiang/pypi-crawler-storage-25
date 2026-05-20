@@ -1,11 +1,11 @@
 {
   "name": "dhee",
-  "version": "6.0.0",
-  "summary": "Shared information layer for screen-aware AI agents — real-time collaboration, workspace/project memory, and context routing",
+  "version": "7.0.2",
+  "summary": "Dhee Developer Brain — local memory, repo cognition, handoff, and proof for AI coding agents",
   "author": "Sankhya AI Labs",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "dhee-6.0.0.tar.gz",
-  "download_time": "2026-04-24T06:15:00.898078",
+  "download_filename": "dhee-7.0.2.tar.gz",
+  "download_time": "2026-05-20T20:49:12.467501",
   "package_url": "https://pypi.org/project/dhee/"
 }

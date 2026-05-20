@@ -1,0 +1,11 @@
+{
+  "name": "snpio",
+  "version": "1.6.16",
+  "summary": "SNPio is a Python API for population genetic file processing, filtering, and analysis. It is designed to be a user-friendly tool for the manipulation of population genetic data in a variety of formats. SNPio can be used to filter data based on missingness, MAF and MAC, singletons, biallelic, and monomorphic sites. It can also generate summary statistics for population genetic analyses.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "snpio-1.6.16.tar.gz",
+  "download_time": "2026-05-20T20:49:35.498586",
+  "package_url": "https://pypi.org/project/snpio/"
+}

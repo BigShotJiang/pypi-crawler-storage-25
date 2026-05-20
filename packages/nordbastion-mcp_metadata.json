@@ -1,0 +1,11 @@
+{
+  "name": "nordbastion-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for NordBastion — provision KYC-free, crypto-paid Nordic VPS & dedicated servers from any AI agent (Claude, Cursor, …).",
+  "author": "NordBastion",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nordbastion_mcp-0.1.0.tar.gz",
+  "download_time": "2026-05-20T20:49:37.611208",
+  "package_url": "https://pypi.org/project/nordbastion-mcp/"
+}

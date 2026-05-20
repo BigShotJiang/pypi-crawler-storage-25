@@ -1,0 +1,11 @@
+{
+  "name": "clipnet",
+  "version": "0.2.1",
+  "summary": "CLIPNET is an ensembled convolutional neural network for predicting transcription initiation from DNA sequence at single nucleotide resolution.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clipnet-0.2.1.tar.gz",
+  "download_time": "2026-05-20T20:49:12.985807",
+  "package_url": "https://pypi.org/project/clipnet/"
+}

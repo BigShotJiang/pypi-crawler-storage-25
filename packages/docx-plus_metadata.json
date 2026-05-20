@@ -1,0 +1,11 @@
+{
+  "name": "docx-plus",
+  "version": "0.2.0",
+  "summary": "OOXML-level extensions for python-docx: style cascade, controls, fields, comments, layout, bookmarks, notes, publishing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docx_plus-0.2.0.tar.gz",
+  "download_time": "2026-05-20T20:49:02.595605",
+  "package_url": "https://pypi.org/project/docx-plus/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "wexample-wex-addon-services-db",
-  "version": "7.1.5",
+  "version": "10.0.0",
   "summary": "Database services (mysql, postgres...) for wex",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wexample_wex_addon_services_db-7.1.5.tar.gz",
-  "download_time": "2026-04-20T23:10:22.276339",
+  "download_filename": "wexample_wex_addon_services_db-10.0.0.tar.gz",
+  "download_time": "2026-05-20T20:49:33.402474",
   "package_url": "https://pypi.org/project/wexample-wex-addon-services-db/"
 }
