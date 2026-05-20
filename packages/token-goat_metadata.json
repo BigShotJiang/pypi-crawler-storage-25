@@ -1,11 +1,11 @@
 {
   "name": "token-goat",
-  "version": "0.5.1",
-  "summary": "Hook-based token optimizer for Claude Code and Codex CLI on Windows, macOS, Linux, and WSL. Image shrink, re-read dedup, and compaction assist run automatically; CLI commands (symbol, read, section, semantic, map) replace full-file reads with surgical slices.",
+  "version": "0.6.1",
+  "summary": "Token optimizer for Claude Code, Codex CLI, opencode, and openclaw on Windows, macOS, Linux, and WSL. Image shrink, re-read dedup, and compaction assist run automatically; CLI commands (symbol, read, section, semantic, map) replace full-file reads with surgical slices.",
   "author": "DFK Helper LLC",
   "license": "PolyForm Noncommercial License 1.0.0",
   "home_page": null,
-  "download_filename": "token_goat-0.5.1.tar.gz",
-  "download_time": "2026-05-17T22:41:07.780344",
+  "download_filename": "token_goat-0.6.1.tar.gz",
+  "download_time": "2026-05-20T01:58:24.898759",
   "package_url": "https://pypi.org/project/token-goat/"
 }

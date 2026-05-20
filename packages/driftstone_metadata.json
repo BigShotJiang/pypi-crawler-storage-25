@@ -1,11 +1,11 @@
 {
   "name": "driftstone",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Python SDK for the Driftstone API.",
   "author": "Driftstone",
   "license": null,
   "home_page": null,
-  "download_filename": "driftstone-1.0.5.tar.gz",
-  "download_time": "2026-05-19T23:53:05.687670",
+  "download_filename": "driftstone-1.0.6.tar.gz",
+  "download_time": "2026-05-20T01:58:47.153985",
   "package_url": "https://pypi.org/project/driftstone/"
 }

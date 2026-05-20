@@ -1,11 +1,11 @@
 {
   "name": "transparent-tor-proxy",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Transparent Tor Proxy — route all system traffic through Tor",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "transparent_tor_proxy-0.2.0.tar.gz",
-  "download_time": "2026-05-05T19:04:32.758747",
+  "download_filename": "transparent_tor_proxy-0.3.0.tar.gz",
+  "download_time": "2026-05-20T01:58:49.246243",
   "package_url": "https://pypi.org/project/transparent-tor-proxy/"
 }

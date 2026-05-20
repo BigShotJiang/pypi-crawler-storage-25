@@ -1,0 +1,11 @@
+{
+  "name": "dqrobotics-interface-coppeliasim-vrep",
+  "version": "0.25.6.9",
+  "summary": "dqrobotics Python interface for deprecated CoppeliaSim VREP",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "dqrobotics_interface_coppeliasim_vrep-0.25.6.9-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2026-05-20T01:58:43.500395",
+  "package_url": "https://pypi.org/project/dqrobotics-interface-coppeliasim-vrep/"
+}

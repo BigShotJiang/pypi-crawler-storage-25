@@ -1,0 +1,11 @@
+{
+  "name": "flylight",
+  "version": "0.12.5",
+  "summary": "Agent-friendly local index for Janelia FlyLight Split-GAL4 and GAL4/LexA resources",
+  "author": "Gustavo Madeira Santana",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flylight-0.12.5.tar.gz",
+  "download_time": "2026-05-20T01:58:46.617080",
+  "package_url": "https://pypi.org/project/flylight/"
+}

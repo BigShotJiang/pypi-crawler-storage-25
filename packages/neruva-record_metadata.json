@@ -1,0 +1,11 @@
+{
+  "name": "neruva-record",
+  "version": "0.7.0",
+  "summary": "Auto-record AI agent activity into Neruva. Three install paths: Claude Code hook (`neruva-record-install`), claude-agent-sdk wrapper, Anthropic SDK wrapper. 14-pattern client-side secrets redaction. Substrate v0.5.7: tenant-specific PII rules trained from 3-5 examples, typed-shape context, depth-unlimited nested-belief, deterministic bit-identical replay. Recalled-context prompt-injection guard. Cross-session, portable.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neruva_record-0.7.0.tar.gz",
+  "download_time": "2026-05-20T01:58:21.644209",
+  "package_url": "https://pypi.org/project/neruva-record/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "neruva-langchain",
+  "version": "0.1.2",
+  "summary": "Drop-in LangChain integration for Neruva. NeruvaChatMessageHistory (BaseChatMessageHistory) auto-pipes turns into the substrate. NeruvaContextRetriever (BaseRetriever) federates Records + KG. Substrate v0.5.7: typed-shape context, tenant PII rules, depth-unlimited nested-belief, counterfactuals, EFE planner, continual learning. Deterministic, bit-identical replay. Sub-100ms p95. Works with RunnableWithMessageHistory + RetrievalQA.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neruva_langchain-0.1.2.tar.gz",
+  "download_time": "2026-05-20T01:58:23.930228",
+  "package_url": "https://pypi.org/project/neruva-langchain/"
+}

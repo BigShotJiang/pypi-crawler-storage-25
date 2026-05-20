@@ -1,0 +1,11 @@
+{
+  "name": "startup-valuation",
+  "version": "1.0.0",
+  "summary": "Comprehensive startup valuation library implementing 80+ formulas from the Startup Valuation textbook. Includes Python library, MCP server, and AI-Agent Skills.",
+  "author": "Simon Mak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "startup_valuation-1.0.0.tar.gz",
+  "download_time": "2026-05-20T01:58:42.447408",
+  "package_url": "https://pypi.org/project/startup-valuation/"
+}

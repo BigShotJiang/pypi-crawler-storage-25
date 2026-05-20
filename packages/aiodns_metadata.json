@@ -1,0 +1,11 @@
+{
+  "name": "aiodns",
+  "version": "4.0.4",
+  "summary": "Simple DNS resolver for asyncio",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiodns-4.0.4.tar.gz",
+  "download_time": "2026-05-20T01:58:17.151030",
+  "package_url": "https://pypi.org/project/aiodns/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mind-mem",
-  "version": "4.0.9",
+  "version": "4.0.13",
   "summary": "Drop-in memory for Claude Code, OpenClaw, and any MCP-compatible agent.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mind_mem-4.0.9.tar.gz",
-  "download_time": "2026-05-15T05:53:29.272228",
+  "download_filename": "mind_mem-4.0.13.tar.gz",
+  "download_time": "2026-05-20T01:58:19.309785",
   "package_url": "https://pypi.org/project/mind-mem/"
 }
