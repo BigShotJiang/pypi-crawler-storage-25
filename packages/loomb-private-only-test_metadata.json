@@ -1,11 +1,11 @@
 {
   "name": "loomb-private-only-test",
-  "version": "0.2.0rc1",
+  "version": "0.2.0rc2",
   "summary": "Python SDK sample backed by a Rust core through PyO3.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "loomb_private_only_test-0.2.0rc1.tar.gz",
-  "download_time": "2026-05-19T23:53:32.981093",
+  "download_filename": "loomb_private_only_test-0.2.0rc2.tar.gz",
+  "download_time": "2026-05-20T18:31:41.246953",
   "package_url": "https://pypi.org/project/loomb-private-only-test/"
 }

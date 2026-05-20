@@ -1,0 +1,11 @@
+{
+  "name": "mimic-sim",
+  "version": "0.1.0",
+  "summary": "Monte Carlo simulation engine for the Mimic ecosystem — 10,000 runs, LLM-agent decisions, economically-coherent distributions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mimic_sim-0.1.0.tar.gz",
+  "download_time": "2026-05-20T18:31:36.588341",
+  "package_url": "https://pypi.org/project/mimic-sim/"
+}

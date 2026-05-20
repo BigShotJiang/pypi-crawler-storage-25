@@ -1,11 +1,11 @@
 {
   "name": "typed-hyperliquid",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A fully typed, validated async client for the Hyperliquid API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "typed_hyperliquid-1.1.0.tar.gz",
-  "download_time": "2026-05-10T18:03:13.549571",
+  "download_filename": "typed_hyperliquid-1.1.1.tar.gz",
+  "download_time": "2026-05-20T18:31:21.540011",
   "package_url": "https://pypi.org/project/typed-hyperliquid/"
 }

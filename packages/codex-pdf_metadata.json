@@ -1,11 +1,11 @@
 {
   "name": "codex-pdf",
-  "version": "1.17.0",
+  "version": "1.19.0",
   "summary": "Authoritative, versioned PDF facts contract for Think Neverland tools.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codex_pdf-1.17.0.tar.gz",
-  "download_time": "2026-05-19T22:34:49.813569",
+  "download_filename": "codex_pdf-1.19.0.tar.gz",
+  "download_time": "2026-05-20T18:31:23.596962",
   "package_url": "https://pypi.org/project/codex-pdf/"
 }

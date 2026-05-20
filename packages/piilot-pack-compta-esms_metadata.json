@@ -1,11 +1,11 @@
 {
   "name": "piilot-pack-compta-esms",
-  "version": "0.1.2",
-  "summary": "Piilot plugin — verticale compta ESMS (cabinets-EC gérant des dossiers Établissements Sociaux et Médico-Sociaux).",
+  "version": "0.3.1",
+  "summary": "Piilot plugin — verticale comptabilité ESMS (cabinets-EC : production EPRD/ERRD/DM/RIA/ERCP/EPCP, M22 bis, ventilation H/D/S, contrôles annexes DGCS).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "piilot_pack_compta_esms-0.1.2.tar.gz",
-  "download_time": "2026-05-07T11:04:26.181265",
+  "download_filename": "piilot_pack_compta_esms-0.3.1.tar.gz",
+  "download_time": "2026-05-20T18:31:37.106494",
   "package_url": "https://pypi.org/project/piilot-pack-compta-esms/"
 }

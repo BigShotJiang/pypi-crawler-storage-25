@@ -1,0 +1,11 @@
+{
+  "name": "pyvista-cad",
+  "version": "0.0.3",
+  "summary": "PyVista accessor and reader-registry plugin for CAD formats (STEP, IGES, BREP, DXF, 3MF, IFC, FCStd) and bridges to build123d, cadquery, and OCP.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyvista_cad-0.0.3.tar.gz",
+  "download_time": "2026-05-20T18:31:08.559188",
+  "package_url": "https://pypi.org/project/pyvista-cad/"
+}

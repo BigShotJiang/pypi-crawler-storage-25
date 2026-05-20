@@ -1,11 +1,11 @@
 {
   "name": "laser.measles",
-  "version": "0.13.1",
+  "version": "0.13.2",
   "summary": "Spatial models of measles implemented with the LASER toolkit.",
   "author": "Christopher Lorton, Jonathan Bloedow, Katherine Rosenfeld, Kevin McCarthy",
   "license": null,
   "home_page": null,
-  "download_filename": "laser_measles-0.13.1.tar.gz",
-  "download_time": "2026-05-17T17:27:01.277015",
+  "download_filename": "laser_measles-0.13.2.tar.gz",
+  "download_time": "2026-05-20T18:31:15.337942",
   "package_url": "https://pypi.org/project/laser.measles/"
 }

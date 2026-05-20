@@ -1,11 +1,11 @@
 {
   "name": "cozempic",
-  "version": "1.6.18",
+  "version": "1.8.16",
   "summary": "2x the effective context with smart weight-loss for Claude Code — prune bloated sessions, protect agent teams from compaction, monitor token usage with MCP tools",
   "author": "Ruya AI, Junaid Qureshi",
   "license": null,
   "home_page": null,
-  "download_filename": "cozempic-1.6.18.tar.gz",
-  "download_time": "2026-04-09T09:10:18.671172",
+  "download_filename": "cozempic-1.8.16.tar.gz",
+  "download_time": "2026-05-20T18:31:50.043617",
   "package_url": "https://pypi.org/project/cozempic/"
 }

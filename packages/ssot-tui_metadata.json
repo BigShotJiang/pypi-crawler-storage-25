@@ -1,11 +1,11 @@
 {
   "name": "ssot-tui",
-  "version": "0.1.9",
+  "version": "0.1.12",
   "summary": "Terminal UI package for ssot-registry workflows.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ssot_tui-0.1.9.tar.gz",
-  "download_time": "2026-05-05T22:25:23.965670",
+  "download_filename": "ssot_tui-0.1.12.tar.gz",
+  "download_time": "2026-05-20T18:31:22.053105",
   "package_url": "https://pypi.org/project/ssot-tui/"
 }

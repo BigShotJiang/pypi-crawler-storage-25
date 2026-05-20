@@ -1,11 +1,11 @@
 {
   "name": "wexample-helpers",
-  "version": "1.1.15",
+  "version": "11.0.0",
   "summary": "Some python basic helpers and constants.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wexample_helpers-1.1.15.tar.gz",
-  "download_time": "2026-04-16T16:03:05.725617",
+  "download_filename": "wexample_helpers-11.0.0.tar.gz",
+  "download_time": "2026-05-20T18:31:29.281429",
   "package_url": "https://pypi.org/project/wexample-helpers/"
 }
