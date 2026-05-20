@@ -1,11 +1,11 @@
 {
   "name": "ragflow-cli",
-  "version": "0.25.2",
+  "version": "0.25.5",
   "summary": "Admin Service's client of [RAGFlow](https://github.com/infiniflow/ragflow). The Admin Service provides user management and system monitoring. ",
   "author": null,
   "license": "Apache License, Version 2.0",
   "home_page": null,
-  "download_filename": "ragflow_cli-0.25.2.tar.gz",
-  "download_time": "2026-05-09T11:35:35.442218",
+  "download_filename": "ragflow_cli-0.25.5.tar.gz",
+  "download_time": "2026-05-20T12:22:02.607829",
   "package_url": "https://pypi.org/project/ragflow-cli/"
 }

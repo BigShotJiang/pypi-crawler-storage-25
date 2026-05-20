@@ -1,0 +1,11 @@
+{
+  "name": "xcube-resampling",
+  "version": "0.3.4",
+  "summary": "A package to resample, reproject, and rectify geospatial datasets.",
+  "author": "xcube Development Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xcube_resampling-0.3.4.tar.gz",
+  "download_time": "2026-05-20T12:22:24.585737",
+  "package_url": "https://pypi.org/project/xcube-resampling/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "codebase-neo4j-sync",
+  "version": "0.1.1",
+  "summary": "AST extraction -> Neo4j graph + embeddings (depends on codebase-ast-core)",
+  "author": "Codebase Indexers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codebase_neo4j_sync-0.1.1.tar.gz",
+  "download_time": "2026-05-20T12:22:15.304075",
+  "package_url": "https://pypi.org/project/codebase-neo4j-sync/"
+}

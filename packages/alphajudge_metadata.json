@@ -1,0 +1,11 @@
+{
+  "name": "alphajudge",
+  "version": "1.0.2",
+  "summary": "Evaluate AlphaFold-predicted protein complexes using confidence metrics and interface biophysics.",
+  "author": "Dima Molodenskiy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alphajudge-1.0.2.tar.gz",
+  "download_time": "2026-05-20T12:22:26.196366",
+  "package_url": "https://pypi.org/project/alphajudge/"
+}

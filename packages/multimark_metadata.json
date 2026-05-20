@@ -1,0 +1,11 @@
+{
+  "name": "multimark",
+  "version": "0.1.3",
+  "summary": "Python bindings to cmark — CommonMark parsing and rendering (HTML, LaTeX, man, XML)",
+  "author": "Rich Iannone",
+  "license": "MIT AND BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "multimark-0.1.3.tar.gz",
+  "download_time": "2026-05-20T12:22:39.923173",
+  "package_url": "https://pypi.org/project/multimark/"
+}

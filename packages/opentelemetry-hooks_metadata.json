@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-hooks",
+  "version": "0.13.4",
+  "summary": "OpenTelemetry integration for AI coding agents (Codex, Cursor IDE/CLI, GitHub Copilot, Claude Code, Gemini CLI, Antigravity, OpenCode-compatible runners)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opentelemetry_hooks-0.13.4.tar.gz",
+  "download_time": "2026-05-20T12:22:39.377373",
+  "package_url": "https://pypi.org/project/opentelemetry-hooks/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pg-export",
+  "version": "3.13.1",
+  "summary": "pg to git converter",
+  "author": "Andrey Chernyakov",
+  "license": "BSD",
+  "home_page": "https://github.com/comagic/pg_export",
+  "download_filename": "pg_export-3.13.1.tar.gz",
+  "download_time": "2026-05-20T12:22:14.211997",
+  "package_url": "https://pypi.org/project/pg-export/"
+}

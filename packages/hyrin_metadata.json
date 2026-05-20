@@ -1,11 +1,11 @@
 {
   "name": "hyrin",
-  "version": "0.4.0",
+  "version": "0.4.3",
   "summary": "Candidate CLI for Hyrin interview sessions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyrin-0.4.0.tar.gz",
-  "download_time": "2026-05-09T11:35:25.891650",
+  "download_filename": "hyrin-0.4.3.tar.gz",
+  "download_time": "2026-05-20T12:22:00.427250",
   "package_url": "https://pypi.org/project/hyrin/"
 }

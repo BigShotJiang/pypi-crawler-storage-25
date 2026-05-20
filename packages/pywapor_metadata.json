@@ -1,0 +1,11 @@
+{
+  "name": "pywapor",
+  "version": "3.7.1",
+  "summary": "Python implementation of the WaPOR algorithm for evaporation, transpiration and biomass production maps.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pywapor-3.7.1.tar.gz",
+  "download_time": "2026-05-20T12:22:32.790842",
+  "package_url": "https://pypi.org/project/pywapor/"
+}

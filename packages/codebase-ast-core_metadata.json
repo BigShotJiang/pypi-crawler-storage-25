@@ -1,0 +1,11 @@
+{
+  "name": "codebase-ast-core",
+  "version": "0.1.1",
+  "summary": "AST extraction, multi-language loaders, and Neo4j graph indexing core",
+  "author": "Codebase Indexers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codebase_ast_core-0.1.1.tar.gz",
+  "download_time": "2026-05-20T12:22:23.514598",
+  "package_url": "https://pypi.org/project/codebase-ast-core/"
+}

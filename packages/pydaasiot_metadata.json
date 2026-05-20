@@ -1,11 +1,11 @@
 {
   "name": "pydaasiot",
-  "version": "0.2.24",
-  "summary": "Python bindings for LibDaaS (DaaS-IoT SDK) for Windows.",
+  "version": "0.2.27",
+  "summary": "Python bindings for LibDaaS (DaaS-IoT SDK) built with CMake and pybind11.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "pydaasiot-0.2.24.tar.gz",
-  "download_time": "2026-05-19T08:30:58.491068",
+  "download_filename": "pydaasiot-0.2.27-cp312-cp312-linux_armv7l.whl",
+  "download_time": "2026-05-20T12:21:56.622402",
   "package_url": "https://pypi.org/project/pydaasiot/"
 }
