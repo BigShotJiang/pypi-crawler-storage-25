@@ -1,11 +1,11 @@
 {
   "name": "koru",
-  "version": "0.1.150",
+  "version": "0.1.177",
   "summary": "Closed-loop automation across semcod/* repositories.",
   "author": "Semcod",
   "license": null,
   "home_page": null,
-  "download_filename": "koru-0.1.150.tar.gz",
-  "download_time": "2026-05-19T19:38:56.921140",
+  "download_filename": "koru-0.1.177.tar.gz",
+  "download_time": "2026-05-21T14:59:02.142007",
   "package_url": "https://pypi.org/project/koru/"
 }

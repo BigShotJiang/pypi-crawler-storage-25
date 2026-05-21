@@ -1,11 +1,11 @@
 {
   "name": "tiny-turboquant",
-  "version": "0.12.0.2",
+  "version": "0.13.3",
   "summary": "Pip-installable compressed KV serving backend and diagnostics for PyTorch",
   "author": "Pradeep Boopathy",
   "license": null,
   "home_page": null,
-  "download_filename": "tiny_turboquant-0.12.0.2.tar.gz",
-  "download_time": "2026-05-17T21:43:14.806371",
+  "download_filename": "tiny_turboquant-0.13.3.tar.gz",
+  "download_time": "2026-05-21T14:59:21.231513",
   "package_url": "https://pypi.org/project/tiny-turboquant/"
 }

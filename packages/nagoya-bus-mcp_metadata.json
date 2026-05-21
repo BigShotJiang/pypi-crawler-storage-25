@@ -1,0 +1,11 @@
+{
+  "name": "nagoya-bus-mcp",
+  "version": "0.8.0",
+  "summary": "Model Context Protocol (MCP) server providing tools to query Nagoya City bus timetables",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nagoya_bus_mcp-0.8.0.tar.gz",
+  "download_time": "2026-05-21T14:59:24.361446",
+  "package_url": "https://pypi.org/project/nagoya-bus-mcp/"
+}

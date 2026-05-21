@@ -1,0 +1,11 @@
+{
+  "name": "sustax-client",
+  "version": "0.1.4",
+  "summary": "Python client and CSV parser for the Sustax User API (SUA)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sustax_client-0.1.4.tar.gz",
+  "download_time": "2026-05-21T14:59:18.909147",
+  "package_url": "https://pypi.org/project/sustax-client/"
+}

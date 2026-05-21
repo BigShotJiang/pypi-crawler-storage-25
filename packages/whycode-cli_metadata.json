@@ -1,11 +1,11 @@
 {
   "name": "whycode-cli",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Tells you what to be afraid of before you touch a file.",
   "author": "Kevin",
   "license": null,
   "home_page": null,
-  "download_filename": "whycode_cli-0.7.0.tar.gz",
-  "download_time": "2026-05-08T06:32:45.818097",
+  "download_filename": "whycode_cli-0.8.0.tar.gz",
+  "download_time": "2026-05-21T14:59:21.743305",
   "package_url": "https://pypi.org/project/whycode-cli/"
 }

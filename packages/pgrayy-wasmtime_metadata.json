@@ -1,0 +1,11 @@
+{
+  "name": "pgrayy-wasmtime",
+  "version": "44.0.2",
+  "summary": "A WebAssembly runtime powered by Wasmtime",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgrayy_wasmtime-44.0.2-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-21T14:59:10.530679",
+  "package_url": "https://pypi.org/project/pgrayy-wasmtime/"
+}

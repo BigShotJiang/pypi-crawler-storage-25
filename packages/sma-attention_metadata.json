@@ -1,0 +1,11 @@
+{
+  "name": "sma-attention",
+  "version": "0.1.1",
+  "summary": "Symmetric Mamba Attention: Dual-path attention with Mamba-enhanced Q/K generation and sigma-modulated attention weighting",
+  "author": "Wenqi Liao",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sma_attention-0.1.1.tar.gz",
+  "download_time": "2026-05-21T14:59:23.851030",
+  "package_url": "https://pypi.org/project/sma-attention/"
+}
