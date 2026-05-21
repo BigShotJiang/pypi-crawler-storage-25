@@ -1,11 +1,11 @@
 {
   "name": "stateforward.hsm",
-  "version": "0.5.17",
+  "version": "0.5.22",
   "summary": "Hierarchical State Machine implementation for Python with asyncio support",
   "author": "Stateforward Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stateforward_hsm-0.5.17.tar.gz",
-  "download_time": "2026-05-21T22:55:43.856005",
+  "download_filename": "stateforward_hsm-0.5.22.tar.gz",
+  "download_time": "2026-05-21T23:55:36.993398",
   "package_url": "https://pypi.org/project/stateforward.hsm/"
 }

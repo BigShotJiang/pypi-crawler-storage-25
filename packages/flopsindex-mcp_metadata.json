@@ -1,0 +1,11 @@
+{
+  "name": "flopsindex-mcp",
+  "version": "0.6.0",
+  "summary": "MCP server for the FLOPS Compute Intelligence Platform — gives Claude / Cursor / Windsurf agents direct access to GPU compute price indices, methodology, and per-index verification.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "flopsindex_mcp-0.6.0.tar.gz",
+  "download_time": "2026-05-21T23:55:33.163372",
+  "package_url": "https://pypi.org/project/flopsindex-mcp/"
+}

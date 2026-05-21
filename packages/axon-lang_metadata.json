@@ -1,11 +1,11 @@
 {
   "name": "axon-lang",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "AXON — the formal cognitive language. Native Rust + C23 runtime (v2.0.0 Pure Silicon Cognition). This PyPI package is a thin launcher that fetches + execs the precompiled native `axon` binary; the lexer, parser, type-checker, IR generator, runtime, server, and CLI are all native Rust + C23. `pip install axon-lang && axon check x.axon` works exactly like the native binary. Alternatives: `cargo install axon-lang`, GitHub Release binaries, or the axon-enterprise Docker image.",
   "author": "Bemarking AI S.A.S.",
   "license": null,
   "home_page": null,
-  "download_filename": "axon_lang-2.0.0.tar.gz",
-  "download_time": "2026-05-21T22:55:44.888634",
+  "download_filename": "axon_lang-2.0.1.tar.gz",
+  "download_time": "2026-05-21T23:55:16.777379",
   "package_url": "https://pypi.org/project/axon-lang/"
 }

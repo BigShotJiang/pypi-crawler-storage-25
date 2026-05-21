@@ -1,0 +1,11 @@
+{
+  "name": "spark-pulse",
+  "version": "1.1.0",
+  "summary": "Web UI for spark-vllm-docker — recipe management, deployment, and monitoring for DGX Spark",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spark_pulse-1.1.0.tar.gz",
+  "download_time": "2026-05-21T23:54:58.847331",
+  "package_url": "https://pypi.org/project/spark-pulse/"
+}

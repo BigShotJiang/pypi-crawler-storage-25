@@ -1,11 +1,11 @@
 {
   "name": "servonaut",
-  "version": "2.6.0",
-  "summary": "Interactive TUI for managing servers — SSH, SCP, scanning & more",
+  "version": "2.10.0",
+  "summary": "Manage AWS, Hetzner, OVH, and custom servers from one TUI — with a built-in AI assistant and MCP server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "servonaut-2.6.0.tar.gz",
-  "download_time": "2026-04-28T00:15:47.893313",
+  "download_filename": "servonaut-2.10.0.tar.gz",
+  "download_time": "2026-05-21T23:55:28.786811",
   "package_url": "https://pypi.org/project/servonaut/"
 }

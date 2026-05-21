@@ -1,11 +1,11 @@
 {
   "name": "piia-engram",
-  "version": "2.9.0",
-  "summary": "Engram — AI 记忆印记。你的 AI 记忆，本地存储，跨工具共享。",
+  "version": "3.12.1",
+  "summary": "Engram — Your AI identity layer. Stores who you are, not just what you did. Local-first, MCP-compatible.",
   "author": "Engram Contributors",
-  "license": "Apache-2.0",
+  "license": null,
   "home_page": null,
-  "download_filename": "piia_engram-2.9.0.tar.gz",
-  "download_time": "2026-05-19T08:31:31.913361",
+  "download_filename": "piia_engram-3.12.1.tar.gz",
+  "download_time": "2026-05-21T23:55:23.867802",
   "package_url": "https://pypi.org/project/piia-engram/"
 }

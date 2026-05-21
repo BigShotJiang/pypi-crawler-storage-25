@@ -1,0 +1,11 @@
+{
+  "name": "flopsindex-partner",
+  "version": "0.6.0",
+  "summary": "Partner-tier write SDK for the FLOPS Compute Intelligence Platform — submit fleet / SMPI / CLRI data. Companion to the public-read SDK at https://pypi.org/project/flopsindex/.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "flopsindex_partner-0.6.0.tar.gz",
+  "download_time": "2026-05-21T23:55:33.711898",
+  "package_url": "https://pypi.org/project/flopsindex-partner/"
+}

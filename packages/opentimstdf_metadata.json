@@ -1,0 +1,11 @@
+{
+  "name": "opentimstdf",
+  "version": "1.0.5",
+  "summary": "Rust reader for timsTOF .d/ (TDF) mass spectrometry bundles",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Sigilweaver/OpenTimsTDF",
+  "download_filename": "opentimstdf-1.0.5.tar.gz",
+  "download_time": "2026-05-21T23:55:18.953449",
+  "package_url": "https://pypi.org/project/opentimstdf/"
+}

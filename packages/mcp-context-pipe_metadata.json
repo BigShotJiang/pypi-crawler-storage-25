@@ -1,11 +1,11 @@
 {
   "name": "mcp-context-pipe",
-  "version": "0.3.1",
+  "version": "0.4.2",
   "summary": "Universal switchboard for the Context-Pipe Protocol (CPP)",
   "author": "Luis Kobayashi",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mcp_context_pipe-0.3.1.tar.gz",
-  "download_time": "2026-05-13T20:32:29.455646",
+  "download_filename": "mcp_context_pipe-0.4.2.tar.gz",
+  "download_time": "2026-05-21T23:55:07.463309",
   "package_url": "https://pypi.org/project/mcp-context-pipe/"
 }

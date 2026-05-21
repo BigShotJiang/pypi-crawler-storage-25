@@ -1,11 +1,11 @@
 {
   "name": "youtube-short-generator",
-  "version": "1.0.2",
+  "version": "1.1.4",
   "summary": "Generate YouTube Shorts with AI narration, subtitles, and background music",
   "author": "MaddoxRVS",
   "license": "AGPL-3.0-only WITH additional attribution requirement",
   "home_page": null,
-  "download_filename": "youtube_short_generator-1.0.2.tar.gz",
-  "download_time": "2026-05-09T23:34:36.823121",
+  "download_filename": "youtube_short_generator-1.1.4.tar.gz",
+  "download_time": "2026-05-21T23:55:22.779529",
   "package_url": "https://pypi.org/project/youtube-short-generator/"
 }

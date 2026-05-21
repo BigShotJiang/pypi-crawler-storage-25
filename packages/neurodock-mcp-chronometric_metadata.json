@@ -1,11 +1,11 @@
 {
   "name": "neurodock-mcp-chronometric",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "NeuroDock chronometric MCP server — time, idle, and break management.",
   "author": "NeuroDock contributors",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "neurodock_mcp_chronometric-0.0.1.tar.gz",
-  "download_time": "2026-05-17T18:25:06.559671",
+  "download_filename": "neurodock_mcp_chronometric-0.0.2.tar.gz",
+  "download_time": "2026-05-21T23:55:23.324466",
   "package_url": "https://pypi.org/project/neurodock-mcp-chronometric/"
 }
