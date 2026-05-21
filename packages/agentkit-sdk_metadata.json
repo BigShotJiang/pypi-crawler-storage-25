@@ -1,11 +1,11 @@
 {
   "name": "agentkit-sdk",
-  "version": "0.5.2",
+  "version": "0.5.14",
   "summary": "Developer SDK for building personalized voice AI assistants",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentkit_sdk-0.5.2.tar.gz",
-  "download_time": "2026-05-18T01:49:12.728636",
+  "download_filename": "agentkit_sdk-0.5.14.tar.gz",
+  "download_time": "2026-05-21T07:50:22.931578",
   "package_url": "https://pypi.org/project/agentkit-sdk/"
 }

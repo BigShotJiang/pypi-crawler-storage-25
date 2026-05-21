@@ -1,0 +1,11 @@
+{
+  "name": "sqlchecker",
+  "version": "0.3.1",
+  "summary": "This project analyses SQL statements and labels possible errors or complications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlchecker-0.3.1.tar.gz",
+  "download_time": "2026-05-21T07:50:29.289557",
+  "package_url": "https://pypi.org/project/sqlchecker/"
+}

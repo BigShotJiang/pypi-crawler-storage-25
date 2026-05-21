@@ -1,0 +1,11 @@
+{
+  "name": "instrumentation-sdk",
+  "version": "1.7.2",
+  "summary": "LLM Observability Instrumentation SDK",
+  "author": "LLM Observability Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "instrumentation_sdk-1.7.2.tar.gz",
+  "download_time": "2026-05-21T07:50:41.933014",
+  "package_url": "https://pypi.org/project/instrumentation-sdk/"
+}

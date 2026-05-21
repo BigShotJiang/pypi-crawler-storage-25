@@ -1,0 +1,11 @@
+{
+  "name": "dlubal-mcp",
+  "version": "1.0.0",
+  "summary": "Unified Dlubal MCP server for RFEM, RSTAB, and RSECTION",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dlubal_mcp-1.0.0.tar.gz",
+  "download_time": "2026-05-21T07:50:50.335893",
+  "package_url": "https://pypi.org/project/dlubal-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "moe-policylang",
-  "version": "1.2.2",
+  "version": "1.4.1",
   "summary": "A domain-specific language for Mixture-of-Experts scheduling policies",
   "author": "Jesse Pokora",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "moe_policylang-1.2.2.tar.gz",
-  "download_time": "2026-05-18T19:16:31.758530",
+  "download_filename": "moe_policylang-1.4.1.tar.gz",
+  "download_time": "2026-05-21T07:50:47.193367",
   "package_url": "https://pypi.org/project/moe-policylang/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "omcipcap",
+  "version": "0.3.3",
+  "summary": "GPON/XGS-PON OMCI Semantic Analysis Framework for ITU-T G.988 protocols",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omcipcap-0.3.3.tar.gz",
+  "download_time": "2026-05-21T07:50:41.413600",
+  "package_url": "https://pypi.org/project/omcipcap/"
+}
