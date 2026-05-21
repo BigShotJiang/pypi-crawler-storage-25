@@ -1,0 +1,11 @@
+{
+  "name": "synax-sdk",
+  "version": "0.2.2",
+  "summary": "Python SDK and CLI for building skills on the Synax agentic platform.",
+  "author": "Synergentic, Inc., Juan Hernandez",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "synax_sdk-0.2.2.tar.gz",
+  "download_time": "2026-05-21T00:01:35.871086",
+  "package_url": "https://pypi.org/project/synax-sdk/"
+}

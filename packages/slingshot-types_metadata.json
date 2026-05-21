@@ -1,0 +1,11 @@
+{
+  "name": "slingshot-types",
+  "version": "0.1.5",
+  "summary": "Typed Protocol+cast shims for common Python data science package functions",
+  "author": "Seán Healy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "slingshot_types-0.1.5.tar.gz",
+  "download_time": "2026-05-21T00:01:17.754883",
+  "package_url": "https://pypi.org/project/slingshot-types/"
+}

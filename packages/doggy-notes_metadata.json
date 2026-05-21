@@ -1,11 +1,11 @@
 {
   "name": "doggy-notes",
-  "version": "1.1.1.post5",
+  "version": "2.1.0.post0",
   "summary": "Command-line note taking application",
-  "author": "Dev-ev-v",
-  "license": "Apache-2.0",
+  "author": null,
+  "license": null,
   "home_page": null,
-  "download_filename": "doggy_notes-1.1.1.post5.tar.gz",
-  "download_time": "2026-05-02T22:08:24.374620",
+  "download_filename": "doggy_notes-2.1.0.post0.tar.gz",
+  "download_time": "2026-05-21T00:01:13.525021",
   "package_url": "https://pypi.org/project/doggy-notes/"
 }

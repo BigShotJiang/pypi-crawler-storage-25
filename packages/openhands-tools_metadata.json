@@ -1,11 +1,11 @@
 {
   "name": "openhands-tools",
-  "version": "1.21.0",
+  "version": "1.23.0",
   "summary": "OpenHands Tools - Runtime tools for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openhands_tools-1.21.0.tar.gz",
-  "download_time": "2026-05-07T19:09:41.334996",
+  "download_filename": "openhands_tools-1.23.0.tar.gz",
+  "download_time": "2026-05-21T00:01:24.949916",
   "package_url": "https://pypi.org/project/openhands-tools/"
 }

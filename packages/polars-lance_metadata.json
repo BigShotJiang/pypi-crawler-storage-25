@@ -1,0 +1,11 @@
+{
+  "name": "polars-lance",
+  "version": "0.5.0",
+  "summary": "Polars plugin for reading and writing Lance datasets",
+  "author": "Jorrit Sandbrink",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polars_lance-0.5.0.tar.gz",
+  "download_time": "2026-05-21T00:01:51.491887",
+  "package_url": "https://pypi.org/project/polars-lance/"
+}

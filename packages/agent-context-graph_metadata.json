@@ -1,11 +1,11 @@
 {
   "name": "agent-context-graph",
-  "version": "0.1.2",
+  "version": "0.1.7",
   "summary": "Connect agent SDKs to context-graph components (actions-graph, skills-graph, etc.)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_context_graph-0.1.2.tar.gz",
-  "download_time": "2026-05-08T08:21:24.563021",
+  "download_filename": "agent_context_graph-0.1.7.tar.gz",
+  "download_time": "2026-05-21T00:01:27.201489",
   "package_url": "https://pypi.org/project/agent-context-graph/"
 }

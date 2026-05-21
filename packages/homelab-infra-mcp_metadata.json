@@ -1,0 +1,11 @@
+{
+  "name": "homelab-infra-mcp",
+  "version": "1.0.0",
+  "summary": "Unified MCP server for homelab infrastructure — Nginx Proxy Manager, Docker, and DNS management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "homelab_infra_mcp-1.0.0.tar.gz",
+  "download_time": "2026-05-21T00:01:32.107546",
+  "package_url": "https://pypi.org/project/homelab-infra-mcp/"
+}

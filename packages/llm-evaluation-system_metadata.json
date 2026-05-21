@@ -1,11 +1,11 @@
 {
   "name": "llm-evaluation-system",
-  "version": "0.3.5",
+  "version": "0.7.5",
   "summary": "MCP server for agentic LLM evaluation: jury scoring, agent tracing via OpenTelemetry, document-grounded QA generation, PDF reports.",
   "author": "AWS",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "llm_evaluation_system-0.3.5.tar.gz",
-  "download_time": "2026-05-17T22:41:35.010981",
+  "download_filename": "llm_evaluation_system-0.7.5.tar.gz",
+  "download_time": "2026-05-21T00:01:45.760899",
   "package_url": "https://pypi.org/project/llm-evaluation-system/"
 }

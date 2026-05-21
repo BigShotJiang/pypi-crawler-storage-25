@@ -1,0 +1,11 @@
+{
+  "name": "mockserver-client",
+  "version": "5.16.0",
+  "summary": "Official Python client for MockServer — create expectations, verify requests, and register dynamic callbacks via WebSocket",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mockserver_client-5.16.0.tar.gz",
+  "download_time": "2026-05-21T00:01:46.790577",
+  "package_url": "https://pypi.org/project/mockserver-client/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "chalkruntime",
-  "version": "3.34.20",
+  "version": "3.34.21",
   "summary": "Runtime support library for Chalk AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chalkruntime-3.34.20.tar.gz",
-  "download_time": "2026-05-20T16:10:13.364500",
+  "download_filename": "chalkruntime-3.34.21.tar.gz",
+  "download_time": "2026-05-21T00:01:27.721299",
   "package_url": "https://pypi.org/project/chalkruntime/"
 }
