@@ -1,11 +1,11 @@
 {
   "name": "panproto-grammars-functional",
-  "version": "0.47.3",
+  "version": "0.48.7",
   "summary": "panproto grammar pack: functional languages (Haskell, OCaml, Elm, Gleam, Erlang, Elixir, PureScript, F#, Clojure, Scheme, Racket)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "panproto_grammars_functional-0.47.3-cp313-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2026-05-16T14:24:28.709969",
+  "download_filename": "panproto_grammars_functional-0.48.7-cp313-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-21T21:26:16.879049",
   "package_url": "https://pypi.org/project/panproto-grammars-functional/"
 }

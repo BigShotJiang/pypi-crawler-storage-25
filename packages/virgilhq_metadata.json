@@ -1,0 +1,11 @@
+{
+  "name": "virgilhq",
+  "version": "0.3.1",
+  "summary": "CLI for Virgil — self-hosted security audit with the triage built in. Real scanners + clustering + LLM priority queue + code-grounded chat. Installs as `virgil` on your PATH.",
+  "author": "Virgil contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "virgilhq-0.3.1.tar.gz",
+  "download_time": "2026-05-21T21:25:53.430381",
+  "package_url": "https://pypi.org/project/virgilhq/"
+}

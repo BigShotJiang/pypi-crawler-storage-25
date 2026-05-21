@@ -1,0 +1,11 @@
+{
+  "name": "agent-readiness-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server exposing agent-readiness scan, detect, and apply tools to coding agents.",
+  "author": "Harry Dai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_readiness_mcp-0.2.0.tar.gz",
+  "download_time": "2026-05-21T21:25:46.256773",
+  "package_url": "https://pypi.org/project/agent-readiness-mcp/"
+}

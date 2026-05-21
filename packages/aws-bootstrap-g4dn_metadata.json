@@ -1,0 +1,11 @@
+{
+  "name": "aws-bootstrap-g4dn",
+  "version": "0.17.0",
+  "summary": "Bootstrap AWS EC2 GPU instances for hybrid local-remote development",
+  "author": "Adam Ever-Hadani",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_bootstrap_g4dn-0.17.0.tar.gz",
+  "download_time": "2026-05-21T21:25:37.898415",
+  "package_url": "https://pypi.org/project/aws-bootstrap-g4dn/"
+}

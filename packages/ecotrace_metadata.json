@@ -1,11 +1,11 @@
 {
   "name": "ecotrace",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "EcoTrace: High-precision carbon tracking engine for production Python. Function-level CPU/GPU emission measurement with 50ms continuous sampling, Boavizta TDP database, and audit-ready PDF reporting.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ecotrace-1.1.0.tar.gz",
-  "download_time": "2026-05-18T22:05:43.040636",
+  "download_filename": "ecotrace-1.1.2.tar.gz",
+  "download_time": "2026-05-21T21:25:29.820068",
   "package_url": "https://pypi.org/project/ecotrace/"
 }
