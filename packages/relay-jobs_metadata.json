@@ -1,0 +1,11 @@
+{
+  "name": "relay-jobs",
+  "version": "0.1.1",
+  "summary": "Python SDK for relay job submission",
+  "author": "Relay",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "relay_jobs-0.1.1.tar.gz",
+  "download_time": "2026-05-21T03:46:38.688836",
+  "package_url": "https://pypi.org/project/relay-jobs/"
+}

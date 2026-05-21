@@ -1,11 +1,11 @@
 {
   "name": "memini-ai-dev",
-  "version": "0.2.6",
+  "version": "0.4.0",
   "summary": "Local-first semantic memory server with vector search",
   "author": "VeeDubin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memini_ai_dev-0.2.6.tar.gz",
-  "download_time": "2026-05-18T22:05:53.648498",
+  "download_filename": "memini_ai_dev-0.4.0.tar.gz",
+  "download_time": "2026-05-21T03:46:51.693624",
   "package_url": "https://pypi.org/project/memini-ai-dev/"
 }

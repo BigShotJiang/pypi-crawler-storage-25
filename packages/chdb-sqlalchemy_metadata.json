@@ -1,0 +1,11 @@
+{
+  "name": "chdb-sqlalchemy",
+  "version": "0.2.1",
+  "summary": "SQLAlchemy dialect for chDB — the in-process SQL OLAP engine powered by ClickHouse. Unlocks LangChain SQLDatabaseToolkit, CrewAI NL2SQLTool, pandas.read_sql, Apache Superset, and Django ORM.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chdb_sqlalchemy-0.2.1.tar.gz",
+  "download_time": "2026-05-21T03:46:06.413990",
+  "package_url": "https://pypi.org/project/chdb-sqlalchemy/"
+}

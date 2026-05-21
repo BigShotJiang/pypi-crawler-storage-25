@@ -1,0 +1,11 @@
+{
+  "name": "pugmark",
+  "version": "0.1.0",
+  "summary": "Python SDK for Pugmark — the durable agent runtime built on object storage",
+  "author": "Firetiger",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pugmark-0.1.0.tar.gz",
+  "download_time": "2026-05-21T03:46:10.037880",
+  "package_url": "https://pypi.org/project/pugmark/"
+}

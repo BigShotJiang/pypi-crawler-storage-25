@@ -1,0 +1,11 @@
+{
+  "name": "rhei-engine",
+  "version": "2.0.0",
+  "summary": "Lightweight serverless HTAP engine — Python bindings for the Rhei Rust library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rhei_engine-2.0.0.tar.gz",
+  "download_time": "2026-05-21T03:46:26.208547",
+  "package_url": "https://pypi.org/project/rhei-engine/"
+}

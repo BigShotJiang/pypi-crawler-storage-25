@@ -1,0 +1,11 @@
+{
+  "name": "dbsketch",
+  "version": "0.2.0",
+  "summary": "Schema-to-diagram compiler for DBML and SQL — ASCII/Unicode ERDs from the command line",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbsketch-0.2.0-py3-none-any.whl",
+  "download_time": "2026-05-21T03:46:35.586406",
+  "package_url": "https://pypi.org/project/dbsketch/"
+}

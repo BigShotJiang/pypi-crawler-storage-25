@@ -1,11 +1,11 @@
 {
   "name": "oai-statsig-python-core",
-  "version": "0.19.4",
+  "version": "0.20.0",
   "summary": "Statsig Python bindings for the Statsig Core SDK.",
   "author": "Statsig, Daniel Loomb <daniel@statsig.com>",
   "license": "ISC",
   "home_page": "https://statsig.com/",
-  "download_filename": "oai_statsig_python_core-0.19.4.tar.gz",
-  "download_time": "2026-05-02T04:00:54.028354",
+  "download_filename": "oai_statsig_python_core-0.20.0.tar.gz",
+  "download_time": "2026-05-21T03:46:37.156558",
   "package_url": "https://pypi.org/project/oai-statsig-python-core/"
 }

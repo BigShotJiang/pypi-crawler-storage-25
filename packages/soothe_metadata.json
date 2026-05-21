@@ -1,11 +1,11 @@
 {
   "name": "soothe",
-  "version": "0.5.6",
+  "version": "0.5.11",
   "summary": "Soothe - Goal-driven multi-agent orchestration framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "soothe-0.5.6.tar.gz",
-  "download_time": "2026-05-13T16:54:09.010271",
+  "download_filename": "soothe-0.5.11.tar.gz",
+  "download_time": "2026-05-21T03:46:47.578067",
   "package_url": "https://pypi.org/project/soothe/"
 }

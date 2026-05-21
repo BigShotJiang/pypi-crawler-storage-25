@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-mail-attach-existing-attachment",
-  "version": "18.0.1.0.1",
+  "version": "18.0.1.0.1.1",
   "summary": "Adding attachment on the object by sending this one",
   "author": "ACSONE SA/NV, Tecnativa, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/mail",
-  "download_filename": "odoo_addon_mail_attach_existing_attachment-18.0.1.0.1-py3-none-any.whl",
-  "download_time": "2026-05-20T18:31:09.071145",
+  "download_filename": "odoo_addon_mail_attach_existing_attachment-18.0.1.0.1.1-py3-none-any.whl",
+  "download_time": "2026-05-21T03:46:50.156032",
   "package_url": "https://pypi.org/project/odoo-addon-mail-attach-existing-attachment/"
 }

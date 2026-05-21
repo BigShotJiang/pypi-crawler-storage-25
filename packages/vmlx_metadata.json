@@ -1,11 +1,11 @@
 {
   "name": "vmlx",
-  "version": "1.5.44",
+  "version": "1.5.46",
   "summary": "MLX inference server for Apple Silicon — Text, Image, Video & Audio generation",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "vmlx-1.5.44.tar.gz",
-  "download_time": "2026-05-19T22:35:09.547476",
+  "download_filename": "vmlx-1.5.46.tar.gz",
+  "download_time": "2026-05-21T03:46:46.038576",
   "package_url": "https://pypi.org/project/vmlx/"
 }
