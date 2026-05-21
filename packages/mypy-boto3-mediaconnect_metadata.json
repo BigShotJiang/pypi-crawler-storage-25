@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-mediaconnect",
+  "version": "1.43.13",
+  "summary": "Type annotations for boto3 MediaConnect 1.43.13 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_mediaconnect-1.43.13.tar.gz",
+  "download_time": "2026-05-21T22:55:52.752341",
+  "package_url": "https://pypi.org/project/mypy-boto3-mediaconnect/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "codex-converter",
+  "version": "0.1.2",
+  "summary": "Convert project-scoped Claude Code workspace files into Codex CLI-compatible project files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "codex_converter-0.1.2.tar.gz",
+  "download_time": "2026-05-21T22:56:24.900174",
+  "package_url": "https://pypi.org/project/codex-converter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "linkshieldai",
+  "version": "0.2.1",
+  "summary": "Python SDK for the LinkShieldAI URL safety API.",
+  "author": "LinkShieldAI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "linkshieldai-0.2.1.tar.gz",
+  "download_time": "2026-05-21T22:56:14.466962",
+  "package_url": "https://pypi.org/project/linkshieldai/"
+}

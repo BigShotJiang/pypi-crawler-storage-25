@@ -1,11 +1,11 @@
 {
   "name": "pulumi-netskope-publisher",
-  "version": "0.1.5",
-  "summary": "Pulumi components for provisioning Netskope Private Access Publishers on AWS, Azure, GCP, vSphere, and experimental Hyper-V.",
+  "version": "0.3.4",
+  "summary": "Pulumi components for provisioning Netskope Private Access Publishers on AWS, Azure, GCP, Kubernetes, vSphere, ESXi, Hcloud, Nutanix, OpenStack, OVH, Scaleway, OCI, Alicloud, Proxmox VE, DigitalOcean, Vultr, Exoscale, UpCloud, Stackit, Equinix Metal, Outscale, OpenTelekomCloud, TencentCloud, Yandex, and experimental Hyper-V.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pulumi_netskope_publisher-0.1.5.tar.gz",
-  "download_time": "2026-05-18T23:14:11.999532",
+  "download_filename": "pulumi_netskope_publisher-0.3.4.tar.gz",
+  "download_time": "2026-05-21T22:56:07.718654",
   "package_url": "https://pypi.org/project/pulumi-netskope-publisher/"
 }

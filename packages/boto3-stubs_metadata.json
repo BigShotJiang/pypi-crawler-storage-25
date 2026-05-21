@@ -1,11 +1,11 @@
 {
   "name": "boto3-stubs",
-  "version": "1.43.8",
-  "summary": "Type annotations for boto3 1.43.8 generated with mypy-boto3-builder 8.12.0",
+  "version": "1.43.13",
+  "summary": "Type annotations for boto3 1.43.13 generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "boto3_stubs-1.43.8.tar.gz",
-  "download_time": "2026-05-14T20:25:42.758696",
+  "download_filename": "boto3_stubs-1.43.13.tar.gz",
+  "download_time": "2026-05-21T22:55:49.583327",
   "package_url": "https://pypi.org/project/boto3-stubs/"
 }
