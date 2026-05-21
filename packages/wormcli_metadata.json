@@ -1,0 +1,11 @@
+{
+  "name": "wormcli",
+  "version": "0.1.0",
+  "summary": "🐍 AI-powered terminal assistant with hybrid rule-based + LLM engine",
+  "author": "WormStudio",
+  "license": null,
+  "home_page": "https://github.com/WormStudio-s/wormcli",
+  "download_filename": "wormcli-0.1.0.tar.gz",
+  "download_time": "2026-05-21T11:08:19.138068",
+  "package_url": "https://pypi.org/project/wormcli/"
+}

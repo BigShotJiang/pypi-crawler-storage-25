@@ -1,0 +1,11 @@
+{
+  "name": "eigenpy",
+  "version": "3.13.0",
+  "summary": "Bindings between Numpy and Eigen using Boost.Python",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cmake-wheel/eigenpy",
+  "download_filename": "eigenpy-3.13.0.tar.gz",
+  "download_time": "2026-05-21T11:07:59.150663",
+  "package_url": "https://pypi.org/project/eigenpy/"
+}

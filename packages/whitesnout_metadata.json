@@ -1,0 +1,11 @@
+{
+  "name": "whitesnout",
+  "version": "0.3.0",
+  "summary": "ASGI static file server — like Whitenoise, but for ASGI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "whitesnout-0.3.0.tar.gz",
+  "download_time": "2026-05-21T11:07:49.726648",
+  "package_url": "https://pypi.org/project/whitesnout/"
+}

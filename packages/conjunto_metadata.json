@@ -1,11 +1,11 @@
 {
   "name": "conjunto",
-  "version": "0.3.2",
+  "version": "0.5.2",
   "summary": "Django application framework/helpers using HTMX, tabler.io, tables2, crispy-forms & more.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "conjunto-0.3.2.tar.gz",
-  "download_time": "2026-04-29T18:56:23.601026",
+  "download_filename": "conjunto-0.5.2.tar.gz",
+  "download_time": "2026-05-21T11:08:01.289746",
   "package_url": "https://pypi.org/project/conjunto/"
 }

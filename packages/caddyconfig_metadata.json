@@ -1,0 +1,11 @@
+{
+  "name": "caddyconfig",
+  "version": "0.1.0",
+  "summary": "Caddy JSON configuration manipulation (Pydantic v2 + fluent builder)",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "caddyconfig-0.1.0.tar.gz",
+  "download_time": "2026-05-21T11:07:56.508054",
+  "package_url": "https://pypi.org/project/caddyconfig/"
+}

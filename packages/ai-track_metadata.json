@@ -1,11 +1,11 @@
 {
   "name": "ai-track",
-  "version": "0.1.12",
+  "version": "0.3.3",
   "summary": "Universal AI runtime for local and remote inference.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_track-0.1.12.tar.gz",
-  "download_time": "2026-05-18T14:18:33.795415",
+  "download_filename": "ai_track-0.3.3.tar.gz",
+  "download_time": "2026-05-21T11:07:54.420756",
   "package_url": "https://pypi.org/project/ai-track/"
 }

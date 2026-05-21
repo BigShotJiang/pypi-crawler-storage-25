@@ -1,11 +1,11 @@
 {
   "name": "pulumi-labs-nvidia-aicr",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Deploy validated NVIDIA AI Cluster Runtime (AICR) recipes for GPU-accelerated Kubernetes clusters.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pulumi_labs_nvidia_aicr-0.1.2.tar.gz",
-  "download_time": "2026-05-20T18:31:11.152647",
+  "download_filename": "pulumi_labs_nvidia_aicr-0.1.4.tar.gz",
+  "download_time": "2026-05-21T11:08:27.016544",
   "package_url": "https://pypi.org/project/pulumi-labs-nvidia-aicr/"
 }

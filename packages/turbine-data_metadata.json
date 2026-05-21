@@ -1,11 +1,11 @@
 {
   "name": "turbine-data",
-  "version": "0.1.2",
+  "version": "0.5.4",
   "summary": "A CLI tool for working with data products and contracts",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "turbine_data-0.1.2.tar.gz",
-  "download_time": "2026-05-04T08:37:50.791077",
+  "download_filename": "turbine_data-0.5.4.tar.gz",
+  "download_time": "2026-05-21T11:08:12.351874",
   "package_url": "https://pypi.org/project/turbine-data/"
 }

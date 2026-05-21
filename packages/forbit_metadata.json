@@ -1,11 +1,11 @@
 {
   "name": "forbit",
-  "version": "1.0.4",
-  "summary": "Fortran based direct access binary reader/writer for Python",
+  "version": "1.0.16",
+  "summary": "Lightweight direct-access binary I/O for NumPy arrays, based on Fortran and Cython",
   "author": "Kosei Ohara",
   "license": null,
   "home_page": null,
-  "download_filename": "forbit-1.0.4.tar.gz",
-  "download_time": "2026-05-04T18:17:19.680800",
+  "download_filename": "forbit-1.0.16.tar.gz",
+  "download_time": "2026-05-21T11:07:49.206109",
   "package_url": "https://pypi.org/project/forbit/"
 }

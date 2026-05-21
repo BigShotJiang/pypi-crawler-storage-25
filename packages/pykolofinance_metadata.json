@@ -1,11 +1,11 @@
 {
   "name": "pykolofinance",
-  "version": "8.7.0",
+  "version": "8.16.0",
   "summary": "A utility package for kolomoni banking microservices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pykolofinance-8.7.0-py3-none-any.whl",
-  "download_time": "2026-05-14T22:56:11.633762",
+  "download_filename": "pykolofinance-8.16.0.tar.gz",
+  "download_time": "2026-05-21T11:08:04.966759",
   "package_url": "https://pypi.org/project/pykolofinance/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lakefs-enterprise-sdk",
-  "version": "1.83.0",
+  "version": "1.84.0",
   "summary": "lakeFS API",
   "author": "Treeverse",
   "license": "Apache 2.0",
   "home_page": "https://github.com/treeverse/lakeFS-Enterprise/tree/main/clients/python",
-  "download_filename": "lakefs_enterprise_sdk-1.83.0.tar.gz",
-  "download_time": "2026-05-08T19:03:08.074710",
+  "download_filename": "lakefs_enterprise_sdk-1.84.0.tar.gz",
+  "download_time": "2026-05-21T11:08:28.059204",
   "package_url": "https://pypi.org/project/lakefs-enterprise-sdk/"
 }

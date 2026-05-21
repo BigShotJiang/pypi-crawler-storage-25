@@ -1,11 +1,11 @@
 {
   "name": "voltsdk",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "summary": "Python SDK for the Volt scientific computing platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "voltsdk-2.2.2.tar.gz",
-  "download_time": "2026-05-21T03:46:34.547706",
+  "download_filename": "voltsdk-2.2.3.tar.gz",
+  "download_time": "2026-05-21T11:07:53.889637",
   "package_url": "https://pypi.org/project/voltsdk/"
 }

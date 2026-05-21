@@ -1,11 +1,11 @@
 {
   "name": "hogql-parser",
-  "version": "1.3.50",
+  "version": "1.3.63",
   "summary": "HogQL parser for internal PostHog use",
   "author": "PostHog Inc.",
   "license": "MIT",
   "home_page": "https://github.com/PostHog/posthog/tree/master/common/hogql_parser",
-  "download_filename": "hogql_parser-1.3.50.tar.gz",
-  "download_time": "2026-05-18T14:18:52.814960",
+  "download_filename": "hogql_parser-1.3.63.tar.gz",
+  "download_time": "2026-05-21T11:07:57.042325",
   "package_url": "https://pypi.org/project/hogql-parser/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aicqSDK",
+  "version": "0.3.7",
+  "summary": "AICQ AI Agent SDK — Lightweight Python SDK for AI agents to connect to AICQ server with E2EE and ephemeral rooms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aicqsdk-0.3.7.tar.gz",
+  "download_time": "2026-05-21T11:08:02.341556",
+  "package_url": "https://pypi.org/project/aicqSDK/"
+}
