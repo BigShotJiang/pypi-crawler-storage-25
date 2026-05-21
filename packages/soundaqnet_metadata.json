@@ -1,0 +1,11 @@
+{
+  "name": "soundaqnet",
+  "version": "0.1.0",
+  "summary": "Inferring affective quality from soundscape clips using the SoundAQnet model",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "soundaqnet-0.1.0.tar.gz",
+  "download_time": "2026-05-21T19:32:05.773599",
+  "package_url": "https://pypi.org/project/soundaqnet/"
+}

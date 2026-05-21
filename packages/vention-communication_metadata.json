@@ -1,11 +1,11 @@
 {
   "name": "vention-communication",
-  "version": "0.4.31",
+  "version": "0.4.49",
   "summary": "A framework for communication between machine apps and other services.",
   "author": "VentionCo",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "vention_communication-0.4.31.tar.gz",
-  "download_time": "2026-05-15T19:06:27.308253",
+  "download_filename": "vention_communication-0.4.49.tar.gz",
+  "download_time": "2026-05-21T19:31:58.925513",
   "package_url": "https://pypi.org/project/vention-communication/"
 }

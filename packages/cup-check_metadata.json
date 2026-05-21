@@ -1,11 +1,11 @@
 {
   "name": "cup-check",
-  "version": "0.4.1",
+  "version": "0.5.1",
   "summary": "Validazione formale locale dei Codici Unici di Progetto (CUP).",
   "author": "Alessandro Saglia",
   "license": null,
   "home_page": null,
-  "download_filename": "cup_check-0.4.1.tar.gz",
-  "download_time": "2026-05-14T14:23:47.529809",
+  "download_filename": "cup_check-0.5.1.tar.gz",
+  "download_time": "2026-05-21T19:32:20.557910",
   "package_url": "https://pypi.org/project/cup-check/"
 }

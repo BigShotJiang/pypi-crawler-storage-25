@@ -1,11 +1,11 @@
 {
   "name": "mitol-django-transcoding",
-  "version": "2026.4.2",
+  "version": "2026.5.21.1",
   "summary": "MIT Open Learning Django app extension for Transcoding jobs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mitol_django_transcoding-2026.4.2.tar.gz",
-  "download_time": "2026-04-02T15:48:11.860332",
+  "download_filename": "mitol_django_transcoding-2026.5.21.1.tar.gz",
+  "download_time": "2026-05-21T19:32:31.086740",
   "package_url": "https://pypi.org/project/mitol-django-transcoding/"
 }

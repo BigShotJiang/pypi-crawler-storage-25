@@ -1,0 +1,11 @@
+{
+  "name": "unifi-cli",
+  "version": "0.1.7",
+  "summary": "CLI for UniFi Network controller",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/rvben/unifi-cli",
+  "download_filename": "unifi_cli-0.1.7.tar.gz",
+  "download_time": "2026-05-21T19:32:37.385251",
+  "package_url": "https://pypi.org/project/unifi-cli/"
+}

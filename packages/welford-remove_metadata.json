@@ -1,0 +1,11 @@
+{
+  "name": "welford-remove",
+  "version": "0.2.1",
+  "summary": "Python (NumPy) implementation of Welford's algorithm with the ability to remove data points.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "welford_remove-0.2.1.tar.gz",
+  "download_time": "2026-05-21T19:32:07.358759",
+  "package_url": "https://pypi.org/project/welford-remove/"
+}

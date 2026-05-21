@@ -1,11 +1,11 @@
 {
   "name": "combaero-gui",
-  "version": "0.2.6",
+  "version": "0.3.1",
   "summary": "CombAero Network GUI — React/FastAPI desktop application",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "combaero_gui-0.2.6.tar.gz",
-  "download_time": "2026-05-03T19:28:26.804722",
+  "download_filename": "combaero_gui-0.3.1.tar.gz",
+  "download_time": "2026-05-21T19:32:43.155930",
   "package_url": "https://pypi.org/project/combaero-gui/"
 }
