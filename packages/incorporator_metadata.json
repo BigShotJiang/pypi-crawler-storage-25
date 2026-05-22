@@ -1,11 +1,11 @@
 {
   "name": "incorporator",
-  "version": "1.1.1",
-  "summary": "A Zero-Boilerplate Universal Data Gateway and Pipeline Orchestration Platform.",
+  "version": "1.2.0",
+  "summary": "Schema-free ETL mapper with in-process graph orchestration: turn any REST API, CSV, Parquet, or XML into typed Python objects, then coordinate multi-source pipelines in a bounded time window with Tideweaver.",
   "author": "Incorporator Maintainers",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "incorporator-1.1.1.tar.gz",
-  "download_time": "2026-05-14T22:56:25.000250",
+  "download_filename": "incorporator-1.2.0.tar.gz",
+  "download_time": "2026-05-22T06:13:38.348269",
   "package_url": "https://pypi.org/project/incorporator/"
 }

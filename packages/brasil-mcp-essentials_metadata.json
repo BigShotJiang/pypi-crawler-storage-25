@@ -1,0 +1,11 @@
+{
+  "name": "brasil-mcp-essentials",
+  "version": "0.2.0",
+  "summary": "MCP server brasileiro, privacy-first, CNPJ alfanumérico-ready. 14 utilities offline + 5 lookups online (CEP, banco, DDD, IBGE, cotação) para devs BR.",
+  "author": "Brasil MCP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brasil_mcp_essentials-0.2.0.tar.gz",
+  "download_time": "2026-05-22T06:13:32.195039",
+  "package_url": "https://pypi.org/project/brasil-mcp-essentials/"
+}

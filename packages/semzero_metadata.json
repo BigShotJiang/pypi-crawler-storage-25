@@ -1,0 +1,11 @@
+{
+  "name": "semzero",
+  "version": "0.8.0a4",
+  "summary": "Assumption-aware dbt PR gate for hidden SQL assumption drift.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "semzero-0.8.0a4.tar.gz",
+  "download_time": "2026-05-22T06:13:24.498522",
+  "package_url": "https://pypi.org/project/semzero/"
+}

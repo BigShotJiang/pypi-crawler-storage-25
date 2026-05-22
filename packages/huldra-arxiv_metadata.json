@@ -1,0 +1,11 @@
+{
+  "name": "huldra-arxiv",
+  "version": "0.1.0",
+  "summary": "Local-first arXiv metadata broker with shared cache, queue, and durable rate limiting.",
+  "author": "NeapolitanIcecream",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "huldra_arxiv-0.1.0.tar.gz",
+  "download_time": "2026-05-22T06:13:33.748995",
+  "package_url": "https://pypi.org/project/huldra-arxiv/"
+}

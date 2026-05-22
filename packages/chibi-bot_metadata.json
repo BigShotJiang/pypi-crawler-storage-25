@@ -1,0 +1,11 @@
+{
+  "name": "chibi-bot",
+  "version": "1.8.0",
+  "summary": "Your Digital Companion. Self-hosted Telegram bot orchestrating multiple AI providers (OpenAI, Anthropic, Google, xAI, DeepSeek, Mistral, Alibaba, MiniMax) with autonomous agent capabilities, MCP integrations, and async task execution. Not a tool. A partner.",
+  "author": "Sergei Nagaev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chibi_bot-1.8.0.tar.gz",
+  "download_time": "2026-05-22T06:13:28.085972",
+  "package_url": "https://pypi.org/project/chibi-bot/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "django-xprez",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Django CMS for presentation websites",
   "author": "Jakub Dolejšek, Martin Kappel, Michal Tilsch, Michal Májský - s-cape.cz & mimatik.com",
   "license": "Mozilla Public License 2.0 (MPL 2.0)",
   "home_page": "https://github.com/s-cape/django_xprez",
-  "download_filename": "django_xprez-0.3.1.tar.gz",
-  "download_time": "2026-05-12T11:48:01.877675",
+  "download_filename": "django_xprez-0.3.3.tar.gz",
+  "download_time": "2026-05-22T06:13:29.641971",
   "package_url": "https://pypi.org/project/django-xprez/"
 }

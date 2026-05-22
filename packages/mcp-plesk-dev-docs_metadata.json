@@ -1,0 +1,11 @@
+{
+  "name": "mcp-plesk-dev-docs",
+  "version": "0.4.3",
+  "summary": "A unified MCP server that indexes and retrieves Plesk documentation using vector embeddings and semantic search with reranking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_plesk_dev_docs-0.4.3.tar.gz",
+  "download_time": "2026-05-22T06:14:00.727852",
+  "package_url": "https://pypi.org/project/mcp-plesk-dev-docs/"
+}

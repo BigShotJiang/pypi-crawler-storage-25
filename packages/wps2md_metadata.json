@@ -1,0 +1,11 @@
+{
+  "name": "wps2md",
+  "version": "0.3.0",
+  "summary": "Parse legacy WPS Writer (.wps) and Word 97-2003 (.doc) OLE2 binary files into structured text and Markdown.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wps2md-0.3.0.tar.gz",
+  "download_time": "2026-05-22T06:13:22.925877",
+  "package_url": "https://pypi.org/project/wps2md/"
+}

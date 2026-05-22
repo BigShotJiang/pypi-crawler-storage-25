@@ -1,11 +1,11 @@
 {
   "name": "litert-lm-builder-nightly",
-  "version": "0.12.0.dev20260514",
-  "summary": "Python tools for building LiteRT-LM",
+  "version": "0.12.0.dev20260522",
+  "summary": "Python tools for building and inspecting LiteRT-LM file formats",
   "author": null,
-  "license": null,
-  "home_page": null,
-  "download_filename": "litert_lm_builder_nightly-0.12.0.dev20260514-py3-none-any.whl",
-  "download_time": "2026-05-14T07:37:07.291838",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/google-ai-edge/LiteRT-LM",
+  "download_filename": "litert_lm_builder_nightly-0.12.0.dev20260522-py3-none-any.whl",
+  "download_time": "2026-05-22T06:13:25.008956",
   "package_url": "https://pypi.org/project/litert-lm-builder-nightly/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "rekipedia",
-  "version": "0.12.0",
+  "version": "0.17.5",
   "summary": "AI-powered wiki generator for any codebase",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rekipedia-0.12.0.tar.gz",
-  "download_time": "2026-05-08T17:38:25.616808",
+  "download_filename": "rekipedia-0.17.5.tar.gz",
+  "download_time": "2026-05-22T06:13:46.869769",
   "package_url": "https://pypi.org/project/rekipedia/"
 }

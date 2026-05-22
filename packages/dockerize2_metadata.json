@@ -1,0 +1,11 @@
+{
+  "name": "dockerize2",
+  "version": "0.3.3",
+  "summary": "Pack a dynamically linked ELF binary and its dependencies into a minimal scratch Docker image.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dockerize2-0.3.3.tar.gz",
+  "download_time": "2026-05-22T06:13:35.282283",
+  "package_url": "https://pypi.org/project/dockerize2/"
+}
