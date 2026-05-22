@@ -1,0 +1,11 @@
+{
+  "name": "llmcycle",
+  "version": "0.1.6",
+  "summary": "Cycle through multiple LLM providers with smart fallback, load balancing, and unified API with real-time FastAPI dashboard, resilient streaming failover, Pydantic structured output, prompt caching, token budgets, and local/cloud key rotation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmcycle-0.1.6.tar.gz",
+  "download_time": "2026-05-22T21:05:45.976663",
+  "package_url": "https://pypi.org/project/llmcycle/"
+}

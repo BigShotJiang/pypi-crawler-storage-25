@@ -1,11 +1,11 @@
 {
   "name": "demucs-onnx",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Run and export HT-Demucs / Demucs music source separation as ONNX. Pure numpy + onnxruntime inference (no PyTorch). Supports htdemucs_ft (4-stem bag), htdemucs (single-file 4-stem), and htdemucs_6s (6-stem with guitar + piano). Karaoke / acapella CLI, browser-demo scaffolder, auto-resampling, auto execution provider routing, fp16-weight downloads, MP3 output. Fixes the 4 blockers that prevent vanilla torch.onnx.export from working on htdemucs.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "demucs_onnx-0.3.3.tar.gz",
-  "download_time": "2026-05-21T23:55:30.440560",
+  "download_filename": "demucs_onnx-0.3.4.tar.gz",
+  "download_time": "2026-05-22T21:05:10.580934",
   "package_url": "https://pypi.org/project/demucs-onnx/"
 }

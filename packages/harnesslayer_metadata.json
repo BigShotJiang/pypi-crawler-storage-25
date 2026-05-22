@@ -1,11 +1,11 @@
 {
   "name": "harnesslayer",
-  "version": "0.3.6",
+  "version": "1.1.3",
   "summary": "Python SDK for the Harnesslayer API.",
   "author": "Harnesslayer",
   "license": null,
   "home_page": null,
-  "download_filename": "harnesslayer-0.3.6.tar.gz",
-  "download_time": "2026-05-15T17:23:52.352590",
+  "download_filename": "harnesslayer-1.1.3.tar.gz",
+  "download_time": "2026-05-22T21:05:09.549127",
   "package_url": "https://pypi.org/project/harnesslayer/"
 }

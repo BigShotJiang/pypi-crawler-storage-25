@@ -1,11 +1,11 @@
 {
   "name": "ufal-mcp",
-  "version": "0.7.7",
+  "version": "0.7.10",
   "summary": "MCP server pro ÚFAL MFF UK NLP nástroje — production-grade anonymizace, multilingvální NER (33+ jazyků) + UDPipe (961 modelů, auto-detect 8 jazyků), Charles Translator (8 jazyků), PONK rich output (4 feature sety), Korektor, NameTag XML/vertical",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ufal_mcp-0.7.7.tar.gz",
-  "download_time": "2026-05-21T19:32:08.940965",
+  "download_filename": "ufal_mcp-0.7.10.tar.gz",
+  "download_time": "2026-05-22T21:05:38.620982",
   "package_url": "https://pypi.org/project/ufal-mcp/"
 }

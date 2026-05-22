@@ -1,0 +1,11 @@
+{
+  "name": "contas-municipais",
+  "version": "0.1.0",
+  "summary": "Framework para parsing de relatórios financeiros de municípios portugueses (POCAL e SNC-AP)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contas_municipais-0.1.0.tar.gz",
+  "download_time": "2026-05-22T21:05:08.006416",
+  "package_url": "https://pypi.org/project/contas-municipais/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "amesa-cli-dev",
-  "version": "0.28.0.dev9",
+  "version": "0.30.0.dev4",
   "summary": "the Amesa CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "amesa_cli_dev-0.28.0.dev9-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2026-05-21T21:25:28.785893",
+  "download_filename": "amesa_cli_dev-0.30.0.dev4-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2026-05-22T21:05:34.855660",
   "package_url": "https://pypi.org/project/amesa-cli-dev/"
 }
