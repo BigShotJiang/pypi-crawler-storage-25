@@ -1,11 +1,11 @@
 {
   "name": "manager-for-ynab",
-  "version": "1.7.1",
+  "version": "1.8.0",
   "summary": "Manager for YNAB",
   "author": "Max R",
   "license": "MIT",
   "home_page": "https://github.com/mxr/manager-for-ynab",
-  "download_filename": "manager_for_ynab-1.7.1.tar.gz",
-  "download_time": "2026-05-14T18:28:28.113571",
+  "download_filename": "manager_for_ynab-1.8.0.tar.gz",
+  "download_time": "2026-05-22T23:32:53.393591",
   "package_url": "https://pypi.org/project/manager-for-ynab/"
 }

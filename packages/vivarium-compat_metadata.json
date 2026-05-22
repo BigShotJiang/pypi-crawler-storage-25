@@ -1,11 +1,11 @@
 {
   "name": "vivarium-compat",
-  "version": "0.2.0",
+  "version": "0.6.1",
   "summary": "Backward-compatible import redirects for the vivarium monorepo migration.",
   "author": null,
-  "license": null,
+  "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "vivarium_compat-0.2.0.tar.gz",
-  "download_time": "2026-05-13T23:17:19.313829",
+  "download_filename": "vivarium_compat-0.6.1.tar.gz",
+  "download_time": "2026-05-22T23:33:18.893394",
   "package_url": "https://pypi.org/project/vivarium-compat/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tunnelgo-client",
+  "version": "3.0.0",
+  "summary": "TunnelGo 内网穿透客户端 - Go Server Compatible, 支持 IPv6/IPv4 P2P + 服务器中转 + HTTP独立端口 + TCP转发 + 子域名路由",
+  "author": "TunnelGo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tunnelgo_client-3.0.0.tar.gz",
+  "download_time": "2026-05-22T23:33:01.237291",
+  "package_url": "https://pypi.org/project/tunnelgo-client/"
+}

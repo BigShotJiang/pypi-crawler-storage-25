@@ -1,0 +1,11 @@
+{
+  "name": "fletchr-uintn",
+  "version": "0.0.1rc1",
+  "summary": "PyArrow extension array of unsigned integers with arbitrary fixed bit width N in [1, 64].",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fletchr_uintn-0.0.1rc1-py3-none-any.whl",
+  "download_time": "2026-05-22T23:33:23.769403",
+  "package_url": "https://pypi.org/project/fletchr-uintn/"
+}

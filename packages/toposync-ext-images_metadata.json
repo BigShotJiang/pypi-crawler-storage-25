@@ -1,11 +1,11 @@
 {
   "name": "toposync-ext-images",
-  "version": "0.1.13",
+  "version": "0.1.15",
   "summary": "Toposync first-party extension: import images as overlays or tracing references.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toposync_ext_images-0.1.13.tar.gz",
-  "download_time": "2026-05-22T22:19:32.953187",
+  "download_filename": "toposync_ext_images-0.1.15.tar.gz",
+  "download_time": "2026-05-22T23:33:07.203851",
   "package_url": "https://pypi.org/project/toposync-ext-images/"
 }

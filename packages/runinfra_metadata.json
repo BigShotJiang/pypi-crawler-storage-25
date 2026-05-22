@@ -1,0 +1,11 @@
+{
+  "name": "runinfra",
+  "version": "0.1.1",
+  "summary": "RunInfra SDK for optimized inference deployments (beta; LLM + embeddings tested, image/audio surfaces experimental)",
+  "author": "RunInfra",
+  "license": "RunInfra SDK License\n        Copyright (c) 2026 RightNow AI, Inc.\n        \n        This software is licensed under a proprietary, source-available license.\n        By installing, copying, or using this package you agree to the terms below.\n        \n        1. Permitted use\n           You may use this SDK to integrate your own applications with RunInfra\n           inference services hosted at api.runinfra.ai. This includes:\n           - Calling the public gateway endpoints documented in the README.\n           - Embedding this SDK in your applications (commercial or personal),\n             provided your use does not violate Section 2.\n        \n        2. Restrictions\n           You may not:\n           - Redistribute or sublicense this SDK in modified form.\n           - Use this SDK to reverse-engineer, replicate, or impair the RunInfra\n             hosted service.\n           - Remove or alter the attribution notices in this LICENSE or in package\n             metadata.\n           - Misrepresent the origin of this SDK or its packaging artifacts.\n        \n        3. No warranty\n           This SDK is provided \"as is\", without warranty of any kind, express or\n           implied, including but not limited to merchantability, fitness for a\n           particular purpose, and non-infringement. In no event shall RightNow AI,\n           Inc. or its affiliates be liable for any claim, damages, or other\n           liability arising from the use of this SDK.\n        \n        4. Termination\n           This license terminates automatically if you breach any of the\n           restrictions in Section 2. Upon termination, you must cease all use of\n           this SDK and delete all copies in your possession.\n        \n        5. Contact\n           For commercial licensing inquiries, partnerships, or questions about\n           this license, contact licensing@runinfra.ai.\n        ",
+  "home_page": null,
+  "download_filename": "runinfra-0.1.1.tar.gz",
+  "download_time": "2026-05-22T23:33:30.879600",
+  "package_url": "https://pypi.org/project/runinfra/"
+}

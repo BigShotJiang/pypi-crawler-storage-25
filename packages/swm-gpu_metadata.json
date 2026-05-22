@@ -1,0 +1,11 @@
+{
+  "name": "swm-gpu",
+  "version": "0.2.1",
+  "summary": "One CLI to search, provision, and manage cloud GPUs across 10 providers",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "swm_gpu-0.2.1.tar.gz",
+  "download_time": "2026-05-22T23:33:02.849080",
+  "package_url": "https://pypi.org/project/swm-gpu/"
+}

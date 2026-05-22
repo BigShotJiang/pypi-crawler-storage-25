@@ -1,0 +1,11 @@
+{
+  "name": "eigsep_redis",
+  "version": "2.3.0",
+  "summary": "Redis transport and bus surfaces for the EIGSEP experiment.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eigsep_redis-2.3.0.tar.gz",
+  "download_time": "2026-05-22T23:33:33.061837",
+  "package_url": "https://pypi.org/project/eigsep_redis/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-tools-mcp",
+  "version": "0.1.3",
+  "summary": "Search and call x402 paid services from any MCP-compatible agent (Claude, Cursor, Cline).",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agent_tools_mcp-0.1.3.tar.gz",
+  "download_time": "2026-05-22T23:32:49.434764",
+  "package_url": "https://pypi.org/project/agent-tools-mcp/"
+}

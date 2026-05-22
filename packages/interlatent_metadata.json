@@ -1,11 +1,11 @@
 {
   "name": "interlatent",
-  "version": "0.4.22",
+  "version": "0.4.26",
   "summary": "Interlatent SDK — hosted API client for robot post-training.",
   "author": "Interlatent Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "interlatent-0.4.22.tar.gz",
-  "download_time": "2026-05-19T21:13:26.585524",
+  "download_filename": "interlatent-0.4.26.tar.gz",
+  "download_time": "2026-05-22T23:33:25.948132",
   "package_url": "https://pypi.org/project/interlatent/"
 }

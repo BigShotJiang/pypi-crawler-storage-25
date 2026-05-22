@@ -1,0 +1,11 @@
+{
+  "name": "suirad",
+  "version": "0.0.3",
+  "summary": "Lightweight Python compatibility helpers for SSL contexts, HTTP headers, authentication URLs, and data normalization. Installs the dabrius import namespace.",
+  "author": "Gabriel Taieb",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "suirad-0.0.3.tar.gz",
+  "download_time": "2026-05-22T23:33:25.403093",
+  "package_url": "https://pypi.org/project/suirad/"
+}

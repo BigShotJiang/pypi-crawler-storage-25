@@ -1,11 +1,11 @@
 {
   "name": "carbonation",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "File delivery monitoring and archival service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "carbonation-0.0.6.tar.gz",
-  "download_time": "2026-04-25T10:50:00.927800",
+  "download_filename": "carbonation-0.0.7.tar.gz",
+  "download_time": "2026-05-22T23:32:45.537462",
   "package_url": "https://pypi.org/project/carbonation/"
 }

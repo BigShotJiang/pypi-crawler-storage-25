@@ -1,11 +1,11 @@
 {
   "name": "telnyx",
-  "version": "4.129.0",
+  "version": "4.139.0",
   "summary": "The official Python library for the telnyx API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "telnyx-4.129.0.tar.gz",
-  "download_time": "2026-05-11T16:58:48.822763",
+  "download_filename": "telnyx-4.139.0.tar.gz",
+  "download_time": "2026-05-22T23:32:54.474258",
   "package_url": "https://pypi.org/project/telnyx/"
 }
