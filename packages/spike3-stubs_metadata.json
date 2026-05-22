@@ -1,0 +1,11 @@
+{
+  "name": "spike3-stubs",
+  "version": "0.1.1",
+  "summary": "Unofficial type stubs for LEGO SPIKE Prime Python v3 providing VS Code IntelliSense and autocomplete support",
+  "author": "Paul Spitaler",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spike3_stubs-0.1.1.tar.gz",
+  "download_time": "2026-05-22T12:16:23.996108",
+  "package_url": "https://pypi.org/project/spike3-stubs/"
+}

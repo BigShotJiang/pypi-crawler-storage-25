@@ -1,11 +1,11 @@
 {
   "name": "ads-bib",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Pipeline for querying and turning NASA's ADS publications metadata into curated, analysis-ready datasets, topic maps, and citation networks.",
   "author": "Raphael Schlattmann",
   "license": null,
   "home_page": null,
-  "download_filename": "ads_bib-0.3.1.tar.gz",
-  "download_time": "2026-05-08T12:15:17.555865",
+  "download_filename": "ads_bib-0.3.3.tar.gz",
+  "download_time": "2026-05-22T12:16:44.652652",
   "package_url": "https://pypi.org/project/ads-bib/"
 }

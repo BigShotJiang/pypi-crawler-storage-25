@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-gnani",
+  "version": "0.4.0",
+  "summary": "LiveKit Agents plugin for Gnani Vachana speech AI — STT & TTS for Indian languages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_gnani-0.4.0.tar.gz",
+  "download_time": "2026-05-22T12:16:43.519526",
+  "package_url": "https://pypi.org/project/livekit-plugins-gnani/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dsp-tools",
-  "version": "18.14.0.post5",
+  "version": "18.15.0",
   "summary": "DSP-TOOLS is a Python package with a command line interface that helps you interact with a DaSCH service platform (DSP) server.",
   "author": "DaSCH - Swiss National Data and Service Center for the Humanities",
   "license": null,
   "home_page": null,
-  "download_filename": "dsp_tools-18.14.0.post5.tar.gz",
-  "download_time": "2026-05-13T09:57:13.452821",
+  "download_filename": "dsp_tools-18.15.0.tar.gz",
+  "download_time": "2026-05-22T12:16:55.659691",
   "package_url": "https://pypi.org/project/dsp-tools/"
 }

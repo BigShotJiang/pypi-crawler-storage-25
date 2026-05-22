@@ -1,11 +1,11 @@
 {
   "name": "pulumi-archive",
-  "version": "0.3.8",
+  "version": "0.4.0",
   "summary": "A Pulumi package for creating and managing Archive cloud resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_archive-0.3.8.tar.gz",
-  "download_time": "2026-05-02T06:21:03.541313",
+  "download_filename": "pulumi_archive-0.4.0.tar.gz",
+  "download_time": "2026-05-22T12:16:13.764064",
   "package_url": "https://pypi.org/project/pulumi-archive/"
 }
