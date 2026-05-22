@@ -1,11 +1,11 @@
 {
   "name": "ltcai",
-  "version": "0.1.3",
+  "version": "0.1.19",
   "summary": "Lattice AI local MLX/cloud LLM workspace server",
-  "author": null,
+  "author": "TaeSoo Park",
   "license": null,
   "home_page": null,
-  "download_filename": "ltcai-0.1.3.tar.gz",
-  "download_time": "2026-05-17T21:43:29.499679",
+  "download_filename": "ltcai-0.1.19.tar.gz",
+  "download_time": "2026-05-22T17:35:01.071848",
   "package_url": "https://pypi.org/project/ltcai/"
 }

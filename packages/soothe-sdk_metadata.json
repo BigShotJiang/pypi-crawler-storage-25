@@ -1,11 +1,11 @@
 {
   "name": "soothe-sdk",
-  "version": "0.5.6",
+  "version": "0.5.15",
   "summary": "SDK for building Soothe plugins and client utilities - restructured module architecture (breaking change)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "soothe_sdk-0.5.6.tar.gz",
-  "download_time": "2026-05-13T16:54:10.557442",
+  "download_filename": "soothe_sdk-0.5.15.tar.gz",
+  "download_time": "2026-05-22T17:34:28.916449",
   "package_url": "https://pypi.org/project/soothe-sdk/"
 }

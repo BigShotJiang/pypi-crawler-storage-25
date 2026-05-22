@@ -1,0 +1,11 @@
+{
+  "name": "git-changelists",
+  "version": "1.1.8",
+  "summary": "Git subcommand for named changelist support. Group working directory files by intent, then stage, commit, or branch by changelist.",
+  "author": "Bjoern Hendrik Fock",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/BHFock/git-cl",
+  "download_filename": "git_changelists-1.1.8.tar.gz",
+  "download_time": "2026-05-22T17:34:37.136238",
+  "package_url": "https://pypi.org/project/git-changelists/"
+}

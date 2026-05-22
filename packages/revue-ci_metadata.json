@@ -1,0 +1,11 @@
+{
+  "name": "revue-ci",
+  "version": "0.20.2",
+  "summary": "Revue CI/CLI entry point — multi-agent code review for CI runners.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://revue.sh",
+  "download_filename": "revue_ci-0.20.2-cp312-cp312-macosx_14_0_arm64.whl",
+  "download_time": "2026-05-22T17:34:29.458675",
+  "package_url": "https://pypi.org/project/revue-ci/"
+}

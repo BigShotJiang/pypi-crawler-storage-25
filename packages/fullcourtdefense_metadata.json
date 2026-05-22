@@ -1,0 +1,11 @@
+{
+  "name": "fullcourtdefense",
+  "version": "1.0.3",
+  "summary": "Full Court Defense — real-time AI firewall for chatbots, agents and RAG pipelines. Tool-call guards for MCP, LangChain, LlamaIndex, AutoGen, CrewAI and Semantic Kernel. Multi-tier threat detection (regex → ML → semantic → AI judge) under 15ms.",
+  "author": "Full Court Defense",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fullcourtdefense-1.0.3.tar.gz",
+  "download_time": "2026-05-22T17:35:17.118303",
+  "package_url": "https://pypi.org/project/fullcourtdefense/"
+}

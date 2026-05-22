@@ -1,0 +1,11 @@
+{
+  "name": "rlbridge",
+  "version": "0.1.2",
+  "summary": "Reinforcement Learning Bridge - connects LLMs to RL environments, automates language-based problem construction, and derives instructions for long-term goals without user supervision",
+  "author": "Philip Osborne",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rlbridge-0.1.2-py3-none-any.whl",
+  "download_time": "2026-05-22T17:35:00.021340",
+  "package_url": "https://pypi.org/project/rlbridge/"
+}

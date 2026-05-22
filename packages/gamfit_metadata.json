@@ -1,11 +1,11 @@
 {
   "name": "gamfit",
-  "version": "0.1.92",
+  "version": "0.1.105",
   "summary": "Formula-first generalized additive models with a high-performance Rust core",
   "author": "SauersML",
   "license": null,
   "home_page": null,
-  "download_filename": "gamfit-0.1.92.tar.gz",
-  "download_time": "2026-05-21T00:01:10.137612",
+  "download_filename": "gamfit-0.1.105.tar.gz",
+  "download_time": "2026-05-22T17:35:10.209316",
   "package_url": "https://pypi.org/project/gamfit/"
 }

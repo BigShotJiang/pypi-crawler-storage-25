@@ -1,0 +1,11 @@
+{
+  "name": "gemma-miner",
+  "version": "0.1.5",
+  "summary": "An autonomous text-to-dataset agent — turns any website or document corpus into a typed, research-grade dataset in minutes. Works with Gemma, Llama, Gemini, GPT and any OpenAI-compatible model.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gemma_miner-0.1.5.tar.gz",
+  "download_time": "2026-05-22T17:34:52.463486",
+  "package_url": "https://pypi.org/project/gemma-miner/"
+}

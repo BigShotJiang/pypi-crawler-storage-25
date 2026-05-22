@@ -1,11 +1,11 @@
 {
   "name": "amazingvmsloth",
-  "version": "0.2.6",
-  "summary": "Blazing-fast LLM fine-tuning with minimal VRAM — multi-GPU, manual LoRA gradients, flash attention, 4-bit quant",
+  "version": "0.3.0",
+  "summary": "Blazing-fast LLM fine-tuning with minimal VRAM — multi-GPU, manual LoRA gradients, flash attention, 4-bit quant, web dashboard",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "amazingvmsloth-0.2.6.tar.gz",
-  "download_time": "2026-05-18T17:24:14.555701",
+  "download_filename": "amazingvmsloth-0.3.0.tar.gz",
+  "download_time": "2026-05-22T17:35:19.248991",
   "package_url": "https://pypi.org/project/amazingvmsloth/"
 }
