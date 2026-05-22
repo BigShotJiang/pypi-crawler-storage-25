@@ -1,11 +1,11 @@
 {
   "name": "yak-server",
-  "version": "0.80.0",
+  "version": "0.83.0",
   "summary": "Football bet rest server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yak_server-0.80.0.tar.gz",
-  "download_time": "2026-04-18T22:10:58.480720",
+  "download_filename": "yak_server-0.83.0.tar.gz",
+  "download_time": "2026-05-22T22:19:47.556840",
   "package_url": "https://pypi.org/project/yak-server/"
 }

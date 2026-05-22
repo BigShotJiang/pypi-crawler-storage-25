@@ -1,0 +1,11 @@
+{
+  "name": "vdm-nexus",
+  "version": "0.2.2",
+  "summary": "Python SDK for VDM Nexus — autonomous AI agents that authenticate and pay for compute with a Solana keypair. No API keys.",
+  "author": "VDM Nexus",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vdm_nexus-0.2.2.tar.gz",
+  "download_time": "2026-05-22T22:19:38.170188",
+  "package_url": "https://pypi.org/project/vdm-nexus/"
+}

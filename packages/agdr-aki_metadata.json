@@ -1,0 +1,11 @@
+{
+  "name": "agdr-aki",
+  "version": "1.8.12",
+  "summary": "AgDR-AKI: Sub-microsecond AI accountability SDK. Court-admissible forensic records (PPP Triplet) with cryptographic proof for regulated AI (EU AI Act, Canada Evidence Act).",
+  "author": null,
+  "license": "Apache-2.0 OR CC0-1.0",
+  "home_page": "https://accountability.ai",
+  "download_filename": "agdr_aki-1.8.12.tar.gz",
+  "download_time": "2026-05-22T22:19:39.795633",
+  "package_url": "https://pypi.org/project/agdr-aki/"
+}

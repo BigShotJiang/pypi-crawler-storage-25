@@ -1,11 +1,11 @@
 {
   "name": "sentience-governor",
-  "version": "0.2.4",
-  "summary": "Execution-boundary governance for AI agents — observe execution, surface divergence from intent, and understand where compute went.",
+  "version": "0.2.5.5",
+  "summary": "Local-first governance for AI agents — wire it into Claude Code in one command, observe execution against an operator-authored policy, and see where compute and intent diverged.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sentience_governor-0.2.4.tar.gz",
-  "download_time": "2026-05-11T16:59:13.748363",
+  "download_filename": "sentience_governor-0.2.5.5.tar.gz",
+  "download_time": "2026-05-22T22:20:00.174093",
   "package_url": "https://pypi.org/project/sentience-governor/"
 }

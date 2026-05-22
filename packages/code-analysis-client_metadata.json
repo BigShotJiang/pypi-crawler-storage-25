@@ -1,0 +1,11 @@
+{
+  "name": "code-analysis-client",
+  "version": "1.0.6",
+  "summary": "Async JSON-RPC client for the code-analysis MCP server (mcp-proxy-adapter JsonRpcClient)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "code_analysis_client-1.0.6.tar.gz",
+  "download_time": "2026-05-22T22:20:15.556990",
+  "package_url": "https://pypi.org/project/code-analysis-client/"
+}

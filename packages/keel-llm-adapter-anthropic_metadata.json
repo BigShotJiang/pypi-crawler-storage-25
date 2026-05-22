@@ -1,0 +1,11 @@
+{
+  "name": "keel-llm-adapter-anthropic",
+  "version": "0.1.0",
+  "summary": "Reference keel-llm-protocol adapter for Anthropic's Messages API — the divergent-provider grounding for the standard.",
+  "author": "Raj Yakkali",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "keel_llm_adapter_anthropic-0.1.0.tar.gz",
+  "download_time": "2026-05-22T22:19:45.398250",
+  "package_url": "https://pypi.org/project/keel-llm-adapter-anthropic/"
+}

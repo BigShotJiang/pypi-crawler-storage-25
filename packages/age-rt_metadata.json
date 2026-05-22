@@ -1,0 +1,11 @@
+{
+  "name": "age-rt",
+  "version": "0.2.1",
+  "summary": "A minimalistic Python implementation of age-encryption.org including an unofficial real-time variant.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "age_rt-0.2.1.tar.gz",
+  "download_time": "2026-05-22T22:20:09.225627",
+  "package_url": "https://pypi.org/project/age-rt/"
+}

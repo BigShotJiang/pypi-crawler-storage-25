@@ -1,11 +1,11 @@
 {
   "name": "quoriv",
-  "version": "1.2.0",
+  "version": "1.4.1",
   "summary": "Open-source terminal AI coding agent with multi-model support (OpenAI, Anthropic, Gemini, Ollama, vLLM).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quoriv-1.2.0.tar.gz",
-  "download_time": "2026-05-22T21:05:44.946642",
+  "download_filename": "quoriv-1.4.1.tar.gz",
+  "download_time": "2026-05-22T22:19:46.480962",
   "package_url": "https://pypi.org/project/quoriv/"
 }

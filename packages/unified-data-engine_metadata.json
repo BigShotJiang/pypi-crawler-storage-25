@@ -1,11 +1,11 @@
 {
   "name": "unified-data-engine",
-  "version": "2.7.1",
+  "version": "3.1.4",
   "summary": "A GCP-native, dbt-powered micro-batch data pipeline engine",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unified_data_engine-2.7.1.tar.gz",
-  "download_time": "2026-05-20T20:49:25.082439",
+  "download_filename": "unified_data_engine-3.1.4.tar.gz",
+  "download_time": "2026-05-22T22:20:00.711729",
   "package_url": "https://pypi.org/project/unified-data-engine/"
 }

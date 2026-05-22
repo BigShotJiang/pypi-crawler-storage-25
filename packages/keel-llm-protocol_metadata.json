@@ -1,0 +1,11 @@
+{
+  "name": "keel-llm-protocol",
+  "version": "0.1.0",
+  "summary": "The universal ModelAdapter Protocol for LLM clients — a vendor-neutral adapter interface (the \"JDBC of LLMs\"). Zero dependencies.",
+  "author": "Raj Yakkali",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "keel_llm_protocol-0.1.0.tar.gz",
+  "download_time": "2026-05-22T22:20:24.865292",
+  "package_url": "https://pypi.org/project/keel-llm-protocol/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "orion-notebook",
+  "version": "0.5.0",
+  "summary": "Local Orion CLI launcher for notebooks and Jupyter",
+  "author": "Nicolas Fonteyne",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "orion_notebook-0.5.0.tar.gz",
+  "download_time": "2026-05-22T22:20:01.229699",
+  "package_url": "https://pypi.org/project/orion-notebook/"
+}
