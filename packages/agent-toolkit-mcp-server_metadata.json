@@ -1,0 +1,11 @@
+{
+  "name": "agent-toolkit-mcp-server",
+  "version": "0.4.0",
+  "summary": "MCP server providing persistent notes, todos, timers, and a cross-project registry — capabilities that augment Claude Code's built-in harness.",
+  "author": "PaperBackPear3",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_toolkit_mcp_server-0.4.0.tar.gz",
+  "download_time": "2026-05-22T09:34:30.639428",
+  "package_url": "https://pypi.org/project/agent-toolkit-mcp-server/"
+}

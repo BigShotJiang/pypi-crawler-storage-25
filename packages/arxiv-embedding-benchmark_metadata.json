@@ -1,0 +1,11 @@
+{
+  "name": "arxiv-embedding-benchmark",
+  "version": "0.1.0",
+  "summary": "Benchmark embedding models on academic paper similarity and retrieval tasks.",
+  "author": "Cody Champion",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arxiv_embedding_benchmark-0.1.0.tar.gz",
+  "download_time": "2026-05-22T09:34:44.232491",
+  "package_url": "https://pypi.org/project/arxiv-embedding-benchmark/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "libsonare",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "summary": "Fast audio analysis library with C++ and Python bindings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "libsonare-1.0.4-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-05-16T20:57:03.690213",
+  "download_filename": "libsonare-1.1.0-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-22T09:34:23.874115",
   "package_url": "https://pypi.org/project/libsonare/"
 }

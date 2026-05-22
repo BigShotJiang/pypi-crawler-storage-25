@@ -1,0 +1,11 @@
+{
+  "name": "stainful",
+  "version": "0.6.0",
+  "summary": "Fully open-source, drop-in stainless.yml-compatible idiomatic SDK generator — Python and TypeScript from one config.",
+  "author": "the stainful contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stainful-0.6.0.tar.gz",
+  "download_time": "2026-05-22T09:33:58.815481",
+  "package_url": "https://pypi.org/project/stainful/"
+}

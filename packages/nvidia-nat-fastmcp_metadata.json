@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-fastmcp",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "summary": "Subpackage for FastMCP server integration in NeMo Agent Toolkit",
   "author": "NVIDIA Corporation",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nvidia_nat_fastmcp-1.6.0-py3-none-any.whl",
-  "download_time": "2026-04-18T10:12:50.329306",
+  "download_filename": "nvidia_nat_fastmcp-1.7.0-py3-none-any.whl",
+  "download_time": "2026-05-22T09:34:20.225137",
   "package_url": "https://pypi.org/project/nvidia-nat-fastmcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "saltare",
+  "version": "1.9.0",
+  "summary": "Low-RAM ASGI HTTP server with a Zig backbone.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "saltare-1.9.0.tar.gz",
+  "download_time": "2026-05-22T09:34:09.771080",
+  "package_url": "https://pypi.org/project/saltare/"
+}

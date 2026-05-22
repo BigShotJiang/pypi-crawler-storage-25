@@ -1,0 +1,11 @@
+{
+  "name": "proxy-platform",
+  "version": "0.3.2",
+  "summary": "CLI client for the Proxy Platform",
+  "author": "Proxy Platform B.V.",
+  "license": "Proprietary - Proxy Platform B.V.",
+  "home_page": null,
+  "download_filename": "proxy_platform-0.3.2.tar.gz",
+  "download_time": "2026-05-22T09:34:08.201368",
+  "package_url": "https://pypi.org/project/proxy-platform/"
+}
