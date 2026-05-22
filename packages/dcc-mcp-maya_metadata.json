@@ -1,11 +1,11 @@
 {
   "name": "dcc-mcp-maya",
-  "version": "0.3.3",
+  "version": "0.3.7",
   "summary": "Maya plugin for the DCC Model Context Protocol (MCP) ecosystem — embeds a Streamable HTTP MCP server directly inside Maya",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dcc_mcp_maya-0.3.3.tar.gz",
-  "download_time": "2026-05-19T00:29:24.504189",
+  "download_filename": "dcc_mcp_maya-0.3.7.tar.gz",
+  "download_time": "2026-05-22T01:49:33.503631",
   "package_url": "https://pypi.org/project/dcc-mcp-maya/"
 }

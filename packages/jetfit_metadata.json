@@ -1,0 +1,11 @@
+{
+  "name": "jetfit",
+  "version": "0.1.0",
+  "summary": "LLM model advisor for NVIDIA Jetson and DGX Spark unified-memory devices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jetfit-0.1.0.tar.gz",
+  "download_time": "2026-05-22T01:49:15.890487",
+  "package_url": "https://pypi.org/project/jetfit/"
+}

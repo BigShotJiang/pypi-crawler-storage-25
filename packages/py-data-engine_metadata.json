@@ -1,11 +1,11 @@
 {
   "name": "py-data-engine",
-  "version": "0.2.4",
-  "summary": "Workbook-driven workflow jobs with strict filename parsing and DuckDB-backed processing.",
+  "version": "0.3.12",
+  "summary": "GUI orchestrator for python-based dataframe transform pipelines.",
   "author": "Data Engine contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "py_data_engine-0.2.4.tar.gz",
-  "download_time": "2026-04-17T11:20:49.709936",
+  "download_filename": "py_data_engine-0.3.12.tar.gz",
+  "download_time": "2026-05-22T01:49:30.795059",
   "package_url": "https://pypi.org/project/py-data-engine/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pylogft",
+  "version": "0.1.1",
+  "summary": "A friendly, zero-config Python logger with pretty output, structured context, file rotation, and clean stdlib interop.",
+  "author": "pylogft",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylogft-0.1.1.tar.gz",
+  "download_time": "2026-05-22T01:49:31.329150",
+  "package_url": "https://pypi.org/project/pylogft/"
+}

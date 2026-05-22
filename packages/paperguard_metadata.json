@@ -1,11 +1,11 @@
 {
   "name": "paperguard",
-  "version": "2.1.17",
+  "version": "2.2.4",
   "summary": "Statistical anomaly screener for tabular research data",
   "author": "PaperGuard Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "paperguard-2.1.17.tar.gz",
-  "download_time": "2026-05-21T23:54:57.751000",
+  "download_filename": "paperguard-2.2.4.tar.gz",
+  "download_time": "2026-05-22T01:49:47.156622",
   "package_url": "https://pypi.org/project/paperguard/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "eforge",
-  "version": "1.0.1",
-  "summary": "Renderer-agnostic project runtime and manifest interpreter for the Forge ecosystem",
+  "version": "1.0.4",
+  "summary": "Codebase observation graph and mapping tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eforge-1.0.1-py3-none-any.whl",
-  "download_time": "2026-05-19T14:39:22.477070",
+  "download_filename": "eforge-1.0.4-py3-none-any.whl",
+  "download_time": "2026-05-22T01:49:26.880486",
   "package_url": "https://pypi.org/project/eforge/"
 }

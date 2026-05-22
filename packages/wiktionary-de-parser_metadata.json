@@ -1,0 +1,11 @@
+{
+  "name": "wiktionary-de-parser",
+  "version": "0.14.1",
+  "summary": "Extracts data from German Wiktionary dump files.",
+  "author": "Gregor Weichbrodt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wiktionary_de_parser-0.14.1.tar.gz",
+  "download_time": "2026-05-22T01:49:53.132538",
+  "package_url": "https://pypi.org/project/wiktionary-de-parser/"
+}

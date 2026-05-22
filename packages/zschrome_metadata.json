@@ -1,0 +1,11 @@
+{
+  "name": "zschrome",
+  "version": "0.2.1",
+  "summary": "ZSChrome — RPA browser automation toolkit for Chrome. Control your own browser with Python via Chrome Extension + WebSocket.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zschrome-0.2.1.tar.gz",
+  "download_time": "2026-05-22T01:49:54.200773",
+  "package_url": "https://pypi.org/project/zschrome/"
+}
