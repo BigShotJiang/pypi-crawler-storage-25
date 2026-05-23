@@ -1,0 +1,11 @@
+{
+  "name": "thrdi",
+  "version": "0.0.5",
+  "summary": "Trace any agentic CLI to a unified local store, queryable from the CLI.",
+  "author": "Duncan McKinnon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "thrdi-0.0.5.tar.gz",
+  "download_time": "2026-05-23T17:31:38.464760",
+  "package_url": "https://pypi.org/project/thrdi/"
+}

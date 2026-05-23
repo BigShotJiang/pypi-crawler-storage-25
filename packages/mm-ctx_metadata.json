@@ -1,11 +1,11 @@
 {
   "name": "mm-ctx",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "summary": "Fast, multimodal context for agents.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mm_ctx-0.12.0-cp310-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2026-05-08T20:18:27.064271",
+  "download_filename": "mm_ctx-0.13.0-cp310-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-23T17:31:50.962420",
   "package_url": "https://pypi.org/project/mm-ctx/"
 }

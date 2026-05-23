@@ -1,0 +1,11 @@
+{
+  "name": "augur-schema",
+  "version": "0.2.1",
+  "summary": "Augur schema package — canonical JSON Schemas for CUA debugger records.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "augur_schema-0.2.1.tar.gz",
+  "download_time": "2026-05-23T17:31:38.977578",
+  "package_url": "https://pypi.org/project/augur-schema/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ssh-licco",
-  "version": "0.5.2",
+  "version": "0.5.4",
   "summary": "SSH Model Context Protocol Server - Enable SSH functionality for AI models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ssh_licco-0.5.2.tar.gz",
-  "download_time": "2026-05-17T15:13:13.996825",
+  "download_filename": "ssh_licco-0.5.4.tar.gz",
+  "download_time": "2026-05-23T17:31:53.017146",
   "package_url": "https://pypi.org/project/ssh-licco/"
 }

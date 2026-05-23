@@ -1,11 +1,11 @@
 {
   "name": "gost-academic",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Academic essay templater — GTK4/libadwaita app for LaTeX, Typst, and Word templates",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "gost_academic-0.1.5.tar.gz",
-  "download_time": "2026-05-23T15:15:30.888101",
+  "download_filename": "gost_academic-0.1.7.tar.gz",
+  "download_time": "2026-05-23T17:31:26.588484",
   "package_url": "https://pypi.org/project/gost-academic/"
 }

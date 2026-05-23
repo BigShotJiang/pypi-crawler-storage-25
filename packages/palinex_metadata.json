@@ -1,11 +1,11 @@
 {
   "name": "palinex",
-  "version": "0.0.6",
+  "version": "0.2.0",
   "summary": "Typed Python builders + single-file HTML renderer for a2ui v0.9 surfaces. palin- (again) + nexus (bond) — surfaces get rewritten.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "palinex-0.0.6.tar.gz",
-  "download_time": "2026-05-22T23:33:16.713135",
+  "download_filename": "palinex-0.2.0.tar.gz",
+  "download_time": "2026-05-23T17:31:42.101401",
   "package_url": "https://pypi.org/project/palinex/"
 }

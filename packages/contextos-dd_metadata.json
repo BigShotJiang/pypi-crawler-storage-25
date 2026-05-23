@@ -1,11 +1,11 @@
 {
   "name": "contextos-dd",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Local-first, IDE-agnostic agentic memory lifecycle manager",
   "author": "DataDojo",
   "license": null,
   "home_page": null,
-  "download_filename": "contextos_dd-0.1.2.tar.gz",
-  "download_time": "2026-05-16T17:44:07.039631",
+  "download_filename": "contextos_dd-0.1.5.tar.gz",
+  "download_time": "2026-05-23T17:31:52.504976",
   "package_url": "https://pypi.org/project/contextos-dd/"
 }

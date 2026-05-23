@@ -1,11 +1,11 @@
 {
   "name": "SAMBA-ilum-mag",
-  "version": "1.0.0.88",
+  "version": "1.0.0.91",
   "summary": "The SAMBA code is an open-source, high-throughput Python workflow for generating, simulating, and analyzing twisted bilayers. It features modules for: (i) creating thousands of quasi-commensurate structures via the coincidence lattice method; (ii) assist in the running DFT calculations using VASP; and (iii) extracting and organizing structural, electronic, and energetic properties into a robust dataset.",
   "author": "Augusto de Lelis Araujo",
   "license": "GNU General Public License v3.0",
   "home_page": null,
-  "download_filename": "samba_ilum_mag-1.0.0.88.tar.gz",
-  "download_time": "2026-05-23T16:28:58.612287",
+  "download_filename": "samba_ilum_mag-1.0.0.91.tar.gz",
+  "download_time": "2026-05-23T17:31:24.527062",
   "package_url": "https://pypi.org/project/SAMBA-ilum-mag/"
 }

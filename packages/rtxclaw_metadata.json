@@ -1,11 +1,11 @@
 {
   "name": "rtxclaw",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Sovereign-inference TUI chat against an OpenAI-compatible vLLM endpoint.",
   "author": "rtxclaw.ai",
   "license": null,
   "home_page": null,
-  "download_filename": "rtxclaw-0.2.0.tar.gz",
-  "download_time": "2026-05-16T14:24:55.441073",
+  "download_filename": "rtxclaw-0.4.0.tar.gz",
+  "download_time": "2026-05-23T17:31:27.627304",
   "package_url": "https://pypi.org/project/rtxclaw/"
 }

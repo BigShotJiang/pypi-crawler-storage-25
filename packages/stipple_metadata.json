@@ -1,11 +1,11 @@
 {
   "name": "stipple",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "WebGPU scatter widget for Jupyter — render millions of points, lasso, return row indices to Python.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stipple-0.1.1.tar.gz",
-  "download_time": "2026-05-23T16:29:08.937050",
+  "download_filename": "stipple-0.1.2.tar.gz",
+  "download_time": "2026-05-23T17:32:00.817131",
   "package_url": "https://pypi.org/project/stipple/"
 }

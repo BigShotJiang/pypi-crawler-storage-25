@@ -1,11 +1,11 @@
 {
   "name": "ml2000",
-  "version": "0.1.26",
+  "version": "0.1.29",
   "summary": "A CLI tool to generate machine learning experiment templates and datasets.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ml2000-0.1.26.tar.gz",
-  "download_time": "2026-05-23T14:10:24.882380",
+  "download_filename": "ml2000-0.1.29.tar.gz",
+  "download_time": "2026-05-23T17:32:06.502092",
   "package_url": "https://pypi.org/project/ml2000/"
 }

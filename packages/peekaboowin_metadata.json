@@ -1,11 +1,11 @@
 {
   "name": "peekaboowin",
-  "version": "0.1.20",
+  "version": "0.1.22",
   "summary": "Windows 桌面自动化 MCP 服务器 - 让 AI 代理能看见和操作 Windows 桌面应用",
   "author": "wangneal",
   "license": null,
   "home_page": null,
-  "download_filename": "peekaboowin-0.1.20.tar.gz",
-  "download_time": "2026-05-23T15:15:44.956205",
+  "download_filename": "peekaboowin-0.1.22.tar.gz",
+  "download_time": "2026-05-23T17:31:54.059805",
   "package_url": "https://pypi.org/project/peekaboowin/"
 }
