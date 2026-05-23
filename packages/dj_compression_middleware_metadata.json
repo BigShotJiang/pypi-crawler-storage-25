@@ -1,0 +1,11 @@
+{
+  "name": "dj_compression_middleware",
+  "version": "0.0.5",
+  "summary": "Django middleware to compress responses with gzip, brotli and zstd.",
+  "author": "Mathieu Hinderyckx",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dj_compression_middleware-0.0.5.tar.gz",
+  "download_time": "2026-05-23T20:03:26.887868",
+  "package_url": "https://pypi.org/project/dj_compression_middleware/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "EMReport",
+  "version": "0.1.0",
+  "summary": "A Python library for evaluating machine learning models with comprehensive reports for regression, classification, and clustering tasks.",
+  "author": "alkiviadis",
+  "license": null,
+  "home_page": "https://github.com/Alkiviadisss/EMReport",
+  "download_filename": "emreport-0.1.0.tar.gz",
+  "download_time": "2026-05-23T20:03:53.791722",
+  "package_url": "https://pypi.org/project/EMReport/"
+}

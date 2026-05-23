@@ -1,11 +1,11 @@
 {
   "name": "kaos-content",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Abstract document AST for KAOS — Block/Inline content model, provenance, annotations, serialization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kaos_content-0.1.0.tar.gz",
-  "download_time": "2026-05-21T00:01:22.340592",
+  "download_filename": "kaos_content-0.1.1.tar.gz",
+  "download_time": "2026-05-23T20:03:56.412626",
   "package_url": "https://pypi.org/project/kaos-content/"
 }

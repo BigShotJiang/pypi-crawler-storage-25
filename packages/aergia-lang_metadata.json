@@ -1,11 +1,11 @@
 {
   "name": "aergia-lang",
-  "version": "1.6.0",
+  "version": "1.7.5",
   "summary": "The Aergia programming language",
   "author": "las-r",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "aergia_lang-1.6.0.tar.gz",
-  "download_time": "2026-04-28T00:15:31.724105",
+  "download_filename": "aergia_lang-1.7.5.tar.gz",
+  "download_time": "2026-05-23T20:03:18.012563",
   "package_url": "https://pypi.org/project/aergia-lang/"
 }

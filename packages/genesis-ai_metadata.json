@@ -1,11 +1,11 @@
 {
   "name": "genesis-ai",
-  "version": "0.6.17",
+  "version": "0.6.18",
   "summary": "Genesis — universal autonomous AI agent with multi-agent swarm execution",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "genesis_ai-0.6.17.tar.gz",
-  "download_time": "2026-05-22T21:05:13.673154",
+  "download_filename": "genesis_ai-0.6.18.tar.gz",
+  "download_time": "2026-05-23T20:03:37.234518",
   "package_url": "https://pypi.org/project/genesis-ai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fs-sav",
+  "version": "0.2.0",
+  "summary": "Foxhole save file parser - extracts stockpile data from .sav files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fs_sav-0.2.0.tar.gz",
+  "download_time": "2026-05-23T20:03:43.928465",
+  "package_url": "https://pypi.org/project/fs-sav/"
+}

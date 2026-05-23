@@ -1,11 +1,11 @@
 {
   "name": "kaos-mcp",
-  "version": "0.1.0a4",
+  "version": "0.1.1",
   "summary": "FastMCP runtime and server bridge for KAOS — exposes any KaosRuntime over stdio or streamable HTTP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kaos_mcp-0.1.0a4.tar.gz",
-  "download_time": "2026-05-16T20:56:56.376950",
+  "download_filename": "kaos_mcp-0.1.1.tar.gz",
+  "download_time": "2026-05-23T20:03:54.820496",
   "package_url": "https://pypi.org/project/kaos-mcp/"
 }

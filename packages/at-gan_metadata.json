@@ -1,11 +1,11 @@
 {
   "name": "at-gan",
-  "version": "0.11.6",
+  "version": "0.12.2",
   "summary": "Training Framework for Arbitrary Tabular Generative Adversarial Networks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "at_gan-0.11.6.tar.gz",
-  "download_time": "2026-05-23T16:29:18.337180",
+  "download_filename": "at_gan-0.12.2.tar.gz",
+  "download_time": "2026-05-23T20:03:41.338623",
   "package_url": "https://pypi.org/project/at-gan/"
 }

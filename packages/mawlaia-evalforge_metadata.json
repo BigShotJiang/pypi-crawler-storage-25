@@ -1,0 +1,11 @@
+{
+  "name": "mawlaia-evalforge",
+  "version": "0.4.2",
+  "summary": "Eval runner for LLM applications",
+  "author": "Mawlaia",
+  "license": "MIT",
+  "home_page": "https://mawlaia.com",
+  "download_filename": "mawlaia_evalforge-0.4.2.tar.gz",
+  "download_time": "2026-05-23T20:04:00.605947",
+  "package_url": "https://pypi.org/project/mawlaia-evalforge/"
+}

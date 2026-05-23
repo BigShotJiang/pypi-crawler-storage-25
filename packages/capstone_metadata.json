@@ -1,0 +1,11 @@
+{
+  "name": "capstone",
+  "version": "5.0.8",
+  "summary": "Capstone disassembly engine",
+  "author": "Nguyen Anh Quynh",
+  "license": null,
+  "home_page": "https://www.capstone-engine.org",
+  "download_filename": "capstone-5.0.8.tar.gz",
+  "download_time": "2026-05-23T20:03:35.157678",
+  "package_url": "https://pypi.org/project/capstone/"
+}

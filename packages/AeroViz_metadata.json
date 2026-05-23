@@ -1,0 +1,11 @@
+{
+  "name": "AeroViz",
+  "version": "0.3.1",
+  "summary": "Aerosol data processing and visualization toolkit. Read, QC, and analyze data from SMPS, APS, AE33, TEOM, Nephelometer, XRF, and 15+ atmospheric instruments.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aeroviz-0.3.1.tar.gz",
+  "download_time": "2026-05-23T20:03:58.549363",
+  "package_url": "https://pypi.org/project/AeroViz/"
+}

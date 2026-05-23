@@ -1,0 +1,11 @@
+{
+  "name": "factorweave",
+  "version": "0.1.2",
+  "summary": "Official Python client for the Factor Weave quant data API — factors, similarity search, leak-free labels, derived analytics, MCP.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "factorweave-0.1.2.tar.gz",
+  "download_time": "2026-05-23T20:03:31.548115",
+  "package_url": "https://pypi.org/project/factorweave/"
+}

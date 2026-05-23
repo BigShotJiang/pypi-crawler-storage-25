@@ -1,0 +1,11 @@
+{
+  "name": "ffmpeg-wrap",
+  "version": "0.3.0",
+  "summary": "Typed fluent FFmpeg/ffprobe wrapper with msgspec models",
+  "author": "GitBib",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ffmpeg_wrap-0.3.0.tar.gz",
+  "download_time": "2026-05-23T20:03:41.852095",
+  "package_url": "https://pypi.org/project/ffmpeg-wrap/"
+}
