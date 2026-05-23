@@ -1,11 +1,11 @@
 {
   "name": "agi-page-queue-health",
-  "version": "2026.5.22",
+  "version": "2026.5.23",
   "summary": "AGILAB page bundle for queue health and resilience evidence.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agi_page_queue_health-2026.5.22.tar.gz",
-  "download_time": "2026-05-22T21:05:18.326965",
+  "download_filename": "agi_page_queue_health-2026.5.23.tar.gz",
+  "download_time": "2026-05-23T22:07:43.135234",
   "package_url": "https://pypi.org/project/agi-page-queue-health/"
 }

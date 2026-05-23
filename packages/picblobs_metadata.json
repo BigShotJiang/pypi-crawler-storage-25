@@ -1,11 +1,11 @@
 {
   "name": "picblobs",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Position-independent code blob library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "picblobs-0.1.2.tar.gz",
-  "download_time": "2026-04-27T00:04:34.199937",
+  "download_filename": "picblobs-0.1.4.tar.gz",
+  "download_time": "2026-05-23T22:08:04.659006",
   "package_url": "https://pypi.org/project/picblobs/"
 }

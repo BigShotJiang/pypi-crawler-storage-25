@@ -1,11 +1,11 @@
 {
   "name": "agi-page-timeseries-forecast",
-  "version": "2026.5.22",
+  "version": "2026.5.23",
   "summary": "AGILAB page bundle for time-series forecast review.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agi_page_timeseries_forecast-2026.5.22.tar.gz",
-  "download_time": "2026-05-22T21:05:26.046015",
+  "download_filename": "agi_page_timeseries_forecast-2026.5.23.tar.gz",
+  "download_time": "2026-05-23T22:07:51.497599",
   "package_url": "https://pypi.org/project/agi-page-timeseries-forecast/"
 }

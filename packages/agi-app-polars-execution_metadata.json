@@ -1,11 +1,11 @@
 {
   "name": "agi-app-polars-execution",
-  "version": "2026.5.22",
+  "version": "2026.5.23",
   "summary": "AGILAB Polars execution benchmark for deterministic worker and reducer validation",
   "author": "Jean-Pierre Morard",
   "license": null,
   "home_page": null,
-  "download_filename": "agi_app_polars_execution-2026.5.22.tar.gz",
-  "download_time": "2026-05-22T21:05:19.871417",
+  "download_filename": "agi_app_polars_execution-2026.5.23.tar.gz",
+  "download_time": "2026-05-23T22:07:45.226582",
   "package_url": "https://pypi.org/project/agi-app-polars-execution/"
 }

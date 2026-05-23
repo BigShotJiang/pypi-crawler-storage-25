@@ -1,0 +1,11 @@
+{
+  "name": "dlmserve",
+  "version": "0.0.0",
+  "summary": "First OSS production-grade serving engine for diffusion language models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dlmserve-0.0.0.tar.gz",
+  "download_time": "2026-05-23T22:07:39.462492",
+  "package_url": "https://pypi.org/project/dlmserve/"
+}

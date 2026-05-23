@@ -1,0 +1,11 @@
+{
+  "name": "satsignal-mcp",
+  "version": "0.5.4",
+  "summary": "MCP server exposing Satsignal tamper-evident anchoring as agent-callable tools.",
+  "author": "Satsignal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "satsignal_mcp-0.5.4.tar.gz",
+  "download_time": "2026-05-23T22:07:35.257947",
+  "package_url": "https://pypi.org/project/satsignal-mcp/"
+}

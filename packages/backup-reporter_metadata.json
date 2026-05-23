@@ -1,0 +1,11 @@
+{
+  "name": "backup-reporter",
+  "version": "0.5.10",
+  "summary": "Collect and show info about various backups",
+  "author": "Dmitry Razin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "backup_reporter-0.5.10.tar.gz",
+  "download_time": "2026-05-23T22:07:48.353333",
+  "package_url": "https://pypi.org/project/backup-reporter/"
+}

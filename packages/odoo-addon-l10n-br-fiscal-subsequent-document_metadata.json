@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-br-fiscal-subsequent-document",
+  "version": "17.0.1.0.0.2",
+  "summary": "Documentos Fiscais Subsequentes",
+  "author": "KMEE, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo_addon_l10n_br_fiscal_subsequent_document-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-05-23T22:07:29.442844",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-br-fiscal-subsequent-document/"
+}

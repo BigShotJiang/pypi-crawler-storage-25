@@ -1,11 +1,11 @@
 {
   "name": "agi-page-app-ui",
-  "version": "2026.5.22",
+  "version": "2026.5.23",
   "summary": "AGILAB page bundle for app-owned interactive Streamlit UIs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agi_page_app_ui-2026.5.22.tar.gz",
-  "download_time": "2026-05-22T21:05:30.725147",
+  "download_filename": "agi_page_app_ui-2026.5.23.tar.gz",
+  "download_time": "2026-05-23T22:07:56.733513",
   "package_url": "https://pypi.org/project/agi-page-app-ui/"
 }
