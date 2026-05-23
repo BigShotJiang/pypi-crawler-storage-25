@@ -1,11 +1,11 @@
 {
   "name": "vecanova-zana",
-  "version": "3.6.0",
+  "version": "3.13.0",
   "summary": "Sovereign AI agent with 4-store local memory, Aeon DNA identity, and SHA-256 Civic Ledger — LLM-agnostic, zero Docker, runs on your hardware",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vecanova_zana-3.6.0.tar.gz",
-  "download_time": "2026-05-20T06:05:41.838419",
+  "download_filename": "vecanova_zana-3.13.0.tar.gz",
+  "download_time": "2026-05-23T21:11:36.255708",
   "package_url": "https://pypi.org/project/vecanova-zana/"
 }

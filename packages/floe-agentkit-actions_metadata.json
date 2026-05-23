@@ -1,11 +1,11 @@
 {
   "name": "floe-agentkit-actions",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Coinbase AgentKit ActionProvider for Floe DeFi lending protocol on Base",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "floe_agentkit_actions-0.4.0.tar.gz",
-  "download_time": "2026-05-14T07:37:15.987658",
+  "download_filename": "floe_agentkit_actions-0.5.0.tar.gz",
+  "download_time": "2026-05-23T21:11:35.712366",
   "package_url": "https://pypi.org/project/floe-agentkit-actions/"
 }

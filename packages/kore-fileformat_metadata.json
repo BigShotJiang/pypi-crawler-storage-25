@@ -1,0 +1,11 @@
+{
+  "name": "kore-fileformat",
+  "version": "1.2.2",
+  "summary": "KORE Binary Format - High-performance columnar compression with 5-8x compression ratio",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/arunkatherashala/Kore",
+  "download_filename": "kore_fileformat-1.2.2-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2026-05-23T21:11:20.482933",
+  "package_url": "https://pypi.org/project/kore-fileformat/"
+}

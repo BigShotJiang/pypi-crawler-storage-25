@@ -1,0 +1,11 @@
+{
+  "name": "freeai-convert",
+  "version": "0.2.0",
+  "summary": "Universal file format converter — one HANDLERS table, ~600 format pairs (image/audio/video/pdf/office/ebook/csv/srt/archive/3d/data/subtitle).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "freeai_convert-0.2.0.tar.gz",
+  "download_time": "2026-05-23T21:10:55.199468",
+  "package_url": "https://pypi.org/project/freeai-convert/"
+}

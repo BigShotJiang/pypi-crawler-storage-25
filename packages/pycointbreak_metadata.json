@@ -1,0 +1,11 @@
+{
+  "name": "pycointbreak",
+  "version": "0.1.0",
+  "summary": "Tests for breaks in fractional cointegration (Hassler & Breitung 2006; Rodrigues, Sibbertsen & Voges 2019).",
+  "author": "Dr. Merwan Roudane",
+  "license": "MIT",
+  "home_page": "https://github.com/merwanroudane/pycointbreak",
+  "download_filename": "pycointbreak-0.1.0.tar.gz",
+  "download_time": "2026-05-23T21:10:54.108392",
+  "package_url": "https://pypi.org/project/pycointbreak/"
+}

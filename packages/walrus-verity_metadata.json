@@ -1,11 +1,11 @@
 {
   "name": "walrus-verity",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Proof-chain registry for AI agents — backed by Walrus for persistent, portable, verifiable memory",
   "author": "vantage-ola",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "walrus_verity-0.1.1.tar.gz",
-  "download_time": "2026-05-23T18:45:57.955713",
+  "download_filename": "walrus_verity-0.1.4.tar.gz",
+  "download_time": "2026-05-23T21:11:31.337676",
   "package_url": "https://pypi.org/project/walrus-verity/"
 }

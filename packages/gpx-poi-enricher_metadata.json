@@ -1,11 +1,11 @@
 {
   "name": "gpx-poi-enricher",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "summary": "Enrich GPX tracks with Points of Interest from OpenStreetMap via configurable YAML profiles",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gpx_poi_enricher-1.8.0.tar.gz",
-  "download_time": "2026-05-21T21:26:15.314856",
+  "download_filename": "gpx_poi_enricher-1.8.1.tar.gz",
+  "download_time": "2026-05-23T21:11:24.267152",
   "package_url": "https://pypi.org/project/gpx-poi-enricher/"
 }

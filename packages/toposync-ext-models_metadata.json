@@ -1,11 +1,11 @@
 {
   "name": "toposync-ext-models",
-  "version": "0.1.15",
+  "version": "0.2.0",
   "summary": "Toposync first-party extension: import 3D models (GLB/GLTF) with 2D previews.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toposync_ext_models-0.1.15.tar.gz",
-  "download_time": "2026-05-22T23:33:06.660236",
+  "download_filename": "toposync_ext_models-0.2.0.tar.gz",
+  "download_time": "2026-05-23T21:10:59.019924",
   "package_url": "https://pypi.org/project/toposync-ext-models/"
 }

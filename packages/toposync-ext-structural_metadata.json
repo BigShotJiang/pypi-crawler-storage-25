@@ -1,11 +1,11 @@
 {
   "name": "toposync-ext-structural",
-  "version": "0.1.15",
+  "version": "0.2.0",
   "summary": "Toposync first-party extension: Structural drawing tools (2D walls/areas).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toposync_ext_structural-0.1.15.tar.gz",
-  "download_time": "2026-05-22T23:33:05.569212",
+  "download_filename": "toposync_ext_structural-0.2.0.tar.gz",
+  "download_time": "2026-05-23T21:10:57.377771",
   "package_url": "https://pypi.org/project/toposync-ext-structural/"
 }

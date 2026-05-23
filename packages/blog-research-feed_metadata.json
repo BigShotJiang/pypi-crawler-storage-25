@@ -1,0 +1,11 @@
+{
+  "name": "blog-research-feed",
+  "version": "0.2.5",
+  "summary": "AI-news aggregation: the `brf` tool CLI (agent-side) plus the `cron` package (host-side cron + Slack receiver).",
+  "author": "Blog Research Feed",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blog_research_feed-0.2.5.tar.gz",
+  "download_time": "2026-05-23T21:11:35.166399",
+  "package_url": "https://pypi.org/project/blog-research-feed/"
+}

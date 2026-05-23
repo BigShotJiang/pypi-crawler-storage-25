@@ -1,11 +1,11 @@
 {
   "name": "toposync-core",
-  "version": "0.4.24",
+  "version": "0.5.0",
   "summary": "Toposync core runtime (Python backend + extension host).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toposync_core-0.4.24.tar.gz",
-  "download_time": "2026-05-22T23:33:09.403122",
+  "download_filename": "toposync_core-0.5.0.tar.gz",
+  "download_time": "2026-05-23T21:11:02.358596",
   "package_url": "https://pypi.org/project/toposync-core/"
 }

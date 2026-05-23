@@ -1,0 +1,11 @@
+{
+  "name": "pylearnspec",
+  "version": "0.4.0",
+  "summary": "Python parser and validator for the LearnSpec suite (LearnMD, QuizMD, FlashMD, TrackMD, DiagramMD, MediaMD, GlossaryMD, BadgeMD, CertMD, NuggetMD)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylearnspec-0.4.0.tar.gz",
+  "download_time": "2026-05-23T21:11:39.964182",
+  "package_url": "https://pypi.org/project/pylearnspec/"
+}

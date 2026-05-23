@@ -1,0 +1,11 @@
+{
+  "name": "hermes-memory-libravdb",
+  "version": "0.6.1",
+  "summary": "Native LibraVDB memory provider for Hermes Agent using real gRPC",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hermes_memory_libravdb-0.6.1.tar.gz",
+  "download_time": "2026-05-23T21:11:34.622370",
+  "package_url": "https://pypi.org/project/hermes-memory-libravdb/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "numkong",
-  "version": "7.4.4",
+  "version": "7.7.0",
   "summary": "Portable mixed-precision math, linear-algebra, & retrieval library with 2000+ SIMD kernels for x86, Arm, RISC-V, LoongArch, Power, & WebAssembly",
   "author": "Ash Vardanian",
   "license": "Apache-2.0",
   "home_page": "https://github.com/ashvardanian/NumKong",
-  "download_filename": "numkong-7.4.4-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2026-04-06T13:44:29.965825",
+  "download_filename": "numkong-7.7.0.tar.gz",
+  "download_time": "2026-05-23T21:11:07.345801",
   "package_url": "https://pypi.org/project/numkong/"
 }

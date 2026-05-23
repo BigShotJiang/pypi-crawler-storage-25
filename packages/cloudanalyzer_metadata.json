@@ -1,0 +1,11 @@
+{
+  "name": "cloudanalyzer",
+  "version": "0.2.0",
+  "summary": "CLI-first QA toolkit for point cloud, trajectory, and 3D perception outputs",
+  "author": "rsasaki0109",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloudanalyzer-0.2.0.tar.gz",
+  "download_time": "2026-05-23T21:11:24.810882",
+  "package_url": "https://pypi.org/project/cloudanalyzer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "raccoon-library",
-  "version": "1.0.96",
+  "version": "1.0.98",
   "summary": "Raccoon robotics library (formerly libstp)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "raccoon_library-1.0.96-cp312-cp312-macosx_14_0_universal2.whl",
-  "download_time": "2026-05-23T17:31:43.678650",
+  "download_filename": "raccoon_library-1.0.98-cp312-cp312-macosx_14_0_universal2.whl",
+  "download_time": "2026-05-23T21:10:51.153602",
   "package_url": "https://pypi.org/project/raccoon-library/"
 }
