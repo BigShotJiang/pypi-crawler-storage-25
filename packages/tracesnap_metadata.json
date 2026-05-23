@@ -1,0 +1,11 @@
+{
+  "name": "tracesnap",
+  "version": "0.1.0",
+  "summary": "Record once, replay anywhere: a time-travel debugger for Python with a visual browser-based player.",
+  "author": "tracesnap contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tracesnap-0.1.0.tar.gz",
+  "download_time": "2026-05-23T11:26:25.764574",
+  "package_url": "https://pypi.org/project/tracesnap/"
+}

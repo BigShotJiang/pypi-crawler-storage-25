@@ -1,11 +1,11 @@
 {
   "name": "uplm80",
-  "version": "0.2.31",
+  "version": "0.2.32",
   "summary": "Highly optimizing PL/M-80 compiler targeting Z80",
   "author": "uplm80 authors",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "uplm80-0.2.31.tar.gz",
-  "download_time": "2026-05-09T12:11:42.600596",
+  "download_filename": "uplm80-0.2.32.tar.gz",
+  "download_time": "2026-05-23T11:25:58.884471",
   "package_url": "https://pypi.org/project/uplm80/"
 }

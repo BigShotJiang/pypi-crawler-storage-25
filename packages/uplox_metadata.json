@@ -1,11 +1,11 @@
 {
   "name": "uplox",
-  "version": "3.0.0",
+  "version": "3.1.1",
   "summary": "Compiler front-end generator: grammar source to canonical JSON tables plus C/C++/Python/Lua drivers",
   "author": "uplox developers",
   "license": null,
   "home_page": null,
-  "download_filename": "uplox-3.0.0.tar.gz",
-  "download_time": "2026-05-09T12:11:56.275929",
+  "download_filename": "uplox-3.1.1.tar.gz",
+  "download_time": "2026-05-23T11:26:05.898921",
   "package_url": "https://pypi.org/project/uplox/"
 }

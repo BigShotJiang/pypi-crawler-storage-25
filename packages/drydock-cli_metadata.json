@@ -1,11 +1,11 @@
 {
   "name": "drydock-cli",
-  "version": "2.8.70",
+  "version": "2.8.79",
   "summary": "Local-first CLI coding agent — tested with Gemma 4 26B via vLLM",
   "author": "Drydock contributors, Mistral AI (original)",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "drydock_cli-2.8.70-py3-none-any.whl",
-  "download_time": "2026-05-21T11:07:59.685647",
+  "download_filename": "drydock_cli-2.8.79-py3-none-any.whl",
+  "download_time": "2026-05-23T11:26:30.412617",
   "package_url": "https://pypi.org/project/drydock-cli/"
 }

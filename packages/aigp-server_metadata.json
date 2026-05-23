@@ -1,0 +1,11 @@
+{
+  "name": "aigp-server",
+  "version": "0.2.0",
+  "summary": "AIGP Governance Server — agentic governance engine (scope envelopes, circuit breakers, delegation)",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "aigp_server-0.2.0.tar.gz",
+  "download_time": "2026-05-23T11:26:36.701734",
+  "package_url": "https://pypi.org/project/aigp-server/"
+}

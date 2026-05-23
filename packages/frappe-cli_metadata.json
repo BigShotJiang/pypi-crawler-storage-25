@@ -1,11 +1,11 @@
 {
   "name": "frappe-cli",
-  "version": "0.1.16",
+  "version": "1.0.17",
   "summary": "Professional CLI for Frappe deployment and management.",
   "author": "Rashidi Okama",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "frappe_cli-0.1.16.tar.gz",
-  "download_time": "2026-05-19T08:31:22.138202",
+  "download_filename": "frappe_cli-1.0.17.tar.gz",
+  "download_time": "2026-05-23T11:26:06.408324",
   "package_url": "https://pypi.org/project/frappe-cli/"
 }

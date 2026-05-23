@@ -1,0 +1,11 @@
+{
+  "name": "nook-cli",
+  "version": "0.1.0",
+  "summary": "Python CLI for the Nook Android instrumentation server",
+  "author": "Nook Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/x1aon1ng/Nook",
+  "download_filename": "nook_cli-0.1.0.tar.gz",
+  "download_time": "2026-05-23T11:26:32.466813",
+  "package_url": "https://pypi.org/project/nook-cli/"
+}

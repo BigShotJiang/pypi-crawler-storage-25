@@ -1,0 +1,11 @@
+{
+  "name": "memex-ai",
+  "version": "0.1.4",
+  "summary": "Local-first persistent semantic memory for LLM applications.",
+  "author": "ibnshafi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memex_ai-0.1.4.tar.gz",
+  "download_time": "2026-05-23T11:26:20.150587",
+  "package_url": "https://pypi.org/project/memex-ai/"
+}

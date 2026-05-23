@@ -1,0 +1,11 @@
+{
+  "name": "insitucnv",
+  "version": "0.1.0",
+  "summary": "Reusable tools for in situ CNV inference in image-based spatial transcriptomics.",
+  "author": "Augusta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "insitucnv-0.1.0.tar.gz",
+  "download_time": "2026-05-23T11:26:04.873973",
+  "package_url": "https://pypi.org/project/insitucnv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "evo",
+  "version": "1.36.5",
+  "summary": "Python package for the evaluation of odometry and SLAM",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "evo-1.36.5-py3-none-any.whl",
+  "download_time": "2026-05-23T11:26:22.184768",
+  "package_url": "https://pypi.org/project/evo/"
+}

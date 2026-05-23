@@ -1,0 +1,11 @@
+{
+  "name": "polako-finance",
+  "version": "0.1.7",
+  "summary": "Official async Python SDK for Polako Finance payment gateway",
+  "author": "Polako Finance",
+  "license": "MIT",
+  "home_page": "https://polako-finance.com",
+  "download_filename": "polako_finance-0.1.7.tar.gz",
+  "download_time": "2026-05-23T11:26:16.467641",
+  "package_url": "https://pypi.org/project/polako-finance/"
+}

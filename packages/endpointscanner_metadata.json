@@ -1,0 +1,11 @@
+{
+  "name": "endpointscanner",
+  "version": "7.0.2",
+  "summary": "Website endpoint scanner and rate limit tester that bypasses simple captchas.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "endpointscanner-7.0.2.tar.gz",
+  "download_time": "2026-05-23T11:26:19.640231",
+  "package_url": "https://pypi.org/project/endpointscanner/"
+}

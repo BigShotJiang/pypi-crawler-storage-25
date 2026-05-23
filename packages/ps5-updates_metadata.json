@@ -1,0 +1,11 @@
+{
+  "name": "ps5-updates",
+  "version": "0.9.1",
+  "summary": "A package for accessing PS5 title update information",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ps5_updates-0.9.1.tar.gz",
+  "download_time": "2026-05-23T11:26:11.335837",
+  "package_url": "https://pypi.org/project/ps5-updates/"
+}

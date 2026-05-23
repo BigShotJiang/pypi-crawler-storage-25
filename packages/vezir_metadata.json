@@ -1,11 +1,11 @@
 {
   "name": "vezir",
-  "version": "0.1.7",
+  "version": "0.1.15",
   "summary": "Internal scribe service that wraps meetscribe for team-scale meeting capture, transcription, summarization, and speaker labeling",
   "author": "Blink",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vezir-0.1.7.tar.gz",
-  "download_time": "2026-05-20T20:49:04.153207",
+  "download_filename": "vezir-0.1.15.tar.gz",
+  "download_time": "2026-05-23T11:26:16.976980",
   "package_url": "https://pypi.org/project/vezir/"
 }
