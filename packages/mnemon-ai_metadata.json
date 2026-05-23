@@ -1,11 +1,11 @@
 {
   "name": "mnemon-ai",
-  "version": "1.0.4",
-  "summary": "The intelligence layer between your agents and oblivion",
+  "version": "1.1.0",
+  "summary": "Cut LLM agent token costs by 93%. Execution cache for LangChain, CrewAI, AutoGen, LangGraph — zero tokens on repeat runs, 2.66ms latency vs 20s.",
   "author": "Mahika Jadhav",
   "license": null,
   "home_page": "https://github.com/smartass-4ever/Mnemon",
-  "download_filename": "mnemon_ai-1.0.4.tar.gz",
-  "download_time": "2026-04-17T12:12:22.197796",
+  "download_filename": "mnemon_ai-1.1.0.tar.gz",
+  "download_time": "2026-05-23T12:12:59.753174",
   "package_url": "https://pypi.org/project/mnemon-ai/"
 }

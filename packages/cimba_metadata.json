@@ -1,0 +1,11 @@
+{
+  "name": "cimba",
+  "version": "0.1.0",
+  "summary": "Python bindings for Cimba, a multithreaded discrete-event-simulation C library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cimba-0.1.0.tar.gz",
+  "download_time": "2026-05-23T12:13:32.663637",
+  "package_url": "https://pypi.org/project/cimba/"
+}

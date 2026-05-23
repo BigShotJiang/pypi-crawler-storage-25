@@ -1,0 +1,11 @@
+{
+  "name": "mfpandas-racfhound",
+  "version": "0.1.1",
+  "summary": "BloodHound OpenGraph exporter for mfpandas RACF data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mfpandas_racfhound-0.1.1.tar.gz",
+  "download_time": "2026-05-23T12:13:10.606432",
+  "package_url": "https://pypi.org/project/mfpandas-racfhound/"
+}

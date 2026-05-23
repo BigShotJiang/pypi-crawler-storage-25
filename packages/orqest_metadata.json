@@ -1,0 +1,11 @@
+{
+  "name": "orqest",
+  "version": "0.8.0",
+  "summary": "Typed agent primitives and orchestration on top of pydantic-ai — memory, autonomy, healing, metacognition, generative UI, MCP, optimization.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "orqest-0.8.0.tar.gz",
+  "download_time": "2026-05-23T12:13:08.011998",
+  "package_url": "https://pypi.org/project/orqest/"
+}

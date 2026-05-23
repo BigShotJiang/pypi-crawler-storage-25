@@ -1,11 +1,11 @@
 {
   "name": "aura-assistant",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Aura — Your intelligent presence. AI assistant with full system control.",
   "author": "Vineeth Konda",
   "license": null,
   "home_page": null,
-  "download_filename": "aura_assistant-0.1.1.tar.gz",
-  "download_time": "2026-05-23T11:26:02.797228",
+  "download_filename": "aura_assistant-0.1.3.tar.gz",
+  "download_time": "2026-05-23T12:13:24.959614",
   "package_url": "https://pypi.org/project/aura-assistant/"
 }

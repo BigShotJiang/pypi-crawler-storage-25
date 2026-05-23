@@ -1,11 +1,11 @@
 {
   "name": "wonderland-ai",
-  "version": "0.9.0",
+  "version": "0.10.2",
   "summary": "An identity-native multi-agent system that runs the full software development lifecycle.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wonderland_ai-0.9.0.tar.gz",
-  "download_time": "2026-05-20T20:49:37.096459",
+  "download_filename": "wonderland_ai-0.10.2.tar.gz",
+  "download_time": "2026-05-23T12:12:55.138214",
   "package_url": "https://pypi.org/project/wonderland-ai/"
 }

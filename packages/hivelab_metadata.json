@@ -1,0 +1,11 @@
+{
+  "name": "hivelab",
+  "version": "0.2.0",
+  "summary": "Command-line tool for pushing structured Markdown research notes to any hivelab-compatible backend.",
+  "author": "hivelab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hivelab-0.2.0.tar.gz",
+  "download_time": "2026-05-23T12:12:56.158993",
+  "package_url": "https://pypi.org/project/hivelab/"
+}

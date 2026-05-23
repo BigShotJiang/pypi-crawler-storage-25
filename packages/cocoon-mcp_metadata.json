@@ -1,0 +1,11 @@
+{
+  "name": "cocoon-mcp",
+  "version": "0.4.0a5",
+  "summary": "Execution runtime for named third-party APIs: one MCP tool that calls 140+ printing-press CLIs on demand, sandboxed per call, with per-API auth scoping and readiness-aware discovery.",
+  "author": "vu1n",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cocoon_mcp-0.4.0a5.tar.gz",
+  "download_time": "2026-05-23T12:13:12.649765",
+  "package_url": "https://pypi.org/project/cocoon-mcp/"
+}
