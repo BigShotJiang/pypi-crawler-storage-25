@@ -1,0 +1,11 @@
+{
+  "name": "chinese-scraper-utils",
+  "version": "0.2.1",
+  "summary": "Chinese scraping utilities — date parsing, city extraction, SHA256 ID, UA pool, rate limiter, DeepSeek client, web search, hot topic scrapers, LLM extraction pipeline",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chinese_scraper_utils-0.2.1.tar.gz",
+  "download_time": "2026-05-23T15:15:11.862480",
+  "package_url": "https://pypi.org/project/chinese-scraper-utils/"
+}

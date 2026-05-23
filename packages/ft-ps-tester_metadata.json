@@ -1,0 +1,11 @@
+{
+  "name": "ft-ps-tester",
+  "version": "1.0.0",
+  "summary": "A Python tester for the 42 push_swap project with controlled disorder generation and performance grading.",
+  "author": "Italo Almeida",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ft_ps_tester-1.0.0.tar.gz",
+  "download_time": "2026-05-23T15:15:34.031981",
+  "package_url": "https://pypi.org/project/ft-ps-tester/"
+}

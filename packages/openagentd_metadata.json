@@ -1,11 +1,11 @@
 {
   "name": "openagentd",
-  "version": "1.13.0",
+  "version": "1.21.0",
   "summary": "Self-hosted AI agents — streaming chat, tool use, persistent memory, multi-agent teams",
   "author": "openagentd contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "openagentd-1.13.0-py3-none-any.whl",
-  "download_time": "2026-05-21T03:46:29.385568",
+  "download_filename": "openagentd-1.21.0-py3-none-any.whl",
+  "download_time": "2026-05-23T15:15:27.028866",
   "package_url": "https://pypi.org/project/openagentd/"
 }

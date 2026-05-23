@@ -1,11 +1,11 @@
 {
   "name": "boolean-algebra-engine",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "Deterministic logic layer for AI agents — catch logical contradictions in system prompts, rules, and agent reasoning",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "boolean_algebra_engine-0.1.9.tar.gz",
-  "download_time": "2026-05-23T14:10:00.541373",
+  "download_filename": "boolean_algebra_engine-0.1.11.tar.gz",
+  "download_time": "2026-05-23T15:15:50.564637",
   "package_url": "https://pypi.org/project/boolean-algebra-engine/"
 }

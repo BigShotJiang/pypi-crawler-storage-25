@@ -1,0 +1,11 @@
+{
+  "name": "arceion-zorion",
+  "version": "0.1.0",
+  "summary": "Arceion Zorion - Django Microservices Framework with utilities, decorators, middleware, and ORM integration for independent microservices",
+  "author": "Arceion",
+  "license": "Proprietary",
+  "home_page": "https://github.com/Arceion/zorion",
+  "download_filename": "arceion_zorion-0.1.0.tar.gz",
+  "download_time": "2026-05-23T15:15:28.453863",
+  "package_url": "https://pypi.org/project/arceion-zorion/"
+}

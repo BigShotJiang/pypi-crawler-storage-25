@@ -1,0 +1,11 @@
+{
+  "name": "music-dragon",
+  "version": "0.18",
+  "summary": "All-in-one music manager: scrapes albums, artists and songs from musicbrainz and automatically download them from youtube.",
+  "author": "Stefano Dottore",
+  "license": "MIT",
+  "home_page": "https://github.com/Docheinstein/music-dragon",
+  "download_filename": "music_dragon-0.18.tar.gz",
+  "download_time": "2026-05-23T15:15:52.367166",
+  "package_url": "https://pypi.org/project/music-dragon/"
+}

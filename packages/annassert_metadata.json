@@ -1,0 +1,11 @@
+{
+  "name": "annassert",
+  "version": "0.1.1",
+  "summary": "Convert Python assertions to type annotations and back",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "annassert-0.1.1.tar.gz",
+  "download_time": "2026-05-23T15:15:15.929815",
+  "package_url": "https://pypi.org/project/annassert/"
+}

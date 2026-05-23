@@ -1,11 +1,11 @@
 {
   "name": "RapidBalancer",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "summary": "Um pacote para balanceamento de carga em servidores RapidHost",
   "author": "Leonardo Trevisan Nery",
   "license": null,
   "home_page": "https://github.com/seuusuario/meu_pacote",
-  "download_filename": "rapidbalancer-0.0.3.tar.gz",
-  "download_time": "2026-05-23T05:14:42.937140",
+  "download_filename": "rapidbalancer-0.0.6.tar.gz",
+  "download_time": "2026-05-23T15:15:47.541395",
   "package_url": "https://pypi.org/project/RapidBalancer/"
 }

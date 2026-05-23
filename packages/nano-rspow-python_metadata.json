@@ -1,11 +1,11 @@
 {
   "name": "nano-rspow-python",
-  "version": "0.5.13",
+  "version": "0.5.14",
   "summary": "Hybrid CPU/GPU Nano (XNO) Proof of Work library — Python bindings.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nano_rspow_python-0.5.13.tar.gz",
-  "download_time": "2026-05-23T14:10:06.256991",
+  "download_filename": "nano_rspow_python-0.5.14.tar.gz",
+  "download_time": "2026-05-23T15:15:51.777607",
   "package_url": "https://pypi.org/project/nano-rspow-python/"
 }

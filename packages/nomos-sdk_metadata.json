@@ -1,0 +1,11 @@
+{
+  "name": "nomos-sdk",
+  "version": "0.1.0",
+  "summary": "Nomos Python SDK — capability layer for AI agents (scoped, time-bound, revocable, delegable permissions for MCP / LangGraph / CrewAI / AutoGen)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nomos_sdk-0.1.0.tar.gz",
+  "download_time": "2026-05-23T15:15:29.676357",
+  "package_url": "https://pypi.org/project/nomos-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cadence-edu",
+  "version": "0.1.6",
+  "summary": "Cadence — live student progress dashboards for Jupyter teaching",
+  "author": "Liv Vage",
+  "license": "MIT",
+  "home_page": "https://cadence-dash.com",
+  "download_filename": "cadence_edu-0.1.6.tar.gz",
+  "download_time": "2026-05-23T15:15:01.874028",
+  "package_url": "https://pypi.org/project/cadence-edu/"
+}

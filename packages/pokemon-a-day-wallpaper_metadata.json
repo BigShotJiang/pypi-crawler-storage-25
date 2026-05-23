@@ -1,0 +1,11 @@
+{
+  "name": "pokemon-a-day-wallpaper",
+  "version": "1.0.0",
+  "summary": "Sets a daily Pokémon fan art wallpaper on Windows and Ubuntu GNOME",
+  "author": "Marcos Filipe Capella",
+  "license": "MIT",
+  "home_page": "https://github.com/capella-marcosfilipe/pokemon-a-day-wallpaper",
+  "download_filename": "pokemon_a_day_wallpaper-1.0.0.tar.gz",
+  "download_time": "2026-05-23T15:15:35.839265",
+  "package_url": "https://pypi.org/project/pokemon-a-day-wallpaper/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "keel-llm-otel",
+  "version": "0.1.0",
+  "summary": "OpenTelemetry metrics + span events for keel-llm-reliability. A pure wrapper around ResilientClient — emits per-attempt metrics and span events from the visible-degradation trail. No coupling: keel-llm-reliability stays observability-free.",
+  "author": "Raj Yakkali",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "keel_llm_otel-0.1.0.tar.gz",
+  "download_time": "2026-05-23T15:15:38.234325",
+  "package_url": "https://pypi.org/project/keel-llm-otel/"
+}

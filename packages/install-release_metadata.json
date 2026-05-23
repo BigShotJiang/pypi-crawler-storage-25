@@ -1,0 +1,11 @@
+{
+  "name": "install-release",
+  "version": "0.7.7",
+  "summary": "Simple package manager to easily install, update and manage any tool directly from github or gitlab releases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "install_release-0.7.7.tar.gz",
+  "download_time": "2026-05-23T15:15:24.515730",
+  "package_url": "https://pypi.org/project/install-release/"
+}
