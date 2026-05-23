@@ -1,0 +1,11 @@
+{
+  "name": "vle-thermo",
+  "version": "0.1.1",
+  "summary": "Vapor-liquid equilibrium (VLE) thermodynamic calculator: 22+ cubic EOS, activity models, flash algorithms",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/miguelju/vle",
+  "download_filename": "vle_thermo-0.1.1.tar.gz",
+  "download_time": "2026-05-23T01:38:53.020218",
+  "package_url": "https://pypi.org/project/vle-thermo/"
+}

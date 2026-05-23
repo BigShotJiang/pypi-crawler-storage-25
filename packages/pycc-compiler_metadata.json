@@ -1,0 +1,11 @@
+{
+  "name": "pycc-compiler",
+  "version": "1.4.11",
+  "summary": "compile python to ELF - Cython based compiler",
+  "author": "pycc-dev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycc_compiler-1.4.11.tar.gz",
+  "download_time": "2026-05-23T01:38:45.717380",
+  "package_url": "https://pypi.org/project/pycc-compiler/"
+}

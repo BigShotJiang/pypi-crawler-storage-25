@@ -1,0 +1,11 @@
+{
+  "name": "pylibnmea2k",
+  "version": "0.2.2",
+  "summary": "Minimal, fast NMEA 2000 single-frame PGN decoder",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylibnmea2k-0.2.2.tar.gz",
+  "download_time": "2026-05-23T01:38:40.977687",
+  "package_url": "https://pypi.org/project/pylibnmea2k/"
+}

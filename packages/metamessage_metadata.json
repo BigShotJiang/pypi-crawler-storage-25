@@ -1,0 +1,11 @@
+{
+  "name": "metamessage",
+  "version": "0.1.15",
+  "summary": "High-performance binary message encoding library with schema tag support",
+  "author": "MetaMessage Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "metamessage-0.1.15.tar.gz",
+  "download_time": "2026-05-23T01:38:46.758519",
+  "package_url": "https://pypi.org/project/metamessage/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hermes-agent-a2a",
+  "version": "3.2.16",
+  "summary": "A2A HTTP/JSON-RPC protocol plugin for Hermes fleet agents — mesh session relay, HMAC auth, push notifications, SSE streaming, and Telegram session routing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hermes_agent_a2a-3.2.16-py3-none-any.whl",
+  "download_time": "2026-05-23T01:38:54.570411",
+  "package_url": "https://pypi.org/project/hermes-agent-a2a/"
+}

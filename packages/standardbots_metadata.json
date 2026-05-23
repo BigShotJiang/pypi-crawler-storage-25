@@ -1,11 +1,11 @@
 {
   "name": "standardbots",
-  "version": "2.20260123.93",
+  "version": "2.20260123.111",
   "summary": "Standard Bots RO1 Robotics API",
   "author": "Standard Bots Support",
   "license": null,
   "home_page": null,
-  "download_filename": "standardbots-2.20260123.93.tar.gz",
-  "download_time": "2026-05-14T22:56:34.442929",
+  "download_filename": "standardbots-2.20260123.111.tar.gz",
+  "download_time": "2026-05-23T01:38:45.196591",
   "package_url": "https://pypi.org/project/standardbots/"
 }

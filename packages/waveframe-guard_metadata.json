@@ -1,11 +1,11 @@
 {
   "name": "waveframe-guard",
-  "version": "0.2.0",
-  "summary": "Enterprise AI governance layer for deterministic execution control with policy-bound enforcement and immutable audit tracing.",
+  "version": "0.8.0",
+  "summary": "Local enforcement SDK and simulation environment for AI governance.",
   "author": null,
-  "license": "Proprietary",
+  "license": null,
   "home_page": null,
-  "download_filename": "waveframe_guard-0.2.0.tar.gz",
-  "download_time": "2026-04-22T04:25:54.050330",
+  "download_filename": "waveframe_guard-0.8.0.tar.gz",
+  "download_time": "2026-05-23T01:38:46.239282",
   "package_url": "https://pypi.org/project/waveframe-guard/"
 }

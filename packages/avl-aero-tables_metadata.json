@@ -1,0 +1,11 @@
+{
+  "name": "avl-aero-tables",
+  "version": "1.8.0",
+  "summary": "Generate aerodynamic lookup tables using AVL (Athena Vortex Lattice)",
+  "author": "Brian Borra",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "avl_aero_tables-1.8.0.tar.gz",
+  "download_time": "2026-05-23T01:38:42.022853",
+  "package_url": "https://pypi.org/project/avl-aero-tables/"
+}

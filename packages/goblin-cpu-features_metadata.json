@@ -1,0 +1,11 @@
+{
+  "name": "goblin-cpu-features",
+  "version": "0.1.0",
+  "summary": "Cross-platform CPU feature detection as a frozenset of enum flags for SIMD backend selection.",
+  "author": "Adam DePrince",
+  "license": null,
+  "home_page": null,
+  "download_filename": "goblin_cpu_features-0.1.0.tar.gz",
+  "download_time": "2026-05-23T01:39:17.514388",
+  "package_url": "https://pypi.org/project/goblin-cpu-features/"
+}

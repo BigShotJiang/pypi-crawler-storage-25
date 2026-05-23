@@ -1,11 +1,11 @@
 {
   "name": "pancakes-orm",
-  "version": "3.2.0",
-  "summary": "Un ORM simple, potente y flexible llamado PanCakes",
+  "version": "5.0.0",
+  "summary": "ORM sqlite3 based. Listo para integrar con frontend.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pancakes_orm-3.2.0.tar.gz",
-  "download_time": "2026-04-25T00:04:03.334002",
+  "download_filename": "pancakes_orm-5.0.0.tar.gz",
+  "download_time": "2026-05-23T01:38:54.049282",
   "package_url": "https://pypi.org/project/pancakes-orm/"
 }
