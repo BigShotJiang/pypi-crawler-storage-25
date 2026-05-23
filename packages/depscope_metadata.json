@@ -1,0 +1,11 @@
+{
+  "name": "depscope",
+  "version": "0.1.0",
+  "summary": "Architecture observation tool — interactive dependency graph for any codebase",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "depscope-0.1.0.tar.gz",
+  "download_time": "2026-05-23T23:06:50.849582",
+  "package_url": "https://pypi.org/project/depscope/"
+}

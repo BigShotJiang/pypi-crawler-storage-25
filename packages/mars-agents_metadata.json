@@ -1,11 +1,11 @@
 {
   "name": "mars-agents",
-  "version": "0.6.5",
+  "version": "0.7.0",
   "summary": "Agent package manager for .agents/ directories",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/haowjy/mars-agents",
-  "download_filename": "mars_agents-0.6.5.tar.gz",
-  "download_time": "2026-05-23T20:03:55.893328",
+  "download_filename": "mars_agents-0.7.0.tar.gz",
+  "download_time": "2026-05-23T23:06:47.246289",
   "package_url": "https://pypi.org/project/mars-agents/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ere",
+  "version": "0.3.0",
+  "summary": "Point-in-time data operations for Polars — prevent look-ahead bias in quantitative research",
+  "author": "Carl Sandström",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ere-0.3.0.tar.gz",
+  "download_time": "2026-05-23T23:06:14.512513",
+  "package_url": "https://pypi.org/project/ere/"
+}

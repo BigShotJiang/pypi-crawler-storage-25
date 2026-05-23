@@ -1,0 +1,11 @@
+{
+  "name": "aevum-server",
+  "version": "0.6.0",
+  "summary": "Aevum HTTP API server — wraps the five functions for any consumer.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aevum_server-0.6.0.tar.gz",
+  "download_time": "2026-05-23T23:06:52.918109",
+  "package_url": "https://pypi.org/project/aevum-server/"
+}

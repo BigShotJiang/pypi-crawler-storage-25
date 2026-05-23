@@ -1,0 +1,11 @@
+{
+  "name": "ollama-harness",
+  "version": "0.1.2",
+  "summary": "Self-improving agentic research swarm with local LLM inference",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ollama_harness-0.1.2.tar.gz",
+  "download_time": "2026-05-23T23:06:37.455043",
+  "package_url": "https://pypi.org/project/ollama-harness/"
+}

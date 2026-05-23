@@ -1,11 +1,11 @@
 {
   "name": "ingris-athena",
-  "version": "1.0.5",
+  "version": "1.0.9",
   "summary": "Python API for Athena pyWork (Next Generation with Athena Broker).",
   "author": "Kiro Lee",
   "license": "Proprietary",
   "home_page": "http://www.ingris.com",
-  "download_filename": "ingris_athena-1.0.5-py3-none-any.whl",
-  "download_time": "2026-04-19T13:04:55.602428",
+  "download_filename": "ingris_athena-1.0.9-py3-none-any.whl",
+  "download_time": "2026-05-23T23:06:35.402173",
   "package_url": "https://pypi.org/project/ingris-athena/"
 }

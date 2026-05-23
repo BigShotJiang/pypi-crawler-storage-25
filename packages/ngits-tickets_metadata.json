@@ -1,0 +1,11 @@
+{
+  "name": "ngits-tickets",
+  "version": "2.0.1",
+  "summary": "Base ticket app for Django projects",
+  "author": "NGITs",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "ngits_tickets-2.0.1.tar.gz",
+  "download_time": "2026-05-23T23:06:41.048264",
+  "package_url": "https://pypi.org/project/ngits-tickets/"
+}

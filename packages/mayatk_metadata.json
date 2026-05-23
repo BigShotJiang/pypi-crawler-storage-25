@@ -1,11 +1,11 @@
 {
   "name": "mayatk",
-  "version": "0.11.91",
+  "version": "0.12.3",
   "summary": "A comprehensive toolkit for Autodesk Maya providing utilities for modeling, animation, rigging, and UI management.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mayatk-0.11.91-py3-none-any.whl",
-  "download_time": "2026-05-20T16:09:50.436196",
+  "download_filename": "mayatk-0.12.3-py3-none-any.whl",
+  "download_time": "2026-05-23T23:06:19.286457",
   "package_url": "https://pypi.org/project/mayatk/"
 }

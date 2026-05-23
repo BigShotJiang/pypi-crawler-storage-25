@@ -1,11 +1,11 @@
 {
   "name": "agentsmd",
-  "version": "1.0.3",
+  "version": "1.0.8",
   "summary": "CLI tool for scaffolding and syncing AI agent workspace configuration files",
   "author": "Harshith: Admin",
   "license": null,
   "home_page": null,
-  "download_filename": "agentsmd-1.0.3.tar.gz",
-  "download_time": "2026-05-10T12:18:04.859023",
+  "download_filename": "agentsmd-1.0.8.tar.gz",
+  "download_time": "2026-05-23T23:06:26.621106",
   "package_url": "https://pypi.org/project/agentsmd/"
 }

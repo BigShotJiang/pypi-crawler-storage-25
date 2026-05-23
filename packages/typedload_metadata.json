@@ -1,0 +1,11 @@
+{
+  "name": "typedload",
+  "version": "2.41",
+  "summary": "Load and dump data from json-like format into typed data structures",
+  "author": "Salvo 'LtWorf' Tomaselli",
+  "license": null,
+  "home_page": "https://ltworf.codeberg.page/typedload/",
+  "download_filename": "typedload-2.41.tar.gz",
+  "download_time": "2026-05-23T23:06:48.783333",
+  "package_url": "https://pypi.org/project/typedload/"
+}

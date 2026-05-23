@@ -1,0 +1,11 @@
+{
+  "name": "uor-addr",
+  "version": "0.1.1",
+  "summary": "Typed content-addressing — deterministic, verifiable sha256:<64hex> κ-labels from JSON / S-expressions / XML / ASN.1 DER / schema.org / in-toto. Wraps the uor-addr-c native library via ctypes.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "uor_addr-0.1.1-py3-none-macosx_11_0_universal2.whl",
+  "download_time": "2026-05-23T23:06:41.560364",
+  "package_url": "https://pypi.org/project/uor-addr/"
+}
