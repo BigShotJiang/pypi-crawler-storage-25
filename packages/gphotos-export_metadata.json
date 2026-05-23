@@ -1,0 +1,11 @@
+{
+  "name": "gphotos-export",
+  "version": "0.1.0",
+  "summary": "Bulk-download your Google Photos library in original quality via undetected browser automation (Python/SeleniumBase).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gphotos_export-0.1.0.tar.gz",
+  "download_time": "2026-05-23T09:43:17.662875",
+  "package_url": "https://pypi.org/project/gphotos-export/"
+}

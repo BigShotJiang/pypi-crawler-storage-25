@@ -1,0 +1,11 @@
+{
+  "name": "sovereign-pulse-vllm",
+  "version": "0.1.1",
+  "summary": "Sovereign Pulse physics gate — vLLM LogitsProcessor plugin",
+  "author": "Mahdi Diab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sovereign_pulse_vllm-0.1.1.tar.gz",
+  "download_time": "2026-05-23T09:43:22.598384",
+  "package_url": "https://pypi.org/project/sovereign-pulse-vllm/"
+}

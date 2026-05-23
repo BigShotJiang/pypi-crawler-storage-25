@@ -1,11 +1,11 @@
 {
   "name": "abstractvoice",
-  "version": "0.8.5",
-  "summary": "Local-first TTS/STT, streaming voice output, and optional voice cloning for AI applications",
+  "version": "0.10.15",
+  "summary": "Remote-compatible and local TTS/STT, streaming voice output, and optional voice cloning for AI applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "abstractvoice-0.8.5.tar.gz",
-  "download_time": "2026-05-06T22:07:05.089452",
+  "download_filename": "abstractvoice-0.10.15.tar.gz",
+  "download_time": "2026-05-23T09:43:40.981148",
   "package_url": "https://pypi.org/project/abstractvoice/"
 }

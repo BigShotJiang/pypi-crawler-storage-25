@@ -1,11 +1,11 @@
 {
   "name": "aiointercept",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "aiohttp mock library that routes requests through a real test server",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "aiointercept-0.1.2.tar.gz",
-  "download_time": "2026-05-12T20:26:49.084489",
+  "download_filename": "aiointercept-0.1.4.tar.gz",
+  "download_time": "2026-05-23T09:43:46.090350",
   "package_url": "https://pypi.org/project/aiointercept/"
 }

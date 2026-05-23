@@ -1,0 +1,11 @@
+{
+  "name": "slurmhub",
+  "version": "1.0.0",
+  "summary": "A terminal UI for monitoring Slurm jobs in real-time over SSH",
+  "author": "Matteo Spanio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "slurmhub-1.0.0.tar.gz",
+  "download_time": "2026-05-23T09:43:19.245614",
+  "package_url": "https://pypi.org/project/slurmhub/"
+}

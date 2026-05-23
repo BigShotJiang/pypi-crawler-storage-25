@@ -1,11 +1,11 @@
 {
   "name": "mk-qa-master",
-  "version": "0.6.1",
-  "summary": "MCP server for running tests across pytest / Jest / Cypress / Go test / Maestro / Schemathesis / Newman (web + mobile + native API via OpenAPI + Postman collections), with self-improvement analytics (AI 測試大師)",
+  "version": "0.7.1",
+  "summary": "MCP server for running tests across pytest / Jest / Cypress / Go test / Maestro / Schemathesis / Newman (web + mobile + native API via OpenAPI + Postman collections), with self-improvement analytics, a bilingual (EN / zh-TW) built-in QA knowledge layer, and an AI Visual Challenge Solver for reCAPTCHA v2 + hCaptcha image-grid challenges (AI 測試大師)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mk_qa_master-0.6.1.tar.gz",
-  "download_time": "2026-05-17T14:10:13.261030",
+  "download_filename": "mk_qa_master-0.7.1.tar.gz",
+  "download_time": "2026-05-23T09:43:38.946297",
   "package_url": "https://pypi.org/project/mk-qa-master/"
 }

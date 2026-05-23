@@ -1,0 +1,11 @@
+{
+  "name": "simtradelab",
+  "version": "2.12.1",
+  "summary": "Lightweight quantitative backtesting framework with PTrade API simulation | 轻量级量化回测框架",
+  "author": "kay",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "simtradelab-2.12.1.tar.gz",
+  "download_time": "2026-05-23T09:43:08.929719",
+  "package_url": "https://pypi.org/project/simtradelab/"
+}

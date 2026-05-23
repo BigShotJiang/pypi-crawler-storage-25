@@ -1,0 +1,11 @@
+{
+  "name": "envyzer",
+  "version": "0.1.0",
+  "summary": "Compare .env files across environments, find missing and mismatched variables",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "envyzer-0.1.0-py3-none-any.whl",
+  "download_time": "2026-05-23T09:43:30.894168",
+  "package_url": "https://pypi.org/project/envyzer/"
+}

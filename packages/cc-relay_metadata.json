@@ -1,0 +1,11 @@
+{
+  "name": "cc-relay",
+  "version": "0.2.4",
+  "summary": "Intelligent interrupt layer for Claude — learns when to ask, when to proceed",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cc_relay-0.2.4.tar.gz",
+  "download_time": "2026-05-23T09:43:31.404049",
+  "package_url": "https://pypi.org/project/cc-relay/"
+}

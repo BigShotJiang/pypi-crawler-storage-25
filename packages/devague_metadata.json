@@ -1,11 +1,11 @@
 {
   "name": "devague",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "devague — turns a vague feature idea into a buildable spec, then a buildable plan.",
   "author": "AgentCulture",
   "license": null,
   "home_page": null,
-  "download_filename": "devague-0.4.0.tar.gz",
-  "download_time": "2026-05-23T07:56:31.458530",
+  "download_filename": "devague-0.4.1.tar.gz",
+  "download_time": "2026-05-23T09:43:49.647640",
   "package_url": "https://pypi.org/project/devague/"
 }

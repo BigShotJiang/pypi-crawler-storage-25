@@ -1,11 +1,11 @@
 {
   "name": "babeltower-agent",
-  "version": "0.1.1",
+  "version": "0.2.3",
   "summary": "Reference CLI agent for the BabelTower protocol",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "babeltower_agent-0.1.1.tar.gz",
-  "download_time": "2026-05-22T09:34:22.822573",
+  "download_filename": "babeltower_agent-0.2.3.tar.gz",
+  "download_time": "2026-05-23T09:43:47.612308",
   "package_url": "https://pypi.org/project/babeltower-agent/"
 }
