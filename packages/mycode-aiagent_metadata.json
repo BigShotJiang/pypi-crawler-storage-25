@@ -1,11 +1,11 @@
 {
   "name": "mycode-aiagent",
-  "version": "0.1.4",
+  "version": "0.4.3",
   "summary": "Style-aware code generation — analyze any codebase and generate new code that matches its style",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mycode_aiagent-0.1.4.tar.gz",
-  "download_time": "2026-05-22T17:34:40.477031",
+  "download_filename": "mycode_aiagent-0.4.3.tar.gz",
+  "download_time": "2026-05-23T16:28:51.921913",
   "package_url": "https://pypi.org/project/mycode-aiagent/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ecoenv",
-  "version": "0.1.51",
+  "version": "0.1.52",
   "summary": "A Python library for ecological data collection and environmental analysis",
   "author": "Ane Simões",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ecoenv-0.1.51.tar.gz",
-  "download_time": "2026-04-21T14:12:27.847467",
+  "download_filename": "ecoenv-0.1.52.tar.gz",
+  "download_time": "2026-05-23T16:28:47.289661",
   "package_url": "https://pypi.org/project/ecoenv/"
 }

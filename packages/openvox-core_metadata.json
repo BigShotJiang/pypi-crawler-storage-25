@@ -1,11 +1,11 @@
 {
   "name": "openvox-core",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Local-first, open-source voice agent platform — install with pip, run as a daemon, no Docker required.",
   "author": "OpenVox Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "openvox_core-0.1.5.tar.gz",
-  "download_time": "2026-05-23T15:15:48.122196",
+  "download_filename": "openvox_core-0.1.7-py3-none-any.whl",
+  "download_time": "2026-05-23T16:28:43.636931",
   "package_url": "https://pypi.org/project/openvox-core/"
 }

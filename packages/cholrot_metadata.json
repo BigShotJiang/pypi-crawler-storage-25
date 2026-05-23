@@ -1,0 +1,11 @@
+{
+  "name": "cholrot",
+  "version": "0.1.0",
+  "summary": "Rank-one Cholesky update/downdate, implicit factor-vector products, and rank-one Cholesky solves.",
+  "author": "Shohruh Miryusupov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cholrot-0.1.0.tar.gz",
+  "download_time": "2026-05-23T16:29:05.291114",
+  "package_url": "https://pypi.org/project/cholrot/"
+}

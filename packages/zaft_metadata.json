@@ -1,11 +1,11 @@
 {
   "name": "zaft",
-  "version": "0.3.9",
+  "version": "0.3.10",
   "summary": "High-performance FFT library",
   "author": "Radzivon Bartoshyk",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/awxkee/zaft",
-  "download_filename": "zaft-0.3.9.tar.gz",
-  "download_time": "2026-05-23T14:10:34.234693",
+  "download_filename": "zaft-0.3.10.tar.gz",
+  "download_time": "2026-05-23T16:29:24.151284",
   "package_url": "https://pypi.org/project/zaft/"
 }

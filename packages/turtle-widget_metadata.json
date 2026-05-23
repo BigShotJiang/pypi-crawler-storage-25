@@ -1,11 +1,11 @@
 {
   "name": "turtle-widget",
-  "version": "0.1.18",
+  "version": "0.1.22",
   "summary": "An animated, turtle-compatible drawing widget for Jupyter notebooks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "turtle_widget-0.1.18.tar.gz",
-  "download_time": "2026-05-23T14:10:35.266429",
+  "download_filename": "turtle_widget-0.1.22.tar.gz",
+  "download_time": "2026-05-23T16:28:44.656551",
   "package_url": "https://pypi.org/project/turtle-widget/"
 }

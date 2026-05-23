@@ -1,11 +1,11 @@
 {
   "name": "weft",
-  "version": "0.9.56",
+  "version": "0.9.58",
   "summary": "The durable task substrate for agent systems",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "weft-0.9.56.tar.gz",
-  "download_time": "2026-05-23T01:39:00.932495",
+  "download_filename": "weft-0.9.58.tar.gz",
+  "download_time": "2026-05-23T16:29:18.910438",
   "package_url": "https://pypi.org/project/weft/"
 }

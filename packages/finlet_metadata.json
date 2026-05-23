@@ -1,0 +1,11 @@
+{
+  "name": "finlet",
+  "version": "2.0.0",
+  "summary": "A historical market simulation environment for testing AI trading agent reasoning against real market data.",
+  "author": "Finlet Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "finlet-2.0.0.tar.gz",
+  "download_time": "2026-05-23T16:29:19.472092",
+  "package_url": "https://pypi.org/project/finlet/"
+}

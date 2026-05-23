@@ -1,0 +1,11 @@
+{
+  "name": "hiera-optim",
+  "version": "0.2.0",
+  "summary": "Drop-in throughput and memory optimisations for FAIR Hiera. 0.2: graph-safe MAE for torch.compile(reduce-overhead) — 2.37x on Hiera-Base GH200 over eager.",
+  "author": "Maxi Kalcher",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hiera_optim-0.2.0.tar.gz",
+  "download_time": "2026-05-23T16:29:07.885372",
+  "package_url": "https://pypi.org/project/hiera-optim/"
+}

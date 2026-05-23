@@ -1,11 +1,11 @@
 {
   "name": "py4D-browser-transform",
-  "version": "0.0.2.post1",
+  "version": "0.1.0",
   "summary": "py4D-browser plugin that adds utility functions which transform the datacube",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py4d_browser_transform-0.0.2.post1.tar.gz",
-  "download_time": "2026-05-07T12:38:40.536864",
+  "download_filename": "py4d_browser_transform-0.1.0.tar.gz",
+  "download_time": "2026-05-23T16:29:25.679964",
   "package_url": "https://pypi.org/project/py4D-browser-transform/"
 }

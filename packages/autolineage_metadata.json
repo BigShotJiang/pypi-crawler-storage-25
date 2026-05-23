@@ -1,0 +1,11 @@
+{
+  "name": "autolineage",
+  "version": "0.6.1",
+  "summary": "Zero-code data lineage for Python ML pipelines: automatic tracking, anomaly detection, and root-cause localization across pandas, scikit-learn, and PySpark.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autolineage-0.6.1.tar.gz",
+  "download_time": "2026-05-23T16:28:41.572669",
+  "package_url": "https://pypi.org/project/autolineage/"
+}

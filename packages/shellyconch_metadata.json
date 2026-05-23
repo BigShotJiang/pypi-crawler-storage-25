@@ -1,0 +1,11 @@
+{
+  "name": "shellyconch",
+  "version": "1.0.5",
+  "summary": "Python library for discovering and controlling Shelly smart home devices over HTTP (local LAN + Shelly Cloud).",
+  "author": "Lorenzo P.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shellyconch-1.0.5.tar.gz",
+  "download_time": "2026-05-23T16:28:39.010201",
+  "package_url": "https://pypi.org/project/shellyconch/"
+}

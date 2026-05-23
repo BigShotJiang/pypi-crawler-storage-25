@@ -1,0 +1,11 @@
+{
+  "name": "citationclaw",
+  "version": "2.0.0",
+  "summary": "论文被引画像分析工具 — 自动爬取施引文献、识别著名学者、生成可视化 HTML 报告",
+  "author": "Qihao Yang, Chunhao Zhang, Yifan Cheng, Ziyang Gong, Caorui Li, Zhanghan Xu, Tianyi Zhou, Jiawei Lu, Ziqian Fan, Yifan Zhou, Yue Zhou, Zhihang Zhong, Xu Yang, Xin Tan, Xue Yang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "citationclaw-2.0.0.tar.gz",
+  "download_time": "2026-05-23T16:29:12.522132",
+  "package_url": "https://pypi.org/project/citationclaw/"
+}

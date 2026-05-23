@@ -1,11 +1,11 @@
 {
   "name": "harness-maker",
-  "version": "0.20.2",
-  "summary": "Project-tailored Claude Code / Cursor / Codex harness generator. Grade-gated review + auto-fix, multi-reviewer consensus, edit-preserving block-merge upgrades, anti-rot crawlers, worktree isolation, version-drift detection, and a 3-layer ai-readiness rubric with ranked improvement actions.",
+  "version": "0.25.0",
+  "summary": "Per-project AI coding harness for Claude Code · Cursor · Codex. Profiler + 10-dim interview build a different harness for every project.",
   "author": "Ecro",
   "license": null,
   "home_page": null,
-  "download_filename": "harness_maker-0.20.2.tar.gz",
-  "download_time": "2026-05-21T07:50:19.787166",
+  "download_filename": "harness_maker-0.25.0.tar.gz",
+  "download_time": "2026-05-23T16:29:15.673794",
   "package_url": "https://pypi.org/project/harness-maker/"
 }
