@@ -1,11 +1,11 @@
 {
   "name": "agenda-intelligence-md",
-  "version": "0.8.2",
+  "version": "1.0.0",
   "summary": "CLI, MCP server, and JSON schemas for validating and auditing strategic-risk AI agent output",
   "author": "Vassiliy Lakhonin",
   "license": null,
   "home_page": null,
-  "download_filename": "agenda_intelligence_md-0.8.2.tar.gz",
-  "download_time": "2026-05-20T09:43:58.335711",
+  "download_filename": "agenda_intelligence_md-1.0.0.tar.gz",
+  "download_time": "2026-05-23T07:56:49.166492",
   "package_url": "https://pypi.org/project/agenda-intelligence-md/"
 }

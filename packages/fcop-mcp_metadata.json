@@ -1,11 +1,11 @@
 {
   "name": "fcop-mcp",
-  "version": "1.3.0",
+  "version": "3.2.3",
   "summary": "stdio MCP server for the FCoP Python library: exposes the fcop package's Project, task, report, issue, GAL alert, and audit APIs to MCP clients (Cursor, Claude Desktop, …). Optional bridge, not a second protocol; depends on fcop 1.x, FastMCP, websockets.",
   "author": "FCoP Maintainers",
   "license": null,
   "home_page": null,
-  "download_filename": "fcop_mcp-1.3.0.tar.gz",
-  "download_time": "2026-05-12T04:46:13.714146",
+  "download_filename": "fcop_mcp-3.2.3.tar.gz",
+  "download_time": "2026-05-23T07:56:36.099910",
   "package_url": "https://pypi.org/project/fcop-mcp/"
 }

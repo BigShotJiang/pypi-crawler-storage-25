@@ -1,0 +1,11 @@
+{
+  "name": "proof-scaffold",
+  "version": "0.0.6",
+  "summary": "A layered, sanity-checked scaffold for building modular Metamath artifacts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "proof_scaffold-0.0.6.tar.gz",
+  "download_time": "2026-05-23T07:56:52.267611",
+  "package_url": "https://pypi.org/project/proof-scaffold/"
+}

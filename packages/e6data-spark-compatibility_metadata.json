@@ -1,0 +1,11 @@
+{
+  "name": "e6data-spark-compatibility",
+  "version": "1.0.3",
+  "summary": "PySpark and Sedona compatibility layer for e6data",
+  "author": "E6Data",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/e6data/e6-spark-compat",
+  "download_filename": "e6data_spark_compatibility-1.0.3.tar.gz",
+  "download_time": "2026-05-23T07:56:47.604560",
+  "package_url": "https://pypi.org/project/e6data-spark-compatibility/"
+}

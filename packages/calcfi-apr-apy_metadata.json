@@ -1,0 +1,11 @@
+{
+  "name": "calcfi-apr-apy",
+  "version": "0.1.0",
+  "summary": "Convert between APR (simple annual rate) and APY (effective annual yield including compounding). MIT.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "calcfi_apr_apy-0.1.0.tar.gz",
+  "download_time": "2026-05-23T07:56:28.904860",
+  "package_url": "https://pypi.org/project/calcfi-apr-apy/"
+}

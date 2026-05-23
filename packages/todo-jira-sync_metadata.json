@@ -1,0 +1,11 @@
+{
+  "name": "todo-jira-sync",
+  "version": "1.0.0",
+  "summary": "Bidirectionally sync a Jira project with a Todo+ (vscode-todo-plus) text file.",
+  "author": "Regis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "todo_jira_sync-1.0.0.tar.gz",
+  "download_time": "2026-05-23T07:56:55.887642",
+  "package_url": "https://pypi.org/project/todo-jira-sync/"
+}

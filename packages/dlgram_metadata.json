@@ -1,0 +1,11 @@
+{
+  "name": "dlgram",
+  "version": "3.0.2",
+  "summary": "DLGram: lightweight Telegram MTProto API framework for bots and user clients",
+  "author": "DLGram Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dlgram-3.0.2.tar.gz",
+  "download_time": "2026-05-23T07:56:46.580992",
+  "package_url": "https://pypi.org/project/dlgram/"
+}

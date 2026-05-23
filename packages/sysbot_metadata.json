@@ -1,0 +1,11 @@
+{
+  "name": "sysbot",
+  "version": "0.2.6",
+  "summary": "System test automation library with support for SSH, WinRM, HTTP, databases, and Robot Framework integration",
+  "author": "Thibault SCIRE",
+  "license": "MIT",
+  "home_page": "https://github.com/JoReci2/sysbot",
+  "download_filename": "sysbot-0.2.6.tar.gz",
+  "download_time": "2026-05-23T07:56:46.059065",
+  "package_url": "https://pypi.org/project/sysbot/"
+}

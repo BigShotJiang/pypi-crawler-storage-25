@@ -1,11 +1,11 @@
 {
   "name": "remaind",
-  "version": "0.6.2",
-  "summary": "100% local memory for AI agents working beyond one context window.",
+  "version": "0.9.1",
+  "summary": "Local-first memory and context continuity for AI agents working beyond one context window.",
   "author": "Draft Labs",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "remaind-0.6.2.tar.gz",
-  "download_time": "2026-05-15T05:53:02.871384",
+  "download_filename": "remaind-0.9.1.tar.gz",
+  "download_time": "2026-05-23T07:56:55.371986",
   "package_url": "https://pypi.org/project/remaind/"
 }

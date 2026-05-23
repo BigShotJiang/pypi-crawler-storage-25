@@ -1,0 +1,11 @@
+{
+  "name": "movie-downloader",
+  "version": "0.3.7",
+  "summary": "A fast movie downloader using Aria2",
+  "author": "Jesse Gao",
+  "license": "MIT License",
+  "home_page": "https://github.com/Jesseatgao/movie-downloader",
+  "download_filename": "movie_downloader-0.3.7.tar.gz",
+  "download_time": "2026-05-23T07:56:54.836282",
+  "package_url": "https://pypi.org/project/movie-downloader/"
+}

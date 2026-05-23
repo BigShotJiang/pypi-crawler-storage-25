@@ -1,11 +1,11 @@
 {
   "name": "uv-agent",
-  "version": "0.7.10",
+  "version": "0.9.0",
   "summary": "Experimental Python-runner coding agent with a Textual TUI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uv_agent-0.7.10.tar.gz",
-  "download_time": "2026-05-22T12:16:45.806615",
+  "download_filename": "uv_agent-0.9.0.tar.gz",
+  "download_time": "2026-05-23T07:56:43.366717",
   "package_url": "https://pypi.org/project/uv-agent/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "bettermemory",
-  "version": "2.6.4",
+  "version": "2.6.6",
   "summary": "Memory you can verify — MCP-native memory for AI coding agents, with per-hit staleness verdicts and claim-level audit trails. Local-first, MIT, no cloud.",
   "author": "Mattias Rask",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bettermemory-2.6.4.tar.gz",
-  "download_time": "2026-05-22T01:50:00.154654",
+  "download_filename": "bettermemory-2.6.6.tar.gz",
+  "download_time": "2026-05-23T07:56:58.959102",
   "package_url": "https://pypi.org/project/bettermemory/"
 }
