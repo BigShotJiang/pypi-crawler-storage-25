@@ -1,0 +1,11 @@
+{
+  "name": "tsxml",
+  "version": "0.2.0",
+  "summary": "Parse TestStand XML to Python dictionary",
+  "author": "Karthik Abiram",
+  "license": "MIT",
+  "home_page": "https://github.com/KarthikAbiram/tsxml",
+  "download_filename": "tsxml-0.2.0-py3-none-any.whl",
+  "download_time": "2026-05-23T18:46:05.032950",
+  "package_url": "https://pypi.org/project/tsxml/"
+}

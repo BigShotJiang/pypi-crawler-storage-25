@@ -1,11 +1,11 @@
 {
   "name": "exdrf-gen-al2r",
-  "version": "0.1.14",
+  "version": "0.1.18",
   "summary": "Generate FastAPI route modules from SQLAlchemy-backed ExDataset metadata.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "exdrf_gen_al2r-0.1.14-py3-none-any.whl",
-  "download_time": "2026-05-13T18:40:12.261240",
+  "download_filename": "exdrf_gen_al2r-0.1.18.tar.gz",
+  "download_time": "2026-05-23T18:45:32.564163",
   "package_url": "https://pypi.org/project/exdrf-gen-al2r/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "latex-wc",
-  "version": "0.2.10",
+  "version": "0.2.12",
   "summary": "Count words in LaTeX documents while ignoring commands, math, and common non-text regions.",
   "author": "Seth Barrett",
   "license": null,
   "home_page": null,
-  "download_filename": "latex_wc-0.2.10.tar.gz",
-  "download_time": "2026-04-26T17:46:14.495534",
+  "download_filename": "latex_wc-0.2.12.tar.gz",
+  "download_time": "2026-05-23T18:45:48.180043",
   "package_url": "https://pypi.org/project/latex-wc/"
 }

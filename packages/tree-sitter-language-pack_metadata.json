@@ -1,11 +1,11 @@
 {
   "name": "tree-sitter-language-pack",
-  "version": "1.6.3",
-  "summary": "Comprehensive collection of 305 tree-sitter language parsers with polyglot bindings",
-  "author": null,
+  "version": "1.8.1",
+  "summary": "Pre-compiled tree-sitter grammars for 305 programming languages",
+  "author": "Kreuzberg Team",
   "license": null,
   "home_page": null,
-  "download_filename": "tree_sitter_language_pack-1.6.3-cp312-cp312-manylinux_2_34_aarch64.whl",
-  "download_time": "2026-05-07T08:43:14.061454",
+  "download_filename": "tree_sitter_language_pack-1.8.1.tar.gz",
+  "download_time": "2026-05-23T18:45:54.753444",
   "package_url": "https://pypi.org/project/tree-sitter-language-pack/"
 }

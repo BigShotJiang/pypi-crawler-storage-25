@@ -1,11 +1,11 @@
 {
   "name": "proot-distro",
-  "version": "5.0.0b5",
-  "summary": "Manage Linux proot containers on Termux",
+  "version": "5.1.0",
+  "summary": "PRoot-Distro is a lightweight rootless Linux container management utility built around proot.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "proot_distro-5.0.0b5.tar.gz",
-  "download_time": "2026-05-16T01:36:53.363781",
+  "download_filename": "proot_distro-5.1.0.tar.gz",
+  "download_time": "2026-05-23T18:45:47.641939",
   "package_url": "https://pypi.org/project/proot-distro/"
 }

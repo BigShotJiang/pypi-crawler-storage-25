@@ -1,0 +1,11 @@
+{
+  "name": "chunkhound-index-compactor",
+  "version": "0.3.0",
+  "summary": "Compact a bloated ChunkHound DuckDB index by rebuilding it into a fresh file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chunkhound_index_compactor-0.3.0.tar.gz",
+  "download_time": "2026-05-23T18:45:38.445269",
+  "package_url": "https://pypi.org/project/chunkhound-index-compactor/"
+}
