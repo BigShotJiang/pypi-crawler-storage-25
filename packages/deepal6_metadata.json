@@ -1,11 +1,11 @@
 {
   "name": "deepal6",
-  "version": "1.0.2",
-  "summary": "DeepAL6 — Deep Active Learning with initial 5 query strategies vs random baseline",
+  "version": "1.0.3",
+  "summary": "DeepAL6 — Deep Active Learning Library for Tabular and Image Domains",
   "author": "Bob Philip Aila",
-  "license": "MIT",
-  "home_page": "https://github.com/bob-aila/deepal6",
-  "download_filename": "deepal6-1.0.2.tar.gz",
-  "download_time": "2026-05-23T12:12:48.459084",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepal6-1.0.3.tar.gz",
+  "download_time": "2026-05-23T14:10:10.942785",
   "package_url": "https://pypi.org/project/deepal6/"
 }

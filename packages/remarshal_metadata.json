@@ -1,0 +1,11 @@
+{
+  "name": "remarshal",
+  "version": "2.0.1",
+  "summary": "Convert between CBOR, JSON, MessagePack, TOML, and YAML",
+  "author": "D. Bohdan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "remarshal-2.0.1.tar.gz",
+  "download_time": "2026-05-23T14:10:31.656373",
+  "package_url": "https://pypi.org/project/remarshal/"
+}

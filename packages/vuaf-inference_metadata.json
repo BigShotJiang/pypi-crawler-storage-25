@@ -1,0 +1,11 @@
+{
+  "name": "vuaf-inference",
+  "version": "0.6.0",
+  "summary": "Inference-only runtime for VUAF (Void Ultimatus Architecture Fusion) models.",
+  "author": "Sqersters",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vuaf_inference-0.6.0.tar.gz",
+  "download_time": "2026-05-23T14:09:50.507268",
+  "package_url": "https://pypi.org/project/vuaf-inference/"
+}

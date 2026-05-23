@@ -1,11 +1,11 @@
 {
   "name": "modern-tts",
-  "version": "0.3.1",
+  "version": "0.3.5",
   "summary": "A unified, extensible, and modern Python toolkit for LLM-based Text-to-Speech (TTS) synthesis.",
   "author": "Modern TTS Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "modern_tts-0.3.1.tar.gz",
-  "download_time": "2026-05-20T09:44:12.012284",
+  "download_filename": "modern_tts-0.3.5.tar.gz",
+  "download_time": "2026-05-23T14:10:29.063781",
   "package_url": "https://pypi.org/project/modern-tts/"
 }

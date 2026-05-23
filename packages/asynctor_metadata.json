@@ -1,0 +1,11 @@
+{
+  "name": "asynctor",
+  "version": "0.12.9",
+  "summary": "Async functions to compare with anyio and asyncio, and toolkit to read excel with async/await.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "asynctor-0.12.9.tar.gz",
+  "download_time": "2026-05-23T14:09:52.065217",
+  "package_url": "https://pypi.org/project/asynctor/"
+}

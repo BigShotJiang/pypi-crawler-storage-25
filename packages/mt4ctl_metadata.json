@@ -1,11 +1,11 @@
 {
   "name": "mt4ctl",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "MCP server for managing headless MetaTrader terminals over SSH (Wine + systemd)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mt4ctl-0.1.0.tar.gz",
-  "download_time": "2026-05-23T12:12:52.560002",
+  "download_filename": "mt4ctl-0.3.0.tar.gz",
+  "download_time": "2026-05-23T14:10:08.353474",
   "package_url": "https://pypi.org/project/mt4ctl/"
 }

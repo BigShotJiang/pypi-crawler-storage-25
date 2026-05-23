@@ -1,11 +1,11 @@
 {
   "name": "piia-engram",
-  "version": "3.12.1",
-  "summary": "Engram — Your AI identity layer. Stores who you are, not just what you did. Local-first, MCP-compatible.",
+  "version": "3.27.1",
+  "summary": "Persistent AI memory across tools — remember your preferences, code standards, and decisions across Claude Code, Cursor, Codex, and any MCP tool. Local-first, zero-cloud.",
   "author": "Engram Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "piia_engram-3.12.1.tar.gz",
-  "download_time": "2026-05-21T23:55:23.867802",
+  "download_filename": "piia_engram-3.27.1.tar.gz",
+  "download_time": "2026-05-23T14:10:01.571147",
   "package_url": "https://pypi.org/project/piia-engram/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "deploydoctor",
+  "version": "0.1.2",
+  "summary": "Diagnose Nginx, SSL, Docker, DNS, ports, and web app deployment problems from one CLI.",
+  "author": "Said Amiraslanli",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deploydoctor-0.1.2.tar.gz",
+  "download_time": "2026-05-23T14:10:18.152731",
+  "package_url": "https://pypi.org/project/deploydoctor/"
+}

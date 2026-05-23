@@ -1,11 +1,11 @@
 {
   "name": "scitex",
-  "version": "2.28.11",
+  "version": "2.29.3",
   "summary": "A comprehensive Python library for scientific computing and data analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scitex-2.28.11.tar.gz",
-  "download_time": "2026-04-30T13:16:34.509007",
+  "download_filename": "scitex-2.29.3.tar.gz",
+  "download_time": "2026-05-23T14:10:20.753657",
   "package_url": "https://pypi.org/project/scitex/"
 }

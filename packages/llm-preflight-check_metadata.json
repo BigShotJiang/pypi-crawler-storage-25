@@ -1,0 +1,11 @@
+{
+  "name": "llm-preflight-check",
+  "version": "0.1.0",
+  "summary": "Local preflight checks for LLM provider keys, endpoints, and model configuration",
+  "author": "Haider",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_preflight_check-0.1.0.tar.gz",
+  "download_time": "2026-05-23T14:09:56.341567",
+  "package_url": "https://pypi.org/project/llm-preflight-check/"
+}

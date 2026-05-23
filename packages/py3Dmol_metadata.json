@@ -1,0 +1,11 @@
+{
+  "name": "py3Dmol",
+  "version": "2.5.5",
+  "summary": "An IPython interface for embedding 3Dmol.js views in Jupyter notebooks",
+  "author": "David Koes",
+  "license": "MIT",
+  "home_page": "https://3dmol.org",
+  "download_filename": "py3dmol-2.5.5.tar.gz",
+  "download_time": "2026-05-23T14:09:51.553134",
+  "package_url": "https://pypi.org/project/py3Dmol/"
+}

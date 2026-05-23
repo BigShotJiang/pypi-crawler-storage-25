@@ -1,11 +1,11 @@
 {
   "name": "vention-storage",
-  "version": "0.6.44",
+  "version": "0.7.1",
   "summary": "A framework for storing and managing component and application data for machine apps.",
   "author": "VentionCo",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "vention_storage-0.6.44.tar.gz",
-  "download_time": "2026-05-21T19:31:58.403674",
+  "download_filename": "vention_storage-0.7.1.tar.gz",
+  "download_time": "2026-05-23T14:09:54.761251",
   "package_url": "https://pypi.org/project/vention-storage/"
 }

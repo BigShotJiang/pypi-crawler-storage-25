@@ -1,0 +1,11 @@
+{
+  "name": "haqumei",
+  "version": "0.6.7",
+  "summary": "A Japanese Grapheme-to-Phoneme (G2P) library.",
+  "author": "o24s",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/o24s/haqumei",
+  "download_filename": "haqumei-0.6.7.tar.gz",
+  "download_time": "2026-05-23T14:10:33.202121",
+  "package_url": "https://pypi.org/project/haqumei/"
+}

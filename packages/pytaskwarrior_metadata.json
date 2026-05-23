@@ -1,11 +1,11 @@
 {
   "name": "pytaskwarrior",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "summary": "Automate TaskWarrior from Python: type-safe Pydantic DTOs, virtual tags, and sync",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytaskwarrior-3.0.1.tar.gz",
-  "download_time": "2026-05-23T07:56:50.215081",
+  "download_filename": "pytaskwarrior-3.0.2.tar.gz",
+  "download_time": "2026-05-23T14:10:29.579585",
   "package_url": "https://pypi.org/project/pytaskwarrior/"
 }
