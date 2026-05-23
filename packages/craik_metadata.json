@@ -1,11 +1,11 @@
 {
   "name": "craik",
-  "version": "0.1.1",
+  "version": "0.11.0",
   "summary": "Governed agent-runtime substrate for case files, policy, receipts, prompt compilation, and provider transports.",
   "author": "Eidetic Labs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "craik-0.1.1.tar.gz",
-  "download_time": "2026-05-19T04:55:36.240885",
+  "download_filename": "craik-0.11.0.tar.gz",
+  "download_time": "2026-05-23T05:14:45.040922",
   "package_url": "https://pypi.org/project/craik/"
 }

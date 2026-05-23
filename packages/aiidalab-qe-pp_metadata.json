@@ -1,11 +1,11 @@
 {
   "name": "aiidalab-qe-pp",
-  "version": "0.1.6",
+  "version": "0.1.10",
   "summary": "AiiDAlab quantum ESPRESSO app plugin for PP code",
   "author": "Andres Ortega-Guerrero",
   "license": null,
   "home_page": null,
-  "download_filename": "aiidalab_qe_pp-0.1.6.tar.gz",
-  "download_time": "2026-04-18T15:48:01.930288",
+  "download_filename": "aiidalab_qe_pp-0.1.10.tar.gz",
+  "download_time": "2026-05-23T05:14:31.878951",
   "package_url": "https://pypi.org/project/aiidalab-qe-pp/"
 }

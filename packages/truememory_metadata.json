@@ -1,11 +1,11 @@
 {
   "name": "truememory",
-  "version": "0.6.4",
+  "version": "0.7.1.3",
   "summary": "SOTA-level agent memory at zero infrastructure cost.",
   "author": "@Building_Josh",
   "license": null,
   "home_page": null,
-  "download_filename": "truememory-0.6.4.tar.gz",
-  "download_time": "2026-05-10T14:07:57.170512",
+  "download_filename": "truememory-0.7.1.3.tar.gz",
+  "download_time": "2026-05-23T05:14:50.501658",
   "package_url": "https://pypi.org/project/truememory/"
 }

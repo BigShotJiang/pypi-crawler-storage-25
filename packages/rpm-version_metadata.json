@@ -1,0 +1,11 @@
+{
+  "name": "rpm-version",
+  "version": "0.1.0",
+  "summary": "A library for dealing with RPM versions (NEVRA, EVR) correctly. Python bindings for the Rust crate rpm-version",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rpm_version-0.1.0.tar.gz",
+  "download_time": "2026-05-23T05:15:04.666998",
+  "package_url": "https://pypi.org/project/rpm-version/"
+}

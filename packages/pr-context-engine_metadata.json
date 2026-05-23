@@ -1,0 +1,11 @@
+{
+  "name": "pr-context-engine",
+  "version": "0.1.2",
+  "summary": "An AI tool that reads every PR and posts a senior-engineer-style briefing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pr_context_engine-0.1.2.tar.gz",
+  "download_time": "2026-05-23T05:14:47.808379",
+  "package_url": "https://pypi.org/project/pr-context-engine/"
+}

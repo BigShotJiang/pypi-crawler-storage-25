@@ -1,0 +1,11 @@
+{
+  "name": "rasteric",
+  "version": "2.0.0",
+  "summary": "A Python geospatial library for raster preprocessing, analysis, visualization, and modeling",
+  "author": "Thai Tran",
+  "license": "MIT",
+  "home_page": "https://github.com/tnmthai/rasteric",
+  "download_filename": "rasteric-2.0.0.tar.gz",
+  "download_time": "2026-05-23T05:15:01.555279",
+  "package_url": "https://pypi.org/project/rasteric/"
+}

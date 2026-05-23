@@ -1,11 +1,11 @@
 {
   "name": "bleak-esphome",
-  "version": "3.7.6",
+  "version": "3.8.1",
   "summary": "Bleak backend of ESPHome",
   "author": "J. Nick Koston",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bleak_esphome-3.7.6.tar.gz",
-  "download_time": "2026-05-21T22:55:45.405582",
+  "download_filename": "bleak_esphome-3.8.1.tar.gz",
+  "download_time": "2026-05-23T05:14:41.891054",
   "package_url": "https://pypi.org/project/bleak-esphome/"
 }

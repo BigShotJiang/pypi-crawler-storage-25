@@ -1,11 +1,11 @@
 {
   "name": "yutome",
-  "version": "0.1.4",
+  "version": "0.1.13",
   "summary": "A local transcript library for the YouTube channels you point at",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yutome-0.1.4.tar.gz",
-  "download_time": "2026-05-22T22:20:22.741017",
+  "download_filename": "yutome-0.1.13.tar.gz",
+  "download_time": "2026-05-23T05:15:07.127506",
   "package_url": "https://pypi.org/project/yutome/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "devflow-engine",
-  "version": "1.1.5",
+  "version": "1.1.19",
   "summary": "DevFlow v2 CLI-first engine (projects, stories, execution store, review packets)",
   "author": "DevFlow",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "devflow_engine-1.1.5.tar.gz",
-  "download_time": "2026-05-21T23:54:54.887591",
+  "download_filename": "devflow_engine-1.1.19.tar.gz",
+  "download_time": "2026-05-23T05:14:56.860129",
   "package_url": "https://pypi.org/project/devflow-engine/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cdp-bridge",
-  "version": "0.1.14",
+  "version": "0.1.16",
   "summary": "MCP server that bridges clients to a real browser through CDP and a companion extension.",
   "author": "Unagi-cq",
   "license": null,
   "home_page": null,
-  "download_filename": "cdp_bridge-0.1.14.tar.gz",
-  "download_time": "2026-05-17T10:12:49.304351",
+  "download_filename": "cdp_bridge-0.1.16.tar.gz",
+  "download_time": "2026-05-23T05:14:45.687820",
   "package_url": "https://pypi.org/project/cdp-bridge/"
 }

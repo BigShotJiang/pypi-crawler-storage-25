@@ -1,0 +1,11 @@
+{
+  "name": "sen2p",
+  "version": "0.2.0",
+  "summary": "Download Sentinel-2 data from Microsoft Planetary Computer",
+  "author": "Thai Tran",
+  "license": "MIT",
+  "home_page": "https://github.com/tnmthai/sen2p",
+  "download_filename": "sen2p-0.2.0.tar.gz",
+  "download_time": "2026-05-23T05:14:31.360101",
+  "package_url": "https://pypi.org/project/sen2p/"
+}

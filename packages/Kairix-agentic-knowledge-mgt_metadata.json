@@ -1,11 +1,11 @@
 {
   "name": "Kairix-agentic-knowledge-mgt",
-  "version": "2026.5.15.2",
+  "version": "2026.5.18",
   "summary": "Self-contained knowledge retrieval engine — hybrid search, entity graph, temporal reasoning, session briefing",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "kairix_agentic_knowledge_mgt-2026.5.15.2-py3-none-any.whl",
-  "download_time": "2026-05-16T15:29:31.831676",
+  "download_filename": "kairix_agentic_knowledge_mgt-2026.5.18-py3-none-any.whl",
+  "download_time": "2026-05-23T05:15:01.037166",
   "package_url": "https://pypi.org/project/Kairix-agentic-knowledge-mgt/"
 }
