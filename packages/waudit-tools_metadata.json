@@ -1,0 +1,11 @@
+{
+  "name": "waudit-tools",
+  "version": "0.1.1",
+  "summary": "Tools for waudit: SQL generation, Alembic ops, SQLAlchemy mixins",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "waudit_tools-0.1.1.tar.gz",
+  "download_time": "2026-05-24T23:11:15.517898",
+  "package_url": "https://pypi.org/project/waudit-tools/"
+}

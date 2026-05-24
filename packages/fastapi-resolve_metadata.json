@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-resolve",
+  "version": "1.1.1",
+  "summary": "Deferred routing and content negotiation for FastAPI",
+  "author": "hlynurj",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_resolve-1.1.1.tar.gz",
+  "download_time": "2026-05-24T23:10:44.709551",
+  "package_url": "https://pypi.org/project/fastapi-resolve/"
+}

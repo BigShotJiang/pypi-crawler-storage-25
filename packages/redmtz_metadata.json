@@ -1,11 +1,11 @@
 {
   "name": "redmtz",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "summary": "AI Governance for Python Functions and MCP Agents — Cryptographically signed audit envelopes for every decision.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "redmtz-1.4.1.tar.gz",
-  "download_time": "2026-04-12T20:39:36.837537",
+  "download_filename": "redmtz-1.5.0.tar.gz",
+  "download_time": "2026-05-24T23:11:02.301767",
   "package_url": "https://pypi.org/project/redmtz/"
 }

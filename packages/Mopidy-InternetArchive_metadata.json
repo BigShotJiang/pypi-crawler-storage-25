@@ -1,11 +1,11 @@
 {
   "name": "Mopidy-InternetArchive",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "summary": "Mopidy extension for playing music from the Internet Archive",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mopidy_internetarchive-4.0.0.tar.gz",
-  "download_time": "2026-05-24T21:08:34.802771",
+  "download_filename": "mopidy_internetarchive-4.0.1.tar.gz",
+  "download_time": "2026-05-24T23:11:20.970580",
   "package_url": "https://pypi.org/project/Mopidy-InternetArchive/"
 }

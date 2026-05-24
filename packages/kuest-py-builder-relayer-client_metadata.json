@@ -1,0 +1,11 @@
+{
+  "name": "kuest-py-builder-relayer-client",
+  "version": "2.0.3",
+  "summary": "Wallet-only Python client for the Kuest relayer",
+  "author": "Kuest Engineering",
+  "license": null,
+  "home_page": "https://github.com/kuestcom/py-builder-relayer-client",
+  "download_filename": "kuest_py_builder_relayer_client-2.0.3.tar.gz",
+  "download_time": "2026-05-24T23:10:47.322027",
+  "package_url": "https://pypi.org/project/kuest-py-builder-relayer-client/"
+}

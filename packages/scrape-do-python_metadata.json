@@ -1,11 +1,11 @@
 {
   "name": "scrape-do-python",
-  "version": "0.1.1",
+  "version": "0.3.0",
   "summary": "A Python SDK for the Scrape.do API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scrape_do_python-0.1.1.tar.gz",
-  "download_time": "2026-05-09T22:58:59.040567",
+  "download_filename": "scrape_do_python-0.3.0.tar.gz",
+  "download_time": "2026-05-24T23:10:57.008939",
   "package_url": "https://pypi.org/project/scrape-do-python/"
 }

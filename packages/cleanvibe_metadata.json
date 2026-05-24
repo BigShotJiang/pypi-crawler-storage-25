@@ -1,11 +1,11 @@
 {
   "name": "cleanvibe",
-  "version": "1.9.1",
+  "version": "1.10.0",
   "summary": "A workflow accelerator that scaffolds AI-assisted coding projects with opinionated documentation and launches Claude Code.",
   "author": "Immanuelle",
   "license": null,
   "home_page": null,
-  "download_filename": "cleanvibe-1.9.1.tar.gz",
-  "download_time": "2026-05-24T22:10:49.626198",
+  "download_filename": "cleanvibe-1.10.0.tar.gz",
+  "download_time": "2026-05-24T23:10:59.117786",
   "package_url": "https://pypi.org/project/cleanvibe/"
 }

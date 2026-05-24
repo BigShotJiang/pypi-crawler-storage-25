@@ -1,11 +1,11 @@
 {
   "name": "dhara-extension",
-  "version": "0.7.1",
+  "version": "0.7.4",
   "summary": "Python SDK for building Dhara extensions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dhara_extension-0.7.1.tar.gz",
-  "download_time": "2026-05-24T22:10:33.117611",
+  "download_filename": "dhara_extension-0.7.4.tar.gz",
+  "download_time": "2026-05-24T23:11:08.113829",
   "package_url": "https://pypi.org/project/dhara-extension/"
 }

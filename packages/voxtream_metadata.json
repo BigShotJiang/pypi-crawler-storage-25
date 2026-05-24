@@ -1,0 +1,11 @@
+{
+  "name": "voxtream",
+  "version": "0.2.4",
+  "summary": "Full-Stream Zero-shot TTS model with Extremely Low Latency and Speaking-rate Control",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voxtream-0.2.4.tar.gz",
+  "download_time": "2026-05-24T23:11:17.235779",
+  "package_url": "https://pypi.org/project/voxtream/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "factorly",
-  "version": "0.15.0",
+  "version": "0.17.0",
   "summary": "Security and governance layer for AI agent tool access",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "factorly-0.15.0.tar.gz",
-  "download_time": "2026-05-23T05:14:43.454544",
+  "download_filename": "factorly-0.17.0.tar.gz",
+  "download_time": "2026-05-24T23:11:04.914231",
   "package_url": "https://pypi.org/project/factorly/"
 }

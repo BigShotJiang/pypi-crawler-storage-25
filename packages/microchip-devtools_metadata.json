@@ -1,11 +1,11 @@
 {
   "name": "microchip-devtools",
-  "version": "0.1.4",
+  "version": "0.1.9",
   "summary": "Shared build and dev environment scripts for Microchip firmware projects",
   "author": "Ericson Joseph",
   "license": null,
   "home_page": null,
-  "download_filename": "microchip_devtools-0.1.4.tar.gz",
-  "download_time": "2026-05-14T23:50:07.813345",
+  "download_filename": "microchip_devtools-0.1.9.tar.gz",
+  "download_time": "2026-05-24T23:11:06.020939",
   "package_url": "https://pypi.org/project/microchip-devtools/"
 }
