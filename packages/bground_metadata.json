@@ -1,0 +1,11 @@
+{
+  "name": "bground",
+  "version": "1.3.3",
+  "summary": "Interactive subtraction of background from XY-data",
+  "author": "Mirek Slouf",
+  "license": "MIT",
+  "home_page": "https://github.com/mirekslouf/bground/",
+  "download_filename": "bground-1.3.3.tar.gz",
+  "download_time": "2026-05-24T16:28:35.485195",
+  "package_url": "https://pypi.org/project/bground/"
+}

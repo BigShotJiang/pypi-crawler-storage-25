@@ -1,11 +1,11 @@
 {
   "name": "clear-eval",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "A python API sdk facilitating Error Analysis via LLM-as-a-Judge",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "clear_eval-2.0.1.tar.gz",
-  "download_time": "2026-05-21T11:08:11.801571",
+  "download_filename": "clear_eval-2.0.2.tar.gz",
+  "download_time": "2026-05-24T16:28:45.900023",
   "package_url": "https://pypi.org/project/clear-eval/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "prefetch2es",
+  "version": "2.3.0",
+  "summary": "A library for fast parse & import of Windows Prefetch into Elasticsearch.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prefetch2es-2.3.0.tar.gz",
+  "download_time": "2026-05-24T16:28:48.975263",
+  "package_url": "https://pypi.org/project/prefetch2es/"
+}

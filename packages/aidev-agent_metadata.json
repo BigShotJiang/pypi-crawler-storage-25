@@ -1,11 +1,11 @@
 {
   "name": "aidev-agent",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "summary": "bkaidev agent builder",
   "author": "blueking",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aidev_agent-2.0.1.tar.gz",
-  "download_time": "2026-05-09T09:01:56.666780",
+  "download_filename": "aidev_agent-2.0.3.tar.gz",
+  "download_time": "2026-05-24T16:29:02.362867",
   "package_url": "https://pypi.org/project/aidev-agent/"
 }

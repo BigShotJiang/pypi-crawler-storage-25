@@ -1,11 +1,11 @@
 {
   "name": "meridian-cli",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "Orchestrate CLI + MCP server for multi-model agent workflows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "meridian_cli-0.2.2.tar.gz",
-  "download_time": "2026-05-23T23:06:33.861563",
+  "download_filename": "meridian_cli-0.2.4.tar.gz",
+  "download_time": "2026-05-24T16:28:52.599117",
   "package_url": "https://pypi.org/project/meridian-cli/"
 }

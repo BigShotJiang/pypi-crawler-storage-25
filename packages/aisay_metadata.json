@@ -1,0 +1,11 @@
+{
+  "name": "aisay",
+  "version": "0.4.1",
+  "summary": "OpenAI-backed TTS CLIs: aisay (short-form, like macOS `say`) and aitts (long-form → playlist).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aisay-0.4.1.tar.gz",
+  "download_time": "2026-05-24T16:29:01.849436",
+  "package_url": "https://pypi.org/project/aisay/"
+}

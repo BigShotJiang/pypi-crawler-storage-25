@@ -1,0 +1,11 @@
+{
+  "name": "dquant",
+  "version": "1.1.3.1",
+  "summary": "DQuant is an open-source Python library for automated volatility forecasting of financial time series. It handles all stages of model construction, from raw prices to the final forecast.",
+  "author": "Denis Makarov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dquant-1.1.3.1.tar.gz",
+  "download_time": "2026-05-24T16:28:34.971972",
+  "package_url": "https://pypi.org/project/dquant/"
+}

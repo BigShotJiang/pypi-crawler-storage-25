@@ -1,0 +1,11 @@
+{
+  "name": "nse-archives",
+  "version": "1.0.0",
+  "summary": "Download NSE India market data as pandas DataFrames — bhavcopy, indices, F&O, equity, debt, commodity, currency derivatives. Works on AWS Lambda and Snowflake.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nse_archives-1.0.0.tar.gz",
+  "download_time": "2026-05-24T16:29:18.366548",
+  "package_url": "https://pypi.org/project/nse-archives/"
+}
