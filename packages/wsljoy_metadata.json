@@ -1,0 +1,11 @@
+{
+  "name": "wsljoy",
+  "version": "0.1.2",
+  "summary": "Mirror a Windows USB or Bluetooth game controller into WSL2 as a Linux joystick.",
+  "author": "wsljoy contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wsljoy-0.1.2.tar.gz",
+  "download_time": "2026-05-24T18:54:11.666765",
+  "package_url": "https://pypi.org/project/wsljoy/"
+}

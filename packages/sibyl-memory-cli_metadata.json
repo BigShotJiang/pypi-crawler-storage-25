@@ -1,11 +1,11 @@
 {
   "name": "sibyl-memory-cli",
-  "version": "0.1.0",
-  "summary": "Command-line interface for the Sibyl Memory Plugin. `sibyl init` activates, `sibyl upgrade` runs the staker / subscription flow, `sibyl status` shows current tier and DB stats.",
+  "version": "0.3.8",
+  "summary": "Command-line interface for the Sibyl Memory Plugin. `sibyl init` activates, `sibyl upgrade` runs the staker / subscription flow, `sibyl status` shows current tier and DB stats, `sibyl whoami` gives a one-line account summary, `sibyl devices` lists active devices and supports per-device revoke.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sibyl_memory_cli-0.1.0.tar.gz",
-  "download_time": "2026-05-16T20:56:32.478883",
+  "download_filename": "sibyl_memory_cli-0.3.8-py3-none-any.whl",
+  "download_time": "2026-05-24T18:53:49.611557",
   "package_url": "https://pypi.org/project/sibyl-memory-cli/"
 }

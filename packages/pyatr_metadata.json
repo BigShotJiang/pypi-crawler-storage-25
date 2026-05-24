@@ -1,11 +1,11 @@
 {
   "name": "pyatr",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Python engine for Agent Threat Rules (ATR) -- the open detection standard for AI agents (like Sigma, but for prompt injection, tool poisoning, and MCP attacks). 311 rules, Cisco AI Defense shipped, 97.1% garak recall.",
   "author": "ATR Community",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyatr-0.2.4.tar.gz",
-  "download_time": "2026-04-21T09:32:36.572074",
+  "download_filename": "pyatr-0.2.5.tar.gz",
+  "download_time": "2026-05-24T18:54:34.499865",
   "package_url": "https://pypi.org/project/pyatr/"
 }

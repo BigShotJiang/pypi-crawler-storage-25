@@ -1,11 +1,11 @@
 {
   "name": "qanuni-sdk",
-  "version": "0.2.1",
+  "version": "0.2.5",
   "summary": "Arabic-first free legal intelligence SDK for Saudi-focused legal workflows.",
   "author": "BandAI",
   "license": null,
   "home_page": null,
-  "download_filename": "qanuni_sdk-0.2.1.tar.gz",
-  "download_time": "2026-05-24T16:29:16.320495",
+  "download_filename": "qanuni_sdk-0.2.5.tar.gz",
+  "download_time": "2026-05-24T18:54:15.397639",
   "package_url": "https://pypi.org/project/qanuni-sdk/"
 }

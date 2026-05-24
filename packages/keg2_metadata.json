@@ -1,11 +1,11 @@
 {
   "name": "keg2",
-  "version": "0.84.1",
+  "version": "0.86.5",
   "summary": "A Python package for communicating across cultures.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "keg2-0.84.1.tar.gz",
-  "download_time": "2026-05-10T16:22:13.440026",
+  "download_filename": "keg2-0.86.5.tar.gz",
+  "download_time": "2026-05-24T18:53:54.952006",
   "package_url": "https://pypi.org/project/keg2/"
 }

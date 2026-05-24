@@ -1,11 +1,11 @@
 {
   "name": "lyriel-hermes",
-  "version": "0.1.0",
-  "summary": "Lyriel plugin for Hermes — native integration with the Lyriel substrate.",
+  "version": "0.5.0",
+  "summary": "Lyriel plugin for Hermes Agent.",
   "author": "Lyriel",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "lyriel_hermes-0.1.0.tar.gz",
-  "download_time": "2026-05-24T00:20:24.363748",
+  "download_filename": "lyriel_hermes-0.5.0.tar.gz",
+  "download_time": "2026-05-24T18:54:18.597025",
   "package_url": "https://pypi.org/project/lyriel-hermes/"
 }
