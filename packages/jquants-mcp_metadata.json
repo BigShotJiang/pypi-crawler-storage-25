@@ -1,11 +1,11 @@
 {
   "name": "jquants-mcp",
-  "version": "0.42.0",
+  "version": "0.43.3",
   "summary": "MCP server for retrieving Japanese stock market data via J-Quants API v2",
   "author": "shige",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jquants_mcp-0.42.0-py3-none-any.whl",
-  "download_time": "2026-05-23T15:15:04.456670",
+  "download_filename": "jquants_mcp-0.43.3-py3-none-any.whl",
+  "download_time": "2026-05-24T09:35:26.578087",
   "package_url": "https://pypi.org/project/jquants-mcp/"
 }

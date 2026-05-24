@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-fleet-vehicle-stock",
+  "version": "18.0.1.0.0.2",
+  "summary": "This module is an add-on for the Fleet application in Odoo. It allows you to track your Fleet Vehicles in stock moves.",
+  "author": "Escodoo,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/fleet",
+  "download_filename": "odoo_addon_fleet_vehicle_stock-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-05-24T09:34:52.218814",
+  "package_url": "https://pypi.org/project/odoo-addon-fleet-vehicle-stock/"
+}

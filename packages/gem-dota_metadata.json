@@ -1,0 +1,11 @@
+{
+  "name": "gem-dota",
+  "version": "0.2.8",
+  "summary": "Dota 2 Source 2 replay parser for data science and ML workflows",
+  "author": "whanyu1212",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gem_dota-0.2.8.tar.gz",
+  "download_time": "2026-05-24T09:35:24.534947",
+  "package_url": "https://pypi.org/project/gem-dota/"
+}

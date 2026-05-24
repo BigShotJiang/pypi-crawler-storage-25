@@ -1,0 +1,11 @@
+{
+  "name": "app-classifier",
+  "version": "0.5.2",
+  "summary": "Point it at a repo, get back 'this is an e-commerce app that does X' — pattern-based application functional-category inference from routes, data models, and README.",
+  "author": "Codefixer contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "app_classifier-0.5.2.tar.gz",
+  "download_time": "2026-05-24T09:35:07.057254",
+  "package_url": "https://pypi.org/project/app-classifier/"
+}

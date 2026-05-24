@@ -1,0 +1,11 @@
+{
+  "name": "forge-guardrails",
+  "version": "0.7.1",
+  "summary": "A reliability layer for self-hosted LLM tool-calling. Guardrails, context management, and backend adapters for multi-step agentic workflows.",
+  "author": "Antoine Zambelli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "forge_guardrails-0.7.1-py3-none-any.whl",
+  "download_time": "2026-05-24T09:34:55.794060",
+  "package_url": "https://pypi.org/project/forge-guardrails/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sunglasses",
-  "version": "0.2.47",
+  "version": "0.2.48",
   "summary": "Sunglasses for AI agents. Protection layer + neighborhood watch.",
   "author": null,
   "license": "MIT",
   "home_page": "https://sunglasses.dev",
-  "download_filename": "sunglasses-0.2.47.tar.gz",
-  "download_time": "2026-05-23T12:13:01.800386",
+  "download_filename": "sunglasses-0.2.48.tar.gz",
+  "download_time": "2026-05-24T09:35:16.807138",
   "package_url": "https://pypi.org/project/sunglasses/"
 }

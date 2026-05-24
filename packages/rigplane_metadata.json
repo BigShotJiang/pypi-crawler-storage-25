@@ -1,11 +1,11 @@
 {
   "name": "rigplane",
-  "version": "2.1.2",
-  "summary": "Python library for controlling Icom transceivers over LAN (UDP) — no wfview/hamlib required",
+  "version": "2.4.0",
+  "summary": "Multi-vendor radio control library and Web UI with native providers and planned Hamlib-backed CAT coverage",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rigplane-2.1.2.tar.gz",
-  "download_time": "2026-05-09T22:58:52.330533",
+  "download_filename": "rigplane-2.4.0.tar.gz",
+  "download_time": "2026-05-24T09:35:23.505184",
   "package_url": "https://pypi.org/project/rigplane/"
 }

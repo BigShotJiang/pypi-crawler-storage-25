@@ -1,0 +1,11 @@
+{
+  "name": "llm-redacted",
+  "version": "0.2.2",
+  "summary": "A lightweight, zero-dependency output sanitizer for secrets, API keys, and PII.",
+  "author": "redacted",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_redacted-0.2.2.tar.gz",
+  "download_time": "2026-05-24T09:35:18.859580",
+  "package_url": "https://pypi.org/project/llm-redacted/"
+}

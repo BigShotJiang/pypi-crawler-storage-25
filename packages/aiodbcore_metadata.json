@@ -1,0 +1,11 @@
+{
+  "name": "aiodbcore",
+  "version": "0.7.1",
+  "summary": "A modest orm that does not require you to adjust your code to it",
+  "author": "AlexDev505",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiodbcore-0.7.1.tar.gz",
+  "download_time": "2026-05-24T09:35:07.571897",
+  "package_url": "https://pypi.org/project/aiodbcore/"
+}

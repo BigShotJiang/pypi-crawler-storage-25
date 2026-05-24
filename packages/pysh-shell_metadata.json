@@ -1,0 +1,11 @@
+{
+  "name": "pysh-shell",
+  "version": "0.1.0",
+  "summary": "Python-first interactive shell for Debian and Unix-like systems",
+  "author": "Siergej Sobolewski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysh_shell-0.1.0.tar.gz",
+  "download_time": "2026-05-24T09:35:20.900458",
+  "package_url": "https://pypi.org/project/pysh-shell/"
+}

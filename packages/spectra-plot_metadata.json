@@ -1,11 +1,11 @@
 {
   "name": "spectra-plot",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "GPU-accelerated scientific plotting",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spectra_plot-0.2.2.tar.gz",
-  "download_time": "2026-05-16T22:42:18.508068",
+  "download_filename": "spectra_plot-0.2.4.tar.gz",
+  "download_time": "2026-05-24T09:34:53.239917",
   "package_url": "https://pypi.org/project/spectra-plot/"
 }

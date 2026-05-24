@@ -1,11 +1,11 @@
 {
   "name": "completion-ai",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "LLM-powered zsh completion scaffolding for arbitrary CLIs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "completion_ai-0.2.0.tar.gz",
-  "download_time": "2026-05-23T16:28:54.989084",
+  "download_filename": "completion_ai-0.2.2.tar.gz",
+  "download_time": "2026-05-24T09:35:09.103421",
   "package_url": "https://pypi.org/project/completion-ai/"
 }

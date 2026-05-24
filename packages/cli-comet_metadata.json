@@ -1,0 +1,11 @@
+{
+  "name": "cli-comet",
+  "version": "1.2.0",
+  "summary": "A terminal UI that automatically generates git commit messages using local language models via Ollama.",
+  "author": "razoring",
+  "license": null,
+  "home_page": "https://github.com/razoring/CometCLI",
+  "download_filename": "cli_comet-1.2.0.tar.gz",
+  "download_time": "2026-05-24T09:35:16.294404",
+  "package_url": "https://pypi.org/project/cli-comet/"
+}
