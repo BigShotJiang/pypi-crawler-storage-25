@@ -1,11 +1,11 @@
 {
   "name": "neruva-control",
-  "version": "0.8.5",
-  "summary": "Local daemon for Neruva Cockpit -- the web dashboard for AI that runs your computer and writes code. Two agents: Neruva Computer (sees your screen, clicks, types, navigates apps for you) and Neruva Code (writes code, edits files, runs commands, debugs). Remembers what you've done across sessions. Chat with it mid-task to redirect. Loopback-only; runs on your machine.",
+  "version": "0.10.1",
+  "summary": "Local loopback daemon for the Neruva substrate. Maintenance-only as of v0.10.0 -- the screen-control (Neruva Computer) and code-editing (Neruva Code) agents were retired in the 2026-05-18 substrate-first pivot and archived to _attic/. For new installs use neruva-mcp (Claude Code / Cursor / any MCP agent) or neruva-record (auto-record Claude Code sessions). The daemon still binds to 127.0.0.1:7331 with auth-token gating for users who want to host a local control plane for custom agents on the substrate.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neruva_control-0.8.5.tar.gz",
-  "download_time": "2026-05-17T16:17:21.343151",
+  "download_filename": "neruva_control-0.10.1.tar.gz",
+  "download_time": "2026-05-24T11:08:51.528591",
   "package_url": "https://pypi.org/project/neruva-control/"
 }

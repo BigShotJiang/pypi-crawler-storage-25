@@ -1,11 +1,11 @@
 {
   "name": "bijotel",
-  "version": "1.9.1",
+  "version": "2.0.2",
   "summary": "Forensic-grade tamper-evident audit chain for LLM applications. HMAC-SHA256 chain, content-addressable storage, pre-call policy gate, regression detection.",
   "author": "Octavian Untilă",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bijotel-1.9.1-py3-none-any.whl",
-  "download_time": "2026-05-24T09:35:00.908127",
+  "download_filename": "bijotel-2.0.2-py3-none-any.whl",
+  "download_time": "2026-05-24T11:09:26.912594",
   "package_url": "https://pypi.org/project/bijotel/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "neruva-mcp",
-  "version": "0.21.1",
-  "summary": "MCP server for Neruva agent memory + reasoning substrate. v0.21 adds code_kg_callees/callers/class_of/module_of/imports for sub-ms structural code queries on KGs built locally via neruva-record-code-index. Plus Records, 5-engine KG, federated agent_remember/recall/context, Pearl do-operator, HD analogy, CBR, ToM, counterfactual rollouts, schema lifting, EFE, continual K-gram, rule induction, replay, .neruva V3. MCP drop-in for Claude Code, Cursor, Codex, Gemini CLI.",
+  "version": "0.22.1",
+  "summary": "MCP server for Neruva agent memory + reasoning substrate. v0.22 adds the AUTO-PILOT surface: agent_route_intent_prompt (Layer 2 -- 18-pattern intent classifier) + agent_reflect_prompt (Layer 3 -- self-curates substrate from recent turns). Combined with auto-extract on records_ingest (Layer 1), the agent uses the full substrate without prompting. Plus Records, 5-engine KG, federated agent_remember/recall/context, Pearl do-operator, HD analogy, CBR, ToM, EFE, rule induction, replay, code_kg_* navigation.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neruva_mcp-0.21.1.tar.gz",
-  "download_time": "2026-05-21T23:55:01.564006",
+  "download_filename": "neruva_mcp-0.22.1.tar.gz",
+  "download_time": "2026-05-24T11:08:52.039090",
   "package_url": "https://pypi.org/project/neruva-mcp/"
 }

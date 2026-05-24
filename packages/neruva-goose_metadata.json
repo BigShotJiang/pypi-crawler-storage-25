@@ -1,0 +1,11 @@
+{
+  "name": "neruva-goose",
+  "version": "0.1.0",
+  "summary": "Goose extension for Neruva agent memory + reasoning substrate. Wires Neruva's three auto-pilot layers (route intent / reflect / extract) into Goose's pre-message and post-tool events. Pattern-C: substrate emits the prompt, your LLM runs it, results pushed back. Substrate stays $0/call. Pairs with the @neruva/mcp Goose MCP extension for full tool surface.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neruva_goose-0.1.0.tar.gz",
+  "download_time": "2026-05-24T11:08:52.549002",
+  "package_url": "https://pypi.org/project/neruva-goose/"
+}

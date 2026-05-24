@@ -1,11 +1,11 @@
 {
   "name": "addictune-sdk",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Async Python SDK for the AudioAddict radio platform (DI.FM, RadioTunes, RockRadio, JazzRadio, ClassicalRadio, ZenRadio)",
   "author": "ukw2d",
   "license": null,
   "home_page": null,
-  "download_filename": "addictune_sdk-0.2.1.tar.gz",
-  "download_time": "2026-05-22T09:34:31.159266",
+  "download_filename": "addictune_sdk-0.2.2.tar.gz",
+  "download_time": "2026-05-24T11:08:58.300980",
   "package_url": "https://pypi.org/project/addictune-sdk/"
 }

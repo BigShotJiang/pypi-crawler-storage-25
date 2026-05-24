@@ -1,0 +1,11 @@
+{
+  "name": "pypulsepal",
+  "version": "0.3.1",
+  "summary": "Python API for the PulsePal open-source pulse train generator",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "pypulsepal-0.3.1.tar.gz",
+  "download_time": "2026-05-24T11:09:21.231995",
+  "package_url": "https://pypi.org/project/pypulsepal/"
+}

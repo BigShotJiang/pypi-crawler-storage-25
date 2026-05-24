@@ -1,0 +1,11 @@
+{
+  "name": "agentforge-guard-llmguard",
+  "version": "0.2.3",
+  "summary": "LLM Guard scanners for AgentForge guardrails",
+  "author": "The AgentForge Authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentforge_guard_llmguard-0.2.3.tar.gz",
+  "download_time": "2026-05-24T11:09:09.364020",
+  "package_url": "https://pypi.org/project/agentforge-guard-llmguard/"
+}

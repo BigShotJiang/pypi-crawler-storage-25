@@ -1,11 +1,11 @@
 {
   "name": "ghostbit-cli",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "summary": "Ghostbit CLI — create end-to-end encrypted pastes from the terminal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ghostbit_cli-1.2.0.tar.gz",
-  "download_time": "2026-04-17T21:16:01.702134",
+  "download_filename": "ghostbit_cli-1.4.0.tar.gz",
+  "download_time": "2026-05-24T11:08:47.939056",
   "package_url": "https://pypi.org/project/ghostbit-cli/"
 }

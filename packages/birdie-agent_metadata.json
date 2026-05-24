@@ -1,11 +1,11 @@
 {
   "name": "birdie-agent",
-  "version": "0.2.14",
+  "version": "0.3.1",
   "summary": "Dynamic skill-based LangGraph agent",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "birdie_agent-0.2.14.tar.gz",
-  "download_time": "2026-05-23T14:10:27.501120",
+  "download_filename": "birdie_agent-0.3.1.tar.gz",
+  "download_time": "2026-05-24T11:09:13.001927",
   "package_url": "https://pypi.org/project/birdie-agent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "polis-recognizer",
+  "version": "0.3.3",
+  "summary": "Russian KASKO insurance policy field extractor — pulls structured fields (policy terms + policyholder + contacts) from PDF policies via text-layer, tables, and OCR fallback.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polis_recognizer-0.3.3.tar.gz",
+  "download_time": "2026-05-24T11:08:50.497565",
+  "package_url": "https://pypi.org/project/polis-recognizer/"
+}

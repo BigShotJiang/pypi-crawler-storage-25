@@ -1,11 +1,11 @@
 {
   "name": "neruva-langgraph",
-  "version": "0.1.1",
-  "summary": "Drop-in LangGraph integration for Neruva. Wraps BaseCheckpointSaver + BaseStore to persist graph checkpoints and cross-thread KV state into the Neruva substrate. Substrate (v0.5.7) adds typed-shape context dispatch, tenant-specific PII rules, depth-unlimited nested-belief tracking, counterfactual rollouts, EFE planner, continual learning. Deterministic from seed (bit-identical replay). One-line install, works with every LangGraph StateGraph.",
+  "version": "0.2.1",
+  "summary": "Drop-in LangGraph integration for Neruva agent memory + reasoning substrate. v0.2.0 adds AUTO-PILOT: NeruvaAutoPilot (classify intent + reflect + extract via your LLM) + classify_intent_node / reflect_node factories for drop-in graph wiring. Plus NeruvaCheckpointSaver (BaseCheckpointSaver) + NeruvaContextStore (BaseStore) for graph state persistence. Substrate stays $0/call (pattern-C). Deterministic from seed. Works with every LangGraph StateGraph.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neruva_langgraph-0.1.1.tar.gz",
-  "download_time": "2026-05-20T01:58:35.130866",
+  "download_filename": "neruva_langgraph-0.2.1.tar.gz",
+  "download_time": "2026-05-24T11:08:54.079159",
   "package_url": "https://pypi.org/project/neruva-langgraph/"
 }

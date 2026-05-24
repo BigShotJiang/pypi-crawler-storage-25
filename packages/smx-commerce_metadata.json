@@ -1,11 +1,11 @@
 {
   "name": "smx-commerce",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Independent commerce package for Flask and SyntaxMatrix-style applications.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smx_commerce-0.1.1.tar.gz",
-  "download_time": "2026-05-23T23:06:13.966145",
+  "download_filename": "smx_commerce-0.1.2.tar.gz",
+  "download_time": "2026-05-24T11:08:55.672948",
   "package_url": "https://pypi.org/project/smx-commerce/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "neruva-record",
-  "version": "0.10.2",
-  "summary": "Auto-record AI agent activity into Neruva. v0.10 adds neruva-record-code-index CLI (Python ast + JS/TS via @neruva/js-extractor) + SessionStart auto-hook (NERUVA_AUTO_CODE_INDEX=1) for any pyproject/package.json/Cargo/go.mod project. Per-turn auto-recall (NERUVA_PER_TURN_RECALL=N). SessionStart auto-recall (NERUVA_AUTO_RECALL=N). Claude Code hook, claude-agent-sdk + Anthropic SDK wrappers. 14-pattern secrets redaction. Recalled-context prompt-injection guard.",
+  "version": "0.11.1",
+  "summary": "Auto-record AI agent activity into Neruva. v0.11 ships AUTO-PILOT (3 pattern-C layers): NERUVA_AUTO_EXTRACT (KG auto-builds from records_ingest), NERUVA_AUTO_ROUTE (18-pattern intent classifier routes user prompts to the right cognitive tool), NERUVA_AUTO_REFLECT (self-curates decisions/facts/mistakes from recent turns). Plus 8-language code-graph (Python/JS/TS/Go/Rust/Java/Ruby/C++), per-turn semantic recall, 14-pattern secrets redaction.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neruva_record-0.10.2.tar.gz",
-  "download_time": "2026-05-21T23:55:01.019122",
+  "download_filename": "neruva_record-0.11.1.tar.gz",
+  "download_time": "2026-05-24T11:08:55.100826",
   "package_url": "https://pypi.org/project/neruva-record/"
 }

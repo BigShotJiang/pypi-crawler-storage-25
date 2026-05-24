@@ -1,11 +1,11 @@
 {
   "name": "ginkgoq-turboquant",
-  "version": "0.1.1",
+  "version": "0.1.0.post1",
   "summary": "TurboQuant implementation",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "ginkgoq_turboquant-0.1.1.tar.gz",
-  "download_time": "2026-05-23T18:46:04.499382",
+  "download_filename": "ginkgoq_turboquant-0.1.0.post1.tar.gz",
+  "download_time": "2026-05-24T11:09:17.579249",
   "package_url": "https://pypi.org/project/ginkgoq-turboquant/"
 }

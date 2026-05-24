@@ -1,0 +1,11 @@
+{
+  "name": "agentforge-langfuse",
+  "version": "0.2.3",
+  "summary": "Langfuse trace dashboard hook for AgentForge",
+  "author": "The AgentForge Authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentforge_langfuse-0.2.3.tar.gz",
+  "download_time": "2026-05-24T11:09:09.873584",
+  "package_url": "https://pypi.org/project/agentforge-langfuse/"
+}

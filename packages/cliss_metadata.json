@@ -1,11 +1,11 @@
 {
   "name": "cliss",
-  "version": "0.1.4",
-  "summary": "cliss — A lightweight framework for building CLI applications on top of argparse",
-  "author": null,
+  "version": "0.5.0",
+  "summary": "A lightweight framework for building CLI applications on top of argparse",
+  "author": "Fkernel653",
   "license": null,
   "home_page": null,
-  "download_filename": "cliss-0.1.4.tar.gz",
-  "download_time": "2026-05-19T14:39:09.467808",
+  "download_filename": "cliss-0.5.0.tar.gz",
+  "download_time": "2026-05-24T11:09:20.721556",
   "package_url": "https://pypi.org/project/cliss/"
 }

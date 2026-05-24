@@ -1,11 +1,11 @@
 {
   "name": "neruva-crewai",
-  "version": "0.1.2",
-  "summary": "Drop-in CrewAI memory integration for Neruva. Replaces CrewAI's default storage with Records + KG federation. Substrate (v0.5.7) adds typed-shape context dispatch, tenant-specific PII rules, depth-unlimited nested-belief tracking, counterfactual rollouts, EFE planner, continual learning. Deterministic from seed (bit-identical replay). Persists across crew runs, supports semantic search via agent_recall, optional entity tracking via the HD knowledge graph. One-line install.",
+  "version": "0.2.1",
+  "summary": "Drop-in CrewAI memory integration for Neruva agent memory + reasoning substrate. v0.2.0 adds AUTO-PILOT: NeruvaAutoPilot (classify intent + reflect + extract via your LLM) + NeruvaAutoPilotHooks (after_task callback that auto-extracts facts from task output to KG; reflect_on_crew_finish for cross-task self-curation). Plus NeruvaShortTermMemory / NeruvaLongTermMemory / NeruvaEntityMemory / NeruvaStorage as CrewAI memory backends. Substrate stays $0/call (pattern-C).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neruva_crewai-0.1.2.tar.gz",
-  "download_time": "2026-05-20T01:58:29.253691",
+  "download_filename": "neruva_crewai-0.2.1.tar.gz",
+  "download_time": "2026-05-24T11:08:53.569059",
   "package_url": "https://pypi.org/project/neruva-crewai/"
 }
