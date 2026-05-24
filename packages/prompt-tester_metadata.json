@@ -1,0 +1,11 @@
+{
+  "name": "prompt-tester",
+  "version": "0.3.0",
+  "summary": "Decorator-based integration testing for LLM prompts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prompt_tester-0.3.0.tar.gz",
+  "download_time": "2026-05-24T03:51:52.470179",
+  "package_url": "https://pypi.org/project/prompt-tester/"
+}

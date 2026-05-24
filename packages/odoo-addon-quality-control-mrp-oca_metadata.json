@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-quality-control-mrp-oca",
+  "version": "17.0.1.1.0.1",
+  "summary": "MRP extension for quality control (OCA)",
+  "author": "OdooMRP team, AvanzOSC, Serv. Tecnol. Avanzados - Pedro M. Baeza, Agile Business Group, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/manufacture",
+  "download_filename": "odoo_addon_quality_control_mrp_oca-17.0.1.1.0.1-py3-none-any.whl",
+  "download_time": "2026-05-24T03:51:31.196775",
+  "package_url": "https://pypi.org/project/odoo-addon-quality-control-mrp-oca/"
+}

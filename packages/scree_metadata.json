@@ -1,0 +1,11 @@
+{
+  "name": "scree",
+  "version": "0.0.1",
+  "summary": "Cross-framework ragged tensor primitive with reference varlen kernels",
+  "author": "scree contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "scree-0.0.1.tar.gz",
+  "download_time": "2026-05-24T03:51:14.388916",
+  "package_url": "https://pypi.org/project/scree/"
+}

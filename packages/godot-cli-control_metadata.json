@@ -1,11 +1,11 @@
 {
   "name": "godot-cli-control",
-  "version": "0.2.7",
+  "version": "0.2.10",
   "summary": "WebSocket bridge for headless / scripted control of Godot scenes.",
   "author": "kesar",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "godot_cli_control-0.2.7.tar.gz",
-  "download_time": "2026-05-16T10:50:40.817426",
+  "download_filename": "godot_cli_control-0.2.10.tar.gz",
+  "download_time": "2026-05-24T03:51:34.902579",
   "package_url": "https://pypi.org/project/godot-cli-control/"
 }

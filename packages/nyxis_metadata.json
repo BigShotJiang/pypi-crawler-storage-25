@@ -1,0 +1,11 @@
+{
+  "name": "nyxis",
+  "version": "1.2.1",
+  "summary": "Zero-copy reader for the Nyxis (NXS) binary format",
+  "author": "Micael Malta",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nyxis-1.2.1.tar.gz",
+  "download_time": "2026-05-24T03:51:53.048774",
+  "package_url": "https://pypi.org/project/nyxis/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tradekartauth",
+  "version": "0.1.1",
+  "summary": "TradeKart authentication and RBAC for private tools (Cognito JWT + role permissions).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tradekartauth-0.1.1.tar.gz",
+  "download_time": "2026-05-24T03:51:53.695062",
+  "package_url": "https://pypi.org/project/tradekartauth/"
+}

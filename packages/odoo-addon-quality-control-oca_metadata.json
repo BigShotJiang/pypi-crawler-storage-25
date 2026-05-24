@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-quality-control-oca",
+  "version": "18.0.1.4.0.3",
+  "summary": "Generic infrastructure for quality tests.",
+  "author": "AvanzOSC, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/manufacture",
+  "download_filename": "odoo_addon_quality_control_oca-18.0.1.4.0.3-py3-none-any.whl",
+  "download_time": "2026-05-24T03:51:15.603322",
+  "package_url": "https://pypi.org/project/odoo-addon-quality-control-oca/"
+}

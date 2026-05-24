@@ -1,11 +1,11 @@
 {
   "name": "typeshed_stats",
-  "version": "26.4.5",
+  "version": "26.5.24",
   "summary": "Library and command-line tool to gather stats on typeshed packages",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "typeshed_stats-26.4.5.tar.gz",
-  "download_time": "2026-04-05T02:56:52.332729",
+  "download_filename": "typeshed_stats-26.5.24.tar.gz",
+  "download_time": "2026-05-24T03:51:37.420642",
   "package_url": "https://pypi.org/project/typeshed_stats/"
 }

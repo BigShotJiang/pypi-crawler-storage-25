@@ -1,0 +1,11 @@
+{
+  "name": "bcsfe-wrapper-python",
+  "version": "0.1.26",
+  "summary": "A Python wrapper for BCSFE-Python to easily interact with Battle Cats save files.",
+  "author": "Manus AI",
+  "license": null,
+  "home_page": "https://github.com/fieryhenry/BCSFE-Python",
+  "download_filename": "bcsfe_wrapper_python-0.1.26.tar.gz",
+  "download_time": "2026-05-24T03:51:58.327279",
+  "package_url": "https://pypi.org/project/bcsfe-wrapper-python/"
+}

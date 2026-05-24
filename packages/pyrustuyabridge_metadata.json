@@ -1,0 +1,11 @@
+{
+  "name": "pyrustuyabridge",
+  "version": "0.1.4",
+  "summary": "Python bindings for rustuyabridge — an MQTT bridge for Tuya devices",
+  "author": "3735943886",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyrustuyabridge-0.1.4-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-05-24T03:51:50.572642",
+  "package_url": "https://pypi.org/project/pyrustuyabridge/"
+}

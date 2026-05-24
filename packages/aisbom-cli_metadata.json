@@ -1,0 +1,11 @@
+{
+  "name": "aisbom-cli",
+  "version": "1.0.3",
+  "summary": "An AI Supply Chain security tool that that detects Pickle bombs and generates CycloneDX SBOMs for Machine Learning models.",
+  "author": "Ajoy L",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aisbom_cli-1.0.3.tar.gz",
+  "download_time": "2026-05-24T03:51:42.683241",
+  "package_url": "https://pypi.org/project/aisbom-cli/"
+}
