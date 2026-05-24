@@ -1,11 +1,11 @@
 {
   "name": "fastapi-depends-anywhere",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "summary": "Run FastAPI dependency injection anywhere - in background tasks, scripts, and tests",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_depends_anywhere-1.2.0.tar.gz",
-  "download_time": "2026-05-23T22:08:03.060833",
+  "download_filename": "fastapi_depends_anywhere-1.3.0.tar.gz",
+  "download_time": "2026-05-24T00:20:34.672977",
   "package_url": "https://pypi.org/project/fastapi-depends-anywhere/"
 }

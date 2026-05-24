@@ -1,0 +1,11 @@
+{
+  "name": "ergo-agent-pay",
+  "version": "0.3.2",
+  "summary": "Python reference SDK for the Ergo rail of Accord Protocol — agent payments, Note operations, LangChain / OpenAI integrations. Mirrors the legacy npm package of the same name; the canonical Python Accord layer will publish later under a different PyPI name.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ergo_agent_pay-0.3.2.tar.gz",
+  "download_time": "2026-05-24T00:20:23.079272",
+  "package_url": "https://pypi.org/project/ergo-agent-pay/"
+}

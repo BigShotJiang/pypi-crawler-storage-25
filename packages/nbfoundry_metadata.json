@@ -1,0 +1,11 @@
+{
+  "name": "nbfoundry",
+  "version": "0.29.0",
+  "summary": "Marimo-based notebook framework for ML/DS work — standalone tools and embeddable learningfoundry exercises from one source",
+  "author": "Pointmatic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nbfoundry-0.29.0.tar.gz",
+  "download_time": "2026-05-24T00:20:55.072748",
+  "package_url": "https://pypi.org/project/nbfoundry/"
+}

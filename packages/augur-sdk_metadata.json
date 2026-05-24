@@ -1,11 +1,11 @@
 {
   "name": "augur-sdk",
-  "version": "0.1.14",
+  "version": "0.2.2",
   "summary": "Augur SDK — instrument any screenshot-grounded computer-use agent (CUA). Sentry-style DSN streaming + local bundle writer.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "augur_sdk-0.1.14.tar.gz",
-  "download_time": "2026-05-23T17:31:34.319109",
+  "download_filename": "augur_sdk-0.2.2.tar.gz",
+  "download_time": "2026-05-24T00:20:37.975748",
   "package_url": "https://pypi.org/project/augur-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sucuri",
-  "version": "1.0.1",
+  "version": "1.0.11",
   "summary": "Simple and efficient Template Engine for Python projects",
   "author": "Marcos Rosa",
   "license": null,
   "home_page": "https://github.com/marcosstefani/sucuri",
-  "download_filename": "sucuri-1.0.1.tar.gz",
-  "download_time": "2026-05-16T23:43:40.005325",
+  "download_filename": "sucuri-1.0.11.tar.gz",
+  "download_time": "2026-05-24T00:20:48.181944",
   "package_url": "https://pypi.org/project/sucuri/"
 }

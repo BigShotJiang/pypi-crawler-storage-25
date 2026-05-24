@@ -1,11 +1,11 @@
 {
   "name": "docsmint",
-  "version": "0.1.13",
+  "version": "1.0.4",
   "summary": "Python interface for the DocsMint Node.js CLI.",
   "author": "Raphael Avocegamou",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "docsmint-0.1.13.tar.gz",
-  "download_time": "2026-04-25T07:59:59.865640",
+  "download_filename": "docsmint-1.0.4.tar.gz",
+  "download_time": "2026-05-24T00:20:25.388497",
   "package_url": "https://pypi.org/project/docsmint/"
 }

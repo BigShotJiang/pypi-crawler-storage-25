@@ -1,11 +1,11 @@
 {
   "name": "fedinesia",
-  "version": "3.6.0",
+  "version": "3.6.1",
   "summary": "Deletes old posts from fediverse accounts. Confirmed working with Mastodon, Pleroma (and Forks), Gotosocial, and Takahe",
   "author": "marvin8",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "fedinesia-3.6.0.tar.gz",
-  "download_time": "2026-05-11T08:17:52.853171",
+  "download_filename": "fedinesia-3.6.1.tar.gz",
+  "download_time": "2026-05-24T00:21:05.563203",
   "package_url": "https://pypi.org/project/fedinesia/"
 }

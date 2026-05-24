@@ -1,0 +1,11 @@
+{
+  "name": "ttlock-ble",
+  "version": "0.1.6",
+  "summary": "Python SDK for controlling DLock-XP / TTLock smart locks over Bluetooth",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ttlock_ble-0.1.6.tar.gz",
+  "download_time": "2026-05-24T00:20:27.613884",
+  "package_url": "https://pypi.org/project/ttlock-ble/"
+}

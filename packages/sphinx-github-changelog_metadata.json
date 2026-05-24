@@ -1,11 +1,11 @@
 {
   "name": "sphinx-github-changelog",
-  "version": "2.0.0",
+  "version": "2.1.1",
   "summary": "Build a sphinx changelog from GitHub Releases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sphinx_github_changelog-2.0.0.tar.gz",
-  "download_time": "2026-05-16T09:15:52.397922",
+  "download_filename": "sphinx_github_changelog-2.1.1.tar.gz",
+  "download_time": "2026-05-24T00:20:53.020211",
   "package_url": "https://pypi.org/project/sphinx-github-changelog/"
 }

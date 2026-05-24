@@ -1,11 +1,11 @@
 {
   "name": "agent-readiness",
-  "version": "2.5.0",
+  "version": "2.7.0",
   "summary": "Benchmark how agent-ready a code repository is for LLM coding agents.",
   "author": "agent-readiness contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agent_readiness-2.5.0.tar.gz",
-  "download_time": "2026-05-21T19:32:40.538839",
+  "download_filename": "agent_readiness-2.7.0.tar.gz",
+  "download_time": "2026-05-24T00:20:38.489196",
   "package_url": "https://pypi.org/project/agent-readiness/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "kymostudio",
-  "version": "0.2.6",
-  "summary": "Diagram-as-code: turn a declarative .diagram DSL — or a standard BPMN 2.0 .bpmn file — into animated SVG / WebP.",
+  "version": "0.3.0",
+  "summary": "Type it. See it appear. Watch it animate.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kymostudio-0.2.6.tar.gz",
-  "download_time": "2026-05-22T01:49:18.720004",
+  "download_filename": "kymostudio-0.3.0.tar.gz",
+  "download_time": "2026-05-24T00:20:58.196493",
   "package_url": "https://pypi.org/project/kymostudio/"
 }
