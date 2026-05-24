@@ -1,11 +1,11 @@
 {
   "name": "llm-join",
-  "version": "0.2.11",
+  "version": "0.3.0",
   "summary": "Fuzzy join DataFrames using LLM scoring and embedding retrieval",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_join-0.2.11.tar.gz",
-  "download_time": "2026-05-24T15:17:39.269088",
+  "download_filename": "llm_join-0.3.0.tar.gz",
+  "download_time": "2026-05-24T20:04:39.234212",
   "package_url": "https://pypi.org/project/llm-join/"
 }

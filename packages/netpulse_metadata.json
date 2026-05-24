@@ -1,11 +1,11 @@
 {
   "name": "netpulse",
-  "version": "0.1.0",
+  "version": "0.1.0.1",
   "summary": "High-performance network discovery and subnet analysis suite with native Rust speed.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "netpulse-0.1.0-cp38-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
-  "download_time": "2026-05-24T18:54:06.854929",
+  "download_filename": "netpulse-0.1.0.1.tar.gz",
+  "download_time": "2026-05-24T20:04:25.157870",
   "package_url": "https://pypi.org/project/netpulse/"
 }

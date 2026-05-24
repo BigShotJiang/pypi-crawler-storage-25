@@ -1,11 +1,11 @@
 {
   "name": "laken",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "summary": "Local Fabric table cache, lakehouse read/write, and deploy for modular Python on Microsoft Fabric",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "laken-0.2.1.tar.gz",
-  "download_time": "2026-05-24T18:54:05.232101",
+  "download_filename": "laken-0.2.4.tar.gz",
+  "download_time": "2026-05-24T20:05:03.130109",
   "package_url": "https://pypi.org/project/laken/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "toposync-vision-cuda",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "summary": "Toposync application bundle with ONNX Runtime CUDA acceleration.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toposync_vision_cuda-0.5.0.tar.gz",
-  "download_time": "2026-05-23T21:10:55.745318",
+  "download_filename": "toposync_vision_cuda-0.7.0.tar.gz",
+  "download_time": "2026-05-24T20:04:49.064850",
   "package_url": "https://pypi.org/project/toposync-vision-cuda/"
 }

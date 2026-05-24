@@ -1,11 +1,11 @@
 {
   "name": "briar-cli",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "summary": "Terminal client for the Briar agent-orchestration API.",
   "author": "Briar",
   "license": null,
   "home_page": null,
-  "download_filename": "briar_cli-1.1.8.tar.gz",
-  "download_time": "2026-05-24T18:54:15.930861",
+  "download_filename": "briar_cli-1.1.9.tar.gz",
+  "download_time": "2026-05-24T20:04:19.875301",
   "package_url": "https://pypi.org/project/briar-cli/"
 }

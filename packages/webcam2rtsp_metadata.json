@@ -1,0 +1,11 @@
+{
+  "name": "webcam2rtsp",
+  "version": "0.1.0",
+  "summary": "Cross-platform RTSP H.264 webcam streamer using GStreamer",
+  "author": "Memetea Cosmin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "webcam2rtsp-0.1.0.tar.gz",
+  "download_time": "2026-05-24T20:05:02.106670",
+  "package_url": "https://pypi.org/project/webcam2rtsp/"
+}

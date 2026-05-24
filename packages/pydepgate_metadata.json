@@ -1,11 +1,11 @@
 {
   "name": "pydepgate",
-  "version": "0.3.3",
-  "summary": "Lightweight Python runner that interdicts suspicious startup behavior.",
+  "version": "0.4.7",
+  "summary": "A zero dependency lightweight static analyzer designed for adversarial-shape code in python to detect supply chain attacks before they reach your interpreter.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydepgate-0.3.3.tar.gz",
-  "download_time": "2026-05-05T21:24:42.823610",
+  "download_filename": "pydepgate-0.4.7.tar.gz",
+  "download_time": "2026-05-24T20:04:17.041256",
   "package_url": "https://pypi.org/project/pydepgate/"
 }

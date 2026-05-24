@@ -1,11 +1,11 @@
 {
   "name": "agentsecure",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Local-first security runtime for AI coding agents",
   "author": "ShellFrame AI",
   "license": "Apache-2.0",
   "home_page": "https://github.com/ShellFrameAI/agentsecure-community",
-  "download_filename": "agentsecure-0.1.3.tar.gz",
-  "download_time": "2026-05-23T20:03:28.941421",
+  "download_filename": "agentsecure-0.1.4.tar.gz",
+  "download_time": "2026-05-24T20:04:32.524124",
   "package_url": "https://pypi.org/project/agentsecure/"
 }

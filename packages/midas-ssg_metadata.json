@@ -1,11 +1,11 @@
 {
   "name": "midas-ssg",
-  "version": "0.1.23",
+  "version": "0.1.25",
   "summary": "A minimal, opinionated static site generator",
   "author": "Niila Viinamäki",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "midas_ssg-0.1.23.tar.gz",
-  "download_time": "2026-05-24T18:53:50.697084",
+  "download_filename": "midas_ssg-0.1.25.tar.gz",
+  "download_time": "2026-05-24T20:05:03.642146",
   "package_url": "https://pypi.org/project/midas-ssg/"
 }

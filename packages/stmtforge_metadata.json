@@ -1,11 +1,11 @@
 {
   "name": "stmtforge",
-  "version": "0.1.0",
-  "summary": "Credit Card Statement Parser & Analyzer for Indian Banks",
+  "version": "1.0.1",
+  "summary": "Parse credit card PDF statements from Indian banks (HDFC, ICICI, SBI, Axis, Kotak + 4 more) into structured data. Offline, privacy-first, with Streamlit dashboard.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stmtforge-0.1.0.tar.gz",
-  "download_time": "2026-04-19T19:47:19.391899",
+  "download_filename": "stmtforge-1.0.1.tar.gz",
+  "download_time": "2026-05-24T20:04:36.666097",
   "package_url": "https://pypi.org/project/stmtforge/"
 }

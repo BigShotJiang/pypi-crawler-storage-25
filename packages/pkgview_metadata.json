@@ -1,11 +1,11 @@
 {
   "name": "pkgview",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "CLI tool to list all installed programs and their package manager",
   "author": "Biniam Tessema",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pkgview-0.3.0.tar.gz",
-  "download_time": "2026-05-23T15:15:53.580876",
+  "download_filename": "pkgview-0.4.0.tar.gz",
+  "download_time": "2026-05-24T20:04:43.369210",
   "package_url": "https://pypi.org/project/pkgview/"
 }

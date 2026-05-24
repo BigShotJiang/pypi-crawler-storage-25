@@ -1,0 +1,11 @@
+{
+  "name": "scitex-dsp",
+  "version": "0.1.9",
+  "summary": "Digital signal processing (PAC, Hilbert, Wavelet, filters, demo signals, …) — standalone module from the SciTeX ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scitex_dsp-0.1.9.tar.gz",
+  "download_time": "2026-05-24T20:05:06.835281",
+  "package_url": "https://pypi.org/project/scitex-dsp/"
+}
