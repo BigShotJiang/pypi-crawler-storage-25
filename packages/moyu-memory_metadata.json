@@ -1,11 +1,11 @@
 {
   "name": "moyu-memory",
-  "version": "2.7.2",
+  "version": "2.7.3",
   "summary": "Zero-trust memory toolkit for AI Agents. Pure Python, zero infrastructure, self-defending.",
   "author": "mianlou",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "moyu_memory-2.7.2.tar.gz",
-  "download_time": "2026-05-24T11:09:01.589598",
+  "download_filename": "moyu_memory-2.7.3.tar.gz",
+  "download_time": "2026-05-24T14:07:17.280975",
   "package_url": "https://pypi.org/project/moyu-memory/"
 }

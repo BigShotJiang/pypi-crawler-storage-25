@@ -1,0 +1,11 @@
+{
+  "name": "proviz-elekto",
+  "version": "0.1.5",
+  "summary": "Smart LLM model router - auto-starts proviz-server binary, no Docker required",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "proviz_elekto-0.1.5-py3-none-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2026-05-24T14:07:49.824917",
+  "package_url": "https://pypi.org/project/proviz-elekto/"
+}

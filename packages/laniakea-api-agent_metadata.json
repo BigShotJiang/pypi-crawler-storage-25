@@ -1,11 +1,11 @@
 {
   "name": "laniakea-api-agent",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "summary": "Laniakea deployment agent orchestrates cloud deployments via Terraform and Ansible",
   "author": "rcaccia",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "laniakea_api_agent-0.0.3.tar.gz",
-  "download_time": "2026-05-24T09:35:21.929086",
+  "download_filename": "laniakea_api_agent-0.0.6.tar.gz",
+  "download_time": "2026-05-24T14:07:12.125858",
   "package_url": "https://pypi.org/project/laniakea-api-agent/"
 }

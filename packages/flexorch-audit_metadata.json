@@ -1,0 +1,11 @@
+{
+  "name": "flexorch-audit",
+  "version": "0.6.0",
+  "summary": "Zero-dependency PII + quality + noise audit for LLM datasets (TR/EU/US)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flexorch_audit-0.6.0.tar.gz",
+  "download_time": "2026-05-24T14:07:27.415973",
+  "package_url": "https://pypi.org/project/flexorch-audit/"
+}

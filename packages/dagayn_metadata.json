@@ -1,11 +1,11 @@
 {
   "name": "dagayn",
-  "version": "3.2.0",
+  "version": "4.0.5",
   "summary": "Fork of code-review-graph with first-class Terraform support powered by treesitter-tf",
   "author": "Wataru Manji",
   "license": null,
   "home_page": null,
-  "download_filename": "dagayn-3.2.0.tar.gz",
-  "download_time": "2026-05-17T15:13:12.959311",
+  "download_filename": "dagayn-4.0.5.tar.gz",
+  "download_time": "2026-05-24T14:07:34.706303",
   "package_url": "https://pypi.org/project/dagayn/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "jetbrains-plugin-server",
-  "version": "0.1.8",
+  "version": "0.2.2",
   "summary": "A server to serve jetbrains plugins",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jetbrains_plugin_server-0.1.8.tar.gz",
-  "download_time": "2026-05-20T09:43:40.381876",
+  "download_filename": "jetbrains_plugin_server-0.2.2.tar.gz",
+  "download_time": "2026-05-24T14:07:02.289736",
   "package_url": "https://pypi.org/project/jetbrains-plugin-server/"
 }

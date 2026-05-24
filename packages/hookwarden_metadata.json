@@ -1,0 +1,11 @@
+{
+  "name": "hookwarden",
+  "version": "0.5.1",
+  "summary": "hookwarden — webhook signature-verification audit. The Python package downloads the standalone binary on first invocation, verifies its SHA-256, caches it, and execs into it.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hookwarden-0.5.1.tar.gz",
+  "download_time": "2026-05-24T14:07:19.844614",
+  "package_url": "https://pypi.org/project/hookwarden/"
+}
