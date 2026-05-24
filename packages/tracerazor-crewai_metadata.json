@@ -1,0 +1,11 @@
+{
+  "name": "tracerazor-crewai",
+  "version": "1.0.0",
+  "summary": "TraceRazor callback adapter for CrewAI - automatic token efficiency auditing",
+  "author": "Zulfaqar Hafez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tracerazor_crewai-1.0.0.tar.gz",
+  "download_time": "2026-05-24T15:16:54.995940",
+  "package_url": "https://pypi.org/project/tracerazor-crewai/"
+}

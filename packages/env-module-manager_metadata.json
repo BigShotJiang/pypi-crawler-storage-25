@@ -1,11 +1,11 @@
 {
   "name": "env-module-manager",
-  "version": "0.1.2",
-  "summary": "Deploy Python and Rust CLI tools behind GNU environment modulefiles",
+  "version": "0.3.0",
+  "summary": "Deploy Python, Rust, shell, and collective CLI environments behind GNU environment modulefiles",
   "author": "ejb90",
   "license": null,
   "home_page": null,
-  "download_filename": "env_module_manager-0.1.2.tar.gz",
-  "download_time": "2026-05-22T21:05:13.159833",
+  "download_filename": "env_module_manager-0.3.0.tar.gz",
+  "download_time": "2026-05-24T15:17:19.311813",
   "package_url": "https://pypi.org/project/env-module-manager/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "usearch",
+  "version": "2.25.3",
+  "summary": "Smaller & Faster Single-File Vector Search Engine from Unum",
+  "author": "Ash Vardanian",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/unum-cloud/USearch",
+  "download_filename": "usearch-2.25.3-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2026-05-24T15:17:43.198593",
+  "package_url": "https://pypi.org/project/usearch/"
+}

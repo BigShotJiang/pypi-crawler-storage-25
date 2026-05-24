@@ -1,0 +1,11 @@
+{
+  "name": "melo",
+  "version": "1.1.2",
+  "summary": "Margin dependent Elo ratings and predictions.",
+  "author": "J. Scott Moreland",
+  "license": "MIT",
+  "home_page": "https://github.com/morelandjs/melo",
+  "download_filename": "melo-1.1.2.tar.gz",
+  "download_time": "2026-05-24T15:17:36.005521",
+  "package_url": "https://pypi.org/project/melo/"
+}

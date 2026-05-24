@@ -1,0 +1,11 @@
+{
+  "name": "agentmatrix-core",
+  "version": "0.7.0.22",
+  "summary": "Core execution engine for building AI agent applications — MicroAgent, AgentShell protocol, Cerebellum, and skill system",
+  "author": "Agent-Matrix Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agentmatrix_core-0.7.0.22.tar.gz",
+  "download_time": "2026-05-24T15:17:13.294670",
+  "package_url": "https://pypi.org/project/agentmatrix-core/"
+}

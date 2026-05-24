@@ -1,0 +1,11 @@
+{
+  "name": "pytest-wardenbot",
+  "version": "0.1.0",
+  "summary": "Pytest plugin for testing chatbots and LLM apps — prompt injection, jailbreaks, system-prompt leaks, hallucinations, brand drift.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_wardenbot-0.1.0.tar.gz",
+  "download_time": "2026-05-24T15:17:13.847024",
+  "package_url": "https://pypi.org/project/pytest-wardenbot/"
+}

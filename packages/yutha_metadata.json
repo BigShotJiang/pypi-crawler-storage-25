@@ -1,0 +1,11 @@
+{
+  "name": "yutha",
+  "version": "0.1.0a2",
+  "summary": "Python SDK for the Yutha agent-coordination control plane.",
+  "author": "The Yutha Authors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "yutha-0.1.0a2.tar.gz",
+  "download_time": "2026-05-24T15:17:31.078085",
+  "package_url": "https://pypi.org/project/yutha/"
+}

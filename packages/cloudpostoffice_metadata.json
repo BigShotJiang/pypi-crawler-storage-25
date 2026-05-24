@@ -1,0 +1,11 @@
+{
+  "name": "cloudpostoffice",
+  "version": "1.2.1",
+  "summary": "Python SDK for CloudPostOffice — messaging for AI agents, apps, and devices",
+  "author": "Kishore",
+  "license": "ISC",
+  "home_page": "https://github.com/CloudPostOffice/python",
+  "download_filename": "cloudpostoffice-1.2.1.tar.gz",
+  "download_time": "2026-05-24T15:17:38.724501",
+  "package_url": "https://pypi.org/project/cloudpostoffice/"
+}

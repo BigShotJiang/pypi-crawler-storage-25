@@ -1,11 +1,11 @@
 {
   "name": "fastslide",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "High-performance, thread-safe digital pathology slide reader",
   "author": "Jonas Teuwen",
   "license": "Apache-2.0",
   "home_page": "https://github.com/NKI-AI/fastslide",
-  "download_filename": "fastslide-0.5.4-cp310-none-macosx_10_9_x86_64.whl",
-  "download_time": "2026-05-08T17:38:02.499170",
+  "download_filename": "fastslide-0.5.5-cp310-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-05-24T15:16:57.762431",
   "package_url": "https://pypi.org/project/fastslide/"
 }

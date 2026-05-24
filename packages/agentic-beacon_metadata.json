@@ -1,11 +1,11 @@
 {
   "name": "agentic-beacon",
-  "version": "3.2.0",
+  "version": "3.5.0",
   "summary": "Agentic Beacon CLI - Distribute knowledge contexts and skills for AI-assisted development teams",
   "author": "Agentic Beacon Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentic_beacon-3.2.0.tar.gz",
-  "download_time": "2026-05-11T04:48:45.499784",
+  "download_filename": "agentic_beacon-3.5.0.tar.gz",
+  "download_time": "2026-05-24T15:17:35.463619",
   "package_url": "https://pypi.org/project/agentic-beacon/"
 }

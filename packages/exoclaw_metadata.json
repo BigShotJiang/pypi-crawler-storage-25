@@ -1,11 +1,11 @@
 {
   "name": "exoclaw",
-  "version": "0.30.0",
+  "version": "0.30.2",
   "summary": "Protocol-only AI agent framework — bring your own everything",
   "author": "exoclaw contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "exoclaw-0.30.0.tar.gz",
-  "download_time": "2026-05-24T12:14:24.940499",
+  "download_filename": "exoclaw-0.30.2.tar.gz",
+  "download_time": "2026-05-24T15:17:04.371233",
   "package_url": "https://pypi.org/project/exoclaw/"
 }

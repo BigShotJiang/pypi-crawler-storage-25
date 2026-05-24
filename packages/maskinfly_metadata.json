@@ -1,11 +1,11 @@
 {
   "name": "maskinfly",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Библиотека для маскировки чувствительных данных (пароли, токены, и т.д.) в строках, словарях и списках",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "maskinfly-0.2.3.tar.gz",
-  "download_time": "2026-05-23T14:10:23.323013",
+  "download_filename": "maskinfly-0.2.4.tar.gz",
+  "download_time": "2026-05-24T15:17:17.139231",
   "package_url": "https://pypi.org/project/maskinfly/"
 }
