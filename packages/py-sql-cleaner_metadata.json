@@ -1,0 +1,11 @@
+{
+  "name": "py-sql-cleaner",
+  "version": "0.1.0",
+  "summary": "Find, format, and extract SQL embedded in Python files.",
+  "author": "enumura1",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_sql_cleaner-0.1.0.tar.gz",
+  "download_time": "2026-05-24T07:05:56.749559",
+  "package_url": "https://pypi.org/project/py-sql-cleaner/"
+}

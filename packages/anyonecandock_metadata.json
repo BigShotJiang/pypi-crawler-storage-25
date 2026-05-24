@@ -1,0 +1,11 @@
+{
+  "name": "anyonecandock",
+  "version": "1.0.7",
+  "summary": "Command-line molecular docking powered by AutoDock Vina, pKaNET, and RDKit",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "anyonecandock-1.0.7.tar.gz",
+  "download_time": "2026-05-24T07:05:41.632305",
+  "package_url": "https://pypi.org/project/anyonecandock/"
+}

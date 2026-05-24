@@ -1,0 +1,11 @@
+{
+  "name": "vidsum",
+  "version": "0.2.0",
+  "summary": "🎬 视频内容总结工具 — 输入B站/抖音链接，自动提取字幕+AI总结",
+  "author": "lyrumu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vidsum-0.2.0.tar.gz",
+  "download_time": "2026-05-24T07:06:12.661519",
+  "package_url": "https://pypi.org/project/vidsum/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "omni-re-formatter",
+  "version": "0.1.0",
+  "summary": "Omni-Re-Formatter: 将本地化后的 MD/XLIFF 还原为目标复杂格式",
+  "author": "1StepMore",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omni_re_formatter-0.1.0.tar.gz",
+  "download_time": "2026-05-24T07:05:43.694009",
+  "package_url": "https://pypi.org/project/omni-re-formatter/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "udsxml2tex",
-  "version": "0.58.8",
+  "version": "0.61.6",
   "summary": "Convert AUTOSAR DCM/CanTp/DEM arxml to LaTeX UDS (ISO 14229 / 15765) specification documents and ISO 22901-1 ODX/PDX",
   "author": "udsxml2tex contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "udsxml2tex-0.58.8.tar.gz",
-  "download_time": "2026-05-24T03:51:36.771873",
+  "download_filename": "udsxml2tex-0.61.6.tar.gz",
+  "download_time": "2026-05-24T07:05:45.246215",
   "package_url": "https://pypi.org/project/udsxml2tex/"
 }

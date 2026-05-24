@@ -1,11 +1,11 @@
 {
   "name": "pyvelm",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "Odoo-style ERP framework — recordsets, declarative models, env-bound cache.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyvelm-0.4.0.tar.gz",
-  "download_time": "2026-05-23T05:15:11.025098",
+  "download_filename": "pyvelm-0.6.0.tar.gz",
+  "download_time": "2026-05-24T07:06:14.202542",
   "package_url": "https://pypi.org/project/pyvelm/"
 }

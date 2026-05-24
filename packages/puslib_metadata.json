@@ -1,0 +1,11 @@
+{
+  "name": "puslib",
+  "version": "0.4.0",
+  "summary": "An implementation of the telemetry and telecommand packet utilization standard (PUS).",
+  "author": "Pontus Nyman",
+  "license": "MIT License",
+  "home_page": "https://github.com/pxntus/puslib",
+  "download_filename": "puslib-0.4.0.tar.gz",
+  "download_time": "2026-05-24T07:05:44.728292",
+  "package_url": "https://pypi.org/project/puslib/"
+}

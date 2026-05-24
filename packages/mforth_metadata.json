@@ -1,0 +1,11 @@
+{
+  "name": "mforth",
+  "version": "0.1.2",
+  "summary": "Pragmatic Forth dialect that compiles to Mindustry mlog",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mforth-0.1.2.tar.gz",
+  "download_time": "2026-05-24T07:06:16.248603",
+  "package_url": "https://pypi.org/project/mforth/"
+}

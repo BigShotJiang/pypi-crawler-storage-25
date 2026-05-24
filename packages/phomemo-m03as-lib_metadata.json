@@ -1,0 +1,11 @@
+{
+  "name": "phomemo-m03as-lib",
+  "version": "0.1.0",
+  "summary": "Python library for controlling Phomemo M03AS / YinXianSen thermal printers via USB or BLE",
+  "author": "YinXianSen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phomemo_m03as_lib-0.1.0.tar.gz",
+  "download_time": "2026-05-24T07:06:05.952354",
+  "package_url": "https://pypi.org/project/phomemo-m03as-lib/"
+}

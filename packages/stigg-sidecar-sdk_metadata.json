@@ -1,11 +1,11 @@
 {
   "name": "stigg-sidecar-sdk",
-  "version": "6.110.1",
+  "version": "6.130.0",
   "summary": null,
   "author": "Stigg",
   "license": null,
   "home_page": null,
-  "download_filename": "stigg_sidecar_sdk-6.110.1.tar.gz",
-  "download_time": "2026-05-14T10:08:19.297268",
+  "download_filename": "stigg_sidecar_sdk-6.130.0.tar.gz",
+  "download_time": "2026-05-24T07:06:18.299764",
   "package_url": "https://pypi.org/project/stigg-sidecar-sdk/"
 }

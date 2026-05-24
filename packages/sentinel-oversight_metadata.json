@@ -1,0 +1,11 @@
+{
+  "name": "sentinel-oversight",
+  "version": "0.1.0",
+  "summary": "Python SDK for Sentinel human-in-the-loop oversight",
+  "author": "Christopher Sellers / RegEngine, Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sentinel_oversight-0.1.0.tar.gz",
+  "download_time": "2026-05-24T07:06:01.358552",
+  "package_url": "https://pypi.org/project/sentinel-oversight/"
+}

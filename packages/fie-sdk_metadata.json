@@ -1,11 +1,11 @@
 {
   "name": "fie-sdk",
-  "version": "1.2.0",
-  "summary": "Monitor, diagnose, and auto-correct LLM failures — with XGBoost failure classification, question-type routing, auto-calibrating thresholds, Wikidata/Serper ground truth, and production analytics",
+  "version": "1.6.0",
+  "summary": "Adversarial prompt detection + LLM hallucination monitoring. Parallel 7-layer detection engine with weighted voting, three-zone confidence routing, LlamaGuard Tier-3 tiebreaker, and multi-turn session tracking. Works fully offline or with a server for shadow-jury verification and auto-correction.",
   "author": null,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "fie_sdk-1.2.0-py3-none-any.whl",
-  "download_time": "2026-04-30T11:28:58.229810",
+  "download_filename": "fie_sdk-1.6.0-py3-none-any.whl",
+  "download_time": "2026-05-24T07:06:22.936279",
   "package_url": "https://pypi.org/project/fie-sdk/"
 }

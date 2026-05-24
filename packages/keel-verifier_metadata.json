@@ -1,0 +1,11 @@
+{
+  "name": "keel-verifier",
+  "version": "2.5.1",
+  "summary": "Independent verifier for Keel governance evidence",
+  "author": "Keel API, Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "keel_verifier-2.5.1.tar.gz",
+  "download_time": "2026-05-24T07:06:03.393485",
+  "package_url": "https://pypi.org/project/keel-verifier/"
+}
