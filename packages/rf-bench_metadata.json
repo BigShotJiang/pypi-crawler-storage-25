@@ -1,0 +1,11 @@
+{
+  "name": "rf-bench",
+  "version": "0.2.0",
+  "summary": "Python drivers and RF utilities for bench instrument automation — Siglent, Icom, Yaesu via raw TCP/SCPI and Hamlib",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "rf_bench-0.2.0.tar.gz",
+  "download_time": "2026-05-24T21:08:14.530393",
+  "package_url": "https://pypi.org/project/rf-bench/"
+}

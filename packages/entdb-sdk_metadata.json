@@ -1,11 +1,11 @@
 {
   "name": "entdb-sdk",
-  "version": "1.24.0",
+  "version": "1.27.0",
   "summary": "Python SDK for EntDB tenant-sharded graph database",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "entdb_sdk-1.24.0.tar.gz",
-  "download_time": "2026-05-24T11:09:06.320270",
+  "download_filename": "entdb_sdk-1.27.0.tar.gz",
+  "download_time": "2026-05-24T21:08:12.482650",
   "package_url": "https://pypi.org/project/entdb-sdk/"
 }

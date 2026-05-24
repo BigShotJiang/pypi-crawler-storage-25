@@ -1,0 +1,11 @@
+{
+  "name": "manim-simplex",
+  "version": "0.2.1",
+  "summary": "Manim plugin: theme tokens, mobjects, slide hierarchy, deck manifest schema.",
+  "author": "Shlomi Perles",
+  "license": null,
+  "home_page": null,
+  "download_filename": "manim_simplex-0.2.1.tar.gz",
+  "download_time": "2026-05-24T21:08:40.725134",
+  "package_url": "https://pypi.org/project/manim-simplex/"
+}

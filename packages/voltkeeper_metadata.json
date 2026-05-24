@@ -1,0 +1,11 @@
+{
+  "name": "voltkeeper",
+  "version": "2026.5",
+  "summary": "Voltkeeper CLI, supporting Bluetti power station devices — scan, connect, and read data over BLE.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voltkeeper-2026.5.tar.gz",
+  "download_time": "2026-05-24T21:08:32.211715",
+  "package_url": "https://pypi.org/project/voltkeeper/"
+}

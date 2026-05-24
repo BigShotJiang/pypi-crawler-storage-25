@@ -1,11 +1,11 @@
 {
   "name": "conjure-eval",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "Public-slice harness for the CONJURE transformative-creativity benchmark.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "conjure_eval-0.2.0.tar.gz",
-  "download_time": "2026-05-24T18:54:14.861675",
+  "download_filename": "conjure_eval-0.3.1.tar.gz",
+  "download_time": "2026-05-24T21:08:39.183164",
   "package_url": "https://pypi.org/project/conjure-eval/"
 }

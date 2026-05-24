@@ -1,0 +1,11 @@
+{
+  "name": "testless",
+  "version": "0.1.6",
+  "summary": "Analyze test value, coverage, duplication, and generate LLM planfiles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "testless-0.1.6.tar.gz",
+  "download_time": "2026-05-24T21:08:22.946616",
+  "package_url": "https://pypi.org/project/testless/"
+}

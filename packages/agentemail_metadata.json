@@ -1,0 +1,11 @@
+{
+  "name": "agentemail",
+  "version": "0.1.2",
+  "summary": "Official Python SDK for the AgentEmail API — create and manage email inboxes programmatically.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentemail-0.1.2.tar.gz",
+  "download_time": "2026-05-24T21:08:03.098397",
+  "package_url": "https://pypi.org/project/agentemail/"
+}

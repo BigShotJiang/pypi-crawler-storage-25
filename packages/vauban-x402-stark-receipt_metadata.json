@@ -1,0 +1,11 @@
+{
+  "name": "vauban-x402-stark-receipt",
+  "version": "0.1.0",
+  "summary": "Python reference runner for JCS (RFC 8785) preimage discipline in x402 STARK Receipt Format Extension (draft-vauban-x402-stark-receipts).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vauban_x402_stark_receipt-0.1.0.tar.gz",
+  "download_time": "2026-05-24T21:08:27.045948",
+  "package_url": "https://pypi.org/project/vauban-x402-stark-receipt/"
+}

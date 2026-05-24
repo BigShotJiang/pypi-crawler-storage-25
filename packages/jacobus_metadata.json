@@ -1,11 +1,11 @@
 {
   "name": "jacobus",
-  "version": "0.3.0",
-  "summary": "This project creates/autocompletes/formats a python project and upload it to PyPI.",
+  "version": "1.0.1",
+  "summary": "This project normalizes whitespace.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jacobus-0.3.0.tar.gz",
-  "download_time": "2026-05-24T20:04:18.099437",
+  "download_filename": "jacobus-1.0.1.tar.gz",
+  "download_time": "2026-05-24T21:08:42.274392",
   "package_url": "https://pypi.org/project/jacobus/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "drf-fastserializers",
-  "version": "0.2.3",
+  "version": "0.3.1",
   "summary": "Drop-in pydantic-powered serializers for Django REST Framework. 2-3x faster on large payloads.",
   "author": "Ankit Singh",
   "license": null,
   "home_page": null,
-  "download_filename": "drf_fastserializers-0.2.3.tar.gz",
-  "download_time": "2026-05-24T20:04:23.617792",
+  "download_filename": "drf_fastserializers-0.3.1.tar.gz",
+  "download_time": "2026-05-24T21:08:26.525565",
   "package_url": "https://pypi.org/project/drf-fastserializers/"
 }

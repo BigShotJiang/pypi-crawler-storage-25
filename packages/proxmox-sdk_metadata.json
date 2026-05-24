@@ -1,11 +1,11 @@
 {
   "name": "proxmox-sdk",
-  "version": "0.0.6.post1",
+  "version": "0.0.9",
   "summary": "pvesh-like CLI for Proxmox API with multi-backend support, performance profiling, and advanced configuration management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "proxmox_sdk-0.0.6.post1.tar.gz",
-  "download_time": "2026-05-21T19:32:13.726012",
+  "download_filename": "proxmox_sdk-0.0.9.tar.gz",
+  "download_time": "2026-05-24T21:08:20.369901",
   "package_url": "https://pypi.org/project/proxmox-sdk/"
 }

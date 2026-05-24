@@ -1,0 +1,11 @@
+{
+  "name": "pala-mcp",
+  "version": "0.18.0a1",
+  "summary": "Pala OS MCP server — 99 skill registry + verify_early_access (ADR-017 davetiyeli) + premium tier Lemon license check (ADR-014, monetize v0.19.0)",
+  "author": "Pala OS",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pala_mcp-0.18.0a1.tar.gz",
+  "download_time": "2026-05-24T21:08:32.724758",
+  "package_url": "https://pypi.org/project/pala-mcp/"
+}
