@@ -1,0 +1,11 @@
+{
+  "name": "pg-r2-backup",
+  "version": "1.0.8",
+  "summary": "PostgreSQL backup automation tool for S3-compatible storage",
+  "author": "Aman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pg_r2_backup-1.0.8.tar.gz",
+  "download_time": "2026-05-24T12:14:42.449845",
+  "package_url": "https://pypi.org/project/pg-r2-backup/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "matryca-plumber",
-  "version": "1.5.14",
+  "version": "1.5.16",
   "summary": "Enterprise-grade, local-first autonomous background AI daemon and headless mutation plane for Logseq OG.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "matryca_plumber-1.5.14.tar.gz",
-  "download_time": "2026-05-24T11:09:08.238522",
+  "download_filename": "matryca_plumber-1.5.16.tar.gz",
+  "download_time": "2026-05-24T12:14:36.254321",
   "package_url": "https://pypi.org/project/matryca-plumber/"
 }

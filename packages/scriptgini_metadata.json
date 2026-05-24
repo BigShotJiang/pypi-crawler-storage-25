@@ -1,11 +1,11 @@
 {
   "name": "scriptgini",
-  "version": "1.6.3",
+  "version": "1.7.6",
   "summary": "Agentic AI system that converts functional test cases into automation test scripts.",
   "author": "ScriptGini Team",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "scriptgini-1.6.3.tar.gz",
-  "download_time": "2026-05-10T17:05:37.218458",
+  "download_filename": "scriptgini-1.7.6.tar.gz",
+  "download_time": "2026-05-24T12:14:35.741494",
   "package_url": "https://pypi.org/project/scriptgini/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "crunr",
-  "version": "0.2.4",
+  "version": "1.3.0",
   "summary": "Run any compute job on AWS with a single command",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crunr-0.2.4.tar.gz",
-  "download_time": "2026-05-17T05:46:56.243809",
+  "download_filename": "crunr-1.3.0.tar.gz",
+  "download_time": "2026-05-24T12:14:28.030128",
   "package_url": "https://pypi.org/project/crunr/"
 }

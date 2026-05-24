@@ -1,11 +1,11 @@
 {
   "name": "vaara",
-  "version": "0.25.0",
+  "version": "0.30.0",
   "summary": "Adaptive AI Agent Execution Layer for risk scoring, audit trails, and regulatory compliance",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vaara-0.25.0.tar.gz",
-  "download_time": "2026-05-20T22:28:59.288085",
+  "download_filename": "vaara-0.30.0.tar.gz",
+  "download_time": "2026-05-24T12:14:28.543556",
   "package_url": "https://pypi.org/project/vaara/"
 }

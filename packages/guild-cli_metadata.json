@@ -1,0 +1,11 @@
+{
+  "name": "guild-cli",
+  "version": "0.3.0",
+  "summary": "guildmaster — an agent and CLI that manages skills for the AgentCulture mesh.",
+  "author": "AgentCulture",
+  "license": null,
+  "home_page": null,
+  "download_filename": "guild_cli-0.3.0.tar.gz",
+  "download_time": "2026-05-24T12:13:59.090023",
+  "package_url": "https://pypi.org/project/guild-cli/"
+}

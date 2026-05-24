@@ -1,11 +1,11 @@
 {
   "name": "pgmnemo-mcp",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "MCP server wrapping pgmnemo ingest and recall for AI agent memory",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pgmnemo_mcp-0.6.2.tar.gz",
-  "download_time": "2026-05-24T11:09:27.997632",
+  "download_filename": "pgmnemo_mcp-0.6.3.tar.gz",
+  "download_time": "2026-05-24T12:14:39.891655",
   "package_url": "https://pypi.org/project/pgmnemo-mcp/"
 }

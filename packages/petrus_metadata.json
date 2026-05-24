@@ -1,11 +1,11 @@
 {
   "name": "petrus",
-  "version": "0.10.53",
+  "version": "0.10.55",
   "summary": "This project creates/autocompletes/formats a python project and upload it to PyPI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "petrus-0.10.53.tar.gz",
-  "download_time": "2026-05-24T11:08:39.244065",
+  "download_filename": "petrus-0.10.55.tar.gz",
+  "download_time": "2026-05-24T12:14:22.858796",
   "package_url": "https://pypi.org/project/petrus/"
 }
