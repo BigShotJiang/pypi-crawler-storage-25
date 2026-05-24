@@ -1,11 +1,11 @@
 {
   "name": "attestplane",
-  "version": "1.7.6",
+  "version": "1.7.8",
   "summary": "Apache-2.0 attestation and audit substrate for AI agent evidence chains.",
   "author": "The Attestplane Authors",
   "license": null,
   "home_page": null,
-  "download_filename": "attestplane-1.7.6.tar.gz",
-  "download_time": "2026-05-24T07:06:11.637006",
+  "download_filename": "attestplane-1.7.8.tar.gz",
+  "download_time": "2026-05-24T17:32:48.096322",
   "package_url": "https://pypi.org/project/attestplane/"
 }

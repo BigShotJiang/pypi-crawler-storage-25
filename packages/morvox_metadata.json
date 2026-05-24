@@ -1,11 +1,11 @@
 {
   "name": "morvox",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "summary": "Offline push-to-talk voice-to-text CLI powered by whisper.cpp",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "morvox-2.0.1.tar.gz",
-  "download_time": "2026-05-23T01:38:40.458353",
+  "download_filename": "morvox-2.1.0.tar.gz",
+  "download_time": "2026-05-24T17:33:03.412683",
   "package_url": "https://pypi.org/project/morvox/"
 }

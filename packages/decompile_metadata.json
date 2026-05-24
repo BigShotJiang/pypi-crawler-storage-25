@@ -1,0 +1,11 @@
+{
+  "name": "decompile",
+  "version": "0.1.1",
+  "summary": "Docker-isolated static reverse engineering orchestrator",
+  "author": "Admin12121",
+  "license": null,
+  "home_page": null,
+  "download_filename": "decompile-0.1.1.tar.gz",
+  "download_time": "2026-05-24T17:33:30.759849",
+  "package_url": "https://pypi.org/project/decompile/"
+}

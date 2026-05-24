@@ -1,11 +1,11 @@
 {
   "name": "rlsbl",
-  "version": "0.41.4",
+  "version": "0.41.5",
   "summary": "Release orchestration and project scaffolding for npm, PyPI, and Go",
   "author": "smm-h",
   "license": null,
   "home_page": null,
-  "download_filename": "rlsbl-0.41.4.tar.gz",
-  "download_time": "2026-05-24T12:14:24.429420",
+  "download_filename": "rlsbl-0.41.5.tar.gz",
+  "download_time": "2026-05-24T17:32:50.219563",
   "package_url": "https://pypi.org/project/rlsbl/"
 }

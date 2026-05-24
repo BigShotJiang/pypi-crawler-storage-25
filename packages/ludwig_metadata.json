@@ -1,11 +1,11 @@
 {
   "name": "ludwig",
-  "version": "0.17.2",
+  "version": "0.17.3",
   "summary": "Declarative machine learning: End-to-end machine learning pipelines using data-driven configurations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ludwig-0.17.2.tar.gz",
-  "download_time": "2026-05-23T01:39:18.055836",
+  "download_filename": "ludwig-0.17.3.tar.gz",
+  "download_time": "2026-05-24T17:33:17.088854",
   "package_url": "https://pypi.org/project/ludwig/"
 }

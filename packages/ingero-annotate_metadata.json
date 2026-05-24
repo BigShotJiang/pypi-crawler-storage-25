@@ -1,0 +1,11 @@
+{
+  "name": "ingero-annotate",
+  "version": "0.1.0",
+  "summary": "Writer for the Ingero agent annotation socket. Speaks the agent v0.17+ NDJSON annotation protocol; framework-agnostic.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ingero_annotate-0.1.0.tar.gz",
+  "download_time": "2026-05-24T17:33:10.260665",
+  "package_url": "https://pypi.org/project/ingero-annotate/"
+}

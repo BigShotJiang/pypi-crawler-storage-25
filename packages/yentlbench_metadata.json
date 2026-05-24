@@ -1,11 +1,11 @@
 {
   "name": "yentlbench",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Quantifying Sex-Label Attention Leak in LLM Emergency Triage",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yentlbench-0.2.2.tar.gz",
-  "download_time": "2026-05-24T15:16:56.633201",
+  "download_filename": "yentlbench-0.2.3.tar.gz",
+  "download_time": "2026-05-24T17:33:04.456870",
   "package_url": "https://pypi.org/project/yentlbench/"
 }

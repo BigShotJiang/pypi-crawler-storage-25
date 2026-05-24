@@ -1,11 +1,11 @@
 {
   "name": "memorymaster",
-  "version": "3.19.0",
+  "version": "3.22.0",
   "summary": "Production-grade memory reliability system for AI coding agents. Lifecycle-managed claims with citations, conflict detection, steward governance, and MCP integration.",
   "author": "wolverin0",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memorymaster-3.19.0.tar.gz",
-  "download_time": "2026-05-17T19:50:17.533493",
+  "download_filename": "memorymaster-3.22.0.tar.gz",
+  "download_time": "2026-05-24T17:33:16.027267",
   "package_url": "https://pypi.org/project/memorymaster/"
 }

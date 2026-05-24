@@ -1,0 +1,11 @@
+{
+  "name": "brigade-cli",
+  "version": "0.6.0",
+  "summary": "Run your agent brigade: an operator-system CLI that bootstraps, checks, and operates agent workspaces across harnesses.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brigade_cli-0.6.0.tar.gz",
+  "download_time": "2026-05-24T17:32:58.692827",
+  "package_url": "https://pypi.org/project/brigade-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yes-claudio",
+  "version": "0.1.1",
+  "summary": "Auto-approve Claude Code permission prompts with a denylist and daily limits",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yes_claudio-0.1.1.tar.gz",
+  "download_time": "2026-05-24T17:33:33.883489",
+  "package_url": "https://pypi.org/project/yes-claudio/"
+}

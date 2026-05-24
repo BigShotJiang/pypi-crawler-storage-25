@@ -1,0 +1,11 @@
+{
+  "name": "agentvault-hermes",
+  "version": "0.4.0",
+  "summary": "Native AgentVault plugin for the Hermes agent runtime — E2E encrypted owner-↔-agent and A2A messaging via MLS",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentvault_hermes-0.4.0.tar.gz",
+  "download_time": "2026-05-24T17:33:07.614884",
+  "package_url": "https://pypi.org/project/agentvault-hermes/"
+}

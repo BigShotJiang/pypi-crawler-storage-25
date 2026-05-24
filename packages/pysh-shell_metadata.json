@@ -1,11 +1,11 @@
 {
   "name": "pysh-shell",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "PySH — fast, Python-first universal interactive shell for Debian and Unix-like systems.",
   "author": "Siergej Sobolewski",
   "license": null,
   "home_page": null,
-  "download_filename": "pysh_shell-0.3.0.tar.gz",
-  "download_time": "2026-05-24T16:28:47.950800",
+  "download_filename": "pysh_shell-0.4.0.tar.gz",
+  "download_time": "2026-05-24T17:32:57.650016",
   "package_url": "https://pypi.org/project/pysh-shell/"
 }

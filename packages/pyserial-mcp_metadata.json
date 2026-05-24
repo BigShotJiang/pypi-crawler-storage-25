@@ -1,0 +1,11 @@
+{
+  "name": "pyserial-mcp",
+  "version": "0.6.0",
+  "summary": "MCP server for serial device communication",
+  "author": "Alex Gompper",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyserial_mcp-0.6.0.tar.gz",
+  "download_time": "2026-05-24T17:32:51.256216",
+  "package_url": "https://pypi.org/project/pyserial-mcp/"
+}

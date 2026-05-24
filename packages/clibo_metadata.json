@@ -1,11 +1,11 @@
 {
   "name": "clibo",
-  "version": "1.5.0",
-  "summary": "67+ local-first CLI tools for AI agents and humans — calorie tracker, CRM, dashboard, dream journal, expiry tracker, caffeine half-life, and more.",
+  "version": "1.14.0",
+  "summary": "74 local-first CLI tools for AI agents and humans — type the tool's name to get the answer. Cross-tool rollups (today/week/month/year/lifetime/upcoming/overdue/stale), at-risk streaks and goals, PR sessions, neglect tracking, daily check-ins, full JSON parity everywhere.",
   "author": "dm1tryG",
   "license": null,
   "home_page": null,
-  "download_filename": "clibo-1.5.0.tar.gz",
-  "download_time": "2026-05-23T16:28:56.022068",
+  "download_filename": "clibo-1.14.0.tar.gz",
+  "download_time": "2026-05-24T17:33:05.500725",
   "package_url": "https://pypi.org/project/clibo/"
 }

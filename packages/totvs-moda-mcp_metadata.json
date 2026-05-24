@@ -1,11 +1,11 @@
 {
   "name": "totvs-moda-mcp",
-  "version": "3.1.2",
+  "version": "3.6.0",
   "summary": "MCP Server para API V2 do TOTVS Moda — integre Claude e outros clientes MCP ao seu ERP de moda brasileiro",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "totvs_moda_mcp-3.1.2.tar.gz",
-  "download_time": "2026-04-27T14:35:31.217885",
+  "download_filename": "totvs_moda_mcp-3.6.0.tar.gz",
+  "download_time": "2026-05-24T17:32:48.622804",
   "package_url": "https://pypi.org/project/totvs-moda-mcp/"
 }

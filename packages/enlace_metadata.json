@@ -1,11 +1,11 @@
 {
   "name": "enlace",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "Serve all your web apps from a single process — they don't import it, they don't know it's there",
   "author": "Thor Whalen",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "enlace-0.1.7.tar.gz",
-  "download_time": "2026-05-21T14:59:12.676692",
+  "download_filename": "enlace-0.1.9.tar.gz",
+  "download_time": "2026-05-24T17:33:31.278482",
   "package_url": "https://pypi.org/project/enlace/"
 }
