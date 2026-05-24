@@ -1,0 +1,11 @@
+{
+  "name": "aa-pipeline",
+  "version": "0.1.28",
+  "summary": "Structured Journey System for Alliance Auth — generalised onboarding, training, and certification flows.",
+  "author": "aa-pipeline contributors",
+  "license": "GNU GENERAL PUBLIC LICENSE\n                               Version 3, 29 June 2007\n        \n         Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>\n         Everyone is permitted to copy and distribute verbatim copies\n         of this license document, but changing it is not allowed.\n        \n                                    Preamble\n        \n          The GNU General Public License is a free, copyleft license for\n        software and other kinds of works.\n        \n          For the exact terms and conditions, see the full license at:\n          https://www.gnu.org/licenses/gpl-3.0.txt",
+  "home_page": null,
+  "download_filename": "aa_pipeline-0.1.28.tar.gz",
+  "download_time": "2026-05-24T22:10:09.967507",
+  "package_url": "https://pypi.org/project/aa-pipeline/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "polymarket-data",
+  "version": "2.0.0",
+  "summary": "Enhanced client for Polymarket data with background monitoring.",
+  "author": "Polymarket Developer Community",
+  "license": "MIT",
+  "home_page": "https://github.com/polymarket-tools/polymarket-data",
+  "download_filename": "polymarket_data-2.0.0.tar.gz",
+  "download_time": "2026-05-24T22:10:17.790045",
+  "package_url": "https://pypi.org/project/polymarket-data/"
+}

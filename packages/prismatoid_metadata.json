@@ -1,11 +1,11 @@
 {
   "name": "prismatoid",
-  "version": "0.16.2",
+  "version": "0.16.5",
   "summary": "The Platform-Agnostic Reader Interface for Speech and Messages",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prismatoid-0.16.2.tar.gz",
-  "download_time": "2026-05-22T23:32:55.092429",
+  "download_filename": "prismatoid-0.16.5.tar.gz",
+  "download_time": "2026-05-24T22:10:23.271124",
   "package_url": "https://pypi.org/project/prismatoid/"
 }

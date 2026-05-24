@@ -1,0 +1,11 @@
+{
+  "name": "llm-rewind",
+  "version": "0.2.0",
+  "summary": "Time-travel debugger for AI agents. Record any production run, replay any failure.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_rewind-0.2.0.tar.gz",
+  "download_time": "2026-05-24T22:10:50.136359",
+  "package_url": "https://pypi.org/project/llm-rewind/"
+}

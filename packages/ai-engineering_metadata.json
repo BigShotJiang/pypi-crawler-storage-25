@@ -1,11 +1,11 @@
 {
   "name": "ai-engineering",
-  "version": "0.4.2",
+  "version": "0.8.0",
   "summary": "AI governance framework for secure software delivery",
   "author": "ai-engineering maintainers",
   "license": null,
   "home_page": null,
-  "download_filename": "ai_engineering-0.4.2.tar.gz",
-  "download_time": "2026-04-03T20:37:39.774307",
+  "download_filename": "ai_engineering-0.8.0.tar.gz",
+  "download_time": "2026-05-24T22:10:45.007158",
   "package_url": "https://pypi.org/project/ai-engineering/"
 }

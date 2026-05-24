@@ -1,11 +1,11 @@
 {
   "name": "tinymentor",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "summary": "Notebook-first local GenAI coding copilot",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tinymentor-0.5.0.tar.gz",
-  "download_time": "2026-05-24T21:07:59.731704",
+  "download_filename": "tinymentor-0.7.0.tar.gz",
+  "download_time": "2026-05-24T22:10:04.707620",
   "package_url": "https://pypi.org/project/tinymentor/"
 }

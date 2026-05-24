@@ -1,11 +1,11 @@
 {
   "name": "bristlenose",
-  "version": "0.15.0",
+  "version": "0.15.12",
   "summary": "User-research transcription and quote extraction engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bristlenose-0.15.0.tar.gz",
-  "download_time": "2026-04-26T22:30:51.254189",
+  "download_filename": "bristlenose-0.15.12.tar.gz",
+  "download_time": "2026-05-24T22:10:43.374101",
   "package_url": "https://pypi.org/project/bristlenose/"
 }

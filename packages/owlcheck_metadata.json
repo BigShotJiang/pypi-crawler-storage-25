@@ -1,0 +1,11 @@
+{
+  "name": "owlcheck",
+  "version": "0.2.1",
+  "summary": "Fail-fast validation of environment-based config for Python apps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "owlcheck-0.2.1.tar.gz",
+  "download_time": "2026-05-24T22:10:52.178567",
+  "package_url": "https://pypi.org/project/owlcheck/"
+}
