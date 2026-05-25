@@ -1,11 +1,11 @@
 {
   "name": "samudra-ai",
-  "version": "2.0.1",
+  "version": "2.5.0",
   "summary": "Paket Python untuk pengolahan koreksi bias pada model iklim global menggunakan deep learning CNN-BiLSTM dan CONVLSTM2D.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "samudra_ai-2.0.1.tar.gz",
-  "download_time": "2026-05-18T06:11:42.683050",
+  "download_filename": "samudra_ai-2.5.0.tar.gz",
+  "download_time": "2026-05-25T05:05:32.003450",
   "package_url": "https://pypi.org/project/samudra-ai/"
 }

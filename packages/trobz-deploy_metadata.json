@@ -1,0 +1,11 @@
+{
+  "name": "trobz-deploy",
+  "version": "0.14.0",
+  "summary": "CLI tool for deploying and managing applications on remote servers over SSH.",
+  "author": "hailangvn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trobz_deploy-0.14.0.tar.gz",
+  "download_time": "2026-05-25T05:05:38.557913",
+  "package_url": "https://pypi.org/project/trobz-deploy/"
+}

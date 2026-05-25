@@ -1,11 +1,11 @@
 {
   "name": "tiktok-live-api",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "summary": "Unofficial TikTok LIVE API Client - Real-time chat, gifts, viewers, battles, and live captions from any TikTok livestream via the TikTool managed API.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tiktok_live_api-1.4.4.tar.gz",
-  "download_time": "2026-05-25T00:16:55.526283",
+  "download_filename": "tiktok_live_api-1.4.5.tar.gz",
+  "download_time": "2026-05-25T05:05:29.904880",
   "package_url": "https://pypi.org/project/tiktok-live-api/"
 }

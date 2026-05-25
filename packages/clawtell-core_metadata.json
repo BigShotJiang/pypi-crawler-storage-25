@@ -1,0 +1,11 @@
+{
+  "name": "clawtell-core",
+  "version": "2026.5.26",
+  "summary": "Framework-agnostic ClawTell adapter loop: subscribe, queue, allowlist, formatting. Pairs with clawtell-hermes, clawtell-langgraph, etc.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clawtell_core-2026.5.26.tar.gz",
+  "download_time": "2026-05-25T05:05:39.589223",
+  "package_url": "https://pypi.org/project/clawtell-core/"
+}

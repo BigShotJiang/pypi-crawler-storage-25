@@ -1,11 +1,11 @@
 {
   "name": "stock-sdk",
-  "version": "0.2.5",
+  "version": "0.2.8",
   "summary": "Hamuna Stock SDK - A股行情数据SDK",
   "author": "hamuna",
   "license": null,
   "home_page": "https://github.com/your-repo/stock_sdk",
-  "download_filename": "stock_sdk-0.2.5.tar.gz",
-  "download_time": "2026-05-23T01:38:43.074685",
+  "download_filename": "stock_sdk-0.2.8.tar.gz",
+  "download_time": "2026-05-25T05:05:02.355182",
   "package_url": "https://pypi.org/project/stock-sdk/"
 }

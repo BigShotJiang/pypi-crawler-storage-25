@@ -1,11 +1,11 @@
 {
   "name": "memwal",
-  "version": "0.1.0.dev0",
-  "summary": "Python SDK for MemWal — Privacy-first AI memory with Ed25519 signing",
-  "author": "MemWal Team",
+  "version": "0.1.2",
+  "summary": "Python SDK for Walrus Memory — Privacy-first AI memory with Ed25519 signing",
+  "author": "Walrus Memory Team",
   "license": null,
   "home_page": null,
-  "download_filename": "memwal-0.1.0.dev0.tar.gz",
-  "download_time": "2026-05-18T10:34:19.529283",
+  "download_filename": "memwal-0.1.2.tar.gz",
+  "download_time": "2026-05-25T05:05:15.848134",
   "package_url": "https://pypi.org/project/memwal/"
 }

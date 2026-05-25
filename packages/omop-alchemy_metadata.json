@@ -1,0 +1,11 @@
+{
+  "name": "omop-alchemy",
+  "version": "0.6.3",
+  "summary": "SQLAlchemy-based models, validation, and utilities for the OHDSI OMOP Common Data Model",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "omop_alchemy-0.6.3.tar.gz",
+  "download_time": "2026-05-25T05:05:35.928399",
+  "package_url": "https://pypi.org/project/omop-alchemy/"
+}

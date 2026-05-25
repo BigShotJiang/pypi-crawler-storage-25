@@ -1,0 +1,11 @@
+{
+  "name": "pyfunkyheatmap",
+  "version": "0.1.2",
+  "summary": "Pure-Python port of the R funkyheatmap package — generate publication-ready dataframe heatmaps with funky rectangles, pies, bars and more.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyfunkyheatmap-0.1.2.tar.gz",
+  "download_time": "2026-05-25T05:05:15.315057",
+  "package_url": "https://pypi.org/project/pyfunkyheatmap/"
+}

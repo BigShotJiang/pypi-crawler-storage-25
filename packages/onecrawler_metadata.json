@@ -1,0 +1,11 @@
+{
+  "name": "onecrawler",
+  "version": "0.1.5",
+  "summary": "An async python crawling framework for discovering URLs, extracting links, and scraping structured content.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "onecrawler-0.1.5.tar.gz",
+  "download_time": "2026-05-25T05:05:30.437322",
+  "package_url": "https://pypi.org/project/onecrawler/"
+}

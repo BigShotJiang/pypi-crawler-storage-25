@@ -1,0 +1,11 @@
+{
+  "name": "vivado-mcp",
+  "version": "0.3.21",
+  "summary": "Vivado MCP Server — AI 驱动的 FPGA 开发助手，支持 GUI 可视化 / 子进程无头双模式，自动诊断 CRITICAL WARNING",
+  "author": "NJ",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vivado_mcp-0.3.21.tar.gz",
+  "download_time": "2026-05-25T05:05:10.652107",
+  "package_url": "https://pypi.org/project/vivado-mcp/"
+}

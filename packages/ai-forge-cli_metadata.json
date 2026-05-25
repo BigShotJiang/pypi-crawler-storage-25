@@ -1,11 +1,11 @@
 {
   "name": "ai-forge-cli",
-  "version": "0.1.6",
-  "summary": "Context walker for the Forge L0-L5 spec system",
+  "version": "2.1.12",
+  "summary": "Forge V3 context CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_forge_cli-0.1.6.tar.gz",
-  "download_time": "2026-04-23T03:54:43.832638",
+  "download_filename": "ai_forge_cli-2.1.12.tar.gz",
+  "download_time": "2026-05-25T05:05:41.661222",
   "package_url": "https://pypi.org/project/ai-forge-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aip-agents-binary",
-  "version": "0.6.74",
+  "version": "0.6.77",
   "summary": "A library for managing agents in Gen AI applications.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aip_agents_binary-0.6.74-py3-none-any.whl",
-  "download_time": "2026-05-21T07:50:23.992617",
+  "download_filename": "aip_agents_binary-0.6.77-py3-none-any.whl",
+  "download_time": "2026-05-25T05:05:11.682013",
   "package_url": "https://pypi.org/project/aip-agents-binary/"
 }

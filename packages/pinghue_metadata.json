@@ -1,11 +1,11 @@
 {
   "name": "pinghue",
-  "version": "0.3.0",
+  "version": "1.0.2",
   "summary": "Colored, concurrent ICMP/TCP ping monitor for the terminal",
   "author": "inxbit",
   "license": null,
   "home_page": null,
-  "download_filename": "pinghue-0.3.0.tar.gz",
-  "download_time": "2026-05-20T06:05:03.759459",
+  "download_filename": "pinghue-1.0.2.tar.gz",
+  "download_time": "2026-05-25T05:05:36.980515",
   "package_url": "https://pypi.org/project/pinghue/"
 }

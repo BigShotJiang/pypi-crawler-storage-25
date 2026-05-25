@@ -1,0 +1,11 @@
+{
+  "name": "clawtell-telegram",
+  "version": "2026.5.26",
+  "summary": "Telegram auto-binder for ClawTell: capture chat id from first inbound update and persist channel directory",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clawtell_telegram-2026.5.26.tar.gz",
+  "download_time": "2026-05-25T05:05:41.123225",
+  "package_url": "https://pypi.org/project/clawtell-telegram/"
+}
