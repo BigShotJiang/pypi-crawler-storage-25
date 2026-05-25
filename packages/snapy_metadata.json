@@ -1,11 +1,11 @@
 {
   "name": "snapy",
-  "version": "2.3.1",
+  "version": "2.4.5",
   "summary": "Compressible Finite Volume Solver for Atmospheric Dynamics, Chemistry and Thermodynamics",
   "author": null,
   "license": "LICENSE",
   "home_page": null,
-  "download_filename": "snapy-2.3.1-cp310-cp310-macosx_15_0_arm64.whl",
-  "download_time": "2026-05-12T20:27:30.919541",
+  "download_filename": "snapy-2.4.5-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2026-05-25T00:16:50.323685",
   "package_url": "https://pypi.org/project/snapy/"
 }

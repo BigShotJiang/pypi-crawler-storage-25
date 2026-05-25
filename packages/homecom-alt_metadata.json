@@ -1,11 +1,11 @@
 {
   "name": "homecom-alt",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "summary": "Python wrapper for controlling devices managed by HomeCom Easy APP.",
   "author": "serbanb11",
   "license": "MIT",
   "home_page": "https://github.com/serbanb11/homecom-alt",
-  "download_filename": "homecom_alt-1.6.1.tar.gz",
-  "download_time": "2026-05-17T12:17:41.198393",
+  "download_filename": "homecom_alt-1.6.2.tar.gz",
+  "download_time": "2026-05-25T00:17:09.057049",
   "package_url": "https://pypi.org/project/homecom-alt/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "hotdata-dlt-destination",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "dlt destination for loading data into Hotdata managed databases.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hotdata_dlt_destination-0.3.1.tar.gz",
-  "download_time": "2026-05-24T20:04:25.670229",
+  "download_filename": "hotdata_dlt_destination-0.3.3.tar.gz",
+  "download_time": "2026-05-25T00:16:53.979651",
   "package_url": "https://pypi.org/project/hotdata-dlt-destination/"
 }

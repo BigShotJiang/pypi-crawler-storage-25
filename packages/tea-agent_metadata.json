@@ -1,11 +1,11 @@
 {
   "name": "tea-agent",
-  "version": "0.7.21",
-  "summary": "A self-evolving AI agent with dynamic toolkit management. Optional: OCR/TTS/ASR.",
+  "version": "0.9.5",
+  "summary": "A self-evolving AI agent with dynamic toolkit management. Modular skill system with 47 tools.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tea_agent-0.7.21.tar.gz",
-  "download_time": "2026-05-13T23:16:50.667835",
+  "download_filename": "tea_agent-0.9.5.tar.gz",
+  "download_time": "2026-05-25T00:16:51.350095",
   "package_url": "https://pypi.org/project/tea-agent/"
 }

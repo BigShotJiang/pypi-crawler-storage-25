@@ -1,0 +1,11 @@
+{
+  "name": "cfn-handler",
+  "version": "1.3.0",
+  "summary": "Modern CloudFormation Custom Resource lifecycle handler for AWS Lambda",
+  "author": "Igor Londero Gentil",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cfn_handler-1.3.0.tar.gz",
+  "download_time": "2026-05-25T00:16:26.352707",
+  "package_url": "https://pypi.org/project/cfn-handler/"
+}

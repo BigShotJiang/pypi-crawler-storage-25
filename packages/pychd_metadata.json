@@ -1,0 +1,11 @@
+{
+  "name": "pychd",
+  "version": "1.1.0",
+  "summary": "Hybrid rule-based + LLM Python bytecode decompiler — native pass for 3.14 (99.8% signature recovery), cross-version pass for 3.0–3.13 via xdis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pychd-1.1.0.tar.gz",
+  "download_time": "2026-05-25T00:17:03.382950",
+  "package_url": "https://pypi.org/project/pychd/"
+}

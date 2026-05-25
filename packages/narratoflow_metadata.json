@@ -1,11 +1,11 @@
 {
   "name": "narratoflow",
-  "version": "0.1.1",
+  "version": "0.3.0",
   "summary": "Compress huge LLM context into dense intermediate representations. Provider-agnostic. Norwegian first-class.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "narratoflow-0.1.1.tar.gz",
-  "download_time": "2026-05-24T23:10:38.868017",
+  "download_filename": "narratoflow-0.3.0.tar.gz",
+  "download_time": "2026-05-25T00:16:35.171903",
   "package_url": "https://pypi.org/project/narratoflow/"
 }

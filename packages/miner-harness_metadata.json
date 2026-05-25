@@ -1,11 +1,11 @@
 {
   "name": "miner-harness",
-  "version": "0.4.0",
+  "version": "1.1.0",
   "summary": "Sistema de prospeccao mineral inteligente com agentes de IA e LLMs locais",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "miner_harness-0.4.0.tar.gz",
-  "download_time": "2026-05-19T21:13:15.023305",
+  "download_filename": "miner_harness-1.1.0.tar.gz",
+  "download_time": "2026-05-25T00:16:50.836324",
   "package_url": "https://pypi.org/project/miner-harness/"
 }

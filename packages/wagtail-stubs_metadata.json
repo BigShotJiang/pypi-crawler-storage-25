@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-stubs",
+  "version": "7.4.2",
+  "summary": "PEP 561 type stubs for wagtail",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "wagtail_stubs-7.4.2.tar.gz",
+  "download_time": "2026-05-25T00:16:38.341364",
+  "package_url": "https://pypi.org/project/wagtail-stubs/"
+}

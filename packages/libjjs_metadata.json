@@ -1,11 +1,11 @@
 {
   "name": "libjjs",
-  "version": "0.9.0",
+  "version": "1.0.4",
   "summary": "A Python library for creating Jujutsu Shenanigans movesets.",
   "author": "FormunaGit",
   "license": null,
   "home_page": null,
-  "download_filename": "libjjs-0.9.0.tar.gz",
-  "download_time": "2026-05-24T00:21:00.275782",
+  "download_filename": "libjjs-1.0.4.tar.gz",
+  "download_time": "2026-05-25T00:16:57.605476",
   "package_url": "https://pypi.org/project/libjjs/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "observational-memory",
-  "version": "0.5.6",
-  "summary": "Cross-agent observational memory and local search for Claude Code, Codex CLI, Cowork, and Hermes Agent",
+  "version": "0.6.6",
+  "summary": "Cross-agent observational memory and local search for Claude Code, Codex CLI, Grok Build TUI, Cowork, and Hermes Agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "observational_memory-0.5.6.tar.gz",
-  "download_time": "2026-05-07T23:46:19.437690",
+  "download_filename": "observational_memory-0.6.6.tar.gz",
+  "download_time": "2026-05-25T00:16:37.829063",
   "package_url": "https://pypi.org/project/observational-memory/"
 }

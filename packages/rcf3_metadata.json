@@ -1,0 +1,11 @@
+{
+  "name": "rcf3",
+  "version": "0.4.0",
+  "summary": "A Rust implementation of the Random Cut Forest algorithm for anomaly detection.",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "rcf3-0.4.0.tar.gz",
+  "download_time": "2026-05-25T00:16:46.587162",
+  "package_url": "https://pypi.org/project/rcf3/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deploypyfiles",
+  "version": "0.0.6",
+  "summary": "Copy Python scripts from working directory to specified locations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deploypyfiles-0.0.6.tar.gz",
+  "download_time": "2026-05-25T00:16:33.116392",
+  "package_url": "https://pypi.org/project/deploypyfiles/"
+}

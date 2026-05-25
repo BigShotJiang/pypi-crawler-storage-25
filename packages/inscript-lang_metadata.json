@@ -1,11 +1,11 @@
 {
   "name": "inscript-lang",
-  "version": "2.1.0",
+  "version": "2.5.0",
   "summary": "InScript — a game-focused scripting language with 59 game modules and a bytecode VM",
   "author": "Shreyasi Sarkar",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "inscript_lang-2.1.0.tar.gz",
-  "download_time": "2026-05-14T14:23:30.700810",
+  "download_filename": "inscript_lang-2.5.0.tar.gz",
+  "download_time": "2026-05-25T00:16:26.866867",
   "package_url": "https://pypi.org/project/inscript-lang/"
 }

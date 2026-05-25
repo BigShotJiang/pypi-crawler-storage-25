@@ -1,0 +1,11 @@
+{
+  "name": "cascades-sdk",
+  "version": "0.3.1",
+  "summary": "Python SDK for Cascades: capture-mode @task/@flow DAG compiler and thin HTTP client for the control plane",
+  "author": "Noir Stack LLC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cascades_sdk-0.3.1.tar.gz",
+  "download_time": "2026-05-25T00:16:36.718430",
+  "package_url": "https://pypi.org/project/cascades-sdk/"
+}

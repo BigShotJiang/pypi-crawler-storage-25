@@ -1,11 +1,11 @@
 {
   "name": "dirsql",
-  "version": "0.3.3",
+  "version": "0.3.8",
   "summary": "Ephemeral SQL index over a local directory",
   "author": "Kevin Scott",
   "license": null,
   "home_page": null,
-  "download_filename": "dirsql-0.3.3.tar.gz",
-  "download_time": "2026-05-06T17:25:14.726573",
+  "download_filename": "dirsql-0.3.8.tar.gz",
+  "download_time": "2026-05-25T00:16:41.435566",
   "package_url": "https://pypi.org/project/dirsql/"
 }
