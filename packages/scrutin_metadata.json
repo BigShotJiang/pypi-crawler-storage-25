@@ -1,0 +1,11 @@
+{
+  "name": "scrutin",
+  "version": "0.1.4",
+  "summary": "Local pre-commit review briefs from your git diff — scrutinize changes, stage, and commit with confidence",
+  "author": "Scrutin contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scrutin-0.1.4.tar.gz",
+  "download_time": "2026-05-25T09:15:45.281530",
+  "package_url": "https://pypi.org/project/scrutin/"
+}

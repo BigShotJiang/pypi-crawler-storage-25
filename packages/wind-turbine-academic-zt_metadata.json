@@ -1,11 +1,11 @@
 {
   "name": "wind-turbine-academic-zt",
-  "version": "1.0.0",
-  "summary": "Rigorous photogrammetric pipeline for wind turbine 3D height estimation via satellite imagery.",
+  "version": "1.1.1",
+  "summary": "Streamlined academic tool for wind turbine height estimation using 2D ground shadow models and ephemeris.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wind_turbine_academic_zt-1.0.0.tar.gz",
-  "download_time": "2026-05-18T10:33:55.799712",
+  "download_filename": "wind_turbine_academic_zt-1.1.1.tar.gz",
+  "download_time": "2026-05-25T09:15:38.718811",
   "package_url": "https://pypi.org/project/wind-turbine-academic-zt/"
 }

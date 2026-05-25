@@ -1,0 +1,11 @@
+{
+  "name": "vswmc-cli",
+  "version": "2.2.0",
+  "summary": "VSWMC Command-Line Tools",
+  "author": "Rays of Space",
+  "license": "LGPL",
+  "home_page": "https://spaceweather.hpc.kuleuven.be",
+  "download_filename": "vswmc_cli-2.2.0.tar.gz",
+  "download_time": "2026-05-25T09:15:29.372416",
+  "package_url": "https://pypi.org/project/vswmc-cli/"
+}

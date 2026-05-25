@@ -1,0 +1,11 @@
+{
+  "name": "mh-orchestration-service",
+  "version": "0.1.0",
+  "summary": "Orchestration Gateway — loads scenarios, routes agents, streams events. Built on top of minimal-harness.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mh_orchestration_service-0.1.0.tar.gz",
+  "download_time": "2026-05-25T09:16:01.381108",
+  "package_url": "https://pypi.org/project/mh-orchestration-service/"
+}

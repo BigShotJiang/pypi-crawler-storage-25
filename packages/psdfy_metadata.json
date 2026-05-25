@@ -1,11 +1,11 @@
 {
   "name": "psdfy",
-  "version": "0.1.6",
+  "version": "0.1.14",
   "summary": "PSD layer converter and processor",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "psdfy-0.1.6.tar.gz",
-  "download_time": "2026-05-25T05:05:21.527986",
+  "download_filename": "psdfy-0.1.14.tar.gz",
+  "download_time": "2026-05-25T09:15:24.041039",
   "package_url": "https://pypi.org/project/psdfy/"
 }

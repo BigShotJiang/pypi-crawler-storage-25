@@ -1,0 +1,11 @@
+{
+  "name": "splitsmith",
+  "version": "0.3.0",
+  "summary": "Extract IPSC shot splits from head-mounted camera footage",
+  "author": "Mathias Axell",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "splitsmith-0.3.0.tar.gz",
+  "download_time": "2026-05-25T09:16:02.407625",
+  "package_url": "https://pypi.org/project/splitsmith/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "merradownload",
+  "version": "1.0.0",
+  "summary": "Download and process MERRA-2 meteorological data from NASA GES DISC",
+  "author": "Jan Urbansky",
+  "license": null,
+  "home_page": null,
+  "download_filename": "merradownload-1.0.0.tar.gz",
+  "download_time": "2026-05-25T09:15:53.889933",
+  "package_url": "https://pypi.org/project/merradownload/"
+}

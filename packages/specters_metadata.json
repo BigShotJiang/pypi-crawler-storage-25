@@ -1,11 +1,11 @@
 {
   "name": "specters",
-  "version": "4.0.0",
+  "version": "4.1.5",
   "summary": "Python bindings for Specter, a Chrome-accurate HTTP client with TLS, HTTP/1.1, HTTP/2, HTTP/3, and WebSocket fingerprinting. Improved TTFT/TPS over reqwest for LLM providers.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "specters-4.0.0.tar.gz",
-  "download_time": "2026-05-24T22:10:46.031907",
+  "download_filename": "specters-4.1.5.tar.gz",
+  "download_time": "2026-05-25T09:16:02.921148",
   "package_url": "https://pypi.org/project/specters/"
 }

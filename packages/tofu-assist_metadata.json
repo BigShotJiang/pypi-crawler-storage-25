@@ -1,11 +1,11 @@
 {
   "name": "tofu-assist",
-  "version": "0.2.11",
+  "version": "0.2.15",
   "summary": "Natural language → validated, secured, cost-estimated OpenTofu config",
   "author": "tofu-assist",
   "license": null,
   "home_page": null,
-  "download_filename": "tofu_assist-0.2.11.tar.gz",
-  "download_time": "2026-05-24T22:10:24.293444",
+  "download_filename": "tofu_assist-0.2.15.tar.gz",
+  "download_time": "2026-05-25T09:15:33.694973",
   "package_url": "https://pypi.org/project/tofu-assist/"
 }

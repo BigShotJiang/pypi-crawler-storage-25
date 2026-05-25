@@ -1,0 +1,11 @@
+{
+  "name": "rustystats",
+  "version": "0.8.0",
+  "summary": "Fast Generalized Linear Models with a Rust backend - statsmodels compatible",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rustystats-0.8.0.tar.gz",
+  "download_time": "2026-05-25T09:15:48.984844",
+  "package_url": "https://pypi.org/project/rustystats/"
+}

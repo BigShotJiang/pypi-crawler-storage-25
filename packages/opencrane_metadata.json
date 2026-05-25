@@ -1,11 +1,11 @@
 {
   "name": "opencrane",
-  "version": "0.17.2",
+  "version": "0.18.3",
   "summary": "A standalone, extensible RAG/MCP library for building AI-powered documentation search.",
   "author": "derberg",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opencrane-0.17.2.tar.gz",
-  "download_time": "2026-05-14T12:03:26.287298",
+  "download_filename": "opencrane-0.18.3.tar.gz",
+  "download_time": "2026-05-25T09:16:09.658990",
   "package_url": "https://pypi.org/project/opencrane/"
 }

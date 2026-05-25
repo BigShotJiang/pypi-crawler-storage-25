@@ -1,0 +1,11 @@
+{
+  "name": "anchor-kb",
+  "version": "0.2.0",
+  "summary": "Anchor — agent-first knowledge canvas with PDF ingest, FMU simulation, and source-grounded provenance",
+  "author": "Christoffer Björkskog, Lamin Jatta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "anchor_kb-0.2.0.tar.gz",
+  "download_time": "2026-05-25T09:15:42.149905",
+  "package_url": "https://pypi.org/project/anchor-kb/"
+}

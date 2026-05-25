@@ -1,0 +1,11 @@
+{
+  "name": "proximitygraphs",
+  "version": "0.1.0a1",
+  "summary": "Python tools for constructing, comparing, and experimenting with proximity graphs on planar point sets.",
+  "author": "Hector Maravillo, Diego Villarreal, Heriberto Espino Montelongo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "proximitygraphs-0.1.0a1.tar.gz",
+  "download_time": "2026-05-25T09:15:34.859948",
+  "package_url": "https://pypi.org/project/proximitygraphs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "greatminds",
-  "version": "1.2.1",
+  "version": "1.2.6",
   "summary": "File-based multi-agent coordination protocol — per-role queues, layered plugin set for Claude Code, profile-v2 for OpenAI Codex",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "greatminds-1.2.1.tar.gz",
-  "download_time": "2026-05-24T14:07:34.049423",
+  "download_filename": "greatminds-1.2.6.tar.gz",
+  "download_time": "2026-05-25T09:15:40.526512",
   "package_url": "https://pypi.org/project/greatminds/"
 }

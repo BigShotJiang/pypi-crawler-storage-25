@@ -1,11 +1,11 @@
 {
   "name": "growsurf-python",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "The official Python library for the growsurf API",
   "author": "Growsurf",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "growsurf_python-0.4.0.tar.gz",
-  "download_time": "2026-05-20T09:43:34.570615",
+  "download_filename": "growsurf_python-0.5.0.tar.gz",
+  "download_time": "2026-05-25T09:15:28.352395",
   "package_url": "https://pypi.org/project/growsurf-python/"
 }

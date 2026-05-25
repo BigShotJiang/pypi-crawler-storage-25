@@ -1,0 +1,11 @@
+{
+  "name": "auto-analyser",
+  "version": "0.4.0",
+  "summary": "Auto-analyser — detect a file's format and route it to the right analyser family member",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "auto_analyser-0.4.0.tar.gz",
+  "download_time": "2026-05-25T09:15:38.145456",
+  "package_url": "https://pypi.org/project/auto-analyser/"
+}

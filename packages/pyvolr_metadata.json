@@ -1,0 +1,11 @@
+{
+  "name": "pyvolr",
+  "version": "0.1.1",
+  "summary": "Modern Black-Scholes-Merton pricing, Greeks, and implied volatility for Python. Rust core. Drop-in py_vollib replacement.",
+  "author": "pyvolr contributors",
+  "license": null,
+  "home_page": "https://github.com/yipjunkai/pyvolr",
+  "download_filename": "pyvolr-0.1.1.tar.gz",
+  "download_time": "2026-05-25T09:16:10.742522",
+  "package_url": "https://pypi.org/project/pyvolr/"
+}
